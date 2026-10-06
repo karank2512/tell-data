@@ -42,6 +42,7 @@ under `docs/api/`; the layout, retention and size budget under
 
 ## Pages
 
-GitHub Pages serves `site/` (branch `main`, folder `/site`). Account pages exist for
-companies with at least one signal in the last 180 days; the rest are pruned to stay
-inside the Pages size budget.
+GitHub Pages is deployed from `.github/workflows/pages.yml` (source: **GitHub Actions**),
+which uploads `site/` on every push to `main` that touches it; Pages cannot serve a `/site`
+folder directly. Account pages exist for companies with at least one signal in the last
+180 days; the rest are pruned to stay inside the Pages size budget.
