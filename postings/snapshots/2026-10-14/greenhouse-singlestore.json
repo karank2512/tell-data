@@ -1,0 +1,361 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "singlestore",
+ "domain": "singlestore.com",
+ "as_of": "2026-10-14",
+ "last_polled_at": "2026-10-14T08:52:00.949568+00:00",
+ "open_postings": [
+  {
+   "external_id": "609602",
+   "title": "Don't see a fit? Fill out a general application!",
+   "role_family": "other",
+   "location": "Global",
+   "posted_at": null,
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/609602"
+  },
+  {
+   "external_id": "7525255",
+   "title": "Enterprise Account Executive (Paris. France)",
+   "role_family": "sales",
+   "location": "Paris, France",
+   "posted_at": "2026-01-16T15:34:21+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7525255"
+  },
+  {
+   "external_id": "7573638",
+   "title": "Software Engineer | AI Platforms",
+   "role_family": "engineering",
+   "location": "India",
+   "posted_at": "2026-01-29T08:38:44+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7573638"
+  },
+  {
+   "external_id": "7733060",
+   "title": "Partner Operations Manager",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-03-18T18:38:31+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7733060"
+  },
+  {
+   "external_id": "7793655",
+   "title": "Forward Deployment Engineer",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-04-08T23:19:07+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7793655"
+  },
+  {
+   "external_id": "7793656",
+   "title": "Forward Deployment Engineer, New York, Tri State Area",
+   "role_family": "sales",
+   "location": "New York United States",
+   "posted_at": "2026-04-08T23:23:28+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7793656"
+  },
+  {
+   "external_id": "7811878",
+   "title": "Sales Talent Community",
+   "role_family": "finance_ops",
+   "location": "United States & EMEA",
+   "posted_at": "2026-04-13T16:21:34+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7811878"
+  },
+  {
+   "external_id": "7839324",
+   "title": "Engineering Talent Community",
+   "role_family": "finance_ops",
+   "location": "United States & EMEA",
+   "posted_at": "2026-04-21T21:42:07+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7839324"
+  },
+  {
+   "external_id": "7866479",
+   "title": "Sr./Principal Software Engineer",
+   "role_family": "engineering",
+   "location": "United States, Portugal, India",
+   "posted_at": "2026-04-29T13:59:11+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7866479"
+  },
+  {
+   "external_id": "7867732",
+   "title": "Sr./Principal Software Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco OR Seattle | USA",
+   "posted_at": "2026-04-29T18:11:47+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7867732"
+  },
+  {
+   "external_id": "7867759",
+   "title": "Sr./Principal Software Engineer",
+   "role_family": "engineering",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-04-29T18:17:49+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7867759"
+  },
+  {
+   "external_id": "7867768",
+   "title": "Sr./Principal Software Engineer",
+   "role_family": "engineering",
+   "location": "India",
+   "posted_at": "2026-04-29T18:23:50+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7867768"
+  },
+  {
+   "external_id": "7868658",
+   "title": "Sr. Software Engineer",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-05-14T16:38:17+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7868658"
+  },
+  {
+   "external_id": "7868684",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-04-29T22:26:27+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7868684"
+  },
+  {
+   "external_id": "7872738",
+   "title": "Strategic Account Executive - NY/Boston",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-10-07T13:41:10+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7872738"
+  },
+  {
+   "external_id": "7983245",
+   "title": "Enterprise Account Executive - Chicago, USA",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-06-11T17:50:23+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7983245"
+  },
+  {
+   "external_id": "8000966",
+   "title": "Software Engineer | Database Engine",
+   "role_family": "engineering",
+   "location": "India",
+   "posted_at": "2026-06-11T15:52:48+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8000966"
+  },
+  {
+   "external_id": "8035837",
+   "title": "Strategic Account Executive",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-10-07T13:33:41+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8035837"
+  },
+  {
+   "external_id": "8052299",
+   "title": "Senior AI & Automation Manager",
+   "role_family": "other",
+   "location": "Bangalore",
+   "posted_at": "2026-07-08T20:29:06+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8052299"
+  },
+  {
+   "external_id": "8099166",
+   "title": "Business Development Representative",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-09-30T21:01:34+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8099166"
+  },
+  {
+   "external_id": "8154399",
+   "title": "Software Engineer Intern- Engine-2027",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-14T18:21:07+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
+  },
+  {
+   "external_id": "8157670",
+   "title": "Sr. Software Engineer",
+   "role_family": "engineering",
+   "location": "Portugal",
+   "posted_at": "2026-08-25T20:33:46+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8157670"
+  },
+  {
+   "external_id": "8162336",
+   "title": "SVP, Americas Sales",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-09-08T13:02:46+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8162336"
+  },
+  {
+   "external_id": "8185122",
+   "title": "Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "Portugal",
+   "posted_at": "2026-09-09T12:07:02+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8185122"
+  },
+  {
+   "external_id": "8202195",
+   "title": "Enterprise Account Executive - Seattle, USA",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-09-15T15:30:19+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8202195"
+  },
+  {
+   "external_id": "8202196",
+   "title": "Enterprise Account Executive - California, USA",
+   "role_family": "sales",
+   "location": "California, USA",
+   "posted_at": "2026-09-15T15:25:23+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8202196"
+  },
+  {
+   "external_id": "8202197",
+   "title": "Enterprise Account Executive - Boston, USA",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-09-15T17:55:01+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8202197"
+  },
+  {
+   "external_id": "8202243",
+   "title": "Enterprise Account Executive - NY, USA",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-09-15T15:55:12+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8202243"
+  },
+  {
+   "external_id": "8202295",
+   "title": "Regional Vice President",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-09-15T21:07:44+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8202295"
+  },
+  {
+   "external_id": "8205389",
+   "title": "Software Engineer-Helios-New Grad 2027",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-15T21:37:06+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205389"
+  },
+  {
+   "external_id": "8205427",
+   "title": "Software Engineer-Engine-New Grad 2027",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-15T21:39:29+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205427"
+  },
+  {
+   "external_id": "8205514",
+   "title": "Software Engineer Intern- Helios- 2027",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-15T21:49:19+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514"
+  },
+  {
+   "external_id": "8212128",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "India",
+   "posted_at": "2026-09-17T20:42:16+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212128"
+  },
+  {
+   "external_id": "8212152",
+   "title": "Cloud Platform Engineer",
+   "role_family": "engineering",
+   "location": "India",
+   "posted_at": "2026-09-17T20:49:05+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8212152"
+  },
+  {
+   "external_id": "8220863",
+   "title": "MIT-Software Engineer-New Grad |Engine|",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-21T17:36:07+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863"
+  },
+  {
+   "external_id": "8220882",
+   "title": "MIT-Software Engineer-New Grad |Helios|",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-21T17:42:05+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220882"
+  },
+  {
+   "external_id": "8220919",
+   "title": "MIT- Software Engineer Intern | Engine",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-21T17:19:23+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220919"
+  },
+  {
+   "external_id": "8220941",
+   "title": "MIT- Software Engineer Intern | Helios",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-21T17:13:38+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220941"
+  },
+  {
+   "external_id": "8230462",
+   "title": "Support Engineer",
+   "role_family": "customer",
+   "location": "United States",
+   "posted_at": "2026-09-24T19:21:34+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8230462"
+  },
+  {
+   "external_id": "8230569",
+   "title": "Staff Software Engineer",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-08T19:11:03+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8230569"
+  },
+  {
+   "external_id": "8237241",
+   "title": "Principal Solutions Engineer",
+   "role_family": "sales",
+   "location": "India",
+   "posted_at": "2026-10-06T15:54:50+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8237241"
+  },
+  {
+   "external_id": "8244393",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "United Kingdom",
+   "posted_at": "2026-09-30T20:54:36+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8244393"
+  },
+  {
+   "external_id": "8244450",
+   "title": "Business Development Representative",
+   "role_family": "sales",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-05T20:47:12+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8244450"
+  },
+  {
+   "external_id": "8256205",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "United kingdom",
+   "posted_at": "2026-10-05T14:33:09+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8256205"
+  }
+ ]
+}

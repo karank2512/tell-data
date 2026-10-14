@@ -1,0 +1,32 @@
+{
+  "domain": "helloaxel.com",
+  "name": "Axel Travel",
+  "as_of": "2026-10-14",
+  "profile": "default",
+  "score": 1.2,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-31",
+      "summary": "Introducing Axel Membership",
+      "url": "https://helloaxel.com/en/blog/axel-membership"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.5,
+      "occurred_at": "2026-08-03",
+      "summary": "Introducing Axel Updates",
+      "url": "https://helloaxel.com/en/blog/introducing-axel-updates"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/43d0f1b056daa84657c2e38291f74c9126c86cc8",
+  "why_not_higher": []
+}

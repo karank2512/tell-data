@@ -1,0 +1,32 @@
+{
+  "domain": "sift.com",
+  "name": "Sift",
+  "as_of": "2026-10-14",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-12",
+      "summary": "Sift Launches Org Planning to Help HR Leaders Navigate AI Workforce Disruption, Restructuring, and Skills-Based Organization Design - HRTech Series",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM3NqTXQwZzVhY3NGMlMxZDdaOVQ4TlBuVFhaXzhCVEUwMjVtRXlYS3Q4VWdXaTMtZWVtUVFZMUFIUWVxNUliNkhBMVF6a2N0MXNPdjUwLXJxYUhQVjhzblNLTHZqSEpzUERiSDBvQ2ZMMERtSnk2bUtWZF9LcEgyT01uTVEwN1JxTXNmNU85SDU3dGl4eXVhXzZRNTFDeUdLdWhlcm9pcWVSeG9obGNTU2J4RnJJVjN4VUlxWlVrOG9xeUxvN0NvOUZLSFpzbzZaRjJob0JJSHJPSDlrMWdrckhVZ1NndV9fYVZRem0xUGt0UnFPZ1RzbG1UcnZyMWxyNFBQNXZPRV9TQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-06",
+      "summary": "Your Fraud Team’s New First Responder: Introducing the Sift Fraud Attack Defense Suite",
+      "url": "https://sift.com/blog/introducing-the-sift-fraud-attack-defense-suite/"
+    }
+  ],
+  "open_postings": 7,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:sift",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/43d0f1b056daa84657c2e38291f74c9126c86cc8",
+  "why_not_higher": []
+}
