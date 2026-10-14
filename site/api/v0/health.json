@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-10-14T04:10:46.714872+00:00",
+  "stale_sources": [
+    "edgar",
+    "news"
+  ],
+  "freshness_p95_h": null,
+  "sources": [
+    {
+      "source": "ashby",
+      "kind": "collector",
+      "last_ok_at": "2026-10-14T04:09:05.070642+00:00",
+      "success_rate_7d": 1.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": false,
+      "status": "ok"
+    },
+    {
+      "source": "edgar",
+      "kind": "collector",
+      "last_ok_at": null,
+      "success_rate_7d": 0.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": true,
+      "status": "stale"
+    },
+    {
+      "source": "github",
+      "kind": "collector",
+      "last_ok_at": null,
+      "success_rate_7d": null,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": false,
+      "status": "never_run"
+    },
+    {
+      "source": "greenhouse",
+      "kind": "collector",
+      "last_ok_at": "2026-10-14T04:09:02.918765+00:00",
+      "success_rate_7d": 1.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": false,
+      "status": "ok"
+    },
+    {
+      "source": "lever",
+      "kind": "collector",
+      "last_ok_at": "2026-10-14T04:08:59.722153+00:00",
+      "success_rate_7d": 1.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": false,
+      "status": "ok"
+    },
+    {
+      "source": "news",
+      "kind": "collector",
+      "last_ok_at": null,
+      "success_rate_7d": 0.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": true,
+      "status": "stale"
+    },
+    {
+      "source": "smartrecruiters",
+      "kind": "collector",
+      "last_ok_at": "2026-10-14T04:09:00.759502+00:00",
+      "success_rate_7d": 1.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": false,
+      "status": "ok"
+    },
+    {
+      "source": "resolve",
+      "kind": "job",
+      "last_ok_at": "2026-10-14T04:10:43.624315+00:00",
+      "success_rate_7d": 1.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": false,
+      "status": "ok"
+    },
+    {
+      "source": "score",
+      "kind": "job",
+      "last_ok_at": "2026-10-14T04:10:45.211268+00:00",
+      "success_rate_7d": 1.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": false,
+      "status": "ok"
+    },
+    {
+      "source": "publish",
+      "kind": "job",
+      "last_ok_at": "2026-10-14T04:10:46.700444+00:00",
+      "success_rate_7d": 1.0,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
+      "freshness_p95_h": null,
+      "stale": false,
+      "status": "ok"
+    }
+  ],
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/27b1f5b6679c3463cc85dca18fdf9c207439d948"
+}

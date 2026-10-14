@@ -1,0 +1,15 @@
+{
+  "week": "2026-W41",
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "top_hiring": [],
+  "top_funding": [],
+  "method_change": "Scoring rule: funding magnitude is log10(total_offering_amount) capped at 8, or 6 when the amount is undisclosed or zero (spec section 8); form_d_filed events flagged is_amendment never produce a signal.",
+  "coverage": {
+    "companies_monitored": 0,
+    "boards_polled": 0,
+    "filings_read": 0
+  },
+  "repo_url": "https://github.com/karank2512/tell-ai",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/27b1f5b6679c3463cc85dca18fdf9c207439d948"
+}
