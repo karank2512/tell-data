@@ -1,0 +1,641 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "clutch",
+ "domain": "clutch.io",
+ "as_of": "2026-10-14",
+ "last_polled_at": "2026-10-14T04:36:04.800332+00:00",
+ "open_postings": [
+  {
+   "external_id": "5745255004",
+   "title": "Licensing Administrator",
+   "role_family": "gtm_ops",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-16T17:56:14+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5745255004"
+  },
+  {
+   "external_id": "5755101004",
+   "title": "Vehicle Detailer",
+   "role_family": "other",
+   "location": "Bayers Lake, Nova Scotia, Canada",
+   "posted_at": "2026-01-09T16:22:52+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5755101004"
+  },
+  {
+   "external_id": "5755331004",
+   "title": "Vehicle Quality Control Associate",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-01-09T19:05:38+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5755331004"
+  },
+  {
+   "external_id": "5792372004",
+   "title": "Strategy & Operations, Senior Manager",
+   "role_family": "other",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-02-04T19:59:15+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5792372004"
+  },
+  {
+   "external_id": "5792377004",
+   "title": "Strategy & Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-02-04T20:00:28+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5792377004"
+  },
+  {
+   "external_id": "5803896004",
+   "title": "Vehicle Shuttler",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-02-13T17:14:18+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5803896004"
+  },
+  {
+   "external_id": "5834468004",
+   "title": "Production Associate",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-03-23T14:45:15+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5834468004"
+  },
+  {
+   "external_id": "5870713004",
+   "title": "Auto Body Estimator (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-04-08T18:24:13+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5870713004"
+  },
+  {
+   "external_id": "5871422004",
+   "title": "Production Associate (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-04-08T18:57:06+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5871422004"
+  },
+  {
+   "external_id": "5871627004",
+   "title": "Shuttler (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-04-08T19:10:32+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5871627004"
+  },
+  {
+   "external_id": "5887749004",
+   "title": "Vehicle Inventory Uploader (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-04-09T13:28:12+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5887749004"
+  },
+  {
+   "external_id": "5981353004",
+   "title": "Vehicle Inventory Uploader",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-04-24T14:47:50+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5981353004"
+  },
+  {
+   "external_id": "5987705004",
+   "title": "Senior Manager, Health & Safety",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-05-04T17:25:45+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5987705004"
+  },
+  {
+   "external_id": "5993607004",
+   "title": "Apprentice Automotive Service Technician",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-09-09T16:35:50+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/5993607004"
+  },
+  {
+   "external_id": "6011495004",
+   "title": "Vehicle Inspector (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-01T17:58:45+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6011495004"
+  },
+  {
+   "external_id": "6030627004",
+   "title": "Auto Body Estimator",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-06-15T15:17:07+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6030627004"
+  },
+  {
+   "external_id": "6114627004",
+   "title": "Lot Attendant (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-07-13T15:19:02+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6114627004"
+  },
+  {
+   "external_id": "6115798004",
+   "title": "Licensed Automotive Technician",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-07-14T19:19:35+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6115798004"
+  },
+  {
+   "external_id": "6122697004",
+   "title": "Strategy & Operations Manager (Revenue)",
+   "role_family": "sales",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-07-22T17:57:06+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6122697004"
+  },
+  {
+   "external_id": "6123251004",
+   "title": "Vehicle Quality-Control Associate (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-07-23T13:21:59+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6123251004"
+  },
+  {
+   "external_id": "6128848004",
+   "title": "Dealership Success Manager",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-07-28T16:42:08+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6128848004"
+  },
+  {
+   "external_id": "6134025004",
+   "title": "Last Mile Associate",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-08-04T13:09:54+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6134025004"
+  },
+  {
+   "external_id": "6134129004",
+   "title": "Line Lead, Lot Operations",
+   "role_family": "other",
+   "location": "Mississauga",
+   "posted_at": "2026-08-04T14:45:08+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6134129004"
+  },
+  {
+   "external_id": "6148137004",
+   "title": "Car Hauler Driver",
+   "role_family": "gtm_ops",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-08-20T12:33:24+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6148137004"
+  },
+  {
+   "external_id": "6149028004",
+   "title": "Condition Report Writer",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-08-20T20:35:18+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6149028004"
+  },
+  {
+   "external_id": "6151531004",
+   "title": "Vehicle Capture Representative",
+   "role_family": "other",
+   "location": "New Westminster, British Columbia",
+   "posted_at": "2026-08-24T18:14:45+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6151531004"
+  },
+  {
+   "external_id": "6151570004",
+   "title": "Vehicle Capture Representative",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-08-24T16:14:48+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6151570004"
+  },
+  {
+   "external_id": "6173900004",
+   "title": "Vehicle Shuttler (6-Month Fixed-Term)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-08-28T18:25:10+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6173900004"
+  },
+  {
+   "external_id": "6173901004",
+   "title": "Shuttler Driver (6-Month Fixed-Term)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-08-28T18:25:44+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6173901004"
+  },
+  {
+   "external_id": "6175632004",
+   "title": "Customer Experience & Vehicle Intake Coordinator",
+   "role_family": "gtm_ops",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-08-31T18:57:06+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6175632004"
+  },
+  {
+   "external_id": "6175634004",
+   "title": "Retail Advisor",
+   "role_family": "gtm_ops",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-08-31T18:58:21+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6175634004"
+  },
+  {
+   "external_id": "6178349004",
+   "title": "Parts Associate",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-01T18:36:03+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6178349004"
+  },
+  {
+   "external_id": "6180068004",
+   "title": "Chief of Staff",
+   "role_family": "finance_ops",
+   "location": "Toronto, Ontario",
+   "posted_at": "2026-09-02T20:42:12+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6180068004"
+  },
+  {
+   "external_id": "6180437004",
+   "title": "Retail Advisor - Part-Time",
+   "role_family": "gtm_ops",
+   "location": "Ottawa, Ontario, Canada",
+   "posted_at": "2026-09-03T13:33:19+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6180437004"
+  },
+  {
+   "external_id": "6184919004",
+   "title": "Automotive Apprentice Technician Level 2-3 (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-08T14:05:28+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6184919004"
+  },
+  {
+   "external_id": "6185639004",
+   "title": "Vehicle Inventory Uploader",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-08T18:47:16+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6185639004"
+  },
+  {
+   "external_id": "6188303004",
+   "title": "Customer Experience Coordinator",
+   "role_family": "gtm_ops",
+   "location": "Halifax, Nova Scotia, Canada",
+   "posted_at": "2026-09-10T16:26:06+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6188303004"
+  },
+  {
+   "external_id": "6188304004",
+   "title": "Retail Advisor",
+   "role_family": "gtm_ops",
+   "location": "Halifax, Nova Scotia, Canada",
+   "posted_at": "2026-09-10T16:26:33+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6188304004"
+  },
+  {
+   "external_id": "6189449004",
+   "title": "Paintless Dent Removal (PDR) Technician",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-11T12:46:27+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6189449004"
+  },
+  {
+   "external_id": "6189454004",
+   "title": "Paintless Dent Removal (PDR) Technician",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-09-11T12:55:21+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6189454004"
+  },
+  {
+   "external_id": "6190321004",
+   "title": "Strategy & Operations, Financial Services",
+   "role_family": "other",
+   "location": "Toronto",
+   "posted_at": "2026-09-11T17:08:27+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6190321004"
+  },
+  {
+   "external_id": "6195123004",
+   "title": "Car Detailer (Evening Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-16T16:45:39+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6195123004"
+  },
+  {
+   "external_id": "6195409004",
+   "title": "Vehicle Delivery Specialist",
+   "role_family": "gtm_ops",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-16T17:57:57+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6195409004"
+  },
+  {
+   "external_id": "6198730004",
+   "title": "Customer Experience & Vehicle Intake Coordinator",
+   "role_family": "gtm_ops",
+   "location": "Calgary, Alberta, Canada",
+   "posted_at": "2026-09-17T15:52:48+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6198730004"
+  },
+  {
+   "external_id": "6198733004",
+   "title": "Retail Vehicle Advisor",
+   "role_family": "gtm_ops",
+   "location": "Calgary, Alberta, Canada",
+   "posted_at": "2026-09-17T15:53:12+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6198733004"
+  },
+  {
+   "external_id": "6199399004",
+   "title": "Founding Staff Platform Engineer",
+   "role_family": "engineering",
+   "location": "Toronto, ON",
+   "posted_at": "2026-09-17T19:18:09+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6199399004"
+  },
+  {
+   "external_id": "6200437004",
+   "title": "Vehicle Shuttler",
+   "role_family": "other",
+   "location": "Bayers Lake, Nova Scotia, Canada",
+   "posted_at": "2026-09-18T14:42:21+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6200437004"
+  },
+  {
+   "external_id": "6200461004",
+   "title": "Field Specialist",
+   "role_family": "gtm_ops",
+   "location": "New Westminster, British Columbia, Canada",
+   "posted_at": "2026-09-18T15:16:11+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6200461004"
+  },
+  {
+   "external_id": "6200462004",
+   "title": "Vehicle Delivery Specialist",
+   "role_family": "gtm_ops",
+   "location": "New Westminster, British Columbia, Canada",
+   "posted_at": "2026-09-18T15:17:16+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6200462004"
+  },
+  {
+   "external_id": "6202796004",
+   "title": "Lot Attendant",
+   "role_family": "gtm_ops",
+   "location": "New Westminster, British Columbia, Canada",
+   "posted_at": "2026-09-21T15:27:37+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6202796004"
+  },
+  {
+   "external_id": "6203132004",
+   "title": "Automotive Inventory Photographer",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-21T17:16:44+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6203132004"
+  },
+  {
+   "external_id": "6203147004",
+   "title": "Customer Service Delivery Advocate",
+   "role_family": "gtm_ops",
+   "location": "New Westminster, British Columbia, Canada",
+   "posted_at": "2026-09-21T17:25:29+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6203147004"
+  },
+  {
+   "external_id": "6203151004",
+   "title": "Retail Advisor",
+   "role_family": "gtm_ops",
+   "location": "New Westminster, British Columbia, Canada",
+   "posted_at": "2026-09-21T17:25:56+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6203151004"
+  },
+  {
+   "external_id": "6204950004",
+   "title": "Automotive Service Coordinator",
+   "role_family": "other",
+   "location": "Halifax, Nova Scotia, Canada",
+   "posted_at": "2026-09-22T13:00:45+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6204950004"
+  },
+  {
+   "external_id": "6205554004",
+   "title": "Automotive Production Administrative Assistant",
+   "role_family": "other",
+   "location": "Enfield, Nova Scotia, Canada",
+   "posted_at": "2026-09-22T18:00:38+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6205554004"
+  },
+  {
+   "external_id": "6206323004",
+   "title": "Arrivals Vehicle Inspector",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-09-23T12:46:06+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6206323004"
+  },
+  {
+   "external_id": "6206325004",
+   "title": "Vehicle Inspector",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-09-23T12:46:41+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6206325004"
+  },
+  {
+   "external_id": "6206330004",
+   "title": "Apprentice Automotive Service Technician",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-23T12:53:39+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6206330004"
+  },
+  {
+   "external_id": "6206332004",
+   "title": "Licensed Automotive Technician – Vehicle Readiness Department (VQR)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-23T12:55:11+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6206332004"
+  },
+  {
+   "external_id": "6206510004",
+   "title": "Vehicle Detailer",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-09-23T15:26:59+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6206510004"
+  },
+  {
+   "external_id": "6211955004",
+   "title": "Vehicle Delivery Specialist",
+   "role_family": "gtm_ops",
+   "location": "Ottawa, Ontario, Canada",
+   "posted_at": "2026-09-30T15:03:32+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6211955004"
+  },
+  {
+   "external_id": "6212017004",
+   "title": "Senior Data Analyst",
+   "role_family": "data",
+   "location": "Toronto, ON",
+   "posted_at": "2026-09-30T16:02:38+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6212017004"
+  },
+  {
+   "external_id": "6212028004",
+   "title": "Senior Data Scientist, Financial Services",
+   "role_family": "ml_ai",
+   "location": "Toronto",
+   "posted_at": "2026-09-30T17:06:52+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6212028004"
+  },
+  {
+   "external_id": "6212120004",
+   "title": "Senior Data Engineer",
+   "role_family": "data",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-09-30T17:40:57+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6212120004"
+  },
+  {
+   "external_id": "6212133004",
+   "title": "Fleet Delivery Specialist",
+   "role_family": "gtm_ops",
+   "location": "Halifax, Nova Scotia, Canada",
+   "posted_at": "2026-09-30T17:56:07+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6212133004"
+  },
+  {
+   "external_id": "6212409004",
+   "title": "Vehicle Inspector",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-09-30T19:37:28+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6212409004"
+  },
+  {
+   "external_id": "6215715004",
+   "title": "Licensed Automotive Technician – Competitive Hourly Rate + $3,000 Signing Bonus",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-10-02T14:54:20+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6215715004"
+  },
+  {
+   "external_id": "6217221004",
+   "title": "Retail Advisor - Part Time",
+   "role_family": "gtm_ops",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-10-05T19:41:26+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6217221004"
+  },
+  {
+   "external_id": "6217276004",
+   "title": "Vehicle Inspector",
+   "role_family": "other",
+   "location": "Bayers Lake, Nova Scotia, Canada",
+   "posted_at": "2026-10-05T19:47:23+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6217276004"
+  },
+  {
+   "external_id": "6218116004",
+   "title": "Brand Manager",
+   "role_family": "marketing",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-10-06T13:54:45+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6218116004"
+  },
+  {
+   "external_id": "6218600004",
+   "title": "Building Maintenance Assistant (Night Shift)",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-10-06T19:42:36+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6218600004"
+  },
+  {
+   "external_id": "6218626004",
+   "title": "Building Maintenance Assistant",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-10-06T19:47:32+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6218626004"
+  },
+  {
+   "external_id": "6220737004",
+   "title": "Auto Body Estimator",
+   "role_family": "other",
+   "location": "Etobicoke, Ontario, Canada",
+   "posted_at": "2026-10-08T17:19:17+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6220737004"
+  },
+  {
+   "external_id": "6220739004",
+   "title": "Licensed Automotive Technician – Evening Shift (Hourly Pay)",
+   "role_family": "other",
+   "location": "Mississauga",
+   "posted_at": "2026-10-08T17:23:44+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6220739004"
+  },
+  {
+   "external_id": "6223318004",
+   "title": "Car Detailer",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-10-13T17:35:43+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6223318004"
+  },
+  {
+   "external_id": "6223332004",
+   "title": "Lead, Lot Attendant",
+   "role_family": "other",
+   "location": "Halifax, Nova Scotia, Canada",
+   "posted_at": "2026-10-13T17:44:20+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6223332004"
+  },
+  {
+   "external_id": "6223343004",
+   "title": "Automotive Apprentice Technician",
+   "role_family": "other",
+   "location": "Halifax, Nova Scotia, Canada",
+   "posted_at": "2026-10-13T17:46:07+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6223343004"
+  },
+  {
+   "external_id": "6223530004",
+   "title": "Delivery Associate",
+   "role_family": "other",
+   "location": "Mississauga, Ontario, Canada",
+   "posted_at": "2026-10-13T19:37:26+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6223530004"
+  },
+  {
+   "external_id": "6223536004",
+   "title": "Red Seal Licensed Automotive Technician (Hourly)",
+   "role_family": "other",
+   "location": "Halifax, Nova Scotia, Canada",
+   "posted_at": "2026-10-13T19:46:20+00:00",
+   "url": "https://job-boards.greenhouse.io/clutch/jobs/6223536004"
+  }
+ ]
+}

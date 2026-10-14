@@ -1,0 +1,817 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "gusto",
+ "domain": "gusto.com",
+ "as_of": "2026-10-14",
+ "last_polled_at": "2026-10-14T04:36:04.800332+00:00",
+ "open_postings": [
+  {
+   "external_id": "6625049",
+   "title": "Senior Staff Product Designer, Finance",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2025-08-04T23:55:29+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/6625049"
+  },
+  {
+   "external_id": "7254336",
+   "title": "Senior Product Design Manager, Payroll",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote",
+   "posted_at": "2026-01-07T19:40:37+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7254336"
+  },
+  {
+   "external_id": "7283301",
+   "title": "Senior Manager, Head of Sales Data Science & Analytics",
+   "role_family": "exec",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2025-09-30T19:03:09+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7283301"
+  },
+  {
+   "external_id": "7357545",
+   "title": "Senior Data Science Manager, Growth",
+   "role_family": "data",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-04-30T00:52:40+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7357545"
+  },
+  {
+   "external_id": "7369003",
+   "title": "Enterprise Application AI Engineer",
+   "role_family": "ml_ai",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2025-11-21T17:44:04+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003"
+  },
+  {
+   "external_id": "7379039",
+   "title": "Retirement Onboarding Coordinator",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2025-12-10T22:06:01+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7379039"
+  },
+  {
+   "external_id": "7654934",
+   "title": "Senior Staff Software Engineer, Money Group",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-03-23T20:00:16+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7654934"
+  },
+  {
+   "external_id": "7656216",
+   "title": "Data Scientist, Risk",
+   "role_family": "ml_ai",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-03-26T15:14:53+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7656216"
+  },
+  {
+   "external_id": "7673999",
+   "title": "Staff Software Engineer, AI Voice and Content",
+   "role_family": "marketing",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-06-18T21:48:31+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7673999"
+  },
+  {
+   "external_id": "7674093",
+   "title": "Senior Product Manager, Tax Payments and Filing",
+   "role_family": "product_design",
+   "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-07-16T14:14:46+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7674093"
+  },
+  {
+   "external_id": "7760341",
+   "title": "Staff Software Engineer, Core AI Platforms",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid",
+   "posted_at": "2026-03-27T18:46:00+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7760341"
+  },
+  {
+   "external_id": "7773805",
+   "title": "Future Opportunities: Channel Sales Experience",
+   "role_family": "sales",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
+   "posted_at": "2026-04-01T20:33:56+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7773805"
+  },
+  {
+   "external_id": "7833882",
+   "title": "Summer Opportunities - Retirement Sales AE",
+   "role_family": "sales",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-04-20T21:32:15+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7833882"
+  },
+  {
+   "external_id": "7868243",
+   "title": "Principal Product Manager, Unified Service Platform",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-06T20:31:50+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7868243"
+  },
+  {
+   "external_id": "7905578",
+   "title": "AI/IT Controls Engineer, Enterprise Applications",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-05-20T18:47:50+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7905578"
+  },
+  {
+   "external_id": "7905702",
+   "title": "Staff Product Designer, HR Experiences",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-07-30T17:59:24+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7905702"
+  },
+  {
+   "external_id": "7918214",
+   "title": "Staff Software Engineer, Tax Experiences",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-07-06T22:13:06+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7918214"
+  },
+  {
+   "external_id": "7942791",
+   "title": "Senior Staff Software Engineer - Pricing and Packaging",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-05-27T18:48:05+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7942791"
+  },
+  {
+   "external_id": "7943169",
+   "title": "Staff Software Engineer, Pricing and Packaging Engineering",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-06-25T19:55:37+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7943169"
+  },
+  {
+   "external_id": "7947424",
+   "title": "Senior Software Engineer, People Technology",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-06-09T22:51:05+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7947424"
+  },
+  {
+   "external_id": "7961009",
+   "title": "Employee Relations Partner",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-04T21:14:30+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7961009"
+  },
+  {
+   "external_id": "7982781",
+   "title": "Staff Software Engineer, PEO Benefits",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-07-16T17:02:15+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7982781"
+  },
+  {
+   "external_id": "7983701",
+   "title": "Customer Experience Specialist, Health Insurance Benefits",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-06-04T21:01:07+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7983701"
+  },
+  {
+   "external_id": "7984008",
+   "title": "Future Opportunities: Retirement Client Relationship Manager",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid",
+   "posted_at": "2026-06-04T22:36:32+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7984008"
+  },
+  {
+   "external_id": "7986047",
+   "title": "Staff Software Engineer, Retirement AI",
+   "role_family": "engineering",
+   "location": "Denver, CO;San Francisco, CA;New York, NY",
+   "posted_at": "2026-06-22T18:38:37+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7986047"
+  },
+  {
+   "external_id": "7998368",
+   "title": "Senior Revenue Accountant",
+   "role_family": "sales",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-06-18T20:09:11+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/7998368"
+  },
+  {
+   "external_id": "8001872",
+   "title": "HR Consultant",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-07-01T21:54:35+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8001872"
+  },
+  {
+   "external_id": "8001931",
+   "title": "Future Opportunities: Early Career Sales Talent",
+   "role_family": "finance_ops",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
+   "posted_at": "2026-06-11T22:45:55+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8001931"
+  },
+  {
+   "external_id": "8002008",
+   "title": "Business Development Representative",
+   "role_family": "sales",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-06-15T22:34:59+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8002008"
+  },
+  {
+   "external_id": "8008696",
+   "title": "Staff Software Engineer, Core Products",
+   "role_family": "engineering",
+   "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-06-24T23:49:40+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8008696"
+  },
+  {
+   "external_id": "8008902",
+   "title": "PEO Sales, Account Executive",
+   "role_family": "sales",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-06-23T22:22:40+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8008902"
+  },
+  {
+   "external_id": "8013480",
+   "title": "Senior Staff Engineer - Tax Platform Engineering",
+   "role_family": "engineering",
+   "location": "Atlanta, GA - Hybrid; Austin, TX - Remote; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+   "posted_at": "2026-07-02T22:23:21+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8013480"
+  },
+  {
+   "external_id": "8022493",
+   "title": "Channel Partnerships Manager, Investor Ecosystems (VC & PE)",
+   "role_family": "other",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote",
+   "posted_at": "2026-06-23T21:54:56+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8022493"
+  },
+  {
+   "external_id": "8022501",
+   "title": "Payment Operations Manager",
+   "role_family": "finance_ops",
+   "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-18T17:20:52+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8022501"
+  },
+  {
+   "external_id": "8039516",
+   "title": "Staff Software Engineer, Tax Accounts",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-07-31T16:42:12+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8039516"
+  },
+  {
+   "external_id": "8040766",
+   "title": "Retirement Offboarding Specialist",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-07-07T00:24:20+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8040766"
+  },
+  {
+   "external_id": "8069947",
+   "title": "Expansion Account Manager Leader",
+   "role_family": "sales",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
+   "posted_at": "2026-08-03T13:54:49+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8069947"
+  },
+  {
+   "external_id": "8073232",
+   "title": "Software Engineer, ML Platform",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-10T17:18:12+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8073232"
+  },
+  {
+   "external_id": "8075901",
+   "title": "Health Insurance Sales Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-07-23T19:33:38+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8075901"
+  },
+  {
+   "external_id": "8077301",
+   "title": "Staff Software Engineer, Time and Scheduling",
+   "role_family": "engineering",
+   "location": "New York, NY - Hybrid; Toronto, Ontario - Remote",
+   "posted_at": "2026-08-03T23:20:22+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8077301"
+  },
+  {
+   "external_id": "8078212",
+   "title": "Benefits Advising (Renewals) Leader",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-07-29T15:15:43+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8078212"
+  },
+  {
+   "external_id": "8083986",
+   "title": "Retirement Implementation Specialist",
+   "role_family": "customer",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid",
+   "posted_at": "2026-10-12T15:10:32+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8083986"
+  },
+  {
+   "external_id": "8092462",
+   "title": "Expansion Account Executive",
+   "role_family": "sales",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-08-04T15:48:15+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8092462"
+  },
+  {
+   "external_id": "8095028",
+   "title": "Staff Software Engineer, Gustie Assist",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-14T18:28:25+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8095028"
+  },
+  {
+   "external_id": "8099751",
+   "title": "Senior Data Engineer",
+   "role_family": "data",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-14T17:08:22+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8099751"
+  },
+  {
+   "external_id": "8104180",
+   "title": "WFM Capacity & Analytics Planner",
+   "role_family": "customer",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Los Angeles, CA - Remote; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-08-03T21:28:05+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8104180"
+  },
+  {
+   "external_id": "8104213",
+   "title": "Software Engineer, Payments",
+   "role_family": "engineering",
+   "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-31T16:48:53+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8104213"
+  },
+  {
+   "external_id": "8104224",
+   "title": "WFM Resource Management & Analytics",
+   "role_family": "customer",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-08-03T21:39:42+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8104224"
+  },
+  {
+   "external_id": "8110106",
+   "title": "Staff Software Engineer, Business Insurance",
+   "role_family": "engineering",
+   "location": "New York, NY - Hybrid",
+   "posted_at": "2026-08-18T17:59:26+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8110106"
+  },
+  {
+   "external_id": "8111984",
+   "title": "Design Systems, Staff Product Designer",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-14T19:27:51+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8111984"
+  },
+  {
+   "external_id": "8120017",
+   "title": "Manager - Developer Productivity, AI Tools",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-24T15:09:47+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8120017"
+  },
+  {
+   "external_id": "8142163",
+   "title": "Principal Product Manager, Payroll Platform",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-08T19:09:12+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8142163"
+  },
+  {
+   "external_id": "8142994",
+   "title": "Participant Support Specialist",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-08-20T05:42:10+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8142994"
+  },
+  {
+   "external_id": "8143038",
+   "title": "Retirement Sponsor Support Specialist",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-08-20T05:23:51+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8143038"
+  },
+  {
+   "external_id": "8143042",
+   "title": "Conversion Operations Associate",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-08-20T05:37:30+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8143042"
+  },
+  {
+   "external_id": "8144140",
+   "title": "Staff Software Engineer, Unified Services Platform",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-08-20T22:13:29+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8144140"
+  },
+  {
+   "external_id": "8144242",
+   "title": "Head of Product, New Customer Experience",
+   "role_family": "exec",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-18T15:50:07+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8144242"
+  },
+  {
+   "external_id": "8148547",
+   "title": "Product Marketing Leader - Innovation & Experimentation",
+   "role_family": "marketing",
+   "location": "Atlanta, GA - Hybrid; Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-08-24T18:34:52+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8148547"
+  },
+  {
+   "external_id": "8158019",
+   "title": "Head of Risk and Money Services",
+   "role_family": "exec",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-04T14:36:36+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8158019"
+  },
+  {
+   "external_id": "8160675",
+   "title": "Principal Product Manager, Consumer Money - Consumer Banking",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-30T16:19:14+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8160675"
+  },
+  {
+   "external_id": "8167750",
+   "title": "Principal Product Manager, AI Assistant",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-23T14:51:01+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8167750"
+  },
+  {
+   "external_id": "8168028",
+   "title": "Staff Software Engineer, HR Experience",
+   "role_family": "engineering",
+   "location": "New York, NY - Hybrid",
+   "posted_at": "2026-09-17T18:16:54+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8168028"
+  },
+  {
+   "external_id": "8168848",
+   "title": "Principal Product Manager, Business Money – SMB Banking",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-30T16:16:11+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8168848"
+  },
+  {
+   "external_id": "8168903",
+   "title": "Senior Product Design Manager, Banking",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote",
+   "posted_at": "2026-09-04T22:19:30+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8168903"
+  },
+  {
+   "external_id": "8168907",
+   "title": "Senior Staff UX Researcher, Quantitative",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-09T03:02:23+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8168907"
+  },
+  {
+   "external_id": "8171606",
+   "title": "Lead AV Engineer",
+   "role_family": "other",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-04T21:22:20+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8171606"
+  },
+  {
+   "external_id": "8174849",
+   "title": "Senior Compensation Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-09T18:39:49+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8174849"
+  },
+  {
+   "external_id": "8180433",
+   "title": "Senior Performance Marketing Manager, Paid Social",
+   "role_family": "marketing",
+   "location": "Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-09-10T20:40:29+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8180433"
+  },
+  {
+   "external_id": "8180461",
+   "title": "Payment Operations Analyst",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - Hybrid; Seattle, WA - Remote",
+   "posted_at": "2026-09-18T17:13:05+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8180461"
+  },
+  {
+   "external_id": "8189240",
+   "title": "Partner Manager, Consumer Fintech Partnerships",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-11T20:41:14+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8189240"
+  },
+  {
+   "external_id": "8189814",
+   "title": "Partner Manager, Gusto Pro",
+   "role_family": "sales",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; Phoenix, AZ - Hybrid; San Francisco, CA - Hybrid; Toronto, Ontario - Remote",
+   "posted_at": "2026-09-09T22:01:06+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8189814"
+  },
+  {
+   "external_id": "8192093",
+   "title": "Staff Product Mobile Engineer, Business Money",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-25T17:39:41+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8192093"
+  },
+  {
+   "external_id": "8204399",
+   "title": "Senior Staff Software Engineer, Benefits",
+   "role_family": "engineering",
+   "location": "New York, NY - Hybrid",
+   "posted_at": "2026-09-18T04:07:37+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8204399"
+  },
+  {
+   "external_id": "8204403",
+   "title": "Staff Software Engineer, Invoicing and Billing",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-25T22:18:03+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8204403"
+  },
+  {
+   "external_id": "8205075",
+   "title": "Staff Software Engineer, Retirement Financial Platform",
+   "role_family": "engineering",
+   "location": "Austin, TX - Remote; Burlingame, CA - Hybrid; Chicago, IL - Remote; Denver, CO - Hybrid; Los Angeles, CA - Remote; Miami, FL - Remote; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote",
+   "posted_at": "2026-10-01T22:51:13+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8205075"
+  },
+  {
+   "external_id": "8205624",
+   "title": "Staff Software Engineer, Retirement Money Planning",
+   "role_family": "engineering",
+   "location": "Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-25T22:46:39+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8205624"
+  },
+  {
+   "external_id": "8205628",
+   "title": "Executive Operations Partner",
+   "role_family": "gtm_ops",
+   "location": "Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-09-16T18:32:03+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8205628"
+  },
+  {
+   "external_id": "8205633",
+   "title": "R&D Insights and Operations - Growth",
+   "role_family": "gtm_ops",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-25T04:17:08+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8205633"
+  },
+  {
+   "external_id": "8208066",
+   "title": "Payroll and Taxes Manager",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-09-21T21:59:09+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8208066"
+  },
+  {
+   "external_id": "8208422",
+   "title": "Staff Software Engineer, Solo",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-25T21:32:17+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8208422"
+  },
+  {
+   "external_id": "8208432",
+   "title": "Staff Software Engineer, Gusto Pro Integrations",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-09T21:39:21+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8208432"
+  },
+  {
+   "external_id": "8209666",
+   "title": "Recruiting Operations and Transformation Lead",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-02T21:42:55+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8209666"
+  },
+  {
+   "external_id": "8211813",
+   "title": "Senior Manager, Escalation Services",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-09-30T18:52:47+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8211813"
+  },
+  {
+   "external_id": "8212233",
+   "title": "Sr. Sales Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote",
+   "posted_at": "2026-10-01T19:13:11+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8212233"
+  },
+  {
+   "external_id": "8224182",
+   "title": "Head of Marketing - Symmetry",
+   "role_family": "marketing",
+   "location": "Denver, CO - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-09-24T17:47:03+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8224182"
+  },
+  {
+   "external_id": "8227773",
+   "title": "Future Opportunities: Sales Onboarding Advocate",
+   "role_family": "customer",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid",
+   "posted_at": "2026-09-23T22:26:40+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8227773"
+  },
+  {
+   "external_id": "8231833",
+   "title": "Talent Development Leader, Foundational Talent Products",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-02T16:41:33+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8231833"
+  },
+  {
+   "external_id": "8232302",
+   "title": "Licensing Program Manager",
+   "role_family": "other",
+   "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-30T18:51:33+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8232302"
+  },
+  {
+   "external_id": "8241804",
+   "title": "Compensation Partner",
+   "role_family": "other",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-09-30T22:18:45+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8241804"
+  },
+  {
+   "external_id": "8241810",
+   "title": "Employee Relations Manager",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-10-07T19:43:31+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8241810"
+  },
+  {
+   "external_id": "8244969",
+   "title": "Staff Software Engineer, PEO",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-06T19:45:21+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8244969"
+  },
+  {
+   "external_id": "8247940",
+   "title": "Senior Lifecycle Marketing Manager",
+   "role_family": "gtm_ops",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-08T18:54:38+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8247940"
+  },
+  {
+   "external_id": "8250243",
+   "title": "Staff Software Engineer, Cloud Infrastructure",
+   "role_family": "engineering",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-06T23:49:51+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8250243"
+  },
+  {
+   "external_id": "8257115",
+   "title": "Finance Intern (Summer 2027)",
+   "role_family": "finance_ops",
+   "location": "New York, NY - Hybrid",
+   "posted_at": "2026-10-13T17:09:25+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115"
+  },
+  {
+   "external_id": "8257865",
+   "title": "Senior Commercial Lines Account Manager",
+   "role_family": "sales",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-10-14T03:05:19+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8257865"
+  },
+  {
+   "external_id": "8257877",
+   "title": "Manager, Business Insurance Servicing",
+   "role_family": "customer",
+   "location": "Denver, CO - Hybrid",
+   "posted_at": "2026-10-14T02:54:26+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8257877"
+  },
+  {
+   "external_id": "8260095",
+   "title": "Senior Creative Program Manager",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-08T21:07:43+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8260095"
+  },
+  {
+   "external_id": "8268021",
+   "title": "Manager, Account Executive Platform Sales",
+   "role_family": "sales",
+   "location": "Atlanta, GA - Hybrid; Denver, CO - Hybrid; Scottsdale, AZ - Hybrid",
+   "posted_at": "2026-10-12T22:11:25+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8268021"
+  },
+  {
+   "external_id": "8275011",
+   "title": "Enhanced Due Diligence Investigations Analyst",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-13T23:17:28+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8275011"
+  },
+  {
+   "external_id": "8275021",
+   "title": "Fraud Investigations Analyst",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-13T23:01:05+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8275021"
+  },
+  {
+   "external_id": "8275441",
+   "title": "Staff Recruiter, Design & Specialized Tech",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-12T23:10:14+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8275441"
+  }
+ ]
+}
