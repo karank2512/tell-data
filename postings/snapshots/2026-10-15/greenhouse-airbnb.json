@@ -3,7 +3,7 @@
  "identifier": "airbnb",
  "domain": "airbnb.com",
  "as_of": "2026-10-15",
- "last_polled_at": "2026-10-15T08:51:40.003654+00:00",
+ "last_polled_at": "2026-10-15T15:49:16.505354+00:00",
  "open_postings": [
   {
    "external_id": "6757302",
@@ -215,7 +215,7 @@
   },
   {
    "external_id": "7946318",
-   "title": "Support Specialist, Premium Support (French/English)",
+   "title": "Support Specialist, Premium",
    "role_family": "customer",
    "location": "Ireland",
    "posted_at": "2026-05-20T12:42:59+00:00",
@@ -508,6 +508,14 @@
    "location": "United States",
    "posted_at": "2026-08-04T19:45:48+00:00",
    "url": "https://careers.airbnb.com/positions/8096359?gh_jid=8096359"
+  },
+  {
+   "external_id": "8103590",
+   "title": "Programs Operations Lead, Growth Levers",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-08-12T16:01:33+00:00",
+   "url": "https://careers.airbnb.com/positions/8103590?gh_jid=8103590"
   },
   {
    "external_id": "8108673",
@@ -1372,6 +1380,14 @@
    "location": "Portland, Oregon",
    "posted_at": "2026-10-14T21:39:06+00:00",
    "url": "https://careers.airbnb.com/positions/8282333?gh_jid=8282333"
+  },
+  {
+   "external_id": "8285171",
+   "title": "Strategic Finance & Analytics Intern",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-15T15:14:03+00:00",
+   "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171"
   }
  ]
 }

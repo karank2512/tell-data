@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-15",
- "last_polled_at": "2026-10-15T08:51:40.003654+00:00",
+ "last_polled_at": "2026-10-15T15:49:16.505354+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -697,7 +697,7 @@
    "external_id": "7747640",
    "title": "Forward Deployed AI Accelerator, Marketing",
    "role_family": "marketing",
-   "location": "Seattle, San Francisco",
+   "location": "Seattle, San Francisco, New York",
    "posted_at": "2026-03-26T14:40:17+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=7747640"
   },
@@ -1396,6 +1396,14 @@
    "location": "Mexico City",
    "posted_at": "2026-06-23T18:47:17+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8022463"
+  },
+  {
+   "external_id": "8022703",
+   "title": "Verifications Operations Associate",
+   "role_family": "gtm_ops",
+   "location": "Bengaluru",
+   "posted_at": "2026-09-02T06:23:15+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8022703"
   },
   {
    "external_id": "8022713",
@@ -5727,8 +5735,8 @@
   },
   {
    "external_id": "8265139",
-   "title": "Account Executive, Professional Services Sales",
-   "role_family": "sales",
+   "title": "Enterprise Services Manager, Professional Services Sales",
+   "role_family": "other",
    "location": "Madrid",
    "posted_at": "2026-10-13T10:02:28+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8265139"
@@ -5798,12 +5806,28 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8271657"
   },
   {
+   "external_id": "8273713",
+   "title": "Corporate Accounting Analyst (Bangalore)",
+   "role_family": "finance_ops",
+   "location": "Bengaluru",
+   "posted_at": "2026-10-15T10:29:11+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8273713"
+  },
+  {
    "external_id": "8273741",
    "title": "Senior Staff Product Manager, Risk",
    "role_family": "product_design",
    "location": "London",
    "posted_at": "2026-10-12T11:48:19+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8273741"
+  },
+  {
+   "external_id": "8273743",
+   "title": "Account Executive, Product Sales - Payouts",
+   "role_family": "sales",
+   "location": "Singapore, Sydney",
+   "posted_at": "2026-10-15T09:47:42+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8273743"
   },
   {
    "external_id": "8273855",
@@ -5892,6 +5916,14 @@
    "location": "US Remote",
    "posted_at": "2026-10-14T19:54:05+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8282390"
+  },
+  {
+   "external_id": "8282859",
+   "title": "Technical Program Manager, Extensibility Platform",
+   "role_family": "engineering",
+   "location": "US Remote",
+   "posted_at": "2026-10-15T13:22:54+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8282859"
   }
  ]
 }

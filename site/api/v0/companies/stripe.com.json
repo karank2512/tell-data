@@ -3,11 +3,43 @@
   "name": "Stripe",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 3.6,
+  "score": 8.0,
   "contributions": [
     {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-15",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/stripe",
+      "postings": [
+        {
+          "title": "Account Executive Product - Fraud & Risk",
+          "posted_at": "2026-10-14",
+          "url": "https://stripe.com/jobs/search?gh_jid=8271657"
+        },
+        {
+          "title": "Account Executive, Product Sales, Billing (Grower)",
+          "posted_at": "2026-10-14",
+          "url": "https://stripe.com/jobs/search?gh_jid=8215758"
+        },
+        {
+          "title": "Account Executive, Product Sales - Payouts",
+          "posted_at": "2026-10-15",
+          "url": "https://stripe.com/jobs/search?gh_jid=8273743"
+        }
+      ]
+    },
+    {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Payoneer (PAYO) Launches Stripe-Powered Checkout in Singapore - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXlWM0YyaXZEQm0zRmtUTGE1QUV4M09LZUwzSnhYWTQtWno3SkdsVFJXMUpEeGJKR3k5YVBrZHVuclJRUlY1Rk5oUkxQT0NhYS1Yc1QyZVEyaGEtZWpDS0pXWTJtaWUwaGY5eUU2VG5iUkoyX0M1N19ySU85YWxMc1MyUUZwdWZieHc2U3lBMDRIUThrSkU5Y0xKRDlpRnk3TVhGWS01TVFzS3FVVEFwMG96ZDlKQ1hrZGxWNDJR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-10",
       "summary": "Adidas Launches Legal Action Against White Fox Over Controversial Four-Stripe Design - freeyork",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGFJdGJpejRkUms4NWZGTm5vRHJRdWZodjB0WWhkOXBtVktGTWNSMkU3YldySVZ1ZmVGaG4zbXZwYlNsV1U0VEhhSkh3VW5mTnJhN2JIeE50cUx3bjdGTUprWDN0X0dxWGFZMnJ0dF9GeWxkc04zRE1OUUM2OEpYazVraGlpVUU?oc=5"
@@ -45,7 +77,7 @@
       ]
     }
   ],
-  "open_postings": 736,
+  "open_postings": 740,
   "long_open_roles": 192,
   "sources": {
     "ats": "greenhouse:stripe",

@@ -3,7 +3,7 @@
   "name": "Cadrenal Therapeutics",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 13.6,
+  "score": 14.0,
   "contributions": [
     {
       "type": "funding",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-07-15",
       "summary": "Form D: $8,843,849 offering, $8,843,849 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1937993/000121390026078373/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-21",
+      "summary": "Cadrenal Therapeutics Launches Partnering Process as Its Cardiac Acute Critical Care Assets Advance to Transaction Readiness Following Landmark ISTH Data Presentation",
+      "url": "https://www.cadrenal.com/cadrenal-therapeutics-launches-partnering-process-as-its-cardiac-acute-critical-care-assets-advance-to-transaction-readiness-following-landmark-isth-data-presentation/"
     }
   ],
   "open_postings": 0,
@@ -18,7 +25,7 @@
   "sources": {
     "ats": "no_board",
     "edgar_cik": "0001937993",
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []

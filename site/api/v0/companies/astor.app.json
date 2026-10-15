@@ -1,0 +1,32 @@
+{
+  "domain": "astor.app",
+  "name": "Astor",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 3.4,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTeXVzV0J6RmVHVHJSakdmLXVpbHhrS2k2bVlFc3hoUE5Tb1VTZ0hNUUMtVmFSREFYQ3FoR1dKRWpaR2R2VEFvZkN2NkkwZFVJTHVUV0cxZkNNR3JQUnRZM2F4dDNoTWxZNkVPd3dtTERHWk5z?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "The St. Regis Jakarta Unveils The House of Astor Afternoon Tea - Indonesia Expat",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFRneHY3UUxzcmhBS3VQelUwQUtUYUlFMWp6Zk1LSmc3a0tzelZ0MWNrcFU1SkZvYzNaMmJvenR6RTd4ZEg5N3UxVE1Kb3FaVDZQWG50S0pLNWtBVi1CWW1DNmxMRWR2RG1ncFlDcGZOMTVDRmRSUjJVMHBxMWo2bHVtdVdCOFRLOEEwOG9iMHdPbGxlajlWdHJRTVJTTjFRM1NjeUYzWE5fQ2pHUkE?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

@@ -3,11 +3,53 @@
   "name": "Orca",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 1.4,
+  "score": 10.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "ORCA Launches PT-3 Photonic Quantum Computer for AI and Optimization - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXZYY2xyNjR3YnFIUnh0aXFVdmNIQkZhWkx2T2tvZE55WlhkeTBwbDJKUWVMTGVsVWtWdllRcXowZDBUbnRJcVRCa3hTMi1TS2hia0dTRzdiWFY1Wi1YdlNpMUpJclg3LW1BVVNOUXh4eVlzcEtFRnl4SEpEeWx0S0FCWVFqdEh6UWJwRExCaHUyQ1RJZWstb3ZoRGlpalhZMDJ0S3k1UTI5dw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "ORCA Computing launches PT-3 photonic quantum computer with NVIDIA for AI science - Data Centre Solutions",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU19Ca2JzTXhvdmIzdndZanZ6SVNDU0l0QncyT3A2b05NTzUzWmlMdUVpc09ORm9GWWZGVkE1LWJaNlVLTlJvSnlaUkRRd2x6Zkl3aG9Za3Y0djlLZTZlWjZBSm5uMkJsMUljVzk5em0wSktwOGFfNk0yd0xKRlM5VXh2cmRWaFhTREc4elRGTXY0ZHBwV1h0SE15TFEta0xlUE9oY1FYSGhCbnpzazB6aVlRdl83VXB3VXJRUGx3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "ORCA Computing launches PT-3, the first quantum computer built for commercial quantum advantage - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSWjVDdEl4WTNBNW5zNWIzZFI4VmRmV01FRUVFNTFSMHBtbjNkSW1qZS1KOFB0dkhSLXNBaFZZaWdON3dxWG5oSkZXVy1zWElxNHkyVFd5bk9RQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "ORCA Computing Launches PT-3, The Latest Generation of Its Photonic Quantum Computers - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFg1VHhFSnNmdE1idkZQaWg1a2VZM25qbExpWHEzSkdUd3BaZEduejd5djZlaUxvUnNzRTE4bUxJZmRDWGJCMTNUTDVtZUFZeHhVeVFTeWt5cnJuUFRTaW94elZfT0l1b3hKakNPYjNJenAydktER01fTFc2WTVoZXFIbDhCMWY5Z0xxNFgwMWNYT2JTeVliRHhiUlpFeVE2Ni1EZ0dHdWhoajNJWHBWNW1jZ1VwVGFjVXBiUENJLUp5MHM3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "ORCA launches PT-3 quantum computer in London datacentre - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWVsdzA1aXNERG5ac0xpa2tPRE1KUkliRl9ZY1FHSkhYckFNTzRpd19EZHI4WGc0WDROWVBqODMzc2xTRHNSdTNMLXVfYzVFYktvdl95TVM4dHZVMUtfR21DUjBHQ29sUTdkbGJfNHFFNHBEbzdBOWN5ci1iRmlRY2tUbkNpNUc2ejM3MW5YeGZzVlhFVm5zVDV3LTlVYko3X0gwdg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "ORCA Computing launches PT-3, the first quantum computer built for commercial quantum advantage - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOEV2QnNXc1FlR1VNbDJPVmNZZTlYSnpGeVpIU0RQWDlfOUZXOXAtVjVXUTVUX0VNUmVzOGdIdThQYi1Ed3RNb3UxUDlVd0JvV0VUZ2JiTm5KVThqTTRvX2dMdm43N21hN2VkdjJhRzNPZXBxZGxsdVlCcjJNZXkwOXJVQ0xVUFFHdnNacTV0ckpCVzdzYk1IZ3d1MmZIUE9YNVFOakZ2Q1pMcGRYRkhOdnJ2TXhheFJ6djBHV3lxZ213ZXZ4TFFtYnQ1TW1YRDN5TkliQmZkTS0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-10",
       "summary": "Keychron Releases Design Data for the “Orca echo” | Encouraging Community-Driven Modifications and Accessory Creation - グリーンキーズ",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yS1Jja1ZEOXBnTVdmSms0UlpDMnBvRzVsc25hRFkwbEZUd05HQ0ZjNmxuel9YVVhRVFozc0FzQjNaOXczOUZSNzNvRWFLa0htdHpXVUtvMXR3NU1oZFFRVEllU09lUVpOdFFBbzlJQXE?oc=5"

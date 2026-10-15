@@ -3,7 +3,7 @@
  "identifier": "gocardless",
  "domain": "gocardless.com",
  "as_of": "2026-10-15",
- "last_polled_at": "2026-10-15T08:51:40.003654+00:00",
+ "last_polled_at": "2026-10-15T15:49:16.505354+00:00",
  "open_postings": [
   {
    "external_id": "7374850",
@@ -118,6 +118,14 @@
    "url": "https://job-boards.greenhouse.io/gocardless/jobs/8176187"
   },
   {
+   "external_id": "8188573",
+   "title": "Associate Legal Counsel",
+   "role_family": "finance_ops",
+   "location": "Leeds, UK",
+   "posted_at": "2026-09-10T06:15:32+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8188573"
+  },
+  {
    "external_id": "8190764",
    "title": "Salesforce Developer (12 month fixed term contract)",
    "role_family": "product_design",
@@ -207,7 +215,7 @@
   },
   {
    "external_id": "8258602",
-   "title": "Legal Counsel",
+   "title": "Legal Counsel - 12 month FTC",
    "role_family": "finance_ops",
    "location": "London, UK",
    "posted_at": "2026-10-14T19:09:41+00:00",
