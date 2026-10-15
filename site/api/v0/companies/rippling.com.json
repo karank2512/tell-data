@@ -1,0 +1,32 @@
+{
+  "domain": "rippling.com",
+  "name": "Rippling",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.9,
+  "contributions": [
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-10",
+      "summary": "Rippling Opens New Penn Station Office in Manhattan - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2ZwVk1VN1RqRndaa1VmWkdRN3RMS0txaTNETmg3Y21TenBqSDUwd2VqMnNYVE1HcHlnWHE0bTdjREZvMm1OeHI2eGY5TXl0TTRTOXVWTHp5bjVpaFF4QjY1ekllU0tsNU5lRF96aUNBWUtqWTU3OGJqYmJKc0hUWDNvQmxJYW1kZ0RuaFpRY0FjdEVJYWJMWGhOckJGWFlCUE5v?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-09",
+      "summary": "News | Rippling opens nearly 133,000-square-foot New York office as AI leasing surges - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkozamkwQnRYMXh5aXhONll4NjRyLXE2THlxTkdwamRTdEYwckV0a1VOZnJMRHhST01iVjNteDNnYXlaNE0yWEZLVHR1VW9YRlVhWmt4VGxBdmlLNUwxZlY0SF81c1VfY0FTcUZhYnRqNmhwWk9lcF9ENTJvTXpFZGVteUdtLWtkNEtQSkFpUUdhMHVucEUxbjZ5WmlKTjRfcTU3Tm9fMDk4YlVUc2RPOFVzOExwbUNsc0VNZg?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

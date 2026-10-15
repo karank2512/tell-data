@@ -1,0 +1,32 @@
+{
+  "domain": "superapp.id",
+  "name": "Super",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-12",
+      "summary": "Pro-Phil Scott super PAC launches ad blitz targeting Amanda Janoo - Vermont Public",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0NzY1llVnc2N3ZaUUoxSDl0SjBVNUZIWU1pZnpCLXN1RWhQS2txZ2stQVVOS2Z6VUx3YzVHMkU2aWRfNmRNOUxULTdqQlVlU2M0S01qQURBZzRoUzZDbnEwQWhvcnVjLXlZUmJudXNhSjB6bkFIcHBEX3lqaERBT1RlWTdMYjlTd1FuNWNzUGd4cFRXQ0JxYUJ3UklQZUdLX0dEQi0wVTIxU05UTHR1eS0xSmhYaC1L?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "France Enters Sixth-Generation Fighter Race Solo, Unveils “Super Rafale” Plans - UNITED24 Media",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnk1VDl4bTFNclRGWlRsSktOaDNKVUlmSHlTei12VkJkWFNpdDdza212UER6UXZ5bUZfbGxmNjROTU1iaGtXVnp2eFVmS0xNV1MwWmZHbTZZeFFmejNHd1FwNHRZRV9maFdXVGhCMEcwNHg3MWlxTG93bk5jR1BNQXpWWURiUGQxZ2djVGVKalo2RS1KTGxxM1RQWnF0elFDSXdhVHBtWFhzZldOZFI3am9wTQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

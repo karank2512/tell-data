@@ -1,0 +1,32 @@
+{
+  "domain": "pickle.com",
+  "name": "Pickle",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Global Brands debuts UK’s ‘first’ pickle liqueur - The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd2xXSmstMkRvbDBnY29OQjhjel9GYi15VGRIOXVCbjVVa1JlZ3hDOV9qS0lob21kSVVJYTFVblliYm9GQkU2c0cxSTd5SEw2QjJUTHdiTHBYRTlXRE1LTnVFQ3dhSmdWa1JYaFhiS2JUb0gwcjl1TlBSRDN0RkpkQXhYWEZXa3d0T212RDBDSGxZYUU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-11",
+      "summary": "Global Brands launches Pickly Pete’s Pickle Liquor - Retail Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXNYVmE3eDNFNVpaMXE4MHpCejY3YWhNY0lRc2ZPWDVwYUdsM3dXTl94d3FUTDM0Y2k3MHYtdk1ic3FSRzJqcHJkeWE2eV81djN1Sms0OWItb214alBnR1Rla0h2YkVVemd5dURMMzdpaktzbTRIM1Z3QzYwTExwd0x3?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

@@ -1,0 +1,32 @@
+{
+  "domain": "notabene.id",
+  "name": "Notabene",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 16.4,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 16.0,
+      "occurred_at": "2026-07-30",
+      "summary": "Form D: $20,000,000 offering, $11,499,968 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1880160/000188016026000003/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-24",
+      "summary": "Ripple Launches Mint for Institutional RLUSD Operations and Integrates Stablecoin With Notabene - Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlZCa1NpcHNpdXNqOFBiZlk2Z3g4X3JJdW5YVXBaVWlmdTItUUpGLVp0Z05qQWRlZDZVY2hLRGhxTE1Jb0FxbnFqS3hVTm9aTWRuVVZLWi05Vmw0cUQybnRUc1F1OVQ0dnhUVkZDSkxXY0NXVUtCSGVUNHRLMktWYWw4dVM?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001880160",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

@@ -6,10 +6,10 @@
   "top_funding": [],
   "method_change": "Scoring rule: funding magnitude is log10(total_offering_amount) capped at 8, or 6 when the amount is undisclosed or zero (spec section 8); form_d_filed events flagged is_amendment never produce a signal.",
   "coverage": {
-    "companies_monitored": 22,
+    "companies_monitored": 126,
     "boards_polled": 0,
     "filings_read": 0
   },
   "repo_url": "https://github.com/karank2512/tell-ai",
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/43d0f1b056daa84657c2e38291f74c9126c86cc8"
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74"
 }

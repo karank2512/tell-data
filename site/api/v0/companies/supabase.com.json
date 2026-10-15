@@ -1,0 +1,39 @@
+{
+  "domain": "supabase.com",
+  "name": "Supabase",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 0.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.5,
+      "occurred_at": "2026-07-31",
+      "summary": "Introducing Supabase Evals",
+      "url": "https://supabase.com/blog/introducing-supabase-evals"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-06",
+      "summary": "Introducing @supabase/server",
+      "url": "https://supabase.com/blog/introducing-supabase-server"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-04-28",
+      "summary": "Introducing the OSSCAR Index",
+      "url": "https://supabase.com/blog/introducing-osscar-index"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001829334",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

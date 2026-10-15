@@ -1,0 +1,60 @@
+{
+  "domain": "apollographql.com",
+  "name": "Apollo",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 8.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-11",
+      "summary": "On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit - Space",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0tfMS01SmF2OUowalBlUFZ4MHRvNTJqdlFkMEZUU0FvS2RYYWhrYzVLSjEzTWJRQW1fdGgwa3FSODhHb1FjNkZINnhYOER6bDItV2FNR0pndDlsQVh2N0tTMWZjTnNQLU15Ni1EZWVtQkt0TVBLbEFsUVZ1bWFmRXF3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-07",
+      "summary": "Introducing GraphOS Agent Services",
+      "url": "https://www.apollographql.com/blog/introducing-graphos-agent-services"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-07",
+      "summary": "Introducing GraphOS Router 3.0",
+      "url": "https://www.apollographql.com/blog/introducing-graphos-router-3-0"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-07",
+      "summary": "Introducing GraphOS Factory",
+      "url": "https://www.apollographql.com/blog/introducing-graphos-factory"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-07",
+      "summary": "Introducing Apollo’s Runtime Testing Framework",
+      "url": "https://www.apollographql.com/blog/apollos-runtime-testing-framework"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-07",
+      "summary": "Introducing Apollo’s Next Generation Query Planner",
+      "url": "https://www.apollographql.com/blog/apollos-next-generation-query-planner"
+    }
+  ],
+  "open_postings": 8,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:apollo-graphql",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

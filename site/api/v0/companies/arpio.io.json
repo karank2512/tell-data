@@ -1,0 +1,32 @@
+{
+  "domain": "arpio.io",
+  "name": "Arpio",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 21.7,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 20.7,
+      "occurred_at": "2026-09-03",
+      "summary": "Form D: $15,862,978 offering, $15,862,978 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1989412/000198941226000002/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-09-22",
+      "summary": "Arpio Launches First-Ever Automated Cloud Disaster Recovery Solution for Agentic AI Workloads on Amazon Bedrock - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOFc1bURsZ0ozaTJnUWdZbmtnZS1OQ2ozTEVzYlJfN0t5SHg0UWctN043R2tCU1JLX1dUVkloTzNZQVRDVXFSX1dtWk9raEZOaDlab19mWkc3eDFhRkpJd01WQ1BubUdnOTktQ3pTNXkzODJWdjNfazFzRzNqOHp2MVItVDNZcW05ZW1HOW5CNVRRYmloWlU2UmwzNko5QS1z?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001989412",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

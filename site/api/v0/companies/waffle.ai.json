@@ -1,0 +1,25 @@
+{
+  "domain": "waffle.ai",
+  "name": "Waffle",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Oddlygood launches a Caramel Waffle oat drink in Sainsbury's - www.thecheckout.eu",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGFRaWUyaDNWb1NnMDJXbnF2SWVHVW01OC1vLXFDY21ubVk5dUFIR3lPQ1Z6TW9kVkkzQWhRUG5KWXBBc3B3bVZNeFZicjRKTkMzR0Z5VF9Rc2NqTEpNV1RVQTgwbmhmSXNLWFRVX3NlVnNoSC1maHpRSTF3cGp2aWJPcHNtNDZzcHZEd1JxdDlId1lseWRZ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

@@ -1,0 +1,25 @@
+{
+  "domain": "getprosper.ai",
+  "name": "Prosper",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "‘Creates opportunities for people to prosper’: Rice launches annual United Way campaign - Rice University",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlhQUFlOa3g3REVoSkFPd1dtUmdTeEMyYjVaaGpZLUFJdHNCVmpqLXVLYnZWU3VrekNyZXVMQlZOcndlZ2YtYjh6TTEzTVUwUHZ1WWU4S0tYS0lPWDZUY25qcl9wZG8tQ0RXZVp0Nkc4MDN6MzFfbjJhSTBOOWFhNmVUWlRPdmRjWmtaQl8wZGMwNzJ4OFZvMkVrSFphYmdMY3c0TzJwNVJGRTFRMHc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

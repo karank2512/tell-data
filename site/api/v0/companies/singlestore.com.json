@@ -1,0 +1,39 @@
+{
+  "domain": "singlestore.com",
+  "name": "SingleStore",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 3.2,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.2,
+      "occurred_at": "2026-09-30",
+      "summary": "Introducing the Query Tuning Agent: Optimize Your Most Complex Workloads",
+      "url": "https://www.singlestore.com/blog/introducing-the-query-tuning-agent/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-09-28",
+      "summary": "Introducing Observability Agent: Gets you from symptom to cause in minutes",
+      "url": "https://www.singlestore.com/blog/introducing-observability-agent-gets-you-from-symptom-to-cause-in-minutes/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-09-09",
+      "summary": "Introducing Singlestore Analyst : Question to Insight While It Still Matters",
+      "url": "https://www.singlestore.com/blog/introducing-singlestore-analyst-question-to-insight-while-it-still-matters/"
+    }
+  ],
+  "open_postings": 45,
+  "long_open_roles": 16,
+  "sources": {
+    "ats": "greenhouse:singlestore",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

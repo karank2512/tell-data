@@ -1,0 +1,88 @@
+{
+  "domain": "alpaca.markets",
+  "name": "Alpaca",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 22.0,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 14.4,
+      "occurred_at": "2026-08-13",
+      "summary": "Form D: $800,000 offering, $100,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYmh6TC12Ujh6akRQZmNUcmVZckVMMnlJNUhvQVpJTHBZWVdNdmMxTFBlREljQVhKTjFnVGxMejhQR2JtYmNLYkQyWHdhS04tbjA4Tml1dm5SQmRKOVduYTd4Y1pqM09COGtJZVFCelg3M1lqTVdtR3FxR0gtaDVVMzFnblYzZnFmRU5SMU43TmhpY3AzYlJ6U1l4eDZOUTRQS2JQS0JmOWgxcTN3QXhxVDkzc0x0UzNENzZFZ3I5SXcyRGlLM3lLRk95bHcyMEtSNV9maVJubnJibGMydVBhSk1PdzNVT1Q2cml0c29pNA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-09-23",
+      "summary": "Upstox Launches US Equities Trading Through Partnership with Alpaca",
+      "url": "https://alpaca.markets/blog/upstox-launches-us-equities-trading-through-partnership-with-alpaca/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-09-15",
+      "summary": "trii Launches US Stock Trading in Colombia, Expanding Global Investment Access with Alpaca",
+      "url": "https://alpaca.markets/blog/trii-launches-us-stock-trading-in-colombia-expanding-global-investment-access-with-alpaca/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-09-10",
+      "summary": "Rest Launches Digital Treasurer with Money Market Funds Access for UK Businesses, Powered by Alpaca",
+      "url": "https://alpaca.markets/blog/rest-launches-digital-treasurer-with-money-market-funds-access-for-uk-businesses-powered-by-alpaca/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-02",
+      "summary": "Alpaca Launches Live Trading for Index Options via Trading API",
+      "url": "https://alpaca.markets/blog/alpaca-launches-index-options-via-trading-api/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-01",
+      "summary": "Binance Launches US Options with Alpaca to Expand Multi-Asset Super App",
+      "url": "https://alpaca.markets/blog/binance-launches-us-options-with-alpaca-to-expand-multi-asset-super-app/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-27",
+      "summary": "Monetae Launches Monetae Markets to Expand Access to Tokenized US Equities and ETFs with Alpaca",
+      "url": "https://alpaca.markets/blog/monetae-launches-monetae-markets-to-expand-access-to-tokenized-us-equities-and-etfs-with-alpaca/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-19",
+      "summary": "Tradesk Launches Multi-Asset Trading for US Investors, Powered by Alpaca",
+      "url": "https://alpaca.markets/blog/tradesk-launches-multi-asset-trading-for-us-investors-powered-by-alpaca/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-21",
+      "summary": "Alpaca Launches German Equities Trading via Deutsche Börse Xetra - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

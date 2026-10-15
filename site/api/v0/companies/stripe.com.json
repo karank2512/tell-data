@@ -1,0 +1,57 @@
+{
+  "domain": "stripe.com",
+  "name": "Stripe",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 3.6,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-10",
+      "summary": "Adidas Launches Legal Action Against White Fox Over Controversial Four-Stripe Design - freeyork",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGFJdGJpejRkUms4NWZGTm5vRHJRdWZodjB0WWhkOXBtVktGTWNSMkU3YldySVZ1ZmVGaG4zbXZwYlNsV1U0VEhhSkh3VW5mTnJhN2JIeE50cUx3bjdGTUprWDN0X0dxWGFZMnJ0dF9GeWxkc04zRE1OUUM2OEpYazVraGlpVUU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-08",
+      "summary": "Meta unveils AI agent standard with Walmart, Stripe - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUtOZ2w1czQycHlOcUhOb2lTc2JxVjhRSDlMMlgyeEtuM0dZeXVGbXhBTkJ1cVRoWHBOVGRnTkVkMEpLU3BzSEpTaWFtd1djaXNGR25fMy1XdXVOMTFPTWZQV01DUy1fd3V2a3ByMl9SRXRfQ3hVZTctdVFjS2piTnNha21jaUt0ZVZXOHBQVWQzaEU?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "product_design",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-15",
+      "summary": "3 new product design roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/stripe",
+      "postings": [
+        {
+          "title": "Product Manager, Sandboxes",
+          "posted_at": "2026-10-14",
+          "url": "https://stripe.com/jobs/search?gh_jid=8275556"
+        },
+        {
+          "title": "Product Designer, Terminal",
+          "posted_at": "2026-10-14",
+          "url": "https://stripe.com/jobs/search?gh_jid=8282390"
+        },
+        {
+          "title": "Staff Product Manager, Accounting Products",
+          "posted_at": "2026-10-14",
+          "url": "https://stripe.com/jobs/search?gh_jid=8234243"
+        }
+      ]
+    }
+  ],
+  "open_postings": 735,
+  "long_open_roles": 192,
+  "sources": {
+    "ats": "greenhouse:stripe",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

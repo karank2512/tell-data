@@ -1,0 +1,32 @@
+{
+  "domain": "parameter.ai",
+  "name": "Parameter",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB Laptop - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFRBbUY4eXZsUlZPeUR5dFh6bm41NHE1cmZSTGV6UzBxWjdHNmQ1ZmdmLUQ2LVAzbFRJcW1UV1pYaFAxcDhBTW1TMDRmSmxESFpGcVNFa0JJamtrZzE1NzRxcGVsWGJNWmpWVm5VLUdWQURZLXIxZjFaWDVQNkdGc3I5eEpHOWZ3dlVCSWdla3JZSHdWSlBKdzNqTGdLNVNMT18wSEF2ZFptVG1oeWVfWnpRTUFsNXVaNjRXQXZ6Y1NFR2ZvdVI4?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Liquid AI releases LFM2.5-24B-A2B, a 24B-parameter model built to run on your laptop - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYVVqZnBhdDVjbjVFRkxUQnA0cExncjJxRnFLejV2M3NZUTZ1MFBjRXFoQVREYm5sQjZzZ0wwNjZOUjFhSmJZYjh6Xzc1RVNvMmVucFpCR0FUa3hlSkFhYm42NTV5T2phdnc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

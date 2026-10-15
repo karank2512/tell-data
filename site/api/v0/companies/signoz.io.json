@@ -1,0 +1,46 @@
+{
+  "domain": "signoz.io",
+  "name": "SigNoz",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 3.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Introducing JSON-native logs for faster and wider log search",
+      "url": "https://signoz.io/blog/introducing-json-native-logs"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Introducing a new infrastructure monitoring experience",
+      "url": "https://signoz.io/blog/new-infrastructure-monitoring-experience"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.5,
+      "occurred_at": "2026-08-12",
+      "summary": "Introducing the new trace detail view",
+      "url": "https://signoz.io/blog/new-trace-detail-view"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-13",
+      "url": "https://signoz.io/blog/introducing-signoz-foundry",
+      "summary": "Introducing SigNoz Foundry for your One Config, One Command Deployment"
+    }
+  ]
+}

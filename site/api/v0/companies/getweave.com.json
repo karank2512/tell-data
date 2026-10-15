@@ -1,0 +1,25 @@
+{
+  "domain": "getweave.com",
+  "name": "Weave",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Kakao unveils agentic AI to weave personalization into Korea’s daily chat - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mU2pRelJPV2JBdmRwQ2UtT01XN3czYzZpdUhTMUVINlpLY0FKWllZNWplWVF0aG83c0Q1SzJ4MnNXZ0FZZmFXVkxMbnMtRklJTldRc1lqMC1YOENic2ZBUGZEeTVQNU5HVlEwMDExMUdLNnNxMXdPZDZB0gGOAUFVX3lxTFBrWnBveXhqOHYxM0ZVWHQyZmxxemVRZFhEd2poZDh2ZGt0b1M0ZF9yekZzVzZPeEZMSVdQZVF3R2stVE55enFBVWFudWJUdDlhcHUtN2pHRl9NNk5RUXlWeklFMkNLRkY3eE9vVHFUNWJjd3BwQ3FtWEgxdDE5Wng1WkUwcGlsdk80SF84anc?oc=5"
+    }
+  ],
+  "open_postings": 28,
+  "long_open_roles": 4,
+  "sources": {
+    "ats": "ashby:weave",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

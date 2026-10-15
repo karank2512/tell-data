@@ -1,0 +1,25 @@
+{
+  "domain": "tilt.com",
+  "name": "Tilt",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-10",
+      "summary": "Ring Announces Smart Lock, Expands 4K Camera Lineup, and Introduces New Pan-Tilt 2K Indoor Camera - Ring",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTd5UHNfcFhsaGRaMXhGRkN0SVh0NjlYNmJZY1RFb29GWFZZd0dxVHBqSTdUX2dRdzU3ajN0dFYzdnJrREs5NDdZVE55WHBUWXk2bTJxUWE0ZUJMM0dHSTVKbjFCMU9YUlhQUThQWllvbEZDbjUxVm1QUVJTeWUtMXBvTkh5N0lfby0xQU9ibzNSN3JqRW5VaVppaG1UTnhQOXNMV29RYU0yaVpILW83ZU9RZExyTmQ2c0dwcEs1SjdseWc0Q3hqdi1RVnJqdHU4WDdnUw?oc=5"
+    }
+  ],
+  "open_postings": 20,
+  "long_open_roles": 5,
+  "sources": {
+    "ats": "ashby:tilthq",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

@@ -1,13 +1,13 @@
 {
   "domain": "justflip.com",
   "name": "Flip",
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "profile": "default",
-  "score": 4.8,
+  "score": 4.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-13",
       "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMW9KM0Q2YzlVbWhKU1Z6OTNCdnlPRW1SMDA4ZGVtcE1raXAyWDlBRmJ1aGQ4SGpNVE5ESmRIRlREb05YQ29FRVlhWUpEWV9pc3oxS2x3WWpOc19wa3U4UkZZYVZCSmdJYWo3cTdWYzZWOHVwYXUyQWxfZ0pUZEI4eUlyTklNUDhpLW1VZHNrZGVyQko0WlNBMkRoSkhwbGJIa0dIZ1ozY3djQlhzdHprblV4NXRnbHpzckhXVmYydjV0WjhoZ1pIWGlkYzBlN2JybDk1S2FVM0p0QQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/43d0f1b056daa84657c2e38291f74c9126c86cc8",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
   "why_not_higher": []
 }

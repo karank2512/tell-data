@@ -1,0 +1,39 @@
+{
+  "domain": "expo.dev",
+  "name": "Expo",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Introducing Lightbox Expo Artist Sang Lam - Anime Herald",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVWNKdWFVRmVlbFRxQjBCSGJ2MV9veFlzUnRfRmpsREhPMDRXWXh2WjFkbjhyOXZmUk03VG1xQ1R3bWFRdFJMMExXRUJ2Qk5XdUNoSW1HUHhSQzJUQnA0Y3hiWEVXbUF0Y0ZhSm1leDBIa0hfMmFabDNVTUtpM3BmSHlhcw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-25",
+      "summary": "Introducing Observe: Performance monitoring for Expo apps, now generally available",
+      "url": "https://expo.dev/blog/introducing-observe"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-23",
+      "summary": "How Posh went from manual weekly mobile releases to continuous delivery with Expo",
+      "url": "https://expo.dev/blog/posh-manual-weekly-releases-to-continuous-delivery-with-expo"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

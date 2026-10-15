@@ -1,0 +1,25 @@
+{
+  "domain": "joinergo.com",
+  "name": "Ergo",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.8,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-08",
+      "summary": "Re hires [person] as head of property and multiline",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTJTTVZfQ21FUnd2V0wxclJqU1JIbWI3VXVvazBiNTB6RTBOT01nZUpnVDFkbUVBRHJEa2poZkwyczdjZmhJT1lpM05ZeFd1YTNHUUdBcUNDMkk4clVaUDVCUzYyRUVYZlUxUWo4OHlET3pKV041U05rdEs5a1BRZjZtdGpGYV94YzIwbzY2eUF2dHp5U3Z4eTFEYllUZ0xhOFlpNFpqclpFRDBiTVBGNmxxY1RXbk0yM19ENHliWUM?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

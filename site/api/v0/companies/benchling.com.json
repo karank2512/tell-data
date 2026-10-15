@@ -1,0 +1,39 @@
+{
+  "domain": "benchling.com",
+  "name": "Benchling",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 0.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-27",
+      "summary": "Introducing Benchling Agents, your infinite program team",
+      "url": "https://www.benchling.com/blog/introducing-benchling-agents-your-infinite-program-team"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-13",
+      "summary": "Introducing Benchling Model Hub: The infrastructure layer for scientific AI",
+      "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
+    }
+  ],
+  "open_postings": 59,
+  "long_open_roles": 9,
+  "sources": {
+    "ats": "ashby:benchling",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-13",
+      "url": "https://www.benchling.com/blog/benchling-launches-ai-connectors-to-power-data-ecosystem",
+      "summary": "Benchling Launches AI Connectors to Power the Data Ecosystem for R&D"
+    }
+  ]
+}

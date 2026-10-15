@@ -1,0 +1,39 @@
+{
+  "domain": "echothat.ai",
+  "name": "Echo",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 15.2,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 12.6,
+      "occurred_at": "2026-10-09",
+      "summary": "Form D: $2,132 offering, $2,132 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1773838/000106299326005252/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-08",
+      "summary": "You Have Minutes to Live: Introducing Echo Weaver - XBOX Wire",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1ZwTGFITGlLMjdOazlaa0dUZE5FOXdZcEkxWHg1SVdXOVNTSTVreGJkdGFpYlozamF5VnEzWkpYYWNfaG52V3BUVE02d3RuZ1NUTy1fRFB3RzlLQ0hmV0hVaXU0azN0bDFWZ3BDZEg4ZmhYa3l4YUhBbjlPUWx2SGZSVnNuaXlmeVMydVI1Yk9Td9IBlwFBVV95cUxQUUVVaUR4cWVlRmlwdWJRUHU0ZjNoUnlMVzRtbkZmNVBXbEdDd3RzWm1sSEwxZzA5ZEpDdFRROXFvU19rRW1obTlrdTVrYjRwa01hR3BhNlVhRGJ1Mk5BcENra01mUURNTW1ONEpwc0VoeWd6MTdGbUVfNHFxQ3ZaZWRxU1JxSkptVkxLUGlNX2d1T2h3NlZJ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
+      "occurred_at": "2026-10-03",
+      "summary": "Investigation Launches into Echo Park Stabbing - MyNewsLA.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40U0U1LXhZUE1VbW9XLWNBSGRfSzF0VzQ3WXpjMEY5R3dld0Z2TUh2RW5mQXQzcUFabEZNNG9JdHVQd0hIelpOdHZ0ZmNNcVlEMGtCd2NIaFkybWEyVVB2MUxKSnRUdGh4dU9FYTdFSUNiVXVKRGc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

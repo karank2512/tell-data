@@ -1,0 +1,32 @@
+{
+  "domain": "evidence.dev",
+  "name": "Evidence",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 3.3,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-14",
+      "summary": "Briya Appoints [person] to Bring AI-Native Evidence Generation to Global Research Organizations and [person]",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbXNWM0Zuc1R5QmNqV09lZGMzYWFpcGMtOG5aSDR6NTJwYjZZUlNJZVhHWHNFRnJDQmRmdDczWW1ISlVKX1BmLTQ5dGNtcUJCOVcwcFZxc3M2U0E2R283MHFhSTY2SmlyRFZvMTRNMnVyN05KYWo1YkpTajFHSkp5TmtzTWY2XzFqRVBpLWREaHRfVWFhRGR4NkdpYjBmSFFTQjBQMHJBeWtabV9GZWlUdTBxMnBvcG84ZDg0SkhqTGxXLWdGaW5TUXNNQ09BMm96SEVqeVJRZjFNYU1vTVZqX0JtVElFZkVaX3plNFRQekg5RWJ4RE1jQWtIVUU0bmx2eFhra3l3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-08",
+      "summary": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRnpEeWRjQ2RQRnhvcWQzSGpKTVVWSHpqLTcySDAtOFcwWnJlUkxCTGY2RnJrTi02S3lUQy1meTNNNWFUTkJpakRaQzcyR2U1ZnFLODhJaExSQXFQaUNQV2hpdWxocXZBTTI5NDZTQWsxQkRsVE4zY09ncnBaZUxtTTllRjRJZHdvaTVOdUxLcnc4MG9xeWFzVUQ1TEpOZFFGVUp5SUoxSW45Y3RKc0cxSTRRV1RzU0t0SVY4?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

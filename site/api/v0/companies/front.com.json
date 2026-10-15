@@ -1,0 +1,32 @@
+{
+  "domain": "front.com",
+  "name": "Front",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Congo’s former President Kabila launches an anti-government front including M23 rebels - AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc19GYU1FOTRFdS15QkpsUmlibEZXQkhrSkZUbDdjWXpxdWdmdENsa1gtY2ZOMW1ISTA0T2VKc0RmMnNFX0djZzNJZ3FBWGxKa1BRNjNyRDFqOERFZV9UQmtueks2WXc0NDhzN0FQVXZEUDV1YnV3X0Q3M1RqNFd2SlJYYkhDSTI5SG1zajZtNHpOdHVQSWYxRFJuNTZOaFhf?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-08",
+      "summary": "Legal Front Door Coheso Launches Memory + AL Interview - Artificial Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnB1RkNrQ1dIMlh3MFp1cjNCbFNCeWRpUVNzMmJ0end2cVpwdl91bjU3R3NVN2Vpd3ktc01zVVFGcXR4LWU2RVhyeHdoWW50eXFTMGdUb09fMFdkTTVKc2p4bEhMV3Aybmw1M0V5dkZlWGhoZk96ZGJ3S2dqenlCSERkR2N4aVhXemQzRnMtYndmMHQ1VldGaGVMR3NwUQ?oc=5"
+    }
+  ],
+  "open_postings": 8,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "ashby:frontcareers",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

@@ -1,0 +1,32 @@
+{
+  "domain": "tempo.fit",
+  "name": "Tempo",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Tempo® Introduces the EML150 Professional-Grade Electronic Marker Locator - Florida Today",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUHpnanhMdTc1bXpxaHgwdFdxMGxmZUhCRTVRZzhuT2EzTENleDRpQmJTQUJWVnRWQXRGbWFmcXB2QWtXZXlmNVFCVkRIQmV0THEzYXB5MjJhWHRCQzFNdkxOREY5Z1VBX3A3d2taQkhfdmlJMWJOWGJrbmVyY01SbHNEb3IzM2VscVp3eWpHcWJEajZiSDBHS2d5UlF4SnpScDVoZ05TTzBBbmtFY0dYQkNfTW5RSWU0bmE2eXZnbUZpZUtUbmctTA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-08",
+      "summary": "First Look: Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker - Monochrome Watches",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWNVMnJ6QWc3Q2pBZXRKMHlRaHZ3SkQ4VmIxYTNSbXVtOTFXalBmTVYtaVBOTW5SX2pxaWpPbG5xcGt2RlJjdEZqM3pBRFd4WXZPT1JsZ0xqTUx1SGdzMWd6bHFHMjk5VmtWbWJkRDRyMi1aQ2VPRXgxVnRwUmhMdDluYmVwcTZDUFFKcFQ1QWg4cWdLbVp1a2VOelVDQ0EtSFljc3FsTGM3dw?oc=5"
+    }
+  ],
+  "open_postings": 6,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "greenhouse:tempo",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

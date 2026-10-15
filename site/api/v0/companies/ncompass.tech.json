@@ -1,0 +1,46 @@
+{
+  "domain": "ncompass.tech",
+  "name": "nCompass Technologies",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 85.8,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 24.6,
+      "occurred_at": "2026-10-06",
+      "summary": "Form D: $4,465,597 offering, $4,465,597 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000153/"
+    },
+    {
+      "type": "funding",
+      "contribution": 24.2,
+      "occurred_at": "2026-09-24",
+      "summary": "Form D: $14,933,580 offering, $14,933,580 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000152/"
+    },
+    {
+      "type": "funding",
+      "contribution": 22.3,
+      "occurred_at": "2026-09-16",
+      "summary": "Form D: $10,188,382 offering, $10,188,382 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000144/"
+    },
+    {
+      "type": "funding",
+      "contribution": 14.7,
+      "occurred_at": "2026-07-17",
+      "summary": "Form D: $26,947,269 offering, $26,947,269 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1563190/000156319026000131/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

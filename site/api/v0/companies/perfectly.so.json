@@ -1,0 +1,25 @@
+{
+  "domain": "perfectly.so",
+  "name": "Perfectly",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-11",
+      "summary": "Pil-hun, perfectly capturing the autumn mood… Releases new single \"Season of Love\" today (the 11th) - 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MWE1QRVYzXy03bV8yek4tQVR4czJiaDRpOFVhTFc5aFo0RWQ5REdpRkNpVTZ2MU5xeDNtazVGWDN3RVZsN1pBalYzanlQV19MYnpxdHllOG8tdHBpUEhpaVFROE81b1cwSXNua2NNcmJRZHI2Si00dw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

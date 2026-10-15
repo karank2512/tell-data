@@ -1,0 +1,46 @@
+{
+  "domain": "tryduplo.com",
+  "name": "Duplo",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 5.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Duplo launches new cutting table - PrintWeek India",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOczhXVHZ4LWhEcnlKc1VCTlEtb2REcnZUTC1jcFJzZjVESHN1bWpRVVl1ZGhoY2tCa2lhZ1JXT3pCbTA4cUU1bHpPVzVaV29WLXh6X3FFekxaR0hwdXBNcHBCVVlfWUZVT0l0MWxoNW44Q2RyZ2EwQ2JwdTBsNjRxMGVmSENoWUI0M0ZfSUY2dmpGX3h0WHAw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-08",
+      "summary": "Duplo unveils showroom expansion, launches new cutting table - Printweek",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFxVzNwUGl1emJXY19oak5HS2dNLTZGc21EalM4V05CRkVQelVEV1BRY256R3liWlZyYUd3SV9DR2x0ZzZsN3JIQ05LVTJRNkV2V0xZVlc5RkVyOHVxMUJzWFFCQ2x1ZWd0UEw5RjhCYUdkM01CNjJCUDRyLTJaekRzM3NEZHBSb2puOTM2VHVYejVkVjVELWVJN0R4cWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
+      "occurred_at": "2026-09-30",
+      "summary": "Duplo Launches Treasury Management Solution in Nigeria to Centralise Treasury Operations for African Businesses",
+      "url": "https://tryduplo.com/blog/treasury-management-system-nigeria/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-09-23",
+      "summary": "Introducing Duplo Treasury Management: Enterprise Cash Control Built for African Businesses",
+      "url": "https://tryduplo.com/blog/duplo-treasury-management-enterprise-africa/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

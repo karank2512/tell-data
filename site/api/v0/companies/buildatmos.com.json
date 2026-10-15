@@ -1,0 +1,39 @@
+{
+  "domain": "buildatmos.com",
+  "name": "Atmos",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 4.2,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Fujikura launches new Atmos Tour Spec shafts on PGA Tour - GolfWRX",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNajJkZkNxNWxpWC0wcVBKLVg0RURaYVd1VkVldmVlcHY3YjNzaWt1RlRoSkgtV3ZDZDU3TW5zMW9jZ1N6VGVmSUV4TS10Q2E0cjMybW1VY2E4LTliYU5FZWs1a3BKUmM3cjRlaElYeEZ2a1kwbTEwVU9iT2FhR1NiZmZKLUgxZ2ZnMEtrcw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-11",
+      "summary": "JBL Unveils 'Cove' Wi-Fi Multi-Room Speaker Series...Supports Dolby Atmos and AirPlay 2 - 월간 믹싱",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB3WjFlUlhOcE93MjdYbFlrTzU1RWcwQ2k1MlZJQjBncU5MbFN6UmpCYzlweGxwcmp6UXJOWUhGVDFGWW8?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-09",
+      "summary": "Studio Hill, a new Dolby Atmos-equipped recording studio, launches in Austin - Headliner Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczh5eEE3Qm1EU2trUk9Wd05tZGU1OE81ZE0yOXhXNEQ0VGdNdGVwU0FhV3JadnVtSngtcjg2ZElvU3Z1TmxzMWI1STZMSmVwZ0NPQ2xoaC16WWRKaU9jSUp5bG5RekZ4N2lmYVdSX013anhueEJxQmtoNFJkTDRDQlZIMGUtcHJkVUZTRjZWcGN1U1hGNkVZUG9YY05FNlFVSkdTeEh3cw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

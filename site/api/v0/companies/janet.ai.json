@@ -1,0 +1,25 @@
+{
+  "domain": "janet.ai",
+  "name": "Janet AI",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 14.0,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 14.0,
+      "occurred_at": "2026-07-31",
+      "summary": "Form D: $2,225,000 offering, $2,225,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2147912/000214791226000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002147912",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

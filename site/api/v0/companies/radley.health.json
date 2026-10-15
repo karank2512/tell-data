@@ -1,0 +1,39 @@
+{
+  "domain": "radley.health",
+  "name": "Radley",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 5.6,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-12",
+      "summary": "Radley appoints [person] as licensing partner",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTNLSVRybml4YmE4T3NhUzZuSVduajJsa1dWWG56ZUFiZ1ZTOWh6QklIdVVndVJXdUNjWnJ0U0ZzSHFwSDJ0QzFoLXM4dF81a0VNbkx6bloyMFRVV0VTckJfakNRd0RaSlUtYlg4WUhrdVg2NVRUTzVRNGpuVDY5RExvQzJqdUl5bnphNFhxb3RwZDVBdXpYeGZyVXloM1dFb2ViWDcxVzNqUl9HbFJZ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-09",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamhkeUhhY19BeDFVdFZvTGtoaEtNeVNRVjFhV2ZFUks5eFhpeVVpcnAxTjI4LTlsYTNpTG9aWVYzUGdnT09jcHFfY0hwempucUlFWmNVbVlVb2FOVng2UVNRaDJVTmREYWh3Z3lKTTdVN2ZTc2lWd213czE2ZE51ZzRpRGV1RlhETmZQdHhwdE1Wd0xvTE5BZkdJekpmOF90dll6SmxpQmI1SnFPVGJKNnVUNFAyWk0?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-08",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1F0S0g0Rm04TUI2Vi01SnJzQWRsbXRXUVctc0FXdS15TFcwRGQ0Rk0wU0VRQ3BSdDhhSFptYTkyLUxyeHJxSUE4bzllUWREa0JYNC1iZFFNdFlPSkQxT25pNFBNT3hQbG1hY25VcGxMQnYtOF9qTkVUYklTQXl5WmMxaExKZGh2Szlta2Z5WXByU2txc0pvZHBHSQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

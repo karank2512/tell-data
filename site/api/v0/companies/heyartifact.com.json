@@ -1,0 +1,32 @@
+{
+  "domain": "heyartifact.com",
+  "name": "Artifact",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Walt Disney Imagineering Releases Latest Clues in Stolen S.E.A. Artifact Scavenger Hunt - WDW News Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR3FuY0xIclFtME1aQjN0NW9TVEs0eVlMX0NOYy1OR0Ixak5XbjMycUdDS09SRkZZRHd3dVRsRWdNc0l6ZVRRS0FjeDYtMi1XaWlfMER2SHJYVGVOcU5ZVWRveTA5b1o0ZzJTaXF5M2ZEdERURU82RGhEVFIxTEpQREZfcnJwTlNEcktGQlBmR3pRclgzY3dENHJJMnBFMUhpSFVGNjVyUGlSTVlwSThVdWN1bw?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-13",
+      "summary": "Gangwon Province Resumes New Office Infrastructure Work Suspended After Suspected Artifact Discovery - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BcXo1NllhaWcydkdsSjdSTHlvNkxtT1Q1anNuVHFLTk9rbDhYTnotY1NjRWpET0tCOWRoZ2FtcVRCRUdxbUp4UEdyZnFxWkNGTWtlS1pwNUxXLXBQNEFpdEx1Q3Q?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

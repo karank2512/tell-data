@@ -1,0 +1,25 @@
+{
+  "domain": "trybezel.com",
+  "name": "Bezel",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.3,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-08",
+      "summary": "Garmin launches Enduro 4 with insane 90-day battery life, solar charging & titanium bezel - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDNyNkFXZHhBZWhuZktLOE5qbGh5STZmZjNSNUhrUGkwUWlMMjR5dlpncW1RSVVleTRSOFBaSlNmUTVJMDBkZUhvVkp1WW5qUjJoN3NidzhMQmI5SWwzM2ZzWHNabGxreTFCbDRRbG1IWUJkOXJVbzc1dUJCemZUUw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

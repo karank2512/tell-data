@@ -1,13 +1,13 @@
 {
   "domain": "ark.com",
   "name": "Ark",
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Noah’s Ark launches ‘They Choose You’ adoption event - WIFR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVprbDZFN1liVURpQzByNTdhWmQ5Q2lENndobEtRZjk2NkFKNVF0dWs0eEY5d1RyekpLcmNneEw4OVdvbjh1aWtvNmw4SjZMT2hmVkhpdmlKalFLdGg2bEFFRnlqZTdQcVdFeE42RVc0am91eXJaSklZMkxQQ0M3c0pkMThvandGemFBNXZRY2VoTEJSbEVaV1FEUdIBrwFBVV95cUxOVlVkcUE5VUlGRFVIaW1aRjhKNVlnUGZEM0JkYm53TWtZSG9pYmVyNm03X08yam85Q1djcllFTk5JT2ktd2hpdU5NMURaZExjeHVGR092NjVuNlFHVmw3ZDFhYVN3bDFtaEROYWxwc0U4eEdWbXY4QXdGQkJJZUYxQmo2bXR3Qmx2dDFQanRLZU5EeldjdmR0bU5GRkFjdEtlYmlIVXNxMDA5TUxqRlVZ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/43d0f1b056daa84657c2e38291f74c9126c86cc8",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
   "why_not_higher": []
 }

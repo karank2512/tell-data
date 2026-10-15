@@ -1,13 +1,13 @@
 {
   "domain": "sift.com",
   "name": "Sift",
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-12",
       "summary": "Sift Launches Org Planning to Help HR Leaders Navigate AI Workforce Disruption, Restructuring, and Skills-Based Organization Design - HRTech Series",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQM3NqTXQwZzVhY3NGMlMxZDdaOVQ4TlBuVFhaXzhCVEUwMjVtRXlYS3Q4VWdXaTMtZWVtUVFZMUFIUWVxNUliNkhBMVF6a2N0MXNPdjUwLXJxYUhQVjhzblNLTHZqSEpzUERiSDBvQ2ZMMERtSnk2bUtWZF9LcEgyT01uTVEwN1JxTXNmNU85SDU3dGl4eXVhXzZRNTFDeUdLdWhlcm9pcWVSeG9obGNTU2J4RnJJVjN4VUlxWlVrOG9xeUxvN0NvOUZLSFpzbzZaRjJob0JJSHJPSDlrMWdrckhVZ1NndV9fYVZRem0xUGt0UnFPZ1RzbG1UcnZyMWxyNFBQNXZPRV9TQQ?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/43d0f1b056daa84657c2e38291f74c9126c86cc8",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
   "why_not_higher": []
 }

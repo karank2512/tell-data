@@ -1,0 +1,39 @@
+{
+  "domain": "blink.new",
+  "name": "Blink",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-10",
+      "summary": "BLINK unveils plan for severe weather as rain threatens festivities - FOX19 | Cincinnati",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTVTNy1qSDRiWlh6V3pVSTNnaXFXX0VNNWZ4RWdpWHVpVzE5MzJPc0Vxd0ExNmNnajFxQjZhRndBMDl4bGlTZU9HdEdjbjRlNXpteGxiYXBuVzZmaHhFODBJclRTOUFJN0RnUFlLQ3RsM1FDRFJmZFg2cnAzV3pmTEwzY0RXVzNTLWR5QmNiNG5xdXZFYkJIZ1VB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-09-25",
+      "summary": "Introducing Durable Agents",
+      "url": "https://blink.new/blog/introducing-durable-agents"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-13",
+      "url": "https://blink.new/blog/introducing-blink-cloud",
+      "summary": "Introducing Blink Cloud — The Vibe Coding Cloud"
+    }
+  ]
+}

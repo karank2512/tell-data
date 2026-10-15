@@ -1,0 +1,25 @@
+{
+  "domain": "usehelios.ai",
+  "name": "Helios",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Kratos Defense Launches $35M Helios and AN/SPY-1 Facilities in I - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTE5KT1ZiYl90TUg1TFU4OVo5dFVUdFVGbzdUSkl4YkEwMUN4eGxhSks1dXZobmp4aWt1ZFYwdjlsU2FScGRhem1tLXJfdkQ5RjQ0Q2VFY3pZSnh2RmZVSVEyRXhuRV85LV82LTEwQ1AyZ0M5SHhPbHdFU2N1azVIU2p3MUFWRmFvTnRGaXpwQ213SDFMLV9PUTBPV2tLYUZuV0dWTFdvWl9JRXF6bDdZXw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

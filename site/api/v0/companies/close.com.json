@@ -1,0 +1,25 @@
+{
+  "domain": "close.com",
+  "name": "Close",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 0.2,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-03",
+      "summary": "Introducing Chloe, Your AI Sales Teammate in Close",
+      "url": "https://close.com/blog/introducing-chloe"
+    }
+  ],
+  "open_postings": 6,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "ashby:Close",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

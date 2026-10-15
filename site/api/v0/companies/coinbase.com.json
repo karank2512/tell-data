@@ -1,0 +1,32 @@
+{
+  "domain": "coinbase.com",
+  "name": "Coinbase",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Coinbase Launches Agent Payment Stack on 1-Year Business Unit Anniversary - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzNzQ1Y0QkVLbGx0QXpEQUlXMHBkRUZhNkxPS09hTW42dWtaRk1CWE1wNXhqeGp3bmtXVllPVjdYM3hLenY4c3oxU1UtQkx6aEdqa0NmSkJadTVRVHZPNXNYUUQ4OXZYQkVVQzlDLUQ1VjBsUzV6dm1GR1pfTDN3RmlvcHM5bnlSSWMzeDhkeTdvS21MUWxxRlU3ZDNEbmdqT1hOOC1VMTJOV3VyRHZCMDc1M3N1dw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-09",
+      "summary": "Coinbase Unveils Wrapped Bitcoin cbBTC With Solana DeFi Integrations - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVVxMGhyM1FFUElmWUc5OGk0UGljTGUxdDUzcXctMF80d01qcTB6S1AtWnlkb3QtZFFmYUkya0FRVnBUcHFBOVkwVFBQOTJyWUJQMDRBSVhzUlB4djVoZGVIVExySWhCQ0xNYVNhRE9SM19Od3o4OXJyOTZlOHM0ejZPZlhmVVAxTXBwUHN2MWtGNld1d2ZoQWwzQ21RZC10U2RwRVh2bnp5WGFIUkVB?oc=5"
+    }
+  ],
+  "open_postings": 226,
+  "long_open_roles": 60,
+  "sources": {
+    "ats": "greenhouse:coinbase",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

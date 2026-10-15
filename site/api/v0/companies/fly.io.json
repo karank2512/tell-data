@@ -1,0 +1,32 @@
+{
+  "domain": "fly.io",
+  "name": "Fly.io",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 16.1,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 15.2,
+      "occurred_at": "2026-07-22",
+      "summary": "Form D: $24,999,937 offering, $24,999,937 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2144091/000214409126000001/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 0.9,
+      "occurred_at": "2026-08-05",
+      "summary": "Fly.io Raises $25 Million Series D And Appoints [person] As CEO",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGZ0M09fZ2s1WGpXUDBpamVVMzVCTExRUUhxM09KLTh2eHYyTnc0ZTdYVzZUOWQzb3BxTWRtdTlEb1FwaE1xZzZPVjVXLVVHdDJsaGZOVmFTQk9DRC1xd3Bjd3NMZXB1OE1TSWRtUk5OaERBaEV5bnEwTVZIYlQ3bHJwX0g0bU5VTlQ1TGI1cU91Z9IBlwFBVV95cUxOX0NySER0UTNtTUNjLWdNLW1ITDNjWGZWRlNycklNNVpEdWZ6Mzh0aE5id01DMnZoT2Rab3BTZVk4dkM4N3dnWmxQaWFRQ0hlalYxOXRfOGtqV25Benc5YmhkZjFNMVBVeER6SkpQQ29BS0N5UXl4WnRLR2dNUTNVMkJzcFlROFBPaDlsRDNpaXZYZXVQblcw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002144091",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

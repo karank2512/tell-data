@@ -1,0 +1,45 @@
+{
+  "domain": "demandsphere.com",
+  "name": "DemandSphere",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-09-03",
+      "summary": "Introducing Chat Features",
+      "url": "https://www.demandsphere.com/blog/introducing-chat-features/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-06-28",
+      "summary": "Introducing the State of Frontier AI",
+      "url": "https://www.demandsphere.com/blog/state-of-frontier-ai/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-15",
+      "url": "https://www.demandsphere.com/blog/introducing-demandsphere-radar/",
+      "summary": "Introducing DemandSphere Radar"
+    },
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-09",
+      "url": "https://www.demandsphere.com/blog/ai-frontier-model-tracker-launch/",
+      "summary": "Introducing the AI Frontier Model Tracker"
+    }
+  ]
+}

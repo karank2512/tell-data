@@ -1,9 +1,9 @@
 {
   "domain": "fabric.me",
   "name": "Fabric",
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.6,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "The LYCRA Company Unveils Two New Fabric Innovations at Kingpins Amsterdam Autumn 2026 - Fashion United",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOanlfX3lsSThWMlktZlI0cW40UVcwb1JmYU9CMjUyb1NKMFpVWWdkQkowNDg4c1MzWl9jODdwVGh3c1BBaGNweEtTSUxhSWkzaHp4ZVAwNzlfRGJKNTJvUTNGOGpjaVpJcnAwSHItSUpZcmxXSzJ2MjVXdmp2bHZTUlo3ZWpOUTRkU2lreG01b0dTaW5MSDJ1WVQybDlSaExKVmNVdGVmeWp1TGJ3dGwwaGJRVGw4NFFWYkkwT3h3Zlc2VlNvdDRkQUZuVS1nYmJEbVBSMkZB?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/43d0f1b056daa84657c2e38291f74c9126c86cc8",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
   "why_not_higher": []
 }

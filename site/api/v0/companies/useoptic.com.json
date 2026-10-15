@@ -1,9 +1,9 @@
 {
   "domain": "useoptic.com",
   "name": "Optic",
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-12",
       "summary": "Holosun introduces enclosed pistol optic with forward-facing light sensor - Police1",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZzFpQ05IZmVEdTd6Y3FxQzRtWVhFcVZ1dkdodmVrWUxjd2JYWHBadG8xZ24zaHZaYmJxMkFTREVPVnNTX0lFNkZQMkRYQ2Q0T3Y0N2t1N1JTdVE2MVkwSEktUlV1TzA0cC1mcUZldXF1TzFodDRaWVpyNlFaYml5MUlfcjVTRTRtV1pDcHU0VWJWRmZzQ0Vnb0d1V0Z4YzVrYXR0Q2tZeVNrWmZ3VDVEc2phb2ZwNXpjQUJSRUxDSnVNLTA5RWpsSw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/43d0f1b056daa84657c2e38291f74c9126c86cc8",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
   "why_not_higher": []
 }

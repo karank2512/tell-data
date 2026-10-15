@@ -1,0 +1,193 @@
+{
+  "domain": "basedash.com",
+  "name": "Basedash",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 11.1,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Introducing the Basedash Connector gallery",
+      "url": "https://www.basedash.com/blog/introducing-basedash-connector-gallery/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-09-25",
+      "summary": "Introducing Basedash MCP write: build charts from anywhere",
+      "url": "https://www.basedash.com/blog/introducing-basedash-mcp-write/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-09-19",
+      "summary": "Introducing Basedash Models",
+      "url": "https://www.basedash.com/blog/introducing-basedash-models/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-09",
+      "summary": "Introducing Basedash in English, Español, Français, and Português",
+      "url": "https://www.basedash.com/blog/introducing-basedash-languages/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-02",
+      "summary": "Introducing AI Sources: see what built every answer",
+      "url": "https://www.basedash.com/blog/introducing-basedash-ai-sources/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-26",
+      "summary": "Introducing Basedash for Grok Bot",
+      "url": "https://www.basedash.com/blog/introducing-basedash-for-grok-bot/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-18",
+      "summary": "Introducing public sharing: live dashboards for anyone",
+      "url": "https://www.basedash.com/blog/introducing-basedash-public-sharing/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-15",
+      "summary": "Introducing Tasks: your operations, on autopilot",
+      "url": "https://www.basedash.com/blog/introducing-basedash-tasks/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.5,
+      "occurred_at": "2026-08-08",
+      "summary": "Introducing Basedash Subscriptions",
+      "url": "https://www.basedash.com/blog/introducing-basedash-subscriptions/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.5,
+      "occurred_at": "2026-08-01",
+      "summary": "Introducing Basedash audit logs",
+      "url": "https://www.basedash.com/blog/introducing-basedash-audit-logs/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-24",
+      "summary": "Introducing the Basedash developer platform",
+      "url": "https://www.basedash.com/blog/introducing-the-basedash-developer-platform/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-17",
+      "summary": "Introducing Basedash Suggestions",
+      "url": "https://www.basedash.com/blog/introducing-basedash-suggestions/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-11",
+      "summary": "Introducing Basedash SCIM",
+      "url": "https://www.basedash.com/blog/introducing-basedash-scim/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-02",
+      "summary": "Introducing Basedash Actions",
+      "url": "https://www.basedash.com/blog/introducing-basedash-actions/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-06-27",
+      "summary": "Introducing Basedash for Excel",
+      "url": "https://www.basedash.com/blog/introducing-basedash-for-excel/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-20",
+      "summary": "Introducing groups and access controls",
+      "url": "https://www.basedash.com/blog/introducing-groups-and-access-controls/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-12",
+      "summary": "Introducing Basedash for Slack",
+      "url": "https://www.basedash.com/blog/introducing-basedash-for-slack/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-04",
+      "summary": "Introducing the Basedash semantic layer",
+      "url": "https://www.basedash.com/blog/introducing-basedash-semantic-layer/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-05-29",
+      "summary": "Introducing Basedash Embedding",
+      "url": "https://www.basedash.com/blog/introducing-basedash-embedding/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-21",
+      "summary": "Introducing Basedash Skills",
+      "url": "https://www.basedash.com/blog/introducing-basedash-skills/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-15",
+      "summary": "Introducing Basedash MCP connectors",
+      "url": "https://www.basedash.com/blog/introducing-basedash-mcp-connectors/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-07",
+      "summary": "Introducing the Basedash MCP server",
+      "url": "https://www.basedash.com/blog/introducing-the-basedash-mcp-server/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-04-30",
+      "summary": "Introducing the Basedash Dashboard Agent",
+      "url": "https://www.basedash.com/blog/introducing-basedash-dashboard-agent/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-04-22",
+      "summary": "Introducing Basedash Automations",
+      "url": "https://www.basedash.com/blog/introducing-basedash-automations/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-09-21",
+      "url": "https://www.basedash.com/blog/introducing-basedash-insights/",
+      "summary": "Introducing Basedash Insights"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "domain": "superset.sh",
+  "name": "Superset",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 18.3,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 17.4,
+      "occurred_at": "2026-08-14",
+      "summary": "Form D: $11,500,089 offering, $11,500,089 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2150111/000215011126000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-09-11",
+      "summary": "State Street introduces PriceStats Superset - FX News Group",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVNveUEzS0NxWW54czF3TFk4NnRSMWF6anFHRkF5R2ZfeE5GaGN4WTE2cFFIVUwwbnBrT01rWFM3dWdZVHlBc2NubFZFS0tFeDdyaEk1TWpuMVJjY0dtRVVpSW9ibVNBYWdiSVJqd3BabE5aXzhBVERoVlRiTkxFQXJ1b1o5NDYyVGpENkFTa3JMdlUzZXNUVw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002150111",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

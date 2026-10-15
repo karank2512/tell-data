@@ -1,0 +1,32 @@
+{
+  "domain": "webflow.com",
+  "name": "Webflow",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 2.1,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-08",
+      "summary": "Americaneagle.com Launches New Webflow-Powered Website for M1 Concourse - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeThYUWRJVVpXTnN3dlJ3cVo3bXBqQ3kzZ3FwSTFOaWVOSU8tX0x2Tk05NnRXRTBjS2RSanZHaV9JRHl6VVhIQWRRUzZNY3YxY1NoVjFpOUN5WEVUMnhOTkZheDRaR1I5NTA0Mm9kQ25wb2dwR09RYlBCZ0FzNTNsbjI5Q0tBYnpmbDRMX29uMWh4WDdtbEozNG40YUJVNmFNYk1GbEZtcTkzdDFTeUNwano1RWxVX0lXZ3ZIWXotN292VExo?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-02",
+      "summary": "Introducing Source by Webflow: where marketers and agents run the web",
+      "url": "https://webflowmarketingmain.com/blog/introducing-source-by-webflow"
+    }
+  ],
+  "open_postings": 23,
+  "long_open_roles": 11,
+  "sources": {
+    "ats": "greenhouse:webflow",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

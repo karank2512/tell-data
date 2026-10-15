@@ -1,0 +1,32 @@
+{
+  "domain": "songkick.com",
+  "name": "Songkick",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 3.8,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-13",
+      "summary": "Suno appoints [person] to lead live music team with Songkick",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlVIUEM5VXgtSGM2a1JMSGdqNHV3aTVwdXpSVVdOS25pU29fUEVXbUg1NUhUT1hrUFFSMFR1Q3ZtQTBvQkJGdm5IYkl3ZThBTDd0b1pFbFB2QUpNaElxQTB6TDNwbEp0cmFVNjVUalNVVHhsNk9xdzZHUzNrVF9sNF9YYWhOc0JrNy12eDFVaU5yX3picVVnRjIzbDBrMDB3TVBuTWZmdDhXazdEbUJsLUtB?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-08",
+      "summary": "Following Songkick acquisition, Suno appoints [person] to lead Live Experiences division",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd3pjQlVyV1p2M3JPR3g5bGRNMTBaS25kM0FPNHFPUHhBVVBzOHhTMEZZT04wM040cklMaEJ5LWs0QlJXYXVndmtHeUgyZHZqMVpWU2xJTC1xczV6ZGR5N1JpNmFjUnZGS3B6VVdKMFdMbnBqR3c0cU9Kb3otczVtTUFSVjQtSzYwd000MGVVSERuQlNBQzJ6dG1wdkxWclpoWlAtTnFxNjh0NU04RGZEOXk2LUc5dE9SbTVlYmpIQ0hKdHBzQl9tQUVNaENCcEJnMDZr?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

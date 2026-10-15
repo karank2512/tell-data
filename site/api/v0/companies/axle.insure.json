@@ -1,0 +1,46 @@
+{
+  "domain": "axle.insure",
+  "name": "Axle",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 29.1,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 25.8,
+      "occurred_at": "2026-10-01",
+      "summary": "Form D: $17,260,363 offering, $17,260,363 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1951844/000195184426000005/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Hendrickson debuts Softek steer axle for Peterbilt 567, 579 - Bulk Transporter",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWk40QktScG45TGQwOEt6Z09rcHpxdWwyajQtaEJGNXk4aENXb1Y5eWRMdDN4NlJfMFNRZWtmSXBadGlQYUhocWZ2cm03cVBjYWtTZldBOTdmc0Nac3FOeHhHWGVuX3d4bF9jdnZiM3RJeTVJbHdhTWlrWkpaaXd3RXNkUk93ZThvd0VHbkFEWTY0UFhDTzZBYm5NckZ6Z21FMHlRYUdiVlJfX0lyTkVBeDBVcnY?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-09-27",
+      "summary": "Keystone Debuts the 2027 Reign 22FK: The RV of the Year, Now on a Tandem Axle - autoevolution",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnhHOTZHUDg1b2xBaFN0Sm1oLXREWndiVmZvOHZ2aGRPdHZjTFdlWlBPeEhMWDJ5YjVlbGl2Y0RBMmtVeFBXUEJqbGVnTGlZc2xibkFXdFNFRmZ4dzJYY2pUOVNwb0xac2xzUEltTGhFWGF0TDJILTZMNzlVRGk2UkxfUkdaMVlydVNzRDljbXBMU1M3RmF2bjkzRTQ3WkxFMTZ5dVpMNHFqMkZUYl9BblNRRmJsR2h0WUhRaEhmRQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-04",
+      "summary": "Axle AI FOCUS, revolutionary on-premise media search software, launches at IBC2026 Conference ( Hall 7.D20 ) - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYjBDVWxPN2FtcXoxTU1tVXpORXdyUHpXRUtWMjI0YXNSX2NLZzcxdWdTY0hlRHZncVlFVEJJTlRCWHBqdlpXdXdVUDBFTTNfSUFEMnZHTldaRmNBYVpsTmZjZ1hSTUVXWWxXQktGbERPTTJGWTZUNGYxR19QNXFhcnVXblQ2ZXVFN29sUWkza3E1LVdKUDdLdkdTckdqZEZ3OEpqZFpHUm5WNHNwNjc0N3N4R0VyRk16ZE1YMVNVd3BrNUZVZnBFUXFSOTFKVHpYMmJxOTZCLVJVVWx3clFfa3pVRQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001951844",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}
