@@ -3,7 +3,7 @@
   "name": "Flip",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 4.7,
+  "score": 8.1,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-13",
       "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMW9KM0Q2YzlVbWhKU1Z6OTNCdnlPRW1SMDA4ZGVtcE1raXAyWDlBRmJ1aGQ4SGpNVE5ESmRIRlREb05YQ29FRVlhWUpEWV9pc3oxS2x3WWpOc19wa3U4UkZZYVZCSmdJYWo3cTdWYzZWOHVwYXUyQWxfZ0pUZEI4eUlyTklNUDhpLW1VZHNrZGVyQko0WlNBMkRoSkhwbGJIa0dIZ1ozY3djQlhzdHprblV4NXRnbHpzckhXVmYydjV0WjhoZ1pIWGlkYzBlN2JybDk1S2FVM0p0QQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-13",
+      "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2UxX2x4Z3ZuNFlQY0UyTFN6Q1QyT0xsOWlmaGdMZndWcWVZa1E4cjFZYUlMLUpmMW93WlBNU2trbkFRQXMwSFVOaUxURkh0V3NObUgtY2p1QjFaZHJmTU81TGcxZmxNUDJTYndBSEo0RzVwQ3lkQWVlRFEya1AzaTVjSVlvVXVyUzRjNEJ2b0ZLRG1zcDRTZzVaRUx6ZXhRZ1FlazIzV0xfQ0xuWWluYXgzTjd5N0NCZHRzQk9tdURQcDhSRTVkWHlOa1V4WGU2cTFieDVBanZzbHdISmc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "BBC ICECREAM x Reebok Board Flip “Pumpkin” Releases October 2026 - Sneaker Files",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54WG04cU9fM19OU3N6THhkLWVBQ01Kem05cmNESTIxTk42SEIzVG5IWGt5ZVJhZGM0YlF2bFdHeU1aRGpObFJiVDRmdnZLTG0tS2NMYXBWd1hxbVI5QWhZUEZaMnZaS2JWUENiOXNzLWI4aTFuVjhpVQ?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

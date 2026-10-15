@@ -3,13 +3,206 @@
   "start": "2026-10-05",
   "end": "2026-10-11",
   "top_hiring": [],
-  "top_funding": [],
+  "top_funding": [
+    {
+      "domain": "whitehawkminerals.com",
+      "name": "WhiteHawk Minerals",
+      "amount_usd": 74999994,
+      "amount_sold_usd": 74999994,
+      "date_filed": "2026-10-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/1921603/000192160326000005/"
+    },
+    {
+      "domain": "whitehawkminerals.com",
+      "name": "WhiteHawk Minerals",
+      "amount_usd": 50000000,
+      "amount_sold_usd": 50000000,
+      "date_filed": "2026-10-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/1921603/000192160326000006/"
+    },
+    {
+      "domain": "eigenq.com",
+      "name": "EigenQ",
+      "amount_usd": 44450000,
+      "amount_sold_usd": 22225000,
+      "date_filed": "2026-10-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/2064142/000121390026106928/"
+    },
+    {
+      "domain": "scoutdiscoveries.com",
+      "name": "SCOUT DISCOVERIES",
+      "amount_usd": 28429695,
+      "amount_sold_usd": 28429695,
+      "date_filed": "2026-10-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/1974508/000197450826000002/"
+    },
+    {
+      "domain": "vyehealth.com",
+      "name": "Vye Health",
+      "amount_usd": 18184991,
+      "amount_sold_usd": 16234993,
+      "date_filed": "2026-10-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158121/000215812126000001/"
+    },
+    {
+      "domain": "clasp.ai",
+      "name": "Clasp",
+      "amount_usd": 15249996,
+      "amount_sold_usd": 13249996,
+      "date_filed": "2026-10-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/2024665/000202466526000006/"
+    },
+    {
+      "domain": "inventwood.com",
+      "name": "InventWood",
+      "amount_usd": 5000000,
+      "amount_sold_usd": 1491000,
+      "date_filed": "2026-10-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/2066808/000206680826000005/"
+    },
+    {
+      "domain": "spectraxe.com",
+      "name": "SpectrAxe",
+      "amount_usd": 5000000,
+      "amount_sold_usd": 1200000,
+      "date_filed": "2026-10-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/2152466/000215246626000002/"
+    },
+    {
+      "domain": "starlifter.ai",
+      "name": "StarLifter",
+      "amount_usd": 4000000,
+      "amount_sold_usd": 3999999,
+      "date_filed": "2026-10-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/2156953/000215695326000001/"
+    },
+    {
+      "domain": "cococoders.com",
+      "name": "Coco Coders",
+      "amount_usd": 3361003,
+      "amount_sold_usd": 3361003,
+      "date_filed": "2026-10-07",
+      "url": "https://www.sec.gov/Archives/edgar/data/2005162/000200516226000003/"
+    },
+    {
+      "domain": "cococoders.com",
+      "name": "Coco Coders",
+      "amount_usd": 3000000,
+      "amount_sold_usd": 1999999,
+      "date_filed": "2026-10-07",
+      "url": "https://www.sec.gov/Archives/edgar/data/2005162/000200516226000004/"
+    },
+    {
+      "domain": "overfuel.com",
+      "name": "Overfuel",
+      "amount_usd": 2853999,
+      "amount_sold_usd": 2853999,
+      "date_filed": "2026-10-07",
+      "url": "https://www.sec.gov/Archives/edgar/data/1955994/000195599426000003/"
+    },
+    {
+      "domain": "getoliver.com",
+      "name": "Oliver Software",
+      "amount_usd": 2075000,
+      "amount_sold_usd": 2075000,
+      "date_filed": "2026-10-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1980218/000198021826000003/"
+    },
+    {
+      "domain": "swarmdefense.com",
+      "name": "Swarm Defense Technologies",
+      "amount_usd": 2040000,
+      "amount_sold_usd": 2040000,
+      "date_filed": "2026-10-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130440/000213044026000002/"
+    },
+    {
+      "domain": "pyropic.com",
+      "name": "Pyropic",
+      "amount_usd": 2000000,
+      "amount_sold_usd": 1250000,
+      "date_filed": "2026-10-07",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158627/000215862726000001/"
+    },
+    {
+      "domain": "ritrova.io",
+      "name": "RITROVA",
+      "amount_usd": 1500000,
+      "amount_sold_usd": 1500000,
+      "date_filed": "2026-10-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159140/000215914026000001/"
+    },
+    {
+      "domain": "cone.ai",
+      "name": "Cone Technologies",
+      "amount_usd": 969994,
+      "amount_sold_usd": 969994,
+      "date_filed": "2026-10-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/2156269/000215626926000001/"
+    },
+    {
+      "domain": "htdhealth.com",
+      "name": "HTD Health",
+      "amount_usd": 570068,
+      "amount_sold_usd": 570068,
+      "date_filed": "2026-10-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/2154839/000215483926000001/"
+    },
+    {
+      "domain": "skynexus.ai",
+      "name": "SkyNexus AI",
+      "amount_usd": 500000,
+      "amount_sold_usd": 100000,
+      "date_filed": "2026-10-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158087/000215808726000001/"
+    },
+    {
+      "domain": "memrico.com",
+      "name": "Memrico",
+      "amount_usd": 250000,
+      "amount_sold_usd": 25000,
+      "date_filed": "2026-10-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158790/000215879026000001/"
+    },
+    {
+      "domain": "togglebio.com",
+      "name": "Toggle Bio",
+      "amount_usd": 200000,
+      "amount_sold_usd": 200000,
+      "date_filed": "2026-10-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158695/000215869526000001/"
+    },
+    {
+      "domain": "henshin.ai",
+      "name": "Henshin AI",
+      "amount_usd": 15000,
+      "amount_sold_usd": 15000,
+      "date_filed": "2026-10-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/2153655/000215365526000002/"
+    },
+    {
+      "domain": "agentteams.com",
+      "name": "AgentTeams",
+      "amount_usd": 4000,
+      "amount_sold_usd": 4000,
+      "date_filed": "2026-10-07",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159376/000215937626000001/"
+    },
+    {
+      "domain": "dodoisland.ai",
+      "name": "dodo Island AI",
+      "amount_usd": null,
+      "amount_sold_usd": 100000,
+      "date_filed": "2026-10-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158213/000215821326000001/"
+    }
+  ],
   "method_change": "Scoring rule: funding magnitude is log10(total_offering_amount) capped at 8, or 6 when the amount is undisclosed or zero (spec section 8); form_d_filed events flagged is_amendment never produce a signal.",
   "coverage": {
-    "companies_monitored": 146,
+    "companies_monitored": 488,
     "boards_polled": 0,
     "filings_read": 0
   },
   "repo_url": "https://github.com/karank2512/tell-ai",
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74"
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1"
 }

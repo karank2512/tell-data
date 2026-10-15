@@ -3,7 +3,7 @@
   "name": "Clever",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 2.9,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-13",
       "summary": "BidCleverAI Launches Clever BI Module Following a Productive CelLink Beta - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanZKZjZLMXo5YnM1S2Z2MnZLanVGT1k2d0JoMldTVl80cDhfY1FMeG1Zbld4eVFheHBadlVlRjYxdU9oUWdSM2RMS21fQUNsa0lhMHBPaDRQXzB1bGo3QWkyeGZRbWx5UlNoRnpJUVJsMmluWXRGT2ZqbFYybmpxcW1CaTBQSzhNM1JlS0I5N1hRblk3MFhlZFJVY2duTEFSc1Brc3Bfdks4Q3RhMXBEWWtTODFzeU9Gd19VVA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Fiat introduces clever new watermelon car that switches from a people carrier to a pick-up - Yahoo News New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjU2SlVKNjJ5RjB1dmRDUzRmRGg2QmVUVjFtbnB3UEt5RG5VV1NWcE0xcGI2d05VSGJBZm16STMyT3ZFRWFBNVFTTnQtbllYLWlDMzNadkttU2FyY1R0bElLSXdaZzN2NmRnT05yNTRZWlhCVnVCMUNCTWt4V296aW1VdWo?oc=5"
     },
     {
       "type": "launch",
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

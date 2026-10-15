@@ -3,7 +3,7 @@
   "name": "Onebrief",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 31.5,
+  "score": 32.5,
   "contributions": [
     {
       "type": "funding",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-14",
       "summary": "Form D: $249,999,915 offering, $150,799,963 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1888809/000188880926000002/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.0,
+      "occurred_at": "2026-08-20",
+      "summary": "Knox Systems Appoints former Palantir and [person] Executive Melissa Glauber Vice President of Marketing and [person]",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTVp4bHRCZFNPN1c0VWxsTWpYM1dNcTlVZEJRWDNZQ0ZjNlFhYUo2dm10WEZTeFlRVGJMdVBsTjEwanBiRHp6SmNYckk3X2hEMElQLXc0REY3ai1fVnJnVzNCeDJjR1NQaExwZ2QxUkFRYU9LdnJ0RE51NVllTVhkQkZNU21FVXNJcTBDNWQzbmNXZUFIMDlpeXZSX1ljWEhqT01lWWhTRlppT1p5Y1NTQWpFcGpWN3ZxYm9NNUhNYjB5MlYwaUFTRllvUHR4NW5aYWRKa3ltUW5nSTdzNlV2dTJGeDVhQVVSN3AzUW04TmVyZHU0SDJ4MjhlUG5QeWxkNnpsV3BnbVdNVnc?oc=5"
     }
   ],
   "open_postings": 0,
@@ -18,8 +25,8 @@
   "sources": {
     "ats": "no_board",
     "edgar_cik": "0001888809",
-    "news": false
+    "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

@@ -1,0 +1,39 @@
+{
+  "domain": "flightcast.com",
+  "name": "Flightcast",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 17.6,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 15.6,
+      "occurred_at": "2026-08-12",
+      "summary": "Form D: $2,749,999 offering, $1,750,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2149399/000214939926000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
+      "occurred_at": "2026-09-30",
+      "summary": "Steven Bartlett’s Flightcast Launches Collaborative Editing Tools for Podcast Production Teams - Net Influencer",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa0ZFZHlRREFhT1FGNkVvWkw0N29SNVRwRWg0c01iQzVFak5FWUtEV0Y4Mks5Y3V4WllVdHlFbzBQOU0yZ2ZEVmRvVTFkUWlWZWk3ZndjZVd0NEJybDRvNFktUUFvVjdjQVNtejZhWE1SYUI0M0doRDZYTmFIS01HWENkSGgwdGVVUmN5MVlpNWhkSUR2b0VwV1phV0xGZDRqT1hJcy1MYkFHZGR0bGtQdE5jbDdmcmNEQXBjcGRqR1c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-09",
+      "summary": "Flightcast launches unified video podcast ad delivery - PodcastingToday",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0VpZEQxd24xcjl4MjJDQ2dFbFBOMHAwRkR5NXlSNVpyODl3QVkwS1hjUkZ1dURXQ29yU2p6M1l2SFF0ZVhUYU9XendLWDB5YndjSUh2WVB5b1VLVDdHOXc3QWFXNmoyOFpMMlA2NXZGUFd1STJ0S21fdUZwdGl0Vl9OTnljT2VrQU80Qg?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002149399",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

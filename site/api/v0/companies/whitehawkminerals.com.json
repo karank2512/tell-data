@@ -1,0 +1,39 @@
+{
+  "domain": "whitehawkminerals.com",
+  "name": "WhiteHawk Minerals",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 58.5,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 28.9,
+      "occurred_at": "2026-10-05",
+      "summary": "Form D: $74,999,994 offering, $74,999,994 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1921603/000192160326000005/"
+    },
+    {
+      "type": "funding",
+      "contribution": 28.3,
+      "occurred_at": "2026-10-05",
+      "summary": "Form D: $50,000,000 offering, $50,000,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1921603/000192160326000006/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-06",
+      "summary": "WhiteHawk Minerals Launches Up To $100 Million Series F Preferred Offering; Hires Preferred Capital Securities - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQN0pPdmpJeVNZUnh2SlIwYTNGdFdfVHpVQ2hkYmJuRFZ6RjhQV0ZtTHItYUpyY0FNYkZ6M3g0TENaaEY2OUozN1BKWmVpenM5Q3ZyQmlZX1pIdFJyR0s0UUthaUVXOTVlUUpFZTNjN1hUWC1GSDFjLUVENEIySTRFUzltN3ZsMFlKakZCbVJXZDBFd0l3Q0w4czFDbEpqN2hDSHVzU0NNV3l5LVQ4VzZjbXlhYXBVdmQ0bEtKbnBWRUIxRnlnOUIxUnBXTmNSbmFPTUVmUWZlR0NrWElOaDhzU0hPRFBTNUJnSHo1a0EwNW5FcG1WNXliZUtrTEU1TjQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001921603",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

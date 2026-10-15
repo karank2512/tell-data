@@ -1,0 +1,25 @@
+{
+  "domain": "bootheo.com",
+  "name": "Bootheo",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 11.2,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 11.2,
+      "occurred_at": "2026-07-28",
+      "summary": "Form D: $150,000 offering, $150,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2147099/000214709926000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002147099",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

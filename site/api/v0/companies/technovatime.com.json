@@ -1,0 +1,39 @@
+{
+  "domain": "technovatime.com",
+  "name": "TechNovaTime",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 20.6,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 18.9,
+      "occurred_at": "2026-09-04",
+      "summary": "Form D: $3,260,000 offering, $3,260,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2153441/000215344126000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-09-11",
+      "summary": "ECLAT Health Solutions Launches evaire Recover™, an Agentic AI Platform for AR and Denials Mana",
+      "url": "https://technovatime.com/blog/eclat-launches-evaire-recover-agentic-ai-2026-09-11"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-09",
+      "summary": "Archy Launches AI Insurance Payment Automation: Modernizing Dental RCM Workflows",
+      "url": "https://technovatime.com/blog/archy-launches-ai-insurance-payment-automation-2026-09-09"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002153441",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

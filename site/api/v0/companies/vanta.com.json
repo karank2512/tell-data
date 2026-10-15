@@ -83,13 +83,13 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 81,
+  "long_open_roles": 22,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:vanta",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

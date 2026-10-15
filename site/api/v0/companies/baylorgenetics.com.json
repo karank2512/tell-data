@@ -1,0 +1,25 @@
+{
+  "domain": "baylorgenetics.com",
+  "name": "Baylor Genetics",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 15.8,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 15.8,
+      "occurred_at": "2026-07-16",
+      "summary": "Form D: $99,999,993 offering, $49,999,986 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2145246/000123191926000766/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002145246",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

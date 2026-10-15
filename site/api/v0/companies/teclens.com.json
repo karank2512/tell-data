@@ -1,0 +1,25 @@
+{
+  "domain": "teclens.com",
+  "name": "TECLens",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 14.7,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 14.7,
+      "occurred_at": "2026-07-24",
+      "summary": "Form D: $10,230,000 offering, $5,230,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1708436/000170843626000003/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001708436",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

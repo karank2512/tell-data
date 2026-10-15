@@ -3,11 +3,18 @@
   "name": "Index",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 5.6,
+  "score": 7.0,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "GridCARE Unveils AI Power Index to Unlock $350B in Grid Value from Existing Utility Capacity - TD World",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXE5TlhsWDIybnl5LUxuNFBldURIU3dxR2VBdkRpMklsRllmNHhlZmY3aDJTdjcxQlltckg5MGpsNldPZ1Fsc0dtSXhwaGoyc2Z0SHB6TGtnX1dZYUlYV2NTNVFsekNaWmtqSmR4NnBHRzc5bjVwblA3Znk4U1VhelVVYzZPODhzczYxd1ltVTd0ZWZ5TkJzOVRScndPN3ZqdEJVM3ZHMU5nQkoxekgzT2psSUlLeWxmcEEtZmNub25HNm1pWXVtZi1yY0hhZ1NmMUVoUVNjWXJCakE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Introducing the Artificial Analysis Decision Index - LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWRpRGlXQ2NiVnVWUDVBSjlteG5GYXh3Y2pUZEx0N2FWSnY3UjhzTWo0SmZmZG5oWm80cUczSWllMUI3WTRsc3RQMXdTbmNwTlF6MGU2cGFhUF9ONEx2SjlobjZXSC1yTFNZZ2dBWl9LX1lfNEozS1lSdHRJZ0JKU2hPLWVqU1gzOHlZZmxTSTdVcnlzSURMTFY4RkN2QTNCdExwaGJn?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

@@ -1,0 +1,657 @@
+{
+ "vendor": "ashby",
+ "identifier": "vanta",
+ "domain": "vanta.com",
+ "as_of": "2026-10-15",
+ "last_polled_at": "2026-10-15T08:51:43.385026+00:00",
+ "open_postings": [
+  {
+   "external_id": "021cca9c-f937-4d97-8be7-bc83af8307be",
+   "title": "Senior Software Engineer, Product Platform",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-11T19:17:30.850000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be"
+  },
+  {
+   "external_id": "03199be5-023c-46b6-97c8-6c568afe9514",
+   "title": "Account Executive, SLED Government - Mountain West",
+   "role_family": "sales",
+   "location": "Denver, CO",
+   "posted_at": "2026-09-18T19:49:22.322000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/03199be5-023c-46b6-97c8-6c568afe9514"
+  },
+  {
+   "external_id": "06fbe631-946a-4628-a3f8-9d5d523b9fb2",
+   "title": "Staff Software Engineer, AI and Data Risk",
+   "role_family": "engineering",
+   "location": "Remote - UK",
+   "posted_at": "2026-01-26T15:48:28.571000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/06fbe631-946a-4628-a3f8-9d5d523b9fb2"
+  },
+  {
+   "external_id": "0c4ff8a3-c916-467b-b3e2-053f009f3ba4",
+   "title": "Sales Manager, Early Stage",
+   "role_family": "other",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-23T20:36:46.556000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/0c4ff8a3-c916-467b-b3e2-053f009f3ba4"
+  },
+  {
+   "external_id": "0ccbb65f-f675-410a-ae54-1d34575f228a",
+   "title": "Software Engineer, Integrations Platform, Vanta For Government (V4G)",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-26T19:04:45.475000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a"
+  },
+  {
+   "external_id": "0e154a57-fc33-4cf7-95cc-0aa30e0bde90",
+   "title": "Senior Product Designer, Agent Experience",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-18T17:08:17.112000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/0e154a57-fc33-4cf7-95cc-0aa30e0bde90"
+  },
+  {
+   "external_id": "0fab2072-8863-42ec-b00d-de367b90d937",
+   "title": "Senior Data Analyst, Strategic Finance",
+   "role_family": "data",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-02T23:49:24.409000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/0fab2072-8863-42ec-b00d-de367b90d937"
+  },
+  {
+   "external_id": "0fcbc935-76c7-4eac-b522-af421ed200c9",
+   "title": "Staff Product Designer, Design Systems",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-06-26T14:17:19.223000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/0fcbc935-76c7-4eac-b522-af421ed200c9"
+  },
+  {
+   "external_id": "1198e8b4-63d6-431c-bd37-8a709645ca63",
+   "title": "Engineering Manager - Reporting",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2026-06-29T19:40:19.035000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/1198e8b4-63d6-431c-bd37-8a709645ca63"
+  },
+  {
+   "external_id": "1309bb8c-9cb5-463a-a30a-3a0c5fb5248a",
+   "title": "Senior Software Engineer, Enterprise Resilience",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2025-12-12T19:55:01.230000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/1309bb8c-9cb5-463a-a30a-3a0c5fb5248a"
+  },
+  {
+   "external_id": "146a4f9a-dbcd-4b5e-8762-3d6f9e3c62c7",
+   "title": "Senior Fullstack Engineer, Vendor Monitoring Data",
+   "role_family": "engineering",
+   "location": "London, UK",
+   "posted_at": "2026-03-19T21:49:58.004000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/146a4f9a-dbcd-4b5e-8762-3d6f9e3c62c7"
+  },
+  {
+   "external_id": "1513e1ac-5dca-4acb-a99d-8b5461115651",
+   "title": "Senior Fullstack Software Engineer, GRC",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2025-03-13T22:25:56.507000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/1513e1ac-5dca-4acb-a99d-8b5461115651"
+  },
+  {
+   "external_id": "157384dc-0060-445c-8bee-ba11a3077e9a",
+   "title": "Solutions Engineer (Upmarket, Pre-Sales) - EMEA",
+   "role_family": "sales",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-01T13:28:30.236000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/157384dc-0060-445c-8bee-ba11a3077e9a"
+  },
+  {
+   "external_id": "19837d21-971e-4b9d-b078-320895fae28a",
+   "title": "Head of Design",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-07-06T21:11:35.974000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/19837d21-971e-4b9d-b078-320895fae28a"
+  },
+  {
+   "external_id": "1989a49f-227e-4928-b068-8ff24af88541",
+   "title": "Senior Analytics Engineer",
+   "role_family": "data",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-12T16:26:37.793000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/1989a49f-227e-4928-b068-8ff24af88541"
+  },
+  {
+   "external_id": "1df5ae9f-4bd2-4f9c-a4e3-55c2970a6383",
+   "title": "Account Executive, Early Stage - UK&I",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-10-08T13:54:02.991000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/1df5ae9f-4bd2-4f9c-a4e3-55c2970a6383"
+  },
+  {
+   "external_id": "1fb75eb1-739a-4394-9f9b-ca684a61dfd3",
+   "title": "Senior Software Engineer, AI Product",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2025-11-21T19:13:07.773000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/1fb75eb1-739a-4394-9f9b-ca684a61dfd3"
+  },
+  {
+   "external_id": "20d2c9aa-19da-4370-9378-491312f6f98a",
+   "title": "Director of Product, Governance & Compliance",
+   "role_family": "exec",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-27T15:03:36.988000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/20d2c9aa-19da-4370-9378-491312f6f98a"
+  },
+  {
+   "external_id": "22ba8036-10cb-405d-82fb-9cb07324934c",
+   "title": "Senior Product Manager, Integrations",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-10-08T21:22:54.039000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/22ba8036-10cb-405d-82fb-9cb07324934c"
+  },
+  {
+   "external_id": "2daebe8c-69af-44f3-a81f-38fb17da30a0",
+   "title": "Manager, Solutions Engineering - EMEA",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-07-16T09:56:06.739000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/2daebe8c-69af-44f3-a81f-38fb17da30a0"
+  },
+  {
+   "external_id": "2e68c5e8-5de2-4428-bad0-ddcf518399c4",
+   "title": "Senior Manager, Systems Engineering",
+   "role_family": "other",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-10T21:18:32.576000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4"
+  },
+  {
+   "external_id": "2f2ad814-2437-46bc-8829-9413f1840db0",
+   "title": "Governance, Risk, and Compliance Expert, GTM - V4G",
+   "role_family": "other",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-04T16:44:04.025000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/2f2ad814-2437-46bc-8829-9413f1840db0"
+  },
+  {
+   "external_id": "31cdf07c-21ab-460c-912e-f288dc38090e",
+   "title": "Staff Software Engineer, AI and Data Risk",
+   "role_family": "engineering",
+   "location": "Remote - Ireland",
+   "posted_at": "2026-09-18T15:52:08.969000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/31cdf07c-21ab-460c-912e-f288dc38090e"
+  },
+  {
+   "external_id": "32babc06-def2-4db3-b153-1c1c44bdcf40",
+   "title": "Staff Visual Product Designer, Design Systems",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-01T20:06:02.087000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/32babc06-def2-4db3-b153-1c1c44bdcf40"
+  },
+  {
+   "external_id": "359d91ea-e7cb-4b3e-bc8c-fb89b684eeb9",
+   "title": "Engineering Manager - Reporting",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-06-29T19:40:07.139000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/359d91ea-e7cb-4b3e-bc8c-fb89b684eeb9"
+  },
+  {
+   "external_id": "362c9919-80c9-4c54-8f38-205b48000840",
+   "title": "Senior Account Executive, Upmarket - UK&I",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-07-07T15:55:34.460000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/362c9919-80c9-4c54-8f38-205b48000840"
+  },
+  {
+   "external_id": "38123211-8982-45af-a733-7c81eab67e84",
+   "title": "Engineering Manager, App Primitives - CAN",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2026-09-03T15:01:48.828000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/38123211-8982-45af-a733-7c81eab67e84"
+  },
+  {
+   "external_id": "40f80a35-39d7-4272-aceb-7ad91edabf4a",
+   "title": "Sr. Manager, Security Operations",
+   "role_family": "other",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-12T16:05:35.143000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/40f80a35-39d7-4272-aceb-7ad91edabf4a"
+  },
+  {
+   "external_id": "470689af-bbce-4c96-818e-408bf4a6c8e5",
+   "title": "Backend Senior Software Engineer, Identity",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-05-07T17:26:02.787000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/470689af-bbce-4c96-818e-408bf4a6c8e5"
+  },
+  {
+   "external_id": "4ecbf29d-7566-471a-96de-d604489ae5d0",
+   "title": "Head of Internal Communications",
+   "role_family": "exec",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-10T15:21:32.987000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/4ecbf29d-7566-471a-96de-d604489ae5d0"
+  },
+  {
+   "external_id": "529a6e77-c965-4b32-be80-1837fbb3d1ce",
+   "title": "Engineering Manager, App Primitives",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-03T15:01:45.349000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/529a6e77-c965-4b32-be80-1837fbb3d1ce"
+  },
+  {
+   "external_id": "53e5e530-687a-4734-90d0-3a60ae407c19",
+   "title": "Account Executive - Japan",
+   "role_family": "sales",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-09-08T19:46:17.388000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/53e5e530-687a-4734-90d0-3a60ae407c19"
+  },
+  {
+   "external_id": "55e4b938-655c-40b3-a98b-3bc32d5c5a72",
+   "title": "Senior Product Manager, Document Management",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-23T20:44:54.716000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/55e4b938-655c-40b3-a98b-3bc32d5c5a72"
+  },
+  {
+   "external_id": "581791d7-c63d-45fe-b6a7-f2d8f6532af7",
+   "title": "Software Engineer, AI Product (Canada)",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2026-06-08T17:57:42.353000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/581791d7-c63d-45fe-b6a7-f2d8f6532af7"
+  },
+  {
+   "external_id": "62945aae-55b0-4598-977a-b2dd00ec9081",
+   "title": "Senior Software Engineer, Product Platform",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2026-08-11T19:17:33.731000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/62945aae-55b0-4598-977a-b2dd00ec9081"
+  },
+  {
+   "external_id": "6d6698d7-7272-4c2a-bc34-807dc269de43",
+   "title": "Director of Product Design",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-25T18:02:47.546000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/6d6698d7-7272-4c2a-bc34-807dc269de43"
+  },
+  {
+   "external_id": "70a8c96d-ab5d-4e3e-9ff3-7f45a3147be4",
+   "title": "GRC Pre-Sales Consultant / Solutions Engineer – EMEA",
+   "role_family": "sales",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-08-20T14:34:27.578000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/70a8c96d-ab5d-4e3e-9ff3-7f45a3147be4"
+  },
+  {
+   "external_id": "795ab93b-57d9-4387-9cc1-ea7615721ec6",
+   "title": "Senior Analytics Engineer",
+   "role_family": "data",
+   "location": "Remote U.S.",
+   "posted_at": "2026-10-01T23:43:01.805000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/795ab93b-57d9-4387-9cc1-ea7615721ec6"
+  },
+  {
+   "external_id": "7b08b5e9-3285-4604-9d17-8541714674b0",
+   "title": "Engineering Manager, Vanta for Government",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-10-12T17:16:36.341000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/7b08b5e9-3285-4604-9d17-8541714674b0"
+  },
+  {
+   "external_id": "7bdf410b-882e-4795-844b-44bc751a3ab2",
+   "title": "Account Executive, Early Stage - DACH",
+   "role_family": "sales",
+   "location": "Dublin, Ireland",
+   "posted_at": "2025-11-25T18:09:45.178000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/7bdf410b-882e-4795-844b-44bc751a3ab2"
+  },
+  {
+   "external_id": "7cb1ace2-945a-4768-9ce2-a95d6b725bb8",
+   "title": "Governance, Risk, and Compliance Expert, GTM, Pre-Sales",
+   "role_family": "other",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-04T18:21:36.958000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/7cb1ace2-945a-4768-9ce2-a95d6b725bb8"
+  },
+  {
+   "external_id": "7d5ac715-c4ba-45d5-a390-665a93f618cd",
+   "title": "Business Development Representative, DACH",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-06-12T14:43:51.066000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/7d5ac715-c4ba-45d5-a390-665a93f618cd"
+  },
+  {
+   "external_id": "7e3cdfbc-9a72-49e4-8fb6-e8f59364af6d",
+   "title": "VP, Success & Services",
+   "role_family": "exec",
+   "location": "Remote U.S.",
+   "posted_at": "2026-05-20T15:19:44.520000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/7e3cdfbc-9a72-49e4-8fb6-e8f59364af6d"
+  },
+  {
+   "external_id": "7e8b02ec-cf23-41de-87c7-3910459f34a2",
+   "title": "Account Executive, Early Stage - UK&I",
+   "role_family": "sales",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-06-25T09:59:57.840000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/7e8b02ec-cf23-41de-87c7-3910459f34a2"
+  },
+  {
+   "external_id": "86f3f488-7411-4a02-b9d8-cd393984c671",
+   "title": "Account Executive, Early Stage - DACH",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-10-08T08:46:54.514000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/86f3f488-7411-4a02-b9d8-cd393984c671"
+  },
+  {
+   "external_id": "91c73485-5d0c-4272-9643-401ebcfff9d1",
+   "title": "Sr. AI GTM Engineer",
+   "role_family": "gtm_ops",
+   "location": "Remote U.S.",
+   "posted_at": "2026-07-10T15:10:18.843000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/91c73485-5d0c-4272-9643-401ebcfff9d1"
+  },
+  {
+   "external_id": "99412127-8d8d-4d25-9393-73e4c17deef4",
+   "title": "Head of Enterprise Sales, EMEA.",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-09-28T19:40:13.865000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/99412127-8d8d-4d25-9393-73e4c17deef4"
+  },
+  {
+   "external_id": "9962b3c8-f1c4-4ad1-9308-7c8df6a28b28",
+   "title": "Staff Software Engineer, Program Structure & Trust",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-10-02T20:55:36.759000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/9962b3c8-f1c4-4ad1-9308-7c8df6a28b28"
+  },
+  {
+   "external_id": "9dbd2b25-0735-43db-87b4-6acbbf012a1c",
+   "title": "Product Marketing Lead - EMEA",
+   "role_family": "marketing",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-08-28T14:58:58.993000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/9dbd2b25-0735-43db-87b4-6acbbf012a1c"
+  },
+  {
+   "external_id": "a2371f65-5777-47b7-9f4e-bcb260ce70a4",
+   "title": "Solutions Engineer (Upmarket, Pre-Sales) - EMEA",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-10-01T13:28:23.936000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/a2371f65-5777-47b7-9f4e-bcb260ce70a4"
+  },
+  {
+   "external_id": "a44edb8b-d519-497d-81b9-451fad4753af",
+   "title": "Account Executive, Growth - UK&I",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-10-01T09:39:42.873000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/a44edb8b-d519-497d-81b9-451fad4753af"
+  },
+  {
+   "external_id": "a795c135-48e4-46c8-96de-c7e71dcc50da",
+   "title": "Senior Systems Designer, EPD",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-21T20:45:55.995000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/a795c135-48e4-46c8-96de-c7e71dcc50da"
+  },
+  {
+   "external_id": "aa7512c2-fb94-4238-bb15-f0063307af53",
+   "title": "Senior Data Scientist",
+   "role_family": "ml_ai",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-11T13:58:19.173000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/aa7512c2-fb94-4238-bb15-f0063307af53"
+  },
+  {
+   "external_id": "ad10bda4-f02d-4682-9dc4-b374fa647c99",
+   "title": "Senior Fullstack Software Engineer, Expansion",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-29T19:59:41.308000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/ad10bda4-f02d-4682-9dc4-b374fa647c99"
+  },
+  {
+   "external_id": "adcc38ca-79e9-4788-893d-bcdf03db10b2",
+   "title": "Senior Fullstack Software Engineer, GRC",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2025-10-13T20:15:40.090000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/adcc38ca-79e9-4788-893d-bcdf03db10b2"
+  },
+  {
+   "external_id": "b01ad813-3dd3-4603-ab81-75b14772b43b",
+   "title": "Senior Software Engineer, Vanta for Government",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-27T19:09:30.247000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/b01ad813-3dd3-4603-ab81-75b14772b43b"
+  },
+  {
+   "external_id": "b5c4b58a-0b6b-40a2-b0de-328e4f943060",
+   "title": "Senior Software Engineer, Evaluation Engine",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-21T21:04:13.948000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/b5c4b58a-0b6b-40a2-b0de-328e4f943060"
+  },
+  {
+   "external_id": "b6122b6f-1f9f-45d0-8665-b1a7e89637ef",
+   "title": "Senior Revenue Enablement Manager, EMEA",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-09-18T15:57:40.682000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/b6122b6f-1f9f-45d0-8665-b1a7e89637ef"
+  },
+  {
+   "external_id": "bbaea4cf-1439-4996-b7b1-c10425413c3f",
+   "title": "Senior Fullstack Software Engineer, Risk",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-23T19:43:46.798000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/bbaea4cf-1439-4996-b7b1-c10425413c3f"
+  },
+  {
+   "external_id": "be485e4d-d874-41fa-9de8-34102977d34e",
+   "title": "Product Marketing Lead - EMEA",
+   "role_family": "marketing",
+   "location": "London, UK",
+   "posted_at": "2026-08-28T07:44:23.986000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/be485e4d-d874-41fa-9de8-34102977d34e"
+  },
+  {
+   "external_id": "c27d1d10-9bab-484b-af98-1071c6834d77",
+   "title": "Director, Vanta for Government Partnerships",
+   "role_family": "exec",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-01T20:25:33.858000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/c27d1d10-9bab-484b-af98-1071c6834d77"
+  },
+  {
+   "external_id": "c3b74285-982c-4648-bb79-d62c5b0adaf4",
+   "title": "Account Executive, SLED Government - East",
+   "role_family": "sales",
+   "location": "Washington, D.C.",
+   "posted_at": "2026-09-18T19:49:16.926000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/c3b74285-982c-4648-bb79-d62c5b0adaf4"
+  },
+  {
+   "external_id": "c4f91672-04ee-4265-b4a7-6979a7e83308",
+   "title": "Account Executive, SLED Government - South",
+   "role_family": "sales",
+   "location": "Austin, TX",
+   "posted_at": "2026-09-18T19:49:20.343000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/c4f91672-04ee-4265-b4a7-6979a7e83308"
+  },
+  {
+   "external_id": "c6090572-cbca-4b11-810e-127bf0183abf",
+   "title": "Senior GTM Strategy & Operations Manager, Mid-Late Sales Funnel",
+   "role_family": "finance_ops",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-26T18:59:45.994000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/c6090572-cbca-4b11-810e-127bf0183abf"
+  },
+  {
+   "external_id": "c986dc01-e886-4bfe-bbe9-068b7af9d2d3",
+   "title": "Senior Product Builder, Organizational Intelligence",
+   "role_family": "gtm_ops",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-21T19:32:50.451000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/c986dc01-e886-4bfe-bbe9-068b7af9d2d3"
+  },
+  {
+   "external_id": "cb338edc-a332-4f01-ab3f-b3e45ade44ba",
+   "title": "Business Development Representative [German Fluency]",
+   "role_family": "sales",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-04-29T08:51:35.217000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/cb338edc-a332-4f01-ab3f-b3e45ade44ba"
+  },
+  {
+   "external_id": "d38e7474-2b44-415c-824a-3debb757c9af",
+   "title": "GRC Pre-Sales Consultant / Solutions Engineer – EMEA",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-08-20T14:34:32.163000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/d38e7474-2b44-415c-824a-3debb757c9af"
+  },
+  {
+   "external_id": "e7370d8b-259e-402b-b494-20a0f963b215",
+   "title": "Creative Director",
+   "role_family": "exec",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-29T15:04:43.087000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/e7370d8b-259e-402b-b494-20a0f963b215"
+  },
+  {
+   "external_id": "e8ed04e4-28ab-4108-95da-6282e9d6bf86",
+   "title": "Staff Software Engineer, Program Structure & Trust",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2026-10-05T14:39:03.511000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/e8ed04e4-28ab-4108-95da-6282e9d6bf86"
+  },
+  {
+   "external_id": "ecdf2c04-47a5-4360-a664-4341b9b355ce",
+   "title": "Head of Enterprise Sales, EMEA.",
+   "role_family": "sales",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-13T14:33:21.651000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/ecdf2c04-47a5-4360-a664-4341b9b355ce"
+  },
+  {
+   "external_id": "ed632c31-2a66-4c91-8d29-f450bbd4de67",
+   "title": "Senior Fullstack Software Engineer, Authoring Experience",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-26T20:28:52.130000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/ed632c31-2a66-4c91-8d29-f450bbd4de67"
+  },
+  {
+   "external_id": "ee1f63bd-c72e-4e71-9011-b9b4560dbfe7",
+   "title": "Engineering Manager, Customer Trust - Canada",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2026-10-02T20:29:41.743000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/ee1f63bd-c72e-4e71-9011-b9b4560dbfe7"
+  },
+  {
+   "external_id": "ef741fff-829e-4a9b-bca3-932f414db957",
+   "title": "Strategic Account Executive, West",
+   "role_family": "sales",
+   "location": "Remote U.S.",
+   "posted_at": "2026-09-21T14:01:58.632000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/ef741fff-829e-4a9b-bca3-932f414db957"
+  },
+  {
+   "external_id": "f19964fc-3df1-4ffd-bac2-0deedb1266a2",
+   "title": "Engineering Manager, Customer Trust",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-10-02T20:29:38.021000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/f19964fc-3df1-4ffd-bac2-0deedb1266a2"
+  },
+  {
+   "external_id": "f2661895-d4fb-4b7e-95c9-14b13964e6a9",
+   "title": "Senior Product Manager, Agent Ecosystem",
+   "role_family": "product_design",
+   "location": "Remote U.S.",
+   "posted_at": "2026-08-12T15:04:04.826000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/f2661895-d4fb-4b7e-95c9-14b13964e6a9"
+  },
+  {
+   "external_id": "f7225fae-2203-4332-8ea4-8569c7e371d1",
+   "title": "Staff Product Manager, Data Platform",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-07-23T15:32:12.999000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/f7225fae-2203-4332-8ea4-8569c7e371d1"
+  },
+  {
+   "external_id": "f987d41a-d0e1-4260-9129-f64aee6122ae",
+   "title": "AI Agent Operations Specialist, Support",
+   "role_family": "customer",
+   "location": "Remote U.S.",
+   "posted_at": "2026-10-07T16:06:36.133000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae"
+  },
+  {
+   "external_id": "f98ff59f-8732-48a6-a60c-3367a0f288e5",
+   "title": "Technical Support Engineer",
+   "role_family": "customer",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-09-29T17:20:00.809000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/f98ff59f-8732-48a6-a60c-3367a0f288e5"
+  },
+  {
+   "external_id": "fb60fcb9-6a5f-45d4-988d-a7a36c798724",
+   "title": "Account Executive, Growth - UK&I",
+   "role_family": "sales",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-05-18T15:56:46.821000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/fb60fcb9-6a5f-45d4-988d-a7a36c798724"
+  },
+  {
+   "external_id": "fedc71ba-ef1d-454c-9536-ce87333a23c7",
+   "title": "Senior II Fullstack Software Engineer, GRC",
+   "role_family": "engineering",
+   "location": "Remote U.S.",
+   "posted_at": "2026-03-12T16:14:37.165000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/fedc71ba-ef1d-454c-9536-ce87333a23c7"
+  },
+  {
+   "external_id": "ffc75064-fbdc-4cd1-bf0e-a4ace20dce81",
+   "title": "Account Executive, Early Stage",
+   "role_family": "sales",
+   "location": "Remote U.S.",
+   "posted_at": "2026-07-24T16:41:44.384000+00:00",
+   "url": "https://jobs.ashbyhq.com/vanta/ffc75064-fbdc-4cd1-bf0e-a4ace20dce81"
+  }
+ ]
+}

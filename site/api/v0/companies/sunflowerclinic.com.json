@@ -3,7 +3,7 @@
   "name": "Sunflower",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 25.4,
+  "score": 26.8,
   "contributions": [
     {
       "type": "funding",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-09-28",
       "summary": "Form D: $20,000,000 offering, $14,902,982 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1876339/000187633926000003/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Kansas releases updated depth chart for the Sunflower Showdown - 247Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYk9qNkZmWU9UdXpBcENQbmd0WFpQdmktWG1uSmdVNkZjSVNOaU9jd1JMci1XZS1Bak1tQ0lSTERwYnBzd0Q2NjRLRzdSWHI3NlFMaU1FWENsUG9RUExsWW02bGhBQkRzRDZrNklGOHVtbVAtQ1pQdm9iVTlBdEdPTnBGdUtFNVVaT2pFcGlQMmplc2c1dWk3Q2lXZUZ5V1A5RGVuelg0dU1ObW9RM085S1d6dWZVdURZQXlFc2VDd3M?oc=5"
     }
   ],
   "open_postings": 0,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

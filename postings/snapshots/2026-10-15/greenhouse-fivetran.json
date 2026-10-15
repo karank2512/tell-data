@@ -3,7 +3,7 @@
  "identifier": "fivetran",
  "domain": "fivetran.com",
  "as_of": "2026-10-15",
- "last_polled_at": "2026-10-15T02:01:59.011698+00:00",
+ "last_polled_at": "2026-10-15T08:51:40.003654+00:00",
  "open_postings": [
   {
    "external_id": "4289730003",
@@ -1492,6 +1492,22 @@
    "location": "USA - Austin (dbt)",
    "posted_at": "2026-10-08T19:50:40+00:00",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8017186003"
+  },
+  {
+   "external_id": "8017414003",
+   "title": "Senior Product Analyst",
+   "role_family": "other",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-15T03:12:55+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8017414003"
+  },
+  {
+   "external_id": "8031480003",
+   "title": "Senior Software Engineer - SaaS Google connectors",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-10-15T08:44:35+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8031480003"
   }
  ]
 }

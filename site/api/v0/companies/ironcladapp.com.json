@@ -3,8 +3,28 @@
   "name": "Ironclad",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.7,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-15",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/ironcladhq",
+      "postings": [
+        {
+          "title": "Strategic Account Executive, West",
+          "posted_at": "2026-10-14",
+          "url": "https://jobs.ashbyhq.com/ironcladhq/c2729f71-8004-4179-8aff-08341249cb5c"
+        },
+        {
+          "title": "Senior Manager, Solutions Engineering",
+          "posted_at": "2026-10-15",
+          "url": "https://jobs.ashbyhq.com/ironcladhq/331d44a7-a6d2-4cc1-bd7c-12361cb03ea9"
+        }
+      ]
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -20,13 +40,13 @@
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVHhTVjE4R0RKVENNTV84MVdRa0RNblhEWUJSOWZPSGwwT1Q2SlY0VlJiVGlacFVzWWFiamlEbGZfTUh0N0hFekZVNDd3SEo0NWpBZVBIM2Fmc2twS3NpM2NNM2dZTlBOajhFRGwwVHRtbjR1dWtJVzFyWHFYZTFkOTJoLVFwNFA0NU9VUFFDSkNvVWZZMFlFVC1ZUllqWmJPcjNBU1dHQk1ZRlR4UFUtR0JqVGRIYVFrc1lSakp1aWM3dlJEd0NzWkxjaVVuTV91Vl9mcWRWUW1QV3puXzRQZFV3dTVmN2xTcksxWGd0WFlwVF9oelNKN1gzTHB0WGFzR3AwMjVyZmFLek5xTW9MMTZFMEV1LWc?oc=5"
     }
   ],
-  "open_postings": 34,
+  "open_postings": 35,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:ironcladhq",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

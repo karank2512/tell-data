@@ -3,11 +3,11 @@
   "name": "Scale AI",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 33.7,
+  "score": 43.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.2,
+      "contribution": 16.3,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
@@ -20,11 +20,53 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000002/"
     },
     {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-15",
+      "summary": "Mach42 Appoints [person] as Vice President of Engineering to Scale AI-Powered Analog Verification",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ19KWWZmdVVrRWZaR19jdlQzbE9fU3F3dW5HWlE4OTAtVU84UE42Nko4Z1c3U0ZBbk5LZXBYSzBoUnpNaFVrenlIUjIxOEtNcFpneVhLZWRiUm53SVJmbVZPbmFEei1CSVhBLTBxTEUxTklSVWNtanFUTzFnTzh4N1BzR2JseWl2N2VVZVNrQTVYaFFyWkFqTXR3UVl2TFd0M3pEZFdvSzlSYVItbEhka3p4eG5TUVZJdlVEVlNtNEc1X2VaYzZjcWtCbWZDM09jeFdUWW9fUVJRV2p5WUYxWmFPN1NMVDhQNEY5UzJlVQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-13",
+      "summary": "Matter Machine Closes £4M Pre-Series A to Scale AI-Powered Materials Discovery, Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUozUi1MVWxDLW9VNGhFRjU0QVBDMi1hWU8taVJVcXBOWU1qa2NyalZ1QXU5QmlUZjhaUE9uaU1HVFBzLVhSX3NOaGI2VTJVU1JxbHhXNjRONkVpUG9VS09NUlZHUDJFTmNYUUdNb0psMzd1OXlqVGRabXRTWWFwa3VnMWV1QWhEOHliM0gyenVuZ0Q3RFpjZXc0emJHNl9hQTltYTNZNi1tS2VkeS1Ua2NqdDllQTQ1dF8wUzZZN2pyclRmZ3dPS2VVa1Atb21kU1lNR2lYV0RkR251c211WEpnUTd5dUhxcENiY3lB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Marvell Unveils Six-Channel CXL 3.2 Memory Expanders to Scale AI Inference - Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1pGb0d1b2VobWdnMDRBYXhVeWlwVUplcEJqRHE4UUVPZ0EyUFNGT1M3Mjd1aFExN1dzaEJMX01wVTRwY1FydDI3TUk3SUJIU2FfOFB2bUwxczVsOHdfc3BKeXhPSUtHWEN4X0FCX1RMYlpzM0tDN3RGMDRfY1JvUXJibWVMUS1ZUTQtbHZIazhzX3lmeWcybXpGTHJWdk9fYVgtNzlxeDlhUTk4a2c?oc=5"
+    },
+    {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Manulife Launches Enterprise AI Platform to Scale AI Solutions and Deliver Business Value Across Global Operations - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTVJ0QWVhZnNXR0IzbjEwVmQ1QV82Zkl5eHJqQnRXam50enN4ZXhBZ0Nfa0pwZHhqRE1ySWhmY0loajNITkpMUDQzcGhwamFQLTVtNlFGQ3pwUUp3S3NfQWpUYVpuaFdneldJOUtPV2VHVXdzVXhNNC1iNzNwd3BzdWFEWFI5NG9IX29ZQ2xvQ20tV2RpMi1seWVwaDR1OERlVkl1Z3Nwc2ctR1Bkckw5ZmcyUElTVi1GY1Jlcnd4aWM3ZTF2ZnU0N1pfMWt2WVpTLUVGYTBsZjAzdUJjWHdPSVZsUXZVbThyN2k4UlVpXzZaSjhXNS1zZ3VmRU04ejQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Manulife Launches Enterprise AI Platform to Scale AI Solutions and Deliver Business Value Across Global Operations - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSDlSbm9HTXFIUnZhS1FOUktocXY0WkpqYl9XeW1hQ1YyVEQ2M1kyV2pkMm1MUjdaNE9fZ0FOT003YU9GMlJ6ZUZ1UlNzYUU1SHdrRXZjZlhSREVkbTFmak55TnI4UXpVQ18yNU1oUDdMNDJUTFhVZVVLTjVOd2NHSkxiWTNXajhpQlV4ZncteHFIRGxnd0xERHRlb1lvV1pHR1c2cTNUZG5JSFhtcG5qNTRPc0lJYUM0MmM4V0JIUl9pTVozZnE5VHdhQjZLajVtMjBnVmpsWUw0UnFpTW5UclJWbWRpVm1NakZrQ2NXMm1kSnJMdFVIcmRjMUMxUTVIOVliREtB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Microsoft Unveils Maia 300 to Scale AI Inference and Improve Data Centre Efficiency - Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0d0Q2Y3cU9md0JjVl9Cak43RnVmcWpRS1EwM1FZamo3X0ppcFl6VjZaNHkxWlEzc0otSEFmMDhQNzFQMjlhZXFHcW1xd0JsMlJ3Mmo4SWxqUGFNZlVjSEhRMndnd1VtYzFPcWY4T0JWLXpmOHZQR1d1Z3FYOVY4M3RyTWFRWDFNNzdDYmtpVjBjZWJYdFlPYzh4TFVJQmNNQkhISXZVZ2kzQ1V1SzV3NGVHenU3amxFM1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Astera Labs launches Orion, a modular rack-scale AI inference design - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3NMVG1OXzR5Vkc3U0dManE1OHdySmViRkpfVk4tYVBIaDZpdVRXX3VxU1VGTU5UbHQxSTV0bFVOOE1JQ29sTEkxdjdibkZxOEk5d2dGY0kzMnZacjBlS3YyRmt1M1ZTTzEzMXhOY3N4dkw2eW5WZ1FMc25SS3NSZ0lWNkY1bnIyWkpHV1hVT0FZa2tqRko2dWlVeDFpaEVFbDR4NUxRa194WkZFWUVjSThEcUtBNjZrNFByZTJKbS1YRTdIYnJFaw?oc=5"
     },
     {
       "type": "leadership",
@@ -90,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

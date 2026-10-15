@@ -3,7 +3,7 @@
   "name": "Arist",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 16.1,
+  "score": 16.5,
   "contributions": [
     {
       "type": "funding",
@@ -14,10 +14,17 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.4,
       "occurred_at": "2026-07-15",
       "summary": "Arist Launches AI Performance Consultant to Challenge Management Consulting Bloat - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWljTlZWMWFIOGV1bjRWY3RsVVAwWlhyQ2JZamZXWVRScnEyYWN1c09FLWJWeFlScUF2dFlRT0s2RnFtVmZfYnRfUjM1WHJXQ21kVDItZFpwZUtBNHpucHcwNV9iVDBUWXFMWDhaNml2S1JJVGJYZk9YVnFhbEdrdEVPN004eTBxYTFPSVR5UmYtdF81QmZGY2hQQW5KQTNYcWxYUkI2dE9rVGk5NGZHSkJFZm91SnNPanY5X0JsQWNEd25kMTFwMEFGWWtLLVVYTmRjcA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-15",
+      "summary": "Arist Launches AI Performance Consultant to Challenge Management Consulting Bloat - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWR3cU1lREJnVnFSU2RjeHBLRGlkR21zNk56XzdMckd6bDdOQ2pycDhmcS1ZRHRqQzFHZENxQW5YV2ZwZlhLQ2s1Y1A1Tzl5Vlk4akxlZ090bHh0T2pZQUxGRTFpNms1V2E0WEZMaEo3bElaUmFZLW9BRDE2VUs2T05haUxEQVlKSVdpd2V4aFBqRXJUanBrQWZtM2ZqRWRvUFBvc0pwcw?oc=5"
     }
   ],
   "open_postings": 0,
@@ -27,6 +34,6 @@
     "edgar_cik": "0001934857",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
   "why_not_higher": []
 }

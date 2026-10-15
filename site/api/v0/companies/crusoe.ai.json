@@ -1,0 +1,46 @@
+{
+  "domain": "crusoe.ai",
+  "name": "Crusoe",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 52.4,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 25.6,
+      "occurred_at": "2026-09-17",
+      "summary": "Form D: $3,901,017,922 offering, $3,108,543,889 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924674/000192467426000002/"
+    },
+    {
+      "type": "funding",
+      "contribution": 25.6,
+      "occurred_at": "2026-09-17",
+      "summary": "Form D: $595,943,098 offering, $595,943,098 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1924674/000192467426000001/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 0.9,
+      "occurred_at": "2026-08-07",
+      "summary": "appoints new director",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnlSR0d1MnhibUdRTTViZ1EwUWEtVVJBdGtwM3N0NU5BTVBJM3Q2Z0JlWXRCX0ZtZ1ZxVVJsQTFPMDJ5eUotaWJYSlMzWU1PLXVDZ3JJY3VsOFo4UFFia3VrTUdGaXNlR3lKWVRVMWExVmFGdTJ4eXlwM25WYnkwOEtoeWZrYnk1TlpFUTFPN0NCWmlQYklWSnU1ZnU2RVBFMXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-07",
+      "summary": "Crusoe Launches Serverless Fine-Tuning and Self-Serve Inference Deployments - Crusoe",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakZUQmI3TE5wU0hSa1BwR1o4b0p3MExzVUllZWRGNzVEVlo4bEVwbUpkYUNFaXU5emRHcUVoZ0RNUDFaVk5Pbkg5djMwY0FaNjA5Q0pENWt1TWhrb1pNelpmUkkwa3VkWmh2WlhxSGlpa2E4aUlobm1JakdyS2hLdkdFaUxrQVc3cGNXOVVsZEthdVhQbXhldXJxamNlX0M2MjZzWWhSdG5VODBIRzlqWnhUUkxiZmM?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001924674",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

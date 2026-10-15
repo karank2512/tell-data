@@ -1,0 +1,32 @@
+{
+  "domain": "dolceglow.com",
+  "name": "Dolce Glow",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 30.0,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 15.3,
+      "occurred_at": "2026-08-04",
+      "summary": "Form D: $4,940,000 offering, $4,940,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1962463/000196246326000004/"
+    },
+    {
+      "type": "funding",
+      "contribution": 14.7,
+      "occurred_at": "2026-07-24",
+      "summary": "Form D: $11,000,000 offering, $10,750,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1962463/000196246326000002/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001962463",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

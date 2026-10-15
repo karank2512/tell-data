@@ -1,0 +1,25 @@
+{
+  "domain": "lykosindustries.com",
+  "name": "Lykos Industries",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 26.2,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 26.2,
+      "occurred_at": "2026-10-13",
+      "summary": "Form D: $5,000,000 offering, $5,000,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159222/000215922226000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002159222",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

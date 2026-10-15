@@ -1,0 +1,46 @@
+{
+  "domain": "generalistai.com",
+  "name": "Generalist AI",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 23.2,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 21.3,
+      "occurred_at": "2026-08-24",
+      "summary": "Form D: $208,224,570 offering, $198,224,662 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2137708/000213770826000004/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-24",
+      "summary": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWF1eEd6TTN4MU5NWDZtZjRya1N4UHVRWnl5OFRoZTVGZ0ludm1PbzBkVkk3TGFPNHFoM0JSaEtrZUJ3cUZ6ZENRV3dveHJucVVuVk5qcEI4SkhTalh4SkxVYzBKbDFnLXNncThrNWZnM3NpZ1J6RG9waFJkTThqeGJwLWlwM2N2cEhDellZSDNfand5VnAwbVVuVVZ4Z0JBRi10bmlfWnNMQm1QQlhjbWhNQkFnbUtBNTByQmdTX1hFUmg3VVVSSml6a2hydkZRb0lZWW1MZFN0TlVv0gHcAUFVX3lxTE1hYXV4R3pNM3gxTk1YNm1mNHJrU3hQdVFaeXk4VGhlNUZnSW52bU9vMGRWSTdMYU80cWgzQlJoS2tlQndxRnpkQ1FXd294cm5xVW5WTmpwQjhKSFNqWHhKTFVjMEpsMWctc2dxOGs1Zmczc2lnUnpEb3BoUmRNOGp4YnAtaXAzY3ZwSEN6WVlIM19qd3lWcDBtVW5VVnhnQkFGLXRuaV9ac0xCbVBCWGNtaE1CQWdtS0E1MHJCZ1NfWEVSaDdVVVJKaXpraHJ2RlFvSVlZbUxkU3ROVW8?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-22",
+      "summary": "Generalist AI Releases GEN-1.5 Robot Foundation Model That Learns From a Single Demonstration - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSGp2b2Y5Rm9BT2tCTGVvUEgzOFNiaG5Xd2JqU3dndDI0NGMyVklnbWx6TEM0cVpSQ1Qyamd4aGZod0NvdDFhVngzOW5kRGd4UjI2T2ZTUk9zNV9US201R2hNWDJXVW1oYmZ0WUJQa09qWUNlZEpSX1JoU0V1M0VqdXZxZ1VCdXAxZFJ0QlFIYndrNl9rdy03aERkeG9CSHVDeEprSHhaQ3NaM0JRUUhfX3ZSaUl6VDFxdUhheFBSS2NGbEFXYmpmOGFlWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-21",
+      "summary": "Generalist AI Launches GEN-1.5, Seen as the GPT-3 Moment for Robotics - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzM1WVFXNXE3c3B5ek5BVXVOdzMwdUt4LXB2OUI2aE43Nk51SmZOek0xYjhMQUdZTFlycTd6U0JPc1B0dWE2VzRSX0c3NWloRGxDWlRxTUktdEFzd3JLUGF2Z0MydlY5cGJidjZQUkUyd2dGUTF1RHBvTG9YdUJwSmE3ZHUzU3B1YWVjcjUwWEFBRkpnbEpoWWRlU25ra28?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002137708",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}

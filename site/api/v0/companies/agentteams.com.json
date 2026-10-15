@@ -1,0 +1,25 @@
+{
+  "domain": "agentteams.com",
+  "name": "AgentTeams",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 13.4,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 13.4,
+      "occurred_at": "2026-10-07",
+      "summary": "Form D: $4,000 offering, $4,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159376/000215937626000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002159376",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "why_not_higher": []
+}
