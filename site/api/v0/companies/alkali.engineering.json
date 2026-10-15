@@ -1,0 +1,25 @@
+{
+  "domain": "alkali.engineering",
+  "name": "Alkali",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.9,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-13",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbFlRX1VfbTNUcmZFc25CMTRrT0dnQnRuY3BSekhlWUlmV1JIWFdyMUYxRFlSdDVfNldRUE1WanI5TEItWk5QNl9yb0hEOEtDblJ0SENoQ3NncDlDUzh0TGhuRm84cE5ndWN6M1lXdWhDbEN2V25zUnVQZUNfZHAzRENaNEZNZS1ONjB0RQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

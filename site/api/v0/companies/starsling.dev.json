@@ -1,0 +1,53 @@
+{
+  "domain": "starsling.dev",
+  "name": "StarSling",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 3.6,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Introducing Adaptive Compute: up to 2.3x faster GitHub Actions",
+      "url": "https://starsling.dev/blog/adaptive-compute"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-27",
+      "summary": "Introducing sling: an agent-first CLI for your CI",
+      "url": "https://starsling.dev/blog/introducing-sling-an-agent-first-cli-for-your-ci"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-13",
+      "summary": "Introducing ci-secure: an AI coding agent skill that closes the critical attack vectors in your GitHub Actions",
+      "url": "https://starsling.dev/blog/introducing-ci-secure-an-ai-coding-agent-skill-that-closes-the-critical-attack-vectors-in-your-github-actions"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-30",
+      "summary": "Introducing ci-score: an AI coding agent skill that grades your GitHub Actions setup",
+      "url": "https://starsling.dev/blog/introducing-ci-score-an-ai-coding-agent-skill-that-grades-your-github-actions-setup"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-21",
+      "summary": "Introducing ci-speedup: an AI coding agent skill that analyzes and fixes your slow GitHub Actions",
+      "url": "https://starsling.dev/blog/introducing-ci-speedup-an-ai-coding-agent-skill-that-analyzes-and-fixes-your-slow-github-actions"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

@@ -1,0 +1,25 @@
+{
+  "domain": "onebrief.com",
+  "name": "Onebrief",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 31.5,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 31.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Form D: $249,999,915 offering, $150,799,963 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888809/000188880926000002/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001888809",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

@@ -1,0 +1,25 @@
+{
+  "domain": "innate.bot",
+  "name": "Innate",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-09",
+      "summary": "New research unveils role of innate immune system in pancreatic cancer - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOE92MVh6UTFZVm11WEJpQklIMjNvZ0kwUjJfNG9VWnFRdkxXM2FwcmNNRFVUcGZZNkRIa0llVE9oS3NoTzREbEdCTlJ2RExvajlNLVk0MXlOcDFjUlZSNFVSVUZhUDVRTlFVOEZtYUE4NmJzc3lvaTlfdFdIYlNCTXdrNklvalRFbzY3Z2xNM1AtWENGOGQ4WndIY1hQQ01tUmRDZ194RFR0S05ZdnNuMWhGM2g3QXlDMFE?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

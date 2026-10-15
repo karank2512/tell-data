@@ -1,0 +1,25 @@
+{
+  "domain": "executor.sh",
+  "name": "Executor",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-10",
+      "summary": "IBM Launches Directed Execution Model and Executor Primitive to Give Researchers Client-Side Control Over QEC Workflows - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSXR6R290YVJ1M0lRY1JlYkVfTFMzMXBERjhySko3UXQzel8tbVZEZ1ZNZ2s1eDJEb2ExNlhXVVRVVDBjaFJjbU8wZjNXNnJTb2s5eGp6NzNjMTlUZEtiSklodWplcEdUVm9iUmVndURUdVJsT1NaMmk0Y18zeTYwNUpNQmpjM2NOcUZaUmc4bFFZLWhSQ1RRQ05yMlM0OXRTMXl4MjJIcmlkNzFLWFNnVnQ1Sy04aE0zU3VSUEFaSWpfUGRNaG9sbTd4VkpxZk9zdHJtOWVFaXNNTi0xaTIzei1pUzJJUWgzVDdR0gHwAUFVX3lxTE1iUF8tRURyTlVVWWVuT2VVWUFoX0ZNYnBJR3pLdXZUdHhmWVR1ZmktTnA1b09hcXlBTjdaU04zWU1sdFZOdFF3Wk1iTk0xV3I3WlJkZ2NXR3FKRmFLdjdGNy13QWd2aW81MEZpR1ExaDBjMkJQQ0hHdGtnY3JmN1NycXJJVEQ5aksyRWJaZFc0ZldiU2FzS2dsMFJuUzVIUkJxdnhmNG9IN25qemlJZUZlbEVYU0hrSVJNTF9ZWnBnVnNxQW9WU3VGM3M5U0JsRGhtdGstcl9WWElUZ0RjWWNSZ1RLRFZsbUt2aTR1cmZ0ZQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

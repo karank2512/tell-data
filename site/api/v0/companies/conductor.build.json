@@ -1,0 +1,53 @@
+{
+  "domain": "conductor.build",
+  "name": "Conductor",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 7.2,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-14",
+      "summary": "Yangju Appoints [person] as New Conductor of Yangju Municipal Symphony Orchestra",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vaG1Va2MwWTBzcXZpQ3ZFbE1fS3FMWkhlcU5pTk4xR2lVSkl3VHBFcTRReUVuUm1PZDlIenpNOW5vQWRZdXpqRE02Nl9nRVNjUDNCREJzR21CMW41SFVsb0tTeE0?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-13",
+      "summary": "Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzBxUjgzNXdWdmRBVDczU3ZRY3I4RW9vWlBqZ3IxdEFwc29oUUFsYlJRc0RkYWhPajRmQWVub1RoOHY3aFRVUmxoUy1xd0c4aDlqUEp5ank1QjZBcWhhdVFmYUpzUnRKRVFMS25ZNTEySHplQ2ZfZDF4UHB6cHRmYXppQ2xLLW5XU0FtNEZscWo1UzQwRzI5TWxjWWt0Nm8wTmIwZ0dIZF9fc0FIUHowS2NWQ2hCZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Disneyland Releases Red Car Trolley Conductor Hat More Than a Year After Closing Attraction - WDW News Today",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGdjZGZMaWNXRmNEQTR4NHppQjFRcEF5MExjQXR5MENTQXhfdUJqLTc1ejFycllPMmZVc2ZDWDdEUmxESnJBWTMtVkY3eGRLdG5JQ2pXejVTa0xvZVF2V2QzTWFrMVFwM1VpckdzUlplVWp5MHc4cGQ2TC13WU8yVzdPb1k?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-09",
+      "summary": "NTSB releases final report on fatal accident involving BNSF conductor in Montana - Trains Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pxY09JWHlEOW9hYmpycUVRV1NuUkoyaWk5a1pSaXczVE1KTTA5ZE9rSldMMFk5cU5XbXVEejFYdUtVTXRBUkNYVGJvVUZpbnd1WExNXzBjbHo3TFZaeDhXR2JMSnI1ZENWV1FCXzR4QXhiSEc4cWQ4dEUwOWI4N2Zfb0s0MDNWMGRmSVdvYVpabkFYSmk3dzdHNE9aMjN6Q2lZa0NBT0FiVFBEbEdYYUNzclJjUXhTWXdrTW1LdHpFQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-30",
+      "summary": "Conductor 0.78.0: Introducing Conductor Cloud",
+      "url": "https://www.conductor.build/changelog/0.78.0-introducing-conductor-cloud"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}

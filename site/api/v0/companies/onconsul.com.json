@@ -1,0 +1,32 @@
+{
+  "domain": "onconsul.com",
+  "name": "Consul",
+  "as_of": "2026-10-15",
+  "profile": "default",
+  "score": 3.8,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-14",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmZqVTl4OHB2dHFhZkVFbm84RjdmT2JZOHBOYmpuajlrWVM3SXVSWVRCbDhVWjM2Yzd2NUZjX2lDR1JNaVRCU2NJdkxkbWI3WWFORGlSYjdlQlU1TC1ya0RNMEFQUnlIQlBEWWVMdVgtX25QcGNJSlhUOUdyN05rZ0NEelhDcFJzWjd4cDd1WU84enBjQklR?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-08",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFIta2VsYjJOWEYtV1ZNTERkaGZqSm40WHJvbjdOdm5xeUozQnpHaDE3cGMxc3NjOGhMV2xTQTFoQ2JMekhCZXduazRHaEZEb3prZGZKLURhbWZDVFNiX1c2TzRsb21hSmJoSlh4LUY1MlVTS2lzWmJXcGhpcU44ZzVKVHNha0llZWhJ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/15620f68d66b0e6b956cac1344e841d9cb444f74",
+  "why_not_higher": []
+}
