@@ -3,7 +3,7 @@
   "name": "Payload",
   "as_of": "2026-10-15",
   "profile": "default",
-  "score": 28.5,
+  "score": 31.5,
   "contributions": [
     {
       "type": "funding",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Thales debuts BeamTracker UAV EW surveillance payload - Janes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamZMV2lCVE5fYUI0TWllRnNXQXpxazc4YWNmVk9NNGZxSjVyV0RBTV80UmtWQlV0X2xDdmNkRG05UlVhMXpZMkxtQkVla0NFMm9ESXFpYmlIYmF4RGhpamlMaE1oU3R1R2hhRU1ZRmVfLW9PTDNOaWFUektBRC1iTUpYZXNLeEhvaTJ1TGw3MVdXRlhWSE5fc3NDN0lQeVdjTm1wUnRwbU94SVZEdnRKdmwwMHh5WEVMSlJEWnZNTGtldw?oc=5"
     },
     {
       "type": "launch",
@@ -25,6 +32,13 @@
       "occurred_at": "2026-10-14",
       "summary": "HLB Panagene Unveils 'PNA Payload Optimization' Findings at 'OTS 2026' - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iV2ZPeGRJZXY0REdObjRId2ZaLVo2eVRKNENlMkpFMUZQQ0dqdC1NbWhIdWp1TnFPcGtqeUt4MXFHZDRzbUhrcFBKdUVYS01tUktvaWxzNkN2eHZjOWdaQ0JIY1c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "HLB Panagene Unveils 'PNA Payload Optimization' Findings at 'OTS 2026' - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xNWdOOElzSUlMamdRcTV6Skwwdkhtbll0cl85R0FiXzdUNEpZYTFoQnNZVWx3d09fWVdJdnc3d0NmWUdLeUhNUGpYVmhtbXNqZXdxUFJ2SXNRLXI2eWh3c3Z0MFl4VkN5UlktSlVIZTF1azByVmpXZHY1SQ?oc=5"
     },
     {
       "type": "launch",
