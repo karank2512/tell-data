@@ -3,7 +3,7 @@
   "name": "Airbnb",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.4,
+  "score": 5.3,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -36,9 +36,34 @@
       "occurred_at": "2026-10-14",
       "summary": "Airbnb launches weather protection - Coverager",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMjhXeGIzcXl1VE9jZDJzUHBSN2Y0Q1FUblluS0lqeFBVaF8tMDZJa2c0QV9xejVWbDJGY0szakY4NVV3WHRDdzJ6RUZxZ1J4V1hsQjJmSE1BVXhJSV9OWnFZRWYwSjhs?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-16",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/airbnb",
+      "postings": [
+        {
+          "title": "Staff Technical Program Manager, Infrastructure Security",
+          "posted_at": "2026-10-15",
+          "url": "https://careers.airbnb.com/positions/8286207?gh_jid=8286207"
+        },
+        {
+          "title": "Staff Software Engineer - Hosting Services",
+          "posted_at": "2026-10-16",
+          "url": "https://careers.airbnb.com/positions/8281533?gh_jid=8281533"
+        },
+        {
+          "title": "Engineering Manager, Tech Foundations",
+          "posted_at": "2026-10-16",
+          "url": "https://careers.airbnb.com/positions/8288417?gh_jid=8288417"
+        }
+      ]
     }
   ],
-  "open_postings": 179,
+  "open_postings": 183,
   "long_open_roles": 47,
   "sources": {
     "ats": "greenhouse:airbnb",

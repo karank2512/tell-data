@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-16T02:50:46.792605+00:00",
+ "last_polled_at": "2026-10-16T08:50:36.912099+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -548,6 +548,14 @@
    "location": "Toronto, Remote-Canada",
    "posted_at": "2026-02-20T18:00:18+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=7612192"
+  },
+  {
+   "external_id": "7618977",
+   "title": "Software Engineer, Core Technology",
+   "role_family": "engineering",
+   "location": "Bangalore",
+   "posted_at": "2026-03-03T10:41:25+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=7618977"
   },
   {
    "external_id": "7634113",
@@ -5526,6 +5534,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8246785"
   },
   {
+   "external_id": "8247120",
+   "title": "Monetization Operations Analyst",
+   "role_family": "other",
+   "location": "Bengaluru",
+   "posted_at": "2026-10-16T08:16:28+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8247120"
+  },
+  {
    "external_id": "8247127",
    "title": "AR Analyst",
    "role_family": "other",
@@ -5956,6 +5972,14 @@
    "location": "US Remote",
    "posted_at": "2026-10-15T13:22:54+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8282859"
+  },
+  {
+   "external_id": "8286680",
+   "title": "Account Executive, Existing Business, French",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-16T08:43:36+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8286680"
   }
  ]
 }

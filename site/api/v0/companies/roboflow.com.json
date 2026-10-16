@@ -1,0 +1,25 @@
+{
+  "domain": "roboflow.com",
+  "name": "Roboflow",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.2,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.2,
+      "occurred_at": "2026-09-30",
+      "summary": "Introducing Roboflow Labs: Advancing the Frontier of Real World Capabilities",
+      "url": "https://roboflow.com/blog/roboflow-labs-launch"
+    }
+  ],
+  "open_postings": 36,
+  "long_open_roles": 22,
+  "sources": {
+    "ats": "ashby:roboflow",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}
