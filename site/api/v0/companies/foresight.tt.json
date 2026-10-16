@@ -1,0 +1,32 @@
+{
+  "domain": "foresight.tt",
+  "name": "Foresight",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "CBO Launches Research Symposium to Advance Policy Foresight, Economic Resilience - وكالة الأنباء العمانية (العمانية)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mbld0NUNSdkQwQVpKM3BhUGxHdFFiSElpYS1CSlFBRXB3bzJ4ODZvUVhqM0IxV1BFOGU3aTlQc1RjNUMzdjRxdGpCeUFYVWtuU3dWTl9EaTgyRzVw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-11",
+      "summary": "Gremlin Launches Foresight AI to Automate Reliability Testing with Agentic Workflows - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGdhOTIzQ0NZdnBxZTRzSFc3Qm16SU4zSWhuV25qYU5ETC1jT3p6N0tCVms3LUNSUDVCUVNGc0JseUlJbkY2ODVaWnp1NEk2WHdvaUM1bVpyUzJiS090UUMteWQxSENCRGZDd25uaXlNUWxTM0Q1OXo2OFF5TlhHR1ZkX1pHeVlpLWo4OFhueTRPZzZrdTFvNUs5MS1QUUZKc1BRLWJ1RExGR0pNckZCeEVwTQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

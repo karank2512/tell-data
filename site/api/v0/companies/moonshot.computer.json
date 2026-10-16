@@ -1,0 +1,39 @@
+{
+  "domain": "moonshot.computer",
+  "name": "Moonshot",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 4.3,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "South Korea Launches 'K-Moonshot' Next-Generation Semiconductor Program to Eliminate Memory Bottlenecks - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WS1p1Z3FWcUczMGFDZzNvRVpKWW9FVDdYNWo2Y1NucERaUkxKSG96US1kV1daQ2NQdUFSM1BmYVczSHdPcDRtTnp0eUdreE1TRldnMlZKTWxFV29GSXZLVzNTOVRYcWJ2Q0tnRUt1T0I1SkZKcXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "MSIT launches K-Moonshot semiconductor committee to push next-generation technology development - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3AtVmRZM3JJb2x3R3FQYmVUaGJldjVNcDIzUDEyWms5LTZ0ZW5td0wxSUstUTBDQm1ZQnhtOW9FTnlPZmNhODBmVkVSeEJjMG5IcTJ0cEpRVkd0RTByb2liTTlWQWRyTWsxdUtNdlM0T19CR3Iwa0NKZlExZHhwWFB3WlNXcHhZcl9oWWZVRnFRSFNjVWc3ZFhSNzRSbEJjbkNTNWdJUFZPWW9uazU2U0RsRk5zU3RIcEZQRE5yNXcwdUFNbEZFTmZRcmZkTmkwWVU3NmhGRzk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Moonshot AI Releases Kimi K3 Architecture Details, 1.56 TB Model on Hugging Face - TechJuice",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUV4dmtwOFI5ZE55U01NVUhuWC1fTTRJamNjSFhMVlNpMlVjOGRFZlBySnlINnNmWHdvbjBhSlVHV0FwdUJ1WTYzRzE2SlNleENNaDRpc3FFNWxjZVFCMkNoZmxoYWtUMUZCejVMUl9IQklTNXdQNFVsQk5LaFVwZHc3WWtrSkEyMlhJX2l5MEE?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

@@ -1,0 +1,32 @@
+{
+  "domain": "hera.video",
+  "name": "Hera",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 0.3,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-05-29",
+      "summary": "AI Product Launch Video Generator: A Practical Guide for Startup Launches",
+      "url": "https://hera.video/blog/ai-product-launch-video-generator-guide"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-22",
+      "summary": "App Demo Video Template for Mobile App Launches",
+      "url": "https://hera.video/blog/app-demo-video-template-for-mobile-app-launches"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

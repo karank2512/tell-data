@@ -1,0 +1,67 @@
+{
+  "domain": "usenaive.ai",
+  "name": "Naïve",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 4.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-06",
+      "summary": "Introducing Social Data: Public Social Media for Every Agent",
+      "url": "https://usenaive.ai/blogs/introducing-social-data"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-06",
+      "summary": "Introducing the Mobile Sandbox: A Disposable Cloud Phone Your Agents Can Drive",
+      "url": "https://usenaive.ai/blogs/introducing-mobile-sandbox"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-06",
+      "summary": "Introducing Data Gateway: One Priced Data Catalogue for Every Agent",
+      "url": "https://usenaive.ai/blogs/introducing-data"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-08-02",
+      "summary": "Introducing the Computer: A Micro-VM for Every Agent Session",
+      "url": "https://usenaive.ai/blogs/introducing-sandbox"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-01",
+      "summary": "Introducing Vault: Write-Only Secrets Your Agent Uses but Never Sees",
+      "url": "https://usenaive.ai/blogs/introducing-vault"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-01",
+      "summary": "Introducing KYC: Identity Verification for Your Agent, Done Once",
+      "url": "https://usenaive.ai/blogs/introducing-kyc"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-13",
+      "url": "https://usenaive.ai/blogs/introducing-domain",
+      "summary": "Introducing Domains: DNS, Email and Apps for Your Agent's Identity"
+    }
+  ]
+}
