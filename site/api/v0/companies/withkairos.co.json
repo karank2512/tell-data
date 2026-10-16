@@ -3,11 +3,11 @@
   "name": "Kairos",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 12.3,
+  "score": 13.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Appoints [person] to Board Of Directors",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWstN214alAtRkU2QVRJcFBKV3NJZndZN2hVVVZDcXBsNnZIRHlUTmZmM21YMmhFelFtQmlSTmpaNVgzMmNFRS1ZbmFBaDh4Q1dlLXAzRTB3eHFHa2Q5WGNROXBwS19yMWw3aGVtUEd3SW9qMy10M0g1WEZ5RHhOR0JscHhPYVZCbU9ObTdkNjMtT1hzUmY3YVpSNWZnaU8wb0t6eXpzTm9ZYTYyeEk5MlFreXY2bGlfd0N4LUhOUWRIdXh4Q1B2d2R3?oc=5"
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Inc. (KIRO) Appoints [person] to Board",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWF6bzQzY3k3RnVwSGRmdV9NcVEyOHo2cHViUld1VGNBMlY3RVpiVkp6dlh6b1IwQ3RFd214SkJqQXlrRUdZcXJ4ck1GV1FjbV9sc3VVeHBmcVVDWVFrN1hRTXM4dWVXMDloM1NJUmoyVVpXblBsX1F6dlNabW5kcDRXT1haQ01zQWYwVTZTZXptZk5WbkVyOHo1eVFJUXRndlFhWWJPWVhLdUk0NFY3SHZB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Airline Fares, Rebuilt by AI: PROS Launches Kairos, a Platform for Dynamic Offers - Travelers Today",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDAySU9feEtzQlJBRGR2VURuOTRyUXByZUVHYkN3c2FwOGVhYVdWR1JYTFRNQ2l0Y1dtTVlaYm5sQjhJVWVKQ3EtaGdCOTNZeUJjTU5aS2ZZa1hjLWI5NkRmbkF4RTQ1OG5ucFRlMS12YVdOUmVOMXFtV3pVcVhSM2xSUmpUdXFaTWtGSlJfaDd3Mi1iSVRXZlc3LWV3Y2hPVFFHVzIyRDZDWUN0NFVUYzNYbGFhdlNKOVlna2dTaGRhcXRzWVd3?oc=5"
     },
     {
       "type": "launch",
@@ -69,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

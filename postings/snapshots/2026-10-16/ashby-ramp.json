@@ -3,7 +3,7 @@
  "identifier": "ramp",
  "domain": "ramp.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-15T15:49:17.994412+00:00",
+ "last_polled_at": "2026-10-16T02:50:48.517479+00:00",
  "open_postings": [
   {
    "external_id": "009dc18b-26a3-4fac-a773-c60d742cf840",
@@ -766,6 +766,14 @@
    "url": "https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36"
   },
   {
+   "external_id": "96250bac-465c-4524-bc7c-ba0f0b05310f",
+   "title": "Senior Manager, Account Manager, Enterprise",
+   "role_family": "sales",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-10-15T21:33:08.330000+00:00",
+   "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f"
+  },
+  {
    "external_id": "97898101-f97b-47c8-a991-267afc517ae5",
    "title": "Senior Customer Activation Manager | Partnerships",
    "role_family": "sales",
@@ -791,7 +799,7 @@
   },
   {
    "external_id": "a13ae586-f4cb-4385-8822-c42b9b54ed74",
-   "title": "Software Engineer Internship, Frontend",
+   "title": "Software Engineering Intern, Frontend",
    "role_family": "engineering",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-09-24T00:40:15.975000+00:00",

@@ -3,14 +3,42 @@
   "name": "REGENT",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 8.6,
+  "score": 15.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-16",
+      "summary": "Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ2ZLSTZOOUJGcmVoQlRmWGNmODdGM3RrX3ViVXBEblhpSUFBQWEwejZDVkVlZ1JXeFlOSTBPVktSU0pEUXFBY2dFWGtia1l1TmZ0UHhhUnRsNlU5bFhvcXcwcmFVR2ZlNGJCSEV0cTVyazFmSjUxbUNOZWpGWDRsOUNHU2x1b2w4WWVGaEJmc09nWEFtN213My1kVFVGNVlIcHc?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-15",
+      "summary": "Minister of Home Affairs Officially Dismisses Gowa Regent, Appoints [person] as Acting Regent",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc3p6MTN5MFFBVmp5NF9rN0dDTHRjTk1WeGNvYWFWLWZCd0tFb01McG5kci1jNHVMTEJkMjBOSU8tWlp5MFR5ZlBoU1Z1N2hMNXk1TEJvSXhYaDVOeWlOTHpRNkRhSnlCbU9jSnRJLXhwNEpjdFBVUWVib3ZBZklCNUVvT2t2Z3lSNDY1UUtYUFA4LVNJMVcxQThaeDc1TGh0VFZjblhaUzZTWG1EeDVsLWZtS3NSSnM5UzhEc2k0dGdYZw?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
       "occurred_at": "2026-10-09",
       "summary": "BREAKING: King Charles Appoints [person] — Royals Left SPEECHLESS! Hammersmith And [person]",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kRk9JaUJiSjdfTzJfNzhJcC00ck9iTmJrT094VEswMGpfWE5fWGh4bmFvYzFlZWVFQkJpaHlaR2JUckdobmpvN0E3YktHVGlma3d1dlppZ3FUQ25yZjVJaWtQV1lKQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Hamleys Launches Its Top 15 Festive Toys on London’s Regent Street - London Post",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2JUaktSYm1OU01BU05EVTNIT3NxcmZyazN0WFJDbjI5eUFaOVJQVWlnQ2tQT3FuMVROWHUzMTJrRkh5MFRvQTNlelNiU2REdUl2Sm9RYzhGamlHandja1lKN2ZJWlV0S0hvWkdUVS1FOFNiNkRxOFhyb0NiOWdLeTBYQTlpdGowWk1ER0lzeEtSOHk3NjRV?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Regent Signature Developments Introduces Its Vision for West Cairo Through Debut OOH Campaign - INSITE OOH Media Platform",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1FKZzBpcjdFcjVtS0Z0UVVLNzF3ajFfWVY0c1NnTHlOYmkwZEN6TjEyaVlJcGc4S0dTbnRyN1g4dDlxZTY1TXZPSmFyQlRJNzdYVTZQTFpMWExlY0Zwa1U0anJ6YkpSTGVSRlBJaXNCSHVNZ1h0SWRXQldIX1lYX2wxWmFJOHBSTGxKdE5ha29ONUpra1B5MWxyUlhlV1otaUs1bGlRdDNlYTZKSGozdkw4R3BQaFViZHJNM2JQSWdDSUR5VjJpNw?oc=5"
     },
     {
       "type": "launch",
@@ -28,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-10",
       "summary": "Regent Seven Seas Unveils Something New Ahead Of Seven Seas Prestige Debut - Cruise Mummy",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXNhb2dXSkNFWk9QTm03UWgxb0NBUE9Bbl9qeUlWY0FvYWQtdGVNdVR4MXAyRm1NTnlYd3V3Z3pNczRDMjdtS0luanpjOUdURjVULW4xb1c1alB1Q0poTFdxa1paRTZZd0NEaUJ5bGk4WGRjT1ZVbk9qMGIwODRHaVBUb2J4eFI3dm85S1haRU9KQmc0Z0t3Yl8zXzJETDlyNk12dDlBdnU?oc=5"
@@ -55,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

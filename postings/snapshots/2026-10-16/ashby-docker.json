@@ -3,7 +3,7 @@
  "identifier": "docker",
  "domain": "docker.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-15T15:49:17.994412+00:00",
+ "last_polled_at": "2026-10-16T02:50:48.517479+00:00",
  "open_postings": [
   {
    "external_id": "05a5dc9e-5c5b-4f92-b2bf-93c9348d264c",
@@ -84,6 +84,14 @@
    "location": "United States",
    "posted_at": "2026-09-09T21:02:35.325000+00:00",
    "url": "https://jobs.ashbyhq.com/docker/309fa9bf-50fd-47d5-9556-cd65d669a448"
+  },
+  {
+   "external_id": "30babe0a-57e8-4425-8991-8797e8337e82",
+   "title": "Staff Software Engineer, AI Gateway",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-15T21:00:11.288000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/30babe0a-57e8-4425-8991-8797e8337e82"
   },
   {
    "external_id": "3458c40b-e757-4bb3-8b53-235c392fcab0",
@@ -492,6 +500,14 @@
    "location": "United States",
    "posted_at": "2026-07-08T20:46:22.944000+00:00",
    "url": "https://jobs.ashbyhq.com/docker/e82afe97-2ce1-4561-8697-8e281849d0a8"
+  },
+  {
+   "external_id": "ed0ec3c2-aa74-4d81-97d9-f99e6b47d078",
+   "title": "Senior Software Engineer, AI Gateway",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-15T21:19:24.622000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/ed0ec3c2-aa74-4d81-97d9-f99e6b47d078"
   },
   {
    "external_id": "ee504b14-a745-4d4a-a47a-21108ac3e2d0",

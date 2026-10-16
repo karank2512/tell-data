@@ -3,8 +3,22 @@
   "name": "Pierre",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 3.8,
+  "score": 7.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-15",
+      "summary": "AIB Data Centers Appoints [person] Vice President of Public Affairs",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEc4bnJ2TU44WEZpYXY0cEdDVnphbUxiUE42eWVjekE0TmUxMTUyUloyQXVpWHlBRXRhOHUtUHhkN3RrLWR6VkNmWWh3ZGNtbjVjVnI5R2V1cnVWTjlsajBjRHpJVTNIWFZNZGZwVi1mWWpiOGphbVQtTXZ5OTVvWkFkWFJoMmVKNmN1UE5Ga3paQnFkVXVuRFFvU2xUa21SekY0cHFDSEVXa0I4MWF3WA?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-15",
+      "summary": "Foundever Appoints [person] CEO to Accelerate Agentic AI Transformation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVdLeTQ3TVBzaVE1WkE1NnhSZTQ1SW9Lc0t1RzExT2J0c2tLUnhuZHg2Rml4WFhacWw4ZW1EOXVWOVJ6RWdsd0NQWlY5b182eC1fSlJjYWItdk5iRHFpTmlEZl9HY0hILXN4bTlrV0xQa0VQVS1aZm1NV3VjRlNfVUg4Nm94QnljMnRFTV9fazdYTXZhR3lmQU15dnNxNkpXS2lHYk8tYkhOaTNFTHRrNk53?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -27,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

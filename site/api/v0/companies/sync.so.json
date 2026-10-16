@@ -3,8 +3,15 @@
   "name": "sync.",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 8.2,
+  "score": 9.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "NVIDIA releases GeForce 617.70 hotfix driver to fix G-SYNC Pulsar 320 FPS bug and black flashes - VideoCardz.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWi1Kalk2ckkyQWR6aW5jazBUSmVWZVlyQmpTd2NiUGZYTTNEbXJjNHJEbVNGdVdxcG5pMFhYQVFheUlheWFUMGZCZVRybm05TTZ2TVlVdjI3SUJSaGlfSTJRWjdGU0VEZ2lpYk5MbGFDa0dnZFFYZEtJS090aDlEUjU2b0VHNFV1eXg1bTRDRjZHY2l4elV1elF2WXV2Z1pvVnlrSWM4cGtFUW04ek84MlpVTmxxZ3pUN0N2M3FHU1c?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

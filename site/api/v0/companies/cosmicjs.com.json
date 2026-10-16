@@ -1,0 +1,38 @@
+{
+  "domain": "cosmicjs.com",
+  "name": "Cosmic",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 0.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-28",
+      "summary": "Introducing Learn Cosmic: A Hands-On Learning Hub for Agentic Workflows",
+      "url": "https://www.cosmicjs.com/blog/introducing-learn-cosmic"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-13",
+      "url": "https://www.cosmicjs.com/blog/introducing-the-cosmic-agent-marketplace",
+      "summary": "Introducing the Cosmic Agent Marketplace"
+    },
+    {
+      "type": "launch",
+      "decayed_at": "2026-09-27",
+      "url": "https://www.cosmicjs.com/blog/introducing-team-agents-and-cosmic-agent",
+      "summary": "Introducing Team Agents and the Cosmic Agent: AI That Joins Your Team From Day One"
+    }
+  ]
+}

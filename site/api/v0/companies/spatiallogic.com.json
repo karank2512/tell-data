@@ -1,0 +1,25 @@
+{
+  "domain": "spatiallogic.com",
+  "name": "Spatial Logic",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 26.6,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 26.6,
+      "occurred_at": "2026-10-15",
+      "summary": "Form D: $5,685,000 offering, $3,584,999 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158653/000215865326000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002158653",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

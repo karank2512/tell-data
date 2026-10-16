@@ -3,11 +3,18 @@
   "name": "Fable",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.9,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Anthropic Unveils Claude Opus 5 — At Half The Cost Of Fable 5 - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzYyMkx0NFhLdTdIZW5vaVI5bnJXODl4LXRFd1VXNkJJeklVX1VsNllfOVNzSERKSlRfU2lyZ3o4enY4dWFSYWNRc2xnVmVpU0tkMHBkTmVFTHRWR0oxOWpzQ0ROM3pGcW95MzFKTE85Yjd4Z0tvNmdvV3R1XzUzUGlVOUFQOG5FT0NYZ3NDejRkQmd6TTlibmcwbnJYMVBGZC0xbjNQTndLQWFVY21sTXJ5N3c4VFo2NnhHazRQdWk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Google officially releases 'Gemini 4 Argon,' offering performance comparable to Claude Fable 5.1 and GPT-6 Astra, allowing Google to finally catch up in the AI top competition. - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzJ1V2l6OGI0aG53aWtKS1pTUWREZy1jSlB2ZTJPQWNQVWsyRUxXR3g3bEN1cV9waEFVQWM1eklkVkRISUJ0dk9vcHp0ejBneEVfTXFUcjE5OXlDSkZqRUxkQi1ybW84WlBZLXZVeDVQX2JkNWE1RkNSVzlxLV9BVTdJLW5wVnM?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

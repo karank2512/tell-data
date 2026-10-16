@@ -3,7 +3,7 @@
  "identifier": "humaninterest",
  "domain": "humaninterest.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-15T15:49:16.505354+00:00",
+ "last_polled_at": "2026-10-16T02:50:46.792605+00:00",
  "open_postings": [
   {
    "external_id": "7751372",
@@ -116,6 +116,14 @@
    "location": "United States, Remote",
    "posted_at": "2026-08-13T22:15:21+00:00",
    "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8127060"
+  },
+  {
+   "external_id": "8147547",
+   "title": "Commissions Systems Analyst",
+   "role_family": "other",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-15T20:17:37+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8147547"
   },
   {
    "external_id": "8165297",
@@ -564,6 +572,14 @@
    "location": "United States, Remote",
    "posted_at": "2026-10-13T15:56:48+00:00",
    "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8275207"
+  },
+  {
+   "external_id": "8282300",
+   "title": "Procurement and Accounts Payable Specialist",
+   "role_family": "other",
+   "location": "Lindon, Utah",
+   "posted_at": "2026-10-15T18:32:25+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8282300"
   }
  ]
 }

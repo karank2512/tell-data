@@ -1,0 +1,32 @@
+{
+  "domain": "atomicvest.com",
+  "name": "Atomic",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Imaginando releases COLAPSO, an atomic synthesizer plugin - Bedroom Producers Blog",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ub3o0WFhWa3AtSEpvRkp6WHNEaTNCTDNzOXlkOUw3aEdMTkRaaUN2UEhObExPR1Z2UVBWSUZuM0JUdWk1d1NkMEVXamQxVEtRdzMyQndENEVBZVhNeThJUnBuS3B1aVRvODVSNllVSW44SllZR1E1clhB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-09",
+      "summary": "XRP Ledger Rolls Out Delegated Permissions, Atomic Batch Transactions - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zb0JJLU9Ecl93a2ZUWHpkNUo2TmZ4OWxQeHk1QnJabkRyNkpmSWlWTVNWa3BfTGN4Z2dTMkEzd09qWjNWS2V2UFpaRDlqc2Z0WWtvVVRQWXA5M2JJdWpWYU5wR0xfemNxU2M3ZU9OYjhwMUVnc0E?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

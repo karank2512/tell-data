@@ -3,23 +3,48 @@
   "name": "Airbnb",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 1.4,
+  "score": 4.4,
   "contributions": [
     {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.9,
+      "occurred_at": "2026-10-16",
+      "summary": "3 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/airbnb",
+      "postings": [
+        {
+          "title": "Delivery Excellence Manager",
+          "posted_at": "2026-10-14",
+          "url": "https://careers.airbnb.com/positions/8264826?gh_jid=8264826"
+        },
+        {
+          "title": "Gestionnaire, Excellence de la prestation de services",
+          "posted_at": "2026-10-14",
+          "url": "https://careers.airbnb.com/positions/8264827?gh_jid=8264827"
+        },
+        {
+          "title": "Community Crisis Investigator",
+          "posted_at": "2026-10-15",
+          "url": "https://careers.airbnb.com/positions/8282758?gh_jid=8282758"
+        }
+      ]
+    },
+    {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
       "occurred_at": "2026-10-14",
       "summary": "Airbnb launches weather protection - Coverager",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMjhXeGIzcXl1VE9jZDJzUHBSN2Y0Q1FUblluS0lqeFBVaF8tMDZJa2c0QV9xejVWbDJGY0szakY4NVV3WHRDdzJ6RUZxZ1J4V1hsQjJmSE1BVXhJSV9OWnFZRWYwSjhs?oc=5"
     }
   ],
-  "open_postings": 173,
-  "long_open_roles": 45,
+  "open_postings": 179,
+  "long_open_roles": 47,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

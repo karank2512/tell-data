@@ -3,8 +3,15 @@
   "name": "Motion",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 5.5,
+  "score": 7.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Aslan Motion Technologies Launches aslanmotion.com with NDAA Focused Drone Electronics and U.S. Manufactured Motors - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMlpZWjYzam51Z3NxNlpzb2dzNnpqVTZqRWFBTVdYN0R6dm5ReG45YVRZMzA0dzZPWVhjaDhKdTRWdHlkYy1NVkFkTHIzTWNHTHQxaXVfc1JjTWZhNHB2TzF3UXBBbVhwT0xrS3U1MjQxQjV0cFNLZVhUdzhQNkE3ZG1JUGg2a3NTbjlCTXVkMWM2OFp3Q3NJbnpNdGhfTE9WR1ZyR005Ym9OUFFLN0g0RkF0UFlnbzlyVHQ0b3N1eHZzTFF2NXZ1aVhnNWp0elFLWUhISldUYUY3S2pRSzlYUjdqSzNhSktFak1SOU5KSy1pcVNrNnlaNFRmSEU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

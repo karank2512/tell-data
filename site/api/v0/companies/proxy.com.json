@@ -1,0 +1,32 @@
+{
+  "domain": "proxy.com",
+  "name": "Proxy",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Ethan Allen investor launches proxy fight with five nominees By Investing.com - Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR01TVERmSzltSmVEYjZCZzhabnQ3RUxzMjd4N3JaekR3bGt3RHl1QjJsTmx5VlhSV1lWYklBVXBzM2ZFLXNMUUZXMFlpU3N5NlZ3RVR0NDhMcTZxMEhIdnhJaVhOOXdSYmNkMnpNdjlyWjNDaHB3ZEVCNHdIVUY1ZzZaQ0Mza0xaZ2NmZlllVm5hbFdqX0xDZHZDQkZDV2ZmbUJTd3J3S0tqRW0za192WmlUOHBZMEJSU0JhRHFB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Oasis Officially Launches Proxy Fight to Win 4 Board Seats at Vail Resorts - SnowBrains",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFMtcWVRWS1oWjN2dTBkM2otY0U4QmN4OGRJcGV1RVpkR3o5enJDb0lid1hINklWN0hBc2hRN2IwSmJDM3BLNkQzTEJmZzE1bWlVZmhyOXM1NnJDRURMNDJzeXNvajlKVjhKN1VnNGo5RU00SkV0SFZ0RFFjZkJacDh0cUxxZ3AzU0VScUFNQ1BxYUd3TU9GbFRrbFpQckE?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

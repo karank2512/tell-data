@@ -1,0 +1,25 @@
+{
+  "domain": "globe.exchange",
+  "name": "Globe",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "'Artists from across the globe': Treefort unveils first wave of artists for 2027 festival - KTVB",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaG9sQklfUkQ3RmEyV09nVGtQMmdwVkxXSFE3aFVnLXZLMUQ2SVBmUjk3a2RuMTRtTlppcnliY0N0UXJhTnVQekFqRFZ2dWx5Vm1xQ21KeHFaWUJlYjNDcTAzczZ0NV9TTlpiclM5Q2tmX21mZm9yeUFHcFpPS0x5cTVZMVR3SjdFREpsT3NXZVk5MXhkVlczdGZ1ZS1Ia0VfaVdRTHY5UUR5SW5TRHQzLW56N1YxVVlGby1YUmVIRkxMa0gzX2V3Q1FsYnRZdw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

@@ -1,0 +1,25 @@
+{
+  "domain": "oklo.com",
+  "name": "Oklo",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Oklo unveils plans for isotope production facility under DOE’s Launch Pad program - ExchangeMonitor",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGxBMkRHX3lMbmtDbzdYSXNfVzFjamFkeXhndGRrZ2JhaDBFbUpJXzRFSVdldVFCaVlpanFpcnAyRlFlQjZ6T0paWkFtMG5UdnJVb1drOHNLcUhBRVNOVlZMd205NHk0Mi1wRnRhUWdNUnZrbXluaFFBQzNpby1CUDZVOHp0MXpFY3plWVcwQ1hmZVBRakRHLVNQc1g2bzVhMmVweHl5S3l5d0lmTmdZVmtXQQ?oc=5"
+    }
+  ],
+  "open_postings": 75,
+  "long_open_roles": 19,
+  "sources": {
+    "ats": "greenhouse:oklo",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

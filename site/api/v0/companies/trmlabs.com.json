@@ -1,0 +1,67 @@
+{
+  "domain": "trmlabs.com",
+  "name": "TRM Labs",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 6.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime | TRM Labs",
+      "url": "https://www.trmlabs.com/resources/blog/trm-launches-ardence-ai-investigation-platform"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Introducing Ardence: The OS for fighting crime | TRM Labs",
+      "url": "https://www.trmlabs.com/resources/blog/introducing-ardence"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - TRM Labs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXRiMUd0NFA1YWgtNkMtdk9ORkd6VVN3ZlllWkcyU3YwWTVXYlg2dDZJRmliNXRfa2tyRWhDcjJFRDVMMjJBcFNHRW92Q255Ynk3ZkQtSDlrV2RIS3NTdjBGd3F0T2J0d19hT1V6eVRXRnNMUEpJOHJGdGJ2LU42MDNPUlJ6cFNoQjNhcWFn?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.1,
+      "occurred_at": "2026-08-27",
+      "summary": "‍TRM Labs Appoints [person] veteran Ziqing Ang as Head of Policy, [person] | TRM Labs",
+      "url": "https://www.trmlabs.com/resources/blog/trm-labs-appoints-mas-veteran-ziqing-ang-as-head-of-policy-apac"
+    },
+    {
+      "type": "leadership",
+      "contribution": 0.9,
+      "occurred_at": "2026-08-04",
+      "summary": "Names [person]",
+      "url": "https://www.trmlabs.com/resources/blog/trm-labs-names-former-mas-regulator-claudia-hui-as-head-of-compliance-advisory-apac"
+    },
+    {
+      "type": "leadership",
+      "contribution": 0.3,
+      "occurred_at": "2026-05-12",
+      "summary": "Financial Crimes Veteran [person] Joins TRM Labs as Account Director for State and [person] | TRM Labs",
+      "url": "https://www.trmlabs.com/resources/blog/financial-crimes-veteran-carlos-verdoni-joins-trm-labs-as-account-director-for-state-and-local-law-enforcement"
+    },
+    {
+      "type": "leadership",
+      "contribution": 0.3,
+      "occurred_at": "2026-04-23",
+      "summary": "Cyber Threat Intelligence Veteran [person] Joins TRM Labs as Account Director for DHS | TRM Labs",
+      "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
+    }
+  ],
+  "open_postings": 112,
+  "long_open_roles": 37,
+  "sources": {
+    "ats": "ashby:trm-labs",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

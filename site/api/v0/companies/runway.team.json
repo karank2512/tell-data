@@ -3,8 +3,15 @@
   "name": "Runway",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "David’s Bridal Launches Doggie Wedding Gowns During First-Ever Pet Wedding Runway Show - People.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWlhoMTJDSGJDczN2OTBibTdMZGIwNnpLWmFZY1NCTkNKQlVTTndTSFRIYzktelc1R3d5U3JIZDFwcms3OWVBZ0pKLW1NMlJyeklYaUpfbjNhWFhkM0M5enpzNFVqcUhnSGF1aGRMd1l5Q3Ja?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

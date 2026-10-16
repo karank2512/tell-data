@@ -1,0 +1,32 @@
+{
+  "domain": "glideapps.com",
+  "name": "Glide",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "North Korea Launches Ballistic Missiles Four Days After South Korea's Hypersonic Glide Vehicle Test - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcjgzUDhQYzRrbDJpZXRGajR1U1VDN0NIV1Q2dUkyWmpaMV81OXR2MDM3WDFmYjFlc2FCZGhmYzl5LWFGak9la0pjUnJtTHFCLV9jUXB2eVc4blJnTnhkX1pn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-10",
+      "summary": "South Korea Launches First Hypersonic Glide Vehicle Five Years Behind the North - Military Watch Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUl5OGRwa011dWxoa3p6QkhkWXBZWFhrWnFEaGRHQkhSM3QxX2hSM1M5SGZkZ09HSV9xcVNNYnlCSHpwOVRfdWl3cTIzeXB6Q3FBZVhwM05Ta01vV3RORm1XS1U5cXNhX213LWFJaEVLWW9CMzc1NEZicTZSSVlmWVN2OWxqdw?oc=5"
+    }
+  ],
+  "open_postings": 1,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "greenhouse:glide",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

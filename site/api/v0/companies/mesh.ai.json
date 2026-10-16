@@ -3,8 +3,22 @@
   "name": "Mesh",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 18.2,
+  "score": 22.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Mesh Launches Link Chat: Turning Conversational AI Into Direct Financial Action - FF News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeDFnLUFteWhZaVdEMGFLbXZ4M3ZQbkFLQU5wd1hXR21mZUJyNHhXVDI1eTZWUFROZEVLYlJqWHF2emwwZ001N2VzTldlc0xEY2pQUW43YmJEUjlTSEpNVVk5NDlxQndJQnhHeFZxRzBwenhraTRFdEhpbkZpSkNkN3NmakpzUmQ1bWRKNTdyLXZXckpUSEY4SzhyazM4YTg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-14",
+      "summary": "Puma introduces Faas Lite Mesh 2.0 - GolfWRX",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kTmotM2t3aW9hNEM3UXl4aDlJa2owRlAtNlVhTlUycnBKVll2Uzktc1BuWjBJa1JLNzBNRVVjb2dDRGxfVExnZExObzZkTFozS3poZTVlek5TNkZfYWI5MA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -14,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Mesh Launches Link Chat to Start Crypto Transactions With Natural Language - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wWDlTRldVRmVxTXF5N2lnejlScjdhTlBwSXljTUZWUlJBOXFTMzR1c1VHODdTdmMtWTFEX3JLeGF6MDU0Mjh6elVpa1pmQVlEZGhVQ05UQ0RxODA?oc=5"
@@ -65,6 +79,13 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-12",
+      "summary": "Mobilicom launches SwarmiX mesh communications for drone swarms By Investing.com - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeG16Q1ZQUTlRUVBWRUxTNTItVFA2VndVQnZzVms4NEF0TEVrVlBXc2Iya1Y1WVo1SzFmSk9XTzJRbzc2SGZNeW9LN3p5M0ZmRlZjTXMza1ZPMXpxNVRuWVJBMy1rMUVVZmh3Z0dGeHJIRWo5RnI2N2J5eWxBaGtLYWt5NDJ3UDF5OUNVX2gtZks5NVdnaVBZX0xERXVNVjVlTDBCWnJRV1pvcDdTeDQ1VWYzZkFEdkVVN1ljQm5CcVdpQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
       "summary": "Mobilicom Launches SwarmiX Secure Mesh Communications Family for Swarm-Scale Defense Missions at AUSA 2026 - Quiver Quantitative",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTXJmTU4yS0o0V2FvckwzQTNaWE8tbjRoMWN2a1JxR25iRGI1MUJoT05SVEY1TVBTaGdwTGdRakRlUDZNRTg4U3dTNDQzZ3RCc0JWR0FIU1R2MjlHbUxmNDRRQmNfYjFQTEpNaHVCcUlPTDJGTkthaGRjbWJ0ZVQ3VEEycDRBNWhjdnhsRWRySUpoY3V0TTU2YlNqa2pSejMyOEFJWXZVLTNYVEtiWWx4eS0yY3ZxaXNuY2hCdnlTV3NkeVBZdEFDUDZQRjJwcXJ0cTd6OXdn?oc=5"
     },
@@ -104,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

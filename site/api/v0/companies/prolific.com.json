@@ -1,0 +1,32 @@
+{
+  "domain": "prolific.com",
+  "name": "Prolific",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Where is the North’s next big tech opportunity? Prolific North unveils launch of new Tech Growth Summit and report - Prolific North",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV1VZQVdEbWhQMHZNRG1hZlZVVUhJWGF6dExIWlFDdWVuQlI0b0pkWUhDQnBhUzJuU2wwRjJPb2RCOFNRb0lyWHhhT2FfZnFPRWlDcDB6TGlvczVob2Zpd0FYWHN3Q0J2dlpYdWJIZW55bElpYlplVEs3YmNDSHJpWXhwNXBZdlI2bmU5bjNPMlZEbF96dkVCRHkwNUtLLVFpU0JqU2h0Q3RoX0VPZzRFekdrLWt3WWFidXRadWpudldRQmd0dHVZcl8tTzlIb08zejZQWTNQUHl6c2Jmb1A5MnRqbGc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-09",
+      "summary": "Prolific Longhorn Podcaster Launches “City Cast Austin” - Texas Exes",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHZIY2pQYlhJMTV2MVNpQVp3RDRmcnZZOWJTWG9ySU5pd2U2RkRIa0xuQTkzQmFWQTlDUXpaTnBveFlSVUp3WWFvVk9iZGR1M0E4R3hHc3h3ZS1DaHcyOG5aNm96T3ZOTl9oU1htUm5kaVc3bVA0NHNPc0t1UnRsMUYtV3ZDYlBYRUpJS3Y0R1hUdXM0VlE?oc=5"
+    }
+  ],
+  "open_postings": 30,
+  "long_open_roles": 12,
+  "sources": {
+    "ats": "greenhouse:prolific",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

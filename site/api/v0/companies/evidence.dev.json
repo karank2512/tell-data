@@ -3,7 +3,7 @@
   "name": "Evidence",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 3.3,
+  "score": 5.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-14",
       "summary": "Briya Appoints [person] to Bring AI-Native Evidence Generation to Global Research Organizations and [person]",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbXNWM0Zuc1R5QmNqV09lZGMzYWFpcGMtOG5aSDR6NTJwYjZZUlNJZVhHWHNFRnJDQmRmdDczWW1ISlVKX1BmLTQ5dGNtcUJCOVcwcFZxc3M2U0E2R283MHFhSTY2SmlyRFZvMTRNMnVyN05KYWo1YkpTajFHSkp5TmtzTWY2XzFqRVBpLWREaHRfVWFhRGR4NkdpYjBmSFFTQjBQMHJBeWtabV9GZWlUdTBxMnBvcG84ZDg0SkhqTGxXLWdGaW5TUXNNQ09BMm96SEVqeVJRZjFNYU1vTVZqX0JtVElFZkVaX3plNFRQekg5RWJ4RE1jQWtIVUU0bmx2eFhra3l3?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Briya Appoints [person] to Bring AI-Native Evidence Generation to Global Research Organizations and [person]",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOWdaQ3hSa05RMGRnZEYxXzZPcDhQTHEtTWVSd01ETXlmR2UwWVp4b2hRVG9uY2ZyUnZlV1RTOVY1SllBX2xzYUFJdkhpOWxuczJKTlVQR2s4QnhkTDRiYXdHUW5CLWhWdEQ4MGFMdW5WOVVfcjNzWW9laVBGV1IycVhLV1pJNGg4SnllclNORmtoTnB5YUNDcFN6Z3pGVjJpcEVtSHF5S3FaVzlHbmdFZ1ZIMTdhOE5xMG81SlB6b1VoVGxaTUJqTGtZcEhSY01XY2FKSkprVFdPSWNjZXV6V2xSUEMwQ1hkb1I5eG9HUU0yWVM3OVBwUGRvcXBlNFBIM0REQmhPVXdGUQ?oc=5"
     },
     {
       "type": "launch",
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

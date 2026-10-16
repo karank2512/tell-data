@@ -1,0 +1,25 @@
+{
+  "domain": "scuba.io",
+  "name": "Scuba",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Scuba launches with $34M to help teams and AI agents manage business data - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdlNidEVhdWJ4VnlNUF9hU1ZjQXVHNlpzX3NrZUp4Z3ZONTV6TUc0MjV6QmNVVlR6WnNfSDVQeGRrNWN1M0s4dXZMRUhGQVc2eU1UZm00dzFONEk0YkYwWnZ1R0U0el9CenJ0d2JQcmRNQlliTTJvSFRVc1Z4RlJQMFB1TUNKRVpyTk1GTHNMckUtaXJ3QlNtRE5aRmVjS05zblBscHBndHpKNWZneUE?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

@@ -3,7 +3,7 @@
   "name": "Mosaic",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.4,
+  "score": 8.9,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-13",
       "summary": "Mosaic Consulting Group Appoints [person] CEO, Expands SAP and [person]",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGhWZWdaSEpBR19LWlE0allqdmUzMlhmWXE0eHhBa3E0VFNQakotT2RPODVOcFE1Q0VuYlA0dlR4ajQ1M1hhYTZlTkdSY3lhbXFBbEJzYnFyTlhvd3lWSl9Xa01XeXhUUEdDbGd3SHZxdXFPU2syRU04N0N1cUs1VWFBVm9aSHozeFQzTGNzcXUxdmU2a2dWcmJLRVI5ZVdrZWVWVERxUmxhd2I3bDNZdGdBS0t5ODV1?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Artelium Launches Mosaic, a New collection celebrating blending and Piwi varieties - BevNET.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUNOcldiOVFQeTRqSjZRWkswOGhSQWE4VzFNd1lRckVFbzRYaUlVdEJHLWd2bGFfeVlkemVTQW5tN1UteGFCR1VzN3o4ZFBpYnFvN3VMdFB1cGZQa2tOMTdqQzZyQXJwVlpUamwybk1OUDVXOURaZ1JCRVAxa2lpS1Z6R0lIOFN6M3c0M1M3YWJWTDlIQ1lnODJLTDhTWFRJSDBsOFUxU1JocFVfZlBydWhZWEo3cVJrLVE?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

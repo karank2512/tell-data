@@ -3,11 +3,18 @@
   "name": "Capture",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.3,
+  "score": 5.7,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Nikon Releases Firmware 2.01 for the Z6 III With Pre-Release Capture - Imaging Resource",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekJqQ0dwX0EtVlBxY2NKbHV6cDJrWldjN3BHOHBpVHN4ajNTQl9nVmU0akdlMUc0UDJZc1pRS1VnVFhCbHp2ZVMwQ05HRXJ1aGV4RzBpdU1MSjA4YVlad01uME1ZVXVkT2IxbnVIUno0cnBsSHMwT1A1MG5tdmc1SlV2aW9WZDE1RW5IUENGVXA3aXBoRUk4TERmN3cyZ2Y5YzVMX1JkendXSFE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Capture What Shapes You - Fujifilm Introduces instax SQUARE 2™ instant camera - Fujifilm [Global]",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mV1kzaGhFSVFEalV3TVRQb19Ic3RocFh4Szk4WG9iUDFaN3FhYVJJbk9HbTdEa3BYWnEzWkY4bDhjdUFVcnJTZU9sVlRTdlItRGc4eGdoNjlHR0tnUjZRWWVnQmIzZVNHRG9mYlh5QXQ5RFVzcEE?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

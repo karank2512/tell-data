@@ -3,7 +3,7 @@
   "name": "Pave",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.3,
+  "score": 5.7,
   "contributions": [
     {
       "type": "launch",
@@ -23,17 +23,24 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-13",
+      "summary": "FRUIT Introduces PAVE, an Approach to Bringing Human Judgment Into AI Systems - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3Z5UkxBSm56dkUwbnhsQlEzdVQ0VDhjeWdJLTlfbE9KMGtuX242X2tDanJIRmpDNG9ZS0oyS2F4b1hDbWg2bDVUd3NabldmVHB2UE9naFQxaTduOUZycmJ1dW9zbk44OFlUcmhVcVBFV3N2cFU2dTJEc19ad2FUSDhRVkJpQ1p4Z1JxVVFSMEJBd19abnRlNTNmSTRlcUdlUHV3b3pKeXZ2c2JUenJscG8tZ0ZQT1h5VUd2c1ZGbU9KVkVuWEU5THJEU2RqVGpoUUJhbGZULXl2YVFHY19kUHp1RkxVbktOc3fSAeoBQVVfeXFMUGt2eVJMQUpuenZFMG54bEJRM3VUNFQ4Y3lnSS05X2xPSjBrbl9uNl9rQ2pySEZqQzRvWUtKMktheG9YQ21oNmw1VHdzWm5XZlRwdlBPZ2hUMWk3bjlGcnJidXVvc25OODhZVHJoVXFQRVdzdnBVNnUyRHNfWndhVEg4UVZCaUNaeGdScVVRUjBCQXdfWm50ZTUzZkk0ZXFHZVB1d296Snl2dnNiVHpybHBvLWdGUE9YeVVHdnNWRm1PSlZFblhFOUxyRFNkalRqaFFCYWxmVC15dmFRR2NfZFB6dUZMVW5LTnN3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
       "summary": "FRUIT Introduces PAVE, an Approach to Bringing Human Judgment Into AI Systems - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTDVQWVVoMlBOY2dkak44cHFSQjhYdmh5N0tIRzhxaU5Ea1cyWkxWcGxnT3B5R1lraXVhTG5YejExQ3dfcG9MYlZpdm50WFhic05SNE5palRES24yeVBtZDFtZ1ZwWDdZcG02bUxCYUNNWk9jODNnSGlSb0R5ajlvTDlhS201Wm1RT1lhVVNRT3NqNXdWN1lpVmQ0VDdhaUk4aUlsYnBlZFRZRGpNZnB5ZVpHa2N2V2FRZXRTX0prUXZLT0FLM3h2ZmVqWjk1S0lhc3BDdG1INFo0Z2xQRU5xUDlB?oc=5"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 18,
+  "long_open_roles": 6,
   "sources": {
-    "ats": "no_board",
+    "ats": "greenhouse:paveakatroveinformationtechnologies",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

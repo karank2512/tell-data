@@ -3,23 +3,43 @@
   "name": "Canary Technologies",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 0.6,
+  "score": 2.5,
   "contributions": [
     {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-16",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.lever.co/canarytechnologies",
+      "postings": [
+        {
+          "title": "Sales Development Representative (Singapore Working Hours)",
+          "posted_at": "2026-10-16",
+          "url": "https://jobs.lever.co/canarytechnologies/5f3de608-d9e6-40b5-a1fa-5e2ffd0460d8"
+        },
+        {
+          "title": "Sales Development Representative (French Speaking)",
+          "posted_at": "2026-10-16",
+          "url": "https://jobs.lever.co/canarytechnologies/246d02d8-b7e7-4a05-88ab-6dbaf41df706"
+        }
+      ]
+    },
+    {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-13",
       "summary": "Introducing Smart Language Translations | Canary",
       "url": "https://webflow.canarytechnologies.com/post/introducing-smart-language-translations-for-contactless-check-in"
     }
   ],
-  "open_postings": 31,
+  "open_postings": 34,
   "long_open_roles": 12,
   "sources": {
     "ats": "lever:canarytechnologies",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

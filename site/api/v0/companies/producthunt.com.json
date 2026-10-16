@@ -1,0 +1,25 @@
+{
+  "domain": "producthunt.com",
+  "name": "Product Hunt",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "TankhaPay Launches on Product Hunt With Its Enterprise-Grade HRMS and AI Recruitment Platform - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXdVZ3ZhTjR1Y3NOdnpmYjJ0M0NMY01EUE4wX3VtbjNTTGk1U0t5NEdvSWdPOHV0SzFEVEVCU3NtTXRrZ2p4em5yUkZ0Y1NPYmlGaF9ValJJNXpIWVV4UFdCcXFxbG96TnJOS3l6VDZXM0J4UUpMRVVJcWJkSVViX1JVZHVoU2VaSmVxZlUyT0hlcFh1al9hWWFzOTA?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

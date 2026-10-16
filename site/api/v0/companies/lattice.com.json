@@ -3,7 +3,7 @@
   "name": "Lattice",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.2,
+  "score": 5.6,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-12",
       "summary": "Lattice Semiconductor Launches Quantum-Resistant Security Stack for AI Infrastructure - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdnVFVHVJX3R5Nmltc1QyQTlvaUkyam9aRnRLNHR1UUtnOWhKZjFDZVdTZFBKTXQtNmRjZU9Id0FKUDlCM2M4UkpBWEVSc21vY0pKRGxES0RkQWQ0aGptVXc4NEstMW9CTHFqRUhzLWhDdkNYOHdONzZTMHdQbzVZQ05nbVRSX09JMkpyejdFOGF1SEJmaGtGWVJ4cm9ibEdBWl9iMnprZ2xoZVhnSV9FNVBGS2s0VGxxdTlnYlhjaUZQSlZUMHg4YzZ3SV9fNnprcnZzTQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Lattice Semiconductor Launches Quantum-Resistant Security Stack for AI Infrastructure - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXA4X1dHcjBOYnN4alAydTE2cnE0bXo1VGxFMHlTejZwSUlIMWhSdzlFNnFJaTc1MDh0bUdyOGgyLV9Fdmc5azhQSVpBMTZJMHBFbFdQaTZBS0JmUUd0ZjVidWxCcXV0eXNnenlNQ1Jhak5VVE5ENkg5NmNlVkNIa2tpSnl2YklFdWtQVjNJRUhieE9HXzlSX0pNejNxeEdJRjdSSmFEckE3RUFmdHBKZ21n?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

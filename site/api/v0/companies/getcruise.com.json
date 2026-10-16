@@ -3,8 +3,15 @@
   "name": "Cruise",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 5.7,
+  "score": 7.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "North Korea fires cruise missiles from a submarine as October launches mount - Stars and Stripes",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDVxei0wd2s4cHA0bV9MWC10ZmdtZ0xmY2hVNi1ZZkVwRG9VdjZoQVVRSTdfMXRLY1NfTllpVV9EQVRYbG5qcWdXU3FFcnU3SldKODc2OWRmNVlQTjdVMFJ5RmFWX1RqZ1V3dDdDR24zaEtwMi1RNHZOODJXM21zVzJ3OTUyZ0MwV2l6akZ5VDNENFFOX3A3cmJQNkVneVJUWlZNT2JKc1pCZ1o1UGhIWGNvTjZYbjNa?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "‘The Schiff Show’ launches unique aviation educational cruise - AOPA",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM1d6dXdIbXY2Wi0yQ3ptbDJvX0p4R0RfUmRXZjJLcVlKeURmay12SDRnNEpqYmNGbDV0eTJ2UjBUV3laUzhQd254Z2xoZ3V5NkNXb2g3ZzVxV082VWtLTkwwVHd6U0ZvX04zN2lqVTNjTG0ybHpJZk1Hdl92VF9kSi1DeFdXZU5mS0lxYUUzMDF1bXl3cDQ5VklmYkhJeFhoWVNMZ3FMMnByc3JCdFU3THAwYVlSejZUV2VDZg?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

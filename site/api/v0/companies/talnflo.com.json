@@ -1,0 +1,25 @@
+{
+  "domain": "talnflo.com",
+  "name": "Talnflo",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 22.1,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 22.1,
+      "occurred_at": "2026-10-15",
+      "summary": "Form D: $400,000 offering, $50,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2141965/000214196526000002/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002141965",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

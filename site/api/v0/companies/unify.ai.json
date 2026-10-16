@@ -3,8 +3,22 @@
   "name": "Unify",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 13.1,
+  "score": 20.0,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-15",
+      "summary": "appoints as CFO",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRS1wZDJ5UWd5TklkUWlDdk1HT1g2MnpLT2w0SVd2Z19JellLSUFwdzdiMm9BU090MlFHdThQbWl5OHZfVmhWWmdEMDBKcG00dnNITVZBWU54Mm9DQV9DSVJQaFFKZWZfd3JoMHpQY25oZ21MZjBkcnJsdm11Yjl6U3JOS21BRHRKZUFfNzJlUWtVOUlsNkc0NzNRWnBvcEpYNk9vUWZ4Z0xzenN1ckQyNWtHUXdlZURDS3NDZmVhbGUwUQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-15",
+      "summary": "UNIFY.C2 Appoints [person] as Chief Financial Officer",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkdWaVpudEF4c050eFVwVXg4MnNLWU1hZzVyb2xjWmFaVjJNR0swakplMTg1Qmt1dHBaR29aYzM2ai1zd25IcHpMdDJGQzlqR0tyU3B0R1p2czQyNDNLNHFJcG1HSEZuWXhoQllZWTNra291d2xhME5DQVhHdUZFMU9lX0JwVDVQRWtBUUFjUnVfUmkyMlNN?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 2.0,
@@ -15,6 +29,20 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Google Launches Universal Cart to Unify Cross-Retailer Shopping With AI Assistance - Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTBiVmpLRzJIOEdtZTd1c25OVWx6RUxmTkRZc1hDV1Z2c01VTXFGMGZvc2xrc2htZEdIdHpCRkQySVNIcGdOVDVVN2hiX2ptOURhWTRucnVwaXZ5UkgzcVhZOXJaZ3VqSG9RclczbWRuTzlRc0F0dEpKckw2RlZ0X2EyOTFpaEtZSVowVXduTkItTnIydUd3WWZRSlJrOGxPeGQyVGk1M3VRN0ExMHg1MXVMYjFNYW9n?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Pronto Park Launches Integrated Smart Mobility and Travel Planning Platform to Unify Journey Management - The Daily Tribune News",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNQTR6NGY2ZzVzX3VZTkVxa2lSNnRmWnMyQmNTRjJraXVscldTckVaSHdaRnY2Mko0b18wWEhEQnYzeDNxMVdnX2tGaTJWOHJQd19IcEk2WE1HZ0FUTWhUc1FRSk5jQk8yblFsTWdBT2ctMGhRYTVadUZBVjZRWGJOYUMyTFh0T3RzME5DN0tYUVVzSlVzbm5rb2Vwd3dqMVVFU1dMdlJ5UU5OeDdYV2FJTTRiLUp0ZDNFTkVZYkhkeWlIVW1La3dkOGVVdHlvYzBFLWRWNkVaOXU2Q2JjMmZza2NETUtvdnR6MlpBakpWd09xMEVGT0lTbDRLYXFBdXJ1Q0w4RjY5WC1yekVObmRZUVp5N0JpVUhYR0lVWE1POWV1TlBqU3F3N1pYTElGODhqV3pvc1NnZkVjdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "VA rolls out new electronic health record system to unify veterans’ care records - KOMO",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWUtRW0yNWtfN2V3NWxYQUdYMXNnQTNna1NLY1R5T2dfa0VmYUJ1dks1Y0s5VzljZ2hrY2JRUjJsUExaOUZhR1hzYkpxOTktbjhfVjQ1UFU3bk5Fb0dTVXZVbWdTTmFIbng3SVVHT0cxRHlMTElWZVZLZF9PMFRDeVUwRTN2TkdIeU51aGVIZ2poNWRSWkY3Ukd5N2R5SGNUZWMtMXAxbjg0Qi1ERGZmNXVTbTBlN3du?oc=5"
@@ -76,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

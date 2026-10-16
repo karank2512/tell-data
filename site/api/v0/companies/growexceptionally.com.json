@@ -3,8 +3,15 @@
   "name": "ExceptionALLY",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "VKTX Launches $500M Shelf After Full Enrollment Of Phase 3 Obesity Drug Study – Retail Bets On ‘Exceptionally Great Data’ - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMllWd1RIdnR0WmhLMkJXeExOMVg1aFpSUmg3ZWo2c0xZN0JiSW1zVHFBOVFfbEppdFRiOXBtWWtBSmZvVjRUcEk1VVFpa3ZBbElNUEVFS1ZPWTJaZ3A5X3otZ0ZuckM2am9nLV9QRFNUeTJvNEJFN3RLc3RzekJySUE3Y0NSQ3NENGpvNWJ1YlRiQ2tIN2czcjlBdUloYkI2eW14VmtjUlBRR0k4RGVWaUE1TQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

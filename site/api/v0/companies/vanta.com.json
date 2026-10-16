@@ -3,7 +3,7 @@
   "name": "Vanta",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 20.9,
+  "score": 23.9,
   "contributions": [
     {
       "type": "funding",
@@ -11,6 +11,31 @@
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.9,
+      "occurred_at": "2026-10-16",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/vanta",
+      "postings": [
+        {
+          "title": "Account Executive, Growth - Benelux",
+          "posted_at": "2026-10-15",
+          "url": "https://jobs.ashbyhq.com/vanta/1d927532-02f2-45dc-a0b8-3d4242dcc38b"
+        },
+        {
+          "title": "Sales Development Representative, Enterprise",
+          "posted_at": "2026-10-15",
+          "url": "https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4"
+        },
+        {
+          "title": "Sales Development Representative, Enterprise",
+          "posted_at": "2026-10-15",
+          "url": "https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5"
+        }
+      ]
     },
     {
       "type": "launch",
@@ -49,7 +74,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.8,
       "occurred_at": "2026-09-02",
       "summary": "House of Makeba launches O'Vanta immersive dining concept in Ahmedabad - BW Hotelier",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0wzV3h1c09qb0NCd0lSR0RaZXdoYWJXbXpxWFJYT0hXOG5Vb0d6V3lTd1I1dlJFUHRaNVpEcHNkZU1VM3pCellFUkx2Uk41WUM0OWNsTS12MTFiLTdGakFUdzNLQW5pSVlqT0xkTF9rVzZZWk9SM3RSWEJKb2ZvaDBzcW1EMVh3aVA0Q19fV2tZaDd6eXhWdVNUV2tBNkdvMWdzdFRzRTk4V3dxZExkUWZn?oc=5"
@@ -83,13 +108,13 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 82,
+  "open_postings": 84,
   "long_open_roles": 22,
   "sources": {
     "ats": "ashby:vanta",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

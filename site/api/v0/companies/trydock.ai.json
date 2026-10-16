@@ -3,8 +3,22 @@
   "name": "Dock",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.3,
+  "score": 8.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "DJI Launches Battery-Swapping Dock to Cut Drone Downtime - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMG15cm5MbU9oUlpHdE9GSk8tZEUxQmViSFNLR3BzUnBZRWRXQldmR2FkTUVaQUhiZGR3VEU0SHgyRDE5dHdFQjRJSUtlYjRyTzlJTlUzQmpFZlNZaGN4WUI2anJTY3pkTEh1TEpQQWZDOTUweGlKRHVXNHVjNEFMdEsySmhxRkUzLWRKNmN6YWhtUUxfc0FqX0xZaWpLRHVncTlFNUF1RDZRMzZ1LTlpSQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "DJI Unveils Drone Dock Featuring 25-Second Battery Swapping - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GblMya0Z5TEZHVTBRNkFPenVVZ1VyVklkOG12TzF6cnlFNkgtN3FEREVhVTd2b0QxSFlzeHU0OURiQ3RleDVyWUVWd1BrQl9LTmF6TUtDOThpd1NJWEdHRHIxMXRzZkxTaWFDVERBMl9KdG96Nnc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -22,6 +36,13 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Jiangnan Shipyard Launches Sixth Batch of Vessels from Dry Dock No. 4 - iMarine",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oQXlYYzVyTEg2UGZsb2E5SDZOZ3RtMjhYUERFaXFnaG9wU1ZkYlJPcWZ0UDBfNzdJQ1Eza3Z2UF9pOExLMlh5QXNNTWRfME0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "OneXPlayer Super X Pro Debuts with Liquid Cooling Dock and Ryzen AI Max+ PRO 495 - Technetbook",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0l5Mm9iU2JXTS1jUGg4WVZPcUtTMC1VbVR5VXduS0JzUjVJRENXSlRZbTF4dl80ZVhDbGFJWk5DTWlkM2QzMmN0bnFJa2JucVh3cmN1V3A5MDdMVGV1dkgycXBDemU1MWxqMkFBdE9mRkJLNUdVSGVxZkNfSktlb3lB?oc=5"
@@ -34,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

@@ -1,0 +1,25 @@
+{
+  "domain": "gitlab.com",
+  "name": "GitLab",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Introducing GitLab's agent orchestration for software development - GitLab",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycFA2dXhQUGNUR3AwX25XTG5PYzhEcEJsQndzS08yU0FEcVdpWmVPNVQ1c21VVy1weE05eHFFQTNMSWlFT3VjNlZDcHR5SGdhMlh6aHR2dTlJUTU1Q0EtQWxXcGY4Q29Z?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

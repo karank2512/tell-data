@@ -3,7 +3,7 @@
  "identifier": "flexport",
  "domain": "flexport.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-15T15:49:16.505354+00:00",
+ "last_polled_at": "2026-10-16T02:50:46.792605+00:00",
  "open_postings": [
   {
    "external_id": "5745289",
@@ -60,6 +60,14 @@
    "location": "Amsterdam, Netherlands",
    "posted_at": "2025-11-11T10:38:27+00:00",
    "url": "https://job-boards.greenhouse.io/flexport/jobs/7372929"
+  },
+  {
+   "external_id": "7384202",
+   "title": "Customs Specialist",
+   "role_family": "other",
+   "location": "Atlanta, Georgia, United States; Dallas, Texas, United States",
+   "posted_at": "2025-11-07T23:22:19+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/7384202"
   },
   {
    "external_id": "7410259",
@@ -164,6 +172,14 @@
    "location": "Jakarta, Indonesia",
    "posted_at": "2026-03-13T01:49:33+00:00",
    "url": "https://job-boards.greenhouse.io/flexport/jobs/7708188"
+  },
+  {
+   "external_id": "7713237",
+   "title": "Customs Specialist",
+   "role_family": "other",
+   "location": "New York City, New York, United States",
+   "posted_at": "2026-03-12T19:31:32+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/7713237"
   },
   {
    "external_id": "7734785",
@@ -926,6 +942,14 @@
    "url": "https://job-boards.greenhouse.io/flexport/jobs/8158027"
   },
   {
+   "external_id": "8160591",
+   "title": "Trucking Procurement Manager",
+   "role_family": "other",
+   "location": "Atlanta, Georgia, United States; Chicago, Illinois, United States; Dallas, Texas, United States",
+   "posted_at": "2026-10-15T18:26:27+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8160591"
+  },
+  {
    "external_id": "8160593",
    "title": "Global Aid Account Manager",
    "role_family": "sales",
@@ -1652,6 +1676,22 @@
    "location": "Singapore, Singapore",
    "posted_at": "2026-10-14T09:52:28+00:00",
    "url": "https://job-boards.greenhouse.io/flexport/jobs/8280926"
+  },
+  {
+   "external_id": "8282867",
+   "title": "Treasury Manager",
+   "role_family": "other",
+   "location": "Chicago, Illinois, United States",
+   "posted_at": "2026-10-15T20:20:32+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8282867"
+  },
+  {
+   "external_id": "8286860",
+   "title": "Customs Specialist",
+   "role_family": "other",
+   "location": "Los Angeles, California, United States",
+   "posted_at": "2026-10-15T18:11:29+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8286860"
   }
  ]
 }

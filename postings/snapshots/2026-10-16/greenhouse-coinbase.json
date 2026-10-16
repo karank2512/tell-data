@@ -3,7 +3,7 @@
  "identifier": "coinbase",
  "domain": "coinbase.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-15T15:49:16.505354+00:00",
+ "last_polled_at": "2026-10-16T02:50:46.792605+00:00",
  "open_postings": [
   {
    "external_id": "6784618",
@@ -247,7 +247,7 @@
   },
   {
    "external_id": "7993006",
-   "title": "Senior Finance & Strategy Analyst, Consumer",
+   "title": "Strategic Senior Finance Analyst, Consumer",
    "role_family": "finance_ops",
    "location": "Remote - USA",
    "posted_at": "2026-06-09T15:43:31+00:00",
@@ -1368,7 +1368,7 @@
   {
    "external_id": "8221985",
    "title": "Senior Analyst, Compliance Technology",
-   "role_family": "gtm_ops",
+   "role_family": "engineering",
    "location": "Remote - USA",
    "posted_at": "2026-09-21T22:09:07+00:00",
    "url": "https://www.coinbase.com/careers/positions/8221985?gh_jid=8221985"
@@ -1503,7 +1503,7 @@
   },
   {
    "external_id": "8238602",
-   "title": "Corporate Development Manager",
+   "title": "Corporate Development Senior Manager",
    "role_family": "other",
    "location": "Remote - USA",
    "posted_at": "2026-10-02T17:20:22+00:00",
@@ -1718,6 +1718,22 @@
    "url": "https://www.coinbase.com/careers/positions/8260052?gh_jid=8260052"
   },
   {
+   "external_id": "8260302",
+   "title": "Principal Recruiter",
+   "role_family": "finance_ops",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-15T20:21:05+00:00",
+   "url": "https://www.coinbase.com/careers/positions/8260302?gh_jid=8260302"
+  },
+  {
+   "external_id": "8260306",
+   "title": "Senior Recruiter",
+   "role_family": "finance_ops",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-15T21:36:01+00:00",
+   "url": "https://www.coinbase.com/careers/positions/8260306?gh_jid=8260306"
+  },
+  {
    "external_id": "8262841",
    "title": "Senior Manager, Digital Securities & Market Structure Policy",
    "role_family": "other",
@@ -1766,12 +1782,28 @@
    "url": "https://www.coinbase.com/careers/positions/8269049?gh_jid=8269049"
   },
   {
+   "external_id": "8269052",
+   "title": "Senior Product Marketing Manager, Infrastructure",
+   "role_family": "marketing",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-15T18:24:44+00:00",
+   "url": "https://www.coinbase.com/careers/positions/8269052?gh_jid=8269052"
+  },
+  {
    "external_id": "8269081",
    "title": "Senior Software Engineer, Certificate Management",
    "role_family": "engineering",
    "location": "Remote - USA",
    "posted_at": "2026-10-10T00:06:06+00:00",
    "url": "https://www.coinbase.com/careers/positions/8269081?gh_jid=8269081"
+  },
+  {
+   "external_id": "8269104",
+   "title": "Social Media Manager, Predictions",
+   "role_family": "marketing",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-15T18:29:14+00:00",
+   "url": "https://www.coinbase.com/careers/positions/8269104?gh_jid=8269104"
   },
   {
    "external_id": "8275226",
@@ -1812,6 +1844,14 @@
    "location": "Remote - USA",
    "posted_at": "2026-10-14T00:12:39+00:00",
    "url": "https://www.coinbase.com/careers/positions/8280209?gh_jid=8280209"
+  },
+  {
+   "external_id": "8287668",
+   "title": "Senior Data Scientist, Product",
+   "role_family": "ml_ai",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-15T23:40:55+00:00",
+   "url": "https://www.coinbase.com/careers/positions/8287668?gh_jid=8287668"
   }
  ]
 }

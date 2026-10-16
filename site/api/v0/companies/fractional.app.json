@@ -3,7 +3,7 @@
   "name": "Fractional",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 3.7,
+  "score": 6.7,
   "contributions": [
     {
       "type": "leadership",
@@ -18,6 +18,20 @@
       "occurred_at": "2026-10-08",
       "summary": "Alchemist Group appoints [person] as fractional CTO",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWJIa0xJRnZzMlgxWnBUZHpTQ1Z6SDY5TVR4a05HZWtrMFNEbEIxSnkyN3poTTRDd1J4b2ZBb3h3MDNrek9YNVNhdGM2Rkdia2ZyU3lGUGp2YzRnQ3FtOF9uTVRFcnRXQ0NmS1pvWkxQTkdScTRORTR2a2p0NTJrTXBUV0FxM2FvZW51T2lBSQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Thrive Aviation Unveils First Look at New Fractional Fleet Ahead of NBAA-BACE 2026 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDJHeXczMkNDNV9WS19hYUkzUDBfVWJzbnhCYVh3b1FIdDNqQjJJTEZCeVQzaXlWUEJscW1sLU5jR2NOV3d4dWdaSkxsSFcxeUJKcldXZUtIZzBMb0ZFb19YcW1LeDAyTGp3VjdWNXRZN2tJNWM0ZjRYcm5QOTBwaERTbE5JQlNqVnl2UVk0ZC1WcERIQ29UOG9OSTZka3NDUU5MeXZjWVpPZ0ZPSzBkTGFob3VkQUYtSnVPNm56ejBwaFZDUHVtZG5lRXNuY0RGWUxtTw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Zesty Launches Automated Fractional GPUs, Bringing Automation to NVIDIA CUDA-Native GPU Fractioning - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHpRazNiUV9LelZaTThNZ0VBVWhMZXB2SDFmc2V5c1NrOVVYQTZmRU91djNHMmNJWEpOaGpRTnE1eU5SUlhrSnRHNEEtZ1pBX0o3RThiWmFwbkVwcE83dGVxVjRsTzc4R1I4cU96ZEx3V2EzbUNSemROM1kxVUV5bzNHMXFzYmM2RndJbC1ORzNfQzNyZ3d6SkdtVWdHRndOU2U3UVJtSQ?oc=5"
     }
   ],
   "open_postings": 0,
@@ -27,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

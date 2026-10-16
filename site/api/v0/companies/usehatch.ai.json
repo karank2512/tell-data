@@ -3,7 +3,7 @@
   "name": "Hatch",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 5.2,
+  "score": 7.2,
   "contributions": [
     {
       "type": "leadership",
@@ -14,10 +14,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 2.0,
       "occurred_at": "2026-10-14",
       "summary": "Hatch Bank Appoints [person] as Chief Transformation Officer",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORG1ISXdyTEVmNHdva2Jmam1wcUxTeUhiSVYwc3Ywalo2cEVFeVlYcmRyYXdIeHlLXzQ1MXhkQ2tYNFNybjlHMjc1NW9vQkhrQ3V2dTNTanRTRlNuQnhyZ1RDZmdLeE9mQXJzZWVYeW5manlURFBDQlpuWnBXT1RjcnQxSllEeC1leTUxV28tbERpeXBOYTJLX20zRzZ1N1dqUG5yeDhiRFJaeEVwZll2eFRLUkxlcU9fajhUZEEwZEl4WkRHSHFpYUEtYXp2bUdwVTRKQk5tZjM1VkFacnlr?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Hatch Bank Appoints [person] as Chief Transformation Officer",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhwYW9sd2Uwci1KNDhnLVpNZ05zWFQyanVQMFVWVVBnYzZ3V1NXNGRtR1JXV0hIZDFIZzc5b0x0cDhJbWhZZ3dRTlMzdzVSSWZqVjloWEpMQVFRblpjLTAzWk8zN1pRTmwwZFFFeUJYeWYzSjB4SVNUZTdPM2YyaFJzR1hPSDBkVnpGMGx6MXRsbjZ5cndzbzVTdnZGdw?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }

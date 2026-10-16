@@ -3,7 +3,7 @@
  "identifier": "gusto",
  "domain": "gusto.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-15T15:49:16.505354+00:00",
+ "last_polled_at": "2026-10-16T02:50:46.792605+00:00",
  "open_postings": [
   {
    "external_id": "6625049",
@@ -119,7 +119,7 @@
   },
   {
    "external_id": "7905578",
-   "title": "AI/IT Controls Engineer, Enterprise Applications",
+   "title": "IT Internal Controls",
    "role_family": "other",
    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
    "posted_at": "2026-05-20T18:47:50+00:00",
@@ -159,7 +159,7 @@
   },
   {
    "external_id": "7947424",
-   "title": "Senior Software Engineer, People Technology",
+   "title": "Staff Software Engineer, People Technology",
    "role_family": "engineering",
    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
    "posted_at": "2026-06-09T22:51:05+00:00",
@@ -284,6 +284,14 @@
    "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
    "posted_at": "2026-07-31T16:42:12+00:00",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8039516"
+  },
+  {
+   "external_id": "8039525",
+   "title": "Staff Software Engineer, HR Experience",
+   "role_family": "engineering",
+   "location": "New York, NY - Hybrid",
+   "posted_at": "2026-10-15T21:42:09+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8039525"
   },
   {
    "external_id": "8040766",
@@ -820,6 +828,22 @@
    "location": "San Francisco, CA - Hybrid",
    "posted_at": "2026-10-12T23:10:14+00:00",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8275441"
+  },
+  {
+   "external_id": "8281363",
+   "title": "Staff Product Designer",
+   "role_family": "product_design",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-15T16:16:07+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8281363"
+  },
+  {
+   "external_id": "8282084",
+   "title": "Head of Gusto Controls",
+   "role_family": "exec",
+   "location": "San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-15T19:47:20+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8282084"
   },
   {
    "external_id": "8282421",

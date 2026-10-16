@@ -3,8 +3,15 @@
   "name": "Hive",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Advans Ghana unveils new head office, 'The Hive', sets sights on 300,000 entrepreneurs by 2030 - Asaase Radio",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3AwbW9mVjNMUERyLXlJMUJaN0todjBydHdnaU5KdHoxWHBpdXRIa3BKUzdJRlFhNGhHYXlCWmxhekhUR2xUTHM4QnQtNV9WR3FtMC12TDdhdEpLUjBRMjFSNGdsZi1tWU95bVpNbDEwOFlYYkV2anN1bVZ5M3h1a2l3SGlqYVZ3d0JxN0tMaDN6N1NlR0dhdENqWlN0bUlZZU9LZ01TbjdOZ25VajhtcEtIeDlISlZhaUk5QTQwblZMSzQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
   "why_not_higher": []
 }
