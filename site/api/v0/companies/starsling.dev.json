@@ -1,13 +1,13 @@
 {
   "domain": "starsling.dev",
   "name": "StarSling",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Introducing Adaptive Compute: up to 2.3x faster GitHub Actions",
       "url": "https://starsling.dev/blog/adaptive-compute"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

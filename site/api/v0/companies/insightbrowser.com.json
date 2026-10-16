@@ -1,9 +1,9 @@
 {
   "domain": "insightbrowser.com",
   "name": "Insight",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.7,
+  "score": 7.6,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "YC Insight Launches 10 New Free AI Tools and 25+ Articles - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFpzZVFxWGd2Y2c5RVJaRk9UQy02ZzJZX0x0VkVRN2pMaVk1cUdfX0lfOWEyWFh6NVFkanJRR25FY0hVN3ZmTGVUTmZYOGNFS3dqeWgtZHJPWDd3dGdJS2xoRWI1b2NmWUhERU9yYnpJX3VYLXRvZDM2c2s3Z01hUXI5Q3VLR0t5RUhYZXNXdGZsVmo2NjdGRlkxVTUxdGF1Qlo1eENpWm8xMU1HUktPWXpPUWFSVUxaS2c?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "tryprism.com",
   "name": "Prism",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.3,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Bluesight Launches Prism Assistant In Privacypro, Bringing AI-Powered Investigations To Patient Privacy Teams - MENAFN.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbm0wTFE4czlweUd6aDA1Zk9lMW1DWVk2Q3ZTWTNlSmNRX09iZzBpRUJGT3BoeExiTDJwVHFMNFk5b3R6WjlmY0JmOWowSHFHanhHQi1ac3otSmo1TWx5QlJjcndLTTBKNDFiNEQ1NUlTSHlLb1FwMWFmZ0cwV0NiYkcxWk5wMk9naFUzYUF1OTBYRTRfQUhMMnpPbXNnSkFJYWQzOE13UFk2UVphSVBpV3N1RmlYZXhIS29aeFY5LUM4YTM5ZkpGYjJWNnE1OUFpRmcwbw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "IGC Pharma Unveils PRISM AI Platform for Alzheimer’s Care - ACCESS Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN0UtVTl4ZnRSQ01VXzFWeUExSEZNUksyN3dKQTM1NW1HZHY5UFEtdU9MR0VGTURNZGJrUk5KZjU0bTZWcmNLVVN3WWVJYW5tTnM1ZmREb3BfZTdvWTA4Yl9GNWo3b0pLRGlqbEJSdkN1T3JOTnNPRUJUaVV1bGN4QVgzT21lQlVNcVY4Y3JWV3pfQU15UHBuTFlFN20yb2k4R2hFLWpWRWxHZk5TQXA1UERlRmd5bldoR3daLTdDeXdWenRRNlAwTVNrbFpRckdnYzhzTkgxbnpQdEdCLWZWWUVUQjA?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

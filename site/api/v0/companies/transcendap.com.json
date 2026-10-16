@@ -1,13 +1,13 @@
 {
   "domain": "transcendap.com",
   "name": "TranscendAP",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 17.4,
+  "score": 17.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.4,
+      "contribution": 17.3,
       "occurred_at": "2026-08-27",
       "summary": "Form D: $2,549,998 offering, $2,549,998 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2104266/000092963826003263/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002104266",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

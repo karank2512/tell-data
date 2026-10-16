@@ -1,13 +1,13 @@
 {
   "domain": "getbits.app",
   "name": "Bits",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Gravel Burn introduces 'new dimension' of teams classification at October stage race while schedules revealed for BWR and Grasshopper series - Gravel Bits - Cyclingnews",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQaU9yampHYWtFNGVwVDlNR0o0d1pzczBJRmNYSmtJMWo5V0ZzZ2paOXVweW5JZl9iZTlWLVJiUU1neHNoU0hJdmk5S192R0t3OGFSdklQYzVEbVhoWXVPMFNFb3RORmtWQ1lNMExLX0x4OF9YeXROaEItdHdta1NWeW1vRUlSS1duUi0zajdGWDZVcHgxUkdlTkV5NV9GcGhLSXhtdFU4eG01eVpvdndrN19fRGNxeUo5aDNxTGFkaG5BSTk3TEpfMnM3VG1OUEhyMnZSSzZrX0dZMUlsbjBnQ2hHV1JibnBDM213ZUhxdVdBZm5BbzJvRjRDcjNQZ3lhaWR4Q0l5c3VxVEI1U2o1cG4yYWpFc2IwZ09hVVpja0hFejFK?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

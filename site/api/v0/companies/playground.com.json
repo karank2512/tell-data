@@ -1,13 +1,13 @@
 {
   "domain": "playground.com",
   "name": "Playground",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 1.4,
+  "score": 1.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "Riverfront Park debuts brand-new playground to excited crowds of kids - Statesman Journal",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0Q0X19MbnRzWWNtdGZ6WG9wbE1tTkhvdDYwUERPVi1nb0dVbXVOZi1sekN3UlV2MzMwTFQxN2RwNzQyaEJEZkI4bGhFU21qWnpNWGdNdlZwRUd3Y0F6Q0JsSC13X0x0YmZaT1ZwVVVNdXozSzMyS2dtZVlTWVBHZzAtYTJqZlZvakhBT3dlRUdhT0ZnMzJxWHZVa3h2RGNtNFJGcm9FRDhGejFoNXAxM2JzYzk?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

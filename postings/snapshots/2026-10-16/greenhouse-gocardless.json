@@ -1,0 +1,273 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "gocardless",
+ "domain": "gocardless.com",
+ "as_of": "2026-10-16",
+ "last_polled_at": "2026-10-15T15:49:16.505354+00:00",
+ "open_postings": [
+  {
+   "external_id": "7374850",
+   "title": "Talent Acquisition Partner",
+   "role_family": "finance_ops",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2025-11-04T16:47:31+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7374850"
+  },
+  {
+   "external_id": "7525953",
+   "title": "Data Science Manager",
+   "role_family": "product_design",
+   "location": "London, UK",
+   "posted_at": "2026-01-09T13:35:33+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7525953"
+  },
+  {
+   "external_id": "7525979",
+   "title": "Data Science Manager",
+   "role_family": "product_design",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-01-09T13:35:34+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7525979"
+  },
+  {
+   "external_id": "7525980",
+   "title": "Data Science Manager",
+   "role_family": "product_design",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-01-09T13:35:35+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7525980"
+  },
+  {
+   "external_id": "7526068",
+   "title": "Senior Data Scientist, Payment Intelligence",
+   "role_family": "ml_ai",
+   "location": "London, UK",
+   "posted_at": "2026-01-09T13:58:15+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7526068"
+  },
+  {
+   "external_id": "7526075",
+   "title": "Senior Data Scientist, Payment Intelligence",
+   "role_family": "ml_ai",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-01-09T13:58:16+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7526075"
+  },
+  {
+   "external_id": "7526078",
+   "title": "Senior Data Scientist, Payment Intelligence",
+   "role_family": "ml_ai",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-01-09T13:58:18+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7526078"
+  },
+  {
+   "external_id": "7699254",
+   "title": "Data Analyst II",
+   "role_family": "data",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-03-16T14:31:20+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7699254"
+  },
+  {
+   "external_id": "7699256",
+   "title": "Data Analyst II",
+   "role_family": "data",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-03-16T14:31:21+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7699256"
+  },
+  {
+   "external_id": "7996584",
+   "title": "Site Reliability Engineer II",
+   "role_family": "engineering",
+   "location": "London, UK",
+   "posted_at": "2026-06-11T05:38:12+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7996584"
+  },
+  {
+   "external_id": "7996723",
+   "title": "Fraud Investigations Specialist",
+   "role_family": "gtm_ops",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-06-11T13:27:12+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/7996723"
+  },
+  {
+   "external_id": "8152709",
+   "title": "Credit Risk Administrator",
+   "role_family": "gtm_ops",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-08-25T06:38:45+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8152709"
+  },
+  {
+   "external_id": "8159050",
+   "title": "Threat and Analytics Lead",
+   "role_family": "gtm_ops",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-08-26T13:30:17+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8159050"
+  },
+  {
+   "external_id": "8176187",
+   "title": "Credit Controller",
+   "role_family": "finance_ops",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-09-29T10:10:08+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8176187"
+  },
+  {
+   "external_id": "8188573",
+   "title": "Associate Legal Counsel",
+   "role_family": "finance_ops",
+   "location": "Leeds, UK",
+   "posted_at": "2026-09-10T06:15:32+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8188573"
+  },
+  {
+   "external_id": "8190764",
+   "title": "Salesforce Developer (12 month fixed term contract)",
+   "role_family": "product_design",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-09-10T12:07:52+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8190764"
+  },
+  {
+   "external_id": "8191369",
+   "title": "Customer Success Manager II, UK & ireland",
+   "role_family": "customer",
+   "location": "Leeds, UK",
+   "posted_at": "2026-09-11T08:55:54+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8191369"
+  },
+  {
+   "external_id": "8210486",
+   "title": "Data Engineer",
+   "role_family": "data",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-09-24T13:55:56+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8210486"
+  },
+  {
+   "external_id": "8219972",
+   "title": "Procurement Manager",
+   "role_family": "other",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-09-21T09:29:40+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8219972"
+  },
+  {
+   "external_id": "8226062",
+   "title": "Technical Account Manager",
+   "role_family": "sales",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-09-23T12:13:06+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8226062"
+  },
+  {
+   "external_id": "8230417",
+   "title": "Data Engineer",
+   "role_family": "data",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-09-24T13:55:58+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8230417"
+  },
+  {
+   "external_id": "8232924",
+   "title": "Salesforce Developer (12 month fixed term contract)",
+   "role_family": "product_design",
+   "location": "Leeds, UK",
+   "posted_at": "2026-09-25T14:15:41+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8232924"
+  },
+  {
+   "external_id": "8242496",
+   "title": "Controls Specialist",
+   "role_family": "gtm_ops",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-09-30T11:12:23+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8242496"
+  },
+  {
+   "external_id": "8248832",
+   "title": "Director of Engineering",
+   "role_family": "exec",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-10-02T09:48:46+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8248832"
+  },
+  {
+   "external_id": "8258283",
+   "title": "Solution Engineer II",
+   "role_family": "sales",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-10-06T11:48:16+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8258283"
+  },
+  {
+   "external_id": "8258303",
+   "title": "Solution Engineer II",
+   "role_family": "sales",
+   "location": "Leeds, UK",
+   "posted_at": "2026-10-06T11:48:19+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8258303"
+  },
+  {
+   "external_id": "8258602",
+   "title": "Legal Counsel - 12 month FTC",
+   "role_family": "finance_ops",
+   "location": "London, UK",
+   "posted_at": "2026-10-14T19:09:41+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8258602"
+  },
+  {
+   "external_id": "8261497",
+   "title": "Engineering Manager II",
+   "role_family": "product_design",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-10-07T15:32:50+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261497"
+  },
+  {
+   "external_id": "8261531",
+   "title": "Engineering Manager II",
+   "role_family": "product_design",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-10-07T15:32:53+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261531"
+  },
+  {
+   "external_id": "8261533",
+   "title": "Engineering Manager II",
+   "role_family": "product_design",
+   "location": "London, UK",
+   "posted_at": "2026-10-07T15:32:56+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8261533"
+  },
+  {
+   "external_id": "8267159",
+   "title": "US Chief Compliance Officer - Remote",
+   "role_family": "exec",
+   "location": "Remote, USA",
+   "posted_at": "2026-10-13T11:16:34+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8267159"
+  },
+  {
+   "external_id": "8267215",
+   "title": "Customer Operations Representative, French-speaking (12-month FTC)",
+   "role_family": "gtm_ops",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-10-09T14:10:04+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8267215"
+  },
+  {
+   "external_id": "8276080",
+   "title": "Paralegal",
+   "role_family": "other",
+   "location": "Leeds, UK",
+   "posted_at": "2026-10-14T18:53:18+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8276080"
+  }
+ ]
+}

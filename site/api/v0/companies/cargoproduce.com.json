@@ -1,20 +1,20 @@
 {
   "domain": "cargoproduce.com",
   "name": "Cargo Produce",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 41.8,
+  "score": 41.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.5,
+      "contribution": 23.3,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $5,535,046 offering, $5,535,046 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2154106/000215410626000002/"
     },
     {
       "type": "funding",
-      "contribution": 18.3,
+      "contribution": 18.2,
       "occurred_at": "2026-09-11",
       "summary": "Form D: $1,000,000 offering, $1,000,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2154106/000215410626000001/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002154106",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

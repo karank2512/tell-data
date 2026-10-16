@@ -1,9 +1,9 @@
 {
   "domain": "charm.cash",
   "name": "Charm",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.3,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Disney's Pop Century Resort Pandora Charm Debuts at Walt Disney World - WDW News Today",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVhBNlR1UHZDMUZwQlJnZlltNzI3eVNXU2hRNzdHVTR3d2dlVFg0aE5hXzJqSjAyWFJiMk4teEN3aUVtMVMtZUkzbU9TVFU2Q2FIYlhhRUNnM3BjcnFLTFM3dDU3ZVVSTE01YUVCMlpVYndnTl9vNmlwQmxYRzJqdl9XMVcwczNSMUdrQXp5WHZYY0xlWmEtNW9uNA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Starbucks Introduces the Autumn Charm — LBB - LBB - Little Black Book",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tdVZEbnM0UEg1VlJKbUxfQml2bnl0LUxvZFhjQ2tkMHA2M1ozZ1NsbzBpMlZfQ09pWnZMbWRCMDdhZktrNG4tOG9wR3RRbE1tb2lkN19lMUc3RnNnME9kaG9fVm5FN0JTenJrczlpZFVhdw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

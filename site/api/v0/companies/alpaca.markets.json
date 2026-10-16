@@ -1,27 +1,27 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 30.6,
+  "score": 30.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.4,
+      "contribution": 14.3,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "BingX launches US stocks, expanding their Multi-Asset Ecosystem with Alpaca",
       "url": "https://alpaca.markets/blog/bingx-launches-us-stocks-expanding-their-multi-asset-ecosystem-with-alpaca/"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - Mid-Day",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMm5WckZYVkRjdGJ2blNPNlVvbGV5OGRYanpnMUpnV2NUMmpIUG43WlRLeUtIM1U3aUlZTW5SOWFrNW05czdOYTdTYV9McTRFVnI1N1FXSTVSNFE5Rll4YzVfaW5xWHFhc09CZURBc1M4bXFERWhDM0FfOTVWYk8tTUp4bUljN3ZYUVBlbUl4WUpjUUphRHJqOEI4MzNaUWdMZjhGNl9DbmNEbmxHNGlUbDlMM016VTZ5S25qZlJJc3dLV2ZKRGFKUkdTUFRranR2LUlScW1RTWNVRC0xV3hmTnRZcmrSAeoBQVVfeXFMUHVvbGk0VnBwOHR5TW92bDFDejJtUnR6dFl5b2VXVVNpMlZhWHFHSFZ6dnhfcUNFNGgxRWlpNFI3ZDJITHhfQk0xdFJNQWlIQ0lQQnBEeHZGUUtROGpHTnBBTWNNM1VKbGZqM3BVTThReDBKdVlNR09TajM2X1czMWotUEttbXl5VDREQV85SVRyUnNFdlU1Wm5XWkNvLUoyNlk1Q2VYN3U5aHNrUXI4b2QwbFBSS1lTb0gyVnRVVnFKZ2hMTHIxQmhsaDRVYm13YTJncnlTWDdKckNzT2Z0RTJud21ocy1JRC13?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "cloverapp.co",
   "name": "Clover",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Clover Introduces Krush Grapefruit & Blood Orange Fresh Fruit Juice - Dairy Business Middle East & Africa",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjhrX1FBSUE2N1pMTGRzV1N1Zkk5aTFRWTZHZW5tSEtHSWZGUmM4OTdwNGF5Rlg5a1RPelJyQmx5TmRrdVliNHpmSU1sZXo3RGd4SlYzeGxNWmZOYlVTdVRiNXY2OEZyYnc0X093cC04eGpPdUFRNFctS1BtU3ZEaEZ2bWF4QjlYRnBhM0prZjRydjl5OGtsNzZONzc0eXRGeklEaFRES1ZJQQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

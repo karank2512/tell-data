@@ -1,9 +1,9 @@
 {
   "domain": "orca.fyi",
   "name": "Orca",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 10.3,
+  "score": 10.1,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "ORCA launches PT-3 quantum computer in London datacentre - Computer Weekly",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWVsdzA1aXNERG5ac0xpa2tPRE1KUkliRl9ZY1FHSkhYckFNTzRpd19EZHI4WGc0WDROWVBqODMzc2xTRHNSdTNMLXVfYzVFYktvdl95TVM4dHZVMUtfR21DUjBHQ29sUTdkbGJfNHFFNHBEbzdBOWN5ci1iRmlRY2tUbkNpNUc2ejM3MW5YeGZzVlhFVm5zVDV3LTlVYko3X0gwdg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "ORCA Computing launches PT-3, the first quantum computer built for commercial quantum advantage - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOEV2QnNXc1FlR1VNbDJPVmNZZTlYSnpGeVpIU0RQWDlfOUZXOXAtVjVXUTVUX0VNUmVzOGdIdThQYi1Ed3RNb3UxUDlVd0JvV0VUZ2JiTm5KVThqTTRvX2dMdm43N21hN2VkdjJhRzNPZXBxZGxsdVlCcjJNZXkwOXJVQ0xVUFFHdnNacTV0ckpCVzdzYk1IZ3d1MmZIUE9YNVFOakZ2Q1pMcGRYRkhOdnJ2TXhheFJ6djBHV3lxZ213ZXZ4TFFtYnQ1TW1YRDN5TkliQmZkTS0?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

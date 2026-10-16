@@ -1,9 +1,9 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.2,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Mistral Releases Le Chonk, a 1 Trillion Parameter Open Weight Model - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnhZbGk0NWEtZTdPNXd0NXpaV2tnam1oSXBfNkFlVEZOU3ZmcjBrcFZqLWMxRFZYQkR0TVo5WUxDNE82YXVKdlRTZ3ByWk5EY0lTWXlPbE96azVpeWdWMDJnNlBmczM2cEoyRlpnaHJRd1FEMHJvTTFHal9qQ01EY3V1UkpvYUVmTF9vWk8tNy14cVNKM3Njblhn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB Laptop - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFRBbUY4eXZsUlZPeUR5dFh6bm41NHE1cmZSTGV6UzBxWjdHNmQ1ZmdmLUQ2LVAzbFRJcW1UV1pYaFAxcDhBTW1TMDRmSmxESFpGcVNFa0JJamtrZzE1NzRxcGVsWGJNWmpWVm5VLUdWQURZLXIxZjFaWDVQNkdGc3I5eEpHOWZ3dlVCSWdla3JZSHdWSlBKdzNqTGdLNVNMT18wSEF2ZFptVG1oeWVfWnpRTUFsNXVaNjRXQXZ6Y1NFR2ZvdVI4?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

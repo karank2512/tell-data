@@ -1,13 +1,13 @@
 {
   "domain": "clinware.com",
   "name": "Clinware Solutions",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 20.3,
+  "score": 20.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.3,
+      "contribution": 20.2,
       "occurred_at": "2026-09-10",
       "summary": "Form D: $5,000,000 offering, $4,916,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2069594/000206959426000002/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002069594",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

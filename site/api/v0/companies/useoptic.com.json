@@ -1,13 +1,13 @@
 {
   "domain": "useoptic.com",
   "name": "Optic",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "TDK Unveils Tiny Meta-Optic Mirror, Making Display Smart Glasses Ultra-Light - Ubergizmo",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTUNDRzlJWjloQ3dXRjRUVzA3dzFWT2VNSTB5ZUMyUXg5cEdwTFFBTUEyNkZ5SFR1cDVfZnVRTm9HV3BtcGpkaW8xamd2SGtHN2laenpId1VrVkxPYV9tY05XTnFpM09sWVM0TUFjaDdtaDJtbTA1YnhCZk53NlNFN1J6S1ZxWHZ1eGZ3VF9wdWJrblVtdHJtc0FQX1RPbmNpVWhVRWFzejZlUnhCeUdR?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

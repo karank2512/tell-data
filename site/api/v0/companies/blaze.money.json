@@ -1,13 +1,13 @@
 {
   "domain": "blaze.money",
   "name": "Blaze",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.0,
+  "score": 1.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-14",
       "summary": "promotes [person]",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRjlOSHEzZU9kWWlSZ1dscE5MaGNiZDhXNDMtdEVVcVpEa3VHX1NGRWRaLTNSNmVkaW0zWGo5QUxBY1pMUXFBRFo1NDZLYkxNNnFxSHJEVnFZSl85MWxETzdqNFA1eDhTQ2RTVHRwM2lBYVNjRjdyMm53OUFJRlhCNGJ4TlEtd21uYWtaSHBNSFFSM3hHelNqbXNnRVpkVUVqZFBGTENYTzVqMDg3N2lnOWhrWXRBb0Q5ejk3eFVnNUVLLVJMQVowQm85NVNRNHI0cjNtMGxTYjV6aW9ZX0laWkZuYW5IQQ?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

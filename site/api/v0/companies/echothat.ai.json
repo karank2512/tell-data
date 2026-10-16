@@ -1,13 +1,13 @@
 {
   "domain": "echothat.ai",
   "name": "Echo",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 15.2,
+  "score": 15.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.6,
+      "contribution": 12.5,
       "occurred_at": "2026-10-09",
       "summary": "Form D: $2,132 offering, $2,132 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1773838/000106299326005252/"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

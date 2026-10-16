@@ -1,9 +1,9 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 11.1,
+  "score": 11.0,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-02",
       "summary": "Introducing AI Sources: see what built every answer",
       "url": "https://www.basedash.com/blog/introducing-basedash-ai-sources/"
@@ -181,7 +181,7 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": [
     {
       "type": "launch",

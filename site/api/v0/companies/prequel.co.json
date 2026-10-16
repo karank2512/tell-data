@@ -1,13 +1,13 @@
 {
   "domain": "prequel.co",
   "name": "Prequel",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "FORGE FILMS COMPANY UNVEILS ‘BREATHE IN HEL,’ PREQUEL TO VIKING SCI-FI SERIES ‘LOST IN HEL’ - FilmInk",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFQwZGtzUTZXcVJ0X3NMVnVQY252eTB0b3JCY1R2QXBtVGhWbUVhUmJKSWwzWEUzTi12S25QbjBNTnVtak54a1NsOE5NcjlqaUM4ME5BbnBMRUQzYkd0ZmZLWjRvME1nSTkxN2V6SVYyWmV5RTJFMmoyVHVpbG9yTS1RZ1g0bEtaRVhYQkMybDU3Mmh1RHhRTE15UjJfcktPdXVHRjlJeWhTTURBeUx5eUc2Z1JBN3lmZ2pKcVAwNmQwYmY1ZWhF?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

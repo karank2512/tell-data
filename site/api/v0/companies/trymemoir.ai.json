@@ -1,13 +1,13 @@
 {
   "domain": "trymemoir.ai",
   "name": "Memoir",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Hall of Fame quarterback Terry Bradshaw releases first memoir in more than 20+ years - KOMO",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORC1nX29RV0N3UjdpTXpnVllqRXdwN0Jyd0xoZ0xjM3FPMWwxOW5IYjExRWl0ZlU2VGpCeFNMd1hSUXh6SHpiWXptUHN1ZW1jZmZ5UGtvQmNnMnFid3pkVXJ1RkJhb3ZaSVY4Q1E2OUpiNjJvZU1zT01VQW5vdEpheW4tLUVMZWdoVFE0UEloZEJnU0lvekpOZUhlNU5xY19DWURCcklhRVgwSkNJT29nTnJ4UnVFYkRDS3RJ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

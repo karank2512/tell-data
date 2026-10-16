@@ -1,13 +1,13 @@
 {
   "domain": "getaleph.com",
   "name": "Aleph",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 3.4,
+  "score": 3.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-13",
       "summary": "Aleph appoints [person] as Business Head for Pinterest in Singapore and [person]",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemRzdlZham8wTmNRMmZkTGlVQ2NRd3J6cnlBSk5BM3VUWGdGQ0lDQ05Gb1lLSjBjTjdaV05rR1pfYW15akt1SzVGdllxUUJ0TGRUZlBrYnhnbWRqZHhwTEY1dVZsRU84UktZUy1ObjQwUk9OTjZCdHFZN2pJU01XQ1Etd1UwdEFVWHh0RmY1QXJGclYzWm1DQ2lreUowWF9scGtoc29Zd2dMa3pXQk81MzlVYTdkZXZiMGw3QW1lNk9tM29MSXlhZFNn?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

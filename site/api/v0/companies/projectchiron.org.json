@@ -1,13 +1,13 @@
 {
   "domain": "projectchiron.org",
   "name": "Chiron",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 10.9,
+  "score": 10.8,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-08",
       "summary": "Chiron Real Estate Appoints [person] as Board Chair",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3V2RGE1Mi1ZZlY4MFJSX0NpNmtEbllPNnhva1Vock1YTE0wcTRLaVZubnZJRFl2MEdzQWtwNFR6V3JCRnc2d3NyOEhpRE5HOHRwS2Q0cU1ib0psYnN3dEdLSHRfcE9oRkdOTXZ6dEtuT2xCY3lDMC1Sb1hJaGRLZS1hakVBUm9GX1RGTkVPRUtuT214R2tveGFLLUYyR1EyeEozYnJ5RkQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

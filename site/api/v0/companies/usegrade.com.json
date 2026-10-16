@@ -1,7 +1,7 @@
 {
   "domain": "usegrade.com",
   "name": "Grade",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
   "score": 1.4,
   "contributions": [
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

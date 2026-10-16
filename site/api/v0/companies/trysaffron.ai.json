@@ -1,9 +1,9 @@
 {
   "domain": "trysaffron.ai",
   "name": "Saffron",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "Saffron Screen launches £50,000 fundraising appeal to secure future - https://www.essexcountynews.co.uk/",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0tNZ2Nud2FTY1czVUxpbzBJOU9JemcyWWUwYzZPaHdxbFBidkpMZmRiZjgwY1VzeW9KRS1VenVHS05QX0czYzhrbG40YjNjaXBlZkN1YTE1ZWgtNktGOXZoX2RiclQ4YVUta3E2NGFFTnhVNjBoYWhoLV9UZDUtcTduQnItdkppVEw0TmU3SWZSQTZ3YlZ2ajE4M0NYRkNnTWc?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

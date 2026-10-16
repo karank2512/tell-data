@@ -1,13 +1,13 @@
 {
   "domain": "kalshi.com",
   "name": "Kalshi",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 24.3,
+  "score": 24.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.4,
+      "contribution": 21.3,
       "occurred_at": "2026-08-25",
       "summary": "Form D: $1,499,997,894 offering, $1,120,010,122 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1806928/000123191926001066/"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-10",
       "summary": "Kalshi launches ‘perps’ for gold and silver following CFTC approval, expanding futures offerings - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObFNBWWJ2R1hGYTktaW1ua1NQMVRMSjNnZ0ZySmg0UGFpaS1PaEhNNjMzSDZXZ0FoallyY0pKa3dYdmhpXzBPWHpLeElIR0NyeFF4dUdNMnRRb3VSbW9WckI2QmFaYjd0bXNPNW1XS2VaTlVLYXRxeVppbkVDaDcxSFRmbjV4QW9KNjU2dUUyVUd4c0hBX09qXzZnajhFanBwUDZtZEZqaEJ6OFZQeUo5NkNqRWtlMXVlNF93ZzJfTFcySWNZXzl1dkFn0gHPAUFVX3lxTE9IZHYxYXVCcDNnTnlmZHRWMlNYRW5wR1lpeXRaRHQ0eFVfOU1IUmpnZkk1Z0M1Q255QWx6Nzg5VjN3U09FaF8wdTdsX2xKb0lsT3VmcHh4LXZWY1RQbVpJVHZyYll6aXFwZm93WnF3QVlHd3YwWGkwdzRNVkdrVlhfMWpKcmd1Zl9Vb25uZ01HR2dWMnVpNnNnbkVIbUhJWklRRGF6MElUOTUwUzY2OXkwYkgzVFQ0NFNfM1NYbFJqRzB2bVhvLXI2Z1ZuVUZIaw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": "0001806928",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

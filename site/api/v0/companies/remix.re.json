@@ -1,9 +1,9 @@
 {
   "domain": "remix.re",
   "name": "Remix",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 5.4,
+  "score": 5.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "Photos: Rochelle Jordan Releases DISC 3 of THROUGH THE WALL Remix Series - BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcW1ka1lXb3dCSS1jYjkwMHM3eGJzZlZWTjBTbzNuSTVTNXp4ZXd0S2tIdUQ3SVhIYmh3VUt2V09QYUwzWXFrTUhSaWVGSUNqU2RIc3VlRUJBSEwtbUJ5UC1peEI0bnNhZDUwcGxIZmtDazJZX1MxUWhsd01nWkZ4ajFPRXhBd29WeW9ub0Z1TTJCVC05amlvcVNtOGRQX3BGM0tnbVRYM3NyNTViV1dtVXA5dUNoa2FMbGEzU09aOHRuUQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

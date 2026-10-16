@@ -1,9 +1,9 @@
 {
   "domain": "agent.nexus",
   "name": "Nexus",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 15.8,
+  "score": 15.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,21 +14,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components Before Developers or AI Agents Pull Them Into Builds - Sonatype",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUtJYzktX3BoVDhWOWN4UVJ3Wk1rNFk1bFlyOFhCTFRGaXNyVWVGOXczV2pFMGJMcHNQazdyZXJESVh3NF9oRm9VNnd1eDhzNHpQNjVjSWRZcGg1RW1XZVEtUm1HUU9saUR0X1lkNm45OFhEaTJ3c2ZsOGVQdkY3Y2trMTZtS1Q3LWMwcnZOMTY5U3VoZGQ2eEln0gGaAUFVX3lxTE91S0ljOS1fcGhUOFY5Y3hRUndaTWs0WTVsWXI4WEJMVEZpc3JVZUY5dzNXakUwYkxwc1BrN3JlckRJWHc0X2hGb1U2d3V4OHM0elA2NWNJZFlwaDVFbVdlUS1SbUdRT2xpRHRfWWQ2bjk4WERpMndzZmw4ZVB2Rjdja2sxNm1LVDctYzBydk4xNjlTdWhkZDZ4SWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Pacific Defense Launches NEXUS, a Converged C2 and Electromagnetic Warfare Mission System - AFP.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRMzhiNmxzeXMyT19ZTG1zQXFPNEdSempyaWpINFYtUTd0LUZiYmhYXzVvSWFwQmZJRUJDUm1FRl9sQjVRLUotMXRKbw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Georgia Tech unveils ‘Nexus’, a $20 million supercomputer - WRDW",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVNibVZuY0thanBCRmxBTjVxb0RvX3poMlJMRkVmSVIzR3o2SlBjNWdDQjFMYTVHc3FYQXhPbVF0aUljNTNJRHNNc2xPdjlzZldjVUFZa2Jtc05td053QjYyQ1dkOE4tWnlEOVBENkNGWDl4Sl9DREh5Uks2VTQxUWtreXJzdXJVN0ZkNFR1eTJ6aUdF?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

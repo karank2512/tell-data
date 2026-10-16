@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 21.2,
+  "score": 20.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.2,
+      "contribution": 13.1,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-02",
       "summary": "House of Makeba launches O'Vanta immersive dining concept in Ahmedabad - BW Hotelier",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0wzV3h1c09qb0NCd0lSR0RaZXdoYWJXbXpxWFJYT0hXOG5Vb0d6V3lTd1I1dlJFUHRaNVpEcHNkZU1VM3pCellFUkx2Uk41WUM0OWNsTS12MTFiLTdGakFUdzNLQW5pSVlqT0xkTF9rVzZZWk9SM3RSWEJKb2ZvaDBzcW1EMVh3aVA0Q19fV2tZaDd6eXhWdVNUV2tBNkdvMWdzdFRzRTk4V3dxZExkUWZn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-02",
       "summary": "The House of Makeba launches O'Vanta, a one-of-its-kind interactive, immersive dining experience in Ahmedaba.. - ET HospitalityWorld",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZkhYbW9GZGlmN2xkRndYOUdUZG9fOWhURnZRX3dwUzRXbEx0VEl6SHVLNHd3bXd3QzZYZ0VWNkctaUMwVkNGMV8yODVpTURualB6UHVSSUpwbk9sOFoycktfVFU1OFBuVVRSelpwdW05c2o0SkV6ZWU3SW1TeVpLdUdGNUlwZVowWnIxRFM5dF8wZS02dTlDSXlmcDVXR0pHUGZhNlA1Mk4tbFA2MmtrVVJQeVA0OFBhVDYxYldET2JSOTR2TXJ4M1Y5MFc4MjkzZkpUQktsZFFHVmdPZHI5WEt6R1JTMEt2U0tjRFRQS2o5OVlaVTVuU1lJTjNZQU10WHRMS042QmQ3MjQ4eHfSAZMCQVVfeXFMTXJZQ3VST254MVpfb1lKSEhTQUpncm1FUmtUVmdjd01rMlFQUXpJbTV2amQxdVR2TUw2VVY4UTFuU21fdk9xb09iOVlUdS0wSXZNckFGRHhfcnZsTzZnYTdUVEhZSzh6THNDaV9lTTBzR184Ry1qTDZ6RGVyRVZoVlJIWEQ3U0NNcGsyTjBHUzBxMjctMENtSFJUXzJoa1NJdklELXpjZ1k1T0RFbm9ETTFNS09NWUNSQlQ1cjZRdjg5eTJBbzNyRGxLVU5Xa2s0ZWpFRERfeS01QUZXOGFYZV9UT0h3SGFxQ0VQWmFMZEt3OTZNT0lEcFRoME4xU3JmTE8yN0hwNnZ3N0hjQVZIdG1JUU0?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

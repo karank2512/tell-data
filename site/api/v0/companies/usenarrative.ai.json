@@ -1,9 +1,9 @@
 {
   "domain": "usenarrative.ai",
   "name": "Narrative",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Blackbird.AI Launches 'RAV3N Radar,' Bringing Agentic Narrative Intelligence to Slack to Protect Organizations and Executives from Narrative Attacks - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZ0JDRWpQN3Jza25mc0xhSjM3bU1laTVUb3VmMGJXVGIzcGxHb3VpTFV1V0N0ejJ2cEM3dUdKZENnaHFCSFFkdlNDc0RZV2ZUYU5hMlYxTUlhdTBTc1lDWWV6bk82ajlvOVBWXzNKanpjUUQ1dXFxd3dlb1JwX0ZhS09iSzNpcXpXYUxyWTBHRWVxbllnNHhVaVYydV9QM2VwbF92eklCMWRDT2tJcWZtNWRuUW01elY3a1lGOXJDb1AwbVFtTVIyVzVoUHBKMm9uTkZ3UTdvcEdIQkxpOGVMclp2U1NycVI2VnVOdWcxeDF1ejY1V1hWZ2t2ZU40VlRMM0FreUI3dmVidjI4R3owREs3WlFqeUxyMVFpMzd4X1A5UzFKX3ow?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

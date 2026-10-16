@@ -1,13 +1,13 @@
 {
   "domain": "opzira.com",
   "name": "OpZira",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 21.1,
+  "score": 20.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.1,
+      "contribution": 20.9,
       "occurred_at": "2026-09-15",
       "summary": "Form D: $5,000,000 offering, $2,025,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2124535/000212453526000002/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002124535",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

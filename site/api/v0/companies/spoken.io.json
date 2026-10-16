@@ -1,9 +1,9 @@
 {
   "domain": "spoken.io",
   "name": "Spoken",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-08",
       "summary": "Audible unveils global study of spoken-word audio entertainment - PodcastingToday",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHpsazUzSnZaR2NXeF9nU2QzaWR4OUprTllIamJXZWdWYzc0VkxvZC0yclRZVFl4cG5HRUdYUWR0VHZCMk5PS0ZxMHhSRjE4dHRQR29DLU5OakhrZF9GczBTaWZqZnQ4Z3ZUc01SLURtTm56SGc3VnRDN3RhbjkxQkQ3WXdBWk9kUldIMWktUXhZeWlLZ04yWmZB?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

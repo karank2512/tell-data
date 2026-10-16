@@ -1,13 +1,13 @@
 {
   "domain": "shortstorybox.com",
   "name": "Short Story",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "New Morecambe bookshop launches short story and poetry competition - Beyond Radio",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV21xUmZpWjcxS01RWjM0RmRUdUhCVUlRckYxb2JNVURLUnd1VXA0cVBaWUZtVTVjc1dXT2xwNDRFYk9PajBvbVM2alZrNkJZTXZJbHpvWTY4UDNfRDVtU0hCR2cyZVM2QU1LN2UxRUVVRWoyUTQ3WHk2dlRPWG5hWEctSUw2aU9LSGxJN1FmaEd0d3dDbl9heWQ1am1IemR5cEtXWmtOT2JwNk1KRWlrMw?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

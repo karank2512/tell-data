@@ -1,9 +1,9 @@
 {
   "domain": "ark.com",
   "name": "Ark",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "Faith & Family Outfit Ark Clb Launches With Former eOne Exec - Deadline",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3JMdzhXTXZLRW9XbjhkZ20yUUViVmxGemhONVFTbW9yQXhWbXJvcE9IaDZQWWpPbGVpRmhkeE0xWDBBYTVwZF83T1hjeUU4UEo5ZG81MDZES04tTTNYT2xxZ3YzNU9hVXNFem10LXN6aGctWnhzdHlyTWduU3lVcldTTFk3djVRT1VUWnp0YWNxc1kyUUE?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

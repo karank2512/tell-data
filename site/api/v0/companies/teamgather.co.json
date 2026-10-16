@@ -1,13 +1,13 @@
 {
   "domain": "teamgather.co",
   "name": "Gather",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 1.5,
+  "score": 1.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Colorado nonprofit launches survey to gather community input on youth safety and intervention tools - Denver7",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbzVoWG52ckw0alc5Qkg0a2V2X0dQTlppcDlDUTNBbFd6MXNUTXEwOGlETXNiY3VPbXNmLS1aS2dKZkxKTEI4QUpqNlhPc281UzFoU3NuT3NsXzV3SmdnUzdZR0szVGFIbmNwMGJ1SkFMRjFIT2JLSDJ6OWdNbDVKY19MazZvbldKNlc3ZDk1YnUxbnZYUmtRdzRadjhwM1NnRVQ0b1JBOEFtU19sdnJSdWRFa1dQOHVLODRxNVBmbkVKbGFqR2xNZzE0QnVMZFVQOXoxYi1n?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

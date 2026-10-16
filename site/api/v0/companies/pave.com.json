@@ -1,9 +1,9 @@
 {
   "domain": "pave.com",
   "name": "Pave",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "FRUIT Introduces PAVE, an Approach to Bringing Human Judgment Into AI Systems - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQW9nNTRBWEo5NjlNSGNYSFk1bm1ELWhuS05haHFkRmRyWXh5cWlTUjVCbmZuQnl0MlBmcGJyVzdBUFl3MFU4S1pPMUN0azZCNzl3SFdyRm1zbkZpMkpDZlpod0t6Mm9rbndrbk5weGZUbDNQZXhIcDZvZm80RFRiZ2RXUHVkeXRKWm9EN19KVUxWRE1uMmVGOWdJVGd2V1FtaURPZnFTaVBPTUZZb3lvakRVSzBZTWpkQWVmcVZGSW5pTGctVDdNMklrZnpRQ2FPZlhoTm52b3hqOEl0OHhFS1E3bmTSAeoBQVVfeXFMUGt2eVJMQUpuenZFMG54bEJRM3VUNFQ4Y3lnSS05X2xPSjBrbl9uNl9rQ2pySEZqQzRvWUtKMktheG9YQ21oNmw1VHdzWm5XZlRwdlBPZ2hUMWk3bjlGcnJidXVvc25OODhZVHJoVXFQRVdzdnBVNnUyRHNfWndhVEg4UVZCaUNaeGdScVVRUjBCQXdfWm50ZTUzZkk0ZXFHZVB1d296Snl2dnNiVHpybHBvLWdGUE9YeVVHdnNWRm1PSlZFblhFOUxyRFNkalRqaFFCYWxmVC15dmFRR2NfZFB6dUZMVW5LTnN3?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

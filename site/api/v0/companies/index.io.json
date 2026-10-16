@@ -1,9 +1,9 @@
 {
   "domain": "index.io",
   "name": "Index",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "CME Launches Emerging Crypto Index: Discover the Selected Coins - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDJCNmNoUWlleVdaOHdIaS0yWUNaaGtMWWJnRURFQUZKREV6TzNRd0k4R1pST0hpazZuOUt5eTRNYWF6ZG5kVTJKZkNwWC1CWHNnbnQxcHN4WHNteC0yUDgwVUF6YVhOMUR6UHdWczgyNkFqSnRLWjJqRUhYX3ROVS1ER0s4UlV4d05WYWhoUFRaMmV3dGxEVVE2c0RtNXhz?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "clever.com",
   "name": "Clever",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "BidCleverAI Launches Clever BI Module Following a Productive CelLink Beta - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOanZKZjZLMXo5YnM1S2Z2MnZLanVGT1k2d0JoMldTVl80cDhfY1FMeG1Zbld4eVFheHBadlVlRjYxdU9oUWdSM2RMS21fQUNsa0lhMHBPaDRQXzB1bGo3QWkyeGZRbWx5UlNoRnpJUVJsMmluWXRGT2ZqbFYybmpxcW1CaTBQSzhNM1JlS0I5N1hRblk3MFhlZFJVY2duTEFSc1Brc3Bfdks4Q3RhMXBEWWtTODFzeU9Gd19VVA?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

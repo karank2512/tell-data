@@ -1,13 +1,13 @@
 {
   "domain": "mosaic.inc",
   "name": "Mosaic",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-13",
       "summary": "Mosaic Consulting Group Appoints [person] CEO, Expands SAP and [person]",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGhWZWdaSEpBR19LWlE0allqdmUzMlhmWXE0eHhBa3E0VFNQakotT2RPODVOcFE1Q0VuYlA0dlR4ajQ1M1hhYTZlTkdSY3lhbXFBbEJzYnFyTlhvd3lWSl9Xa01XeXhUUEdDbGd3SHZxdXFPU2syRU04N0N1cUs1VWFBVm9aSHozeFQzTGNzcXUxdmU2a2dWcmJLRVI5ZVdrZWVWVERxUmxhd2I3bDNZdGdBS0t5ODV1?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

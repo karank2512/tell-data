@@ -1,20 +1,20 @@
 {
   "domain": "seerist.com",
   "name": "Seerist",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 16.1,
+  "score": 15.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.0,
+      "contribution": 14.9,
       "occurred_at": "2026-08-17",
       "summary": "Form D: $924,903 offering, $924,903 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149359/000214935926000001/"
     },
     {
       "type": "leadership",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-08-20",
       "summary": "Seerist Names [person] as New Chief Marketing Officer",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTA2X1NZdDZGeTNEdmtpdTlwbVl3T3A3RmxaUmpTSE1fYzd4ZkR6OFhRZEZtZS1tcjhhMUhaenRCZ04td0hoaEVuQktZcGUydkd1aHFMRDZEQ2Vlb2psOTMxc2RrUGNZcnJQbFI1TEJMNE50M3A0bTY4RDNpTFhWeWRURGRDd0VGWS1fOUdyb1dBQWQ0Wk5CX2pCNk05dUhTV2lHalhKSy0?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002149359",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

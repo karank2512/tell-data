@@ -1,9 +1,9 @@
 {
   "domain": "mesh.ai",
   "name": "Mesh",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 18.5,
+  "score": 18.2,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Mesh Launches Link Chat, Turning Intent Into Financial Action - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHkwb25YMmZPVlk4Qm5Ca0xpWTcyNnZ4dWdjczZPSjJCcjY2b0JnbEVxZmxDVUEzSEZ4RkE4UkJCWjhkd0JVVVdJbzZRSjlWc09tX1NIRW5IYjVoLTVZNkk3dTFxS3RtdDNveGZJYWNCMkVocWg5TGd1Z0d2czVXemZUNk5lTV9TQUZ4eWtpVHIteHlYdHZZYWVnc3BLMFVvVDJjemVTYS1ubEV2NVZTWHdmV3c4V2s?oc=5"
@@ -84,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "devolo Introduces Mesh Wi-Fi Sets and Fibre Router - Alpha Audio",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmRHQmxEWU1zT3ZTRHV3SVp2YXQtYWZHckdxa2lyZHpSXzhWcWs2dVFjUFhWYXl2TTA2WHVzbFFGRzNSZGhjeWp0V2xETkp2c3ZLLWRNTmlxYXIxNUktZ2NsNk1oZTNmb3Nrcm83MmlreU9qMTJoTXMybUljdWhESXVRT2dJOHJZSUxtR0lkd3N6MjhKazQ3Xy1Ybm9fakdNNTJCNERR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-08",
       "summary": "Gibbeum Hospital chief introduces military doctors to his mesh-free hernia repair - The Korea Herald",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00cTJXaGZzb1R2Zzg3Y3c5ckpEWVp2S215WFNOS21UTGtQekpEMUtXc0Y5aE5mbVgwMzZhUExjY2U1bmpGM1BVTGNTc1BmazFJV2x3bS1TNA?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

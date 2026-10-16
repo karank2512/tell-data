@@ -1,9 +1,9 @@
 {
   "domain": "100x.bot",
   "name": "100x",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-08",
       "summary": "ICONIC21 launches Blackjack Bonus Live with multipliers of up to 100x - Focus Gaming News",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44ZzMxbm4yMkREbmtwOFp4ZmJaV0pVOXJrSWFUN0NXY2pvdEhMUmpKb255bGRTX3V3Z01odWw0c1RjX01CLThpd283YzFqc2psZ1NIVUlHNVIteWZTdUE?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

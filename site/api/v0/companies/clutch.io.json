@@ -1,13 +1,13 @@
 {
   "domain": "clutch.io",
   "name": "Clutch",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 1.5,
+  "score": 1.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "NTangible Launches AI Platform to Predict Athlete Clutch Performance - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPalZXdGJUWVNWcm14bFo1Y3VOTF9aLXVJNGp3X0Q3bG9ZQ1kydXVhanhZWUw4MF91N2pIbU5iUlB1cmg5aUdjNTY4djdxUS0taVRlR0ZNQmpJMXpET1ZHS2dKSWVaLVd6R1VYMC1sSm52RkdPSXU1XzF0ZEFDU2JMS2JfUmNjTy13OGVVcFF5SHJJVlBlQnpMeHgtSTV2T3JHcXdj?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "withkairos.co",
   "name": "Kairos",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 12.4,
+  "score": 12.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Inc. (KIRO) Appoints [person] to Board",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWF6bzQzY3k3RnVwSGRmdV9NcVEyOHo2cHViUld1VGNBMlY3RVpiVkp6dlh6b1IwQ3RFd214SkJqQXlrRUdZcXJ4ck1GV1FjbV9sc3VVeHBmcVVDWVFrN1hRTXM4dWVXMDloM1NJUmoyVVpXblBsX1F6dlNabW5kcDRXT1haQ01zQWYwVTZTZXptZk5WbkVyOHo1eVFJUXRndlFhWWJPWVhLdUk0NFY3SHZB?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

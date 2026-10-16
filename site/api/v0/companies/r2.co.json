@@ -1,9 +1,9 @@
 {
   "domain": "r2.co",
   "name": "R2",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "Cloudflare Launches K2 Event Streaming Service Built on R2 Object Storage - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa19Fcl9NWGU3M0djWHhfQTFUem02TzE4R2ljSmxYSUJKa3Y4SWRwa3Y3OXFLeG9iaGNIZW1kZ1RhZ1BOVHVlNWZ5Q2toUS04czMyTEV5blQxeGNmUHR5V2N4ZDNUYy1jc2plcUozb2lxZ2hDcXdIdDl2NXRLOWU2cGd6NFBNTEhvZmRSRU5lUFBnMElCUHQ5V2JpY0wwVWRxMEhBMw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

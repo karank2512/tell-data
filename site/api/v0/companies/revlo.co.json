@@ -1,9 +1,9 @@
 {
   "domain": "revlo.co",
   "name": "Pursuit",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Pursuit Spirits Releases Pursuit United XS Double Oak - Fred Minnick",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVlOMVFoek0zeFBUbzdSTmF3WnR4eC1zeExfOFd3c0NWcERPMXVySmd0NDRfaTNhQzljNVYyOENZaFR3ZkVyRGlPa0s0YVpZNllrNVdRV0RVakpoQS1rZThXb2hsUE9WVTZNR1FGSVRyNXJtbk5IYkwwT3FwTDRlM3VpZ1FENTVMRHczQVRGWHJiOWNma0c1Sw?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

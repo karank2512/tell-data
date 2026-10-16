@@ -1,9 +1,9 @@
 {
   "domain": "getweave.com",
   "name": "Weave",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Fire Emblem Fortune's Weave launches Expansion Pass, first wave available now - GosuGamers",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3JCaXdTejFCdWhxb1h0c3V5OW9pdWdFUVlBY1QyTlhtbWVQakZIM044eEpTVGg2RlBzbE9TYzdub2c1dThZM05nM2VFNTVvTUFTM2liME5ETUc1QWlRU196alJuNmE0ZkpENW8tM0M1SGdoZ2N6ZXBMN3IwRXFsdW0zVzNEdW9QVkpYelR2YVN1WGh0SDJDa3ZIdUZQWUl4LWJhVGd5Sk9qbENvQ09CWUtBR1BEZ24zRGJUTFdfUHFGMGd4QVJZ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

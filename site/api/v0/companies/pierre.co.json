@@ -1,13 +1,13 @@
 {
   "domain": "pierre.co",
   "name": "Pierre",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 3.9,
+  "score": 3.8,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-13",
       "summary": "Appoints A CEO",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2VuUHBZMHV4bzhDbG1ObUxKcUNZQkllbmVWdkJkNEN5elNYcEVqS3V0Z3JMNFNqeXNVQVpIQmVUSG9NOTVZRHpocEQ2QVhXRVBZQU1sRFZrQTJHTWVYM2w1MzN2REtjdGJMOXFIbWFvSGxMejdMYlpVT3JTUFZyQ09pNVk2WWdDNVc3Z01EU3NBb2JObGI5TU9ldXNKSDgtcHZjSkdlWEZYOXRweHVialhOb0duR1I4?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

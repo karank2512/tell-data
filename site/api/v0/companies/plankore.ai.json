@@ -1,13 +1,13 @@
 {
   "domain": "plankore.ai",
   "name": "Plankore",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 19.0,
+  "score": 18.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.0,
+      "contribution": 18.9,
       "occurred_at": "2026-09-16",
       "summary": "Form D: indefinite offering, $530,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2155311/000215531126000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002155311",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

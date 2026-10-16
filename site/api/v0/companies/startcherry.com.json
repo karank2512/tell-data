@@ -1,13 +1,13 @@
 {
   "domain": "startcherry.com",
   "name": "Cherry",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.7,
+  "score": 2.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-08",
       "summary": "Introducing: Glashütte Original Brings Meissen Porcelain to the Senator Cherry Blossom - Monochrome Watches",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlZOcmhNdkNHOEtjTUExcUd4Z1V6OGlFbEtnQ3V6dS1oVDdPaUJzYzF0MS1tRkJXMlpYWEF5ZzNBUkVzLWJHMVRQTWQ2YnI0VU9sUGtHSkhOdkgyYi1ydEdpeUw1RzFKeDFLMnN3dXcyaW9qdmtRSUZTNkZsZXA0d0U2Zk5Mc0tKeGd3NThaTjlsRlZVY3ZwMGpqMS1XS2tXWWNDVFM3VFhkY2tjRjRRWGpOOXk?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

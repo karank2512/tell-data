@@ -1,13 +1,13 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 8.3,
+  "score": 8.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Ovii Launches Tropical-Flavored Metabolic Sync Stick Packs on Amazon for On-the-Go Metabolic Care - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUlhlX2otaS1CNHQ4VURrRTBLbjJyQ1NzQ3RpM1pqdWVaRlp5V3EtQWp6X01KTG1ycWI5Unl2czA4bzRkczhzaldJUGM5OHdyRWFNdEt3V3NtV1N4R0NxWlJrTGQ2WjYxWFRYZWxpRWxyQjc0S0dxZXRzQlo3WVBTbS11UjN2ZmxRNWIxM2VQamU4Y1Q2WEFySTJDaWprSVBkY2c4WlBYNGpVb0g4MnNTR0lMRU1hRkstNnR2Z0ZWTUIyLUVXU2VlMmFwWFdoMVlya0cweE0yaldqSnpGN0dEMnZmSXl5SUU?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

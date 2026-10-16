@@ -1,13 +1,13 @@
 {
   "domain": "alignerai.com",
   "name": "AlignerAi",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 13.5,
+  "score": 13.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.5,
+      "contribution": 13.4,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $348,500 offering, $348,500 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2028213/000202821326000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002028213",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "verde.agr.br",
   "name": "Verde",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Verde Farms launches steak bites - Supermarket Perimeter",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVg1RE83b1JodDRmUmlGYms4TlVzUV9JOWZjNEFURXAxdHFvN1l4Wkt2UHFSaW01VEh3UnZkZUE1emFDZmt1XzNqZlZobnNpRGxnS1BnN1F4NjlUaFJNUTJUV05BVHFwbmlOVVo2NHZabVMwRXFpVXFDdk9JLVpsMGhTX3U0Ty16QXVGLQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

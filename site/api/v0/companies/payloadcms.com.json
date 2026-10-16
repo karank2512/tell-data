@@ -1,13 +1,13 @@
 {
   "domain": "payloadcms.com",
   "name": "Payload",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 31.5,
+  "score": 31.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.9,
+      "contribution": 12.8,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
@@ -21,21 +21,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Indian Startup Flying Wedge Unveils AI-Piloted Fighter Jet Prototype With Planned 1,500-Km Range, 350-Kg Payload And Mach 0.85 Speed - Swarajya",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbWVkdV9LbHE4WmVDOGpHdW1SMnhGajRZQTUzdXljcndOQU11aHlxUWFYQmttRDRGTkhHeDRlLVkyR3J6V1lxR3ZRQzIyY2hhN21PRy1OcDBMMk9aMVdteExXU0ZOcUFZT2txNUlMZDlMTGN3LTktQkVsaVZjTjNONTNvRENxd0RnNzF5alRmTW1fR0pBQ1ItUFJmSkxESi1lTHFiU3VDVFZWUlVqa1doQUY0anVoRHFZd0tFa01MeTg2bWNYdkVrdFdKaFhOcUJ0eXVkaVZXUUJWelpENlJkWDl6TUt4WnUyZGx3alZHbXRsVzDSAYMCQVVfeXFMTVpDamJsZ2tTYmNGSTlTZGktYUxoSzJlSjhBTHdxZzJjZ3RkZm9MNUFUVEo2TXVnc3lNTWJtZlZobEsxUXRRUVNxUmpGMG5HaUtfX3dtSU1sSlQ3dnBzT05wZ1dTU0pDTjI4alJMNTR0cTlkcTBzVllsOXVudnBzQWFMbmRQYVVRNkJPbmdrZ04zUlFaSXVWbzZWUGtTTk9TbkNwWlczVmgzZWszenZpNDhKR0JXZXJkUVlReUxCemVsX2FEcjN0VXN2aWFjbEJpREtRRzZyOFB5YTU3NjhxWUE5NTJDQmRyUUlQeExIOVpBSFZRbEg3NEdoS1J0ejFmekJYcw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "HLB Panagene Unveils 'PNA Payload Optimization' Findings at 'OTS 2026' - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iV2ZPeGRJZXY0REdObjRId2ZaLVo2eVRKNENlMkpFMUZQQ0dqdC1NbWhIdWp1TnFPcGtqeUt4MXFHZDRzbUhrcFBKdUVYS01tUktvaWxzNkN2eHZjOWdaQ0JIY1c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "HLB Panagene Unveils 'PNA Payload Optimization' Findings at 'OTS 2026' - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xNWdOOElzSUlMamdRcTV6Skwwdkhtbll0cl85R0FiXzdUNEpZYTFoQnNZVWx3d09fWVdJdnc3d0NmWUdLeUhNUGpYVmhtbXNqZXdxUFJ2SXNRLXI2eWh3c3Z0MFl4VkN5UlktSlVIZTF1azByVmpXZHY1SQ?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "modalup.com",
   "name": "Modal",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 48.7,
+  "score": 48.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 22.5,
+      "contribution": 22.3,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $204,999,900 offering, $204,889,993 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2088132/000208813226000002/"
     },
     {
       "type": "funding",
-      "contribution": 22.4,
+      "contribution": 22.3,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $175,365,831 offering, $175,277,185 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2088132/000208813226000003/"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-01",
       "summary": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdGtLdExtU2pqTURVM1dmdFpFR19NNjBaRFd2Tk1kclFyUGpjNkpDd0JzSDFDc3FDeE9uTC11eXVQcXJlNjBzSzRiVTNrRmtmeG9jRXltWG9aVng4UkZUUjlBYTRic3RsY090TjZMdlNCY1dsZFNEZmd6X0l5RnJteGM3cWNZcVVWbm1PZS1pdTh5anJfS0txRGk5R05sNlBLWGxDX3NqaFZzQnd2ejdJV0NsbEVmb05Mc3VkZkxBbDVycDJ0NjBTa3BSM3BTdXBzbFFCczZobHVjSlF4UFREbU9wRzhDYlVJ0gHoAUFVX3lxTE10a0t0TG1TampNRFUzV2Z0WkVHX002MFpEV3ZOTWRyUXJQamM2SkN3QnNIMUNzcUN4T25MLXV5dVBxcmU2MHNLNGJVM2tGa2Z4b2NFeW1Yb1pWeDhSRlRSOUFhNGJzdGxjT3RONkx2U0JjV2xkU0RmZ3pfSXlGcm14YzdxY1lxVVZubU9lLWl1OHlqcl9LS3FEaTlHTmw2UEtYbENfc2poVnNCd3Z6N0lXQ2xsRWZvTkxzdWRmTEFsNXJwMnQ2MFNrcFIzcFN1cHNsUUJzNmhsdWNKUXhQVERtT3BHOENiVUk?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "useclick.ai",
   "name": "Click",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "Profile Design Launches Zwift Ride Triathlon Aerobars With Integrated Zwift Click Controls - TodoMountainBike",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEROUXQ1cVY4SG1lN3N3NWg3N1RKOGV0Qnh1TGVQLUFhLXNoQ0dBTk9WVjFLQVVZaUpFaXdVN1o1TF96bHVIZ2hqWlFqb1lOSEFkOWRXT3owNHJrQ25qbGI5ejNTbkpBekZreHJPdzJ0V29vMFpydHRySUJJYnJKVUJsYklDb0FEd3g3RjdHVG5Ec0RtRkRTMVhKd3ZmaHpKNjI5bVUzTkNoSzZUZTYySXJNZVdoam1YZ0VLNU93?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

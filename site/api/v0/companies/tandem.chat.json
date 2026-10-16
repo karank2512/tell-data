@@ -1,13 +1,13 @@
 {
   "domain": "tandem.chat",
   "name": "Tandem",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Provectron Unveils Two Major Releases at CIIF: Flexible Manufacturing and Automotive Electronics Testing Accelerate in Tandem - Gasgoo",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWTY4bmoyREhNaENDVHg5OTFqTnA3MlF4YXc0WDF2SVJCNV9MMk9IazN2dHl0REI5VDhOVjh6d2JnQXhGTmxhbFVBcURSTDdfRUZvMWlDLVRlXy04ZUdla0ZrU0xhejhsZWpEVUw2QVJHMnp1S0xmb2I0R1ZoRTFadHlKSktHay00OEt6Y1huTlRUWTFaS1hpX1RuNjNkOE5CdDhPZl9tRjBzdklmblVoUFlQNmI0TGp3b1UtSG1IOHROUWRtenIwd0NEbGtVSkRwWXdtSVJlZkVLR3dLX0pRTmJCMVJDOWp3cDdEMFZQVzl4WG1iWXlxOVRiY1BzOFpEY3p3OFktcENGYURLNXA3SDg5U0I?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

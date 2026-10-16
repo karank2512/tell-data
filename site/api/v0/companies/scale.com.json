@@ -1,20 +1,20 @@
 {
   "domain": "scale.com",
   "name": "Scale AI",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 43.4,
+  "score": 42.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.3,
+      "contribution": 16.1,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
     },
     {
       "type": "funding",
-      "contribution": 9.1,
+      "contribution": 9.0,
       "occurred_at": "2026-07-27",
       "summary": "Form D: $17,490 offering, $17,490 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000002/"
@@ -28,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-13",
       "summary": "Matter Machine Closes £4M Pre-Series A to Scale AI-Powered Materials Discovery, Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUozUi1MVWxDLW9VNGhFRjU0QVBDMi1hWU8taVJVcXBOWU1qa2NyalZ1QXU5QmlUZjhaUE9uaU1HVFBzLVhSX3NOaGI2VTJVU1JxbHhXNjRONkVpUG9VS09NUlZHUDJFTmNYUUdNb0psMzd1OXlqVGRabXRTWWFwa3VnMWV1QWhEOHliM0gyenVuZ0Q3RFpjZXc0emJHNl9hQTltYTNZNi1tS2VkeS1Ua2NqdDllQTQ1dF8wUzZZN2pyclRmZ3dPS2VVa1Atb21kU1lNR2lYV0RkR251c211WEpnUTd5dUhxcENiY3lB?oc=5"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-09",
       "summary": "Mastercard Launches Agent Connect to Help Merchants Scale AI Shopping - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWNDQnI5WHppNGRiN1JjT1EtUjczSURNTjFsa1pZa25kWE12U1A3RlpCZ3kwUHpYZm1hSWwyMFR3cGw1aEdmTHZHaVlXVVNmLS0zc2NtbzdfbFpER1BhN2JEMlM5Q3R3dVRuZklDaHN2T2ZXbC1OTTZiaHFFcFg4UzBGaDk5QXdPQThBcEFlbWszRXA0Zk1yVkhYSVR1VzhiU2p6LXdpUjZEVVZkLUZsYV9uMVAtX2I1aXQtdmZhRWUzUWRp?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

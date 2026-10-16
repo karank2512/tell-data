@@ -1,0 +1,345 @@
+{
+ "vendor": "ashby",
+ "identifier": "eightsleep",
+ "domain": "eightsleep.com",
+ "as_of": "2026-10-16",
+ "last_polled_at": "2026-10-15T15:49:17.994412+00:00",
+ "open_postings": [
+  {
+   "external_id": "04a37ce9-ff55-4b51-b3d2-f145734eb188",
+   "title": "Hardware Systems Test Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-03T22:55:07.808000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/04a37ce9-ff55-4b51-b3d2-f145734eb188"
+  },
+  {
+   "external_id": "05a32566-9806-44e4-81d4-e61434554f30",
+   "title": "Full Stack Engineer - Customer Experience",
+   "role_family": "engineering",
+   "location": "San Francisco, CA or New York, NY",
+   "posted_at": "2026-01-29T20:39:59.826000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/05a32566-9806-44e4-81d4-e61434554f30"
+  },
+  {
+   "external_id": "081c4b69-c107-4314-a71e-00168b54154e",
+   "title": "Office Manager, NYC",
+   "role_family": "other",
+   "location": "New York City",
+   "posted_at": "2026-04-13T20:50:56.935000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/081c4b69-c107-4314-a71e-00168b54154e"
+  },
+  {
+   "external_id": "0ae8cdbe-8100-4f59-b702-16d836ab5550",
+   "title": "Security & IT Intern",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2026-10-09T17:05:52.446000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550"
+  },
+  {
+   "external_id": "0c41b8c2-ce59-47ee-a822-15b72be33d35",
+   "title": "Hardware Prototype & Test Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T01:21:27.155000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/0c41b8c2-ce59-47ee-a822-15b72be33d35"
+  },
+  {
+   "external_id": "0d1cb9d1-ab6f-49d9-a878-dcc0b75df242",
+   "title": "Engineering Program Manager, New Product Development",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-17T16:43:51.055000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/0d1cb9d1-ab6f-49d9-a878-dcc0b75df242"
+  },
+  {
+   "external_id": "18b5d6a4-06a5-4279-afd2-d827f424a2c9",
+   "title": "Staff Mechanical Engineer, New Product Development",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-17T16:42:32.465000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/18b5d6a4-06a5-4279-afd2-d827f424a2c9"
+  },
+  {
+   "external_id": "1a3538da-8cce-4217-ad52-bfdb4d5daeca",
+   "title": "Growth Engineer, (New Grad) Milan",
+   "role_family": "gtm_ops",
+   "location": "Milan",
+   "posted_at": "2026-10-09T14:35:42.349000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/1a3538da-8cce-4217-ad52-bfdb4d5daeca"
+  },
+  {
+   "external_id": "2fef2cd1-f874-4254-8e7b-1865799a0edd",
+   "title": "Senior Software Engineer - Mobile (Android)",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2026-05-17T22:56:03.402000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/2fef2cd1-f874-4254-8e7b-1865799a0edd"
+  },
+  {
+   "external_id": "39182d99-3d03-4a9b-85e5-8c8830c9f3fa",
+   "title": "Senior Firmware Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA or New York, NY",
+   "posted_at": "2026-05-26T18:13:08.705000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/39182d99-3d03-4a9b-85e5-8c8830c9f3fa"
+  },
+  {
+   "external_id": "3a7a9940-8137-4f9d-becd-e981de527218",
+   "title": "Director of Clinical Affairs",
+   "role_family": "exec",
+   "location": "Boston Area",
+   "posted_at": "2026-08-16T21:34:44.812000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/3a7a9940-8137-4f9d-becd-e981de527218"
+  },
+  {
+   "external_id": "5d26a418-240e-4db2-9e4e-f4ac81fd61b8",
+   "title": "Senior Reliability Engineer",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-05-29T21:44:08.085000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/5d26a418-240e-4db2-9e4e-f4ac81fd61b8"
+  },
+  {
+   "external_id": "60b67d27-7399-4860-9dcf-9f0b7e4b93f7",
+   "title": "Product Designer, (New Grad) Milan",
+   "role_family": "product_design",
+   "location": "Milan",
+   "posted_at": "2026-10-09T14:09:43.342000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/60b67d27-7399-4860-9dcf-9f0b7e4b93f7"
+  },
+  {
+   "external_id": "632b5397-b57d-4f4b-bf3e-0ec6a12c64bf",
+   "title": "Mobile iOS Software Engineer (Milan)",
+   "role_family": "engineering",
+   "location": "Milan",
+   "posted_at": "2026-09-04T12:10:41.252000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/632b5397-b57d-4f4b-bf3e-0ec6a12c64bf"
+  },
+  {
+   "external_id": "67f41097-75aa-4bb7-b937-0b709804984a",
+   "title": "Research Associate",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-04T08:55:56.528000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/67f41097-75aa-4bb7-b937-0b709804984a"
+  },
+  {
+   "external_id": "74b90c13-fe64-4bcd-9b5e-ebad6b5b4570",
+   "title": "Security Engineer",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2026-09-23T15:00:11.552000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/74b90c13-fe64-4bcd-9b5e-ebad6b5b4570"
+  },
+  {
+   "external_id": "822ce4d5-fe72-4925-9337-9773a105de3b",
+   "title": "Accounting Manager",
+   "role_family": "finance_ops",
+   "location": "Remote - US",
+   "posted_at": "2026-09-25T13:46:08.080000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/822ce4d5-fe72-4925-9337-9773a105de3b"
+  },
+  {
+   "external_id": "8441114d-b3d3-4783-8451-a1d7a15e850f",
+   "title": "Senior Mechanical Design Engineer, Special Projects",
+   "role_family": "product_design",
+   "location": "Remote Global",
+   "posted_at": "2026-06-22T17:18:58.025000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/8441114d-b3d3-4783-8451-a1d7a15e850f"
+  },
+  {
+   "external_id": "8cac7e1b-99ce-46da-8d2a-a0eac5831ecd",
+   "title": "Android Mobile Software Engineer (Milan)",
+   "role_family": "engineering",
+   "location": "Milan",
+   "posted_at": "2026-09-04T12:38:06.836000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/8cac7e1b-99ce-46da-8d2a-a0eac5831ecd"
+  },
+  {
+   "external_id": "8da6ebe5-6ac7-42a2-a769-fcaea5b3c6c7",
+   "title": "Senior Thermal Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-06-10T20:55:10.927000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/8da6ebe5-6ac7-42a2-a769-fcaea5b3c6c7"
+  },
+  {
+   "external_id": "8f2d0aa2-ddb7-431e-b607-07b0e08b0f4b",
+   "title": "Growth Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, CA or New York, NY",
+   "posted_at": "2026-05-18T21:08:24.993000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/8f2d0aa2-ddb7-431e-b607-07b0e08b0f4b"
+  },
+  {
+   "external_id": "95078a15-645e-4acd-8d95-cbc4bfc55f31",
+   "title": "Product Designer App (NYC)",
+   "role_family": "product_design",
+   "location": "New York City",
+   "posted_at": "2025-09-12T21:48:37.508000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/95078a15-645e-4acd-8d95-cbc4bfc55f31"
+  },
+  {
+   "external_id": "9dcf32a3-9031-474d-9878-87087e9ac9f5",
+   "title": "Senior Mechanical Engineer, New Product Development",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-17T16:42:00.659000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/9dcf32a3-9031-474d-9878-87087e9ac9f5"
+  },
+  {
+   "external_id": "a2e0d10e-e3b2-4c9f-ac88-b8d521c19539",
+   "title": "Recruiter (Milan)",
+   "role_family": "finance_ops",
+   "location": "Milan",
+   "posted_at": "2026-09-28T14:33:13.817000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/a2e0d10e-e3b2-4c9f-ac88-b8d521c19539"
+  },
+  {
+   "external_id": "a8538d65-0445-48a7-a193-47bb75e7ef70",
+   "title": "Product Designer (Milan)",
+   "role_family": "product_design",
+   "location": "Milan",
+   "posted_at": "2026-09-04T13:07:37.026000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/a8538d65-0445-48a7-a193-47bb75e7ef70"
+  },
+  {
+   "external_id": "a865d666-1091-4139-8734-c623c17f7d20",
+   "title": "Mobile Software Engineer, (New Grad) Milan",
+   "role_family": "engineering",
+   "location": "Milan",
+   "posted_at": "2026-10-09T14:15:16.030000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/a865d666-1091-4139-8734-c623c17f7d20"
+  },
+  {
+   "external_id": "ab0c84db-dcee-4f4a-9096-a6ea88b62a44",
+   "title": "Business Operations Manager (NY or SF)",
+   "role_family": "finance_ops",
+   "location": "New York City",
+   "posted_at": "2024-05-16T16:05:04.731000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/ab0c84db-dcee-4f4a-9096-a6ea88b62a44"
+  },
+  {
+   "external_id": "ad48addf-a96e-4633-9d73-a0a49f086f1d",
+   "title": "Senior Embedded Software Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-02-20T23:29:24.114000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/ad48addf-a96e-4633-9d73-a0a49f086f1d"
+  },
+  {
+   "external_id": "b1c37913-179d-4927-8745-f6ef88a02e82",
+   "title": "Senior Software Engineer - Mobile (iOS)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-05-17T22:55:28.661000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/b1c37913-179d-4927-8745-f6ef88a02e82"
+  },
+  {
+   "external_id": "b34ee05f-19e9-4151-92e3-5ee837ac7055",
+   "title": "Business Operations Manager (Milan)",
+   "role_family": "finance_ops",
+   "location": "Milan",
+   "posted_at": "2025-09-22T18:39:29.422000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/b34ee05f-19e9-4151-92e3-5ee837ac7055"
+  },
+  {
+   "external_id": "ce1bebc3-42f5-4010-93cb-b31090b16294",
+   "title": "Electrical Engineer (New Grad 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-28T20:47:04.443000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/ce1bebc3-42f5-4010-93cb-b31090b16294"
+  },
+  {
+   "external_id": "d1859983-528b-4766-bdb2-a175e18651d6",
+   "title": "Senior Accountant",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-05-27T19:47:33.910000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/d1859983-528b-4766-bdb2-a175e18651d6"
+  },
+  {
+   "external_id": "d48659e7-608b-4c0e-9e5f-4131b5df50ca",
+   "title": "Senior Backend Engineer",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2026-05-14T15:56:01.960000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/d48659e7-608b-4c0e-9e5f-4131b5df50ca"
+  },
+  {
+   "external_id": "da0f9483-e9a5-4fb9-8867-1da6d03bf90c",
+   "title": "Growth Engineer (Milan)",
+   "role_family": "gtm_ops",
+   "location": "Milan",
+   "posted_at": "2026-07-15T07:24:07.604000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/da0f9483-e9a5-4fb9-8867-1da6d03bf90c"
+  },
+  {
+   "external_id": "e444f9db-008e-4a10-8a6a-ca911fa4e72b",
+   "title": "New Grad General Application (Milan)",
+   "role_family": "other",
+   "location": "Milan",
+   "posted_at": "2026-10-14T08:58:16.873000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/e444f9db-008e-4a10-8a6a-ca911fa4e72b"
+  },
+  {
+   "external_id": "e9a84433-b292-497e-ad33-15da82056af5",
+   "title": "Senior Backend Engineer (Milan)",
+   "role_family": "engineering",
+   "location": "Milan",
+   "posted_at": "2026-09-04T09:45:47.391000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/e9a84433-b292-497e-ad33-15da82056af5"
+  },
+  {
+   "external_id": "ea1e34c9-862b-46cf-b76b-f5120cad2dc2",
+   "title": "Director of Clinical Research",
+   "role_family": "exec",
+   "location": "Boston Area",
+   "posted_at": "2026-08-28T08:08:21.743000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/ea1e34c9-862b-46cf-b76b-f5120cad2dc2"
+  },
+  {
+   "external_id": "ef81d491-6991-49f7-8195-d3de86d951b0",
+   "title": "Machine Learning Engineer (Foundation Models & Personalization)",
+   "role_family": "ml_ai",
+   "location": "San Francisco",
+   "posted_at": "2026-01-21T04:01:12.174000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/ef81d491-6991-49f7-8195-d3de86d951b0"
+  },
+  {
+   "external_id": "f3d5bbba-ed39-4ab5-8f7c-a556eefb8ffa",
+   "title": "Senior Electrical Engineer, New Product Development",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-17T16:44:58.107000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/f3d5bbba-ed39-4ab5-8f7c-a556eefb8ffa"
+  },
+  {
+   "external_id": "f4e3002d-cbb5-41ad-994c-cbe3daa8b346",
+   "title": "People Operations, (New Grad) Milan",
+   "role_family": "finance_ops",
+   "location": "Milan",
+   "posted_at": "2026-10-09T13:47:02.435000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/f4e3002d-cbb5-41ad-994c-cbe3daa8b346"
+  },
+  {
+   "external_id": "f8de63e3-605e-404a-98b4-5b58d9fe7bc5",
+   "title": "Hardware Support & Test Intern",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-08-25T21:34:20.523000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5"
+  },
+  {
+   "external_id": "fc296bc9-0e05-4639-a95f-5f89c0cd2b96",
+   "title": "Mechanical Engineer (New Grad 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-28T17:44:45.507000+00:00",
+   "url": "https://jobs.ashbyhq.com/eightsleep/fc296bc9-0e05-4639-a95f-5f89c0cd2b96"
+  }
+ ]
+}

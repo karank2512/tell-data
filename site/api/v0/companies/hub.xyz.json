@@ -1,13 +1,13 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 36.2,
+  "score": 35.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.5,
+      "contribution": 14.4,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
@@ -42,21 +42,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Apple Unveils HomeView Hub, Plus 9 New Smart Home Gadgets With LG - PCMag Middle East",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDhLMFphNjNEcjVXQk9GLThIdHpRRXp5U0NLVV82ekhxTkhBYndkdzd2TjJhWU9XWXFYSThzUi1Ya1hlR1NxU0Q2V2IyMmY0cTZjcmJ6Ym5sRzZJdUJBN2pJazhlcmJOMUYzY29JUUxPQlJJNk84VE9pYVlUbTUwMFlQUjhlVUNiWFE0NG5NQUpvYkQ1eHptaGVBY3EtUGhYRWVkOFNqNV9kaWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Apple Introduces HomeView Smart Home Hub, Other Gadgets - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTYwTUFpUk54Z2pBZXFieWJpODkzYk1nTm00V1NsX0Nhd2ItZ0QzSk1ZQ0ZhbEN3RnFQQWpSTmxGWThJY1FhRVE0LUhiWVBYcGVlMmZpcWl2WkFtY21Jcm9qbUpIc2xzakJzM05UQ2xEMEh3WnZ0ZUtjTnplaWhOWHZsek5TSFlyVWtGNldB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Apple launches hub as Anthropic issues connected home AI risk warning - Insurance Business",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZHQ1eUE2eUdDamtYVjF4YnJzZ3g5M01hTjh0Z3pxZExnNFdMVHBQWm03V29vMHZMaHg1UmJ6VGZlckZXaVdGX09yNGhWc3ZTTWhwdjNxRE00enFzNXBJaHFtOVRXSkF6dTVEY0I4ZGIxQnZZNmNHZHRJaWYxYjBXOEtWN2ktUU9iZkh5WEtFUDU0N2dQRnFZSlFkbTBIZHNoTjlwZUd3VERWODhnSm1UdzdZLWZ3d1ZWeWVRTmxzbngwMUxEZ0hOWDFJOU0?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

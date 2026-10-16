@@ -1,13 +1,13 @@
 {
   "domain": "uplinkapp.io",
   "name": "UpLink",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-12",
       "summary": "etisalat UAE launches world-first 2×2 uplink MIMO delivering threefold upload speeds - Gulf Today",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRHhoX3E0ZDdJMFhQd2R2WGxscFZUSExIYV9nNXExM2J6cXR6blEwN1ljdkFoemt0X3J3ZXNZTFg5cGx1c2tFaU9oMXZJcUFsVDJEQW53TmFVNTJId0o4OWlxYW52T0dsVkpTMnNDeXhPcGRPTlhuUDZQWjljLUMzLUR0VFJ1UDZoSkdmOG95anJueVZ2WmNidHh1VXNRNHc5Z3BGOFpRRUFiOWVpc2FKVVF4MF9VTFB4M0ZMVXo5R1hudHo1bFRJ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

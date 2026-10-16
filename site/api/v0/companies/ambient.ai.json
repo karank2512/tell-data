@@ -1,13 +1,13 @@
 {
   "domain": "ambient.ai",
   "name": "Ambient.ai",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Mistlabs Launches Ambi, an Ambient AI That Works in Real-Time Across Your Mac and iPhone - nerdbot",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVQ4cjNhcVJQaE9UazVHQkc0OXBWNVctVEdodW9YeURsa2lLSjBCNGFmVUtBQlhDOWc1bF9GdHF2a2tsZVp0T1RJZFdWTDM4V2dpOERsbjJuQ0RKNVlxYXNUUHItUERTajZ5WVFnaWRPUTRUTlVoa1VWOGhXMlZyNmgycjBWNlZMa25PX3ZNOE94TDNpM04yejlJVlBnSEVRYUthNXdEbEs1TVNtNG8xaWJsLWx5QzB0LTRB?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

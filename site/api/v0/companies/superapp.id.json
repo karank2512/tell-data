@@ -1,13 +1,13 @@
 {
   "domain": "superapp.id",
   "name": "Super",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-12",
       "summary": "Pro-Phil Scott super PAC launches ad blitz targeting Amanda Janoo - Vermont Public",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0NzY1llVnc2N3ZaUUoxSDl0SjBVNUZIWU1pZnpCLXN1RWhQS2txZ2stQVVOS2Z6VUx3YzVHMkU2aWRfNmRNOUxULTdqQlVlU2M0S01qQURBZzRoUzZDbnEwQWhvcnVjLXlZUmJudXNhSjB6bkFIcHBEX3lqaERBT1RlWTdMYjlTd1FuNWNzUGd4cFRXQ0JxYUJ3UklQZUdLX0dEQi0wVTIxU05UTHR1eS0xSmhYaC1L?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }

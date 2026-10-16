@@ -1,9 +1,9 @@
 {
   "domain": "unify.ai",
   "name": "Unify",
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "profile": "default",
-  "score": 13.3,
+  "score": 13.1,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "HYTE Launches Nexus App to Unify PC Monitoring, RGB Control, and More - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXJ1SDZSamlyQUgwYnI3a2VwVDNXUzNfWUszLTV3bnJ2amVMRE51dU8wTEpTTXg3NC1ZaHpjWnhjS003OG03U0RlVFRudUdZTWhjVllBaVJJXzZ3VUp1cGhTcHRTcVptQ2psZ0g1RUNZNWQtQ0VlaTU5Q3V4TFJSLWwyUGFUeG1CeXdVSFFiblg3alNOaUlka0hHNWtNOFNLalNfQ9IBqgFBVV95cUxNSm1tZ05xbTVkbG5wX1I4VkM0d3lzZ29kSTRYYUMxMXZXQlZNeFVkSTFXVjhpU2lTS2lkaHpWS1RGSUNsRDh2NVRpZGtMeW5uUTdmaWpLbEs3cmVkWThRNWdpYkV3aDJNSHFEUFFQUnlJaEZqNk1YOVdGaUdtY1RJbmtmekRBZWNSYTBuWDBOczJaVHQ0clZWOFVpVFpxdUdmRlQ1am80YmZVUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "Toast launches Toast Fuel to unify convenience-store and fuel operations - CSP Daily News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXRiOWlNS1ZpaE5hQlJJT2QtNjVYSURkcXBnTWJ0bmpJRWNTcTEybW9oc0FYM0NXc2pZYm94dHZmTmZNMHluMENmQUQ2d2xkZTMyVnBoUzV1YlBYT1VVdFFtaFpGRnFEUzRyUkg3UXA0ZTZNYkVGVkNCZHQ5alFhMjhqMzhRRFhWMFZiNEVoVkhsdVF0b0xqZVZkdVE5ZUgxTmVpbWd2MXBvX1FIRFNIQ1R6SQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1e5ad28dd6ea9fab2f2524389bdd8d4c26c6eac1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/c3267ece43116c2f3dba18a4d7d9f7525b03a5c5",
   "why_not_higher": []
 }
