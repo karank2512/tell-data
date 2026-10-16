@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:53:01.389441+00:00",
+  "generated_at": "2026-10-16T22:09:47.376588+00:00",
   "stale_sources": [],
   "freshness_p95_h": 6181.8,
   "sources": [
@@ -17,8 +17,8 @@
     {
       "source": "edgar",
       "kind": "collector",
-      "last_ok_at": "2026-10-16T20:26:01.247977+00:00",
-      "success_rate_7d": 0.9375,
+      "last_ok_at": "2026-10-16T22:01:06.349874+00:00",
+      "success_rate_7d": 0.9412,
       "fetched_24h": 553,
       "inserted_24h": 316,
       "freshness_p95_h": 26.6,
@@ -83,7 +83,7 @@
     {
       "source": "resolve",
       "kind": "job",
-      "last_ok_at": "2026-10-16T20:52:19.825889+00:00",
+      "last_ok_at": "2026-10-16T22:09:09.300946+00:00",
       "success_rate_7d": 1.0,
       "fetched_24h": 308,
       "inserted_24h": 1,
@@ -94,9 +94,9 @@
     {
       "source": "score",
       "kind": "job",
-      "last_ok_at": "2026-10-16T20:52:55.852241+00:00",
+      "last_ok_at": "2026-10-16T22:09:42.849347+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 3359,
+      "fetched_24h": 4103,
       "inserted_24h": 616,
       "freshness_p95_h": null,
       "stale": false,
@@ -105,14 +105,14 @@
     {
       "source": "publish",
       "kind": "job",
-      "last_ok_at": "2026-10-16T20:53:01.318772+00:00",
+      "last_ok_at": "2026-10-16T22:09:47.312814+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 6220,
-      "inserted_24h": 6220,
+      "fetched_24h": 6945,
+      "inserted_24h": 6945,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
     }
   ],
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8"
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/753cbf3c5aa40e01a94e5a2c5d8954a0b61f51ab"
 }
