@@ -1,0 +1,39 @@
+{
+  "domain": "cypherhq.io",
+  "name": "Cypher",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "County Releases Robbins/Cypher Complaint - Leelanau Ticker",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUF6djNXcDZQYWtzM1NxTS12NXVoWVdMeDRDUHhrZDNHRGVSNlFDNzZmQmExQnFPZXI5RXkwRkVGZU5qcG1IWU96VHo2MHY3RmR6MHh3WnRjWHdrcjRHYWZCQ2dSeXk3VmdJV2EyYjlwZTNxR1RPVkVPc0d6ZjlmcU13?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "WATCH IT Releases Action-Thriller Series Cypher - Egypt Today",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMzQtZ3NKaEwwLUZrWGp4aUxjV2lSNXVZTXcxRmg0MXg1T3JRQV9ic3dZV21tTEhjczk2cGR4bHc1a0d1c1VQUjQtSTIxWkdnTkhFb2pkanlyVnB4MGZUOHZkcHdaTVVkWEc3RkxOd2piQS1obmZWVm1IYWRYcFNlQjN3aXpWb0JSRWYzTkhqbjhVMUhvWlE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-05-27",
+      "summary": "Introducing Cypher Chat Agent: Manage & Spend Your Crypto by Texting",
+      "url": "https://cypherhq.io/blog/chat-agent/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

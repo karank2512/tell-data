@@ -3,7 +3,7 @@
  "identifier": "curri",
  "domain": "curri.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-16T08:50:35.899773+00:00",
+ "last_polled_at": "2026-10-16T15:45:56.958650+00:00",
  "open_postings": [
   {
    "external_id": "1095c9a3-00b8-4269-9620-2925db7323d1",
@@ -188,6 +188,14 @@
    "location": "Chicago, IL",
    "posted_at": "2026-09-01T16:27:48.772000+00:00",
    "url": "https://jobs.ashbyhq.com/curri/ea8932e5-afc4-450c-a7bd-53dfde1d74a8"
+  },
+  {
+   "external_id": "f47d2744-2a9a-4fe5-8d2d-66d33382a86e",
+   "title": "Outside Sales Representative (New England)",
+   "role_family": "other",
+   "location": "Burlington, VT",
+   "posted_at": "2026-10-16T15:34:57.579000+00:00",
+   "url": "https://jobs.ashbyhq.com/curri/f47d2744-2a9a-4fe5-8d2d-66d33382a86e"
   }
  ]
 }

@@ -3,7 +3,7 @@
  "identifier": "prolific",
  "domain": "prolific.com",
  "as_of": "2026-10-16",
- "last_polled_at": "2026-10-16T08:50:36.912099+00:00",
+ "last_polled_at": "2026-10-16T15:45:56.493882+00:00",
  "open_postings": [
   {
    "external_id": "4494873101",
@@ -252,6 +252,22 @@
    "location": "Remote, UK",
    "posted_at": "2026-10-07T15:43:19+00:00",
    "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/4999953101"
+  },
+  {
+   "external_id": "5008753101",
+   "title": "Research Consultant",
+   "role_family": "other",
+   "location": "Remote, US",
+   "posted_at": "2026-10-16T13:49:05+00:00",
+   "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5008753101"
+  },
+  {
+   "external_id": "5008755101",
+   "title": "Research Consultant",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-16T13:49:07+00:00",
+   "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5008755101"
   }
  ]
 }

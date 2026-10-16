@@ -1,0 +1,25 @@
+{
+  "domain": "hydra.so",
+  "name": "Hydra",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-10",
+      "summary": "NYCC: Marvel Launches Immortal Soldiers With A Dead Hydra Nick Fury? - Bleeding Cool News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ2R4YkFNR2ZBb2dXYlhEd1R6UjZaWjd2dWYzYmZhWHdIXzI5RTVzMTlzTnFOQmFlZnQzdDFXNmFrdnVPdnpvRWJNenJkeVJ3bWZCS1VqV3BHSU5Rb3c1RGxaQnBGaU5JNkZFU3ZKNmpmYXJvR2lGM0ttdkdOck1jYWxjY21yTm5TZUg0VzZmd202U3lSWTBMWjA4bnlKeWdW?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

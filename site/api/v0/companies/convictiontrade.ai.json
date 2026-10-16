@@ -1,0 +1,25 @@
+{
+  "domain": "convictiontrade.ai",
+  "name": "Conviction",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "University of Toledo Law launches post-conviction relief clinic for students - National Jurist",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3FscG94RzdHNFNFZVMxaE9BN0dMclZMbG9LSTkxYktpSXF1dXdVOURGSWVjMjZUdzd4S2M0VVZ0YjA4U21pME5LN2h5X09FR2VJVVd6MS1fNEJNQW5Ib3JkRkdDQzFmWmVXUFN1dG9sazdrMk1KNHVOZTgyRGJra3hlQk9CYm14R1NRRDZWdmJMSUVaRm5sTXRDRkw0anZ5bEZtYUlNcw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

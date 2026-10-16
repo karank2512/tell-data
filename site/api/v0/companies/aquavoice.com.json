@@ -1,0 +1,32 @@
+{
+  "domain": "aquavoice.com",
+  "name": "Aqua Voice",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 0.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-27",
+      "summary": "Introducing Send It",
+      "url": "https://aquavoice.com/blog/introducing-send-it"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-20",
+      "summary": "Introducing Edit Mode",
+      "url": "https://aquavoice.com/blog/introducing-edit-mode"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

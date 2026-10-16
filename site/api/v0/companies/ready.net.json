@@ -1,0 +1,25 @@
+{
+  "domain": "ready.net",
+  "name": "Ready",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Nokia launches flexible 50G/25G/10GPON solution to accelerate AI-ready fiber broadband - Nokia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEM3X01pZlFNc3RjTC1DWm5QWU9aTnZGb2VyYnVuRXUwaTBkSHh0aE15UnFhaDBSTXZBN1ZWejFsOFdLdW5uaHdyQ21KaWFxN25QOFZSWUNLSHdDdmNwX1hmdXFWMFJ6cWxXalliZ2ZpLUFLbFlkZTFERU1YUDQtWHU2d1l6cW5fQnpiOEJ1ZXZGNDNfT3VjX2pjMzRQamhmWUlBZzEzNGFEaHV1TmtqdFdvU2hvT1U?oc=5"
+    }
+  ],
+  "open_postings": 7,
+  "long_open_roles": 3,
+  "sources": {
+    "ats": "ashby:ready",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

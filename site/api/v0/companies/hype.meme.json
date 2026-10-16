@@ -1,0 +1,32 @@
+{
+  "domain": "hype.meme",
+  "name": "Hype",
+  "as_of": "2026-10-16",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "'11 as One': Ohio State releases hype video for Indiana game - WKYC",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFR2WEt4ZXUxVGlubUw2RUtFWVlRZ1N1TzM2NFdBZFhIMk5xbWh3a1FQZWRsa1JkQkdpcFlmZ2xsV0xQTW13Ni1yYXFrbDBqQnBfTmRYMUZONlpra1Fia0NyQTFHbmlKU2ZJTmZNcmtEZS1fdHhKMlVsZl9rYWJPZ2NjSi1sSGVxT1BmdmtrcVNKTGJrZkdnUXlPbWxCZUxmaFhxNDdjUHZQYUJ3TVpnQzMyTENaN3FtTTRBN19tcTI2X0E4c0ww?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "The best video game releases of fall 2026 — and what's worth the hype - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kTUoxUVN5Y2ZsNFc0VGhfdzhPZjk0bmZMR2JkNmhEWFVTOFY3dzJwQ1p6ekMxZVdYRE96ZnRhWEx5WTE2blhleGxtd3pRMXYyODdha0FNbUxRR0s4aHc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3f281269a822e3efd791f5461f69dc93e33a59d8",
+  "why_not_higher": []
+}

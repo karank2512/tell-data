@@ -3,8 +3,33 @@
   "name": "Stripe",
   "as_of": "2026-10-16",
   "profile": "default",
-  "score": 8.8,
+  "score": 11.7,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-16",
+      "summary": "3 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/stripe",
+      "postings": [
+        {
+          "title": "IT Support Engineer",
+          "posted_at": "2026-10-14",
+          "url": "https://stripe.com/jobs/search?gh_jid=8265151"
+        },
+        {
+          "title": "Engineering Manager, Self Serve Direct Onboarding",
+          "posted_at": "2026-10-15",
+          "url": "https://stripe.com/jobs/search?gh_jid=8238489"
+        },
+        {
+          "title": "Team Lead, Managed Support",
+          "posted_at": "2026-10-16",
+          "url": "https://stripe.com/jobs/search?gh_jid=8288538"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "sales",
@@ -32,7 +57,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Payoneer (PAYO) Launches Stripe-Powered Checkout in Singapore - TradingView",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXlWM0YyaXZEQm0zRmtUTGE1QUV4M09LZUwzSnhYWTQtWno3SkdsVFJXMUpEeGJKR3k5YVBrZHVuclJRUlY1Rk5oUkxQT0NhYS1Yc1QyZVEyaGEtZWpDS0pXWTJtaWUwaGY5eUU2VG5iUkoyX0M1N19ySU85YWxMc1MyUUZwdWZieHc2U3lBMDRIUThrSkU5Y0xKRDlpRnk3TVhGWS01TVFzS3FVVEFwMG96ZDlKQ1hrZGxWNDJR?oc=5"
@@ -102,7 +127,7 @@
       ]
     }
   ],
-  "open_postings": 747,
+  "open_postings": 755,
   "long_open_roles": 193,
   "sources": {
     "ats": "greenhouse:stripe",
