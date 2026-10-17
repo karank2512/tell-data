@@ -3,7 +3,7 @@
   "name": "Orca",
   "as_of": "2026-10-17",
   "profile": "default",
-  "score": 14.3,
+  "score": 15.8,
   "contributions": [
     {
       "type": "launch",
@@ -35,10 +35,17 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "ORCA Computing launches PT-3, the first quantum computer built for commercial quantum advantage - Lohud",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSzhuN3drNmVabWY0RThNaEViLUpISEV5QjJPLWNtaWNxb0swSC1PTnpKZnVhWG83Y0djUlRhUmtaZUhHejZ4UDBxb2tkcHFFRkFCRWFucUlna2VVV3pta0JaZmZITkg1ZzVqY0d2Nnd6WHpGMEcxQm9RdGN4VWZPR296b0pXRlJzLUFlc3FKLXEwMm01SDVJRklMa1pyNWg1bUZXX0ZSOEtuUHRxZ2k1S3RkaGN0N3BHaGxrT3kzYWNlV1VEV1RweF9JUjAta1RqaXdoOFNPVlBXclFC?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "ORCA Computing launches PT-3, the first quantum computer built for commercial quantum advantage - Kitsap Sun",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVGhNakdzcjFPMHNNTjFJMlY3VVdieGtaTlBzWjc4cWE4SXU0NUQtdERXZ0hzSXAxSjNCYVpUTXhxS0RmMzFpOW9UYTNVbnpGT1hYWlhHMHlrWTg1Ym9JUUxUcmRkYU1qc1dWMGhQUy04QVRkaUN4bHp5ZnItZVdKTTFzZEFOdHZ0ZEZOMzNSdHA0WHotVmNGaTFHSUFOdWNIZXF4X1dia1Q5RzdXWGNDWDdDeTNnZ3IwaEhtdzUyMWdMOHB1RlJ5UEw3VW5zTFJNZUxITDdnZXZlR1RUX1dibDZB?oc=5"
     },
     {
       "type": "launch",

@@ -3,7 +3,7 @@
  "identifier": "emburse",
  "domain": "emburse.com",
  "as_of": "2026-10-17",
- "last_polled_at": "2026-10-17T08:49:11.489424+00:00",
+ "last_polled_at": "2026-10-17T15:44:27.790233+00:00",
  "open_postings": [
   {
    "external_id": "0a63caec-f95f-45f6-afba-98b8a37d98b7",
@@ -156,6 +156,14 @@
    "location": "Addison, TX",
    "posted_at": "2026-08-21T20:42:40.063000+00:00",
    "url": "https://jobs.lever.co/emburse/b8f93f27-361f-481c-89d6-edb937289a55"
+  },
+  {
+   "external_id": "c2d03e31-7a5c-443d-8c78-83c20668b8eb",
+   "title": "Product Manager (Travel)",
+   "role_family": "product_design",
+   "location": "Toronto, ON",
+   "posted_at": "2026-10-17T15:06:04.805000+00:00",
+   "url": "https://jobs.lever.co/emburse/c2d03e31-7a5c-443d-8c78-83c20668b8eb"
   },
   {
    "external_id": "c3a3a43e-b2b0-4db0-b7af-fa82b1ecdfa3",

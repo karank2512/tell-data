@@ -3,8 +3,22 @@
   "name": "Parameter",
   "as_of": "2026-10-17",
   "profile": "default",
-  "score": 33.3,
+  "score": 37.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-17",
+      "summary": "Black Forest Labs releases FLUX 3 Image Klein, a 5.6B parameter open weights model - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZE0tTXVtQ0xYSl9mVnQ0N1JQYW10M2ZxOXR6YzkzaHVseE1mQlNfdEUzajZXUnFfbllINldxam1pUXFIbS1pYUwtcjh3TnEyTzJ4Y2NkaTFaS3pyQ0I3VWhiTTJ6YlBQUzU5SVQ0QVcySGZlbTNPR29teFZUSmdDR045R0RKUk1VTlVrTFBKNERtX1JpSnM5WkhwSDV5OXBLS2hYV3dwYzA1LUFSM3RR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight AI Model Built to Run on Macs - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUh1NldjcmR2b2ZQeWd2VDdEalNuMkJvQ1FxS1ZVUTBRRUFDODBvR1dUeVB2Nzg1YVh1NnkybTNJb3J5dWVfd1JFM3BhanJlaTJnelRmUDFtQ3JPRVpabzh1el9wSVJhM1lzVTI1Tk92LXZoTVNUTkNuVW1EYmg1ZnFSNy1GQWVEQUVZNkVQUzZwRjBlbUpvM2ppbGp4NWZybjhoTENTZTNQUHJzY1BfMElFaDFvSXUwT1lpQUNDTEt6U1dMYkE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -123,6 +137,13 @@
       "occurred_at": "2026-10-15",
       "summary": "Meta Releases Muse Spark Open, an Over 800 Billion Parameter Model That Can Run Locally on Multiple M5 Ultra Mac Studios - MacStories",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0tEMTYyTDJpUE55R1pfRTVUbmpWQjJwQXJqc0lFRXhqTm9ZWTZ5VkNQTmMxVlVxYmdWVS1nLWk2Wl9TSGlHVWVESFk2dktueHdiWS15OG9IbW1DRzVGeE9HVGRtQWVoRGJqSElhM3FQV2lnT3F5RjAwUnN0dElQaUtQaGV6aFVCOVpjUDVEd0hMVXJueEowZE1VNFJPclRVc29DdU83TmFPeVdGc1ZSVXl1SHBMdzEwUVBFa3lsSVdwQmhtNzRpQnNKeXcxNHc0TE9rYTdxVF8wN1BmVXA3WUY0emtXV3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Microsoft AI unveils 2.8 trillion-parameter model, claims efficiency gains - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdm0yRzBveUpxUEdFZUJ0UWZfbTczQ2w5UEFfaWVCWGZQX0ZCTTJmNGVWWklXUlhOb0xKb2djSm5fRDRlRFYyaktvZWxyMjlBM21Qd3hvRzBFNlduclAtYjdTNFBDdWZvT1NjZGphNjhXWFFvd3ZhQUpqWVF5dms4RWpLMjdWVGxGYnQxSHZjc0dCd2haVjRLTXVpY2RGWnNvX3VHVno2SHg5TXFERHBmanU1TWJFd2k3a1kwaVNsUnN5WlBwMTRB?oc=5"
     },
     {
       "type": "launch",

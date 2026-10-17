@@ -1,0 +1,32 @@
+{
+  "domain": "broccoli.com",
+  "name": "Broccoli AI",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.1,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.2,
+      "occurred_at": "2026-10-02",
+      "summary": "Introducing Voice Studio: a voice your community already knows",
+      "url": "https://www.broccoli.com/blog/voice-studio"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-09-18",
+      "summary": "Broccoli Introduces New Expressive Voices",
+      "url": "https://www.broccoli.com/blog/expressive-voices"
+    }
+  ],
+  "open_postings": 34,
+  "long_open_roles": 14,
+  "sources": {
+    "ats": "ashby:broccoli",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

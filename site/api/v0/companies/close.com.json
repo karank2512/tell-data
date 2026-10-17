@@ -3,8 +3,15 @@
   "name": "Close",
   "as_of": "2026-10-17",
   "profile": "default",
-  "score": 0.2,
+  "score": 1.2,
   "contributions": [
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-16",
+      "summary": "While other groceries close, Seattle’s Uwajimaya expands to Issaquah, Tacoma - KUOW",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN1Fpa3FVZjhsNDVyeTdZcTUtMmdydm5ualRPcHpDQkYyVWhockttQy1vcnJOcmoyalMxSTFYa1didEFNblkwcHF3bHNSZ0xhZjNfVzdENUVfbEZIdlVVRDROcTlnc3o4ai1Qdl9sb0hwck9wdWRBRldHRnhNQjRmSXF2SlFsMUQ4YnJLb0RaX0daakx6UmptY0F0SWZmTVJNSmJHRlNaNFo1bVVLckxLX0J1Mk5iT3MwdlM3Ny1n?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 0.2,

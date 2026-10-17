@@ -1,0 +1,32 @@
+{
+  "domain": "depot.dev",
+  "name": "Depot",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.1,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Florida mistakenly releases, recovers 2 people from Deportation Depot immigrant detention center - Sun Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWU1DcWpPOGNBalpNeXIyTVE5UXYxenFyRTVDeDRTVk02R0VvOHBNcXdJelhRODMwSWVMbEhLM0RpbmJEZm9McnVSZEhjQ0hPNzhibjJqZHV0R2pVZWlLc3JlUXZTeUtWY29wXy01aUpnbC1sVEFHOHBHVGVCQlRyb3hyUVZ1S3ZyWkdsLXlqTEdlc2NrQzF4YnZEQkFiUlVxY0ZCYnFBSnRIMDJvNzZkTE9QR0liZHlxcmVzTk1JeDFhQWlvR2ppSGp5WEJPX2tySlE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-26",
+      "summary": "Introducing the Fibonacci Benchmark™ for CI runners",
+      "url": "https://depot.dev/blog/the-fibonacci-benchmark"
+    }
+  ],
+  "open_postings": 1,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "ashby:depot",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

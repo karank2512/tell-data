@@ -1,0 +1,25 @@
+{
+  "domain": "statusai.com",
+  "name": "Status",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Kings Island president releases statement on coaster tragedy, ride status - WCPO 9 Cincinnati",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlJEa3pxRUtGaU4xZzI2Ynhld0NmV05MdjlEY2tHaTREbmF1eXBFNk9hLXNFOEdYZjhZX213SjROb1VnSnloX2dRbGp5cFJrcWs4b3FrdV92dG5QNTM5a3dlbkNabzd4NVp2eEZsaV9FV0VzYmdrbk5POHhSaDBnVnp3RWFtVjJ0ZmtLWmcwQm9iX3JEb2JkNGFkRXpRUkJaNGZ5RjBELUNtZWdua19SQzZtSmFfbTdYbHA0X2xXeUUtRFNHenlFMGp3?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

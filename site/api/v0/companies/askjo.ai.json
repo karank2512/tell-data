@@ -1,0 +1,25 @@
+{
+  "domain": "askjo.ai",
+  "name": "jo",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.9,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-15",
+      "summary": "USDA Appoints [person] as Administrator of Rural Business Cooperative Services",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNm9Lbk5Wck5lVkl1VVE4TTREZjN5YkJQTFpSdFNPcGJuUFJ4dzNKSDl0NWZOSEJjVXZrbU1qTm9DLTh6MWhJTnhhSUNlWjJTazNRYWpvWGVWLTF5SnptTmpLbnZ0S0JrcHlacl83QnVPSWJpT0JyLUJkYktUaElrQzBOQTE2alJfU0RxVDQxTGw2b3IwM0w4X0FyMWM4WUVDZlRubGRPN2l4Z3VUeFByWU9JM2lzd285Z1k4Tlh4bDRyNXMwMjFwWFFrMWNzUVk?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

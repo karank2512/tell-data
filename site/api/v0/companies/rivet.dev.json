@@ -1,0 +1,144 @@
+{
+  "domain": "rivet.dev",
+  "name": "Rivet",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 12.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Xiaomi launches premium Mijia Metal Suitcase with rivet-free design and silent wheels - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVV6a3BHak5iZmprazdYVU95Uy1BSkoxS2pRLTZuOVBnWDlSRWJBelBxQ04wLXZhb3pYcDJ2S25VWFR3MlA1QTNsRWpaX1FsMEQ2ZVRDd09IeUNFWHBka3RVZF96TlBxeFp1aE42OEktNUQ5QzczUTBoVm8wdVJOS2VvcFhvOC00SUlNVG5qa0g?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Introducing agentOS 0.4 & Hosted VMs",
+      "url": "https://rivet.dev/changelog/2026-10-12-introducing-agentos-0-4-and-hosted-vms/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-07",
+      "summary": "Introducing Pi Durable for Rivet",
+      "url": "https://rivet.dev/changelog/2026-10-07-introducing-pi-durable-for-rivet/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
+      "occurred_at": "2026-10-01",
+      "summary": "Introducing Pi 1.0 for Rivet",
+      "url": "https://rivet.dev/changelog/2026-10-01-introducing-pi-1-0-for-rivet/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-09-24",
+      "summary": "Introducing JWT Authentication for Rivet Actors",
+      "url": "https://rivet.dev/changelog/2026-09-29-introducing-jwt-authentication-for-rivet-actors/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-09-23",
+      "summary": "Introducing OpenTelemetry for Rivet Actors and Workflows",
+      "url": "https://rivet.dev/changelog/2026-09-23-introducing-opentelemetry-for-rivet-actors-and-workflows/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-09-15",
+      "summary": "Introducing Rivet BYOC",
+      "url": "https://rivet.dev/changelog/2026-09-15-introducing-rivet-byoc/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-10",
+      "summary": "Introducing Rivet MCP",
+      "url": "https://rivet.dev/changelog/2026-09-10-introducing-rivet-mcp/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-31",
+      "summary": "Introducing Dynamic Apps: Deploy AI-Generated Apps for Your Users",
+      "url": "https://rivet.dev/changelog/2026-08-31-introducing-dynamic-apps/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-28",
+      "summary": "Introducing agentOS Execution API for JavaScript and Python",
+      "url": "https://rivet.dev/changelog/2026-07-28-introducing-agentos-execution-api-for-javascript-and-python/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-20",
+      "summary": "Introducing Durable Cron Jobs for Rivet Actors",
+      "url": "https://rivet.dev/changelog/2026-07-20-introducing-cron-jobs-for-rivet-actors/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-06",
+      "summary": "Introducing the agentOS Package Registry",
+      "url": "https://rivet.dev/changelog/2026-07-06-introducing-the-agentos-package-registry/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-06-25",
+      "summary": "Introducing agentOS v0.2",
+      "url": "https://rivet.dev/changelog/2026-06-25-introducing-agentos-v0-2/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-17",
+      "summary": "Introducing Rivet Compute",
+      "url": "https://rivet.dev/changelog/2026-06-17-introducing-rivet-compute/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-17",
+      "summary": "Introducing the Rust SDK for Rivet Actors",
+      "url": "https://rivet.dev/changelog/2026-06-17-introducing-the-rust-sdk/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-16",
+      "summary": "Introducing the Effect SDK for Rivet Actors",
+      "url": "https://rivet.dev/changelog/2026-06-16-introducing-the-effect-sdk/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-15",
+      "summary": "Introducing Rivet 2.3",
+      "url": "https://rivet.dev/changelog/2026-06-15-introducing-rivet-2-3/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-01",
+      "url": "https://rivet.dev/changelog/2026-04-04-introducing-agentos/",
+      "summary": "Introducing agentOS"
+    }
+  ]
+}

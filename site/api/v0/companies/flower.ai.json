@@ -1,0 +1,32 @@
+{
+  "domain": "flower.ai",
+  "name": "Flower",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Mom-daughter team debuts 24-hour flower vending machine - Retail Customer Experience",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVFRZQXN4MnVFalYxeWN4X1U3Q2Q3c1RtWlI4aTlKb0NJZGRqbzlrVHJpUkMwa1VVLW5pTEduMVZ0OXR1eVdmOW9pQ2w5a25DSzZJbEI5M3VDSzRCcHB1X2hIQ1lpR19YOVhfS3I2TFlBbDJDQkpsQmY2Z2FEdXRCX0RvSFg4ZllKWVFWUld3MkM0VUdVYWJSYUUyTXdTVE1RbVNRTg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Philadelphia Flower Show unveils 2027 theme - Axios",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQODRxNjRaUFNtRU5LTFpwVXMxNTc5NXZKMFY4bGwtNl9ta0NYRFBXMjRxSVF3RU1WVkNzZmpQYVpOSmF2d2pfd3dWRXVINEpqQURzUDRrdEMxREtVRkgxREw5Y3pHb2hockNtN2FhMk1MVllPSkdZMlFRWHdzakUxSVZGZDZZSTBndGF1aw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

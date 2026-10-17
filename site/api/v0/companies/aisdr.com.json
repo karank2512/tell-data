@@ -1,0 +1,25 @@
+{
+  "domain": "aisdr.com",
+  "name": "AiSDR",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 0.3,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-02",
+      "summary": "[AI SDRs in Action] How customer-owned domains slow email launches by up to 7 months",
+      "url": "https://aisdr.com/blog/cold-email-domain-setup/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

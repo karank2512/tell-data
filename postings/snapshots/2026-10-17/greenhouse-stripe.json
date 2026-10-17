@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-17",
- "last_polled_at": "2026-10-17T08:49:11.024796+00:00",
+ "last_polled_at": "2026-10-17T15:44:27.377925+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -4518,6 +4518,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8203649"
   },
   {
+   "external_id": "8203653",
+   "title": "Operations Program Manager",
+   "role_family": "other",
+   "location": "Bengaluru",
+   "posted_at": "2026-09-18T06:08:55+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8203653"
+  },
+  {
    "external_id": "8203966",
    "title": "Integration Engineer",
    "role_family": "other",
@@ -5895,7 +5903,7 @@
   },
   {
    "external_id": "8271659",
-   "title": "Account Executive, Startups DACH",
+   "title": "Account Executive, Funded Startups DACH",
    "role_family": "sales",
    "location": "Berlin",
    "posted_at": "2026-10-16T16:54:28+00:00",

@@ -1,0 +1,32 @@
+{
+  "domain": "sid.ai",
+  "name": "SID",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 3.9,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-16",
+      "summary": "SID appoints [person] as chair amidst leadership shift",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2daVlJydDM5RUFnU08xNUlpYjJwR3J1RTAyVmIzQ3NaY1FQR3VQVkRpVHdkQzc5OEtBeHNOSTJNWFltTGp4LW9ZZzNZZElyT25tajNucTF4NERLVXYwYlpnSF84MXFTQkFOVzU4ZThpWE5IdDF3cW9ybVVjd1ZuWDhPaGN1TXdkbkRUV1pmOFg?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Sid Lee Appoints [person] as Executive Vice President of US Growth and [person] — LBB",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTR6YXhXU1Y3cWFJX3RzVjlMWUdVNEI0YkVyVjUzYjJlZ1hlUVJLSXNVSklHUjhUalZUbGlTZlJzR3NfNXNDZmVLdjNtSXRxTUQ2RUZWLVVlaUwtVk9QWHp4dzFsbmNiTXFQWUYwY21ORGk4UFBJb0tJX09aZzBVOG5qUF9qZzZfWG5XbEZUM1ZfVXdVRTBhNGFncGVqenJjZHBpUlRyZHpMRDV6ZmNJ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}
