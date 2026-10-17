@@ -1,10 +1,17 @@
 {
   "domain": "oklo.com",
   "name": "Oklo",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Oklo unveils plans for isotope production facility under DOE’s Launch Pad program - ExchangeMonitor",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmxHclVHeU04VTRXN2R4QUo4WGtOckU2d294Rko5aXJOd1g1UGFkUlp3SGx3b2tEMHQ1b2x0Mm5NV1ZnUTduWkVERUx4d3dCdTItckM0dU1uNWRfdUFrTFBJb1F6dzNScnFNRkFUbFp4ZUxUZFdMcS16N3RYaXFFQ2JGa3h2aEJEdks0Z1ltRHZDQlMzLU5kdS1xck9GSEcweXliMGtUdFFqeTlEZDJRRTQ3Y2F1dw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -13,8 +20,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGxBMkRHX3lMbmtDbzdYSXNfVzFjamFkeXhndGRrZ2JhaDBFbUpJXzRFSVdldVFCaVlpanFpcnAyRlFlQjZ6T0paWkFtMG5UdnJVb1drOHNLcUhBRVNOVlZMd205NHk0Mi1wRnRhUWdNUnZrbXluaFFBQzNpby1CUDZVOHp0MXpFY3plWVcwQ1hmZVBRakRHLVNQc1g2bzVhMmVweHl5S3l5d0lmTmdZVmtXQQ?oc=5"
     }
   ],
-  "open_postings": 75,
-  "long_open_roles": 19,
+  "open_postings": 76,
+  "long_open_roles": 21,
   "sources": {
     "ats": "greenhouse:oklo",
     "edgar_cik": null,

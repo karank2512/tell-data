@@ -1,0 +1,32 @@
+{
+  "domain": "signadot.com",
+  "name": "Signadot",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 0.1,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-08",
+      "summary": "Introducing the signadot-validate Skill: Close the Loop for Coding Agents Building Microservices",
+      "url": "https://www.signadot.com/blog/introducing-signadot-validate-skill/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-09-19",
+      "url": "https://www.signadot.com/blog/introducing-plans-microservices-validation-superpowers-for-coding-agents/",
+      "summary": "Introducing Plans: Microservices Validation Superpowers for Coding Agents"
+    }
+  ]
+}

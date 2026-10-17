@@ -1,0 +1,32 @@
+{
+  "domain": "haikuforteams.com",
+  "name": "Haiku",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Claude Haiku 5.5 Launches at 90% Cheaper Than 4.5 [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUlBOaHQ0bktROXRNaXZOM3l6V1YwLTh6YUV2UGk2S0NmclAwaFp0b3U1enY4cEg5ZVJHWm04TE5wX1prcGFjdDQ4R3BIM3ZBZkxSb2RpaERwWTV1NWJHUTdqUXRTeG93OG5lamtEcw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-11",
+      "summary": "Anthropic launches fast and free Claude Haiku 5.5 - Računalniške novice",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ21ZRWd6ZFZQTEU1MFBzTjBURlp3VUwzY1BFYVBjT2pYd0NjSkE3WUozUUJWUWRhb04zNFRoZTlwSFo4MHFValplSG10SmZFLU1xMk5jd2VnLXZzYVF3Qm9JRDlSZ2QwS1YzdDk0aDdnMDhKSkY4ejZra0RWRGZ4UjUxOHlSRFZZdk5IVFBzMW44UlBDZnc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

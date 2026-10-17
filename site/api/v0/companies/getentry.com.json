@@ -1,0 +1,25 @@
+{
+  "domain": "getentry.com",
+  "name": "Entry",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.0,
+  "contributions": [
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-15",
+      "summary": "CBP Opens New Global Entry Enrollment Office at Detroit Metro Airport - Homeland Security Today",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMVlFeThidk8wdnpXLWRNQlI0dW5uazVwQ3F2c3I1RUJySU9NQkJMNThQeVlxRkZOS3MzR3BtNXNNcUh5bWhRbHJLdHc1WWdZaWZzQlVOSEhwYS1EU1d5Yy0tWmNjdTJBWnA5aWJVS3BVM2hhd2JLMElZdm9ITlVYVkd5YTF0YWVya29QRTM1bzJaOG85VlRtWjQzdnNiZmg2LTNhZm9lbnAxNzVYa2R6LTJ2eXFLTkZ4OXBMTVp6bGpHV3V5MWMyYTR3RUUxNUFBbXNvVFFpSQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

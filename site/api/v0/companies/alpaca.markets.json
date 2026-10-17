@@ -1,13 +1,13 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 31.7,
+  "score": 31.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.3,
+      "contribution": 14.2,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-09-23",
       "summary": "Upstox Launches US Equities Trading Through Partnership with Alpaca",
       "url": "https://alpaca.markets/blog/upstox-launches-us-equities-trading-through-partnership-with-alpaca/"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-10",
       "summary": "Rest Launches Digital Treasurer with Money Market Funds Access for UK Businesses, Powered by Alpaca",
       "url": "https://alpaca.markets/blog/rest-launches-digital-treasurer-with-money-market-funds-access-for-uk-businesses-powered-by-alpaca/"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-01",
       "summary": "Binance Launches US Options with Alpaca to Expand Multi-Asset Super App",
       "url": "https://alpaca.markets/blog/binance-launches-us-options-with-alpaca-to-expand-multi-asset-super-app/"

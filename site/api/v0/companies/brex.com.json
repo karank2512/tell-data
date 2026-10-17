@@ -1,0 +1,48 @@
+{
+  "domain": "brex.com",
+  "name": "Brex",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 3.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 3.9,
+      "occurred_at": "2026-10-17",
+      "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Director, Marketing Operations",
+          "posted_at": "2026-10-16",
+          "url": "https://www.brex.com/careers/8882037002?gh_jid=8882037002"
+        },
+        {
+          "title": "Director, Marketing Operations",
+          "posted_at": "2026-10-16",
+          "url": "https://www.brex.com/careers/8895333002?gh_jid=8895333002"
+        },
+        {
+          "title": "Director, Marketing Operations",
+          "posted_at": "2026-10-16",
+          "url": "https://www.brex.com/careers/8895340002?gh_jid=8895340002"
+        },
+        {
+          "title": "Director, Marketing Operations",
+          "posted_at": "2026-10-16",
+          "url": "https://www.brex.com/careers/8895350002?gh_jid=8895350002"
+        }
+      ]
+    }
+  ],
+  "open_postings": 265,
+  "long_open_roles": 105,
+  "sources": {
+    "ats": "greenhouse:brex",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

@@ -1,0 +1,25 @@
+{
+  "domain": "ablejobs.co",
+  "name": "Able",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Tesla unveils car Elon Musk says will be able to fly - KHOU",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWZkR0l2WlctWHhNNEE4Vk4xV1RXS1ZMVWg1QjZ5dnlaUFE3MExOXy02QTFiUVhvWDRLbWdMNF9mYVMxMlZTYlBIWWdPV1pFMjZwUmVfRHczdHVBX1BmRmdIUDZMc3J2OGJlT0JlbXladV92NVRLV3ZkNnY0eFpMNHQtVEhJNjdvd3pRNkdFOS00dTdRUGFwLU1HYnctRTBkLVFsWkpYWlpvUXhZMHQ1N211eWZtR3hsb3lUYmFrZUw2bVk?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

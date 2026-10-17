@@ -1,10 +1,17 @@
 {
   "domain": "thinkbright.mx",
   "name": "Bright",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Drake University unveils statue honoring football star Johnny Bright - KCCI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRllrVlJVOFd6NHFacmc3SUNCcElyTERvRTcwR3VqQlJtTDMtdVRTR1VwaVp4S3JfczU3ZHVTdmozNG9BeXFxa29BRGZFVld0V2tmM2x6cFJES3B2cDY3NmRYd3FvcmJEdFdwNGhmVklPLXFEcDhQWGIxUnVrTUF3Nl81S0tVYnVLeGpGdnZIbTcxYUU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

@@ -1,7 +1,7 @@
 {
   "domain": "salt.security",
   "name": "Salt Security",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
   "score": 1.6,
   "contributions": [
@@ -20,7 +20,7 @@
       "url": "https://salt.security/blog/salt-debuts-first-aws-waf-managed-ruleset-for-ai-agent-and-api-protection"
     }
   ],
-  "open_postings": 13,
+  "open_postings": 14,
   "long_open_roles": 4,
   "sources": {
     "ats": "greenhouse:saltsecurity",

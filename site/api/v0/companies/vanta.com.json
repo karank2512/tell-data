@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 23.9,
+  "score": 23.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.1,
+      "contribution": 13.0,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -46,7 +46,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-09-30",
       "summary": "STARK Unveils Vanta 12 USV With 1,200-Nautical-Mile Range and 10 Kamikaze Drones - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3pzbFFxb3drZElSOTNoWXBTcUFOb081czduTE1JclJ2cWFfcldMLUN5VkhnVW9HaXRwVV9VbktERVU5OVByREdaOGk1VU5HbTN2RC1OdzB1b203TVhHTDZ2d1plMkkzQUFTQ254blM5OUFVZi1fT2hONUZ1R19tNmx5SFp2YlVNUU0wVERDdkdHMHNSLUpzUlN4S05KUkhKNTBqWExSd25jdU0wV19xS0tB?oc=5"
@@ -74,7 +74,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-02",
       "summary": "House of Makeba launches O'Vanta immersive dining concept in Ahmedabad - BW Hotelier",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0wzV3h1c09qb0NCd0lSR0RaZXdoYWJXbXpxWFJYT0hXOG5Vb0d6V3lTd1I1dlJFUHRaNVpEcHNkZU1VM3pCellFUkx2Uk41WUM0OWNsTS12MTFiLTdGakFUdzNLQW5pSVlqT0xkTF9rVzZZWk9SM3RSWEJKb2ZvaDBzcW1EMVh3aVA0Q19fV2tZaDd6eXhWdVNUV2tBNkdvMWdzdFRzRTk4V3dxZExkUWZn?oc=5"
@@ -108,7 +108,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 86,
+  "open_postings": 87,
   "long_open_roles": 22,
   "sources": {
     "ats": "ashby:vanta",

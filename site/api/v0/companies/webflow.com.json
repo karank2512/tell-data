@@ -1,9 +1,9 @@
 {
   "domain": "webflow.com",
   "name": "Webflow",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 2.1,
+  "score": 2.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-02",
       "summary": "Introducing Source by Webflow: where marketers and agents run the web",
       "url": "https://webflowmarketingmain.com/blog/introducing-source-by-webflow"

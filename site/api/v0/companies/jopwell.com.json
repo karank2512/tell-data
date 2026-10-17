@@ -1,0 +1,46 @@
+{
+  "domain": "jopwell.com",
+  "name": "Jopwell",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 5.3,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-06",
+      "summary": "True Appoints [person] as Partner to Expand Cross-Border Advanced Technology Leadership",
+      "url": "https://trueplatform.com/news/true-appoints-tracy-zhang-as-partner-to-expand-cross-border-advanced-technology-leadership/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "True Launches Private Credit Practice to Help Credit-Based Asset Managers Navigate Complex Leadership Situations",
+      "url": "https://trueplatform.com/news/true-launches-private-credit-practice-to-help-credit-based-asset-managers-navigate-complex-leadership-situations/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.1,
+      "occurred_at": "2026-08-26",
+      "summary": "Behavioral Scientist and Executive [person] Joins True Talent Labs as Partner",
+      "url": "https://trueplatform.com/news/behavioral-scientist-and-executive-coach-phil-blue-joins-true-talent-labs-as-partner/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.0,
+      "occurred_at": "2026-08-19",
+      "summary": "True Launches Forensic Referencing Offering and Appoints [person] as Partner to Lead",
+      "url": "https://trueplatform.com/news/true-launches-forensic-referencing-offering-and-appoints-christopher-jaros-as-partner-to-lead/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

@@ -1,14 +1,14 @@
 {
   "domain": "canarytechnologies.com",
   "name": "Canary Technologies",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
   "score": 2.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-16",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/canarytechnologies",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.6,
       "occurred_at": "2026-08-13",
       "summary": "Introducing Smart Language Translations | Canary",
       "url": "https://webflow.canarytechnologies.com/post/introducing-smart-language-translations-for-contactless-check-in"

@@ -1,10 +1,17 @@
 {
   "domain": "twitch.com",
   "name": "Twitch",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "PUBG unveils new Twitch streamer skins – Shroud, Just9n, ChocoTaco and more - Dexerto",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzd0TlRVV1VhNGtIVTZYZjlOSDNDR2Q1MXdmTFhWWTcyWHFaSVVZZ3ZXNW9kUEF1THVxU0RseWxUYm1oWWJuLWc3UUtvVlRkSVNkbkEwbGtIZmZ0Nm14NXlCdHdnbFgwSWNiYTBhcm9lemg2aVE2cDdnYWhQT0s2YUZtT2M2ZjV5Tzk4?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

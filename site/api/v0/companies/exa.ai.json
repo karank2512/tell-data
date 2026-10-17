@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 32.2,
+  "score": 31.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 27.7,
+      "contribution": 27.4,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -48,10 +48,10 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 56,
+  "long_open_roles": 25,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:exa",
     "edgar_cik": "0002024864",
     "news": true
   },

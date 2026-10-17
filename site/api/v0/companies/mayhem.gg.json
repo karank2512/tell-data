@@ -1,0 +1,32 @@
+{
+  "domain": "mayhem.gg",
+  "name": "Mayhem",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "City launches Municipal Mayhem to support United Way of Lee County - Opelika Observer",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmJWTDR4eFNOWEw5ZUFBYWpPYjNnU1RyZXE4eFpaUnlwMk9YcnctM0x4aENZRkZQazVWcDdVRmh4cVhIT1JIT0h5cE81WW5tX3hUelluckotSzUzS2cyNEJjSWs4UnUyQjZYNXlNaDZJUV9SSUdFa3RYYmprYjFpek9yMEt1Tkk2OGNId3pBU0MtY0lWWWF3X05fTk5kaVczVk9hREVxM0M0QQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "PlayWay launches Game Market Mayhem for PlayWay stock - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN25XX2VSSUI3ZHFGRmFIX1RTOHlrQzZlaFlIdjNQbmNkZkx5N2xBcmV6VWJGSzVTd0F2Skk2a1BMUm9zblJBTURNanNRb1U2RFYxZFFGUWRnZmxjV1lmd1ZaMW1hZnI5VkJKSW5GWTh4cTE4QWcwd3pTcGlFY2J1WW9odUNhYXJxLWk0dnZLcmJVT1ctMXFEXzV6Wi1HV1BvS0I4Si0zSDNyZW00Rm02a1R3?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

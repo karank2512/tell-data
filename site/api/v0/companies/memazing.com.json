@@ -1,0 +1,25 @@
+{
+  "domain": "memazing.com",
+  "name": "Memazing",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 29.2,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 29.2,
+      "occurred_at": "2026-10-16",
+      "summary": "Form D: $26,244,981 offering, $15,404,990 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160552/000123191926001462/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002160552",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

@@ -1,0 +1,681 @@
+{
+ "vendor": "lever",
+ "identifier": "tryjeeves",
+ "domain": "tryjeeves.com",
+ "as_of": "2026-10-17",
+ "last_polled_at": "2026-10-17T02:51:53.021224+00:00",
+ "open_postings": [
+  {
+   "external_id": "056037cc-a91d-4a27-b1aa-5287e16f4a5a",
+   "title": "Account Executive - Stablecoin Solutions",
+   "role_family": "sales",
+   "location": "Mexico City",
+   "posted_at": "2025-12-06T18:19:39.109000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/056037cc-a91d-4a27-b1aa-5287e16f4a5a"
+  },
+  {
+   "external_id": "0b267f18-2dad-4dda-8ba8-2fdb4dfd5049",
+   "title": "Customer Success Associate",
+   "role_family": "customer",
+   "location": "Mexico City",
+   "posted_at": "2024-09-05T16:14:57.985000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/0b267f18-2dad-4dda-8ba8-2fdb4dfd5049"
+  },
+  {
+   "external_id": "0b2fa994-6b9d-4535-90a5-e09d230f2575",
+   "title": "Account Executive - Stablecoin Solutions",
+   "role_family": "sales",
+   "location": "Bogota",
+   "posted_at": "2025-12-06T18:10:10.179000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/0b2fa994-6b9d-4535-90a5-e09d230f2575"
+  },
+  {
+   "external_id": "12be7f07-4abf-4638-ad7f-8de0ec599137",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2025-07-03T16:11:51.614000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/12be7f07-4abf-4638-ad7f-8de0ec599137"
+  },
+  {
+   "external_id": "132ebb67-6929-4b60-a296-54a0d12c9c8d",
+   "title": "Account Executive - Stablecoin Solutions",
+   "role_family": "sales",
+   "location": "United Kingdom",
+   "posted_at": "2025-12-06T18:30:22.752000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/132ebb67-6929-4b60-a296-54a0d12c9c8d"
+  },
+  {
+   "external_id": "14deb4f2-c0f6-497d-b55c-ab52a72557a2",
+   "title": "Revenue Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "São Paulo",
+   "posted_at": "2026-05-11T19:25:09.444000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/14deb4f2-c0f6-497d-b55c-ab52a72557a2"
+  },
+  {
+   "external_id": "15988e81-3e5a-475f-b401-16eb3f96cf1c",
+   "title": "Product Manager - Accounting",
+   "role_family": "product_design",
+   "location": "Argentina",
+   "posted_at": "2026-07-17T23:32:52.662000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/15988e81-3e5a-475f-b401-16eb3f96cf1c"
+  },
+  {
+   "external_id": "173505ac-37ae-4818-a807-733599537072",
+   "title": "Enterprise Sales Executive - Fintech & SaaS",
+   "role_family": "sales",
+   "location": "Bogota",
+   "posted_at": "2026-09-11T21:58:19.335000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/173505ac-37ae-4818-a807-733599537072"
+  },
+  {
+   "external_id": "1c74fc69-5029-4aee-8d63-d6f9996c4cbf",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "São Paulo",
+   "posted_at": "2026-10-10T16:12:56.591000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/1c74fc69-5029-4aee-8d63-d6f9996c4cbf"
+  },
+  {
+   "external_id": "2165b262-6b74-4122-bc4f-7fee7e1bd0bf",
+   "title": "Partnerships Development Manager",
+   "role_family": "sales",
+   "location": "Brazil",
+   "posted_at": "2026-08-11T21:18:27.638000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/2165b262-6b74-4122-bc4f-7fee7e1bd0bf"
+  },
+  {
+   "external_id": "21a835cc-682f-42c8-99d5-792913a37aee",
+   "title": "Strategy & Ops Analyst",
+   "role_family": "gtm_ops",
+   "location": "São Paulo",
+   "posted_at": "2026-08-25T19:25:06.603000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/21a835cc-682f-42c8-99d5-792913a37aee"
+  },
+  {
+   "external_id": "2355dcd1-0b09-4b7b-9382-32293ecaee1a",
+   "title": "Account Executive - Stablecoin Solutions",
+   "role_family": "sales",
+   "location": "Panama",
+   "posted_at": "2026-09-09T15:24:19.661000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/2355dcd1-0b09-4b7b-9382-32293ecaee1a"
+  },
+  {
+   "external_id": "235bc52e-08f1-4f93-af11-f4cb394538cb",
+   "title": "Revenue Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "Argentina",
+   "posted_at": "2026-05-15T18:55:28.272000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/235bc52e-08f1-4f93-af11-f4cb394538cb"
+  },
+  {
+   "external_id": "261edb62-df5f-4557-b551-63bde728b369",
+   "title": "Revenue Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "Mexico City",
+   "posted_at": "2026-05-11T19:24:33.145000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/261edb62-df5f-4557-b551-63bde728b369"
+  },
+  {
+   "external_id": "271f5a10-439f-4843-9de0-c78a2bd7b88a",
+   "title": "Senior AI Engineer",
+   "role_family": "ml_ai",
+   "location": "Bogota",
+   "posted_at": "2026-10-10T16:29:03.447000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/271f5a10-439f-4843-9de0-c78a2bd7b88a"
+  },
+  {
+   "external_id": "2af2b8f2-8eaa-4b6e-9797-7a6c7bec277f",
+   "title": "Senior Collections & Accounts Receivable Specialist",
+   "role_family": "other",
+   "location": "Bogota",
+   "posted_at": "2026-07-06T18:24:00.623000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/2af2b8f2-8eaa-4b6e-9797-7a6c7bec277f"
+  },
+  {
+   "external_id": "2ca04988-85d1-4b9d-982e-b5c3d9451849",
+   "title": "Senior Designer",
+   "role_family": "product_design",
+   "location": "Colombia",
+   "posted_at": "2026-07-13T14:24:45.876000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/2ca04988-85d1-4b9d-982e-b5c3d9451849"
+  },
+  {
+   "external_id": "2d0fd329-872d-48b2-a77a-cf1cfe32853b",
+   "title": "Financial Operations Analyst",
+   "role_family": "other",
+   "location": "São Paulo",
+   "posted_at": "2026-10-15T17:11:24.602000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/2d0fd329-872d-48b2-a77a-cf1cfe32853b"
+  },
+  {
+   "external_id": "30e423d4-fe40-49f3-bc43-671865c20317",
+   "title": "Financial Operations Analyst",
+   "role_family": "other",
+   "location": "Mexico City",
+   "posted_at": "2026-10-08T06:53:47.211000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/30e423d4-fe40-49f3-bc43-671865c20317"
+  },
+  {
+   "external_id": "3403bcbd-87c1-4790-99d3-5635eb8670e1",
+   "title": "Product Manager - Accounting",
+   "role_family": "product_design",
+   "location": "São Paulo",
+   "posted_at": "2026-03-16T21:50:58.105000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/3403bcbd-87c1-4790-99d3-5635eb8670e1"
+  },
+  {
+   "external_id": "348591ba-8f5f-45d2-81f5-e9f3a016dee0",
+   "title": "Head of Strategic Finance",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-14T19:56:59.254000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/348591ba-8f5f-45d2-81f5-e9f3a016dee0"
+  },
+  {
+   "external_id": "35648937-b286-4474-8504-c286f0eb7195",
+   "title": "Mid-Market Account Executive - Fintech",
+   "role_family": "sales",
+   "location": "Texas",
+   "posted_at": "2026-07-24T02:24:20.176000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/35648937-b286-4474-8504-c286f0eb7195"
+  },
+  {
+   "external_id": "37ea0096-1bef-4440-bf50-ee8ac2f54ed3",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "Spain",
+   "posted_at": "2025-11-08T21:37:26.833000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/37ea0096-1bef-4440-bf50-ee8ac2f54ed3"
+  },
+  {
+   "external_id": "39ad6551-befe-4d02-b489-092e2707e1b6",
+   "title": "Sales Senior Account Executive",
+   "role_family": "sales",
+   "location": "São Paulo",
+   "posted_at": "2024-08-27T21:30:49.459000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/39ad6551-befe-4d02-b489-092e2707e1b6"
+  },
+  {
+   "external_id": "3bc7c001-f114-414d-a65a-63519eec59e6",
+   "title": "Senior Backend Engineer",
+   "role_family": "engineering",
+   "location": "Argentina",
+   "posted_at": "2026-04-16T06:02:42.704000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/3bc7c001-f114-414d-a65a-63519eec59e6"
+  },
+  {
+   "external_id": "3e98ea3a-893d-40ad-99f4-cf807d3f1b9c",
+   "title": "Contract Recruiter, GTM (3–6 month engagement · Immediate start)",
+   "role_family": "finance_ops",
+   "location": "São Paulo",
+   "posted_at": "2026-10-07T04:05:43.080000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/3e98ea3a-893d-40ad-99f4-cf807d3f1b9c"
+  },
+  {
+   "external_id": "3f39dcd1-80ee-460d-a3f5-aba28f56a610",
+   "title": "Contract Recruiter, GTM (3–6 month engagement · Immediate start)",
+   "role_family": "finance_ops",
+   "location": "Mexico City",
+   "posted_at": "2026-10-07T04:08:04.678000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/3f39dcd1-80ee-460d-a3f5-aba28f56a610"
+  },
+  {
+   "external_id": "401af934-612e-47fd-8b73-3d3b53a62b7e",
+   "title": "Account Executive - Stablecoin Solutions",
+   "role_family": "sales",
+   "location": "El Salvador",
+   "posted_at": "2026-04-15T19:09:56.215000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/401af934-612e-47fd-8b73-3d3b53a62b7e"
+  },
+  {
+   "external_id": "458f8fa9-ff1b-4cde-a703-61e5832ee756",
+   "title": "Product Manager, Stablecoin & Digital Assets",
+   "role_family": "product_design",
+   "location": "São Paulo",
+   "posted_at": "2026-05-20T19:44:56.261000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/458f8fa9-ff1b-4cde-a703-61e5832ee756"
+  },
+  {
+   "external_id": "494007ad-3086-4784-a437-82428532f6eb",
+   "title": "Underwriter, Brazil",
+   "role_family": "other",
+   "location": "São Paulo",
+   "posted_at": "2026-10-07T04:34:51.167000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/494007ad-3086-4784-a437-82428532f6eb"
+  },
+  {
+   "external_id": "4bd6ffd8-74e5-4c4d-a68c-d48037491101",
+   "title": "Account Executive - Stablecoin Solutions",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2025-12-06T18:02:15.980000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/4bd6ffd8-74e5-4c4d-a68c-d48037491101"
+  },
+  {
+   "external_id": "4d865102-80f9-4552-9490-56de8b1e7586",
+   "title": "Enterprise Sales Executive - Fintech & SaaS",
+   "role_family": "sales",
+   "location": "Mexico City",
+   "posted_at": "2023-05-25T16:54:08.927000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/4d865102-80f9-4552-9490-56de8b1e7586"
+  },
+  {
+   "external_id": "4f6d62ba-1496-43db-9bd3-4d10357c98c2",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Mexico City",
+   "posted_at": "2026-10-10T16:00:26.477000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/4f6d62ba-1496-43db-9bd3-4d10357c98c2"
+  },
+  {
+   "external_id": "528e983c-b485-4c7a-b576-cbafcf7e0b2a",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Bogota",
+   "posted_at": "2026-10-10T16:13:40.380000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/528e983c-b485-4c7a-b576-cbafcf7e0b2a"
+  },
+  {
+   "external_id": "56ca68fa-b871-4379-bd56-5e300f9068cd",
+   "title": "Head of Sales, Brazil",
+   "role_family": "exec",
+   "location": "São Paulo",
+   "posted_at": "2026-04-17T04:44:24.864000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/56ca68fa-b871-4379-bd56-5e300f9068cd"
+  },
+  {
+   "external_id": "5793ce49-ae38-4338-8cd8-c6b3dd35ff4e",
+   "title": "KYC/B Onboarding Analyst",
+   "role_family": "customer",
+   "location": "São Paulo",
+   "posted_at": "2026-07-23T16:26:46.975000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/5793ce49-ae38-4338-8cd8-c6b3dd35ff4e"
+  },
+  {
+   "external_id": "5869be30-7253-4f95-8c68-5a8ee0a3846b",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "São Paulo",
+   "posted_at": "2024-09-26T17:40:56.805000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/5869be30-7253-4f95-8c68-5a8ee0a3846b"
+  },
+  {
+   "external_id": "60307154-b39d-4d31-8f1b-919def407a13",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Mexico City",
+   "posted_at": "2025-11-11T17:50:58.905000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/60307154-b39d-4d31-8f1b-919def407a13"
+  },
+  {
+   "external_id": "60e6aef8-ada6-40b9-855f-38fda88ab60e",
+   "title": "Head of Global Partnerships",
+   "role_family": "exec",
+   "location": "Mexico City",
+   "posted_at": "2025-09-23T22:17:56.843000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/60e6aef8-ada6-40b9-855f-38fda88ab60e"
+  },
+  {
+   "external_id": "6a642166-5aec-40e2-a89a-8665aa17c6c9",
+   "title": "Recruiting Intern",
+   "role_family": "gtm_ops",
+   "location": "São Paulo",
+   "posted_at": "2026-08-24T17:09:34.738000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/6a642166-5aec-40e2-a89a-8665aa17c6c9"
+  },
+  {
+   "external_id": "6cfaf109-e538-45cd-bd0f-ed0bc360fc7f",
+   "title": "Senior Backend Engineer",
+   "role_family": "engineering",
+   "location": "Brazil",
+   "posted_at": "2026-04-16T05:56:33.300000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/6cfaf109-e538-45cd-bd0f-ed0bc360fc7f"
+  },
+  {
+   "external_id": "6d732f66-fd62-49c4-a89d-c045762c1456",
+   "title": "Senior Business Analyst, Credit & Analytics",
+   "role_family": "other",
+   "location": "Bogota",
+   "posted_at": "2026-10-07T04:53:18.600000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/6d732f66-fd62-49c4-a89d-c045762c1456"
+  },
+  {
+   "external_id": "78749d93-424e-4ad3-bc16-b0e8dd25ae0c",
+   "title": "Product Manager, Stablecoin & Digital Assets",
+   "role_family": "product_design",
+   "location": "Mexico City",
+   "posted_at": "2026-05-20T19:39:19.576000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/78749d93-424e-4ad3-bc16-b0e8dd25ae0c"
+  },
+  {
+   "external_id": "8082364a-1e03-4f3a-ab62-ae3f722556b5",
+   "title": "Senior Business Analyst, Credit & Analytics",
+   "role_family": "other",
+   "location": "Argentina",
+   "posted_at": "2026-10-07T05:06:59.643000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/8082364a-1e03-4f3a-ab62-ae3f722556b5"
+  },
+  {
+   "external_id": "83ca9734-ed23-47d0-8a79-2f3b9779a96c",
+   "title": "Product Manager - Accounting",
+   "role_family": "product_design",
+   "location": "Mexico City",
+   "posted_at": "2026-03-16T21:53:47.303000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/83ca9734-ed23-47d0-8a79-2f3b9779a96c"
+  },
+  {
+   "external_id": "840cb1a4-57c4-4139-9ee2-9fd84a340aa8",
+   "title": "Senior AI Engineer",
+   "role_family": "ml_ai",
+   "location": "United States",
+   "posted_at": "2026-10-12T15:29:48.217000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/840cb1a4-57c4-4139-9ee2-9fd84a340aa8"
+  },
+  {
+   "external_id": "84bd0129-620a-4571-b9fe-bc839ef911b6",
+   "title": "Senior Business Analyst, Credit & Analytics",
+   "role_family": "other",
+   "location": "São Paulo",
+   "posted_at": "2026-10-07T05:07:36.660000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/84bd0129-620a-4571-b9fe-bc839ef911b6"
+  },
+  {
+   "external_id": "8bbd22b4-60d1-44d3-a9a7-57d1a29caa12",
+   "title": "Account Executive - Stablecoin Solutions",
+   "role_family": "sales",
+   "location": "São Paulo",
+   "posted_at": "2025-12-06T18:17:36.852000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/8bbd22b4-60d1-44d3-a9a7-57d1a29caa12"
+  },
+  {
+   "external_id": "8dd563e2-ff11-407d-a1bd-0ee200d1e602",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Argentina",
+   "posted_at": "2026-04-15T18:12:19.164000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/8dd563e2-ff11-407d-a1bd-0ee200d1e602"
+  },
+  {
+   "external_id": "8ec93c53-1d4f-4e48-9c2a-7760ebe8cd1c",
+   "title": "Sales Enablement & Onboarding Manager",
+   "role_family": "customer",
+   "location": "Argentina",
+   "posted_at": "2026-08-14T19:10:42.556000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/8ec93c53-1d4f-4e48-9c2a-7760ebe8cd1c"
+  },
+  {
+   "external_id": "91664fc3-1192-4079-9e09-58ebd8c0ca36",
+   "title": "Recruiting Intern",
+   "role_family": "gtm_ops",
+   "location": "Bogota",
+   "posted_at": "2026-08-24T17:08:52.871000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/91664fc3-1192-4079-9e09-58ebd8c0ca36"
+  },
+  {
+   "external_id": "944be260-28fd-4099-a39e-f852b183f62a",
+   "title": "Sales Account Executive (Mid-Market)",
+   "role_family": "sales",
+   "location": "São Paulo",
+   "posted_at": "2026-04-22T16:09:04.802000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/944be260-28fd-4099-a39e-f852b183f62a"
+  },
+  {
+   "external_id": "94ee92d4-f6ad-456c-adb7-30d11dfe25e3",
+   "title": "Sales Enablement & Onboarding Manager",
+   "role_family": "customer",
+   "location": "Mexico City",
+   "posted_at": "2025-12-28T18:00:50.063000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/94ee92d4-f6ad-456c-adb7-30d11dfe25e3"
+  },
+  {
+   "external_id": "979022dd-3330-404b-ad21-48cede3cd780",
+   "title": "Senior AI Engineer",
+   "role_family": "ml_ai",
+   "location": "Canada",
+   "posted_at": "2026-10-15T04:34:00.701000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/979022dd-3330-404b-ad21-48cede3cd780"
+  },
+  {
+   "external_id": "9ac6d316-c3f2-4ebf-ad5c-ca9c18a58019",
+   "title": "Revenue Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "Bogota",
+   "posted_at": "2026-05-11T19:18:42.367000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/9ac6d316-c3f2-4ebf-ad5c-ca9c18a58019"
+  },
+  {
+   "external_id": "a01516b6-2844-482b-9772-e54fd847f5d0",
+   "title": "Key Account Manager",
+   "role_family": "sales",
+   "location": "Mexico City",
+   "posted_at": "2025-05-30T19:37:38.357000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/a01516b6-2844-482b-9772-e54fd847f5d0"
+  },
+  {
+   "external_id": "a05c4251-4685-44e7-8096-bcb0bb7a3667",
+   "title": "Mid-Market Account Executive - Fintech",
+   "role_family": "sales",
+   "location": "florida",
+   "posted_at": "2026-07-24T02:23:22.259000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/a05c4251-4685-44e7-8096-bcb0bb7a3667"
+  },
+  {
+   "external_id": "a4172138-d369-4e8b-b4c9-574be8442e22",
+   "title": "Senior AI Engineer",
+   "role_family": "ml_ai",
+   "location": "Canada",
+   "posted_at": "2026-10-12T15:33:15.709000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/a4172138-d369-4e8b-b4c9-574be8442e22"
+  },
+  {
+   "external_id": "b10f345f-9574-41b5-a67a-c847f93e122e",
+   "title": "Product Manager, Stablecoin & Digital Assets",
+   "role_family": "product_design",
+   "location": "Bogota",
+   "posted_at": "2026-05-20T19:46:07.936000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/b10f345f-9574-41b5-a67a-c847f93e122e"
+  },
+  {
+   "external_id": "b293a996-baf1-453d-9883-75854c0072d0",
+   "title": "Senior AI Engineer",
+   "role_family": "ml_ai",
+   "location": "São Paulo",
+   "posted_at": "2026-10-10T16:27:59.186000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/b293a996-baf1-453d-9883-75854c0072d0"
+  },
+  {
+   "external_id": "bab5a902-64a2-49ce-aba3-ecb735df4b8c",
+   "title": "Sales Enablement & Onboarding Manager",
+   "role_family": "customer",
+   "location": "São Paulo",
+   "posted_at": "2025-12-28T18:05:01.905000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/bab5a902-64a2-49ce-aba3-ecb735df4b8c"
+  },
+  {
+   "external_id": "bd412f5e-6a45-495e-9280-4ecae31bc7dd",
+   "title": "Sales Enablement & Onboarding Manager",
+   "role_family": "customer",
+   "location": "Bogota",
+   "posted_at": "2025-12-28T18:02:08.412000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/bd412f5e-6a45-495e-9280-4ecae31bc7dd"
+  },
+  {
+   "external_id": "be1095eb-2e3b-4b7a-866b-fff1d30c6e51",
+   "title": "Senior Designer",
+   "role_family": "product_design",
+   "location": "Brazil",
+   "posted_at": "2026-07-13T14:23:11.724000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/be1095eb-2e3b-4b7a-866b-fff1d30c6e51"
+  },
+  {
+   "external_id": "c14be6e3-60fb-4a94-8943-54d4277a3ed9",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Spain",
+   "posted_at": "2025-10-21T23:12:46.709000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/c14be6e3-60fb-4a94-8943-54d4277a3ed9"
+  },
+  {
+   "external_id": "c1a4c8bd-0be1-48d9-bdaa-4f37a1e21fc4",
+   "title": "Senior Backend Engineer",
+   "role_family": "engineering",
+   "location": "Mexico",
+   "posted_at": "2026-04-16T06:02:09.436000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/c1a4c8bd-0be1-48d9-bdaa-4f37a1e21fc4"
+  },
+  {
+   "external_id": "cb04166d-b849-43b3-a69c-98813ad321a7",
+   "title": "Senior Designer",
+   "role_family": "product_design",
+   "location": "Mexico",
+   "posted_at": "2026-07-13T14:24:15.593000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/cb04166d-b849-43b3-a69c-98813ad321a7"
+  },
+  {
+   "external_id": "cb4232fe-a73c-4909-b7dd-a2ad0bdac6cd",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2025-11-08T21:35:04.989000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/cb4232fe-a73c-4909-b7dd-a2ad0bdac6cd"
+  },
+  {
+   "external_id": "cea442e7-d023-47d6-a61a-75410f3017c9",
+   "title": "Contract Recruiter, GTM (3–6 month engagement · Immediate start)",
+   "role_family": "finance_ops",
+   "location": "Bogota",
+   "posted_at": "2026-10-07T04:06:56.881000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/cea442e7-d023-47d6-a61a-75410f3017c9"
+  },
+  {
+   "external_id": "d7290930-9709-461d-a9d3-225edaa03586",
+   "title": "Head of Global Partnerships",
+   "role_family": "exec",
+   "location": "São Paulo",
+   "posted_at": "2025-09-23T19:46:07.969000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/d7290930-9709-461d-a9d3-225edaa03586"
+  },
+  {
+   "external_id": "ddadb39f-ae76-47ad-8cd7-e32610944501",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "Bogota",
+   "posted_at": "2024-10-30T16:56:26.341000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/ddadb39f-ae76-47ad-8cd7-e32610944501"
+  },
+  {
+   "external_id": "ded9e04e-f18e-4d4c-ae43-4b7882c6200b",
+   "title": "AI Engineer",
+   "role_family": "ml_ai",
+   "location": "India",
+   "posted_at": "2026-04-16T06:08:50.129000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/ded9e04e-f18e-4d4c-ae43-4b7882c6200b"
+  },
+  {
+   "external_id": "e0bcd6d1-8c71-40bb-a456-8a81c0179572",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "Mexico City",
+   "posted_at": "2024-08-29T16:58:48.473000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/e0bcd6d1-8c71-40bb-a456-8a81c0179572"
+  },
+  {
+   "external_id": "e17cac1a-4225-4ffa-9586-6fc11e85bfdc",
+   "title": "Account Executive - Stablecoin Solutions",
+   "role_family": "sales",
+   "location": "Spain",
+   "posted_at": "2025-12-06T18:29:11.282000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/e17cac1a-4225-4ffa-9586-6fc11e85bfdc"
+  },
+  {
+   "external_id": "e1f64ae7-253f-4670-93aa-8a84abd0959c",
+   "title": "Product Manager, Stablecoin & Digital Assets",
+   "role_family": "product_design",
+   "location": "Argentina",
+   "posted_at": "2026-06-02T17:30:48.517000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/e1f64ae7-253f-4670-93aa-8a84abd0959c"
+  },
+  {
+   "external_id": "e352475e-46eb-420e-adbf-b9622f86bfda",
+   "title": "Senior AI Engineer",
+   "role_family": "ml_ai",
+   "location": "Mexico City",
+   "posted_at": "2026-10-10T16:26:49.597000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/e352475e-46eb-420e-adbf-b9622f86bfda"
+  },
+  {
+   "external_id": "e73e6e7c-a787-4d3d-bf2d-bdf8ce56d2c5",
+   "title": "Senior Backend Engineer",
+   "role_family": "engineering",
+   "location": "Colombia",
+   "posted_at": "2026-04-16T06:01:31.839000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/e73e6e7c-a787-4d3d-bf2d-bdf8ce56d2c5"
+  },
+  {
+   "external_id": "ea968f90-3d26-4963-b478-f4d7cc37b286",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "Argentina",
+   "posted_at": "2026-06-10T19:28:25.114000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/ea968f90-3d26-4963-b478-f4d7cc37b286"
+  },
+  {
+   "external_id": "effee7e9-d824-438d-8862-79cc2bc6f84d",
+   "title": "Product Manager - Accounting",
+   "role_family": "product_design",
+   "location": "Bogota",
+   "posted_at": "2026-03-16T20:56:51.404000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/effee7e9-d824-438d-8862-79cc2bc6f84d"
+  },
+  {
+   "external_id": "f119bb97-f7a7-4d8d-8e9f-55b376ca393f",
+   "title": "Head of Global Partnerships",
+   "role_family": "exec",
+   "location": "Bogota",
+   "posted_at": "2025-09-23T22:19:31.678000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/f119bb97-f7a7-4d8d-8e9f-55b376ca393f"
+  },
+  {
+   "external_id": "f5518b3b-d2b2-40ea-97b8-51a786d2624b",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Bogota",
+   "posted_at": "2024-08-27T21:57:46.280000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/f5518b3b-d2b2-40ea-97b8-51a786d2624b"
+  },
+  {
+   "external_id": "f67c41c6-4810-4582-94a3-6f9abbfe1971",
+   "title": "Senior Business Analyst, Credit & Analytics",
+   "role_family": "other",
+   "location": "Mexico City",
+   "posted_at": "2026-10-07T05:06:25.448000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/f67c41c6-4810-4582-94a3-6f9abbfe1971"
+  },
+  {
+   "external_id": "f918822a-0d38-4b41-b3e8-802089e46b68",
+   "title": "Accountant",
+   "role_family": "other",
+   "location": "São Paulo",
+   "posted_at": "2026-05-29T19:43:26.912000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/f918822a-0d38-4b41-b3e8-802089e46b68"
+  },
+  {
+   "external_id": "fa02486c-09dd-40d0-a37a-22e59c25b6bc",
+   "title": "KYC/B Onboarding Analyst",
+   "role_family": "customer",
+   "location": "Bogota",
+   "posted_at": "2026-07-23T16:27:28.241000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/fa02486c-09dd-40d0-a37a-22e59c25b6bc"
+  },
+  {
+   "external_id": "fab8c35f-e7a6-4a7e-970f-03c678bcf4fe",
+   "title": "Senior Designer",
+   "role_family": "product_design",
+   "location": "Argentina",
+   "posted_at": "2026-06-08T05:09:03.545000+00:00",
+   "url": "https://jobs.lever.co/tryjeeves/fab8c35f-e7a6-4a7e-970f-03c678bcf4fe"
+  }
+ ]
+}

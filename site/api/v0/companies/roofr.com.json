@@ -1,0 +1,38 @@
+{
+  "domain": "roofr.com",
+  "name": "Roofr",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-17",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/roofr",
+      "postings": [
+        {
+          "title": "Onboarding Manager, Bilingual (Spanish)",
+          "posted_at": "2026-10-15",
+          "url": "https://job-boards.greenhouse.io/roofr/jobs/4744277005"
+        },
+        {
+          "title": "Customer Support Specialist, Bilingual (Spanish)",
+          "posted_at": "2026-10-16",
+          "url": "https://job-boards.greenhouse.io/roofr/jobs/4744562005"
+        }
+      ]
+    }
+  ],
+  "open_postings": 12,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "greenhouse:roofr",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

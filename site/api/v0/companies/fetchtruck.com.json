@@ -1,0 +1,32 @@
+{
+  "domain": "fetchtruck.com",
+  "name": "Fetch",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Fetch.ai Launches ASI:One, an Innovative App Store for AI - Coinfomania",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGtzeGV5cG5nUllxYU9MSk5Kd3F5cVliOExkXzBZaDVWSUh3M1hfMnJCQmplZ1o0Q25ELWlVMW9SN0dHLWxFV2FZMEhsdDAwM0VDd3Q3YkptcnpKckpzZ0cxNnU4ZGFsSHN6WUZCRmJFT3JYX0UzMXhaR2t2dlBKZjlWclZIbUU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Fetch.ai Launches Fetch Compute After Securing $100M In Investments - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkdNNmVERE1aNHo2VkNjSkFNMU1OOW13YTdiT0hqYWVMbjJoeGY5YTRsbUtDLVBLX1VDZEpKZlRFSXQwcGY0OUpWTDFOdFhDdVgtS0ZQcWgtSkVOTnR0N0o4OTdjS0RkOTc4bVBTYjBFZGdjZFlxTXhlWHRrdzlUSmtaNUZsTTVKdmN1MjBCT0hicEEwbm5qRkVkQWpHdFhlcWdnZTV1eVN0ZTA4bGZzQ0Rtcw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

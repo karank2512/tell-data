@@ -1,0 +1,297 @@
+{
+ "vendor": "ashby",
+ "identifier": "candidhealth",
+ "domain": "joincandidhealth.com",
+ "as_of": "2026-10-17",
+ "last_polled_at": "2026-10-17T02:51:49.945788+00:00",
+ "open_postings": [
+  {
+   "external_id": "028225d2-3f3b-480f-bdf2-a8dbaad3dd66",
+   "title": "Account Executive (Accelerated Path)",
+   "role_family": "sales",
+   "location": "Remote (USA)",
+   "posted_at": "2026-09-03T14:58:18.941000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/028225d2-3f3b-480f-bdf2-a8dbaad3dd66"
+  },
+  {
+   "external_id": "0842afe5-f841-49af-967c-f8ef36297f01",
+   "title": "TechOps Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-09T21:30:32.917000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/0842afe5-f841-49af-967c-f8ef36297f01"
+  },
+  {
+   "external_id": "0c627953-8164-42f8-a4a3-b625c66dead2",
+   "title": "Security GRC Lead",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-25T20:21:39.141000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/0c627953-8164-42f8-a4a3-b625c66dead2"
+  },
+  {
+   "external_id": "0fd5d4d9-e011-4ec6-9976-c40ddcab8e30",
+   "title": "Technical Program Manager - Implementation",
+   "role_family": "customer",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-09-11T21:04:52.836000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/0fd5d4d9-e011-4ec6-9976-c40ddcab8e30"
+  },
+  {
+   "external_id": "1f6fd3be-7761-4031-a940-68cd5c3b0162",
+   "title": "Senior Product Designer",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-07-22T15:48:42.346000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/1f6fd3be-7761-4031-a940-68cd5c3b0162"
+  },
+  {
+   "external_id": "23e88d6b-b9ff-4033-97d5-1e9e42958a66",
+   "title": "Front End Software Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-06-15T17:30:38.606000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/23e88d6b-b9ff-4033-97d5-1e9e42958a66"
+  },
+  {
+   "external_id": "29a20b6d-ad8a-4431-bfa2-32d82ad0df21",
+   "title": "Workplace Coordinator",
+   "role_family": "other",
+   "location": "New York City",
+   "posted_at": "2026-08-21T15:17:21.541000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/29a20b6d-ad8a-4431-bfa2-32d82ad0df21"
+  },
+  {
+   "external_id": "38cc9ce5-9330-4333-ae15-719fd0ed4e75",
+   "title": "Business Development Representative",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-09-22T15:28:38.720000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/38cc9ce5-9330-4333-ae15-719fd0ed4e75"
+  },
+  {
+   "external_id": "3b76459e-9521-4687-84a8-117b5b98a410",
+   "title": "Analytics Engineer",
+   "role_family": "data",
+   "location": "San Francisco",
+   "posted_at": "2026-05-11T22:10:05.478000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/3b76459e-9521-4687-84a8-117b5b98a410"
+  },
+  {
+   "external_id": "3c982a66-ff33-4f08-adae-95f8fb1cd6a6",
+   "title": "Payment Posting Specialist",
+   "role_family": "other",
+   "location": "Remote (USA)",
+   "posted_at": "2025-12-23T17:52:47.819000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/3c982a66-ff33-4f08-adae-95f8fb1cd6a6"
+  },
+  {
+   "external_id": "455315d8-a1da-4121-afdd-eedb405c0d1d",
+   "title": "Engineering Leader - Infrastructure & Platform",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-05-13T15:40:26.009000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/455315d8-a1da-4121-afdd-eedb405c0d1d"
+  },
+  {
+   "external_id": "4f34ef35-d3e5-40eb-81b1-985d41f652e2",
+   "title": "Customer Support",
+   "role_family": "customer",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-09-18T15:29:05.287000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/4f34ef35-d3e5-40eb-81b1-985d41f652e2"
+  },
+  {
+   "external_id": "51dcc6d0-af86-4fe8-bd68-a18b924e47f6",
+   "title": "Software Engineer (Senior)",
+   "role_family": "engineering",
+   "location": "New York City",
+   "posted_at": "2026-01-23T15:26:12.113000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/51dcc6d0-af86-4fe8-bd68-a18b924e47f6"
+  },
+  {
+   "external_id": "5d071b74-e14d-48f7-89f2-e8df03d5c8a1",
+   "title": "Customer Strategy & Operations",
+   "role_family": "customer",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-09-23T19:23:38.168000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/5d071b74-e14d-48f7-89f2-e8df03d5c8a1"
+  },
+  {
+   "external_id": "6695d8d8-54ee-4acf-9bd9-7d3e05264e51",
+   "title": "Product Manager",
+   "role_family": "product_design",
+   "location": "New York City",
+   "posted_at": "2026-08-24T16:01:49.609000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/6695d8d8-54ee-4acf-9bd9-7d3e05264e51"
+  },
+  {
+   "external_id": "6c2029b2-ea83-4cdd-95e7-a5e3c45234ac",
+   "title": "Medical Biller",
+   "role_family": "other",
+   "location": "Remote (USA)",
+   "posted_at": "2026-03-25T19:54:03.392000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/6c2029b2-ea83-4cdd-95e7-a5e3c45234ac"
+  },
+  {
+   "external_id": "71365073-41fb-40a8-b23a-3e02306770a5",
+   "title": "Forward Deployed Software Engineer",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2025-11-08T00:18:27.419000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/71365073-41fb-40a8-b23a-3e02306770a5"
+  },
+  {
+   "external_id": "7baa50a0-9133-4f83-8b4e-6ce80ebf7015",
+   "title": "Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-06-11T15:46:33.559000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/7baa50a0-9133-4f83-8b4e-6ce80ebf7015"
+  },
+  {
+   "external_id": "7e58fb7d-8a93-4385-95fc-3c13f0c78de1",
+   "title": "Executive Business Partner (San Francisco)",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-05-19T18:07:15.177000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/7e58fb7d-8a93-4385-95fc-3c13f0c78de1"
+  },
+  {
+   "external_id": "879a6a94-b522-4e6f-96d5-21badf82d69e",
+   "title": "Recruiter (GTM)",
+   "role_family": "finance_ops",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-05-28T18:22:47.408000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/879a6a94-b522-4e6f-96d5-21badf82d69e"
+  },
+  {
+   "external_id": "88570d36-be12-4ab2-b25a-0e012dc669eb",
+   "title": "Data Analyst",
+   "role_family": "data",
+   "location": "San Francisco",
+   "posted_at": "2026-07-22T17:28:00.805000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/88570d36-be12-4ab2-b25a-0e012dc669eb"
+  },
+  {
+   "external_id": "90d590cc-71cc-49b8-96a2-4a7853e92a16",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "Remote (USA)",
+   "posted_at": "2026-07-31T18:28:16.351000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/90d590cc-71cc-49b8-96a2-4a7853e92a16"
+  },
+  {
+   "external_id": "9a33f09d-5cd1-424d-ada2-426bc1570e54",
+   "title": "Customer Strategy & Ops - New Grad",
+   "role_family": "customer",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-08-20T16:35:40.245000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/9a33f09d-5cd1-424d-ada2-426bc1570e54"
+  },
+  {
+   "external_id": "9ca9db89-70f6-4476-8998-f2e03ff6a247",
+   "title": "Technical Program Manager - Platform",
+   "role_family": "engineering",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-07-13T21:51:19.480000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/9ca9db89-70f6-4476-8998-f2e03ff6a247"
+  },
+  {
+   "external_id": "a2cc3ebd-3724-44f7-95df-739c20a8a712",
+   "title": "Strategic Finance GTM Lead",
+   "role_family": "finance_ops",
+   "location": "San Francisco Office",
+   "posted_at": "2026-08-11T20:56:40.096000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/a2cc3ebd-3724-44f7-95df-739c20a8a712"
+  },
+  {
+   "external_id": "a406ec65-85ac-4403-9943-1a9ce68d209f",
+   "title": "AI/ML Engineer",
+   "role_family": "ml_ai",
+   "location": "San Francisco",
+   "posted_at": "2026-10-06T16:42:18.789000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/a406ec65-85ac-4403-9943-1a9ce68d209f"
+  },
+  {
+   "external_id": "a916ce1b-a86b-49d8-ab44-21beab4d502c",
+   "title": "Principal Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-06-08T16:21:06.922000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/a916ce1b-a86b-49d8-ab44-21beab4d502c"
+  },
+  {
+   "external_id": "c1474396-cd2a-480a-b6ff-df10a4a044a0",
+   "title": "Lead Recruiter (GTM)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-05-28T18:22:42.784000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/c1474396-cd2a-480a-b6ff-df10a4a044a0"
+  },
+  {
+   "external_id": "c7f2bce7-fb2f-4075-b6cf-b27609e5e5ee",
+   "title": "Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-08-31T16:22:53.721000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/c7f2bce7-fb2f-4075-b6cf-b27609e5e5ee"
+  },
+  {
+   "external_id": "cad34930-9197-40d6-b441-c7da7e2663c4",
+   "title": "Executive Business Partner (NYC)",
+   "role_family": "gtm_ops",
+   "location": "New York City",
+   "posted_at": "2026-05-19T18:09:42.387000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/cad34930-9197-40d6-b441-c7da7e2663c4"
+  },
+  {
+   "external_id": "ceb9a3bb-e36a-4a37-bf5f-ca7dc5fe9c8f",
+   "title": "Software Engineer (Senior)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-01-23T15:24:46.527000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/ceb9a3bb-e36a-4a37-bf5f-ca7dc5fe9c8f"
+  },
+  {
+   "external_id": "db3a17e0-9606-4bf0-9cac-3610c93ce2ff",
+   "title": "Strategic Finance Manager",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-07-23T16:02:04.665000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/db3a17e0-9606-4bf0-9cac-3610c93ce2ff"
+  },
+  {
+   "external_id": "dedd92a6-2ba0-4d7e-b67c-559f486ab72d",
+   "title": "Technical Sourcer",
+   "role_family": "other",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-09-01T16:56:55.775000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/dedd92a6-2ba0-4d7e-b67c-559f486ab72d"
+  },
+  {
+   "external_id": "e7df36c3-7075-4428-8ab7-b1b107874de4",
+   "title": "Engineering Manager - Product",
+   "role_family": "engineering",
+   "location": "New York City",
+   "posted_at": "2026-01-14T20:20:36.988000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/e7df36c3-7075-4428-8ab7-b1b107874de4"
+  },
+  {
+   "external_id": "f111d46b-4efb-4b41-9cc2-a6bd49b71cfa",
+   "title": "Application Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco (CA),  Denver (CO), New York (NY)",
+   "posted_at": "2026-05-18T19:23:44.222000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/f111d46b-4efb-4b41-9cc2-a6bd49b71cfa"
+  },
+  {
+   "external_id": "f770bdc1-6704-44c6-9417-b98c1a4c75c4",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-06-03T17:35:43.229000+00:00",
+   "url": "https://jobs.ashbyhq.com/candidhealth/f770bdc1-6704-44c6-9417-b98c1a4c75c4"
+  }
+ ]
+}

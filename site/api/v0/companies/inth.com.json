@@ -1,13 +1,13 @@
 {
   "domain": "inth.com",
   "name": "Inth",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 1.1,
+  "score": 1.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-09-24",
       "summary": "Introducing the Inth CLI",
       "url": "https://inth.com/blog/introducing-inth-cli"

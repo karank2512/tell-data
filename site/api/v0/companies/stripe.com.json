@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 11.7,
+  "score": 11.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -104,7 +104,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-15",
       "summary": "3 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -127,7 +127,7 @@
       ]
     }
   ],
-  "open_postings": 755,
+  "open_postings": 760,
   "long_open_roles": 193,
   "sources": {
     "ats": "greenhouse:stripe",

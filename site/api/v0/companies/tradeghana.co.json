@@ -1,0 +1,25 @@
+{
+  "domain": "tradeghana.co",
+  "name": "Trade",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "MLB Trade Rumors releases annual arbitration projections for 2027 - Pinstripe Alley",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2gzRmdjVFIxbkotVGdYYldtb0hGdnRhaks0d1lDSGlyTXJRQUdIS2xTbWxRR3laOG1TdldndmhTTG5RZTA5UXNtam1LNDZlMkhfNFZPYndCZnpUZ28wMjBzVUU4Ujd0X2szeGVTSW1jOV9fZ3dtZnp4MkgzcXEzNWZFNHFkVEtzcWpJeTFST2tVbm14LU91bkh4c2ZubGwwUi1QR2RTanZQcTdxVGhHcw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

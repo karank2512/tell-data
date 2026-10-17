@@ -1,0 +1,25 @@
+{
+  "domain": "doordash.com",
+  "name": "DoorDash",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "DoorDash Unveils AI Chatbot To Automate Orders And Reservations - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTm5vY05DandyWVRBZjlYc1ltM3B1eUVNMmZGLXVxNFVHMGxsVlE1enladVgxR2JGeHgzcFZuUi1iWEFtc1BoRWJ6RFU1WWV0ZGNkQkh4YkhEc1NiaFpqd1MzWjlyY21EZXhPZENIVDlGM2hRbHRhazFwLVRLOFViZndUcXlvV2NmcGJ2YzhMZURSdHpPQmhtd2tyV2xVUFhDaUJpQXVmX2tWVl93MFFvc1hvNjdMdkFmUnlDOEZpQm9EVmpaNjB3?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

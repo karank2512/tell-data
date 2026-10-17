@@ -1,0 +1,1537 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "fivetran",
+ "domain": "fivetran.com",
+ "as_of": "2026-10-17",
+ "last_polled_at": "2026-10-17T02:51:48.794328+00:00",
+ "open_postings": [
+  {
+   "external_id": "4289730003",
+   "title": "Can't find a role for you? Submit a general application.",
+   "role_family": "other",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2020-12-14T00:00:29+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=4289730003"
+  },
+  {
+   "external_id": "7503045003",
+   "title": "Senior Account Executive, Commercial",
+   "role_family": "sales",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2025-11-24T22:55:36+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7503045003"
+  },
+  {
+   "external_id": "7559181003",
+   "title": "Product Manager - Integrations",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-01-05T23:14:11+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7559181003"
+  },
+  {
+   "external_id": "7651403003",
+   "title": "Sr. Principal AI Systems Architect",
+   "role_family": "other",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-03-03T21:16:14+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7651403003"
+  },
+  {
+   "external_id": "7656004003",
+   "title": "Principal Product Designer",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-03-09T22:05:25+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7656004003"
+  },
+  {
+   "external_id": "7659463003",
+   "title": "Senior Account Executive, Enterprise",
+   "role_family": "sales",
+   "location": "Remote, Germany, EMEA",
+   "posted_at": "2026-03-12T10:29:09+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7659463003"
+  },
+  {
+   "external_id": "7659828003",
+   "title": "Staff Program Manager - Central Engineering Operations",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-03-20T14:20:49+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7659828003"
+  },
+  {
+   "external_id": "7687902003",
+   "title": "Staff Software Development Engineer in Test",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-04-09T10:58:32+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7687902003"
+  },
+  {
+   "external_id": "7688674003",
+   "title": "Staff Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-04-08T15:24:53+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7688674003"
+  },
+  {
+   "external_id": "7711200003",
+   "title": "Principal Software Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-04-24T21:05:58+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7711200003"
+  },
+  {
+   "external_id": "7723267003",
+   "title": "Staff Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-05-14T11:33:20+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7723267003"
+  },
+  {
+   "external_id": "7735023003",
+   "title": "Senior Sales Engineer, Commercial",
+   "role_family": "sales",
+   "location": "Dublin, Dublin, Ireland, EMEA",
+   "posted_at": "2026-07-15T09:37:07+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7735023003"
+  },
+  {
+   "external_id": "7735295003",
+   "title": "Staff Product Manager, Connectors",
+   "role_family": "product_design",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-05-18T12:30:27+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7735295003"
+  },
+  {
+   "external_id": "7735422003",
+   "title": "Senior Product Manager, Growth",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-06-10T20:57:15+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7735422003"
+  },
+  {
+   "external_id": "7742243003",
+   "title": "Senior Sales Engineer, Enterprise",
+   "role_family": "sales",
+   "location": "Remote, Germany, EMEA",
+   "posted_at": "2026-05-27T16:05:51+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7742243003"
+  },
+  {
+   "external_id": "7747624003",
+   "title": "Staff DevOps Engineer",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-05-25T08:04:21+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7747624003"
+  },
+  {
+   "external_id": "7768594003",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-06-22T22:50:37+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7768594003"
+  },
+  {
+   "external_id": "7771684003",
+   "title": "Principal Software Engineer - Data Lakes",
+   "role_family": "engineering",
+   "location": "Remote, Germany, EMEA",
+   "posted_at": "2026-06-16T15:03:41+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7771684003"
+  },
+  {
+   "external_id": "7772283003",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-06-16T19:45:11+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7772283003"
+  },
+  {
+   "external_id": "7778979003",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-06-25T00:07:05+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7778979003"
+  },
+  {
+   "external_id": "7785672003",
+   "title": "Senior Sales Engineer, Enterprise - German Speaking",
+   "role_family": "sales",
+   "location": "Remote, Ireland, EMEA",
+   "posted_at": "2026-06-25T14:30:18+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7785672003"
+  },
+  {
+   "external_id": "7785674003",
+   "title": "Senior Sales Engineer, Enterprise - German Speaking",
+   "role_family": "sales",
+   "location": "Remote, United Kingdom, EMEA",
+   "posted_at": "2026-06-25T14:30:20+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7785674003"
+  },
+  {
+   "external_id": "7786318003",
+   "title": "Product Manager - Integrations",
+   "role_family": "product_design",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-07-02T18:15:02+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7786318003"
+  },
+  {
+   "external_id": "7787879003",
+   "title": "Staff Technical Writer",
+   "role_family": "product_design",
+   "location": "Bangalore, India",
+   "posted_at": "2026-06-30T19:42:49+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7787879003"
+  },
+  {
+   "external_id": "7787885003",
+   "title": "Staff Product Manager - dbt v2",
+   "role_family": "product_design",
+   "location": "Remote, Colorado, United States, AMER",
+   "posted_at": "2026-06-30T21:25:10+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7787885003"
+  },
+  {
+   "external_id": "7787887003",
+   "title": "Customer Solutions Architect, Manager",
+   "role_family": "customer",
+   "location": "Dublin, Dublin, Ireland, EMEA",
+   "posted_at": "2026-08-10T17:03:02+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7787887003"
+  },
+  {
+   "external_id": "7787897003",
+   "title": "Commercial Sales Director (Benelux)",
+   "role_family": "exec",
+   "location": "Dublin, Dublin, Ireland, EMEA",
+   "posted_at": "2026-06-30T20:37:08+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7787897003"
+  },
+  {
+   "external_id": "7787913003",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-10-07T10:48:18+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7787913003"
+  },
+  {
+   "external_id": "7789375003",
+   "title": "Staff Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-07-07T18:28:12+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7789375003"
+  },
+  {
+   "external_id": "7790607003",
+   "title": "Manager, Customer Support Engineering",
+   "role_family": "customer",
+   "location": "Remote, Australia, APAC",
+   "posted_at": "2026-07-01T14:02:39+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7790607003"
+  },
+  {
+   "external_id": "7790795003",
+   "title": "Account Executive, Enterprise",
+   "role_family": "sales",
+   "location": "Remote, California, United States, AMER",
+   "posted_at": "2026-07-01T19:42:53+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7790795003"
+  },
+  {
+   "external_id": "7790852003",
+   "title": "Global Alliance Lead, Capgemini",
+   "role_family": "other",
+   "location": "Remote, California, United States, AMER",
+   "posted_at": "2026-07-01T14:31:39+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7790852003"
+  },
+  {
+   "external_id": "7790909003",
+   "title": "Staff Product Manager, Developer Experience",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-07-01T18:24:38+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7790909003"
+  },
+  {
+   "external_id": "7792160003",
+   "title": "Business Development Representative (Austin)",
+   "role_family": "sales",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-07-17T14:24:37+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7792160003"
+  },
+  {
+   "external_id": "7792166003",
+   "title": "Commercial Solutions Architect - Texas",
+   "role_family": "customer",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-07-27T16:07:11+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7792166003"
+  },
+  {
+   "external_id": "7796439003",
+   "title": "Customer Solutions Architect",
+   "role_family": "customer",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-07-17T17:02:08+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7796439003"
+  },
+  {
+   "external_id": "7796447003",
+   "title": "Commercial Sales Director",
+   "role_family": "exec",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-07-17T13:50:24+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7796447003"
+  },
+  {
+   "external_id": "7796453003",
+   "title": "Customer Sales Director",
+   "role_family": "exec",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-07-17T14:53:35+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7796453003"
+  },
+  {
+   "external_id": "7796528003",
+   "title": "Senior Solutions Architect, Enterprise",
+   "role_family": "customer",
+   "location": "Remote, Washington, United States, AMER",
+   "posted_at": "2026-07-14T22:08:26+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7796528003"
+  },
+  {
+   "external_id": "7805078003",
+   "title": "Global Alliance Lead, Capgemini",
+   "role_family": "other",
+   "location": "Remote, Colorado, United States, AMER",
+   "posted_at": "2026-07-14T20:01:41+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7805078003"
+  },
+  {
+   "external_id": "7806295003",
+   "title": "Senior Pricing Data Scientist",
+   "role_family": "ml_ai",
+   "location": "Remote, California, United States, AMER",
+   "posted_at": "2026-07-21T03:24:26+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7806295003"
+  },
+  {
+   "external_id": "7807040003",
+   "title": "Web Strategy & Optimization Lead",
+   "role_family": "marketing",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-07-16T20:29:41+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7807040003"
+  },
+  {
+   "external_id": "7807482003",
+   "title": "Web Strategy & Optimization Lead",
+   "role_family": "marketing",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-07-16T20:29:43+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7807482003"
+  },
+  {
+   "external_id": "7808191003",
+   "title": "Senior Product Design Manager",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-07-24T17:43:46+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7808191003"
+  },
+  {
+   "external_id": "7810218003",
+   "title": "Senior R&D Software Engineer, Fivetran AI",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-07-20T23:26:06+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7810218003"
+  },
+  {
+   "external_id": "7810220003",
+   "title": "Staff R&D Software Engineer, Fivetran AI",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-07-21T18:25:54+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7810220003"
+  },
+  {
+   "external_id": "7810381003",
+   "title": "Senior Staff Systems Engineer, GTM",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-08-04T18:48:50+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7810381003"
+  },
+  {
+   "external_id": "7810466003",
+   "title": "Senior R&D Software Engineer, Fivetran AI",
+   "role_family": "engineering",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-07-20T23:26:08+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7810466003"
+  },
+  {
+   "external_id": "7810467003",
+   "title": "Senior R&D Software Engineer, Fivetran AI",
+   "role_family": "engineering",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-07-20T23:27:42+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7810467003"
+  },
+  {
+   "external_id": "7810468003",
+   "title": "Senior R&D Software Engineer, Fivetran AI",
+   "role_family": "engineering",
+   "location": "USA - New York",
+   "posted_at": "2026-07-20T23:29:28+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7810468003"
+  },
+  {
+   "external_id": "7811889003",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-07-24T20:56:54+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7811889003"
+  },
+  {
+   "external_id": "7811996003",
+   "title": "Staff R&D Software Engineer, Fivetran AI",
+   "role_family": "engineering",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-07-21T18:29:21+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7811996003"
+  },
+  {
+   "external_id": "7812000003",
+   "title": "Staff R&D Software Engineer, Fivetran AI",
+   "role_family": "engineering",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-07-21T18:29:22+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7812000003"
+  },
+  {
+   "external_id": "7812006003",
+   "title": "Staff R&D Software Engineer, Fivetran AI",
+   "role_family": "engineering",
+   "location": "USA - New York",
+   "posted_at": "2026-07-21T18:29:23+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7812006003"
+  },
+  {
+   "external_id": "7812269003",
+   "title": "Principal Software Engineer, AI Tooling & Adoption",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-07-23T17:07:25+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7812269003"
+  },
+  {
+   "external_id": "7814036003",
+   "title": "Senior Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "Dublin, Dublin, Ireland, EMEA",
+   "posted_at": "2026-07-28T12:29:24+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7814036003"
+  },
+  {
+   "external_id": "7818224003",
+   "title": "Sr. Staff Technical Product Manager – Customer Support",
+   "role_family": "customer",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-10-01T09:08:14+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818224003"
+  },
+  {
+   "external_id": "7818226003",
+   "title": "Staff Software Engineer - Full Stack",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-08-24T12:45:50+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818226003"
+  },
+  {
+   "external_id": "7818250003",
+   "title": "Staff Software Engineer_Fusion Adapters",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-08-13T11:41:55+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818250003"
+  },
+  {
+   "external_id": "7818252003",
+   "title": "Staff Software Engineer - Developer Productivity",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-08-03T13:08:27+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818252003"
+  },
+  {
+   "external_id": "7818286003",
+   "title": "Senior Product Manager - Adapters",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-08-26T19:50:23+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818286003"
+  },
+  {
+   "external_id": "7818292003",
+   "title": "Senior Technical Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-22T16:40:20+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818292003"
+  },
+  {
+   "external_id": "7818294003",
+   "title": "Staff Software Engineer - Infrastructure",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-08-10T05:14:39+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818294003"
+  },
+  {
+   "external_id": "7818306003",
+   "title": "Senior Software Engineer - Developer Productivity",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-08-03T13:26:13+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818306003"
+  },
+  {
+   "external_id": "7818336003",
+   "title": "Senior Strategic Finance Analyst",
+   "role_family": "finance_ops",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-08-27T05:57:59+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818336003"
+  },
+  {
+   "external_id": "7818344003",
+   "title": "Partner Sales Manager",
+   "role_family": "other",
+   "location": "Remote, Japan, APAC",
+   "posted_at": "2026-08-07T17:31:42+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818344003"
+  },
+  {
+   "external_id": "7818352003",
+   "title": "Staff Software Engineer-dbt core",
+   "role_family": "engineering",
+   "location": "Bangalore, India",
+   "posted_at": "2026-08-05T16:00:40+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818352003"
+  },
+  {
+   "external_id": "7818366003",
+   "title": "Global Payroll Analyst",
+   "role_family": "other",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-10-13T05:33:58+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818366003"
+  },
+  {
+   "external_id": "7818374003",
+   "title": "Senior Software Engineer - Metadata",
+   "role_family": "engineering",
+   "location": "Ontario, Canada",
+   "posted_at": "2026-08-13T17:42:08+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818374003"
+  },
+  {
+   "external_id": "7818376003",
+   "title": "Senior Manager, dbt Fusion",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-05T20:01:39+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818376003"
+  },
+  {
+   "external_id": "7818378003",
+   "title": "Senior Systems Engineer - Data and Integrations",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-09-14T11:20:31+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818378003"
+  },
+  {
+   "external_id": "7818380003",
+   "title": "Senior Staff Software Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-09-08T22:50:50+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818380003"
+  },
+  {
+   "external_id": "7818382003",
+   "title": "Sales Director",
+   "role_family": "exec",
+   "location": "Remote, Japan, APAC",
+   "posted_at": "2026-08-07T18:04:07+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818382003"
+  },
+  {
+   "external_id": "7818394003",
+   "title": "Software Engineer II",
+   "role_family": "engineering",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-09-14T17:18:37+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7818394003"
+  },
+  {
+   "external_id": "7820250003",
+   "title": "Senior Sales Engineer, Commercial",
+   "role_family": "sales",
+   "location": "London, England, United Kingdom",
+   "posted_at": "2026-07-29T13:31:47+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7820250003"
+  },
+  {
+   "external_id": "7822402003",
+   "title": "Senior Software Engineer - Core Databases",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-08-10T10:49:45+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7822402003"
+  },
+  {
+   "external_id": "7822456003",
+   "title": "Senior Product Design Manager",
+   "role_family": "product_design",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-07-31T00:43:54+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7822456003"
+  },
+  {
+   "external_id": "7823193003",
+   "title": "Staff Software Engineer, Metadata",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-08-10T19:45:42+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7823193003"
+  },
+  {
+   "external_id": "7823195003",
+   "title": "Engineering Manager, Metadata",
+   "role_family": "engineering",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-08-11T09:58:58+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7823195003"
+  },
+  {
+   "external_id": "7826669003",
+   "title": "Senior Staff Systems Engineer, GTM",
+   "role_family": "engineering",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-08-04T18:48:51+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7826669003"
+  },
+  {
+   "external_id": "7837407003",
+   "title": "Senior Software Engineer - DB2 Databases",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-08-25T14:03:35+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7837407003"
+  },
+  {
+   "external_id": "7847762003",
+   "title": "Senior Software Engineer - C Programmer",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-08-10T10:52:24+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7847762003"
+  },
+  {
+   "external_id": "7859203003",
+   "title": "Engineering Manager, Metadata",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-08-12T13:23:11+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7859203003"
+  },
+  {
+   "external_id": "7859686003",
+   "title": "Staff Technical Program Manager",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-08-17T09:28:41+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7859686003"
+  },
+  {
+   "external_id": "7864598003",
+   "title": "Staff Software Engineer, Metadata",
+   "role_family": "engineering",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-08-13T16:33:36+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7864598003"
+  },
+  {
+   "external_id": "7864668003",
+   "title": "Staff Software Engineer, Metadata",
+   "role_family": "engineering",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-08-13T16:33:41+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7864668003"
+  },
+  {
+   "external_id": "7865037003",
+   "title": "Engineering Manager, Metadata",
+   "role_family": "engineering",
+   "location": "Toronto, Ontario, Canada",
+   "posted_at": "2026-08-13T16:32:07+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7865037003"
+  },
+  {
+   "external_id": "7865559003",
+   "title": "Senior Software Engineer - Metadata",
+   "role_family": "engineering",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-08-13T17:42:09+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7865559003"
+  },
+  {
+   "external_id": "7865591003",
+   "title": "Senior Software Engineer - Metadata",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-08-13T17:42:10+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7865591003"
+  },
+  {
+   "external_id": "7868539003",
+   "title": "Staff Technical Program Manager",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-08-17T13:19:13+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7868539003"
+  },
+  {
+   "external_id": "7868591003",
+   "title": "Senior Software Development Engineer in Test - Database Automation",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-08-21T13:52:40+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7868591003"
+  },
+  {
+   "external_id": "7875704003",
+   "title": "Technical Accounting & Reporting Senior Manager",
+   "role_family": "finance_ops",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-08-25T21:41:44+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7875704003"
+  },
+  {
+   "external_id": "7875706003",
+   "title": "Senior Sales Engineer, Enterprise",
+   "role_family": "sales",
+   "location": "Remote, Colorado, United States, AMER",
+   "posted_at": "2026-08-18T21:45:33+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7875706003"
+  },
+  {
+   "external_id": "7875708003",
+   "title": "Senior Manager Accounting",
+   "role_family": "finance_ops",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-08-25T22:19:15+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7875708003"
+  },
+  {
+   "external_id": "7885690003",
+   "title": "Senior Manager, Accounts Receivable & Billing",
+   "role_family": "other",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-08-19T04:25:44+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7885690003"
+  },
+  {
+   "external_id": "7885745003",
+   "title": "Business Development Representative",
+   "role_family": "sales",
+   "location": "Dublin, Dublin, Ireland, EMEA",
+   "posted_at": "2026-08-17T14:45:13+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7885745003"
+  },
+  {
+   "external_id": "7893696003",
+   "title": "Order Management Senior Analyst",
+   "role_family": "other",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-09-01T07:07:50+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7893696003"
+  },
+  {
+   "external_id": "7894333003",
+   "title": "Staff Product Manager, Developer Experience",
+   "role_family": "product_design",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-08-18T20:00:16+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7894333003"
+  },
+  {
+   "external_id": "7894337003",
+   "title": "Staff Product Manager, Developer Experience",
+   "role_family": "product_design",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-08-18T20:03:46+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7894337003"
+  },
+  {
+   "external_id": "7894342003",
+   "title": "Staff Product Manager, Developer Experience",
+   "role_family": "product_design",
+   "location": "USA - New York (dbt)",
+   "posted_at": "2026-08-18T20:05:43+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7894342003"
+  },
+  {
+   "external_id": "7894565003",
+   "title": "Technical Program Manager, Security",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-08-18T21:12:57+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7894565003"
+  },
+  {
+   "external_id": "7897681003",
+   "title": "Senior Account Executive, Enterprise",
+   "role_family": "sales",
+   "location": "Remote, Any, Sweden",
+   "posted_at": "2026-09-02T08:42:11+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7897681003"
+  },
+  {
+   "external_id": "7918612003",
+   "title": "Senior Data Analyst, People",
+   "role_family": "data",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-08-25T18:01:45+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7918612003"
+  },
+  {
+   "external_id": "7975436003",
+   "title": "Staff Product Manager - dbt v2",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-08-25T17:05:53+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7975436003"
+  },
+  {
+   "external_id": "7975857003",
+   "title": "Senior Data Analyst, People",
+   "role_family": "data",
+   "location": "USA - New York (dbt)",
+   "posted_at": "2026-08-25T18:03:43+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7975857003"
+  },
+  {
+   "external_id": "7976827003",
+   "title": "Senior Staff Software Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-08-25T20:44:21+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7976827003"
+  },
+  {
+   "external_id": "7977601003",
+   "title": "Technical Accounting & Reporting Senior Manager",
+   "role_family": "finance_ops",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-08-25T21:41:47+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7977601003"
+  },
+  {
+   "external_id": "7977690003",
+   "title": "Senior Manager Accounting",
+   "role_family": "finance_ops",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-08-25T22:26:58+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7977690003"
+  },
+  {
+   "external_id": "7978219003",
+   "title": "Lead Company Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-03T21:35:31+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7978219003"
+  },
+  {
+   "external_id": "7978687003",
+   "title": "Accounts Payable Analyst",
+   "role_family": "other",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-09-15T10:11:52+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7978687003"
+  },
+  {
+   "external_id": "7978689003",
+   "title": "Senior Internal Communications Manager",
+   "role_family": "other",
+   "location": "Remote, California, United States, AMER",
+   "posted_at": "2026-09-10T18:43:19+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7978689003"
+  },
+  {
+   "external_id": "7980977003",
+   "title": "Senior Software Engineer - Orchestration",
+   "role_family": "engineering",
+   "location": "Ontario, Canada",
+   "posted_at": "2026-09-23T19:20:09+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7980977003"
+  },
+  {
+   "external_id": "7981429003",
+   "title": "Business Development Representative (Oakland)",
+   "role_family": "sales",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-08-31T13:06:32+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7981429003"
+  },
+  {
+   "external_id": "7981431003",
+   "title": "Business Development Representative (Sydney)",
+   "role_family": "sales",
+   "location": "Sydney, New South Wales, Australia, APAC",
+   "posted_at": "2026-08-31T12:43:25+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7981431003"
+  },
+  {
+   "external_id": "7981621003",
+   "title": "Business Development Representative (Denver)",
+   "role_family": "sales",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-08-31T13:09:13+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7981621003"
+  },
+  {
+   "external_id": "7983184003",
+   "title": "Business Development Representative, Enterprise",
+   "role_family": "sales",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-18T14:02:19+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7983184003"
+  },
+  {
+   "external_id": "7983186003",
+   "title": "Business Development Representative, Enterprise",
+   "role_family": "sales",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-18T14:02:21+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7983186003"
+  },
+  {
+   "external_id": "7983187003",
+   "title": "Business Development Representative, Enterprise",
+   "role_family": "sales",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-09-18T14:02:23+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7983187003"
+  },
+  {
+   "external_id": "7985969003",
+   "title": "Lead Company Operations Manager",
+   "role_family": "finance_ops",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-09-03T21:36:08+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7985969003"
+  },
+  {
+   "external_id": "7985971003",
+   "title": "Lead Company Operations Manager",
+   "role_family": "finance_ops",
+   "location": "USA - Philadelphia (dbt)",
+   "posted_at": "2026-09-03T21:36:10+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7985971003"
+  },
+  {
+   "external_id": "7985977003",
+   "title": "Lead Company Operations Manager",
+   "role_family": "finance_ops",
+   "location": "USA - New York",
+   "posted_at": "2026-09-03T21:36:11+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7985977003"
+  },
+  {
+   "external_id": "7985980003",
+   "title": "Lead Company Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-03T21:36:13+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7985980003"
+  },
+  {
+   "external_id": "7990752003",
+   "title": "Senior Staff Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-11T21:39:52+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7990752003"
+  },
+  {
+   "external_id": "7990835003",
+   "title": "Senior UX Researcher",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-21T21:03:53+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7990835003"
+  },
+  {
+   "external_id": "7991106003",
+   "title": "Regional Vice President",
+   "role_family": "exec",
+   "location": "Remote, Washington, United States, AMER",
+   "posted_at": "2026-09-17T19:05:13+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7991106003"
+  },
+  {
+   "external_id": "7991782003",
+   "title": "Senior Internal Communications Manager",
+   "role_family": "other",
+   "location": "Remote, Colorado, United States, AMER",
+   "posted_at": "2026-09-10T20:34:34+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7991782003"
+  },
+  {
+   "external_id": "7991786003",
+   "title": "Senior Internal Communications Manager",
+   "role_family": "other",
+   "location": "Remote, Texas, United States, AMER",
+   "posted_at": "2026-09-10T20:36:21+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7991786003"
+  },
+  {
+   "external_id": "7991787003",
+   "title": "Senior Internal Communications Manager",
+   "role_family": "other",
+   "location": "Remote, New York, United States, AMER",
+   "posted_at": "2026-09-10T20:38:41+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7991787003"
+  },
+  {
+   "external_id": "7991793003",
+   "title": "Senior Internal Communications Manager",
+   "role_family": "other",
+   "location": "Remote, Pennsylvania, United States, AMER",
+   "posted_at": "2026-09-10T20:40:08+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7991793003"
+  },
+  {
+   "external_id": "7991796003",
+   "title": "Senior Internal Communications Manager",
+   "role_family": "other",
+   "location": "Remote, Washington, United States, AMER",
+   "posted_at": "2026-09-10T20:41:47+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7991796003"
+  },
+  {
+   "external_id": "7992087003",
+   "title": "Compensation & Analytics Partner",
+   "role_family": "other",
+   "location": "CRI - Remote",
+   "posted_at": "2026-09-17T18:26:28+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7992087003"
+  },
+  {
+   "external_id": "7992270003",
+   "title": "Staff Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "Dublin, Dublin, Ireland, EMEA",
+   "posted_at": "2026-09-16T12:51:45+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7992270003"
+  },
+  {
+   "external_id": "7992802003",
+   "title": "GTM Finance Sr. Analyst",
+   "role_family": "finance_ops",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-14T21:54:31+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7992802003"
+  },
+  {
+   "external_id": "7994507003",
+   "title": "Principal Analyst, GTM Analytics (Costa Rica)",
+   "role_family": "gtm_ops",
+   "location": "CRI - Remote",
+   "posted_at": "2026-09-18T21:21:54+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7994507003"
+  },
+  {
+   "external_id": "7994707003",
+   "title": "Business Development Representative - French Speaking",
+   "role_family": "sales",
+   "location": "Dublin, Dublin, Ireland, EMEA",
+   "posted_at": "2026-09-14T18:46:09+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7994707003"
+  },
+  {
+   "external_id": "7994710003",
+   "title": "Senior Analyst, GTM Analytics",
+   "role_family": "gtm_ops",
+   "location": "CRI - Remote",
+   "posted_at": "2026-09-18T21:55:45+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7994710003"
+  },
+  {
+   "external_id": "7994731003",
+   "title": "Analyst, GTM Analytics",
+   "role_family": "gtm_ops",
+   "location": "CRI - Remote",
+   "posted_at": "2026-09-18T20:48:47+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7994731003"
+  },
+  {
+   "external_id": "7994914003",
+   "title": "GTM Finance Sr. Analyst",
+   "role_family": "finance_ops",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-14T21:54:30+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7994914003"
+  },
+  {
+   "external_id": "7997442003",
+   "title": "Program Manager, Growth, Monetization & Strategic Initiatives",
+   "role_family": "product_design",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-22T17:25:40+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7997442003"
+  },
+  {
+   "external_id": "7998877003",
+   "title": "Lead Sales Engineer, Enterprise",
+   "role_family": "sales",
+   "location": "Remote, California, United States, AMER",
+   "posted_at": "2026-10-01T15:04:05+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7998877003"
+  },
+  {
+   "external_id": "7999076003",
+   "title": "Senior Software Development Engineer in Test",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-09-29T08:22:33+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7999076003"
+  },
+  {
+   "external_id": "7999371003",
+   "title": "Business Development Representative, Enterprise - German Speaking",
+   "role_family": "sales",
+   "location": "London, England, United Kingdom",
+   "posted_at": "2026-09-18T15:27:51+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7999371003"
+  },
+  {
+   "external_id": "7999916003",
+   "title": "Staff Solutions Engineer",
+   "role_family": "sales",
+   "location": "Remote, New York, United States, AMER",
+   "posted_at": "2026-10-01T16:35:57+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7999916003"
+  },
+  {
+   "external_id": "8000571003",
+   "title": "Senior Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-09-21T13:18:29+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8000571003"
+  },
+  {
+   "external_id": "8001609003",
+   "title": "Pricing & Order Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-21T23:53:50+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003"
+  },
+  {
+   "external_id": "8002744003",
+   "title": "Senior Technical Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-22T18:37:19+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8002744003"
+  },
+  {
+   "external_id": "8003005003",
+   "title": "Senior Solutions Architect, Enterprise",
+   "role_family": "customer",
+   "location": "Remote, Texas, United States, AMER",
+   "posted_at": "2026-10-06T21:21:54+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8003005003"
+  },
+  {
+   "external_id": "8003686003",
+   "title": "Technical Accounting Senior Manager",
+   "role_family": "finance_ops",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-23T18:45:20+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8003686003"
+  },
+  {
+   "external_id": "8003707003",
+   "title": "Technical Accounting Senior Manager",
+   "role_family": "finance_ops",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-23T18:49:55+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8003707003"
+  },
+  {
+   "external_id": "8003720003",
+   "title": "Senior Software Engineer - Orchestration",
+   "role_family": "engineering",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-23T19:20:12+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8003720003"
+  },
+  {
+   "external_id": "8003725003",
+   "title": "Senior Software Engineer - Orchestration",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-09-23T19:20:14+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8003725003"
+  },
+  {
+   "external_id": "8004657003",
+   "title": "Staff Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States",
+   "posted_at": "2026-09-24T18:00:38+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8004657003"
+  },
+  {
+   "external_id": "8004964003",
+   "title": "Sr. Staff Systems Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-06T20:17:45+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8004964003"
+  },
+  {
+   "external_id": "8005005003",
+   "title": "Executive Business Partner",
+   "role_family": "other",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-06T16:40:44+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005005003"
+  },
+  {
+   "external_id": "8005007003",
+   "title": "Senior Marketing Analyst",
+   "role_family": "marketing",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-25T20:36:09+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005007003"
+  },
+  {
+   "external_id": "8005548003",
+   "title": "Pricing & Order Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-09-25T17:36:00+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003"
+  },
+  {
+   "external_id": "8005784003",
+   "title": "Pricing & Order Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-09-25T20:49:49+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003"
+  },
+  {
+   "external_id": "8005785003",
+   "title": "Pricing & Order Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "USA - New York",
+   "posted_at": "2026-09-25T20:49:51+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003"
+  },
+  {
+   "external_id": "8007249003",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-01T18:48:29+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8007249003"
+  },
+  {
+   "external_id": "8007388003",
+   "title": "Tax Manager",
+   "role_family": "other",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-10-05T15:36:37+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8007388003"
+  },
+  {
+   "external_id": "8007390003",
+   "title": "Business Development Representative, Commercial",
+   "role_family": "sales",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-30T22:28:28+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8007390003"
+  },
+  {
+   "external_id": "8008070003",
+   "title": "Senior Program Manager",
+   "role_family": "engineering",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-10-08T13:02:09+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8008070003"
+  },
+  {
+   "external_id": "8008095003",
+   "title": "Senior Financial Systems Analyst",
+   "role_family": "other",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-10-08T16:20:30+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8008095003"
+  },
+  {
+   "external_id": "8008322003",
+   "title": "Partner Solutions Architect",
+   "role_family": "customer",
+   "location": "Remote, Any, United States, AMER",
+   "posted_at": "2026-10-13T16:47:14+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8008322003"
+  },
+  {
+   "external_id": "8009201003",
+   "title": "GTM Strategy & Planning Manager",
+   "role_family": "gtm_ops",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-10-06T16:30:02+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8009201003"
+  },
+  {
+   "external_id": "8009202003",
+   "title": "Growth Marketing Strategy & Planning Manager",
+   "role_family": "marketing",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-09-30T21:40:18+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8009202003"
+  },
+  {
+   "external_id": "8010210003",
+   "title": "Lead Cloud Onboarding Architect",
+   "role_family": "customer",
+   "location": "Remote, Any, United States, AMER; Remote, Illinois, United States, AMER",
+   "posted_at": "2026-10-05T15:20:38+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8010210003"
+  },
+  {
+   "external_id": "8010276003",
+   "title": "Staff Technical Writer",
+   "role_family": "product_design",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-10-13T11:30:58+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8010276003"
+  },
+  {
+   "external_id": "8012116003",
+   "title": "Enterprise Sales Director",
+   "role_family": "sales",
+   "location": "Remote, Massachusetts, United States, AMER",
+   "posted_at": "2026-10-09T12:47:18+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8012116003"
+  },
+  {
+   "external_id": "8012156003",
+   "title": "Senior International Accountant",
+   "role_family": "other",
+   "location": "Bangalore, India",
+   "posted_at": "2026-10-12T05:46:52+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8012156003"
+  },
+  {
+   "external_id": "8013525003",
+   "title": "Senior Manager, dbt Fusion",
+   "role_family": "engineering",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-10-05T20:01:41+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8013525003"
+  },
+  {
+   "external_id": "8013527003",
+   "title": "Senior Manager, dbt Fusion",
+   "role_family": "engineering",
+   "location": "Ontario, Canada",
+   "posted_at": "2026-10-05T20:01:44+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8013527003"
+  },
+  {
+   "external_id": "8014678003",
+   "title": "Growth Marketing Strategy & Planning Manager",
+   "role_family": "marketing",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-10-06T16:07:42+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8014678003"
+  },
+  {
+   "external_id": "8014679003",
+   "title": "Growth Marketing Strategy & Planning Manager",
+   "role_family": "marketing",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-06T16:07:44+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8014679003"
+  },
+  {
+   "external_id": "8014680003",
+   "title": "Growth Marketing Strategy & Planning Manager",
+   "role_family": "marketing",
+   "location": "USA - New York",
+   "posted_at": "2026-10-06T16:07:45+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8014680003"
+  },
+  {
+   "external_id": "8014715003",
+   "title": "GTM Strategy & Planning Manager",
+   "role_family": "gtm_ops",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-10-06T16:30:05+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8014715003"
+  },
+  {
+   "external_id": "8014716003",
+   "title": "GTM Strategy & Planning Manager",
+   "role_family": "gtm_ops",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-06T16:30:07+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8014716003"
+  },
+  {
+   "external_id": "8014717003",
+   "title": "GTM Strategy & Planning Manager",
+   "role_family": "gtm_ops",
+   "location": "USA - New York",
+   "posted_at": "2026-10-06T16:30:08+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8014717003"
+  },
+  {
+   "external_id": "8015055003",
+   "title": "Web Strategy & Optimization Lead",
+   "role_family": "marketing",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-10-06T21:19:32+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8015055003"
+  },
+  {
+   "external_id": "8015058003",
+   "title": "Web Strategy & Optimization Lead",
+   "role_family": "marketing",
+   "location": "USA - Philadelphia (dbt)",
+   "posted_at": "2026-10-06T21:23:22+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8015058003"
+  },
+  {
+   "external_id": "8015059003",
+   "title": "Web Strategy & Optimization Lead",
+   "role_family": "marketing",
+   "location": "USA - New York (dbt)",
+   "posted_at": "2026-10-06T21:24:51+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8015059003"
+  },
+  {
+   "external_id": "8015169003",
+   "title": "Talent Acquisition Coordinator - Contract",
+   "role_family": "finance_ops",
+   "location": "Dublin, Dublin, Ireland, EMEA",
+   "posted_at": "2026-10-08T22:15:52+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8015169003"
+  },
+  {
+   "external_id": "8015935003",
+   "title": "Senior Data Management Partner",
+   "role_family": "other",
+   "location": "Bengaluru, Karnataka, India, APAC",
+   "posted_at": "2026-10-08T23:44:26+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8015935003"
+  },
+  {
+   "external_id": "8016280003",
+   "title": "Sr. Manager, Partner Solutions Architecture",
+   "role_family": "sales",
+   "location": "Remote, United Kingdom, EMEA",
+   "posted_at": "2026-10-12T09:24:33+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8016280003"
+  },
+  {
+   "external_id": "8016899003",
+   "title": "Engineering Manager, Metadata",
+   "role_family": "engineering",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-10-08T15:59:36+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8016899003"
+  },
+  {
+   "external_id": "8017186003",
+   "title": "Senior Software Engineer - Orchestration",
+   "role_family": "engineering",
+   "location": "USA - Austin (dbt)",
+   "posted_at": "2026-10-08T19:50:40+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8017186003"
+  },
+  {
+   "external_id": "8017412003",
+   "title": "Manager Software Engineering",
+   "role_family": "engineering",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-16T16:29:10+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8017412003"
+  },
+  {
+   "external_id": "8017414003",
+   "title": "Senior Product Analyst",
+   "role_family": "other",
+   "location": "Oakland, California, United States, AMER",
+   "posted_at": "2026-10-15T03:12:55+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8017414003"
+  },
+  {
+   "external_id": "8031480003",
+   "title": "Senior Software Engineer - SaaS Google connectors",
+   "role_family": "engineering",
+   "location": "Novi Sad, South Bačka, Serbia, EMEA",
+   "posted_at": "2026-10-15T08:44:35+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8031480003"
+  },
+  {
+   "external_id": "8036187003",
+   "title": "Senior Strategic Finance Analyst",
+   "role_family": "finance_ops",
+   "location": "Denver, Colorado, United States, AMER",
+   "posted_at": "2026-10-16T23:00:28+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8036187003"
+  },
+  {
+   "external_id": "8036189003",
+   "title": "Senior Strategic Finance Analyst",
+   "role_family": "finance_ops",
+   "location": "USA - New York (dbt)",
+   "posted_at": "2026-10-16T23:00:31+00:00",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8036189003"
+  }
+ ]
+}

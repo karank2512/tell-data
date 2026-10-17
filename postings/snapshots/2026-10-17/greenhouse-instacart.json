@@ -1,0 +1,1089 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "instacart",
+ "domain": "instacart.com",
+ "as_of": "2026-10-17",
+ "last_polled_at": "2026-10-17T02:51:48.794328+00:00",
+ "open_postings": [
+  {
+   "external_id": "6819435",
+   "title": "Retail Partner Manager",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2025-04-18T20:57:35+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=6819435"
+  },
+  {
+   "external_id": "6819437",
+   "title": "Retail Partner Manager",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2025-04-18T20:57:37+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=6819437"
+  },
+  {
+   "external_id": "7144697",
+   "title": "Activation Sales Development Representative I",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2025-08-07T23:08:44+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7144697"
+  },
+  {
+   "external_id": "7361224",
+   "title": "Staff Software Engineer, FoodStorm",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2025-10-27T21:44:58+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7361224"
+  },
+  {
+   "external_id": "7558978",
+   "title": "Sales Associate - New York",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-01-22T23:40:41+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7558978"
+  },
+  {
+   "external_id": "7560993",
+   "title": "Sales Associate - San Francisco/Los Angeles",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-01-23T18:47:23+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7560993"
+  },
+  {
+   "external_id": "7572155",
+   "title": "Sales Associate",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-01-28T18:40:58+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7572155"
+  },
+  {
+   "external_id": "7712406",
+   "title": "Retention Sales Development Representative II",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-03-12T17:27:23+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7712406"
+  },
+  {
+   "external_id": "7778693",
+   "title": "Staff Software Engineer, Data Governance & Foundations",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2026-04-03T18:34:39+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7778693"
+  },
+  {
+   "external_id": "7793089",
+   "title": "Senior Machine Learning Engineer, Operations Research",
+   "role_family": "ml_ai",
+   "location": "United States - Remote",
+   "posted_at": "2026-04-09T17:10:11+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7793089"
+  },
+  {
+   "external_id": "7793391",
+   "title": "Senior Applied Scientist II, Ads Optimization",
+   "role_family": "ml_ai",
+   "location": "United States - Remote",
+   "posted_at": "2026-04-08T19:45:26+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7793391"
+  },
+  {
+   "external_id": "7871823",
+   "title": "Director of Customer Success",
+   "role_family": "customer",
+   "location": "United States - Remote",
+   "posted_at": "2026-05-11T18:30:23+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7871823"
+  },
+  {
+   "external_id": "7871825",
+   "title": "Director of Customer Success",
+   "role_family": "customer",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-05-11T18:30:23+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7871825"
+  },
+  {
+   "external_id": "7927378",
+   "title": "Engineering Manager, Catalog",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-05-14T20:59:00+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7927378"
+  },
+  {
+   "external_id": "7931358",
+   "title": "Senior Sales Associate",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-05-15T19:29:17+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7931358"
+  },
+  {
+   "external_id": "7951938",
+   "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
+   "role_family": "sales",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-05-29T22:54:37+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7951938"
+  },
+  {
+   "external_id": "7960958",
+   "title": "Engineering Manager, Service Platform",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2026-05-27T17:27:57+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7960958"
+  },
+  {
+   "external_id": "7960988",
+   "title": "Engineering Manager, Service Platform",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-05-27T17:27:59+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7960988"
+  },
+  {
+   "external_id": "7963838",
+   "title": "Senior Machine Learning Engineer II, Ads Response Prediction",
+   "role_family": "ml_ai",
+   "location": "United States - Remote",
+   "posted_at": "2026-05-28T19:10:27+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7963838"
+  },
+  {
+   "external_id": "7963840",
+   "title": "Senior Machine Learning Engineer, Ads Response Prediction",
+   "role_family": "ml_ai",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-15T12:52:18+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7963840"
+  },
+  {
+   "external_id": "7991597",
+   "title": "Director, Enterprise Product Marketing",
+   "role_family": "marketing",
+   "location": "United States - Remote",
+   "posted_at": "2026-06-09T16:08:02+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7991597"
+  },
+  {
+   "external_id": "7991599",
+   "title": "Director, Enterprise Product Marketing",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-06-09T16:08:04+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=7991599"
+  },
+  {
+   "external_id": "8029661",
+   "title": "Sales Development Representative II, Local Independent Grocery - New York",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-06-25T23:32:06+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8029661"
+  },
+  {
+   "external_id": "8053797",
+   "title": "Senior Software Engineer II, AI Labs & Foundations",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-02T21:03:54+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8053797"
+  },
+  {
+   "external_id": "8069980",
+   "title": "Sales Development Representative II, Local Independent Grocery - Chicago",
+   "role_family": "sales",
+   "location": "Chicago, IL",
+   "posted_at": "2026-07-16T18:11:01+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8069980"
+  },
+  {
+   "external_id": "8069983",
+   "title": "Sales Development Representative II, Local Independent Grocery - Boston",
+   "role_family": "sales",
+   "location": "Boston, MA",
+   "posted_at": "2026-07-16T18:13:32+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8069983"
+  },
+  {
+   "external_id": "8077510",
+   "title": "Senior Product Manager, Ads Quality",
+   "role_family": "product_design",
+   "location": "United States - Remote",
+   "posted_at": "2026-07-23T04:29:47+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8077510"
+  },
+  {
+   "external_id": "8077512",
+   "title": "Senior Product Manager, Ads Quality",
+   "role_family": "product_design",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-07-23T04:29:48+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8077512"
+  },
+  {
+   "external_id": "8077677",
+   "title": "Senior Manager, Technical Account Management (Enterprise)",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-07-31T16:59:17+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8077677"
+  },
+  {
+   "external_id": "8077679",
+   "title": "Senior Manager, Technical Account Management (Enterprise)",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-07-22T19:25:35+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8077679"
+  },
+  {
+   "external_id": "8084089",
+   "title": "Staff Experience Designer",
+   "role_family": "product_design",
+   "location": "United States - Remote",
+   "posted_at": "2026-07-27T13:34:05+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8084089"
+  },
+  {
+   "external_id": "8084090",
+   "title": "Staff Experience Designer",
+   "role_family": "product_design",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-07-27T13:34:15+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8084090"
+  },
+  {
+   "external_id": "8084349",
+   "title": "Senior Engineering Manager, Core Picking",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2026-07-27T19:46:41+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8084349"
+  },
+  {
+   "external_id": "8084350",
+   "title": "Senior Engineering Manager, Core Picking",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-28T20:51:47+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8084350"
+  },
+  {
+   "external_id": "8110286",
+   "title": "Staff Software Engineer, Orders Platform",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-10T14:28:12+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8110286"
+  },
+  {
+   "external_id": "8112136",
+   "title": "Chief of Staff, Online Grocery",
+   "role_family": "finance_ops",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-06T21:25:56+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8112136"
+  },
+  {
+   "external_id": "8112138",
+   "title": "Chief of Staff, Online Grocery",
+   "role_family": "finance_ops",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-06T21:26:12+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8112138"
+  },
+  {
+   "external_id": "8115834",
+   "title": "Insights Lead, Instacart Business",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-07T22:32:55+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8115834"
+  },
+  {
+   "external_id": "8115836",
+   "title": "Insights Lead, Instacart Business",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-07T22:32:55+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8115836"
+  },
+  {
+   "external_id": "8120469",
+   "title": "Senior Product Manager, Advertiser Experience",
+   "role_family": "product_design",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-14T20:27:16+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8120469"
+  },
+  {
+   "external_id": "8120471",
+   "title": "Senior Product Manager, Advertiser Experience",
+   "role_family": "product_design",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-14T20:27:16+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8120471"
+  },
+  {
+   "external_id": "8120705",
+   "title": "Director IT, Internal Audit",
+   "role_family": "exec",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-10T23:34:46+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8120705"
+  },
+  {
+   "external_id": "8122997",
+   "title": "Retail Lead, Sales Development",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-12T17:01:47+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8122997"
+  },
+  {
+   "external_id": "8123029",
+   "title": "Retail Lead, Sales Development",
+   "role_family": "sales",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-12T17:01:48+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8123029"
+  },
+  {
+   "external_id": "8141481",
+   "title": "Staff User Researcher - Consumer",
+   "role_family": "ml_ai",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-19T13:32:26+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8141481"
+  },
+  {
+   "external_id": "8141483",
+   "title": "Staff User Researcher - Consumer",
+   "role_family": "ml_ai",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-19T13:32:27+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8141483"
+  },
+  {
+   "external_id": "8141533",
+   "title": "Senior Software Engineer II, Marketing Enablement & Technology",
+   "role_family": "marketing",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-19T13:50:05+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8141533"
+  },
+  {
+   "external_id": "8141535",
+   "title": "Senior Software Engineer II, Marketing Enablement & Technology",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-19T13:50:06+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8141535"
+  },
+  {
+   "external_id": "8143270",
+   "title": "Senior Product Manager, Catalog",
+   "role_family": "product_design",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-20T18:41:30+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8143270"
+  },
+  {
+   "external_id": "8143272",
+   "title": "Senior Product Manager, Catalog",
+   "role_family": "product_design",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-20T18:41:31+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8143272"
+  },
+  {
+   "external_id": "8145998",
+   "title": "AI Solutions Lead, Marketing",
+   "role_family": "marketing",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-20T22:21:58+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8145998"
+  },
+  {
+   "external_id": "8146070",
+   "title": "AI Solutions Lead, Marketing",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-20T22:21:59+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8146070"
+  },
+  {
+   "external_id": "8154300",
+   "title": "Senior Detection Engineer II",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-24T16:44:18+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8154300"
+  },
+  {
+   "external_id": "8154308",
+   "title": "Senior Detection Engineer II",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-24T16:45:44+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8154308"
+  },
+  {
+   "external_id": "8154479",
+   "title": "iOS Developer",
+   "role_family": "other",
+   "location": "Israel - Hybrid (3 days/week in office required)",
+   "posted_at": "2026-08-24T17:50:21+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8154479"
+  },
+  {
+   "external_id": "8155140",
+   "title": "Principal Computer Vision Engineer",
+   "role_family": "engineering",
+   "location": "Israel - Hybrid (3 days/week in office required)",
+   "posted_at": "2026-08-24T20:46:52+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8155140"
+  },
+  {
+   "external_id": "8157736",
+   "title": "Senior Machine Learning Engineer, Economist",
+   "role_family": "ml_ai",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-27T20:26:27+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8157736"
+  },
+  {
+   "external_id": "8157738",
+   "title": "Senior Machine Learning Engineer, Economist",
+   "role_family": "ml_ai",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-27T20:26:30+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8157738"
+  },
+  {
+   "external_id": "8157774",
+   "title": "Bilingual Customer Experience Specialist (Spanish)",
+   "role_family": "customer",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-25T21:28:39+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8157774"
+  },
+  {
+   "external_id": "8157831",
+   "title": "Oracle Fusion ERP Technical Analyst",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-08-25T23:02:27+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8157831"
+  },
+  {
+   "external_id": "8157911",
+   "title": "Oracle Fusion ERP Technical Analyst",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-08-25T23:02:29+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8157911"
+  },
+  {
+   "external_id": "8165155",
+   "title": "Principal Supply Chain Partner Manager",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-01T19:09:58+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8165155"
+  },
+  {
+   "external_id": "8168196",
+   "title": "Principal Supply Chain Partner Manager",
+   "role_family": "sales",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-01T19:10:01+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8168196"
+  },
+  {
+   "external_id": "8177972",
+   "title": "Growth Media Marketing Manager, Paid Search",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-03T20:08:17+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8177972"
+  },
+  {
+   "external_id": "8188987",
+   "title": "Software Engineer II, - Ads",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-09T16:56:03+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8188987"
+  },
+  {
+   "external_id": "8190576",
+   "title": "Government Affairs Manager II, Northwest",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-10T20:24:18+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8190576"
+  },
+  {
+   "external_id": "8191763",
+   "title": "Senior Product Designer II - Lifecycle & Growth",
+   "role_family": "gtm_ops",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-10T17:28:47+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8191763"
+  },
+  {
+   "external_id": "8191765",
+   "title": "Senior Product Designer II - Lifecycle & Growth",
+   "role_family": "gtm_ops",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-10T17:29:33+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8191765"
+  },
+  {
+   "external_id": "8197990",
+   "title": "Senior SOX Manager - Business Processes",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-11T23:22:38+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8197990"
+  },
+  {
+   "external_id": "8198159",
+   "title": "Senior Product Manager, AI Control Studio",
+   "role_family": "product_design",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-16T16:35:42+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8198159"
+  },
+  {
+   "external_id": "8198161",
+   "title": "Senior Product Manager, AI Control Studio",
+   "role_family": "product_design",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-16T16:35:44+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8198161"
+  },
+  {
+   "external_id": "8198282",
+   "title": "Director of Product, Logistics",
+   "role_family": "exec",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-16T16:35:17+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8198282"
+  },
+  {
+   "external_id": "8198284",
+   "title": "Director of Product, Logistics",
+   "role_family": "exec",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-16T16:35:19+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8198284"
+  },
+  {
+   "external_id": "8202247",
+   "title": "Staff Software Engineer, Developer Experience",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-14T20:23:22+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8202247"
+  },
+  {
+   "external_id": "8203107",
+   "title": "Senior Product Manager, Order Quality",
+   "role_family": "product_design",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-16T16:36:01+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8203107"
+  },
+  {
+   "external_id": "8203109",
+   "title": "Senior Product Manager, Order Quality",
+   "role_family": "product_design",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-16T16:36:03+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8203109"
+  },
+  {
+   "external_id": "8204016",
+   "title": "Senior Software Engineer II, Developer Experience",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-15T13:32:53+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8204016"
+  },
+  {
+   "external_id": "8212434",
+   "title": "B2B Event Marketing Manager (6-Month Contract)",
+   "role_family": "marketing",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-17T23:16:19+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8212434"
+  },
+  {
+   "external_id": "8214732",
+   "title": "HR Business Partner",
+   "role_family": "finance_ops",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-18T22:15:35+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8214732"
+  },
+  {
+   "external_id": "8214827",
+   "title": "Senior Product Marketing Manager, Instacart+",
+   "role_family": "marketing",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-18T22:35:36+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8214827"
+  },
+  {
+   "external_id": "8214859",
+   "title": "Senior Product Marketing Manager, Instacart+",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-18T22:35:38+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8214859"
+  },
+  {
+   "external_id": "8214941",
+   "title": "Senior Account Manager, Retail Media",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-21T16:45:22+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8214941"
+  },
+  {
+   "external_id": "8214962",
+   "title": "Senior Account Manager, Retail Media",
+   "role_family": "sales",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-21T16:45:24+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8214962"
+  },
+  {
+   "external_id": "8215004",
+   "title": "Director, Product Partnerships",
+   "role_family": "exec",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-21T16:44:37+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8215004"
+  },
+  {
+   "external_id": "8215052",
+   "title": "Director, Product Partnerships",
+   "role_family": "exec",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-21T16:44:39+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8215052"
+  },
+  {
+   "external_id": "8232310",
+   "title": "Billing Operations Lead",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-25T00:21:37+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8232310"
+  },
+  {
+   "external_id": "8232312",
+   "title": "Billing Operations Lead",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-25T20:31:29+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8232312"
+  },
+  {
+   "external_id": "8233716",
+   "title": "Software Engineer II, Advertiser Optimization",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-25T17:57:51+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8233716"
+  },
+  {
+   "external_id": "8234282",
+   "title": "Senior Software Engineer II - Ads Quality",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-25T21:04:42+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8234282"
+  },
+  {
+   "external_id": "8234552",
+   "title": "Senior Marketing Manager II, Canada",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-26T05:12:49+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8234552"
+  },
+  {
+   "external_id": "8234578",
+   "title": "Legislative Counsel",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-26T01:05:57+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8234578"
+  },
+  {
+   "external_id": "8234595",
+   "title": "Privacy Counsel",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-26T01:05:37+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8234595"
+  },
+  {
+   "external_id": "8236905",
+   "title": "Senior Data Scientist I - Meals",
+   "role_family": "ml_ai",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-28T14:34:26+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8236905"
+  },
+  {
+   "external_id": "8236906",
+   "title": "Senior Data Scientist I - Meals",
+   "role_family": "ml_ai",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-28T14:34:28+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8236906"
+  },
+  {
+   "external_id": "8237075",
+   "title": "Senior Data Scientist II - Ads Optimization",
+   "role_family": "ml_ai",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-28T14:34:23+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8237075"
+  },
+  {
+   "external_id": "8237079",
+   "title": "Senior Data Scientist II - Ads Optimization",
+   "role_family": "ml_ai",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-28T14:34:25+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8237079"
+  },
+  {
+   "external_id": "8237126",
+   "title": "Senior Manager, Marketing Decision Science",
+   "role_family": "marketing",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-28T16:40:24+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8237126"
+  },
+  {
+   "external_id": "8237127",
+   "title": "Senior Manager, Marketing Decision Science",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-28T16:40:26+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8237127"
+  },
+  {
+   "external_id": "8237393",
+   "title": "Sr Software Engineer II - Ads Manager (Front End)",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-28T16:37:46+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8237393"
+  },
+  {
+   "external_id": "8237985",
+   "title": "Staff Android Engineer, Pick & Deliver",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-29T16:54:20+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8237985"
+  },
+  {
+   "external_id": "8237987",
+   "title": "Staff Android Engineer, Pick & Deliver",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-29T16:54:22+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8237987"
+  },
+  {
+   "external_id": "8240723",
+   "title": "Data Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Israel - Hybrid (3 days/week in office required)",
+   "posted_at": "2026-09-29T21:51:15+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8240723"
+  },
+  {
+   "external_id": "8240737",
+   "title": "Senior Sales Executive, Strategic",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-13T21:53:47+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8240737"
+  },
+  {
+   "external_id": "8241548",
+   "title": "Senior AI Solution Sales Executive",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-29T23:37:18+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8241548"
+  },
+  {
+   "external_id": "8241795",
+   "title": "Senior AI Solution Sales Executive",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-09-29T23:37:22+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8241795"
+  },
+  {
+   "external_id": "8244707",
+   "title": "Government Affairs Manager II, Midwest and Central Region",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-09-30T22:21:20+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8244707"
+  },
+  {
+   "external_id": "8244914",
+   "title": "Software Engineer II, CRM & SEO",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-01T16:24:52+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8244914"
+  },
+  {
+   "external_id": "8246054",
+   "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-01T15:26:44+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8246054"
+  },
+  {
+   "external_id": "8246075",
+   "title": "Engineering Manager, Site Reliability",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-01T15:40:04+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8246075"
+  },
+  {
+   "external_id": "8246076",
+   "title": "Engineering Manager, Site Reliability",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-01T15:40:06+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8246076"
+  },
+  {
+   "external_id": "8249751",
+   "title": "Senior Design Program Manager II",
+   "role_family": "product_design",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-02T18:38:58+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8249751"
+  },
+  {
+   "external_id": "8249753",
+   "title": "Senior Design Program Manager II",
+   "role_family": "product_design",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-02T18:39:00+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8249753"
+  },
+  {
+   "external_id": "8250324",
+   "title": "Account Manager",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-02T23:10:53+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8250324"
+  },
+  {
+   "external_id": "8250361",
+   "title": "Commercial Counsel",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-02T23:11:25+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8250361"
+  },
+  {
+   "external_id": "8257641",
+   "title": "Bilingual CX Specialist (French)",
+   "role_family": "customer",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-05T22:35:23+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8257641"
+  },
+  {
+   "external_id": "8263161",
+   "title": "Sales Executive, Mid Market",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-08T00:42:26+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8263161"
+  },
+  {
+   "external_id": "8265981",
+   "title": "Director, AI Solutions Strategy & Planning",
+   "role_family": "exec",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-08T23:34:55+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8265981"
+  },
+  {
+   "external_id": "8265982",
+   "title": "Director, AI Solutions Strategy & Planning",
+   "role_family": "exec",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-08T23:34:58+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8265982"
+  },
+  {
+   "external_id": "8266401",
+   "title": "Senior Product Manager, Retailer App Platform & Insights",
+   "role_family": "engineering",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-09T04:29:43+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8266401"
+  },
+  {
+   "external_id": "8266403",
+   "title": "Senior Product Manager, Retailer App Platform & Insights",
+   "role_family": "engineering",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-09T04:30:30+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8266403"
+  },
+  {
+   "external_id": "8275263",
+   "title": "Senior Contracts Procurement Manager",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-13T17:22:20+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8275263"
+  },
+  {
+   "external_id": "8275352",
+   "title": "Associate Product Operations Manager",
+   "role_family": "finance_ops",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-13T17:22:45+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8275352"
+  },
+  {
+   "external_id": "8275378",
+   "title": "Associate Product Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-13T17:22:47+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8275378"
+  },
+  {
+   "external_id": "8275403",
+   "title": "Senior Manager, CPG Customer Success",
+   "role_family": "customer",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-13T17:23:13+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8275403"
+  },
+  {
+   "external_id": "8281405",
+   "title": "Senior Product Manager, Ad Formats",
+   "role_family": "product_design",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-14T14:18:55+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8281405"
+  },
+  {
+   "external_id": "8281407",
+   "title": "Senior Product Manager, Ad Formats",
+   "role_family": "product_design",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-14T14:18:57+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8281407"
+  },
+  {
+   "external_id": "8281965",
+   "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-14T17:25:23+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8281965"
+  },
+  {
+   "external_id": "8282526",
+   "title": "Senior Financial Insights Analyst",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-14T21:53:44+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8282526"
+  },
+  {
+   "external_id": "8282591",
+   "title": "Senior Financial Insights Analyst",
+   "role_family": "other",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-14T21:53:46+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8282591"
+  },
+  {
+   "external_id": "8282600",
+   "title": "Director, Ads Product Marketing",
+   "role_family": "marketing",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-14T21:52:45+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8282600"
+  },
+  {
+   "external_id": "8282656",
+   "title": "Director, Ads Product Marketing",
+   "role_family": "marketing",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-14T21:52:47+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8282656"
+  },
+  {
+   "external_id": "8292764",
+   "title": "Public Engagement Manager",
+   "role_family": "other",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-16T23:07:01+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8292764"
+  },
+  {
+   "external_id": "8292786",
+   "title": "Senior Sales Engineer",
+   "role_family": "sales",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-16T23:07:23+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8292786"
+  },
+  {
+   "external_id": "8292802",
+   "title": "Senior Sales Engineer",
+   "role_family": "sales",
+   "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+   "posted_at": "2026-10-16T23:07:25+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8292802"
+  },
+  {
+   "external_id": "8292840",
+   "title": "CX Vendor Manager",
+   "role_family": "gtm_ops",
+   "location": "United States - Remote",
+   "posted_at": "2026-10-16T23:07:47+00:00",
+   "url": "https://instacart.careers/job/?gh_jid=8292840"
+  }
+ ]
+}

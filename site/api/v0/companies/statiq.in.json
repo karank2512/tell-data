@@ -1,0 +1,25 @@
+{
+  "domain": "statiq.in",
+  "name": "Statiq.",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 0.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-27",
+      "summary": "Introducing Statiq Apex: A New Generation of EV Charging",
+      "url": "https://blog.statiq.in/2026/08/27/statiq-apex-ev-charger/"
+    }
+  ],
+  "open_postings": 1,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "smartrecruiters:statiq",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

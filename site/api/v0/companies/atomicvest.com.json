@@ -1,13 +1,27 @@
 {
   "domain": "atomicvest.com",
   "name": "Atomic",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 2.8,
+  "score": 5.7,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-17",
+      "summary": "Atomic Launches Nexus: Intuitive Performance Meets Effortless Entry - Snow Industry News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQemx2QlpFS2FrTmJqbzhIRU1kWUVfVnFEOWtPcTQ0U3pfaGd4czFxeGR0VEg2TGhsYW1OUDFadTh3cGpoa0hzcng1RmpfTXpGTFZUelNvNzFZS3VEcVRWVzl2dHZCc0prQ21rODZNWEM4QjFPc1VmX3ZxajFFcS1WelljTXQ1NjF6anVLYnQ5N2VrQXVueTRscDR4WlZwOVBBTlRGa2Y1aS1SSXNZTHU0MVY5LWpIVm5iN0RrUE1JZWpDN0RFNE5r?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Nobel laureate David Baker unveils RFdiffusion3 AI for atomic‑level protein design - DongA Science",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0SFBzODlacnlXNFpMdW5iY2RKcl9QME8zZ3FfczRSemhyZk5sNVByYnNaa0poUEgzdldVMldURS1LM3gtbmNKaEVhb3h6azlLX18xbg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Imaginando releases COLAPSO, an atomic synthesizer plugin - Bedroom Producers Blog",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ub3o0WFhWa3AtSEpvRkp6WHNEaTNCTDNzOXlkOUw3aEdMTkRaaUN2UEhObExPR1Z2UVBWSUZuM0JUdWk1d1NkMEVXamQxVEtRdzMyQndENEVBZVhNeThJUnBuS3B1aVRvODVSNllVSW44SllZR1E1clhB?oc=5"

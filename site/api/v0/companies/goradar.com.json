@@ -1,13 +1,13 @@
 {
   "domain": "goradar.com",
   "name": "RADAR",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 11.1,
+  "score": 11.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "CPG Radar Launches AI-Powered Market Intelligence and Sales Platforms for Food, Beverage and Supplement Industries - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR2o4eXhpeGhxdWRqNHk4X3pXUjdBVGRPeS1mRFZJc0tScHVldkkwZEk1Tm8zZzNHRHJHWnVsSldSZWdPYWFqS0pJdkl1N2tSTXZtdXYzNzlPSTBmZS1MdVZuOFBGTWdyQjJwR29pR080cUJYaWdSOFFUbzVGdmt3SlZWbWhJZTVzM0NralNPLU5kUVR4dUdxQ1NFaWlOMVEwR2RJRjcxOXlRWGZmaXRRSmFQaTJmZXJ0bGdkQnc4THQ2SV9UcGhjUVg5SWVoRmo5Zm84Z1lyNjRHM0x4ZERJQVRsdEpDeVJPZWtTTU9YTjJ1R0xXaV90QjNyMkNlQQ?oc=5"
@@ -62,7 +62,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zNFQtWURfSmFDMFoydFNnODBJSVRueFBibjd4QkVfeTBsTlloektXR3RLclpiNDI3anZkZlA4X0U2dzFTVXBrUmFZY0p2R25qY25hajBYRmhnYVE4VUFLLTE3WXY0OXUyZDNidXFrVdIBb0FVX3lxTE9zNFQtWURfSmFDMFoydFNnODBJSVRueFBibjd4QkVfeTBsTlloektXR3RLclpiNDI3anZkZlA4X0U2dzFTVXBrUmFZY0p2R25qY25hajBYRmhnYVE4VUFLLTE3WXY0OXUyZDNidXFrVQ?oc=5"
     }
   ],
-  "open_postings": 7,
+  "open_postings": 8,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:radar",

@@ -1,0 +1,25 @@
+{
+  "domain": "admirra.com",
+  "name": "Admirra",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 23.6,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 23.6,
+      "occurred_at": "2026-10-16",
+      "summary": "Form D: $1,000,000 offering, $430,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2057082/000205708226000002/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002057082",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

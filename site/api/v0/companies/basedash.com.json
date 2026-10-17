@@ -1,13 +1,13 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Introducing the Basedash Connector gallery",
       "url": "https://www.basedash.com/blog/introducing-basedash-connector-gallery/"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-01",
       "summary": "Introducing Basedash audit logs",
       "url": "https://www.basedash.com/blog/introducing-basedash-audit-logs/"

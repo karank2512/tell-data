@@ -1,0 +1,43 @@
+{
+  "domain": "instacart.com",
+  "name": "Instacart",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.9,
+      "occurred_at": "2026-10-17",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/instacart",
+      "postings": [
+        {
+          "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
+          "posted_at": "2026-10-14",
+          "url": "https://instacart.careers/job/?gh_jid=8281965"
+        },
+        {
+          "title": "Senior Sales Engineer",
+          "posted_at": "2026-10-16",
+          "url": "https://instacart.careers/job/?gh_jid=8292786"
+        },
+        {
+          "title": "Senior Sales Engineer",
+          "posted_at": "2026-10-16",
+          "url": "https://instacart.careers/job/?gh_jid=8292802"
+        }
+      ]
+    }
+  ],
+  "open_postings": 135,
+  "long_open_roles": 24,
+  "sources": {
+    "ats": "greenhouse:instacart",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

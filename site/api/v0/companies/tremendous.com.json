@@ -1,0 +1,38 @@
+{
+  "domain": "tremendous.com",
+  "name": "Tremendous",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-17",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/Tremendous",
+      "postings": [
+        {
+          "title": "Senior Demand Generation Manager - International",
+          "posted_at": "2026-10-14",
+          "url": "https://jobs.ashbyhq.com/Tremendous/e59f5b5c-938c-4c8d-9f5e-9948473fb191"
+        },
+        {
+          "title": "GTM Engineer, Marketing",
+          "posted_at": "2026-10-16",
+          "url": "https://jobs.ashbyhq.com/Tremendous/1826c556-4ea0-43a9-a981-95dce750cdda"
+        }
+      ]
+    }
+  ],
+  "open_postings": 27,
+  "long_open_roles": 11,
+  "sources": {
+    "ats": "ashby:Tremendous",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}
