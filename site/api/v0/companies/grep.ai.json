@@ -1,0 +1,53 @@
+{
+  "domain": "grep.ai",
+  "name": "Grep AI",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 6.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-15",
+      "summary": "Introducing Agent Evals: Turn Feedback into Better Instructions",
+      "url": "https://grep.ai/blog/introducing-agent-evals"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Introducing Connected Accounts and Authenticated Browser Access",
+      "url": "https://grep.ai/blog/introducing-connected-accounts-and-authenticated-browser-access"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Introducing the Skills Library",
+      "url": "https://grep.ai/blog/introducing-the-skills-library"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Introducing Decision Outputs, Powered by Jev",
+      "url": "https://grep.ai/blog/introducing-decision-outputs-powered-by-jev"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-08",
+      "summary": "Introducing Batches: Run Your Agents in Bulk",
+      "url": "https://grep.ai/blog/introducing-batches"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

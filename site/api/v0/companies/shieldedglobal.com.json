@@ -1,0 +1,25 @@
+{
+  "domain": "shieldedglobal.com",
+  "name": "Shielded",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Midnight: Introduces a shielded deposit-token template - Q1 2027 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLU1weEVtUS1qX0N3ZzI4TUNjQVpnaGNreDY4ZnJXZEdIOXBUemVQc3NTZFJLTEU5VlVlU2szQkM1czhIWmVhb1ZERVNTdkppUy1rQ0wxeUFvc0ZYUEcwejYtSUVhNlFtalpXZ1VZUmFVWUY2REJLZW9pSmJNeGx1ZDE5c0pFVmVVWWY2WEExUHQxSnhJY3Vta2czM2hQSDVDT0dwYXpwMVVzRXR3b0xUc2NpLTkyT3FnRWpwb25meUhTaGM?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

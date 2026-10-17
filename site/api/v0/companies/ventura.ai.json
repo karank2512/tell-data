@@ -1,0 +1,25 @@
+{
+  "domain": "ventura.ai",
+  "name": "Ventura",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "City of Angels wins Grade 3; Grade 5 band debuts in Ventura - pipes|drums",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXhvRUIydzk2dlNST0l1ZkZrNURFc3UzSHpzU1B0WDJjdHJIb1F0NW1OdkZVM2VIRWxfbWhfc296SHJYd3pBekpwZy04U3lwVFBpeW0xSmRma2xYamdobFE5ZGJFeUE3X0NDOHdEN2xFMFdCXzFNOWxKNWJFSHhQazdCbE9pa0l1WjZKWTFTQ3pERWFpb1ZqYzN3?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

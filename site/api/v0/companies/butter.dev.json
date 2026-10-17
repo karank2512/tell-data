@@ -1,0 +1,32 @@
+{
+  "domain": "butter.dev",
+  "name": "Butter",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Caribou Coffee Unveils Its 2026 Holiday Menu With a New Cookie Butter Drink - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTUx3V1ByTDlFN2pJNGl1M25lQmJad21CMUpHQVVwM3diaFQzUjlwcElOWWxLNUg3TkhoQjZNWWZrUzlkSFd4RFlYaF9VcmtielRfdWl5MVN1ZVBTQUJONEROMXlSTno1XzRqUzJSS2dfVWJ0VUp0eUxJbS1kaW1kUjBBOTFGUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Caribou Coffee Unveils Its 2026 Holiday Menu With a New Cookie Butter Drink - Parade Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zRHRXQ0dmN0hHemxJZExGNW54eHFEMTJpYXhKRjMxa1FINnh4TzBONEoweGxEOVF4Rzc2Y09BNXZpMlZTQTQ2UXdlWFJ1eVhqT2JaN18zbkVNLUZ4YVNVa0FzYzlURWRlOTdwOWJMQ1REV2RWd1kyS0d3?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

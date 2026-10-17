@@ -1,0 +1,25 @@
+{
+  "domain": "stacksync.com",
+  "name": "Stacksync",
+  "as_of": "2026-10-17",
+  "profile": "default",
+  "score": 1.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-09-21",
+      "summary": "Packaged Food Promotion Workflows: Coordinate Retail Commitments and Ecommerce Launches",
+      "url": "https://www.stacksync.com/blog/packaged-food-promotion-workflows-coordinate-retail-commitments-and-ecommerce-launches"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}
