@@ -1,0 +1,33 @@
+{
+ "vendor": "ashby",
+ "identifier": "pharos",
+ "domain": "pharos.health",
+ "as_of": "2026-10-18",
+ "last_polled_at": "2026-10-18T15:45:03.680678+00:00",
+ "open_postings": [
+  {
+   "external_id": "50c96d1b-e8a9-4565-b6be-8fc8c08c6b18",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-25T21:22:39.206000+00:00",
+   "url": "https://jobs.ashbyhq.com/pharos/50c96d1b-e8a9-4565-b6be-8fc8c08c6b18"
+  },
+  {
+   "external_id": "527e519e-d9d4-4861-8baa-293a6c5f56e6",
+   "title": "Physician AI Researcher",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2025-11-24T16:44:23.078000+00:00",
+   "url": "https://jobs.ashbyhq.com/pharos/527e519e-d9d4-4861-8baa-293a6c5f56e6"
+  },
+  {
+   "external_id": "e22716b3-d65b-4b29-a323-b465a16d0868",
+   "title": "Clinical Partner Architect",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-08-26T03:23:59.196000+00:00",
+   "url": "https://jobs.ashbyhq.com/pharos/e22716b3-d65b-4b29-a323-b465a16d0868"
+  }
+ ]
+}

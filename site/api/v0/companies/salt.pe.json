@@ -3,8 +3,15 @@
   "name": "SALT",
   "as_of": "2026-10-18",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Salt Lake City International Airport launches four new direct flights - TownLift, Park City News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGxlckJMR1NXN1ByeGhfQlJRSHZ5Yk84cWVEd0JrU2NPQll1QW1NYk1MWU52VjBOWXQ3RTZ3Tm12aWdZR2hvMXB4bF96UVZBcmdWbk43RDJ1MFZqenJlYUNGLW5lcTc4b0RhemlpSkZGdEhIdDBOQXhvVWtvLVdvbjhoY3hjeFE3Zk4ybl9LT2hIYll2M3k0YTYzUUItUkxj?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

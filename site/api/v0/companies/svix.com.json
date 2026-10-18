@@ -1,0 +1,32 @@
+{
+  "domain": "svix.com",
+  "name": "Svix",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 0.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-21",
+      "summary": "Introducing Webhook Skills for Agents",
+      "url": "https://www.svix.com/blog/introducing-webhooks-skills-for-agents/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-01",
+      "summary": "Introducing Webhooks AutoConfig",
+      "url": "https://www.svix.com/blog/webhooks-autoconfig/"
+    }
+  ],
+  "open_postings": 2,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:Svix",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

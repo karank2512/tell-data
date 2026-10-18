@@ -1,0 +1,32 @@
+{
+  "domain": "playmultiverse.com",
+  "name": "Multiverse",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "Multiverse Computing Launches Comet 60B - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN05HMmJBamVQcHhnTVRoTDJ6MlZLemtBYTFsU0RRUkxMNkExREktQXQ0c2hweXA1N0lJWThGUVBZUTBsV2JBZWRRaXg3X19CR0IycG9FbmZGRW8tME9LRFJzMkc3QW1YemxlTGJHYTNOVXVjZ2xyMEJPOFdXZzlXcko3NA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Multiverse Computing Launches Comet 60B in collaboration with NVIDIA: Multimodal Capabilities at Half the Parameters - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTVRSNGtsRnVPNEl2X0NtcDhLVXhDZlJlUXh1a0xfTWV0cW01YXVrYUcxeDdpQ28zX21yQXJoeHVqcVd4UWhTbzMyTV9KWVBxTjMxYUNwVkJlUzNlZ2xHbUc2Sm9UWk1VaVVwNnNNeE5QNXQzWXFIRHVkMnNvcUZaY0FnRU5MazR0Rjg3bUl0bFJ1NUpWMHd2TWtiQnB5dExpOTBHeWxXRXdOQmluQ05PemJTOWF2WVJMZDNJN005X3FWcWpkOWc0X3QtVVJrazVMRFFxTmIwSUlJS1NNSjhqOUpwNzA1WEt3cVNKNWNsYUVoWllDdFkyS0hfM3Z2Y21nc1FteA?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

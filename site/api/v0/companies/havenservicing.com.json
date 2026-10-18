@@ -1,0 +1,25 @@
+{
+  "domain": "havenservicing.com",
+  "name": "Haven",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Inspector General releases preliminary report on Yale officer discharging weapon during incident in New Haven - WFSB",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPak9VMkxqUm1qTkwwQ2duMlZIdFJtdHRITjYzcG9feGxtR18xM1N0c1ZSYXhQbDJtT2dJeWVuS25zZXFFSjBOdzVobDd2VllQRktsamJIeTlqdmVYcDZVQWNXTmFadVRxcnZRdDF0bVFVdzI1WDhIdzVlTGlpVjI5b240cFZweHhBNGfSAZ4BQVVfeXFMUEh0dUltRERPcVBzMjZyeEktN29NeVVta3dCZUJ6LXNVYWZtWWFPYzRwV1ZQRVpVTUtuZTduM056Z0Ntb01mZGZNSFJIQVItaWpuSFpyQ0lyTGYtb1NJMURiWFpoNDVjZldWTVlTTVhYU0k1WHFqRjVMMVhMZmdRUlRRM1RTeHNmVl9yVnRhYl90aU10bGRSTC1GOWZlTHc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

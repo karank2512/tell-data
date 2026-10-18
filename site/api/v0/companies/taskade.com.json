@@ -1,0 +1,32 @@
+{
+  "domain": "taskade.com",
+  "name": "Taskade",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Introducing TSK-Bench: The AI Task Leaderboard (October 2026)",
+      "url": "https://www.taskade.com/blog/tsk-bench-leaderboard"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-07-08",
+      "summary": "Introducing Taskade TSK-1: The System Kernel Behind Every App (2026)",
+      "url": "https://www.taskade.com/blog/introducing-tsk-1"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

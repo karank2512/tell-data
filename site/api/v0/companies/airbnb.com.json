@@ -3,7 +3,7 @@
   "name": "Airbnb",
   "as_of": "2026-10-18",
   "profile": "default",
-  "score": 5.1,
+  "score": 6.5,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -32,6 +32,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-17",
+      "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjN3akxCanRDTl9LTDNfYUE1UWdNbVJvZFkzVkZmckNrOWk2c1FkR2p5VldZRzRVR1dXOU1xbXA5MjNZQ0FoOTdOdzVKcTF3UlBwZ3BYcmdCNDdSM2Z3OVppLUtzLV9DcTZvU1A0V1ZaVi1YYnFRZzJ4aXdUWW9mc1NmTTRPUWlNYlZ1NXgyeGc5aUt3cmxlQQ?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Airbnb launches weather protection - Coverager",
@@ -40,7 +47,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-16",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -63,7 +70,7 @@
       ]
     }
   ],
-  "open_postings": 191,
+  "open_postings": 192,
   "long_open_roles": 50,
   "sources": {
     "ats": "greenhouse:airbnb",
