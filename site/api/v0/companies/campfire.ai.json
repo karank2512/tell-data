@@ -1,0 +1,67 @@
+{
+  "domain": "campfire.ai",
+  "name": "Campfire",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 7.3,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-16",
+      "summary": "Appoints CMO",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTnhEMVZGejdYc2ptbWluQjVCM0JMbmc4bTloNldGbVZLeHF1SnlXelZkZG9rb19sOGxOVlVBSFlmSFlnbmdZR3ZxVk9pd2xpZkxJM09qeC00eHhhM2xjZDdxU29reFRwVXRnZlYtdmxPbGc0RXpscElMSEs0aWtzbDM5VHY5MjF6TDE3ZUlQeXY0OU5Id3JTbDd2MVRIU0lHdWRqU1dobUxYbnZGS0kzSXFuZnRlcnpyQkpJNGtTQm9RSHBUeW9WT0x0cjJfbGJaX2k4ZFFXeXh5VDV1WkZxSHBBU1VJdjV4eDJJOTU4aTlYTm5PR3R5QmlRaGc0U2VlLU9Ud0lvOVlaZTVveW9Uc2JHVFV2RTJhdjQ2OFdwOGNVaHZlWVcyY1Vn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Expensify Launches Native Integration With Campfire - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQzZENlY0VzJfTEhLVUtRUjZKZlFEOUNsTnZYd0xOczItd1l4MGhhZ2VqeGd1MFBaaHpEenE5R2NaV3BONzFvMEN2cDBOUTVWbDFKd1JINjA4RHhKVTFreDhrM3hPR21raHlkSWJIOTJaMW45NWFOUzJ4Sm1CeG9mUkhMSXd2U0t1RGt1RnJKZVlPRHlqemRuZGpDdGdmcEpfMVo1RUdkUU4xamtT?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Expensify launches native integration with Campfire - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckJmY0M4SUQ0RWhvREY5RV9yazlQWUgzTnZrZU5YeEpsaXBUajFyTnZ0b0txcmJpczVRZ1IySGpRODZ6ckpfWkRZaFV3a0Jjczl3ZWE0SXBIRl9yLXlqZVZidG9xeWNFblVPZWxjT1FKczhMWUxiMWtZSDFnaHNtRnNHajcyR1drVXNlQmhwZ2R6MkRfcU9obS0tS3g4OURmWTJlNlBXNlhtRV9rTGwwRWhkYmsyVW5kOFFF?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Campfire Interactive Launches New AI Capabilities to Help Automotive Suppliers Protect Profitability - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajc3ckNSZlBtYkZoVUNTemNiUGZDX2lJdEtpdGdzWkpORGc4eHRaSUtoNy1vZGJCM3pvaktUdXRORW00RHlEVTNpeVJsWHlJWTRiYklsNVRMcmFPY01xQjFZYm0zUUZ2Uy03R3NGdnVUYVVYUl9HYW9JeTBZLXpwS1dsU3B2QnBmd3picVV6UXFKbjNuSnZuMkFPNG5nd2toM2N3SXpaMDlQRlJDM05tTnNCTUN2NjZPQVlXQjNBUVkwekwzSjhob3kxaG5NWkZxYnZYTnRhMDNSM3d5cWE3Zw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-03",
+      "summary": "Introducing Migration Agent: ERP data migration in minutes",
+      "url": "https://campfire.ai/blog/introducing-migration-agent-erp-data-migration-in-minutes"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-06-25",
+      "summary": "Introducing AskEmber in Slack",
+      "url": "https://campfire.ai/blog/introducing-askember-in-slack"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-08",
+      "summary": "Introducing Accounting Intelligence",
+      "url": "https://campfire.ai/blog/introducing-accounting-intelligence"
+    }
+  ],
+  "open_postings": 51,
+  "long_open_roles": 24,
+  "sources": {
+    "ats": "ashby:campfire",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}
