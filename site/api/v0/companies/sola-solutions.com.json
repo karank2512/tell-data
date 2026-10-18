@@ -1,13 +1,13 @@
 {
   "domain": "sola-solutions.com",
   "name": "Sola",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 9.6,
+  "score": 9.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Sola launches snack-size bagels - Bake Magazine",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92UDFpdmd3ZUg3b3NOeVlPNVhLUUdfSU4tbzhaX1g2ZHpmd3p6Q3kwSDZ6ZUsySGFPTmVyOXlyYnB5cXg1Vi0xMHNlUGJFYjJPcUFackdQRUlYQW9pVDBpY29uNVJPUXJ3T2hUbmZoQWlNdHNmZlhHQXpR?oc=5"
@@ -49,16 +49,16 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-08",
       "summary": "Sola launches snack-size bagels - Food Business News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR1lvTkdNUnpRR1Z2SkVkaVVXdjlxTXVrSzZuaGhZYm1vRnpSZjJuckdmbW1IX1lDNmpIMXBDNkgxMGJBbU1oZFIwVDZHU3UwWHFQSW5BV2JVRVBuYWtNNEoyeG5ZNmtQS1hlN3dMY3JpekQxcWt3VzBwUnBqb3hlbVNMX1VDZw?oc=5"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 5,
+  "long_open_roles": 4,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:sola",
     "edgar_cik": null,
     "news": true
   },

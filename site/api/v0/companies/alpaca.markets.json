@@ -1,13 +1,13 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 31.3,
+  "score": 31.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.2,
+      "contribution": 14.1,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-02",
       "summary": "Alpaca Launches Live Trading for Index Options via Trading API",
       "url": "https://alpaca.markets/blog/alpaca-launches-index-options-via-trading-api/"
@@ -105,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-08-27",
       "summary": "Monetae Launches Monetae Markets to Expand Access to Tokenized US Equities and ETFs with Alpaca",
       "url": "https://alpaca.markets/blog/monetae-launches-monetae-markets-to-expand-access-to-tokenized-us-equities-and-etfs-with-alpaca/"

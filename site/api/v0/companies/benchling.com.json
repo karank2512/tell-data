@@ -1,20 +1,20 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Science Foundries, a new way for scientists and agents to work together - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcFZPcC12amgzdFc2dW1BaHdjaUk5MnA0aGVMOVZlT0JiaTNoLVNSMUZIUnJpMUNTcmN4TmdLekpySkE2dC05akEydHFjS3pfTTNDNFdCUkRhWGtmeG1mQllNR0lqamo3cjJQd0ZxTTNPV1NGVWREWFRlT3BRVklwM2tRdkV1bndmanlreGFxT0drUjJSTVF5bm12OVpYOWZIbFFIZVdRY2l6TUNXQjdfY3JQcndWaXpHbzhWMDhqNnY5dXV1WWtSeWZoM19xcGx0aGRaOEoyakhheHFJcHc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Direct Data Share, Closing the Loop Between the Lab and the AI Data Cloud on Snowflake - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNEtvcFJzV3BvRmp0cnZrSHpCdmwtNE52VzdxaWlKMnZFclJVbjZvZnNoSS1yM0VyT1pad0ZKckhwUlZKRzExNkpmQWRnWUtjZXhiSmhJYlJORjhpLU9mdml1TVVlMmp2YzQxS3YzMEFhZWZBTkZUMFRnY2RlWEdEbWNqLXQzcndhX0dEU3FlNGc2c3M1dHRXSjkwMFozWlQ0U3A1M2YxdXA5Ung0cW90Uk1RMmVUMmZzc2d1S0NWTWNvNklaLTZ2R3JzZVBsQ1A4WTN3UlNBRW5Mai12UnVtSlpNMExrcUc2WldfT1hhckIyUQ?oc=5"
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.1,
+      "contribution": 0.2,
       "occurred_at": "2026-05-13",
       "summary": "Introducing Benchling Model Hub: The infrastructure layer for scientific AI",
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
   "open_postings": 60,
-  "long_open_roles": 9,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,

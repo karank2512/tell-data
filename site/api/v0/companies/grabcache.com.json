@@ -1,13 +1,13 @@
 {
   "domain": "grabcache.com",
   "name": "Cache",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 5.7,
+  "score": 5.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Tensormesh Launches Platform to Cut LLM Inference Costs Through KV-Cache Reuse - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tc1RxSncyd3dqQVB0ai1qVGtRcmg1VDRsaGpjQkVadVBHM0NtYkpZMGRhZk1fRmtNSklLa0RBaXZPZHRnUGVNTGpSUFY5dUlrcno1ZHluQUFPSnFJQlBPTHNsb3NEZzJGS3RoWg?oc=5"

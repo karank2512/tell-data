@@ -1,10 +1,17 @@
 {
   "domain": "usegrade.com",
   "name": "Grade",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Sony unveils a $5,900 gold‑plated Walkman designed for audiophile‑grade sound - The Shortcut | Matt Swider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXBOdlB1NVZ6NFJzTFQ5ZDJFenhwRWk4bDJSQngxWDlDZ2J4SXRyTlk3NTJPMHdfSWllTnVLMzA0UVhUSzN3QlBfUnEyLWM1ZGFtajRJeUt1VUlQTGRmbUxWLTJ1NEZBMHJKX0VwT0FVU3NuSjllYlJpdHNSVFQ5dkVDNF8zSDFudWtGdTNVTmJLdEJQWWQxN0pKM1AzbEZINng3ZGZwSQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

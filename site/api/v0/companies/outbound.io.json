@@ -1,0 +1,25 @@
+{
+  "domain": "outbound.io",
+  "name": "Outbound",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Salesforce (CRM) Unveils Hunter For AI Powered Outbound Sales - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzVvOVMzd04yWGFTMmRoQVVoT091ajBxMWdSWEJBd3BOS2FsZGpCd1B0WnVrOEg3cmZNdmROUnIzNExmVlVkWElmNVU5RHV2VVI5TWU0cjVkaGxvU1c4N0dKRGtob25saFk5bHNaWG9takNCbE1GWVhMTkdUUEEyUEF2LTdaanlyeDZLMjlldnFPQXNCb0JIUnB1Tlc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

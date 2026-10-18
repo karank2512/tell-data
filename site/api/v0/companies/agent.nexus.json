@@ -1,23 +1,37 @@
 {
   "domain": "agent.nexus",
   "name": "Nexus",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 25.7,
+  "score": 30.0,
   "contributions": [
     {
       "type": "leadership",
       "contribution": 1.9,
+      "occurred_at": "2026-10-13",
+      "summary": "Nexus Malls operator Nexus Select Trust appoints [person] as CEO & [person]",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWtGSGpSdlBOeHRjcWpaMnVJQlBXeU0zLWY4T1BuSl81cXJ1ZHlZYmQtcVNKTnViMFNrYW0zaWNBRWZ3T3NGdW1QcFRQZU1hT0M3RHl6T3o2YTEyZW9rZFFWWk1KZUxxT3BSZ3NCMXotWVBPV29pVUhRM0U5VWdPTG9aOWltajdFX251dE9TZFB5ZW1aeVh3OGxxcHA3dUNkSDR3T3pxd21sYWhSVUJoZlhTQUtFand1XzItQWVuRG1rOF90TjExWnZjSHNQUUFZRVlzZ2tBOTNsWW9Z0gHiAUFVX3lxTFBSaW96a2JicjZPdHFwTjhmXzVIU1N2c1FUbGJfRExmT0QwLWRTTzNDc3ZpS1hrWGZEVlNUOElVdU9nMkRCVk9WTTJrRmtLY1poUzlRNldDWWw4NUtyd21GYVE1YXdrbnpUcWc0QU9ubkdlUEo2YzJRNHRMVVlvV3RvVXRmUkZMR3NQMHM0b1JKRUE2STlEQ2lkWC1nLXpfZHJzMEtudHRzS2I0TzVnQmlOTEpabmtNa3dEMkx3ckhjNl9fX1F4X21EeXJRLUNrRV9BNEJoRTVrcnJsSEQtajdvQlE?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
       "occurred_at": "2026-10-12",
       "summary": "Nexus Select Trust Appoints [person] as MD and [person]",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEk1LVllam1MdFVwdl9XQjZtTE5iNzRPdnFtYmdRa0taYlhyaUMtaEpyQkMtdFJkX0xaclV4RURjdzk4WFI2Z0h5S3BQVVo0b2k1MVBvZGVwNlk4WDBuN3lrNVRNZm05ZGNXekt3VkMxSzctWDB5a3VmYml4REtvYTZfcUFVWGZCQjRLZlBYWEVGdjN3dUtHd09acFlsQjhYSzJLd3NQZnZBcHAtZXdicUxpQ01YVE00OGdZ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "GSSI Launches NX Control, a New Mobile App Solution Built on the NEXUS Platform - Lohud",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTNWX2ZzdGdKeW5pNnAxMWJRajRBRjVPOWVWWnkxdGZrWHVNM25ScU5NU3NsVnpBSXNlMm5mT3d4UGtBZXQ1TEJVSllDUUNLR05EdV9FSUVDZGV2Y2pJUk9XSHFnV29kbU8wUW9RYTdQYl9wNldLRnpEMlF4RjJzTWk0Y0ZxcmZicEE4V2stc0JTc1g2eTdPb2J0Z3kwaGRZXzBhbXFyTDhhdXNRZTFmb3RxNUdCT1Z5QklVc0lWUXh4TTN1NlM4?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Nexus Legal Group Introduces an Education-First Nonprofit Outreach Framework for Law Firms - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkRYbWNpa1NqM3JlNF81UjB4ODFMZnc3aDdTTzNJMjBWemY3akhBZy1aTWd6UmdBTWE2RnlpcmFJYkc0M1ZxaFp6QlhWMTN6dm9mT3FJbFd1Q3hnNjhhWVp4WTNrVDk5YjI2SmNEdU5XdkF4NnJaeEVQZDFFbUl0Z1VWblJzLWN5ZV9na0pHcEdjbTI0anhJYTNUYjFXb3BmSE4zUnN3?oc=5"
     },
     {
       "type": "launch",
@@ -53,6 +67,13 @@
       "occurred_at": "2026-10-14",
       "summary": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components Before Developers or AI Agents Pull Them Into Builds - Sonatype",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUtJYzktX3BoVDhWOWN4UVJ3Wk1rNFk1bFlyOFhCTFRGaXNyVWVGOXczV2pFMGJMcHNQazdyZXJESVh3NF9oRm9VNnd1eDhzNHpQNjVjSWRZcGg1RW1XZVEtUm1HUU9saUR0X1lkNm45OFhEaTJ3c2ZsOGVQdkY3Y2trMTZtS1Q3LWMwcnZOMTY5U3VoZGQ2eEln0gGaAUFVX3lxTE91S0ljOS1fcGhUOFY5Y3hRUndaTWs0WTVsWXI4WEJMVEZpc3JVZUY5dzNXakUwYkxwc1BrN3JlckRJWHc0X2hGb1U2d3V4OHM0elA2NWNJZFlwaDVFbVdlUS1SbUdRT2xpRHRfWWQ2bjk4WERpMndzZmw4ZVB2Rjdja2sxNm1LVDctYzBydk4xNjlTdWhkZDZ4SWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components Before Developers or AI Agents Pull Them Into Builds - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDd3Y25rRWVEcld4eW0tYzdnaFFhNWU2alRPUWNMaXRXTlhuS3ZZQ25senZjT3BacXdfS0c5NnVFWTRCc3o2MV9uYkdlVTkzbzV3cy1wdlIzZ2I5UU15ZHFSQ0VYMG10UjNwYTRGY1VGeWVOQkY5cEFBVnF4VHZCdG1xUkNldlRXZVdWU0xGOGpvQUhoZzJHODVIMmgwWnhQNzJ3?oc=5"
     },
     {
       "type": "launch",
@@ -112,14 +133,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "Pacific Defense Launches NEXUS, a Converged C2 and Electromagnetic Warfare Mission System - AFP.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXZUN3E3NFFDMDd3bTBzUjVzVUZZMWl5OWRwNkt5a1NZVzBoQUI2WHN1bElGUTJlSTNiVHNEZWZ0Q0d5bGgwM3NiSHM3WE03R1BzVGdTZFJBZWNocTZGM1lySkF5VXZsMUtwMmFjQ2NQdzBZSGNFaXJySGVDWVNtb09iTFcxSU9pUVlkVzZCYk1LYXJ1em56bFVIdk5ja3J5eDF4UTBFRkdGRjdVY3lobmp3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "Pacific Defense Launches NEXUS, a Converged C2 and Electromagnetic Warfare Mission System - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYjZETm5UMTJYbWVkd29FeWtkS3RBWTJURHFsQkx5WS05dVFLNm1xU1pWam0tYmlycHZHY0NJVmVnQ1dIT0hUdkwwMlBsMnVQcHF3LUV4MUwyU0toZVdndUJrTS1MY3BlNDVpWkZ6amxhcjA3eUY4Wi02X2oyTnpqVUplWTg2WjlXZWN4MUpQVUFSOGQ2UnljaXdzZXVmRzNNbUcwZGlEcDY3QUtaQU52a0xIZE1uZFdpSGR6dU1heXlxRUp4MnBuX3lpWGtnRnFwVEN5RVR6a0Q1SlAyVlE?oc=5"

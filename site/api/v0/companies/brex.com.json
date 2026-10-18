@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 3.9,
+  "score": 3.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.9,
+      "contribution": 3.8,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -37,7 +37,7 @@
     }
   ],
   "open_postings": 265,
-  "long_open_roles": 105,
+  "long_open_roles": 109,
   "sources": {
     "ats": "greenhouse:brex",
     "edgar_cik": null,

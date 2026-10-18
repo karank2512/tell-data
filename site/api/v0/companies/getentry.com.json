@@ -1,10 +1,17 @@
 {
   "domain": "getentry.com",
   "name": "Entry",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Canada releases updated breakdown of Express Entry candidate scores - CIC News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXRZUFBHRUJsYXlmS1lxMms0dkg0aFFyaHNERUFZcm5yWUhjWU5MbzliSnAwRlFMQW9wU2E3RGRDZUVtdWV5WjlrNjA1dFFNZXA1amlOZWxyMWlVZXlVLW0tdE9vNmpyb1p6TnRSZjJVeWc3eUI5ZGdUMlgxX0xnclc3RG5ic1ZEVm9zdnRmLVNlOTMwQlJ3Mjd5T1EtWU1xcFcxWFpTZDF6cGRORWF0Uzdn0gG3AUFVX3lxTE5PUXlKQ3dLc1RLSkhwajhHRzRoNDM0T0tyNERXeTFzbzFzbzhhWGUyQW5mcnZPVXFVWlFUaExoZVlOcHBkalh1QXZ2R3hDWVpwVXNOZGlTTlNZZF9JTXdxcUlUa2M4U3duaXFhQWRjZ3FTRFFwRHZjXzF4SGpvdTRfMGVlelFYMGFLc1lieDgtRGthQ3hXd3ltTHg3OExtUVYyVS1DNVJvS19RUHJ3VVVCRGZyV0tNQQ?oc=5"
+    },
     {
       "type": "expansion",
       "contribution": 1.0,

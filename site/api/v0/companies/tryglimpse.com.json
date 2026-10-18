@@ -1,16 +1,37 @@
 {
   "domain": "tryglimpse.com",
   "name": "Glimpse",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 2.9,
+  "score": 7.2,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-17",
+      "summary": "Elorian launches Glimpse AI model with visual reasoning capabilities - Global Sources",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaWFLZ1dTWWRRUzNlQVhhQlVIc0lpVTFqalRqaExXUGwwT2lvQ09mR2VMY083RmVZSlpSeGlBWGNFTXp2cVFORFZFeTJSbkZjWTNPYndHempFREppWlY1a19DTWpkSUFzOC14VlFnc0tkRDh4LUNlX0hRZF9NUHBTai01QlhLNXUtNFlGWGJmTlJleE5HcGZsN1Jrb2xBZG1KQlJDVV9obTFSRlZVNG5lOW1EN21XUFk3RDJQdl9BTkpnX1N3TUFfa19aRnhTaS03?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-17",
+      "summary": "Elorian Launches Glimpse, Visual Reasoning Model That Re-Examines Images: how 7 outlets framed it - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQU2hsU01feFlhYzkxak54aENmZS1vLWZCT245ZlRlck1hWnBBQzh2THhLM3dzSi16ZlVUZXUtd2RKRWFjN1pSTnd0Z2UzSEJfcXctdVNadmZYMWo4ZWVhZkZUajF3bkpyeDBMNDU3VGVDQmdiSGluSThKczg5Vm9JNWJ2cFVnX3dWTHVmRFZ0SlZfLVB5SXNXdTZfS0hPdk5laXBJN215TURPeUxmdmlqUnJRdXBGUWhhYU9FLW1LNWVVSTFRQURMZmh1dXJfZ3VGVFdPTmxhVld0Ukk5enc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Elorian launches Glimpse, a visual reasoning model that re-examines images - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOURuYk1ZdDVUcDlkdzVOSWFIMENJX1h1UUNSbmljTkxDVWF1RXZDZ0QwMEJYdGd2YWs3S2ZuSF9adlFGeEtsYmd4OGM3aDZEa2RoaTJ5UlNCWENNOFgzNmxhUmFsbGptLWVxVXk3YWlnUUlGVWJ2QkVFa1ZnMzA0eU1lQzdlTTVTOXpfYTdaQ3MyU3NEY29sdExKcVBNNlVTWHNR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Elorian Launches Glimpse, a Visual Model for \"Workspace\" - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmtKUUtqc3BoRWdseDZTM0hnX0JuUzhVZHlZZU9MS2pKZlZCOW45cGt4cXI1UThwMXI1Yy1VSWMxTFZRZXhERVU1MVlGa016ODVnMVZlMF9VSEk5RnV0TFVyYnIzcm1rTnJGWGI3M2JveWZtRGFydXhfdjZlT2xJcjBudWg0dm03Uk1NVVBkcGU?oc=5"
     },
     {
       "type": "launch",

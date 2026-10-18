@@ -1,7 +1,7 @@
 {
   "domain": "formance.com",
   "name": "Formance",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
   "score": 1.5,
   "contributions": [
@@ -21,7 +21,7 @@
     }
   ],
   "open_postings": 4,
-  "long_open_roles": 0,
+  "long_open_roles": 1,
   "sources": {
     "ats": "ashby:formance",
     "edgar_cik": null,

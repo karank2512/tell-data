@@ -1,9 +1,9 @@
 {
   "domain": "conductor.build",
   "name": "Conductor",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-07-30",
       "summary": "Conductor 0.78.0: Introducing Conductor Cloud",
       "url": "https://www.conductor.build/changelog/0.78.0-introducing-conductor-cloud"

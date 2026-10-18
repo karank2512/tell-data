@@ -1,13 +1,13 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 12.0,
+  "score": 11.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Xiaomi launches premium Mijia Metal Suitcase with rivet-free design and silent wheels - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVV6a3BHak5iZmprazdYVU95Uy1BSkoxS2pRLTZuOVBnWDlSRWJBelBxQ04wLXZhb3pYcDJ2S25VWFR3MlA1QTNsRWpaX1FsMEQ2ZVRDd09IeUNFWHBka3RVZF96TlBxeFp1aE42OEktNUQ5QzczUTBoVm8wdVJOS2VvcFhvOC00SUlNVG5qa0g?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-01",
       "summary": "Introducing Pi 1.0 for Rivet",
       "url": "https://rivet.dev/changelog/2026-10-01-introducing-pi-1-0-for-rivet/"

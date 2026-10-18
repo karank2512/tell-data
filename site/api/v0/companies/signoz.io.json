@@ -1,13 +1,13 @@
 {
   "domain": "signoz.io",
   "name": "SigNoz",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 4.8,
+  "score": 4.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Introducing the most granular RBAC in observability for humans & agents",
       "url": "https://signoz.io/blog/fine-grained-rbac-for-observability"
@@ -35,7 +35,7 @@
     }
   ],
   "open_postings": 15,
-  "long_open_roles": 8,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:SigNoz",
     "edgar_cik": null,

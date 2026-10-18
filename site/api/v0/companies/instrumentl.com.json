@@ -1,0 +1,32 @@
+{
+  "domain": "instrumentl.com",
+  "name": "Instrumentl",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 0.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-06-25",
+      "summary": "Introducing the Instrumentl Claude Connector | Instrumentl",
+      "url": "https://www.instrumentl.com/blog/instrumentl-claude-connector"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-18",
+      "summary": "Introducing Instrumentl’s Fall 2025 Release | Instrumentl",
+      "url": "https://www.instrumentl.com/blog/instrumentl-fall-2025-release"
+    }
+  ],
+  "open_postings": 10,
+  "long_open_roles": 10,
+  "sources": {
+    "ats": "lever:Instrumentl",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

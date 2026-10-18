@@ -1,0 +1,193 @@
+{
+ "vendor": "ashby",
+ "identifier": "stack-ai",
+ "domain": "stackai.com",
+ "as_of": "2026-10-18",
+ "last_polled_at": "2026-10-18T02:50:49.604232+00:00",
+ "open_postings": [
+  {
+   "external_id": "02cb59b3-83e7-4052-a73d-06bbbb4716e9",
+   "title": "Senior Software Engineer, Identity & Access",
+   "role_family": "engineering",
+   "location": "Poland - Warsaw Office",
+   "posted_at": "2026-06-30T13:57:33.502000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/02cb59b3-83e7-4052-a73d-06bbbb4716e9"
+  },
+  {
+   "external_id": "08671fee-58d3-4171-a67d-c53a7068fbf3",
+   "title": "Lead QA Engineer",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-04T17:48:43.329000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/08671fee-58d3-4171-a67d-c53a7068fbf3"
+  },
+  {
+   "external_id": "33a5f6e2-0cc9-4bb8-8202-4214af649f90",
+   "title": "Senior Software Engineer - Encryption & PHI",
+   "role_family": "engineering",
+   "location": "SF Office",
+   "posted_at": "2026-09-02T19:05:53.129000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/33a5f6e2-0cc9-4bb8-8202-4214af649f90"
+  },
+  {
+   "external_id": "34c86ee2-789d-4eee-b433-df65fab23d72",
+   "title": "Forward Deployed Engineer (Spain)",
+   "role_family": "customer",
+   "location": "Spain",
+   "posted_at": "2026-06-16T21:47:27.027000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/34c86ee2-789d-4eee-b433-df65fab23d72"
+  },
+  {
+   "external_id": "43cfff2b-8b07-44c2-9928-5040fa70ee05",
+   "title": "Platform Engineer, APIs & Observability",
+   "role_family": "engineering",
+   "location": "Poland - Warsaw Office",
+   "posted_at": "2026-06-29T15:11:01.589000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/43cfff2b-8b07-44c2-9928-5040fa70ee05"
+  },
+  {
+   "external_id": "445953ab-7f52-49e4-a867-5f5364572e22",
+   "title": "Senior Software Engineer - Encryption & PHI",
+   "role_family": "engineering",
+   "location": "Poland - Warsaw Office",
+   "posted_at": "2026-09-21T17:21:22.131000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/445953ab-7f52-49e4-a867-5f5364572e22"
+  },
+  {
+   "external_id": "57d778c8-44fa-4af0-9a0b-a58e96f1d686",
+   "title": "Sales Development Representative (Healthcare)",
+   "role_family": "sales",
+   "location": "NYC Office",
+   "posted_at": "2026-07-14T19:57:28.904000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/57d778c8-44fa-4af0-9a0b-a58e96f1d686"
+  },
+  {
+   "external_id": "62df8e8b-8535-4d2c-8b85-e6b827fb1c87",
+   "title": "Senior DevOps Engineer",
+   "role_family": "engineering",
+   "location": "SF Office",
+   "posted_at": "2026-08-05T17:49:24.414000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/62df8e8b-8535-4d2c-8b85-e6b827fb1c87"
+  },
+  {
+   "external_id": "7e49c7b0-93b7-4cd8-928c-9eb17f109e7c",
+   "title": "Digital Marketing Manager",
+   "role_family": "marketing",
+   "location": "NYC Office",
+   "posted_at": "2026-06-23T17:55:34.975000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/7e49c7b0-93b7-4cd8-928c-9eb17f109e7c"
+  },
+  {
+   "external_id": "963be320-fecb-4095-b73c-a9050b3188f5",
+   "title": "Senior Software Engineer, Engine & Distributed Systems",
+   "role_family": "engineering",
+   "location": "SF Office",
+   "posted_at": "2026-06-19T04:32:40.836000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/963be320-fecb-4095-b73c-a9050b3188f5"
+  },
+  {
+   "external_id": "9cf7747c-ad29-444e-890d-d3d6abc0ff53",
+   "title": "Senior Software Engineer, Identity & Access",
+   "role_family": "engineering",
+   "location": "SF Office",
+   "posted_at": "2026-06-19T04:30:10.921000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/9cf7747c-ad29-444e-890d-d3d6abc0ff53"
+  },
+  {
+   "external_id": "a534f51a-a2b7-4e58-916d-2cd1089af597",
+   "title": "Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "NYC Office",
+   "posted_at": "2026-07-01T14:47:27.121000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/a534f51a-a2b7-4e58-916d-2cd1089af597"
+  },
+  {
+   "external_id": "a6cce4bc-1fc6-4c69-82cf-6593a37c31c6",
+   "title": "Senior Software Engineer, Engine & Distributed Systems",
+   "role_family": "engineering",
+   "location": "Poland - Warsaw Office",
+   "posted_at": "2026-06-29T15:19:55.676000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/a6cce4bc-1fc6-4c69-82cf-6593a37c31c6"
+  },
+  {
+   "external_id": "c4cc37f5-65a8-4df9-aef0-c150c352effc",
+   "title": "Platform Engineer, APIs & Observability",
+   "role_family": "engineering",
+   "location": "SF Office",
+   "posted_at": "2026-06-19T04:27:01.097000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/c4cc37f5-65a8-4df9-aef0-c150c352effc"
+  },
+  {
+   "external_id": "cb636776-4b3c-4d56-92e7-35fdc177437b",
+   "title": "AI Strategist - Portuguese Speaking",
+   "role_family": "gtm_ops",
+   "location": "NYC Office",
+   "posted_at": "2026-10-15T21:32:17.786000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/cb636776-4b3c-4d56-92e7-35fdc177437b"
+  },
+  {
+   "external_id": "d65c8bc9-7b75-4fa9-b551-322fa822f657",
+   "title": "Forward Deployed AI Engineer",
+   "role_family": "customer",
+   "location": "SF Office",
+   "posted_at": "2026-05-01T03:49:33.692000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/d65c8bc9-7b75-4fa9-b551-322fa822f657"
+  },
+  {
+   "external_id": "da6fe2ab-38f0-4452-ac13-3568ea8e12fc",
+   "title": "AI Strategist",
+   "role_family": "gtm_ops",
+   "location": "NYC Office",
+   "posted_at": "2026-05-01T03:49:01.191000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/da6fe2ab-38f0-4452-ac13-3568ea8e12fc"
+  },
+  {
+   "external_id": "e3a37f89-28d9-4717-9c18-3b4e95068d5c",
+   "title": "Solution Engineer",
+   "role_family": "sales",
+   "location": "NYC Office",
+   "posted_at": "2026-07-01T17:06:31.455000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/e3a37f89-28d9-4717-9c18-3b4e95068d5c"
+  },
+  {
+   "external_id": "ef55bfb3-89d7-4da2-bad9-9defcfc47a1a",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "NYC Office",
+   "posted_at": "2026-04-27T23:44:09.172000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/ef55bfb3-89d7-4da2-bad9-9defcfc47a1a"
+  },
+  {
+   "external_id": "f15559d9-4c4f-4e95-bdf5-786376d93f04",
+   "title": "Senior Frontend Engineer",
+   "role_family": "engineering",
+   "location": "Spain",
+   "posted_at": "2026-01-24T19:59:11.616000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/f15559d9-4c4f-4e95-bdf5-786376d93f04"
+  },
+  {
+   "external_id": "f23748a6-7200-401e-8e96-3e4eceef2bc2",
+   "title": "Senior DevOps Engineer",
+   "role_family": "engineering",
+   "location": "Poland - Warsaw Office",
+   "posted_at": "2026-09-21T17:25:17.373000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/f23748a6-7200-401e-8e96-3e4eceef2bc2"
+  },
+  {
+   "external_id": "f533f0d8-bc44-48ed-9f1d-59cb3b1cde54",
+   "title": "Product Security Engineer",
+   "role_family": "engineering",
+   "location": "Poland - Warsaw Office",
+   "posted_at": "2026-06-30T21:52:42.313000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/f533f0d8-bc44-48ed-9f1d-59cb3b1cde54"
+  },
+  {
+   "external_id": "f6b1d010-12ea-460e-aebb-85e2f7e6de45",
+   "title": "Forward Deployed Engineer - Healthcare",
+   "role_family": "customer",
+   "location": "NYC Office",
+   "posted_at": "2026-03-30T22:09:44.501000+00:00",
+   "url": "https://jobs.ashbyhq.com/stack-ai/f6b1d010-12ea-460e-aebb-85e2f7e6de45"
+  }
+ ]
+}

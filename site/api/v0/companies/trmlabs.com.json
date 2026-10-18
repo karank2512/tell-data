@@ -1,9 +1,9 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 6.7,
+  "score": 6.6,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-04-23",
       "summary": "Cyber Threat Intelligence Veteran [person] Joins TRM Labs as Account Director for DHS | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
   "open_postings": 113,
-  "long_open_roles": 37,
+  "long_open_roles": 39,
   "sources": {
     "ats": "ashby:trm-labs",
     "edgar_cik": null,

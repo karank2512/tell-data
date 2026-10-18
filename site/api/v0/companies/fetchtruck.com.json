@@ -1,13 +1,20 @@
 {
   "domain": "fetchtruck.com",
   "name": "Fetch",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 2.9,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-17",
+      "summary": "Fetch.ai Launches ASI:One, an Innovative App Store for AI - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MFdRd1A2SUFraHFndGxURHJVekZFMFBLX3NCcWRmQlFMOTJSSndtZE0zM21yY1h2cDlaWk10UUVHU19wTXU1QVdOazI2WFpGTkIxaGtLemstUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Fetch.ai Launches ASI:One, an Innovative App Store for AI - Coinfomania",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGtzeGV5cG5nUllxYU9MSk5Kd3F5cVliOExkXzBZaDVWSUh3M1hfMnJCQmplZ1o0Q25ELWlVMW9SN0dHLWxFV2FZMEhsdDAwM0VDd3Q3YkptcnpKckpzZ0cxNnU4ZGFsSHN6WUZCRmJFT3JYX0UzMXhaR2t2dlBKZjlWclZIbUU?oc=5"

@@ -1,0 +1,1537 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "airbnb",
+ "domain": "airbnb.com",
+ "as_of": "2026-10-18",
+ "last_polled_at": "2026-10-18T02:50:53.797068+00:00",
+ "open_postings": [
+  {
+   "external_id": "6757302",
+   "title": "Senior Staff Machine Learning Engineer, Data & Eval",
+   "role_family": "ml_ai",
+   "location": "United States",
+   "posted_at": "2025-03-30T23:01:04+00:00",
+   "url": "https://careers.airbnb.com/positions/6757302?gh_jid=6757302"
+  },
+  {
+   "external_id": "6852954",
+   "title": "Support Specialist, Premium",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2025-05-01T00:20:40+00:00",
+   "url": "https://careers.airbnb.com/positions/6852954?gh_jid=6852954"
+  },
+  {
+   "external_id": "7107054",
+   "title": "Senior Staff Data Scientist, Guest & Host Marketplace AI",
+   "role_family": "ml_ai",
+   "location": "Remote",
+   "posted_at": "2025-07-25T19:49:30+00:00",
+   "url": "https://careers.airbnb.com/positions/7107054?gh_jid=7107054"
+  },
+  {
+   "external_id": "7230257",
+   "title": "Spécialiste au Support Premium",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2025-09-04T21:31:04+00:00",
+   "url": "https://careers.airbnb.com/positions/7230257?gh_jid=7230257"
+  },
+  {
+   "external_id": "7417293",
+   "title": "Support Specialist, Safety",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2025-11-25T18:46:49+00:00",
+   "url": "https://careers.airbnb.com/positions/7417293?gh_jid=7417293"
+  },
+  {
+   "external_id": "7417294",
+   "title": "Spécialiste, Sécurité",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2025-11-25T18:46:50+00:00",
+   "url": "https://careers.airbnb.com/positions/7417294?gh_jid=7417294"
+  },
+  {
+   "external_id": "7525479",
+   "title": "Senior Staff Software Engineer, Payments",
+   "role_family": "engineering",
+   "location": "Remote - Bangalore, India",
+   "posted_at": "2026-01-09T09:23:27+00:00",
+   "url": "https://careers.airbnb.com/positions/7525479?gh_jid=7525479"
+  },
+  {
+   "external_id": "7528577",
+   "title": "Staff Software Engineer, Marketplaces & Intelligence Data and AI",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-01-12T18:55:52+00:00",
+   "url": "https://careers.airbnb.com/positions/7528577?gh_jid=7528577"
+  },
+  {
+   "external_id": "7532824",
+   "title": "Engineering Manager, Guest & Host",
+   "role_family": "engineering",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-01-23T16:33:08+00:00",
+   "url": "https://careers.airbnb.com/positions/7532824?gh_jid=7532824"
+  },
+  {
+   "external_id": "7587869",
+   "title": "Senior Market Manager, Hotels",
+   "role_family": "other",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-02-05T01:53:32+00:00",
+   "url": "https://careers.airbnb.com/positions/7587869?gh_jid=7587869"
+  },
+  {
+   "external_id": "7590542",
+   "title": "Growth Marketing Lead, Japan",
+   "role_family": "marketing",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-02-05T15:05:36+00:00",
+   "url": "https://careers.airbnb.com/positions/7590542?gh_jid=7590542"
+  },
+  {
+   "external_id": "7592146",
+   "title": "Senior Staff Machine Learning Engineer, Trust",
+   "role_family": "ml_ai",
+   "location": "Remote - USA",
+   "posted_at": "2026-02-05T19:21:33+00:00",
+   "url": "https://careers.airbnb.com/positions/7592146?gh_jid=7592146"
+  },
+  {
+   "external_id": "7702714",
+   "title": "Staff Software Engineer, Streaming Infrastructure",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-03-11T04:21:37+00:00",
+   "url": "https://careers.airbnb.com/positions/7702714?gh_jid=7702714"
+  },
+  {
+   "external_id": "7705262",
+   "title": "Staff Data Scientist, Guest & Host",
+   "role_family": "ml_ai",
+   "location": "United States",
+   "posted_at": "2026-03-11T16:19:22+00:00",
+   "url": "https://careers.airbnb.com/positions/7705262?gh_jid=7705262"
+  },
+  {
+   "external_id": "7716341",
+   "title": "Machine Learning Engineer, Assistance Engineering",
+   "role_family": "ml_ai",
+   "location": "China",
+   "posted_at": "2026-03-23T00:51:17+00:00",
+   "url": "https://careers.airbnb.com/positions/7716341?gh_jid=7716341"
+  },
+  {
+   "external_id": "7747259",
+   "title": "Senior Staff Machine Learning Engineer, Growth Platform Engineering",
+   "role_family": "engineering",
+   "location": "Remote - USA",
+   "posted_at": "2026-04-14T23:28:02+00:00",
+   "url": "https://careers.airbnb.com/positions/7747259?gh_jid=7747259"
+  },
+  {
+   "external_id": "7755758",
+   "title": "Senior Machine Learning Engineer, Payments",
+   "role_family": "ml_ai",
+   "location": "Remote-USA",
+   "posted_at": "2026-03-26T17:02:39+00:00",
+   "url": "https://careers.airbnb.com/positions/7755758?gh_jid=7755758"
+  },
+  {
+   "external_id": "7789528",
+   "title": "Regulatory Operations Lead",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-04-10T17:34:22+00:00",
+   "url": "https://careers.airbnb.com/positions/7789528?gh_jid=7789528"
+  },
+  {
+   "external_id": "7789554",
+   "title": "Associate Legal Counsel, Japan",
+   "role_family": "finance_ops",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-04-13T08:49:05+00:00",
+   "url": "https://careers.airbnb.com/positions/7789554?gh_jid=7789554"
+  },
+  {
+   "external_id": "7818982",
+   "title": "Senior Staff Software Engineer, Trust",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2026-04-21T22:51:28+00:00",
+   "url": "https://careers.airbnb.com/positions/7818982?gh_jid=7818982"
+  },
+  {
+   "external_id": "7834481",
+   "title": "Business Operations and Growth Lead",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-04-21T23:15:15+00:00",
+   "url": "https://careers.airbnb.com/positions/7834481?gh_jid=7834481"
+  },
+  {
+   "external_id": "7834495",
+   "title": "Staff Platform Manager, AI Personalization",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-04-28T16:10:24+00:00",
+   "url": "https://careers.airbnb.com/positions/7834495?gh_jid=7834495"
+  },
+  {
+   "external_id": "7839229",
+   "title": "Community Support Forecasting and Demand Planning Analyst",
+   "role_family": "customer",
+   "location": "United States",
+   "posted_at": "2026-04-24T21:11:08+00:00",
+   "url": "https://careers.airbnb.com/positions/7839229?gh_jid=7839229"
+  },
+  {
+   "external_id": "7858738",
+   "title": "Senior Staff Machine Learning Engineer, Post Training",
+   "role_family": "ml_ai",
+   "location": "Remote - USA",
+   "posted_at": "2026-05-05T20:58:33+00:00",
+   "url": "https://careers.airbnb.com/positions/7858738?gh_jid=7858738"
+  },
+  {
+   "external_id": "7859539",
+   "title": "Policy Manager, Korea",
+   "role_family": "other",
+   "location": "Seoul, South Korea",
+   "posted_at": "2026-05-07T03:54:49+00:00",
+   "url": "https://careers.airbnb.com/positions/7859539?gh_jid=7859539"
+  },
+  {
+   "external_id": "7867435",
+   "title": "Staff Software Engineer, Unified Data Store",
+   "role_family": "engineering",
+   "location": "Brazil",
+   "posted_at": "2026-04-29T22:33:23+00:00",
+   "url": "https://careers.airbnb.com/positions/7867435?gh_jid=7867435"
+  },
+  {
+   "external_id": "7916840",
+   "title": "Senior Key Accounts Manager",
+   "role_family": "sales",
+   "location": "Paris, France",
+   "posted_at": "2026-05-12T15:12:29+00:00",
+   "url": "https://careers.airbnb.com/positions/7916840?gh_jid=7916840"
+  },
+  {
+   "external_id": "7943874",
+   "title": "Staff Advanced Analytics, Product",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-05-20T17:25:48+00:00",
+   "url": "https://careers.airbnb.com/positions/7943874?gh_jid=7943874"
+  },
+  {
+   "external_id": "7946318",
+   "title": "Support Specialist, Premium",
+   "role_family": "customer",
+   "location": "Ireland",
+   "posted_at": "2026-05-20T12:42:59+00:00",
+   "url": "https://careers.airbnb.com/positions/7946318?gh_jid=7946318"
+  },
+  {
+   "external_id": "7955579",
+   "title": "Principal Machine Learning Engineer- LLM Fine-tuning and Optimization",
+   "role_family": "ml_ai",
+   "location": "United States",
+   "posted_at": "2026-05-24T23:37:28+00:00",
+   "url": "https://careers.airbnb.com/positions/7955579?gh_jid=7955579"
+  },
+  {
+   "external_id": "7964996",
+   "title": "Support Specialist, Safety",
+   "role_family": "customer",
+   "location": "Korea",
+   "posted_at": "2026-05-29T02:35:29+00:00",
+   "url": "https://careers.airbnb.com/positions/7964996?gh_jid=7964996"
+  },
+  {
+   "external_id": "7968034",
+   "title": "Senior Engineering Manager, Media Foundation",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-04T18:01:36+00:00",
+   "url": "https://careers.airbnb.com/positions/7968034?gh_jid=7968034"
+  },
+  {
+   "external_id": "7975743",
+   "title": "Senior Machine Learning Engineer, Assistance Engineering",
+   "role_family": "ml_ai",
+   "location": "China",
+   "posted_at": "2026-06-02T08:00:13+00:00",
+   "url": "https://careers.airbnb.com/positions/7975743?gh_jid=7975743"
+  },
+  {
+   "external_id": "7982715",
+   "title": "Community Engagement Lead, Spain and Portugal",
+   "role_family": "gtm_ops",
+   "location": "Barcelona, Spain",
+   "posted_at": "2026-06-04T16:14:37+00:00",
+   "url": "https://careers.airbnb.com/positions/7982715?gh_jid=7982715"
+  },
+  {
+   "external_id": "7995153",
+   "title": "Business Development Manager",
+   "role_family": "sales",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-06-10T12:50:56+00:00",
+   "url": "https://careers.airbnb.com/positions/7995153?gh_jid=7995153"
+  },
+  {
+   "external_id": "7998356",
+   "title": "Senior Staff Data Engineer - Data Stewardship",
+   "role_family": "data",
+   "location": "United States",
+   "posted_at": "2026-06-10T23:39:45+00:00",
+   "url": "https://careers.airbnb.com/positions/7998356?gh_jid=7998356"
+  },
+  {
+   "external_id": "8000413",
+   "title": "Market Manager - Vacation Rental",
+   "role_family": "other",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-06-15T07:16:56+00:00",
+   "url": "https://careers.airbnb.com/positions/8000413?gh_jid=8000413"
+  },
+  {
+   "external_id": "8017277",
+   "title": "Senior Staff Software Engineer, Guest & Host",
+   "role_family": "engineering",
+   "location": "Remote - USA",
+   "posted_at": "2026-06-23T15:51:19+00:00",
+   "url": "https://careers.airbnb.com/positions/8017277?gh_jid=8017277"
+  },
+  {
+   "external_id": "8023118",
+   "title": "Lead Advanced Analytics, Community Support",
+   "role_family": "customer",
+   "location": "Bengaluru, India",
+   "posted_at": "2026-06-23T09:55:55+00:00",
+   "url": "https://careers.airbnb.com/positions/8023118?gh_jid=8023118"
+  },
+  {
+   "external_id": "8024057",
+   "title": "Senior Software Engineer, Service Tools",
+   "role_family": "engineering",
+   "location": "Brazil",
+   "posted_at": "2026-06-24T11:09:17+00:00",
+   "url": "https://careers.airbnb.com/positions/8024057?gh_jid=8024057"
+  },
+  {
+   "external_id": "8024316",
+   "title": "Staff Machine Learning Engineer, Assistance Engineering",
+   "role_family": "ml_ai",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-06-23T22:20:45+00:00",
+   "url": "https://careers.airbnb.com/positions/8024316?gh_jid=8024316"
+  },
+  {
+   "external_id": "8028783",
+   "title": "Programs and Business Operations Lead, Membership & Services",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-06-26T20:59:57+00:00",
+   "url": "https://careers.airbnb.com/positions/8028783?gh_jid=8028783"
+  },
+  {
+   "external_id": "8029984",
+   "title": "Senior Platform Product Manager, Trust and Safety",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-06-28T08:19:58+00:00",
+   "url": "https://careers.airbnb.com/positions/8029984?gh_jid=8029984"
+  },
+  {
+   "external_id": "8031901",
+   "title": "Data Scientist - Algorithms, Community Support",
+   "role_family": "customer",
+   "location": "Remote - USA",
+   "posted_at": "2026-06-28T17:01:24+00:00",
+   "url": "https://careers.airbnb.com/positions/8031901?gh_jid=8031901"
+  },
+  {
+   "external_id": "8044801",
+   "title": "Senior Manager, Field Operations",
+   "role_family": "sales",
+   "location": "Mexico City, Mexico",
+   "posted_at": "2026-07-13T16:04:04+00:00",
+   "url": "https://careers.airbnb.com/positions/8044801?gh_jid=8044801"
+  },
+  {
+   "external_id": "8053132",
+   "title": "Senior Business Solutions Engineer, BizTech(LegalTech)",
+   "role_family": "sales",
+   "location": "Bangalore, India",
+   "posted_at": "2026-07-10T09:03:39+00:00",
+   "url": "https://careers.airbnb.com/positions/8053132?gh_jid=8053132"
+  },
+  {
+   "external_id": "8053756",
+   "title": "Senior Principal, Competitive Intelligence",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-07-09T16:51:34+00:00",
+   "url": "https://careers.airbnb.com/positions/8053756?gh_jid=8053756"
+  },
+  {
+   "external_id": "8065789",
+   "title": "Senior Machine Learning Engineer, Query Intelligence",
+   "role_family": "ml_ai",
+   "location": "United States",
+   "posted_at": "2026-07-14T23:54:51+00:00",
+   "url": "https://careers.airbnb.com/positions/8065789?gh_jid=8065789"
+  },
+  {
+   "external_id": "8066835",
+   "title": "Enterprise Account Operations Associate",
+   "role_family": "sales",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-07-16T07:49:42+00:00",
+   "url": "https://careers.airbnb.com/positions/8066835?gh_jid=8066835"
+  },
+  {
+   "external_id": "8070705",
+   "title": "Senior Platform Manager, Data Products, Finance Accounting",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-07-20T16:54:52+00:00",
+   "url": "https://careers.airbnb.com/positions/8070705?gh_jid=8070705"
+  },
+  {
+   "external_id": "8074897",
+   "title": "Staff Backend Engineer - Ads Platform",
+   "role_family": "engineering",
+   "location": "Remote - USA",
+   "posted_at": "2026-07-22T19:52:40+00:00",
+   "url": "https://careers.airbnb.com/positions/8074897?gh_jid=8074897"
+  },
+  {
+   "external_id": "8074955",
+   "title": "Operations Engineer, BizTech",
+   "role_family": "engineering",
+   "location": "Remote- USA",
+   "posted_at": "2026-07-20T18:27:38+00:00",
+   "url": "https://careers.airbnb.com/positions/8074955?gh_jid=8074955"
+  },
+  {
+   "external_id": "8075714",
+   "title": "Payments Partnerships Manager, Host Payouts",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-07-21T15:38:47+00:00",
+   "url": "https://careers.airbnb.com/positions/8075714?gh_jid=8075714"
+  },
+  {
+   "external_id": "8077683",
+   "title": "Senior Manager, Technical Program Management (Search & AI Foundations)",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-07-21T19:29:19+00:00",
+   "url": "https://careers.airbnb.com/positions/8077683?gh_jid=8077683"
+  },
+  {
+   "external_id": "8079378",
+   "title": "Senior Program Manager, Workplace Operations",
+   "role_family": "other",
+   "location": "San Francisco, United States",
+   "posted_at": "2026-07-22T14:09:04+00:00",
+   "url": "https://careers.airbnb.com/positions/8079378?gh_jid=8079378"
+  },
+  {
+   "external_id": "8080766",
+   "title": "Support Specialist, Premium",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-07-28T15:33:37+00:00",
+   "url": "https://careers.airbnb.com/positions/8080766?gh_jid=8080766"
+  },
+  {
+   "external_id": "8080767",
+   "title": "Spécialiste au Support Premium",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-07-28T15:33:36+00:00",
+   "url": "https://careers.airbnb.com/positions/8080767?gh_jid=8080767"
+  },
+  {
+   "external_id": "8080954",
+   "title": "Lead Advanced Analytics, Product",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-07-24T18:15:02+00:00",
+   "url": "https://careers.airbnb.com/positions/8080954?gh_jid=8080954"
+  },
+  {
+   "external_id": "8081180",
+   "title": "Senior Analyst, Advanced Analytics - Gurugram",
+   "role_family": "other",
+   "location": "Gurugram, India",
+   "posted_at": "2026-07-23T10:56:02+00:00",
+   "url": "https://careers.airbnb.com/positions/8081180?gh_jid=8081180"
+  },
+  {
+   "external_id": "8081925",
+   "title": "Product Manager, Services",
+   "role_family": "product_design",
+   "location": "San Francisco, CA, Seattle WA, New York, NY",
+   "posted_at": "2026-07-23T23:40:17+00:00",
+   "url": "https://careers.airbnb.com/positions/8081925?gh_jid=8081925"
+  },
+  {
+   "external_id": "8082863",
+   "title": "Senior Platform Product Manager, Payment Platform Accounts",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-07-24T15:52:41+00:00",
+   "url": "https://careers.airbnb.com/positions/8082863?gh_jid=8082863"
+  },
+  {
+   "external_id": "8083137",
+   "title": "Operations Engineer, Tech Foundations",
+   "role_family": "engineering",
+   "location": "Remote - India",
+   "posted_at": "2026-07-24T09:09:31+00:00",
+   "url": "https://careers.airbnb.com/positions/8083137?gh_jid=8083137"
+  },
+  {
+   "external_id": "8094412",
+   "title": "Product Program Manager, Roadmap Planning & Program Management",
+   "role_family": "other",
+   "location": "San Francisco, United States",
+   "posted_at": "2026-07-29T20:19:39+00:00",
+   "url": "https://careers.airbnb.com/positions/8094412?gh_jid=8094412"
+  },
+  {
+   "external_id": "8094462",
+   "title": "Senior Product Program Manager, Roadmap Planning & Program Management",
+   "role_family": "other",
+   "location": "San Francisco, United States",
+   "posted_at": "2026-07-29T20:22:14+00:00",
+   "url": "https://careers.airbnb.com/positions/8094462?gh_jid=8094462"
+  },
+  {
+   "external_id": "8095365",
+   "title": "Senior Staff Software Engineer, Marketing Technology",
+   "role_family": "marketing",
+   "location": "Remote, USA",
+   "posted_at": "2026-07-29T22:14:52+00:00",
+   "url": "https://careers.airbnb.com/positions/8095365?gh_jid=8095365"
+  },
+  {
+   "external_id": "8096359",
+   "title": "Product Manager, Pricing",
+   "role_family": "product_design",
+   "location": "United States",
+   "posted_at": "2026-08-04T19:45:48+00:00",
+   "url": "https://careers.airbnb.com/positions/8096359?gh_jid=8096359"
+  },
+  {
+   "external_id": "8103590",
+   "title": "Programs Operations Lead, Growth Levers",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-08-12T16:01:33+00:00",
+   "url": "https://careers.airbnb.com/positions/8103590?gh_jid=8103590"
+  },
+  {
+   "external_id": "8108673",
+   "title": "NextStay Fellow, Tech Ops & Programs",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-17T18:08:50+00:00",
+   "url": "https://careers.airbnb.com/positions/8108673?gh_jid=8108673"
+  },
+  {
+   "external_id": "8112572",
+   "title": "Staff Experience Researcher, Incubations (Mixed Methods)",
+   "role_family": "ml_ai",
+   "location": "United States",
+   "posted_at": "2026-08-10T22:57:54+00:00",
+   "url": "https://careers.airbnb.com/positions/8112572?gh_jid=8112572"
+  },
+  {
+   "external_id": "8113284",
+   "title": "Staff UX Researcher, Payments Growth (Mixed Methods)",
+   "role_family": "product_design",
+   "location": "United States",
+   "posted_at": "2026-08-10T22:55:52+00:00",
+   "url": "https://careers.airbnb.com/positions/8113284?gh_jid=8113284"
+  },
+  {
+   "external_id": "8114339",
+   "title": "Quality Manager, AirCover",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-08-31T18:48:17+00:00",
+   "url": "https://careers.airbnb.com/positions/8114339?gh_jid=8114339"
+  },
+  {
+   "external_id": "8114345",
+   "title": "Senior Manager, Quality, Volume Tiers",
+   "role_family": "customer",
+   "location": "Ireland",
+   "posted_at": "2026-10-05T22:19:00+00:00",
+   "url": "https://careers.airbnb.com/positions/8114345?gh_jid=8114345"
+  },
+  {
+   "external_id": "8120611",
+   "title": "Staff Platform Product Manager, Payments Regional Growth",
+   "role_family": "engineering",
+   "location": "Brazil",
+   "posted_at": "2026-08-11T16:34:28+00:00",
+   "url": "https://careers.airbnb.com/positions/8120611?gh_jid=8120611"
+  },
+  {
+   "external_id": "8120721",
+   "title": "Staff Platform Product Manager, Payments Regional Growth",
+   "role_family": "engineering",
+   "location": "Mexico",
+   "posted_at": "2026-08-11T16:34:29+00:00",
+   "url": "https://careers.airbnb.com/positions/8120721?gh_jid=8120721"
+  },
+  {
+   "external_id": "8121074",
+   "title": "Staff Experience Designer, International",
+   "role_family": "product_design",
+   "location": "Singapore",
+   "posted_at": "2026-08-11T08:20:47+00:00",
+   "url": "https://careers.airbnb.com/positions/8121074?gh_jid=8121074"
+  },
+  {
+   "external_id": "8125873",
+   "title": "Senior Manager, Sales Enablement",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-08-17T21:44:01+00:00",
+   "url": "https://careers.airbnb.com/positions/8125873?gh_jid=8125873"
+  },
+  {
+   "external_id": "8129371",
+   "title": "Staff Machine Learning Engineer, Traffic Intelligence",
+   "role_family": "ml_ai",
+   "location": "United States",
+   "posted_at": "2026-08-13T23:22:22+00:00",
+   "url": "https://careers.airbnb.com/positions/8129371?gh_jid=8129371"
+  },
+  {
+   "external_id": "8130355",
+   "title": "Senior Machine Learning Engineer, Trust",
+   "role_family": "ml_ai",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-08-14T21:27:57+00:00",
+   "url": "https://careers.airbnb.com/positions/8130355?gh_jid=8130355"
+  },
+  {
+   "external_id": "8130817",
+   "title": "Staff Software Engineer, Passport & Commerce (Backend)",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-14T20:03:51+00:00",
+   "url": "https://careers.airbnb.com/positions/8130817?gh_jid=8130817"
+  },
+  {
+   "external_id": "8131310",
+   "title": "Market Manager",
+   "role_family": "other",
+   "location": "Mexico",
+   "posted_at": "2026-08-17T14:50:31+00:00",
+   "url": "https://careers.airbnb.com/positions/8131310?gh_jid=8131310"
+  },
+  {
+   "external_id": "8136554",
+   "title": "Staff Platform Manager, Conversational Products",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-19T21:50:25+00:00",
+   "url": "https://careers.airbnb.com/positions/8136554?gh_jid=8136554"
+  },
+  {
+   "external_id": "8140993",
+   "title": "Market Manager, Australia",
+   "role_family": "other",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-08-19T06:04:28+00:00",
+   "url": "https://careers.airbnb.com/positions/8140993?gh_jid=8140993"
+  },
+  {
+   "external_id": "8141266",
+   "title": "Senior Market Manager, Vietnamese Speaking (Bangkok Based)",
+   "role_family": "sales",
+   "location": "Bangkok, Thailand",
+   "posted_at": "2026-08-19T12:55:34+00:00",
+   "url": "https://careers.airbnb.com/positions/8141266?gh_jid=8141266"
+  },
+  {
+   "external_id": "8141377",
+   "title": "Senior Connectivity Partner Manager, Bangkok (SEA/IN)",
+   "role_family": "sales",
+   "location": "Bangkok, Thailand",
+   "posted_at": "2026-08-19T12:55:06+00:00",
+   "url": "https://careers.airbnb.com/positions/8141377?gh_jid=8141377"
+  },
+  {
+   "external_id": "8142636",
+   "title": "Senior Host Development Lead, Incentives",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-08-31T16:38:31+00:00",
+   "url": "https://careers.airbnb.com/positions/8142636?gh_jid=8142636"
+  },
+  {
+   "external_id": "8154705",
+   "title": "Staff Software Engineer, Data Catalog",
+   "role_family": "engineering",
+   "location": "USA",
+   "posted_at": "2026-09-09T17:59:25+00:00",
+   "url": "https://careers.airbnb.com/positions/8154705?gh_jid=8154705"
+  },
+  {
+   "external_id": "8154749",
+   "title": "Software Engineer, Tech Foundations",
+   "role_family": "engineering",
+   "location": "Sao Paulo - Brazil",
+   "posted_at": "2026-08-24T19:41:54+00:00",
+   "url": "https://careers.airbnb.com/positions/8154749?gh_jid=8154749"
+  },
+  {
+   "external_id": "8158133",
+   "title": "Senior Manager, Quality, Volume Tiers",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-10-05T22:21:35+00:00",
+   "url": "https://careers.airbnb.com/positions/8158133?gh_jid=8158133"
+  },
+  {
+   "external_id": "8163100",
+   "title": "Staff Platform Manager - GTM & Ops Tooling",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-01T22:44:32+00:00",
+   "url": "https://careers.airbnb.com/positions/8163100?gh_jid=8163100"
+  },
+  {
+   "external_id": "8163221",
+   "title": "Senior Programs & Business Operations Lead",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-08-28T00:35:55+00:00",
+   "url": "https://careers.airbnb.com/positions/8163221?gh_jid=8163221"
+  },
+  {
+   "external_id": "8164421",
+   "title": "Gestionnaire de la qualité, AirCover",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-08-31T19:06:49+00:00",
+   "url": "https://careers.airbnb.com/positions/8164421?gh_jid=8164421"
+  },
+  {
+   "external_id": "8165843",
+   "title": "Localization Manager, Italian",
+   "role_family": "other",
+   "location": "Milan, Italy",
+   "posted_at": "2026-09-01T10:05:15+00:00",
+   "url": "https://careers.airbnb.com/positions/8165843?gh_jid=8165843"
+  },
+  {
+   "external_id": "8167113",
+   "title": "Senior Manager, Intelligence & Advocacy",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-28T19:01:37+00:00",
+   "url": "https://careers.airbnb.com/positions/8167113?gh_jid=8167113"
+  },
+  {
+   "external_id": "8167204",
+   "title": "Senior Market Manager, Vietnamese Speaking (Bangkok Based)",
+   "role_family": "sales",
+   "location": "Vietnam",
+   "posted_at": "2026-08-31T14:49:12+00:00",
+   "url": "https://careers.airbnb.com/positions/8167204?gh_jid=8167204"
+  },
+  {
+   "external_id": "8172706",
+   "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Singapore Based)",
+   "role_family": "finance_ops",
+   "location": "Singapore",
+   "posted_at": "2026-09-02T09:33:34+00:00",
+   "url": "https://careers.airbnb.com/positions/8172706?gh_jid=8172706"
+  },
+  {
+   "external_id": "8172732",
+   "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Seoul Based)",
+   "role_family": "finance_ops",
+   "location": "Seoul, Korea",
+   "posted_at": "2026-09-02T09:33:32+00:00",
+   "url": "https://careers.airbnb.com/positions/8172732?gh_jid=8172732"
+  },
+  {
+   "external_id": "8172734",
+   "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Tokyo Based)",
+   "role_family": "finance_ops",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-09-02T09:33:38+00:00",
+   "url": "https://careers.airbnb.com/positions/8172734?gh_jid=8172734"
+  },
+  {
+   "external_id": "8172735",
+   "title": "Customer Service Partner Operations Manager, Mandarin Speaking (Manila Based)",
+   "role_family": "finance_ops",
+   "location": "Manila, Philippines",
+   "posted_at": "2026-09-02T09:33:30+00:00",
+   "url": "https://careers.airbnb.com/positions/8172735?gh_jid=8172735"
+  },
+  {
+   "external_id": "8175521",
+   "title": "Senior Manager, Platform Product Management (Payments)",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-03T01:58:21+00:00",
+   "url": "https://careers.airbnb.com/positions/8175521?gh_jid=8175521"
+  },
+  {
+   "external_id": "8176559",
+   "title": "Market Associate",
+   "role_family": "sales",
+   "location": "Milan, Italy",
+   "posted_at": "2026-09-08T10:48:20+00:00",
+   "url": "https://careers.airbnb.com/positions/8176559?gh_jid=8176559"
+  },
+  {
+   "external_id": "8178467",
+   "title": "Senior Community Growth Manager",
+   "role_family": "other",
+   "location": "Brazil",
+   "posted_at": "2026-09-03T23:46:48+00:00",
+   "url": "https://careers.airbnb.com/positions/8178467?gh_jid=8178467"
+  },
+  {
+   "external_id": "8178505",
+   "title": "Market Associate",
+   "role_family": "other",
+   "location": "Mexico City, Mexico",
+   "posted_at": "2026-09-08T13:20:36+00:00",
+   "url": "https://careers.airbnb.com/positions/8178505?gh_jid=8178505"
+  },
+  {
+   "external_id": "8184174",
+   "title": "Account Manager",
+   "role_family": "sales",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-09-09T08:35:19+00:00",
+   "url": "https://careers.airbnb.com/positions/8184174?gh_jid=8184174"
+  },
+  {
+   "external_id": "8185136",
+   "title": "Policy Manager, Quality",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-08T15:12:33+00:00",
+   "url": "https://careers.airbnb.com/positions/8185136?gh_jid=8185136"
+  },
+  {
+   "external_id": "8189374",
+   "title": "Mobile Software Engineer, Tech Foundations",
+   "role_family": "engineering",
+   "location": "Brazil",
+   "posted_at": "2026-09-09T21:21:31+00:00",
+   "url": "https://careers.airbnb.com/positions/8189374?gh_jid=8189374"
+  },
+  {
+   "external_id": "8189782",
+   "title": "Product Manager, Community Support",
+   "role_family": "customer",
+   "location": "Remote",
+   "posted_at": "2026-09-14T18:34:12+00:00",
+   "url": "https://careers.airbnb.com/positions/8189782?gh_jid=8189782"
+  },
+  {
+   "external_id": "8192101",
+   "title": "Directeur·rice principal·e de la qualité, niveaux de volume",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-10-05T22:23:02+00:00",
+   "url": "https://careers.airbnb.com/positions/8192101?gh_jid=8192101"
+  },
+  {
+   "external_id": "8196013",
+   "title": "Senior Demand Strategy Lead, Experiences",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-09-11T19:13:49+00:00",
+   "url": "https://careers.airbnb.com/positions/8196013?gh_jid=8196013"
+  },
+  {
+   "external_id": "8197652",
+   "title": "Senior Systems Engineer, Tech Foundations",
+   "role_family": "other",
+   "location": "Remote",
+   "posted_at": "2026-09-11T20:40:45+00:00",
+   "url": "https://careers.airbnb.com/positions/8197652?gh_jid=8197652"
+  },
+  {
+   "external_id": "8197715",
+   "title": "Staff Software Engineer, Data Warehouse",
+   "role_family": "engineering",
+   "location": "USA",
+   "posted_at": "2026-09-11T20:29:55+00:00",
+   "url": "https://careers.airbnb.com/positions/8197715?gh_jid=8197715"
+  },
+  {
+   "external_id": "8201750",
+   "title": "Host Communications Strategy Lead",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-15T15:49:07+00:00",
+   "url": "https://careers.airbnb.com/positions/8201750?gh_jid=8201750"
+  },
+  {
+   "external_id": "8202802",
+   "title": "Senior Market Manager",
+   "role_family": "other",
+   "location": "Los Angeles, California, United States",
+   "posted_at": "2026-09-14T21:40:53+00:00",
+   "url": "https://careers.airbnb.com/positions/8202802?gh_jid=8202802"
+  },
+  {
+   "external_id": "8202878",
+   "title": "Staff Workday Integration Engineer, Tech Foundations",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-15T16:04:40+00:00",
+   "url": "https://careers.airbnb.com/positions/8202878?gh_jid=8202878"
+  },
+  {
+   "external_id": "8207084",
+   "title": "Lead Advanced Analyst, Integrated Marketing",
+   "role_family": "marketing",
+   "location": "United States",
+   "posted_at": "2026-09-16T18:23:26+00:00",
+   "url": "https://careers.airbnb.com/positions/8207084?gh_jid=8207084"
+  },
+  {
+   "external_id": "8207095",
+   "title": "Staff Advanced Analytics, Community Blueprint & Quality",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-16T18:23:40+00:00",
+   "url": "https://careers.airbnb.com/positions/8207095?gh_jid=8207095"
+  },
+  {
+   "external_id": "8209984",
+   "title": "Principal, Strategic Finance & Analytics, Acquisition",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-09-18T16:28:21+00:00",
+   "url": "https://careers.airbnb.com/positions/8209984?gh_jid=8209984"
+  },
+  {
+   "external_id": "8210888",
+   "title": "Support Specialist, R1",
+   "role_family": "customer",
+   "location": "Gurugram, India",
+   "posted_at": "2026-09-17T14:51:06+00:00",
+   "url": "https://careers.airbnb.com/positions/8210888?gh_jid=8210888"
+  },
+  {
+   "external_id": "8211765",
+   "title": "Lead Platform Manager, Tech Foundations",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-18T01:37:46+00:00",
+   "url": "https://careers.airbnb.com/positions/8211765?gh_jid=8211765"
+  },
+  {
+   "external_id": "8214375",
+   "title": "Senior Executive IT Support Engineer, Tech Foundations",
+   "role_family": "customer",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-18T19:37:40+00:00",
+   "url": "https://careers.airbnb.com/positions/8214375?gh_jid=8214375"
+  },
+  {
+   "external_id": "8224032",
+   "title": "Senior Staff Data Engineer, Foundational Data",
+   "role_family": "data",
+   "location": "United States",
+   "posted_at": "2026-09-22T18:58:28+00:00",
+   "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032"
+  },
+  {
+   "external_id": "8224146",
+   "title": "Senior Analyst, Frontline Performance",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-23T14:06:18+00:00",
+   "url": "https://careers.airbnb.com/positions/8224146?gh_jid=8224146"
+  },
+  {
+   "external_id": "8231416",
+   "title": "Associate Principal, Procurement Innovation Supplier Programs",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-24T22:17:39+00:00",
+   "url": "https://careers.airbnb.com/positions/8231416?gh_jid=8231416"
+  },
+  {
+   "external_id": "8231975",
+   "title": "Senior Manager, Technical Program Management (Data, Reliability & Developer Experience)",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-06T16:41:30+00:00",
+   "url": "https://careers.airbnb.com/positions/8231975?gh_jid=8231975"
+  },
+  {
+   "external_id": "8232153",
+   "title": "Senior Machine Learning Engineer, Trust",
+   "role_family": "ml_ai",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-24T23:24:17+00:00",
+   "url": "https://careers.airbnb.com/positions/8232153?gh_jid=8232153"
+  },
+  {
+   "external_id": "8232474",
+   "title": "Senior Enterprise Account Manager",
+   "role_family": "sales",
+   "location": "Singapore",
+   "posted_at": "2026-09-26T06:40:51+00:00",
+   "url": "https://careers.airbnb.com/positions/8232474?gh_jid=8232474"
+  },
+  {
+   "external_id": "8233578",
+   "title": "Senior Guest Community Engagement Manager",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-07T15:50:10+00:00",
+   "url": "https://careers.airbnb.com/positions/8233578?gh_jid=8233578"
+  },
+  {
+   "external_id": "8236127",
+   "title": "Policy Manager, Consults and Escalations",
+   "role_family": "other",
+   "location": "Singapore",
+   "posted_at": "2026-09-28T05:39:42+00:00",
+   "url": "https://careers.airbnb.com/positions/8236127?gh_jid=8236127"
+  },
+  {
+   "external_id": "8237432",
+   "title": "Market Associate",
+   "role_family": "other",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-09-28T21:27:00+00:00",
+   "url": "https://careers.airbnb.com/positions/8237432?gh_jid=8237432"
+  },
+  {
+   "external_id": "8238592",
+   "title": "Senior Staff Engineer, Guest & Host (Host Listings & Quality)",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-29T17:13:56+00:00",
+   "url": "https://careers.airbnb.com/positions/8238592?gh_jid=8238592"
+  },
+  {
+   "external_id": "8238604",
+   "title": "Engineering Manager, Guest & Host (Host Listings & Quality)",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-29T17:12:47+00:00",
+   "url": "https://careers.airbnb.com/positions/8238604?gh_jid=8238604"
+  },
+  {
+   "external_id": "8240421",
+   "title": "Staff UX Writer, AI",
+   "role_family": "product_design",
+   "location": "United States",
+   "posted_at": "2026-10-01T17:25:15+00:00",
+   "url": "https://careers.airbnb.com/positions/8240421?gh_jid=8240421"
+  },
+  {
+   "external_id": "8241468",
+   "title": "Senior Demand Generation Specialist, Hotels (12M FTC)",
+   "role_family": "gtm_ops",
+   "location": "France, Italy",
+   "posted_at": "2026-09-30T12:12:47+00:00",
+   "url": "https://careers.airbnb.com/positions/8241468?gh_jid=8241468"
+  },
+  {
+   "external_id": "8241573",
+   "title": "Senior Social Manager, Instagram",
+   "role_family": "other",
+   "location": "San Francisco, United States",
+   "posted_at": "2026-09-29T23:28:34+00:00",
+   "url": "https://careers.airbnb.com/positions/8241573?gh_jid=8241573"
+  },
+  {
+   "external_id": "8242248",
+   "title": "Staff Software Engineer, Data Authoring",
+   "role_family": "engineering",
+   "location": "USA",
+   "posted_at": "2026-10-09T18:07:33+00:00",
+   "url": "https://careers.airbnb.com/positions/8242248?gh_jid=8242248"
+  },
+  {
+   "external_id": "8242459",
+   "title": "Business Operations and Growth Lead, Asia",
+   "role_family": "gtm_ops",
+   "location": "Singapore",
+   "posted_at": "2026-10-08T06:58:03+00:00",
+   "url": "https://careers.airbnb.com/positions/8242459?gh_jid=8242459"
+  },
+  {
+   "external_id": "8242793",
+   "title": "Senior Program Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Tokyo, Japan",
+   "posted_at": "2026-09-30T13:18:35+00:00",
+   "url": "https://careers.airbnb.com/positions/8242793?gh_jid=8242793"
+  },
+  {
+   "external_id": "8243710",
+   "title": "Senior Manager, Vendor Operations & Customer Support",
+   "role_family": "customer",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-01T09:38:59+00:00",
+   "url": "https://careers.airbnb.com/positions/8243710?gh_jid=8243710"
+  },
+  {
+   "external_id": "8243975",
+   "title": "Global Initiatives Curator",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-30T18:30:42+00:00",
+   "url": "https://careers.airbnb.com/positions/8243975?gh_jid=8243975"
+  },
+  {
+   "external_id": "8244229",
+   "title": "Senior Sales Operations Lead",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-10-01T20:18:48+00:00",
+   "url": "https://careers.airbnb.com/positions/8244229?gh_jid=8244229"
+  },
+  {
+   "external_id": "8247007",
+   "title": "Recruiter, Sales & Corporate Functions (11-month contract)",
+   "role_family": "finance_ops",
+   "location": "Dublin, Ireland; London, United Kingdom",
+   "posted_at": "2026-10-01T16:42:06+00:00",
+   "url": "https://careers.airbnb.com/positions/8247007?gh_jid=8247007"
+  },
+  {
+   "external_id": "8249626",
+   "title": "Senior Software Engineer Guest & Host",
+   "role_family": "engineering",
+   "location": "Remote, USA",
+   "posted_at": "2026-10-02T18:02:00+00:00",
+   "url": "https://careers.airbnb.com/positions/8249626?gh_jid=8249626"
+  },
+  {
+   "external_id": "8249633",
+   "title": "Senior Analytics Engineer, Airbnb.org",
+   "role_family": "data",
+   "location": "United States",
+   "posted_at": "2026-10-05T16:34:11+00:00",
+   "url": "https://careers.airbnb.com/positions/8249633?gh_jid=8249633"
+  },
+  {
+   "external_id": "8250093",
+   "title": "Senior Software Engineer, Native Mobile",
+   "role_family": "engineering",
+   "location": "Remote, USA",
+   "posted_at": "2026-10-05T18:23:07+00:00",
+   "url": "https://careers.airbnb.com/positions/8250093?gh_jid=8250093"
+  },
+  {
+   "external_id": "8250138",
+   "title": "Recruiter, Global Operations (12-month contract)",
+   "role_family": "finance_ops",
+   "location": "Canada",
+   "posted_at": "2026-10-07T21:01:44+00:00",
+   "url": "https://careers.airbnb.com/positions/8250138?gh_jid=8250138"
+  },
+  {
+   "external_id": "8250139",
+   "title": "Recruteur ou recruteuse, Opérations mondiales – Contrat de 12 mois",
+   "role_family": "other",
+   "location": "Canada",
+   "posted_at": "2026-10-07T21:01:49+00:00",
+   "url": "https://careers.airbnb.com/positions/8250139?gh_jid=8250139"
+  },
+  {
+   "external_id": "8257826",
+   "title": "Senior Fullstack Software Engineer, Quality Platform",
+   "role_family": "engineering",
+   "location": "Brazil",
+   "posted_at": "2026-10-06T15:54:03+00:00",
+   "url": "https://careers.airbnb.com/positions/8257826?gh_jid=8257826"
+  },
+  {
+   "external_id": "8257855",
+   "title": "Early Career Mobile Software Engineer, Quality Platform",
+   "role_family": "engineering",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-10-06T15:53:29+00:00",
+   "url": "https://careers.airbnb.com/positions/8257855?gh_jid=8257855"
+  },
+  {
+   "external_id": "8258743",
+   "title": "Senior Host Communications Strategy Lead",
+   "role_family": "other",
+   "location": "San Francisco, United States",
+   "posted_at": "2026-10-07T19:05:59+00:00",
+   "url": "https://careers.airbnb.com/positions/8258743?gh_jid=8258743"
+  },
+  {
+   "external_id": "8258957",
+   "title": "Sales Development Representative, Luxe",
+   "role_family": "sales",
+   "location": "Mexico City",
+   "posted_at": "2026-10-06T21:07:47+00:00",
+   "url": "https://careers.airbnb.com/positions/8258957?gh_jid=8258957"
+  },
+  {
+   "external_id": "8259185",
+   "title": "Senior Market Manager",
+   "role_family": "other",
+   "location": "Los Angeles, United States",
+   "posted_at": "2026-10-07T05:14:46+00:00",
+   "url": "https://careers.airbnb.com/positions/8259185?gh_jid=8259185"
+  },
+  {
+   "external_id": "8259504",
+   "title": "Engineering Manager, Payments",
+   "role_family": "engineering",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-06T19:57:58+00:00",
+   "url": "https://careers.airbnb.com/positions/8259504?gh_jid=8259504"
+  },
+  {
+   "external_id": "8259526",
+   "title": "Staff Software Engineer, Payments (AirCover Insurance Platform)",
+   "role_family": "engineering",
+   "location": "Remote - USA",
+   "posted_at": "2026-10-06T19:59:10+00:00",
+   "url": "https://careers.airbnb.com/positions/8259526?gh_jid=8259526"
+  },
+  {
+   "external_id": "8259671",
+   "title": "Senior Manager, Technical Brand & Content",
+   "role_family": "marketing",
+   "location": "Remote - United States",
+   "posted_at": "2026-10-06T19:54:33+00:00",
+   "url": "https://careers.airbnb.com/positions/8259671?gh_jid=8259671"
+  },
+  {
+   "external_id": "8259920",
+   "title": "Principal, Strategic Finance & Analytics, Incubations",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-07T16:46:19+00:00",
+   "url": "https://careers.airbnb.com/positions/8259920?gh_jid=8259920"
+  },
+  {
+   "external_id": "8260010",
+   "title": "Market Manager",
+   "role_family": "other",
+   "location": "South Carolina, United States",
+   "posted_at": "2026-10-07T01:49:35+00:00",
+   "url": "https://careers.airbnb.com/positions/8260010?gh_jid=8260010"
+  },
+  {
+   "external_id": "8260061",
+   "title": "Market Manager",
+   "role_family": "other",
+   "location": "Missouri, United States",
+   "posted_at": "2026-10-07T01:50:51+00:00",
+   "url": "https://careers.airbnb.com/positions/8260061?gh_jid=8260061"
+  },
+  {
+   "external_id": "8262207",
+   "title": "Product Manager, API Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-09T20:49:23+00:00",
+   "url": "https://careers.airbnb.com/positions/8262207?gh_jid=8262207"
+  },
+  {
+   "external_id": "8262769",
+   "title": "Staff Software Engineer, iOS Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-09T04:06:42+00:00",
+   "url": "https://careers.airbnb.com/positions/8262769?gh_jid=8262769"
+  },
+  {
+   "external_id": "8262812",
+   "title": "Senior Software Engineer, iOS Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-09T04:03:32+00:00",
+   "url": "https://careers.airbnb.com/positions/8262812?gh_jid=8262812"
+  },
+  {
+   "external_id": "8263282",
+   "title": "Senior Software Engineer, Analytics Infrastructure",
+   "role_family": "engineering",
+   "location": "Brazil",
+   "posted_at": "2026-10-13T16:50:08+00:00",
+   "url": "https://careers.airbnb.com/positions/8263282?gh_jid=8263282"
+  },
+  {
+   "external_id": "8263303",
+   "title": "Software Engineer, Analytics Infrastructure",
+   "role_family": "engineering",
+   "location": "Brazil",
+   "posted_at": "2026-10-13T16:49:55+00:00",
+   "url": "https://careers.airbnb.com/positions/8263303?gh_jid=8263303"
+  },
+  {
+   "external_id": "8264826",
+   "title": "Delivery Excellence Manager",
+   "role_family": "customer",
+   "location": "Ontario, Canada, Quebec, Canada",
+   "posted_at": "2026-10-14T20:45:25+00:00",
+   "url": "https://careers.airbnb.com/positions/8264826?gh_jid=8264826"
+  },
+  {
+   "external_id": "8264827",
+   "title": "Gestionnaire, Excellence de la prestation de services",
+   "role_family": "customer",
+   "location": "Ontario, Canada, Quebec, Canada",
+   "posted_at": "2026-10-14T20:45:33+00:00",
+   "url": "https://careers.airbnb.com/positions/8264827?gh_jid=8264827"
+  },
+  {
+   "external_id": "8265896",
+   "title": "Market Manager",
+   "role_family": "other",
+   "location": "Phoenix, Arizona",
+   "posted_at": "2026-10-14T21:38:47+00:00",
+   "url": "https://careers.airbnb.com/positions/8265896?gh_jid=8265896"
+  },
+  {
+   "external_id": "8271903",
+   "title": "Market Manager, UK (Hotels)",
+   "role_family": "other",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-12T09:23:07+00:00",
+   "url": "https://careers.airbnb.com/positions/8271903?gh_jid=8271903"
+  },
+  {
+   "external_id": "8272848",
+   "title": "Market Manager, DACH (Hotels)",
+   "role_family": "other",
+   "location": "Berlin, Germany",
+   "posted_at": "2026-10-13T08:59:13+00:00",
+   "url": "https://careers.airbnb.com/positions/8272848?gh_jid=8272848"
+  },
+  {
+   "external_id": "8272909",
+   "title": "Market Manager, France (Hotels)",
+   "role_family": "other",
+   "location": "Paris, France",
+   "posted_at": "2026-10-13T09:02:25+00:00",
+   "url": "https://careers.airbnb.com/positions/8272909?gh_jid=8272909"
+  },
+  {
+   "external_id": "8272923",
+   "title": "Market Manager, Spain (Hotels)",
+   "role_family": "other",
+   "location": "Barcelona",
+   "posted_at": "2026-10-13T10:08:00+00:00",
+   "url": "https://careers.airbnb.com/positions/8272923?gh_jid=8272923"
+  },
+  {
+   "external_id": "8272929",
+   "title": "Market Manager, Italy (Hotels)",
+   "role_family": "other",
+   "location": "Milan, Italy",
+   "posted_at": "2026-10-13T10:31:44+00:00",
+   "url": "https://careers.airbnb.com/positions/8272929?gh_jid=8272929"
+  },
+  {
+   "external_id": "8274802",
+   "title": "Senior Software Engineer, Payments Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-12T20:32:34+00:00",
+   "url": "https://careers.airbnb.com/positions/8274802?gh_jid=8274802"
+  },
+  {
+   "external_id": "8275370",
+   "title": "Counsel, Corporate",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-13T17:08:19+00:00",
+   "url": "https://careers.airbnb.com/positions/8275370?gh_jid=8275370"
+  },
+  {
+   "external_id": "8275416",
+   "title": "Principal, Strategic Finance & Analytics, Technology",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-13T15:45:04+00:00",
+   "url": "https://careers.airbnb.com/positions/8275416?gh_jid=8275416"
+  },
+  {
+   "external_id": "8275508",
+   "title": "Engineering Manager, Secure Development Engineering",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-13T23:47:28+00:00",
+   "url": "https://careers.airbnb.com/positions/8275508?gh_jid=8275508"
+  },
+  {
+   "external_id": "8275755",
+   "title": "Senior Manager, Safety",
+   "role_family": "customer",
+   "location": "Gurugram, India",
+   "posted_at": "2026-10-16T07:11:04+00:00",
+   "url": "https://careers.airbnb.com/positions/8275755?gh_jid=8275755"
+  },
+  {
+   "external_id": "8275757",
+   "title": "Quality Insights Lead",
+   "role_family": "customer",
+   "location": "Gurugram, India",
+   "posted_at": "2026-10-16T11:30:00+00:00",
+   "url": "https://careers.airbnb.com/positions/8275757?gh_jid=8275757"
+  },
+  {
+   "external_id": "8278729",
+   "title": "Senior Analyst, France & Netherlands (12 Month Fixed-Term Contract)",
+   "role_family": "other",
+   "location": "Paris, France",
+   "posted_at": "2026-10-14T08:24:29+00:00",
+   "url": "https://careers.airbnb.com/positions/8278729?gh_jid=8278729"
+  },
+  {
+   "external_id": "8278753",
+   "title": "Program Manager, Community Support",
+   "role_family": "customer",
+   "location": "United States",
+   "posted_at": "2026-10-13T16:31:11+00:00",
+   "url": "https://careers.airbnb.com/positions/8278753?gh_jid=8278753"
+  },
+  {
+   "external_id": "8279422",
+   "title": "Senior Software Engineer, Payments Transaction Risk",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-13T20:09:17+00:00",
+   "url": "https://careers.airbnb.com/positions/8279422?gh_jid=8279422"
+  },
+  {
+   "external_id": "8280719",
+   "title": "Senior SEO Strategy Lead (SEO, AEO, GEO)",
+   "role_family": "marketing",
+   "location": "United States",
+   "posted_at": "2026-10-16T00:52:10+00:00",
+   "url": "https://careers.airbnb.com/positions/8280719?gh_jid=8280719"
+  },
+  {
+   "external_id": "8281533",
+   "title": "Staff Software Engineer - Hosting Services",
+   "role_family": "engineering",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-16T08:21:04+00:00",
+   "url": "https://careers.airbnb.com/positions/8281533?gh_jid=8281533"
+  },
+  {
+   "external_id": "8282333",
+   "title": "Market Manager",
+   "role_family": "other",
+   "location": "Portland, Oregon",
+   "posted_at": "2026-10-14T21:39:06+00:00",
+   "url": "https://careers.airbnb.com/positions/8282333?gh_jid=8282333"
+  },
+  {
+   "external_id": "8282351",
+   "title": "Senior Partnership Manager",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-16T19:59:45+00:00",
+   "url": "https://careers.airbnb.com/positions/8282351?gh_jid=8282351"
+  },
+  {
+   "external_id": "8282758",
+   "title": "Community Crisis Investigator",
+   "role_family": "customer",
+   "location": "United States",
+   "posted_at": "2026-10-15T19:17:36+00:00",
+   "url": "https://careers.airbnb.com/positions/8282758?gh_jid=8282758"
+  },
+  {
+   "external_id": "8282839",
+   "title": "Community Crisis Investigator",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-10-15T19:19:20+00:00",
+   "url": "https://careers.airbnb.com/positions/8282839?gh_jid=8282839"
+  },
+  {
+   "external_id": "8283664",
+   "title": "Enquêteur ou enquêteuse en situation de crise communautaire",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-10-15T19:28:44+00:00",
+   "url": "https://careers.airbnb.com/positions/8283664?gh_jid=8283664"
+  },
+  {
+   "external_id": "8284841",
+   "title": "Staff Data Engineer, Tech Foundations",
+   "role_family": "data",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-16T16:32:46+00:00",
+   "url": "https://careers.airbnb.com/positions/8284841?gh_jid=8284841"
+  },
+  {
+   "external_id": "8285171",
+   "title": "Strategic Finance & Analytics Intern (MBA)",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-15T15:14:03+00:00",
+   "url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171"
+  },
+  {
+   "external_id": "8286207",
+   "title": "Staff Technical Program Manager, Infrastructure Security",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-15T17:27:41+00:00",
+   "url": "https://careers.airbnb.com/positions/8286207?gh_jid=8286207"
+  },
+  {
+   "external_id": "8287849",
+   "title": "Senior Communications Manager, Spanish-Speaking South America",
+   "role_family": "other",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-10-16T14:12:43+00:00",
+   "url": "https://careers.airbnb.com/positions/8287849?gh_jid=8287849"
+  },
+  {
+   "external_id": "8288294",
+   "title": "Head of Homes Supply, Indonesia",
+   "role_family": "exec",
+   "location": "Bali, Indonesia",
+   "posted_at": "2026-10-16T05:33:59+00:00",
+   "url": "https://careers.airbnb.com/positions/8288294?gh_jid=8288294"
+  },
+  {
+   "external_id": "8288417",
+   "title": "Engineering Manager, Tech Foundations",
+   "role_family": "engineering",
+   "location": "Bangalore, India",
+   "posted_at": "2026-10-16T08:21:34+00:00",
+   "url": "https://careers.airbnb.com/positions/8288417?gh_jid=8288417"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "domain": "mudrex.com",
+  "name": "Mudrex",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-09-22",
+      "summary": "Meet The New Mudrex Alpha: Introducing Bigger Rewards for Bigger Trades",
+      "url": "https://mudrex.com/blog/new-mudrex-alpha/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

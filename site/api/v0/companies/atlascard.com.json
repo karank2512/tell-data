@@ -1,0 +1,25 @@
+{
+  "domain": "atlascard.com",
+  "name": "Atlas",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Oregon Wine Board launches a statewide digital atlas of every vineyard - Vinetur",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2ctWkZfY2hGS1BBLS01Y1M0bzJpTy1ORmIxRzZrU29DLUIzOXZUVE1rOS1Cbk91YWJldG45TXVLWnh3VGswLUZRQU1zOFBwaWR3dWxBZ1VQZnI4UVl6dWk3eE1CbnVjQlF5cDFHTUhWRlRiY3dLajhtbjh4Uzl2Ti00UnZLTXBlSm5SUldJUEVLQWIyX2ZmdjI4ZVNIcHV4bjg1ZjR1c3pKZFAtaGF1Szkyc3ZHbUNiQjgydEFB0gG-AUFVX3lxTE5fZy1aRl9jaEZLUEEtLTVjUzRvMmlPLU5GYjFHNmtTb0MtQjM5dlRUTWs5LUJuT3VhYmV0bjlNdUtaeHdUazAtRlFBTXM4UHBpZHd1bEFnVVBmcjhRWXp1aTd4TUJudWNCUXlwMUdNSFZGVGJjd0tqOG1uOHhTOXZOLTRSdktNcGVKblJSV0lQRUtBYjJfZmZ2MjhlU0hwdXhuODVmNHVzekpkUC1oYXVLOTJzdkdtQ2JCODJ0QUE?oc=5"
+    }
+  ],
+  "open_postings": 6,
+  "long_open_roles": 3,
+  "sources": {
+    "ats": "ashby:atlas",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

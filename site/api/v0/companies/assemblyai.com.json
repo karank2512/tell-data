@@ -1,10 +1,30 @@
 {
   "domain": "assemblyai.com",
   "name": "AssemblyAI",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 1.4,
+  "score": 3.3,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-18",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/assemblyai",
+      "postings": [
+        {
+          "title": "Digital Native AI Account Executive",
+          "posted_at": "2026-10-17",
+          "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4743063005"
+        },
+        {
+          "title": "Digital Native AI Account Executive",
+          "posted_at": "2026-10-17",
+          "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744900005"
+        }
+      ]
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -13,7 +33,7 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRV9qV1duYnRjTXF3Uk9pb25zTmdrZVlaX1oyOV9uNFVrd3ptTWF0S3g4cC1jTXdiczVTU0ZDNXk3Z0FobzJ5MzNzSV9NRHh0MVZ4SnFrdUVFRVk?oc=5"
     }
   ],
-  "open_postings": 12,
+  "open_postings": 14,
   "long_open_roles": 0,
   "sources": {
     "ats": "greenhouse:assemblyai",

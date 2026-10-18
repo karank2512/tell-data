@@ -1,0 +1,25 @@
+{
+  "domain": "mojo-app.com",
+  "name": "Mojo",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Comic Watch Exclusive: Mojo Debuts A New Ratings Smash... The MURDER VIDEO CHANNEL in X-Men Outback #5 - Comic Watch",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sUzFheVRtdXpBam9vSVhLeFRUdEpPT1JsX0llUGFybzV6Rm9wbW5rcWo5MGQyb3VZS0ttWl9DTTQxdmJpbE1uM3NfWXJ3V2REUEhJNWd6elI3MG5DWE5rWDFjSHNsNFlOTFVpTA?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

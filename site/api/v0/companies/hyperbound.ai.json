@@ -1,0 +1,46 @@
+{
+  "domain": "hyperbound.ai",
+  "name": "Hyperbound",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 2.2,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-10",
+      "summary": "Introducing Kota CMS: Agentic Content Manager for Revenue Teams",
+      "url": "https://www.hyperbound.ai/blog/introducing-kota-cms-agentic-content-manager-for-revenue-teams"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-03",
+      "summary": "Introducing the Hyperbound Deal Debrief Agent",
+      "url": "https://www.hyperbound.ai/blog/introducing-the-hyperbound-deal-debrief-agent"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-20",
+      "summary": "Hyperbound Unveils Agentic Enablement: A New Approach to Autonomous Behavior Change",
+      "url": "https://www.hyperbound.ai/blog/hyperbound-unveils-a-new-approach-to-autonomous-behavior-change"
+    }
+  ],
+  "open_postings": 8,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:Hyperbound",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-12",
+      "url": "https://www.hyperbound.ai/blog/best-sales-readiness-tools-2026",
+      "summary": "Top Sales Readiness Tools for 2026 Product Launches"
+    }
+  ]
+}

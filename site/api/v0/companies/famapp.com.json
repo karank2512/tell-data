@@ -1,0 +1,39 @@
+{
+  "domain": "famapp.com",
+  "name": "Fam",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 4.3,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "G Adventures unveils 2027 FAM lineup - Travelweek",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlJzS29aZXNMYmdBSWZ4Wl8xQ0RwRTNXa0VwclVrQloyR2tETGw4b0hvTXZDdXhzU25pRDVJY2JGWlZ4XzU3ei1Zb0J3Rm9NSVZCWnl6bklrYnRwNjUxM1hEU3pmWHoxTWsyeXNEUDgzVzhCQnhPVHhPcS02S0VVVDlRNlVCamYzcXAw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "G Adventures Unveils 2027 FAM Trip Lineup - Open Jaw",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWNySlNtUk55YWlnY0pJV3FLcXlOakhialhJckFzYWMtemRITWxoMkt0emZldDBrZjllSUluZTZ4V2JQRDVBdV9qVGJXLXl4UWpITnpTZ2JBc1UyQWtmaGJvQTRuSmNTSHFHTEgxQ1IxQ1VRcTVSR2JqcGpMMXgzTC0yQzVicDgtN2c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "From the Amazon to Madeira: G Adventures Unveils 2027 FAM Lineup - TravelPulse Canada",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTBUVXJZc3RycXpZMl9mNmRhVjhQaTdoT250RHlsRFNEYk1yazF1Z0xXV1paYTlEdHhZNkM3dlZBLTNmd3VsOEM4OUVYU3NCeWROVEhDVHpnZ0FZamU5ZWZsTHZiT21XbWl4YnZfbGpyMWlMaE5xSXRaeEV2enY5UG50ZmdMYmY0bm03QVFvS2pOZ1RQZXc0X0VMVk1xbFZXdm5xdQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

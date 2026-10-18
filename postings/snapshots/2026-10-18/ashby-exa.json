@@ -1,0 +1,457 @@
+{
+ "vendor": "ashby",
+ "identifier": "exa",
+ "domain": "exa.ai",
+ "as_of": "2026-10-18",
+ "last_polled_at": "2026-10-18T02:50:49.604232+00:00",
+ "open_postings": [
+  {
+   "external_id": "01184dbd-652f-45bc-bd3f-bb709da69402",
+   "title": "Deal Desk Manager",
+   "role_family": "gtm_ops",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-13T16:15:19.927000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/01184dbd-652f-45bc-bd3f-bb709da69402"
+  },
+  {
+   "external_id": "028983fc-4344-4203-a8a8-51dac6d3a3be",
+   "title": "Commercial Counsel",
+   "role_family": "other",
+   "location": "New York / San Francisco",
+   "posted_at": "2026-09-28T06:02:02.588000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/028983fc-4344-4203-a8a8-51dac6d3a3be"
+  },
+  {
+   "external_id": "0298c908-e2ff-4dbb-a8cc-4899a9f6737a",
+   "title": "Software Engineer, Web Crawling",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2025-07-23T22:36:37.535000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/0298c908-e2ff-4dbb-a8cc-4899a9f6737a"
+  },
+  {
+   "external_id": "0e3957bf-3dd1-4a5a-828c-5c06a8499c93",
+   "title": "Business Operations",
+   "role_family": "gtm_ops",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-27T20:24:41.490000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/0e3957bf-3dd1-4a5a-828c-5c06a8499c93"
+  },
+  {
+   "external_id": "11cd06ca-db50-4821-a920-07071f8ce0b4",
+   "title": "People Operations Generalist",
+   "role_family": "finance_ops",
+   "location": "Singapore",
+   "posted_at": "2026-06-12T23:18:18.599000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/11cd06ca-db50-4821-a920-07071f8ce0b4"
+  },
+  {
+   "external_id": "1b8cc57c-dd49-4ae3-891d-6cff2702dd7c",
+   "title": "Field Event Manager",
+   "role_family": "marketing",
+   "location": "New York City",
+   "posted_at": "2026-02-12T17:37:41.094000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/1b8cc57c-dd49-4ae3-891d-6cff2702dd7c"
+  },
+  {
+   "external_id": "1f90ebb9-0f74-4a52-822a-d0ea6acdef4f",
+   "title": "Software Engineer, Knowledge Systems",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2026-06-14T22:39:58.050000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/1f90ebb9-0f74-4a52-822a-d0ea6acdef4f"
+  },
+  {
+   "external_id": "234bf118-672a-45d1-a4a2-02065d1c02f0",
+   "title": "Forward Deployed Engineer, EMEA",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-08-13T17:59:25.791000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/234bf118-672a-45d1-a4a2-02065d1c02f0"
+  },
+  {
+   "external_id": "237cc096-2234-48ee-9c98-8c7221845484",
+   "title": "Design Engineer",
+   "role_family": "product_design",
+   "location": "San Francisco, California",
+   "posted_at": "2026-07-10T00:43:39.297000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/237cc096-2234-48ee-9c98-8c7221845484"
+  },
+  {
+   "external_id": "35bd4464-745b-4e33-a407-c1870e86abb0",
+   "title": "Head of Developer Relations",
+   "role_family": "exec",
+   "location": "San Francisco, California",
+   "posted_at": "2026-07-31T05:00:29.287000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/35bd4464-745b-4e33-a407-c1870e86abb0"
+  },
+  {
+   "external_id": "37599c13-47f8-40d7-b37f-9fc9e5329134",
+   "title": "Head of Security",
+   "role_family": "exec",
+   "location": "San Francisco, California",
+   "posted_at": "2026-09-01T04:26:06.756000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/37599c13-47f8-40d7-b37f-9fc9e5329134"
+  },
+  {
+   "external_id": "3804115b-24c5-4854-8bc6-6b6f0de85a1f",
+   "title": "Head of Talent",
+   "role_family": "finance_ops",
+   "location": "San Francisco, California",
+   "posted_at": "2026-09-13T23:01:15.784000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/3804115b-24c5-4854-8bc6-6b6f0de85a1f"
+  },
+  {
+   "external_id": "41eb773d-9909-422c-b6b8-5bbdc407d318",
+   "title": "Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2025-06-26T18:15:33.066000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/41eb773d-9909-422c-b6b8-5bbdc407d318"
+  },
+  {
+   "external_id": "508f3b2e-980b-41e9-ae02-26c72ce6b775",
+   "title": "Research Engineer, Content Understanding",
+   "role_family": "marketing",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-01T15:59:03.689000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/508f3b2e-980b-41e9-ae02-26c72ce6b775"
+  },
+  {
+   "external_id": "521540d5-697e-4020-aa83-cd2f60e144a2",
+   "title": "Forward Deployed Product Manager",
+   "role_family": "customer",
+   "location": "San Francisco, California",
+   "posted_at": "2026-09-26T00:43:10.463000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/521540d5-697e-4020-aa83-cd2f60e144a2"
+  },
+  {
+   "external_id": "533447e7-4cd4-44e9-92ec-22629d568316",
+   "title": "Technical Sourcer",
+   "role_family": "other",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-07T22:32:28.128000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/533447e7-4cd4-44e9-92ec-22629d568316"
+  },
+  {
+   "external_id": "54f689ac-ab9a-4e41-8e84-556526582b54",
+   "title": "Digital Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, California",
+   "posted_at": "2026-05-20T05:55:23.750000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/54f689ac-ab9a-4e41-8e84-556526582b54"
+  },
+  {
+   "external_id": "5ec7c92d-f02a-4a0c-afcc-4081f22f3d9f",
+   "title": "Field Event Manager, EMEA",
+   "role_family": "marketing",
+   "location": "London",
+   "posted_at": "2026-07-31T05:44:42.529000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/5ec7c92d-f02a-4a0c-afcc-4081f22f3d9f"
+  },
+  {
+   "external_id": "5f10cc28-bcad-4ce4-8fa1-996a59c59e65",
+   "title": "Software Engineer, Distributed Data Systems",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2025-12-19T07:24:38.389000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/5f10cc28-bcad-4ce4-8fa1-996a59c59e65"
+  },
+  {
+   "external_id": "67310301-d019-4290-9c79-e8d6e70d5d50",
+   "title": "Research Engineer, Index Intelligence",
+   "role_family": "ml_ai",
+   "location": "San Francisco, California",
+   "posted_at": "2026-10-01T16:05:22.479000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/67310301-d019-4290-9c79-e8d6e70d5d50"
+  },
+  {
+   "external_id": "6f9d11a6-e1e8-448d-9051-32cf6caeccba",
+   "title": "Manager, Sales Development - NYC",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-09-13T22:22:30.021000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/6f9d11a6-e1e8-448d-9051-32cf6caeccba"
+  },
+  {
+   "external_id": "7975f948-6c90-4c49-9cf4-54645a3f343f",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-08-13T16:19:51.688000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/7975f948-6c90-4c49-9cf4-54645a3f343f"
+  },
+  {
+   "external_id": "7a852555-9ae4-4f27-890f-849cd066693e",
+   "title": "Research Engineer, Generalist",
+   "role_family": "ml_ai",
+   "location": "Singapore",
+   "posted_at": "2026-02-11T23:22:42.680000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/7a852555-9ae4-4f27-890f-849cd066693e"
+  },
+  {
+   "external_id": "7e52b8c9-255a-4848-a54a-efdc1fb25a69",
+   "title": "Brand Designer",
+   "role_family": "marketing",
+   "location": "San Francisco, California",
+   "posted_at": "2025-03-31T00:09:08.938000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/7e52b8c9-255a-4848-a54a-efdc1fb25a69"
+  },
+  {
+   "external_id": "80a73a37-da30-4630-9a47-9dfbd3e26b69",
+   "title": "IT Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2026-09-15T16:36:09.886000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/80a73a37-da30-4630-9a47-9dfbd3e26b69"
+  },
+  {
+   "external_id": "8932d319-b456-4ee0-9efd-16d82be8de80",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "San Francisco, California",
+   "posted_at": "2025-06-26T17:51:15.014000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80"
+  },
+  {
+   "external_id": "8ba94280-c4f0-4a15-b3eb-8acf4e2d6dba",
+   "title": "Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Singapore",
+   "posted_at": "2026-06-07T02:47:33.351000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/8ba94280-c4f0-4a15-b3eb-8acf4e2d6dba"
+  },
+  {
+   "external_id": "8dc40d41-c1f3-4796-aed7-b614bcef1d72",
+   "title": "Forward Deployed Engineer, Singapore",
+   "role_family": "customer",
+   "location": "Singapore",
+   "posted_at": "2026-09-02T05:18:24.823000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/8dc40d41-c1f3-4796-aed7-b614bcef1d72"
+  },
+  {
+   "external_id": "8e4a696c-c37e-4102-b7fd-000d3ff45d7d",
+   "title": "Growth Marketing Manger",
+   "role_family": "marketing",
+   "location": "San Francisco, California",
+   "posted_at": "2026-07-31T05:41:07.782000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/8e4a696c-c37e-4102-b7fd-000d3ff45d7d"
+  },
+  {
+   "external_id": "913d2b71-39d5-4d3a-ab8d-ffffa34cd069",
+   "title": "Research Engineer, Generalist",
+   "role_family": "ml_ai",
+   "location": "San Francisco, California",
+   "posted_at": "2026-07-07T18:20:39.783000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/913d2b71-39d5-4d3a-ab8d-ffffa34cd069"
+  },
+  {
+   "external_id": "93317180-34e0-45ff-84a3-d5bca4d7f7ae",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "San Francisco, California",
+   "posted_at": "2026-05-06T03:37:07.640000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/93317180-34e0-45ff-84a3-d5bca4d7f7ae"
+  },
+  {
+   "external_id": "94dd327d-5105-4b6f-8a72-e8d4d330a4e1",
+   "title": "Creative Video Producer",
+   "role_family": "marketing",
+   "location": "San Francisco, California",
+   "posted_at": "2026-06-24T06:43:46.960000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/94dd327d-5105-4b6f-8a72-e8d4d330a4e1"
+  },
+  {
+   "external_id": "9679c963-9d4b-4cfe-8bd9-45ab5d5e7b90",
+   "title": "Software Engineer, Web Crawling",
+   "role_family": "engineering",
+   "location": "Singapore",
+   "posted_at": "2025-12-10T00:21:32.478000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/9679c963-9d4b-4cfe-8bd9-45ab5d5e7b90"
+  },
+  {
+   "external_id": "98a8bab6-4cbf-4d39-a5a7-0867addc4086",
+   "title": "Software Engineer, Full Stack",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2026-05-20T08:22:45.881000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/98a8bab6-4cbf-4d39-a5a7-0867addc4086"
+  },
+  {
+   "external_id": "9c45a74e-d507-482a-bc0e-da2f464c9767",
+   "title": "Research, Evals",
+   "role_family": "ml_ai",
+   "location": "San Francisco, California",
+   "posted_at": "2025-10-15T06:48:41.819000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/9c45a74e-d507-482a-bc0e-da2f464c9767"
+  },
+  {
+   "external_id": "a3a77458-67b6-4654-8727-1c1fddebad51",
+   "title": "Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-07T21:38:04.146000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/a3a77458-67b6-4654-8727-1c1fddebad51"
+  },
+  {
+   "external_id": "a9e01521-66f1-481b-89da-ec01d4620f16",
+   "title": "Software Engineer, Intern",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-28T01:16:43.904000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
+  },
+  {
+   "external_id": "b193ad1c-7700-4e32-98cb-efc791993963",
+   "title": "Technical Enablement Manager",
+   "role_family": "other",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-25T15:39:01.365000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/b193ad1c-7700-4e32-98cb-efc791993963"
+  },
+  {
+   "external_id": "b526aedf-f7a0-41ee-a6f6-1d922473c916",
+   "title": "Head of Marketing, EMEA",
+   "role_family": "marketing",
+   "location": "London",
+   "posted_at": "2026-10-12T05:43:30.064000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/b526aedf-f7a0-41ee-a6f6-1d922473c916"
+  },
+  {
+   "external_id": "c14f297b-b2b2-4e20-90fd-bdfe49880f08",
+   "title": "VP, Customer Experience",
+   "role_family": "exec",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-13T16:03:00.503000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/c14f297b-b2b2-4e20-90fd-bdfe49880f08"
+  },
+  {
+   "external_id": "c4081592-fa8c-4fed-9041-70c62feee157",
+   "title": "Software Engineer, Security",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-27T20:24:24.683000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/c4081592-fa8c-4fed-9041-70c62feee157"
+  },
+  {
+   "external_id": "c542d672-691c-46c1-9741-856d66f2c2ea",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "New York City",
+   "posted_at": "2026-08-13T17:57:21.367000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea"
+  },
+  {
+   "external_id": "cc781bb2-baa6-44c3-8708-d33fd065e64e",
+   "title": "Product Manager",
+   "role_family": "product_design",
+   "location": "San Francisco, California",
+   "posted_at": "2026-09-26T00:40:39.945000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/cc781bb2-baa6-44c3-8708-d33fd065e64e"
+  },
+  {
+   "external_id": "d24ba483-3d39-4552-a9cf-61a4f57c494c",
+   "title": "Head of People",
+   "role_family": "finance_ops",
+   "location": "San Francisco, California",
+   "posted_at": "2026-07-31T06:20:18.613000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/d24ba483-3d39-4552-a9cf-61a4f57c494c"
+  },
+  {
+   "external_id": "d26419da-d1a3-4ece-8b10-22e8d5526744",
+   "title": "Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, California",
+   "posted_at": "2026-07-31T05:23:01.731000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/d26419da-d1a3-4ece-8b10-22e8d5526744"
+  },
+  {
+   "external_id": "dbcd90ce-f311-4188-a388-89357ad80e4c",
+   "title": "Head of Cloud Partnerships",
+   "role_family": "exec",
+   "location": "San Francisco, California",
+   "posted_at": "2026-05-20T05:49:12.898000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/dbcd90ce-f311-4188-a388-89357ad80e4c"
+  },
+  {
+   "external_id": "dc8a6537-12b4-40af-b8da-55639a01dca3",
+   "title": "Sales Development Representative, SF",
+   "role_family": "sales",
+   "location": "San Francisco, California",
+   "posted_at": "2026-05-06T07:04:48.351000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/dc8a6537-12b4-40af-b8da-55639a01dca3"
+  },
+  {
+   "external_id": "e3e0cd05-d71a-491d-a553-2a991741915c",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-05-20T06:01:16.736000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/e3e0cd05-d71a-491d-a553-2a991741915c"
+  },
+  {
+   "external_id": "e4a7e653-7b59-49b2-a4ce-e173860549ca",
+   "title": "VP, Finance",
+   "role_family": "finance_ops",
+   "location": "San Francisco, California",
+   "posted_at": "2026-06-25T17:24:46.947000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/e4a7e653-7b59-49b2-a4ce-e173860549ca"
+  },
+  {
+   "external_id": "e6932b63-4df5-4cd9-85f1-db5079219d34",
+   "title": "Revenue Insights Manager",
+   "role_family": "sales",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-13T16:16:47.008000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/e6932b63-4df5-4cd9-85f1-db5079219d34"
+  },
+  {
+   "external_id": "ea4a90d1-db51-4fb3-a7a6-a7ff82e8be30",
+   "title": "Head of Marketing, APJ",
+   "role_family": "marketing",
+   "location": "Sydney",
+   "posted_at": "2026-10-07T04:04:21.082000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/ea4a90d1-db51-4fb3-a7a6-a7ff82e8be30"
+  },
+  {
+   "external_id": "ef734269-ca0c-4944-86f5-9ae8666b3993",
+   "title": "GTM Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco, California",
+   "posted_at": "2025-12-05T00:56:13.834000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/ef734269-ca0c-4944-86f5-9ae8666b3993"
+  },
+  {
+   "external_id": "f6bd612e-a4ee-4c75-a205-5cd70901661f",
+   "title": "Research, ML",
+   "role_family": "ml_ai",
+   "location": "Singapore",
+   "posted_at": "2026-08-07T21:34:12.708000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/f6bd612e-a4ee-4c75-a205-5cd70901661f"
+  },
+  {
+   "external_id": "faf3340f-a551-49cd-97ca-498023e59f6b",
+   "title": "Data Partnerships",
+   "role_family": "other",
+   "location": "San Francisco, California",
+   "posted_at": "2025-11-05T21:02:36.990000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/faf3340f-a551-49cd-97ca-498023e59f6b"
+  },
+  {
+   "external_id": "fcebd301-b473-40dc-b733-362883ac1f37",
+   "title": "Research, ML",
+   "role_family": "ml_ai",
+   "location": "San Francisco, California",
+   "posted_at": "2025-06-26T19:30:58.818000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/fcebd301-b473-40dc-b733-362883ac1f37"
+  },
+  {
+   "external_id": "fd015edb-c29b-40ff-aa6f-b477c730b4c1",
+   "title": "Developer Advocate",
+   "role_family": "marketing",
+   "location": "San Francisco, California",
+   "posted_at": "2026-07-31T04:57:22.355000+00:00",
+   "url": "https://jobs.ashbyhq.com/exa/fd015edb-c29b-40ff-aa6f-b477c730b4c1"
+  }
+ ]
+}

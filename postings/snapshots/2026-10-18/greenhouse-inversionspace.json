@@ -1,0 +1,713 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "inversionspace",
+ "domain": "inversionspace.com",
+ "as_of": "2026-10-18",
+ "last_polled_at": "2026-10-18T02:50:53.797068+00:00",
+ "open_postings": [
+  {
+   "external_id": "4616760005",
+   "title": "Staff Special Projects Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2025-10-10T03:36:43+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4616760005"
+  },
+  {
+   "external_id": "4621019005",
+   "title": "Senior TPS Design Engineer",
+   "role_family": "product_design",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2025-10-20T18:11:36+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4621019005"
+  },
+  {
+   "external_id": "4665959005",
+   "title": "Director of Engineering, Manufacturing",
+   "role_family": "exec",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-02-24T21:24:01+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4665959005"
+  },
+  {
+   "external_id": "4678606005",
+   "title": "Senior Ground Software Engineer",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-03-27T23:27:09+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4678606005"
+  },
+  {
+   "external_id": "4680714005",
+   "title": "Test Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-02T01:16:47+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4680714005"
+  },
+  {
+   "external_id": "4682313005",
+   "title": "Senior TPS Technician",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-07T18:52:48+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4682313005"
+  },
+  {
+   "external_id": "4685088005",
+   "title": "Staff Optical Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-14T23:17:11+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4685088005"
+  },
+  {
+   "external_id": "4685099005",
+   "title": "Avionics Harness Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-14T23:42:22+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4685099005"
+  },
+  {
+   "external_id": "4685103005",
+   "title": "Senior Avionics Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-15T00:25:15+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4685103005"
+  },
+  {
+   "external_id": "4685104005",
+   "title": "Senior Mechanical Design Engineer",
+   "role_family": "product_design",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-15T00:38:59+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4685104005"
+  },
+  {
+   "external_id": "4686295005",
+   "title": "Director of Business Development, Test and Targets",
+   "role_family": "exec",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-17T22:08:59+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4686295005"
+  },
+  {
+   "external_id": "4689489005",
+   "title": "Senior Executive Assistant",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-27T23:40:20+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4689489005"
+  },
+  {
+   "external_id": "4691394005",
+   "title": "Senior Flight Software Engineer",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-30T20:06:17+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4691394005"
+  },
+  {
+   "external_id": "4691453005",
+   "title": "Sr. Electronics Integration and Development Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-04-30T23:48:35+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4691453005"
+  },
+  {
+   "external_id": "4692324005",
+   "title": "Staff Aerothermal CFD Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-05-05T00:26:28+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4692324005"
+  },
+  {
+   "external_id": "4692769005",
+   "title": "Senior GNC Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-05-06T01:18:59+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4692769005"
+  },
+  {
+   "external_id": "4693991005",
+   "title": "Staff Mission Manager",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-05-08T23:23:30+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4693991005"
+  },
+  {
+   "external_id": "4695216005",
+   "title": "Mechanical Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-05-14T00:52:25+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4695216005"
+  },
+  {
+   "external_id": "4697060005",
+   "title": "Senior Mechanical Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-05-19T18:10:41+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4697060005"
+  },
+  {
+   "external_id": "4701556005",
+   "title": "Propulsion and Energetics Test Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-01T19:22:26+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4701556005"
+  },
+  {
+   "external_id": "4702386005",
+   "title": "HIL Technician II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-03T16:08:30+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4702386005"
+  },
+  {
+   "external_id": "4703301005",
+   "title": "Human Resources Manager",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-04T21:37:18+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4703301005"
+  },
+  {
+   "external_id": "4705132005",
+   "title": "Manufacturing Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-11T19:19:34+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705132005"
+  },
+  {
+   "external_id": "4705193005",
+   "title": "Senior GNC Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-25T23:30:38+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705193005"
+  },
+  {
+   "external_id": "4705254005",
+   "title": "Senior Embedded Software Engineer (Avionics)",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T19:06:01+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705254005"
+  },
+  {
+   "external_id": "4705255005",
+   "title": "Senior Harness Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T19:07:59+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705255005"
+  },
+  {
+   "external_id": "4705256005",
+   "title": "Senior Test Engineer (Avionics)",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T19:09:19+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705256005"
+  },
+  {
+   "external_id": "4705258005",
+   "title": "Senior Build and Integration Technician",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T04:02:05+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705258005"
+  },
+  {
+   "external_id": "4705496005",
+   "title": "Simulation Engineer I, Arc Vehicle",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T18:08:25+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705496005"
+  },
+  {
+   "external_id": "4705503005",
+   "title": "Engineering Manager, Arc Vehicle Software",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T19:12:43+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705503005"
+  },
+  {
+   "external_id": "4705504005",
+   "title": "Staff Flight Software Engineer, Arc Vehicle",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T18:59:43+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705504005"
+  },
+  {
+   "external_id": "4705505005",
+   "title": "Staff Vehicle Engineer",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T18:25:35+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705505005"
+  },
+  {
+   "external_id": "4705506005",
+   "title": "Senior Flight Software Engineer, Arc Vehicle",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T19:14:08+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705506005"
+  },
+  {
+   "external_id": "4705509005",
+   "title": "Ground Software Engineer II, Arc Vehicle",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T19:15:57+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705509005"
+  },
+  {
+   "external_id": "4705511005",
+   "title": "Autonomy Engineer I, Arc Vehicle",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-12T19:17:19+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4705511005"
+  },
+  {
+   "external_id": "4709589005",
+   "title": "Senior Platform Engineer",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-25T20:04:37+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4709589005"
+  },
+  {
+   "external_id": "4709602005",
+   "title": "Senior Test and Automation Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-25T20:46:55+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4709602005"
+  },
+  {
+   "external_id": "4709632005",
+   "title": "Senior Avionics Mechanical Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-26T01:20:22+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4709632005"
+  },
+  {
+   "external_id": "4709687005",
+   "title": "Senior Avionics Test and Integration Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-26T01:27:52+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4709687005"
+  },
+  {
+   "external_id": "4709690005",
+   "title": "Senior Harness Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-26T01:35:27+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4709690005"
+  },
+  {
+   "external_id": "4709691005",
+   "title": "Senior Avionics Embedded Software Engineer",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-06-26T01:47:14+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4709691005"
+  },
+  {
+   "external_id": "4714119005",
+   "title": "Senior Propulsion and Energetics Thermofluids Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-10T23:35:57+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714119005"
+  },
+  {
+   "external_id": "4714122005",
+   "title": "Full Stack Engineer II",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-10T23:53:42+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714122005"
+  },
+  {
+   "external_id": "4714123005",
+   "title": "Senior Full Stack Engineer",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-10T23:58:22+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714123005"
+  },
+  {
+   "external_id": "4714126005",
+   "title": "Avionics Embedded Software Engineer II",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-13T20:07:01+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714126005"
+  },
+  {
+   "external_id": "4714666005",
+   "title": "RF Test Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-13T22:08:09+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714666005"
+  },
+  {
+   "external_id": "4714762005",
+   "title": "Senior Antenna Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-13T22:54:57+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714762005"
+  },
+  {
+   "external_id": "4717338005",
+   "title": "Staff Mechanisms Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-21T23:44:31+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4717338005"
+  },
+  {
+   "external_id": "4717339005",
+   "title": "Senior Mechanical Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-21T23:51:26+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4717339005"
+  },
+  {
+   "external_id": "4717341005",
+   "title": "Structures Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-21T23:58:45+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4717341005"
+  },
+  {
+   "external_id": "4717349005",
+   "title": "Senior Dynamics Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-22T00:30:52+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4717349005"
+  },
+  {
+   "external_id": "4717353005",
+   "title": "Senior Test Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-22T00:37:18+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4717353005"
+  },
+  {
+   "external_id": "4720210005",
+   "title": "Senior Propulsion R&D Technician",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-07-31T01:23:12+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4720210005"
+  },
+  {
+   "external_id": "4723743005",
+   "title": "Staff Aerothermal CFD Methods Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T05:07:04+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723743005"
+  },
+  {
+   "external_id": "4723745005",
+   "title": "Senior Aerodynamics Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T05:21:01+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723745005"
+  },
+  {
+   "external_id": "4723746005",
+   "title": "Senior Aerothermal Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T05:27:09+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723746005"
+  },
+  {
+   "external_id": "4723747005",
+   "title": "Staff Mission Design Engineer",
+   "role_family": "product_design",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T05:33:23+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723747005"
+  },
+  {
+   "external_id": "4723749005",
+   "title": "Staff GNC Engineer (State Estimation)",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T05:40:33+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723749005"
+  },
+  {
+   "external_id": "4723750005",
+   "title": "Staff GNC Engineer (Guidance)",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T05:46:57+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723750005"
+  },
+  {
+   "external_id": "4723752005",
+   "title": "Principal TPS Materials Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T05:56:59+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723752005"
+  },
+  {
+   "external_id": "4723753005",
+   "title": "Senior Thermal Structures Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T06:00:31+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723753005"
+  },
+  {
+   "external_id": "4723757005",
+   "title": "Senior Tooling Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T06:22:20+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723757005"
+  },
+  {
+   "external_id": "4723758005",
+   "title": "Senior Chemical Process Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T06:28:00+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723758005"
+  },
+  {
+   "external_id": "4723760005",
+   "title": "Senior Mechatronics Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-13T06:34:50+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4723760005"
+  },
+  {
+   "external_id": "4725530005",
+   "title": "Senior Propulsion Development Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-18T22:26:09+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4725530005"
+  },
+  {
+   "external_id": "4725816005",
+   "title": "Senior Manufacturing Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-19T18:10:18+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4725816005"
+  },
+  {
+   "external_id": "4726680005",
+   "title": "Senior System Administrator",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-08-21T21:10:15+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4726680005"
+  },
+  {
+   "external_id": "4730489005",
+   "title": "Senior Content Producer",
+   "role_family": "marketing",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-02T21:48:00+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4730489005"
+  },
+  {
+   "external_id": "4733428005",
+   "title": "Avionics Mechanical Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-11T20:21:49+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4733428005"
+  },
+  {
+   "external_id": "4733453005",
+   "title": "Electrical Test and Assembly Technician II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-11T23:44:59+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4733453005"
+  },
+  {
+   "external_id": "4733504005",
+   "title": "TPS Technician I",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-11T23:40:42+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4733504005"
+  },
+  {
+   "external_id": "4733511005",
+   "title": "Senior RF Systems Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-11T23:56:04+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4733511005"
+  },
+  {
+   "external_id": "4733512005",
+   "title": "Engineering Manager, Arc Vehicle Mechanical",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-12T00:31:01+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4733512005"
+  },
+  {
+   "external_id": "4736723005",
+   "title": "Senior Avionics Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-22T18:39:51+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4736723005"
+  },
+  {
+   "external_id": "4737795005",
+   "title": "Government Relations Executive",
+   "role_family": "other",
+   "location": "Washington, District of Columbia, United States",
+   "posted_at": "2026-09-24T18:30:19+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4737795005"
+  },
+  {
+   "external_id": "4739062005",
+   "title": "Staff Avionics Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-29T19:39:28+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4739062005"
+  },
+  {
+   "external_id": "4739081005",
+   "title": "Technical Program Manager II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-30T17:57:15+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4739081005"
+  },
+  {
+   "external_id": "4739414005",
+   "title": "Senior Electrical Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-30T18:54:11+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4739414005"
+  },
+  {
+   "external_id": "4739417005",
+   "title": "CNC Machinist II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-09-30T19:12:40+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4739417005"
+  },
+  {
+   "external_id": "4740204005",
+   "title": "Parachute Systems Engineer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-02T21:45:27+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4740204005"
+  },
+  {
+   "external_id": "4742218005",
+   "title": "Buyer II",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-09T00:23:39+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4742218005"
+  },
+  {
+   "external_id": "4743497005",
+   "title": "RF Engineer - Summer Internship 2027",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-13T23:21:37+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743497005"
+  },
+  {
+   "external_id": "4743498005",
+   "title": "Senior Avionics Mechanical Engineer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-13T23:24:07+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743498005"
+  },
+  {
+   "external_id": "4743740005",
+   "title": "Mechanical Engineer - Summer Internship 2027",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-14T18:36:39+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743740005"
+  },
+  {
+   "external_id": "4743748005",
+   "title": "Manufacturing Engineer - Summer Internship 2027",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-14T18:44:36+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4743748005"
+  },
+  {
+   "external_id": "4744390005",
+   "title": "Avionics Mechanical Engineer - Summer Internship 2027",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-15T23:45:19+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744390005"
+  },
+  {
+   "external_id": "4744391005",
+   "title": "Avionics Embedded Software Engineer - Summer Internship 2027",
+   "role_family": "engineering",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-15T23:48:28+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005"
+  },
+  {
+   "external_id": "4744399005",
+   "title": "Senior CNC Programmer",
+   "role_family": "other",
+   "location": "Playa Vista, California, United States",
+   "posted_at": "2026-10-16T00:44:02+00:00",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744399005"
+  }
+ ]
+}

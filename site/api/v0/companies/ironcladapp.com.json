@@ -1,14 +1,14 @@
 {
   "domain": "ironcladapp.com",
   "name": "Ironclad",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/ironcladhq",

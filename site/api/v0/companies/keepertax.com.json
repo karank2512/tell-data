@@ -1,0 +1,25 @@
+{
+  "domain": "keepertax.com",
+  "name": "Keeper",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Keeper launches Freshservice workflow for access requests - SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUJFa0FWRExFang3czE5NHZTc0lLano0LXM3aUNDNnBFWGl2YXY0T0ZLS25GR2tQcFlCcWZ4LTgzQjVKLXdDZlByVVM1d0ttN29aRThnRWxGbzdaRlhhMmVnQ0xpN3pzWTlZMERPOXc1ZmdpSExBdHAxX2xOajdnblJjSkZyejNKU1lscGRIRzFFdFFK?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

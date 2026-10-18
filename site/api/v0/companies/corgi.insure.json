@@ -1,20 +1,20 @@
 {
   "domain": "corgi.insure",
   "name": "Corgi Insurance Services",
-  "as_of": "2026-10-17",
+  "as_of": "2026-10-18",
   "profile": "default",
-  "score": 40.7,
+  "score": 40.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.8,
+      "contribution": 20.6,
       "occurred_at": "2026-09-04",
       "summary": "Form D: $19,999,979 offering, $16,199,417 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2074564/000207456426000005/"
     },
     {
       "type": "funding",
-      "contribution": 19.9,
+      "contribution": 19.8,
       "occurred_at": "2026-08-24",
       "summary": "Form D: $40,678,902 offering, $40,678,902 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2074564/000207456426000004/"
