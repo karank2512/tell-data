@@ -1,0 +1,25 @@
+{
+  "domain": "withtower.com",
+  "name": "Tower",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Parquet Plays : Boston Debuts New Twin Tower Lineup - CelticsBlog",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0ptQmYwYnlIRmpWVHpDY2VOOGw4UXJ6M09nVks0aXl5czRVRENrejd1N2JUbHM2NllWczBLU1pGcHRIQkFuVWF2emxzbnU3VXRJcW1vZTZ1Q1lQOGJ4d2dpYUVlSHNDZ0ZMSnA4NUlmb2l5MXl1YzcwMEQwU1BDSG9EV19TWmlPSzV5M1pkbjdhVHd1RmxqdGVaaHFzc1c2RE5B?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

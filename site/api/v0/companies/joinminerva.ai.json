@@ -1,0 +1,25 @@
+{
+  "domain": "joinminerva.ai",
+  "name": "Minerva",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Minerva unveils Roger, a humanoid built for remote bomb disposal - The Rundown AI",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50R2pMYmw2QXdzWGNmX2FPTl9QUXp5RnAyUHhzemNhRkRIVGlQbW9DR0p2VlBuYnQ3ejVGX3hCcmZ1N3laMjlCQTVRanpnMGlpbW5yX3VUYmhfNEJKYTVHVkRSbVpxQXlJLUt2R0JBcnhvS1V0VEE?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

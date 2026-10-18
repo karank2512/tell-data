@@ -1,0 +1,25 @@
+{
+  "domain": "usechamber.io",
+  "name": "Chamber",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-16",
+      "summary": "LaGrange County chamber unveils new branding - Inside INdiana Business",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2dfTWxpYS1kQk42b2RHZjItTHhlX1Z2VjFsTEdoS1FuZno0RnNpdVJZNmtQRlY1WmstamRrWXB1TzBUZXY0by1iN2ZrSlhiLVBMUVRYR09jZUpuc19oVllJVU1IWFYwb3pHVHl4RHJKYmZwa0N0NUxTMFVhYmNWVVNJM3dSYUZSU05GX3A4cFhXaVBZSVE?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

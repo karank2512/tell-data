@@ -1,0 +1,25 @@
+{
+  "domain": "joinoto.com",
+  "name": "Oto",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Motorway launches Oto stock assistant message service - Motor Trade News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRDdFWHdyVGloNjRXLUFSY0h1ck93cGJaSmZIU0FLU2oxSU8ySjJRV2R6RjJES0lpU0x1N0NyZWNlSldtYUFmWXJxMVZqSVpaVmJsTjMwTXpMSXpKV3A2TFY1TTlTMHJDdEtxVGJxd3pITlcyZ1dDQ3RCSmw2NDRuaUpGOW1FNTlzS2pFejdXc3JqcEtibEg4MHBOMEd2TDhJMEc3eVU3T2pIQQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

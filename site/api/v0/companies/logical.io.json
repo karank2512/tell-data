@@ -1,0 +1,32 @@
+{
+  "domain": "logical.io",
+  "name": "Logical",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "DecaQ Launches Cloud Beta 2 with 400 Logical Digital Qubits and Six Quantum Algorithm Families - Lohud",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdFNZWldKM0Mtb05vbjZwMHdXc3J5UFIyaEViWURxOEE5a2dqVlE5M3RERTZDa2NrQ2JoU01oT3k3WFUtV3Z0alRsdVZMV2dHNUFhbkF0UGZvcTNhOUhHU2hjU1lKWjA4amJ3Q0kzeW5lcFk2OEhqdlZ3T3BCN3NJTmtxcjU0dFlGbTlPQnZZM2lBQXhsQ0pfa3JZOFFPZUVDU2tHMEQxYU9xSmhMbWhEcW5nZWltTVZpeWVsX2FaUUpCUFNaZmtacWdXRjlKUTVQSDNVVXNNamlEMlF1?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Google Quantum AI Introduces Virtual Error Cancellation for Universal Logical Circuits - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2t3Qmt2dWpoNU96cURRYUp6VDFoNHBwbkk0OVdVNHlYQWhtc2R3eng4akFEQW9STFUtQUUyUURVY3dSbUxDWEQ3MXhUcDFDUndINW5tcEdqaGZBNnI5UHZETW9hb3poNEtkQWNCT3pjR0V3YktRMjBjSFZGQWFKMVdrcEJlNU9Od3hnV2g4MjRkaTJXQVFnOVBQTnBSQTZKWGVnQjlTTkV3TTVlZjdhaWctWm5pc0NHR3BKc181RdIBxAFBVV95cUxOd0tWN1J4aFVYbERaSzVYZHVmQ2plQmVoUVl4M2NTcTlBNGJVRWpDVFV5ZGpDWFFRZmpfVnNmTnRNMWRaUHI3QTF2Ni10ZGZjdUJfQW9MclgyOE1wRFdQNmFqVmYzMVFuLWhhSVYxbzJ3R01jSFlDYlo1VmVnLXlpaURoOWtkal8wUWxVM0hkSzlIXzU2Yko3S1dLVVJzd2x1Z0VxQjFobWY3TkNVdnVJa04ySVlabUFhVWFuOXJLNjM5ZlpC?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

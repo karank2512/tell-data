@@ -1,0 +1,32 @@
+{
+  "domain": "askclara.com",
+  "name": "Clara",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 3.3,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-15",
+      "summary": "Santa Clara School District Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObE9oRkZKa1Nud1JJQV9GNVNBUHdLWkJYM0hiLVprRkVOLU93UXMzVnhqbUQwLVpHeWdBaV8xMGc5Y3pMNmJQdkpoY2RTZnVjeTM5TzdnSUZpcWtmaHJWZGxNLXl0NS02S1Zmd3RhVWRScmNyLTlXV1JuNHFlY1VYakxsRnRnXzJlTHRsMWxfUWtRSmhIdEM40gGcAUFVX3lxTE9DcUt4bjFTUDYwVkhpSS1xelRtdjA3dUxUMGRKa2ZZU1BMaTBrcmZJZGtlUWg3eVNRVFVCVjNObnlORmI4MUJnNkc2dk1RWHdzWnVuaUZVSmttZjVqNHZIMWFkNDF4a2FsakZPOE5YMm44Z3FDc2xtWXZBQ0pCdVFuOHc4cHRoTzZ6S09DN004M21QVmVpVUx3U0V0aA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Clara Mann releases new single \"Oblivion\" - Northern Transmissions",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NS0zb3pqdGJtd29YMEpfeF9pVm9pcWQtd2xxRkFMQkh1R2UyLTE2SzhJb201cHI4Sk04bHg4VzdLaEFjQ1ZZckNWNkl3eDFQRFVqZ05zUUxQUHpYYl9hWXhWQmdvX1dqTnJyZnRHRE5yVGtjVVAwX25HSlJlbW8?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

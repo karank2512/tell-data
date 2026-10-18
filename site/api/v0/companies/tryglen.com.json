@@ -1,0 +1,25 @@
+{
+  "domain": "tryglen.com",
+  "name": "Glen",
+  "as_of": "2026-10-18",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "Boxcar Launches New Bus Route from Glen Ridge, Montclair to Manhattan - Montclair Local News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmdOdzhsbXEydEM1NU85bU1lcEw2elZWOHBJNGZmdGhiSGJmSG5LNmV3WFlHby1yNUp6LTlzOVJDbWlyaFRiemxmeV91TUVwT3RvUzl4T2xUeTlaY0V6dy1DWkx3amFYUGNxOUdZblcxci1DNU5GY2U5V095bzZ6b3paZ2VzVU9uajUtRGVoQUQtdEQ5YzF6TnE3bjdCRWVwVlA5QWs2c2Y?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}
