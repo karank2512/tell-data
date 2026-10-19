@@ -3,7 +3,7 @@
  "identifier": "relativity",
  "domain": "relativityspace.com",
  "as_of": "2026-10-19",
- "last_polled_at": "2026-10-19T09:00:47.810410+00:00",
+ "last_polled_at": "2026-10-19T15:52:01.639394+00:00",
  "open_postings": [
   {
    "external_id": "7196730002",
@@ -320,7 +320,7 @@
   {
    "external_id": "8449561002",
    "title": "Structures Technician II, Second Shift",
-   "role_family": "customer",
+   "role_family": "engineering",
    "location": "Long Beach, California",
    "posted_at": "2026-03-06T15:30:53+00:00",
    "url": "https://boards.greenhouse.io/relativity/jobs/8449561002?gh_jid=8449561002"
@@ -416,7 +416,7 @@
   {
    "external_id": "8476960002",
    "title": "Structures Technician II, First Shift",
-   "role_family": "customer",
+   "role_family": "engineering",
    "location": "Long Beach, California, United States",
    "posted_at": "2026-03-24T14:22:24+00:00",
    "url": "https://boards.greenhouse.io/relativity/jobs/8476960002?gh_jid=8476960002"
@@ -1100,6 +1100,14 @@
    "location": "Stennis Space Center, Mississippi",
    "posted_at": "2026-07-20T19:56:33+00:00",
    "url": "https://boards.greenhouse.io/relativity/jobs/8641196002?gh_jid=8641196002"
+  },
+  {
+   "external_id": "8641281002",
+   "title": "Quality Inspector Technical Specialist I",
+   "role_family": "gtm_ops",
+   "location": "Stennis Space Center, Mississippi, United States",
+   "posted_at": "2026-07-20T19:57:10+00:00",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8641281002?gh_jid=8641281002"
   },
   {
    "external_id": "8643284002",

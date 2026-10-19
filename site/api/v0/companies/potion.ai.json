@@ -3,8 +3,15 @@
   "name": "Potion",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "B&M LAUNCHES GIANT BUZZBALLZ WITCH’S POTION COCKTAIL FOR HALLOWEEN 2026! AND IT’S ONLY £17.99! - vergemagazine.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdFc1dHZ1cVdfQ3NFVThKR1Utc0RYekU1TzBqd1EwZDJSS2dYWnNrQXI1NXk1cE5CMnVrWnJmV0VqZTdzRzE1X3pieVhqNkZhS1llM011WGVRYWVDTXA2di0xT3pGNFZvQm93aFcyLW8zLTMzLThhZEFERS1OVUc2WlJSQlhKWWpvOVA1UkpWNlpaN0oxVG1HWU5seXhWNHBwTGhJdnZIYVBnMkFyZURLc0NwYk5TM3hj?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

@@ -3,7 +3,7 @@
   "name": "Multiverse",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-15",
       "summary": "Multiverse Computing Launches Comet 60B in collaboration with NVIDIA: Multimodal Capabilities at Half the Parameters - markets.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTVRSNGtsRnVPNEl2X0NtcDhLVXhDZlJlUXh1a0xfTWV0cW01YXVrYUcxeDdpQ28zX21yQXJoeHVqcVd4UWhTbzMyTV9KWVBxTjMxYUNwVkJlUzNlZ2xHbUc2Sm9UWk1VaVVwNnNNeE5QNXQzWXFIRHVkMnNvcUZaY0FnRU5MazR0Rjg3bUl0bFJ1NUpWMHd2TWtiQnB5dExpOTBHeWxXRXdOQmluQ05PemJTOWF2WVJMZDNJN005X3FWcWpkOWc0X3QtVVJrazVMRFFxTmIwSUlJS1NNSjhqOUpwNzA1WEt3cVNKNWNsYUVoWllDdFkyS0hfM3Z2Y21nc1FteA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Multiverse Computing Launches Comet 60B in collaboration with NVIDIA: Multimodal Capabilities at Half the Parameters - Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblZNT3Vmc0NYSFVVYjl2OWN4NGZRQUtBR1lMcEQ3amdobG41MUdNaDcwSWJvczlCeGMyay1aNUtVbU5aX080Sk9DUjRRaDVoeFpQczJpdWNnNXc5MFN4V29kMkgxRjRTWDhvblFGOGdzVnY5V05BN2JGVEIyQk1feVdPUDdsdzJKcWw2Q3RxWU16dw?oc=5"
     }
   ],
   "open_postings": 0,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

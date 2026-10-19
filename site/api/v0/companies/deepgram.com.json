@@ -1,0 +1,43 @@
+{
+  "domain": "deepgram.com",
+  "name": "Deepgram",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-19",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/Deepgram",
+      "postings": [
+        {
+          "title": "Account Executive (India)",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/Deepgram/07f98531-7a03-4481-a7ff-863fb07dfccd"
+        },
+        {
+          "title": "Sales Development Representative (India)",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/Deepgram/30210b62-73aa-417c-b2cf-0929c565a00a"
+        },
+        {
+          "title": "Account Executive (German Speaking)",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/Deepgram/1140ca2e-0b17-4262-8c1b-a3eb156086dc"
+        }
+      ]
+    }
+  ],
+  "open_postings": 96,
+  "long_open_roles": 30,
+  "sources": {
+    "ats": "ashby:Deepgram",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

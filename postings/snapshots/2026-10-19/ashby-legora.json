@@ -3,7 +3,7 @@
  "identifier": "legora",
  "domain": "legora.com",
  "as_of": "2026-10-19",
- "last_polled_at": "2026-10-19T09:00:47.580435+00:00",
+ "last_polled_at": "2026-10-19T15:52:01.498389+00:00",
  "open_postings": [
   {
    "external_id": "0002076c-d001-470a-b308-1df68e66f661",
@@ -598,6 +598,14 @@
    "url": "https://jobs.ashbyhq.com/legora/42f62bc1-edef-4406-ab82-2dc8a09de327"
   },
   {
+   "external_id": "43f2d4a1-a1a0-4ffd-abc1-2a46268a99c7",
+   "title": "Senior HRIS Analyst",
+   "role_family": "other",
+   "location": "New York City",
+   "posted_at": "2026-10-19T13:08:14.854000+00:00",
+   "url": "https://jobs.ashbyhq.com/legora/43f2d4a1-a1a0-4ffd-abc1-2a46268a99c7"
+  },
+  {
    "external_id": "459430b9-29e6-4e79-a5ab-8261d07c585e",
    "title": "Head of Legal Engineering, Italy",
    "role_family": "finance_ops",
@@ -892,6 +900,14 @@
    "location": "Chicago",
    "posted_at": "2026-09-03T21:37:37.407000+00:00",
    "url": "https://jobs.ashbyhq.com/legora/5f009ea4-e3d0-4907-bea4-89b9a52b971e"
+  },
+  {
+   "external_id": "6097597f-1c2f-4277-bf29-cef3ab472d84",
+   "title": "Indirect Tax Manager",
+   "role_family": "other",
+   "location": "Stockholm HQ",
+   "posted_at": "2026-10-19T14:41:19.221000+00:00",
+   "url": "https://jobs.ashbyhq.com/legora/6097597f-1c2f-4277-bf29-cef3ab472d84"
   },
   {
    "external_id": "6127b7c5-3c09-47fb-ad59-c20a261c6b1f",
@@ -1719,7 +1735,7 @@
   },
   {
    "external_id": "be28b197-b58c-4ca2-958e-3806e8c10e5f",
-   "title": "Senior Talent Acquisition Partner, Japan",
+   "title": "Senior Talent Acquisition Partner",
    "role_family": "finance_ops",
    "location": "Tokyo",
    "posted_at": "2026-10-19T00:48:22.465000+00:00",

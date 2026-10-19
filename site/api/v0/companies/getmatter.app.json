@@ -1,0 +1,39 @@
+{
+  "domain": "getmatter.app",
+  "name": "Matter",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 5.2,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-16",
+      "summary": "appoints new CFO",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1laS3YxVzdqSjBwdm5zdV9GU040MVM2VFNwOG1fS1NLcE5LSk53RjV1U0tPYkpwSlM3b0J2eU9ROEJGM0JzZ0FPcnBCSVo0VGxybUd1U2NOYzJfN1dnemNTZHNJTmd0Uml5OEFjczNzemNEY1ZrNlJBZ2lRYS0yRmM4TS1VOW9oUUpobTU4cVQ1ZW8?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-16",
+      "summary": "promotes [person]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWR2VLTlRveGtjczlhcmh6eG5MTmpiZk9MRUpOaFhBUXRRa3pvaUxXRmllLVpkTEtjcThUeTNYNHZXUUNXNi0tQzkxSXZRYnA3M0xYaVBCOEYzTy1QdVN1b1pvc0xjRGR1QTZkQjVsZlZqcEhuanRZTA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Apple Unveils New Home Collection With Matter, Thread, Aliro Support - Homekit News and Reviews",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazE0bWQ0VjNQRVozaUdOdi0zelhTQWkyUFo1RE9jaW5Zb3F3MS01dHlYS0V0SkJSWm1ZbkVFUHlfZWVMOUJzN3ZQNXh0VEJUcktDS1ZxRDY4NHZhaUNoUVR6RFZobDB4clh6TmItcllWNTNDODNlZWk5QUtncTBZT0IxNHp6WF8xQ0doVXNDOWNCdENWaEJHOS1ScFRJeG40SlJ0dw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

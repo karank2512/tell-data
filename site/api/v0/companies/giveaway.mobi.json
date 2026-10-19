@@ -3,14 +3,28 @@
   "name": "GiveAway",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 1.4,
+  "score": 4.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Nokian Tyres launches winter tire giveaway contest - Tire Business",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXJSX3ZiaW5WZ2V6bnRtT1l5TndWVTh2T1ZILV9FNm5ZRjl3UnI5VnRKaFJUcXUzYWI1OHVCZnNOejV4NXRvQzljVWdZYlNzN0RlSVYtMWxVMUVDbmI3WGVwYW9FOFlCd2pLSDJjU3JxVFN3QXo3RFlsVnl0bUloMExYdmZqTkdlaWx6clpSWQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "South Texas Blood & Tissue launches NYC Thanksgiving giveaway for donors through Nov. 8 - KABB",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZm5ONVRxNXFsMEpyeVhLT2cwVlQzdjBRRm5TMVRzWDZfQTlmcnBIWVpVUlROMThDTG1HaEtBV2xGQlVRX0oyZ0psdUxkX3NjZGtsaWF5Z1BiVGYyVW5YdFpka2pmVHA2Vk1reWtPMGlVTUJsaF9qZDBHaldnWmlYYmdFY0RtcFdhNUpZZkN1cmNkZ2FQcWFMMzU5cEMxcjZuNVZlbkdkRURUTFJDSjJKdTZPYTdUc21KeGZORzZn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "South Texas Blood & Tissue launches NYC Thanksgiving giveaway for donors through Nov. 8 - WOAI",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOekxxa0dKU2c3aWdWU1loLWhIclpUUmk4Y3ZuNEgwRTJxQjhkLV8xcHYzVlZjYWYtWDdqSC14bUdJbU43d3lPZFRaaXR1M2ozb0gzUDdGTm5nRUdQOHJKdlVGVWI3UWNQM21feVZyZ3JCRlBHYVhtblN4YVFoMHdxREpOcUxIX0lfamJQMTFTcUdxYTdSb3AwOG1iNERUSW5TcjRPSldkY29iMkVaNmthLVBpdFlXNUVKMzFaS3N3S3Q?oc=5"
     }
   ],
   "open_postings": 0,
@@ -20,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

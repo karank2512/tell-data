@@ -3,7 +3,7 @@
  "identifier": "ramp",
  "domain": "ramp.com",
  "as_of": "2026-10-19",
- "last_polled_at": "2026-10-19T09:00:47.580435+00:00",
+ "last_polled_at": "2026-10-19T15:52:01.498389+00:00",
  "open_postings": [
   {
    "external_id": "009dc18b-26a3-4fac-a773-c60d742cf840",
@@ -935,7 +935,7 @@
   },
   {
    "external_id": "b4366e7a-d1e7-498b-8630-4dfea67caca0",
-   "title": "Lead, Employment Counsel",
+   "title": "Lead Counsel, Employment",
    "role_family": "other",
    "location": "New York, NY (HQ)",
    "posted_at": "2026-10-16T20:52:37.741000+00:00",
@@ -1204,6 +1204,14 @@
    "location": "New York, NY (HQ)",
    "posted_at": "2026-06-03T17:53:31.348000+00:00",
    "url": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448"
+  },
+  {
+   "external_id": "e8e96e0c-3780-42ed-8297-1ccfa505cd94",
+   "title": "Technical Sourcer | Engineering (Contract)",
+   "role_family": "other",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-10-19T14:22:49.288000+00:00",
+   "url": "https://jobs.ashbyhq.com/ramp/e8e96e0c-3780-42ed-8297-1ccfa505cd94"
   },
   {
    "external_id": "ec51d0aa-a167-4c38-b955-07c55057267d",

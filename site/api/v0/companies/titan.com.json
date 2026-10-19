@@ -3,8 +3,29 @@
   "name": "Titan",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 2.7,
+  "score": 7.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-17",
+      "summary": "Attack on Titan: The Last Attack Home Release Launches January 26 - The Outerhaven",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUpQNmF5eHdnM2pXMEEtdEc5NnY4NWxLaDdwakNfLXZaZlRVYXlTYWJ1MWdUdzRtSUlyUlZ5TUpqZndQTmdjaWFScklWTDFIdm5zbWUxSXlZVGU1ZmU2STN0NkRPWXFNbXMxVWRQN1RJcnpqd2VVSE1IYVROVE1uZFh6Y0RlWmtIWnhwZ3U3SVZ1U1lWMUVTckgwNA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "EcoFlow Launches Titan Residential Energy Storage Series - https://www.mvapulse.com/",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXoyU2NmU01SbkpJNmZVRlRCeV8zQ3MwclVEYldTekdWS0xZQ1FNRTJOdDUydWp2SDZmUEV6eWpocm00WWNxMC1EblR5YUFTZWoxdnhhZTktWmNVcFZ1c3VBcXZNak0xb09idzh4ejkzNGZIMDItY055WUIxTjJMOW12OEwzWjJxSHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "EXCLUSIVE: Titan Manga Debuts 1st Volume of Revenge of the Rock 'n' Roll Sisters Manga in August 2027 - Anime Trending",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemtrYjkxTFBHTk5WMURXd0lkZVVhbVZJQjJjS1BRT1Bob0F6R2FJMWdOSFVGTTdybWk2SmNMR2RralFXN3RDelNoMWs4TkxuWEFublhYVFlKc2l1NkZla0R0TlpzNXU5TVNHX3VWUHhaTl83WEJjeHY3bGpGQnNsNGtnbGh4d2w4ZHdHdkYtUnRCbVZNXzZQRy1KVmdoR19FQThLQmtlRWhFTmJLT2pPMUdwNE56ZGlIbnNBOE9XcFhKeGxWTE9JR25uY08yQWNZQXo4?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "EcoFlow Debuts TITAN Series, Bringing Whole-Home Energy Security Within Reach of Everyday Families - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTlHV0s4V3ppelVoalF0LWc1aFUwSWZtOF9NNnVmRWNYU1psaTFkb2p6S2NDb255Y1h6TFA2cjZzTGZlUzlucG53LW5NazJnbnZ3WmNaOXZEdFpBVHhnRTg1Qjdadkktd3VRMExESndPOVNDXzhCelNqcm9FRlp5NTVYUkhWRG5kOFBzVzBjcy0wY3E4UUNFcw?oc=5"
@@ -27,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

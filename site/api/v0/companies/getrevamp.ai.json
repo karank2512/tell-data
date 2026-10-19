@@ -3,8 +3,15 @@
   "name": "Revamp",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 5.6,
+  "score": 9.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-18",
+      "summary": "Trump unveils controversial DC golf course revamp - 香港電台",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmI1bm5FbUMxYmZTMGkyNHpQa1pRSl9YVDdCWC1YT21EOUZjeG1hQkctam5uVWJfelJZQmhocXZNZ2xEWEtwQ0lRWG5XLWVmdDFla3QzUk9qbDkyM1loZWN4Rk14bnVPSTFYa1ZLOUZqVjVmWHVkaFVVY3hBWlZtU3prSTNsQVE3QnZhVDlJc0lNdXFhSl9zME9EM3d6SDNtcVZn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -32,6 +39,20 @@
       "occurred_at": "2026-10-14",
       "summary": "Delta Air Lines unveils business-class revamp as it bolsters luxury flying experience - KHOU",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXRURkRad2VyXzV4Ylo5SW54MDJGOS14aHBxbzE1QjJ1T0JUR3lOVHJUU2ptd1ZQTHVxd2R2dFBsY0UxTEdPdFVnX0JyZXhBaFVlQUFKZ3phNlRaVzM0ckZmM0w4X2VpWGtlZWh6bHo4NjhubDFobkJQOTlkU3U3V05fbk42SDRqQzBrcFpXemg2bWU0WHRfVThNMm1pQXlMLXh2R2drdE5RWlVOQUQ5YWlsRzVpUHpKOGRLNHV5UTR3b0g2NFJ1V1VFeE8tdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Delta Air Lines unveils business-class revamp as it bolsters luxury flying experience - 5newsonline.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYm9nVV9yQ0lMSFN5ZlE3R19fUmNpN1V6Z09iMTZSVWV0X1JpSGFHamRXU2swaHVsRkMxYkR5ZEFjSFEtM25nclk3VXRWX2QwQ0ZLS2NmeFpzZVA3Q213V3VyRnlEYnUtRXVjZmxnMTZlbzdRWUdnUnRIMGdFTVM4Z3B2UXgyUjdVamM5Z3lRTVVxOEl2c1ZjTm9oQjVnWnBnb0dlSXhEZnpwbWVFY2dDTlM0QVRJbW1PbGhhM1N1VFNCSVdla09NRkptY0tUOVhlOTZxTHBsWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Bybit App Homepage Revamp: Introducing The New Financial Platform - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDhpZVZJVFFqQldIQ0xLTzNtVGZPRkEyRThpd0JFYnJobUZIRnNVSW1OTlRqUzk1Vm1KcDBxX25UcndNbmJyMmpxVnhFLTlHdUU0MjJfM2VPd2JlTkQyQkdZWWpwSGRpQjctWE5iX3d6T0htWWs3LUl1Wm8zd3VvOTZHRk5tU2htYTJnSWl0YUZZWnFQVHNwTmhOM3hybjMzckNSQ21rWXlIX3RvaGFieF9RRzByYjJEU0Z2bEFGY2VnNkk?oc=5"
     }
   ],
   "open_postings": 0,
@@ -41,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

@@ -1,0 +1,32 @@
+{
+  "domain": "tryfinch.com",
+  "name": "Finch",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-09-14",
+      "summary": "Introducing Finch Benefits: Plans, Enrollments, Dependents | Finch",
+      "url": "https://www.tryfinch.com/blog/introducing-finch-benefits-api"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-05-18",
+      "summary": "Introducing Flat File: All the Benefits of a Unified API, No Engineers Required | Finch",
+      "url": "https://www.tryfinch.com/blog/introducing-flatfile"
+    }
+  ],
+  "open_postings": 12,
+  "long_open_roles": 10,
+  "sources": {
+    "ats": "lever:finch",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

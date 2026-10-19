@@ -3,8 +3,15 @@
   "name": "Terminal",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 7.0,
+  "score": 8.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Ukraine Launches More Than 1,000 Drones, Igniting St. Petersburg Oil Terminal and Ruchi Depot: 26 outlets compared - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSTVXZGF4Mkt5TXdaYlNaTkNRdS1ScHJKRmxsVllyMDlRU2haRmZFVm9tZHNhc3Rtd2FVdzhqTlBLT3QtVGVDVU5IUXhCVUhLUEhUaHFnRXZaYW8zdnFJWHpmZ2hvdDhpRDIxdGU5UEZQd1VBb2VTdEltOVVuczNKYWtRWVE1VkdGRUZmUHdHdkpsOW1IdUgzNTdFcThtSFkwTnUzRXhPN0NTTjlSbnNkdXNmb3N2OWNKejRLV0YzVkNMRWQwOWR3dGRHR1RvRFhka3E4RnJRUWdpYmF6dDZvdEJnQzFVNWtxWGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

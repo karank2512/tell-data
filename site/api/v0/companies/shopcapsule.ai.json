@@ -3,8 +3,15 @@
   "name": "CAPSULE",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 7.0,
+  "score": 8.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "NGD launches Neo Time Capsule, preserving community messages on NeoFS until 2036 - Neo News Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0RIbGFFM3N0ck5VZk56NHRZWmI3UFhYMjJCazV0SnhzZ1ExSUVjblBZa0kyazIxak9XckFaaFVSYXoza2pjT1hCcVJwWlBOZnNrZGNCc0pTdGxrakJJekNzQkFNX1NhckxDaUtmTmZaZHktZWdfa0RpWFBIeEdrR2pZb2NvaU1senlua3hfVmtoR0JFZ0tORjZlZ2JIRWxDR0JkYmhBamRvSGdQMm1EYlM4OA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

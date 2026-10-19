@@ -3,7 +3,7 @@
  "identifier": "recidiviz",
  "domain": "recidiviz.org",
  "as_of": "2026-10-19",
- "last_polled_at": "2026-10-19T09:00:47.810410+00:00",
+ "last_polled_at": "2026-10-19T15:52:01.639394+00:00",
  "open_postings": [
   {
    "external_id": "4657637006",
@@ -36,6 +36,14 @@
    "location": "Remote, NYC, Oakland",
    "posted_at": "2026-09-18T19:55:36+00:00",
    "url": "https://job-boards.greenhouse.io/recidiviz/jobs/4714745006"
+  },
+  {
+   "external_id": "4716167006",
+   "title": "Senior Policy Data Analyst",
+   "role_family": "data",
+   "location": "Remote, New York City, or Oakland",
+   "posted_at": "2026-10-19T14:41:35+00:00",
+   "url": "https://job-boards.greenhouse.io/recidiviz/jobs/4716167006"
   },
   {
    "external_id": "4717510006",

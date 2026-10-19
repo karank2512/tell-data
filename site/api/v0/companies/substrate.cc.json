@@ -3,8 +3,15 @@
   "name": "Substrate",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Mirae Asset Launches MLCC and Substrate ETF Targeting AI Component Bottlenecks, Listing Oct. 20 - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LajhGdVRqX2ZfYmtHT196UzVwNW42OEx5RjBDTmxIUi1NQ1FKWk1kbDZDQ3Vtdm1PeHpTMVpHUU9LR0hjbHZFcC16bUNWTHBkS3FzZDlsOVBZNG9MVVlMVnRJWlc1VFhEVmdxOUNpMnQ0cG14NXc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

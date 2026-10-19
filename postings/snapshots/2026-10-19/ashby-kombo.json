@@ -3,7 +3,7 @@
  "identifier": "kombo",
  "domain": "kombo.dev",
  "as_of": "2026-10-19",
- "last_polled_at": "2026-10-19T09:00:47.580435+00:00",
+ "last_polled_at": "2026-10-19T15:52:01.498389+00:00",
  "open_postings": [
   {
    "external_id": "0b9161c3-557a-4bc1-a03d-61f74735651b",
@@ -124,6 +124,14 @@
    "location": "New York Office",
    "posted_at": "2026-09-23T11:37:31.520000+00:00",
    "url": "https://jobs.ashbyhq.com/kombo/f82d7130-f515-441b-97a0-6fbacb94a6e4"
+  },
+  {
+   "external_id": "fdffae8f-718f-4e5b-acee-fb24364bd3db",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": "Berlin Office",
+   "posted_at": "2026-10-19T15:23:10.373000+00:00",
+   "url": "https://jobs.ashbyhq.com/kombo/fdffae8f-718f-4e5b-acee-fb24364bd3db"
   }
  ]
 }

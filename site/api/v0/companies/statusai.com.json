@@ -3,7 +3,7 @@
   "name": "Status",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-16",
       "summary": "Kings Island president releases statement on coaster tragedy, ride status - WCPO 9 Cincinnati",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlJEa3pxRUtGaU4xZzI2Ynhld0NmV05MdjlEY2tHaTREbmF1eXBFNk9hLXNFOEdYZjhZX213SjROb1VnSnloX2dRbGp5cFJrcWs4b3FrdV92dG5QNTM5a3dlbkNabzd4NVp2eEZsaV9FV0VzYmdrbk5POHhSaDBnVnp3RWFtVjJ0ZmtLWmcwQm9iX3JEb2JkNGFkRXpRUkJaNGZ5RjBELUNtZWdua19SQzZtSmFfbTdYbHA0X2xXeUUtRFNHenlFMGp3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "United Extends Status Match After Strong Response, Launches New Starlink Tracker Tool - Upgraded Points",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2J4RGlVZVRZTXZ1THdPR3RVeEZ2Mm5RSFNUMGg5akxhMFZ5Y2tVajZwdnFsODRlSWpCSlJFVmVvTFlXMmhjZFByaFJfM2I4UDhkdHN0ZWxxRXZQeFA4YWkzSHZzdlRQczh4UmxLeVJySklJc1VLWTdBUzJnZkN4ZVlON1lKWkZEQ3c?oc=5"
     }
   ],
   "open_postings": 0,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

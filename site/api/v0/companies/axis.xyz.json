@@ -3,8 +3,22 @@
   "name": "Axis",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 1.9,
+  "score": 5.9,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "promotes [person]",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xdXkyUzFzZFlJTlNuaDY5T0hNbTAxQ0Z1OE02QVJoLWxudDVlZFR0NzM1WnFDd3A3NzdnVGNBa2lJWWxHZmhmd1p1RGN6TTZBR0NTSmMybVdxM0pkVUxB?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "[person] Joins Axis Bank As Group Head For Commercial & [person]",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnVuOXktNWJpS1FSazF2eU4xNmVSVC1HcVZpSlp6Sm9iRW00b1g2Q0FjMWgzNHNfMzFqSUJkRDFKcGhlb21PTUxPM3hFNElEX3FTZHZEQ3FnZ2pxZ0tfTGg2RkZ4aEVhZnNER1p2cmxLbUlBRXllNU1WWWY5NWk3ZDhMamg5WWRmVWRmNm5GNjhFZ3drQkphVzVMTkxvbm5HejVGUlFEcEx5bzVBTXVucEFrTkszT2Eyc0lGZWNHeGJ4ZXczN2ZmRA?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -20,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

@@ -3,8 +3,15 @@
   "name": "Matcha",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 10.7,
+  "score": 12.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "JENKI launches autumn menu with three new matcha and hojicha drinks across its London bars - The Upcoming",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV0ZvWS1NUXJsNEhSSzFJdVhNY29vV2todFV4NHpvQ1RvQWpKSkV5dUdKaFNnYWdNbjBRVTB3OUIxVUZBcGtBZnJsRmZ3NG0zT2xsYzZ3d2hfUXBHRHJYaGx4bnB3TFB0RS13S2VDTldGanhzclFEZ0oxR3gxZ3VYU01PMHlzS08zS2tWLXpsRDRtUF9GTklRVW9JbXF2Vi1rWElrYXdiTi1uRkU4SkttVXk1MTlWVEoyQlZWaXB6Sk54NHBhZ0F2RThDZTk?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "It's alive! 7 Brew launches Frankenchai matcha latte - wandtv.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQms5RjFZVF9CZnBBTXp5ZlJ4bzJJZmQ4TURNUUhxRlByX2loYjZlbUZxZk9XelVXWm5IdVlIb25KMDRGZWljTDVQaGtPa0RkS3pjaFhXWGlicjhmWTcxREY1MGttbXg0SDliQmd2cGgzRDc0S0dvdTN0Nlg0MDZvTFBIYk9vSlo4enlaQjVZenNtU0d5elE?oc=5"
@@ -69,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

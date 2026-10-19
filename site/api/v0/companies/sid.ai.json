@@ -3,8 +3,15 @@
   "name": "SID",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 3.8,
+  "score": 5.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "appoints director",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xdVA3ZTFkazdaUEN4NzNCY19QRU5KSzdGelBIV0xSTzJZbzZ1ODk2Wk8tYnNtRDdhTHg4ZEp4bnlKSTdxc285SW9SZVdBNU52OFplb1Z0eWFXR3doNVhwcXZQMA?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

@@ -1,0 +1,25 @@
+{
+  "domain": "replicate.com",
+  "name": "Replicate",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Dongkuk Coated Metal unveils new color steel designs using AI to replicate wood, rock textures - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uZGw5a0FyLUVBdTNJWVk4d1V0Q2JmR2Z5ZWM2QlRtZ01jYjRreFRKR0xzRnZkcWpuZVdvUWw5ZEExQ3prWmsxV0ZoOG0taGNNSHNYckl2bw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

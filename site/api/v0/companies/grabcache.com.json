@@ -3,8 +3,15 @@
   "name": "Cache",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 6.9,
+  "score": 8.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Australia unveils sea mines, logistics cache and drone swarm payloads for Ghost Shark XL AUV - www.defenceconnect.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaWRfUFZIT0xveDBSUjBSVFd6WGo2X1BmZEtjOVJUM0d6dTQxTmpWVFZZYjNiOEZ4T0hBbHYxc2ZvY2lqbFBqbERQdlNqb0oyOG0yNUNTZFcxQ1kxVkRCZFJqMkZaME5rZy1VdU00UTY5WkFDZDZkdTZ2THNWelg1Z3FGa3RWZW9FQ1dyWU91R1AxbU5UV2V2bG9EemFCbXRNYWhyR0lfOFgyY0h6emZxZEg1WWpiSWlUM2lXbG1vNFI2Xy1fdVR5TlZ2S1pfd2V2WTU4?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

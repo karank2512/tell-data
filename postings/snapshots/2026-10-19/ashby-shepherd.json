@@ -3,8 +3,16 @@
  "identifier": "shepherd",
  "domain": "shepherdinsurance.com",
  "as_of": "2026-10-19",
- "last_polled_at": "2026-10-19T09:00:47.580435+00:00",
+ "last_polled_at": "2026-10-19T15:52:01.498389+00:00",
  "open_postings": [
+  {
+   "external_id": "00760149-40d9-4a31-a74d-b83e96dcb290",
+   "title": "Head of Wholesale Underwriting",
+   "role_family": "exec",
+   "location": "New York City",
+   "posted_at": "2026-10-19T13:02:42.598000+00:00",
+   "url": "https://jobs.ashbyhq.com/shepherd/00760149-40d9-4a31-a74d-b83e96dcb290"
+  },
   {
    "external_id": "123bc115-b814-43b2-8fca-8fe1585e60db",
    "title": "Staff Software Engineer",
@@ -12,6 +20,14 @@
    "location": "New York City",
    "posted_at": "2026-07-23T18:32:55.336000+00:00",
    "url": "https://jobs.ashbyhq.com/shepherd/123bc115-b814-43b2-8fca-8fe1585e60db"
+  },
+  {
+   "external_id": "131edc9a-d4d5-4499-bc57-421595a91f83",
+   "title": "Professional Liability Underwriting Lead",
+   "role_family": "other",
+   "location": "New York City",
+   "posted_at": "2026-10-19T12:55:31.413000+00:00",
+   "url": "https://jobs.ashbyhq.com/shepherd/131edc9a-d4d5-4499-bc57-421595a91f83"
   },
   {
    "external_id": "26959124-aab2-446e-aa4d-7265c83e0be5",
@@ -36,6 +52,14 @@
    "location": "New York City",
    "posted_at": "2026-05-26T20:50:39.448000+00:00",
    "url": "https://jobs.ashbyhq.com/shepherd/2f724b0a-9f9d-4bc6-bc97-cbec2dc10a34"
+  },
+  {
+   "external_id": "2f7bef48-cfa6-45c9-9c3b-9d4b2699b40e",
+   "title": "Commercial Casualty Underwriting Leader (Director)",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T12:41:18.592000+00:00",
+   "url": "https://jobs.ashbyhq.com/shepherd/2f7bef48-cfa6-45c9-9c3b-9d4b2699b40e"
   },
   {
    "external_id": "395f4b75-cf05-4581-8408-8f4fe0f1480b",
@@ -110,6 +134,14 @@
    "url": "https://jobs.ashbyhq.com/shepherd/8dd71958-16b5-47c5-98d6-ae9c19aac9e2"
   },
   {
+   "external_id": "c22eda7a-83f2-42d7-8859-8a1cb5192884",
+   "title": "Subcontractor Default Underwriting Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T12:56:14.265000+00:00",
+   "url": "https://jobs.ashbyhq.com/shepherd/c22eda7a-83f2-42d7-8859-8a1cb5192884"
+  },
+  {
    "external_id": "c4081c3d-a79b-4ac9-aa19-78f5e1a24c4d",
    "title": "Software Engineer, Full Stack",
    "role_family": "engineering",
@@ -148,6 +180,14 @@
    "location": "San Francisco",
    "posted_at": "2026-10-02T02:07:11.214000+00:00",
    "url": "https://jobs.ashbyhq.com/shepherd/d894c88b-d135-4003-bf5d-8ee409716ca6"
+  },
+  {
+   "external_id": "fcc1a920-0b82-426e-9fd6-3fb0a203f9d2",
+   "title": "Commercial Property Underwriting Leader (Director)",
+   "role_family": "exec",
+   "location": "New York City",
+   "posted_at": "2026-10-19T12:41:00.838000+00:00",
+   "url": "https://jobs.ashbyhq.com/shepherd/fcc1a920-0b82-426e-9fd6-3fb0a203f9d2"
   }
  ]
 }

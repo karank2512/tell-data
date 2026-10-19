@@ -3,8 +3,15 @@
   "name": "Reflect",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 6.9,
+  "score": 8.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Reflect Orbital purchases two Skyroot Aerospace launches - Evertiq",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGE3eTI5Z2xxY3F3UFlfcm9FWWpqekh3VDloNjBJWndtZ0ZyYWlCRm1iUEVVOXJYVkxyRnU1UnBzLUg3N1RqcmhaZGFuMWIxbmZ3bjV2Yy1vUml0cGl3NExHOFR6d25PNVhCcmRNTmpoY3k0NWx4VVBiemE5ZnBtWnJOTmhiVzhuajJEeERkQ1k2RU9kcktZR1ln?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

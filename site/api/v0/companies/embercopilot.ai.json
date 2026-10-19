@@ -3,8 +3,15 @@
   "name": "Ember",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 5.6,
+  "score": 7.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Ember AI Launches Revenue Integrity Index, Revealing 57% Reduction in Preventable Denials - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORVlBRF9fWGoxZ3VoSm5sNE4yQnF2eWpGM2JGLUJlTkpOUTg4MncxbEE4LTdMdHZCRFF6V3Jva0pTNnB1bzFCTjFfLXdia2hxZ0hNRUJ0ZHpxal9kcThBazRqTDlQTlRpTnIzdEdDai1IOC1rSmV1VTMxaHY1dlJiQzl0aV9vTWZrYXV2aWRVTFVJc3kxeFFCTzZqOHQ4UFBpQ1lqcTlnS0ktUjlET0dva2xKaDdBcUlGQjljaXFpem1Db3hHOUdXWDZWdUllQUtNTTlmWlA0ZUc4NVE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

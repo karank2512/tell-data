@@ -3,7 +3,7 @@
   "name": "Flip",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 10.6,
+  "score": 12.0,
   "contributions": [
     {
       "type": "leadership",
@@ -37,6 +37,13 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-15",
+      "summary": "VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3ROVVhxNEh1X0FGUzdIYmdwdDVNamRTYkdranQtNFl0dktoNlRGWG9zbUNJeC1MTEZHdURfcUU1YnJZWnpRWTNZRTQ0T09nbWhVTnRlTVViaXpCSnFCenFyZU9tXzhYVkowRk5FREp2WllBUmFEbzc5VnhYa2Z0c3hhM0RvS2piVUJOaEZGM1Fqd3ptcHpFRlRQNFNYb0t6bkE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
       "summary": "BBC ICECREAM x Reebok Board Flip “Pumpkin” Releases October 2026 - Sneaker Files",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54WG04cU9fM19OU3N6THhkLWVBQ01Kem05cmNESTIxTk42SEIzVG5IWGt5ZVJhZGM0YlF2bFdHeU1aRGpObFJiVDRmdnZLTG0tS2NMYXBWd1hxbVI5QWhZUEZaMnZaS2JWUENiOXNzLWI4aTFuVjhpVQ?oc=5"
     },
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

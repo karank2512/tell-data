@@ -3,8 +3,15 @@
   "name": "Stamp",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Canada Post unveils Diwali stamp celebrating the arrival of the Festival of Lights - PR Newswire Canada",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV05TNU9KNVpXNFJhdmJ1QkF5elFRS0k1X09xdG5tLTI2a3dVZWJKTEVPTy1pRm9wMGRqb1NGUnRjVWt4LU11NnF5RTROUVBPeWhxeUlETFk0VjhMcEUyRi14bl9JakxiMlRLdmYtQTd0UXB2UTVQRkNOakZoYkxsWjBqdUR5TUdKSDZzcU1IMjR0azREb3lXcGtXSUQwMDNaRjgxTUowdnVreDhhNW5LRWtxd213dVJhRXI0anFSczEwMFdsMG1GTDJCMllLNTNM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

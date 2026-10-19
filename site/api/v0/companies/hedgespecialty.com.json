@@ -3,8 +3,22 @@
   "name": "Hedge",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 4.2,
+  "score": 7.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-18",
+      "summary": "WisdomTree Launches 2 ETFs on the Texas Stock Exchange, Bringing Hedge Fund-Style Long/Short Strategies to Everyday Investors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS04wRTVieVExbmtGTnJEdFZQTk9DN3E4TldVVzgwT1BlSHgxYXFlS3B2alV2bURnZ3pQVDFGSWdxNlIyVExFenluRXZ3Z0JLNnhERF95NzVMQlVaX2d5T3ZXN2RaTEVtWWtERWtOajhRTVgxc3NVRF9BWm5YeTZ5a0M4R1o4T3pVb3doR3hTY2Iwa3RENDNZQTFZRmRBQjA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-18",
+      "summary": "WisdomTree Launches 2 ETFs on the Texas Stock Exchange, Bringing Hedge Fund-Style Long/Short Strategies to Everyday Investors - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaDBDR1FyaEs1OUNBU3dPVGlRSVVRY1djajJMeEY5RUsyQlppLW94ZEpDMElMdmo2czVaRmZhRTk0c1FqYlZNcmRYSmZsckRmM2ZtWHpYVjRsUl9KU1UtR2pzV3FMYXF4V0ZlV1NycERoRUx3NXg5NWdKdWxNVWpsZ3ZBdjktMEtBQ0phZDZmV0hieGJZZTNPOG9KTGpwdEhGZXBqVG5EVkR4djV3czRHcEd5Nzg0Y296U1F0b3FPMDNURU5kb3hjb0cteFlpS0JGeWVnTExMU0dBNzdYSXAxTWIzZnZSRTVFQmIwQ1YzcTdBdmlwZWtuU1VYRm4tQllhZ2c?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -27,13 +41,13 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXYtUjZVbzREV1N0UGNhZDhWM21sNFdQTmVMWWhCd0hvWTFuSnktQUhfX0NRV29rWW1weS1hTGpiVC02UlVZNnR6TnlKMUppSDMtdWVaZ3VfRElNR09QUEFkSklsNUFjOUdhaTBpSk4zQXVnZWc0UmNhWjN6UHpmZldoc1pBdlE0Z3NjM25oSW84SU1NVjhnMDJkRklmWTZs?oc=5"
     }
   ],
-  "open_postings": 0,
+  "open_postings": 16,
   "long_open_roles": 0,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:hedge",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

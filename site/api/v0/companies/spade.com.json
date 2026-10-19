@@ -3,8 +3,15 @@
   "name": "Spade",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "SingHealth Duke-NUS launches SPADE initiative to advance precision medicine - Labmate Online",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnhRSk1LZHJubTN5ZUNReVhGTDVQSWk1SFdYU1NLMFA5TXMzX09IblY5TTQ3Q3FVR3BwbmpQVUZPZ3RDX1p2R0UxaS1UeHhYWkRGVGR0WGR0aUtzdURHTVdwMHRFSU1CU3E1anNQdzBwRjIySlc5bHRxaW9kMlhpVERGVDJmbHVuNlpnenlFLXdOaVZFNzh1ZW5jSERjbmpzSWQ3eUVkTnB4NE9XVE1hdkZabVllcHpUanJlaHRneXlUZ0pBX2tQOHNwZU5nRWdkSzhBM3BETWVlT0dRQ3M2Mlh6ckFjWU91anZFQjNBY3VjMWQzVWtwSg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

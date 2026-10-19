@@ -1,0 +1,32 @@
+{
+  "domain": "weekday.works",
+  "name": "Weekday",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 2.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "SLIM CHICKENS LAUNCHES NEW £8.95 WEEKDAY LUNCH MEAL DEAL JUST IN TIME FOR HALF TERM! - Verge Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDhicXYxSkxhbmtHU2ZNR2hBWFBobWw4Y2VRNDlrelQ0VWYtc3hsck5QMEk1V1hoV29BMFRrV0pka20ycDdZcEJ3ejZYajUzNlNTSHRiYWRDMWlYTF9JUUlYbVRlVlFWZlRtSnhxOFNRQ0F3NUhheU1PN0NXcDZ3WmF0V1pzRVBHeTFoSTVaV2k5WHVIa3RCME50dUgtMk5TZ2dyeF9NaUVjMG1SUUFseA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-13",
+      "summary": "STARTRADER launches 48 new US stock CFDs and extends weekday trading hours - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDRhd3luQWlKZEUyakZoTTEzMTFPZGJ5RXpzUUJheENRN2xscTJOeWRvRG9VdUtCdzNGdTRDMEhnQ1Z6ZkNTWkt5VHk1Q1NHRWl4UjVLbDNndHhSYUFYR3lDM0ptZ2gyRmkyRXduMkc5VUsyRmc2alRhUnpscHRZVUVjdWtfQk9zeUE?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

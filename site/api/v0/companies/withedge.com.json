@@ -3,8 +3,15 @@
   "name": "Edge",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 12.0,
+  "score": 13.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-18",
+      "summary": "Google debuts $180 Fitbit Edge tracker in continued health push - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczA2eV9XbDBJU2l4OW9HM1hPaS0tMTZqUTVUdEZKaFk1QUNpT21LR2owR0NDOHBzdW5ZMnVrOWdfd2pjRUJ0c2g0enZvOS1NdTZVSXQxZnZWTEFFLTd5MWNUVHdxNTZpX2dzdUgwNTN6MG5PamNpUi1peENBOEplakhTN2s4dmJRSFFKazB5NURaaFZnWk1vU0pMTnVFZy16NDk0?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

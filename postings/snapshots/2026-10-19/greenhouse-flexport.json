@@ -3,7 +3,7 @@
  "identifier": "flexport",
  "domain": "flexport.com",
  "as_of": "2026-10-19",
- "last_polled_at": "2026-10-19T09:00:47.810410+00:00",
+ "last_polled_at": "2026-10-19T15:52:01.639394+00:00",
  "open_postings": [
   {
    "external_id": "5745289",
@@ -1583,7 +1583,7 @@
   },
   {
    "external_id": "8256564",
-   "title": "Software engineer II, Platform",
+   "title": "Software Engineer II, Platform",
    "role_family": "engineering",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2026-10-07T12:53:37+00:00",
@@ -1591,7 +1591,7 @@
   },
   {
    "external_id": "8256566",
-   "title": "Staff Engineer, Platform",
+   "title": "Staff Software Engineer, Platform",
    "role_family": "engineering",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2026-10-07T12:52:54+00:00",
@@ -1724,6 +1724,14 @@
    "location": "Los Angeles, California, United States",
    "posted_at": "2026-10-15T18:11:29+00:00",
    "url": "https://job-boards.greenhouse.io/flexport/jobs/8286860"
+  },
+  {
+   "external_id": "8300314",
+   "title": "Senior Global Operations Associate - Air freight",
+   "role_family": "gtm_ops",
+   "location": "Paris, France",
+   "posted_at": "2026-10-19T09:33:15+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8300314"
   }
  ]
 }

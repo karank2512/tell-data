@@ -3,8 +3,15 @@
   "name": "Resonance",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 6.4,
+  "score": 7.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-18",
+      "summary": "This Week’s Japanese Game Releases: Call of Duty: Modern Warfare 4, Final Fantasy Resonance, Nintendo Switch Sports Resort, Stupid Never Dies, more - Gematsu",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcUwwU2FNWkEtTk5XRHNTRncyVVcyWEthdms4YzhTcVQzWW5ZaUxqUlZ1dXMxOXZOSWZBT3djLXhhMEFrWW1yZEhxNnZiLTZrMjhxVkUyV3IyeF9uVk96MFZpaVNLSDN5MktHcDhHYWY5S1ExZE1YTDctbUN6VzFEVlBhX1NrWjE0VWdlU2xlb1c5MlVFNWFjTTNqOENJVGp4M2gyS3QxZWkySU8xNDl0LXE1bUFJQVlxWXFoNzVKbHdDVlc4RmticU82NlNDdE4zRk15dTFSYW9BX1NRMUtweVNxME85eDZYd205OXNTU2dIc2Vob3RaajFMNVNGQzdxSnc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

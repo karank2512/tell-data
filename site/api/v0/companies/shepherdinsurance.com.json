@@ -1,0 +1,43 @@
+{
+  "domain": "shepherdinsurance.com",
+  "name": "Shepherd",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 0.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "exec",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-19",
+      "summary": "3 new exec roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/shepherd",
+      "postings": [
+        {
+          "title": "Commercial Property Underwriting Leader (Director)",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/shepherd/fcc1a920-0b82-426e-9fd6-3fb0a203f9d2"
+        },
+        {
+          "title": "Commercial Casualty Underwriting Leader (Director)",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/shepherd/2f7bef48-cfa6-45c9-9c3b-9d4b2699b40e"
+        },
+        {
+          "title": "Head of Wholesale Underwriting",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/shepherd/00760149-40d9-4a31-a74d-b83e96dcb290"
+        }
+      ]
+    }
+  ],
+  "open_postings": 23,
+  "long_open_roles": 10,
+  "sources": {
+    "ats": "ashby:shepherd",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-19",
- "last_polled_at": "2026-10-19T09:00:47.810410+00:00",
+ "last_polled_at": "2026-10-19T15:52:01.639394+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -4652,6 +4652,14 @@
    "location": "Chicago, US",
    "posted_at": "2026-09-18T21:28:22+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8208521"
+  },
+  {
+   "external_id": "8209307",
+   "title": "Security Engineer, Bridge",
+   "role_family": "engineering",
+   "location": "Luxembourg",
+   "posted_at": "2026-10-19T15:36:24+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8209307"
   },
   {
    "external_id": "8209626",

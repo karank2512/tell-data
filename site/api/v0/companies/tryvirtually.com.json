@@ -3,7 +3,7 @@
   "name": "Virtually",
   "as_of": "2026-10-19",
   "profile": "default",
-  "score": 4.0,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-14",
       "summary": "Rio virtually unveils Jubilee monolith for 25th Dr T Ao Trophy in Mokokchung - Nagaland Tribune",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHBxYWhXT1BCaklHR3lCN3h6QjRpS1dobHBpa3B0VW1SWUxMbU9rVlc5OVoyamdTZ3NubXVCMk5VOXd3a1dxUW9Qa1NmaHlpdkFyckdsQTJjMUdlRW5ubUFxLTIyaWJUZzFDWE82N25SLVdmV1VoNHRZemUyOHBFdGVJX3hLVEcwQ1lXOU95T3FMZWZNRjFMNnZUMkhHX3JhTXY5T2VFdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-12",
+      "summary": "AP CM virtually launches ‘Venkatadri’ App for pilgrims visiting Tirumala - Hindudayashankar",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0Yxa2l5ZTFJUFJ4WE8xRVd6ZlBaYnBDT284MW1TbUsxTkR5Z0IzMVhFT1MyYnR0SVpmQWpfVkZ3cURLNFRaYkctakdsU1ViS0NQZUstTU9SSkpBUXNwY19IQ3VhbzI4ZmtsaWpqZC1RbHlJNHRieC1KRlloUGlMY3hiYWVmVjJTbGZ0MUxUZ1lIYzJSSWVsRnVJcmlpX2dJNVBlc2o3dWZVREdaT2k1Zw?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
   "why_not_higher": []
 }

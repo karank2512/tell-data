@@ -1,0 +1,68 @@
+{
+  "domain": "circuithub.com",
+  "name": "CircuitHub",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 2.4,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 2.4,
+      "occurred_at": "2026-10-19",
+      "summary": "8 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/circuithub",
+      "postings": [
+        {
+          "title": "Mechanical Build Engineer",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/circuithub/63e8b6b0-4b8f-4c07-af2d-250168819265"
+        },
+        {
+          "title": "Mechatronics Engineer",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/circuithub/0f464031-2c87-40bb-8a58-e986dea5060c"
+        },
+        {
+          "title": "Mechatronics Engineer",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/circuithub/2f1c5eaa-0be2-4bfc-bfd3-51c00b36e904"
+        },
+        {
+          "title": "Software Engineer, Product",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/circuithub/2a208d5b-c870-4398-9990-9c3986634890"
+        },
+        {
+          "title": "Software Engineer, Applied AI",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/circuithub/52a918be-07d1-4211-89ca-ed2d4b7a61c5"
+        },
+        {
+          "title": "Software Engineer, Front End & Design",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/circuithub/ea459f68-ffa5-43ba-a988-89ce823f4091"
+        },
+        {
+          "title": "Software Engineer, Computer Vision",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/circuithub/9f5af2f6-369d-4ebb-89ff-fe2f75e2cd14"
+        },
+        {
+          "title": "Software Engineer, Robotics",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/circuithub/e398bbfc-4286-466e-a621-235cdb60a0bd"
+        }
+      ]
+    }
+  ],
+  "open_postings": 16,
+  "long_open_roles": 7,
+  "sources": {
+    "ats": "ashby:circuithub",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}
