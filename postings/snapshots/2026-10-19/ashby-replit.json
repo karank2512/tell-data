@@ -1,0 +1,537 @@
+{
+ "vendor": "ashby",
+ "identifier": "replit",
+ "domain": "replit.com",
+ "as_of": "2026-10-19",
+ "last_polled_at": "2026-10-19T02:56:24.456193+00:00",
+ "open_postings": [
+  {
+   "external_id": "0170f630-f7c9-4471-8d2f-8c55fb184206",
+   "title": "Engineering Manager, Mobile",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-09T00:01:31.272000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/0170f630-f7c9-4471-8d2f-8c55fb184206"
+  },
+  {
+   "external_id": "06cbc016-f931-431a-92cf-29fa74eedbf1",
+   "title": "Enterprise Product Manager",
+   "role_family": "product_design",
+   "location": "Foster City, CA",
+   "posted_at": "2026-06-18T15:13:34.961000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/06cbc016-f931-431a-92cf-29fa74eedbf1"
+  },
+  {
+   "external_id": "0a94327b-52c0-41d1-931f-b2aca5e90c1f",
+   "title": "Premium Support Engineer (NYC, Weekend Shift)",
+   "role_family": "customer",
+   "location": "NYC (SoHo)",
+   "posted_at": "2026-09-09T16:15:13.588000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/0a94327b-52c0-41d1-931f-b2aca5e90c1f"
+  },
+  {
+   "external_id": "1015fa18-69d0-49e5-a785-afe5cbcc4760",
+   "title": "Engineering Manager, Cloud Infrastructure",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-24T19:20:52.112000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/1015fa18-69d0-49e5-a785-afe5cbcc4760"
+  },
+  {
+   "external_id": "1066b974-3cd8-42cf-a11c-a4217c06f70f",
+   "title": "Data Scientist, Growth",
+   "role_family": "ml_ai",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-13T22:07:13.122000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f"
+  },
+  {
+   "external_id": "10789e06-f7d1-4619-93aa-1879f84e948e",
+   "title": "Support Systems Lead (Foster City)",
+   "role_family": "customer",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-28T18:30:12.782000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/10789e06-f7d1-4619-93aa-1879f84e948e"
+  },
+  {
+   "external_id": "14b3aef3-f926-4db9-8c31-af8ba848fbd8",
+   "title": "Staff Software Engineer, Money",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2025-12-18T04:45:47.531000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/14b3aef3-f926-4db9-8c31-af8ba848fbd8"
+  },
+  {
+   "external_id": "1c53645d-ff76-4346-aa07-49c41594c8a3",
+   "title": "Executive Social Media Specialist (Contract)",
+   "role_family": "finance_ops",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-17T21:51:22.765000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/1c53645d-ff76-4346-aa07-49c41594c8a3"
+  },
+  {
+   "external_id": "226d0562-2420-4991-ac18-23c827ed119c",
+   "title": "Engineering Manager, Site Reliability Engineering",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-25T22:59:29.358000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/226d0562-2420-4991-ac18-23c827ed119c"
+  },
+  {
+   "external_id": "22e99380-e48c-4bc3-a870-721411b22957",
+   "title": "Staff Software Engineer, Agentic Commerce & Payments",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-21T13:26:05.965000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/22e99380-e48c-4bc3-a870-721411b22957"
+  },
+  {
+   "external_id": "234c9a82-2857-4691-af83-308100806df3",
+   "title": "Senior/Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "Foster City, CA",
+   "posted_at": "2025-11-11T00:28:14.432000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/234c9a82-2857-4691-af83-308100806df3"
+  },
+  {
+   "external_id": "2b5f50b9-0c83-46de-b795-aa71a50f85ae",
+   "title": "Mid-Market Account Manager",
+   "role_family": "sales",
+   "location": "NYC (SoHo)",
+   "posted_at": "2026-06-05T22:11:09.745000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/2b5f50b9-0c83-46de-b795-aa71a50f85ae"
+  },
+  {
+   "external_id": "2c147ccb-2557-40f8-aab9-64422cef220c",
+   "title": "Cohort 0",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-05T00:36:06.848000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c"
+  },
+  {
+   "external_id": "2f1de5f1-48c2-4104-a697-a51fe1620508",
+   "title": "Design Engineer",
+   "role_family": "product_design",
+   "location": "Foster City, CA",
+   "posted_at": "2025-11-12T19:20:07.114000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/2f1de5f1-48c2-4104-a697-a51fe1620508"
+  },
+  {
+   "external_id": "2fa2d079-96a5-4d51-8718-04134ed39032",
+   "title": "Product Engineer, New Products",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-03T19:11:37.140000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/2fa2d079-96a5-4d51-8718-04134ed39032"
+  },
+  {
+   "external_id": "37f81c18-c742-4f7d-bf81-34c3f5142973",
+   "title": "Software Engineer, Growth Infrastructure",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-01-29T16:17:05.937000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/37f81c18-c742-4f7d-bf81-34c3f5142973"
+  },
+  {
+   "external_id": "43bd4e63-22c3-4b80-abd2-67eaf2c89790",
+   "title": "Staff Software Engineer, Agent Platform",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-04-14T22:36:51.989000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/43bd4e63-22c3-4b80-abd2-67eaf2c89790"
+  },
+  {
+   "external_id": "447a6e11-b06b-4cc5-9203-cd55883f2af4",
+   "title": "Software Engineer, Growth",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-01-06T02:56:09.713000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/447a6e11-b06b-4cc5-9203-cd55883f2af4"
+  },
+  {
+   "external_id": "47235851-fadd-4bd7-9cc6-61f545059ac1",
+   "title": "Staff Software Engineer, Product",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2025-12-30T17:53:13.133000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/47235851-fadd-4bd7-9cc6-61f545059ac1"
+  },
+  {
+   "external_id": "4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f",
+   "title": "Security Engineer - Vuln Management (Infra)",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-05-26T23:30:10.621000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f"
+  },
+  {
+   "external_id": "4df82fb0-0bcb-4034-89ce-09e679b00fe7",
+   "title": "Staff Software Engineer, Agentic Ads",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-25T21:51:41.139000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/4df82fb0-0bcb-4034-89ce-09e679b00fe7"
+  },
+  {
+   "external_id": "4e64e46f-f69d-4454-89b6-bd27302a464d",
+   "title": "Support Engineer I (NYC, Weekend Shift)",
+   "role_family": "customer",
+   "location": "NYC (SoHo)",
+   "posted_at": "2026-09-23T17:26:02.991000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d"
+  },
+  {
+   "external_id": "56d7dc53-f4ba-4147-9aaa-0fd4af7cbb4f",
+   "title": "Product Partnerships Manager, Consumer/SMB",
+   "role_family": "other",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-09T20:39:53.341000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/56d7dc53-f4ba-4147-9aaa-0fd4af7cbb4f"
+  },
+  {
+   "external_id": "61cfbcb7-cd1e-49ab-82a1-e93c3962e343",
+   "title": "Staff Software Engineer, Enterprise Platform",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-03-24T16:41:10.480000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/61cfbcb7-cd1e-49ab-82a1-e93c3962e343"
+  },
+  {
+   "external_id": "6481ec1e-527c-4c1f-a041-2fb5021e7bd5",
+   "title": "Staff Infrastructure Engineer",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-05-29T19:00:15.475000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/6481ec1e-527c-4c1f-a041-2fb5021e7bd5"
+  },
+  {
+   "external_id": "659a8e1e-69ba-44c0-a632-96665051a3e8",
+   "title": "Senior Software Engineer, Compute Platform",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-25T23:02:42.491000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/659a8e1e-69ba-44c0-a632-96665051a3e8"
+  },
+  {
+   "external_id": "6b9b25d2-cf44-446e-8e1f-dacb5ade7b6c",
+   "title": "Director of Compensation Strategy",
+   "role_family": "exec",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-24T20:12:53.358000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/6b9b25d2-cf44-446e-8e1f-dacb5ade7b6c"
+  },
+  {
+   "external_id": "72866fb1-d377-4d3e-9851-f3d705449190",
+   "title": "AEO/GEO/SEO Lead",
+   "role_family": "marketing",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-20T23:11:23.721000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/72866fb1-d377-4d3e-9851-f3d705449190"
+  },
+  {
+   "external_id": "790afe73-238a-489c-875e-ac4e15780112",
+   "title": "Staff Software Engineer, Identity & Authorization",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-11T16:14:44.231000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/790afe73-238a-489c-875e-ac4e15780112"
+  },
+  {
+   "external_id": "7b4bc2fe-5860-4f56-8746-aabb852cf0e1",
+   "title": "Software Engineer, Enterprise Platform",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-02-04T03:16:09.341000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/7b4bc2fe-5860-4f56-8746-aabb852cf0e1"
+  },
+  {
+   "external_id": "7c3c9d29-cec2-4367-8564-eadaed165aea",
+   "title": "Software Engineering Intern – Winter 2027",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-08T17:34:51.757000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea"
+  },
+  {
+   "external_id": "7e48291b-6188-46d7-bc21-1d66a512ffcb",
+   "title": "Engineering Manager, UX",
+   "role_family": "product_design",
+   "location": "Foster City, CA",
+   "posted_at": "2026-02-22T06:53:27.211000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/7e48291b-6188-46d7-bc21-1d66a512ffcb"
+  },
+  {
+   "external_id": "7fa1826e-d7fd-4837-8485-97de895ba7fc",
+   "title": "Senior Software Engineer, Replit Cloud",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-01-28T03:09:30.877000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/7fa1826e-d7fd-4837-8485-97de895ba7fc"
+  },
+  {
+   "external_id": "8027a0f4-4837-4e49-a4dd-8ad1bde23277",
+   "title": "Cloud Security Lead",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-06T19:34:45.502000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/8027a0f4-4837-4e49-a4dd-8ad1bde23277"
+  },
+  {
+   "external_id": "88119b4c-3782-455b-a6fa-b002210c714b",
+   "title": "Strategic Finance",
+   "role_family": "finance_ops",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-06T21:20:07.696000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/88119b4c-3782-455b-a6fa-b002210c714b"
+  },
+  {
+   "external_id": "8c3edc8e-3cd2-45eb-b506-cd0eb33e5bd0",
+   "title": "Premium Support Engineer (London)",
+   "role_family": "customer",
+   "location": "London Office",
+   "posted_at": "2026-04-08T21:15:11.279000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/8c3edc8e-3cd2-45eb-b506-cd0eb33e5bd0"
+  },
+  {
+   "external_id": "8fbbe594-596a-4a4f-844b-dc00111e717f",
+   "title": "Software Engineer, Mobile",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-04-10T03:06:22.216000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/8fbbe594-596a-4a4f-844b-dc00111e717f"
+  },
+  {
+   "external_id": "9394684e-814c-4a3c-b5ed-19612e4331bc",
+   "title": "Head of Marketing Strategy & Operations",
+   "role_family": "marketing",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-01T17:44:18.975000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/9394684e-814c-4a3c-b5ed-19612e4331bc"
+  },
+  {
+   "external_id": "9398cc6a-8e30-4bfe-a6c3-59e8b384a848",
+   "title": "Brand Designer",
+   "role_family": "marketing",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-06T16:33:38.602000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/9398cc6a-8e30-4bfe-a6c3-59e8b384a848"
+  },
+  {
+   "external_id": "951e0ebb-a957-45fa-8763-d56ba46750b4",
+   "title": "Support Engineer I (FC, Weekend Shift)",
+   "role_family": "customer",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-23T17:26:00.549000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/951e0ebb-a957-45fa-8763-d56ba46750b4"
+  },
+  {
+   "external_id": "999e1432-3edd-453b-b598-ab4b26e1bc5c",
+   "title": "Japan Growth Lead",
+   "role_family": "other",
+   "location": "Remote - Japan",
+   "posted_at": "2026-05-27T16:24:28.711000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/999e1432-3edd-453b-b598-ab4b26e1bc5c"
+  },
+  {
+   "external_id": "9a56d0ac-db44-4dc1-b960-2364557bf4c8",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-24T23:43:30.368000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/9a56d0ac-db44-4dc1-b960-2364557bf4c8"
+  },
+  {
+   "external_id": "a45ca7ba-21f9-464d-8c00-eb5361b3c9f4",
+   "title": "Premium Support Engineer (Foster City, Weekend Shift)",
+   "role_family": "customer",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-09T16:15:10.814000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/a45ca7ba-21f9-464d-8c00-eb5361b3c9f4"
+  },
+  {
+   "external_id": "a4fe06bf-bf6d-4a51-bb36-270cd3484f00",
+   "title": "Sr. Manager, Business Development",
+   "role_family": "other",
+   "location": "Salt Lake City, UT",
+   "posted_at": "2026-07-30T23:35:00.689000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/a4fe06bf-bf6d-4a51-bb36-270cd3484f00"
+  },
+  {
+   "external_id": "b04f15b6-1757-4f36-918e-9e0f671723b5",
+   "title": "Brand Copy Lead",
+   "role_family": "marketing",
+   "location": "Foster City, CA",
+   "posted_at": "2026-07-09T01:21:58.982000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/b04f15b6-1757-4f36-918e-9e0f671723b5"
+  },
+  {
+   "external_id": "b386f0ef-41e1-48e4-abe3-d35ce627de95",
+   "title": "Director of Product Design",
+   "role_family": "product_design",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-25T20:12:57.839000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/b386f0ef-41e1-48e4-abe3-d35ce627de95"
+  },
+  {
+   "external_id": "b68de733-07d9-4e57-82c5-78c6bd454044",
+   "title": "Head of Corporate Development",
+   "role_family": "exec",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-30T17:08:04.654000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/b68de733-07d9-4e57-82c5-78c6bd454044"
+  },
+  {
+   "external_id": "b7f12834-78d2-424d-bf83-0c942815fbf7",
+   "title": "Software Engineer, Enterprise",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-01-24T18:52:19.232000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7"
+  },
+  {
+   "external_id": "bcfd5249-9b34-414f-a6ec-677ae279dffe",
+   "title": "Premium Support Engineer (Tokyo)",
+   "role_family": "customer",
+   "location": "Remote - Japan",
+   "posted_at": "2026-08-12T17:40:38.255000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/bcfd5249-9b34-414f-a6ec-677ae279dffe"
+  },
+  {
+   "external_id": "bcfdb564-48c9-42c9-ab5b-c901b6babb44",
+   "title": "Account Executive (Japan)",
+   "role_family": "sales",
+   "location": "Remote - Japan",
+   "posted_at": "2026-07-01T22:01:20.292000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/bcfdb564-48c9-42c9-ab5b-c901b6babb44"
+  },
+  {
+   "external_id": "bd72bebd-0bcb-4050-abdd-1f978f507109",
+   "title": "Support Specialist",
+   "role_family": "customer",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-13T21:56:04.793000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/bd72bebd-0bcb-4050-abdd-1f978f507109"
+  },
+  {
+   "external_id": "bda076c2-3eea-4c67-b288-7c7e2a23db4c",
+   "title": "Premium Support Engineer (Singapore, Weekend)",
+   "role_family": "customer",
+   "location": "Remote - Singapore",
+   "posted_at": "2026-09-08T22:42:45.508000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/bda076c2-3eea-4c67-b288-7c7e2a23db4c"
+  },
+  {
+   "external_id": "bfb473fb-6db1-469f-873a-7a3c1d127d21",
+   "title": "Legal Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Foster City, CA",
+   "posted_at": "2026-08-31T22:20:25.705000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/bfb473fb-6db1-469f-873a-7a3c1d127d21"
+  },
+  {
+   "external_id": "c05749db-f413-4091-a95c-c8e0aa1b5630",
+   "title": "Data Scientist, Enterprise",
+   "role_family": "ml_ai",
+   "location": "Foster City, CA",
+   "posted_at": "2025-11-14T21:27:05.221000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/c05749db-f413-4091-a95c-c8e0aa1b5630"
+  },
+  {
+   "external_id": "c1a83620-c70f-471b-bd52-9dd19f1a7c09",
+   "title": "Support Systems Lead (NYC)",
+   "role_family": "customer",
+   "location": "NYC (SoHo)",
+   "posted_at": "2026-08-28T18:37:38.751000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/c1a83620-c70f-471b-bd52-9dd19f1a7c09"
+  },
+  {
+   "external_id": "d02e678d-866b-4349-acb8-6a41e1703f81",
+   "title": "Commercial Counsel",
+   "role_family": "finance_ops",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-17T18:36:52.574000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/d02e678d-866b-4349-acb8-6a41e1703f81"
+  },
+  {
+   "external_id": "d0e0dd7d-59d1-4de8-afbb-54aea680b51d",
+   "title": "Software Engineer, Developer Experience",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-04-22T21:49:05.561000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/d0e0dd7d-59d1-4de8-afbb-54aea680b51d"
+  },
+  {
+   "external_id": "de941de4-b0f2-4de8-a018-af667c67f33e",
+   "title": "Security Engineer - Incident Response",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-10-05T20:05:29.962000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/de941de4-b0f2-4de8-a018-af667c67f33e"
+  },
+  {
+   "external_id": "df65b94a-2273-4e65-aead-fac409839e30",
+   "title": "Premium Support Engineer (London, Weekend)",
+   "role_family": "customer",
+   "location": "London Office",
+   "posted_at": "2026-09-08T22:42:56.267000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/df65b94a-2273-4e65-aead-fac409839e30"
+  },
+  {
+   "external_id": "df7b6d30-9da1-4ace-8121-17c2aa55aa6f",
+   "title": "AI Agent Security Architect",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-01T04:28:54.747000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/df7b6d30-9da1-4ace-8121-17c2aa55aa6f"
+  },
+  {
+   "external_id": "e658545c-ee42-48b5-8f39-c43991b02164",
+   "title": "Learning Experiences Creator",
+   "role_family": "gtm_ops",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-02T04:14:53.319000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/e658545c-ee42-48b5-8f39-c43991b02164"
+  },
+  {
+   "external_id": "e673256c-7701-4b97-b7f4-800b68f03f84",
+   "title": "Partnerships Lead, GSIs",
+   "role_family": "other",
+   "location": "Foster City, CA",
+   "posted_at": "2026-04-21T00:53:22.477000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/e673256c-7701-4b97-b7f4-800b68f03f84"
+  },
+  {
+   "external_id": "ecebead2-74fc-4d00-98c5-6f67266cbab5",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "NYC (SoHo)",
+   "posted_at": "2026-01-08T23:54:59.013000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/ecebead2-74fc-4d00-98c5-6f67266cbab5"
+  },
+  {
+   "external_id": "f2f56292-890e-498c-844c-07f2bea8ea7a",
+   "title": "Senior Software Engineer, Growth Enablement",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-09-08T14:29:48.559000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/f2f56292-890e-498c-844c-07f2bea8ea7a"
+  },
+  {
+   "external_id": "f98605a1-36d2-4b2f-b9be-f66064a02645",
+   "title": "Staff Software Engineer, Replit Cloud",
+   "role_family": "engineering",
+   "location": "Foster City, CA",
+   "posted_at": "2026-01-27T23:45:56.871000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/f98605a1-36d2-4b2f-b9be-f66064a02645"
+  },
+  {
+   "external_id": "fe171a6b-ebbb-4ecb-bc74-01b2131bc0c6",
+   "title": "Sales Leader (New York)",
+   "role_family": "other",
+   "location": "NYC (SoHo)",
+   "posted_at": "2026-08-14T21:52:45.811000+00:00",
+   "url": "https://jobs.ashbyhq.com/replit/fe171a6b-ebbb-4ecb-bc74-01b2131bc0c6"
+  }
+ ]
+}

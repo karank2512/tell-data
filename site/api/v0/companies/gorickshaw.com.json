@@ -1,0 +1,25 @@
+{
+  "domain": "gorickshaw.com",
+  "name": "Rickshaw",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Delhi rolls out e-rickshaw safety draft capping passengers at 4 - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWdiV2dhRUtMbE1SSjZXRkZtTHMtYWR5TC10b0RDRWpZV3BVQ3ZSQnhQZ1RwNlNnTWpWYUZ6NEpLWWJJRm9LWV9IdC0zaEJJUGVEYldxOVI2OG5POXdKajM0WmxRWlNQakR4Nndaa185Q3JSVmNmMGU0cTNtY0RLTUEzOXhlcGxUSk9LUDBQWlBqQW83MTYzRFhmVGcwR1p4THMteXFUT0NxeEVH?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

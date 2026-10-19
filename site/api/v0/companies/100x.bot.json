@@ -1,13 +1,20 @@
 {
   "domain": "100x.bot",
   "name": "100x",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 6.8,
+  "score": 8.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Anchor Launches Action Index, Cutting Computer-Use Agent Token Costs By 100X - TechRound",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnR0UHF1UUhWOHh3X0JuZU8wQXdYcE8xRU5jZXRCZWdJd2FiM1RDcS1neTZvV1BDNFcxa3ZXZmdWdTFrWlNySmxmbThIa184Y3cySjlIUExQMjNNaVZ5V3BnWk5OOE5TN2RITXJ2OUZDd284a0RCcThUTS0yMmZoQncyeU5kbGwyd1BqQUUyM21JMEpMVmluMzhCcUpvWTdacWk0S0dhZUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Anchor Launches Action Index, Cutting Computer-Use Agent Token Costs By 100X - TechRound",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tRVNaT21nMGxuWDRSMXh1ekFSQklTTTcwb2UtUmNjeDU0VG1aR0ZlRnlrMHhobnhfbjMwY2QwM2dUeHV2LWN2U0pZcVM5SnZqUzVvRkZPWElnVHFT?oc=5"

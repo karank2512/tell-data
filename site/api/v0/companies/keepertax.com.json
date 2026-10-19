@@ -1,9 +1,9 @@
 {
   "domain": "keepertax.com",
   "name": "Keeper",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-16",
       "summary": "Keeper launches Freshservice workflow for access requests - SecurityBrief Asia",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUJFa0FWRExFang3czE5NHZTc0lLano0LXM3aUNDNnBFWGl2YXY0T0ZLS25GR2tQcFlCcWZ4LTgzQjVKLXdDZlByVVM1d0ttN29aRThnRWxGbzdaRlhhMmVnQ0xpN3pzWTlZMERPOXc1ZmdpSExBdHAxX2xOajdnblJjSkZyejNKU1lscGRIRzFFdFFK?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Keeper launches Freshservice workflow for access requests - SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnhqWU9aRTdNNmJRTWRXQ3g3NHI5S295cXdxeWc2NnRBUnE2SkJwVEZpZkdrMEJmTDRaRnZENTdZa3RkazZ6TVp4RHdERFJudEVHa2FldXZnZnZrVjAxNURramI3N2hMa2pOMDNVNFUwbF81eVJyb0lUT2NpY3o5RDcxWTM5UHQ5THlFSy16VndKTTRVbXRr?oc=5"
     }
   ],
   "open_postings": 0,

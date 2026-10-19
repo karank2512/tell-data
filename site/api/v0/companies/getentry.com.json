@@ -1,10 +1,17 @@
 {
   "domain": "getentry.com",
   "name": "Entry",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 2.4,
+  "score": 3.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-18",
+      "summary": "Atomic Launches New Easy-Entry, High-Performance Ski Boot ‘Nexus’ - SnowBrains",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYlliV0lFTVQzelVLdlpxMWVyT2gycjZYYnFFNDhfTE9JY0VQVlY4ck8zMGRrMm1LdWxnRmZEZmdBdWZqZHdBVmtTWXZaOG5zdkxac0FJNkVRMGxrX1Vtcjk3VGVXRzFxMnJ4d2pDMUg4VzktTGlVdzlNUGthRkJmajRLR21TUDZ6NG0xUWRMN2FaelVJ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

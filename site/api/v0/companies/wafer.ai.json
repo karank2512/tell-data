@@ -1,7 +1,7 @@
 {
   "domain": "wafer.ai",
   "name": "Wafer",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
   "score": 2.8,
   "contributions": [
@@ -20,10 +20,10 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FWamhELWhhem1aZXFhSDZvZVE0V3ViWDFkdEhNcUZtQzk2Q1ZqT1oxYU9qMFZZUXF1UjZWRjd6SHNIcUxXVkNIRmoxSFY4a3ZOWldDaVRCQVg3anV6WTgtTU9neldxZlc3Rm83Z1UyejNCVVJraDNpSVJHckRPOWJETFBKMUgzczNRZDhqcXhHaVBDc0FESjZzbExsWGt5dnc?oc=5"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 1,
+  "long_open_roles": 1,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:wafer",
     "edgar_cik": null,
     "news": true
   },

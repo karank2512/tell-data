@@ -1,9 +1,9 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 10.6,
+  "score": 10.4,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-08-26",
       "summary": "Introducing Basedash for Grok Bot",
       "url": "https://www.basedash.com/blog/introducing-basedash-for-grok-bot/"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-15",
       "summary": "Introducing Tasks: your operations, on autopilot",
       "url": "https://www.basedash.com/blog/introducing-basedash-tasks/"
@@ -140,7 +140,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.1,
+      "contribution": 0.2,
       "occurred_at": "2026-05-21",
       "summary": "Introducing Basedash Skills",
       "url": "https://www.basedash.com/blog/introducing-basedash-skills/"
@@ -165,13 +165,6 @@
       "occurred_at": "2026-04-30",
       "summary": "Introducing the Basedash Dashboard Agent",
       "url": "https://www.basedash.com/blog/introducing-basedash-dashboard-agent/"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.1,
-      "occurred_at": "2026-04-22",
-      "summary": "Introducing Basedash Automations",
-      "url": "https://www.basedash.com/blog/introducing-basedash-automations/"
     }
   ],
   "open_postings": 0,
@@ -183,6 +176,12 @@
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
   "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-19",
+      "url": "https://www.basedash.com/blog/introducing-basedash-automations/",
+      "summary": "Introducing Basedash Automations"
+    },
     {
       "type": "launch",
       "decayed_at": "2026-09-21",

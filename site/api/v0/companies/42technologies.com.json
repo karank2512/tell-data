@@ -1,0 +1,25 @@
+{
+  "domain": "42technologies.com",
+  "name": "42",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Housing Lottery Launches for 42-78 65th Place in Woodside, Queens - New York YIMBY",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWotRzNMc3czRS14cUpoNVd1aXdjNFJRVGNrUWlYbl9XUzQzbDZUbXdoa2VWWG9qdnVRMXRwRGNqZGxfd3hBdGd2M0RmSHRyT3V6aWN4aUlWdW0xN3pNbG02Y3J0QnJxNUJkVlp3M2RTWUVRR0p5T0o3OE9QS2FUOVhCd3dwemF6VTZqSHNxNXB3WU8yRU9JTVZUQ0xJMjNvNHhSWQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

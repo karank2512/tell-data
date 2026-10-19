@@ -1,20 +1,20 @@
 {
   "domain": "rangerx.ai",
   "name": "Ranger RFX",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 16.6,
+  "score": 16.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.5,
+      "contribution": 16.3,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $1,000,000 offering, $1,000,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2127868/000212786826000002/"
     },
     {
       "type": "launch",
-      "contribution": 0.1,
+      "contribution": 0.2,
       "occurred_at": "2026-05-14",
       "summary": "Introducing Ranger: An Agentic Platform Transforming Business Operations for Industrial Engineering",
       "url": "https://www.rangerx.ai/blog/ranger-emerges-from-stealth-8-4m-seed"

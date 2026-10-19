@@ -1,9 +1,9 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 7.9,
+  "score": 7.8,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-05-13",
       "summary": "Introducing Benchling Model Hub: The infrastructure layer for scientific AI",
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
   "open_postings": 60,
-  "long_open_roles": 10,
+  "long_open_roles": 11,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,

@@ -1,7 +1,7 @@
 {
   "domain": "pave.com",
   "name": "Pave",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
   "score": 5.5,
   "contributions": [
@@ -35,7 +35,7 @@
     }
   ],
   "open_postings": 18,
-  "long_open_roles": 6,
+  "long_open_roles": 7,
   "sources": {
     "ats": "greenhouse:paveakatroveinformationtechnologies",
     "edgar_cik": null,

@@ -1,9 +1,9 @@
 {
   "domain": "apollographql.com",
   "name": "Apollo",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 16.7,
+  "score": 16.5,
   "contributions": [
     {
       "type": "leadership",
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-07",
       "summary": "Introducing GraphOS Factory",
       "url": "https://www.apollographql.com/blog/introducing-graphos-factory"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Apollo’s Runtime Testing Framework",
       "url": "https://www.apollographql.com/blog/apollos-runtime-testing-framework"

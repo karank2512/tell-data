@@ -1,0 +1,39 @@
+{
+  "domain": "bun.sh",
+  "name": "Bun",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 4.2,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Starbucks Introduces Pecan Sticky Bun Latte and Pink Protein Drink: Get the Details - People.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRHc3UjRYVFE5aHBJX1RWSjA5UTVCcGhyWkpfWkRfNThNdnZMVHpkMWtrU05VYzZiaWJyX2RkZU5VTXZhbmx6X3oxZWdWRWI0ZmxKUjJRa09OUWwtUllZTkxrdnRuUWNoMlMyaE1fOVI4cmZ4MVlyN2dibkNWYm1XSE9KTnZObXVMTnRmOHFiQWpfandYeWZxNTJB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Starbucks Introduces Pecan Sticky Bun Latte and Pink Protein Drink: Get the Details - AOL.ca",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVdxcXEwUlhjYXQwXy1GZmRCRno3aHhrV0l4MzRYOTd5cXJhdmZEV2VrTDk2UFl1OVR4RVZWY19EdWEyUFZQMkZyYzN1ZHNqcnpvb24wQUZVb2ZWNVgzV2ZKWUhwMmg5M1VqNHlyNm5kdjIzY0pubXVfZENDYk5TREtIN1FScU0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Starbucks Launches Pink Protein Drink and Pecan Sticky Bun Latte for a Limited Time - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckgwcXE3aXc2Ulh0eE5oQWVvLUhDbzhMUGZSb1ZaTy1sa0VSNno2UHcwYzJ1SjM3SDlBa3BSazMxaW5GRGZwazdpbDl4aHVJWEd3WUExWWZlZFNhellkRlFBbURqemtHYW55RnBES3ZuRXM3S0hYVXhabUhWTVFUemVqMW5uSTRW?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

@@ -1,0 +1,25 @@
+{
+  "domain": "supernova.io",
+  "name": "Supernova",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 0.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-09-01",
+      "summary": "Introducing Supernova Editor MCP",
+      "url": "https://www.supernova.io/blog/introducing-supernova-editor-mcp"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

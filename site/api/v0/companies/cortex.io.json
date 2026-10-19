@@ -1,9 +1,9 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,13 +14,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Pervaziv AI Launches Cortex Host Protocol, Unifying Six AI Providers in One Enterprise Experience - PR Underground",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZm52OWVpSndSd0d0blN4RERvSmhWd1JFVDluSk1SWnlJc0IyWE1JNmFhQkgwWmJrS3hlQ1hrQ3o2SDBrLTR6SzdGYnczT2FJSmI3YWFSaTM1OXZjejBnT1VibXlJem0wdFpxSnpBWllCeURTdDBQYmh1cmJJNm93T0w3SGVSbUJ2cWNzdmxPX191aGJXVzBXOHlQeTU3bGE0NlpXS1JpcjZ0dXBlV09WSl94Yk5UTjk3VFN4QnJWZkpWSGl2Sl82cUpXQTk?oc=5"
     }
   ],
-  "open_postings": 5,
+  "open_postings": 7,
   "long_open_roles": 1,
   "sources": {
     "ats": "greenhouse:cortex",

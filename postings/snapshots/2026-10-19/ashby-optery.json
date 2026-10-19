@@ -1,0 +1,33 @@
+{
+ "vendor": "ashby",
+ "identifier": "optery",
+ "domain": "optery.com",
+ "as_of": "2026-10-19",
+ "last_polled_at": "2026-10-19T02:56:24.456193+00:00",
+ "open_postings": [
+  {
+   "external_id": "1337d802-8177-4cea-985e-bdaac89e39e1",
+   "title": "General Counsel",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-17T17:45:00.557000+00:00",
+   "url": "https://jobs.ashbyhq.com/optery/1337d802-8177-4cea-985e-bdaac89e39e1"
+  },
+  {
+   "external_id": "d721388b-ff23-4606-8638-54704e125de4",
+   "title": "Senior Demand Generation Manager",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-10-15T19:58:19.651000+00:00",
+   "url": "https://jobs.ashbyhq.com/optery/d721388b-ff23-4606-8638-54704e125de4"
+  },
+  {
+   "external_id": "d87200e8-2ec1-4bdb-8b17-f64453cb3684",
+   "title": "Senior Backend Engineer (LATAM)",
+   "role_family": "engineering",
+   "location": "Mexico",
+   "posted_at": "2026-09-29T17:37:32.323000+00:00",
+   "url": "https://jobs.ashbyhq.com/optery/d87200e8-2ec1-4bdb-8b17-f64453cb3684"
+  }
+ ]
+}

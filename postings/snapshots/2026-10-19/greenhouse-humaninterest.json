@@ -1,0 +1,585 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "humaninterest",
+ "domain": "humaninterest.com",
+ "as_of": "2026-10-19",
+ "last_polled_at": "2026-10-19T02:56:23.761890+00:00",
+ "open_postings": [
+  {
+   "external_id": "7751372",
+   "title": "Partner Account Manager - Manhattan",
+   "role_family": "sales",
+   "location": "Manhattan, New York, Remote",
+   "posted_at": "2026-03-26T17:20:06+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/7751372"
+  },
+  {
+   "external_id": "7855995",
+   "title": "Partner Account Manager - Arkansas",
+   "role_family": "sales",
+   "location": "Little Rock, Arkansas",
+   "posted_at": "2026-04-27T15:36:10+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/7855995"
+  },
+  {
+   "external_id": "7856011",
+   "title": "Partner Account Manager - Memphis",
+   "role_family": "sales",
+   "location": "Memphis, Tennessee",
+   "posted_at": "2026-04-27T15:53:13+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/7856011"
+  },
+  {
+   "external_id": "7859659",
+   "title": "Account Executive - South (CST or EST Timezone)",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-04-28T16:46:28+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/7859659"
+  },
+  {
+   "external_id": "7927646",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "United States, Remote",
+   "posted_at": "2026-08-14T03:49:36+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/7927646"
+  },
+  {
+   "external_id": "7984122",
+   "title": "Partner Account Manager - Greenville, South Carolina",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-06-08T06:13:11+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/7984122"
+  },
+  {
+   "external_id": "8037717",
+   "title": "Partner Account Manager - Indianapolis",
+   "role_family": "sales",
+   "location": "Indianapolis, Indiana, United States",
+   "posted_at": "2026-06-30T18:38:53+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8037717"
+  },
+  {
+   "external_id": "8037721",
+   "title": "Account Executive - Great Plains",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-06-30T22:28:10+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8037721"
+  },
+  {
+   "external_id": "8039836",
+   "title": "Customer Success Support Associate I",
+   "role_family": "customer",
+   "location": "Lindon, Utah",
+   "posted_at": "2026-07-01T21:01:33+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8039836"
+  },
+  {
+   "external_id": "8065731",
+   "title": "Sr Product Manager",
+   "role_family": "product_design",
+   "location": "United States, Remote",
+   "posted_at": "2026-07-21T15:16:05+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8065731"
+  },
+  {
+   "external_id": "8083755",
+   "title": "Manager, Client Relationship Management",
+   "role_family": "customer",
+   "location": "United States, Remote",
+   "posted_at": "2026-07-24T20:58:59+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8083755"
+  },
+  {
+   "external_id": "8089509",
+   "title": "Senior Financial Analyst, GTM",
+   "role_family": "other",
+   "location": "United States, Remote",
+   "posted_at": "2026-07-27T23:05:53+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8089509"
+  },
+  {
+   "external_id": "8115096",
+   "title": "Dedicated Sales Activation Specialist",
+   "role_family": "other",
+   "location": "United States, Remote",
+   "posted_at": "2026-08-10T15:26:21+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8115096"
+  },
+  {
+   "external_id": "8127060",
+   "title": "Associate Director of Advisor Sales",
+   "role_family": "exec",
+   "location": "United States, Remote",
+   "posted_at": "2026-08-13T22:15:21+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8127060"
+  },
+  {
+   "external_id": "8147547",
+   "title": "Commissions Systems Analyst",
+   "role_family": "other",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-15T20:17:37+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8147547"
+  },
+  {
+   "external_id": "8165297",
+   "title": "Partner Account Manager- West Texas",
+   "role_family": "sales",
+   "location": "Midland, Texas",
+   "posted_at": "2026-09-01T01:35:40+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165297"
+  },
+  {
+   "external_id": "8165299",
+   "title": "Partner Account Manager - Dallas - Fort Worth",
+   "role_family": "sales",
+   "location": "Dallas, Texas",
+   "posted_at": "2026-09-01T21:34:00+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165299"
+  },
+  {
+   "external_id": "8165303",
+   "title": "Partner Account Manager - Charleston",
+   "role_family": "sales",
+   "location": "Charleston, SC Remote",
+   "posted_at": "2026-09-02T16:22:09+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165303"
+  },
+  {
+   "external_id": "8165305",
+   "title": "Partner Account Manager - Atlanta",
+   "role_family": "sales",
+   "location": "Atlanta, GA Remote",
+   "posted_at": "2026-09-02T15:06:02+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165305"
+  },
+  {
+   "external_id": "8165307",
+   "title": "Partner Account Manager - El Paso",
+   "role_family": "sales",
+   "location": "El Paso, Texas",
+   "posted_at": "2026-08-31T21:38:29+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165307"
+  },
+  {
+   "external_id": "8165309",
+   "title": "Partner Account Manager - North Virginia",
+   "role_family": "sales",
+   "location": "Charlottesville, Virginia",
+   "posted_at": "2026-09-01T21:25:37+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165309"
+  },
+  {
+   "external_id": "8165311",
+   "title": "Partner Account Manager - Richmond Virginia",
+   "role_family": "sales",
+   "location": "Richmond, Virginia",
+   "posted_at": "2026-09-01T21:31:05+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165311"
+  },
+  {
+   "external_id": "8165315",
+   "title": "Partner Account Manager - Los Angeles (Santa Clarita)",
+   "role_family": "sales",
+   "location": "Santa Clarita, CA",
+   "posted_at": "2026-09-01T01:57:29+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165315"
+  },
+  {
+   "external_id": "8165317",
+   "title": "Partner Account Manager - Miami",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-08-31T19:55:14+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165317"
+  },
+  {
+   "external_id": "8165319",
+   "title": "Partner Account Manager - Winston-Salem/Greensboro NC",
+   "role_family": "sales",
+   "location": "Winston-Salem, Greensboro, NC Remote",
+   "posted_at": "2026-09-01T02:32:19+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165319"
+  },
+  {
+   "external_id": "8165324",
+   "title": "Regional Director, Partner Account Manager - Virginia/Washington DC",
+   "role_family": "sales",
+   "location": "Virginia, Washington DC, Remote",
+   "posted_at": "2026-08-31T22:16:45+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165324"
+  },
+  {
+   "external_id": "8165328",
+   "title": "Partner Account Manager- Delaware",
+   "role_family": "sales",
+   "location": "Wilmington, Delaware",
+   "posted_at": "2026-09-01T21:29:18+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165328"
+  },
+  {
+   "external_id": "8165330",
+   "title": "Partner Account Manager - Washington DC",
+   "role_family": "sales",
+   "location": "Washington DC",
+   "posted_at": "2026-09-01T02:18:40+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165330"
+  },
+  {
+   "external_id": "8165332",
+   "title": "Partner Account Manager - Queens",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-08-31T19:40:55+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165332"
+  },
+  {
+   "external_id": "8165334",
+   "title": "Partner Account Manager - Boston",
+   "role_family": "sales",
+   "location": "Boston, MA Remote",
+   "posted_at": "2026-09-02T16:37:38+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165334"
+  },
+  {
+   "external_id": "8165336",
+   "title": "Partner Account Manager - Brooklyn",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-08-31T19:51:06+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165336"
+  },
+  {
+   "external_id": "8165338",
+   "title": "Partner Account Manager - Charlotte",
+   "role_family": "sales",
+   "location": "Charlotte, NC Remote",
+   "posted_at": "2026-09-01T00:37:11+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165338"
+  },
+  {
+   "external_id": "8165340",
+   "title": "Partner Account Manager - Houston",
+   "role_family": "sales",
+   "location": "Houston, Texas",
+   "posted_at": "2026-09-01T02:11:56+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165340"
+  },
+  {
+   "external_id": "8165342",
+   "title": "Regional Director, Partner Account Manager - North TX",
+   "role_family": "sales",
+   "location": "Dallas-Fort Worth, Texas",
+   "posted_at": "2026-09-01T03:13:23+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165342"
+  },
+  {
+   "external_id": "8165344",
+   "title": "Partner Account Manager - Raleigh",
+   "role_family": "sales",
+   "location": "Raleigh, NC Remote",
+   "posted_at": "2026-09-01T02:27:06+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165344"
+  },
+  {
+   "external_id": "8165348",
+   "title": "Partner Account Manager - Rio Grande Valley",
+   "role_family": "sales",
+   "location": "Brownsville, Texas",
+   "posted_at": "2026-08-31T22:25:13+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165348"
+  },
+  {
+   "external_id": "8165350",
+   "title": "Regional Director, Partner Account Manager - Manhattan",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-08-31T19:21:05+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165350"
+  },
+  {
+   "external_id": "8165352",
+   "title": "Partner Account Manager - Seattle",
+   "role_family": "sales",
+   "location": "Tacoma, WA",
+   "posted_at": "2026-09-01T02:06:53+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165352"
+  },
+  {
+   "external_id": "8165354",
+   "title": "Partner Account Manager - Detroit",
+   "role_family": "sales",
+   "location": "Detroit, Michigan",
+   "posted_at": "2026-08-31T22:07:24+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165354"
+  },
+  {
+   "external_id": "8165356",
+   "title": "Partner Account Manager - Maryland",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-02T16:40:32+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165356"
+  },
+  {
+   "external_id": "8165358",
+   "title": "Partner Account Manager - San Jose",
+   "role_family": "sales",
+   "location": "San Jose, CA Remote",
+   "posted_at": "2026-09-01T01:52:51+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165358"
+  },
+  {
+   "external_id": "8165362",
+   "title": "Partner Account Manager- Bronx",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-08-31T20:42:25+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165362"
+  },
+  {
+   "external_id": "8165366",
+   "title": "Partner Account Manager - New York City",
+   "role_family": "sales",
+   "location": "New York City, NY Remote",
+   "posted_at": "2026-09-01T16:38:08+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165366"
+  },
+  {
+   "external_id": "8165370",
+   "title": "Partner Account Manager - Las Vegas",
+   "role_family": "sales",
+   "location": "Las Vegas, NV Remote",
+   "posted_at": "2026-09-01T02:36:37+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8165370"
+  },
+  {
+   "external_id": "8168588",
+   "title": "Partner Account Manager - Los Angeles (West Covina)",
+   "role_family": "sales",
+   "location": "West Covina, CA",
+   "posted_at": "2026-09-01T01:59:11+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8168588"
+  },
+  {
+   "external_id": "8174129",
+   "title": "Emerging Partner Account Manager - Reno",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-03T16:33:18+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8174129"
+  },
+  {
+   "external_id": "8190494",
+   "title": "Financial Systems Manager",
+   "role_family": "other",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-10T16:25:46+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8190494"
+  },
+  {
+   "external_id": "8193402",
+   "title": "Inside Partner Account Manager",
+   "role_family": "sales",
+   "location": "Utah, Remote",
+   "posted_at": "2026-09-11T16:45:55+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8193402"
+  },
+  {
+   "external_id": "8193525",
+   "title": "Partner Account Manager, Cincinnati",
+   "role_family": "sales",
+   "location": "Cincinnati, Ohio",
+   "posted_at": "2026-09-11T17:17:06+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8193525"
+  },
+  {
+   "external_id": "8193527",
+   "title": "Partner Account Manager - Buffalo NY",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-10T23:31:38+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8193527"
+  },
+  {
+   "external_id": "8202211",
+   "title": "Head of Strategic Partnerships",
+   "role_family": "exec",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-15T00:08:07+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8202211"
+  },
+  {
+   "external_id": "8204604",
+   "title": "Partner Account Manager - Bakersfield/Fresno",
+   "role_family": "sales",
+   "location": "Bakersfield or Fresno, CA Remote",
+   "posted_at": "2026-09-15T20:02:46+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8204604"
+  },
+  {
+   "external_id": "8204634",
+   "title": "Partner Account Manager - Charleston",
+   "role_family": "sales",
+   "location": "Charleston, SC Remote",
+   "posted_at": "2026-09-17T19:15:56+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8204634"
+  },
+  {
+   "external_id": "8205660",
+   "title": "Director, Customer Support",
+   "role_family": "customer",
+   "location": "Lindon, UT",
+   "posted_at": "2026-09-18T00:34:51+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8205660"
+  },
+  {
+   "external_id": "8208197",
+   "title": "IT Support Specialist II",
+   "role_family": "customer",
+   "location": "Lindon, Utah",
+   "posted_at": "2026-09-29T23:42:38+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8208197"
+  },
+  {
+   "external_id": "8211801",
+   "title": "Partner Account Manager - Nebraska",
+   "role_family": "sales",
+   "location": "Omaha, Nebraska",
+   "posted_at": "2026-09-18T00:32:12+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8211801"
+  },
+  {
+   "external_id": "8212426",
+   "title": "Manager, Inside Sales",
+   "role_family": "sales",
+   "location": "Lindon, UT Hybrid",
+   "posted_at": "2026-09-21T16:33:04+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8212426"
+  },
+  {
+   "external_id": "8223541",
+   "title": "Retirement Sales Activation Specialist",
+   "role_family": "other",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-22T16:47:28+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8223541"
+  },
+  {
+   "external_id": "8226488",
+   "title": "Sr. Trainer - Customer Success Operations",
+   "role_family": "customer",
+   "location": "Lindon, UT Hybrid",
+   "posted_at": "2026-09-23T20:02:35+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8226488"
+  },
+  {
+   "external_id": "8226682",
+   "title": "Engineering Manager - Mobile",
+   "role_family": "engineering",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-05T20:51:38+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8226682"
+  },
+  {
+   "external_id": "8231605",
+   "title": "Manager, Retirement Sales Activation",
+   "role_family": "other",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-24T22:15:07+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8231605"
+  },
+  {
+   "external_id": "8231609",
+   "title": "Partner Support Specialist",
+   "role_family": "customer",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-13T14:35:36+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8231609"
+  },
+  {
+   "external_id": "8231614",
+   "title": "Sales Strategy & Operations, Senior Analyst",
+   "role_family": "other",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-25T22:00:16+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8231614"
+  },
+  {
+   "external_id": "8234221",
+   "title": "Senior Manager, Relationship Management",
+   "role_family": "customer",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-29T17:16:26+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8234221"
+  },
+  {
+   "external_id": "8234533",
+   "title": "Account Executive - North Central",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-09-28T17:05:43+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8234533"
+  },
+  {
+   "external_id": "8237089",
+   "title": "Senior Technical Program Manager",
+   "role_family": "engineering",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-05T17:45:42+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8237089"
+  },
+  {
+   "external_id": "8238707",
+   "title": "Senior Financial Analyst, Revenue GTM",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-05T19:15:06+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8238707"
+  },
+  {
+   "external_id": "8245924",
+   "title": "Recordkeeping Operations Associate",
+   "role_family": "customer",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-01T21:30:20+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8245924"
+  },
+  {
+   "external_id": "8261978",
+   "title": "Director of Retirement Sales Activation",
+   "role_family": "exec",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-07T19:32:56+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8261978"
+  },
+  {
+   "external_id": "8261982",
+   "title": "Account Executive - New York City",
+   "role_family": "sales",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-07T16:59:37+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8261982"
+  },
+  {
+   "external_id": "8275207",
+   "title": "Senior Manager, Customer Operations",
+   "role_family": "customer",
+   "location": "United States, Remote",
+   "posted_at": "2026-10-13T15:56:48+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8275207"
+  },
+  {
+   "external_id": "8282300",
+   "title": "Procurement and Accounts Payable Specialist",
+   "role_family": "other",
+   "location": "Lindon, Utah",
+   "posted_at": "2026-10-15T18:32:25+00:00",
+   "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8282300"
+  }
+ ]
+}

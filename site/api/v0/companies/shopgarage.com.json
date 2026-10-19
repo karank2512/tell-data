@@ -1,7 +1,7 @@
 {
   "domain": "shopgarage.com",
   "name": "Garage",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
   "score": 1.4,
   "contributions": [
@@ -14,7 +14,7 @@
     }
   ],
   "open_postings": 14,
-  "long_open_roles": 8,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:garage",
     "edgar_cik": null,

@@ -1,13 +1,13 @@
 {
   "domain": "contrivian.com",
   "name": "Contrivian",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 15.7,
+  "score": 15.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.3,
+      "contribution": 14.2,
       "occurred_at": "2026-07-30",
       "summary": "Form D: $4,665,809 offering, $4,665,809 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2147465/000214746526000001/"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-06-25",
       "summary": "Hybrid Edge Mobility: Contrivian Launches “Horizon Plus” to Deliver Intelligent Multi-Orbit Field Communications - SatNews Publishers",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUUNPQUw5OGpFU1ZTc00zVHRHVzVlNjdBdDZfbmtQdTRfLXRBOUQyWXZLazFqb2Y0YmhKek05LVoyY2VFWm1IRE91cFg5Zi1uczBoRUdmb0c2ZGpjdXY1WU8yRmszdEt6SDl5VHBmMS1faHVDN0lNcGlSSWNMeG5hRkNtUEVxRmEtaUNPZkxqUjl3VFJCLXFsdmluMWNVbmRIdS1LaGoxa2xSOTRMRk9DbTk0dUZSTDNoVjlkWWhfRDRPaW1WaDNDdWcwMFlEWlo0S21Valk1WFI?oc=5"
@@ -35,12 +35,5 @@
     "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
-  "why_not_higher": [
-    {
-      "type": "launch",
-      "decayed_at": "2026-09-19",
-      "url": "https://contrivian.com/contrivian-launches-contrivian-constellation-to-deliver-terrestrial-grade-resilience-in-leo-satellite-networks/?utm_source=rss&utm_medium=rss&utm_campaign=contrivian-launches-contrivian-constellation-to-deliver-terrestrial-grade-resilience-in-leo-satellite-networks",
-      "summary": "Contrivian Launches Contrivian Constellation™ to Deliver Terrestrial-Grade Resilience in LEO Satellite Networks"
-    }
-  ]
+  "why_not_higher": []
 }

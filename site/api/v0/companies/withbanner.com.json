@@ -1,0 +1,25 @@
+{
+  "domain": "withbanner.com",
+  "name": "Banner",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Paris City Hall unveils banner honoring Iranian Nobel Laureate Narges Mohammadi - VOA - Voice of America English News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkttTElaZnZIZG4tZl9yMlRlZmlHcVIwZzE0Yk5oZ2V0N3o3cXBLMmF4LWY5WFppNHpOTEwwMzM5cWZENVRLRzdiOV82MHF0cnZMT3dqazRNRkJCMGlZeTdaNmJuVEdqczF4Q3pocmVVYmNMTXloYmxvQ3h4OFdnRXdjNnFULUNWZmRvbDRwcTNjbjVRenFtYVkxNkxMMnB1TzI3WU84TjRWc3V3UVVRRXJqV0ItaDltTHfSAbwBQVVfeXFMT21qZFNYai1SVlNPTnB4ZGw4d2tiNVpQbTE1X2xDM2FSOU9kMVphLUhmdWs2UTc4YzYxMHJVUmg0NzdNUHBIM2NsdFk3WDRCT1VLcjNIcURqSWlTYXNGQTFpazFULUFQczNmNlZrU3VrR3pMVkNlSnY0YzBuZ2dEMHFxOURvNFMyVW9HRUc2VGVoanB4YXN4QjFEbWJpVkpEN2V3X2NhOTVqUVotd1FBSjRHV2c0bzVuaTdPZUc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

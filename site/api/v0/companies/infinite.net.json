@@ -1,9 +1,9 @@
 {
   "domain": "infinite.net",
   "name": "Infinite",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,17 +21,10 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "Torchlight: Infinite Unveils SS14 Preview - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbF9oblVEUmJWY3dGYjJGRmREckl1bkIyZnEyeWw0Z2FpbTFNQzg1NHlQLVlnSXFWa013WXRMa0FFX1FsR1EzS3dKY2phTmlLZC1YUEhXTGxqVk15bTBZNDd4MWdzdm0wMTVQeVhxTU5CSzNuTnZjb29PS1FLN0FQeGZsV1pfR3MxSTBn?oc=5"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.1,
-      "occurred_at": "2026-04-22",
-      "summary": "Introducing Infinite Accounts",
-      "url": "https://infinite.net/resources/blog/introducing-infinite-accounts"
     }
   ],
   "open_postings": 2,
@@ -42,5 +35,12 @@
     "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
-  "why_not_higher": []
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-19",
+      "url": "https://infinite.net/resources/blog/introducing-infinite-accounts",
+      "summary": "Introducing Infinite Accounts"
+    }
+  ]
 }

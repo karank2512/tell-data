@@ -1,0 +1,25 @@
+{
+  "domain": "beepnetworks.com",
+  "name": "Beep",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.3,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-12",
+      "summary": "Brooklyn Beep launches $4,000 grant to expand nutrition education and combat food insecurity - Brooklyn Paper",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DM1g0U3g5cnJ0LVZhNlFXMmhPT3pDUDZLX05MbFlJa3lPNzNKUmw2dzJ3dUkwR08xQWhXV1lSQjYzSUc2QUJwU24yVWIxb2UtWk1haUxHNkU0UFNIRjJwNnVxZ2FSZTJHbmc2aHp2cG1ETFR6UlJlNHB6dWY?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048",
+  "why_not_higher": []
+}

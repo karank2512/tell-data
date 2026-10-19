@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 6.5,
+  "score": 6.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.8,
+      "contribution": 2.7,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -70,8 +70,8 @@
       ]
     }
   ],
-  "open_postings": 192,
-  "long_open_roles": 50,
+  "open_postings": 193,
+  "long_open_roles": 52,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

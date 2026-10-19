@@ -1,9 +1,9 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 38.6,
+  "score": 38.0,
   "contributions": [
     {
       "type": "launch",
@@ -21,42 +21,42 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight AI Model Built to Run on Macs - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUh1NldjcmR2b2ZQeWd2VDdEalNuMkJvQ1FxS1ZVUTBRRUFDODBvR1dUeVB2Nzg1YVh1NnkybTNJb3J5dWVfd1JFM3BhanJlaTJnelRmUDFtQ3JPRVpabzh1el9wSVJhM1lzVTI1Tk92LXZoTVNUTkNuVW1EYmg1ZnFSNy1GQWVEQUVZNkVQUzZwRjBlbUpvM2ppbGp4NWZybjhoTENTZTNQUHJzY1BfMElFaDFvSXUwT1lpQUNDTEt6U1dMYkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Meta Launches Muse Spark Open: An 800 Billion Parameter AI Model Tailored for Mac Studio with M5 Ultra - Inkorr",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmhIQTJKYzNuSm5ELVE5VU9xSDBkMFB2aFJPaUczZ3VTRnZCNW53R21BSGpndk1DeGI2RjlIM3ZGWGQzMDExbXZpQXFjVzhsRXpLU1R6bkQ1VnVScnhJeWJhZDZIV052NHRBQXI3d0RTaVJJRE9jTmxJU0VRU3BobEszbVF0ZldkREZJR1JMRU1XblVyQ3JpT0h1Q0lYZDc5YmU4b3hZZjZQdjFtaDN2d3dzd0E2d9IBuwFBVV95cUxNWmZaM0tPcEZqUUZzb0J6bVZDeG9zX184STRrTjRLMEkzaWZBS05rVjZ3UDc5WGtXeHEtSmNlVElnZF84TnJEUFd1NWR5UU5KQ0RMSkU1NTR1b0FuZENjTlhnMmFXYndKT0FOWTFlRXZKa0g2b25ZZ2dIVFRJWng4UllqZkpfTnBBMXBCQ0ZQNXpmdjF2SUQ1Q3d5ZjJManlJRWdjRjF5Y3ZKWTNzT3NOeDM2NmxRQ1RsMF8w?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Intel Unveils GPU D-Series For AI Datacenters, Featuring 480GB LPDDR5X, 32 Xe3P Cores & 300B Parameter Support - Pokde.Net",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVlI5YXV2dFR0d05MdS1lcHFSQjV4c3hDSHZOTVUzNlk4XzRWa1dOXy1rdlg2YjJGaVVmMTREcGZZNjU0XzNYSklCNjBzWlpxVTJ4enp3dHlDSlZldmRSRF84XzM4amgwY2ZFY2VpTk5nOGs?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight Model - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmZiN09kOWdLOVMxMWtCMUF3UUxOS1kzOEFsMm9iU0stZzcxY3pnM1VZWVZZNUt2Y0VJbGd6bFFLYnVVLXBMOE5QanlIRFR0bV8tSnB5anozMU1ralFzbDA1RklzRzIzeF9aZVlWV19oOXh3N3JsTlotQnlNa3A4UWJKaGZyeWQwUzNCY2Vaemw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Meta Unveils 816B-Parameter Muse Spark Open With Apple - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3NnS29NelUxX0pnZWxFUTR5b3l4ZHQ2T2JPc3JTbTBBOHdfb0dUNTB5TGtuZTFIM1RlZ1VwU01mZmhSVjhxX3hTSEx4Z2lLdHowTkt3czVmT2xRSXNwMXZZT0pzcGVjcnZkcDJBcnNCOXE3VS1Rdm80M1pPb2EyN21jRmwwMG1z?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark, an 816B-Parameter Open-Weight - Analytics India Magazine",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEVLOWdkbFhOOGZWX1cyOXRlQzdueHJTQ2JoQkliaWxIMlc0OTVfRFpOcmxDNUdkcjFpUVF3UHFNRGtEbGRxVXVLQ25xb2gzaWhjMGJ6clhtcmFUOHZmQTI5dVVKeUtLU0E3N1U0S3FyQmRkTFluQ3hmLW1aVWdLd2pYempNLUlsdG8wTGR5ZmFEMmNDMTJsdExrYmo1TVJvYW1DMXVWblhOQ2d4LXk4aGVZTXpKREFCUm05NmR3?oc=5"

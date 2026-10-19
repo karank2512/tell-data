@@ -1,207 +1,399 @@
 {
-  "week": "2026-W41",
-  "start": "2026-10-05",
-  "end": "2026-10-11",
-  "top_hiring": [],
+  "week": "2026-W42",
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "top_hiring": [
+    {
+      "domain": "instacart.com",
+      "name": "Instacart",
+      "velocity": 3,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-17",
+          "url": "https://boards.greenhouse.io/instacart",
+          "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
+              "posted_at": "2026-10-14",
+              "url": "https://instacart.careers/job/?gh_jid=8281965"
+            },
+            {
+              "title": "Senior Sales Engineer",
+              "posted_at": "2026-10-16",
+              "url": "https://instacart.careers/job/?gh_jid=8292786"
+            },
+            {
+              "title": "Senior Sales Engineer",
+              "posted_at": "2026-10-16",
+              "url": "https://instacart.careers/job/?gh_jid=8292802"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "stripe.com",
+      "name": "Stripe",
+      "velocity": 3,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-15",
+          "url": "https://boards.greenhouse.io/stripe",
+          "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Account Executive Product - Fraud & Risk",
+              "posted_at": "2026-10-14",
+              "url": "https://stripe.com/jobs/search?gh_jid=8271657"
+            },
+            {
+              "title": "Account Executive, Product Sales, Billing (Grower)",
+              "posted_at": "2026-10-14",
+              "url": "https://stripe.com/jobs/search?gh_jid=8215758"
+            },
+            {
+              "title": "Account Executive, Product Sales - Payouts",
+              "posted_at": "2026-10-15",
+              "url": "https://stripe.com/jobs/search?gh_jid=8273743"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "vanta.com",
+      "name": "Vanta",
+      "velocity": 3,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-16",
+          "url": "https://jobs.ashbyhq.com/vanta",
+          "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Account Executive, Growth - Benelux",
+              "posted_at": "2026-10-15",
+              "url": "https://jobs.ashbyhq.com/vanta/1d927532-02f2-45dc-a0b8-3d4242dcc38b"
+            },
+            {
+              "title": "Sales Development Representative, Enterprise",
+              "posted_at": "2026-10-15",
+              "url": "https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4"
+            },
+            {
+              "title": "Sales Development Representative, Enterprise",
+              "posted_at": "2026-10-15",
+              "url": "https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "assemblyai.com",
+      "name": "AssemblyAI",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-18",
+          "url": "https://boards.greenhouse.io/assemblyai",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Digital Native AI Account Executive",
+              "posted_at": "2026-10-17",
+              "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4743063005"
+            },
+            {
+              "title": "Digital Native AI Account Executive",
+              "posted_at": "2026-10-17",
+              "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744900005"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "canarytechnologies.com",
+      "name": "Canary Technologies",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-16",
+          "url": "https://jobs.lever.co/canarytechnologies",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Sales Development Representative (Singapore Working Hours)",
+              "posted_at": "2026-10-16",
+              "url": "https://jobs.lever.co/canarytechnologies/5f3de608-d9e6-40b5-a1fa-5e2ffd0460d8"
+            },
+            {
+              "title": "Sales Development Representative (French Speaking)",
+              "posted_at": "2026-10-16",
+              "url": "https://jobs.lever.co/canarytechnologies/246d02d8-b7e7-4a05-88ab-6dbaf41df706"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "ironcladapp.com",
+      "name": "Ironclad",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-15",
+          "url": "https://jobs.ashbyhq.com/ironcladhq",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Strategic Account Executive, West",
+              "posted_at": "2026-10-14",
+              "url": "https://jobs.ashbyhq.com/ironcladhq/c2729f71-8004-4179-8aff-08341249cb5c"
+            },
+            {
+              "title": "Senior Manager, Solutions Engineering",
+              "posted_at": "2026-10-15",
+              "url": "https://jobs.ashbyhq.com/ironcladhq/331d44a7-a6d2-4cc1-bd7c-12361cb03ea9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "within.ai",
+      "name": "Within",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-17",
+          "url": "https://jobs.ashbyhq.com/within.ai",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Senior Business Development Representative - US Market",
+              "posted_at": "2026-10-16",
+              "url": "https://jobs.ashbyhq.com/within.ai/d56219dd-313a-44c3-bdc1-b8787fb6e7da"
+            },
+            {
+              "title": "Business Development Representative Manager - US Market",
+              "posted_at": "2026-10-16",
+              "url": "https://jobs.ashbyhq.com/within.ai/a920fbfb-598a-4347-8353-796b726e7631"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "top_funding": [
     {
-      "domain": "whitehawkminerals.com",
-      "name": "WhiteHawk Minerals",
-      "amount_usd": 74999994,
-      "amount_sold_usd": 74999994,
-      "date_filed": "2026-10-05",
-      "url": "https://www.sec.gov/Archives/edgar/data/1921603/000192160326000005/"
+      "domain": "onebrief.com",
+      "name": "Onebrief",
+      "amount_usd": 249999915,
+      "amount_sold_usd": 150799963,
+      "date_filed": "2026-10-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/1888809/000188880926000002/"
     },
     {
-      "domain": "whitehawkminerals.com",
-      "name": "WhiteHawk Minerals",
-      "amount_usd": 50000000,
-      "amount_sold_usd": 50000000,
-      "date_filed": "2026-10-05",
-      "url": "https://www.sec.gov/Archives/edgar/data/1921603/000192160326000006/"
+      "domain": "rapidcanvas.ai",
+      "name": "RapidCanvas",
+      "amount_usd": 28999988,
+      "amount_sold_usd": 28999988,
+      "date_filed": "2026-10-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/2052031/000205203126000006/"
     },
     {
-      "domain": "eigenq.com",
-      "name": "EigenQ",
-      "amount_usd": 44450000,
-      "amount_sold_usd": 22225000,
-      "date_filed": "2026-10-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/2064142/000121390026106928/"
+      "domain": "memazing.com",
+      "name": "Memazing",
+      "amount_usd": 26244981,
+      "amount_sold_usd": 15404990,
+      "date_filed": "2026-10-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160552/000123191926001462/"
     },
     {
-      "domain": "scoutdiscoveries.com",
-      "name": "SCOUT DISCOVERIES",
-      "amount_usd": 28429695,
-      "amount_sold_usd": 28429695,
-      "date_filed": "2026-10-09",
-      "url": "https://www.sec.gov/Archives/edgar/data/1974508/000197450826000002/"
+      "domain": "remitian.com",
+      "name": "Remitian",
+      "amount_usd": 20000000,
+      "amount_sold_usd": 14031768,
+      "date_filed": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/2153884/000215388426000001/"
     },
     {
-      "domain": "vyehealth.com",
-      "name": "Vye Health",
-      "amount_usd": 18184991,
-      "amount_sold_usd": 16234993,
-      "date_filed": "2026-10-08",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158121/000215812126000001/"
+      "domain": "sapphiretechnologies.com",
+      "name": "Sapphire Technologies",
+      "amount_usd": 12841337,
+      "amount_sold_usd": 8941337,
+      "date_filed": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/1887783/000188778326000001/"
     },
     {
-      "domain": "clasp.ai",
-      "name": "Clasp",
-      "amount_usd": 15249996,
-      "amount_sold_usd": 13249996,
-      "date_filed": "2026-10-08",
-      "url": "https://www.sec.gov/Archives/edgar/data/2024665/000202466526000006/"
+      "domain": "circularityfuels.com",
+      "name": "Circularity Fuels",
+      "amount_usd": 10209999,
+      "amount_sold_usd": 8790194,
+      "date_filed": "2026-10-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/2147938/000214793826000001/"
     },
     {
-      "domain": "inventwood.com",
-      "name": "InventWood",
+      "domain": "cofertility.com",
+      "name": "Cofertility",
+      "amount_usd": 9000000,
+      "amount_sold_usd": 8380000,
+      "date_filed": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/2057534/000205753426000003/"
+    },
+    {
+      "domain": "spatiallogic.com",
+      "name": "Spatial Logic",
+      "amount_usd": 5685000,
+      "amount_sold_usd": 3584999,
+      "date_filed": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158653/000215865326000001/"
+    },
+    {
+      "domain": "immortabio.com",
+      "name": "Immorta Bio",
       "amount_usd": 5000000,
-      "amount_sold_usd": 1491000,
-      "date_filed": "2026-10-08",
-      "url": "https://www.sec.gov/Archives/edgar/data/2066808/000206680826000005/"
+      "amount_sold_usd": 612503,
+      "date_filed": "2026-10-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/2102665/000210266526000002/"
     },
     {
-      "domain": "spectraxe.com",
-      "name": "SpectrAxe",
+      "domain": "jaccard.ai",
+      "name": "Jaccard",
       "amount_usd": 5000000,
-      "amount_sold_usd": 1200000,
-      "date_filed": "2026-10-09",
-      "url": "https://www.sec.gov/Archives/edgar/data/2152466/000215246626000002/"
+      "amount_sold_usd": 4517000,
+      "date_filed": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160401/000216040126000001/"
     },
     {
-      "domain": "starlifter.ai",
-      "name": "StarLifter",
-      "amount_usd": 4000000,
-      "amount_sold_usd": 3999999,
-      "date_filed": "2026-10-08",
-      "url": "https://www.sec.gov/Archives/edgar/data/2156953/000215695326000001/"
+      "domain": "laminasurgical.com",
+      "name": "Lamina Surgical",
+      "amount_usd": 5000000,
+      "amount_sold_usd": 490000,
+      "date_filed": "2026-10-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160275/000216027526000001/"
     },
     {
-      "domain": "cococoders.com",
-      "name": "Coco Coders",
-      "amount_usd": 3361003,
-      "amount_sold_usd": 3361003,
-      "date_filed": "2026-10-07",
-      "url": "https://www.sec.gov/Archives/edgar/data/2005162/000200516226000003/"
+      "domain": "lykosindustries.com",
+      "name": "Lykos Industries",
+      "amount_usd": 5000000,
+      "amount_sold_usd": 5000000,
+      "date_filed": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159222/000215922226000001/"
     },
     {
-      "domain": "cococoders.com",
-      "name": "Coco Coders",
-      "amount_usd": 3000000,
-      "amount_sold_usd": 1999999,
-      "date_filed": "2026-10-07",
-      "url": "https://www.sec.gov/Archives/edgar/data/2005162/000200516226000004/"
+      "domain": "musaffa.com",
+      "name": "Musaffa",
+      "amount_usd": 5000000,
+      "amount_sold_usd": 310022,
+      "date_filed": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/1966710/000106299326005308/"
     },
     {
-      "domain": "overfuel.com",
-      "name": "Overfuel",
-      "amount_usd": 2853999,
-      "amount_sold_usd": 2853999,
-      "date_filed": "2026-10-07",
-      "url": "https://www.sec.gov/Archives/edgar/data/1955994/000195599426000003/"
-    },
-    {
-      "domain": "getoliver.com",
-      "name": "Oliver Software",
-      "amount_usd": 2075000,
-      "amount_sold_usd": 2075000,
-      "date_filed": "2026-10-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/1980218/000198021826000003/"
-    },
-    {
-      "domain": "swarmdefense.com",
-      "name": "Swarm Defense Technologies",
-      "amount_usd": 2040000,
-      "amount_sold_usd": 2040000,
-      "date_filed": "2026-10-05",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130440/000213044026000002/"
-    },
-    {
-      "domain": "pyropic.com",
-      "name": "Pyropic",
-      "amount_usd": 2000000,
-      "amount_sold_usd": 1250000,
-      "date_filed": "2026-10-07",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158627/000215862726000001/"
-    },
-    {
-      "domain": "ritrova.io",
-      "name": "RITROVA",
-      "amount_usd": 1500000,
+      "domain": "saaz.com",
+      "name": "Saaz Micro",
+      "amount_usd": 5000000,
       "amount_sold_usd": 1500000,
-      "date_filed": "2026-10-09",
-      "url": "https://www.sec.gov/Archives/edgar/data/2159140/000215914026000001/"
+      "date_filed": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158679/000215867926000001/"
     },
     {
-      "domain": "cone.ai",
-      "name": "Cone Technologies",
-      "amount_usd": 969994,
-      "amount_sold_usd": 969994,
-      "date_filed": "2026-10-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/2156269/000215626926000001/"
+      "domain": "axelyf.com",
+      "name": "Axelyf",
+      "amount_usd": 2700000,
+      "amount_sold_usd": 2631439,
+      "date_filed": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/2078406/000143774926032509/"
     },
     {
-      "domain": "htdhealth.com",
-      "name": "HTD Health",
-      "amount_usd": 570068,
-      "amount_sold_usd": 570068,
-      "date_filed": "2026-10-09",
-      "url": "https://www.sec.gov/Archives/edgar/data/2154839/000215483926000001/"
+      "domain": "zeely.ai",
+      "name": "Zeely",
+      "amount_usd": 2091993,
+      "amount_sold_usd": 2091993,
+      "date_filed": "2026-10-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/2155182/000215518226000002/"
     },
     {
-      "domain": "skynexus.ai",
-      "name": "SkyNexus AI",
+      "domain": "getdispatchdiligence.com",
+      "name": "Dispatch Diligence",
+      "amount_usd": 2000000,
+      "amount_sold_usd": 250000,
+      "date_filed": "2026-10-14",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159229/000215922926000001/"
+    },
+    {
+      "domain": "primedelta.io",
+      "name": "PrimeDelta",
+      "amount_usd": 2000000,
+      "amount_sold_usd": 1827000,
+      "date_filed": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159963/000147793226006277/"
+    },
+    {
+      "domain": "vernex.com",
+      "name": "Vernex",
+      "amount_usd": 1400000,
+      "amount_sold_usd": 1400000,
+      "date_filed": "2026-10-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160116/000216011626000001/"
+    },
+    {
+      "domain": "fibrobiologics.com",
+      "name": "FibroBiologics",
+      "amount_usd": 1200000,
+      "amount_sold_usd": 1200000,
+      "date_filed": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/1958777/000149315226046663/"
+    },
+    {
+      "domain": "admirra.com",
+      "name": "Admirra",
+      "amount_usd": 1000000,
+      "amount_sold_usd": 430000,
+      "date_filed": "2026-10-16",
+      "url": "https://www.sec.gov/Archives/edgar/data/2057082/000205708226000002/"
+    },
+    {
+      "domain": "brainforge.ai",
+      "name": "Brainforge",
+      "amount_usd": 1000000,
+      "amount_sold_usd": 50000,
+      "date_filed": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158686/000215868626000001/"
+    },
+    {
+      "domain": "contor.ai",
+      "name": "Contor",
+      "amount_usd": 850000,
+      "amount_sold_usd": 600000,
+      "date_filed": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/2139601/000213960126000003/"
+    },
+    {
+      "domain": "atjustice.org",
+      "name": "ATJustice",
       "amount_usd": 500000,
-      "amount_sold_usd": 100000,
-      "date_filed": "2026-10-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158087/000215808726000001/"
+      "amount_sold_usd": 360000,
+      "date_filed": "2026-10-13",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159536/000215953626000001/"
     },
     {
-      "domain": "memrico.com",
-      "name": "Memrico",
-      "amount_usd": 250000,
-      "amount_sold_usd": 25000,
-      "date_filed": "2026-10-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158790/000215879026000001/"
-    },
-    {
-      "domain": "togglebio.com",
-      "name": "Toggle Bio",
-      "amount_usd": 200000,
-      "amount_sold_usd": 200000,
-      "date_filed": "2026-10-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158695/000215869526000001/"
-    },
-    {
-      "domain": "henshin.ai",
-      "name": "Henshin AI",
-      "amount_usd": 15000,
-      "amount_sold_usd": 15000,
-      "date_filed": "2026-10-05",
-      "url": "https://www.sec.gov/Archives/edgar/data/2153655/000215365526000002/"
-    },
-    {
-      "domain": "agentteams.com",
-      "name": "AgentTeams",
-      "amount_usd": 4000,
-      "amount_sold_usd": 4000,
-      "date_filed": "2026-10-07",
-      "url": "https://www.sec.gov/Archives/edgar/data/2159376/000215937626000001/"
-    },
-    {
-      "domain": "dodoisland.ai",
-      "name": "dodo Island AI",
-      "amount_usd": null,
-      "amount_sold_usd": 100000,
-      "date_filed": "2026-10-06",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158213/000215821326000001/"
+      "domain": "talnflo.com",
+      "name": "Talnflo",
+      "amount_usd": 400000,
+      "amount_sold_usd": 50000,
+      "date_filed": "2026-10-15",
+      "url": "https://www.sec.gov/Archives/edgar/data/2141965/000214196526000002/"
     }
   ],
   "method_change": "Scoring rule: funding magnitude is log10(total_offering_amount) capped at 8, or 6 when the amount is undisclosed or zero (spec section 8); form_d_filed events flagged is_amendment never produce a signal.",
   "coverage": {
-    "companies_monitored": 881,
-    "boards_polled": 0,
-    "filings_read": 0
+    "companies_monitored": 907,
+    "boards_polled": 528,
+    "filings_read": 18841
   },
   "repo_url": "https://github.com/karank2512/tell-ai",
   "generated_by": "https://github.com/karank2512/tell-ai/commit/9c0ff31c617fb1925757a58a337a1acff7148048"

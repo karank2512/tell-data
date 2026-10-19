@@ -1,13 +1,13 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-10-18",
+  "as_of": "2026-10-19",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "[person] joins Legora as lead legal engineer",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGdvamFfUHpBNThaZnFhTnFqcUZ0MDJSdi1VRmlieEVGTHM5aXFjNGcxRk9ReHlKSk1fTzktRzM1cGpFRlBPTktxUW1QTGxRakVGQTlQTXlvRWZNMGR0UzB0OWEtRnJOSmRjRFhHNUIwWFBHNUZMN0NfRGgyLXRQZEkzbw?oc=5"
@@ -41,8 +41,8 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTFRYXVOZmFVZzdBeFBtUjM3aXRJMDNNYlVwNzRBQzRMOHNlbVh6RGUzZ2ZtMlZELWJnUTJhdUlVZWNoUmoxSlA2ZHJpaGdEeFJZT1NqRFZBM2RpM0xKZFZGRVVrZFNEQWlRRFhjS0JDWUtsYUt3MXJJV3FHa2JLN3ZseUhCZmFJQ1NwQlJnUWJKRlMwTms2Y3NlSkl1Zlk?oc=5"
     }
   ],
-  "open_postings": 305,
-  "long_open_roles": 93,
+  "open_postings": 306,
+  "long_open_roles": 94,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": null,
