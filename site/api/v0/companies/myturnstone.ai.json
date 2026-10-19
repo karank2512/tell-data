@@ -1,0 +1,32 @@
+{
+  "domain": "myturnstone.ai",
+  "name": "Turnstone",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 3.7,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Turnstone Resources Appoints [person] As CFO",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVg0ZFBDS0dlUU9EcFBSaTU1TkRaQzV1NFZoQ0ljOXVTeWFKOXFNMzRZdmdDeUtlRVFTZG5EbUtITEg3TVRJalRyRF9LMkpyTFBaYmZ1a05XRzFZMXE4OTVXSmJhTlBkWHd1dzJIYnFwTUpJby1EX1F1LW8tX2FoUkYxM291UV9DYVV4NVdqVEZXNDc4azRyWkZTRTZOQ1lSUkVyRVphbjhBNy0yVGw0UWoxdjc5WUlVQjdZ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-14",
+      "summary": "Turnstone Resources Appoints [person] as CFO and [person]",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0JCUnNTMjJWY2ZralNCRERoUF9XU0M2NWFXN0RhdGtxY0RUWlduVm5OcXhMcVR6U1QyTVVsZ2VwZURiVVdQZWlfNjFnMEZFQzhvUi11Q1FOdVozenBZbGxqcW9SaWQ4a1hLMkxXMkh1Z1hCVU02ZG5MOU5pdlJGdnFaWTdoeFhsSVRCRXRycmNibzVpWlhzUTQ3dF90WDh0ZTJfd2JYSUZFT3JFck9XY2VZaw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

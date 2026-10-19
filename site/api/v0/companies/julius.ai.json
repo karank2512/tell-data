@@ -1,0 +1,32 @@
+{
+  "domain": "julius.ai",
+  "name": "Julius",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 3.8,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM21ncTg3aHREc1lCcEc2eVhVaENyWTlaN08xYWdpNmM2eVZTWjRRVFJjYU81eXh0eFpIbnBEaEhsM1ZzYzg1aEFUbW0wWm14d0FmUkUwMFV6YXh0RFpTY1JHaHl2MUJFM0l3NlY5YzVPVWQtdjl2aHY4MC1TMzlXMF91djRiV1JCNFBHUG9aOFBTOUFRekwySFEya1RRTkx4VWg4ckNR?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-14",
+      "summary": "NDC appoints [person] as Deputy Communications Director",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0M1R00yRVV1SjhuaGRnSlFIb0tlUkVOeGdmcUtBcHUzekVSbEV4a2R0MUVkeEp5MFJJTkRxdWxKN1VqNk5hX1Y4WGpGM0tqbmNPeVJ1Q25JbG9JSlFWeEdjZVgtZVI5VjQ2SzJYTS1qX0F3X25pSi0yYWcyd2Y2eFZ2U05mZHN5SVpEMWNET3JGMHdHRDZENmVfQlfSAZsBQVVfeXFMT2tyNEt1b0FwRDkzU09ta2RsMGUxWk1qSHF0NjBxeW81eGRoY2lwaGM3dm5yZlJuSVNHSDhVWXVEZVlMNjNqWEVlNFlrUzdsZGswaWRZcG5WSWhOLXg0MkZTOWlKcXByQmpuOXNiLVVBMGx2OXhoWkp1dEl3QzRJOFM1dktBTzh1MUJjZUxhWEo3T0NwallvcTJIbVk?oc=5"
+    }
+  ],
+  "open_postings": 4,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:julius",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

@@ -1,0 +1,39 @@
+{
+  "domain": "letsping.com",
+  "name": "Ping",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 4.3,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-17",
+      "summary": "Ping launches “PLD1” custom-putter program - GolfWRX",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnaEhLcV93RjM2UVRGRkZ3OWR6RXlZVUF5X2lQdEdyX0FBb05ES1BCT0JLTGJtTEM4ZXdRT2RkelZZOU82Z0g3SmlkYi1JVnA2Y1k4QU1hVUZuTUJ5Y3d6QXFYU2ZaS3BHS2g3bzdFZ2l3Qzd2SUNZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Ping G10 Debuts on Tour - GolfWRX",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DWmZaZVN5bVQtZjdXUlhRbFpyQmwwR215MXdvWGptbXF3YmVJV1Vfc05MNmZwbE5UbGhvQjdmMWtsaHpZU1hNVnk1SWx6TFAtZFdlemwtdjB5bVZm?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Ping An Insurance (Group) Co. of China Ltd (PZX.HM) Latest Press Releases & Corporate News - Yahoo Finance - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vSDR3SUtWeTh1MHZPa0FxRXVKN0ZXXzhjU05MS0VEUFN1OE5US1BiRE1XWW5JV0VSemUtVkgyQ1hIMmFCUnJCME5kY1VGSUVrWjhjYXBUeFRvNzR2LTJLNWtfaXdTeWhD?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

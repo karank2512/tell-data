@@ -1,0 +1,32 @@
+{
+  "domain": "properfinance.io",
+  "name": "Proper",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Proper Hanbok Campaign Launches with Palace Rental Discounts - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ2x0MDlXT2JEbWZsVXFFNGtOYnRod2FYWjFxZlR6bkdvLUY5RU9uLUVWcUFhUjg5Mkk5dWM4aXEzWVlYSEJlRm1DVFFyc1hYeTRPX0kzNnJhSVNwZl9hcGZyWlBPTGE1UEt1RkVjbVY1Ym9QUGRtZmpJMldaUHQ3TU9HSFN5dmpy?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Korea Launches Campaign for Proper Hanbok Wear With Shopping Discounts - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTl9rM3ZvOF8yOEVOekdqSFdWelBaTmd5RFctT0hpVzlfbXNRMjFMUWhIdG1JdEx1MVpnRV90cGd2YVJSRk5pVVZLbHI5cmJNX3RuUlE4OVU1R0kwbXB2dHpvaXN3QURtVEUwWUtqd3gxcTBnTE5VN3ZuWW9WMWl5Uk94VHAtRGhyQzdkYjB5YWp4U3BrZkVyQg?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

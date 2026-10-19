@@ -1,0 +1,25 @@
+{
+  "domain": "kestral.ai",
+  "name": "Kestral",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 0.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-24",
+      "summary": "Introducing kstack: The Skills We Built to Ship Faster with AI Agents",
+      "url": "https://kestral.ai/blog/introducing-kstack"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

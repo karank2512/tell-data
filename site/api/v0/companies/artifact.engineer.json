@@ -1,0 +1,25 @@
+{
+  "domain": "artifact.engineer",
+  "name": "Artifact",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Walt Disney Imagineering Unveils the Final Two Clues in Stolen S.E.A. Artifact Scavenger Hunt - WDW News Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0FHdGMwUnNlcnlEb3JqSkozRnl4NnBFcVBVaF9BbE1rUm5hY2Y4M0JjZGJGZVAyYVlPSTNuNldBZTZmUWozc1E0aUdOOFMyaUcxV3JEUWtNQkFQTlR3Y2RSVVI1ZDF4S0tYVFdZU0JkcHRZWTAtVFNuMlRPaDFSVEh2dTM1NGx1RG1ia2lERkdCbHd1ZkQ0alBMc2pIQm9kRW14Wl9SQUprWEJYSVhfek9ZQ3ZfazBCTHZR?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

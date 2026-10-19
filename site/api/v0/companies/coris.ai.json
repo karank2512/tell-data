@@ -1,0 +1,25 @@
+{
+  "domain": "coris.ai",
+  "name": "Coris",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Speira launches CORIS - Aluminium International Today",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FZVREUlhmOGVmQ3p3YW9RdThiU3lOR2JXZm4yb2hzMzk0Q3dHcTRCY1J6WDVpdm44NHZ5eW1ERXlyMVk0Skg2RVJKOGRWQ1NhWU5Hd0EwN09rY3VzNnZVeEhETQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

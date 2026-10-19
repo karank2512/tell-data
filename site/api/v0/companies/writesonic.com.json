@@ -1,0 +1,60 @@
+{
+  "domain": "writesonic.com",
+  "name": "Writesonic",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 3.6,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Introducing Muse Spark tracking in Writesonic",
+      "url": "https://writesonic.com/blog/muse-spark-tracking"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-09-24",
+      "summary": "Introducing Citation Decay in Writesonic: track which pages rise and fade in AI search",
+      "url": "https://writesonic.com/blog/citation-decay"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.8,
+      "occurred_at": "2026-09-11",
+      "summary": "Introducing Prompt targets: track the questions your buyers actually ask",
+      "url": "https://writesonic.com/blog/prompt-targets"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-21",
+      "summary": "Introducing the AI Ads Index. The First Public Tracker for ChatGPT Ads.",
+      "url": "https://writesonic.com/blog/introducing-ai-ads-index"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-04",
+      "summary": "Introducing Project hub in Writesonic for multi-brand teams",
+      "url": "https://writesonic.com/blog/project-hub"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-09-24",
+      "url": "https://writesonic.com/blog/introducing-agentic-commerce-tracking",
+      "summary": "Introducing Agentic Commerce Tracking in Writesonic"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "domain": "cellbyte.com",
+  "name": "Cellbyte",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Introducing Cellbyte 2.0",
+      "url": "https://www.cellbyte.com/blog/introducing-cellbyte-2-0"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

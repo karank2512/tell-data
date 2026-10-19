@@ -1,0 +1,25 @@
+{
+  "domain": "backdropagent.com",
+  "name": "Backdrop",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-18",
+      "summary": "Atenas launches Gallery Nights: a different artist every month, with the Central Valley as a backdrop - The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON3B2TmJzUWE0V25FTk9TY2s4WkdKZ2NHbjlGbklPN21xakdOV04tRV9wSDdQUHRJRzJDLWp5MmIzWkRwc2k5QmgtbGlINDh0RS1HR0pua0JsOE9FZWpLX1NUcGM0MWcxd3hlamp5ajg1LTBTb2lLenk4dTNFLVBERGthdnlWby0wSm5IbUhRS2IwdElsTWFuMnl4amswUGZCZ2lxQVIzQnFMU2FpdVFEelRYRzBTYWRPSnMwNWhhQVNYOFJRNnlTOUIyeDg?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

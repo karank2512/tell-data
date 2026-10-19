@@ -1,0 +1,32 @@
+{
+  "domain": "units.school",
+  "name": "Units",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 2.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "GMD debuts 167 affordable units at Victory Northgate - DJC",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVmZMS3djVlhSZjJrb1AtOGE2bkJ5N1BRYmZDQ2llMU1NV2RsdlEzYXBSODZFckdycVh1bWpscUpWZG5UbHEyWnlOOE9KcWxIZFpB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-13",
+      "summary": "Kanawha County unveils new emergency response units - WOWK 13 News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnp6ZTl1blo4Z0d4OUplbTdMZFJuc0l0OEExS1l2c2tiN0RLNGVwSHlfQ05ISXZyQ09uYzJOdGp4YWRjYXdNTTJseVV4WnA5aHBpQXVCMHBIaFlURGNNNWtSNFVuQkJIcFc1NERyVzVpcTVSNzNERmpkTHpsVWpwaHBGelBtZzd0TkV1N01IeTFMLU96?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}

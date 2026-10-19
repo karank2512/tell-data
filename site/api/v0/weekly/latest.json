@@ -391,7 +391,7 @@
   ],
   "method_change": "Scoring rule: funding magnitude is log10(total_offering_amount) capped at 8, or 6 when the amount is undisclosed or zero (spec section 8); form_d_filed events flagged is_amendment never produce a signal.",
   "coverage": {
-    "companies_monitored": 939,
+    "companies_monitored": 942,
     "boards_polled": 528,
     "filings_read": 18841
   },

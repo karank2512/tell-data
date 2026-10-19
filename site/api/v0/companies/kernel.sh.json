@@ -1,0 +1,32 @@
+{
+  "domain": "kernel.sh",
+  "name": "KERNEL",
+  "as_of": "2026-10-19",
+  "profile": "default",
+  "score": 2.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-13",
+      "summary": "Nvidia launches USD BRep geometry kernel for solid modelling - develop3d",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEo0UkpkX21EV051Mmk1QXg5b3p1RERCeDJlaGhyX2Z0MVQ4TEhYRGNpa3pvLUdOdENGaTZfZUYyQzNOU1JzVWlIVDFxTlpXRXV6UnlhY2s5STNYai1MRVZRRkk5eVo1ZHZIdmpmRkJfQlFleXV2R2lPa2ljR1U5OG1uckJDTHN3SERhdVZ1M1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-13",
+      "summary": "Nvidia Releases CAD Kernel SMLib as Open Source Under the Apache 2.0 License - 3Druck.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemR2QlVlTUZOTlFiSUV4dExtbFZidV85ZGFYMzd5YTE2bzZFRjBmYm1FRmZiZHlHVWVIX2Q4MGVHVFRMWHRJS0xubkFYbFIxUHcwU1hSSmVTaC1EckQzaS1jbmZJUWMtZlhIU3dmSXd6NVN2TnIyZEFVWmlPTVJvZ01VMXJLNFh6T2RlSlY1OC1GdmM3UHpoWHB3UTczRFJfN0tnQUVVSjBoY19kOFJZZTNNYjc0RWRsdWdlem9R?oc=5"
+    }
+  ],
+  "open_postings": 8,
+  "long_open_roles": 4,
+  "sources": {
+    "ats": "ashby:usekernel",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "why_not_higher": []
+}
