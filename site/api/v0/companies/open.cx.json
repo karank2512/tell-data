@@ -1,0 +1,32 @@
+{
+  "domain": "open.cx",
+  "name": "Open",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date - Meta AI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxQTR0N0dqcHl2SFlORVRDWlZ2MFg3c1l3czJ5ZF9pQVJMd1FFcTBzTjdfQ00ydURKSVpESEloR2hhVzNJTkIyNU9XalpybnFmdWlJYjhHV0k?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Nvidia debuts three new open AI models - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVW9sWFJ6TXBCVE1GNXVKV0g4MEt0WU1WUjh4WHkxMmVrOHdIajlLMXFZZ2ZZWk1uUVlxclpfVHNFYV9QT3QzRHlsTGlZZGlsZEJ6SGJWNFZ3NTFYZ2M4YUV3dm9tQXRQOGl2M0pOVDRlN1UzMU9seV9IZ095S0pBNFA4VWVMa285RDdaN1h3dzNUWnk3NXNxUUE3OXp6Sk0?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

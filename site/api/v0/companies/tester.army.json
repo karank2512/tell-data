@@ -1,0 +1,46 @@
+{
+  "domain": "tester.army",
+  "name": "TesterArmy",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-10-01",
+      "summary": "Introducing e2e: open source agentic testing for web, iOS, and Android",
+      "url": "https://tester.army/blog/introducing-e2e"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-26",
+      "summary": "Introducing unbox-ai: See Where Your Agent's Tokens Actually Go",
+      "url": "https://tester.army/blog/introducing-unbox-ai"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-20",
+      "summary": "Introducing the Issues Tab: One Row Per Bug, No Matter How Many Runs Found It",
+      "url": "https://tester.army/blog/introducing-the-issues-tab"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-22",
+      "summary": "Introducing Scout: API Testing Built for AI Agents",
+      "url": "https://tester.army/blog/introducing-scout-api-testing-for-agents"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

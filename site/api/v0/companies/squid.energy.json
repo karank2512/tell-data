@@ -1,0 +1,32 @@
+{
+  "domain": "squid.energy",
+  "name": "Squid",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Tixel launches first major integrated campaign, featuring a giant squid - Mumbrella",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVmd3dElELTVkWlNKbTBrVXA2QnhYd0prRTFFbXZmUE5TclBGX3NtZm9UTFhOTUhsai1uUlBMNmdwVDQ4NWg0UkNtTTNZVUl2Zzl6eU80cUZNaFFudjgxM1VjVHlHaTlKb3duSWxWcUdVZG1yZ3dlQkNzRGNFSE1HMklTN0lqOHdSS1c2LUJYTUs5cE13dldZd21nb3RqR2RDc2lJUw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "South Korea Launches Quarterly Ocean Forecasts as Pollock Vanishes, Squid Collapses 90 Percent - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOREg5U0JZR3BNSkx6YjJ0c1lMUUFoODgwQTZZcXd0MWRiVGd2Um4wV1pHdU1PZ18xSU0tdnZsUmhqRi1hWFAyUEFHemV5VHhVOVNTMkVTNlRzejRTeWZoSm5LWkRtUW0zYTctNU1GcXVsWnJ4YWZJQUNxWVgtcmg3ZHdqNEM3UHl0aTB4bFEyRnk1MXhqTFEzMjZ0dXMwOUZQcDlKdFlmOWtnb21BbGs5azE4NHdsS0JwejF5RzRUV3Vpb0NoenB4YnJjLTE1aW1hTUpLaUVldkE4ZE1KQ2c?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

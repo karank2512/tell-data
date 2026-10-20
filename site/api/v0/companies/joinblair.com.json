@@ -1,0 +1,32 @@
+{
+  "domain": "joinblair.com",
+  "name": "Blair",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 3.4,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "CapillaryFlow promotes [person] to sales manager",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKa0JUV0l1U25FaUR5aDFmdUZoT29SaERtUUR2NldzQ2UtcmhOTndUT0hkYVVXeUV3RTcwTjZDTVR0Z0JNdTh4Y2p3T3kxdFZrUVlUSmZHYUdPSTNPaW5tbTZ5d1BjbnlxdTUtYWV0SzBuY2RVR29MTl94RQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Selma Blair releases lengthy statement from rep following plane arrest - The National News Desk",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb0V5Z01PRW43V0tjMWJwT3JRcFVIc25ZWXVSSGthMkJDSFZjZmpwQmQ5cHdDc3ZQdWI0RXJrcmFTREdsMm1OcFpHR0JGZlVQc1FoZWMtNnIxd2JiY0p2LUExVXpxT0JwV1oyLUtwZjhvUElTNjBGOWItZy1neGZfWU9GU1dIS3lzdWtvaTN0STQ3b1Q0YlpxVnNhdGgzT2dqYUhxWHVINHpmSlNxT0NHdGUxU3B6S2dS?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

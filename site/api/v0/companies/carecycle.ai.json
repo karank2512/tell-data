@@ -1,0 +1,25 @@
+{
+  "domain": "carecycle.ai",
+  "name": "careCycle",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Voice AI startup careCycle rolls out free plan comparison tool for Medicare beneficiaries - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNm94bFE2TndJN2NjLUxQd2JsM1kyTy16dnpjVVFkOUhtNF8zQ29IdXB1ZlpnWlJWUlRLR2JSWmlmQkZmLWFwMEpDRkZSb25qOGd4ZFQ0Q0gxNHhQZUQwUjRlLThIUGYtVnpYQVNya1JtZ0NYdUw0OFRGc3IydkJHY3JBdEFseFN4ZzRfZGNOYVF6Z2NZRlptb3oxRVJWTU9oaDVha2R3?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

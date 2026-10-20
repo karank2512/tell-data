@@ -1,0 +1,32 @@
+{
+  "domain": "corgi.com",
+  "name": "Corgi Insurance",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 3.7,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-13",
+      "summary": "Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2R5Z0Z6cHk3TllXdWxsa1BVZzh2XzJ0MDkwR1cwcUlWa19iMWdjSEFSRGJMQWhkanhEMzc5dTQ5OFRqMkJPTlZrR3NWZXhSeTZKdGRQajNhb283R2hkeE5lbXduMmdjX2hpNnBtR2wzM3JvbmZyUjFSc0h2UHFVaGhQUXd6SmFCTEpWVkl4WEdzVXFrX3hfWm9oVnFfRGU5WnZuSFExM2xrRlQzV1BLNV9wdFNNbXFZZ2w3SDlMMWo4SnR2UExDb2thYnFIWmtGS3VtTF9iRQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-13",
+      "summary": "Corgi Insurance Appoints [person] as Head of Underwriting for Trucking",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWGo4dE9rS0xsOTNTVm1tTTg2U3VUT0l1Vnl6dVpYVnM0TklHMHBxM01RZ3Y5TFJ6TllrcFVIdVNmSzg0d2ZvXzVzdmtOakRLWnk4SDBVQ3BNT1JtZEx5aUVaelRaRHZBTl8yN2hDTzllNTBnMHEwZVN6bUs2TmtOLV9Pa3d2WGYxUnVvNFZaYkNBWF9vLXdtNE13R0JGSnlDMVdsbUs5WVNmb0ctLWxMOXpKRGpqSzlHM2ZZRm5fS2hDUGtOXzduMHJ2UnR4WVl1UGc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

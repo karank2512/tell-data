@@ -1,0 +1,32 @@
+{
+  "domain": "beam.cloud",
+  "name": "Beam",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS | Amazon Web Services - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSElxZ0NWWkFqY3FmY29PN3JhMHRxSVo3eEJMLUYxMmtNNVl2LUlzNjZsU05heFlmby1aWFh4ZFRCRTRobDMwdjZvdGI1NlNCb1ZGRS0zMUdqQjJvRFpQb0JoN1NFLXhGdzI1WFl0Z0UtRWNVNWYySEZDV05GdGhzZHhsdU1BT3Z2Y09uWUo2TXZJZEY4ekotQVJYM0hWQ3VyWHJvSnU2WFU0T2JLVTNGSkVlcTk0c2M5amhJN01n?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Reflection Releases Beam’s Open Weights Under Apache 2.0 License - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONklLYjJNN2xhMUI4S196NG9vaFdvczBXNVZKOUJHUkFJQVAtYVFKdWtkR1FocnlVVVd6Ry1KLUpidU5iNVhLNEZuTzl6YV9oVGNnN0VVY19SUjB3dHF0X1c3UzRQNWxfNEJWdFdScXhjalB2SDVxSE8wUWxVNDFZTWs4Q2JpbFVHN2dRckpn?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

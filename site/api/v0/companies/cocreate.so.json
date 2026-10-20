@@ -1,0 +1,32 @@
+{
+  "domain": "cocreate.so",
+  "name": "cocreate",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Alibaba.com crowns Lettuboost the winner of CoCreate Pitch 2026 Malaysia and launches its Accio AI agent for local SMEs - Tech Critter",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR0hxeGxHZTBiOHh4eXlUVFRWc3diNGlnUWJ3RHViYmxjcVlfR21kUVVCSFJpMVkwUzdsSnFmRkQ1UFo2eE1GSk9JQjhJX09rZnVna1VSdUotTXZBNlBIamdzbmNzWjZCbWgzM3ZCeFhUUXppaFVoeS1Pb2VHYm5JRGI0WmdhZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Alibaba.com Launches Accio AI Platform For Malaysian SMEs At CoCreate Pitch 2026 Malaysia Final - Pokde.Net",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uS0xRbm50Nm9tbFFfTEs3QUF1OWJuWGlfRWk4SUtORGFhRmhPRjhWOUtFSFBWRGRzRnVRelZJYWFyRWtxZDByWnRkV1ZUVVpEVVFrM2VpVFp1a2l2dmEtRDJBT0YtdkJmTGg3eDE1dnJSamh4VFpDSg?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

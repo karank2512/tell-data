@@ -1,0 +1,25 @@
+{
+  "domain": "usecaribou.com",
+  "name": "Caribou",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "Caribou Coffee Unveils 2026 Holiday Menu - QSR Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOVgyZ1hWbS12QUNLam4zVkpYOExyS2pnNlkwT2lCNHpHVjRiMnpKVWRCVkpnUzdzdS1BOHdVMHdrSnVUTDNrN01QUnZzVEtPUUliZVdrbDZUbGFIMzlXZ080cTYzWVNfNDRDam8zZmh5akxpSEoyLXBQX1BydGc?oc=5"
+    }
+  ],
+  "open_postings": 3,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:caribou",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

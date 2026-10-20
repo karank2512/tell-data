@@ -1,0 +1,32 @@
+{
+  "domain": "replicas.dev",
+  "name": "Replicas",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 1.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-09-24",
+      "summary": "Introducing Replicas for iOS",
+      "url": "https://replicas.dev/blog/replicas-for-ios"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-09-04",
+      "summary": "Introducing fallbacks + forks",
+      "url": "https://replicas.dev/blog/fallbacks-and-forks"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

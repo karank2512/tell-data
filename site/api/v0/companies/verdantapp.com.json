@@ -1,0 +1,39 @@
+{
+  "domain": "verdantapp.com",
+  "name": "Verdant",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 4.1,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Verdant appoints [person] as East Africa director",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcDVwWWVyYndreVFOSWFITU00Z0NmdDc3eWJmQjFQdDVXbDVqeGFCOG9hQXE1bFQ2dDlHMnNuNGFvLWgyTUF0b3BRY2Mxd082Z0pNOTZzbmhoMW9raXQ3amZNV0lSSTlHdnVMUktPb0l6Z3hCQm0xRl85TjlvOHBWMDZsNA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-14",
+      "summary": "Verdant Capital launches Nairobi office - Africa Business Communities",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmYzRTJOQ0traEtyYTlVTHFCaWJSbWtwa2s2UmZfTkkxQTEtZVEtMzU5S0JuLWZMS3piZEdQOUw0U0hPUTlWeTEySDNFUEZsSWFydlNlTnp6NWs5bDB2YVZTdndvZWw4UU1yZ25EcjBON3JTbGE2SkJranRobDYwa19XNGRydnYtUDJpS2U0RQ?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Verdant Capital opens Nairobi office - Africa Business Communities",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRWF0TTVyRTlPQlBsR09OOHNBNDNrMGhJYmVWTDNibFdZVGkxYmZoUHNLdjUtVzZIUDRNZ1hzblA3QTJNSXd1U015TzA3c3FQZ3F1ek5OVDI5dEs0M2RTYjZDdHdrdGNOVG52YzRkVjJ6NHN3cXpUbElrT2E2SXRpWHVUN1NpMHBRblVj?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

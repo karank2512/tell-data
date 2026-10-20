@@ -1,0 +1,25 @@
+{
+  "domain": "onswitchboard.com",
+  "name": "Switchboard",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-18",
+      "summary": "EVNCPC launches automatic power incident reporting feature via switchboard 1558 and 19001909 - Laodong.vn",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmFNM2l2Yk1QT19EZDhDN2Jid1JPNlBIRXpTZW1sbjN3aGV4c3lKLXQ1ZVdJbllBUG9oX2lucWVEYXFKUzQ3enVMa1lvSGpyMFNKQlYzRUw2cFQ0MXQ4SU1mTW13c1Nmd0VKTERrbk81T084UFJMX0FuTGpZdnlZV1JpQ3ZabHhxS3A0RGRZMzJkajh0bk9KZW1MZktPa1FLTUxzbGZEV0RVenY5Z2FLT2t4TG5XdFNlZEtJSGNBLWJMOWZoc0JtWDhHeXctb1F4?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

@@ -1,0 +1,39 @@
+{
+  "domain": "returnsignals.com",
+  "name": "Signals",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 4.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Week In Review: New York signals choice program opt-in, and ACT releases new data - K-12 Dive",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CdHlYQ3doOGhyb2UzdklDaUNzLXJlWEwyUU51M3lJZHR6RFRkVXNXZElvSFFxRzMycU01SGN5WFNYQ0ZHWm5zVjJqVGR2UndHdWFyb2hVTmdFVVgxdzlHb0Rydk9XeGsyckhVak1JZlNqN2ZHYUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "News Gemini signals full Suez return by Q1 as it launches new Asia-Med service - The Loadstar",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR0FxZUV6N3NlSVN1aDVBcWVpTWJZZDN3Y28tazA4dk9UTW5qUU13UGtKTHRPN0FiNjFWQ3MzV3k3Y2NPNUhjb0RpZEhoQnVROUJ6TGFjNzMwLTMzTDdURlYyM0kzX0NDbnoyaTM2ZTlwakFib3BhZTlwZjFSREFDbFB3UmRtMENUb1hBUk5CZ2ZiZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Knightscope, Inc. (KSCP) Launches Live ‘Signals’ Security Digital Twin - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVDF6YXRicTJMUVBmZU9uZVRYckRFVlF2TFE2V2xCNmJNZ1llT0hrVFNIQzNOZnl6VU03MW4wZ2tYb1ZKY0l3TXZKTENvTFhMcHc0RmpNTmxOQ1hnZWNEdVFnSHhTU2k5Y0RsZnBpZDJ2Q1I3UkFWbmJJSExFNHk4TERPV093RzlVNXZTekVucjIxTGlIbkxPYjQtS1B3RmU2XzBHN3ZjazVvZ2NqVS1wenR4SHBieXlia1ZkVDVjcUo?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

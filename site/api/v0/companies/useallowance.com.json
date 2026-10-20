@@ -1,0 +1,46 @@
+{
+  "domain": "useallowance.com",
+  "name": "Allowance",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-13",
+      "summary": "SAASTEPS Secures Key Patent Allowance and Launches CODEN.com - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEszenBRb05lbFNGSWZzeXdnM0RoNjlscmVSYS1iM2tUMmNpQnlDR2R5SEVhNDNQMFBMYndMYmZvV2tYR213VWZ6cGdtb2RwZWgzcW5WOXlLeFN3dXB5WUN0OFNLcTg5cTBXb3g0QWxWdHo1dFZTTDduMkZsZE90dzVQRGVhbmVRVkV1c1c3QVRpMTMwSFNXN0M0eXBZbWJyakFyeVp1TGdnSkFoQmtGcXI1aXBqU2U1X0ZZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-29",
+      "summary": "Introducing Rewards Optimization",
+      "url": "https://useallowance.com/blog/introducing-rewards-optimization/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-22",
+      "summary": "Introducing One-Time Cards: A card number you control",
+      "url": "https://useallowance.com/blog/introducing-one-time-cards/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.4,
+      "occurred_at": "2026-07-16",
+      "summary": "Allowance plugin launches on ChatGPT",
+      "url": "https://useallowance.com/blog/allowance-plugin-launches-on-chatgpt/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

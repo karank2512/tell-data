@@ -1,0 +1,32 @@
+{
+  "domain": "corahealth.app",
+  "name": "Cora",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 3.2,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Cora Cora Maldives Promotes [person] to General Manager",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmhsUVJPVVd1cjJRYWE3V09XQXRQdWtUTzk3OFloZWdrNkp1WnZpaG16RWVzYjRnRklkcUZXQTh3UV83SVgyVnlORlBFa0Yydm9lNDJ2MnlZM2NuZUxZMVVqejB4WmtvN1BlTk1FbzhFeEsyVXF2SkFqYlBONmJUejdxNGIyWGlyblBLdnFaZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-13",
+      "summary": "Ascend Introduces Cora, an AI Coworker Designed to Enhance Automation, Starting with Commissions Reconciliation - Coverager",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcDBLamYySkY2MWpJVEVSVU5EWjRNalJmT0JBRTQ5ZXRGVUdSNXFaQWZKV01YdldkRFFuVm81NVc3OWNRUTVwVFltYlhLTk5QNGxWb0ZoX0xVMmtrdGkzTG90eHp3STM1VmpRdHBsS0NYbHd5M25JZzdBcG5NMlZaRlQ3MmJaZThQV0NueUxyY1lfUkVmcFN4MU9BREVfb3k0bjY5RTc2bHpXc2Z0aU5qX19JQ2R0VmFjZnh5VGdaTWxRUTVxcldOMDRlNkQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

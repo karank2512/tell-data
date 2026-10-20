@@ -1,0 +1,32 @@
+{
+  "domain": "infinityapp.in",
+  "name": "Infinity",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 3.2,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Infinity Aviation Group appoints [person] as GM of Florida FBO",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHFfWE5UYURRUzFyRXRDS0VmZW9UbFllUDd4YTFmOC1vNTR6R2VUX0F0YjRWLXc1U0llZ0Y2WTZNUFJ3Zm1BNlNfeXh1XzkwYklsaVBOTlMteS1mTUo3bnFpa2xyblpnZWlLN01HcFBYd3lGNVpNTnNfTUJ4eDB4UnlubC0yeW8wRzhJb3VIWjJvTEZjZURzdUYtdHJidw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-14",
+      "summary": "EMTEK Launches RTX 5080 INFINITY 3 - Inven Global",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSEt4SHNURVNVN0xfRUlhcFhKSmNaZEVSNTNtQmx5OUxXRmdBTHZGTWxKMndsTy1JNGtTQmE2djd1T19IVDlramZmR0ptZUxBVlhhVE5IM3l2QnBNanAxREhMQWNKV1M3TmxuX1Q4RXlJTHM5R183MGd5eG5RbEhoNnlfSQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

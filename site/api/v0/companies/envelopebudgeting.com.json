@@ -1,0 +1,32 @@
+{
+  "domain": "envelopebudgeting.com",
+  "name": "Envelope",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "PPMD launches Blue Envelope Program to enhance community safety - Army.mil",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblNSbW9kaS1hdGxGTTU3VmtPdWJHb3dZM0pLWWlGR0ZEdEp5ejFiTDRkZHBvaWxhMWVXdEUyMlE5c2hCSzdacnVtdTdZS0FBOHMzOW03al9JR3NpMXZxeU5IblJyVXhpWDZhOGFmRGJtYWNxYXkyOXEyOV9Hbm1IbEhGVUNCY3JCb2Y5b2ZGczNyRWpnWGhab01IYUpEeHQwWkRHVnVR0gGmAUFVX3lxTE5uU1Jtb2RpLWF0bEZNNTdWa091Ykdvd1kzSktZaUZHRkR0Snl6MWJMNGRkcG9pbGExZVd0RTIyUTlzaEJLN1pydW11N1lLQUE4czM5bTdqX0lHc2kxdnF5TkhuUnJVeGlYNmE4YWZEYm1hY3FheTI5cTI5X0dubUhsSEZVQ0JjckJvZjlvZkZzM3JFamdYaFpvTUhhSkR4dDBaREdWdVE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-17",
+      "summary": "PSP launches ‘Blue Envelope Program’ to help encounters with people with disabilities - ABC27",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjV5WHZWZVROWjBURjVJVXRBZ3RocFpoYTNmN0VXckMySjdqMzRYTktvX1lPbHNJN0pfLU5iTENoZVBEUkc5ZEJQZFdmdXpmOTUxNzNIUEk1V2FRUmFCby1CR0tlT0hzVi1VLU5qclI3ZXB4Skhkd3R5V3kxSG5UX1cyTzBtNjBXSEFaSEJVS25OMlBJbVRyZXZjRUdCYlFCLVptbHN6NmU5SVg3Qm0weldheWNRUEdxMU9V0gHAAUFVX3lxTE0zcEFhTThTNkQyeGh6WFA3eFFSM0t6LWpIaVBhZXhjTVN2NFhpV2ZJQjlwR3hVaks2ek52OGw3bFR3N1VjR1dQTC1LT05zcDZ2ZXJXOU1QMEpKOVpORjZ3eTJCMVpZZ01QNTg5YTFZNUQwTjhNRjVncmtNcXhmYjVXdkhGVVhaSV9QaHNMcktWdVlzMk5vLWc1dUVBR1VRYnhsZWt6amFjeGctZ2pIR1dkWnBUd2wxRkFMdXFTY3FsUw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}
