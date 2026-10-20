@@ -1,9 +1,9 @@
 {
   "domain": "getthematic.com",
   "name": "Thematic",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "XM unveils AI_INDX, expanding thematic indices to cover artificial intelligence, blockchain, and green energy - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFVoNHMzaDdDNmg3UDk3TmIzWGRCM1FnbURTV1F6emkwOWNwN0dkUjkxREJ4SWlockN0OHhIdmpqZzQtVXpqcFU3dVJGRTNrR0UxVUN2YlJ2cHczRV9Ib2p2MUpnQ2xfdkZzMkx1VTJqTC1ZM1UzVC1OcTJxcDhOZWFyUHI1UHU4SEYwVGxOOA?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

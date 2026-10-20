@@ -1,13 +1,13 @@
 {
   "domain": "bovo.ai",
   "name": "Bovo Music",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 12.6,
+  "score": 12.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.6,
+      "contribution": 12.5,
       "occurred_at": "2026-07-29",
       "summary": "Form D: $950,000 offering, $950,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2147775/000214777526000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002147775",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

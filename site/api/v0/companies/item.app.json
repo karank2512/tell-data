@@ -1,13 +1,13 @@
 {
   "domain": "item.app",
   "name": "item",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "The Item launches '132, thanks to you' fundraiser to support local journalism - The Sumter Item",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk5COUtIUi01bmFkX25OblNMeU90QWxvUEZzWmFLMnQzVUpZNmoydXZRbmg5bFI2ZzhvMEdkR3JUcE9EWks4cjlNTDltdzBaamphNmNqYjlENzBuaVdiWkt0X0pjUERTbndlS2gtV2NlQWp6eThzQ0c3QWN1VEF0TTVSbDBXdkU1ZU90ZUoxRVVFVG80SFpoQWI5X0p0SHAwN0xEQWY0OUdaTi1wNnNmTEk5SQ?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

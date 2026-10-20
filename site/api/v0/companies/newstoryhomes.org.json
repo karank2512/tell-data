@@ -1,10 +1,17 @@
 {
   "domain": "newstoryhomes.org",
   "name": "New Story",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.5,
+  "score": 6.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "project;VIRAI Unveils New Story Trailer and New Demo at The MIX Fall Showcase! - Games Press",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDZUeHlGUzNjLVdVZDZkZWlVTVl0Y3NURmt1VVBQRlQ3WGpzVFRuN09NTFRsUzMwcWJmWTFQc1JKTzA0NzRCSnExczhaQ21KblBQOWNoU1l5WmtDb1lIZERIZzhwRDFaX2x3UngwbmRiZ3hZVnllcHBvRklxckJ4QjdEU0hLZDVfNVlFd21LWWRIMUFwckQ0M1Y5cnV1QQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Blue Archive Launches New Story Event With Swimsuit Kisaki and Shun; New Trailer Streaming Now - Noisy Pixel",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZ3BBc3laRmtDYkptaXM5RUlHcElCZFBIbDhkTlBSTjY1d1BpeTNEM08zZG0zNmRQLXpIU3lqdlhhZmVoSlRVYzRhT0wtak1ILWZTcjJOdjlmTE1ZQ1FnMzNjNl9zVUlGV2tLdG5qYk5uNEJoQlJWWV9wcEJkTDQ?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

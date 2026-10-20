@@ -1,9 +1,9 @@
 {
   "domain": "enterflow.app",
   "name": "Flow",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Notable introduces Flow Compass, giving healthcare operators control of their AI workforce - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWFlDSGFQLUxEQWJsanNoU3l3V3BmX21pLVk5akd6UkFSaVU2NEpjaVhJNllvNnItdkJNcWJMNE1hQUZXNW44RW9PdG53S2ZsclRzNlNVOU9tVlFYR3F6SHZnQmROU1ZaOE1EV09VSWhIZ29JdnFZdHZOY2sxLTE3SVJPa0NnbE9HX3A0UnNXaGhhaTRaSkR1RzdOWUpOX0Nqb1lPalplcU1iQThFQVhoc2ZvRUNsNlFQX1J5djh0cXhMN1dsRWx0UWlpSGw1Q2d3eUMxaFhDMWl0T1pUaXc?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

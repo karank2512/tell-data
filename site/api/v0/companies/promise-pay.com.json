@@ -1,9 +1,9 @@
 {
   "domain": "promise-pay.com",
   "name": "Promise",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Kalamazoo Promise expands to cover tuition at HBCUs - WOODTV.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnd5NUlUVE9oWnc2eENidnpUMFNidF81Zll1SVRjRnlxUTJhV2NVdElWMmJ6RVBrbXZiN1EwOTFrNW95V05SNEVpRVpYMlJtRm5UWXFJa0xoSkZvMHNtN2k0ZjhFRW9HM3hKRUc3RHozRElzMmE2NnFUckxUOU45djNyd25zdVJxb3NBTm9yZFE0NGppeGc0b3hWNzdhUdIBowFBVV95cUxPdkt3U1hseE85cFZKcGpWVi1HWnRibk44MzlLZW5CQzd4RlNRcFg5dnFGeUlHdjJiY1M0dGRpSTRRamFCM3oteDlxQXdVZ09McHFjWHdXWERkelA5bUxGLUpVeDFBRWc3MGVjVGZBYzNrLU9JeDV1UGRYSWRaYnVSVVZ6R2RtSHh2b2NsaFZrSVVXSWI4ZnNSaHphSnl4ak9pR0hj?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

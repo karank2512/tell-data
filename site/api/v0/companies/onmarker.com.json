@@ -1,20 +1,20 @@
 {
   "domain": "onmarker.com",
   "name": "Marker",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Brothertown Indian Nation unveils marker honoring historic church, former leader - WBAY",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVpsZEh0MzBkSmZJY3FnMGI2N19ELTJCbEE1Um9YRWkyWi03YXZVMmt0ZmxESklJdW5ONWFuVDdYTHhwUTYyOFlva0t2T21JYW5ET0RKS216djJMc0lMOGdSN3NLRExLaXJ4cnB1c003N0ZqV3d0X3JNWkpicnBVOG5yS2l2a2wwS01JTU1aS09EdFA5emplZDdjWGdoUkl3cHJiYnRINU5rM2xJaDc4QThn0gHGAUFVX3lxTE92aXpkQkxmZlJJN1FyVGFDWXFzZ1FVRloydHAwaWh4NURxNEd3cDBnY05uVTI3V1ZwVExDeW5zUnBnbXI2RkdaX1AySkloN0tVSXZ3ZG4wNzJOeng5Z0szc1VEOVd3dVUyNHpYOExsZVI4Y2lZd21ZdHhJZkd5Y2ZNaWVjVnVHejRRNjBTX1RKQW02TERaZ2RVU001LUlwTkt5c0RkMjRNNXlIWDRsa1dGcjltYy1raTdpNGc3blUwbFlsX0NEUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Brothertown Indian Nation unveils marker honoring historic church, former leader - WBAY",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLWhSNk91dDcySGsyTFpXQWh6b3dKTmtzQkRYVTNVMjlzdGxnQnBkY2JJYS15b1BYVm5odER5VHduX3RMU2pVdFRpV09PY21MVGNYMWVBcTJFdWcxeGoxMmYtOWc3SFI3TjNuWXEzRS1acHB4OURCYXNZMVFqNmpUdVhGSF9XLWF0LTBBSnd0X2lwQWRNSnVFZEFlUWxDSWhKSl9XZ1R2elQwZzVLZmRmM0VnSkpfbzQ3Q0E?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

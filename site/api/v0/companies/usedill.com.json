@@ -1,13 +1,13 @@
 {
   "domain": "usedill.com",
   "name": "Dill",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 3.1,
+  "score": 3.0,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-09",
       "summary": "ODOT head Tim Gatz to retire, Stitt appoints [person] as interim director",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUZJT1dCN1l0c1lQYXhEb1BmUVRhX1BJOUN0U3oxUDJqWGRVZjdyajk1dFJQM1RxemhvYmNtXzM4blEzNG9PRVg1MXdMYXZYM3Z1MTdHQ09RUTNsRHFXZnl6UFl3WmdVdG14ZjE5blF5VWZCbk8wNF8yLWtoNWZjZlVmS3dGODA?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

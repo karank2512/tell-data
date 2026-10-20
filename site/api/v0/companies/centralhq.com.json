@@ -1,13 +1,13 @@
 {
   "domain": "centralhq.com",
   "name": "Central",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.4,
+  "score": 1.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "USF launches national security hub, expanding partnership with U.S. Central Command - University of South Florida",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXZjbUM1azFIS29FSldNekhlNlZ6UmNpTE51eFpUT0pHek50UHcxV2N4aW5RMVVnMk8yY1pyc1NuYTZSTnE5bUw3MVdneXd3M1B0Nm55a2QwbGQ2YW9EMGx4WUhndlN3bHdkOG1wbzhUeHR0TDc0RDAxY2xLcWdvTmMtV1N4QmljUU8xN3h4SVpFcjNVZlkxQnpLZFRxdE9TX18tbjlTaGhULTRhcXc3NHpmdms4b1VzOUVUUTBBQkdTLTQ?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

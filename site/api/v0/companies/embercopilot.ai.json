@@ -1,20 +1,20 @@
 {
   "domain": "embercopilot.ai",
   "name": "Ember",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.1,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Ember AI Launches Revenue Integrity Index, Revealing 57% Reduction in Preventable Denials - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORVlBRF9fWGoxZ3VoSm5sNE4yQnF2eWpGM2JGLUJlTkpOUTg4MncxbEE4LTdMdHZCRFF6V3Jva0pTNnB1bzFCTjFfLXdia2hxZ0hNRUJ0ZHpxal9kcThBazRqTDlQTlRpTnIzdEdDai1IOC1rSmV1VTMxaHY1dlJiQzl0aV9vTWZrYXV2aWRVTFVJc3kxeFFCTzZqOHQ4UFBpQ1lqcTlnS0ktUjlET0dva2xKaDdBcUlGQjljaXFpem1Db3hHOUdXWDZWdUllQUtNTTlmWlA0ZUc4NVE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Ember and Blade Releases in Early Access on January 8 - Final Weapon",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHRpU3NCRWJZOHY5Uk96MFc0RjlhdGhPM0xheFQwMk5Zc0pSTUJ1Q3RPdXVraGRyV3NTNERCc09UVjE0RkRVbkxoWU1SMVBRM1JoVXZLbk43V2xRRERqYmlRWERzMFZwSlFkTkM1YXJpeklMNXB3T0ZwZ0JYOEtXd1VHQQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "runway.team",
   "name": "Runway",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Kylie Jenner Debuts on the Victoria’s Secret Runway in its $50 Million Fantasy Bra - Vogue",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJNcUdLVF9wMFNRaDRheG5lQnYtTW1GeUczLTdwWnplVy16aWtpaUhldk9waUlkVzMxVnQzcDZGQmVJTm13b0xLcnJZOVBRNVJTV1hlZG84NXRnaG5qaVYtNzgzbEJJcjJyN3hINkNTZG5tNU9ZNGlXS191eXpPRUxzZk9mWEJyVmpfbnoxZm4?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

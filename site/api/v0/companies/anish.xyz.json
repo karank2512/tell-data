@@ -1,13 +1,13 @@
 {
   "domain": "anish.xyz",
   "name": "Chatter",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.8,
+  "score": 4.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-16",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0FmdWFWREFBMS12V3dKNnVQUklYYzBpVnNMQlAzYmx3emRUck5ReG01TmhncUQ2V3MtcHZUSUYwV3RRQUdwYUExQm5ZejZETE9xTFBxa01iTmZUeW1oM2FBcXB3RXRzUEpBNU91X1BwUjhRS3NqSU9jZmlJM2V0MkItLVdTdWQ0Q1FTdkZTeS04cmZrb0ktdlF3OW9QdXRpT0hv?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "aphroditemedia.co",
   "name": "Aphrodite Media",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 20.5,
+  "score": 20.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.5,
+      "contribution": 20.3,
       "occurred_at": "2026-10-13",
       "summary": "Form D: $250,000 offering, $10,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2159859/000215985926000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002159859",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 35.8,
+  "score": 35.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.1,
+      "contribution": 14.0,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
@@ -63,21 +63,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Apple unveils new HomeView smart home hub - NBC News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZEprWUNmdG84anY4U3d1eHlFUmsxNWhWVEJEcVdWcjcyLXR1RkEyamd5ZXJUZnhPMVd4TjFHcEt3LUdzM05aSzVpTzI1OWdvREhwc0xnRHgtZ05lRm5uSlA1Qmg1RkFOVHE0V1JXSHVYakZrWGpkMS1aQWVzTkhoVEVPZ2RrT0k1dFlCanFXWUhTSi1LeGc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Apple unveils new HomeView smart home hub - NBC News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0J1OTB4MnlSWm5KdUlkaTVZbllia2Fjc3dLaTdNTGJnZ1cyMUxkZ3FmbDNsdjNUM2xKUU1sQjZybDB5MllheGdKd2swcTNyNlF3RHBpNktDLWY3QndZRFp2WnA5ZjNxUG5LeXE4QW90NEtzUldCY3lfX2hpRHhDVzNaOHl5Z2dtWC1iUA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Watch Apple Unveils HomeView Hub as Part of Smart Home Push - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmRVelRiR3lYSC1vNVBXajdJdFhEc3gtenI5NnZDMzVXVjRjRWk5N2NUWnVDT2dqbnctYkdLSDRxdHFPSXdxZXBfbnFIc0d2VE5xNTNXcHhOeWZHUGI5SENsVlp3a1hxU1dkLW9sbU1pZDhRTWhEQ3Z3eDNxaTl1THhyalBDVjJ3bVVBZWhJZXhUZVlVMmJrekxZcGo2TV84aDVLeEdNbGxTVVRt?oc=5"
@@ -146,6 +146,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

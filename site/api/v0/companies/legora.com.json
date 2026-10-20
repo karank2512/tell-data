@@ -1,9 +1,9 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "leadership",
@@ -35,19 +35,19 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Legora launches Intake: an \"agentic front door for in-house legal teams\" - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTFRYXVOZmFVZzdBeFBtUjM3aXRJMDNNYlVwNzRBQzRMOHNlbVh6RGUzZ2ZtMlZELWJnUTJhdUlVZWNoUmoxSlA2ZHJpaGdEeFJZT1NqRFZBM2RpM0xKZFZGRVVrZFNEQWlRRFhjS0JDWUtsYUt3MXJJV3FHa2JLN3ZseUhCZmFJQ1NwQlJnUWJKRlMwTms2Y3NlSkl1Zlk?oc=5"
     }
   ],
   "open_postings": 309,
-  "long_open_roles": 94,
+  "long_open_roles": 96,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

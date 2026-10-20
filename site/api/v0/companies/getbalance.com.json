@@ -1,9 +1,9 @@
 {
   "domain": "getbalance.com",
   "name": "Balance",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "The New Balance Kawhi 5 Releases On October 21st In Two Colors - Sneaker News",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oT2lTTXR5akZiX0xPZ0NIU3lVeTVwMGxWVndnNDhzVjNiZVBDT3hTSFdlU2psbEdTM1hWZE5Pa3Bjc2JkdkhhajRBY2F2NU1LN3ZpWFdsZzRIa04zSndZQUNWeUNfZ9IBZkFVX3lxTE1oT2lTTXR5akZiX0xPZ0NIU3lVeTVwMGxWVndnNDhzVjNiZVBDT3hTSFdlU2psbEdTM1hWZE5Pa3Bjc2JkdkhhajRBY2F2NU1LN3ZpWFdsZzRIa04zSndZQUNWeUNfZw?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

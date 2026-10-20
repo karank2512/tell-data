@@ -1,10 +1,31 @@
 {
   "domain": "withbanner.com",
   "name": "Banner",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.4,
+  "score": 5.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Sun City Banner Olive Branch releases menu - yourvalley.net",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWl9jc1NDOEtTQ1hLNHA3OElJaVc2ODNSdURDUWRaNm5HNmJtUi1UM1ZlR0hSUFh0UkMwakdKemtJdkdPQlJsaWZpS1ozV1l2U1pPUWwxeWFMMnAyZ1dnOTRmQ2V3VFlSRWttWHZodmpiXzZXYk5NOUxkS0Y4ZDUwU1VCakRrdUVMRDkzMEhYVEhsUTEtMk8zMDNDNXBYSlhka21v?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Banner Capital Launches Roof Restoration Group, Completes First Partnership with Exterior Solutions Group - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOazZRb0tIdkE2WTEzWloxUmFkNXdUXy02ZUZGNS1tXzJaYlAtUFJGb29tNTRvSXB5S210cnl3X05ucTB4YjU3NENyWFM4cTdfN09Zc0FTR3pHVlhDbldPLWRFMHR3dnl2ektPWEpxT3FBU1ZfTHJqZDE5eE5qR3lXSWV6a25yWFBjSVdHTm12eUVJb0FrY2NXZEp2emowUGgzQzNOUTZVS3hJSnNLTXVJYXE1bTdrY016S2pGSndoeW9wVE0yS2JxTHVGYk15b1ZWeC11MVk1Sks5VzllS2loMGlJb1pIZWh6Q3d1eDFMUE5Ddw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Banner Capital launches roofing platform with Exterior Solutions Group deal - PE Hub",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3hJc3k2NjlKMHoxTU5MTi1jbXF2SmpQdlU1aGlfQUx3bXA3Y0xrc3FJcUktQUN6d0hZUktraTNMQXYwSmZPR2JZX2VNUzAyY3duWV9wSXpZMV9VaUQzTUhIM1pPQVBoWkw1NnhQWU45dFM2b1d2VDUzQzVRU2s0SXNUbmVKd2JUekZFaHhOeUtwbUdPa1RVWTI1MThObHc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -20,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

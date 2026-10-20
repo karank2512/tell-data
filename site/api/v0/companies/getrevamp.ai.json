@@ -1,13 +1,13 @@
 {
   "domain": "getrevamp.ai",
   "name": "Revamp",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Trump unveils controversial DC golf course revamp - 香港電台",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmI1bm5FbUMxYmZTMGkyNHpQa1pRSl9YVDdCWC1YT21EOUZjeG1hQkctam5uVWJfelJZQmhocXZNZ2xEWEtwQ0lRWG5XLWVmdDFla3QzUk9qbDkyM1loZWN4Rk14bnVPSTFYa1ZLOUZqVjVmWHVkaFVVY3hBWlZtU3prSTNsQVE3QnZhVDlJc0lNdXFhSl9zME9EM3d6SDNtcVZn?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Bybit App Homepage Revamp: Introducing The New Financial Platform - Bybit",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDhpZVZJVFFqQldIQ0xLTzNtVGZPRkEyRThpd0JFYnJobUZIRnNVSW1OTlRqUzk1Vm1KcDBxX25UcndNbmJyMmpxVnhFLTlHdUU0MjJfM2VPd2JlTkQyQkdZWWpwSGRpQjctWE5iX3d6T0htWWs3LUl1Wm8zd3VvOTZHRk5tU2htYTJnSWl0YUZZWnFQVHNwTmhOM3hybjMzckNSQ21rWXlIX3RvaGFieF9RRzByYjJEU0Z2bEFGY2VnNkk?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "waffle.ai",
   "name": "Waffle",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "More days, more syrup: Dayton tradition The Waffle Shop expands to Saturday - Dayton Daily News",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc21VUkk5eXZlTmZ4TXlRZ0JhU2ZSSElRUHNqSmlSQTZycUtrdWMyeUhPOE5UVlVyZWlUYUZkNTQ0LVpJQjNqTlFabTR6bFF3Y1lNb2E4ZThldUZDWXc4Rng5eDc5cnJaTk5sOC1WaW42SmhrM2JjS2ZIeERuanNNeWlyb0U1TllIRjRnVWdPWG9mMjdhM3ZWYVctRWQ0WXduWmFsem5qMHU2XzcwYm8yX3NnbUQ2eWdldS1md1dwSWpZNnRQbzFiUzRDM21kdUtlTnJfeTBmY0hTUnFsODVwSkt4VVlNdWVGODdIdUpCYnVDUWZTc1dScQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "sola-solutions.com",
   "name": "Sola",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Mastercard launches Open USD stablecoin on Sola... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWdNdGVhNHFYeGRhMi1zUFlWajdrYjhSWmVNdWY0N19vazdUU1Jnamc4alF1OFpIWHp0VEpOdW1UdFRhb0ZsX0RaSW9BSkhQSmRhNVJzSnpKWHJYczdCZjVEdXRmd3ZkN08xbzVjemsyOU5KZjdwTlBaOWxUZVZieWgxT0V3VFpYS1ZtOWhyWGg3YUFKTUJkVUZEOWI0MjVtN3duaE1ybm1EbDQ2blJ0N01n?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "ARDE BOGOTÁ Releases MANUFACTURAS DEL CLUB DE LA GENTE SOLA - BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUpwT1hwUkhnS3FVZ3dienFjdmxYVDNBWm0zc2JweEcyUzB1cklZeEtzeGdaTXJpVVNEbWtqVVRCajAzNTVyS1loMDlUZEYtcVJNQl9VVWpzLWxmV1A2THE1ZnVHOEhkTU53a3Y2OEVSc3daSjlpYlNRV2o2T2ZUeU9VYkhyWmZjSmJXY1NqanBndm9oLTBjdnBPemx1SE9LQVdZYTRpYWRyNjhuLVQzamxCd1E?oc=5"
@@ -55,13 +55,13 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR1lvTkdNUnpRR1Z2SkVkaVVXdjlxTXVrSzZuaGhZYm1vRnpSZjJuckdmbW1IX1lDNmpIMXBDNkgxMGJBbU1oZFIwVDZHU3UwWHFQSW5BV2JVRVBuYWtNNEoyeG5ZNmtQS1hlN3dMY3JpekQxcWt3VzBwUnBqb3hlbVNMX1VDZw?oc=5"
     }
   ],
-  "open_postings": 5,
+  "open_postings": 6,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:sola",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

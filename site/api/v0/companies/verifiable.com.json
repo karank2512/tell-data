@@ -1,13 +1,13 @@
 {
   "domain": "verifiable.com",
   "name": "Verifiable",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "MEXC Releases October 2026 Proof of Reserves, Reinforcing User Trust Through Verifiable Transparency - NewsBTC",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZF9CZm52bFgwaTVKVzktQzF2LWtINWhlOThCRkVWbkZwem1zYkxQdnhUTkxIMFliN0NKLVQtV0xEMkhzcW04ZVF1LUt6ejhUck15ZFBCTnlHdG5uc0NjNlByakx2WEZoeldleUN2cFc0Z0pTZjN0NGtESWI2RV9YUnJENTdjeTZzeVBra0dEYXlzaERXbEdFaGMwNlg0RGEtS3o4OFZHLWNRYVB6OG1pZU1sYno3UksxY0FMY0dPd3RNTElqNEZnaNIBzgFBVV95cUxPdWQwZkxrZVVCMHJOaUZqNi1MTnN6VTYwM25IRTNfTkJkWlEtT2JIcTY5ZW1UTnBfMTZQMUozWVpKekJ0S053MFBnbXFHekxHWmJ6THMtajJTTWhXZVJZZUhlQzhLWXlGM0oya1dLNkxhX0lnVVpYWWp6U3NKYlVYWlQzQzJib2NvUEM4Wnk1RkxVTlZNcmE5dEhEemRnX0lIZW43OHFGd2VRcW4xc1lTMkNPUUlnNFQtdC0tSGpjbFB1cUs0NDdHbG0wbVZmdw?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

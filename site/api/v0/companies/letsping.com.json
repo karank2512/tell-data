@@ -1,13 +1,13 @@
 {
   "domain": "letsping.com",
   "name": "Ping",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "Ping launches “PLD1” custom-putter program - GolfWRX",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnaEhLcV93RjM2UVRGRkZ3OWR6RXlZVUF5X2lQdEdyX0FBb05ES1BCT0JLTGJtTEM4ZXdRT2RkelZZOU82Z0g3SmlkYi1JVnA2Y1k4QU1hVUZuTUJ5Y3d6QXFYU2ZaS3BHS2g3bzdFZ2l3Qzd2SUNZ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

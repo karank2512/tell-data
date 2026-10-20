@@ -1,13 +1,13 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.3,
+  "score": 2.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-08",
       "summary": "Docker Launches docker-agent, an Open-Source AI Agent Framework - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0Y0QTdocWdiTUxMV0R3eGdaN2M4VjhTNzVHcEdTaEpCejV1c3ZRdHNQb1pNc25jX3dYcmFKY0ZlNXI3dXN3MHktQnpneFNKdlkyYWpnQkFQYVRuSFB6RlNWZjhIYk5zTURoanpxTm5BX1JpTlF5d3BaakdlZzc0eHhTYW1Ud3FGWUw2QnNVSXBra0FBVHc?oc=5"
@@ -20,13 +20,13 @@
       "url": "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/"
     }
   ],
-  "open_postings": 69,
+  "open_postings": 71,
   "long_open_roles": 15,
   "sources": {
     "ats": "ashby:docker",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

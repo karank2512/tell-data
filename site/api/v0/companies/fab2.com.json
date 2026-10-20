@@ -1,13 +1,13 @@
 {
   "domain": "fab2.com",
   "name": "fab2",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 23.4,
+  "score": 23.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.1,
+      "contribution": 23.0,
       "occurred_at": "2026-09-08",
       "summary": "Form D: $587,997,030 offering, $556,021,222 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2151752/000215175226000002/"
@@ -20,13 +20,13 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TZDVBT25leGJKbkplSk4xTFZDdmpldWMzVWRYTktyTG4xZzh1VW02cVFHSEdtcDNDaHpuWFFITGR4Q1VjR29zeC1CRnFNenFXV3V5Mjc3S1NPZkthVWFJUWp5TzVWakpFZEJIZHZvY2dJWUpIUmc?oc=5"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 55,
+  "long_open_roles": 17,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:fab2",
     "edgar_cik": "0002151752",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

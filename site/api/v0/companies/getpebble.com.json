@@ -1,13 +1,13 @@
 {
   "domain": "getpebble.com",
   "name": "Pebble",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.7,
+  "score": 2.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "Pebble Launches Flagship Qore Ultra Wellness Band with AI Health Insights, Body Age Tracking, and Readiness Score - TheWire.in",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd1FkT1pnbEVsNkQ2OWFXTzBoTWkyb2tCUUh0bzE4VHJHZU9yUzF2c2FyN1A5X0VpVS1nYnpkUjFHTXJmUnBhSDZQZUE4X09keEpZVk5JZVRMdkFDbnhGYzEzeE9DSk9FSDFucnpUYWY5OHFRYldweENYRXNKVlpsNFdiX1JGaHgyeFY2dmxxRElyREVUNjRKV2pFeWRkNmM1MTZnTGlCa0lKWVdha2VXbDVUWTluRG83X3A4d3kzSGltWElaTGM3OXlrUTJfeTE3SjBWMG5VTFd4SWEyQzZMWnhBSjPSAeoBQVVfeXFMTkNWbEtfMF9HWXBTTmZqcUs5SEpPTUtYaWY2Y2tVdmtVeXRKTzdmSUpyazRRZVlESXVCR01sNWRwY1BhQjNVTHgxN214XzdXc2NDWUdBaWdIcjVTR0p3V1JlNmpqUl85cmtfeGJEZllWZlNFWHN4ZWVYWGZ5d01mY09yOVJoN3l1SUc5dldXNGhxQjZjSmV6YmVCM3NkYm5zV1VZdFAyVTM0VmNIRXlTTVl2M1JlOVlVZlZqZ1dFUWwzeFlZazFJWVpQcVBNSlNPRi15WWdoNkZzZ1lnblV0c0RFcUJUQ0xab3p3?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

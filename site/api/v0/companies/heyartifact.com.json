@@ -1,9 +1,9 @@
 {
   "domain": "heyartifact.com",
   "name": "Artifact",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "\"Gundam Artifact Best Selection\" Releases October 12! A Lineup of 5 Types Including the Popular \"Zeta Gundam\" and \"ZZ Gundam\" from Past Releases! - GUNDAM Official",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kMy01eHRGcUNFNnBmME5hWEU3RF9jdElJek96Y1VvRXlHNXZkM25kT1YtQXo2V0hPRUx3eEktQXJqR2trT3paa0doMHhISXZ5bUd0TkttOUhYREd1NXh3aDkwaFFLOTlYMklEbg?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "gem.com",
   "name": "Gem",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.9,
+  "score": 4.8,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-15",
       "summary": "Multitude Media Promotes [person] To New Senior Leader Team",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUdYeGdsRU9aNWdnRjllSVF4Z2lmdUg5NGxxNWJQdmJub1h6OWZ3c2dUOEc4WlRnRTdNa1BjLXFCdjU0NnZIb2lQR0JPZGhnNUUyRUN6SWhlaGVqTU5rUTI4bFVicXJBOEEzZkpvYlMyOG00dFR4eG95a2k3ajg3V1JERUhONmxjV21iY1IyQkdxUzYtV3Q4VWFJUUY2SGt3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Dayton’s Gem City Market launches 90-day rescue plan - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONDdyNWJKZWR2ajlBSEhFS3Q1czJSOVR5cWVRRTVGc2pJTEdKRkZKNHlzVDB2N0xDRVFmcVI3RkJaaVNmQ2FOZmJCTHhFX1A5VmpTVjA3bldrLVR6TEZvelBETmdBalE4V3VkZDNoT09pZTJ4cDZRMG53THJGOXJ0V0VYNl8tdExDcEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Dayton’s Gem City Market launches 90-day rescue plan - WDTN.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV1NSUWdMVWh3ZEI1bGxIR2QwcFB6ZWc4UHlpMHpFeTE0b1VZV0JLZjVmeVlGaXRJejlDWmJTem43R2htQkxkbXhFRXJQSWVEekRZdlhNVkNiWHY2X3cwV0pPWlBNNjJMWEFpcXJWOHVRWWo0VnJyWXdTSlFfa0t2Z2I1a3dJX0tqMWVoY0FFT2ptdVY1XzB5ctIBmAFBVV95cUxNV1NSUWdMVWh3ZEI1bGxIR2QwcFB6ZWc4UHlpMHpFeTE0b1VZV0JLZjVmeVlGaXRJejlDWmJTem43R2htQkxkbXhFRXJQSWVEekRZdlhNVkNiWHY2X3cwV0pPWlBNNjJMWEFpcXJWOHVRWWo0VnJyWXdTSlFfa0t2Z2I1a3dJX0tqMWVoY0FFT2ptdVY1XzB5cg?oc=5"
     }
   ],
   "open_postings": 0,
@@ -20,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "trychart.com",
   "name": "Chart",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 16.9,
+  "score": 16.6,
   "contributions": [
     {
       "type": "leadership",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "FSU releases updated depth chart ahead of Miami game: Pair elevated from second team into or situations - 247Sports",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGd6QzdSdEdPSzJndXdmT1VKaElQa1lVbGZjRmRNZEo1am1uSTZNYmo5N3BUOTEtUGhqUlRJcE51NEt0T1lOUGRYanhZTUx3VHRjV3ctSU1wMHRrcUt1X1FxdTZDSEVJWUJYTmpWdXZCcV9rT3ZYaHJGcWl6Vm04QWlEMzlBeGExYWxkcTI2N0hkZDdZSEExeWtKdGw1WTNlZkFid21LXzVUekE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "Georgia football releases official depth chart for Auburn Tigers game - 247Sports",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2NJblJSUTBpUklodENla0tkakp5VWViaG9zOGk4UllqZHQtRHFZczJMYmVvVFZESnp3ci1YY29sSmhTdWdWT1AzNndnX1g4cU1DWVZWeDZqUHZrLVhaS283Ul9sVEFmbWF5eE9iZDE1RkdEY2ZPUTBreGlDc0dvRUdJU0F0WmZBUzFOY01nSm1ISkRnMGtrMlBMZUpsTkJiYXNjdENtb0ZyUTU3V1JEVlBR?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "West Virginia Releases Depth Chart Ahead of Cincinnati Matchup - Sports Illustrated",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFlXU1ZmN1RvMi1LTGp1STIyLVNVY2FOOXBDTDJXUFc3Y1VMU29fLWMxN1VwaTRiQll4bU9PR1NlTXdpVFpWLVB6UURCaFBuanF2czJYcThDWmE3UUMwbVUzbG8xT2kweS1CeVBLVXJBeXQxeGM4RF9jRlhZc3RYejNJNC1ZbXBTNDl5MzY5Z1RNSThkdVBTUGF6WFl3blVITlB6c21LZFNsU290WlpYQg?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

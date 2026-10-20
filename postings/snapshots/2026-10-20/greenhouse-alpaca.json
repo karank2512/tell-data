@@ -1,0 +1,625 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "alpaca",
+ "domain": "alpaca.markets",
+ "as_of": "2026-10-20",
+ "last_polled_at": "2026-10-20T02:55:30.564525+00:00",
+ "open_postings": [
+  {
+   "external_id": "4431262004",
+   "title": "Crypto Operations Associate - APAC",
+   "role_family": "other",
+   "location": "Remote - Anywhere",
+   "posted_at": "2025-07-07T14:26:15+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/4431262004"
+  },
+  {
+   "external_id": "5389088004",
+   "title": "Senior Software Engineer - Ledger",
+   "role_family": "engineering",
+   "location": "Global Anywhere",
+   "posted_at": "2024-12-02T01:29:48+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5389088004"
+  },
+  {
+   "external_id": "5585968004",
+   "title": "Senior Full-Stack Engineer - Trading API",
+   "role_family": "engineering",
+   "location": "Remote - North America - South America - Europe",
+   "posted_at": "2025-07-10T02:26:23+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5585968004"
+  },
+  {
+   "external_id": "5628538004",
+   "title": "Senior Software Engineer - Market Data",
+   "role_family": "engineering",
+   "location": "North America and Europe",
+   "posted_at": "2025-08-21T17:52:37+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5628538004"
+  },
+  {
+   "external_id": "5744207004",
+   "title": "Senior Graphic Designer",
+   "role_family": "product_design",
+   "location": "Remote - North America",
+   "posted_at": "2025-12-27T04:22:07+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5744207004"
+  },
+  {
+   "external_id": "5833647004",
+   "title": "Director of Data Platform",
+   "role_family": "engineering",
+   "location": "Remote - North America - EU - UK",
+   "posted_at": "2026-03-21T01:28:06+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5833647004"
+  },
+  {
+   "external_id": "5857441004",
+   "title": "Brokerage Operations Manager - Saudi",
+   "role_family": "finance_ops",
+   "location": "Remote - Middle East",
+   "posted_at": "2026-04-08T17:01:24+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5857441004"
+  },
+  {
+   "external_id": "5892645004",
+   "title": "Staff Software Engineer, New Markets Middle East",
+   "role_family": "engineering",
+   "location": "Middle East",
+   "posted_at": "2026-04-14T02:30:31+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5892645004"
+  },
+  {
+   "external_id": "5979495004",
+   "title": "Engineer Team Lead, New Markets Singapore",
+   "role_family": "engineering",
+   "location": "Remote - APAC",
+   "posted_at": "2026-04-23T00:27:09+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5979495004"
+  },
+  {
+   "external_id": "5985818004",
+   "title": "Senior Software Engineer - Clearing",
+   "role_family": "engineering",
+   "location": "Remote - Europe",
+   "posted_at": "2026-05-05T02:46:46+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/5985818004"
+  },
+  {
+   "external_id": "6007223004",
+   "title": "Director of Engineering, Trading",
+   "role_family": "exec",
+   "location": "Remote - North America",
+   "posted_at": "2026-05-29T19:49:06+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6007223004"
+  },
+  {
+   "external_id": "6020810004",
+   "title": "Senior Product Data Scientist",
+   "role_family": "ml_ai",
+   "location": "Remote - Americas",
+   "posted_at": "2026-06-12T02:07:50+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6020810004"
+  },
+  {
+   "external_id": "6104809004",
+   "title": "Senior Sales Engineer (Korean proficiency required)",
+   "role_family": "sales",
+   "location": "Remote - APAC",
+   "posted_at": "2026-07-01T02:59:10+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6104809004"
+  },
+  {
+   "external_id": "6112042004",
+   "title": "Staff Software Engineer - New Markets Japan (Japanese proficiency required)",
+   "role_family": "engineering",
+   "location": "Remote - APAC",
+   "posted_at": "2026-07-08T20:35:31+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6112042004"
+  },
+  {
+   "external_id": "6113960004",
+   "title": "Japan Broker-Dealer Compliance Associate (Japan Based / Japanese Language Required)",
+   "role_family": "other",
+   "location": "Remote - Japan",
+   "posted_at": "2026-07-13T01:09:50+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6113960004"
+  },
+  {
+   "external_id": "6114845004",
+   "title": "Senior Software Engineer, Quality Engineering",
+   "role_family": "engineering",
+   "location": "Global Anywhere",
+   "posted_at": "2026-07-22T08:36:47+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6114845004"
+  },
+  {
+   "external_id": "6122806004",
+   "title": "Senior Fullstack Engineer - Operational Automations",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-08-05T14:34:21+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6122806004"
+  },
+  {
+   "external_id": "6131167004",
+   "title": "Senior Software Engineer - Market Data",
+   "role_family": "engineering",
+   "location": "Remote - EMEA",
+   "posted_at": "2026-08-05T13:59:12+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6131167004"
+  },
+  {
+   "external_id": "6131171004",
+   "title": "Senior Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "Remote - Global",
+   "posted_at": "2026-08-05T08:23:57+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6131171004"
+  },
+  {
+   "external_id": "6132138004",
+   "title": "Senior Software Engineer New Markets",
+   "role_family": "engineering",
+   "location": "Remote - Americas",
+   "posted_at": "2026-08-05T14:58:05+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6132138004"
+  },
+  {
+   "external_id": "6137889004",
+   "title": "Lead, Data Governance",
+   "role_family": "other",
+   "location": "Remote - Americas",
+   "posted_at": "2026-08-12T13:35:41+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6137889004"
+  },
+  {
+   "external_id": "6137928004",
+   "title": "Data Risk Engineer",
+   "role_family": "other",
+   "location": "Remote - Global Anywhere",
+   "posted_at": "2026-08-07T14:34:38+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6137928004"
+  },
+  {
+   "external_id": "6140664004",
+   "title": "Customer Success Manager - LATAM",
+   "role_family": "customer",
+   "location": "Remote - LATAM",
+   "posted_at": "2026-08-12T18:08:17+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6140664004"
+  },
+  {
+   "external_id": "6144564004",
+   "title": "Software Engineer - Market Data",
+   "role_family": "engineering",
+   "location": "Remote - EMEA",
+   "posted_at": "2026-08-18T05:02:49+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6144564004"
+  },
+  {
+   "external_id": "6144762004",
+   "title": "Product Manager, Clearing Systems",
+   "role_family": "product_design",
+   "location": "Remote - Americas",
+   "posted_at": "2026-08-18T17:27:56+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6144762004"
+  },
+  {
+   "external_id": "6144763004",
+   "title": "Project Manager",
+   "role_family": "sales",
+   "location": "Remote - Hong Kong / South Korea / Japan",
+   "posted_at": "2026-08-18T17:26:18+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6144763004"
+  },
+  {
+   "external_id": "6144764004",
+   "title": "Head of Content & Media",
+   "role_family": "marketing",
+   "location": "Remote - Americas",
+   "posted_at": "2026-08-18T17:33:03+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6144764004"
+  },
+  {
+   "external_id": "6146873004",
+   "title": "Head of Business Development - Middle East",
+   "role_family": "exec",
+   "location": "Dubai, Abu Dhabi, Riyadh",
+   "posted_at": "2026-08-25T17:55:38+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6146873004"
+  },
+  {
+   "external_id": "6146909004",
+   "title": "Staff Analytics Engineer",
+   "role_family": "data",
+   "location": "Remote - EMEA",
+   "posted_at": "2026-09-24T14:59:24+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6146909004"
+  },
+  {
+   "external_id": "6146918004",
+   "title": "Solutions Engineer -Turkey",
+   "role_family": "sales",
+   "location": "Remote - EMEA",
+   "posted_at": "2026-08-19T16:28:59+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6146918004"
+  },
+  {
+   "external_id": "6147548004",
+   "title": "Senior Data Scientist AI Evaluation",
+   "role_family": "ml_ai",
+   "location": "Remote - Americas",
+   "posted_at": "2026-10-07T15:55:18+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6147548004"
+  },
+  {
+   "external_id": "6147628004",
+   "title": "Senior Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "Remote - North America",
+   "posted_at": "2026-08-21T20:00:23+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6147628004"
+  },
+  {
+   "external_id": "6148956004",
+   "title": "Director, Global Corporate Actions Operations and Oversight",
+   "role_family": "exec",
+   "location": "Remote - Americas, Remote - APAC, Remote - EU",
+   "posted_at": "2026-08-22T00:17:13+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6148956004"
+  },
+  {
+   "external_id": "6161010004",
+   "title": "Senior Software Engineer New Markets - EU",
+   "role_family": "engineering",
+   "location": "Remote - EU - UK",
+   "posted_at": "2026-08-25T16:15:16+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6161010004"
+  },
+  {
+   "external_id": "6161890004",
+   "title": "Trading Operations Associate - West Coast",
+   "role_family": "other",
+   "location": "Remote",
+   "posted_at": "2026-09-08T02:45:36+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6161890004"
+  },
+  {
+   "external_id": "6162072004",
+   "title": "Senior Software Engineer New Markets - UK Remote",
+   "role_family": "engineering",
+   "location": "Remote - UK",
+   "posted_at": "2026-10-07T13:20:45+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6162072004"
+  },
+  {
+   "external_id": "6162099004",
+   "title": "Team Lead - Trading",
+   "role_family": "engineering",
+   "location": "Remote - Americas",
+   "posted_at": "2026-08-27T16:54:17+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6162099004"
+  },
+  {
+   "external_id": "6167239004",
+   "title": "Data Platform Engineer",
+   "role_family": "engineering",
+   "location": "Remote - Americas",
+   "posted_at": "2026-09-09T12:11:29+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6167239004"
+  },
+  {
+   "external_id": "6172672004",
+   "title": "Legal Counsel",
+   "role_family": "finance_ops",
+   "location": "Remote - United States",
+   "posted_at": "2026-08-28T20:23:54+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6172672004"
+  },
+  {
+   "external_id": "6175220004",
+   "title": "Account Executive - US",
+   "role_family": "sales",
+   "location": "Remote - North America",
+   "posted_at": "2026-09-08T16:19:55+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6175220004"
+  },
+  {
+   "external_id": "6177332004",
+   "title": "Senior Software Engineer - New Markets Japan (Japanese proficiency required)",
+   "role_family": "engineering",
+   "location": "Remote - APAC",
+   "posted_at": "2026-09-17T08:47:07+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6177332004"
+  },
+  {
+   "external_id": "6184949004",
+   "title": "Senior Technical Product Manager: Infrastructure and Platforms",
+   "role_family": "engineering",
+   "location": "Remote - Americas",
+   "posted_at": "2026-09-14T13:38:41+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6184949004"
+  },
+  {
+   "external_id": "6186820004",
+   "title": "Incident Operations Commander",
+   "role_family": "engineering",
+   "location": "Remote - Global",
+   "posted_at": "2026-09-10T08:24:28+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6186820004"
+  },
+  {
+   "external_id": "6186861004",
+   "title": "Incident Operations Lead (EMEA/AMER)",
+   "role_family": "engineering",
+   "location": "Remote - (EMEA/AMER)",
+   "posted_at": "2026-09-11T08:57:12+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6186861004"
+  },
+  {
+   "external_id": "6186981004",
+   "title": "Global Settlements Associate 1",
+   "role_family": "other",
+   "location": "Remote - India",
+   "posted_at": "2026-09-15T18:59:19+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6186981004"
+  },
+  {
+   "external_id": "6187211004",
+   "title": "Product Manager - Brokerage - Middle East",
+   "role_family": "product_design",
+   "location": "Remote - Global Anywhere",
+   "posted_at": "2026-09-10T15:13:05+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6187211004"
+  },
+  {
+   "external_id": "6187272004",
+   "title": "Head of Tax",
+   "role_family": "exec",
+   "location": "Remote - America",
+   "posted_at": "2026-09-15T20:57:15+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6187272004"
+  },
+  {
+   "external_id": "6187285004",
+   "title": "Content Marketing Manager, Crypto",
+   "role_family": "marketing",
+   "location": "Remote - North America",
+   "posted_at": "2026-09-14T20:32:30+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6187285004"
+  },
+  {
+   "external_id": "6187326004",
+   "title": "Senior Product Designer, Operations Tools",
+   "role_family": "product_design",
+   "location": "Remote - North America",
+   "posted_at": "2026-09-11T17:18:22+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6187326004"
+  },
+  {
+   "external_id": "6188585004",
+   "title": "Staff Engineer - New Markets Singapore",
+   "role_family": "engineering",
+   "location": "Remote - APAC",
+   "posted_at": "2026-09-28T14:46:59+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6188585004"
+  },
+  {
+   "external_id": "6189588004",
+   "title": "Manager / Senior Manager, Total Rewards & Key Projects",
+   "role_family": "other",
+   "location": "Remote - North America",
+   "posted_at": "2026-09-14T19:33:22+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6189588004"
+  },
+  {
+   "external_id": "6194973004",
+   "title": "Software Engineer - Core Trading",
+   "role_family": "engineering",
+   "location": "Remote - Americas or EU",
+   "posted_at": "2026-09-16T17:34:21+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6194973004"
+  },
+  {
+   "external_id": "6195696004",
+   "title": "Software Engineer - Crypto",
+   "role_family": "engineering",
+   "location": "Remote - EU - LATAM - NA",
+   "posted_at": "2026-09-21T17:21:54+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6195696004"
+  },
+  {
+   "external_id": "6198942004",
+   "title": "Product Manager - Derivatives",
+   "role_family": "product_design",
+   "location": "Remote - Americas",
+   "posted_at": "2026-09-18T13:49:18+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6198942004"
+  },
+  {
+   "external_id": "6199718004",
+   "title": "Broker-Dealer Operations Specialist, Japan (Japan Location / Japanese Language Required)",
+   "role_family": "other",
+   "location": "Remote - Japan",
+   "posted_at": "2026-09-23T12:53:42+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6199718004"
+  },
+  {
+   "external_id": "6203656004",
+   "title": "Staff Software Engineer - Margin & Risk",
+   "role_family": "engineering",
+   "location": "Remote - Americas or EU",
+   "posted_at": "2026-09-22T04:21:58+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6203656004"
+  },
+  {
+   "external_id": "6206700004",
+   "title": "Product Manager - Brokerage - EU",
+   "role_family": "product_design",
+   "location": "Remote - Global Anywhere",
+   "posted_at": "2026-09-23T18:53:16+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6206700004"
+  },
+  {
+   "external_id": "6207222004",
+   "title": "Senior Software Engineer - Clearing",
+   "role_family": "engineering",
+   "location": "Remote - Europe or Remote America",
+   "posted_at": "2026-09-24T14:10:25+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6207222004"
+  },
+  {
+   "external_id": "6207262004",
+   "title": "Software Engineer, Securities Finance",
+   "role_family": "engineering",
+   "location": "Remote - Americas",
+   "posted_at": "2026-10-14T00:48:38+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6207262004"
+  },
+  {
+   "external_id": "6207266004",
+   "title": "Senior Software Engineer - Payments & Treasury",
+   "role_family": "engineering",
+   "location": "North America, South America",
+   "posted_at": "2026-09-25T14:26:36+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6207266004"
+  },
+  {
+   "external_id": "6207896004",
+   "title": "Sales Analyst",
+   "role_family": "sales",
+   "location": "Remote - North America",
+   "posted_at": "2026-09-25T20:13:11+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6207896004"
+  },
+  {
+   "external_id": "6207943004",
+   "title": "Product Manager - Market Data",
+   "role_family": "product_design",
+   "location": "Remote - Americas",
+   "posted_at": "2026-09-25T20:09:49+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6207943004"
+  },
+  {
+   "external_id": "6208691004",
+   "title": "Staff Data Scientist, Growth",
+   "role_family": "ml_ai",
+   "location": "Remote - Americas",
+   "posted_at": "2026-09-25T20:01:36+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6208691004"
+  },
+  {
+   "external_id": "6210069004",
+   "title": "Financial Risk Manager",
+   "role_family": "other",
+   "location": "Remote",
+   "posted_at": "2026-09-28T21:20:54+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6210069004"
+  },
+  {
+   "external_id": "6212184004",
+   "title": "Product Manager - Trading API",
+   "role_family": "product_design",
+   "location": "Remote - Global Anywhere",
+   "posted_at": "2026-10-07T15:18:07+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6212184004"
+  },
+  {
+   "external_id": "6212193004",
+   "title": "Due Diligence Analyst - APAC",
+   "role_family": "other",
+   "location": "Remote",
+   "posted_at": "2026-10-01T04:25:01+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6212193004"
+  },
+  {
+   "external_id": "6212198004",
+   "title": "Project Manager",
+   "role_family": "sales",
+   "location": "Remote - EMEA",
+   "posted_at": "2026-10-02T01:23:04+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6212198004"
+  },
+  {
+   "external_id": "6217871004",
+   "title": "Senior Sales Engineer",
+   "role_family": "sales",
+   "location": "Remote - Americas",
+   "posted_at": "2026-10-05T23:54:50+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6217871004"
+  },
+  {
+   "external_id": "6217885004",
+   "title": "Staff Software Engineer - Corporate Actions & Security Master",
+   "role_family": "engineering",
+   "location": "Remote - North America and Europe",
+   "posted_at": "2026-10-06T15:59:55+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6217885004"
+  },
+  {
+   "external_id": "6219278004",
+   "title": "ERM Program Manager",
+   "role_family": "other",
+   "location": "Remote - Americas",
+   "posted_at": "2026-10-08T10:26:36+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6219278004"
+  },
+  {
+   "external_id": "6219938004",
+   "title": "Director, Customer Experience, Trading API",
+   "role_family": "exec",
+   "location": "Remote - Global (Eastern Time Zone)",
+   "posted_at": "2026-10-08T00:27:48+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6219938004"
+  },
+  {
+   "external_id": "6221619004",
+   "title": "Product Manager, Digital Assets - Tokenization",
+   "role_family": "product_design",
+   "location": "Remote - Americas",
+   "posted_at": "2026-10-13T13:35:19+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6221619004"
+  },
+  {
+   "external_id": "6221631004",
+   "title": "Product Manager, Digital Assets - Crypto",
+   "role_family": "product_design",
+   "location": "Remote - Americas",
+   "posted_at": "2026-10-15T01:10:13+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6221631004"
+  },
+  {
+   "external_id": "6221638004",
+   "title": "Product Manager, Corporate Actions",
+   "role_family": "product_design",
+   "location": "Remote - EMEA",
+   "posted_at": "2026-10-19T12:25:05+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6221638004"
+  },
+  {
+   "external_id": "6221656004",
+   "title": "Product Manager - Brokerage - UK",
+   "role_family": "product_design",
+   "location": "Remote - UK",
+   "posted_at": "2026-10-13T15:05:58+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6221656004"
+  },
+  {
+   "external_id": "6223595004",
+   "title": "Staff Fullstack Engineer",
+   "role_family": "engineering",
+   "location": "Remote - Americas or EU",
+   "posted_at": "2026-10-13T22:59:54+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6223595004"
+  },
+  {
+   "external_id": "6226254004",
+   "title": "Senior Fullstack Engineer- Auth Team",
+   "role_family": "engineering",
+   "location": "Remote- Europe/ Americas",
+   "posted_at": "2026-10-16T01:08:27+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6226254004"
+  }
+ ]
+}

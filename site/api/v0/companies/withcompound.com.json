@@ -1,10 +1,17 @@
 {
   "domain": "withcompound.com",
   "name": "Compound",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "A little heat releases two fuels from a single crystalline compound - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByb1A3ME9nM2NBLWJITjhYTTZJVFdILU5fV3BCdTdxQVZyR3Y0bHh0dFNqSWh3R2VYb3JDWUktY3VqdnhMT3VlR3RzamR1cHVWXzBsTXVubHpvQkQxakVtVHQ2cVdJd1Vidm5mY0RIVXUyNy1DS0E?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,0 +1,41 @@
+{
+ "vendor": "ashby",
+ "identifier": "ello",
+ "domain": "ello.com",
+ "as_of": "2026-10-20",
+ "last_polled_at": "2026-10-20T02:55:27.963628+00:00",
+ "open_postings": [
+  {
+   "external_id": "2e6b7bbf-9b7a-4a41-93b6-896530daf732",
+   "title": "General / Opportunistic Application",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2022-07-12T13:58:12.140000+00:00",
+   "url": "https://jobs.ashbyhq.com/ello/2e6b7bbf-9b7a-4a41-93b6-896530daf732"
+  },
+  {
+   "external_id": "60464edf-a471-47f7-9465-d2433037154d",
+   "title": "Lead Growth Engineer",
+   "role_family": "gtm_ops",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-30T16:46:21.789000+00:00",
+   "url": "https://jobs.ashbyhq.com/ello/60464edf-a471-47f7-9465-d2433037154d"
+  },
+  {
+   "external_id": "bba21fbf-7393-40f6-b9be-d9dde87110f3",
+   "title": "Product Lead, Monetization",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-09T20:53:46.765000+00:00",
+   "url": "https://jobs.ashbyhq.com/ello/bba21fbf-7393-40f6-b9be-d9dde87110f3"
+  },
+  {
+   "external_id": "f843ac3e-8106-4cb0-bb77-72caa489ab23",
+   "title": "AI/ML Engineer",
+   "role_family": "ml_ai",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-05-28T14:43:41.651000+00:00",
+   "url": "https://jobs.ashbyhq.com/ello/f843ac3e-8106-4cb0-bb77-72caa489ab23"
+  }
+ ]
+}

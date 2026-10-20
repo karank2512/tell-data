@@ -1,13 +1,13 @@
 {
   "domain": "fishtechy.com",
   "name": "Flytechy",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 15.6,
+  "score": 15.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.6,
+      "contribution": 15.5,
       "occurred_at": "2026-08-25",
       "summary": "Form D: $1,000,000 offering, $131,643 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2147559/000214755926000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002147559",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,13 +1,20 @@
 {
   "domain": "inaccord.com",
   "name": "Accord",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Janusnet launches Accord for defence metadata security - SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGlvTE5remNyVnB0ckNCa3UxZGZtX2d1OHIzVE5DRnJWNHpRVEh2WGd0VVpQODhoZ1RhZ2NlcjU3bGl6d2JfUHYyVE1mNGR2SHQxZ29mb0FJTnE2dVJqSTU0TjR2VjB3V0hhYUo0RmVJMnh5YWdPeC1EZy1JSmh1bzhpTFd6cGZoR2lUcGgwUzhvSm8?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Short-Acting Cancer Biosimilars: Accord BioPharma Launches FILKRI for Cancer Supportive… - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yTTIxcDNwZU16d1lEcjBPUTc4OEJxWkxtVjRBVFNPeXJYQ2JCZGlWZnBvZ0V3Q2pTN25OWUFWZG9ybENHM1RFZVJXNkZQamtCRXJFWWVKdFV5VnBYY3ZMWFNCRDJPT2ZLcUk0a0ZYRXVweE4z?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

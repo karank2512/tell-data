@@ -1,13 +1,13 @@
 {
   "domain": "onuniverse.com",
   "name": "Universe",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "Hires as Director",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjRNM3ZBeHBjeUhBM2Zqb3NUT2JOSXcyZGM0QVBudm95VlRyWXNLUUFFNXBXSHJMY2F6eGVBT05NYTRHa3lZbW5EdEYtYzFVMnd0SnhnVkgxckxpZ21mSU5NS3M0bGU0cFRWOWhBTzROR2k2azRiTGl2WXFrSVB5cURhWWwwcXhTNVlRcWwtZ1ZGbGNueU1jdFh4N0tuWkFlSW52QzlBZkFGN3Z0dlk1d3lmLUl1NTZlc3R4eHNwR3psUQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

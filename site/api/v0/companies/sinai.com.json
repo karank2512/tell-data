@@ -1,16 +1,23 @@
 {
   "domain": "sinai.com",
   "name": "SINAI",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.7,
+  "score": 6.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Appoints Chair",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUXZVZkNQbHRtc0JvOF9zUFJFWDU2MGJ0YktoU25pdEp3RjdnT0hfaTVjU3lWWkc2R3hOOUwwME9lNG0wd01hZjV4SWpCa2lNY2gtQ3cwVW9sajlnSjYwb3hLZ24zd0dOLUdENDc5ckFDZHdXd0Foa2hvanc2V1ViV09Gb0I0cW0zdWhoXy1ULVppdjZabnhzcTFJNS1NTTRfeXl2YXFXc2pWWlBNSTJ1V2ZhV3NJQ0xVNm9FUE5mRXBzUXhxc0QybmF1WUV6VzBvS1h5VW5kdHhFR2FoTmpITDdDZHhNTUNhVjhSZ09QRlhoaFVVdFJVVjBDdHdoS0VYa1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Egypt unveils new laser system to intercept drones in Sinai - Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUN3MnMyNFUwQ2tiSHZEWV9GU2xKR2xkS0tUdXpvUERRdXJqYzJLMjhjc00wdnpnZ29BbE9xYjVhYTJ6V3Izc3p6aGRVRlE4N3pfMTJ6dmQ4X3pMVWprZXdTWEZzYm9SWmtxQmFDUlQtTmZkOExoRFFCVkJ1SVVKU2NQdzJpMUFwREJmZXl1ZDhEUXpDRVJNcm5kZUNIOG9yNnNKTWVn0gGrAUFVX3lxTE5kMVo0MGNQVlJHak80TGJoUnhzbGdFUDdKUGdwM2ZEbk5aQWRrbVo1MGZUc2Z4RkREV3l2REVTVERfdHc4MjVhTzk3Wi1mNm05cXFSS3RpV0xWNFRsUDNMNXNRTHlKMmI1YmZDSEUya2JkaEFhOWhEZUw4TXVrWmZDSTQtVVBoQTNoMHRQMU1INFo1SFQ1ZXRSNFhCN0Q1SDlKQlNQbF9nU1dGNA?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

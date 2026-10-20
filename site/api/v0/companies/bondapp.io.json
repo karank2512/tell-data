@@ -1,13 +1,13 @@
 {
   "domain": "bondapp.io",
   "name": "Bond",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.4,
+  "score": 1.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "State releases new STAR bond district for Chiefs stadium, practice facility - Sunflower State Journal",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzVUZnJwbUpNaFBRVWRUMVlpb0xiOGVUR01jUTFiOURxYmw5TFhyN1pLLVhYaFRid2hVUFJoY29MUVNvWGp6RlZ2UExFWHRNbld3VDNjLWxrY3NOZnlPNElsaUY2ZmZza3hvWHJkc3drTWI3WlYyXzY5TzFKUWVYMWlwTlJyYXJTNkZCV19uR1RReTNxZTRxU0lJbFNiUlg2RGVhTk1sVzNnSDZZZHc?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

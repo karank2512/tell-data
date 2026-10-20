@@ -1,13 +1,13 @@
 {
   "domain": "seerist.com",
   "name": "Seerist",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 15.6,
+  "score": 15.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.6,
+      "contribution": 14.4,
       "occurred_at": "2026-08-17",
       "summary": "Form D: $924,903 offering, $924,903 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149359/000214935926000001/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002149359",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

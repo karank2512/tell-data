@@ -1,13 +1,20 @@
 {
   "domain": "backpackbang.com",
   "name": "Backpack",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.3,
+  "score": 5.7,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "a tiny backpack for your phone? ninja labs introduces its stretchy magsafe flex pouch - Designboom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWHREdm1fMkwyR2dJWHMxQU9WdlBmM0M3NnlZQ2tyUDk5WkkyXzFEa3ZwemVhejJ5al83LVplZjRoeWhCdjMyN0pReWNaR0s4UzdHMmUyUmtkcnM0c2REamplMFFUemU4TUJiRUhDY01nV2xXX0ZXOWYzYzFIUzhZRzR6cVlxeVhqVzhDSVRPRlFjaHhoTlJqVWlIN1RwMnhIZmgzREVibW5iZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "St. Louis County Jail launches backpack reentry program - Northern News Now",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeV9TQV94cUVZbm9yYzJqVDZSd3V1dHNHQXQ4TjhrUjBkWDdaZWFhVEoyOFRiRENGUUNxSHpxSUQ2UnM0YXJuNnpGMXZNSHBBSng0VzZ2WkcyZGJFeEhlbWRLZDBsNF96dXZuamQ2Q3lKa1I4MkVLZGNIU3FVbDg0MktmaURVOHAxTHdFZlZDMjExWGlxN2Y3M1RCRjQwZjTSAbMBQVVfeXFMT3hWY2QxQ2w4NjVUbmtrcWNiN1Vxei1Oa1pRcV9aRVJmRXFRb1JZWTVwNFhkbVpUUndYN1FUNjVzbERrQUVkTmRDeDJ5YWN5YkdlTzRQR2dwVE1uX3h0eEE5UGtDVnU3X1FWbldkT1lGU1hIVkdfSFlRSnlsQkZIVjVwRjJPc2JlRlFTS0cyWmNqX3hxd2diWGdVVGlydzlOaWlERmtEU0xyZVpEazA4THRJckE?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

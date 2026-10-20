@@ -1,9 +1,9 @@
 {
   "domain": "usechamber.io",
   "name": "Chamber",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "Bandon Chamber Launches Self-Guided Mural Tour - KOBI-TV NBC5 / KOTI-TV NBC2 - KOBI-TV NBC5 / KOTI-TV NBC2",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTB3dzNsajRjazhKQWVoZU4yZjA1UDhDZnRYTG9Db2xpOFlEd3dJUmgybGhCdG80Vm1WRU1VbDNyb2FKeTVrRTRaRWRoRmdwNHMzR3hkbkRfZ2xUVGl0RHZvcFNOYTVjX0k5TlZCWWJSamFITXNSUmZkWVpQMUI4MDRGTQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

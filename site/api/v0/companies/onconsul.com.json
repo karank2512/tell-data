@@ -1,10 +1,17 @@
 {
   "domain": "onconsul.com",
   "name": "Consul",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.6,
+  "score": 7.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "Fiji Appoints [person] as Honorary Consul General in Hyderabad",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzBiTWlXNGQtZUg0TWtMMDM4TkJKR3k0QWZMWV9BRGRwWTZhMEhjdjFIdU1TR3RIWkhMYWlVTmhkWTRRVjZGRGpnd2Vxa0dYOUVBYkF0TnVjMGJQUmt4UEgxdVJlMnZ4Xy1CdmNBeDZGMENDckE5c0o0WGQ5aWxoZlhyRWMtOGNuZlY1RllVdk9qc0dxeXpic2trZndOMW8?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 2.0,
@@ -14,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmZqVTl4OHB2dHFhZkVFbm84RjdmT2JZOHBOYmpuajlrWVM3SXVSWVRCbDhVWjM2Yzd2NUZjX2lDR1JNaVRCU2NJdkxkbWI3WWFORGlSYjdlQlU1TC1ya0RNMEFQUnlIQlBEWWVMdVgtX25QcGNJSlhUOUdyN05rZ0NEelhDcFJzWjd4cDd1WU84enBjQklR?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

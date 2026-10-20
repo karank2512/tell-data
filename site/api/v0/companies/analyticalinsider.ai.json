@@ -1,13 +1,13 @@
 {
   "domain": "analyticalinsider.ai",
   "name": "Analytical Insider",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 16.1,
+  "score": 16.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.1,
+      "contribution": 16.0,
       "occurred_at": "2026-09-10",
       "summary": "Form D: $300,000 offering, $165,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2153267/000215326726000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002153267",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

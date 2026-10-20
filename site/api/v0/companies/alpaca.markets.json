@@ -1,13 +1,13 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 30.6,
+  "score": 30.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.0,
+      "contribution": 13.9,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
@@ -21,21 +21,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - Mid-Day",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMm5WckZYVkRjdGJ2blNPNlVvbGV5OGRYanpnMUpnV2NUMmpIUG43WlRLeUtIM1U3aUlZTW5SOWFrNW05czdOYTdTYV9McTRFVnI1N1FXSTVSNFE5Rll4YzVfaW5xWHFhc09CZURBc1M4bXFERWhDM0FfOTVWYk8tTUp4bUljN3ZYUVBlbUl4WUpjUUphRHJqOEI4MzNaUWdMZjhGNl9DbmNEbmxHNGlUbDlMM016VTZ5S25qZlJJc3dLV2ZKRGFKUkdTUFRranR2LUlScW1RTWNVRC0xV3hmTnRZcmrSAeoBQVVfeXFMUHVvbGk0VnBwOHR5TW92bDFDejJtUnR6dFl5b2VXVVNpMlZhWHFHSFZ6dnhfcUNFNGgxRWlpNFI3ZDJITHhfQk0xdFJNQWlIQ0lQQnBEeHZGUUtROGpHTnBBTWNNM1VKbGZqM3BVTThReDBKdVlNR09TajM2X1czMWotUEttbXl5VDREQV85SVRyUnNFdlU1Wm5XWkNvLUoyNlk1Q2VYN3U5aHNrUXI4b2QwbFBSS1lTb0gyVnRVVnFKZ2hMTHIxQmhsaDRVYm13YTJncnlTWDdKckNzT2Z0RTJud21ocy1JRC13?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - Mid-Day",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdW9saTRWcHA4dHlNb3ZsMUN6Mm1SdHp0WXlvZVdVU2kyVmFYcUdIVnp2eF9xQ0U0aDFFaWk0UjdkMkhMeF9CTTF0Uk1BaUhDSVBCcER4dkZRS1E4akdOcEFNY00zVUpsZmozcFVNOFF4MEp1WU1HT1NqMzZfVzMxai1QS21teXlUNERBXzlJVHJSc0V2VTVabldaQ28tSjI2WTVDZVg3dTloc2tRcjhvZDBsUFJLWVNvSDJWdFVWcUpnaExMcjFCaGxoNFVibXdhMmdyeVNYN0pyQ3NPZnRFMm53bWhzLUlELXfSAeoBQVVfeXFMUHVvbGk0VnBwOHR5TW92bDFDejJtUnR6dFl5b2VXVVNpMlZhWHFHSFZ6dnhfcUNFNGgxRWlpNFI3ZDJITHhfQk0xdFJNQWlIQ0lQQnBEeHZGUUtROGpHTnBBTWNNM1VKbGZqM3BVTThReDBKdVlNR09TajM2X1czMWotUEttbXl5VDREQV85SVRyUnNFdlU1Wm5XWkNvLUoyNlk1Q2VYN3U5aHNrUXI4b2QwbFBSS1lTb0gyVnRVVnFKZ2hMTHIxQmhsaDRVYm13YTJncnlTWDdKckNzT2Z0RTJud21ocy1JRC13?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca With Access To More Than 7,000 Stocks And ETFs - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZklZNGNYcTBXMzZDbm9RTzRTODNBUlg1eFVUS3JvWkItczNxMHdLQWlhbzVqMkRhM2FXQWJmVGxpN0J5QmhLNlVJLTVKeWplWjFrR2RNWm5hN3U0VnQxTF9jWmZmY1cyYTcxLUpUSUZqUDVNRjVBaExkdkJGZngzcGtBRGxVQmJoYjNqN0h3RmU0Z21ybW9fR0ROWktlN2hmRUk5SUtWYzNjbWVkX3ZuMndrUQ?oc=5"
@@ -126,12 +126,12 @@
     }
   ],
   "open_postings": 77,
-  "long_open_roles": 15,
+  "long_open_roles": 16,
   "sources": {
     "ats": "greenhouse:alpaca",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

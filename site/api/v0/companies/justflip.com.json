@@ -1,20 +1,20 @@
 {
   "domain": "justflip.com",
   "name": "Flip",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 12.0,
+  "score": 11.8,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMW9KM0Q2YzlVbWhKU1Z6OTNCdnlPRW1SMDA4ZGVtcE1raXAyWDlBRmJ1aGQ4SGpNVE5ESmRIRlREb05YQ29FRVlhWUpEWV9pc3oxS2x3WWpOc19wa3U4UkZZYVZCSmdJYWo3cTdWYzZWOHVwYXUyQWxfZ0pUZEI4eUlyTklNUDhpLW1VZHNrZGVyQko0WlNBMkRoSkhwbGJIa0dIZ1ozY3djQlhzdHprblV4NXRnbHpzckhXVmYydjV0WjhoZ1pIWGlkYzBlN2JybDk1S2FVM0p0QQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2UxX2x4Z3ZuNFlQY0UyTFN6Q1QyT0xsOWlmaGdMZndWcWVZa1E4cjFZYUlMLUpmMW93WlBNU2trbkFRQXMwSFVOaUxURkh0V3NObUgtY2p1QjFaZHJmTU81TGcxZmxNUDJTYndBSEo0RzVwQ3lkQWVlRFEya1AzaTVjSVlvVXVyUzRjNEJ2b0ZLRG1zcDRTZzVaRUx6ZXhRZ1FlazIzV0xfQ0xuWWluYXgzTjd5N0NCZHRzQk9tdURQcDhSRTVkWHlOa1V4WGU2cTFieDVBanZzbHdISmc?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

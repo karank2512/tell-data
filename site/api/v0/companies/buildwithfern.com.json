@@ -1,10 +1,17 @@
 {
   "domain": "buildwithfern.com",
   "name": "Fern",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.5,
+  "score": 6.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91TmhhdVMydV8ydnBmSDVaazNfcENHc0NuYkdMQloxUzFBNXhFM0swU1J1Z1FkUzk5YkE1akRkcm85UUZYc2lCdVlycEhLY0c4OWlNeVZtSG91cmdjX18wNlJiODBranlZc1AtSjFyVUU5LWs?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Fern Hotels & Resorts launches a new hotel in Vapi - BigInfo.in",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSZkF2a1ZfR01EYUs0Y3pDRXRjbEp4Y2ppMmZoODF0ZTFOdE01N1Vhd1lCZ2k1QVo4WDRRSVRscEJrbURrX21yU25Ra3hlZzFaaGFYUEozajBCakZMUlduVmJ1YkgtalJRQ3d3Y3FzaTRmVG5yNjk3MkFPekM5Zw?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

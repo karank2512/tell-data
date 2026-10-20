@@ -1,13 +1,13 @@
 {
   "domain": "personhealth.com",
   "name": "Person Health",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 17.4,
+  "score": 17.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.4,
+      "contribution": 17.3,
       "occurred_at": "2026-08-25",
       "summary": "Form D: $5,000,000 offering, $249,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2151165/000215116526000002/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002151165",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

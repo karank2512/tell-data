@@ -1,20 +1,20 @@
 {
   "domain": "withterminal.com",
   "name": "Terminal",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 8.5,
+  "score": 8.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Ukraine Launches More Than 1,000 Drones, Igniting St. Petersburg Oil Terminal and Ruchi Depot: 26 outlets compared - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSTVXZGF4Mkt5TXdaYlNaTkNRdS1ScHJKRmxsVllyMDlRU2haRmZFVm9tZHNhc3Rtd2FVdzhqTlBLT3QtVGVDVU5IUXhCVUhLUEhUaHFnRXZaYW8zdnFJWHpmZ2hvdDhpRDIxdGU5UEZQd1VBb2VTdEltOVVuczNKYWtRWVE1VkdGRUZmUHdHdkpsOW1IdUgzNTdFcThtSFkwTnUzRXhPN0NTTjlSbnNkdXNmb3N2OWNKejRLV0YzVkNMRWQwOWR3dGRHR1RvRFhka3E4RnJRUWdpYmF6dDZvdEJnQzFVNWtxWGc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "Starling Releases Free Linux Desktop, Office Apps, Terminal, and SDK - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmVZR1pmbGZpVnAwYnk3dWlzZnpfOV96UmFDUmRhSmhvTU1XSERNRU9vU0EwRVdJMnJ2YlNCeDZkUFNRUTZ4ZU5BbWlBTVh6TUJnRVZLWjQ4WmN1OUtnc250d1lJdmQzRnhzQWVFTHc2ZlExb05rNGk4ZGJpMUR4Qk1tTEJoUDlqRUFhWm9XRElxTktyTFZwd1NUMDBQSUlkQjVR?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

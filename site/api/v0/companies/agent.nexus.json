@@ -1,13 +1,13 @@
 {
   "domain": "agent.nexus",
   "name": "Nexus",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 30.9,
+  "score": 33.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "Nexus Malls operator Nexus Select Trust appoints [person] as CEO & [person]",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWtGSGpSdlBOeHRjcWpaMnVJQlBXeU0zLWY4T1BuSl81cXJ1ZHlZYmQtcVNKTnViMFNrYW0zaWNBRWZ3T3NGdW1QcFRQZU1hT0M3RHl6T3o2YTEyZW9rZFFWWk1KZUxxT3BSZ3NCMXotWVBPV29pVUhRM0U5VWdPTG9aOWltajdFX251dE9TZFB5ZW1aeVh3OGxxcHA3dUNkSDR3T3pxd21sYWhSVUJoZlhTQUtFand1XzItQWVuRG1rOF90TjExWnZjSHNQUUFZRVlzZ2tBOTNsWW9Z0gHiAUFVX3lxTFBSaW96a2JicjZPdHFwTjhmXzVIU1N2c1FUbGJfRExmT0QwLWRTTzNDc3ZpS1hrWGZEVlNUOElVdU9nMkRCVk9WTTJrRmtLY1poUzlRNldDWWw4NUtyd21GYVE1YXdrbnpUcWc0QU9ubkdlUEo2YzJRNHRMVVlvV3RvVXRmUkZMR3NQMHM0b1JKRUE2STlEQ2lkWC1nLXpfZHJzMEtudHRzS2I0TzVnQmlOTEpabmtNa3dEMkx3ckhjNl9fX1F4X21EeXJRLUNrRV9BNEJoRTVrcnJsSEQtajdvQlE?oc=5"
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-12",
       "summary": "Nexus Select Trust Appoints [person] as MD and [person]",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEk1LVllam1MdFVwdl9XQjZtTE5iNzRPdnFtYmdRa0taYlhyaUMtaEpyQkMtdFJkX0xaclV4RURjdzk4WFI2Z0h5S3BQVVo0b2k1MVBvZGVwNlk4WDBuN3lrNVRNZm05ZGNXekt3VkMxSzctWDB5a3VmYml4REtvYTZfcUFVWGZCQjRLZlBYWEVGdjN3dUtHd09acFlsQjhYSzJLd3NQZnZBcHAtZXdicUxpQ01YVE00OGdZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components - SD Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRzdjOEdtUlVyakVmbTF3QlRmeXFOb1hBVzh2SkJ5c2tKd2tmall5bGhBYlc5SXA3cnZDbndsMklrNU44QzZtM3BFdXV5VEp1Q2JkU25weXRoVDRoaF9vOXpHSEZwbVY5SFJvaEFtZ3dUaEZUYTZMaC1xNFg5M3VzSi1FcmhGY05UX2VPS2Z4c3dPX2tuN1gtVmFtTXI4bVE?oc=5"
     },
     {
       "type": "launch",
@@ -58,6 +65,13 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-14",
+      "summary": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components Before Developers or AI Agents Pull Them Into Builds - VMblog",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkx6b1BwS1hieDhTTlBFLVIxOGRBUzZwY3RIOERKNC1DWk1aeHMtSlNibnppYmVCX0NJbG9yQXdoT0MyY3YxUUcxYUVOZ2xhcV9WeTMwbXQ4X1l0aTFDRlV3TFNpdmJ3OHI4MDZacGl4aTVDdE92dnZqMUozbzFMcXlEVmNydlRROURzSTNjbmNuT2tzZFh3bHhhWUNtQ0lobXZvNEUxTjhQdkdGNFVmcTZzS0ZLZ05NbUJzX0VzdklpeXQyb1dYZ21qZDA2TnZZcEVRaEdiV2EtYmNI?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
       "summary": "HYTE Launches Nexus App to Unify PC Monitoring, RGB Control, and More - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSm1tZ05xbTVkbG5wX1I4VkM0d3lzZ29kSTRYYUMxMXZXQlZNeFVkSTFXVjhpU2lTS2lkaHpWS1RGSUNsRDh2NVRpZGtMeW5uUTdmaWpLbEs3cmVkWThRNWdpYkV3aDJNSHFEUFFQUnlJaEZqNk1YOVdGaUdtY1RJbmtmekRBZWNSYTBuWDBOczJaVHQ0clZWOFVpVFpxdUdmRlQ1am80YmZVUdIBqgFBVV95cUxNSm1tZ05xbTVkbG5wX1I4VkM0d3lzZ29kSTRYYUMxMXZXQlZNeFVkSTFXVjhpU2lTS2lkaHpWS1RGSUNsRDh2NVRpZGtMeW5uUTdmaWpLbEs3cmVkWThRNWdpYkV3aDJNSHFEUFFQUnlJaEZqNk1YOVdGaUdtY1RJbmtmekRBZWNSYTBuWDBOczJaVHQ0clZWOFVpVFpxdUdmRlQ1am80YmZVUQ?oc=5"
     },
@@ -77,28 +91,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Pacific Defense Launches NEXUS, a Converged C2 and Electromagnetic Warfare Mission System - AFP.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRMzhiNmxzeXMyT19ZTG1zQXFPNEdSempyaWpINFYtUTd0LUZiYmhYXzVvSWFwQmZJRUJDUm1FRl9sQjVRLUotMXRKbw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Georgia Tech unveils ‘Nexus’, a $20 million supercomputer - WRDW",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVNibVZuY0thanBCRmxBTjVxb0RvX3poMlJMRkVmSVIzR3o2SlBjNWdDQjFMYTVHc3FYQXhPbVF0aUljNTNJRHNNc2xPdjlzZldjVUFZa2Jtc05td053QjYyQ1dkOE4tWnlEOVBENkNGWDl4Sl9DREh5Uks2VTQxUWtreXJzdXJVN0ZkNFR1eTJ6aUdF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "Georgia Tech unveils ‘Nexus’, a $20 million supercomputer - Atlanta News First",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHAwQk5GdjFoRi14RW9jTHpMZnNtd1lqWTBpTGFoaExNMURPU1JWd2R4VVo1S0NHaWs0WENYeF9wLVJDMEFhSlRWSG9Za1l3VF9JbUJLLWRJVXJJaS1ZeVBTUHoxeXhjYVdnakV0bHlMZm16bW1oZ2x2bWh6akpEODRUVWtWbGcxQTk0ckFQLWlad2ZzbUZURXU3bUTSAbABQVVfeXFMUGlCSU9wakFsNXBGd0sxVThRaEQ0R0RianBNcDBmSFF2Rzc5X2N1Q1djWTJ4eGxzSTRmWnJWWllGTDhGVndHNXRZeDd0SFRDMDlXLUNKLVkxYUFxc1RxT3ZjQ1JkMkV1SFpteG9helpnSnRsRzY5VXY1LUZmSFpFU2t1X1lHVUZOUFp6TW9OamJ2QTFVbmFEeUNPY1ZEQlZRVHU1Qi01bnFRQ25tZk1NNUc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "Nexus Legal Group Launches National Roblox Exploitation and Abuse Case Acquisition Program for Plaintiff Law Firms - ACCESS Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3BqOUoxZ2xHNXVFemlQUGN2MDFmUHVuaVRobWVST3JOQl9UU2ZYaHd5aDdfT1pQUWZ3U21MS1FxeXJiS3JaSldNel8xTXpodTUxaDZkQ05idnpKWHgtbTNKX000RUZXSG0wNk9qS2s4bmYyYThjRmlRa0FQcGh2SjJfNFRsZ0JfdkdqU0t2ZXB6QnVLVlVsMHp2NzFtUFZkcTQxOU9EdURzYmtkV2lreU9XbTYzbm9lREJiZWF4SHNnUXpLTVVvNVYtd2Fzam91Z29iV2s3LWRCb1dBWUJPZDloS0Y?oc=5"
@@ -167,6 +181,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

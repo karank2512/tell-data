@@ -1,9 +1,9 @@
 {
   "domain": "elitehq.ai",
   "name": "Elite",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Glunz & Jensen launches Flex-Pro Elite - Labels & Labeling",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjNpOGZKTnYyZ0VteGQ0LXlMQVc5Z0xmVURvSDVEU0NSVUY5YU5oaUJlTkZBbFl4TVJzZHVsSnNOa0Z0bnpNV2cxRlJmTVU5ajRRazVKVzdTUTA3bE13azBNZXZjVDV1ZUpwVU9WaDBzeTZuWEN4UzlaRUtuUGg0UzBlaXM1SDNRLXZ6a3dwNDIxeHBfZW4ycQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

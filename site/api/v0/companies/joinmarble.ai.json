@@ -1,9 +1,9 @@
 {
   "domain": "joinmarble.ai",
   "name": "Marble",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.7,
+  "score": 7.6,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Marble Law Launches in Ohio, Offering Family Law Clients Clarity on Their Legal Path and Price Before Work Begins - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTEJfV0dMdVRBamN1Q2JYdUU0dGtUWFAzMnZ4ckQtRjhyN1VKOUhacURKRUluS0J0V1FSejFJbkY0Sm8tUmdacXV3QV9CU0NtdHhLZnB0NHBhdmFlWVV2U0FlZi1wYmNXZkFDbFFnV3lVRW9xbzVKeEIxaDdmNmRMdFhaenNoTktOM0I0R0FLSzFlUmpBeHNDT3FJZmFsOVJ3Z0o4bC1BWXc0dDRzcjVfaHRrMXh0Nk5EaEN3TnJUUGJ2dVNVMDB2X2JSWFhUZUVmMm5pVkVvdTY0NFZMblRjeVZycjZQWXU0UVFTaU8wcVZjZk5qVkwyMkxaU0RtOXI1WEhodmdtMEVkN0RTb1htRkJB?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

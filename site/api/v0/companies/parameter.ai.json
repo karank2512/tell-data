@@ -1,20 +1,20 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 38.0,
+  "score": 37.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "Reflection Releases Open-Weight Beam, a 501B-Parameter AI Model Built to Reason With Fewer Tokens - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16UW9SVFhEM0JBLXdtTGFZWlFQaHBOS3ZwLTI0RU5YZ0ZCaF85ckNLZF9DOEoxMVNBWjZLbnVBamlrOVRYaDBWQ3E1dkFoY0NDNC1GcGpEUzRKWEZxSkFQcFlKZXNEREtJVHZTRno1cElCQ0dk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "Black Forest Labs releases FLUX 3 Image Klein, a 5.6B parameter open weights model - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZE0tTXVtQ0xYSl9mVnQ0N1JQYW10M2ZxOXR6YzkzaHVseE1mQlNfdEUzajZXUnFfbllINldxam1pUXFIbS1pYUwtcjh3TnEyTzJ4Y2NkaTFaS3pyQ0I3VWhiTTJ6YlBQUzU5SVQ0QVcySGZlbTNPR29teFZUSmdDR045R0RKUk1VTlVrTFBKNERtX1JpSnM5WkhwSDV5OXBLS2hYV3dwYzA1LUFSM3RR?oc=5"
@@ -175,33 +175,33 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Mistral Releases Le Chonk, a 1 Trillion Parameter Open Weight Model - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnhZbGk0NWEtZTdPNXd0NXpaV2tnam1oSXBfNkFlVEZOU3ZmcjBrcFZqLWMxRFZYQkR0TVo5WUxDNE82YXVKdlRTZ3ByWk5EY0lTWXlPbE96azVpeWdWMDJnNlBmczM2cEoyRlpnaHJRd1FEMHJvTTFHal9qQ01EY3V1UkpvYUVmTF9vWk8tNy14cVNKM3Njblhn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB Laptop - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFRBbUY4eXZsUlZPeUR5dFh6bm41NHE1cmZSTGV6UzBxWjdHNmQ1ZmdmLUQ2LVAzbFRJcW1UV1pYaFAxcDhBTW1TMDRmSmxESFpGcVNFa0JJamtrZzE1NzRxcGVsWGJNWmpWVm5VLUdWQURZLXIxZjFaWDVQNkdGc3I5eEpHOWZ3dlVCSWdla3JZSHdWSlBKdzNqTGdLNVNMT18wSEF2ZFptVG1oeWVfWnpRTUFsNXVaNjRXQXZ6Y1NFR2ZvdVI4?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Liquid AI releases LFM2.5-24B-A2B, a 24B-parameter model built to run on your laptop - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYVVqZnBhdDVjbjVFRkxUQnA0cExncjJxRnFLejV2M3NZUTZ1MFBjRXFoQVREYm5sQjZzZ0wwNjZOUjFhSmJZYjh6Xzc1RVNvMmVucFpCR0FUa3hlSkFhYm42NTV5T2phdnc?oc=5"
     }
   ],
-  "open_postings": 8,
+  "open_postings": 9,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:parameter",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

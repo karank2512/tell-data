@@ -1,10 +1,17 @@
 {
   "domain": "arccameras.com",
   "name": "Arc",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.6,
+  "score": 8.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Lincoln Electric launches modular submerged arc welding tractor - WorkBoat",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXQwcG16aFNNai1zNWJrUE93eDU5dmd1cFVrczVNeGdjLTdkalpPdjZzcGkydG5LNlFaYkJQTW9DQkVKZDVRczJhREZWa1hvUG1xNzB3aV83bmZDcU1zSXRRRmx5WjB4WUlmZGN0ZHZIRTBMR2tWd2FweTZvT0RpSUIwZDBuS3Z5bXlWOEJBNXVoQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -29,6 +36,13 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Arc System Works Launches New Tokyo Studio, Arc System Works Tokyo Studio \"Takumi\" - PSX Extreme",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkNPeWlLdlVWR2lORjV0MFZNbHNqVnZwN0Q1OEJoQXRSSEZ6cmw5QzVDeElabkI5X0xSX1RBWkFpYVdqckZRWmpycEhCRTIxbF9pUlFsQlVTMTdwTWd0Uk93NmdIcXFRb1pZUEZvWUxURWFDYzNkMkpwMXozV1ZsNG43UkdEaXNVQkh0d24tNlFrWHlCTDNGZFhNbWRjWERvV0RGekRtQ2k5V1dZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "ARC Raiders PvE Mode Launches October 13: New Rules, Loot Changes, and Trials Season 6 - MMOEXP",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHdoa01SLXpTZFJWc0N1YUlhWDhtcFhwMy1PbWlHbkxsLWZ4WkFzSllsbUprMGhtTk8wU1RaRGJLbTZUN2F6cURLc24wUHJQdmptOHN6eVRMZFNnSTB5TWEzX2g5NUJNa2FwNDh0Ym5ESlNUMHhRdktMT1JTYTYzVF9KZXBlOU9wZ3o0Rk9oYjNGT2M4dGxKRWhISy1jR2Q2TDZOTU1qazlJUlVQMXlWb19ZV3ZudXc?oc=5"
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

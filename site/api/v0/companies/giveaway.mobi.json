@@ -1,9 +1,9 @@
 {
   "domain": "giveaway.mobi",
   "name": "GiveAway",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "South Texas Blood & Tissue launches NYC Thanksgiving giveaway for donors through Nov. 8 - WOAI",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOekxxa0dKU2c3aWdWU1loLWhIclpUUmk4Y3ZuNEgwRTJxQjhkLV8xcHYzVlZjYWYtWDdqSC14bUdJbU43d3lPZFRaaXR1M2ozb0gzUDdGTm5nRUdQOHJKdlVGVWI3UWNQM21feVZyZ3JCRlBHYVhtblN4YVFoMHdxREpOcUxIX0lfamJQMTFTcUdxYTdSb3AwOG1iNERUSW5TcjRPSldkY29iMkVaNmthLVBpdFlXNUVKMzFaS3N3S3Q?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

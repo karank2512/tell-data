@@ -1,13 +1,13 @@
 {
   "domain": "plexus.im",
   "name": "Plexus",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "[person] Joins Personalized Nutrition Initiative at the University of Illinois Urbana-Champaign as a New External Partner",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQLUlvVThnWXJpU2VyTzJsNGUwZXlTR2tYaVViN0I4ZHpqUnpWWVZQMTQ1X2JnNTlWQjR6UTJCdW9PX2FFQnZCNm5lcHZPdEh4bm9fbUJYU1NONTJIUS1tVmY0TEV2enpmdWh2d2VscDVwZmJiX1hLOVNQUzBJbjFhSEdubkIyWElsSlR6QldfZ0hWeWx4dG12Rk12SnFiSWx2Uk1mMUFnNTZjLS1ER0dYX0VUMC1QSzBfLXBBTXlCM0lZT1UxeG5McXVFcmRPemlmYVMwdlE0Y1ZBRUpfaWxUZHJmdEo5aHZybDZwa0tYcFAtUE53M04teGJxWG5NaElfcXlrdWdCVGpKUWJrUG9zY0d0Rlo5bm9Oamc?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

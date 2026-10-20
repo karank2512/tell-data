@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 23.0,
+  "score": 22.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.8,
+      "contribution": 12.7,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -39,7 +39,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-02",
       "summary": "REPMUS 2026: Stark unveils Vanta 12 USV with Sea Venom anti-ship missile capability - Janes",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcmhiWmdkTF9Yd25weTJCaWVwZjBoakhrV0p4RDQyczdvNjV6VVN3cVpLSjFIX0h5U3V3M3JWNko0Zm9nV0h0Y2hWT3NULWRjZl96SUNwV19nS1VEYlZGX1Z0MElHcDQ5bWxfNUxkeGRyekpfY2JvdGxhcnFuU0R6aXZOYnFVMXMwUGZlYlhPQUJUUmp3Vnk0TnBfaU90MW5lb05qek5RaEpabDVRMnBaNTI0SHBaQVNWd0JEdkNzZExidnlTUExTYXpTRC0zYXBxMERpVXFmblNLemEwaFVua2VVWkk4UQ?oc=5"
@@ -115,6 +115,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

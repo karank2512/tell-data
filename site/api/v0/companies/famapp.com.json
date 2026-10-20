@@ -1,10 +1,17 @@
 {
   "domain": "famapp.com",
   "name": "Fam",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.2,
+  "score": 5.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "G Adventures unveils 2027 FAM trip lineup - TravelPress",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfVjRFZm5qYWhvamMyakxhbVdrOU9Vb3p3QXZVSkFabG1iNzc5S3NCY2d4QnB1c2RIdmpGUXVRbFhyaXFYMzg1SDhpNVNuZXp4ODVaSkw1TUxKckhOWjJHS1pWLXdHb2NtalFwSGJtX1JlWXBLMEZ2U0Zn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

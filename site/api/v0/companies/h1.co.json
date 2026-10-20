@@ -1,17 +1,38 @@
 {
   "domain": "h1.co",
   "name": "H1",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 26,
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.lever.co/h1",
+      "postings": [
+        {
+          "title": "RVP, Health Plans & Technology Sales",
+          "posted_at": "2026-10-15",
+          "url": "https://jobs.lever.co/h1/9b6bba80-c8a6-4dff-ad40-e7413585c825"
+        },
+        {
+          "title": "Sr. Account Manager - Health Plans",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.lever.co/h1/cdde8d34-4eb7-41c7-9b47-d108dadf300c"
+        }
+      ]
+    }
+  ],
+  "open_postings": 28,
   "long_open_roles": 6,
   "sources": {
     "ats": "lever:h1",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

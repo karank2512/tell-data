@@ -1,20 +1,20 @@
 {
   "domain": "arist.co",
   "name": "Arist",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 16.0,
+  "score": 15.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.3,
+      "contribution": 15.2,
       "occurred_at": "2026-07-27",
       "summary": "Form D: $22,499,997 offering, $14,133,732 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1934857/000193485726000003/"
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-15",
       "summary": "Arist Launches AI Performance Consultant to Challenge Management Consulting Bloat - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSWljTlZWMWFIOGV1bjRWY3RsVVAwWlhyQ2JZamZXWVRScnEyYWN1c09FLWJWeFlScUF2dFlRT0s2RnFtVmZfYnRfUjM1WHJXQ21kVDItZFpwZUtBNHpucHcwNV9iVDBUWXFMWDhaNml2S1JJVGJYZk9YVnFhbEdrdEVPN004eTBxYTFPSVR5UmYtdF81QmZGY2hQQW5KQTNYcWxYUkI2dE9rVGk5NGZHSkJFZm91SnNPanY5X0JsQWNEd25kMTFwMEFGWWtLLVVYTmRjcA?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": "0001934857",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,23 +1,44 @@
 {
   "domain": "conductor.build",
   "name": "Conductor",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.8,
+  "score": 11.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Yangju Appoints [person] as New Conductor of Yangju Municipal Symphony Orchestra",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vaG1Va2MwWTBzcXZpQ3ZFbE1fS3FMWkhlcU5pTk4xR2lVSkl3VHBFcTRReUVuUm1PZDlIenpNOW5vQWRZdXpqRE02Nl9nRVNjUDNCREJzR21CMW41SFVsb0tTeE0?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzBxUjgzNXdWdmRBVDczU3ZRY3I4RW9vWlBqZ3IxdEFwc29oUUFsYlJRc0RkYWhPajRmQWVub1RoOHY3aFRVUmxoUy1xd0c4aDlqUEp5ank1QjZBcWhhdVFmYUpzUnRKRVFMS25ZNTEySHplQ2ZfZDF4UHB6cHRmYXppQ2xLLW5XU0FtNEZscWo1UzQwRzI5TWxjWWt0Nm8wTmIwZ0dIZF9fc0FIUHowS2NWQ2hCZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "LineWise Introduces Longhorn Folding Guard Arm to Simplify Conductor Repairs and Maintenance - Work Truck Online",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMm1kWXRRU2dVYXV1Q1M0d18wWmlWN1psck1LUEhheFktVlBuNnZtdFpYODBsMFBINWhrSzA3UGtNaVh5Mk02OXhacFFxdVJjYmd4a3NadVRCbkYxV3ExaW43RjZ6dEJRLUtRUEV3aDVMMXFFX3cyY3NEeG9odXdIdnZ0Zk5YQU9JV0k5aW43RHAyMWZDQnJqS0RVV3ZibERWU3A3Vno1bVBMRzlsTHNIT3pjVVNCMUNCOTNWU1hNYndzWnN6NktfY21KMl9CUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Epsilon Cable launches Conductor Advisor to help power line engineers compare composite-core conductor options - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdHdZMlZta2N6QTVlTzZUNUlOcFVEOC0yRkVSWGFTVXBzZmk1TnlxcW1DU3dHdlJfckxfdElTYzZQY0VtR1Z3MlBUeHpHMWV6OFR3MWc4V00xT0FSaXVSbTNnNkhSVkpTZWtHdTl3UkhQTkI3SUZ4ME5LMHk4NTZhS2NHWV81bmtHYndqbXVYSXE3eE95RG9OWDBrY3hxeVR0WnZoOG5xQm5IUUt4bmg1T1EteW5xcGlIZEs0b0JaZFJRZFNZVHVFRi0ydjBEVVo5OEU4c0wxeXJLcTZVaThRZ3dUNjNWNWM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "LineWise launches folding guard arm for conductor crossing protection - Canadian Occupational Safety",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcmxzcEI4UEZ3TjdzQmdSdl9pNFFHMmV1VkxMT1FhazlNNDZqdml5RmdXSHltbDNaUWNVdUo3TjNhcS0xU3JYM3JneFIzWWJHWi1jVjBPR3g0eTNhcVFiRldDQ0ZFQVZvV1B2SG1DajdxYWVXM2RGWVVXT2lIejhhUk5RZmNsYXVTQlFiTjg5NVl3NWw1ZGxpTjRYb2FCUUtOWVZreFZ2UENPcTEtMG9DOXROTHFEWFhIWElxNEZ1Tzc3OUU4b3huTjhB?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

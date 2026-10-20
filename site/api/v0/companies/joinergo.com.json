@@ -1,9 +1,9 @@
 {
   "domain": "joinergo.com",
   "name": "Ergo",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 9.2,
+  "score": 9.1,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "ERGO NEXT Insurance Launches AI-Powered Property Inspection Tool for Commercial Property Insurance - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMXpQcDZRWHZrUnE5MGlNQlQ0aldISG9lZC1aVVJlSHFVeURFZVdhanpYRmJSNVNjWDFZNVl3d1FkSFRPSnlaaHVnRzBwQ0YtNHE2N3FJcHFpRGY2Y1FKVnlULWU0SjU2bGplSGNERzE0RGhxOW5LaWRGQWdPaEMtbDRPMGZpRmpkdnlHRjBqVkdQalVpQ1U0Nk5qdE1VV1hHWHNibTZ3WmxQTkVIM0c4VWo0Z3Q5ckZ0Qjhwb1hGOEtLVUZNeWVmeTh2ZDVUZWFYZEVYdkF2M0pmSTFiWG56T2tJVklkVm5GRVpuMUpVNDFHYjdYWWo4dU1FcDBRX1k?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

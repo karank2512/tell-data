@@ -1,13 +1,13 @@
 {
   "domain": "mosaic.inc",
   "name": "Mosaic",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 10.0,
+  "score": 9.8,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "Mosaic Consulting Group Appoints [person] CEO, Expands SAP and [person]",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGhWZWdaSEpBR19LWlE0allqdmUzMlhmWXE0eHhBa3E0VFNQakotT2RPODVOcFE1Q0VuYlA0dlR4ajQ1M1hhYTZlTkdSY3lhbXFBbEJzYnFyTlhvd3lWSl9Xa01XeXhUUEdDbGd3SHZxdXFPU2syRU04N0N1cUs1VWFBVm9aSHozeFQzTGNzcXUxdmU2a2dWcmJLRVI5ZVdrZWVWVERxUmxhd2I3bDNZdGdBS0t5ODV1?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-08",
       "summary": "Fine arts center unveils Liberty Tree Mosaic mural - Tullahoma News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzFJZjlhMTl0a1dLT3MzRUo0WW9fakt6LS1MWkJPR0l1UWtvMW9DRFQtcUM4WDQ5VHZKQ2dlTGJncmlEanlLQUlMOXRKMXh6a1NPUTJGa3dKa3pJcWhKMU5PNFItOXV0YVp5aTZoOGVuSGlmc3BBU2hHeGFnSXkyaHVmemJncVZzMTlMSXlfZjBiRDJwRTQ4Z0N1SFVIUVZO?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

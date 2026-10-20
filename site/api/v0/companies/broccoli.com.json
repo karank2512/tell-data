@@ -1,13 +1,33 @@
 {
   "domain": "broccoli.com",
   "name": "Broccoli AI",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.1,
+  "score": 4.0,
   "contributions": [
     {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/broccoli",
+      "postings": [
+        {
+          "title": "Head of Enterprise Sales",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/broccoli/853c7e1c-b032-45f3-8747-6867596c5917"
+        },
+        {
+          "title": "Account Executive, Enterprise",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/broccoli/ee6e27b9-f2b3-4806-96ac-9d55abe878e8"
+        }
+      ]
+    },
+    {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-02",
       "summary": "Introducing Voice Studio: a voice your community already knows",
       "url": "https://www.broccoli.com/blog/voice-studio"
@@ -20,13 +40,13 @@
       "url": "https://www.broccoli.com/blog/expressive-voices"
     }
   ],
-  "open_postings": 34,
+  "open_postings": 37,
   "long_open_roles": 14,
   "sources": {
     "ats": "ashby:broccoli",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "front.com",
   "name": "Front",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.0,
+  "score": 3.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Legora launches Intake: an agentic front door for in-house legal teams - Legora",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzZxSFVPRzN0SmNLR0pUWmtYaVp5X2NkWVh4dlFIRFdPZlAtbWNkbFBlLV9yZ1VuRWFCRTBzbmhvWEsta0JXQnRIYjNpUl8tQkhvclNQMVhYLUhCTklNSGdSZ2hoUDFzUlNIWThxU3VYRGtIS1BTR0xyV0pla1lZOHRqM3NQR29WNy1vbjVDby1JMlJQYVZ2cTdNckg0UQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

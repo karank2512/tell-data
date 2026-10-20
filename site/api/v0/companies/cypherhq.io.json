@@ -1,13 +1,13 @@
 {
   "domain": "cypherhq.io",
   "name": "Cypher",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "County Releases Robbins/Cypher Complaint - Leelanau Ticker",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUF6djNXcDZQYWtzM1NxTS12NXVoWVdMeDRDUHhrZDNHRGVSNlFDNzZmQmExQnFPZXI5RXkwRkVGZU5qcG1IWU96VHo2MHY3RmR6MHh3WnRjWHdrcjRHYWZCQ2dSeXk3VmdJV2EyYjlwZTNxR1RPVkVPc0d6ZjlmcU13?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "assemble.ai",
   "name": "Assemble",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.8,
+  "score": 5.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "NC Officially Launches New Mobile Casual Title 'Tiny Cat Assemble: Survivors' in 6 Regions - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3BMYVhwSzJFRDRUeUMwd052RGdjc0dQbUN6ZlNLblJ3YUd0UFpKNVcyNTNKYXhqQWJuc1E4dUJveU1JUUIzVmYycDQzc1EtSkV6QnBIXzkyZUU3Z3dYaEplTXVfSWpobndPQkhteGZNcmtrTHJZZWtLUktYRVZXdlpycEtWVjhlazlOREVacGRaamp1V0pFNkQwYk55blBHS0lmZ2t2WEkyUWxiSkRmVV9WTjF6N0NlNjRNMnB1UEg4S0JVMHRTQTlB?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

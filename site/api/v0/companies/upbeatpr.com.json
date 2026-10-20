@@ -1,9 +1,9 @@
 {
   "domain": "upbeatpr.com",
   "name": "Upbeat",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.6,
+  "score": 2.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "Afreximbank upbeat as Africa Rating Agency debuts - The Nation Newspaper",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlRZNUk2a280LVB5Mzd4eHhkc2FHYURIUTdnYjJBcl9BZGc3V1NiWjd0YTdQVjhnTFBWbHlfWmluTlJPQjdEVkhwZi1zQk9QcEdLWkNRLWVmYzUyMlZ1bHIzZGNTWnJzbVpaMVhjanV5akNXZUpfQkZlSG1GeTZDa0phQmVCbUXSAYwBQVVfeXFMTlVqX1hyTXF1TGJzQkxETWZVcG9vVnlpNmVxLXBEbGdqVWV2b0E5Y0xGU0t4amE4YlNQN0Jpc1I4c3dMRnlJTE9aaC1BcHk4WlNVemRKNUNSZWdNaUtSQnU1YTE0anpKSllZRHYtQjctLTBQTjVwSk9pcWdTR0Q4YThMM1RtcHc5dFU2Y0Q?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

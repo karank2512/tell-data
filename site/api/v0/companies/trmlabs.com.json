@@ -1,20 +1,27 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.5,
+  "score": 7.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "TRM Labs Unveils Ardence AI Investigation Tool for Law Enforcement & Defense Users - ExecutiveBiz",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaV9iMnRHRHYwT2g0R0lIUkJVX0I3MG1wRDJfZ2pxV2ZaX3huTmJ2QWgxTjI1QjhodTE0Smo2YmFrMXMxRmtmWmdWUGlIVEg5WTdZVGRuejFrOGNTOXlhV0lUa3N3amVzSldVandBX2xWcWZJcFhaYVpxZV9UWFVqbGt3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/trm-launches-ardence-ai-investigation-platform"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Introducing Ardence: The OS for fighting crime | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/introducing-ardence"
@@ -49,19 +56,19 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-04-23",
       "summary": "Cyber Threat Intelligence Veteran [person] Joins TRM Labs as Account Director for DHS | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
   "open_postings": 114,
-  "long_open_roles": 39,
+  "long_open_roles": 40,
   "sources": {
     "ats": "ashby:trm-labs",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

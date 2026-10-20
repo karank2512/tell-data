@@ -1,9 +1,9 @@
 {
   "domain": "simplify.jobs",
   "name": "Simplify",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 24.4,
+  "score": 24.0,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Phillips Connect launches two smart trailer tools to improve uptime, simplify inspections - Truck News",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT3hDVXlyX0hpVG5yejJZUGMtcU1lSnY5TjRkV24wODdMTEZtYkw5eHpMNm9ZMHFKNWY0OENZb25QS3h4ZWRhQjdXZ3pXQjZ4LTVVb0JLNmNEOXQwYXNkeUdXbmVpM0tFd3ppMkIyNlZkcTlDUlFETks2alFFOWxuLXZGdzl3QlBjRTFWSjJxbWdlLVI5ZjFaaHMtSk9YZVhxeWt0Y0VyTE1hNS1XSlZZSlhEc001Q0kwV05mN1ZQaFJyVFJqcHA5TUtnUTRBQWpJVFE?oc=5"
@@ -91,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "ACAPS Launches Digital Platform to Simplify Insurance Complaints - Morocco World News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmdvVkNKdVBqTncxV2hxTW9ETmROQjY3dFdlcDAwTzh6YWt1cW9ITGMzSG5IY1Z3NzVkblZpQzF1UlFWRVRzRzVvU2ZBWEk3LW0tUjE5bGNzOEU2dWpCaUloRjN4M2sycHpxQkRiNkdxN1o3SWZLMmxIbG56ZC1MMWREbXBOSFI1dW5nM1lUdi03N2JzQUw2ajBMRjVoTVRNV1pZdmFrOXJzV0FRb01pTGhNOA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "MESA Launches Group Dining App to Simplify Restaurant Discovery and Booking - markets.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWNDeWdXdkRzVVJFS1E5MGhwLUxOcFdMdUNudlJteEE2YjQxSkltNWNneVFXQzloaEhhZzJQTzl0OTlFbUs1aFBXT2U0U1pYNWgxWXJWT2VXc3VXcmp2a05qU2g1T0JFRmNJZ0I1VTR0TkNrNE94ZGhMc3BMaEpsV0FZd01HVGFXNnhjUUVqMmItVTdYTUNSY3pLVVhReG43bWlPQXB4Q0tkTGxpOG5MNS1KdzNNU3pOaWlIN1pWUnlhY0cxQ3JGUm1XV0VFNlk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Perspecta Introduces an Enhanced Provider Directory Experience to Simplify Provider Search and Healthcare Navigation - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYlR4c1NvNWJuZnZYU2JhbkVqejY0VU5fcm15eV9sWC1FVW1vcjBXTTVfYV9oNGdVNkFaWlJ5TkJrRXN5eVZ1NTZiTmM3QmFlUS1nNjZTRzJkaVM0dTd3YXhMZzJnMFhyaWxPajJlWEhWMW83UG9pS3lRQlNHV2I0b0Yxa01ITWZwaVRXaHliRkE3Ukx1Nld2Tm1NRnV3dmQzN19FcHR1dWsyRkhrMzFLSXR2WHoyMldmMGJDdldFSlFCcUk3V3laa2s2UUh4WktVTW0wc2F3cHFRMmx6N1h3dnVrbFQ0WFE0dDlnUU9jUXJqVFJJSVoxUXZVd0FXdEZP?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

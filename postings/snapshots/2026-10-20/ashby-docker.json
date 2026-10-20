@@ -1,0 +1,577 @@
+{
+ "vendor": "ashby",
+ "identifier": "docker",
+ "domain": "docker.com",
+ "as_of": "2026-10-20",
+ "last_polled_at": "2026-10-20T02:55:27.963628+00:00",
+ "open_postings": [
+  {
+   "external_id": "05a5dc9e-5c5b-4f92-b2bf-93c9348d264c",
+   "title": "Principal Software Engineer, Developer Tools (US West Coast)",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-06-26T20:49:42.891000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/05a5dc9e-5c5b-4f92-b2bf-93c9348d264c"
+  },
+  {
+   "external_id": "0c3291ff-141c-4dbd-8369-10f0d1e99d2c",
+   "title": "Staff Software Engineer, Cloud Sandboxes (Seattle or SF Bay Area)",
+   "role_family": "engineering",
+   "location": "Seattle, WA",
+   "posted_at": "2026-06-26T14:37:46.899000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/0c3291ff-141c-4dbd-8369-10f0d1e99d2c"
+  },
+  {
+   "external_id": "0c6104ae-7a8a-4701-aa63-24f57389025c",
+   "title": "Staff Solutions Architect (EMEA)",
+   "role_family": "customer",
+   "location": "England",
+   "posted_at": "2026-07-17T13:57:51.009000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/0c6104ae-7a8a-4701-aa63-24f57389025c"
+  },
+  {
+   "external_id": "0f0dac44-467c-44e1-93df-66155d3f9901",
+   "title": "Partner Sales Manager (Central EMEA)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-08-26T17:49:56.687000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/0f0dac44-467c-44e1-93df-66155d3f9901"
+  },
+  {
+   "external_id": "2115577f-8947-4314-8adf-293aa212c8b5",
+   "title": "Account Executive, Strategic (EMEA)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-09-01T20:30:11.387000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/2115577f-8947-4314-8adf-293aa212c8b5"
+  },
+  {
+   "external_id": "212f4cdc-a84b-4aa7-9538-f8f2e6744c75",
+   "title": "Principal Solutions Architect (East Coast or Central)",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-07-28T17:07:34.062000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/212f4cdc-a84b-4aa7-9538-f8f2e6744c75"
+  },
+  {
+   "external_id": "221dff90-2b30-4977-958a-8838f43c6d38",
+   "title": "Business Development Representative (EMEA)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-09-24T16:45:46.396000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/221dff90-2b30-4977-958a-8838f43c6d38"
+  },
+  {
+   "external_id": "2a2f7652-d832-4729-bb6e-84fe0aaf6892",
+   "title": "Senior Security Engineer, Offensive Security",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-01T20:40:12.064000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/2a2f7652-d832-4729-bb6e-84fe0aaf6892"
+  },
+  {
+   "external_id": "2c23f27e-e2d6-4529-8229-349f5e7680ce",
+   "title": "Senior Director, IT (Seattle Preferred)",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-08-27T14:08:30.031000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/2c23f27e-e2d6-4529-8229-349f5e7680ce"
+  },
+  {
+   "external_id": "309fa9bf-50fd-47d5-9556-cd65d669a448",
+   "title": "Partner Sales Manager, Mid-Enterprise",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-09-09T21:02:35.325000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/309fa9bf-50fd-47d5-9556-cd65d669a448"
+  },
+  {
+   "external_id": "30babe0a-57e8-4425-8991-8797e8337e82",
+   "title": "Staff Software Engineer, AI Gateway",
+   "role_family": "engineering",
+   "location": "San Francisco, CA or Seattle, WA",
+   "posted_at": "2026-10-15T21:00:11.288000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/30babe0a-57e8-4425-8991-8797e8337e82"
+  },
+  {
+   "external_id": "3458c40b-e757-4bb3-8b53-235c392fcab0",
+   "title": "Director, Partner Solution Engineer",
+   "role_family": "exec",
+   "location": "Canada",
+   "posted_at": "2026-10-12T21:16:41.644000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/3458c40b-e757-4bb3-8b53-235c392fcab0"
+  },
+  {
+   "external_id": "378b10e7-0e0f-4d01-885b-c769d9e260e8",
+   "title": "Senior Salesforce Developer",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-06-12T18:30:05.748000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/378b10e7-0e0f-4d01-885b-c769d9e260e8"
+  },
+  {
+   "external_id": "3c43c05d-7d06-4144-904c-fa457cd3c51a",
+   "title": "Senior Sales Engineer, Strategic (EMEA - German + English)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-03-03T01:27:08.127000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/3c43c05d-7d06-4144-904c-fa457cd3c51a"
+  },
+  {
+   "external_id": "3cb8ed2e-aaed-43c1-a10d-5a202b13091c",
+   "title": "Account Executive, Mid-Enterprise (East)",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-03-11T18:02:17.574000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/3cb8ed2e-aaed-43c1-a10d-5a202b13091c"
+  },
+  {
+   "external_id": "3e5ac6d6-40f0-4299-a353-bb84bd906f14",
+   "title": "Senior Principal Engineer, Central Ops & Systems",
+   "role_family": "other",
+   "location": "Seattle, WA",
+   "posted_at": "2026-08-27T14:38:29.970000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/3e5ac6d6-40f0-4299-a353-bb84bd906f14"
+  },
+  {
+   "external_id": "48ef7134-5d54-4662-b8d3-a70b55eb9a58",
+   "title": "Senior Software Engineer, AI Developer Tools",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-14T14:25:06.621000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/48ef7134-5d54-4662-b8d3-a70b55eb9a58"
+  },
+  {
+   "external_id": "4ed87069-a913-4dc8-8ee2-7f954ab3586f",
+   "title": "Senior Supply Chain Security Engineer (East Coast Preferred)",
+   "role_family": "engineering",
+   "location": "Canada",
+   "posted_at": "2026-05-12T19:14:31.647000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/4ed87069-a913-4dc8-8ee2-7f954ab3586f"
+  },
+  {
+   "external_id": "5119e349-09a6-43fd-91de-db7decfa5ff9",
+   "title": "Principal Solutions Architect, Professional Services (West Coast Preferred)",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-09-10T13:31:46.602000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/5119e349-09a6-43fd-91de-db7decfa5ff9"
+  },
+  {
+   "external_id": "516126e7-74c8-4942-ab72-83a1549470f3",
+   "title": "[Contract] Senior Technical Recruiter (PST timezone preferred)",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-09-30T21:09:01.034000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/516126e7-74c8-4942-ab72-83a1549470f3"
+  },
+  {
+   "external_id": "57ccbca7-6818-4e34-8f31-bf762e1f4e00",
+   "title": "Staff Software Engineer, Networking (Seattle or SF Bay Area)",
+   "role_family": "engineering",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-07-27T19:04:38.261000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/57ccbca7-6818-4e34-8f31-bf762e1f4e00"
+  },
+  {
+   "external_id": "5d62c35d-8b38-426f-9abb-b47f621fb44c",
+   "title": "Senior Account Executive, Mid-Enterprise (Central)",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-09-23T13:51:37.418000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/5d62c35d-8b38-426f-9abb-b47f621fb44c"
+  },
+  {
+   "external_id": "5f271ca0-d97e-4891-a3d0-4502354c0b3b",
+   "title": "Office Manager",
+   "role_family": "other",
+   "location": "Seattle, WA",
+   "posted_at": "2026-09-08T16:49:24.398000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/5f271ca0-d97e-4891-a3d0-4502354c0b3b"
+  },
+  {
+   "external_id": "60568fa3-6e43-481e-b7e5-fa65efe20e12",
+   "title": "Senior Partner Enablement Manager",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-09-28T19:26:41.442000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/60568fa3-6e43-481e-b7e5-fa65efe20e12"
+  },
+  {
+   "external_id": "633a02ed-a7df-42d3-8fde-8720d1ee74cc",
+   "title": "Principal Sales Engineer, US Public Sector (East Coast Preferred)",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-08-18T17:59:10.323000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/633a02ed-a7df-42d3-8fde-8720d1ee74cc"
+  },
+  {
+   "external_id": "6552cdfd-656a-42ca-9232-52b8a3562597",
+   "title": "Senior Marketing GTM Analytics Manager",
+   "role_family": "marketing",
+   "location": "Canada",
+   "posted_at": "2026-09-03T14:26:19.533000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/6552cdfd-656a-42ca-9232-52b8a3562597"
+  },
+  {
+   "external_id": "6651fe75-ccdc-4837-8374-4aa8053b714d",
+   "title": "Staff Software Engineer, Billing",
+   "role_family": "engineering",
+   "location": "Seattle, WA",
+   "posted_at": "2026-10-01T21:51:42.859000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/6651fe75-ccdc-4837-8374-4aa8053b714d"
+  },
+  {
+   "external_id": "66714d32-47cb-4dea-8447-185d1b2bae11",
+   "title": "Principal Product Manager, Sandboxes",
+   "role_family": "product_design",
+   "location": "Canada",
+   "posted_at": "2026-10-05T21:43:29.890000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/66714d32-47cb-4dea-8447-185d1b2bae11"
+  },
+  {
+   "external_id": "675169de-3623-491d-a386-40160b694ef3",
+   "title": "Staff Software Engineer, Docker AI Substrate (Seattle or Palo Alto)",
+   "role_family": "engineering",
+   "location": "Palo Alto, CA or Seattle, WA",
+   "posted_at": "2026-10-07T15:41:05.148000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/675169de-3623-491d-a386-40160b694ef3"
+  },
+  {
+   "external_id": "6f97e143-cbe9-4416-bc52-ee1692f1e9cb",
+   "title": "Senior Security Engineer, Docker Desktop",
+   "role_family": "engineering",
+   "location": "Canada",
+   "posted_at": "2026-04-28T14:43:00.333000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/6f97e143-cbe9-4416-bc52-ee1692f1e9cb"
+  },
+  {
+   "external_id": "799bf426-a53b-4788-bb9a-9f257d63068c",
+   "title": "Sales Operations Manager (UK Preferred)",
+   "role_family": "gtm_ops",
+   "location": "England",
+   "posted_at": "2026-10-12T15:21:26.173000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/799bf426-a53b-4788-bb9a-9f257d63068c"
+  },
+  {
+   "external_id": "80c2300a-75c6-4e8f-bc61-7342ff8061b4",
+   "title": "Senior Manager, Sales Operations",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-08-20T20:38:44.196000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/80c2300a-75c6-4e8f-bc61-7342ff8061b4"
+  },
+  {
+   "external_id": "87bda848-01ed-4641-beaa-829373d0ed56",
+   "title": "Staff Software Engineer, AI Developer Tools",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-14T14:12:21.906000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/87bda848-01ed-4641-beaa-829373d0ed56"
+  },
+  {
+   "external_id": "8c582a1b-fe5a-4fc3-a64f-adaee159858a",
+   "title": "Partner Sales Manager (Melbourne or Sydney Preferred)",
+   "role_family": "sales",
+   "location": "Australia",
+   "posted_at": "2026-09-23T15:33:40.365000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/8c582a1b-fe5a-4fc3-a64f-adaee159858a"
+  },
+  {
+   "external_id": "8fba5588-e4cf-449f-b953-74f7985863cd",
+   "title": "Senior Technical Account Manager",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-08-31T16:57:31.464000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/8fba5588-e4cf-449f-b953-74f7985863cd"
+  },
+  {
+   "external_id": "92a3901f-cb2f-4e07-904e-98c3f98c63cf",
+   "title": "Senior Product & Commercial Counsel",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-08-04T17:20:04.161000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/92a3901f-cb2f-4e07-904e-98c3f98c63cf"
+  },
+  {
+   "external_id": "98087691-9e68-468e-b560-1c44ef671775",
+   "title": "Account Executive, Mid-Enterprise (EMEA)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-10-14T19:36:17.209000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/98087691-9e68-468e-b560-1c44ef671775"
+  },
+  {
+   "external_id": "9a3c6a81-b551-4a8c-aa52-5d390a156680",
+   "title": "Principal Solutions Architect (West Coast or Mountain)",
+   "role_family": "customer",
+   "location": "Canada",
+   "posted_at": "2026-08-19T20:23:27.334000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/9a3c6a81-b551-4a8c-aa52-5d390a156680"
+  },
+  {
+   "external_id": "9aeaeb91-73da-4261-913f-3412dae3cef3",
+   "title": "Legal Operations Analyst",
+   "role_family": "finance_ops",
+   "location": "Canada",
+   "posted_at": "2026-10-14T14:33:01.638000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/9aeaeb91-73da-4261-913f-3412dae3cef3"
+  },
+  {
+   "external_id": "9bbe3ad7-f4be-4efa-8889-b93e9d62c1ed",
+   "title": "Staff Software Engineer, Infrastructure",
+   "role_family": "engineering",
+   "location": "Canada",
+   "posted_at": "2026-06-08T14:28:11.017000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/9bbe3ad7-f4be-4efa-8889-b93e9d62c1ed"
+  },
+  {
+   "external_id": "9c8d86d4-b90e-4429-bb87-6ecdfd4abd43",
+   "title": "Senior Software Engineer, Secure Build",
+   "role_family": "engineering",
+   "location": "England",
+   "posted_at": "2026-08-14T15:17:23.480000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/9c8d86d4-b90e-4429-bb87-6ecdfd4abd43"
+  },
+  {
+   "external_id": "9d5c3e18-eaef-4ffb-b4f1-795742fcba98",
+   "title": "Staff Backend Engineer, Hub (East Coast)",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2025-12-02T20:45:53.804000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/9d5c3e18-eaef-4ffb-b4f1-795742fcba98"
+  },
+  {
+   "external_id": "a2b07672-5036-42ed-99fc-9422083c48b5",
+   "title": "Sales Enablement Specialist",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-09-16T20:35:49.274000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/a2b07672-5036-42ed-99fc-9422083c48b5"
+  },
+  {
+   "external_id": "a3c7cd16-d5db-48de-b8df-98bc068a4f19",
+   "title": "Delivery Program Manager, Professional Services",
+   "role_family": "customer",
+   "location": "Australia",
+   "posted_at": "2026-10-09T14:16:04.241000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/a3c7cd16-d5db-48de-b8df-98bc068a4f19"
+  },
+  {
+   "external_id": "a8adff9c-a58c-4881-95a2-b32115e375b3",
+   "title": "Principal Software Engineer, AI Tools and Security (Seattle or SF Bay Area)",
+   "role_family": "engineering",
+   "location": "Seattle, WA",
+   "posted_at": "2025-11-17T15:34:07.878000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/a8adff9c-a58c-4881-95a2-b32115e375b3"
+  },
+  {
+   "external_id": "aa9dac2f-ad93-4aa8-ab07-851685725806",
+   "title": "Senior Software Engineer, Sandboxes (London or East Coast Preferred)",
+   "role_family": "engineering",
+   "location": "London, UK",
+   "posted_at": "2026-08-12T15:44:37.684000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/aa9dac2f-ad93-4aa8-ab07-851685725806"
+  },
+  {
+   "external_id": "ae03031e-7080-472c-bcc6-207833a8d2f9",
+   "title": "Senior Software Engineer, Infrastructure",
+   "role_family": "engineering",
+   "location": "Seattle, WA",
+   "posted_at": "2026-04-03T23:02:53.165000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/ae03031e-7080-472c-bcc6-207833a8d2f9"
+  },
+  {
+   "external_id": "af557021-4351-4529-bf57-0552dfbef021",
+   "title": "Business Development Representative (DACH)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-09-25T15:42:15.658000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/af557021-4351-4529-bf57-0552dfbef021"
+  },
+  {
+   "external_id": "bc36f696-8ba4-46aa-866c-196b85da4e7e",
+   "title": "Staff Sales Engineer, Strategic Accounts (EMEA)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-09-17T19:31:04.569000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/bc36f696-8ba4-46aa-866c-196b85da4e7e"
+  },
+  {
+   "external_id": "be532bfe-dd86-4ff4-8afe-a3621d8e71c3",
+   "title": "Senior Solutions Engineer, Mid-Enterprise",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-09-02T16:26:20.870000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/be532bfe-dd86-4ff4-8afe-a3621d8e71c3"
+  },
+  {
+   "external_id": "c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63",
+   "title": "Senior Principal Software Engineer, Networking",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-29T22:06:23.123000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63"
+  },
+  {
+   "external_id": "c6987170-37a0-4428-b015-652107698fa8",
+   "title": "Principal Solutions Architect, Professional Services",
+   "role_family": "customer",
+   "location": "England",
+   "posted_at": "2026-08-28T17:31:44.126000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/c6987170-37a0-4428-b015-652107698fa8"
+  },
+  {
+   "external_id": "c79ff801-6acc-4f3a-9cb0-d70990ee299f",
+   "title": "Senior Sales Enablement Program Manager",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-09-17T13:43:16.544000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/c79ff801-6acc-4f3a-9cb0-d70990ee299f"
+  },
+  {
+   "external_id": "c7d880eb-4fb5-48db-b325-595cc8a8d017",
+   "title": "Principal Software Engineer, Networking (Seattle or SF Bay Area)",
+   "role_family": "engineering",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-07-27T16:48:02.942000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/c7d880eb-4fb5-48db-b325-595cc8a8d017"
+  },
+  {
+   "external_id": "c83c05e6-f28e-40be-ab24-2a73deb996d9",
+   "title": "Account Executive, Mid-Enterprise (West)",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2025-10-13T18:09:33.096000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/c83c05e6-f28e-40be-ab24-2a73deb996d9"
+  },
+  {
+   "external_id": "d1ff9f5e-d37a-4cb5-9f48-affb5abe5e3e",
+   "title": "Account Executive, Strategic",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-08-10T15:46:42.297000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/d1ff9f5e-d37a-4cb5-9f48-affb5abe5e3e"
+  },
+  {
+   "external_id": "d61d6d7b-406b-4394-a83b-2b51a1212163",
+   "title": "Delivery Program Manager, Professional Services",
+   "role_family": "customer",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-09T18:49:51.127000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/d61d6d7b-406b-4394-a83b-2b51a1212163"
+  },
+  {
+   "external_id": "d6d91e47-e0e6-44fa-a2e1-a6cb79241f7f",
+   "title": "Senior Manager, Business Systems",
+   "role_family": "sales",
+   "location": "Canada",
+   "posted_at": "2026-09-29T22:21:20.427000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/d6d91e47-e0e6-44fa-a2e1-a6cb79241f7f"
+  },
+  {
+   "external_id": "d7113d8e-904b-4925-acd8-e65d5d5f6cd2",
+   "title": "Account Executive, Strategic",
+   "role_family": "sales",
+   "location": "Japan",
+   "posted_at": "2026-10-18T18:58:19.076000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/d7113d8e-904b-4925-acd8-e65d5d5f6cd2"
+  },
+  {
+   "external_id": "de4dce34-7643-4c29-9113-230e7a591195",
+   "title": "Senior Technical Account Manager (EMEA)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-07-27T18:34:09.677000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/de4dce34-7643-4c29-9113-230e7a591195"
+  },
+  {
+   "external_id": "df188fe3-d975-4c52-8ea2-225f1806d07c",
+   "title": "Principal GSI & SI Partnerships",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-08-28T19:20:29.384000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/df188fe3-d975-4c52-8ea2-225f1806d07c"
+  },
+  {
+   "external_id": "e3a8152f-4090-4114-8072-ad4e566b6e29",
+   "title": "Senior Lifecycle Marketing Manager",
+   "role_family": "gtm_ops",
+   "location": "Canada",
+   "posted_at": "2026-09-25T17:22:01.882000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/e3a8152f-4090-4114-8072-ad4e566b6e29"
+  },
+  {
+   "external_id": "e82afe97-2ce1-4561-8697-8e281849d0a8",
+   "title": "Business Development Representative",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-07-08T20:46:22.944000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/e82afe97-2ce1-4561-8697-8e281849d0a8"
+  },
+  {
+   "external_id": "ec1eeb85-73bd-4956-bb67-93e0c42958e2",
+   "title": "Principal Product Manager, DHI",
+   "role_family": "product_design",
+   "location": "San Francisco, CA or Seattle, WA",
+   "posted_at": "2026-10-19T23:09:42.325000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/ec1eeb85-73bd-4956-bb67-93e0c42958e2"
+  },
+  {
+   "external_id": "ed0ec3c2-aa74-4d81-97d9-f99e6b47d078",
+   "title": "Senior Software Engineer, AI Gateway",
+   "role_family": "engineering",
+   "location": "San Francisco, CA or Seattle, WA",
+   "posted_at": "2026-10-15T21:19:24.622000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/ed0ec3c2-aa74-4d81-97d9-f99e6b47d078"
+  },
+  {
+   "external_id": "ee504b14-a745-4d4a-a47a-21108ac3e2d0",
+   "title": "Account Executive, Strategic (UK/Ireland)",
+   "role_family": "sales",
+   "location": "England",
+   "posted_at": "2026-09-29T16:25:39.303000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/ee504b14-a745-4d4a-a47a-21108ac3e2d0"
+  },
+  {
+   "external_id": "f0f54bac-a23d-4643-98aa-e457b2f360fb",
+   "title": "Senior Software Engineer, Billing",
+   "role_family": "engineering",
+   "location": "Seattle, WA",
+   "posted_at": "2026-04-21T20:25:02.855000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/f0f54bac-a23d-4643-98aa-e457b2f360fb"
+  },
+  {
+   "external_id": "f0f8b5ab-a2de-450a-920d-3dda4ec6a029",
+   "title": "Principal Product Manager",
+   "role_family": "product_design",
+   "location": "Canada",
+   "posted_at": "2026-10-19T21:31:36.728000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/f0f8b5ab-a2de-450a-920d-3dda4ec6a029"
+  },
+  {
+   "external_id": "f73a7001-4c94-439f-907e-fd29e1105f1c",
+   "title": "Manager, Engineering, Secure Build and SCS Services (East Coast Preferred)",
+   "role_family": "engineering",
+   "location": "England",
+   "posted_at": "2026-08-26T16:34:15.654000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/f73a7001-4c94-439f-907e-fd29e1105f1c"
+  },
+  {
+   "external_id": "f7beef23-87b7-4bfa-8946-93e9dc02d805",
+   "title": "Staff Software Engineer, Developer Experience",
+   "role_family": "engineering",
+   "location": "England",
+   "posted_at": "2026-08-14T15:59:08.890000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/f7beef23-87b7-4bfa-8946-93e9dc02d805"
+  },
+  {
+   "external_id": "ffc42c1a-64d9-4754-b380-d2ac62052d09",
+   "title": "Senior Principal Engineer, Docker and Ecosystem",
+   "role_family": "engineering",
+   "location": "Seattle, WA",
+   "posted_at": "2026-10-12T18:28:16.508000+00:00",
+   "url": "https://jobs.ashbyhq.com/docker/ffc42c1a-64d9-4754-b380-d2ac62052d09"
+  }
+ ]
+}

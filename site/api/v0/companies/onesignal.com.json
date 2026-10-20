@@ -1,13 +1,13 @@
 {
   "domain": "onesignal.com",
   "name": "OneSignal",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 3.2,
+  "score": 4.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-09",
       "summary": "[person] Joins the Personal Agent Protocol as a Design Partner",
       "url": "https://onesignal.com/blog/onesignal-joins-the-personal-agent-protocol-as-a-design-partner/"
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-16",
       "summary": "OneSignal Unveils Autonomous Lifecycle Marketing Vision, Opens OneSignal AI and MCP Server to All Users - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcDhXQnlXTzhzX2NoQ3F4cUxxbVJWNWhJNkE3cE9RTGs2V1Z1SjR4VXhjTGZ2LS1kRHlKaGxHaGpZaVZzZHE4M1pjbW5OODY5WHF0ZjVvMUxpV1BsOUZ2ek9QOXBqWjJDQWswQzh6Vi1ubmFPdHNkYU9IS2JHcXFBT3J5T1ZmUm5ZME1Dc1gzb3ZON1JyMG1qV2s2NmpqX1lhMHJFVVY0djZ2SjlZcTVkV0JQZzk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "OneSignal Unveils Autonomous Lifecycle Marketing Vision, Opens OneSignal AI and MCP Server to All Users - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdk0yWjVYTGxzek04TS03RGZVbGJHR0RzdThmRDBvaVQzUlpmMzM1bWVRNFhzYk9RVnZWLTlzWWhpNk9mRXF4MnV1SmhTQmFUQXo0YXlkQnEydlVvRnB0WXkwa3dleVlMMzlGaHRiQWxzbG02NV9uektnMW5kNW85b3ZTX1k1TUp1ek9qbW5XWjZ1RGdCVUgzX1c1RzF6THE0a3Q4U1kwVkcwU1ViVjVXQm1ORnBxV05jY0E?oc=5"
     }
   ],
   "open_postings": 0,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

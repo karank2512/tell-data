@@ -1,9 +1,9 @@
 {
   "domain": "origin.bio",
   "name": "Origin",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "SunPower Origin, SunPower's New Solar Panel, Launches in Europe with 8th-Generation Back-Contact Technology and a Single 40-Year Warranty - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZ3Ywb1NVbU5GYnFJVlJxam5PdUZ6OXpLTjh2WnV4YkxlWVNiSlVrVXp2RjZCSUFYQXRDa3BhTTFvWllOTjVBWkc5a0ktMTRYVEVjWVNBWldwLXpjY1VWZVBJZmFZc1hxVV9HQkwzeHV1TXAyZ0Nlb2xQSi0wdmVsY1FtaFRuSUtBd3Rnai1uandzNzBxcGxVUWczc3Y4NnFFNjMzeDFCZjhLZE5yd3I3dnJfQTk1UXhaQ21mb3JucGczVW1UU3N1Z0NGSDJFSF9xWDByUlpKT0E3cXdSZ1lhaV9jYUszdGltUkRGOFJkUEsyZHFiTHhXc0ZwcUVBTHdFeG9RaEhmS1hCMkljWF9OR2RfVk5oekdRS1E?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

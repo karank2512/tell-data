@@ -1,13 +1,13 @@
 {
   "domain": "aspenview.com",
   "name": "AspenView Technology Partners",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 16.9,
+  "score": 16.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.9,
+      "contribution": 16.8,
       "occurred_at": "2026-08-21",
       "summary": "Form D: $5,000,000 offering, $999,998 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2076209/000207620926000002/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002076209",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

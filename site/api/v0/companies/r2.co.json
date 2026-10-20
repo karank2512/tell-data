@@ -1,9 +1,9 @@
 {
   "domain": "r2.co",
   "name": "R2",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.4,
+  "score": 5.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "PixVerse Introduces R2, Advancing Its Real-Time World Model Toward Persistent, Playable Worlds - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjdPR09GaFlsZUtaSlh3bXJKU08xWnBLa3NDQTU3Y2MtZ0NuZDkxc1NTeE1wQkFNNmdEUEhKQUstbWNOMllJTTZ2dGlfazJ4VVhMbmRBUktIeDNjMFVTYjNxWFRJR2RRMnVTTEZ2aWx3WUxCdGFhTWlXeEhXbDFaOUJmZjg3dFFLNFlPMkg4bVhCdzRIQTVHQXdOSDY3VjhuSHgwckhkSDR0eEdiQ1U2ZTc5VWpjeHM?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

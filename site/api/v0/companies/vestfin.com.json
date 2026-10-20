@@ -1,9 +1,9 @@
 {
   "domain": "vestfin.com",
   "name": "Vest",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.2,
+  "score": 8.0,
   "contributions": [
     {
       "type": "launch",
@@ -43,6 +43,20 @@
     {
       "type": "expansion",
       "contribution": 0.9,
+      "occurred_at": "2026-10-16",
+      "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - The Conway Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOX3oyT1dGNEhZcFhmMXhyV2NXOFl0UXVkUENkNU1BWFJTQ040bFBySzZram5kZHZNWmVxREc4S2EwUjVRUEo2R3BGRVpiQW5USkhaTUMwVFdfX2pWeXdYazh6WVdYS2pfbjVaMjhmTF9uVzc3NzVzU1NITkZxUTdXUlY5WnFsX1otQlUxT0xCcTEyLTdZcHJ6ZmVkeW1zMjNPNmZVS2RkZlJ2Ul9MWVM4U2Q0MTNOcW1MSldSS3FyUVN0Wm5EcjQ2MFo4cXk1ZG1vbW8tRXFsQmhDUXppUXNuZjlia3J2OHNTQUFXN21lVDk4S205bHVORGZQR0FMRG82akt0MWdLcjZobC1rOWROMWdNLWVwck4xLVJSUnpyMkt3WGc?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-16",
+      "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - thejewishnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdHpLYXRnVmluZVlwWFRKcnA2Wm9pV0laOVh0UnZFZE1wRk1zbzNuUWo2cnJjQzNHeE9Qeko0OFNXYmo1azhGeEhmQmpscW1ZZ0RGT01tbkZlOXJEYzFBS3QwNUM4M3Azb2dSd2VJaXg3UUUzaUdDck1WZnYwbGxJZjhrN2YxeHJocHhoa3ZVVWtLdlBGb0xFZmxCbXdxMjc5ZEo3MWE3LVJ4SGpNYWVaT1lHMkVhV1luZTZ5bllreG1pR0o1UHFnQUxIMXFETVdTU291R2VBSHJ4SnAyYWlFNTEyS1hDWUcxMWhva1dCMFYtSmtkczhjZHZCcHNmb0VHT3hxVXRoS2VwV0RWSW9ENTlMYnZRcUlmYUtCOHg5UnVpQQ?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - Big News Network.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2c5Y19HRjUyUzBCdlRUQU51T1ljUlJfMTVpZndIRm02dXZkbkZ2RW5SUV9zNm1falBaM0lfYlA0OF9XZ3dfQ3ZlM0JtdXZUVHpEV0RlSWxZNHB1R19ReUxUX05NR0lOYVhuSklIQWs2TkJGNlJObFJkb2lYVWxzNXhydkJ1bUl2dWtDMmtiZmlQVVRWZDlYeGpxOVY4TC1SZmRDT3JSOGNDVWZMTlE3UzMtV293SVJpVmt5clJpVzliVE51eWhYT3hRYXhLZ3dwU2lxQ0VsU0pRUQ?oc=5"
@@ -55,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

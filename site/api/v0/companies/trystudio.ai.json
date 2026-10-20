@@ -1,9 +1,9 @@
 {
   "domain": "trystudio.ai",
   "name": "Studio",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 13.8,
+  "score": 13.6,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Samsara launches Agent Studio, bringing no-code AI workflows to physical operations - Commercial Carrier Journal",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRldQXzRrT3B5UE56Vllscm9HRlhDN2I0cXNxWXhwYkgwRlNfd2VzMFBtcm1weERpdUlweS0xd0o4eG1OOUtmTUIzMUtqa1FCOWZ5VS1DcTEyS2hscHg4OXZXNTVsV05vcFpCVS1WNFdaVEN1UGc0M3ZJc2JVYzZEdm1oVS1xM05jbnJZQmZzZDhLSDZvUkF3NWlRUHF5b0VqVElyZ0kxaDNCZw?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Sacramento's fast-growing Studio W Architects expands to Nevada - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2JOMnlmMy1WYnp2MVBkblBCazZTWXk4aGdTWFRoRVRfUGVmNmFYOE91LTFrUFFZc0RTTFBnVDlwc3ZjdDhQNkhqejlMeW5SeVprUnp5R0FXMHEtLUkxRzZhSlZSX1BtMzdqSkgtd3dTdzVRcUFBT3pWYi1JYThGUzNXd0NCTWEzOFNFTElrMS1BWkt6X3BhRU41OVhxYXhzcnpVMjJsY2s?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

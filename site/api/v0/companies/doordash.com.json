@@ -1,13 +1,20 @@
 {
   "domain": "doordash.com",
   "name": "DoorDash",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "DoorDash launches in-house drone unit — \"cleared for takeoff\" - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUt1b21TMFZ6V0NmR1FlZ0hFcE9vVkR4dXA1blVjaUVLR25ESEpadmFkcUVKbHYwNk1HZ1pPSlBHTzBFWUkxd3RzalFWLVJMUnQ2cmd4UGdaVlFCRTd5dkYxYzV4anhMaTdOU0psTzQzbThwRXk0YmNqdEZ0eXJKMDJ0YnQtd182R3hjUS1qMA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "DoorDash Unveils AI Chatbot To Automate Orders And Reservations - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTm5vY05DandyWVRBZjlYc1ltM3B1eUVNMmZGLXVxNFVHMGxsVlE1enladVgxR2JGeHgzcFZuUi1iWEFtc1BoRWJ6RFU1WWV0ZGNkQkh4YkhEc1NiaFpqd1MzWjlyY21EZXhPZENIVDlGM2hRbHRhazFwLVRLOFViZndUcXlvV2NmcGJ2YzhMZURSdHpPQmhtd2tyV2xVUFhDaUJpQXVmX2tWVl93MFFvc1hvNjdMdkFmUnlDOEZpQm9EVmpaNjB3?oc=5"
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "neander.ai",
   "name": "Neander",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 21.2,
+  "score": 21.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.2,
+      "contribution": 21.1,
       "occurred_at": "2026-09-25",
       "summary": "Form D: $2,700,000 offering, $2,649,998 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2156936/000215693626000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002156936",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

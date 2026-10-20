@@ -1,0 +1,25 @@
+{
+  "domain": "zinc.com",
+  "name": "Zinc",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Korea Zinc Releases Endangered Giant Water Bugs at Ulsan Park Pond - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHJ2T3VJc3NPbzNNX3Zsb0hxVEN6VnZzbjctQTRHZkcweklneTFpMlRjc2NXWmVMRExlcjdBbjFCNkxPcVJQbGF1aHBVc3FNZTN6NkNFMGtULTZQTnFWczk5cldkbmV5ajVWc2ZGaG1qUnBIZ20zbi1WbjFzZjE4clVYaWZFRm5KU3lzcWdFRkNLbEtuS05hbmZRN19ZeUU?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

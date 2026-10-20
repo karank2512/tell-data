@@ -1,9 +1,9 @@
 {
   "domain": "joinspine.ai",
   "name": "Spine",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.5,
+  "score": 6.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Former Spine Surgeon Launches App to Build Skills for a Happier Life - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYk04QWxZT2toX2ZwaE00Vkc0djV3MHlGUUxuYUc0WF92cE9zdFRMY2dwb082Q19GN2w2TmZVQjItTjEtc3RhbU9JYWM4MVdVUDBhWldvY3VwZUtYeDFzaW50MEJYOWpRZUdpbWV4NDJNMkNJVjFvTVhhb0szQkd5SlpVbVp3aDBTY1dROGMzZjgxUG8wNDZ3LW05YjhuNklSSWlkRVJiTllOZm9VRlFldzJ3NVBjMnRBYWhVZXU0V19jdw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

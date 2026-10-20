@@ -1,9 +1,9 @@
 {
   "domain": "evidence.dev",
   "name": "Evidence",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.4,
+  "score": 7.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,10 +14,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Briya Appoints [person] to Bring AI-Native Evidence Generation to Global Research Organizations and [person]",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOWdaQ3hSa05RMGRnZEYxXzZPcDhQTHEtTWVSd01ETXlmR2UwWVp4b2hRVG9uY2ZyUnZlV1RTOVY1SllBX2xzYUFJdkhpOWxuczJKTlVQR2s4QnhkTDRiYXdHUW5CLWhWdEQ4MGFMdW5WOVVfcjNzWW9laVBGV1IycVhLV1pJNGg4SnllclNORmtoTnB5YUNDcFN6Z3pGVjJpcEVtSHF5S3FaVzlHbmdFZ1ZIMTdhOE5xMG81SlB6b1VoVGxaTUJqTGtZcEhSY01XY2FKSkprVFdPSWNjZXV6V2xSUEMwQ1hkb1I5eG9HUU0yWVM3OVBwUGRvcXBlNFBIM0REQmhPVXdGUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "NIH launches 6M Real-World Evidence Innovation Challenge - NC TraCS Institute",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTg4YlRHRFR0TlN4NE1tdXRTbjd0NHRNRVZMWUVqeWxMRnZ5aHpjYzU5ZHlpNHd0d09VNnNOd1NlQVZmRGZSV1FzTzdzYXNvUnFXQTRad2E3TzRzVEdJZVdwUHBzaFNqTm9zTWRPRGw2OXhNaTZtSkxKSl94SGNTQXU1VW5taHRveTZManZoNmdvQXpELVFNQVBzNkpZdFBoc1hDLXY2UmF1RWc?oc=5"
     },
     {
       "type": "launch",
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

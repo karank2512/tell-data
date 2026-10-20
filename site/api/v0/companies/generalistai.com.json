@@ -1,13 +1,13 @@
 {
   "domain": "generalistai.com",
   "name": "Generalist AI",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 22.5,
+  "score": 22.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.7,
+      "contribution": 20.5,
       "occurred_at": "2026-08-24",
       "summary": "Form D: $208,224,570 offering, $198,224,662 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2137708/000213770826000004/"
@@ -41,6 +41,6 @@
     "edgar_cik": "0002137708",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

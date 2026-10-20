@@ -1,0 +1,38 @@
+{
+  "domain": "fieldguide.com",
+  "name": "Fieldguide",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/fieldguide",
+      "postings": [
+        {
+          "title": "Enterprise Account Executive",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/fieldguide/c7703b1a-e7c2-4c24-bd8a-ebf4357dbc0d"
+        },
+        {
+          "title": "Mid-Market Account Executive",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/fieldguide/72f0d7f3-bd05-4e95-8a01-e6ed42ecbe31"
+        }
+      ]
+    }
+  ],
+  "open_postings": 53,
+  "long_open_roles": 14,
+  "sources": {
+    "ats": "ashby:fieldguide",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

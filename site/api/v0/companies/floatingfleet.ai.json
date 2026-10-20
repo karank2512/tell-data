@@ -1,13 +1,13 @@
 {
   "domain": "floatingfleet.ai",
   "name": "Floating Fleet AI",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 15.2,
+  "score": 15.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.2,
+      "contribution": 15.0,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $2,500,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149164/000214916426000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002149164",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

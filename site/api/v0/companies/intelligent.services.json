@@ -1,10 +1,17 @@
 {
   "domain": "intelligent.services",
   "name": "Intelligent",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 15.0,
+  "score": 16.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Intelligent Scopes Unveils the ISC 100: The Solution Enabling Urology AI to Work Beside Any Cystoscopy Tower — No Replacement, No Rewiring, No Cloud - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3c2Z2Z0NUNyNThTYU5xVjd3ME55aVdNTkozMHFkN19JVkhMUndGNEFlYnBJUU5JbWFrOXdKdnJjdU1iS2JPLTdia3FhQWVhOFNRaGhlandUcFdEUjlvQUtCZ3hjOG02SDR3UVRGXzluUWR4QmFzM2tfN0F3eEZ5RFdoX1lGN0FMOUN4MHJ1cTFIcGdMTE9IT0FUbw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "TRI Launches TRIAL.OS: A New Operating System for Intelligent Clinical Trials - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNERsbGJGUXBxVktMM0p2dEphUHRfc3doaG1iUnRkalgzaXM3eGhmcDJPc0Y2QVNwanBFSVlUMnZoRUUyU01LbFg0akhnQUYzajBwRTRKWXYta3lCLXF4RTRjdkZiYlNjcXNqVmVpakZENHVwRVU1ek5lWU5MMFBQTVNlcVE2RWUzZE1JZEoyaTczSlAxdzFaUXBwdzdWalF5a2d2Tm54NXlFTmROZGUwOHQ5QWN6dWVtMGJ2ZDJKbGZNZHhWNm1xaHE1VQ?oc=5"
@@ -77,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "leagend JS300 PRO Series Debuts on Kickstarter, Advancing Intelligent Vehicle Starting Technology - The Killeen Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcndrX2drWnNodWs1U2llbHlkRWtGQXoyUU9adEVWYVJkanM5MGJFT0ZXazdBZ2stZTVhX001cUpkM0dLeDMxV1FnNENfV2ppRG5UMjg0cU03S1BqVkdzRXRncWY4YXV4eFlZMEpzNTc0ZW9fLU14RWFtMGduZ0RSSEFfVHp0cWlmVXBUdHA3bFEtRDJKODRVTkt6eDR0aC1tVDRra3l1VUhDZWU5R2JWU0RSZkpJQjZGN2kyLWhfMUdJQjhsaTN4MGJhUGRHWUdXZTl5dWVKX1k0VkNQVTJtY2Q4czg5YnRxUUN3aEpENHNUMjJYQ0VhVHc3aVh6STlYbjJKSkJXclNyZmVQWkZaaXdpQ2VIdXJfLXBjREkyaDVxOG8?oc=5"
@@ -90,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,0 +1,33 @@
+{
+ "vendor": "ashby",
+ "identifier": "wallbit",
+ "domain": "wallbit.io",
+ "as_of": "2026-10-20",
+ "last_polled_at": "2026-10-20T02:55:27.963628+00:00",
+ "open_postings": [
+  {
+   "external_id": "3958f6de-7599-40c0-838c-aa77e6b643e4",
+   "title": "Accountant",
+   "role_family": "gtm_ops",
+   "location": "Buenos Aires",
+   "posted_at": "2026-10-13T18:19:14.955000+00:00",
+   "url": "https://jobs.ashbyhq.com/wallbit/3958f6de-7599-40c0-838c-aa77e6b643e4"
+  },
+  {
+   "external_id": "7d8b9c15-7ba5-4bd2-a59d-e15dba73a6eb",
+   "title": "Base de Talento",
+   "role_family": "other",
+   "location": "Buenos Aires",
+   "posted_at": "2026-05-13T12:11:52.696000+00:00",
+   "url": "https://jobs.ashbyhq.com/wallbit/7d8b9c15-7ba5-4bd2-a59d-e15dba73a6eb"
+  },
+  {
+   "external_id": "820a4e59-13df-4465-bcd7-45cd720e09a8",
+   "title": "Product Engineer",
+   "role_family": "engineering",
+   "location": "Buenos Aires",
+   "posted_at": "2026-10-16T16:22:58.265000+00:00",
+   "url": "https://jobs.ashbyhq.com/wallbit/820a4e59-13df-4465-bcd7-45cd720e09a8"
+  }
+ ]
+}

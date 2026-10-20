@@ -1,20 +1,20 @@
 {
   "domain": "guildai.co",
   "name": "GUILD",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 14.7,
+  "score": 14.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-16",
       "summary": "Authors Guild Appoints [person] Director",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpaWZsUVIxYTJoUDVmUTFzM3V1RnhJY0FxUV9aOHJZZTVQN25Lek1HbldQWXJQbTY0ODJiYnV3RXB6WTVhS3g2c2NpLTF4SnBWSF96c0VnLVdDWTdTMkpqMFJQMUE1cnpQOUxVLW56TWc5bzFaY2t3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Betawatch: Enshrouded launches as Guild Wars 3 starts sharing social hubs - Massively Overpowered",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTE0d0dRdGFXamc3bmRnVE1xajRTLXRtaUlkWUc3M3FEYU92YlUwOHp1NlBuV2FnTEVyVEJMakxpUVBfT1NuUkRadnZ1TFkxUzkzVUVfWl9LRlpZdnJqX2VnQVdPTGNWT1ljWFhsUkhDTVFacXRSaGVtdHpqelF5ZjRFZzBrYVl4dERzYURGb241NHl1ZUxZOVBPOFVQUzZPWHVQdTBYY2JURXZJ?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

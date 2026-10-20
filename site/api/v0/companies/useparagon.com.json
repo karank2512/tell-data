@@ -1,9 +1,9 @@
 {
   "domain": "useparagon.com",
   "name": "Paragon",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.3,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "Eeken by Paragon unveils new campaign, ‘Our Kinda 9-5,’ for Autumn-Winter season - IMPACT Magazine",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS1RMYjdPOElwOWoxNXlRV29BYUlwb1dUT3ZsRlQ3WTBvWThua1JRVmVTNEJnNy0yblRUVHBoVjRiZlFwV0FWcWtadDVXc0h0NV9rWFJuLTRnQ0poYzY0RnZrMWpvaExqcUpydnpYLVBDQW5VMjBtU0hPQnRMM0VlQldUNFNkcmZNY3UyN3VvM0pZOEl5WlVhYmxjOTNqeTByWGxnTENZTndnZ3ZuRW1hY2xyejM4bldJcTFSS1pyaFk5RVdFM09Ca19sNG0?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "useconstant.com",
   "name": "Constant",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.8,
+  "score": 4.7,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Frederique Constant Introduces the Classic Perpetual Calendar Manufacture Burgundy - WatchTime",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWVwNFF5NGd1VjJ4TGhNV3JIUGJYckpCUjJMaDZYOTRubnlheUw4dGxxalo1a1dtV2FzU1djSko1dXNIazFVcTBDbEl1alFsaS02UG94aUxoWDJISUFDLWhsRDIzcVJtZExuRWVTVDBhTnBKV05aQzNoWHR0WW5ZQ3VSWWR2VXBNSURUUlFRYV8xZ3BnS0JZZE5hdURkcS13OUdoS2g3S0lQM1NOWl9LNUxOMC1ES3RqQjUtdnNNZw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

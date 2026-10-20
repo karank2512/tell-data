@@ -1,9 +1,9 @@
 {
   "domain": "vector.co",
   "name": "Vector",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 19.3,
+  "score": 19.1,
   "contributions": [
     {
       "type": "leadership",
@@ -42,14 +42,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Vector Science & Therapeutics Corp. Appoints [person] as President",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHFTOWtlQjQ5dU1zdXhaSm4wUDkwcloyeGpJRVhtVFZyNk5KeGxWY3poM2g0aGxFa3dHaWozVDViMEMyMUU0S3lXU21DWFRuMVpRSjFGMTgzMUhSTGZHYUdBN2lyS2IwTGNMczZKeTZNQ3lCUVgtcC1VdzdOV1lUYTdIbWwyX3BubUFMTGh5TmUwVnJWUFFtZWIxcDNjaEFSOWwwUUpqaWw0bGFjUlVJQktycUwzU2VMNUNGTUVxMTF3NnNFU3lwNTV3?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Vector Science & Therapeutics Corp. Appoints [person] President",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjRTVGlmWFNKak9TNDk0dVMyYVpKOEtWTjZrZ1dxOXpqczJJSFFiYm9YQlJqRFd0Vk8xbmRqNlpJSnI0NThzdkNCVTU3YUdqZDRqM2g1NWVHTjFJdjZxVkRrRmRJUVFWazd5RnJCQ29QeUxrc0ZVaUZXN1E3T2I3cnpCMXZoMU9rTUE1YTgtUzc1MmtsTjVCMVdXQkZudEp0ZDY5NEF0NWh1SnVvS3FpNUdYSGYxS21CRnFwUGF2RGhjTWVLdXc?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

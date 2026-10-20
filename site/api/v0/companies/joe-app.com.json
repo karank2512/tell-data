@@ -1,13 +1,13 @@
 {
   "domain": "joe-app.com",
   "name": "Joe",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.3,
+  "score": 1.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-08",
       "summary": "“I’m the king cork-sniffer of vintage amps… but you cannot deny the fact that it sounded, at least to my ears, better and more consistent”: Fender unveils Joe Bonamassa’s Tone Master Twin – is it really better than the tube version? - MusicRadar",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXhLblY2T3lDeURxa2Iya3dncjRIZDdhVEFsd2F0Z19PMlNsRUV1U1A3SHJocUhWUEFFSk9oc3lsUUVycV9IM1lOa1JSNFhYNmJ2QmMzQXp5YnQ2eC1RUGFPR3FrbFVDSkprMjExRjJpbEJWMlhxYXIyTlBGaGp4TGdlZ0hydGNEMm9qR01wWWQ3Y1hCckU3a0VFMjg2enE5aWc?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

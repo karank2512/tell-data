@@ -1,10 +1,24 @@
 {
   "domain": "adam.new",
   "name": "Adam",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 11.5,
+  "score": 16.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "6abc promotes [person] to Chief Meteorologist for Action News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPME1oVFRkT3ZBMFRnMjlCVE5FSUItZVJmUmZUNjBDR0ZFQmp4Qzc4cWFVUWRqbVNVTEpELXF2VFM3XzhCaHl6dUZKZEN0QUxIMTNnTEZac1RCVURwZ0M4Z1ZsLTI0WVN1OXlJYnlJbnF1SG0wV2lWWENDdDlXQm1aZEVQMjF1RVJpRlVRazRQUUxXOGfSAZgBQVVfeXFMT1Q3bXFPd2pKTmVWWTBvSWlVSWdXcDB3Z2kxdmc4V21BUmJ4SG1ETFdhd1VfU0R3VzR1ZmZ3RGROMDJYVjVWZlR6azc0c1UwRlFkVWl6azZhWDE2UkxvZEdQUUV4TWFrRmxZVTJJN2pONlo2WlhUbTVRVWt2ekJTWC1SaWRQVG1abFM3eDVscGdlTEdmcm1Cb28?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "6abc Action News names [person] to succeed Cecily Tynan as chief meteorologist",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHpoZmVTUWt2Ui1ENFl5eWpDTXc4dXctZGQzT2tzdGNyZXFCX1pUYWJ1Z3NIZ254b3prWEQ4b1JxamQ3dlA3NFhIcEgydGF1UEZfcTRlYWxCeDZ1OWNHOEFoRjdMQmkyVWpsMm5aakVTd0JiY05NRFRKRDNzdWdSZXJKMG5DdDNzSHBFbzFoQ0hHcHZFTjdMYUpkZXBxOHMwYVJyaGFNYURKRWs?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -21,17 +35,24 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "WPP Promotes [person] to Global Chief Client Officer",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWWNoVHFEMEpMbjVjWmNucWtSeHpGcEJPUnZ5eWVNRS16anY4MzcxWGdYRDhETktvVTJvUG9wUEFvcDJlamZDeF9LdnJFTjBpeFUwN2M3RDVmdTJXMFJIM2tNZWMtYTREaUJ0TWRMUWhoV09TcUVXZGRXQzRqWVFvaEllTF9GNEJHdDd3dFc4dkRGU2c?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "WPP appoints [person] as Global Chief Client Officer",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQmd4YlVUbVk2aWNYSEwtUEh0T04xNU9FNU1iVVJLbGg4a0lsak1SYk1fZVBsUjhMWC1reWtsRlZVX19JVm51TEYxajhGQjh6Um4yLS1FTjVlaGRreEpWN0xPa1VfWkdJWDRWUWR1azR1NF9IWFNLUEh0OV93SHd2TDVpT0RjbEpiVjVLVw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "‘Welcome to Kansas’: Adam Hamilton releases statement ahead of Trump visit for midterm rally - KWCH",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUg2WkZLTjU3RndPQjk0LUVMVU9XX0UzeWZGcmw2VGt2U2dyLW14N1JyaTloRmRobFBvMTVYV0hPczFFTzhlRFA3SGRtWUlSV29ieWpXTC03eFFjTFFiTmJSZTBXQ1FCUVpsaktMZ2ZEUl9CRGJvTzlBRlcyLWZpNWdBZ1JjVzlfaHM2VXVaYmFTR0FDcnEtZHdHRTY0dEp6WlU2cWRPektSSDdJVDhqNWJ3?oc=5"
     },
     {
       "type": "launch",
@@ -62,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

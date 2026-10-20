@@ -1,13 +1,13 @@
 {
   "domain": "fullhealthclarity.com",
   "name": "Full Health Clarity",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 11.1,
+  "score": 11.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.1,
+      "contribution": 11.0,
       "occurred_at": "2026-07-31",
       "summary": "Form D: $150,000 offering, $150,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146604/000214660426000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002146604",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

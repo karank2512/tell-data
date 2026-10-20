@@ -1,13 +1,13 @@
 {
   "domain": "plowsharetherapies.com",
   "name": "Plowshare Therapies",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 18.6,
+  "score": 18.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 18.6,
+      "contribution": 18.4,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $6,651,390 offering, $6,651,390 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2152111/000215211126000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002152111",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

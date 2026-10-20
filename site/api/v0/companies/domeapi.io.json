@@ -1,13 +1,13 @@
 {
   "domain": "domeapi.io",
   "name": "Dome",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Taichung City unveils Taiwan Super Dome project - World Baseball Softball Confederation (WBSC)",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXVBcnViZExhMGRkSVI1dk9GUU5kOFpoWTEtX19kRTNCZ3ZnY1J4TW5IZVhWekRLcC1KX01YVjNUSmJFUks3bEZtdVJHWXZCYXBLbTVSS18xcXIxZ21VTU4wNWlsRmhrUGI0OVR2Q2R4WUR3Ym9pV2FBakJqcHF3bDJn?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

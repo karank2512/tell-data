@@ -1,9 +1,9 @@
 {
   "domain": "joinforage.com",
   "name": "Forage",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.4,
+  "score": 2.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Purina Expands into Forage Products with Solutions for Modern Horse Feeding Challenges - The Plaid Horse Magazine",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNWd0YjVpWGcwQkItOTlvWXhXZVIySEZnN0w5WTdSVllPTWVMbk1LMFhSVTdsc3dTU2JSOWhTR18zNUxNRnBseEJYc1RoYXktc09maGxlMHZNZE1DeVMxQkNycHVqUW5OUXRzNlA3aFFNek1temxaZkhLXzRycW1ZVnJWc29DaVFjUFdTblJfRUJQYkc3dVFnQ0hEZ1N0MmMtaTdscGI5ZGU2cTZBY0F6bzhTTktodkFISVM1cTJKYzY5ZndYV0lV?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 21.7,
+  "score": 21.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.1,
+      "contribution": 19.0,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-08-25",
       "summary": "Introducing the CodeRabbit plugin for Cursor",
       "url": "https://coderabbit.ai/blog/coderabbit-plugin-for-cursor"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.1,
+      "contribution": 0.2,
       "occurred_at": "2026-05-13",
       "summary": "Introducing Change Stack: The first AI-native code review interface",
       "url": "https://coderabbit.ai/blog/introducing-change-stack-the-first-ai-native-code-review-interface"
@@ -55,7 +55,7 @@
     "edgar_cik": "0002014393",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": [
     {
       "type": "launch",

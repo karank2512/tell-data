@@ -1,9 +1,9 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.8,
+  "score": 7.7,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-08-27",
       "summary": "Introducing Benchling Agents, your infinite program team",
       "url": "https://www.benchling.com/blog/introducing-benchling-agents-your-infinite-program-team"
@@ -56,13 +56,13 @@
     }
   ],
   "open_postings": 60,
-  "long_open_roles": 11,
+  "long_open_roles": 13,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": [
     {
       "type": "launch",

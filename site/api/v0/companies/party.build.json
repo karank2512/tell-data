@@ -1,9 +1,9 @@
 {
   "domain": "party.build",
   "name": "Party",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 8.1,
+  "score": 8.0,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Miriam González Durántez launches new centrist party in Spain - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJqTGxOOG1pX1lENkdTcWdIeF9mVjRYVVRfNUdTbUpJa05ST1hkaHJHbWR4WVVmdDhvLUNiWW5BMTl1TjdXNlZKZUpJZXh5Y2tGUlBWUW12dzIwcGlnOWo5RXRpenFyYlZ2LVRkWjJBY3B4QkdiNnQ2Rm8wNU1CWUJfNU5fdjlWVnpMbW5nVGJFUkE1NFBuTVI2QUFLM1dGOURNM3FySXZRWHJyZFJR?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

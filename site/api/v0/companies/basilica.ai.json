@@ -1,10 +1,17 @@
 {
   "domain": "basilica.ai",
   "name": "Basilica",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.5,
+  "score": 8.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-13",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDItekFfXzUydEk5YW9sU1F5QjA1dzVQbVNlb2dKSHFzX3dLTUFqV1BiUk5XTDdXOWlMT2RWaWE5SE1oVWE5SlNZdkZFdHh2TzBiVUhMYkhob3NBV3NHSG4xX2Z3TzFGSmVHZ0dCd05EVndFNnNYR0pzLXBBX2dwYVFyeHFYWVphZEdzcHp0ZGRCUTB1aGc?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "usepanels.com",
   "name": "Panels",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "CALB globally debuts two major public data panels - Gasgoo",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEk1M1BCTWVKQl9PSTVlOXhUNGE2R0V0MkdQbWRwVHJkRnZUT1VmTXhWcUN0anhydWVPdUMxUWpQVWczbDNPV0Q1Rm5fbGhqQTZWRy1yTWsxNk9WUEh5UWNjTlBJaEpUVHpySlVYYkFKek0wcUpDQnZ2T0ExX0NEbGtjZDU1LXdzNWh1bEw5b1huWWYwWFNTMU1LMkVpcnZiaHpKQXdINk1DaU9LT003Mw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "draftin.com",
   "name": "Draft",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "Virginia releases draft rules for recreational marijuana sales ahead of 2027 launch - 13newsnow.com",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNY0xXa1hJc2Nfb1ROeW5XdVgzRFkxYU9MZnE1S2pPa1VKejhqSnhCNGRzR0NyS1Q3MW9fRkd6UExyb0tCRS1sa01ZOVFtUjZJMk9QRjlkd05SeGRsWjBNdlRvejZwUmkwNXpQS0N6bWcxc2VlZW9lS2MycWVlVFdPd3RoeXNRRUxnR1NReG9Cem80ZkhrRGRCbTBaLTY5RVlHX2lhM0ZqcFhseGx3cW1SaEtlZUxhOXpsVTZoYm9NdnF4OWFycmFCS2Vuai1YenZCMDFLdzFsRGk2aWk2SVZfUTl6OFAyWHlCaEJIVXlXeHZUZ3ByQV91bl8tdUdYRTFsOGpr?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

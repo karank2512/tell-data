@@ -1,9 +1,9 @@
 {
   "domain": "trysaffron.ai",
   "name": "Saffron",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-08",
       "summary": "Nootropics Depot Launches Safralis, the highest and purest grade of Kashmir Saffron - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ3J2eFFqMGNBOVFWRWdfbFBsY01HV1hGZmV2cEVRbGxNak04aE0tTHdtaHlVaHVmdG5RQUFzZ2RnYjU4Rl91N1pSOG1yV05oLXNrWF94d0k3eV91a01adEJ2RVpuSzhNbk84ZElKUFU3aDZyaDNJWl9KaDhQTEh4aVY2cnJLSzk2TnlaZk04NXRfd1BXOGhHR2luNnplSjNxZWU5Ty1RdlNKdnBSeG1tbEtXUmZ5X3VIUEp1NHlYc2wwVXRNaW5qUEhCb2NuRE5DdkRxNw?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,41 +1,41 @@
 {
   "domain": "citizenportal.ai",
   "name": "Citizen Portal",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 86.1,
+  "score": 85.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.0,
+      "contribution": 15.8,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $3,000,000 offering, $1,875,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1997254/000199725426000007/"
     },
     {
       "type": "funding",
-      "contribution": 15.5,
+      "contribution": 15.4,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,000,000 offering, $5,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1997254/000199725426000006/"
     },
     {
       "type": "funding",
-      "contribution": 14.6,
+      "contribution": 14.4,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $800,000 offering, $800,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1997254/000199725426000008/"
     },
     {
       "type": "funding",
-      "contribution": 14.0,
+      "contribution": 13.9,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $500,000 offering, $140,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1997254/000199725426000005/"
     },
     {
       "type": "funding",
-      "contribution": 14.0,
+      "contribution": 13.9,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $500,000 offering, $285,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1997254/000199725426000004/"
@@ -55,6 +55,6 @@
     "edgar_cik": "0001997254",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

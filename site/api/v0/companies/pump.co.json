@@ -1,0 +1,63 @@
+{
+  "domain": "pump.co",
+  "name": "Pump.co",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-20",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/pumpcareers",
+      "postings": [
+        {
+          "title": "GTM Engineer",
+          "posted_at": "2026-10-19",
+          "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5457534008"
+        },
+        {
+          "title": "Demand Generation Lead (Paid Ads)",
+          "posted_at": "2026-10-19",
+          "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5457684008"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "marketing",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-20",
+      "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/pumpcareers",
+      "postings": [
+        {
+          "title": "Head of Marketing",
+          "posted_at": "2026-10-19",
+          "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5457662008"
+        },
+        {
+          "title": "SEO/AEO Manager",
+          "posted_at": "2026-10-19",
+          "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5457731008"
+        },
+        {
+          "title": "Product Marketing Manager",
+          "posted_at": "2026-10-19",
+          "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5457758008"
+        }
+      ]
+    }
+  ],
+  "open_postings": 24,
+  "long_open_roles": 8,
+  "sources": {
+    "ats": "greenhouse:pumpcareers",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

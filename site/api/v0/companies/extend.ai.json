@@ -1,10 +1,24 @@
 {
   "domain": "extend.ai",
   "name": "Extend",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.2,
+  "score": 7.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Extend Introduces Verify, a Document Fraud Detection API that Builds Trust into Document Pipelines - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVXRWYzBZNHg4d18wVE0zYlZ4WmlMOS1XRXQ5SF81dVZFWjlFeThZb0duZjJOUXh1MkxhUUk0TW1ORkVjc3MyckIycmQxaWwwZ25WQlZQNEZjM0l3TWswYjJ2TjV5Y0FZelg2VTJTeVRvZ3JXWEtoMUg1Wk5KUUZNa1hiZUNwNjdFSWF2WW1vRzZ6OGNCQ2pLZWVna0lxcnNLRE85dC1BUUdnWUJVSThQRTFSZjNQVUtsWEZlUk85Y1ViZ2dDWnRfczE3czZqM2x1RElkYk1wcFM3YzIxRHpJbU9MTEZRTjZuX1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "NCAN’s FAFSA Tracker’s 10th Year Launches as US Pushes to Extend FAFSA Record - NCAN",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTNZYmVaM1lJVUM4WXMxdWc5Ni1mOXJFbVF3WDFHMlRXSGpQSHhaVWF2ZGNvY1Z4SFlKWWRFSGx4OVpwNFRob1FTM3l4dXNJTHVadjNoNFdKWlFQMmxfYTl2dTN2MWE2V21DSjRhVC1sZmxjaGtMUU5JNU1XZzk1MXNLTVdqVEFQVzcxOGs3M0VMcGVlLWFoUDItZVB6UDJXQVJKUElhVWlsdjh2akdfX2N2VTdST1Q4SWN3QzFyQ0hfbXRw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "OHIO 2030 Planning Underway: University launches process to update, extend its Dynamic Strategy for 3 more years - Ohio University",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWhsaF84aFh5VjkzbmU3aEVreEhQdnJ0aHBQS25ZV1dfMmo2VS1GSkZYUlpYOEtYQllFSGo3TVhiVDlodGp1V19QT2ptel9lM2NodUhVZ0RUQzNHRkFwc2Q5d2tFNDh5V25lVlQ4QzlJS1NyNUNQWWtJM0hmaE9nZndhMUNWZXJITTJBejc0UWxSb1BQQ0x0TVQtYlBOQ1pPWUI2ZU5XSnZJQWtnT19ieFYtbjM1dw?oc=5"
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

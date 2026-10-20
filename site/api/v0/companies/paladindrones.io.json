@@ -1,9 +1,9 @@
 {
   "domain": "paladindrones.io",
   "name": "Paladin",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 11.2,
+  "score": 11.0,
   "contributions": [
     {
       "type": "launch",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "VisionQuest Introduces Paladin, Marvel’s Deep Cut Bounty Hunter as a Villain - AOL.ca",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS3BQRjI4Q3hKMTZYLS1SODZrUzRFWVFCRDhnd2JZVDM2VEpYbkRQczhyY2JzVWU3ZFZKWndyY0NRNVZadVB0dnBWSnNFa1hyRUwyR2NXdFlQTnNpSFpOQjJJSGtsdnllVS16MzZ0eHlMc3ozc1E2bWs4NElYaktvalhSZTZNUjdYVzJrQXR3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "VisionQuest Introduces Paladin, Marvel’s Deep Cut Bounty Hunter as a Villain - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFVfZ3hqbWgyLUtfOUhUSWNpeUFBQlNOMG5LREszRzJSS3Nva0hleW5OeGZDbzFFSkRLOWVGOFhnYnRLcTh5OUFEZVpGZXVMb3hFYlFfX214TElYTnVwZUpBVlhQTThyLTJFdmw4UHQ4cTAtYm9Wcll2eXZPakozUXVTYnozOTY3TXlBazhzZw?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

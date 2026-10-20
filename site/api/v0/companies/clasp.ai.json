@@ -1,13 +1,13 @@
 {
   "domain": "clasp.ai",
   "name": "Clasp",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 29.0,
+  "score": 28.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 26.2,
+      "contribution": 26.0,
       "occurred_at": "2026-10-08",
       "summary": "Form D: $15,249,996 offering, $13,249,996 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024665/000202466526000006/"
@@ -27,13 +27,13 @@
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbXNaU0taZzJ4RndTNzUtaGgxVWR2S3EyZlBEQk81anprRHpKQTJDaVpPazNQR24yWkRoOXl5elFWN3FNT2xhR0txdnRBdm81aDYzcmJZa3J5ZGxocnM2RkQ2ZThYaUVQcVh5eUNLQ1BNLUxmcW56M1NHX3Q5VVlfNHo5VEJMZmxBV3Fyel9DMzdoLU5ZM29JVTBrUUFiWFB1OFpkNzlxdDVzX2dZakVRS2txWHY0NmVDN2ZxSzJnZkhncnNVTmNZYjFaUkdMZ1VkYTNtSk8tYktmTHVhUlBaZlNjODFsVHNuandWZ295R1MtTGVpRVFfcEZubFQ4NXk4NGFWdnZySl82SUZiRWk3QkhxVWc3Tjg?oc=5"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 5,
+  "long_open_roles": 2,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:clasp",
     "edgar_cik": "0002024665",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

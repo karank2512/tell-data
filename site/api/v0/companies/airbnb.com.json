@@ -1,9 +1,9 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.4,
+  "score": 6.3,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -32,7 +32,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjN3akxCanRDTl9LTDNfYUE1UWdNbVJvZFkzVkZmckNrOWk2c1FkR2p5VldZRzRVR1dXOU1xbXA5MjNZQ0FoOTdOdzVKcTF3UlBwZ3BYcmdCNDdSM2Z3OVppLUtzLV9DcTZvU1A0V1ZaVi1YYnFRZzJ4aXdUWW9mc1NmTTRPUWlNYlZ1NXgyeGc5aUt3cmxlQQ?oc=5"
@@ -70,13 +70,13 @@
       ]
     }
   ],
-  "open_postings": 202,
-  "long_open_roles": 52,
+  "open_postings": 204,
+  "long_open_roles": 54,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

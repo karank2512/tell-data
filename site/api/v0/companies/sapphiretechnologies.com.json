@@ -1,13 +1,13 @@
 {
   "domain": "sapphiretechnologies.com",
   "name": "Sapphire Technologies",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 27.4,
+  "score": 27.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 27.4,
+      "contribution": 27.2,
       "occurred_at": "2026-10-15",
       "summary": "Form D: $12,841,337 offering, $8,941,337 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1887783/000188778326000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001887783",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

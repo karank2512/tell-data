@@ -1,9 +1,9 @@
 {
   "domain": "rift.com",
   "name": "rift",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Foul or fair play? Ruto goes hard on opponents as he unveils new UDA slogan in Rift tour - Daily Nation",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVkZsMFUyc0NkQjB1aFBUbnVMUk1pQVdjaGxJX2hOcTZUNnBlSkFpTXRSelBuZmZHX3h5d1o5cG83WFVoNlBWRDk0VTdJRlNMNDJrMGxLSVBUWm4tSi1xRTMtN2ZnT290Q21TaUl6VEV0bW5nY3o2N0ZkenJCWTFETGFfNS1WdHFMek1jQ1BtdWRZMkczLVA5R1ZiQmlUbHo0d28yZzcxZ3N5X1NBc2M4VW91SHU4UTBXcFBOZnJyeFpZcnhocWtaT2ppNjdVV3dEdFZZ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

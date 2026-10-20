@@ -1,0 +1,225 @@
+{
+ "vendor": "ashby",
+ "identifier": "retell-ai",
+ "domain": "retellai.com",
+ "as_of": "2026-10-20",
+ "last_polled_at": "2026-10-20T02:55:27.963628+00:00",
+ "open_postings": [
+  {
+   "external_id": "05d85a26-48cd-44ed-aeff-917118bf507d",
+   "title": "Procurement Manager",
+   "role_family": "gtm_ops",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-09-18T16:29:48.144000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/05d85a26-48cd-44ed-aeff-917118bf507d"
+  },
+  {
+   "external_id": "0a2439c0-5caf-4e79-89ae-c916e460b6d0",
+   "title": "Senior Product Manager",
+   "role_family": "product_design",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-07-31T17:37:01.104000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/0a2439c0-5caf-4e79-89ae-c916e460b6d0"
+  },
+  {
+   "external_id": "21574bc5-a161-432d-92c6-7b61a66c6572",
+   "title": "Enterprise Account Manager",
+   "role_family": "sales",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-09-19T01:41:33.514000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/21574bc5-a161-432d-92c6-7b61a66c6572"
+  },
+  {
+   "external_id": "21cf0117-6b44-40df-96ea-0fb2d1d0892f",
+   "title": "Founders Initiatives, AI Agents",
+   "role_family": "other",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-06-11T02:11:13.217000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/21cf0117-6b44-40df-96ea-0fb2d1d0892f"
+  },
+  {
+   "external_id": "26bbe240-4f9f-4414-8807-ee58270726d8",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-07-15T22:57:11.802000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/26bbe240-4f9f-4414-8807-ee58270726d8"
+  },
+  {
+   "external_id": "26e3aa9d-f22d-4870-8db5-bb488c207559",
+   "title": "Senior Software Engineer, Frontend",
+   "role_family": "engineering",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2025-11-17T17:32:35.388000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/26e3aa9d-f22d-4870-8db5-bb488c207559"
+  },
+  {
+   "external_id": "2e3f3930-0949-4b86-8ed1-7f5d9e068c87",
+   "title": "Senior Software Engineer, Internal Deployed",
+   "role_family": "engineering",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-07-26T18:56:06.882000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87"
+  },
+  {
+   "external_id": "3e4fa860-4673-49bf-b577-57e73b6292fe",
+   "title": "Senior Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2024-12-03T19:32:33.345000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/3e4fa860-4673-49bf-b577-57e73b6292fe"
+  },
+  {
+   "external_id": "4786e37a-e790-4d16-a7c7-70c174fe5405",
+   "title": "Compliance Manager (Contract)",
+   "role_family": "gtm_ops",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-10-05T18:23:23.793000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/4786e37a-e790-4d16-a7c7-70c174fe5405"
+  },
+  {
+   "external_id": "5652ab47-6c89-4889-a507-7a3a943c3669",
+   "title": "Senior Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2025-02-20T06:23:20.289000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/5652ab47-6c89-4889-a507-7a3a943c3669"
+  },
+  {
+   "external_id": "72dcc20d-0f0e-4639-9b7e-1806327acd97",
+   "title": "Deployment Strategist",
+   "role_family": "other",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-10-08T05:47:15.759000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/72dcc20d-0f0e-4639-9b7e-1806327acd97"
+  },
+  {
+   "external_id": "7961d60d-cadd-45af-9635-6efaeb04a14d",
+   "title": "Founders Initiatives, Technical Ex-Founders",
+   "role_family": "other",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-06-11T02:11:15.897000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/7961d60d-cadd-45af-9635-6efaeb04a14d"
+  },
+  {
+   "external_id": "7a614b87-2dd8-4723-ae79-7cdca82aac73",
+   "title": "Senior Forward Deployed Engineer (Mandarin Fluency Required)",
+   "role_family": "customer",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-08-05T21:54:37.642000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/7a614b87-2dd8-4723-ae79-7cdca82aac73"
+  },
+  {
+   "external_id": "971dfb26-f54b-4f04-848d-f73a402e9726",
+   "title": "Senior Deal Desk Manager",
+   "role_family": "sales",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-09-29T23:56:32.105000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/971dfb26-f54b-4f04-848d-f73a402e9726"
+  },
+  {
+   "external_id": "98b82636-7d21-411a-90f0-3a474c5630ee",
+   "title": "Senior Forward Deployed Engineer (Singapore)",
+   "role_family": "customer",
+   "location": "Singapore",
+   "posted_at": "2026-09-13T19:53:55.592000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/98b82636-7d21-411a-90f0-3a474c5630ee"
+  },
+  {
+   "external_id": "98f1dd85-1967-418f-97f1-0439870d1e4e",
+   "title": "Senior Billing Manager",
+   "role_family": "gtm_ops",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-10-14T06:37:59.771000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/98f1dd85-1967-418f-97f1-0439870d1e4e"
+  },
+  {
+   "external_id": "9b165c15-aa78-49a7-a755-8c2379fd5416",
+   "title": "Senior Product Designer",
+   "role_family": "product_design",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-01-19T01:12:57.485000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/9b165c15-aa78-49a7-a755-8c2379fd5416"
+  },
+  {
+   "external_id": "b3f5abf4-e92a-4cdb-9358-d0d01e5e2205",
+   "title": "Founding Strategic Partnerships, Cloud & Alliances",
+   "role_family": "other",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-09-04T17:23:16.468000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/b3f5abf4-e92a-4cdb-9358-d0d01e5e2205"
+  },
+  {
+   "external_id": "b408ee8c-69af-4be3-a4a3-12ed5766fe1f",
+   "title": "Staff Engineer, Platform & Systems",
+   "role_family": "engineering",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-02-08T18:45:53.794000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/b408ee8c-69af-4be3-a4a3-12ed5766fe1f"
+  },
+  {
+   "external_id": "d54e194f-81ac-4c78-bbfc-f81dfc786bee",
+   "title": "Senior IT Manager",
+   "role_family": "gtm_ops",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-10-12T04:36:02.493000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/d54e194f-81ac-4c78-bbfc-f81dfc786bee"
+  },
+  {
+   "external_id": "d7a53f62-6c77-40ba-ac91-68530f080efa",
+   "title": "Accountant (Contract)",
+   "role_family": "gtm_ops",
+   "location": "Remote",
+   "posted_at": "2026-10-14T06:59:57.641000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/d7a53f62-6c77-40ba-ac91-68530f080efa"
+  },
+  {
+   "external_id": "dc995420-9909-4867-83f4-0816fe758a6f",
+   "title": "Senior Software Engineer, Full Stack",
+   "role_family": "engineering",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2025-10-06T13:12:52.116000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/dc995420-9909-4867-83f4-0816fe758a6f"
+  },
+  {
+   "external_id": "e288dbb7-e819-4ca2-a20a-48ffa7b16310",
+   "title": "Outbound Talent Sourcer (Recruiting SDR)",
+   "role_family": "sales",
+   "location": "Remote",
+   "posted_at": "2026-10-01T17:42:24.028000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/e288dbb7-e819-4ca2-a20a-48ffa7b16310"
+  },
+  {
+   "external_id": "e28a97ce-44a1-4f87-a8a9-3421b5452b66",
+   "title": "A Call for Content Creators",
+   "role_family": "marketing",
+   "location": "Remote",
+   "posted_at": "2026-07-12T16:40:01.966000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/e28a97ce-44a1-4f87-a8a9-3421b5452b66"
+  },
+  {
+   "external_id": "e6b26f71-d747-4f1d-8756-e6cf91ee1e50",
+   "title": "Senior Forward Deployed Engineer (Spanish Fluency Required)",
+   "role_family": "customer",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-08-13T06:33:13.747000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/e6b26f71-d747-4f1d-8756-e6cf91ee1e50"
+  },
+  {
+   "external_id": "f05f065a-a20e-418c-8c73-dad53ea64a21",
+   "title": "Commercial Counsel",
+   "role_family": "gtm_ops",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-09-29T23:45:43.984000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/f05f065a-a20e-418c-8c73-dad53ea64a21"
+  },
+  {
+   "external_id": "ff9c1c3f-65b3-49ad-9774-7e97af55a720",
+   "title": "Mandarin-speaking: Customer Success Engineer (Contract)",
+   "role_family": "customer",
+   "location": "Remote",
+   "posted_at": "2026-10-07T03:54:56.265000+00:00",
+   "url": "https://jobs.ashbyhq.com/retell-ai/ff9c1c3f-65b3-49ad-9774-7e97af55a720"
+  }
+ ]
+}

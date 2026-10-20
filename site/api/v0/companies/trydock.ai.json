@@ -1,10 +1,31 @@
 {
   "domain": "trydock.ai",
   "name": "Dock",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 16.8,
+  "score": 21.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Hidisc Unveils $12 USB-C-to-HDMI Cable That Lets Switch 2 Skip the Dock - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52STNNWkNtSEo5MVFfclhWc0JPNHB4SGZIY2lUTkZVYWxxTEwtLWlqa01PZldMZ0ZIY0RuVXZrbGxpZWRMOHlPT2h6NHdGUlNXb0xJQWpZNDlPR2R5WTE3WEZBS3g2elVmN284MUppSU1yd3dCQUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Hidisc launches 4K HDMI cable that lets Switch 2 skip the dock - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWYzZTNQTEdUSDJoVEtIWmFCa1NUVXBLSFBmakZIR3Y3VjdLRlBGU2lYNWZKaENfMi04ME1XTWJmLTZjVzdLRTl6c1FQYWhYN2RscWNYcUxaZXJZNG1JR0JUUHM4NlBNWFFQWTlwUVZNME1uUzljZHlBVkRrUXFvQ3lhbmhHSUxhVEx4OTFMMUdxNlZEVldLc1NFNEtoWmN5Qnlqb3NkaG8teEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Multi-Functional Gaming Docks: ASUS ROG Introduces the Bulwark Dock DG310 - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUWXRfVklKSlczc3hYOWpVeVpDVkpmMm9QQWtvLThfSjQ1V2VrTUtZTFR6RDRteUlPLWMtSXVldzJDdDZUb2stMFBjcC1OYjh0aHE3dGtPbDBqNXdNdlFVakJQejBQbEJJLUxWNS1JMnY1UQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -70,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "DJI Launches Dock 4 With 25-Second Automated Battery Swaps - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0JoQVVqOWtJaEN3aEdodkVRTndEeFdvN2tSUmxtUHpyZGJpRjhMTm43VkI5MFFHR3pfU0xXdElJbVZiN2VnZnhkbU9wMzdBaU5qakpPdWFHaFZabGlBYXRGaXJxOXc4bXJ0U29NbWFmN3VTcUNaNUZFYzZoVXNsaXM0ZmhfQ00?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Jiangnan Shipyard Launches Sixth Batch of Vessels from Dry Dock No. 4 - iMarine",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oQXlYYzVyTEg2UGZsb2E5SDZOZ3RtMjhYUERFaXFnaG9wU1ZkYlJPcWZ0UDBfNzdJQ1Eza3Z2UF9pOExLMlh5QXNNTWRfME0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "OneXPlayer Super X Pro Debuts with Liquid Cooling Dock and Ryzen AI Max+ PRO 495 - Technetbook",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0l5Mm9iU2JXTS1jUGg4WVZPcUtTMC1VbVR5VXduS0JzUjVJRENXSlRZbTF4dl80ZVhDbGFJWk5DTWlkM2QzMmN0bnFJa2JucVh3cmN1V3A5MDdMVGV1dkgycXBDemU1MWxqMkFBdE9mRkJLNUdVSGVxZkNfSktlb3lB?oc=5"
@@ -97,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "powerus.de",
   "name": "PowerUs",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 15.1,
+  "score": 17.6,
   "contributions": [
     {
       "type": "launch",
@@ -49,10 +49,24 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Powerus unveils Guardian-3 autonomous counter-drone interceptor - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3pQaVlfSzFDSm5Lc0IxRnpZYUFyT1M4SWZqeEVXUHRMblMwZnVPUDhmN1cxZDFCbE11em8tMXpkZlRGMllMNHhoeC16MnYwV2ttNE5Pc093QmVaLVpvUGFTbTBCZ2t1WGdLMDI4elA0M2wyaEZGb25tczhJeTVDX1RyZ1VPeXEzcjZNaGdnaTdiRF9YS1ZEVWlrX0piWExzYlBQcnhNc3kyeF9uN0dBN295ZnBmMFZ6eXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-13",
+      "summary": "Powerus unveils Guardian-3 autonomous counter-drone interceptor By Investing.com - Investing.com Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU24zQ2t2V2R1TWtpVkp0X3R2VkRRdE15eGJJREd5X1lrZ2h1UER0amM0SkdGcHhjZE44NWJaUm5KQzNiMThLcmYxc185VG9Gd0hNT081a0hpdjhqRk1TT0hWY2JNNWZ1dWpIOTlEVldvcF9MRHQ2UGpSZGdzWnNaYlRQb19wTUJXWTRZcDV2VFZBZVZJNlUxQWZKdk1zam8zSjh6cVFTakhfR2R4SzJiVHBEYkRhMVc2V0U1QmtMWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-13",
+      "summary": "Powerus unveils Guardian-3 autonomous counter-drone interceptor By Investing.com - Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkFWOGtoZzlTLWtkTGRLMTRBaXVCVWlqUGxfaFN6d3FhVy1SUFh3U2xYb1RISVVpYkxJeXo0SUQ1V2xDeExhSWoyckp5NHcwbi1LYVJMcWtHeG9zUy1kOG1ncTRzX1o1WEF6RXVhMDg0SXl4OU1aZV9Tb2JpNERya21GSjZuSGlFV1Z1SjliaWx1UGNfRWZFMURDel93b3AwdGp5QWpBdDc3Zk9qMU9ic0R2SnZZZmUxelE3d3FtRQ?oc=5"
     },
     {
       "type": "launch",
@@ -90,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

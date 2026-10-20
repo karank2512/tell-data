@@ -1,32 +1,32 @@
 {
   "domain": "climb.ai",
   "name": "Climb Group",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 30.6,
+  "score": 30.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.7,
+      "contribution": 19.6,
       "occurred_at": "2026-09-09",
       "summary": "Form D: $5,675,000 offering, $5,675,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2140560/000214056026000002/"
     },
     {
       "type": "funding",
-      "contribution": 10.9,
+      "contribution": 10.8,
       "occurred_at": "2026-07-06",
       "summary": "Form D: $1,500,000 offering, $1,400,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2140560/000214056026000001/"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 10,
+  "long_open_roles": 9,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:climb-ai",
     "edgar_cik": "0002140560",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

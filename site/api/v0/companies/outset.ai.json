@@ -1,0 +1,38 @@
+{
+  "domain": "outset.ai",
+  "name": "Outset",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/outset",
+      "postings": [
+        {
+          "title": "Enablement Program Manager",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/outset/a90f9994-d72d-4897-bb30-fad9ce65e0f9"
+        },
+        {
+          "title": "Founding CX Solutions Account Executive",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/outset/02f05d9b-ebe7-4b8a-816c-70821d73bfc7"
+        }
+      ]
+    }
+  ],
+  "open_postings": 24,
+  "long_open_roles": 3,
+  "sources": {
+    "ats": "ashby:outset",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

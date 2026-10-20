@@ -1,9 +1,9 @@
 {
   "domain": "pierre.co",
   "name": "Pierre",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 8.9,
+  "score": 10.3,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "Appoints A CEO",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2VuUHBZMHV4bzhDbG1ObUxKcUNZQkllbmVWdkJkNEN5elNYcEVqS3V0Z3JMNFNqeXNVQVpIQmVUSG9NOTVZRHpocEQ2QVhXRVBZQU1sRFZrQTJHTWVYM2w1MzN2REtjdGJMOXFIbWFvSGxMejdMYlpVT3JTUFZyQ09pNVk2WWdDNVc3Z01EU3NBb2JObGI5TU9ldXNKSDgtcHZjSkdlWEZYOXRweHVialhOb0duR1I4?oc=5"
@@ -32,6 +32,13 @@
       "occurred_at": "2026-10-13",
       "summary": "Foundever Appoints [person] as CEO to Drive Global AI and [person]",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbV93dnhOcm16N21uam9aek9RWVd1UVZyQkhGclNPdE9Ic3h3RVFJYmI4NUdUVGw4UDBVZjF5OWk5WnZoWHNQRnNIYTgyMlduN2ZLWUhRTGpTb3V5N3lxRnp0d0sxaXpyU2JObDNESXBwODJyNXAyOVRIb0pKUDA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Whitewaller Paris 2026 Launches with Pierre Yovanovitch as Guest Editor - whitewall.art",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc2J2RVBCUU9zeHhyeHJ4SFBFNkFmYXp6NWRmUzdxUGREdDhnZlJOTTdlTVViQmFnUHVmYWlzcG5MY0ZOazFLSFEtMndLNjlWUDdJa1NvNjFrUlI1QVdaN1pBSmxzOXFVY0VyYkdBeEZ4bUVuYUZUblJScGRBTE4zRVVWNE1JMDg5aHMxcUUwd2N1cFR4bEFRQmhoYm9LUU1IV1Bz?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

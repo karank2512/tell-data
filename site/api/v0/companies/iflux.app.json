@@ -1,13 +1,13 @@
 {
   "domain": "iflux.app",
   "name": "Flux",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "fal Launches FLUX 3 Max, Delivering #1-Tier Image-to-Video Quality at Industry-Leading Speeds - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQktXa3ZQV3NqWW1UREItelczWFBnWTg1QUdlX3phaktYblpJeDhRYjRCMVpXS2F1RUNnVW41cFBjYm9JTnhyYzdIMm9LTVBvN2FTYmZNTHBKOUJYQkVwYUxvVFBBVlJuLVRHXzdDN3ZxWFphWDNpeDVHM2w4NVBSWGFZLTNHMFdpV1VGd3B4R1FuMmg4LU9nczlBSjk0Tk94UE14bktIaWxjYm9Vd1kySm45RVU2ZnhkOVhHYkx1LVlaYlctMlhTX3RiUk5TNGRGWEh3d3AxWk1HUzBoTlpOdA?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

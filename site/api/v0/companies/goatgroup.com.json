@@ -1,0 +1,43 @@
+{
+  "domain": "goatgroup.com",
+  "name": "GOAT Group",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.9,
+      "occurred_at": "2026-10-20",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/goatgroup",
+      "postings": [
+        {
+          "title": "Fulfillment Associate - Seasonal",
+          "posted_at": "2026-10-15",
+          "url": "https://job-boards.greenhouse.io/goatgroup/jobs/4744253005"
+        },
+        {
+          "title": "Fulfillment Associate - Seasonal",
+          "posted_at": "2026-10-19",
+          "url": "https://job-boards.greenhouse.io/goatgroup/jobs/4745136005"
+        },
+        {
+          "title": "Intake Specialist",
+          "posted_at": "2026-10-19",
+          "url": "https://job-boards.greenhouse.io/goatgroup/jobs/4745207005"
+        }
+      ]
+    }
+  ],
+  "open_postings": 17,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "greenhouse:goatgroup",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

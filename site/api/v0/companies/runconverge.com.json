@@ -1,13 +1,13 @@
 {
   "domain": "runconverge.com",
   "name": "Converge",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.9,
+  "score": 1.8,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "[person] joins Converge 2027 as Association Partner",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWdlM0NzNlFDQkIxV3BXdUJiMU8wOFpjdnJhdkpsVm9aaE95d1VvbG5HZVprQjc2UF9QbzJoVnpzOW1pNVdZQmRld0dFYmdvN2t6UE1SVmlKaS10M0tRUzFybHFtdDEwTGRiWlIxY0Q1RFJsV1BFemNON2RWU1BGUVFmcEVHeW5Od1AtSmNNcw?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

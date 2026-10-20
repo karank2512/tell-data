@@ -1,9 +1,9 @@
 {
   "domain": "automatic.com",
   "name": "Automatic",
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "profile": "default",
-  "score": 13.5,
+  "score": 13.3,
   "contributions": [
     {
       "type": "launch",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "LitterLux Launches $399 Self-Cleaning Litter Box, an Affordable Automatic Alternative to $700 Models - Lohud",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMWpOT2tmSmRTTE1GMFNjekVST0c2TVVHeHFQMEhOYzhYTFVOQld5QVE4bl9NOXZmbVlMeXcyalh0YlZ0LU5xZkR0UmpVNDRqd3pZcEZCZ0FucnVZbTFsSkc2bC1WU0RnYjVXOEpaUVMzX2VEbkVvTWphQXdXWXVvUUtEMm95YnVVRC1sMFBtdi0zQkFORGJoZDlMUFBBN3daeWxUQVBwUEtDX3Fmb0ZHOXRUVGI5MGpFNkI5bnYwQU51eTktU3FhSkZqWjZQVVBDX3NBM2NuTWxTN2FPbTg4Sw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "LitterLux Launches $399 Self-Cleaning Litter Box, an Affordable Automatic Alternative to $700 Models - azcentral.com and The Arizona Republic",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVWlISUVFb2JEdTgxOS1xbF9BZ0Q1QTI1aTlQOEswV2JsUVBBYURBTERsbWI3YThRYW1yMnhJRFo5MC1ZRUxpcklpTElmZE05eUZDd0M2cFVYYW9DSnA3SnlOQ0FKWjNSMkYxd1M1cjBsbUF6OWJYNU9rZUg5dmQwb0xaa3lSY001SEFhc3g3WUlxTUNoRWJyQXpXT2RaSlV3WEFLVGlyWDk4bXhsUVJ1V2cwWElwYXB1eWxfSmtFTmViSkJtMDhkNDJwM1h2UmVhYXJVWmM2ZG9mVlJzd003QTRvdEwwdw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/fb7f7672b812c1896e90aaaac2a4fc292549f69d",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
   "why_not_higher": []
 }

@@ -1,0 +1,25 @@
+{
+  "domain": "cover.com",
+  "name": "Cover",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Exclusive Cover: ABBOTT AND COSTELLO MEET THE MONSTERS debuts on Kickstarter today - Comics Beat",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlJGTzlXOTBnc2Nid0tNLTFlWHFmVGVldGd6RXRnTGp3b01kaHBiXy1iNWRnLWRPZWVwR2VZekNQbFVJaXJBdVpEYUtEcnl0WWhNUjBubkhtbU84cmctQ1ZrSnhvcko5Y1BTRktsQUVPZWlSWU9GOHhXeGdHTzZDRDRZTjNqR1ljZHNlakE2dHlwdV9yejllOGlJNzVVa2tQSjBLSFVLLU1iM196RGc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}
