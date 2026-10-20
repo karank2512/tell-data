@@ -13,10 +13,10 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2147743/000214774326000001/"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 23,
+  "long_open_roles": 12,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:qualified-health-pbc",
     "edgar_cik": "0002147743",
     "news": true
   },

@@ -3,7 +3,7 @@
  "identifier": "airbnb",
  "domain": "airbnb.com",
  "as_of": "2026-10-20",
- "last_polled_at": "2026-10-20T02:55:30.564525+00:00",
+ "last_polled_at": "2026-10-20T08:12:01.971819+00:00",
  "open_postings": [
   {
    "external_id": "6757302",
@@ -750,6 +750,14 @@
    "url": "https://careers.airbnb.com/positions/8164421?gh_jid=8164421"
   },
   {
+   "external_id": "8165656",
+   "title": "Senior Software Engineer, Storage",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-14T22:42:19+00:00",
+   "url": "https://careers.airbnb.com/positions/8165656?gh_jid=8165656"
+  },
+  {
    "external_id": "8165843",
    "title": "Localization Manager, Italian",
    "role_family": "other",
@@ -1092,6 +1100,14 @@
    "location": "San Francisco, United States",
    "posted_at": "2026-09-29T23:28:34+00:00",
    "url": "https://careers.airbnb.com/positions/8241573?gh_jid=8241573"
+  },
+  {
+   "external_id": "8242235",
+   "title": "Senior Software Engineer, Streaming Infrastructure",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-20T04:51:30+00:00",
+   "url": "https://careers.airbnb.com/positions/8242235?gh_jid=8242235"
   },
   {
    "external_id": "8242248",

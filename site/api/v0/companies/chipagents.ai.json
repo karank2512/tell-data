@@ -13,10 +13,10 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2032488/000123191926000810/"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 10,
+  "long_open_roles": 6,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:alpha-design-ai-inc",
     "edgar_cik": "0002032488",
     "news": false
   },

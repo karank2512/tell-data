@@ -1,0 +1,38 @@
+{
+  "domain": "avoca.ai",
+  "name": "Avoca",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/avoca",
+      "postings": [
+        {
+          "title": "Account Executive",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/avoca/ff7e8d71-16b2-4187-bef1-fc7c55b71e1d"
+        },
+        {
+          "title": "Sales Development Representative",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/avoca/6bd8b480-871d-4b5c-8685-37421cca1f38"
+        }
+      ]
+    }
+  ],
+  "open_postings": 29,
+  "long_open_roles": 10,
+  "sources": {
+    "ats": "ashby:avoca",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "why_not_higher": []
+}

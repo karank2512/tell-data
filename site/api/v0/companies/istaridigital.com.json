@@ -13,10 +13,10 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2051439/000205143926000003/"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 12,
+  "long_open_roles": 8,
   "sources": {
-    "ats": "no_board",
+    "ats": "lever:istaridigital.ai",
     "edgar_cik": "0002051439",
     "news": true
   },

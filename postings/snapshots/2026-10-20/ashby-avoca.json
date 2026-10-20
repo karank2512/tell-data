@@ -3,7 +3,7 @@
  "identifier": "avoca",
  "domain": "avoca.ai",
  "as_of": "2026-10-20",
- "last_polled_at": "2026-10-20T02:55:27.963628+00:00",
+ "last_polled_at": "2026-10-20T08:12:00.939873+00:00",
  "open_postings": [
   {
    "external_id": "0194eafc-96e7-4056-819f-836138fe33df",
@@ -92,6 +92,14 @@
    "location": "Bengaluru, India",
    "posted_at": "2026-08-19T22:07:54.107000+00:00",
    "url": "https://jobs.ashbyhq.com/avoca/6758ee84-51b4-4d0d-a3a6-d40ec164de49"
+  },
+  {
+   "external_id": "6bd8b480-871d-4b5c-8685-37421cca1f38",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-20T03:10:23.656000+00:00",
+   "url": "https://jobs.ashbyhq.com/avoca/6bd8b480-871d-4b5c-8685-37421cca1f38"
   },
   {
    "external_id": "73aa1239-2e2e-48a5-a455-4e544ece9c26",
@@ -220,6 +228,14 @@
    "location": "New York HQ",
    "posted_at": "2025-11-17T17:12:42.521000+00:00",
    "url": "https://jobs.ashbyhq.com/avoca/fd85e19f-12cf-421e-9ef5-afc4997c071e"
+  },
+  {
+   "external_id": "ff7e8d71-16b2-4187-bef1-fc7c55b71e1d",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-10-20T03:07:00.012000+00:00",
+   "url": "https://jobs.ashbyhq.com/avoca/ff7e8d71-16b2-4187-bef1-fc7c55b71e1d"
   }
  ]
 }

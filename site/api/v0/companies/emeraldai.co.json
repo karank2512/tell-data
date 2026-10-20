@@ -13,10 +13,10 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2047797/000204779726000004/"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 7,
+  "long_open_roles": 2,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:emerald-ai",
     "edgar_cik": "0002047797",
     "news": true
   },

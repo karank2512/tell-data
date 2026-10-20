@@ -13,10 +13,10 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2049036/000123191926000819/"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 8,
+  "long_open_roles": 6,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:empirical-security",
     "edgar_cik": "0002049036",
     "news": true
   },

@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-20",
- "last_polled_at": "2026-10-20T02:55:30.564525+00:00",
+ "last_polled_at": "2026-10-20T08:12:01.971819+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -6084,6 +6084,14 @@
    "location": "US-Remote",
    "posted_at": "2026-10-13T20:34:39+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8279202"
+  },
+  {
+   "external_id": "8282169",
+   "title": "Engineering Manager, Money as a Service (MaaS)",
+   "role_family": "other",
+   "location": "Singapore",
+   "posted_at": "2026-10-20T07:14:37+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8282169"
   },
   {
    "external_id": "8282390",

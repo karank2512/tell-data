@@ -3,7 +3,7 @@
  "identifier": "xendit",
  "domain": "xendit.co",
  "as_of": "2026-10-20",
- "last_polled_at": "2026-10-20T02:55:30.564525+00:00",
+ "last_polled_at": "2026-10-20T08:12:01.971819+00:00",
  "open_postings": [
   {
    "external_id": "7683511003",
@@ -65,7 +65,7 @@
    "external_id": "7780726003",
    "title": "Chinese Merchant Support",
    "role_family": "customer",
-   "location": "Kuala Lumpur, Malaysia; Taipei, Taiwan",
+   "location": "Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore; Taipei, Taiwan",
    "posted_at": "2026-06-23T01:44:57+00:00",
    "url": "https://job-boards.greenhouse.io/xendit/jobs/7780726003"
   },
@@ -214,6 +214,14 @@
    "url": "https://job-boards.greenhouse.io/xendit/jobs/8012151003"
   },
   {
+   "external_id": "8021808003",
+   "title": "Solutions Engineer",
+   "role_family": "sales",
+   "location": "Singapore, Singapore",
+   "posted_at": "2026-10-20T06:45:44+00:00",
+   "url": "https://job-boards.greenhouse.io/xendit/jobs/8021808003"
+  },
+  {
    "external_id": "8032565003",
    "title": "Senior Product Manager - XenPlatform",
    "role_family": "product_design",
@@ -228,6 +236,14 @@
    "location": "Singapore, Singapore",
    "posted_at": "2026-10-17T07:48:34+00:00",
    "url": "https://job-boards.greenhouse.io/xendit/jobs/8034243003"
+  },
+  {
+   "external_id": "8034311003",
+   "title": "Financial Operations Associate",
+   "role_family": "other",
+   "location": "Bangkok, Thailand",
+   "posted_at": "2026-10-20T08:07:34+00:00",
+   "url": "https://job-boards.greenhouse.io/xendit/jobs/8034311003"
   }
  ]
 }

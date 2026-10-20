@@ -3,14 +3,21 @@
   "name": "Generalist AI",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 22.3,
+  "score": 23.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.5,
+      "contribution": 20.4,
       "occurred_at": "2026-08-24",
       "summary": "Form D: $208,224,570 offering, $198,224,662 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2137708/000213770826000004/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Generalist AI Unveils Robot Model That Learns From One Demo (Video) - Thomasnet",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rR1JRRE9tMHBwQTVwb3ZUTHZ3T3VuUm5CdDlzYUZJQXotNU0ySlpDZkJLSHQ2VlRrUnF3ZUVSd0FtZHVjWmVEeEw0OU8xOXU4SGZGNHplX0FILXhaU0dWRmlSWVk3WmRLLWJEbEpVSUs5WlNGMElZ?oc=5"
     },
     {
       "type": "launch",

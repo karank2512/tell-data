@@ -20,10 +20,10 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2017031/000201703126000002/"
     }
   ],
-  "open_postings": 0,
-  "long_open_roles": 0,
+  "open_postings": 6,
+  "long_open_roles": 5,
   "sources": {
-    "ats": "no_board",
+    "ats": "lever:txse",
     "edgar_cik": "0002017031",
     "news": true
   },
