@@ -3,8 +3,15 @@
   "name": "Shepherd",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 0.9,
+  "score": 2.9,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "Fiesta Sports Foundation Names [person] as Vice President, [person]",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckoxZkYxS0lTVU9QYkM1eG1NemoxaGJDY2FOQkg5T0N5Y3Y3bW5hUTMtNFZsci1TOGZwQmxFQnBHX2JMWktQMGZyd2lyODdmZzJUTU1iMThwZXoxYkFVdkQ4czY3a2hwVUtCZnZCVEwybkhZcURHMllEY0xrd1V2RGE5NTFyekRPYUxFOG5yTFlqbzRBM21XV3ppLVh6SG1PLUE1UXNoc0J2NEVpaVUtMVJXNURmVXBkQXc?oc=5"
+    },
     {
       "type": "hiring_velocity",
       "role_family": "exec",

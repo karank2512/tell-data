@@ -3,8 +3,15 @@
   "name": "Walter",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.5,
+  "score": 3.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Walter Isaacson’s New Podcast, The Builders, Launches With Elon Musk, Peter Thiel, Fei-Fei Li, Dario and Daniela Amodei - Podnews",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5POVdNWU1uWmRkamwtLTVtbDVWNTBSNk1lNkVzTVUyc3lTYXowQ0hKby1DWXVSYlhFMFNaOXdyZG5oekk5S0hXTENSdFZZbzl1SHNBcjVvSDNGVE9nVFNLU3lYWjBmWDR5QngwWUNHaw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,

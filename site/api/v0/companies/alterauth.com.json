@@ -3,8 +3,15 @@
   "name": "Alter",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.4,
+  "score": 3.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-19",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TQzVBdEt2NVlvWndCMUtQQ19Ebm9ISGxRTkNMWWhUNHRtR1FwS3JCVnVjY21sWDdFTEc5eVROMURIdldQcHRvbklOSkxNR3k5RXY1bFRrUXJ6Z25vVk1xOVZEcUltX0ZWZzFNNFBqVXNhb1hE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
