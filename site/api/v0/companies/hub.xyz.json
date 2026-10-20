@@ -3,7 +3,7 @@
   "name": "Hub",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 35.4,
+  "score": 38.4,
   "contributions": [
     {
       "type": "funding",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PNUZZNFhFTmlua2lQZFVtcldXeHFWQmZuLTYybE1BSHZTX0FzVEhUbDhmaS0zamJtU2FUSW9iWWtoQXJPZWdhMFA3dWl6SGJBRVUzLXk3dzhxX2UzRWVUZmZ3M2tWTlZVM25UczlR0gFzQVVfeXFMTmlnbnRIRzIzbTBxdUJaWmFYS01YVGFqZDAza19RcmU2X2c4eVhTcGN5YnFKMW16c21lVmtsV1ZfSW1EbFc1Z0JpUHB3aG5NcHp3VjduQndESW9ESTJCQkJzZDM4Z0ozeTREQU9YNXlIdkFiWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Better in BTR launches new branding and resource hub for Capitol area - WBRZ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHBocVNrNHRxcUxmYUViRE90ajVvQUFLYWJLcU1pX2dFM2pibUUzcEx3WnBFZ3lnU1l6T1k5VWprR2tsTEJadkdSS2FqNGRxaUlRQUduOGxfbFB5M19YbUE4bURMQVZ2UDFTUW9ZMlNnZkVMVXcyUTU4cHd3QV81NndSci1GT2FzYkZSa29wd1dOX3RXNTF5bUhvRTA?oc=5"
     },
     {
       "type": "launch",
@@ -146,6 +160,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

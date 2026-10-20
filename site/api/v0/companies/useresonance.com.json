@@ -3,8 +3,15 @@
   "name": "Resonance",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.8,
+  "score": 9.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Introducing: A new Gold Tone for the Armin Strom Mirrored Force Resonance Zeitgeist 1665 3N - Monochrome Watches",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMkpoLXRwd3RlMm9fVHJtVEdLZmZyd2xuWjJLVjJDS1NJM2s1RTkxRVJhRHB4eU9CMjJERy1wTWV1cFNrNUFkeUltRWlWdTNfTWJJMG9mQVhRMnJQRjBmLWxIVkVoTGc2UlVlTF9aQnB4SFpwOHdON283MnNtWm9OOEg0Ujh5YV9hQTZINWRoaUdXb2lRTjZEQ2NYVHZXRHh4RWItYk1EcXBOOV9FUWRZ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

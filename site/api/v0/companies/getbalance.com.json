@@ -3,8 +3,15 @@
   "name": "Balance",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.5,
+  "score": 7.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Private Equity Legal Alliance Releases Insurance Defense White Paper: Defending the Balance Sheet - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcklpWkxCUjB3RjlwS24yU1lLVWpZQUFBZ01IZDVMWFZoc1dXb3BySzZGYW5aT04tWDlCSGtVeEFHb0ZxY3hwbW5vc2NRTVdnekJpWm8zcDhXdlVEYWhxLTFFcnJkX1N3RFdGVHM1OGlCNi01aHJYUlJDcHB6WE9ENjA0YjVwaGNVdnZzRWtONzBJc2pkUVlHUVp0UGE2MGtpcVRQZ2hrOEI5cVhwMjIyQm85aHVVRHd0Z1AyWEdYeVBSeXlTZEZOak43T0UxS2lpV185NHg3RjlHbURJNWFDNmxPS2x4ZFk?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

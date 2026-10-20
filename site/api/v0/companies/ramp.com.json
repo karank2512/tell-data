@@ -1,0 +1,43 @@
+{
+  "domain": "ramp.com",
+  "name": "Paribus",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 0.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-20",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/ramp",
+      "postings": [
+        {
+          "title": "Senior Technical Program Manager",
+          "posted_at": "2026-10-16",
+          "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4"
+        },
+        {
+          "title": "Senior Backend Engineer | Accounts Receivable",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71"
+        },
+        {
+          "title": "Senior Backend Engineer | Token Spend Management",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
+        }
+      ]
+    }
+  ],
+  "open_postings": 175,
+  "long_open_roles": 52,
+  "sources": {
+    "ats": "ashby:ramp",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "why_not_higher": []
+}

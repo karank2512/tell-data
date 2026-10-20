@@ -3,11 +3,18 @@
   "name": "Haven",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "New Haven Public School unveils in-house facilities management team - Yale Daily News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN3h3R1U1NlFXak40SjVkX3VieUlDaTBaeGJjbDZfb3I5a3RXdUJCOExXdVRTZEVacWVubnNWd3otS3U5a1BqMTZFUEkxcVdDQzRJWFNXWktEQWxrbUxlbFUtT3U2dUZCbVhhUm1jZDFVMmZoWkJ1Ylp6eDQ5N2RFX0NDWXdFcUxpUnhOdUhHdlgtOUhsY1pQRUhTaWtVd3dRRWRWdA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Inspector General releases preliminary report on Yale officer discharging weapon during incident in New Haven - WFSB",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPak9VMkxqUm1qTkwwQ2duMlZIdFJtdHRITjYzcG9feGxtR18xM1N0c1ZSYXhQbDJtT2dJeWVuS25zZXFFSjBOdzVobDd2VllQRktsamJIeTlqdmVYcDZVQWNXTmFadVRxcnZRdDF0bVFVdzI1WDhIdzVlTGlpVjI5b240cFZweHhBNGfSAZ4BQVVfeXFMUEh0dUltRERPcVBzMjZyeEktN29NeVVta3dCZUJ6LXNVYWZtWWFPYzRwV1ZQRVpVTUtuZTduM056Z0Ntb01mZGZNSFJIQVItaWpuSFpyQ0lyTGYtb1NJMURiWFpoNDVjZldWTVlTTVhYU0k1WHFqRjVMMVhMZmdRUlRRM1RTeHNmVl9yVnRhYl90aU10bGRSTC1GOWZlTHc?oc=5"
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

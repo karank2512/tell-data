@@ -3,8 +3,15 @@
   "name": "Parameter",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 37.5,
+  "score": 38.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Nvidia Unveils 120B-parameter Nemotron Super VL - Dataconomy",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVNjUGxUYzVTcF9GRU5ELV93emh3T21XQjI4dlFDOVlxMmlodURDUTBRVklyTEdiVFpTVGh3eDN6OS1iSDF2RWp5N2ZLbERsZlZDQ0Naa3NHRkxHdU9MU0dITHdfZjdCczV3ZXJqZ0VSMFhkUnJLZ2ZkdWRuanpqUUhqLWxjbk12TkE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -168,7 +175,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Liquid AI Releases LFM2.5-24B-A2B: 24B-Parameter MoE Model Runs Agents On-Device at 184 Tokens Per Second - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPblJLckpwWnRNWXNCSWtER3poOTdRNko3ME84MDNUQ2NITzJDVnEyQVFnWlExTjdxMUZxTTUxZmx6elpjWHQyRGg5QlRaQjZ0azdjalZMVXJZQkZ4T0RjQ1Nkd3M2b29kLXA1TmJSTnZwVUhEUk1Idm93V1pEd21jellNbWdkWUhiUzdINWF2dXZzenF0RzNnRUtwOU5NNndRUXVBeVRKTGNvVTdJZmZnVXV4bVRSekVDVkN2V0ExM2IyNVhrRHVDZ2lkT205Zw?oc=5"
@@ -202,6 +209,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

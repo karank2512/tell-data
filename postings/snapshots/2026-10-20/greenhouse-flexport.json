@@ -3,7 +3,7 @@
  "identifier": "flexport",
  "domain": "flexport.com",
  "as_of": "2026-10-20",
- "last_polled_at": "2026-10-20T08:12:01.971819+00:00",
+ "last_polled_at": "2026-10-20T15:29:26.046403+00:00",
  "open_postings": [
   {
    "external_id": "5745289",
@@ -319,7 +319,7 @@
   },
   {
    "external_id": "7921068",
-   "title": "Senior Software Engineer: Platform",
+   "title": "Senior Software Engineer, DevEx",
    "role_family": "engineering",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2026-05-26T11:11:41+00:00",
@@ -671,7 +671,7 @@
   },
   {
    "external_id": "8064123",
-   "title": "Staff Software Engineer: Platform SRE",
+   "title": "Staff Senior Software Engineer, DevEx SRE",
    "role_family": "engineering",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2026-08-31T09:42:43+00:00",
@@ -1479,7 +1479,7 @@
   },
   {
    "external_id": "8237073",
-   "title": "Senior Software Engineer: Platform SRE",
+   "title": "Senior Software Engineer, DevEx SRE",
    "role_family": "engineering",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2026-09-28T14:27:46+00:00",
@@ -1583,7 +1583,7 @@
   },
   {
    "external_id": "8256564",
-   "title": "Software Engineer II, Platform",
+   "title": "Software Engineer II, DevEx",
    "role_family": "engineering",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2026-10-07T12:53:37+00:00",
@@ -1591,7 +1591,7 @@
   },
   {
    "external_id": "8256566",
-   "title": "Staff Software Engineer, Platform",
+   "title": "Staff Software Engineer, DevEx",
    "role_family": "engineering",
    "location": "Amsterdam, Netherlands",
    "posted_at": "2026-10-07T12:52:54+00:00",
@@ -1628,6 +1628,22 @@
    "location": "San Francisco, California, United States",
    "posted_at": "2026-10-19T04:22:31+00:00",
    "url": "https://job-boards.greenhouse.io/flexport/jobs/8260171"
+  },
+  {
+   "external_id": "8263322",
+   "title": "Account Executive I (Farmer)",
+   "role_family": "sales",
+   "location": "Bellevue, Washington, United States",
+   "posted_at": "2026-10-20T15:10:00+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8263322"
+  },
+  {
+   "external_id": "8263332",
+   "title": "Account Executive II (Farmer)",
+   "role_family": "sales",
+   "location": "Bellevue, Washington, United States",
+   "posted_at": "2026-10-20T15:00:07+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8263332"
   },
   {
    "external_id": "8263427",
@@ -1703,7 +1719,7 @@
   },
   {
    "external_id": "8280926",
-   "title": "Manager, Ocean Freight",
+   "title": "Senior Manager, Ocean Freight",
    "role_family": "other",
    "location": "Singapore, Singapore",
    "posted_at": "2026-10-14T09:52:28+00:00",

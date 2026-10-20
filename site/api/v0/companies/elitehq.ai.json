@@ -3,8 +3,15 @@
   "name": "Elite",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.9,
+  "score": 8.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Classroom of the Elite 5th Season Anime Unveils Ultra Teaser Visual - Crunchyroll",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdU93UU1SenBxdWZva09hR3lFRGpMaUg5STVROHBrcGNPMGMyb2o5YzllVkVCMG1zUHZOUEVqU2lBeDBVTmhSazVXdjVTcVVuVmxEMk5DSGRfZ21ZQ21FTUlENnBrZEt3NlJOSnJxclBkSWdSNG4wUTh4Z1lWSkdRT3N2UlF6Qm1aZWZyTWxqOGlUS2Y1RUstUkI2U2p6VEhZYWFpVDY2aHZ2WVhPYnBHQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Glunz & Jensen launches Flex-Pro Elite - Labels & Labeling",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUxyYkNHTGdYdlVhbkg1SF9ZWDVzQWxCOUpTRHpHSmF2OWxYcUtPLWg1dXRnc0N0ZFBMQURENVB4X3lkVTV5d2lzbFZOdFlJUFFqczlGZ0NUV05XR3BQNE9FQmlXem5adXBUOE5jZ3JKNVhCZENCY0VXSlRVZ21YN0tCdDNPNFhIODI2cDJUTi00RE11aDJEcmQzN0c1V3Y1OUE?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

@@ -3,7 +3,7 @@
   "name": "Chart",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 16.6,
+  "score": 19.6,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-11",
       "summary": "[person] Joins The Beatles as Only Acts With 100 Weeks at No. 1 on Billboard 200 Albums Chart",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3l6aTREWmR6b3VIUXdmVWhOWnY0SDJVUWR0RWZoNTJSd3NVbFVpZTJrWEhTOWp2TXREdnRpMEhZVlFDMnk4UDlXQ0duWnBwZ0FuOHdJMnhzUHJSakJNaUZUMmNfLXpsdmJSRGxCWWpUM1Jlc2hsZk13VE14ZVpXYzZWb1ZlNnFKOGxVV3BoN1Y0NjBvTnBHSlpiZF85WXd5RXJ6UzRlMGxuOTNDbUJV?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "BYU Football Releases Updated Depth Chart Ahead of UCF Game - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0hoS0VVYkxwUC1xQnNrNko0cW95SUxvNXRhWEFvVDlBOUo4VTJyWHd6aGQ1cUdGQmdRZ2M2NEhqY2h3RW5wbDNJaFR2SVU0cUdMQnljb0lud0w2alViUW10QlFoVm5rSVlHR0RZbG5HUmZkTnZLUms4ZE96QkFRX1ViZU1hLTNUQVRxQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "BYU football releases depth chart for road game at UCF - KSL Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVRDWWhONXhyRUdKM3NZWTB0LTVsZ1I2a2dTRWNqdy1POXlMUGRSYWFPeVF3dDNzTTBaU20yRmE4V0loRmt1Um8tRjlMbkxuVjNpbGZiTjZWXzBHS0VMOVVyUGFXX3ZqN0tTNjRRQVdvTEotYkRsZER1UkF3eXZLUk1kaWpPRWdU?oc=5"
     },
     {
       "type": "launch",
@@ -97,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

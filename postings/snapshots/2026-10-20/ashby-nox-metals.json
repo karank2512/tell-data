@@ -3,7 +3,7 @@
  "identifier": "nox-metals",
  "domain": "noxmetals.co",
  "as_of": "2026-10-20",
- "last_polled_at": "2026-10-20T08:12:00.939873+00:00",
+ "last_polled_at": "2026-10-20T15:29:26.133841+00:00",
  "open_postings": [
   {
    "external_id": "0644b87f-af69-4ad0-a780-da6ca7c155dd",
@@ -17,7 +17,7 @@
    "external_id": "0e627355-4011-4aa9-97b4-0c33947703af",
    "title": "Inside Sales",
    "role_family": "customer",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-09-28T11:47:14.900000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/0e627355-4011-4aa9-97b4-0c33947703af"
   },
@@ -31,7 +31,7 @@
   },
   {
    "external_id": "2042e3dc-eaad-4772-9218-1d0ba5841d34",
-   "title": "Factory Technician (LA)",
+   "title": "Factory Technician",
    "role_family": "gtm_ops",
    "location": "Los Angeles",
    "posted_at": "2026-10-12T16:17:43.771000+00:00",
@@ -57,7 +57,7 @@
    "external_id": "2b25e0b0-0a4b-4a7e-855a-f35939d9ef1d",
    "title": "Business Development Representative",
    "role_family": "sales",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-10-11T20:51:48.052000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/2b25e0b0-0a4b-4a7e-855a-f35939d9ef1d"
   },
@@ -65,7 +65,7 @@
    "external_id": "38e849a2-7512-413e-a0cd-1919970194ef",
    "title": "Local Delivery Driver",
    "role_family": "gtm_ops",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-09-28T12:18:39.679000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/38e849a2-7512-413e-a0cd-1919970194ef"
   },
@@ -97,7 +97,7 @@
    "external_id": "5a414be5-66b4-4fcc-86e1-b19d8f529dbc",
    "title": "Operations Associate",
    "role_family": "gtm_ops",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-10-07T14:12:08.614000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/5a414be5-66b4-4fcc-86e1-b19d8f529dbc"
   },
@@ -113,7 +113,7 @@
    "external_id": "601b9b37-14d5-43c4-b6c7-f5f8bddf8f99",
    "title": "Customer Success Manager",
    "role_family": "customer",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-09-28T14:15:22.255000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/601b9b37-14d5-43c4-b6c7-f5f8bddf8f99"
   },
@@ -137,7 +137,7 @@
    "external_id": "7eca6478-f19a-4385-850f-74f5842cae13",
    "title": "Office Manager",
    "role_family": "sales",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-10-11T20:52:49.730000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/7eca6478-f19a-4385-850f-74f5842cae13"
   },
@@ -151,7 +151,7 @@
   },
   {
    "external_id": "8e884c86-5361-4fcd-a1a4-b35ac4ae76f8",
-   "title": "Account Executive",
+   "title": "Account Manager",
    "role_family": "sales",
    "location": "Los Angeles",
    "posted_at": "2026-10-11T20:50:15.940000+00:00",
@@ -193,7 +193,7 @@
    "external_id": "ad5ed9b3-b4d3-447c-ad97-7573fef883ae",
    "title": "Software Engineer",
    "role_family": "engineering",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-08-11T15:21:36.132000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/ad5ed9b3-b4d3-447c-ad97-7573fef883ae"
   },
@@ -209,7 +209,7 @@
    "external_id": "b8cdaba9-9554-456a-8c08-74711ca382d6",
    "title": "Operations Trainer",
    "role_family": "gtm_ops",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-10-11T20:59:35.676000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/b8cdaba9-9554-456a-8c08-74711ca382d6"
   },
@@ -230,10 +230,18 @@
    "url": "https://jobs.ashbyhq.com/nox-metals/d7ff8e28-3cf2-4794-a29e-7f73444fddc7"
   },
   {
+   "external_id": "d804fe1c-3bfb-4735-a1c4-f2a908705933",
+   "title": "Factory Technician",
+   "role_family": "gtm_ops",
+   "location": "Ferndale",
+   "posted_at": "2026-10-20T11:49:34.791000+00:00",
+   "url": "https://jobs.ashbyhq.com/nox-metals/d804fe1c-3bfb-4735-a1c4-f2a908705933"
+  },
+  {
    "external_id": "da5eb915-5b6e-4b5d-86d0-75499326c052",
    "title": "Material Handler (Det)",
    "role_family": "gtm_ops",
-   "location": "Detroit",
+   "location": "Ferndale",
    "posted_at": "2026-10-01T20:14:25.433000+00:00",
    "url": "https://jobs.ashbyhq.com/nox-metals/da5eb915-5b6e-4b5d-86d0-75499326c052"
   },

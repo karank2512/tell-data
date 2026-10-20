@@ -3,8 +3,22 @@
   "name": "Talos",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.5,
+  "score": 5.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Talos Launches Kalshi Event-Contract Trading for Institutions - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yOHZ0eXBHbVU4UUZsUG9PWmJiRWI4SzlfTVNQWWc4OUwyUU9MakEzT3M1Si1ZdV9YVmpadGx4MTliYUNTZVFZUHpHRXlyS0JReGtFMmJmVXE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Sidero Labs Launches Talos Director - A Resource Management Platform for Data Centers - NewswireToday",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPandVckllcHpYVEhCTDhtNFB4N0V4YUJjcWtyTFhxcFdiNXo2QUhqOG5McG5jQWlmcElQUmoyWmppbUo4aURqT1YxbVNBZEVDdjQxN0haa1JMeTBtc0JiTTl4MF82RjRsdU9wUTV5NUlqem9TOGE1bWo3M0FERWFjZTFGd09LNUVyUjdOSDg5dTJXMDdqem91T2YyMnhkVGlVY200M01OT2JGSmx6RllCZXczaU90bmtfMUZETGxCME96czdt?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -14,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.3,
       "occurred_at": "2026-10-09",
       "summary": "The Talos Principle 3 Reveals First Gameplay, Launches in 2027 - MonsterVine",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2bU1YbDVTWEI0NDdkc0NxbzBGaDhCeXNhRzBBbWVwaTl5ZDBQanlXeGNsSGQ2WG94OWdpMkViYnAyRTBQLXJVYXVfc2F0c01LeGloZ3I5M2dySFZwckdhLV9jbkVPbV9TS0Jsb0Z4am1yM2Q3OTJBYVVqbThDSjQ?oc=5"
@@ -27,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

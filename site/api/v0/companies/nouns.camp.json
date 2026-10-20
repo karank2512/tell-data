@@ -3,7 +3,7 @@
   "name": "Camp",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 3.2,
+  "score": 4.7,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-15",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeHFJcmtYYXNVRTlXZjRoMndVMFBoRkNDQzgzck5makV0T2FtTWhTVlhOYkZiRmNaTVlWWVo2bXNpVEdNN0Q2Y0FqTmp1UEVMYk02VF84RHZJMXdVMENPSmhzV2t3UDBuekFaWEZaeXg3QnVsV1NqUWZuSkljSzdGN25hRS1HZGZuajdvekkyQVliZ1JqS19xNXdWSXdsM1NGY0pCQzc5VjhjQU9JQkZ0aGI0TFYzMDFqVHktdWdoRDMwb0dKZnQ3OVlSUWJtQ2xBWXFR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Bend FC launches free camp for kids after school shooting - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaE50RGJnbnVpNFFGU3I4c1NkVXBDSDNmQUpBMUIxRUlfUUdWREhXR1RYNzdyNGhOTEpnWENGa0g4cEhGUElKX3htTTE3cWpZWFRNa044XzJSRjk1RVpqTnhRQ2E3YXlUNml6RElEenRHS3VYakdtUm1vakx0M3E2WlVIRVZOZm9uSzA3aGlWaw?oc=5"
     },
     {
       "type": "launch",
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

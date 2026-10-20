@@ -3,7 +3,7 @@
   "name": "Alpaca",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 30.2,
+  "score": 32.5,
   "contributions": [
     {
       "type": "funding",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-14",
       "summary": "BingX launches US stocks, expanding their Multi-Asset Ecosystem with Alpaca",
       "url": "https://alpaca.markets/blog/bingx-launches-us-stocks-expanding-their-multi-asset-ecosystem-with-alpaca/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - Al-Bawaba",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnJySzZhLXo0bGdUSnNYY2poSlUtVEJxSF9FUFREY0FtSVBSRTUxV0hDU2ZERkM4NGY3OXdieXgyNUVVNGdmSFR2YUdrMHJkdlQ2cW8wZXd6TkI1WXU2WWdNaFFKMHBUNUZSSW1uSnprTFlnTEZSUFBuNUJaU2dJSXA5OWh2Y2RIOTZmNA?oc=5"
     },
     {
       "type": "launch",
@@ -76,6 +83,31 @@
       "url": "https://alpaca.markets/blog/upstox-launches-us-equities-trading-through-partnership-with-alpaca/"
     },
     {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-20",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/alpaca",
+      "postings": [
+        {
+          "title": "Full-Stack Platform Engineer",
+          "posted_at": "2026-10-16",
+          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6226254004"
+        },
+        {
+          "title": "Senior DevOps Engineer",
+          "posted_at": "2026-10-20",
+          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6186916004"
+        },
+        {
+          "title": "Staff Software Engineer - Platform",
+          "posted_at": "2026-10-20",
+          "url": "https://job-boards.greenhouse.io/alpaca/jobs/6229457004"
+        }
+      ]
+    },
+    {
       "type": "launch",
       "contribution": 0.9,
       "occurred_at": "2026-09-15",
@@ -125,13 +157,13 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
     }
   ],
-  "open_postings": 77,
+  "open_postings": 79,
   "long_open_roles": 16,
   "sources": {
     "ats": "greenhouse:alpaca",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

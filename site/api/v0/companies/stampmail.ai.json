@@ -3,14 +3,28 @@
   "name": "Stamp",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.1,
+  "score": 7.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Seoul launches stamp tour linking downtown cultural attractions - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXZ0akQ2WTk2V05ZcjFlR05zYnVDeVlBTDZqZ2V4U0Vzb093Yzc1bmxUNU9RdlZRYlVRNTBaQWRLWnhOSjBjalBvYzNjeWxCcUQ0WVJyX1VYa1dXNGp5Yi1ERV84TXBORjA5NHNFeVRoUGRUcGdfQWZsX1dGRkNObFRCakJxWjBBdXQ2d2xQcXlFNlFFLXBWTnlqWHk5X1I1bmhMSzFOUDktWDVhdS1yMWdvTHhPQjZlaXVtM2o3SHhhTlHSAcgBQVVfeXFMTUpZWkRyaE9mWWs4Y1lxdHNZMkJ5bTRaVDFPSF9vVXQ3Zy1ubHpETEJMSl81MXotMFBMUDRqeUhUWEhKVm9iUXBkYlhBZDdFRGp5YWc4OW9uRzRDakxNaWE3eXZWZUVwREZGVzhRUF92dlplWC1ZUHI1VzN0SHhvM3ZWWVc2N0FqX0NMVjNNSF85TTVqM0czQXZleDdFdnZTV0JhdEp5bkZSTzRSdGJQMFNyZ0NkMEF5d2VqcWJGMTNQUERfamN5ZEo?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-19",
       "summary": "Canada Post unveils Diwali stamp celebrating the arrival of the Festival of Lights - PR Newswire Canada",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOV05TNU9KNVpXNFJhdmJ1QkF5elFRS0k1X09xdG5tLTI2a3dVZWJKTEVPTy1pRm9wMGRqb1NGUnRjVWt4LU11NnF5RTROUVBPeWhxeUlETFk0VjhMcEUyRi14bl9JakxiMlRLdmYtQTd0UXB2UTVQRkNOakZoYkxsWjBqdUR5TUdKSDZzcU1IMjR0azREb3lXcGtXSUQwMDNaRjgxTUowdnVreDhhNW5LRWtxd213dVJhRXI0anFSczEwMFdsMG1GTDJCMllLNTNM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Canada Post unveils Diwali stamp celebrating the arrival of the Festival of Lights - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi1LTTh3Y09iVXF5bGwwckFXaDlRNDVtU3RxeDhOOWJxTjFQd2puTkNSNFhtRWg1eGNxcG10LVdzNzJhaXVYRktPaWVzdjFRcEVwWDZJZFYxTjdLZEhRdmw3VnpUOHFlaWRhQU9GY1Brb0FoZmh2MGU2eGZUMGpYWUJWVzluZTZXZlY4U01sdzgwMERURnVSYzZkSTZjYmZVUGc?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

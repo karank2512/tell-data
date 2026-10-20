@@ -3,8 +3,22 @@
   "name": "Titan",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.9,
+  "score": 9.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Titan Wealth launches financial planner academy to promote diversity - International Adviser",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOREpGckxSb2VHaTNNSFlTLThtTDhGX0FZWnFabXNwZF90U0p1Vy1YZjFwNnE3RWYtbHFCR0RZYlczRFRzUWlxVVNNLWZISWdraWlGaDJqdVA3a0o0MklQeEJmWXpBRjVsbnRCaXozbk1rWm16T3QyNmZVT3FnV3RiOFBqZHJXdTZZWHBmRnAxWmx6U2d1V1NRODNkYk1RcUktbkxGdG1oMTlULWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "EcoFlow introduces TITAN series for residential backup power - Solarbytes",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbzl2cm14Qi1HcklfZlhQUjl1VURkaS1UR1IwUTRHU3g3Y2ZnblRpcWs5cTNSVnk1Yll1NWZrUzVPa3Fadk4tTEktX0VwOFhwNUhuNjNsQ1BWVGYwbHMwS3Zla0RiYVFlOWdrTnpoSzd5UG1zNDA1NXVFSkFWY0YzMkR4TFlsS2FUZ2N4LThIUEFJOW5XMVBEbm9JSlk2S1NFdkpGR0NQRnh0Tm9QR1pRZ3Fta2hiMnhtQUJod0ZoV2lfYzZGYkxnWA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "EcoFlow Debuts TITAN Series, Bringing Whole-Home Energy Security Within Reach of Everyday Families - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUFyLXdVYzVreGM3bmhIT19pU3hja29YUWVxTUlfeTRMSThzaDV6Y1RIRHRSdkdVd2l3X1ltRHh6dmljNmFiblI0ejI2VTVheW1wVEVhZlJCSDlDajZHZEh5YjB4dzRRcHNzenlwbE1kWHdLNnU3Q1pKeTVoUjJETWk4V0Y4TmZ2M0s3eVRtOVZpY1RpdVdUSnMtcVVzcDI3N1A2MC1wZnV1UEFrSHBXM3lHaUdsc200V1BqMTE5RS1TNlpNdXg1MS1DWGVaS1FRSkNHa25mQjI5UUIwSnpXR19seGJ3Nk90?oc=5"
@@ -48,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

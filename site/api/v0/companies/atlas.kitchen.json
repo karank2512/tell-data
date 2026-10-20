@@ -3,8 +3,22 @@
   "name": "Atlas",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 9.6,
+  "score": 13.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYV9ncFhvckZrbUxlNWJfTk00VmVicTg1UmE4cFVNa1pKZXNvNFROVm9taFBZQmpyWDNKRkZvUnBXWkRlSGIzY2phOWpTcHNaZDJxR28tRVYtSUwyUlhDcE1PMVc0b2s0dHVaSURyOUhyaC1RcFBqTUJkRzByQnFyQ3BSVEE1WEFqaGtvSlpUR19NUmJ5UFJwV2NVNFZCSGNjT1hXbXc5YmtEZjkzRE1xQ3l1cXZVZDNFb05uaA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Intelisent, A Division of Marketbridge, Launches Atlas Business Insights Studio to Help Direct Mail Teams Turn Postal Data Into Better Decisions - WBOC TV",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOQ2hCRWhkdmxxMUo1MHExQUV3SDZGNS1SbV9Ccmljdmk3THo1bXYwbER4V1I1SHhtZ2VKSmhiajhOejZnZldSenJhTThvdWxPOWxmRU9ETjhjM0p1X1AzUU9scEFyNUc3dktMb2stTnBTcVNvZmoxWk5leHRYN1EwLWx4TzNUZFRtcGhZSTNfekxMb2R3N01HSGpETHVFWFFxZjhLRm9yZGVuUkpjTjJXZWt5NG9NTzZXbS1CQ3FkZTVKWVNldmZ4WGd5X242LU1tSWhhMGV0cl8wQjA1eHVDWWtScE5GX2ZHMUtYeXFSMmVmR25rMHZ6SEJrcVFoLXdYbkI0emFycWhaeXJSTjJJVTczTnBTcFlleWM2MEwwcEN0Q0R3REoxbHFFWHlTQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -62,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

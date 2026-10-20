@@ -3,7 +3,7 @@
   "name": "Dodo",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.9,
+  "score": 8.3,
   "contributions": [
     {
       "type": "launch",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-15",
       "summary": "Colossal Biosciences Unveils GenoMorph, an AI Tool That Has Identified 2,300 DNA Targets for Dodo Reconstruction - colossal.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1USVUxMW9KNjR1NEg4YXZneVRXbTM0MTFpVDZsRkJYdUNGemJQX2o3dmRTWkJxTDFDRmM4Q0FrVURvOFUzTWpnSEFLTTB0TkV4dl9zWnN6UjMtRFUxc292cUE4dEUzVW5PcHlLQw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Colossal Biosciences Unveils AI Platform to Accelerate Dodo De-Extinction, Identifies 2,300 Gene-Editing Targets - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzJzUGtNTlBpS2hlc2ZZYjZHVkU1NjVqdlF5U1RmTmlVZHlJNGljNG5OV2RWd1VjSl9LVDF5Mzh0ZDBiTjRnNWppcmlfZExkdUVjck5yZjBzTW1YVXI1MzdZN1BPLU4zNExNUjAtTGotem1SeUJhblFEbm9yMmc4VzRLdWFjWHNYclp1SGVTekloMERuYk5xemhtSWk1TWFQSFZTdEptSkt6N1E2SHh0QkZFWUg0eDBTcjUwSm9aMzM5OFJHaDJlR2ZnVy1pRGhV?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

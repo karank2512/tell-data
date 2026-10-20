@@ -3,7 +3,7 @@
   "name": "Within",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 9.2,
+  "score": 10.7,
   "contributions": [
     {
       "type": "leadership",
@@ -31,6 +31,13 @@
           "url": "https://jobs.ashbyhq.com/within.ai/a920fbfb-598a-4347-8353-796b726e7631"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Trump launches women's health division within NIH alongside Melania Trump - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFJRUWRWZ21XQXpIMDNHNUxocHVnRnRfMlJ2VXNRcWdOajhlLVVsR2RrdW4xZ3ZCMHRTY1lEOEtMc1k0dnhUZnZXQUo2OUNsb01GX3pVVmJmUnc1eVRtOFBTcHU0a01vTFBKQmhFNEtVcWZfcXJkZFpOWDlpQUNIZ2JQRHZxZw?oc=5"
     },
     {
       "type": "launch",
@@ -68,6 +75,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

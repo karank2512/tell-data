@@ -3,7 +3,7 @@
   "name": "Matter",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 5.2,
+  "score": 7.9,
   "contributions": [
     {
       "type": "leadership",
@@ -22,6 +22,20 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Introducing: The new Formex Essence Ceramica Dark Matter Redshift - Monochrome Watches",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTlN2cWN3ZHF2X1doZHV1WHA1bHhhN1dsNjk1UXZXUl90Rm9GZV9HSFVLYjRFTFcwcFJEczlNak9aSE9HclFpNVFlVGcxZzUyU0R1ZlcyZFRITjVFNkxwRzRPdDMwcUwwWEs5aFU4LVZMX0Nqd0cwenJrSy15dFN0OXk4Z196MTktLS1xTUZSNDVoTm1DX01zNmZRRWlTRXFQeXdudnJFVHEycjFOVzROTDRmRC0wa0tLRENINl9mdmhwa1VxeDRFOC1PTmJ1TXBDSjF1NQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "Shelly Unveils Presence Gen4 Sensor With Matter & Multi-Zone Tracking - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHlyc0F4Wk5qVlVPMjZYclZyc3ZBNnZvMEpLbVo0NTBsd1dLNVRDNDVxQ294MzQ2aXFXV3lGaTlzRmM1VGpuUWYyNEY0U3IxNXpObk0yd3Y2ejVleWZFeHhWa3FRX0RackJfTkJybkVyaUZYYjgwcmplaDhUb2J3bVJqYnhqRlhhXzF3RWNmS0dlTF9JSzQxQllHOXg1WFNFQUtUWU5Yd2FGUkMwSUdJNy1wMVd6TDJ3Z2RHVg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Apple Unveils New Home Collection With Matter, Thread, Aliro Support - Homekit News and Reviews",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQazE0bWQ0VjNQRVozaUdOdi0zelhTQWkyUFo1RE9jaW5Zb3F3MS01dHlYS0V0SkJSWm1ZbkVFUHlfZWVMOUJzN3ZQNXh0VEJUcktDS1ZxRDY4NHZhaUNoUVR6RFZobDB4clh6TmItcllWNTNDODNlZWk5QUtncTBZT0IxNHp6WF8xQ0doVXNDOWNCdENWaEJHOS1ScFRJeG40SlJ0dw?oc=5"
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

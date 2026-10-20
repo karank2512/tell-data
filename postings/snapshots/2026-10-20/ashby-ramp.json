@@ -3,7 +3,7 @@
  "identifier": "ramp",
  "domain": "ramp.com",
  "as_of": "2026-10-20",
- "last_polled_at": "2026-10-20T08:12:00.939873+00:00",
+ "last_polled_at": "2026-10-20T15:29:26.133841+00:00",
  "open_postings": [
   {
    "external_id": "009dc18b-26a3-4fac-a773-c60d742cf840",
@@ -356,6 +356,14 @@
    "location": "New York, NY (HQ)",
    "posted_at": "2026-08-12T20:22:32.685000+00:00",
    "url": "https://jobs.ashbyhq.com/ramp/4745807e-82f4-4b1a-857c-dc8dadc73076"
+  },
+  {
+   "external_id": "47a75895-24af-49b7-9858-1be0ec0e7c71",
+   "title": "Senior Backend Engineer | Accounts Receivable",
+   "role_family": "engineering",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-10-20T13:26:07.649000+00:00",
+   "url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71"
   },
   {
    "external_id": "4859cd5e-f2a9-44d7-81f7-8bfc0e62369f",
@@ -996,6 +1004,14 @@
    "location": "New York, NY (HQ)",
    "posted_at": "2026-07-08T14:57:40.553000+00:00",
    "url": "https://jobs.ashbyhq.com/ramp/b68aca53-16c0-4ced-ab1d-e8beb2940b4f"
+  },
+  {
+   "external_id": "b7514711-8a29-4bd2-a97a-967be14e336f",
+   "title": "Senior Backend Engineer | Token Spend Management",
+   "role_family": "engineering",
+   "location": "New York, NY (HQ)",
+   "posted_at": "2026-10-20T13:40:20.264000+00:00",
+   "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
   },
   {
    "external_id": "b9568fb8-a47e-4738-87fb-a6d88c3a505f",

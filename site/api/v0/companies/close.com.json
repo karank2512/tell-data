@@ -3,8 +3,22 @@
   "name": "Close",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.1,
+  "score": 4.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Just Women’s Sports Launches App To Close A Fan Utility Gap - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLU5MZFVtZmtiRDNQYk5kcTBOOG90U0g1TlZLWVpmQVkwTzZnT09YSDFsNXlGdzJWRUZzLTUwSU1VUkZOTGVPNU9rZWVTWkpQeVhhMTZoNThBVGRJd2RzRlFYVXpSaEQ4dkJqRDFBbkdob0lxc01hU0dUUnAtZlFZNVVvbTJqRl9fd0dQQ0xkWFRJRFRCZzJVWUNsSzRlU1A2RXAxMEo2R051ZEtsalFYMVJR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Introducing The Close Up: the new culture show from Guardian Studios hosted by Carys Afoko and Lanre Bakare - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVlBxdzBfWWFDdjREM1hMQ0g1eC02V0E5dDZlcHl5bHJDNllYcGNFaTRjR3RTQ0xwakJyUzNPWDRYWjBFbldjb1hXSkk4REZwazF1OTlJWF9sSVh1TnVfcC1pN1VUWURaOTNMYkpWaS1sMm1BSndqWmlnU3dhSkZ6WHkwYUI0OEVwcFZfM3dVR09qUGlIbE9Wa05iRXczRHIzbGFiV21hOXBVSXowbjYzT1BNZDVucS1zUGQwaTNGb1ZuWHJOQ0M1NUxhZHFNNWdJYmJQQzd3Q2c1MWQzOU5yaTk5TkQzYXdrTWh0N1EyTElmYjdJakE?oc=5"
+    },
     {
       "type": "expansion",
       "contribution": 0.9,
@@ -27,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

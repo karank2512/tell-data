@@ -3,7 +3,7 @@
  "identifier": "alpaca",
  "domain": "alpaca.markets",
  "as_of": "2026-10-20",
- "last_polled_at": "2026-10-20T08:12:01.971819+00:00",
+ "last_polled_at": "2026-10-20T15:29:26.046403+00:00",
  "open_postings": [
   {
    "external_id": "4431262004",
@@ -358,6 +358,14 @@
    "url": "https://job-boards.greenhouse.io/alpaca/jobs/6186861004"
   },
   {
+   "external_id": "6186916004",
+   "title": "Senior DevOps Engineer",
+   "role_family": "engineering",
+   "location": "Remote - Japan - APAC",
+   "posted_at": "2026-10-20T11:33:25+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6186916004"
+  },
+  {
    "external_id": "6186981004",
    "title": "Global Settlements Associate 1",
    "role_family": "other",
@@ -620,6 +628,14 @@
    "location": "Remote- Europe/ Americas",
    "posted_at": "2026-10-16T01:08:27+00:00",
    "url": "https://job-boards.greenhouse.io/alpaca/jobs/6226254004"
+  },
+  {
+   "external_id": "6229457004",
+   "title": "Staff Software Engineer - Platform",
+   "role_family": "engineering",
+   "location": "Remote- Europe/ Americas",
+   "posted_at": "2026-10-20T14:14:21+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6229457004"
   }
  ]
 }

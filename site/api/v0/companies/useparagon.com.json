@@ -3,8 +3,29 @@
   "name": "Paragon",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 8.3,
+  "score": 15.7,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "Paragon appoints [person] to lead specialist buy-to-let lending",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWl3QmFVUkdvdHVpdk45Skxia3N3dkl1d2VIQTNNdFp6RE01VWpldUhrcmNzOC1tY0tEc1lUU3EwMEZ5RF9IT2xVNExrS2o2Z0ZtV2draG1vRXZXQU1ob3Vfa3RCMVhZcXVMaXVUNy1SYzcxUUpYeUVWSlZpRkk0c19lclRuNHpYY1Zoc04yai1laG5D?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "Paragon promotes [person] to mortgages head of specialist lending",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdTRVNzRZRHd3V3hJbGhhb2NyNWVwcW1TSFJ6WlZidm5jTFdQdS1KbzVOb0NTbThaNlVBVjBoSmdUdUxFZlhVMXZETS00cnNLRW5CSHF5MlZFLUttMGU1RFV6eVNiQVQ0OTl4UVpOTEFCSnNmTGZmYW5iWXVKcXNlLXZ4QU93T1JUSmx1RDhtMHNiZEstOFJtbi1ORWVXZlJpLTRTYldMMHpDSmZ5TmV1aUgzSUJmSnBFYngxbWRFcUgtMkFlekRqUjFLYVFtcFpNck9wNkhBVzlIX3hnZnl1N2Q0QlI?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "Paragon Bank promotes [person] to head of specialist lending",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOejJCRXhDb1NnMndvV0lEeTJkbEM3cV9qZGFYZHQ0Q3NFNWs0WFFIQkozM1VpOHRjbm5iNEo1WlJONEY5cHlkdDR5WjU0cTVZQTdmOTRFYWozbUhUOHJHNWtGYmMtMlR2RlF2eW5QMk5SSm9BeEtOTnNHdUFlTDJJbGk4dE9aMWV0bU5IaVIwLWloLVNteDhfVHpxeGNHSWFUeFJTZnQ4Z18?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -21,10 +42,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "Paragon Finance appoints [person] as Addl. Director",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWHhvdVl6Uko2eDExaTRUVi1INEptR3d6QWhkaEFzQTRnOUpBYXNkYktyRnBra2RURmxUVktaQmt0QzkwTVhRVGRxVFBHNFJLYkduU296cGdtRHNiS29TU2h1cWhZSVFLMkJpTjgxSFEwa3dBdl9tRTh1R0FNWFRrN3JYOWEtTEw2ZHFnSHdXRGcwLU43OGhZUGFUM1B3TFJLb3p4WHNR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Paragon Studio unveils In-Suite collection - Sleeper Magazine",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeElHM2hCd0JjdUJWR3E5STJxSWg3alhtbzdBRXRKc1Iwel9BZk5rOVVYak9EdEp2dmhrWmRqcnYzbVVWRXNzME1WckVubmNxZ1ZIUVM3dEdyTUVTeWJGZ1VvcTZ4VmxnaXB6QkhNQ3FNTlNmWDZUTElueGRTazB6QndtVXZ5Y1l0U1l2alBLQ3JZY1NpeTFF?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

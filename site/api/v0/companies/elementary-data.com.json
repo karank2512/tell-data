@@ -1,0 +1,25 @@
+{
+  "domain": "elementary-data.com",
+  "name": "Elementary",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "U.S. News releases 2027 rankings of Alabama elementary and middle schools - Alabama Daily News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3BXQVRxVVBMX05qU24xZlY5U2V4dmtXWTRVQVBOUU5qVzAxS0I2TjNJUjEwRnM1OVZ1TktTNERmREJQVFhFUUJRRDlWbXpBSjI0MUFQdzYxQzJJQ1FUT1k4R0Y2bVQ0WjgwcUVmMV84V25YNjJZc2pJTktjclhfQXVWVkF0aHhMSHNMczhnWlN6Y2NzR1VWeWtITzlVQQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "why_not_higher": []
+}

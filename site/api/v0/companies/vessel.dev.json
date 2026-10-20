@@ -3,8 +3,22 @@
   "name": "Vessel",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.4,
+  "score": 4.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "DIU unveils next phase in unmanned vessel competition - Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFNSdVZudWlFQkRFU3ZQT0JpQko0X2NpYWRyUDRBbnpyWXJGVDVwOVUxN2JBd2duSWtTRG5hRVQzM1hIYUh0UzlSWDRVR3ZBTndCbWRnZkV0UFZ4aGJDRWhCcVI3MDlqWDFkTGlPX25FdGZXOEJEdFVMZjhfV1QweDZaTVNJWjNsZzk3aGRqSkl1Y1lF?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Ukraine introduces compensation mechanism for war-related vessel damage - safety4sea",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWQ2cm9DNUNGb25mc3NsSlhQWkdqbXVDZ252VFlzYllIUFVXNXVucy1QN3ptSzZtOFpQMzlPdWRNSEdVN2puQTJFZkFUeG1yblVHM0RibFl6b3hyZFpqMDh3UjRVQ3dnbHd3NlRVZTI3RDVyc25GMC1qWnJRS1h3cHozOVcwN1oyTU96UHVRTWhhc0NqaU1RNThLVQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -20,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

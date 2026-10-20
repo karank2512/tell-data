@@ -3,8 +3,15 @@
   "name": "Dropbox",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.6,
+  "score": 4.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Orangedox Introduces Document Signing for Google Drive and Dropbox - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTF9hUHpjUDZyT2VmbXJCZ2FZWEtLaXFBaG9uMTM5R3ZlNTBNU01hT1VSY05JX0d4SEljUmVYa0pxU3p5bGtfZkYwXzBFTmVGQTh6X2ZCb1ZHaEpkWEhGQmlRZDlQc1V4SlVVQURmaEJzX0MxaHQzd2tZbzhlQVRkUE9jTTJIUlhvUHVYSWlyWHdyU0ZzZUVUZHJPdV9SeVFFT21oem1PdkM2R0pvOUZZbDEzY1Iyd25Nby16bFdR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -20,13 +27,13 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREhxNmpfclZsNGF4SFppMnNvNTZhNi1TMmIzU0VaZ2VrRFJaZUV0cGI4VVVoRjd6Q0liSmJFRTQzSWtxSGQ4Y2YybTNBQV9jYWh2X3FmcnpwZ0JhU3ZfRjhNcUo1eWoyQW9VTWRTZlgza3RwU2RjaEppZmNOaVpZQ3ZxTGtpdVFtbHJMOG5YcnBKWjdDMmlqZXNlVm1pUDJQVmM2c1Ziam9iQlFlb0Vncm4xRDQ1QWY2WEdOSllxQlFmd24y?oc=5"
     }
   ],
-  "open_postings": 34,
+  "open_postings": 35,
   "long_open_roles": 4,
   "sources": {
     "ats": "greenhouse:dropbox",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

@@ -3,7 +3,7 @@
   "name": "Catamaran",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-19",
       "summary": "Hooghly Cochin Shipyard Launches Sixth Hybrid-Electric Catamaran for IWAI, Boosts Green Water Transport - Indian Masterminds",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1dBcHZRYVRXbXp4MW1TZGE4SDF6dUl2RUFweGFQblNyQzRHVFlzUDlKNlBKR2pya2YyVUY3dkdXTl95QnBYSURSd1JuVHBIOHdvZE5lOG5DNTZvdXctRzBWN1pFVDlTbW5WQjJOQ0ZfYXJPc1Y4d1Jtd0RncTk5c09PTS1hQ3FueTR1Um50TFlJbnN3ZTRCSjFBa0g3dWg3SmxVYjVnVW1vbmlnNVY4ZEozOGRSeF82RFE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Hooghly Cochin Shipyard Launches Sixth Hybrid-Electric Catamaran for IWAI, Boosts Green Water Transport - Indian Masterminds",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3k1T2JNcTlHdkZWOThVYnlYNTJCcEp0NEtRMXU5YWxacnVOckV3RzZfem5QOVVPdHhTX0pxdlVSVjdyYWNWeHBWUmFIZFp5VnV0SVotWW5BZHAxR1dnQkdKT2ZoVHBwV2thcjRKbHNOb0ZRS1B6ZlhWeWt0cHlzeUpkcVQ0ZTlQbFZOUGo4Q3JHeFMyRkFobUVjQ0NmcmxRd2g2TWVwSVo4cnBOLVE?oc=5"
     },
     {
       "type": "launch",
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

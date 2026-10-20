@@ -1,0 +1,48 @@
+{
+  "domain": "hightouch.com",
+  "name": "Hightouch",
+  "as_of": "2026-10-20",
+  "profile": "default",
+  "score": 4.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 4.0,
+      "occurred_at": "2026-10-20",
+      "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/hightouch-inc",
+      "postings": [
+        {
+          "title": "Solutions Engineer, Lifecycle Studio",
+          "posted_at": "2026-10-16",
+          "url": "https://jobs.ashbyhq.com/hightouch-inc/c6b43a48-ba7b-4bd1-8865-73b255f3aaea"
+        },
+        {
+          "title": "Mid-Market Account Executive - Central",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/hightouch-inc/c5c83beb-2544-493c-a0e7-8ce7cb8fb915"
+        },
+        {
+          "title": "Mid-Market Account Executive - East",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/hightouch-inc/f933c2f7-d483-4c83-8003-20e2beb75726"
+        },
+        {
+          "title": "RVP, Enterprise Sales West",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/hightouch-inc/516edfb5-9a94-4742-a2f9-586e601b3c58"
+        }
+      ]
+    }
+  ],
+  "open_postings": 88,
+  "long_open_roles": 52,
+  "sources": {
+    "ats": "ashby:hightouch-inc",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "why_not_higher": []
+}

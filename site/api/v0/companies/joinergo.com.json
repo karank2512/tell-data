@@ -3,8 +3,15 @@
   "name": "Ergo",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 9.1,
+  "score": 13.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-20",
+      "summary": "Ergo Insurance appoints [person] as chief distribution officer",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1dtRFdWakE2YkRUZnlrSDB5SjZCZlJVa3BJTURtRjFwS3gtWUdQc3AyZnExOWRRWDVoV01IYmNvLThxYlN2OURsQ2ItbDh5b3RzRkZJZUUtcFhiTmVYTEFNS0VNYlhOWkpXMHhMVGpXakUxeS1XbEJvRTFFLVExQk43N1ZHT0xSMUNGY2FIU29YdmhNVF9MNlhsZjA0cW1XVWVOYmpDaG93dUE?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -36,6 +43,20 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-15",
+      "summary": "ERGO NEXT Launches Property Inspection Tool - - Insurance Edge",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFNjWVhOa0lQV3VwMmdheHB1el8tWVdpNjNUVVVxRzF2QlZnSWdfdmU0QVZkdC1WZDNFSndvMi1WZURNdGw0N09NV0xDZ0I3OWJTQzNKTUVKMjNZVTIxU08zV2h5NFE5OGtXd0VBeW9xS25zUzVqZHU5MGtWdmxLaWpGZXVQaVVMUEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-14",
+      "summary": "ERGO NEXT Insurance Launches AI-Powered Property Inspection Tool for Commercial Property Insurance - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORUh2el9xSjJqRUtKaXh4QjQ0UlNDU0ozZDRWSnp3VjhTd1FFREk2R3hDNXRYUzV4eXIyS0FEUGZJZzhNWGU0Zm5ib28wN1hzOUpjMFVaRmUyeDloNzh5UkdiajhNbm85Z0VHNFlBWDN2YXJabzNJRWlIanJ6anByY3lNWHVRcDRiZVl5cDZPcHZOamRyVl9pUm1LUXNNNmhRN1dpZlYxQTdWck1kMEdsZ0ZNRGh5dDBwOTRZU1BESzQ4ZFpQNHlYUm5JSlpRMTBCbktsV2o5amdsN3ZWblV6N0ZMcEJRc1ZzRGRHNjF1ZmVnX20yYW9OeklJWm51SVRXa2JaazhHUdIBhwJBVV95cUxORUh2el9xSjJqRUtKaXh4QjQ0UlNDU0ozZDRWSnp3VjhTd1FFREk2R3hDNXRYUzV4eXIyS0FEUGZJZzhNWGU0Zm5ib28wN1hzOUpjMFVaRmUyeDloNzh5UkdiajhNbm85Z0VHNFlBWDN2YXJabzNJRWlIanJ6anByY3lNWHVRcDRiZVl5cDZPcHZOamRyVl9pUm1LUXNNNmhRN1dpZlYxQTdWck1kMEdsZ0ZNRGh5dDBwOTRZU1BESzQ4ZFpQNHlYUm5JSlpRMTBCbktsV2o5amdsN3ZWblV6N0ZMcEJRc1ZzRGRHNjF1ZmVnX20yYW9OeklJWm51SVRXa2JaazhHUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "ERGO NEXT Insurance Launches AI-Powered Property Inspection Tool for Commercial Property Insurance - SME & Entrepreneurship Magazine",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDA1U2hKSk1LcmwzNHlxVzRZc0gtbEJ5UmVZdHFmbHlobDFOZWVsZi1vWDhyeVlkelFsVGlnaTAxcV9ubUZ3elFXZnVUY0d1ZlBjSk5qc1RyMVpTNXdGalpCTl83Z2Z6RUVTSml0b0REem45RFJXaTY4NjE0WnloaWRYbURtUC1sOVhCU2NabVBkcGJ1TzVQU3pOSlQ0bk5JV0RhQVZxNFJaODRRLXktTDJyTUpiOWc?oc=5"
@@ -55,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

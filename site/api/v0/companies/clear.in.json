@@ -3,7 +3,7 @@
   "name": "Clear",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 4.4,
+  "score": 5.8,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-13",
       "summary": "Cboe Clear Europe appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObVAza3c4SGdXNG43NlloNklnV0Rra04tNWo3eEZCZlJCSVhhVHhQQUNTQWdSZGVaMDJBRHAxSFFaS1h6SjVkeWNraUJpYWcyaHlHNzQ3bmo5ZFBici1JajBjYXZjVm1EeDYzQ1M5SXk3ckdCV1E5cVFRODdMNGtrQXlJaWlYM1VzNFV1akRZRkR0ZmY1cW1UdVc1bWlHS3ZiYi1J?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-17",
+      "summary": "Steve Hilton unveils plan to clear California homeless encampments by 2027 - cbs8.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1VYM3l2dk9sb2pmT2tNOV83NFp4ZE9kbWFFRkdRUjM5VkU2SmJzamFNejdHOUthT2hVSEFBX2dtS1BFU0JRWHdBZWg3LUlESnZsUHpEb2ZrekFLMXp0LUNTdS1mNldpdEpwcURRcS1IRVRKbW1HTHlJSlI2b1hQZ2JyQ09NZFhjV0R2Rl9qMDBYM0VXVGhxVWhYZXJNNk8ya0JMWWgwMXFBTUItNlBxemQyOGlxODZSTk9BcXhUbExuQXpGMEFWRjVTUnIxeWNsMGZ1ejFB?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

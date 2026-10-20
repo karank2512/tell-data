@@ -3,8 +3,15 @@
   "name": "Café",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 7.9,
+  "score": 9.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "A frightfully good debut: Black Cat Café unveils first theatrical production - KOKI FOX 23",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEZhRm9Hamp1RzVrRUY2NXNMSWR3eHlLQUZzcURYNnVSenlNRWkwYVFkS0JZVGdGdjQxZUR1OWY2azZfcTZEbTFET2JVMXhLaVU3bWsyaG1MalM5Mm1qLUpPVW9zay01Rjd4bEZPZmdrTHVsVzZTUW1yNGxBaUw0R0JuMzhSTEFhQ1ZhbUtlQlh0RDlvbDRnV21zbDBkNHhyVzBvQTNOOEp5cjRlQlUyUDV4T3U5UQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

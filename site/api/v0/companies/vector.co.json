@@ -3,7 +3,7 @@
   "name": "Vector",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 19.1,
+  "score": 20.6,
   "contributions": [
     {
       "type": "leadership",
@@ -64,6 +64,13 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "W. Darfur launches vector control campaign amid rising mosquito numbers - Radio Tamazuj",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTk2RzExalJDQWVSYlJidURpQVQ0bjJUZHlYQngyc0xkN2xKcEdwek1xWF9LVmJoX2ZBemIxSng5UzFJVU80X0Z4czVGejV4OWNqbWVhQUZBZnNzUWtidHdyOXpFQnJONmtJdEpuay14dC1kVFlIZXhLdlJvMHJXSU1zOFEtdkNLVl9GaHoyaGwzeXlfVzJHRF9IUW16dl9QcDY3c1FsVXZVTVFMV245enAxcDZCdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
       "occurred_at": "2026-10-19",
       "summary": "RestaurantData Expands Restaurant Enterprise Index to 430 Companies and Introduces Restaurant Vector - RestaurantNews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUdpS1ROTTdmdWlMc0Q0QTNIVU9KM2o2Q2ctek5ZT3B2aVU3M3d5dVI0STFXYW5yaXRNZXFsLW5qUlNUNW9KYk1fOG12RWRWUWNHT2RQTWNIdFdyeG5HREU1NDB6SVhLTXU3TGNlYUtpVG5NUXJkcVBzM2tiR1EwMUVIUlpKOUFGczlCSEFXV01NeEpkcmhpVU5WUlZaT3VBU1A1SFkzZnB4TnM?oc=5"
@@ -90,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

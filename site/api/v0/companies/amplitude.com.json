@@ -3,7 +3,7 @@
   "name": "Amplitude",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 12.9,
+  "score": 14.8,
   "contributions": [
     {
       "type": "leadership",
@@ -48,6 +48,13 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHJaVUUwLXF5OW5RZVVEamIxVUZjbXFIY2JYNHVOM0F5YldCY0NHSWhBT2RkbDluWUpxaWxvd1pCX0haVmlRVHc3SXFVZFBXRzJabEc5U2tzRnZaRndVUnRHN1VqeE5GMmctYUdGVjlmZC0tQTFNYzRWSkpCOFlVYndCbUlZYkNpdlF5c3hrWWJmSjN5eE9mS2ctRlFJdmZVZlhQcGFrSWZGUzg1c2MyWnFJd21URHVwblhCSmFralM2aTBzTDRDaGY5Q1hUNDcxZmQ4alpXYUNxWlZp?oc=5"
     },
     {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-15",
+      "summary": "Amplitude Appoints [person] Founder Vijaye Raji to Board of Directors",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWVIZV9FNWJQbTd3R2tUR1Q2U2JKbDJPbFQzVzEzTkpEdWdlMko0b1pfWERVMDJtMXBlZ0p4NWRkVkFoVGhOOVBSdzF6QzFkR3JqOTdlYjk2ZWRNQXJMVlVXRVN0TWRuV2tvNWlyaGVXOHE3Z0dLbEpaS2lSdmRobVNJbUwxcXZhX05pZzhhbnhMQzl6NmZQOE5JQUpGZFo4YlBtMUFLS00?oc=5"
+    },
+    {
       "type": "launch",
       "contribution": 1.3,
       "occurred_at": "2026-10-15",
@@ -69,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

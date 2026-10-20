@@ -3,8 +3,15 @@
   "name": "TAG",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 1.3,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Lenovo unveils impressive new Legion gaming monitor with QHD 320Hz display and affordable price tag - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmwyNlRTblZ6cURkNGVCblVBQlI2a3Fhc0RyOWluM09yOVVna05hUUdnRTlQNHB5SDZHMW0ycUVHbXE3TTVRRTRDczZZTVgzUzR3SGZWOUFCaTJqV1dGcjBBZjdWcUZ0YVFmX0JTcWc5enhYRzRuc0RkMnpGU3ppSnJGMXBXV09MODZhTl85WHVtZU1oSzIxTVFnR0NjcDRiX09rTDA3TkVqR1VCRzZhUjdKMUdXNWlmWm1tTVZfUVh3TWlYUDBnaw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

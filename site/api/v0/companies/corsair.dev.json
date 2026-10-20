@@ -3,8 +3,29 @@
   "name": "Corsair",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 14.1,
+  "score": 18.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Corsair Gaming (CRSR) Unveils SABRE v3 PRO PureVector Wireless M - GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd1FkY0FpY0I0bjJWeDZaYWd2VVIyLUVVNVlDSlA2RWZfVEJ4TWhVVzdCZWlpaE53Q2VCTE53aDhiSmt5MTV3RklrRUE3SGJKelFmVTlvUUVoMzExYUs3MFhTV2FEdDVSMi1ZY1FkeFVSalhveDZ1ZnNScDNPT2dEeVJNT2VtQzJPMkk3dzFzTi1ISVZneHUydk53cG9TcFFMN2o2VGlIQlAzMFdQVnlpdndkTU5xMTAyR0ZSSHA2eXlZUGcxTm9XQ0Y3cw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Corsair Gaming unveils SABRE v3 PRO PureVector mouse after stock ends session up 2.4% - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa1p5QVJoVF9NRjVxamhQVHVTdnVrOHp1OFpDdm05TVRNMHA2UnBNanRrbTNwcDk1Y2doTmRYb2RIa3hFOEtMbGx0M1dOTTVlR3NzUjNnanVJc1FoMVRQVzg2MVRjZ05TUkRsY0ZXaXdLYzJmQkVybnRYX1VLMXNlbGhrY1BBZVRCbktkRWVBNm02dFRVN0E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Corsair Unveils SABRE V3 PRO PureVector Series, Crafted Alongside Aimlabs - CGMagazine",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vbDVRdDhUU0hpb1lpdXJtY29oMlIxNkM0dGZOZnFucUZvV0J6LWFIUmxWSmN1STZ1SlVsUU5LbmlpZkx1VlJGNGNHaGItTFlPMGNNLTc2d2puLUhhdnU5a3o5RlRUcjY4Vm53R1c3RkVBbkdGTEs1MUNCSGZkUQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -90,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

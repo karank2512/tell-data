@@ -3,8 +3,15 @@
   "name": "Foster",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 0.9,
+  "score": 2.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "E-News | MODIFY holiday drive launches to help former foster youth - West Virginia University",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWGlIUWlaWE1LNkVwdFNXWUVVRFcxNl8zYWxWbVdrOGFhMi1LVk4tMlRKLXdOSmJzMERVQ3Z6cW05SVhwWEpaYXl6RUtYemJ2QkxuM3d1SVdJTl9EUmtRYkIyR1FpZmlRcHFFRzJSNTVwM3NId09BTDVqaklBN0FWOVg2X0hZYWtyT3FNcXl6bE5aM0t6THdUQ0FRSzFjX3Jk?oc=5"
+    },
     {
       "type": "expansion",
       "contribution": 0.9,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }

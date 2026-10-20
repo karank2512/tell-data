@@ -3,7 +3,7 @@
   "name": "Cashmere",
   "as_of": "2026-10-20",
   "profile": "default",
-  "score": 6.5,
+  "score": 8.0,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-19",
       "summary": "Sainsbury's Tu expands premium knits after cashmere success, Ireland's Cayo launches in UK - FashionNetwork France",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTkdkSFFncTEyRnp2dE1EWktRQUhPQnFUT0VGbkwySlJ5b0xtdGU2b1N3TzVLMWYtaE1OSVU3OFNvYm9qMXktc0p6SFA2aklLdUk4RER3aFNnczNSLUw5cTVOZkt5XzZ5OTFGeGxhRm5BRTJLaTRfRU5PQl8xUy1DUnctc1dkc3BaT2h4dVYyYTV0dFpqLWFQN3FsMXVvT3ZKQzg1VHpCY2dvRktnMW55dlVSeXdIT1p1ZTViaHJFV1cwRHJucFNGSl9GUVd6TnBpSVBR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-19",
+      "summary": "Sainsbury's Tu expands premium knits after cashmere success, Ireland's Cayo launches in UK - FashionNetwork - The World's Fashion Business News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWxvNGh0Zk9Gbk9Na2NGclZMR0I0b0JMWmFIcUFWVm1pTVB0M01sS19IZFpNMUJ5VGFFclV0eUVrUFpvR3ZpeTF5UzhZRE95TUI4QjUySU91WERtQ0pzZERJT1d5TWNsNTBiQ3NIY0RoQmxVaWVZVnNDanBwZ3R1ZjBUX3FLaldpOWU2eHlPTVdaanJZa0RYdE1OTlp0QVkyeGRaa0xpN0dqTlh6NVN0M0w2R3BDdFZTYndqM1o4MnpKZUwtd1pBbzBXNmxfdzBkZHRV?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/34b30e3dd4c38c6e0c40f357b089e114bdac3573",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
   "why_not_higher": []
 }
