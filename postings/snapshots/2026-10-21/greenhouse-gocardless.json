@@ -3,7 +3,7 @@
  "identifier": "gocardless",
  "domain": "gocardless.com",
  "as_of": "2026-10-21",
- "last_polled_at": "2026-10-21T08:34:48.496017+00:00",
+ "last_polled_at": "2026-10-21T15:30:53.318262+00:00",
  "open_postings": [
   {
    "external_id": "7374850",
@@ -276,6 +276,22 @@
    "location": "Leeds, UK",
    "posted_at": "2026-10-14T18:53:18+00:00",
    "url": "https://job-boards.greenhouse.io/gocardless/jobs/8276080"
+  },
+  {
+   "external_id": "8305788",
+   "title": "Product Manager",
+   "role_family": "product_design",
+   "location": "Riga, Latvia",
+   "posted_at": "2026-10-21T13:14:12+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8305788"
+  },
+  {
+   "external_id": "8305812",
+   "title": "Product Manager",
+   "role_family": "product_design",
+   "location": "Lisbon, Portugal",
+   "posted_at": "2026-10-21T13:14:15+00:00",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8305812"
   }
  ]
 }

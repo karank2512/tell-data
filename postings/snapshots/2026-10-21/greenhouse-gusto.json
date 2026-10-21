@@ -3,7 +3,7 @@
  "identifier": "gusto",
  "domain": "gusto.com",
  "as_of": "2026-10-21",
- "last_polled_at": "2026-10-21T08:34:48.496017+00:00",
+ "last_polled_at": "2026-10-21T15:30:53.318262+00:00",
  "open_postings": [
   {
    "external_id": "6625049",
@@ -812,6 +812,14 @@
    "location": "New York, NY - Hybrid",
    "posted_at": "2026-10-13T17:09:25+00:00",
    "url": "https://job-boards.greenhouse.io/gusto/jobs/8257115"
+  },
+  {
+   "external_id": "8257486",
+   "title": "Workday System Developer",
+   "role_family": "other",
+   "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+   "posted_at": "2026-10-21T14:35:39+00:00",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8257486"
   },
   {
    "external_id": "8257865",

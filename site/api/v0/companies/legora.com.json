@@ -3,7 +3,7 @@
   "name": "Legora",
   "as_of": "2026-10-21",
   "profile": "default",
-  "score": 11.1,
+  "score": 12.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -69,9 +69,34 @@
       "occurred_at": "2026-10-13",
       "summary": "Legora launches Intake: an \"agentic front door for in-house legal teams\" - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTFRYXVOZmFVZzdBeFBtUjM3aXRJMDNNYlVwNzRBQzRMOHNlbVh6RGUzZ2ZtMlZELWJnUTJhdUlVZWNoUmoxSlA2ZHJpaGdEeFJZT1NqRFZBM2RpM0xKZFZGRVVrZFNEQWlRRFhjS0JDWUtsYUt3MXJJV3FHa2JLN3ZseUhCZmFJQ1NwQlJnUWJKRlMwTms2Y3NlSkl1Zlk?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-21",
+      "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/legora",
+      "postings": [
+        {
+          "title": "Senior Talent Acquisition Partner, Japan",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/legora/be28b197-b58c-4ca2-958e-3806e8c10e5f"
+        },
+        {
+          "title": "Senior People Partner | Legal, Operations & People",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/legora/94138be2-28cc-40bd-84df-ae24365f5dd5"
+        },
+        {
+          "title": "Legal Engineer, Tax & Audit",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/legora/29604827-8a32-4691-9e08-ef4dd75bbe95"
+        }
+      ]
     }
   ],
-  "open_postings": 314,
+  "open_postings": 317,
   "long_open_roles": 98,
   "sources": {
     "ats": "ashby:legora",

@@ -1,0 +1,32 @@
+{
+  "domain": "tryresponse.com",
+  "name": "Response",
+  "as_of": "2026-10-21",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "FEMA retreats from disaster response and launches a tool to sell flood insurance without brokers - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeGpLWWo3RGMzX1cwcmxqenVkLVkteVo4c2NWODVObnJ3N2I0RWRMWEVLWmEtSkd3RDZKZUdxdGZvdV9va0RjTDlHaENOQWZUMGtRb09oQ0FiSzF5LXJyNklfWEFTMF9yVE5wcUUyNzk4ZjBYTzVlNm9aWFpPdF91bDY4YnRBTWtZSTQtS19rN25pc1RZckpqbWxSMzdhdFBHNGR2aGNfeWdBd09ZVnJCX00zdjBvbW0xQ1B3TDZuTDJQcEt2RDZTbnJ3SFVkOFJvZmxTNjJ6WWdnNld4b3FuM3BkRk9tNFN5ZGV4Mmp1MVFrd1o0dExfZA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Acton Campaign Releases Response Ad: “Abuse” - Dr. Amy Acton for Governor",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NRllGTnhWN09UaWE0T3p0WFNXbUxES0x2VXhFT2dYUWlCODl1TnRKbmo2WW1SRHRBUktxVkNnYkxDTXJPcHdBTEhob3JYUF9lbW9kS3BpVGlKUDFFaFdhMFBTc3loNEM0RFF5Y0hGOUxDdk44cDVTcTN5OA?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

@@ -3,7 +3,7 @@
  "identifier": "oneleet",
  "domain": "oneleet.com",
  "as_of": "2026-10-21",
- "last_polled_at": "2026-10-21T08:34:48.555729+00:00",
+ "last_polled_at": "2026-10-21T15:30:51.055079+00:00",
  "open_postings": [
   {
    "external_id": "6a1aaa76-cc49-4f74-8cf6-1b57685c3eb4",
@@ -76,6 +76,14 @@
    "location": "US/EU - Remote",
    "posted_at": "2026-05-28T20:52:13.996000+00:00",
    "url": "https://jobs.ashbyhq.com/oneleet/e3859be5-74ea-4fb5-a1c3-7e54626b1dee"
+  },
+  {
+   "external_id": "e48124e4-97be-4f45-8fc9-8a20fd9deaee",
+   "title": "Associate Security Program Manager",
+   "role_family": "other",
+   "location": "US/LATAM - Remote",
+   "posted_at": "2026-10-21T14:55:12.167000+00:00",
+   "url": "https://jobs.ashbyhq.com/oneleet/e48124e4-97be-4f45-8fc9-8a20fd9deaee"
   }
  ]
 }

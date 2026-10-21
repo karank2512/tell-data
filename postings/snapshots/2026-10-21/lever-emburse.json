@@ -3,7 +3,7 @@
  "identifier": "emburse",
  "domain": "emburse.com",
  "as_of": "2026-10-21",
- "last_polled_at": "2026-10-21T08:34:46.749518+00:00",
+ "last_polled_at": "2026-10-21T15:30:53.951685+00:00",
  "open_postings": [
   {
    "external_id": "0a63caec-f95f-45f6-afba-98b8a37d98b7",
@@ -236,6 +236,14 @@
    "location": "Boston, MA",
    "posted_at": "2026-09-04T14:47:24.121000+00:00",
    "url": "https://jobs.lever.co/emburse/efdcdad9-527f-45a2-8faa-a64340028b48"
+  },
+  {
+   "external_id": "f64cca8d-9485-4eff-8959-4dbaf09d2baf",
+   "title": "Director, Content Marketing",
+   "role_family": "marketing",
+   "location": "Toronto, ON",
+   "posted_at": "2026-08-07T01:22:02.396000+00:00",
+   "url": "https://jobs.lever.co/emburse/f64cca8d-9485-4eff-8959-4dbaf09d2baf"
   }
  ]
 }

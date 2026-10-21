@@ -3,7 +3,7 @@
  "identifier": "flexport",
  "domain": "flexport.com",
  "as_of": "2026-10-21",
- "last_polled_at": "2026-10-21T08:34:48.496017+00:00",
+ "last_polled_at": "2026-10-21T15:30:53.318262+00:00",
  "open_postings": [
   {
    "external_id": "5745289",
@@ -1399,7 +1399,7 @@
   },
   {
    "external_id": "8222491",
-   "title": "Account Executive",
+   "title": "Sales Manager",
    "role_family": "sales",
    "location": "Seoul, South Korea",
    "posted_at": "2026-09-22T05:48:35+00:00",
@@ -1748,6 +1748,14 @@
    "location": "Paris, France",
    "posted_at": "2026-10-19T09:33:15+00:00",
    "url": "https://job-boards.greenhouse.io/flexport/jobs/8300314"
+  },
+  {
+   "external_id": "8306094",
+   "title": "Commercial Graduate Trainee",
+   "role_family": "sales",
+   "location": "Frankfurt, Germany; Hamburg, Germany",
+   "posted_at": "2026-10-21T15:13:34+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8306094"
   }
  ]
 }

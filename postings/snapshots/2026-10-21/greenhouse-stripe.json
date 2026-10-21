@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-21",
- "last_polled_at": "2026-10-21T08:34:48.496017+00:00",
+ "last_polled_at": "2026-10-21T15:30:53.318262+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -1214,6 +1214,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=7983076"
   },
   {
+   "external_id": "7983456",
+   "title": "Machine Learning Engineer, Radar",
+   "role_family": "ml_ai",
+   "location": "Seattle, South San Francisco",
+   "posted_at": "2026-06-23T20:59:46+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=7983456"
+  },
+  {
    "external_id": "7983725",
    "title": "Staff Product Manager, Billing",
    "role_family": "product_design",
@@ -2183,8 +2191,8 @@
   },
   {
    "external_id": "8098866",
-   "title": "Enterprise Services Sales Executive - Professional Services",
-   "role_family": "other",
+   "title": "Professional Services Account Executive",
+   "role_family": "sales",
    "location": "London",
    "posted_at": "2026-10-20T09:43:20+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8098866"
@@ -5822,6 +5830,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8258364"
   },
   {
+   "external_id": "8258697",
+   "title": "Account Executive, Product Sales - Payouts",
+   "role_family": "sales",
+   "location": "New York or San Francisco",
+   "posted_at": "2026-10-19T11:52:49+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8258697"
+  },
+  {
    "external_id": "8258815",
    "title": "Product Manager, Radar - Fraud and Abuse Prevention",
    "role_family": "product_design",
@@ -6190,6 +6206,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8282859"
   },
   {
+   "external_id": "8284974",
+   "title": "Account Executive - Nordics (Hunter)",
+   "role_family": "sales",
+   "location": "Sweden",
+   "posted_at": "2026-10-21T09:47:34+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8284974"
+  },
+  {
    "external_id": "8286649",
    "title": "Commercial Counsel, Sales",
    "role_family": "other",
@@ -6279,7 +6303,7 @@
   },
   {
    "external_id": "8301264",
-   "title": "Recruiting Coordinator (Fixed Term Contract)",
+   "title": "Recruiting Coordinator",
    "role_family": "other",
    "location": "Singapore",
    "posted_at": "2026-10-21T04:38:00+00:00",
@@ -6292,6 +6316,22 @@
    "location": "Toronto",
    "posted_at": "2026-10-20T21:54:49+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8301379"
+  },
+  {
+   "external_id": "8301646",
+   "title": "Product Manager, Radar",
+   "role_family": "product_design",
+   "location": "San Francisco, Seattle New York, US - Remote",
+   "posted_at": "2026-10-21T14:57:13+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8301646"
+  },
+  {
+   "external_id": "8301946",
+   "title": "Engineering Manager, Sandboxes",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-21T15:05:39+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8301946"
   },
   {
    "external_id": "8304836",
@@ -6308,6 +6348,14 @@
    "location": "San Francisco, CA",
    "posted_at": "2026-10-21T00:39:07+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8304841"
+  },
+  {
+   "external_id": "8306158",
+   "title": "Product Manager, Radar - Fraud and Abuse Prevention",
+   "role_family": "product_design",
+   "location": "San Francisco, Seattle, New York, US-Remote",
+   "posted_at": "2026-10-21T14:57:56+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8306158"
   }
  ]
 }

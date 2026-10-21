@@ -3,7 +3,7 @@
   "name": "Alpaca",
   "as_of": "2026-10-21",
   "profile": "default",
-  "score": 32.1,
+  "score": 33.6,
   "contributions": [
     {
       "type": "funding",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Irish alpaca knitwear brand, CAYO, launches at multi-brand boutique destination Square Bath - Retail Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGhTRzRzNzhyNF84UFRYYXVrY3Q3LTc2UTNJeElRbWRuU0d6ZkxKUlVhOS1Jd2RGeTF2ZkViRlc1R3hTZTNlVURrWC1HVnc0SkZRM01Gak44Z3k1UFJKa1lRS2FuRTZBRnNVanpuSnl2OGpTRUZ3OXV0U1hMM0Q5aHd1cWM3alJudzZNSHFqejdXTndaTGhnWVVFakZ1Q24yWkJsM1VCRjBoT2FMWmcwNFdnZ0p4MmM?oc=5"
     },
     {
       "type": "launch",
@@ -157,7 +164,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
     }
   ],
-  "open_postings": 79,
+  "open_postings": 80,
   "long_open_roles": 16,
   "sources": {
     "ats": "greenhouse:alpaca",

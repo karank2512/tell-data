@@ -3,8 +3,58 @@
   "name": "Airbnb",
   "as_of": "2026-10-21",
   "profile": "default",
-  "score": 7.6,
+  "score": 17.0,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 7.9,
+      "occurred_at": "2026-10-21",
+      "summary": "8 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/airbnb",
+      "postings": [
+        {
+          "title": "Market Associate",
+          "posted_at": "2026-10-19",
+          "url": "https://careers.airbnb.com/positions/8300839?gh_jid=8300839"
+        },
+        {
+          "title": "Market Manager",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8303198?gh_jid=8303198"
+        },
+        {
+          "title": "Manager, Key Accounts - Hotels",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8303917?gh_jid=8303917"
+        },
+        {
+          "title": "Manager, Key Accounts - Hotels",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8303963?gh_jid=8303963"
+        },
+        {
+          "title": "Manager, Key Accounts - Hotels",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8303967?gh_jid=8303967"
+        },
+        {
+          "title": "Manager, Key Accounts - Hotels",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8303966?gh_jid=8303966"
+        },
+        {
+          "title": "Manager, Key Accounts - Hotels",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971"
+        },
+        {
+          "title": "Manager, Key Accounts - Hotels",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8303970?gh_jid=8303970"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "customer",
@@ -67,6 +117,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3l4d1o1a3h0Rkdpeng1T2VHTnZ6WkQwNWZSSUY2THNrR1pTZW5mc1RCUGZMRmpiWmZsc285YXp6TEVkYW5GbFdLZmxvRTUzeXhScjRBTHNsZUdpRHRKVlM0U3pDeExZZkRZVkwwOGpDU0d6bDJTczhHS2dlbGFUZHZueXBMRThWZFU4OA?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
@@ -105,7 +162,7 @@
       ]
     }
   ],
-  "open_postings": 220,
+  "open_postings": 226,
   "long_open_roles": 57,
   "sources": {
     "ats": "greenhouse:airbnb",

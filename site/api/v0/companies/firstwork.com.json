@@ -1,0 +1,48 @@
+{
+  "domain": "firstwork.com",
+  "name": "FirstWork",
+  "as_of": "2026-10-21",
+  "profile": "default",
+  "score": 4.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 4.0,
+      "occurred_at": "2026-10-21",
+      "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/firstwork",
+      "postings": [
+        {
+          "title": "Account Executive, Staffing (US)",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/firstwork/f1162b13-2e81-40e7-9688-fadf44c088e6"
+        },
+        {
+          "title": "Enterprise Account Executive (UK & Europe)",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/firstwork/21fe62bb-e622-413c-8a36-780488cc1ef6"
+        },
+        {
+          "title": "Account Executive, Staffing (UK & Europe)",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/firstwork/fc3191d5-3a5f-4b4d-a5a1-f0a0e595a5dc"
+        },
+        {
+          "title": "Enterprise Account Executive (US)",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/firstwork/5b5ae5d0-8a02-466c-933e-d37c7d8bf201"
+        }
+      ]
+    }
+  ],
+  "open_postings": 14,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:firstwork",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}
