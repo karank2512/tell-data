@@ -1,13 +1,13 @@
 {
   "domain": "nimbus.green",
   "name": "Nimbus",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 3.7,
+  "score": 3.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "hires as chief business officer",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1VBekRHZFZuNWZvdjdPVFNoc0pZU0dTWlA3cnVEMEk1Tjg0UmU2bXNiNVNKVFdUOVh0b1did3ZRZU1HMGRJcVhpbmw3dXYzb0NfbllEM21EX0FKNXJrTjVLaW5nb2IxNWdHcmtWUERwaE9Ma3BSZ09MdUwtYTU4UkdlUjFDeTg2S3JtM0I2WXFOWG1EdjhLUmwwVDRuWXNCaTFn?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

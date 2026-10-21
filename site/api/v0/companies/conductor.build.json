@@ -1,9 +1,9 @@
 {
   "domain": "conductor.build",
   "name": "Conductor",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 11.1,
+  "score": 10.9,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "LineWise launches folding guard arm for conductor crossing protection - Canadian Occupational Safety",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcmxzcEI4UEZ3TjdzQmdSdl9pNFFHMmV1VkxMT1FhazlNNDZqdml5RmdXSHltbDNaUWNVdUo3TjNhcS0xU3JYM3JneFIzWWJHWi1jVjBPR3g0eTNhcVFiRldDQ0ZFQVZvV1B2SG1DajdxYWVXM2RGWVVXT2lIejhhUk5RZmNsYXVTQlFiTjg5NVl3NWw1ZGxpTjRYb2FCUUtOWVZreFZ2UENPcTEtMG9DOXROTHFEWFhIWElxNEZ1Tzc3OUU4b3huTjhB?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "NTSB releases final report on fatal accident involving BNSF conductor in Montana - Trains Magazine",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pxY09JWHlEOW9hYmpycUVRV1NuUkoyaWk5a1pSaXczVE1KTTA5ZE9rSldMMFk5cU5XbXVEejFYdUtVTXRBUkNYVGJvVUZpbnd1WExNXzBjbHo3TFZaeDhXR2JMSnI1ZENWV1FCXzR4QXhiSEc4cWQ4dEUwOWI4N2Zfb0s0MDNWMGRmSVdvYVpabkFYSmk3dzdHNE9aMjN6Q2lZa0NBT0FiVFBEbEdYYUNzclJjUXhTWXdrTW1LdHpFQQ?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

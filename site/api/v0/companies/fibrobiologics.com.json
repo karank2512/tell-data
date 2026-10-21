@@ -1,20 +1,20 @@
 {
   "domain": "fibrobiologics.com",
   "name": "FibroBiologics",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 42.4,
+  "score": 42.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 22.9,
+      "contribution": 22.7,
       "occurred_at": "2026-10-13",
       "summary": "Form D: $1,200,000 offering, $1,200,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1958777/000149315226046663/"
     },
     {
       "type": "funding",
-      "contribution": 17.4,
+      "contribution": 17.3,
       "occurred_at": "2026-09-16",
       "summary": "Form D: $500,001 offering, $500,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1958777/000149315226042792/"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-08-27",
       "summary": "FibroBiologics Releases Third Batch of CYWC628 Drug Product for Phase 1/2 Diabetic Foot Ulcer Clinical Trial - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdHBQUXR2YW5BbGR4NnVEN2V2SDRfeXZ6SnhGLUZhd0lSSEExLTgzYlpiUVZaNUY2TzJKWGt6Z2tJNkFZZ0x0eWxGS3RMaW55UERLdlEtZHJfUW9MVWRQZlYtYkpiUDJzZnFGWTNtYnlZa0ItSC1NZVlWdVoyd08wZ1pZX1psNHFha0tzU3BlN3o5U1pnMUtVc3dCN1lQR0lPcnVwMHJYdlZGdTdEck01NmtveTFzNFVBMVpYTGNPekR3S1ZqQTFOR0k2dlJNQXFMSnFyM2tJd3RDZkRFQk4tSl83a2RUQWhoNWVtblZHSkRxbjZHQzVhZDZxcUM?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": "0001958777",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

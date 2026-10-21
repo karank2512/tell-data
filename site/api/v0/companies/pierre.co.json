@@ -1,9 +1,9 @@
 {
   "domain": "pierre.co",
   "name": "Pierre",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 10.3,
+  "score": 10.2,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "Foundever Appoints [person] CEO to Accelerate Agentic AI Transformation",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVdLeTQ3TVBzaVE1WkE1NnhSZTQ1SW9Lc0t1RzExT2J0c2tLUnhuZHg2Rml4WFhacWw4ZW1EOXVWOVJ6RWdsd0NQWlY5b182eC1fSlJjYWItdk5iRHFpTmlEZl9HY0hILXN4bTlrV0xQa0VQVS1aZm1NV3VjRlNfVUg4Nm94QnljMnRFTV9fazdYTXZhR3lmQU15dnNxNkpXS2lHYk8tYkhOaTNFTHRrNk53?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

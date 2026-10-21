@@ -1,9 +1,9 @@
 {
   "domain": "usehatch.ai",
   "name": "Hatch",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.8,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Hatch Bank Appoints [person] as Chief Transformation Officer",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSE1iYTFtNmlJdXZZS2p0T25yd1Fqc2FmMWIyZk1sUkVsR2IxdWxoeWlzOV9UbXV5alBDMEczNzFGWnZsd1NudU1aMzdzUGJONkZXaGZvWG5teWpUdEZ2ODJ3MkpnZy1sV2lSVWM3RGtnUndkUVVnVEszVkNwVl8tbWpic0RVUnNlR0ZLOEcwYkhUZGZwQm5mOWNwR3NCVGFCNk1CcjBwWEtvNU5JOC1NaWpDeC0zc2x4WkpXeHBLcVQyLTBDc3hTN1JBZDNiU3JXMFpiYUNOUkQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

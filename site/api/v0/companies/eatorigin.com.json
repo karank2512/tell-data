@@ -1,27 +1,27 @@
 {
   "domain": "eatorigin.com",
   "name": "Origin",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 38.4,
+  "score": 37.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "appoints new president",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwcUU3N2dLTU9wSUc5WENCVHk0Mkd2U1JRcTFPcF9FRnJ4cU1mR0N3ZEFCWC1hOWF5LXVRdXJtTl9pQ2ljRGRnWnh2MW95OUd4RHQtMWJ5VVhoUkNuOUoyZTlIcEFqYjBQX2FOTG1rYW1XTDNtTlRnWkFB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "321 Launch: Blue Origin eyes weekly Florida launches as Starship nears - Florida Today",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMDYtYWJPaTBtOXpxYTVtYU9RT1Y4MDhLMU1xV3BqV1kzTVlDU1lKTW9neFRiYkVMWkdST3JsR1VNSy1MRk5BMGxfTEFoUWZsU0FkYUVvOGVHN1NKZ0F3Nkc1b0JlU0pzNmpkcnFaOE5UTDk5aHJBa0g2SDlxYjZaand5VEEyeTQ5bVNIVmdFQi1LZklrcl85cnlCTEpoR1VLMm9xaXJqaHltTWhhdGpqTUd6NDdQMFRiVDVOQnJ4a0RMNllQeS00S2RyVnFhR0lVdWZIX005cEtLaUhNdHVwMGgyTV9fZS1oRXQzbUYwS1ZjTVQ2RFVGMEs5S3dyMFlFTkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Blue Origin seeks approval to dramatically increase New Glenn launches - WFTV",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX2RGdzc5SEtRUlp2dEJMVW1zUi1iSktMUTFINHlkWHJQU3FUWGN3SHJLVk54Wjd4NW9QT2pod045ZGdsSFo1VkVDNHVGQlNETWVHMEF5M2JDaUUxNmlUNTRfWk1HZlU3SFlwTjJpZ2JmYWdycEZMX0Exbk9PTWs0LUxVZ1VGQVpDZ3NvWVFQRVh1bFkwWXQ3clBaSERjZEdwU2V2OGJvUVlrcWY2RVdrNlNvYmJqd29fVVlockl5T1gxMldfWFVyMTdvUQ?oc=5"
@@ -175,14 +175,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Blue Origin targets multiple New Glenn launches weekly by end of decade - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWW1EeHZ6a1p5dmZMY0NkS0duWGdxNi1WbDk4WndQMWdPemIzV05hSDBUbmYtYjhoY2dSQ1U4SVN2bGdwcUFfaEpoRUkyUFcyZlpFSV95Rm11dHFLUUpWMzNxVUxOYXVSenUwUkRTdnRlWk5nM0tPN1I4SVppZ29fMXlPdnlDWGplaGNzb3R0WEQ0WFd5Xy11eTNYbEYtNzBUSHNiNEtBSVNqZ29KRWhHRy0xVlJMd2FpY3NKOVp0eUNyNDhhS3p5YmdoM0dJNjN2WEIxY3JLSW8?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Origin Launches Stress-Tolerant Corn Breeding for Southwest China Markets, with Supports from Guizhou State Entities - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMnF5RzFuVGJYV3A3TkxzVDU0bDdhZU5YeE10Y2hQT25jR05xejhTclRKeGItd2lLOS1oTXBHNUNsVEtlckd1TEYtcDFpU200UnRyYnN1TE4xODg4NXZvMDNKdnktREV0WWRWczRXRGxoZjl5OWNCVFIzYkRZZ1o0cVE5X1hRaW94Y181aHlYUU9RVzBUVkxqTHAzR0tQSTFnRkotUEhvUV9KZw?oc=5"
@@ -202,6 +202,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "adam.new",
   "name": "Adam",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 16.8,
+  "score": 16.6,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "WPP Appoints [person] as Global Chief Client Officer — LBB",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2RVbkljUWJYZzAwX3o2N0xvcy1PV3o0MlI1eWgxRWhPekFYM0tEV3dCRzRTUVMtZ2c1MjJvQVk2WXdBSlo4ek1MRFlVcldzSXYzWEZCaTZ1Q3d3M0pHb05COHVkd3RaNExBU3gxdmwwZnJEN2tqU2hBY244ZmFaTndlZGxJV0ViNURR?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "‘Welcome to Kansas’: Adam Hamilton releases statement ahead of Trump visit for midterm rally - KWCH",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUg2WkZLTjU3RndPQjk0LUVMVU9XX0UzeWZGcmw2VGt2U2dyLW14N1JyaTloRmRobFBvMTVYV0hPczFFTzhlRFA3SGRtWUlSV29ieWpXTC03eFFjTFFiTmJSZTBXQ1FCUVpsaktMZ2ZEUl9CRGJvTzlBRlcyLWZpNWdBZ1JjVzlfaHM2VXVaYmFTR0FDcnEtZHdHRTY0dEp6WlU2cWRPektSSDdJVDhqNWJ3?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

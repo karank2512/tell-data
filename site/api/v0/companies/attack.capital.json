@@ -1,13 +1,13 @@
 {
   "domain": "attack.capital",
   "name": "Attack Capital",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.3,
+  "score": 1.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "Russia launches Kyiv capture operation? In 1 attack, capital city's power, water, metro gone | Videos - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYjNrQXZ4dFNIUzVCcTNUdEtqLVotMUJxeHRqUEtwSlk3b1lJQXdmSFFNWGlVU3h3enBHNG40N1FkUzhyZUgtaGN0Ui1tR0JzVGVBNk85amh4OFdVUm9nOEplRUFWZnZEYU9YOG1sMjBLejRESVNFVTVHbkRSMHFicFRnbmNZNVVNUDJFMktoRGkxaVY1QjFuV3dKU3FTa2x0UXRSa0RwNkx0U2h6d05uQjR2MWx2SEVtN25iTldKVmVNNDQ0V3JGeUxreW5ueFY1QjV5VFBHQkIzM3NkMFd30gHkAUFVX3lxTE8yamNLQ05za0ZocXJrOTVHTHBvcXhwcmI3OTZCQjBWVVI2T2NHZF9ZdDdhUzV2UFRjeHNDRExZLTZUd2NRSlZNNk1VRnVYVW9CTXNyN1g3V1JVSV9LcnZhNnpEdV9laFFVcVZfS0R4T0dJX0pqcExJUGxrbEJJQ1FsRnVvaG5pYWRkWGhHX01wRWY5aVVKUEZhRUZEV2JVNF81TXBhT0pUR2ZSSlVkM2xHSDNqSk5RR1ZfUl82aWZTNWVyQWJfbWVveUttakFyWFljMjg1aUlsanFOcWJUY3pJQUpJWg?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

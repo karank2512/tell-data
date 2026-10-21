@@ -1,9 +1,9 @@
 {
   "domain": "rippling.com",
   "name": "Rippling",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.8,
+  "score": 1.7,
   "contributions": [
     {
       "type": "expansion",
@@ -14,7 +14,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-09",
       "summary": "News | Rippling opens nearly 133,000-square-foot New York office as AI leasing surges - CoStar",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkozamkwQnRYMXh5aXhONll4NjRyLXE2THlxTkdwamRTdEYwckV0a1VOZnJMRHhST01iVjNteDNnYXlaNE0yWEZLVHR1VW9YRlVhWmt4VGxBdmlLNUwxZlY0SF81c1VfY0FTcUZhYnRqNmhwWk9lcF9ENTJvTXpFZGVteUdtLWtkNEtQSkFpUUdhMHVucEUxbjZ5WmlKTjRfcTU3Tm9fMDk4YlVUc2RPOFVzOExwbUNsc0VNZg?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

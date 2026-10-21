@@ -1,13 +1,13 @@
 {
   "domain": "letsembark.com",
   "name": "Embark",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.4,
+  "score": 1.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Keolis launches EMBARK 2030, its strategic plan to accelerate profitable growth - Keolis",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTnIza292MXRBOHl2RGE0aldHRzBOa0UwSE04ZGdvejNrLVVwM2ViaU9BMXhuLVJnaF9zM2ttS2tEV2hzTmpRLUQxd2h6dkJnZE1vNjFteU1TQWJna09NNFNqMC1sUTV0Ni1OeGFrTzZuMTdmeVVVRFI4MGk3czhnZVdMSHg2ZkIzbXhvVXQyYTA2UjZmb1gzQS1VTS1pWEFQcmRVX183b2xDVmdkZzJ6cFN2azQ0QmNWMUpBcmZFQzF1TFgzX3lETGxNY0w?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

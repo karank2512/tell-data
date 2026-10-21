@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 22.8,
+  "score": 22.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.7,
+      "contribution": 12.6,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-16",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -95,7 +95,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-03",
       "summary": "Pwnage Releases Vanta Gaming Mouse With Mechanically Adjustable Click Geometry - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeU43OGRBWXZIOXNpNHhVYkRsclNQVm4xLU9mdWJxVzM3XzM5azJTeVBUM1B3Z3B5VmszSjVrTkdFNnBvMGQ5dkFBbWNacmRoQllObnVreHRyY0hFcE5nLXZZZ2dTSU4xWU92N3ZKSGNXeXFoSkNHRTV5YXhSNHowWG56WV9xTWN2UWlBaGhYUUpMRXhXWS1VdFpiMUtCdkw2YUxlRThuNE9tdmF5NnJWSC10NNIBuAFBVV95cUxNVkF6MUozendlb293TGpNdWhhVnM2b2p3SWRtRnRhUERoZkNZS3pva1N2TVBCNjFVa0VHcEtwZ3lTQjhyaTVPZXQxNzRGcnlvc21HZF9LdTRNd0d5RUNGMURBczNuVHJVTHdnS25GX3YtMG5zU09jaGpNQ1E5THhTbVlzWVJSTl9mRHhiOUhvSE1GRUNtTjl0ZGJfV1hHQVE0Z2pqNERCUERCY09PZkZMX1dEMjl6WHda?oc=5"
@@ -109,12 +109,12 @@
     }
   ],
   "open_postings": 87,
-  "long_open_roles": 22,
+  "long_open_roles": 23,
   "sources": {
     "ats": "ashby:vanta",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

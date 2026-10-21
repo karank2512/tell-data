@@ -1,9 +1,9 @@
 {
   "domain": "origin.bio",
   "name": "Origin",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 14.7,
+  "score": 14.5,
   "contributions": [
     {
       "type": "launch",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Blue Origin’s P-Sampler Launches Aboard JAXA's Martian Moons eXploration Mission - Blue Origin",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkVtNlVXRU1MeURXOGNIM1lpQWVHdWVJbmM5dXJ0VW56T09qaGgwSDRPY21GanNFMGQzMmllTzZlUmo5Yjc5alQ4UDhlaW5aNmlsOFlzTDhmT1lKTkRNY0g2R3BEM2lFQ3NyMUpER25NaTVlVjZxd1VVRUQ4T3Bob2d6Nlc5ODNjNzY2UFFiVkl6UVd5UndqQUJ6STVXcGplazBSNGoyYWJKa0dZ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "321 Launch: Blue Origin eyes weekly Florida launches as Starship nears - Bradenton Herald",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QeXptR0xmWGt4bHVqU05odGdQRzZ1SV8yWXAxeHBYX2lsZ2p2dkl3ZTF1bWwwM0lnS2kzeHBhcFgydnc2dFd0dzNBem9HM01NNTJGblZ1dng4Y2s5cWxzTTZn?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

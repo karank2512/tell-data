@@ -1,9 +1,9 @@
 {
   "domain": "axiom.trade",
   "name": "Axiom",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Axiom Hospitality launches Guild Hotels across three central London properties - Boutique Hotel News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzdHblQ3UjZvRExBNWdZWkdOTkh6bDlZeXVHZ19KcTNlUUdwbWVfaUF3UzdoZ2dJTXRZcGxaVTVaaFlQWjZMTWdzc2RmaWk1emZzek1xUUFwa1ZBUENraGg0YXZaN1NfeDltRXlOYXh2LVcwYTJYMktCdFF0YjRoel9oQm0yTHVSenJua2owSVNJZHVVdU9ZOGV3UmRlODFLMmR0d2ZqTmlfaEtxb0Nld0ZteG8?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

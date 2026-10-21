@@ -1,20 +1,20 @@
 {
   "domain": "txse.com",
   "name": "TXSE Group",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 35.4,
+  "score": 35.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.8,
+      "contribution": 17.7,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $161,250,000 offering, $27,898,400 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2017031/000201703126000004/"
     },
     {
       "type": "funding",
-      "contribution": 17.6,
+      "contribution": 17.4,
       "occurred_at": "2026-08-04",
       "summary": "Form D: $161,250,000 offering, $27,898,400 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2017031/000201703126000002/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002017031",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

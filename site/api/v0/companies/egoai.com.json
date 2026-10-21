@@ -1,9 +1,9 @@
 {
   "domain": "egoai.com",
   "name": "ego",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "iHeartMedia Unveils Lineup For The 2027 iHeartRadio ALTer EGO Concert - CelebrityAccess",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaE4yYzBHVDB3VW14TUM5ZUF4U1FwRVZ1N1pib24yWkxVVjVGaDZUanp5TGJCYjVxZXczbFZzdGNCTzQ1RkhrdjR5S1F1QTJxLUEtUnhYdVd0Nms3NGZDUUlWQmNESDctZllsWmszX0x0Y01sdkZGVkhiSVowVlRQWDJTWnlWZ1g4Q3laUVVHQXJNbVkwSFd0eUZrTHYtVXZvcHlzS2xWMFFsQndnQVE?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

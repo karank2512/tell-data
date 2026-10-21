@@ -1,9 +1,9 @@
 {
   "domain": "useforward.co",
   "name": "Forward",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "See photos: WCSD moves forward on plans for new headquarters - Reno Gazette Journal",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbW9yTThqVDI3bVFQdXhKbDJ0NGhEQ19ERXkxbG04SGtyWlJ0Q1h0aUdkaUdjaHdEV3EycGxzOVlCUWVJTmdjUWs1VTVvOXBFbmswTUIxMXNyR1lKN21UWXZkdXIyeGtpX0NTVkVzNElldTJGeHJ1RE9mc2ZWQS1WdHlfazh0MGdhVHdlSGp6M1lCQUdhc21EUlFvT2cwSTVtdGR6RHQzX1dudVFfbGQ3S1VpczhGQ1pq?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

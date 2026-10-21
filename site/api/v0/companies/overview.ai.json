@@ -1,7 +1,7 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
   "score": 1.4,
   "contributions": [
@@ -13,13 +13,13 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHRwQjRlUVFZbUJ1MlZySWtBRXJvRG82Vkw0dDhQdnUxQUFEV1VpSzUyZFI5TDJSLWl2VXRsOTc1bzEzZXNscld5OTltVlQ4LWVSRkw5R2NSel9HaXloZnZlVUctS1pZY282dngyUmFGUklBMGcyazhFejE3Ul9ZbmNfdUFfc3BnX3lLakJ6aXpDeG5neTdNS2JlM0lPUWc?oc=5"
     }
   ],
-  "open_postings": 55,
+  "open_postings": 56,
   "long_open_roles": 27,
   "sources": {
     "ats": "ashby:overview",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "lantern.so",
   "name": "Lantern",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Piedmont Park debuts new holiday lantern parade during seasonal celebration - Rough Draft Atlanta",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lWTNnWW1qVFFTalJkLWhuem1uMFpNVjlRVFEtNFdNakdxZXV4NGRkZ0FqSE10UGNvSXJDVFJabFR1Y2sxa2cwRmI4cFZXUG4zZUZzWDFDbmsycFQ1N0tVYjlZS2l0NGJHOXpXZHFEZ2RGeG5fRmF4Y0RB?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

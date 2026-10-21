@@ -1,13 +1,33 @@
 {
   "domain": "within.ai",
   "name": "Within",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 10.7,
+  "score": 12.5,
   "contributions": [
     {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-21",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/within.ai",
+      "postings": [
+        {
+          "title": "AI Solutions Delivery Specialist",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/within.ai/14424c9d-6eb9-40a0-950b-ef988bfaa832"
+        },
+        {
+          "title": "Senior/Staff Forward Deployed Architect",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/within.ai/1cf0bbeb-4c48-4df6-8717-347e84718de4"
+        }
+      ]
+    },
+    {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Promotes [person]",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcllNT0Vlb2RUQTI2WG5iZkRYYlhJUGppaHlnblNlNjFXeFFaQnZDTW9td3FwLUdBWm9sZ3B0cDVOQVFQYzFaM002TjhxYzdYX3J1TkIzTWNCSFBySmloRUZIM0NRM011V3RVZGEyN2FGd2h1RnRiYjkxNEpxZ0NnS3ZJcm1hc0o5YUZmaDNKNnFPNDFKc3dLRA?oc=5"
@@ -34,7 +54,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Trump launches women's health division within NIH alongside Melania Trump - CBS News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFJRUWRWZ21XQXpIMDNHNUxocHVnRnRfMlJ2VXNRcWdOajhlLVVsR2RrdW4xZ3ZCMHRTY1lEOEtMc1k0dnhUZnZXQUo2OUNsb01GX3pVVmJmUnc1eVRtOFBTcHU0a01vTFBKQmhFNEtVcWZfcXJkZFpOWDlpQUNIZ2JQRHZxZw?oc=5"
@@ -68,13 +88,13 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhlQjVBREJkNm1VMXAzRkhCenkwa2poZzVSM0xvako2Mkp2UGZINEdYdDQ3cU5nM2JVX0Fsazc3bUNVcURBalRBNUd4YVppWEJBd3N4X3lKMnZfb3Y3WXlaSU0tM2lsamZHQ2lwU19sU2h1UjJvNzhqcDVyNlRBeUhQN2p6SW1xMER6WUFWejdoejhJcjZReTlHTl94VDA5LTloTXFFN0VZd2E2bnYwbko1N0RTaVZ4YlRFZlZJOGZFTWdjb2x1T3U3STA5eUJGTWdWbVU1dkVacWVrZm1QOVNkejZ5OFpQYmUyWQ?oc=5"
     }
   ],
-  "open_postings": 17,
+  "open_postings": 19,
   "long_open_roles": 8,
   "sources": {
     "ats": "ashby:within.ai",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

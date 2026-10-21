@@ -1,13 +1,13 @@
 {
   "domain": "trymonte.ai",
   "name": "Monte",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Del Monte Introduces Two New, Flavorful Canned Vegetable Varieties - Mid Florida Newspapers",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeHFidVctZ1owZHB0SmxvMXpld3REcEZtc1lQQmI3WWVpbW1oY3ZDc1dicjJSS0tBeU94MDVxUU1BT2tOcWlXTFFYZmVmQW0tYi1rZExxeGMxYzZKZXhkWV9OYjdjcTNqeFYwOGEwaWNaVi1kMTNnYWdKOXExUVViSkxLWnctQ25qME1lT2toX1JGRGRuZEV0dU1RemJXU3Nsazh1R3N6Q0h3elk3N1VaWTQ4SGRuYzIyZy1uQlBtbDA2UjNfSzMyQ3YxZDNjWnExazVweG44Z3Z2NDNZb256LUxkZXVsYzBCaC16VVMzM1Jjamg4M1VOYXJB?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

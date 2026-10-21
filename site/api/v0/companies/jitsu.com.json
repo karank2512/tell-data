@@ -1,13 +1,13 @@
 {
   "domain": "jitsu.com",
   "name": "Jitsu",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Ozzy Osbourne Jiu-Jitsu Gear And Streetwear Collection Launches October 23 - The Mosh Network",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OLTFKZXJSSFJNdUJXcFZEbHFaRUZaa1E0LWNJUldlSWJUOWpTNE5RZFVscHRZbkN1UGFpc09ZVV80VGE3dG1HWXVmWUpHSzNOY2p4eTVYVWR4N0gyTVdPalRvcmd6bGFpVkdSampIQS11ekk?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

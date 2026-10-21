@@ -1,13 +1,13 @@
 {
   "domain": "carebility.com",
   "name": "Carebility",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 24.0,
+  "score": 23.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 24.0,
+      "contribution": 23.8,
       "occurred_at": "2026-10-02",
       "summary": "Form D: $8,835,000 offering, $8,835,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2157421/000215742126000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002157421",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

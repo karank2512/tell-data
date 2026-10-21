@@ -1,13 +1,13 @@
 {
   "domain": "kindora.co",
   "name": "Kindora",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 20.6,
+  "score": 20.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.6,
+      "contribution": 20.4,
       "occurred_at": "2026-09-29",
       "summary": "Form D: $1,235,000 offering, $25,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2155648/000215564826000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002155648",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

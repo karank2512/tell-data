@@ -1,13 +1,13 @@
 {
   "domain": "withtai.com",
   "name": "TAI",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.5,
+  "score": 2.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-08",
       "summary": "BYD launches Fang Cheng Bao Tai 7 in Uzbekistan as BYD Ti 7 - CnEVPost",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeF9WM2lFVjNDdkdrTkdHbTZCWEVkd19ybTc2dkFmYkw2YkZTWUI2dGQ3bDV1TGpLdHRFaTV4Sk5MUVZ1SlhRTmJVUUIxa1RuWUd4Q1VqNDBMQURXSmZHTDVlM2xzdEJhZWVGRy1IRVlGZFU5Rm9BSmYyNVl6RFg3YXVJTQ?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

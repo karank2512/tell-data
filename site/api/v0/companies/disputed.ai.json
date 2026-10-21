@@ -1,20 +1,20 @@
 {
   "domain": "disputed.ai",
   "name": "Disputed",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 20.3,
+  "score": 20.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.0,
+      "contribution": 18.9,
       "occurred_at": "2026-09-21",
       "summary": "Form D: indefinite offering, $1,065,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2068167/000206816726000001/"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "ESPN Releases New Footage of Disputed Interaction Between Breanna Stewart and WNBA Official Kevin Fahy - Yardbarker",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnNnZ0xMMTNTamZrM0p3Zk43MEpzaXV4QTk4U2o5Qy1wTmlXeW1LdlN0OXJ6MURJeDlUR3ZrZ0hudFRnU3I1dXE0UG1YZHNLOGV0V3VCWE9wSHRwc3NjeVg2dTAzNVBsaXR2UWVVM2U5MUpVaG5oUmU5MWlhWTk4MjhGTkRJNllVTGxaUnplQzQ0b2xyZDRMZS1YcUFIMmNuaGJuWVp3YzBBWDR3NGlLd09Fa2lKU1B0SFp5N2JzS0FXaGU2ZDZZTzBwd291ZUlVNWcydnREeUlkc1pJRjFISktYem5EZEIzZ0hheHpIZ3E3UG8?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002068167",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

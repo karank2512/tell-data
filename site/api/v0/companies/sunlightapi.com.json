@@ -1,9 +1,9 @@
 {
   "domain": "sunlightapi.com",
   "name": "Sunlight",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 5.7,
+  "score": 5.6,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "IBASE Unveils IHPC-W101 Sunlight-Readable 10.1” Fanless HMI Panel PC - Kiosk Marketplace",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFg4RWdRUF9ITU81aTBTaEVBWmFTOXBQSE5GMEtJX1N6OUotMzRZMkN2ZVJ5WFE3YzNKV3FkM21tUWJhVnhERkZPMEVGeTNlTEtWV3B1Nk5SeGh1alZFeEdXSG9aSFg1WkVRX0RQWVlERnNRVWQwTk9pamxaTlM1cm5jeERWSUJZbmVlRDMweWhDN2MwSkxvWmRVdnFsZzBVckxBZDJLWk1zOUQ0cVp2R1ctSW5yUQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

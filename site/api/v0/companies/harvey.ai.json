@@ -1,25 +1,50 @@
 {
   "domain": "harvey.ai",
   "name": "Harvey AI",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 17.6,
+  "score": 18.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.6,
+      "contribution": 17.5,
       "occurred_at": "2026-09-11",
       "summary": "Form D: indefinite offering, $550,299,446 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1974654/000197465426000003/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-21",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/harvey",
+      "postings": [
+        {
+          "title": "Engineering Manager, AI Platform",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/harvey/5a27de6d-c40e-4504-92f3-e116cd3518b0"
+        },
+        {
+          "title": "Senior Engineering Manager",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/bc2cf43d-c37d-4496-b64e-277ba79ad415"
+        },
+        {
+          "title": "Senior Engineering Manager",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/de1d9fbe-c7a9-49ac-b5c0-aaaa606325b2"
+        }
+      ]
     }
   ],
-  "open_postings": 341,
+  "open_postings": 348,
   "long_open_roles": 109,
   "sources": {
     "ats": "ashby:harvey",
     "edgar_cik": "0001974654",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

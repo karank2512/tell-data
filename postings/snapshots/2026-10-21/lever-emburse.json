@@ -1,0 +1,241 @@
+{
+ "vendor": "lever",
+ "identifier": "emburse",
+ "domain": "emburse.com",
+ "as_of": "2026-10-21",
+ "last_polled_at": "2026-10-21T01:19:49.001884+00:00",
+ "open_postings": [
+  {
+   "external_id": "0a63caec-f95f-45f6-afba-98b8a37d98b7",
+   "title": "Senior Software Engineer - Full Stack",
+   "role_family": "engineering",
+   "location": "Toronto, ON",
+   "posted_at": "2026-07-30T13:06:11.599000+00:00",
+   "url": "https://jobs.lever.co/emburse/0a63caec-f95f-45f6-afba-98b8a37d98b7"
+  },
+  {
+   "external_id": "0f5ea09c-d68f-4b9c-8d30-097806bf1522",
+   "title": "Senior Security Engineer",
+   "role_family": "engineering",
+   "location": "Barcelona",
+   "posted_at": "2026-04-17T16:45:59.775000+00:00",
+   "url": "https://jobs.lever.co/emburse/0f5ea09c-d68f-4b9c-8d30-097806bf1522"
+  },
+  {
+   "external_id": "235a76b5-7088-4365-8ef5-491ecbc8a542",
+   "title": "Staff Software Engineer",
+   "role_family": "engineering",
+   "location": "Barcelona",
+   "posted_at": "2026-08-03T14:10:07.239000+00:00",
+   "url": "https://jobs.lever.co/emburse/235a76b5-7088-4365-8ef5-491ecbc8a542"
+  },
+  {
+   "external_id": "26850e5d-54e0-420e-89e1-e424e566706b",
+   "title": "Senior Director, Sales - Mid-Market  (West/Central)",
+   "role_family": "exec",
+   "location": "Dallas, TX",
+   "posted_at": "2026-09-02T17:16:04.058000+00:00",
+   "url": "https://jobs.lever.co/emburse/26850e5d-54e0-420e-89e1-e424e566706b"
+  },
+  {
+   "external_id": "272011f3-46c7-4162-9564-e1d069969a48",
+   "title": "Lead Product Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Toronto, ON",
+   "posted_at": "2026-08-17T17:30:13.927000+00:00",
+   "url": "https://jobs.lever.co/emburse/272011f3-46c7-4162-9564-e1d069969a48"
+  },
+  {
+   "external_id": "285eb49b-9601-45e5-8942-6629b98a0c91",
+   "title": "Senior Customer Success Manager (Travel)",
+   "role_family": "customer",
+   "location": "Toronto, ON",
+   "posted_at": "2026-08-04T20:35:09.244000+00:00",
+   "url": "https://jobs.lever.co/emburse/285eb49b-9601-45e5-8942-6629b98a0c91"
+  },
+  {
+   "external_id": "35b9f877-4002-4d74-a2c3-c3a0aa990c8c",
+   "title": "Sales Account Executive - UK",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-07-15T20:49:38.552000+00:00",
+   "url": "https://jobs.lever.co/emburse/35b9f877-4002-4d74-a2c3-c3a0aa990c8c"
+  },
+  {
+   "external_id": "38a77557-a209-49b0-9335-6a1b643d63fc",
+   "title": "Product Manager (Travel)",
+   "role_family": "product_design",
+   "location": "Addison, TX",
+   "posted_at": "2026-09-02T17:23:31.542000+00:00",
+   "url": "https://jobs.lever.co/emburse/38a77557-a209-49b0-9335-6a1b643d63fc"
+  },
+  {
+   "external_id": "47995e86-7152-49f0-aad7-07440d5f4d62",
+   "title": "Senior Engineering Manager, Analytics",
+   "role_family": "other",
+   "location": "Toronto, ON",
+   "posted_at": "2026-10-09T16:41:47.432000+00:00",
+   "url": "https://jobs.lever.co/emburse/47995e86-7152-49f0-aad7-07440d5f4d62"
+  },
+  {
+   "external_id": "577305fd-35d4-41dc-918e-262eeeeb8f46",
+   "title": "Manager, Accounting (CPA)",
+   "role_family": "finance_ops",
+   "location": "Toronto, ON",
+   "posted_at": "2026-10-02T14:16:12.819000+00:00",
+   "url": "https://jobs.lever.co/emburse/577305fd-35d4-41dc-918e-262eeeeb8f46"
+  },
+  {
+   "external_id": "5b7a8e98-bb92-44c3-bd25-e5bfb0eca5da",
+   "title": "Implementation Project Manager (SaaS/Fintech)",
+   "role_family": "customer",
+   "location": "Addison, TX",
+   "posted_at": "2026-10-14T18:30:20.818000+00:00",
+   "url": "https://jobs.lever.co/emburse/5b7a8e98-bb92-44c3-bd25-e5bfb0eca5da"
+  },
+  {
+   "external_id": "639872f0-2820-4bfd-a513-80892da01886",
+   "title": "Site Reliability Engineer lll",
+   "role_family": "engineering",
+   "location": "Barcelona",
+   "posted_at": "2026-09-15T13:22:01.194000+00:00",
+   "url": "https://jobs.lever.co/emburse/639872f0-2820-4bfd-a513-80892da01886"
+  },
+  {
+   "external_id": "692bc8f4-a785-4dd8-addc-ac24390e83fd",
+   "title": "Account Executive - Velocity",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-08-19T18:01:39.728000+00:00",
+   "url": "https://jobs.lever.co/emburse/692bc8f4-a785-4dd8-addc-ac24390e83fd"
+  },
+  {
+   "external_id": "725cce87-8fba-4493-8e86-3a81ccee4586",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Barcelona",
+   "posted_at": "2026-10-09T12:51:09.009000+00:00",
+   "url": "https://jobs.lever.co/emburse/725cce87-8fba-4493-8e86-3a81ccee4586"
+  },
+  {
+   "external_id": "8ddc03ad-fd1f-4c40-b07d-d346a989ae77",
+   "title": "Senior Customer Success Manager (Travel)",
+   "role_family": "customer",
+   "location": "Addison, TX",
+   "posted_at": "2026-08-04T20:38:10.313000+00:00",
+   "url": "https://jobs.lever.co/emburse/8ddc03ad-fd1f-4c40-b07d-d346a989ae77"
+  },
+  {
+   "external_id": "8e391b84-50f9-406c-b057-33412c87c862",
+   "title": "Software Engineer II",
+   "role_family": "engineering",
+   "location": "Toronto, ON",
+   "posted_at": "2026-10-06T17:40:57.540000+00:00",
+   "url": "https://jobs.lever.co/emburse/8e391b84-50f9-406c-b057-33412c87c862"
+  },
+  {
+   "external_id": "a5525e66-d25a-4711-8eec-b7f8eb8e7bc6",
+   "title": "Senior Software Engineer in Test I",
+   "role_family": "engineering",
+   "location": "Spain",
+   "posted_at": "2026-09-11T14:05:06.962000+00:00",
+   "url": "https://jobs.lever.co/emburse/a5525e66-d25a-4711-8eec-b7f8eb8e7bc6"
+  },
+  {
+   "external_id": "b5408a76-2f1c-4be8-8f6e-f8f264cc364b",
+   "title": "Senior Lead Account Executive - Enterprise",
+   "role_family": "sales",
+   "location": "Atlanta, GA",
+   "posted_at": "2026-10-06T13:15:08.544000+00:00",
+   "url": "https://jobs.lever.co/emburse/b5408a76-2f1c-4be8-8f6e-f8f264cc364b"
+  },
+  {
+   "external_id": "b8f93f27-361f-481c-89d6-edb937289a55",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Addison, TX",
+   "posted_at": "2026-08-21T20:42:40.063000+00:00",
+   "url": "https://jobs.lever.co/emburse/b8f93f27-361f-481c-89d6-edb937289a55"
+  },
+  {
+   "external_id": "c2d03e31-7a5c-443d-8c78-83c20668b8eb",
+   "title": "Product Manager (Travel)",
+   "role_family": "product_design",
+   "location": "Toronto, ON",
+   "posted_at": "2026-10-17T15:06:04.805000+00:00",
+   "url": "https://jobs.lever.co/emburse/c2d03e31-7a5c-443d-8c78-83c20668b8eb"
+  },
+  {
+   "external_id": "c3a3a43e-b2b0-4db0-b7af-fa82b1ecdfa3",
+   "title": "Emburse Solution Advisor (ESA) - Extended Services",
+   "role_family": "customer",
+   "location": "Toronto, ON",
+   "posted_at": "2026-08-21T17:42:56.934000+00:00",
+   "url": "https://jobs.lever.co/emburse/c3a3a43e-b2b0-4db0-b7af-fa82b1ecdfa3"
+  },
+  {
+   "external_id": "c5657add-754a-4d80-8014-41c7b0e57e8f",
+   "title": "Senior Software Engineer I",
+   "role_family": "engineering",
+   "location": "Barcelona",
+   "posted_at": "2026-09-16T13:36:01.439000+00:00",
+   "url": "https://jobs.lever.co/emburse/c5657add-754a-4d80-8014-41c7b0e57e8f"
+  },
+  {
+   "external_id": "cc100a70-59d1-42d0-a8c0-2ff387fb0493",
+   "title": "Account Executive - Midmarket (remote US)",
+   "role_family": "sales",
+   "location": "Atlanta, GA",
+   "posted_at": "2026-08-06T19:17:10.930000+00:00",
+   "url": "https://jobs.lever.co/emburse/cc100a70-59d1-42d0-a8c0-2ff387fb0493"
+  },
+  {
+   "external_id": "cd1fdfb2-13c6-4e14-94b3-d0533bc590cd",
+   "title": "Software Engineer III",
+   "role_family": "engineering",
+   "location": "Barcelona",
+   "posted_at": "2026-01-21T22:24:06.443000+00:00",
+   "url": "https://jobs.lever.co/emburse/cd1fdfb2-13c6-4e14-94b3-d0533bc590cd"
+  },
+  {
+   "external_id": "d34d7fe3-5c7d-4453-9933-203bcf8932a4",
+   "title": "Technical Account Manager",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-08-19T14:29:24.883000+00:00",
+   "url": "https://jobs.lever.co/emburse/d34d7fe3-5c7d-4453-9933-203bcf8932a4"
+  },
+  {
+   "external_id": "d5bd7f47-a47e-44f2-ac6e-90decc39472e",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Barcelona",
+   "posted_at": "2026-07-20T15:56:55.555000+00:00",
+   "url": "https://jobs.lever.co/emburse/d5bd7f47-a47e-44f2-ac6e-90decc39472e"
+  },
+  {
+   "external_id": "dbf068ad-c32d-48ea-8be3-3f0e5cc017b3",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Barcelona",
+   "posted_at": "2026-08-13T15:11:55.665000+00:00",
+   "url": "https://jobs.lever.co/emburse/dbf068ad-c32d-48ea-8be3-3f0e5cc017b3"
+  },
+  {
+   "external_id": "e3dc84f9-7c44-4ff9-a838-fc93b3293ff1",
+   "title": "Manager, Software Engineering",
+   "role_family": "engineering",
+   "location": "Toronto, ON",
+   "posted_at": "2026-10-06T17:19:58.802000+00:00",
+   "url": "https://jobs.lever.co/emburse/e3dc84f9-7c44-4ff9-a838-fc93b3293ff1"
+  },
+  {
+   "external_id": "efdcdad9-527f-45a2-8faa-a64340028b48",
+   "title": "Salesforce Architect (Salesforce CPQ)",
+   "role_family": "other",
+   "location": "Boston, MA",
+   "posted_at": "2026-09-04T14:47:24.121000+00:00",
+   "url": "https://jobs.lever.co/emburse/efdcdad9-527f-45a2-8faa-a64340028b48"
+  }
+ ]
+}

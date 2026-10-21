@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-20T20:39:10.989069+00:00",
+  "generated_at": "2026-10-21T01:25:36.460028+00:00",
   "stale_sources": [],
   "freshness_p95_h": 24.0,
   "sources": [
     {
       "source": "ashby",
       "kind": "collector",
-      "last_ok_at": "2026-10-20T20:28:44.781256+00:00",
+      "last_ok_at": "2026-10-21T01:23:00.118345+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 20249,
-      "inserted_24h": 1418,
+      "fetched_24h": 27051,
+      "inserted_24h": 1504,
       "freshness_p95_h": 11.0,
       "stale": false,
       "status": "ok"
@@ -17,8 +17,8 @@
     {
       "source": "edgar",
       "kind": "collector",
-      "last_ok_at": "2026-10-20T20:28:27.164831+00:00",
-      "success_rate_7d": 0.9714,
+      "last_ok_at": "2026-10-21T01:19:26.331515+00:00",
+      "success_rate_7d": 0.9722,
       "fetched_24h": 409,
       "inserted_24h": 208,
       "freshness_p95_h": 0.6,
@@ -39,30 +39,30 @@
     {
       "source": "greenhouse",
       "kind": "collector",
-      "last_ok_at": "2026-10-20T20:28:43.952584+00:00",
+      "last_ok_at": "2026-10-21T01:21:46.437501+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 12086,
-      "inserted_24h": 364,
-      "freshness_p95_h": 11.1,
+      "fetched_24h": 16145,
+      "inserted_24h": 1249,
+      "freshness_p95_h": 11.0,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "lever",
       "kind": "collector",
-      "last_ok_at": "2026-10-20T20:28:42.781263+00:00",
+      "last_ok_at": "2026-10-21T01:19:59.747127+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 1631,
-      "inserted_24h": 29,
-      "freshness_p95_h": 10.7,
+      "fetched_24h": 2186,
+      "inserted_24h": 35,
+      "freshness_p95_h": 10.4,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "news",
       "kind": "collector",
-      "last_ok_at": "2026-10-20T20:32:34.835535+00:00",
-      "success_rate_7d": 0.7353,
+      "last_ok_at": "2026-10-21T01:19:30.784991+00:00",
+      "success_rate_7d": 0.7429,
       "fetched_24h": 91883,
       "inserted_24h": 729,
       "freshness_p95_h": 24.0,
@@ -72,18 +72,18 @@
     {
       "source": "smartrecruiters",
       "kind": "collector",
-      "last_ok_at": "2026-10-20T20:28:45.349209+00:00",
+      "last_ok_at": "2026-10-21T01:19:55.849794+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 234,
-      "inserted_24h": 0,
-      "freshness_p95_h": null,
+      "fetched_24h": 313,
+      "inserted_24h": 1,
+      "freshness_p95_h": 9.8,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "resolve",
       "kind": "job",
-      "last_ok_at": "2026-10-20T20:38:28.003403+00:00",
+      "last_ok_at": "2026-10-21T01:25:17.029232+00:00",
       "success_rate_7d": 1.0,
       "fetched_24h": 203,
       "inserted_24h": 0,
@@ -94,10 +94,10 @@
     {
       "source": "score",
       "kind": "job",
-      "last_ok_at": "2026-10-20T20:39:06.847405+00:00",
+      "last_ok_at": "2026-10-21T01:25:33.768899+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 6856,
-      "inserted_24h": 823,
+      "fetched_24h": 6991,
+      "inserted_24h": 671,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
@@ -105,14 +105,14 @@
     {
       "source": "publish",
       "kind": "job",
-      "last_ok_at": "2026-10-20T20:39:10.945325+00:00",
+      "last_ok_at": "2026-10-21T01:25:36.444428+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 8515,
-      "inserted_24h": 8515,
+      "fetched_24h": 9407,
+      "inserted_24h": 9407,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
     }
   ],
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870"
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378"
 }

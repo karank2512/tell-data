@@ -1,9 +1,9 @@
 {
   "domain": "trycatamaran.com",
   "name": "Catamaran",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Hooghly Cochin Shipyard Launches Sixth Hybrid-Electric Catamaran for IWAI, Boosts Green Water Transport - Indian Masterminds",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT3k1T2JNcTlHdkZWOThVYnlYNTJCcEp0NEtRMXU5YWxacnVOckV3RzZfem5QOVVPdHhTX0pxdlVSVjdyYWNWeHBWUmFIZFp5VnV0SVotWW5BZHAxR1dnQkdKT2ZoVHBwV2thcjRKbHNOb0ZRS1B6ZlhWeWt0cHlzeUpkcVQ0ZTlQbFZOUGo4Q3JHeFMyRkFobUVjQ0NmcmxRd2g2TWVwSVo4cnBOLVE?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

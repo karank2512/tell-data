@@ -1,0 +1,2793 @@
+{
+ "vendor": "ashby",
+ "identifier": "harvey",
+ "domain": "harvey.ai",
+ "as_of": "2026-10-21",
+ "last_polled_at": "2026-10-21T01:19:52.583162+00:00",
+ "open_postings": [
+  {
+   "external_id": "01da8934-d3e3-4ebb-beb9-681b3c24fb9c",
+   "title": "Staff Software Engineer, AI Platform",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-04-24T21:54:34.510000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/01da8934-d3e3-4ebb-beb9-681b3c24fb9c"
+  },
+  {
+   "external_id": "01ec0473-7d06-4e96-829f-20e6af004ce9",
+   "title": "Director, Commercial Legal, EMEA",
+   "role_family": "finance_ops",
+   "location": "London",
+   "posted_at": "2026-09-16T16:15:58.810000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/01ec0473-7d06-4e96-829f-20e6af004ce9"
+  },
+  {
+   "external_id": "01f31ece-f3fe-4991-b6fb-b59f21faa8e9",
+   "title": "Staff Software Engineer, Full Stack",
+   "role_family": "engineering",
+   "location": "Toronto",
+   "posted_at": "2026-02-11T01:35:08.668000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/01f31ece-f3fe-4991-b6fb-b59f21faa8e9"
+  },
+  {
+   "external_id": "02005c77-4871-4100-8030-27aa08ed7aa7",
+   "title": "Sr. Systems Engineer, Client Engineering",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-08-28T19:59:49.596000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/02005c77-4871-4100-8030-27aa08ed7aa7"
+  },
+  {
+   "external_id": "023ab8da-243b-44bd-860d-f4ca5d0b1678",
+   "title": "Account Executive, SMB (German Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-02T15:58:18.256000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/023ab8da-243b-44bd-860d-f4ca5d0b1678"
+  },
+  {
+   "external_id": "03b44b0d-d3a3-4c9f-8b16-f94614aea44d",
+   "title": "Business Development Manager, Cloud & AI",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-21T00:13:32.331000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/03b44b0d-d3a3-4c9f-8b16-f94614aea44d"
+  },
+  {
+   "external_id": "04e17f81-d0a7-4f83-8526-ec4c9532ddcc",
+   "title": "Senior Software Engineer, Frontend",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2024-03-08T01:46:09.108000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/04e17f81-d0a7-4f83-8526-ec4c9532ddcc"
+  },
+  {
+   "external_id": "04eb457b-e985-4e3b-9635-0a2b867ada97",
+   "title": "Senior Software Engineer, Agents",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-01-31T03:39:41.138000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/04eb457b-e985-4e3b-9635-0a2b867ada97"
+  },
+  {
+   "external_id": "04ee546e-7432-4154-abf2-cb3b2d7abf7a",
+   "title": "Senior Software Engineer, Frontend",
+   "role_family": "engineering",
+   "location": "Toronto",
+   "posted_at": "2026-06-11T22:14:57.748000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/04ee546e-7432-4154-abf2-cb3b2d7abf7a"
+  },
+  {
+   "external_id": "06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-10-02T17:00:56.168000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d"
+  },
+  {
+   "external_id": "0879ab97-7ed2-49e0-b5d6-4565ce63f273",
+   "title": "Senior Workplace Coordinator",
+   "role_family": "other",
+   "location": "Toronto",
+   "posted_at": "2026-10-15T23:05:53.142000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/0879ab97-7ed2-49e0-b5d6-4565ce63f273"
+  },
+  {
+   "external_id": "08bf31a9-9e6d-4fa0-b552-a55e68915a71",
+   "title": "Senior Product Marketing Manager, Core",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-07-09T14:11:59.501000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/08bf31a9-9e6d-4fa0-b552-a55e68915a71"
+  },
+  {
+   "external_id": "08d3d70d-80a6-429d-8a27-d5efd41372f5",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-07-28T18:14:37.845000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/08d3d70d-80a6-429d-8a27-d5efd41372f5"
+  },
+  {
+   "external_id": "09449e28-78b5-4d28-b38a-7ead854f7885",
+   "title": "Lead Product Owner, Finance Applications",
+   "role_family": "finance_ops",
+   "location": "Remote",
+   "posted_at": "2026-09-24T18:06:32.295000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/09449e28-78b5-4d28-b38a-7ead854f7885"
+  },
+  {
+   "external_id": "099c04d5-4e8e-4bd2-9e39-2a8c4aaffce0",
+   "title": "Legal Engineer (Transactional or In-house)",
+   "role_family": "finance_ops",
+   "location": "Munich",
+   "posted_at": "2026-07-27T11:23:01.248000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/099c04d5-4e8e-4bd2-9e39-2a8c4aaffce0"
+  },
+  {
+   "external_id": "0a3c2861-e0e0-4c37-b3a8-9b72f24234e1",
+   "title": "Technical CX Specialist",
+   "role_family": "customer",
+   "location": "Remote",
+   "posted_at": "2026-09-17T00:37:23.377000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/0a3c2861-e0e0-4c37-b3a8-9b72f24234e1"
+  },
+  {
+   "external_id": "0a8ca756-7d41-46cc-8cde-960af47658b2",
+   "title": "Associate Commercial Counsel, London",
+   "role_family": "other",
+   "location": "London",
+   "posted_at": "2026-10-08T13:48:51.449000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/0a8ca756-7d41-46cc-8cde-960af47658b2"
+  },
+  {
+   "external_id": "0b11604a-3743-4202-85d2-260dee788611",
+   "title": "Director of Product Security",
+   "role_family": "exec",
+   "location": "New York",
+   "posted_at": "2026-09-30T18:13:58.788000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/0b11604a-3743-4202-85d2-260dee788611"
+  },
+  {
+   "external_id": "0cc0c934-ce13-483b-8a11-99583d7908a1",
+   "title": "Manager, Sales Development, EMEA",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-01T18:18:22.699000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/0cc0c934-ce13-483b-8a11-99583d7908a1"
+  },
+  {
+   "external_id": "0d510c8b-f95b-4ae2-95e9-c77aa385fc25",
+   "title": "Lead Product Owner, Finance Applications",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T18:06:28.073000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/0d510c8b-f95b-4ae2-95e9-c77aa385fc25"
+  },
+  {
+   "external_id": "0d750bf9-d3f2-4816-9e28-23d12a0ef2e2",
+   "title": "Enterprise Customer Success Manager",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-07-01T14:18:53.180000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/0d750bf9-d3f2-4816-9e28-23d12a0ef2e2"
+  },
+  {
+   "external_id": "0fd353e8-616d-44f4-b93a-bed92f15b043",
+   "title": "Senior Software Engineer, Backend - NYC",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-06-22T21:39:12.740000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/0fd353e8-616d-44f4-b93a-bed92f15b043"
+  },
+  {
+   "external_id": "103b7c8a-80c5-4932-9380-1d76dcc7fe7b",
+   "title": "International Law School Manager",
+   "role_family": "other",
+   "location": "London",
+   "posted_at": "2026-09-21T19:55:39.474000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/103b7c8a-80c5-4932-9380-1d76dcc7fe7b"
+  },
+  {
+   "external_id": "10900071-f75f-49da-bff7-7e9db5e9b1f9",
+   "title": "Senior Software Engineer, Full Stack - NYC",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-02-09T21:50:18.541000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/10900071-f75f-49da-bff7-7e9db5e9b1f9"
+  },
+  {
+   "external_id": "11571c63-2fc5-41ce-b855-c949ead5efca",
+   "title": "Staff Software Engineer, Production Engineering",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-07-30T23:37:06.693000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/11571c63-2fc5-41ce-b855-c949ead5efca"
+  },
+  {
+   "external_id": "1207bcdf-6186-4f54-ac4d-d0575ed6459a",
+   "title": "Account Executive, Mid Market, EMEA",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-07-07T11:07:31.444000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1207bcdf-6186-4f54-ac4d-d0575ed6459a"
+  },
+  {
+   "external_id": "1321b20d-d6f8-4bdb-b2de-ec33c0948b53",
+   "title": "Data Scientist, Product",
+   "role_family": "ml_ai",
+   "location": "San Francisco",
+   "posted_at": "2026-06-18T23:21:52.287000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1321b20d-d6f8-4bdb-b2de-ec33c0948b53"
+  },
+  {
+   "external_id": "1406ae6f-1dfc-4b5a-985d-cccbffe283e1",
+   "title": "Senior Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-05-01T19:19:06.032000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1406ae6f-1dfc-4b5a-985d-cccbffe283e1"
+  },
+  {
+   "external_id": "15ded4d6-3cc1-4f27-b849-3ad686bd3b28",
+   "title": "Legal Engineer (Law Firm, Corporate)",
+   "role_family": "finance_ops",
+   "location": "Boston",
+   "posted_at": "2026-10-01T11:00:45.743000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/15ded4d6-3cc1-4f27-b849-3ad686bd3b28"
+  },
+  {
+   "external_id": "16b67976-02a3-4179-9eca-afc86c551b8a",
+   "title": "Deal Operations Analyst",
+   "role_family": "other",
+   "location": "Chicago",
+   "posted_at": "2026-10-19T18:46:18.790000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/16b67976-02a3-4179-9eca-afc86c551b8a"
+  },
+  {
+   "external_id": "18454695-e72d-40a5-a6c1-99677ef516ad",
+   "title": "Senior Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Toronto",
+   "posted_at": "2026-06-11T13:39:11.480000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/18454695-e72d-40a5-a6c1-99677ef516ad"
+  },
+  {
+   "external_id": "19ca59f3-f915-40c4-a4c4-ff0656d7094f",
+   "title": "Customer Success Manager, Enterprise",
+   "role_family": "customer",
+   "location": "Sydney",
+   "posted_at": "2026-09-14T16:58:08.743000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/19ca59f3-f915-40c4-a4c4-ff0656d7094f"
+  },
+  {
+   "external_id": "19db4c0a-8883-43c3-b667-60463098feb2",
+   "title": "Frontend Platform Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-07-31T16:29:30.149000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/19db4c0a-8883-43c3-b667-60463098feb2"
+  },
+  {
+   "external_id": "19f859d7-1565-4ca3-a9df-ceea73fba678",
+   "title": "Executive Recruiter",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-09-30T23:20:50.308000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/19f859d7-1565-4ca3-a9df-ceea73fba678"
+  },
+  {
+   "external_id": "1b080efc-47dd-4b15-b833-89299b2212cb",
+   "title": "Head of SMB Sales, EMEA",
+   "role_family": "exec",
+   "location": "Dublin",
+   "posted_at": "2026-10-19T09:01:42.168000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1b080efc-47dd-4b15-b833-89299b2212cb"
+  },
+  {
+   "external_id": "1b2c2891-8152-4cc5-8bd1-f2cf0a552532",
+   "title": "Sales Manager, Public Sector",
+   "role_family": "other",
+   "location": "Washington DC",
+   "posted_at": "2026-08-19T16:01:52.660000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1b2c2891-8152-4cc5-8bd1-f2cf0a552532"
+  },
+  {
+   "external_id": "1b3f54bd-0681-4fe2-be79-830e7c001544",
+   "title": "Customer Success Manager, Mid Market",
+   "role_family": "customer",
+   "location": "Munich",
+   "posted_at": "2026-10-09T09:43:52.503000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1b3f54bd-0681-4fe2-be79-830e7c001544"
+  },
+  {
+   "external_id": "1c86befd-b6f4-4520-9f3b-68c6fad938f1",
+   "title": "Senior Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-14T15:47:24.510000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1c86befd-b6f4-4520-9f3b-68c6fad938f1"
+  },
+  {
+   "external_id": "1cf585c3-27e2-4813-ade9-dc8c53c2d5b0",
+   "title": "Analyst, Customer Trust",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-07-22T21:38:26.550000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1cf585c3-27e2-4813-ade9-dc8c53c2d5b0"
+  },
+  {
+   "external_id": "1d279004-4491-4baa-b95c-1a3b374dc4db",
+   "title": "Legal Engineer, Custom Solutions",
+   "role_family": "finance_ops",
+   "location": "London",
+   "posted_at": "2026-10-12T12:58:39.543000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1d279004-4491-4baa-b95c-1a3b374dc4db"
+  },
+  {
+   "external_id": "1f43fbbb-14b5-45ab-a579-72a86522274e",
+   "title": "Senior Marketing Counsel",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-09-10T19:28:15.601000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/1f43fbbb-14b5-45ab-a579-72a86522274e"
+  },
+  {
+   "external_id": "201ed7d8-0e04-4e0e-a012-1b9200b989b4",
+   "title": "Global Operations Lead",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-09-16T16:38:44.289000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/201ed7d8-0e04-4e0e-a012-1b9200b989b4"
+  },
+  {
+   "external_id": "20716838-7013-42d7-b1d1-df8929dac347",
+   "title": "Legal Engineer Manager, Product Specialist, Munich",
+   "role_family": "finance_ops",
+   "location": "Munich",
+   "posted_at": "2026-10-13T08:56:32.255000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/20716838-7013-42d7-b1d1-df8929dac347"
+  },
+  {
+   "external_id": "214e8a77-88c5-42da-b142-74bb7a890063",
+   "title": "Account Executive, SMB (Portuguese Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-02T16:47:38.086000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/214e8a77-88c5-42da-b142-74bb7a890063"
+  },
+  {
+   "external_id": "22635945-1052-45e7-9b13-f94aabce8e9b",
+   "title": "Staff Software Engineer, Full Stack",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-05-14T14:53:01.197000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/22635945-1052-45e7-9b13-f94aabce8e9b"
+  },
+  {
+   "external_id": "22c49c02-8ab1-4aeb-9022-2fc624b7a0cb",
+   "title": "Sales Manager - SMB",
+   "role_family": "other",
+   "location": "Chicago",
+   "posted_at": "2026-09-16T19:31:39.925000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/22c49c02-8ab1-4aeb-9022-2fc624b7a0cb"
+  },
+  {
+   "external_id": "235f1793-7b5a-470b-b6ee-4f0f0249623c",
+   "title": "Senior Engineering Manager, Backend",
+   "role_family": "engineering",
+   "location": "Bengaluru",
+   "posted_at": "2026-08-12T16:36:58.819000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/235f1793-7b5a-470b-b6ee-4f0f0249623c"
+  },
+  {
+   "external_id": "23a93539-af9f-400d-9da6-dd9165364002",
+   "title": "Strategy Associate",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-12T16:03:29.734000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/23a93539-af9f-400d-9da6-dd9165364002"
+  },
+  {
+   "external_id": "24616c39-e293-4bcc-a3dd-e6f33a71c8ee",
+   "title": "Staff Product Designer",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2025-09-12T23:39:38.961000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/24616c39-e293-4bcc-a3dd-e6f33a71c8ee"
+  },
+  {
+   "external_id": "24f9a3fa-476a-490f-87bf-e8cebb7b3928",
+   "title": "Senior Frontend Platform Engineer",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-04-28T20:32:43.039000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/24f9a3fa-476a-490f-87bf-e8cebb7b3928"
+  },
+  {
+   "external_id": "26b1c092-b466-47b6-9493-402eed406b7a",
+   "title": "Senior Workplace Coordinator",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-06T21:13:51.197000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/26b1c092-b466-47b6-9493-402eed406b7a"
+  },
+  {
+   "external_id": "2807b46b-3ea5-43e2-94ea-4e6cdc6d4bb2",
+   "title": "Legal Engineer, Product Specialist",
+   "role_family": "finance_ops",
+   "location": "Seoul",
+   "posted_at": "2026-10-19T04:49:38.734000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2807b46b-3ea5-43e2-94ea-4e6cdc6d4bb2"
+  },
+  {
+   "external_id": "284a0861-026b-45ff-a4ad-c2d187d7184d",
+   "title": "Analyst, Customer Trust",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-07-22T21:36:49.353000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/284a0861-026b-45ff-a4ad-c2d187d7184d"
+  },
+  {
+   "external_id": "2a05532b-4746-45ee-965a-ba423efb62fb",
+   "title": "SMB Account Executive",
+   "role_family": "sales",
+   "location": "Chicago",
+   "posted_at": "2026-09-21T21:13:43.282000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2a05532b-4746-45ee-965a-ba423efb62fb"
+  },
+  {
+   "external_id": "2a2f8cae-e153-4e51-a9fe-7af903fbc5ef",
+   "title": "Community Lead, Customer Engagement",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-09-22T10:28:56.319000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2a2f8cae-e153-4e51-a9fe-7af903fbc5ef"
+  },
+  {
+   "external_id": "2a708f5d-9396-4712-9c9c-68bfbd0b8304",
+   "title": "Sales Development Representative  (German Speaking)",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-09-30T15:22:21.750000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2a708f5d-9396-4712-9c9c-68bfbd0b8304"
+  },
+  {
+   "external_id": "2afeecc1-d272-4562-a8df-50f720f5991d",
+   "title": "Trust Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-06-02T15:29:07.708000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2afeecc1-d272-4562-a8df-50f720f5991d"
+  },
+  {
+   "external_id": "2c604a0d-cd85-499b-93ee-4b8fb1538001",
+   "title": "Enterprise Customer Success Manager",
+   "role_family": "customer",
+   "location": "Dallas",
+   "posted_at": "2026-10-05T16:11:59.254000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2c604a0d-cd85-499b-93ee-4b8fb1538001"
+  },
+  {
+   "external_id": "2cbe13b9-a44b-47d3-abb8-45d9a98b05f6",
+   "title": "Staff Product Manager, New Verticals",
+   "role_family": "product_design",
+   "location": "New York",
+   "posted_at": "2026-01-27T18:08:05.085000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2cbe13b9-a44b-47d3-abb8-45d9a98b05f6"
+  },
+  {
+   "external_id": "2d57d615-084c-4762-a158-1c7edf51fd38",
+   "title": "Customer Success Manager, Mid-Market",
+   "role_family": "customer",
+   "location": "Sydney",
+   "posted_at": "2026-09-14T16:57:12.208000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2d57d615-084c-4762-a158-1c7edf51fd38"
+  },
+  {
+   "external_id": "2dfacb2e-8ac9-4f27-86df-73770a774d65",
+   "title": "SMB Sales Manager",
+   "role_family": "other",
+   "location": "Sydney",
+   "posted_at": "2026-09-04T01:50:30.206000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2dfacb2e-8ac9-4f27-86df-73770a774d65"
+  },
+  {
+   "external_id": "2e064aa4-effe-40db-ad73-daa8fa325b7d",
+   "title": "Corporate Business Development Manager, Legal Data",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-21T00:15:26.824000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2e064aa4-effe-40db-ad73-daa8fa325b7d"
+  },
+  {
+   "external_id": "2efd8803-3b24-4271-9c86-98a8b35be9ed",
+   "title": "Staff/Sr. Staff Software Engineer, Product Engineering",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-09-09T22:37:11.288000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2efd8803-3b24-4271-9c86-98a8b35be9ed"
+  },
+  {
+   "external_id": "2f35e50f-2978-44c3-a495-7cbfc1f512d4",
+   "title": "Compliance Analyst",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-06-03T22:05:25.977000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2f35e50f-2978-44c3-a495-7cbfc1f512d4"
+  },
+  {
+   "external_id": "2fa7de61-6ca1-4892-822e-bb1d458a7b90",
+   "title": "People Business Partner, Product & Design",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-04-02T20:08:12.118000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2fa7de61-6ca1-4892-822e-bb1d458a7b90"
+  },
+  {
+   "external_id": "2faddc24-1463-4878-9b43-ec8090a39c88",
+   "title": "Engagement Manager",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-06-23T21:14:42.995000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/2faddc24-1463-4878-9b43-ec8090a39c88"
+  },
+  {
+   "external_id": "302a0914-2763-4e16-b044-b54de4367808",
+   "title": "Legal Engineering Manager, APAC",
+   "role_family": "finance_ops",
+   "location": "Singapore",
+   "posted_at": "2026-08-20T08:00:08.418000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/302a0914-2763-4e16-b044-b54de4367808"
+  },
+  {
+   "external_id": "313d5aa8-bfc9-4057-b9a3-b73b4894f6a7",
+   "title": "Software Engineer, Database Infra",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-03-20T22:09:46.679000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/313d5aa8-bfc9-4057-b9a3-b73b4894f6a7"
+  },
+  {
+   "external_id": "3188a79d-c5f2-40c3-8f9f-bf1c37938f9f",
+   "title": "People Operations Coordinator, Onboarding",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-10-07T15:24:10.144000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3188a79d-c5f2-40c3-8f9f-bf1c37938f9f"
+  },
+  {
+   "external_id": "3240924a-de11-45c5-aabe-980474f8b0a8",
+   "title": "Account Executive, Mid-Market",
+   "role_family": "sales",
+   "location": "Boston",
+   "posted_at": "2026-10-08T13:37:02.383000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3240924a-de11-45c5-aabe-980474f8b0a8"
+  },
+  {
+   "external_id": "32c8c5a3-115b-4f7c-b0de-db785967a094",
+   "title": "Legal Innovation Partner, Munich",
+   "role_family": "finance_ops",
+   "location": "London",
+   "posted_at": "2026-10-09T12:28:53.478000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/32c8c5a3-115b-4f7c-b0de-db785967a094"
+  },
+  {
+   "external_id": "3607421b-990f-480d-afff-eab99432a01f",
+   "title": "Manager, Sales Development",
+   "role_family": "sales",
+   "location": "Sydney",
+   "posted_at": "2026-09-29T11:26:06.530000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3607421b-990f-480d-afff-eab99432a01f"
+  },
+  {
+   "external_id": "3661244b-b411-429b-bafa-631eb5e274a0",
+   "title": "Senior Solutions Architect, Sydney",
+   "role_family": "customer",
+   "location": "Sydney",
+   "posted_at": "2026-10-09T11:28:44.317000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3661244b-b411-429b-bafa-631eb5e274a0"
+  },
+  {
+   "external_id": "377fcb88-cbf6-493f-8440-92708f4c9931",
+   "title": "Legal Engineer, Product Specialist Manager",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-06-18T18:03:07.032000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/377fcb88-cbf6-493f-8440-92708f4c9931"
+  },
+  {
+   "external_id": "3829206d-192f-4017-a9ce-1f9c4c012711",
+   "title": "Compensation Business Partner, International",
+   "role_family": "other",
+   "location": "Dublin",
+   "posted_at": "2026-09-21T18:12:40.651000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3829206d-192f-4017-a9ce-1f9c4c012711"
+  },
+  {
+   "external_id": "3931a1b7-573d-4bd8-8fed-3fa8132c3201",
+   "title": "Staff Software Engineer, Frontend",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-06-24T23:33:01.903000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3931a1b7-573d-4bd8-8fed-3fa8132c3201"
+  },
+  {
+   "external_id": "39d6ae01-e28c-441c-9593-5b1d2923b075",
+   "title": "Senior Deal Desk Analyst, APAC",
+   "role_family": "other",
+   "location": "Sydney",
+   "posted_at": "2026-10-20T02:55:24.613000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/39d6ae01-e28c-441c-9593-5b1d2923b075"
+  },
+  {
+   "external_id": "3a34578d-d42e-45bb-ac5c-0c3357e8cbb7",
+   "title": "Software Engineering Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-02T17:00:52.813000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7"
+  },
+  {
+   "external_id": "3a8e3731-1a06-4d15-84c0-cfc564dd633c",
+   "title": "Legal Engineer Manager, Paris",
+   "role_family": "finance_ops",
+   "location": "Paris",
+   "posted_at": "2026-09-22T07:38:02.244000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3a8e3731-1a06-4d15-84c0-cfc564dd633c"
+  },
+  {
+   "external_id": "3adf9734-7339-4b21-b361-96288a9a6224",
+   "title": "Sales Development Representative (German Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-09-28T13:43:27.192000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224"
+  },
+  {
+   "external_id": "3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c",
+   "title": "Staff Software Engineer, Model Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-06T21:50:17.241000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c"
+  },
+  {
+   "external_id": "3ea5e27b-0efc-4338-9bf0-292dd49736ab",
+   "title": "Manager, Sales Development",
+   "role_family": "sales",
+   "location": "New York",
+   "posted_at": "2026-04-15T20:45:58.965000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3ea5e27b-0efc-4338-9bf0-292dd49736ab"
+  },
+  {
+   "external_id": "3feed577-6157-4fb4-b416-d4f493e1eb5c",
+   "title": "Senior Brand Designer",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-08-18T20:17:11.715000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/3feed577-6157-4fb4-b416-d4f493e1eb5c"
+  },
+  {
+   "external_id": "4154ddf4-99e3-4863-9509-826a6faddeea",
+   "title": "Legal Engineer, EMEA",
+   "role_family": "finance_ops",
+   "location": "London",
+   "posted_at": "2026-10-07T15:00:03.382000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4154ddf4-99e3-4863-9509-826a6faddeea"
+  },
+  {
+   "external_id": "4167f471-715b-413b-86c5-0596aae42eb8",
+   "title": "GTM Lead System Administrator",
+   "role_family": "other",
+   "location": "Remote",
+   "posted_at": "2026-10-13T21:31:45.356000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4167f471-715b-413b-86c5-0596aae42eb8"
+  },
+  {
+   "external_id": "41e581a5-b5ee-47cb-94e5-6224f1559e4d",
+   "title": "Deal Operations Analyst",
+   "role_family": "other",
+   "location": "Dallas",
+   "posted_at": "2026-10-19T18:45:33.367000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/41e581a5-b5ee-47cb-94e5-6224f1559e4d"
+  },
+  {
+   "external_id": "42c60b1a-5be4-4b8b-9c36-288c0d214551",
+   "title": "Broadcast Engineer",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-09-25T17:27:54.303000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/42c60b1a-5be4-4b8b-9c36-288c0d214551"
+  },
+  {
+   "external_id": "42e57a87-9dcb-4858-b840-ed607003d8fc",
+   "title": "Legal Engineer, Sydney",
+   "role_family": "finance_ops",
+   "location": "Sydney",
+   "posted_at": "2026-07-27T08:42:59.476000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/42e57a87-9dcb-4858-b840-ed607003d8fc"
+  },
+  {
+   "external_id": "43c6e218-ea85-4519-b2fe-dd188ff3234f",
+   "title": "Forward Deployed Finance Engineer, Private Credit",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-10-06T16:12:19.786000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/43c6e218-ea85-4519-b2fe-dd188ff3234f"
+  },
+  {
+   "external_id": "446091c7-8a78-4c1c-8de3-4a2289be6072",
+   "title": "Strategy Associate",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-12T16:03:35.080000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/446091c7-8a78-4c1c-8de3-4a2289be6072"
+  },
+  {
+   "external_id": "44788e27-425a-4946-b78a-0789a8dd0932",
+   "title": "Head of SMB Sales, AMER",
+   "role_family": "exec",
+   "location": "Chicago",
+   "posted_at": "2026-10-07T17:24:26.162000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/44788e27-425a-4946-b78a-0789a8dd0932"
+  },
+  {
+   "external_id": "45c49e6b-a7b5-40f9-812f-daa038b81bb3",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-14T19:51:03.094000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/45c49e6b-a7b5-40f9-812f-daa038b81bb3"
+  },
+  {
+   "external_id": "45f16834-5b6a-469d-b7ac-94e4e0773e0a",
+   "title": "Senior Technical Recruiter, Product & Design",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-10-09T15:21:00.265000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/45f16834-5b6a-469d-b7ac-94e4e0773e0a"
+  },
+  {
+   "external_id": "463bac67-20c1-49c5-8835-a64ca0e94c73",
+   "title": "Legal Innovation Partner",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-10-16T22:46:15.426000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/463bac67-20c1-49c5-8835-a64ca0e94c73"
+  },
+  {
+   "external_id": "467049ce-b5ea-4063-95aa-71c9742768d5",
+   "title": "Technical Program Manager, Platform & Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-06-02T15:09:12.400000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/467049ce-b5ea-4063-95aa-71c9742768d5"
+  },
+  {
+   "external_id": "46ca5e0d-20c3-44e6-b30e-09eac08726ab",
+   "title": "Account Executive, Mid Market (Spanish Speaking)",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-10-02T16:43:06.471000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/46ca5e0d-20c3-44e6-b30e-09eac08726ab"
+  },
+  {
+   "external_id": "47d3d763-8c64-4e33-b76e-ca15f584c1fd",
+   "title": "Staff Software Engineer, Frontend",
+   "role_family": "engineering",
+   "location": "Toronto",
+   "posted_at": "2025-08-07T10:48:13.507000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/47d3d763-8c64-4e33-b76e-ca15f584c1fd"
+  },
+  {
+   "external_id": "48513477-81ca-40c5-b099-0f587fd4e7fc",
+   "title": "Senior Product Marketing Manager, Core",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-07-09T14:11:57.211000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/48513477-81ca-40c5-b099-0f587fd4e7fc"
+  },
+  {
+   "external_id": "4855ba0b-f458-4067-8586-201b8b502cdd",
+   "title": "Manager, CX Knowledge & Enablement",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-10-15T23:26:29.695000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4855ba0b-f458-4067-8586-201b8b502cdd"
+  },
+  {
+   "external_id": "48b4e3ff-c317-4279-b214-dfb025e6be12",
+   "title": "Executive Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T23:20:54.480000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/48b4e3ff-c317-4279-b214-dfb025e6be12"
+  },
+  {
+   "external_id": "4a22c1e2-5550-415f-898d-da8d8914d1ee",
+   "title": "Legal Engineer (In-House)",
+   "role_family": "finance_ops",
+   "location": "Boston",
+   "posted_at": "2026-10-01T11:01:22.207000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4a22c1e2-5550-415f-898d-da8d8914d1ee"
+  },
+  {
+   "external_id": "4a7a598a-2dff-4c13-96e4-be39ec32bbd1",
+   "title": "Senior/Staff Product Manager, Spaces",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-09-09T22:23:14.430000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4a7a598a-2dff-4c13-96e4-be39ec32bbd1"
+  },
+  {
+   "external_id": "4a82c276-1113-41f6-baf9-a5be27e5c78f",
+   "title": "Staff Software Engineer, Core Infrastructure",
+   "role_family": "engineering",
+   "location": "Bengaluru",
+   "posted_at": "2026-03-27T16:49:13.340000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4a82c276-1113-41f6-baf9-a5be27e5c78f"
+  },
+  {
+   "external_id": "4b990a09-e6f7-49db-af7d-213f647f1a86",
+   "title": "Account Executive, Enterprise",
+   "role_family": "sales",
+   "location": "Toronto",
+   "posted_at": "2026-10-15T21:59:12.794000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4b990a09-e6f7-49db-af7d-213f647f1a86"
+  },
+  {
+   "external_id": "4d661139-19ad-42af-9f6c-a68c71263e14",
+   "title": "Staff Software Engineer, Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-12-01T23:37:40.482000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4d661139-19ad-42af-9f6c-a68c71263e14"
+  },
+  {
+   "external_id": "4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+   "title": "Software Engineer, New Grad (2027)",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-10-02T19:13:48.998000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"
+  },
+  {
+   "external_id": "4de85e3d-1810-4d93-b821-fcc442302e4f",
+   "title": "Legal Engineer (In-House)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-06-17T14:37:03.905000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4de85e3d-1810-4d93-b821-fcc442302e4f"
+  },
+  {
+   "external_id": "4ef44ab1-e402-4799-8d7c-e83f011b591b",
+   "title": "Head of SMB Sales, EMEA",
+   "role_family": "exec",
+   "location": "London",
+   "posted_at": "2026-10-15T20:19:27.633000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/4ef44ab1-e402-4799-8d7c-e83f011b591b"
+  },
+  {
+   "external_id": "50a8df2a-c50e-4326-ae90-0c9f8ee0cf1d",
+   "title": "Senior Product Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-21T21:29:29.643000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/50a8df2a-c50e-4326-ae90-0c9f8ee0cf1d"
+  },
+  {
+   "external_id": "514b90b4-5b4c-4e64-bc9a-2ab2ca6cf456",
+   "title": "Senior Product Operations Manager, Integrations",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-08-14T20:11:01.172000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/514b90b4-5b4c-4e64-bc9a-2ab2ca6cf456"
+  },
+  {
+   "external_id": "51f9f397-c7ca-4b4f-a8f1-f5ff17076503",
+   "title": "Partner Program Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-06-24T18:17:59.738000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/51f9f397-c7ca-4b4f-a8f1-f5ff17076503"
+  },
+  {
+   "external_id": "523ecfb5-63ed-4ca6-801e-bad3ab441e76",
+   "title": "Senior Solutions Architect",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-09-23T10:16:44.628000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/523ecfb5-63ed-4ca6-801e-bad3ab441e76"
+  },
+  {
+   "external_id": "5314ef66-59f0-48f7-ac46-c7b404f15b6c",
+   "title": "Head of AMER Legal Engineering (In-House)",
+   "role_family": "finance_ops",
+   "location": "Chicago",
+   "posted_at": "2026-09-10T16:55:09.937000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5314ef66-59f0-48f7-ac46-c7b404f15b6c"
+  },
+  {
+   "external_id": "531b617b-0ce3-4f5f-871a-688f546064a4",
+   "title": "Enterprise Customer Success Manager",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-09-14T17:03:59.260000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/531b617b-0ce3-4f5f-871a-688f546064a4"
+  },
+  {
+   "external_id": "53645e07-5a0e-4257-ba0d-f8b2fc676c44",
+   "title": "Senior Product Marketing Manager, Solutions",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-08-19T16:05:51.235000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/53645e07-5a0e-4257-ba0d-f8b2fc676c44"
+  },
+  {
+   "external_id": "538c508a-6f20-4dc3-bd9f-f015cba35113",
+   "title": "Business Recruiter, GTM",
+   "role_family": "finance_ops",
+   "location": "Boston",
+   "posted_at": "2026-10-15T19:56:30.179000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/538c508a-6f20-4dc3-bd9f-f015cba35113"
+  },
+  {
+   "external_id": "56483928-e6b1-4e30-b5fa-2539494fe620",
+   "title": "Director of Product Security",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T18:14:04.391000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/56483928-e6b1-4e30-b5fa-2539494fe620"
+  },
+  {
+   "external_id": "568a6afb-89fa-46bc-96cf-a7e75c8602e8",
+   "title": "Account Executive, Mid Market (German Speaking)",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-10-02T16:43:22.289000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/568a6afb-89fa-46bc-96cf-a7e75c8602e8"
+  },
+  {
+   "external_id": "57522b96-39c1-4a79-b768-5c1a49977a30",
+   "title": "Senior Integrated Campaigns Manager",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-10-07T20:32:00.481000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/57522b96-39c1-4a79-b768-5c1a49977a30"
+  },
+  {
+   "external_id": "576271e5-a578-40de-8706-b8d932b5788c",
+   "title": "Forward Deployed Finance Engineer, Real Estate",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-10-06T16:09:45.406000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/576271e5-a578-40de-8706-b8d932b5788c"
+  },
+  {
+   "external_id": "5803bb75-c647-45d4-ac3b-b97e83facc8d",
+   "title": "Strategic Sourcing Manager, Engineering Technology & Software",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-25T10:14:41.168000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5803bb75-c647-45d4-ac3b-b97e83facc8d"
+  },
+  {
+   "external_id": "594f114f-8389-4412-a2ae-d78b16abfa12",
+   "title": "Account Executive, Enterprise",
+   "role_family": "sales",
+   "location": "Mexico",
+   "posted_at": "2026-07-10T23:46:16.052000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/594f114f-8389-4412-a2ae-d78b16abfa12"
+  },
+  {
+   "external_id": "5960a059-9da8-4dc2-a599-2c7c0949b2b4",
+   "title": "Account Executive, Mid Market - Berlin",
+   "role_family": "sales",
+   "location": "Munich",
+   "posted_at": "2026-09-21T12:09:08.766000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5960a059-9da8-4dc2-a599-2c7c0949b2b4"
+  },
+  {
+   "external_id": "5a1452ff-566c-4a80-905d-61281a02a40f",
+   "title": "Recruiting Coordinator",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-14T20:51:31.468000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5a1452ff-566c-4a80-905d-61281a02a40f"
+  },
+  {
+   "external_id": "5a22d5da-6be0-4f97-87d2-bb6a52aba554",
+   "title": "Majors Customer Success Manager",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T20:17:44.028000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5a22d5da-6be0-4f97-87d2-bb6a52aba554"
+  },
+  {
+   "external_id": "5a27de6d-c40e-4504-92f3-e116cd3518b0",
+   "title": "Engineering Manager, AI Platform",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-20T22:09:01.731000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5a27de6d-c40e-4504-92f3-e116cd3518b0"
+  },
+  {
+   "external_id": "5a8864a6-0252-4749-bfb0-766efc39604a",
+   "title": "Senior Marketing Counsel",
+   "role_family": "marketing",
+   "location": "Dallas",
+   "posted_at": "2026-09-10T19:28:20.630000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5a8864a6-0252-4749-bfb0-766efc39604a"
+  },
+  {
+   "external_id": "5c95d264-44d9-40cd-86be-2257266f47be",
+   "title": "Mid-Market Customer Success Manager (LATAM - Portuguese Speaking)",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-10-16T18:26:34.233000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5c95d264-44d9-40cd-86be-2257266f47be"
+  },
+  {
+   "external_id": "5ce5fe86-8e2f-4003-b88a-77fbbdeaecad",
+   "title": "Senior Product Marketing Manager, Solutions",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-08-19T16:05:26.596000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5ce5fe86-8e2f-4003-b88a-77fbbdeaecad"
+  },
+  {
+   "external_id": "5d2e22a2-f9db-4baa-8398-38f3e52067fc",
+   "title": "Accounts Receivable Manager",
+   "role_family": "other",
+   "location": "Dublin",
+   "posted_at": "2026-10-09T16:28:58.302000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5d2e22a2-f9db-4baa-8398-38f3e52067fc"
+  },
+  {
+   "external_id": "5e68f8ed-1e00-4bd4-acfd-54405f553a0e",
+   "title": "Senior Product Operations Manager, Integrations",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-08-14T20:10:15.069000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5e68f8ed-1e00-4bd4-acfd-54405f553a0e"
+  },
+  {
+   "external_id": "5fc18ede-0043-496c-a928-41acf9fedb51",
+   "title": "Incident Handler",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-09T16:44:38.239000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/5fc18ede-0043-496c-a928-41acf9fedb51"
+  },
+  {
+   "external_id": "60701fe8-5640-40fc-b2ce-161eb6a8542b",
+   "title": "Legal Engineer (Arabic Speaking)",
+   "role_family": "finance_ops",
+   "location": "London",
+   "posted_at": "2026-10-07T11:30:13.033000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/60701fe8-5640-40fc-b2ce-161eb6a8542b"
+  },
+  {
+   "external_id": "6093563c-0c23-4a81-aa6a-b052b734099f",
+   "title": "Partner Marketing Manager",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-10-01T18:08:07.251000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6093563c-0c23-4a81-aa6a-b052b734099f"
+  },
+  {
+   "external_id": "60d3a393-50bc-4f1c-88b7-df6d2507ceda",
+   "title": "Staff Software Engineer, Secure Execution",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T19:51:00.151000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/60d3a393-50bc-4f1c-88b7-df6d2507ceda"
+  },
+  {
+   "external_id": "62570156-bb6a-42b5-aae4-ea544d9f1beb",
+   "title": "Sales Development Representative  (German Speaking)",
+   "role_family": "sales",
+   "location": "Munich",
+   "posted_at": "2026-09-28T13:43:34.697000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/62570156-bb6a-42b5-aae4-ea544d9f1beb"
+  },
+  {
+   "external_id": "633df5f6-fd69-4066-96c8-7c5c06d9ba33",
+   "title": "Enterprise Account Executive, Public Sector",
+   "role_family": "sales",
+   "location": "Sydney",
+   "posted_at": "2026-10-09T11:28:21.882000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/633df5f6-fd69-4066-96c8-7c5c06d9ba33"
+  },
+  {
+   "external_id": "63439ab1-eceb-40fc-9326-476335db26fb",
+   "title": "Lead Copywriter",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-07-15T20:47:41.865000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/63439ab1-eceb-40fc-9326-476335db26fb"
+  },
+  {
+   "external_id": "637d5f7d-759d-40f3-868d-f3a45d37ff10",
+   "title": "Sales Manager, Enterprise",
+   "role_family": "other",
+   "location": "Singapore",
+   "posted_at": "2026-08-26T04:24:50.051000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/637d5f7d-759d-40f3-868d-f3a45d37ff10"
+  },
+  {
+   "external_id": "65f46384-53c0-46ab-b87a-ab228c562f55",
+   "title": "Manager, Customer Experience",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-09-04T23:10:38.178000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/65f46384-53c0-46ab-b87a-ab228c562f55"
+  },
+  {
+   "external_id": "667ee044-f6ae-4714-8339-ff949f8faef1",
+   "title": "Customer Success Manager, Enterprise, EMEA",
+   "role_family": "customer",
+   "location": "Munich",
+   "posted_at": "2026-07-02T12:28:56.086000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/667ee044-f6ae-4714-8339-ff949f8faef1"
+  },
+  {
+   "external_id": "669bf81e-3f34-406a-bfe5-07f45dc66839",
+   "title": "Account Executive, Mid Market (Italian Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-02T16:42:55.761000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/669bf81e-3f34-406a-bfe5-07f45dc66839"
+  },
+  {
+   "external_id": "66a13783-3073-4474-8dad-90f4146885ef",
+   "title": "Staff Software Engineer, Backend Platform",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-20T19:40:08.527000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/66a13783-3073-4474-8dad-90f4146885ef"
+  },
+  {
+   "external_id": "672f45e7-0689-4a6a-92e4-712beaa2eeca",
+   "title": "Senior Software Engineer, Agents",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-04-08T20:49:22.410000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/672f45e7-0689-4a6a-92e4-712beaa2eeca"
+  },
+  {
+   "external_id": "68bb5519-f4a5-4fa4-ba47-886f0abc36d8",
+   "title": "Staff Product Manager, Agents",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-10-14T22:22:57.428000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/68bb5519-f4a5-4fa4-ba47-886f0abc36d8"
+  },
+  {
+   "external_id": "6926b8ea-a3bc-4f29-bcc7-5ed70780b4c6",
+   "title": "International Law School Manager",
+   "role_family": "other",
+   "location": "Paris",
+   "posted_at": "2026-09-21T19:55:53.531000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6926b8ea-a3bc-4f29-bcc7-5ed70780b4c6"
+  },
+  {
+   "external_id": "6a840e0d-6af8-4ad6-a182-7534ce64e7e2",
+   "title": "Senior Software Engineer, Production Engineering",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-07-30T23:36:32.930000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6a840e0d-6af8-4ad6-a182-7534ce64e7e2"
+  },
+  {
+   "external_id": "6ad3902b-2888-4c02-913d-de942e807133",
+   "title": "Staff Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Toronto",
+   "posted_at": "2025-08-07T10:47:38.950000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6ad3902b-2888-4c02-913d-de942e807133"
+  },
+  {
+   "external_id": "6be92530-1e2f-433b-974a-55586bc3ba0c",
+   "title": "Sales Manager, SMB, EMEA",
+   "role_family": "other",
+   "location": "Dublin",
+   "posted_at": "2026-10-15T08:41:40.800000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6be92530-1e2f-433b-974a-55586bc3ba0c"
+  },
+  {
+   "external_id": "6c95865e-0803-47c2-889d-103afa385b53",
+   "title": "Account Executive, Enterprise (Public Sector - Federal)",
+   "role_family": "sales",
+   "location": "Washington DC",
+   "posted_at": "2026-09-03T12:57:09.023000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6c95865e-0803-47c2-889d-103afa385b53"
+  },
+  {
+   "external_id": "6cb0809d-923f-4119-a0d1-babb0c9289c4",
+   "title": "Staff Software Engineer, Core Infrastructure",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-04-27T20:18:39.094000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6cb0809d-923f-4119-a0d1-babb0c9289c4"
+  },
+  {
+   "external_id": "6cb88307-4fa1-42d8-8c9e-e331e4364e4f",
+   "title": "Staff Solutions Architect, Public Sector",
+   "role_family": "customer",
+   "location": "Washington DC",
+   "posted_at": "2026-09-28T16:20:33.293000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6cb88307-4fa1-42d8-8c9e-e331e4364e4f"
+  },
+  {
+   "external_id": "6e677803-46da-4354-b5af-93d5de97637a",
+   "title": "Workplace Project Manager",
+   "role_family": "other",
+   "location": "Toronto",
+   "posted_at": "2026-10-15T23:39:37.807000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6e677803-46da-4354-b5af-93d5de97637a"
+  },
+  {
+   "external_id": "6ef4e19f-b414-4547-be73-a573c1de4949",
+   "title": "Partner Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T14:00:35.474000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6ef4e19f-b414-4547-be73-a573c1de4949"
+  },
+  {
+   "external_id": "6fcd8281-797e-4ce0-bbc1-72d89759bf24",
+   "title": "Sales Manager, Mid-Market, EMEA",
+   "role_family": "other",
+   "location": "Dublin",
+   "posted_at": "2026-10-02T09:59:15.865000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6fcd8281-797e-4ce0-bbc1-72d89759bf24"
+  },
+  {
+   "external_id": "6fef4451-dbbf-40e7-a41c-5569641bcc16",
+   "title": "Director, Government Affairs & Public Policy",
+   "role_family": "exec",
+   "location": "New York",
+   "posted_at": "2026-10-01T17:45:31.320000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/6fef4451-dbbf-40e7-a41c-5569641bcc16"
+  },
+  {
+   "external_id": "7046c0a2-6fd0-47e1-a6b3-e340a2db8885",
+   "title": "Incident Handler",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-09T16:44:53.134000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7046c0a2-6fd0-47e1-a6b3-e340a2db8885"
+  },
+  {
+   "external_id": "70de1761-168d-4d89-be08-7eed3f834649",
+   "title": "Field Marketing Manager, APAC",
+   "role_family": "marketing",
+   "location": "Sydney",
+   "posted_at": "2026-09-25T16:24:51.092000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/70de1761-168d-4d89-be08-7eed3f834649"
+  },
+  {
+   "external_id": "7103fd26-a5c9-4619-9ecf-e1fca89c0d6b",
+   "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
+   "role_family": "finance_ops",
+   "location": "Dallas",
+   "posted_at": "2026-06-17T14:37:39.498000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7103fd26-a5c9-4619-9ecf-e1fca89c0d6b"
+  },
+  {
+   "external_id": "724731a2-ad58-4cb4-a784-c90386309501",
+   "title": "Program Manager, Customer Engagement",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-10-21T00:31:24.753000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/724731a2-ad58-4cb4-a784-c90386309501"
+  },
+  {
+   "external_id": "7325a214-908d-48a4-bbc2-f5c3a6c9ed00",
+   "title": "Staff Product Designer",
+   "role_family": "product_design",
+   "location": "Toronto",
+   "posted_at": "2026-05-12T18:15:49.040000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7325a214-908d-48a4-bbc2-f5c3a6c9ed00"
+  },
+  {
+   "external_id": "754bb046-a622-40dd-8416-0af87f1f0301",
+   "title": "Senior Analytics Engineer, Product",
+   "role_family": "data",
+   "location": "San Francisco",
+   "posted_at": "2026-08-04T00:14:59.530000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/754bb046-a622-40dd-8416-0af87f1f0301"
+  },
+  {
+   "external_id": "758d43a5-eb76-4ca6-b79c-6607415a7e86",
+   "title": "Account Executive, Mid Market (French Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-02T16:42:45.840000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/758d43a5-eb76-4ca6-b79c-6607415a7e86"
+  },
+  {
+   "external_id": "775f03e0-c2a3-4ac9-822e-d84b212fdf1d",
+   "title": "Director of Detection and Response",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-10-08T20:51:34.556000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/775f03e0-c2a3-4ac9-822e-d84b212fdf1d"
+  },
+  {
+   "external_id": "7797d468-fabc-4bda-b861-726db7171f23",
+   "title": "Staff/Sr. Staff Software Engineer, Product Engineering",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-09T22:35:24.400000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7797d468-fabc-4bda-b861-726db7171f23"
+  },
+  {
+   "external_id": "77c480a0-e507-46a4-a417-335903381904",
+   "title": "Enterprise Customer Success Manager",
+   "role_family": "customer",
+   "location": "Toronto",
+   "posted_at": "2026-10-14T16:57:39.595000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/77c480a0-e507-46a4-a417-335903381904"
+  },
+  {
+   "external_id": "787fe815-2f6d-4a9a-8c1e-6205bd105389",
+   "title": "Account Executive, Enterprise, EMEA",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2024-09-13T15:30:45.898000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/787fe815-2f6d-4a9a-8c1e-6205bd105389"
+  },
+  {
+   "external_id": "78d412a6-d63a-4475-802b-934aa0e12ccb",
+   "title": "Senior Manager, Engineering",
+   "role_family": "engineering",
+   "location": "Bengaluru",
+   "posted_at": "2026-08-14T05:42:38.306000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/78d412a6-d63a-4475-802b-934aa0e12ccb"
+  },
+  {
+   "external_id": "799df8d8-2d4c-459a-884b-61a7c9824ad8",
+   "title": "Legal Engineer Manager, Munich",
+   "role_family": "finance_ops",
+   "location": "Munich",
+   "posted_at": "2026-09-22T07:36:44.807000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/799df8d8-2d4c-459a-884b-61a7c9824ad8"
+  },
+  {
+   "external_id": "79b98a8b-14cc-4cec-83ff-32969cc0cbfe",
+   "title": "Mid Market Sales Manager",
+   "role_family": "other",
+   "location": "Mexico",
+   "posted_at": "2026-07-14T21:19:17.141000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/79b98a8b-14cc-4cec-83ff-32969cc0cbfe"
+  },
+  {
+   "external_id": "7ab6524a-12e0-49d1-b034-718da3fa7479",
+   "title": "Account Executive, SMB (French Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-02T15:56:00.818000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7ab6524a-12e0-49d1-b034-718da3fa7479"
+  },
+  {
+   "external_id": "7aecc883-f979-43fa-afbb-65def674f556",
+   "title": "Senior or Staff User Researcher",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-07-21T00:30:12.266000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7aecc883-f979-43fa-afbb-65def674f556"
+  },
+  {
+   "external_id": "7c71db12-6edb-441e-b76c-847ef6d00527",
+   "title": "Senior Software Engineer, Backend Platform",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-12-18T16:23:51.990000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7c71db12-6edb-441e-b76c-847ef6d00527"
+  },
+  {
+   "external_id": "7d4d8f8e-8c9b-4105-8136-0dbfe54c3512",
+   "title": "Staff Software Engineer, Frontend",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-08-22T14:54:36.004000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7d4d8f8e-8c9b-4105-8136-0dbfe54c3512"
+  },
+  {
+   "external_id": "7e7261f2-307d-43ff-a339-cbd2e26d70cd",
+   "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
+   "role_family": "finance_ops",
+   "location": "Chicago",
+   "posted_at": "2026-06-17T14:37:43.022000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7e7261f2-307d-43ff-a339-cbd2e26d70cd"
+  },
+  {
+   "external_id": "7ef2c12e-dd17-4d8c-a445-bd4ebf559484",
+   "title": "Privacy and AI Counsel, EMEA",
+   "role_family": "other",
+   "location": "Dublin",
+   "posted_at": "2026-09-09T10:23:21.043000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7ef2c12e-dd17-4d8c-a445-bd4ebf559484"
+  },
+  {
+   "external_id": "7fb5282c-dab3-4b5e-9171-9ebc7e35fdbe",
+   "title": "Mid-Market Customer Success Manager (Dallas)",
+   "role_family": "customer",
+   "location": "Dallas",
+   "posted_at": "2026-08-26T15:14:26.404000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/7fb5282c-dab3-4b5e-9171-9ebc7e35fdbe"
+  },
+  {
+   "external_id": "80de9204-db5f-4ed9-95f6-014d33994a75",
+   "title": "Account Executive, SMB, EMEA",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-10-01T08:38:15.147000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/80de9204-db5f-4ed9-95f6-014d33994a75"
+  },
+  {
+   "external_id": "812cdf8b-1702-460e-84b4-ffbfb2088ceb",
+   "title": "Staff Web Engineer",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-08-18T23:02:17.274000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/812cdf8b-1702-460e-84b4-ffbfb2088ceb"
+  },
+  {
+   "external_id": "824ef487-4f82-4ff1-a0b3-34d50d906100",
+   "title": "Lead Copywriter",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-07-15T20:48:04.528000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/824ef487-4f82-4ff1-a0b3-34d50d906100"
+  },
+  {
+   "external_id": "83215ffd-c901-4cd6-8081-35e072e966cd",
+   "title": "Integrated Campaigns Lead",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-08-11T23:21:13.848000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/83215ffd-c901-4cd6-8081-35e072e966cd"
+  },
+  {
+   "external_id": "851b416f-9869-4b9c-9c10-5105bded4330",
+   "title": "Staff Web Designer",
+   "role_family": "product_design",
+   "location": "New York",
+   "posted_at": "2026-08-07T19:34:52.631000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/851b416f-9869-4b9c-9c10-5105bded4330"
+  },
+  {
+   "external_id": "859b90d6-a371-42ba-a5a2-a4a4ca2ab4a7",
+   "title": "Enterprise Account Executive, ANZ",
+   "role_family": "sales",
+   "location": "Sydney",
+   "posted_at": "2026-10-12T00:35:55.134000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/859b90d6-a371-42ba-a5a2-a4a4ca2ab4a7"
+  },
+  {
+   "external_id": "85b1e377-4328-4802-88cc-2fe7162e6051",
+   "title": "Senior Marketing Counsel",
+   "role_family": "marketing",
+   "location": "Chicago",
+   "posted_at": "2026-09-10T19:28:25.410000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/85b1e377-4328-4802-88cc-2fe7162e6051"
+  },
+  {
+   "external_id": "85de4e2f-9ece-40a6-bea4-3ee94bba6c97",
+   "title": "Senior/Staff Product Manager, Vault",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-07-07T23:22:41.021000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/85de4e2f-9ece-40a6-bea4-3ee94bba6c97"
+  },
+  {
+   "external_id": "864392c2-9ff4-4b95-9e06-46bf46bf6522",
+   "title": "Account Executive, Enterprise, Asset Management",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-10-09T10:24:11.994000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/864392c2-9ff4-4b95-9e06-46bf46bf6522"
+  },
+  {
+   "external_id": "879d9051-0f20-4fcf-8e73-7293044dd7a2",
+   "title": "Staff Software Engineer, Agents",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-07-22T16:44:11.173000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/879d9051-0f20-4fcf-8e73-7293044dd7a2"
+  },
+  {
+   "external_id": "891889e0-0a4b-4496-85a6-3d42fb05304d",
+   "title": "Customer Success Leader, Southern Europe & DACH",
+   "role_family": "customer",
+   "location": "Paris",
+   "posted_at": "2026-08-27T10:10:59.470000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/891889e0-0a4b-4496-85a6-3d42fb05304d"
+  },
+  {
+   "external_id": "89d41987-0df3-4817-bb55-c83e321a8b2f",
+   "title": "Account Executive, Enterprise (Public Sector - State & Local)",
+   "role_family": "sales",
+   "location": "Washington DC",
+   "posted_at": "2026-09-03T17:52:21.596000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/89d41987-0df3-4817-bb55-c83e321a8b2f"
+  },
+  {
+   "external_id": "8afd7e79-96be-413f-a8a8-391e7d2113e6",
+   "title": "Senior Software Engineer, Frontend",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-06-24T22:58:43.094000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8afd7e79-96be-413f-a8a8-391e7d2113e6"
+  },
+  {
+   "external_id": "8b16bcf7-9255-4859-8416-a7ff921032e6",
+   "title": "Senior Staff Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Bengaluru",
+   "posted_at": "2026-05-28T17:20:27.142000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8b16bcf7-9255-4859-8416-a7ff921032e6"
+  },
+  {
+   "external_id": "8b3d2aef-b604-4c24-9c09-823a3cad984e",
+   "title": "Partner Program Lead",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-06-24T18:17:36.782000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8b3d2aef-b604-4c24-9c09-823a3cad984e"
+  },
+  {
+   "external_id": "8c07cb74-765a-46ea-a0f1-795f45597d79",
+   "title": "Staff Software Engineer, OfficeJS",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-06-25T23:39:43.797000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8c07cb74-765a-46ea-a0f1-795f45597d79"
+  },
+  {
+   "external_id": "8caa7beb-d41c-4802-a23d-4e72b6838f13",
+   "title": "Analyst, Customer Trust",
+   "role_family": "other",
+   "location": "London",
+   "posted_at": "2026-07-22T21:31:40.181000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8caa7beb-d41c-4802-a23d-4e72b6838f13"
+  },
+  {
+   "external_id": "8d092528-2554-42e4-a68b-67307b48e6aa",
+   "title": "Staff Product Manager",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2025-10-08T01:47:23.109000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8d092528-2554-42e4-a68b-67307b48e6aa"
+  },
+  {
+   "external_id": "8da5efb4-4659-4ff7-aca9-b9a88c040ba3",
+   "title": "Mid-Market Customer Success Manager (Chicago)",
+   "role_family": "customer",
+   "location": "Chicago",
+   "posted_at": "2026-06-15T22:09:03.348000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8da5efb4-4659-4ff7-aca9-b9a88c040ba3"
+  },
+  {
+   "external_id": "8e513820-55f8-4cbd-8bdd-28a67992469c",
+   "title": "Staff Software Engineer, Full Stack - NYC",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-05-15T03:43:31.768000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8e513820-55f8-4cbd-8bdd-28a67992469c"
+  },
+  {
+   "external_id": "8e56d3ef-5133-40e9-9f8e-b9c5d6563455",
+   "title": "Head of AMER Legal Engineering (In-House)",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-09-10T16:55:02.239000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8e56d3ef-5133-40e9-9f8e-b9c5d6563455"
+  },
+  {
+   "external_id": "8eb10df5-5af8-4538-921a-da5299df21db",
+   "title": "Head of Mid Market Sales, North America",
+   "role_family": "exec",
+   "location": "Chicago",
+   "posted_at": "2026-10-15T16:42:41.371000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/8eb10df5-5af8-4538-921a-da5299df21db"
+  },
+  {
+   "external_id": "9318ba76-60df-4b39-b036-95f488a46c7c",
+   "title": "Engagement Manager, EMEA",
+   "role_family": "other",
+   "location": "London",
+   "posted_at": "2026-07-29T17:32:46.256000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9318ba76-60df-4b39-b036-95f488a46c7c"
+  },
+  {
+   "external_id": "940d071d-5093-44f3-97c8-afa5b78cd869",
+   "title": "Director Global Benefits",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-08-28T23:57:52.399000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/940d071d-5093-44f3-97c8-afa5b78cd869"
+  },
+  {
+   "external_id": "94495873-2f90-4c42-a45d-b10b2b0756a7",
+   "title": "Senior Product Operations Manager, Data",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-08-14T17:55:04.874000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/94495873-2f90-4c42-a45d-b10b2b0756a7"
+  },
+  {
+   "external_id": "9515e54b-bae5-414e-a166-9a6231a610a4",
+   "title": "Partner Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-10-01T18:08:44.422000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9515e54b-bae5-414e-a166-9a6231a610a4"
+  },
+  {
+   "external_id": "953b710f-3c48-4409-ad30-6416da8ed043",
+   "title": "GTM Systems Administrator, EMEA",
+   "role_family": "other",
+   "location": "Dublin",
+   "posted_at": "2026-09-15T14:06:00.598000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/953b710f-3c48-4409-ad30-6416da8ed043"
+  },
+  {
+   "external_id": "95b0e486-e777-4435-a842-19db85d1f137",
+   "title": "Sales Development Representative (Italian Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-09-30T15:21:29.453000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/95b0e486-e777-4435-a842-19db85d1f137"
+  },
+  {
+   "external_id": "95d7c087-8283-4e17-937d-2ee363ec95ef",
+   "title": "Associate Commercial Counsel",
+   "role_family": "other",
+   "location": "Munich",
+   "posted_at": "2026-10-08T13:50:31.746000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/95d7c087-8283-4e17-937d-2ee363ec95ef"
+  },
+  {
+   "external_id": "963db922-ea97-47f1-9731-ed0ec1dc026a",
+   "title": "Legal Engineer (In-House)",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-06-17T14:37:00.695000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/963db922-ea97-47f1-9731-ed0ec1dc026a"
+  },
+  {
+   "external_id": "977e6184-2dc4-422b-8ab3-bc26bb73f778",
+   "title": "Legal Engineering Manager (Law Firm, Litigation/Regulatory)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-29T16:53:31.101000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/977e6184-2dc4-422b-8ab3-bc26bb73f778"
+  },
+  {
+   "external_id": "9814b9ca-5917-43f8-8f76-6df7aa7e2be3",
+   "title": "Senior or Staff Product Designer, Design Systems",
+   "role_family": "product_design",
+   "location": "New York",
+   "posted_at": "2026-02-12T14:49:37.515000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9814b9ca-5917-43f8-8f76-6df7aa7e2be3"
+  },
+  {
+   "external_id": "98572b27-b6fc-4682-a441-62874eb10265",
+   "title": "Sales Development Representative (English Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-09-30T15:21:19.055000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/98572b27-b6fc-4682-a441-62874eb10265"
+  },
+  {
+   "external_id": "992183a0-4526-4ea6-be3d-799a2401da4f",
+   "title": "Senior Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Bengaluru",
+   "posted_at": "2026-04-21T16:11:11.049000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/992183a0-4526-4ea6-be3d-799a2401da4f"
+  },
+  {
+   "external_id": "992f731a-7b8b-48d5-a856-ecef79ea8366",
+   "title": "International Law School Manager",
+   "role_family": "other",
+   "location": "Madrid",
+   "posted_at": "2026-09-21T19:56:04.870000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/992f731a-7b8b-48d5-a856-ecef79ea8366"
+  },
+  {
+   "external_id": "99aceabe-916e-4491-97e9-42f2471bf087",
+   "title": "Account Executive, Mid-Market",
+   "role_family": "sales",
+   "location": "New York",
+   "posted_at": "2026-10-01T11:00:05.737000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/99aceabe-916e-4491-97e9-42f2471bf087"
+  },
+  {
+   "external_id": "9ab52bf5-0d83-418a-bf03-e7dd75359473",
+   "title": "Account Executive, Mid Market - Munich",
+   "role_family": "sales",
+   "location": "Munich",
+   "posted_at": "2026-09-08T09:06:17.953000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9ab52bf5-0d83-418a-bf03-e7dd75359473"
+  },
+  {
+   "external_id": "9b7ae8f4-773e-4f83-83fa-096d157ae00d",
+   "title": "Staff Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-05-05T16:43:54.462000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9b7ae8f4-773e-4f83-83fa-096d157ae00d"
+  },
+  {
+   "external_id": "9cc08902-8916-47a8-a849-eec2c67ab3bd",
+   "title": "Staff Software Engineer, Developer Experience",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-05-01T23:04:06.576000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9cc08902-8916-47a8-a849-eec2c67ab3bd"
+  },
+  {
+   "external_id": "9cf781f8-6203-4cd7-a1c8-0c149fc2afc5",
+   "title": "Content Marketing Lead",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-09-04T22:43:11.967000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9cf781f8-6203-4cd7-a1c8-0c149fc2afc5"
+  },
+  {
+   "external_id": "9ea6dcda-7869-4181-b493-2822bbc14097",
+   "title": "Staff Technical Program Manager",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-13T22:37:18.348000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9ea6dcda-7869-4181-b493-2822bbc14097"
+  },
+  {
+   "external_id": "9f57ab6f-b16c-465b-ae4e-8f3ccd90920f",
+   "title": "Program Manager, Product Systems and Insights",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T18:12:33.289000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9f57ab6f-b16c-465b-ae4e-8f3ccd90920f"
+  },
+  {
+   "external_id": "9fe1324c-8eeb-4138-ab85-f4d75968e48a",
+   "title": "Corporate Business Development Manager, Product",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-07-16T20:34:10.992000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/9fe1324c-8eeb-4138-ab85-f4d75968e48a"
+  },
+  {
+   "external_id": "a194c24f-38ee-4c7e-908b-060a16dfaa9d",
+   "title": "Law School Student Ambassador",
+   "role_family": "other",
+   "location": "Remote",
+   "posted_at": "2026-06-25T16:59:33.472000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/a194c24f-38ee-4c7e-908b-060a16dfaa9d"
+  },
+  {
+   "external_id": "a35efd1c-e5ad-4556-bfa4-d2e13f8b7f1c",
+   "title": "Applied Legal Researcher",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-02-05T02:45:51.904000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/a35efd1c-e5ad-4556-bfa4-d2e13f8b7f1c"
+  },
+  {
+   "external_id": "a3981433-9f7c-46f7-8245-7b1013a0f9f0",
+   "title": "Legal Engineering Program Manager",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-08-04T15:45:16.601000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/a3981433-9f7c-46f7-8245-7b1013a0f9f0"
+  },
+  {
+   "external_id": "a3e67f81-3c8a-443d-80d0-9f405cd5a456",
+   "title": "Corporate Business Development Manager, Product",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-07-16T20:34:14.807000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/a3e67f81-3c8a-443d-80d0-9f405cd5a456"
+  },
+  {
+   "external_id": "a6bfcd6d-a899-4e11-bb61-57f2d9f35dec",
+   "title": "Staff Product Manager, Agents",
+   "role_family": "product_design",
+   "location": "New York",
+   "posted_at": "2026-10-14T22:23:09.429000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/a6bfcd6d-a899-4e11-bb61-57f2d9f35dec"
+  },
+  {
+   "external_id": "a8a0c22a-fb05-4eb0-85c2-8ea334058324",
+   "title": "Majors Customer Success Manager",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-09-22T20:19:04.734000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/a8a0c22a-fb05-4eb0-85c2-8ea334058324"
+  },
+  {
+   "external_id": "aa2ee4f0-e9d9-4773-ac70-820aabb1a95a",
+   "title": "Legal Engineer (In-House)",
+   "role_family": "finance_ops",
+   "location": "Dallas",
+   "posted_at": "2026-06-17T14:37:08.396000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/aa2ee4f0-e9d9-4773-ac70-820aabb1a95a"
+  },
+  {
+   "external_id": "aa5babaa-bd03-45d2-beea-c159a8bec305",
+   "title": "Program Manager, Product Systems and Insights",
+   "role_family": "product_design",
+   "location": "New York",
+   "posted_at": "2026-09-24T18:14:31.507000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/aa5babaa-bd03-45d2-beea-c159a8bec305"
+  },
+  {
+   "external_id": "ac029bf4-0abd-434e-911e-fbb22921ace3",
+   "title": "CX Specialist",
+   "role_family": "customer",
+   "location": "Remote",
+   "posted_at": "2026-09-25T18:40:25.773000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ac029bf4-0abd-434e-911e-fbb22921ace3"
+  },
+  {
+   "external_id": "ac0d8c8e-0b4a-4e33-9bac-d3547377e9dd",
+   "title": "Director of Detection and Response",
+   "role_family": "exec",
+   "location": "New York",
+   "posted_at": "2026-10-08T20:51:28.823000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ac0d8c8e-0b4a-4e33-9bac-d3547377e9dd"
+  },
+  {
+   "external_id": "ad1fb947-0858-4e81-a8e0-a7d4a2822201",
+   "title": "Workplace Project Manager",
+   "role_family": "other",
+   "location": "Boston",
+   "posted_at": "2026-10-15T14:28:38.469000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ad1fb947-0858-4e81-a8e0-a7d4a2822201"
+  },
+  {
+   "external_id": "ad501e84-8f0e-45a9-a692-9bab240c692d",
+   "title": "Account Executive, Mid Market",
+   "role_family": "sales",
+   "location": "Madrid",
+   "posted_at": "2026-10-16T12:22:57.351000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ad501e84-8f0e-45a9-a692-9bab240c692d"
+  },
+  {
+   "external_id": "ae1111f2-f6ff-4923-a5ef-d3f2710b54d9",
+   "title": "M&A Counsel",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-14T18:41:04.239000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ae1111f2-f6ff-4923-a5ef-d3f2710b54d9"
+  },
+  {
+   "external_id": "ae15faa5-f306-4abd-a10a-4b1212c208d9",
+   "title": "CX Specialist",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-09-25T18:38:31.855000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ae15faa5-f306-4abd-a10a-4b1212c208d9"
+  },
+  {
+   "external_id": "aede4098-91f4-44f5-9d53-27c15cb2bae7",
+   "title": "Senior or Staff Product Designer, Design Systems",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-02-12T14:51:35.093000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/aede4098-91f4-44f5-9d53-27c15cb2bae7"
+  },
+  {
+   "external_id": "af2f6c0b-f470-4f79-b2d7-3004a3dce472",
+   "title": "Senior Software Engineer, Agents",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-07-22T16:44:01.701000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/af2f6c0b-f470-4f79-b2d7-3004a3dce472"
+  },
+  {
+   "external_id": "b0570329-6c45-4446-9314-146c9dead90b",
+   "title": "Head of Legal Engineering, EMEA",
+   "role_family": "finance_ops",
+   "location": "London",
+   "posted_at": "2026-10-09T14:33:35.018000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b0570329-6c45-4446-9314-146c9dead90b"
+  },
+  {
+   "external_id": "b0996df6-6b6e-42be-a4f9-0084536068f5",
+   "title": "Software Engineer, New Grad (2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-02T19:13:45.839000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"
+  },
+  {
+   "external_id": "b09bcd2f-cf92-49d7-a23b-c5051ae5f40d",
+   "title": "Lead Product Owner, Finance Applications",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-09-24T18:06:29.925000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b09bcd2f-cf92-49d7-a23b-c5051ae5f40d"
+  },
+  {
+   "external_id": "b4f45d7f-6a88-40d5-83a6-e4db27f3e402",
+   "title": "Senior Software Engineer, Full Stack",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-05-13T23:34:40.007000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b4f45d7f-6a88-40d5-83a6-e4db27f3e402"
+  },
+  {
+   "external_id": "b6cfee1e-67c7-420e-a3fc-24677eda6d2c",
+   "title": "Senior Brand Designer",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-08-18T20:17:19.948000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b6cfee1e-67c7-420e-a3fc-24677eda6d2c"
+  },
+  {
+   "external_id": "b774c88e-5d8f-48d3-aed7-948f2e4292b7",
+   "title": "Staff Software Engineer, Backend - NYC",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-06-22T14:28:00.198000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b774c88e-5d8f-48d3-aed7-948f2e4292b7"
+  },
+  {
+   "external_id": "b7842fd8-72b2-43ea-8b5e-57aa45d893c7",
+   "title": "Senior Technical CX Specialist",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-09-08T22:35:19.196000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b7842fd8-72b2-43ea-8b5e-57aa45d893c7"
+  },
+  {
+   "external_id": "b7fbe6a3-397b-4510-ac91-44253ab0ccf5",
+   "title": "Sr. Technical Program Manager,  GTM Technology",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-06T16:54:16.605000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b7fbe6a3-397b-4510-ac91-44253ab0ccf5"
+  },
+  {
+   "external_id": "b8348643-507b-4793-8e8c-62ffa6a0c254",
+   "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-06-17T14:37:46.331000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b8348643-507b-4793-8e8c-62ffa6a0c254"
+  },
+  {
+   "external_id": "b8a9dded-d9f4-4295-8216-fdc93beec6d1",
+   "title": "Sales Development Representative, ANZ",
+   "role_family": "sales",
+   "location": "Sydney",
+   "posted_at": "2026-10-06T08:21:15.272000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/b8a9dded-d9f4-4295-8216-fdc93beec6d1"
+  },
+  {
+   "external_id": "ba1dd03d-f8fa-4097-8aa1-757fe17b2166",
+   "title": "Account Executive, Mid-Market - ANZ",
+   "role_family": "sales",
+   "location": "Sydney",
+   "posted_at": "2026-08-21T08:06:40.710000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ba1dd03d-f8fa-4097-8aa1-757fe17b2166"
+  },
+  {
+   "external_id": "bab83f3e-dfa4-4e8e-9160-6ed428d3ab13",
+   "title": "Sr. Technical Program Manager, GTM Technology",
+   "role_family": "other",
+   "location": "Remote",
+   "posted_at": "2026-10-06T16:53:27.777000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/bab83f3e-dfa4-4e8e-9160-6ed428d3ab13"
+  },
+  {
+   "external_id": "baf63625-28db-45e7-a8d0-98bd60fe3688",
+   "title": "Legal Engineer",
+   "role_family": "finance_ops",
+   "location": "Stockholm",
+   "posted_at": "2026-10-07T12:43:02.395000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/baf63625-28db-45e7-a8d0-98bd60fe3688"
+  },
+  {
+   "external_id": "bc2cf43d-c37d-4496-b64e-277ba79ad415",
+   "title": "Senior Engineering Manager",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-21T00:10:28.929000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/bc2cf43d-c37d-4496-b64e-277ba79ad415"
+  },
+  {
+   "external_id": "bc479bb5-445f-4e9f-a0bc-d2e1bab03947",
+   "title": "Manager, Enterprise Application Engineering, EMEA",
+   "role_family": "other",
+   "location": "Dublin",
+   "posted_at": "2026-10-09T10:53:41.375000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/bc479bb5-445f-4e9f-a0bc-d2e1bab03947"
+  },
+  {
+   "external_id": "bcc3d29e-31c1-45d7-8229-52bd143a4667",
+   "title": "Head of Product Communications",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-08-06T14:53:02.318000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/bcc3d29e-31c1-45d7-8229-52bd143a4667"
+  },
+  {
+   "external_id": "bd54cfd8-933d-46a8-9796-e249b82cef7f",
+   "title": "Staff Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Bengaluru",
+   "posted_at": "2026-05-25T16:55:41.391000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/bd54cfd8-933d-46a8-9796-e249b82cef7f"
+  },
+  {
+   "external_id": "bdf70da6-ea24-4e47-8580-962869911179",
+   "title": "Sr. Technical Program Manager, GTM Technology",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-06T16:54:00.476000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/bdf70da6-ea24-4e47-8580-962869911179"
+  },
+  {
+   "external_id": "be87aefc-9e03-4294-a86f-a4c5e9fddb44",
+   "title": "Senior Product Operations Manager",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2025-10-09T15:21:36.538000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/be87aefc-9e03-4294-a86f-a4c5e9fddb44"
+  },
+  {
+   "external_id": "c011f3f0-205e-4e65-8ae1-c01ac885e25f",
+   "title": "Enterprise Customer Success Manager (Asset Management)",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-07-24T16:31:59.879000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c011f3f0-205e-4e65-8ae1-c01ac885e25f"
+  },
+  {
+   "external_id": "c0449af2-3742-4ece-88d7-75fd076f80e9",
+   "title": "Workplace Coordinator",
+   "role_family": "other",
+   "location": "London",
+   "posted_at": "2026-10-09T12:25:18.361000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c0449af2-3742-4ece-88d7-75fd076f80e9"
+  },
+  {
+   "external_id": "c0d56938-468a-43dc-b8ec-84f17b04338a",
+   "title": "Senior Manager, Product Design, Admin and Enterprise Platform",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-09-04T21:07:10.378000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c0d56938-468a-43dc-b8ec-84f17b04338a"
+  },
+  {
+   "external_id": "c143ce81-2b61-428b-a275-391514bd4eb4",
+   "title": "Senior Manager, Product Design, Admin and Enterprise Platform",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-04T21:08:11.999000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c143ce81-2b61-428b-a275-391514bd4eb4"
+  },
+  {
+   "external_id": "c1872581-6069-4c6d-84e4-272d74b290ad",
+   "title": "Global Operations Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-16T16:38:52.768000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c1872581-6069-4c6d-84e4-272d74b290ad"
+  },
+  {
+   "external_id": "c2d6c21b-1563-4000-a8a3-b751c79535da",
+   "title": "Staff Software Engineer, Core Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-04-27T20:18:36.663000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c2d6c21b-1563-4000-a8a3-b751c79535da"
+  },
+  {
+   "external_id": "c2e8772a-ca9c-44ee-95fb-bbd64f57e7c4",
+   "title": "Mid-Market Customer Success Manager",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-02-17T22:45:40.244000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c2e8772a-ca9c-44ee-95fb-bbd64f57e7c4"
+  },
+  {
+   "external_id": "c34ee114-fd2d-4507-9888-711397e037bd",
+   "title": "Strategic Account Executive, DACH",
+   "role_family": "sales",
+   "location": "Munich",
+   "posted_at": "2026-10-07T16:03:20.705000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c34ee114-fd2d-4507-9888-711397e037bd"
+  },
+  {
+   "external_id": "c3709b39-8517-4301-be38-cca1105146e7",
+   "title": "Head of Global Recruiting Operations",
+   "role_family": "exec",
+   "location": "New York",
+   "posted_at": "2026-09-10T02:49:10.900000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c3709b39-8517-4301-be38-cca1105146e7"
+  },
+  {
+   "external_id": "c39789c9-116b-4738-b60b-870ff3d55665",
+   "title": "Social Content and Community Manager",
+   "role_family": "marketing",
+   "location": "New York",
+   "posted_at": "2026-09-30T08:28:31.488000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c39789c9-116b-4738-b60b-870ff3d55665"
+  },
+  {
+   "external_id": "c3b9e500-dc27-4afe-9b8a-31223c6b18fe",
+   "title": "Legal Engineer (Law Firm, Corporate)",
+   "role_family": "finance_ops",
+   "location": "Chicago",
+   "posted_at": "2026-06-17T14:36:44.704000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c3b9e500-dc27-4afe-9b8a-31223c6b18fe"
+  },
+  {
+   "external_id": "c59ad688-0106-4f49-a1d3-94c2ea0f5a48",
+   "title": "Director, Government Affairs & Public Policy",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-10-01T17:45:36.961000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c59ad688-0106-4f49-a1d3-94c2ea0f5a48"
+  },
+  {
+   "external_id": "c6e602c1-57d7-4af7-9b98-e52b5b4ff76a",
+   "title": "Legal Engineer (Law Firm, Corporate)",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-06-17T14:36:36.114000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c6e602c1-57d7-4af7-9b98-e52b5b4ff76a"
+  },
+  {
+   "external_id": "c783c19b-1d81-45bd-9f45-87175f7ece78",
+   "title": "Head of AMER Legal Engineering (In-House)",
+   "role_family": "finance_ops",
+   "location": "Dallas",
+   "posted_at": "2026-09-10T16:55:05.176000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c783c19b-1d81-45bd-9f45-87175f7ece78"
+  },
+  {
+   "external_id": "c7ee8a85-2483-4325-842e-137a9d6f2011",
+   "title": "Head of Mid Market Sales, North America",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-10-14T20:48:12.437000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c7ee8a85-2483-4325-842e-137a9d6f2011"
+  },
+  {
+   "external_id": "c84964b6-9e60-4005-8580-b865f3e47b4f",
+   "title": "Staff Web Designer",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-08-07T19:36:08.977000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c84964b6-9e60-4005-8580-b865f3e47b4f"
+  },
+  {
+   "external_id": "c8a58117-489a-4797-8ea7-bb383cd7815b",
+   "title": "Field Marketing Manager",
+   "role_family": "marketing",
+   "location": "Chicago",
+   "posted_at": "2026-09-16T17:37:25.328000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c8a58117-489a-4797-8ea7-bb383cd7815b"
+  },
+  {
+   "external_id": "c9432042-1f8c-4de0-82c0-9a4ecce71cf6",
+   "title": "Director Global Benefits",
+   "role_family": "exec",
+   "location": "New York",
+   "posted_at": "2026-08-29T00:01:47.793000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c9432042-1f8c-4de0-82c0-9a4ecce71cf6"
+  },
+  {
+   "external_id": "c9cea360-f0b6-4a93-b7b3-0f0145b02ffe",
+   "title": "Senior Software Engineer, Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-12-01T23:37:42.468000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/c9cea360-f0b6-4a93-b7b3-0f0145b02ffe"
+  },
+  {
+   "external_id": "cb89e7ec-6643-4cfa-b4d6-ce34b345f46a",
+   "title": "Scaled Customer Success Manager",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-08-24T22:42:08.500000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/cb89e7ec-6643-4cfa-b4d6-ce34b345f46a"
+  },
+  {
+   "external_id": "cbf49618-c6ce-4a9a-a806-2a0133622910",
+   "title": "Integrated Campaigns Lead",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-08-11T23:22:28.921000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/cbf49618-c6ce-4a9a-a806-2a0133622910"
+  },
+  {
+   "external_id": "cd4f3be2-97e1-4968-9b75-f342006be5a5",
+   "title": "M&A Counsel",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-08-10T16:57:38.290000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/cd4f3be2-97e1-4968-9b75-f342006be5a5"
+  },
+  {
+   "external_id": "cf7b6b62-44c6-40ae-ac94-7f903370dcd5",
+   "title": "Senior Analytics Engineer, Finance",
+   "role_family": "data",
+   "location": "New York",
+   "posted_at": "2026-05-25T17:14:25.241000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/cf7b6b62-44c6-40ae-ac94-7f903370dcd5"
+  },
+  {
+   "external_id": "d00dc18e-862b-4391-a3f1-5cd49c07f8e7",
+   "title": "Senior Software Engineer, AI Platform",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-07-16T20:45:05.711000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d00dc18e-862b-4391-a3f1-5cd49c07f8e7"
+  },
+  {
+   "external_id": "d03dcaae-05de-4344-aebc-803993827922",
+   "title": "Data Scientist, Marketing",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-01-16T17:20:33.355000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d03dcaae-05de-4344-aebc-803993827922"
+  },
+  {
+   "external_id": "d0df031e-23f4-439e-9255-b72e01c04563",
+   "title": "Head of SMB Sales, AMER",
+   "role_family": "exec",
+   "location": "New York",
+   "posted_at": "2026-10-07T17:23:21.331000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d0df031e-23f4-439e-9255-b72e01c04563"
+  },
+  {
+   "external_id": "d1669780-6956-4e5b-bc84-590267c565ea",
+   "title": "Senior/Staff Product Manager, Vault",
+   "role_family": "product_design",
+   "location": "New York",
+   "posted_at": "2026-07-07T23:22:44.243000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d1669780-6956-4e5b-bc84-590267c565ea"
+  },
+  {
+   "external_id": "d16bd223-cb68-46f3-8bf6-41267b9770cb",
+   "title": "Staff Security Software Engineer, IAM",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-01T18:29:30.363000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d16bd223-cb68-46f3-8bf6-41267b9770cb"
+  },
+  {
+   "external_id": "d2624850-8dd4-4eb4-b5dc-f386b715a26f",
+   "title": "Software Engineer, Security",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-01T14:38:55.762000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f"
+  },
+  {
+   "external_id": "d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
+   "title": "Staff Product Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-21T21:27:31.747000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206"
+  },
+  {
+   "external_id": "d527a336-24e3-46ef-8d05-1da557c7bff4",
+   "title": "Staff Product Designer",
+   "role_family": "product_design",
+   "location": "New York",
+   "posted_at": "2025-12-22T20:07:43.460000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d527a336-24e3-46ef-8d05-1da557c7bff4"
+  },
+  {
+   "external_id": "d629fa64-599d-435c-b4ef-a925299ddac8",
+   "title": "Staff Product Manager, Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-07-14T00:04:08.326000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d629fa64-599d-435c-b4ef-a925299ddac8"
+  },
+  {
+   "external_id": "d6ba6f18-42c8-4bcd-88a7-f6145c472c78",
+   "title": "CX Specialist",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-09-25T18:39:29.550000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d6ba6f18-42c8-4bcd-88a7-f6145c472c78"
+  },
+  {
+   "external_id": "d6ceb665-d5a2-483e-82ee-8b6f1445d29c",
+   "title": "Lead Technical Recruiter - Research",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-06T17:52:09.043000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d6ceb665-d5a2-483e-82ee-8b6f1445d29c"
+  },
+  {
+   "external_id": "d6ea5dcb-17a9-4aad-82a3-c789812ca9ed",
+   "title": "Senior Field Marketing Manager, EMEA",
+   "role_family": "marketing",
+   "location": "London",
+   "posted_at": "2026-10-06T10:46:24.791000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d6ea5dcb-17a9-4aad-82a3-c789812ca9ed"
+  },
+  {
+   "external_id": "d78083d9-a203-4ae4-b4b9-454d65df3702",
+   "title": "Research Engineer, Post-Training",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-06-26T22:34:50.803000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d78083d9-a203-4ae4-b4b9-454d65df3702"
+  },
+  {
+   "external_id": "d7a37afb-1d58-418e-93b6-b5222678497c",
+   "title": "Senior Integrated Campaigns Manager",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-10-07T20:32:09.984000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d7a37afb-1d58-418e-93b6-b5222678497c"
+  },
+  {
+   "external_id": "d911b15e-29e4-453e-b192-4201c7937e1f",
+   "title": "Enterprise Customer Success Manager -EMEA (Arabic Speaking)",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-01-14T00:27:03.603000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d911b15e-29e4-453e-b192-4201c7937e1f"
+  },
+  {
+   "external_id": "d926b184-364b-49f5-a269-bef158c1c408",
+   "title": "Sr. Systems Engineer, Client Engineering",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-08-28T19:59:51.674000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/d926b184-364b-49f5-a269-bef158c1c408"
+  },
+  {
+   "external_id": "da103b63-c5ed-4544-b2b2-136511c1bd4e",
+   "title": "Social Impact Lead",
+   "role_family": "other",
+   "location": "London",
+   "posted_at": "2026-10-09T16:40:39.384000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/da103b63-c5ed-4544-b2b2-136511c1bd4e"
+  },
+  {
+   "external_id": "da36fca6-0d0b-492e-b8d2-7a7f971f3e8e",
+   "title": "Customer Success Leader, Southern Europe & DACH",
+   "role_family": "customer",
+   "location": "Munich",
+   "posted_at": "2026-08-27T10:10:33.766000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/da36fca6-0d0b-492e-b8d2-7a7f971f3e8e"
+  },
+  {
+   "external_id": "da713961-ca51-4b13-a744-d089058cc9c5",
+   "title": "Lead Technical Recruiter - Research",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-10-06T17:51:11.342000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/da713961-ca51-4b13-a744-d089058cc9c5"
+  },
+  {
+   "external_id": "daad560f-c851-4cb9-89ac-efb2186c4031",
+   "title": "Staff Software Engineer, OfficeJS",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-06-25T23:38:45.715000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/daad560f-c851-4cb9-89ac-efb2186c4031"
+  },
+  {
+   "external_id": "dad3437f-9f4c-444a-bf4a-ae2a9a1047c2",
+   "title": "Staff Software Engineer, Production Engineering",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-07-30T23:36:49.147000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/dad3437f-9f4c-444a-bf4a-ae2a9a1047c2"
+  },
+  {
+   "external_id": "dbd9a156-a841-42a0-a3e5-beed8de60a7c",
+   "title": "Senior Software Engineer, Production Engineering",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-07-30T23:37:30.751000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/dbd9a156-a841-42a0-a3e5-beed8de60a7c"
+  },
+  {
+   "external_id": "dc967ec2-5fd8-4a92-9c81-513265cec47e",
+   "title": "Senior Product Operations Manager",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-08-13T23:14:18.607000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/dc967ec2-5fd8-4a92-9c81-513265cec47e"
+  },
+  {
+   "external_id": "dcacb8c5-d91b-4f8f-a444-d8c86cb606c9",
+   "title": "Mid-Market Customer Success Manager (San Francisco)",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-06-15T22:10:56.225000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/dcacb8c5-d91b-4f8f-a444-d8c86cb606c9"
+  },
+  {
+   "external_id": "ddba7b8c-d44b-48f5-982f-c4ca651f5ab3",
+   "title": "Global CX Workforce Manager",
+   "role_family": "customer",
+   "location": "Remote",
+   "posted_at": "2026-10-07T20:57:26.244000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ddba7b8c-d44b-48f5-982f-c4ca651f5ab3"
+  },
+  {
+   "external_id": "de0168ee-1abc-4f43-ad3b-e8d8bcba67e5",
+   "title": "GTM Lead System Administrator",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-08T19:43:24.848000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/de0168ee-1abc-4f43-ad3b-e8d8bcba67e5"
+  },
+  {
+   "external_id": "de1d9fbe-c7a9-49ac-b5c0-aaaa606325b2",
+   "title": "Senior Engineering Manager",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-10-21T00:10:34.724000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/de1d9fbe-c7a9-49ac-b5c0-aaaa606325b2"
+  },
+  {
+   "external_id": "de62296b-ea86-4986-8786-5341792db477",
+   "title": "Sales Development Representative (Arabic Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-09-30T15:21:25.826000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/de62296b-ea86-4986-8786-5341792db477"
+  },
+  {
+   "external_id": "e04146f6-f79a-4023-9523-fe691038b330",
+   "title": "Customer Success Manager, Mid Market, EMEA",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-02-25T09:45:38.623000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e04146f6-f79a-4023-9523-fe691038b330"
+  },
+  {
+   "external_id": "e0d05322-1dd6-4271-bd15-825108273807",
+   "title": "Senior Analyst, Recruiting Operations",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-16T22:12:11.610000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e0d05322-1dd6-4271-bd15-825108273807"
+  },
+  {
+   "external_id": "e196283b-5615-4688-a37b-4fe325a6ec3d",
+   "title": "Advisory CISO",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-05T23:32:39.372000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e196283b-5615-4688-a37b-4fe325a6ec3d"
+  },
+  {
+   "external_id": "e22b1e1c-2d67-469b-b112-729132215d62",
+   "title": "Customer Success Manager, Majors, EMEA",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-10-08T08:28:16.377000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e22b1e1c-2d67-469b-b112-729132215d62"
+  },
+  {
+   "external_id": "e25c329d-178a-47fa-9278-becd45d9fba3",
+   "title": "Account Executive, Mid-Market",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2025-05-16T17:49:42.550000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e25c329d-178a-47fa-9278-becd45d9fba3"
+  },
+  {
+   "external_id": "e2976ecf-f785-4524-8545-bbd519ffdaae",
+   "title": "Engineering Manager, Enterprise",
+   "role_family": "engineering",
+   "location": "Toronto",
+   "posted_at": "2026-02-10T20:47:08.019000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e2976ecf-f785-4524-8545-bbd519ffdaae"
+  },
+  {
+   "external_id": "e3d380e5-e376-44a2-93cd-e4f9983cd4d6",
+   "title": "Head of Global Recruiting Operations",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-09-10T02:48:42.989000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e3d380e5-e376-44a2-93cd-e4f9983cd4d6"
+  },
+  {
+   "external_id": "e45ecdab-c619-4918-acd9-5706734bd001",
+   "title": "Senior Marketing Counsel",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-09-10T19:28:30.497000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e45ecdab-c619-4918-acd9-5706734bd001"
+  },
+  {
+   "external_id": "e5272fbe-4431-4841-bf00-b9f59812b82a",
+   "title": "Innovation Product Manager",
+   "role_family": "product_design",
+   "location": "New York",
+   "posted_at": "2025-12-11T16:20:46.621000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e5272fbe-4431-4841-bf00-b9f59812b82a"
+  },
+  {
+   "external_id": "e59f9b06-f863-446e-9022-61034004b69a",
+   "title": "Engineering Manager, Product",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-09-22T16:18:45.237000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e59f9b06-f863-446e-9022-61034004b69a"
+  },
+  {
+   "external_id": "e61e839d-8250-4945-8406-46921a86922f",
+   "title": "Customer Success Manager, Enterprise, APAC",
+   "role_family": "customer",
+   "location": "Singapore",
+   "posted_at": "2026-09-21T18:10:05.769000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e61e839d-8250-4945-8406-46921a86922f"
+  },
+  {
+   "external_id": "e69f2050-b4c0-4fbb-9852-2c60d2adbb45",
+   "title": "CX Data Analyst",
+   "role_family": "data",
+   "location": "Remote",
+   "posted_at": "2026-06-15T20:19:41.684000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e69f2050-b4c0-4fbb-9852-2c60d2adbb45"
+  },
+  {
+   "external_id": "e8dbf438-3086-42af-810e-4f4459cf7400",
+   "title": "Legal Engineer (Law Firm, Litigation/Regulatory)",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-06-17T14:37:36.444000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/e8dbf438-3086-42af-810e-4f4459cf7400"
+  },
+  {
+   "external_id": "eb11a622-d435-4c24-946f-c3fdb6fcbbdf",
+   "title": "Workplace Project Manager",
+   "role_family": "other",
+   "location": "Chicago",
+   "posted_at": "2026-07-28T15:37:25.896000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/eb11a622-d435-4c24-946f-c3fdb6fcbbdf"
+  },
+  {
+   "external_id": "eb29cd1a-6015-49a0-b6a9-259f10a0a4b1",
+   "title": "Global Operations Lead",
+   "role_family": "other",
+   "location": "Remote",
+   "posted_at": "2026-09-16T16:38:59.685000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/eb29cd1a-6015-49a0-b6a9-259f10a0a4b1"
+  },
+  {
+   "external_id": "ebf00b72-4693-4894-b540-5f82a60fdbdc",
+   "title": "Staff Software Engineer, AI Platform",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-07-16T20:44:57.493000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ebf00b72-4693-4894-b540-5f82a60fdbdc"
+  },
+  {
+   "external_id": "ec074cbf-8d48-4661-b26c-1fdfb01df783",
+   "title": "Applied Legal Researcher",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-02-05T02:49:07.110000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ec074cbf-8d48-4661-b26c-1fdfb01df783"
+  },
+  {
+   "external_id": "ec9e2cd5-af31-4f9c-8b12-d2088a83753a",
+   "title": "Legal Engineer, Product Specialist (in-house)",
+   "role_family": "finance_ops",
+   "location": "London",
+   "posted_at": "2026-08-17T13:19:47.576000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ec9e2cd5-af31-4f9c-8b12-d2088a83753a"
+  },
+  {
+   "external_id": "ecfc45be-fc15-4c16-a419-509c998b6c80",
+   "title": "CX Data Analyst",
+   "role_family": "data",
+   "location": "San Francisco",
+   "posted_at": "2026-06-15T20:19:24.236000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80"
+  },
+  {
+   "external_id": "eef7831a-c39a-4c1d-af3d-3e61b7a27911",
+   "title": "Account Executive, SMB (Italian Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-02T15:58:32.205000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/eef7831a-c39a-4c1d-af3d-3e61b7a27911"
+  },
+  {
+   "external_id": "ef285771-5770-42b9-8edd-542447793924",
+   "title": "Staff Web Engineer",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-08-18T23:02:12.595000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/ef285771-5770-42b9-8edd-542447793924"
+  },
+  {
+   "external_id": "f0e4e24a-2a7a-4fc4-8872-9a8a762fecf5",
+   "title": "Senior Product Operations Manager, Evaluation Quality",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-08-04T16:25:51.563000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f0e4e24a-2a7a-4fc4-8872-9a8a762fecf5"
+  },
+  {
+   "external_id": "f1679188-b64e-435c-b0c6-bbcf552bed38",
+   "title": "Engagement Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-06-25T16:59:53.460000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f1679188-b64e-435c-b0c6-bbcf552bed38"
+  },
+  {
+   "external_id": "f30a1b59-279c-43cb-bf56-1745a84dfd82",
+   "title": "Staff Corporate Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-01T00:44:39.928000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f30a1b59-279c-43cb-bf56-1745a84dfd82"
+  },
+  {
+   "external_id": "f361b7ea-82c6-4061-ad24-1419b4ca3c7b",
+   "title": "Partner Manager",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-09-02T13:59:33.131000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f361b7ea-82c6-4061-ad24-1419b4ca3c7b"
+  },
+  {
+   "external_id": "f47e1925-2a89-4264-8a1b-09cd9215f4dd",
+   "title": "Senior Software Engineer, AI Platform",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-03-12T00:24:19.429000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f47e1925-2a89-4264-8a1b-09cd9215f4dd"
+  },
+  {
+   "external_id": "f4b3077c-69dd-4656-851d-d9da65529634",
+   "title": "Senior Software Engineer, Security",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-19T22:31:27.330000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f4b3077c-69dd-4656-851d-d9da65529634"
+  },
+  {
+   "external_id": "f4d70ed0-010e-40f5-b194-2813e55f6e0c",
+   "title": "Legal Engineer (Law Firm, Corporate)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-06-17T14:36:40.375000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f4d70ed0-010e-40f5-b194-2813e55f6e0c"
+  },
+  {
+   "external_id": "f4e343c0-a7c9-491b-b330-3ca74fc75351",
+   "title": "Legal Engineer (In-House)",
+   "role_family": "finance_ops",
+   "location": "Chicago",
+   "posted_at": "2026-06-17T14:37:12.910000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f4e343c0-a7c9-491b-b330-3ca74fc75351"
+  },
+  {
+   "external_id": "f6a40913-3189-483a-b8d0-65024cc4e77a",
+   "title": "Account Executive, SMB (Spanish Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-02T15:58:03.708000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f6a40913-3189-483a-b8d0-65024cc4e77a"
+  },
+  {
+   "external_id": "f798c7cf-0923-4c03-a083-84f9f6a75622",
+   "title": "SMB Account Executive",
+   "role_family": "sales",
+   "location": "Sydney",
+   "posted_at": "2026-09-14T05:04:00.307000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f798c7cf-0923-4c03-a083-84f9f6a75622"
+  },
+  {
+   "external_id": "f7ec0066-2b12-491c-978f-e411a834e1fd",
+   "title": "Head of AMER Legal Engineering (In-House)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-10T16:55:12.221000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f7ec0066-2b12-491c-978f-e411a834e1fd"
+  },
+  {
+   "external_id": "f8857e81-4062-4669-a7e3-7b73b114979b",
+   "title": "CX Data Analyst",
+   "role_family": "data",
+   "location": "New York",
+   "posted_at": "2026-06-15T20:19:44.526000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f8857e81-4062-4669-a7e3-7b73b114979b"
+  },
+  {
+   "external_id": "f996dd71-e08c-487d-abe1-9900c8d29331",
+   "title": "Account Executive, Mid Market",
+   "role_family": "sales",
+   "location": "Toronto",
+   "posted_at": "2026-07-31T22:45:18.835000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f996dd71-e08c-487d-abe1-9900c8d29331"
+  },
+  {
+   "external_id": "f9b5a7bc-c872-4206-9201-477034913473",
+   "title": "Sales Manager, Mid Market",
+   "role_family": "other",
+   "location": "Boston",
+   "posted_at": "2026-10-01T11:00:20.006000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/f9b5a7bc-c872-4206-9201-477034913473"
+  },
+  {
+   "external_id": "fa02d0c2-4a44-4deb-a409-6a3b3bd05e9c",
+   "title": "Staff Corporate Security Engineer",
+   "role_family": "engineering",
+   "location": "New York",
+   "posted_at": "2026-08-01T00:44:42.658000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/fa02d0c2-4a44-4deb-a409-6a3b3bd05e9c"
+  },
+  {
+   "external_id": "fae2f3df-b785-4aaa-b11d-2bc328a47a48",
+   "title": "Engineering Manager, Model Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-07-22T00:08:59.705000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/fae2f3df-b785-4aaa-b11d-2bc328a47a48"
+  },
+  {
+   "external_id": "fb3ecf9e-9379-4839-817c-f620a3e6034d",
+   "title": "Forward Deployed Finance Engineer, Buyout",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-10-06T16:03:33.814000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/fb3ecf9e-9379-4839-817c-f620a3e6034d"
+  },
+  {
+   "external_id": "fc038666-be6f-4365-be8d-fb46e520473d",
+   "title": "Staff Software Engineer, Agents",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-05-01T18:53:51.015000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/fc038666-be6f-4365-be8d-fb46e520473d"
+  },
+  {
+   "external_id": "fcfdeffe-5890-49b0-a98f-8689a930c151",
+   "title": "SMB Account Executive",
+   "role_family": "sales",
+   "location": "New York",
+   "posted_at": "2026-07-22T19:43:30.470000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/fcfdeffe-5890-49b0-a98f-8689a930c151"
+  },
+  {
+   "external_id": "fd3eee99-2c94-4127-8b82-3582a79cd418",
+   "title": "Legal Engineer (Law Firm, Corporate)",
+   "role_family": "finance_ops",
+   "location": "Dallas",
+   "posted_at": "2026-06-17T14:36:48.460000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/fd3eee99-2c94-4127-8b82-3582a79cd418"
+  },
+  {
+   "external_id": "fdca1f67-ebd8-4f95-98af-eeab21f083e0",
+   "title": "Mid-Market Customer Success Manager (Toronto)",
+   "role_family": "customer",
+   "location": "Toronto",
+   "posted_at": "2026-09-28T17:57:58.683000+00:00",
+   "url": "https://jobs.ashbyhq.com/harvey/fdca1f67-ebd8-4f95-98af-eeab21f083e0"
+  }
+ ]
+}

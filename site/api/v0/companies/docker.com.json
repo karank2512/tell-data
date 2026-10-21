@@ -1,9 +1,9 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.2,
+  "score": 3.1,
   "contributions": [
     {
       "type": "launch",
@@ -18,15 +18,40 @@
       "occurred_at": "2026-09-24",
       "summary": "Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud",
       "url": "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "product_design",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-21",
+      "summary": "3 new product design roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/docker",
+      "postings": [
+        {
+          "title": "Principal Product Manager",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/docker/f0f8b5ab-a2de-450a-920d-3dda4ec6a029"
+        },
+        {
+          "title": "Principal Product Manager, DHI",
+          "posted_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/docker/ec1eeb85-73bd-4956-bb67-93e0c42958e2"
+        },
+        {
+          "title": "Principal Product Manager, AI Gateway",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/docker/51ef5fd5-27a3-46a3-9b46-e9cece51831c"
+        }
+      ]
     }
   ],
-  "open_postings": 71,
+  "open_postings": 74,
   "long_open_roles": 15,
   "sources": {
     "ats": "ashby:docker",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

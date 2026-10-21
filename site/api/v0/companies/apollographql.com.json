@@ -1,9 +1,9 @@
 {
   "domain": "apollographql.com",
   "name": "Apollo",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 16.3,
+  "score": 16.0,
   "contributions": [
     {
       "type": "leadership",
@@ -21,21 +21,21 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-16",
       "summary": "Appoints CMO",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEttbi1hYlltaW5CWEFsVVpLYXdQNm9JUk5la1VOVWx5Y3VYUV9IU25XaHBLV1hmbTNuM05VQmwwczNKdjc5WUhqYlY5alI3aEZQZ0pRZGx5VG1lTllKNV9PSUtONXpSS2h5SmowOHV2cEtRMkRhc1FPS1RpS0FVRl9oZHlKN1E1NERQcnQ4Sm9acUtkeW5zVVJ1dWRza1ZFTGJOSFlTRE1tRGthUFB0Wlg3X2E?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Apollo Sprayers Promotes [person] to Boost Shop Transfer Efficiency",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzBiRkEtSEZHWGNZUzdkYU90YzNCOHhxYWktY1FGVFZPdFJMTXFSSHR2dlRzbm9jRUc5anRJTnB0bmhNaXlBUFBLb3YweTNHUmkwMGxsNlltZjZnOE9NaFJkUzBwQmZwaHNpSzl6TDdRajJvS1NHV1haeUFFRWhrZjhxWnNvV0ZCTzljU2ZtSUJQQ0YzSS1SY204d1lZV2dMcEFWVW5MTWJ6TE9seUdUOVFn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-12",
       "summary": "NASA HISTORY: NASA Launches First Crewed Apollo Mission 58 Years Ago from Cape Kennedy - Space Coast Daily",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGxxNFpYc244VXJaX0NIZzBIM2lGOC10WVhrM0tsNERRbXhNdUdCbElGNVBTMjhPR3d1N3RmR25vdkZxTkxxZVlvbWI3UkFTT2pxUEVSbkppY0tQY3BITnBGeDJKMFdHWHYxTjJzcW9uSTM2UDhxeVdtaXBGdGl3TW5CSTA1QjFEVVpPRmdMREg0MnVGMER2cDhFcDBZWkpqVnhpdFpjdTIzSXRpNmhxUm9BdThNbVhPSldFX2xIYw?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

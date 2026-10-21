@@ -1,13 +1,13 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 38.4,
+  "score": 37.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.0,
+      "contribution": 13.9,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
@@ -49,28 +49,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Apple Unveils New HomeView Smart Home Hub Powered By Apple Intelligence And Facial Recognition - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tRHZrMFlyczRWMG1hQlEwcXZkYjgzQ3N5cWhUZVRFNE00S1Z0dzR1a09NeTBWbVpiZktkRnpsN0dnb0s0S0VDZG1HX1dod2hCUGRlZVZUNnhTbkw2cS1TbF9sOHNiYzNIalRIa0VfX25zYWw3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Apple Unveils HomeView Hub, Plus 9 New Smart Home Gadgets With LG - PCMag Middle East",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDhLMFphNjNEcjVXQk9GLThIdHpRRXp5U0NLVV82ekhxTkhBYndkdzd2TjJhWU9XWXFYSThzUi1Ya1hlR1NxU0Q2V2IyMmY0cTZjcmJ6Ym5sRzZJdUJBN2pJazhlcmJOMUYzY29JUUxPQlJJNk84VE9pYVlUbTUwMFlQUjhlVUNiWFE0NG5NQUpvYkQ1eHptaGVBY3EtUGhYRWVkOFNqNV9kaWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Apple Introduces HomeView Smart Home Hub, Other Gadgets - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTYwTUFpUk54Z2pBZXFieWJpODkzYk1nTm00V1NsX0Nhd2ItZ0QzSk1ZQ0ZhbEN3RnFQQWpSTmxGWThJY1FhRVE0LUhiWVBYcGVlMmZpcWl2WkFtY21Jcm9qbUpIc2xzakJzM05UQ2xEMEh3WnZ0ZUtjTnplaWhOWHZsek5TSFlyVWtGNldB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Apple launches hub as Anthropic issues connected home AI risk warning - Insurance Business",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZHQ1eUE2eUdDamtYVjF4YnJzZ3g5M01hTjh0Z3pxZExnNFdMVHBQWm03V29vMHZMaHg1UmJ6VGZlckZXaVdGX09yNGhWc3ZTTWhwdjNxRE00enFzNXBJaHFtOVRXSkF6dTVEY0I4ZGIxQnZZNmNHZHRJaWYxYjBXOEtWN2ktUU9iZkh5WEtFUDU0N2dQRnFZSlFkbTBIZHNoTjlwZUd3VERWODhnSm1UdzdZLWZ3d1ZWeWVRTmxzbngwMUxEZ0hOWDFJOU0?oc=5"
@@ -160,6 +160,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

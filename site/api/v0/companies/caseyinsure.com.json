@@ -1,13 +1,13 @@
 {
   "domain": "caseyinsure.com",
   "name": "Casey",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "SMP Capital Partners Appoints [person] as Chief Marketing Officer to Scale Executive Leadership Team",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNWFIzWnJnNEl0RUVaaDBTTTF1UHN0YmR3eVUxTDNramNvVFFsdDczTHl3OGh5Qk5pYm1GSWoycFRzTXNMTmxoSE1WQTZyb2xZR2lWcldsTnYtNHlJMGFuMU9xUkhfaWViSDI0UGR0SGd4b0dub2hMYkdHaDdPRFp6d29HUV90a2tTY2VQOGJ6Rmp1SjlYX0JSOXNSeXUybXY4M3V3THNycG4tazY2UHkxWFlTYjlFVFg0enFOd2RNNE5DMFVvbWNZMXhXRUUybENzMF9lYlp3UXZEYUFMekpobXhZeDV6Rzd0U2VfWkxORkgxNldVYXA3ejFGZFd0MUxHX2kwNHpMSk9UR1MzWEEwYkdwdEMxZXJXSWwxQ0libS1Cdzhlb0VXTnFsaw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

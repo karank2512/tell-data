@@ -1,9 +1,9 @@
 {
   "domain": "stampmail.ai",
   "name": "Stamp",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 7.1,
+  "score": 7.0,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Canada Post unveils Diwali stamp celebrating the arrival of the Festival of Lights - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi1LTTh3Y09iVXF5bGwwckFXaDlRNDVtU3RxeDhOOWJxTjFQd2puTkNSNFhtRWg1eGNxcG10LVdzNzJhaXVYRktPaWVzdjFRcEVwWDZJZFYxTjdLZEhRdmw3VnpUOHFlaWRhQU9GY1Brb0FoZmh2MGU2eGZUMGpYWUJWVzluZTZXZlY4U01sdzgwMERURnVSYzZkSTZjYmZVUGc?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

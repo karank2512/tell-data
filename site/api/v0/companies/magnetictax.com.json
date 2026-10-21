@@ -1,9 +1,9 @@
 {
   "domain": "magnetictax.com",
   "name": "Magnetic",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.5,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "Epomaker Launches HE60: Affordable Wireless Magnetic Gaming Keyboard With 8 kHz Polling - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbks0UXRTLWszTDN1eGYyaGVnR1ROS1FLUi1HVlhmYWdSbzRJWnZDWC1DY0hvTmZiTGs0Ujc0TDJ6S21qSUVEUHljOWNRQXlpNXRXdmVHenZEU3g0ci1IVTB3NXF1Tnd6Ni05c0RjN3ZsV184VW1ZeGRleG5vc216UTJzOW1WdS1ZVVJnN0ZxaHUtemZUVjRfb20yTUtwZWhZZ0VKb3ZxTWE2MTBHTEdQaDR3SC02MzFuQk1hSFlR0gHDAUFVX3lxTE56RHNlTzdEZ2haQ3RMOHRmblZQNUtVVzJuSTNZajlMU3lOUHRna0VRZUs5UEVqRGJNSDBNd28xOE01dkFBanpPaWdTZHRtYy1yT0lZTFhYT0NyN0RFa3VZMUM3WDg0YmU1MXg3NTh3aXpIbFZzQU9NVDRSRHlwb1l4TDNyaXUtWVVEOEVvN2JNYnJnWXhUaTZ4Rk1QbHRZMmZVN2NSdVBnWmpNYUhMZDBJZWtEWEdvRUhBdHhxWVVpYzRoOA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-08",
       "summary": "Technics Introduces EAH-A1000 Headphones with 40mm Magnetic Fluid Drivers and LE Audio - audioXpress",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkViMFQtNnRTay1sMFpId2VOSWNIcndreXhXTUV2RW5ZNkZMWmh1cjFwTmxMeW43dDJzTW1zUjljeFN6VHo1aVVpakNpQXZ3dlhING11LUZndmxLWTZMazlqc1NnQWU1UjhGdWxPcVBicWtnQmpWZlVRYXBqbHo2YURlODlMRV9ENVJoNzREdmZra2xBclFEMUVKVzNXWVFDZlJFMDJ0S1J2MllCbXc?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

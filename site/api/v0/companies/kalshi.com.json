@@ -1,13 +1,13 @@
 {
   "domain": "kalshi.com",
   "name": "Kalshi",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 26.0,
+  "score": 25.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.6,
+      "contribution": 20.5,
       "occurred_at": "2026-08-25",
       "summary": "Form D: $1,499,997,894 offering, $1,120,010,122 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1806928/000123191926001066/"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Kalshi launches $55 MLB code “SYRACUSE” for Brewers-Dodgers Game 3 - Syracuse.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazlfUk95a05fdW4tdzFRbE0yWVd5SG82Z21DdGMxelI5OGNpUC13eVdWczdwQzBUeEI2cXVaT28wUjY4TzNMcVVpS01CMjNZRER3VENQYlFVM1N0dmhzTWdYX1huR0g4bzliZW1ZanF1YWZ1NHAxOFhNTkdpbFJ5eVRteXpZMnVwbEFEaWVoUnFoNFJxeHh5RUMxQVdBa3luVnhVekZMWTEwWU90YVE?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": "0001806928",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

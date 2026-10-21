@@ -1,10 +1,30 @@
 {
   "domain": "pump.co",
   "name": "Pump.co",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.7,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-21",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/pumpcareers",
+      "postings": [
+        {
+          "title": "VP of Revenue",
+          "posted_at": "2026-10-19",
+          "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5457645008"
+        },
+        {
+          "title": "Business Development Representative",
+          "posted_at": "2026-10-20",
+          "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5459127008"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
@@ -51,13 +71,13 @@
       ]
     }
   ],
-  "open_postings": 24,
+  "open_postings": 26,
   "long_open_roles": 8,
   "sources": {
     "ats": "greenhouse:pumpcareers",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

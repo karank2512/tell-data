@@ -1,20 +1,20 @@
 {
   "domain": "rebelaudio.ai",
   "name": "Rebel Audio",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 24.2,
+  "score": 24.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 22.7,
+      "contribution": 22.6,
       "occurred_at": "2026-09-21",
       "summary": "Form D: $14,150,000 offering, $9,225,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2145503/000214550326000003/"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-08",
       "summary": "Rebel Audio Launches Invite-Only Podcast Summit Pod U With Mike Majlak, MDMotivator and Caleb Simpson - Net Influencer",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcGFOZHI1R1EtNFZGVEtLUi1DRGYxZnczN1FrbHlHVUF2T2pEOV8wVFhEcl8xcnNLbkR3eVNoZU81NmtXYmNKLWNMSlZza1JERXJISlN0WHp3M3Q2UzFiVlZjZE5WSm4zaktwT3pETnUxYzdickEwVVI0YU9ZMnVpUmNYVkwxSmNheVVVOFpYRkdKTzJ2RHlMeDZvMVdIZ3BlQks1RUlGSjg3bC1TWmFIczI4M0ljZEN5eU1uTE94cjRrVTVvYmROUTRfNA?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": "0002145503",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

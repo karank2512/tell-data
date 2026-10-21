@@ -1,13 +1,13 @@
 {
   "domain": "f2.ai",
   "name": "F2",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.0,
+  "score": 1.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-19",
       "summary": "Joins [person]",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XSkRMSFlXMFZneDY4aVc0SVJDN3dyX1J4SFhBcVhiSm9DZFhicUdpbmpwVkozcDNZWEZwN1N1a203RmZyN0o2SV9CLW1SZzNrWW1WTHBmSnJ5aVdlNDNrX0NSYw?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

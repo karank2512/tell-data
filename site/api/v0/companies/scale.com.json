@@ -1,20 +1,20 @@
 {
   "domain": "scale.com",
   "name": "Scale AI",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 50.9,
+  "score": 50.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.6,
+      "contribution": 15.5,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
     },
     {
       "type": "funding",
-      "contribution": 8.8,
+      "contribution": 8.7,
       "occurred_at": "2026-07-27",
       "summary": "Form D: $17,490 offering, $17,490 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000002/"
@@ -35,14 +35,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "Mach42 Appoints [person] as Vice President of Engineering to Scale AI-Powered Analog Verification",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ19KWWZmdVVrRWZaR19jdlQzbE9fU3F3dW5HWlE4OTAtVU84UE42Nko4Z1c3U0ZBbk5LZXBYSzBoUnpNaFVrenlIUjIxOEtNcFpneVhLZWRiUm53SVJmbVZPbmFEei1CSVhBLTBxTEUxTklSVWNtanFUTzFnTzh4N1BzR2JseWl2N2VVZVNrQTVYaFFyWkFqTXR3UVl2TFd0M3pEZFdvSzlSYVItbEhka3p4eG5TUVZJdlVEVlNtNEc1X2VaYzZjcWtCbWZDM09jeFdUWW9fUVJRV2p5WUYxWmFPN1NMVDhQNEY5UzJlVQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "Mach42 Appoints [person] as Vice President of Engineering to Scale AI-Powered Analog Verification",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjJSSVl5RmxQLXF2azBIRGV0RklCMVpOcGdXZnlDUnpfU1BpU0RwUV9EZ21jVHJLWlVfXzRtMnAwaXl3YmRGOVlJUnpHWEFsYW45MEhYWDU5VEZtWDVKX3IwdGhFMmNCRThsWW02a2tmaWFqOXJJN3pCZzgxanNNV0xaMmxoZ2xpWHlMeGNzRk5fUDB1QTdnTVpPalJQUQ?oc=5"
@@ -126,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-09-21",
       "summary": "Fastly Launches AI Firewall and AI Runtime Control to Secure and Scale AI - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaldTeVAyLVFieTVWOHpzYkRmUEY3Y2hxel80MEZmejg3OWdIei1Mc2t2QUlZUEZ0SXZVVXg1RENDSFQxdWd3RER4V2t5UmExU2RtS3RJMmJtQ0p4ZTJoR2c3QUdnakQtaFQyZktpSkN3by1GVzA2d2x5d1dJX3Zna3o5MlFrWHZNajJWRnNUQWRyVUo0Uy1RS29aeVM0WUNyekZkVTQ4MnduZ3JIR3RGNkRHT1NqMVZNdmRuSUxmaEV6VkJuR0tBYXdB?oc=5"
@@ -174,6 +174,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

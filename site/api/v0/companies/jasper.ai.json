@@ -1,25 +1,25 @@
 {
   "domain": "jasper.ai",
   "name": "Jasper.ai",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 19.0,
+  "score": 18.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.0,
+      "contribution": 18.9,
       "occurred_at": "2026-09-21",
       "summary": "Form D: indefinite offering, $0 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2141961/000214196126000003/"
     }
   ],
-  "open_postings": 10,
+  "open_postings": 11,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jasper AI",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

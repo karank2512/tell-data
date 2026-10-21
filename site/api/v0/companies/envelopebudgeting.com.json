@@ -1,13 +1,13 @@
 {
   "domain": "envelopebudgeting.com",
   "name": "Envelope",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "PPMD launches Blue Envelope Program to enhance community safety - Army.mil",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblNSbW9kaS1hdGxGTTU3VmtPdWJHb3dZM0pLWWlGR0ZEdEp5ejFiTDRkZHBvaWxhMWVXdEUyMlE5c2hCSzdacnVtdTdZS0FBOHMzOW03al9JR3NpMXZxeU5IblJyVXhpWDZhOGFmRGJtYWNxYXkyOXEyOV9Hbm1IbEhGVUNCY3JCb2Y5b2ZGczNyRWpnWGhab01IYUpEeHQwWkRHVnVR0gGmAUFVX3lxTE5uU1Jtb2RpLWF0bEZNNTdWa091Ykdvd1kzSktZaUZHRkR0Snl6MWJMNGRkcG9pbGExZVd0RTIyUTlzaEJLN1pydW11N1lLQUE4czM5bTdqX0lHc2kxdnF5TkhuUnJVeGlYNmE4YWZEYm1hY3FheTI5cTI5X0dubUhsSEZVQ0JjckJvZjlvZkZzM3JFamdYaFpvTUhhSkR4dDBaREdWdVE?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

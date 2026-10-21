@@ -1,9 +1,9 @@
 {
   "domain": "beparallel.com",
   "name": "Parallel",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.1,
+  "score": 8.0,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Parallel Unveils Community Clash Cup Trophy as Champion Set to Claim a 1/1 NFT - eGamers.io",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHlLNk50bDdKa1pscHVSVXRUMi1CbHpHdGx3cTFQNXR5LUpQWE1SQ0gwRk5NVTl2eXJ0N3pCdW1oYkRfVzFrSmM4aWtTWnp0dXRFeElvVjJ1SkdJckhfbW9XeXVpNFNfZFN6M2dYdmJJclgtSkRsWlhIdHdtdmpJckRpSmc4YVhKMWcxOTh3a2h6aVRyd3R1VHZneldiOWM?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

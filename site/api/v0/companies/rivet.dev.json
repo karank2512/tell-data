@@ -1,9 +1,9 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-15",
       "summary": "Introducing Rivet BYOC",
       "url": "https://rivet.dev/changelog/2026-09-15-introducing-rivet-byoc/"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-20",
       "summary": "Introducing Durable Cron Jobs for Rivet Actors",
       "url": "https://rivet.dev/changelog/2026-07-20-introducing-cron-jobs-for-rivet-actors/"
@@ -132,7 +132,7 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": [
     {
       "type": "launch",

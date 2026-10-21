@@ -1,9 +1,9 @@
 {
   "domain": "pickle.com",
   "name": "Pickle",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.8,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Harrogate food hall launches unique pickle-filled Christmas hamper - Your Harrogate",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDd6Y2tTelZEdnBrZllOV1JPNzQ0VVFzaG84TzBGczNaZjVmZE5KTXdwaGhtMlhVNjQ3S0tQVDhUNVBTeFpJS2VmQnRRS3Bvck1odnNIV1FYeU5HLURJcER0bTZwT2JJeERCdUpTaGFMLWdmSnRpODBXZXFvdEFSdFFLZFNPTmMwUC1VSHh6Uzd2dXdpNjFILUNPSHFYeWxsbGd4ZHFFU0dwb09GcE1WMHpzR0tfY1dKNlhjVA?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,0 +1,569 @@
+{
+ "vendor": "ashby",
+ "identifier": "ashby",
+ "domain": "ashbyhq.com",
+ "as_of": "2026-10-21",
+ "last_polled_at": "2026-10-21T01:19:52.583162+00:00",
+ "open_postings": [
+  {
+   "external_id": "0020099f-9bb3-4da9-9808-4556564f5301",
+   "title": "Staff Software Engineer, Product Engineering - UK",
+   "role_family": "engineering",
+   "location": "United Kingdom",
+   "posted_at": "2026-04-30T19:45:49.508000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/0020099f-9bb3-4da9-9808-4556564f5301"
+  },
+  {
+   "external_id": "033ce772-ed08-4a59-bb52-4ff0eaac9bcd",
+   "title": "Product Support Specialist - APAC",
+   "role_family": "customer",
+   "location": "Singapore",
+   "posted_at": "2026-02-20T17:24:56.798000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/033ce772-ed08-4a59-bb52-4ff0eaac9bcd"
+  },
+  {
+   "external_id": "044cc683-be16-471b-9af1-99cf70607735",
+   "title": "Customer Education Program Manager, Live Learning",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-16T20:34:52.597000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/044cc683-be16-471b-9af1-99cf70607735"
+  },
+  {
+   "external_id": "08b6342c-d5c0-4864-a4db-28027d241cbe",
+   "title": "Technical Solutions Consultant - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-01T23:05:18.854000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/08b6342c-d5c0-4864-a4db-28027d241cbe"
+  },
+  {
+   "external_id": "0f5dbf59-687b-4d88-88a7-73ee0a66b48d",
+   "title": "Staff Platform Engineer - Americas",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2026-05-29T23:17:23.630000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/0f5dbf59-687b-4d88-88a7-73ee0a66b48d"
+  },
+  {
+   "external_id": "110f2a5c-cfed-4cbf-846f-5bb5201f4c18",
+   "title": "Head of Customer Education",
+   "role_family": "exec",
+   "location": "Remote - US",
+   "posted_at": "2026-08-11T18:50:05.374000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/110f2a5c-cfed-4cbf-846f-5bb5201f4c18"
+  },
+  {
+   "external_id": "1290fe74-72f6-4544-ad7d-562f89ecd780",
+   "title": "Sr. Product Marketing Manager, Enterprise",
+   "role_family": "marketing",
+   "location": "Remote - US",
+   "posted_at": "2026-08-26T00:06:16.205000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/1290fe74-72f6-4544-ad7d-562f89ecd780"
+  },
+  {
+   "external_id": "188cc71b-a625-4022-94dc-7c43fa1a8b06",
+   "title": "Design Engineer - EU",
+   "role_family": "product_design",
+   "location": "Portugal",
+   "posted_at": "2026-06-12T20:19:00.233000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/188cc71b-a625-4022-94dc-7c43fa1a8b06"
+  },
+  {
+   "external_id": "19c11d7d-ec39-4c24-8bf3-866508171b81",
+   "title": "Engagement Manager - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-06-16T18:29:27.001000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/19c11d7d-ec39-4c24-8bf3-866508171b81"
+  },
+  {
+   "external_id": "1cf7c730-caba-4fc3-8b98-52a0735ef14b",
+   "title": "Strategic Customer Success Manager - EMEA",
+   "role_family": "customer",
+   "location": "Remote - European Union",
+   "posted_at": "2026-07-03T00:19:40.901000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/1cf7c730-caba-4fc3-8b98-52a0735ef14b"
+  },
+  {
+   "external_id": "1e6bf4c7-6452-418b-9277-a28eb8a6f218",
+   "title": "Implementation Consultant - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-06T21:00:55.318000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/1e6bf4c7-6452-418b-9277-a28eb8a6f218"
+  },
+  {
+   "external_id": "206c6a86-74e3-4fcf-9175-fdfe07858676",
+   "title": "Manager of Renewals, SMB",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-06-16T21:00:08.696000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/206c6a86-74e3-4fcf-9175-fdfe07858676"
+  },
+  {
+   "external_id": "2373fcd5-144b-4d66-a98b-dd0efb4eb9d1",
+   "title": "Staff Product Designer",
+   "role_family": "product_design",
+   "location": "Remote - US",
+   "posted_at": "2025-12-11T04:38:54.143000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/2373fcd5-144b-4d66-a98b-dd0efb4eb9d1"
+  },
+  {
+   "external_id": "272bc3f4-5af6-4c14-b797-a424b62d306c",
+   "title": "Senior Product Engineer - Canada",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2026-04-30T22:46:21.621000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/272bc3f4-5af6-4c14-b797-a424b62d306c"
+  },
+  {
+   "external_id": "287cf227-c8a7-4f42-81c1-8b1e4de5a33d",
+   "title": "Mid Market Account Executive - EMEA (UKI)",
+   "role_family": "sales",
+   "location": "United Kingdom",
+   "posted_at": "2026-07-17T17:45:49.415000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/287cf227-c8a7-4f42-81c1-8b1e4de5a33d"
+  },
+  {
+   "external_id": "2b401986-a491-4f9b-9c22-63079bcd64c2",
+   "title": "Strategic Customer Success Manager - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-07-30T20:44:38.129000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/2b401986-a491-4f9b-9c22-63079bcd64c2"
+  },
+  {
+   "external_id": "2fc178fc-fa92-463a-b788-1c66e3f32a00",
+   "title": "Enterprise Solutions Architect - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-05-05T01:16:55.875000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/2fc178fc-fa92-463a-b788-1c66e3f32a00"
+  },
+  {
+   "external_id": "306a353b-aab5-49d6-a711-a77aa0f5a660",
+   "title": "Staff Design Engineer - UK",
+   "role_family": "product_design",
+   "location": "United Kingdom",
+   "posted_at": "2025-11-13T23:42:08.067000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/306a353b-aab5-49d6-a711-a77aa0f5a660"
+  },
+  {
+   "external_id": "35a01a05-8efd-4bc3-a4bf-0a31d902102d",
+   "title": "Manager of Implementations, High Touch - EMEA",
+   "role_family": "customer",
+   "location": "Remote - European Union",
+   "posted_at": "2026-10-08T20:01:05.025000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/35a01a05-8efd-4bc3-a4bf-0a31d902102d"
+  },
+  {
+   "external_id": "36df1986-8af2-4cc4-a96a-4f307d493ac0",
+   "title": "Enterprise Account Executive - Americas (East)",
+   "role_family": "sales",
+   "location": "Remote - US",
+   "posted_at": "2026-03-06T19:44:07.066000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/36df1986-8af2-4cc4-a96a-4f307d493ac0"
+  },
+  {
+   "external_id": "38281574-0880-473a-a4f1-bfbb7eedfa18",
+   "title": "Mid-Market Customer Success Manager - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-06-24T17:01:01.324000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/38281574-0880-473a-a4f1-bfbb7eedfa18"
+  },
+  {
+   "external_id": "390e266b-4b6c-4490-ad74-05ff5e0bb36a",
+   "title": "Product Manager, Onboarding and Growth",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-16T00:42:17.137000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/390e266b-4b6c-4490-ad74-05ff5e0bb36a"
+  },
+  {
+   "external_id": "3b9b0141-86e7-46b2-b6b4-ed039b84cdc4",
+   "title": "Senior Software Engineer, Product Engineering - EU",
+   "role_family": "engineering",
+   "location": "Remote - European Union",
+   "posted_at": "2026-04-30T19:45:44.774000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/3b9b0141-86e7-46b2-b6b4-ed039b84cdc4"
+  },
+  {
+   "external_id": "3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3",
+   "title": "Senior Strategic Implementation Specialist - EMEA",
+   "role_family": "customer",
+   "location": "Remote - European Union",
+   "posted_at": "2026-09-04T21:23:07.727000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/3d0ffda4-696a-4c4e-bee5-d7f4f441c3c3"
+  },
+  {
+   "external_id": "448baa35-cd72-468a-bcab-51dd55b7a275",
+   "title": "Staff Product Engineer - Canada",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2026-04-30T22:47:17.221000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/448baa35-cd72-468a-bcab-51dd55b7a275"
+  },
+  {
+   "external_id": "472eef28-6e52-43b4-9bff-9113522890f5",
+   "title": "Senior Software Engineer, Product Engineering - UK",
+   "role_family": "engineering",
+   "location": "United Kingdom",
+   "posted_at": "2026-04-30T19:45:47.450000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/472eef28-6e52-43b4-9bff-9113522890f5"
+  },
+  {
+   "external_id": "50edd021-cc90-48aa-916a-aead552e4d4f",
+   "title": "Enterprise Account Executive - Germany",
+   "role_family": "sales",
+   "location": "Germany",
+   "posted_at": "2026-09-17T14:32:33.525000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/50edd021-cc90-48aa-916a-aead552e4d4f"
+  },
+  {
+   "external_id": "51061458-3a38-4bea-84f4-7ea0ac3e417f",
+   "title": "Product Support Specialist - EMEA",
+   "role_family": "customer",
+   "location": "United Kingdom",
+   "posted_at": "2026-02-20T21:10:00.884000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/51061458-3a38-4bea-84f4-7ea0ac3e417f"
+  },
+  {
+   "external_id": "55078a90-f1f0-4190-9d2a-c14d1cbc5486",
+   "title": "Product Support Specialist - Australia",
+   "role_family": "customer",
+   "location": "Australia",
+   "posted_at": "2026-02-20T17:26:27.704000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/55078a90-f1f0-4190-9d2a-c14d1cbc5486"
+  },
+  {
+   "external_id": "5ccfc540-35d4-4fc8-aeb6-7f11b2ad8258",
+   "title": "Engineering Manager - Canada",
+   "role_family": "engineering",
+   "location": "Remote - Canada",
+   "posted_at": "2025-11-13T23:05:17.459000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/5ccfc540-35d4-4fc8-aeb6-7f11b2ad8258"
+  },
+  {
+   "external_id": "5d4b0ed6-da8c-4377-a43a-c45bf90a0073",
+   "title": "Sr. Total Rewards Manager",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-09-11T00:46:08.659000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/5d4b0ed6-da8c-4377-a43a-c45bf90a0073"
+  },
+  {
+   "external_id": "61ffd115-5209-433c-ab3a-7b6fc0a9b9d4",
+   "title": "Head of Procurement",
+   "role_family": "exec",
+   "location": "Remote - US",
+   "posted_at": "2026-10-16T18:23:29.769000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/61ffd115-5209-433c-ab3a-7b6fc0a9b9d4"
+  },
+  {
+   "external_id": "695b1ce6-c375-4fad-94ef-61b50a3fbd28",
+   "title": "Engineering Manager - Americas",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2025-11-13T23:04:14.276000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/695b1ce6-c375-4fad-94ef-61b50a3fbd28"
+  },
+  {
+   "external_id": "6a15668c-3f98-4404-8f1f-927cddfc5af7",
+   "title": "Staff Product Engineer - Americas",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2026-04-30T22:46:28.314000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/6a15668c-3f98-4404-8f1f-927cddfc5af7"
+  },
+  {
+   "external_id": "7458d4e9-da2e-47bd-98cb-adfda43d42b2",
+   "title": "Engineering Manager - EU",
+   "role_family": "engineering",
+   "location": "Remote - European Union",
+   "posted_at": "2024-03-04T14:29:08.532000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/7458d4e9-da2e-47bd-98cb-adfda43d42b2"
+  },
+  {
+   "external_id": "751768c6-8d97-4e91-a57d-6b85ce4b5a37",
+   "title": "Senior Product Engineer - Americas",
+   "role_family": "engineering",
+   "location": "Remote - US",
+   "posted_at": "2026-04-30T22:46:14.287000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/751768c6-8d97-4e91-a57d-6b85ce4b5a37"
+  },
+  {
+   "external_id": "7a3ff629-6c67-4aa5-bea4-f1d88b3b4777",
+   "title": "Manager of Strategic Customer Success",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-08-26T00:16:59.671000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/7a3ff629-6c67-4aa5-bea4-f1d88b3b4777"
+  },
+  {
+   "external_id": "7d8ec4fe-50aa-4d7e-9eec-db7b2d14bcbd",
+   "title": "Mid-Market Solutions Engineering Manager",
+   "role_family": "sales",
+   "location": "Remote - US",
+   "posted_at": "2026-08-03T23:05:52.543000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/7d8ec4fe-50aa-4d7e-9eec-db7b2d14bcbd"
+  },
+  {
+   "external_id": "7e4e8a93-c35d-43c1-a739-c53aba8b682f",
+   "title": "Enterprise Account Executive - DACH",
+   "role_family": "sales",
+   "location": "Germany",
+   "posted_at": "2026-07-27T14:29:07.354000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/7e4e8a93-c35d-43c1-a739-c53aba8b682f"
+  },
+  {
+   "external_id": "7ecdcb8e-d1d7-4734-9c7e-3da6dffacb0c",
+   "title": "Real Time Analyst - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-09-03T22:24:07.368000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/7ecdcb8e-d1d7-4734-9c7e-3da6dffacb0c"
+  },
+  {
+   "external_id": "85713f4a-ad14-4edd-8c56-0065f5897551",
+   "title": "Design Engineer - Canada",
+   "role_family": "product_design",
+   "location": "Remote - Canada",
+   "posted_at": "2026-06-12T21:13:59.287000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/85713f4a-ad14-4edd-8c56-0065f5897551"
+  },
+  {
+   "external_id": "86a60834-ba64-484d-9658-afa1bc97a957",
+   "title": "Mid Market Account Executive - EMEA (French Speaking)",
+   "role_family": "sales",
+   "location": "France",
+   "posted_at": "2026-09-08T16:27:26.694000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/86a60834-ba64-484d-9658-afa1bc97a957"
+  },
+  {
+   "external_id": "87b96eef-edc1-4de4-adb6-d460126d02f8",
+   "title": "Staff Design Engineer - EU",
+   "role_family": "product_design",
+   "location": "Portugal",
+   "posted_at": "2025-11-13T23:43:02.608000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/87b96eef-edc1-4de4-adb6-d460126d02f8"
+  },
+  {
+   "external_id": "893cd08a-929c-4077-b39c-64bc34f347ea",
+   "title": "Founding Customer Success Manager - APAC",
+   "role_family": "customer",
+   "location": "Australia",
+   "posted_at": "2026-07-21T12:38:25.967000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/893cd08a-929c-4077-b39c-64bc34f347ea"
+  },
+  {
+   "external_id": "92f723a8-6fb1-4314-a311-8fcf25ea286b",
+   "title": "Mid Market Account Executive - Americas (West)",
+   "role_family": "sales",
+   "location": "Remote - US",
+   "posted_at": "2026-08-12T00:58:25.441000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/92f723a8-6fb1-4314-a311-8fcf25ea286b"
+  },
+  {
+   "external_id": "95aecf44-abba-4d06-8fea-7987b6ea9db5",
+   "title": "Manager, Product Support - APAC",
+   "role_family": "customer",
+   "location": "Australia",
+   "posted_at": "2026-08-07T19:48:36.937000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/95aecf44-abba-4d06-8fea-7987b6ea9db5"
+  },
+  {
+   "external_id": "97c6542c-7ff9-43e5-ac54-b77b45fc7378",
+   "title": "Staff Design Engineer - Canada",
+   "role_family": "product_design",
+   "location": "Remote - Canada",
+   "posted_at": "2025-11-13T22:59:40.371000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/97c6542c-7ff9-43e5-ac54-b77b45fc7378"
+  },
+  {
+   "external_id": "9fba6b38-f324-49b1-ae3d-40894ad12bb1",
+   "title": "Enterprise Account Executive - Americas (West)",
+   "role_family": "sales",
+   "location": "Remote - US",
+   "posted_at": "2026-03-06T19:44:45.557000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/9fba6b38-f324-49b1-ae3d-40894ad12bb1"
+  },
+  {
+   "external_id": "a07aeb2d-3113-4ab4-866d-60004d1d25de",
+   "title": "Startup Customer Success Manager - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-20T18:49:56.234000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/a07aeb2d-3113-4ab4-866d-60004d1d25de"
+  },
+  {
+   "external_id": "a819e537-3a23-4615-bbf8-4ee065d7e25d",
+   "title": "HR Business Partner, EMEA",
+   "role_family": "finance_ops",
+   "location": "United Kingdom",
+   "posted_at": "2026-10-14T23:28:13.423000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/a819e537-3a23-4615-bbf8-4ee065d7e25d"
+  },
+  {
+   "external_id": "ae0bf8c6-f327-48de-9902-9f509667d02d",
+   "title": "Snr. Marketing Manager, Enterprise ABM - EMEA",
+   "role_family": "marketing",
+   "location": "Remote - European Union",
+   "posted_at": "2026-10-20T17:34:18.936000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/ae0bf8c6-f327-48de-9902-9f509667d02d"
+  },
+  {
+   "external_id": "ae720f13-ad8b-4fdd-a8c3-5625bdc83a33",
+   "title": "Staff Platform Engineer - UK",
+   "role_family": "engineering",
+   "location": "United Kingdom",
+   "posted_at": "2025-11-14T00:15:23.214000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/ae720f13-ad8b-4fdd-a8c3-5625bdc83a33"
+  },
+  {
+   "external_id": "ae9df091-112c-4a59-b3d1-49d6e0ed3de9",
+   "title": "Integrations Consultant - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-01T17:52:31.311000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/ae9df091-112c-4a59-b3d1-49d6e0ed3de9"
+  },
+  {
+   "external_id": "b64e1498-04ae-4747-8930-a42d4ce6c047",
+   "title": "Product Support Specialist - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-02-20T13:14:50.065000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/b64e1498-04ae-4747-8930-a42d4ce6c047"
+  },
+  {
+   "external_id": "be52a88a-02c5-445f-a7c6-60c96b80f19c",
+   "title": "Mid-Market Implementation Specialist - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-01T19:52:37.467000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/be52a88a-02c5-445f-a7c6-60c96b80f19c"
+  },
+  {
+   "external_id": "c3c7125d-7883-4dff-a2bf-f5a55de4a364",
+   "title": "Staff Software Engineer, Product Engineering - EU",
+   "role_family": "engineering",
+   "location": "Remote - European Union",
+   "posted_at": "2026-04-30T19:45:51.749000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/c3c7125d-7883-4dff-a2bf-f5a55de4a364"
+  },
+  {
+   "external_id": "c62ec47a-8de9-4781-b1f7-563a229c4e90",
+   "title": "GTM Systems Analyst",
+   "role_family": "sales",
+   "location": "Remote - US",
+   "posted_at": "2026-08-27T15:22:29.182000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/c62ec47a-8de9-4781-b1f7-563a229c4e90"
+  },
+  {
+   "external_id": "cb45928e-c7c7-4163-84d0-a962755a3593",
+   "title": "Design Engineer - UK",
+   "role_family": "product_design",
+   "location": "United Kingdom",
+   "posted_at": "2026-06-12T20:24:40.656000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/cb45928e-c7c7-4163-84d0-a962755a3593"
+  },
+  {
+   "external_id": "cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a",
+   "title": "Staff Design Engineer - Americas",
+   "role_family": "product_design",
+   "location": "Remote - US",
+   "posted_at": "2025-11-14T01:04:25.832000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/cc846e56-27dd-41b5-bf5b-64d5eeb5ff1a"
+  },
+  {
+   "external_id": "ce9f0432-7abf-4911-b644-69d0fb08d67f",
+   "title": "Renewal Manager, SMB - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-20T18:51:03.971000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/ce9f0432-7abf-4911-b644-69d0fb08d67f"
+  },
+  {
+   "external_id": "cf34cf62-5348-4bd5-bd8c-22a77467162d",
+   "title": "Product Support Engineer - APAC",
+   "role_family": "customer",
+   "location": "Australia",
+   "posted_at": "2026-06-03T20:06:54.537000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/cf34cf62-5348-4bd5-bd8c-22a77467162d"
+  },
+  {
+   "external_id": "d573471b-2005-482c-9fbf-d1df9550cb57",
+   "title": "Engineering Manager - UK",
+   "role_family": "engineering",
+   "location": "United Kingdom",
+   "posted_at": "2025-04-01T14:39:51.428000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/d573471b-2005-482c-9fbf-d1df9550cb57"
+  },
+  {
+   "external_id": "db46ff5d-e469-4bba-b8af-c55ac04f311f",
+   "title": "Data Analytics Manager",
+   "role_family": "data",
+   "location": "Remote - US",
+   "posted_at": "2026-10-15T18:31:23.483000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/db46ff5d-e469-4bba-b8af-c55ac04f311f"
+  },
+  {
+   "external_id": "dd3601fc-3a21-467b-aaff-43fceb65864b",
+   "title": "SMB Customer Success Manager - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-20T18:50:03.067000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/dd3601fc-3a21-467b-aaff-43fceb65864b"
+  },
+  {
+   "external_id": "dfc35159-ffe5-4d42-bea3-552b5dc17628",
+   "title": "Enterprise Solutions Engineering Manager",
+   "role_family": "sales",
+   "location": "Remote - US",
+   "posted_at": "2026-07-20T22:51:10.937000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/dfc35159-ffe5-4d42-bea3-552b5dc17628"
+  },
+  {
+   "external_id": "f2ba7c39-e5cb-47aa-8b80-74c0426725b7",
+   "title": "Support Engineering Manager - NAMER",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-02-20T20:33:36.486000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/f2ba7c39-e5cb-47aa-8b80-74c0426725b7"
+  },
+  {
+   "external_id": "f40ef345-82a8-4956-9150-193b4fdf8183",
+   "title": "Senior Product Designer",
+   "role_family": "product_design",
+   "location": "Remote - US",
+   "posted_at": "2025-12-05T22:43:22.147000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/f40ef345-82a8-4956-9150-193b4fdf8183"
+  },
+  {
+   "external_id": "fa001346-ea81-41b2-bfbe-2271d3faac1a",
+   "title": "Staff Platform Engineer - EU",
+   "role_family": "engineering",
+   "location": "Remote - European Union",
+   "posted_at": "2025-11-14T00:13:11.459000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/fa001346-ea81-41b2-bfbe-2271d3faac1a"
+  },
+  {
+   "external_id": "fd86edd7-3af0-4977-a61a-215212c296fa",
+   "title": "Design Engineer - Americas",
+   "role_family": "product_design",
+   "location": "Remote - US",
+   "posted_at": "2026-06-12T21:11:08.658000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/fd86edd7-3af0-4977-a61a-215212c296fa"
+  },
+  {
+   "external_id": "fe44e5a8-1b61-4330-a02d-7f7b66f5ade2",
+   "title": "Senior Strategic Implementation Specialist - Americas",
+   "role_family": "customer",
+   "location": "Remote - US",
+   "posted_at": "2026-10-15T14:00:34.334000+00:00",
+   "url": "https://jobs.ashbyhq.com/ashby/fe44e5a8-1b61-4330-a02d-7f7b66f5ade2"
+  }
+ ]
+}

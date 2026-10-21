@@ -1,13 +1,13 @@
 {
   "domain": "mireye.com",
   "name": "Mireye",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 22.2,
+  "score": 22.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 22.2,
+      "contribution": 22.0,
       "occurred_at": "2026-09-30",
       "summary": "Form D: $3,259,994 offering, $1,009,995 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2157072/000215707226000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002157072",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

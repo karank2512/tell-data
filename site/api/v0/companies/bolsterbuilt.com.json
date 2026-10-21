@@ -1,9 +1,9 @@
 {
   "domain": "bolsterbuilt.com",
   "name": "Bolster",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "SK hynix launches W2tr financing program to bolster chip suppliers - The Korea Herald",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fOWlaU1V5TUpXQ0JuVnFjNFBFaW5tRG9QaXpfclQ3UGZNSEIwbXUweERDRWgteFRJOHVBZHFXWmhXWXA3NFVGUTdwZG5FLURqektJMWtaVQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

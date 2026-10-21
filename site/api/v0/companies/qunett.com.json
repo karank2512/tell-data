@@ -1,13 +1,13 @@
 {
   "domain": "qunett.com",
   "name": "Quantum Network Technologies",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 14.1,
+  "score": 14.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.1,
+      "contribution": 14.0,
       "occurred_at": "2026-08-03",
       "summary": "Form D: $3,000,000 offering, $1,479,982 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2141598/000214159826000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002141598",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "wedge.health",
   "name": "Wedge",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 18.1,
+  "score": 17.8,
   "contributions": [
     {
       "type": "launch",
@@ -63,21 +63,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Flying Wedge unveils FWD Supreme as India’s AI combat aircraft programme takes shape - WION",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXJ3R25JNFZ1OUZNci0zQzhBS09CaV9QN1Fvd2dVNWFMSzkwSWhZZlJfWHZzS3JHd01TdHpNNWVqcC16YTNfdkJEbE5pMW9EVGhBMVhhVlY5SUlGcEJ3ZHZJZW0xQVBTSWE5ZW5hSEx6X0daUnZab2Q5NDFUaWFKVUc3Q0FhejVyZXYtRktra2JHNjFQSFhMYXNTZDItbENrZmZ2dU1pR3JEYXowV3VELS1rOENEMUNUTnpfc1pNN1VJX1JWZ0QxN0ZwOGJ0LUloZlHSAdcBQVVfeXFMT2NLS01iZ3ktWHJWZmQ2WW1IQVVTMXZGdUtfZy0zdFZhYWdWb2h6Mm9RSHhmMW1iRnkyRklDRlZ5WGJCOHdoMzI2ZkhvU0hZNUN3OE5sYTBqRW5XSEpDMkpwU3c4U2RlTk5UQl8yWWxTcjdzX0xYTVZta2U2dHBXdWNLVGZNUHNvZlBQQUV6LVdDT1k1VUVVYXhhcXBjV1ZUZmlnUVA4WDdlMGJMSDFJdDRIQnpHejlqRi1MaFhtSU4yYm5KZ09VWEk5Q2NPaDR6LWt6NlJnQW8?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Flying Wedge Defence Unveils India’s First AI- Piloted Fighter Jet Full-scale Prototype - Raksha Anirveda",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFBIOWxoSnowNllucGQ1NnQ2NExkeU9xZlFmS0c1WE10NERWZFZkT0FNZ3Naay13ZXI3THNFZHdfRlZ2UXlnZE5jTGdEa0xGQ1p3cmF5RkFqbXQwaEI4Q1NOWmx2NWdhRmZrV1lfclRDb3BudkZNbGRnN3VMLXVCYjRQN3NQTmxod1Ata1hPeHQtVTk0S21LT1R3YlRac1h3c3Q3RVVyT1FJVzQyM2xPeldhRzk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Flying Wedge Unveils FWD Supreme Static Prototype for AI-Piloted Combat Aviation - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2FoTHdJOTQxY1JTaUE4TUE3NHEyR2FUckxCMmk1MzVocTRrYTdWMFBGWm9BTkpfVFM5aWFHRmF0ZnBfaFFBRVlqRVVwZDU0cHJYRHJhUVdaczZMNWw3ZUhBV0RkMzl5eGdSZ1JURUVDQzFyXzRoQjRTelRBUGxJa05OOFFtQU9hNUVlWlZKX3hScVlJUUJaejUxWnJoNl93UnJnaWlMT3NPU05ObUU5NGdwd1MxQQ?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

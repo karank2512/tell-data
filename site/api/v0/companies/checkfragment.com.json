@@ -1,13 +1,13 @@
 {
   "domain": "checkfragment.com",
   "name": "Fragment",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.3,
+  "score": 1.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "Evenicle – Next Fragment Medica Releases on Steam on November 9 - Final Weapon",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0psNVJ1R2hBLWlEWUtpa2h6YVRmbjV4bW5yRllSRkxnUjFOcTMtYlhCZGlvanBtSjFyTkVral9Uc3J4My1PNnYxRHNtQWRfN1RuUDVESTMzQy15YXNWcW9pVUJZcDY1SE5BcjhiZjdyV2wtRUxYZF9JSjcxY1JqNFAzcm1yTS1fcnA1UGpGT3hHLXhhRi0yRDB3VDB0dw?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

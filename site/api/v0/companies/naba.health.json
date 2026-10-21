@@ -1,13 +1,13 @@
 {
   "domain": "naba.health",
   "name": "Naba Health",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 16.9,
+  "score": 16.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.9,
+      "contribution": 16.7,
       "occurred_at": "2026-09-14",
       "summary": "Form D: $400,000 offering, $18,500 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148201/000214820126000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002148201",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "overlord.app",
   "name": "Overlord",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 18.2,
+  "score": 18.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.9,
+      "contribution": 11.8,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $4,898,993 offering, $4,033,993 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2143465/000214346526000001/"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Overlord Labs Appoints [person] CEO Chris Allexandre to Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVNEWXdSRFZpNFowSVIzUHRxSVQ1WUhBT2tqNkNrSU5TUDdCTVZJMUtHdS1ha1kxUjJ2NUdaV2xULU1fRzRKRzdzbmRrc1F4THNkZWJEVWI2a002WFVUQk9RVTdJQ19yYTlxdVVSQ2x4NTAxZUVCS1JFakxpblFudmZtRWhQOVdabVdpajRiQjU5NEJHbk5JZnVTWDhhV1J6bzlWSzljaFB1SVZSanpGeVpmUHBpSlByQjYyc09hTjF6MVdN?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "bloomapp.com",
   "name": "Bloom",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Sea Bags launches ‘Hope in Bloom’ tote for breast cancer awareness - Mainebiz",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3ZMbzhvbUV2WW96SmRITE05UC1OeFI4c2gteVBadENrZG05U0NJS1hDT3F4MXZGZHVoVjR0M3VGYzRDMkV4NC00ZlYxUkVlLW1vMktfc1dCVno4TzJ3bzRtYVItMUUxVk5MR0dMeGVPbW1mcGJPeUE5TVpBYkVkdE83ZFpoV2hkcV83bUVyWVFCUGNlTTVBaml3?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

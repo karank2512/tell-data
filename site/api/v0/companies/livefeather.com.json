@@ -1,13 +1,13 @@
 {
   "domain": "livefeather.com",
   "name": "Feather",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "ISEE Hair Launches New Feather Wig for a Lighter, More Natural Look - WebWire",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JTExEZjJwZkYyWmxfbTQtMDk1dkFyS0VMbERIRHRoZE9nVGM5NFdxTXlUNzlsVlRvRU16ZmJQQm5LOFlaYnVCcTJjT3lYMnZzeV92dVNaRmRNYmVrTDVkbEhpN3FickxZ?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "walter.one",
   "name": "Walter",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Walter Isaacson Launches New Podcast to Examine the Builders of AI, Including Elon Musk - The Hollywood Reporter",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVhWc0h5ejRqY21RTnBMdFNrS3hUSWJ6VERaZTgxcWQyZ2x3Ym5SOHk2ODh6ck1ENTFYMG5BdEJaUlBuR1g4WTc1TmN2d0JFeGJCRXNvZHFuV1RnM2h3bmpyalBoZWZnM1c5YW5UbklsYkVoRzRpb0wyQ1FYR0ZwOWJsdkVHY0xXSlAxTGQ4UTJSSDRBNEFSSHY5aVNPN1N1VF9vdDR3?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

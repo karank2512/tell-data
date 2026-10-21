@@ -1,9 +1,9 @@
 {
   "domain": "unusual.ai",
   "name": "Unusual",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "XTI Aerospace Appoints [person] CEO Dr. Allan Evans to Serve as Chairman of its Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQnM5dGlDUExMb1hwVlpSZjZaVENhQmdRRVJTTFBfWU51SEY5Q3ROLXlQU2x3bnBCQWlBN1MzWXlqdG9mNnltVWVTb1RJTldNSTNfN0l3SFFReGtmSDJiWWRYRER5Sk1fNndQUUtVTkw5ZG03LUEzcnJJSmREbmI3R1BVcTBiSlY4LXl2LVpfSmpFM3pvYnoyT05JRHZrRnJDU2N1QUpSWVBrXzdYWmZVNEJJeldaTzBubGVESDVaWjA2ZmJ0dWx6cmFvUGFvSEkwM18xOTJmYUNlZ0huaUNmRXBIT3d4dC1sUkRPTTNyX3dsd1k?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

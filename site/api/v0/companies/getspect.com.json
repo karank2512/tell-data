@@ -1,13 +1,13 @@
 {
   "domain": "getspect.com",
   "name": "Spect",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Collingwood General And Marine Hospital Introduces New SPECT-CT Technology - Muskoka411",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUUdrazB5YmRSdUNiazlKeW1fa1dLZmlUQkQ4eTZ4Y1MxdFo4ZVZjUjRORU5QdjUzSHNFbDFzSFZhRGhnWFkwcVk1SFR6SzlveFRLOUNNeGE2d0xJaFF3VDVKWHh1bDJpajFyb3JCY1hHUzh3NnllWlg0bHB3YWpCTXNYVWs0SGxEWjViNWRQZjhhdW1FT3pJc1FzQUZzUkE?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

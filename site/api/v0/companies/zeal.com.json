@@ -1,13 +1,13 @@
 {
   "domain": "zeal.com",
   "name": "Zeal",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 3.7,
+  "score": 3.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "voco Zeal Exeter Science Park Appoints [person] as Executive Chef",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPclFFM1hTc2x3Q2Rjb3hBUUpaQnpOV0xVLWZ0Y3ZzZTVpdm41RmlnWGxQWkVfcWhXbXFBN3c3SDNNSm04clJWYWpVRVcycF9WSmd1VFNJbXlhY1FpSUVGb1A4SVZGTUNtcmRlUGo3ZXJmQXZ4TFF1V2FfZU9PSldVdlJDOEljOXhudFdVbUlCOWRpbU9Zemk0MGxrb3ZpX2UtT082YnZCSDhTYTJEa051VG9sOXVxUXZ4cXgydWdPUQ?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

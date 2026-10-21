@@ -1,20 +1,20 @@
 {
   "domain": "trymaven.com",
   "name": "Maven",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
   "score": 2.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Maven Communications launches 5th edition of Ghana Corporate Brands Conference and Honours - Business & Financial Times",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkFFdE50d05NbG5EcklXQk9LX2lnc1EtWXl4R3FuRjNfTEw2Nk5YSElVc3VINEpRc1ZxdmxWaGJpdEZ6c1N2Z0o4bDE0eFpGbmhWWDQ5UE0wM2dZYWZqOEo3QjFaWGhFMkpBa0UwbTZnVHo4d0kyLUdkdVZoXzBLWC1ZcTlzZDdDeGVtR251MTdzV3NSTURTekFtWE1HMTFrWTF6OGN4eFZtVXZfSnU1RXVfa2dpem05WjB6NGxlcm0?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 1.0,
       "occurred_at": "2026-10-17",
       "summary": "Maven's Delicatessen Expands Into Next-Door Pawtucket Space - Hoodline",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcU9STDV3NlZBd054NUxJOE9pSXloR1lybEZ1RnR4Y1J1WVZGRzlHLWpBUG13R3E0eHVtYlJLSUVkRXZLQXhhUVc5VmotNU5Xei01OEgyOW1mdVZXamFERlljS1pEbW9NMVZWSVc0Sm1Ccnd5a0IxTktJSUhncDNlajJuN2xPS2RxMnF3TTNQUlRlQkVud2VGSUo5UXNuWW5CZVE?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

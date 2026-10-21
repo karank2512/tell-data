@@ -1,9 +1,9 @@
 {
   "domain": "mosaic.inc",
   "name": "Mosaic",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 9.8,
+  "score": 9.7,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Ravenswood unveils community-created mosaic mural on Walnut Street - WV News",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZzBBU1g2NFNMUjJsUG5oM3BKcTBPNURkZjBsZ0ktQy1FYkxVNnNybE1TQ3N6UWN3eGZqd0xQWEZiNlhmZ0tjMFkzcGhCanJ4ZzdoNWczTlpqaFpPYUViNHhVYzZZMnZWOEdaY3RpVEY4akEzSU5yR0diSzQzcWUtVUozTmEycTdocVBWbVhQWFZfUkJjelVyUmFRNDVndG9IUVhpbXEzYVRBdUJsc0lQdndNNVczT1J1V25qVnNFbUlma0hNVjUzaDE3UkRUVFFEX1hnVXoyVHU5elUtOHgtWTVKUGtTUQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

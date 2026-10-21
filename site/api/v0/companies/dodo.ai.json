@@ -1,9 +1,9 @@
 {
   "domain": "dodo.ai",
   "name": "Dodo",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.3,
+  "score": 8.1,
   "contributions": [
     {
       "type": "launch",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Colossal Biosciences Unveils GenoMorph AI To Identify Dodo Gene-Editing Targets: 8 outlets compared - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNzYtVThtRDJTSm5mVEpIb2s2Uk94SFE1YWFNcnM5VFA2bEhaN21UNWY1TEc5aWhCLXZVa184dzNDbVpXd29icEt1X01SMGFZdWVGZ0VsNkVRVzdVQUlRX0dGQ0ZBR2hjbjVVZ1VfSGpzT2g3bGZVOGRLYm9lRlozWnVLeGFBNWg2QjR3eTg4Q3dMQks0SWZaUmpqQnV2WkpIMWdCZ3ZGbThVNzhoU190TlNYQ2F4emFoVXRxTnAtbGRnZzFPbU05YmxCVUltQ2dUOUFMSklUY01SOHpjV21BeXdPYUtubV9J?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Dallas’ Colossal Biosciences Unveils AI Platform to Help Revive the Dodo Bird - Dallas Innovates",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1gwT3FKWjhlT01CZVhILTdxZ2JqakpkNnBpMHlCM0dUdXk1RzdQTDhpT0ZtRm5PeEdxeW9HQ3JtajFtYjFqVHZNN01YUGpqVzlKeXlhS1lHMThjTDl5U0hwWDlKN1NCc1dTdUtpSnhtMU1ZQWpJQTVlQUZudmJWU1huakNjOEcyTVhQWWJyazBVd2VLSmFjQk9YSkoyVElScExTMXNSWWI?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

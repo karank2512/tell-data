@@ -1,13 +1,13 @@
 {
   "domain": "iodyne.com",
   "name": "iodyne",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 17.6,
+  "score": 17.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.6,
+      "contribution": 17.4,
       "occurred_at": "2026-08-20",
       "summary": "Form D: $12,000,000 offering, $3,000,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2151008/000215100826000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002151008",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

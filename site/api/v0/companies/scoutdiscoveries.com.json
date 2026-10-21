@@ -1,13 +1,13 @@
 {
   "domain": "scoutdiscoveries.com",
   "name": "SCOUT DISCOVERIES",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 27.2,
+  "score": 27.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 27.2,
+      "contribution": 27.0,
       "occurred_at": "2026-10-09",
       "summary": "Form D: $28,429,695 offering, $28,429,695 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1974508/000197450826000002/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001974508",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

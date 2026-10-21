@@ -1,13 +1,13 @@
 {
   "domain": "r3lithium.com",
   "name": "R3 Lithium",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 13.6,
+  "score": 13.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.6,
+      "contribution": 13.5,
       "occurred_at": "2026-07-16",
       "summary": "Form D: $15,000,000 offering, $5,274,975 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2145715/000214571526000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002145715",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "remitian.com",
   "name": "Remitian",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 27.9,
+  "score": 27.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 27.9,
+      "contribution": 27.7,
       "occurred_at": "2026-10-15",
       "summary": "Form D: $20,000,000 offering, $14,031,768 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2153884/000215388426000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002153884",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "collectpure.com",
   "name": "Pure",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 7.1,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Great American Media Launches Pure Flix Familia Streaming Service for Latino Families - citybiz",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFo0V2xSUV93S3VMbjE1ei1RbzZrYlQwT0pZbFgwNTNPc1I0VjE5c3N1alFFbGxDSGU4ZUVIeDczZzdJdkdrZnZRWnpYTnp0Tkd0cHRIZG9ub0ZodVYzNGJmS2FBVkhfdld5NGMxUjhwQkd1dG92b1pta1JISHdkMlh6TDhJZEdKdXFYUFlHQkNuMGF1UnloelhyZUhaSHBPWUI0aVBqUlFwa3A2TDJBc1hkRnR2RGZlNVMzbS1HdXkzUQ?oc=5"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "Christmas Silver Coins: 2026 Releases and What to Check",
       "url": "https://collectpure.com/blog/christmas-silver-coins"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

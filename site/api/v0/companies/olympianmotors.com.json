@@ -1,13 +1,13 @@
 {
   "domain": "olympianmotors.com",
   "name": "Olympian Motors",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 17.6,
+  "score": 17.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.6,
+      "contribution": 17.5,
       "occurred_at": "2026-10-15",
       "summary": "Form D: $41,701 offering, $41,701 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1978355/000197835526000007/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001978355",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

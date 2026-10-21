@@ -1,7 +1,7 @@
 {
   "domain": "goatgroup.com",
   "name": "GOAT Group",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
   "score": 2.9,
   "contributions": [
@@ -31,13 +31,13 @@
       ]
     }
   ],
-  "open_postings": 18,
+  "open_postings": 22,
   "long_open_roles": 0,
   "sources": {
     "ats": "greenhouse:goatgroup",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

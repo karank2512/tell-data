@@ -1,13 +1,13 @@
 {
   "domain": "onebrief.com",
   "name": "Onebrief",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 31.3,
+  "score": 31.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 30.3,
+      "contribution": 30.1,
       "occurred_at": "2026-10-14",
       "summary": "Form D: $249,999,915 offering, $150,799,963 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1888809/000188880926000002/"
@@ -20,13 +20,13 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTVp4bHRCZFNPN1c0VWxsTWpYM1dNcTlVZEJRWDNZQ0ZjNlFhYUo2dm10WEZTeFlRVGJMdVBsTjEwanBiRHp6SmNYckk3X2hEMElQLXc0REY3ai1fVnJnVzNCeDJjR1NQaExwZ2QxUkFRYU9LdnJ0RE51NVllTVhkQkZNU21FVXNJcTBDNWQzbmNXZUFIMDlpeXZSX1ljWEhqT01lWWhTRlppT1p5Y1NTQWpFcGpWN3ZxYm9NNUhNYjB5MlYwaUFTRllvUHR4NW5aYWRKa3ltUW5nSTdzNlV2dTJGeDVhQVVSN3AzUW04TmVyZHU0SDJ4MjhlUG5QeWxkNnpsV3BnbVdNVnc?oc=5"
     }
   ],
-  "open_postings": 33,
+  "open_postings": 35,
   "long_open_roles": 5,
   "sources": {
     "ats": "ashby:onebrief",
     "edgar_cik": "0001888809",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

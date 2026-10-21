@@ -1,13 +1,13 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 21.6,
+  "score": 21.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.0,
+      "contribution": 18.8,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
@@ -48,14 +48,14 @@
       "url": "https://coderabbit.ai/blog/introducing-coderabbit-reverse-tunnel"
     }
   ],
-  "open_postings": 45,
+  "open_postings": 46,
   "long_open_roles": 19,
   "sources": {
     "ats": "ashby:coderabbit",
     "edgar_cik": "0002014393",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": [
     {
       "type": "launch",

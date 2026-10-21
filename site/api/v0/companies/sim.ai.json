@@ -1,9 +1,9 @@
 {
   "domain": "sim.ai",
   "name": "Sim",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.1,
+  "score": 7.9,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Microsoft Releases Sim Update 7, National Championship Air Races for MSFS 2024 - ThresholdX",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0VPV25kZEUteVdUMkQ5NWtGUTZLWEp2RkpnT3NxYks5OWt4YkVUdVV4M3M2VXRlNXRQVGk2aFdRQ01KUUx1WW9kUXlRMDBrdVFFY2h4YTlhRkF0REJrdTl0ckU4ajJ4QUx1c250X2tyTDl2bHowQlBqamlWYV9jUk84YzJadzBheEQyMzU0dEszeG5rNWlMdFIzWGhsckJvbTB3?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "Race Sim Studio releases 2026-spec Formula 1-style mod for Assetto Corsa - Traxion.GG",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRF9pY3N6a056eVNEYk9kTHU5eUZuQ0N5LV9QWmNQMHV6ZFZWUWhWVFUtVnRuanhSTm9kdkFNZG9qZjJERlcyRk9xTTl5MnlEVlkyb1FQLWZKZ1ZrVFc5Qi1lYWFoZkg1UVpxc2I5NUw0MWlQb1ZsLTJTWWctSWgzcVVTZjF2Z0FTVkVhX3BlcDRMaUhWYUww?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

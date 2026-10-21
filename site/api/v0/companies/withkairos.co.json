@@ -1,20 +1,20 @@
 {
   "domain": "withkairos.co",
   "name": "Kairos",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 14.8,
+  "score": 14.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Appoints [person] to Board of Directors, Effective 14 October 2026",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnBFcTcwMW5ZRFQtdkt4Z1JyWXNOc0pIdlM2RUtaM0xzZkVaaGFjUXBzNDR0aHd2M3R5OGt2Qk16TFpCNVFaUnMweUtfNlVvNHNNdjFIMXlmaXBHN1FtYkIta0pTY2JSSW9kZXlKemc4TGdWVUtnTDNQSjBzM2RScjFIWm1SSEVJSnhVYXRKSkJxbTl6SjBCNHB3Zk1rOEFNMVdWM2x1bHUtODBnUjFMNkRzaDYzdE1adGNYTVFsMzBjRnhvOU1pb1lraC1XZw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Appoints [person] to Board Of Directors",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWstN214alAtRkU2QVRJcFBKV3NJZndZN2hVVVZDcXBsNnZIRHlUTmZmM21YMmhFelFtQmlSTmpaNVgzMmNFRS1ZbmFBaDh4Q1dlLXAzRTB3eHFHa2Q5WGNROXBwS19yMWw3aGVtUEd3SW9qMy10M0g1WEZ5RHhOR0JscHhPYVZCbU9ObTdkNjMtT1hzUmY3YVpSNWZnaU8wb0t6eXpzTm9ZYTYyeEk5MlFreXY2bGlfd0N4LUhOUWRIdXh4Q1B2d2R3?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

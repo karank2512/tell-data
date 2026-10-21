@@ -1,7 +1,7 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
   "score": 4.2,
   "contributions": [
@@ -38,13 +38,13 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnpEcVJIeS1VdlVQVEZmc0xrb2VZcFI2LVc0amQ4TUQzRUpvY0hYUnY4Slpvd0hFT3dfdTBIbk5BaThtY2VqU01KWTA1cFZMWWJQVVJiSG1SUFhSZ1k1UEpNaU5TNzRxRXd5MmRmRHlmaGh3cVUxelJRdWs1VHRXZm5OUjNqUUszZ3NlZ0RuYw?oc=5"
     }
   ],
-  "open_postings": 138,
-  "long_open_roles": 27,
+  "open_postings": 140,
+  "long_open_roles": 29,
   "sources": {
     "ats": "greenhouse:instacart",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

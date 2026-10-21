@@ -1,13 +1,13 @@
 {
   "domain": "arccameras.com",
   "name": "Arc",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Lincoln Electric launches modular submerged arc welding tractor - WorkBoat",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbXQwcG16aFNNai1zNWJrUE93eDU5dmd1cFVrczVNeGdjLTdkalpPdjZzcGkydG5LNlFaYkJQTW9DQkVKZDVRczJhREZWa1hvUG1xNzB3aV83bmZDcU1zSXRRRmx5WjB4WUlmZGN0ZHZIRTBMR2tWd2FweTZvT0RpSUIwZDBuS3Z5bXlWOEJBNXVoQQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

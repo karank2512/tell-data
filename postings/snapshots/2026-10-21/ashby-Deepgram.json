@@ -1,0 +1,817 @@
+{
+ "vendor": "ashby",
+ "identifier": "Deepgram",
+ "domain": "deepgram.com",
+ "as_of": "2026-10-21",
+ "last_polled_at": "2026-10-21T01:19:52.583162+00:00",
+ "open_postings": [
+  {
+   "external_id": "02b34c52-9d44-415d-affe-80f4bb016f90",
+   "title": "Account Executive (Singapore)",
+   "role_family": "sales",
+   "location": "Singapore",
+   "posted_at": "2026-07-16T10:26:23.902000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/02b34c52-9d44-415d-affe-80f4bb016f90"
+  },
+  {
+   "external_id": "07f98531-7a03-4481-a7ff-863fb07dfccd",
+   "title": "Account Executive (India)",
+   "role_family": "sales",
+   "location": "India",
+   "posted_at": "2026-10-19T13:12:10.172000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/07f98531-7a03-4481-a7ff-863fb07dfccd"
+  },
+  {
+   "external_id": "0b7494b3-a91e-4540-9439-5b10a1e5b391",
+   "title": "Embedded AI Engineer, On-Device Models",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-07T17:44:07.351000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/0b7494b3-a91e-4540-9439-5b10a1e5b391"
+  },
+  {
+   "external_id": "0f597b67-3cd4-4d56-b951-d555031ee5cc",
+   "title": "Senior Product Marketing Manager, Solutions Marketing",
+   "role_family": "marketing",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-06T19:02:46.116000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/0f597b67-3cd4-4d56-b951-d555031ee5cc"
+  },
+  {
+   "external_id": "1140ca2e-0b17-4262-8c1b-a3eb156086dc",
+   "title": "Account Executive (German Speaking)",
+   "role_family": "sales",
+   "location": "Switzerland",
+   "posted_at": "2026-10-19T14:28:32.649000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/1140ca2e-0b17-4262-8c1b-a3eb156086dc"
+  },
+  {
+   "external_id": "12a8a8ea-5a58-4640-8974-ae257b2405a4",
+   "title": "Talent Researcher",
+   "role_family": "finance_ops",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-15T19:05:09.607000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/12a8a8ea-5a58-4640-8974-ae257b2405a4"
+  },
+  {
+   "external_id": "12fd68d7-5034-41f5-a992-022691a25f53",
+   "title": "Research Staff, Voice AI Foundations [UK - Remote]",
+   "role_family": "ml_ai",
+   "location": "London, UK",
+   "posted_at": "2026-10-10T23:24:32.614000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/12fd68d7-5034-41f5-a992-022691a25f53"
+  },
+  {
+   "external_id": "1395ef4d-883a-4006-85a1-4e7d44623431",
+   "title": "Pre-Sales Solutions Engineer (EST or PST)",
+   "role_family": "sales",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-14T13:57:44.092000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/1395ef4d-883a-4006-85a1-4e7d44623431"
+  },
+  {
+   "external_id": "1518fd8f-7e9d-4712-9e6b-a7e10ba25bdd",
+   "title": "Research Staff, Voice AI Foundations - Remote",
+   "role_family": "ml_ai",
+   "location": "The Netherlands",
+   "posted_at": "2026-10-10T23:22:04.170000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/1518fd8f-7e9d-4712-9e6b-a7e10ba25bdd"
+  },
+  {
+   "external_id": "1645ceac-3ef9-45ba-8386-49c7c43b14f0",
+   "title": "Senior Forward Deployed Engineer (FDE), Strategic Accounts",
+   "role_family": "customer",
+   "location": "New York City, NY",
+   "posted_at": "2026-08-31T17:35:10.759000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/1645ceac-3ef9-45ba-8386-49c7c43b14f0"
+  },
+  {
+   "external_id": "17f95148-fa1c-4c34-82c8-333589bef789",
+   "title": "Staff Product Manager, Agentic Experiences (Former Engineer)",
+   "role_family": "product_design",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-29T00:11:02.063000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/17f95148-fa1c-4c34-82c8-333589bef789"
+  },
+  {
+   "external_id": "1d340a0d-9d55-4452-a6dc-38534c4fd06f",
+   "title": "Senior Designer, Brand Marketing",
+   "role_family": "marketing",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-08T23:17:12.516000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/1d340a0d-9d55-4452-a6dc-38534c4fd06f"
+  },
+  {
+   "external_id": "1fea22ce-2438-44cb-b28f-2c0109f2f78a",
+   "title": "Privacy Operations Lead",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-01T18:47:17.786000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/1fea22ce-2438-44cb-b28f-2c0109f2f78a"
+  },
+  {
+   "external_id": "2084edc0-2df0-4bd4-b759-0f05c38d5ef5",
+   "title": "Backend Engineer- Inference Services",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-09T00:31:35.047000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/2084edc0-2df0-4bd4-b759-0f05c38d5ef5"
+  },
+  {
+   "external_id": "25572a81-408d-4768-825c-ddbc7679d222",
+   "title": "Talent Acquisition Manager",
+   "role_family": "finance_ops",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-04T06:48:54.786000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/25572a81-408d-4768-825c-ddbc7679d222"
+  },
+  {
+   "external_id": "2fc57802-1d2d-4796-aaea-e00586dc6792",
+   "title": "Senior Forward-Deployed Engineer, Federal",
+   "role_family": "customer",
+   "location": "Washington D.C.",
+   "posted_at": "2026-03-06T17:44:04.903000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/2fc57802-1d2d-4796-aaea-e00586dc6792"
+  },
+  {
+   "external_id": "30210b62-73aa-417c-b2cf-0929c565a00a",
+   "title": "Sales Development Representative (India)",
+   "role_family": "sales",
+   "location": "India",
+   "posted_at": "2026-10-19T13:16:56.876000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/30210b62-73aa-417c-b2cf-0929c565a00a"
+  },
+  {
+   "external_id": "378e83b4-28c0-4b4e-8cf0-9355712bd06d",
+   "title": "Billing & Analytics Software Engineer",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-21T11:55:37.116000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/378e83b4-28c0-4b4e-8cf0-9355712bd06d"
+  },
+  {
+   "external_id": "39c2b79b-0269-4711-9354-be5ccf747a98",
+   "title": "Research Staff, LLMs",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-23T17:44:04.985000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/39c2b79b-0269-4711-9354-be5ccf747a98"
+  },
+  {
+   "external_id": "3a12f539-7734-46fa-9e3b-28e041e56074",
+   "title": "Senior Product Manager, Enterprise",
+   "role_family": "product_design",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-24T18:03:56.440000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/3a12f539-7734-46fa-9e3b-28e041e56074"
+  },
+  {
+   "external_id": "410cab78-0105-4270-a936-bec653ae5928",
+   "title": "Global Head of Real Estate and Workplace",
+   "role_family": "exec",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-14T13:53:15.247000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/410cab78-0105-4270-a936-bec653ae5928"
+  },
+  {
+   "external_id": "4a873ede-8555-42ae-9ddc-ac89afdd7278",
+   "title": "Software Engineer, Voice Agents & AI (Senior or Staff Level)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-07-04T00:07:39.953000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278"
+  },
+  {
+   "external_id": "4bfadd29-fa58-4e06-bbf0-7b5dbc41a621",
+   "title": "Forward-Deployed Engineer (FDE), Strategic Accounts",
+   "role_family": "customer",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-08-22T01:04:32.392000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621"
+  },
+  {
+   "external_id": "4caace1a-beb8-43bc-a69a-4952e6214af7",
+   "title": "Staff Sales Engineer, Voice AI",
+   "role_family": "sales",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-20T19:35:31.082000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/4caace1a-beb8-43bc-a69a-4952e6214af7"
+  },
+  {
+   "external_id": "4cc235e0-f195-4f44-84f3-c30e07c4a388",
+   "title": "Customer Success Engineer (Singapore)",
+   "role_family": "customer",
+   "location": "Singapore",
+   "posted_at": "2026-07-07T14:54:09.308000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/4cc235e0-f195-4f44-84f3-c30e07c4a388"
+  },
+  {
+   "external_id": "4e779ee8-43bd-4cb0-9d14-b1645da0ea15",
+   "title": "Revenue Operations Analyst (London)",
+   "role_family": "gtm_ops",
+   "location": "London, UK",
+   "posted_at": "2026-10-20T16:30:54.257000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15"
+  },
+  {
+   "external_id": "4f9648d7-e25c-440c-8ec6-566a405c7c23",
+   "title": "Staff Web Engineer, Marketing",
+   "role_family": "marketing",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-13T17:02:02.990000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/4f9648d7-e25c-440c-8ec6-566a405c7c23"
+  },
+  {
+   "external_id": "54a27203-b9d4-454a-be89-e5eee1b0cc12",
+   "title": "Recruiting Coordinator",
+   "role_family": "other",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-28T18:20:56.430000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/54a27203-b9d4-454a-be89-e5eee1b0cc12"
+  },
+  {
+   "external_id": "56d0068b-a787-4682-983c-3ae900ec8692",
+   "title": "Revenue Operations Analyst",
+   "role_family": "gtm_ops",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-20T16:28:36.299000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/56d0068b-a787-4682-983c-3ae900ec8692"
+  },
+  {
+   "external_id": "5ed3eb80-7532-467c-9f3e-04a0590a3966",
+   "title": "GRC and Security Compliance Lead",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-08T19:24:00.782000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/5ed3eb80-7532-467c-9f3e-04a0590a3966"
+  },
+  {
+   "external_id": "5f3e2186-36c9-405d-be4b-7c5b47766ba9",
+   "title": "Customer Success Engineer ( India)",
+   "role_family": "customer",
+   "location": "India",
+   "posted_at": "2026-10-20T07:58:40.232000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/5f3e2186-36c9-405d-be4b-7c5b47766ba9"
+  },
+  {
+   "external_id": "681c5324-1234-4222-b783-a8a7a9440005",
+   "title": "Senior Program Manager, Data Operations",
+   "role_family": "data",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-29T14:51:20.616000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/681c5324-1234-4222-b783-a8a7a9440005"
+  },
+  {
+   "external_id": "68372d7d-b7a9-439e-a0a7-76690576aba4",
+   "title": "Software Engineer - Applied AI (Senior or Staff Level)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-07-04T00:07:30.026000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4"
+  },
+  {
+   "external_id": "6c2a6918-b04c-4407-b87c-46090c114bb0",
+   "title": "Field & Event Marketing Manager, APAC (Singapore)",
+   "role_family": "marketing",
+   "location": "Singapore",
+   "posted_at": "2026-10-09T15:48:22.217000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/6c2a6918-b04c-4407-b87c-46090c114bb0"
+  },
+  {
+   "external_id": "6e3344f4-48c7-4127-871c-3f1dada45323",
+   "title": "Director of Research, Text to Speech",
+   "role_family": "exec",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-21T23:50:59.714000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/6e3344f4-48c7-4127-871c-3f1dada45323"
+  },
+  {
+   "external_id": "6f3d761e-4873-43af-a9b1-daeb147661f9",
+   "title": "Senior Software Engineer - Model Evaluation & AI Systems",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-28T00:36:28.421000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/6f3d761e-4873-43af-a9b1-daeb147661f9"
+  },
+  {
+   "external_id": "759ab6f3-d47a-47b4-8e99-3176396bd7ad",
+   "title": "Executive Business Partner, Customer Success",
+   "role_family": "customer",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-03T18:44:49.972000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/759ab6f3-d47a-47b4-8e99-3176396bd7ad"
+  },
+  {
+   "external_id": "75ea6241-dbf0-42f2-a271-20d5d141316b",
+   "title": "Strategic Account Executive (New York City)",
+   "role_family": "sales",
+   "location": "New York City, NY",
+   "posted_at": "2026-09-03T19:47:33.400000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/75ea6241-dbf0-42f2-a271-20d5d141316b"
+  },
+  {
+   "external_id": "790579d8-6474-42ca-9104-9a4bafcf13e9",
+   "title": "Staff Product Analyst (Product-Led Growth)",
+   "role_family": "product_design",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-11T04:09:58.565000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/790579d8-6474-42ca-9104-9a4bafcf13e9"
+  },
+  {
+   "external_id": "790f9a3f-82e8-4c55-995b-8ccb95d6eff9",
+   "title": "Product Designer II",
+   "role_family": "product_design",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-02T16:09:02.605000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/790f9a3f-82e8-4c55-995b-8ccb95d6eff9"
+  },
+  {
+   "external_id": "7992391d-a890-41f7-85c8-849e0b878981",
+   "title": "Senior Analytics Engineer - Decision Intelligence",
+   "role_family": "data",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-08T15:18:42.307000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/7992391d-a890-41f7-85c8-849e0b878981"
+  },
+  {
+   "external_id": "7ac1a5bc-f305-4f2a-a547-394566a549b2",
+   "title": "Senior Pre-Sales Solutions Engineer - Europe",
+   "role_family": "sales",
+   "location": "EU - Remote",
+   "posted_at": "2026-03-17T19:36:50.771000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/7ac1a5bc-f305-4f2a-a547-394566a549b2"
+  },
+  {
+   "external_id": "7c7064bb-2bf0-4f64-81cc-14afe79a15c1",
+   "title": "Backend Software Engineer - Engine Team (Voice Agent)",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-02-18T20:51:56.568000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1"
+  },
+  {
+   "external_id": "7ced4c1f-4126-44fe-9cf1-da427a9e4e3e",
+   "title": "ML Ops Infrastructure Engineer",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-06T11:46:15.333000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e"
+  },
+  {
+   "external_id": "7cf277bc-a192-4007-a77a-fafbf8276a5e",
+   "title": "Research Staff, Voice AI Foundations",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-23T17:43:40.888000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/7cf277bc-a192-4007-a77a-fafbf8276a5e"
+  },
+  {
+   "external_id": "7fe7bd7d-b337-4337-b459-a892be80789e",
+   "title": "Strategic Account Executive (Chicago & Texas)",
+   "role_family": "sales",
+   "location": "USA - Remote",
+   "posted_at": "2026-01-14T20:53:10.921000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/7fe7bd7d-b337-4337-b459-a892be80789e"
+  },
+  {
+   "external_id": "821b1ba2-02fe-47cb-907a-39214e0f2fe0",
+   "title": "Staff Product Designer, Conversational AI",
+   "role_family": "product_design",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-19T00:20:13.299000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/821b1ba2-02fe-47cb-907a-39214e0f2fe0"
+  },
+  {
+   "external_id": "82aee0a3-055d-481f-b081-b1691febc209",
+   "title": "Senior People Partner",
+   "role_family": "finance_ops",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-16T17:16:46.797000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/82aee0a3-055d-481f-b081-b1691febc209"
+  },
+  {
+   "external_id": "844ec2d9-4256-4be0-a6c6-78ebf1391a78",
+   "title": "Solutions Architect (EST or PST hours)",
+   "role_family": "customer",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-16T19:43:40.252000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/844ec2d9-4256-4be0-a6c6-78ebf1391a78"
+  },
+  {
+   "external_id": "85fddd5f-8a08-48d4-975a-de845e1b81ac",
+   "title": "Account Executive (Melbourne)",
+   "role_family": "sales",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-08-24T07:37:41.548000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/85fddd5f-8a08-48d4-975a-de845e1b81ac"
+  },
+  {
+   "external_id": "89c0ef18-7433-4c0e-b136-4b03f326c86f",
+   "title": "Security Engineer",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-01T18:57:11.143000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/89c0ef18-7433-4c0e-b136-4b03f326c86f"
+  },
+  {
+   "external_id": "8a010608-6239-42ca-81de-c01139153eb2",
+   "title": "Partner Success Engineer",
+   "role_family": "customer",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-24T23:58:42.185000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/8a010608-6239-42ca-81de-c01139153eb2"
+  },
+  {
+   "external_id": "8a9bcce3-858f-4cc0-8459-2fe552b6aaa5",
+   "title": "Senior Pre-Sales Solutions Engineer (Australia)",
+   "role_family": "sales",
+   "location": "Australia- Melbourne",
+   "posted_at": "2026-08-05T17:17:10.279000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/8a9bcce3-858f-4cc0-8459-2fe552b6aaa5"
+  },
+  {
+   "external_id": "8e80b2ec-a88d-4b70-8ddd-0f7021f1554b",
+   "title": "Research Staff, Applied Voice AI",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-19T14:01:19.002000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/8e80b2ec-a88d-4b70-8ddd-0f7021f1554b"
+  },
+  {
+   "external_id": "91ea80f4-cc54-4c52-8ef5-d2c2b2764640",
+   "title": "Corporate Account Executive",
+   "role_family": "sales",
+   "location": "USA - Remote",
+   "posted_at": "2025-09-05T17:07:40.052000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/91ea80f4-cc54-4c52-8ef5-d2c2b2764640"
+  },
+  {
+   "external_id": "928303de-61d6-46ec-b10a-08709e1deb4a",
+   "title": "Senior Product Marketing Manager, Voice Agent",
+   "role_family": "marketing",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-06T19:04:36.426000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/928303de-61d6-46ec-b10a-08709e1deb4a"
+  },
+  {
+   "external_id": "931a23fe-07e5-4ac9-a100-1f4366781268",
+   "title": "Technical GTM Enablement Manager",
+   "role_family": "sales",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-02T17:45:56.942000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/931a23fe-07e5-4ac9-a100-1f4366781268"
+  },
+  {
+   "external_id": "94443791-d22f-4f63-a4dd-fd3efb3fc82e",
+   "title": "Account Executive (Korean Speaking)",
+   "role_family": "sales",
+   "location": "Singapore",
+   "posted_at": "2026-07-22T10:57:49.354000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/94443791-d22f-4f63-a4dd-fd3efb3fc82e"
+  },
+  {
+   "external_id": "94ae2781-a85f-493a-86c1-ff85a9289355",
+   "title": "Applied ML Engineer -  Edge Devices",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-14T20:21:38.932000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/94ae2781-a85f-493a-86c1-ff85a9289355"
+  },
+  {
+   "external_id": "9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5",
+   "title": "Staff Product Manager, AI Applications",
+   "role_family": "product_design",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-09T17:24:28.175000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/9762d2a1-3d07-4e65-a0bb-6ed8162ca7d5"
+  },
+  {
+   "external_id": "9a030b32-d671-43e0-a221-4653bb73ba29",
+   "title": "Research Engineer, Machine Learning Systems",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-23T17:43:54.220000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/9a030b32-d671-43e0-a221-4653bb73ba29"
+  },
+  {
+   "external_id": "9cb09363-9b68-4957-869a-da70b95ad6bd",
+   "title": "Senior Solutions Architect - Europe",
+   "role_family": "customer",
+   "location": "EU - Remote",
+   "posted_at": "2026-03-17T19:36:40.656000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/9cb09363-9b68-4957-869a-da70b95ad6bd"
+  },
+  {
+   "external_id": "9e02aa7f-badb-423a-b0e6-45cf88e789d8",
+   "title": "Brand Copy Lead",
+   "role_family": "marketing",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-13T01:09:55.758000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/9e02aa7f-badb-423a-b0e6-45cf88e789d8"
+  },
+  {
+   "external_id": "a0678103-1b9c-44a4-92c0-f705850a8fa1",
+   "title": "Director, Text-to-Speech Synthesis Research",
+   "role_family": "exec",
+   "location": "London, UK",
+   "posted_at": "2026-09-17T18:57:04.405000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/a0678103-1b9c-44a4-92c0-f705850a8fa1"
+  },
+  {
+   "external_id": "a6c59ee7-4d92-423c-a6e6-99adcd9e6ff3",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "USA - Remote",
+   "posted_at": "2025-07-15T15:50:58.140000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/a6c59ee7-4d92-423c-a6e6-99adcd9e6ff3"
+  },
+  {
+   "external_id": "aafbab17-4caa-4b87-811c-21acfc566cf4",
+   "title": "APAC Partner Business Development Manager",
+   "role_family": "other",
+   "location": "Singapore",
+   "posted_at": "2026-07-30T14:13:42.203000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/aafbab17-4caa-4b87-811c-21acfc566cf4"
+  },
+  {
+   "external_id": "ac705109-ea86-41da-a3f2-811c35248c6a",
+   "title": "Partner Success Manager (AWS)",
+   "role_family": "customer",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-25T19:51:20.409000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/ac705109-ea86-41da-a3f2-811c35248c6a"
+  },
+  {
+   "external_id": "ae992d89-1bb3-4bea-ae91-0a07043e9756",
+   "title": "Senior Data Intelligence Engineer",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-15T17:15:32.203000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/ae992d89-1bb3-4bea-ae91-0a07043e9756"
+  },
+  {
+   "external_id": "b10db691-f77c-4a65-8f7c-ff9574f53f1e",
+   "title": "Senior Solutions Engineer, Federal",
+   "role_family": "sales",
+   "location": "Washington D.C.",
+   "posted_at": "2026-03-27T12:01:20.840000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/b10db691-f77c-4a65-8f7c-ff9574f53f1e"
+  },
+  {
+   "external_id": "b74b4d59-5b3e-46ac-9928-a5c8f6b7d321",
+   "title": "Executive Assistant, Marketing",
+   "role_family": "marketing",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-18T02:05:20.747000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/b74b4d59-5b3e-46ac-9928-a5c8f6b7d321"
+  },
+  {
+   "external_id": "b856d0c2-df8e-492a-9044-62b0fd3c30b6",
+   "title": "Customer Success Engineer (Scaled)",
+   "role_family": "customer",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-21T19:59:40.934000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/b856d0c2-df8e-492a-9044-62b0fd3c30b6"
+  },
+  {
+   "external_id": "ba60a541-fdf7-44bf-a6bb-0e821f15af54",
+   "title": "Senior Data Scientist, Audio",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-21T23:35:29.761000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/ba60a541-fdf7-44bf-a6bb-0e821f15af54"
+  },
+  {
+   "external_id": "be9609b4-b48d-4421-90e5-69049ad0d6ce",
+   "title": "Solutions Architect (San Francisco, CA)",
+   "role_family": "customer",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-04-16T19:48:00.048000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/be9609b4-b48d-4421-90e5-69049ad0d6ce"
+  },
+  {
+   "external_id": "be9f18f6-8851-40fb-be50-3c13d7457092",
+   "title": "Director of Product Operations",
+   "role_family": "exec",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-07T23:15:34.162000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/be9f18f6-8851-40fb-be50-3c13d7457092"
+  },
+  {
+   "external_id": "bf8ea79f-f380-467e-8349-ea1ea8281316",
+   "title": "People AI & Automation Engineer",
+   "role_family": "finance_ops",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-11T17:08:43.899000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316"
+  },
+  {
+   "external_id": "c0a4b3fb-2c15-4b03-86f9-688eec8a8187",
+   "title": "Staff Developer Experience (DX) Engineer",
+   "role_family": "other",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-17T16:26:24.780000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/c0a4b3fb-2c15-4b03-86f9-688eec8a8187"
+  },
+  {
+   "external_id": "c22e34a4-018a-4123-a752-31ed64c320c8",
+   "title": "Strategic Account Executive (Federal Civilian)",
+   "role_family": "sales",
+   "location": "Washington D.C.",
+   "posted_at": "2026-08-03T18:38:06.078000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/c22e34a4-018a-4123-a752-31ed64c320c8"
+  },
+  {
+   "external_id": "c26a7488-27ad-46e6-832f-d0dc6ab1bddb",
+   "title": "Senior Partner Manager, AWS",
+   "role_family": "other",
+   "location": "Seattle, WA",
+   "posted_at": "2026-09-28T14:19:55.913000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/c26a7488-27ad-46e6-832f-d0dc6ab1bddb"
+  },
+  {
+   "external_id": "c7922eab-cca8-46e8-b073-06ad60337edf",
+   "title": "Research Staff, Voice AI Foundations [Remote]",
+   "role_family": "ml_ai",
+   "location": "Australia- Melbourne",
+   "posted_at": "2026-10-10T23:25:56.556000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/c7922eab-cca8-46e8-b073-06ad60337edf"
+  },
+  {
+   "external_id": "c79a2b89-5309-4af5-8cf4-ab8454a2ecbc",
+   "title": "Senior Manager, Internal Communications",
+   "role_family": "marketing",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-14T12:24:49.417000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/c79a2b89-5309-4af5-8cf4-ab8454a2ecbc"
+  },
+  {
+   "external_id": "c8799e26-121b-47be-8bc4-7b342fa32275",
+   "title": "GM, Sales (EMEA)",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-08-26T22:02:20.979000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/c8799e26-121b-47be-8bc4-7b342fa32275"
+  },
+  {
+   "external_id": "cdecda60-85d8-4b7f-94db-c4665b3d5988",
+   "title": "EMEA Account Executive",
+   "role_family": "sales",
+   "location": "London, UK",
+   "posted_at": "2026-03-09T19:22:14.219000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/cdecda60-85d8-4b7f-94db-c4665b3d5988"
+  },
+  {
+   "external_id": "d0660127-6c26-4053-943c-c006990b8edc",
+   "title": "Staff Product Manager (Product-Led Growth)",
+   "role_family": "product_design",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-25T00:08:55.683000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/d0660127-6c26-4053-943c-c006990b8edc"
+  },
+  {
+   "external_id": "d28f0a61-4a59-4817-b101-3457077b01b7",
+   "title": "Senior Pre-Sales Solutions Engineer (Singapore)",
+   "role_family": "sales",
+   "location": "APAC - Remote",
+   "posted_at": "2026-08-05T17:21:33.231000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/d28f0a61-4a59-4817-b101-3457077b01b7"
+  },
+  {
+   "external_id": "d75d6f84-1d54-4354-a364-609b48267658",
+   "title": "Partner Success Engineer (Infrastructure)",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-10T21:16:10.241000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/d75d6f84-1d54-4354-a364-609b48267658"
+  },
+  {
+   "external_id": "d98e6723-3485-4b58-9494-d6bf028fa905",
+   "title": "Sr. Backend Engineer - Engine Team: API",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-10T13:27:03.731000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/d98e6723-3485-4b58-9494-d6bf028fa905"
+  },
+  {
+   "external_id": "d9d5aa44-b675-46e9-b596-45c1c5dca858",
+   "title": "Customer Success Engineer ( London)",
+   "role_family": "customer",
+   "location": "London, UK",
+   "posted_at": "2026-07-30T16:36:34.271000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/d9d5aa44-b675-46e9-b596-45c1c5dca858"
+  },
+  {
+   "external_id": "dbf01f1a-3441-4528-be17-0941ccf49191",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Singapore",
+   "posted_at": "2026-07-29T16:40:59.410000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/dbf01f1a-3441-4528-be17-0941ccf49191"
+  },
+  {
+   "external_id": "dcbd7bf3-59b0-4ea8-a5e8-425e01f8fd53",
+   "title": "Associate General Counsel Corporate",
+   "role_family": "other",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-09T23:53:01.819000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/dcbd7bf3-59b0-4ea8-a5e8-425e01f8fd53"
+  },
+  {
+   "external_id": "dcea53a5-5650-406d-a154-fad077c4b81b",
+   "title": "Research Engineer, Post-Training",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-19T13:54:47.821000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/dcea53a5-5650-406d-a154-fad077c4b81b"
+  },
+  {
+   "external_id": "e8b2cd20-bd98-4977-b9a9-cfa6868cc122",
+   "title": "Director, GTM Engineering",
+   "role_family": "gtm_ops",
+   "location": "USA - Remote",
+   "posted_at": "2026-10-20T17:02:53.248000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122"
+  },
+  {
+   "external_id": "ec9f63e6-b7b4-4d58-8552-9cfeef5e82c6",
+   "title": "Senior Commercial Counsel",
+   "role_family": "other",
+   "location": "London, UK",
+   "posted_at": "2026-09-09T23:45:40.937000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/ec9f63e6-b7b4-4d58-8552-9cfeef5e82c6"
+  },
+  {
+   "external_id": "f07356f4-0b6c-422b-8dd0-a1f4216bea9b",
+   "title": "Executive Coordinator",
+   "role_family": "other",
+   "location": "Ann Arbor, Michigan",
+   "posted_at": "2026-10-02T17:48:58.362000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/f07356f4-0b6c-422b-8dd0-a1f4216bea9b"
+  },
+  {
+   "external_id": "f09b0d4a-dbfc-4486-879b-741eb61f9fdb",
+   "title": "Field & Event Marketing Manager, EMEA",
+   "role_family": "marketing",
+   "location": "London, UK",
+   "posted_at": "2026-10-09T15:45:09.907000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/f09b0d4a-dbfc-4486-879b-741eb61f9fdb"
+  },
+  {
+   "external_id": "f424ef6a-c27f-4984-9e77-40a1ad16ae28",
+   "title": "Platform Engineer - AI/ML Infrastructure (Kubernetes & Terraform)",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-03T18:10:26.112000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28"
+  },
+  {
+   "external_id": "f5aeae73-25db-4a2d-b5e3-6b43cf2e2ed5",
+   "title": "Senior Strategic Renewals Manager",
+   "role_family": "customer",
+   "location": "USA - Remote",
+   "posted_at": "2026-06-10T16:00:35.912000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/f5aeae73-25db-4a2d-b5e3-6b43cf2e2ed5"
+  },
+  {
+   "external_id": "f8b9322f-67a4-448f-bd2c-e9a102c4a55d",
+   "title": "EMEA Account Executive (German speaking)",
+   "role_family": "sales",
+   "location": "Switzerland",
+   "posted_at": "2026-10-13T14:48:08.107000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/f8b9322f-67a4-448f-bd2c-e9a102c4a55d"
+  },
+  {
+   "external_id": "f904ff60-f5d1-45c7-8fa2-8456c47b4204",
+   "title": "Pre-Sales Solutions Engineer (San Francisco, CA)",
+   "role_family": "sales",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-04-15T00:51:05.735000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204"
+  },
+  {
+   "external_id": "faef2c32-5084-48ca-8fff-e86d653f2697",
+   "title": "Customer Success Engineer (Americas)",
+   "role_family": "customer",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-24T17:15:08.100000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/faef2c32-5084-48ca-8fff-e86d653f2697"
+  },
+  {
+   "external_id": "fcd70595-9e0c-4347-914e-cb4a51be3492",
+   "title": "Federal Partner Manager",
+   "role_family": "other",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-31T13:27:17.340000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/fcd70595-9e0c-4347-914e-cb4a51be3492"
+  },
+  {
+   "external_id": "fdb4073a-4c1c-48d6-b6d5-f407d3e78d17",
+   "title": "Research Staff, Data Science",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-23T17:44:15.890000+00:00",
+   "url": "https://jobs.ashbyhq.com/Deepgram/fdb4073a-4c1c-48d6-b6d5-f407d3e78d17"
+  }
+ ]
+}

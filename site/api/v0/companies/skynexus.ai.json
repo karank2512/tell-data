@@ -1,13 +1,13 @@
 {
   "domain": "skynexus.ai",
   "name": "SkyNexus AI",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 20.3,
+  "score": 20.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.3,
+      "contribution": 20.2,
       "occurred_at": "2026-10-06",
       "summary": "Form D: $500,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2158087/000215808726000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002158087",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

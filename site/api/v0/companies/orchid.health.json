@@ -1,9 +1,9 @@
 {
   "domain": "orchid.health",
   "name": "Orchid",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.5,
   "contributions": [
     {
       "type": "leadership",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Complete Grow Launches Australian-Made Orchid Fertiliser With Two-Stage Grow and Bloom System - Chinook Observer",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVER0NEhoekdfUDVHRTFUcXp2WkpVUmlrWWtOeGJjOE9HbzJ3Z1NtdkVMWUNUdHVBdkx2UExmaVNpN2hXYUJVVG5EbmtCWVptSmdPRGpqME9QYXlBc3Jfb0xoQjFnaEd6aTJIM0F6UkRMN09HZ2lrcGlTNzc4cVJRMmdyQ0dnalAwTHNqMlJnVXlXX0tyUGpTLWNRVE9ac3BBaWE5bEVhenZKaDJiYXUxNGJCb2o1Qk5TRzdHN3RSVHp3QXVmeWtIeXBybEF4OS1aajZaVHhvNUpDRW9aekpJMGt5TEp6U011OVhLdFRR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Complete Grow Launches Australian-Made Orchid Fertiliser With Two-Stage Grow and Bloom System - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkdmSUUtMTI2ZjROblM2SFlTV0tzdjdLSk55SmF3eVhPSURjeWFNcHkwOVlrd3YwVlJMV25pcWNWMnJBMjZaakRfNzJmWmdUa2lwaXZhR3JfR04wTV94ZjYwMmxTQ0xwXzVBTTRSUUxkRmtZenc2djhHcUt3ai1iYUh0d3FXQ3RiQlJtTDl6V0ZRRWwtVjY0eHkzd2hyUQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

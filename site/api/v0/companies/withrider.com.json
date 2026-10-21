@@ -1,9 +1,9 @@
 {
   "domain": "withrider.com",
   "name": "Rider",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 3.4,
+  "score": 3.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "FRP Moto Launches M3 Electric Mini Bike With Rider-Tuned Wheelie Modes - EIN News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM0JBVlV1U0pUcXdUcHAwRkpyWFI0bWVBQll3VWVGZF91dUJUWUhUWDgtTlEweVBIN2lmVU1GWFlFY2M3UXhIMTM1T1dYdEZVTTVpMHhYUXQ2cXlBeDNzT3A5dUM1Skd1V05UV3hHVlRXS3NvT1Z1SDBpVFVodEowdmJudnFUTzFiTURCZ2NIS3J4WS10RG53TU44ZE8ybURieURoSjhCaGQ0UzVUMDF0NEFqRQ?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

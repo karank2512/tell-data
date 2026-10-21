@@ -1,0 +1,33 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "clever",
+ "domain": "clever.com",
+ "as_of": "2026-10-21",
+ "last_polled_at": "2026-10-21T01:19:48.545235+00:00",
+ "open_postings": [
+  {
+   "external_id": "8213300",
+   "title": "Senior Account Executive - UK",
+   "role_family": "sales",
+   "location": "United Kingdom",
+   "posted_at": "2026-09-23T19:00:57+00:00",
+   "url": "https://www.clever.com/about/careers?gh_jid=8213300"
+  },
+  {
+   "external_id": "8224363",
+   "title": "Senior Product Designer, Cybersecurity",
+   "role_family": "product_design",
+   "location": "San Francisco, CA, OR Anywhere in the Continental U.S.",
+   "posted_at": "2026-09-22T20:32:39+00:00",
+   "url": "https://www.clever.com/about/careers?gh_jid=8224363"
+  },
+  {
+   "external_id": "8249307",
+   "title": "Senior Software Engineer, Devices",
+   "role_family": "engineering",
+   "location": "San Francisco, CA, OR Anywhere in the Continental U.S.",
+   "posted_at": "2026-10-05T21:24:32+00:00",
+   "url": "https://www.clever.com/about/careers?gh_jid=8249307"
+  }
+ ]
+}

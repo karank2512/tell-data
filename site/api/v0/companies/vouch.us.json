@@ -1,13 +1,13 @@
 {
   "domain": "vouch.us",
   "name": "Vouch",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.9,
+  "score": 1.8,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Appoints CFO",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEc4OTZNVjkzTzZObnZGNmc5d1k5R3V4ZGJ6eDZxS21pUmdJQU5ZUnhDYkNHSXlxQzhaWnQtNXIwZ29XYzVLc0FDcjMzZU1nY2Jpb2hYaHk3dU5pR2VubU14SnV0Yk1pVktkMThITEtqZHBqRUc3VjVGd0NEenpKdGZBSGRpcTRQbHFKTXVfbHVmcHp6RjR5ZXE3T09XSWdNck0tdkd6N2FlX20tX21jQQ?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "onuniverse.com",
   "name": "Universe",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "'Space Gal' Emily Calandrelli launches into the Marvel Universe this week on Disney Jr.'s 'Iron Man' series (exclusive) - Space",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaDNCS2dVeGRXUGkyOVV5NjdXRHJnWWk5S08yUHdlbk5aM014V1NYQVhrOXRJZ1ZKZlZUbm94QUtSYlpzU25wbkdpb1ZKZ0E1Zy1fTnNPSWhJeHFYeVFVWUZ6MEx0Njdtd25yWkJNVXB0dGZ2Ri02djl2NndURlJHdTJvU3M2WGUxQWVYTngyVmxGbi1iRm1fM1prNFNnbmM4WlpBc0RIVEduV3FFSGlvYXUzSklfcGI5RHppU01pUnJHTXZPdEY3ZXUxcFJmdGdBNjl2UTUxSm8yYllLcnRTdDZqd0FXcUlPRmxuTW1QZWdwTjlvbFllVVVqVQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

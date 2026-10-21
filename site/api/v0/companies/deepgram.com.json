@@ -1,10 +1,35 @@
 {
   "domain": "deepgram.com",
   "name": "Deepgram",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.9,
+  "score": 5.8,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.9,
+      "occurred_at": "2026-10-21",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/Deepgram",
+      "postings": [
+        {
+          "title": "Revenue Operations Analyst",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/Deepgram/56d0068b-a787-4682-983c-3ae900ec8692"
+        },
+        {
+          "title": "Revenue Operations Analyst (London)",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/Deepgram/4e779ee8-43bd-4cb0-9d14-b1645da0ea15"
+        },
+        {
+          "title": "Director, GTM Engineering",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/Deepgram/e8b2cd20-bd98-4977-b9a9-cfa6868cc122"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "sales",
@@ -31,13 +56,13 @@
       ]
     }
   ],
-  "open_postings": 97,
+  "open_postings": 101,
   "long_open_roles": 31,
   "sources": {
     "ats": "ashby:Deepgram",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 3.7,
+  "score": 4.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.7,
+      "contribution": 3.6,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -34,15 +34,40 @@
           "url": "https://www.brex.com/careers/8895350002?gh_jid=8895350002"
         }
       ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-21",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Engineering Manager, Salesforce",
+          "posted_at": "2026-10-20",
+          "url": "https://www.brex.com/careers/8877364002?gh_jid=8877364002"
+        },
+        {
+          "title": "Engineering Manager, Salesforce",
+          "posted_at": "2026-10-20",
+          "url": "https://www.brex.com/careers/8877370002?gh_jid=8877370002"
+        },
+        {
+          "title": "Engineering Manager, Salesforce",
+          "posted_at": "2026-10-20",
+          "url": "https://www.brex.com/careers/8904121002?gh_jid=8904121002"
+        }
+      ]
     }
   ],
-  "open_postings": 266,
+  "open_postings": 272,
   "long_open_roles": 109,
   "sources": {
     "ats": "greenhouse:brex",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

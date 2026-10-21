@@ -1,9 +1,9 @@
 {
   "domain": "focalml.com",
   "name": "Focal",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 9.7,
+  "score": 9.6,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXFoSkFKYVVkQXAyVDZmRU5fWFBZcTVSc3Rma3Y3MXozVTNSNjJ5cVlNMmQ3b1JWVEVNcGRnaVA1M3ZmeUpfY3p4dV9kLXIwRmt3WThvWFdBQlZSc3ZJaklpZ0xpUDhxQXVfZXNjaUhxUlY5TC1uUVN0VmNGeU15aFpwSmFpenhleEQ5VkR1NjY5Z2JpeUtXRVM3YktMWTRyOTl6Q245VXk0ZHl5T093?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

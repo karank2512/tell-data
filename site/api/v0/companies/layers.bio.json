@@ -1,9 +1,9 @@
 {
   "domain": "layers.bio",
   "name": "Layers",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.2,
+  "score": 8.1,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Spire Launches OpenKnowra's Governed Context Layers to Enterprises and Partners - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1M0cUNmMUt3QzZGNkltdHE5NG85M1d0Rm9wY0w2emlJZG5heGM0dWVzZVF6VlI1cjItTERZLTB0dmxNMDFJamVCQ09BZG5idHVYdWhkN2MyRXBueFZHRDFheGJWdDAzY0dnMWNESUhSNnhjcTVMeDR4UGtlX0JBeUFRU1RDdVRoRGdMSXRWQV9TWGJwWXZsa3B2bHZBVk8wRjlSTUNJaFFCbTMzVnhyRW84Z3hLN2UyU0hZVWtxZkZpekJxQ1J5TXNuelJmMkk?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

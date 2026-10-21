@@ -1,9 +1,9 @@
 {
   "domain": "remihq.com",
   "name": "Remi",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 15.8,
+  "score": 15.6,
   "contributions": [
     {
       "type": "launch",
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "Remi Wolf Announces 2027 Tour, Releases New Album Mud: Stream - Consequence of Sound",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02RER2ZFR6VVp6VU84NTJiWU5uX3pJYUJTSHI2elZiZ0ZTU2l5OXpkWWRhZ1k5LUY4X1AtMmJaaGRZcy1MTTlfSWR4a1Rrck9oOFpZYUN1cERVQ1V1Wkt0Uk44VVVtT2w0VDNacWN3eHhEMDJCcWE2NnJhb05GUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "REMI WOLF RELEASES NEW ALBUM MUD OUT NOW - Umusic",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUQwWDBhMEJvTmlpaEd2MV9FV0MtXzFCVVVCU0lVWlNiYnBQSXRqSUdvMzl4VXAxSllCTHZpVk5GS0FzdjVZM0N5NGhRaE1RdjlEMHU0Y3dUSGJMV05ybVRabmZ3ZUwtaG1TOFNfMm1OMTJYVUxxZ1B6V3NYRTN4YkJHSllFUDdibWc?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

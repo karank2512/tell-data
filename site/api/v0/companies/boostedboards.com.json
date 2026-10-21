@@ -1,13 +1,13 @@
 {
   "domain": "boostedboards.com",
   "name": "Boosted",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.5,
+  "score": 1.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Wildlife Photographer of the Year launches sixty-third competition with boosted prize pot and new category - Natural History Museum",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcktULXkyOGZUbVhzSlpTQlp1dmdOWG9XY0FTQkF2LUhmNXdocHJaamxZNXI0enZoMmhua1JhajZyS3VBZU83S3Bock82bU5zeFVoa0JwSXM4Rmt4ajJpZUp2d3dwOEg0TnJEOFpFOXhQOHBkMzY0UEFmMlZLUnFic21kWFNlUkZOZW92QXF1THR5VWFXdmhFbTQ0LTFPQ2tfOTgzNW9UR2xmcmJMUVYyRklmNFNmdnJIcVJF?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

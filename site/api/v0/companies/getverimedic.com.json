@@ -1,13 +1,13 @@
 {
   "domain": "getverimedic.com",
   "name": "VeriMedic",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 21.3,
+  "score": 21.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.3,
+      "contribution": 21.2,
       "occurred_at": "2026-10-02",
       "summary": "Form D: $1,500,000 offering, $30,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2156578/000215657826000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002156578",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

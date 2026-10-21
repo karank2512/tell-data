@@ -1,9 +1,9 @@
 {
   "domain": "griprobotics.ai",
   "name": "Grip",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "JumboMax Golf Grips Introduces JMX UltraLong to Innovative Grip Portfolio - The Golf Wire",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhdDJYS3FLeEE4X3Z2Tzc2VkIySE9lN2JHS2dSRHlwcXN4SkZUT3RJOHROVEdLS1F6X3NsRmUwU21jZmdsT3lSYnRkaXd4Y3BUWDJCNGJ6cE90dm5vWi1CM0x3?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

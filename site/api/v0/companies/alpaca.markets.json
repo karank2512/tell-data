@@ -1,27 +1,27 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 32.5,
+  "score": 32.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.9,
+      "contribution": 13.8,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "BingX launches US stocks, expanding their Multi-Asset Ecosystem with Alpaca",
       "url": "https://alpaca.markets/blog/bingx-launches-us-stocks-expanding-their-multi-asset-ecosystem-with-alpaca/"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - Al-Bawaba",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnJySzZhLXo0bGdUSnNYY2poSlUtVEJxSF9FUFREY0FtSVBSRTUxV0hDU2ZERkM4NGY3OXdieXgyNUVVNGdmSFR2YUdrMHJkdlQ2cW8wZXd6TkI1WXU2WWdNaFFKMHBUNUZSSW1uSnprTFlnTEZSUFBuNUJaU2dJSXA5OWh2Y2RIOTZmNA?oc=5"
@@ -137,7 +137,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-08-27",
       "summary": "Monetae Launches Monetae Markets to Expand Access to Tokenized US Equities and ETFs with Alpaca",
       "url": "https://alpaca.markets/blog/monetae-launches-monetae-markets-to-expand-access-to-tokenized-us-equities-and-etfs-with-alpaca/"
@@ -164,6 +164,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "elitehq.ai",
   "name": "Elite",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.3,
+  "score": 8.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Classroom of the Elite 5th Season Anime Unveils Ultra Teaser Visual - Crunchyroll",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdU93UU1SenBxdWZva09hR3lFRGpMaUg5STVROHBrcGNPMGMyb2o5YzllVkVCMG1zUHZOUEVqU2lBeDBVTmhSazVXdjVTcVVuVmxEMk5DSGRfZ21ZQ21FTUlENnBrZEt3NlJOSnJxclBkSWdSNG4wUTh4Z1lWSkdRT3N2UlF6Qm1aZWZyTWxqOGlUS2Y1RUstUkI2U2p6VEhZYWFpVDY2aHZ2WVhPYnBHQQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

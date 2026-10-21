@@ -1,9 +1,9 @@
 {
   "domain": "trystudio.ai",
   "name": "Studio",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 16.6,
+  "score": 16.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Thirteen Lune debuts accelerator program Studio 13 - Drug Store News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSkEzY1lWcmpCb0dyR0xaWHNQaDlrUy1OazAxQnVRRl9uNVppVkxzQ1Z4RV9VbzJhNlFmVFBsYngtQXgyWjNjSVl6RmR6dzlzSkxaUnpFbEVWenNHT0dFTGxQdG9hZVRfQ3ZZTXJJQ2hjczJxQzRNalZZNk5QRFU0OVFR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Huntington Bank Introduces The 1866 Studio, an AI-Powered Small Business Operating System Built with Google Cloud - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVXZQNjZBcDNCb1loa1FmVnJUYzgydXdTejFRVXliWmxpbFpvWEIybmlsaEh1MGs1LURST2gzdG9hVFlQWDNPTDFCUkRfekEtcFVPbG5NeWM4RHR1VjZhaE5fWXBFWS04V2lWN2g4Qk9rTXNwVmVGZTF1NWhZa09KZ1BCR2JFUkFCTk9IUUp5MGRtc0JDZHpDTVg3UU1fOEEtSHdfNzBJTHBBSWhsTk9qM2hzT3ZsM3E2a3FBM3pZTlpHZEVjcWdhZl9TblVyTVEteFB4aS1UNFBSMVJTNHJCQ3d6VjdXUVZKMFRaVGFNbGhJb2tNS2pDTXZBckY?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Formlabs launches Form Studio 1 resin 3D printer at TCT Shenzhen - VoxelMatters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVB0bnI0aVBmeW1pSHdmSzB5dEozYlFhU1lNZ0NBU29faVY1MFIzVXV6RnpWYVBxV0Z4eUtMWFF5OVdPR09hSENvV0R0X1lUdFN3d3JxM2gzTUVMbWl3eTFWZHU2aEJLeHBOVThWams5M0xBR2ZNMU11NEdFNERKR0Q0SEhxb2Etd3NjSnJ4WHo3UVRsQ1VDUnRB0gGfAUFVX3lxTFBzRFhFeFR1SFYySVZ5dWJuSGV4OVNILU5BVmhpTXM1b2VEYWlKZ1A0NFVXVUdmT0ktTjVoZUE3QjJyTzdqcFgwbXZVaXB5WUw2ajV5WUg3NDJkYTROUG93ZUNLX3VRWmQ5RS1FckxpVldkMFFuTWFib0FmeTVfWHFtYXY3TVlMd0IzUW5IZHVNSDRWcGMyZ0hNa3Jlb1VaRQ?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

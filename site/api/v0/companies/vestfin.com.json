@@ -1,9 +1,9 @@
 {
   "domain": "vestfin.com",
   "name": "Vest",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - The Transylvania Times",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRjFhOHEtenlUbEcwWXlMcXRlMEFXcVlqdTljT0RMRlJ2VmZLd2szcU9YbzhvVVVFMEU3bGRxb29UNXNQLXYzN0txQmRCdTczWUdQNU1CcU9XZFBVQjZDZmxZb0R2Z3h3QkJoYzEzSWZra29VaTJmbVZyTll5R01Ra3E1X2wwWWhEalNYT1lOMXh3RTZpY2Q0emlISEpZMGFSd2xPODdJZGFlNHhXSFJEd0RtUVZlV05yck1sZnVFWDNQVy1fa2M0QWJxa1dSVU1nUHR0NGdnVHFxY250Zm4zUWk1Zk91bkd5QWU5YTNUVnZOeHhMeHJqQkU1OGU4TDA4bTRhYzNPRjFXeDlEUjBIZ0lVa0FSRmFkM2pQSTVyWDQ5U2Fqc29r?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

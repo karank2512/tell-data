@@ -1,17 +1,48 @@
 {
   "domain": "shipbob.com",
   "name": "ShipBob",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 64,
+  "score": 3.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 3.9,
+      "occurred_at": "2026-10-21",
+      "summary": "4 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/shipbobinc",
+      "postings": [
+        {
+          "title": "Onsite Warehouse Support Specialist",
+          "posted_at": "2026-10-20",
+          "url": "https://job-boards.greenhouse.io/shipbobinc/jobs/4740299005"
+        },
+        {
+          "title": "Onsite Warehouse Support Specialist",
+          "posted_at": "2026-10-20",
+          "url": "https://job-boards.greenhouse.io/shipbobinc/jobs/4740302005"
+        },
+        {
+          "title": "Onsite Warehouse Support Specialist",
+          "posted_at": "2026-10-20",
+          "url": "https://job-boards.greenhouse.io/shipbobinc/jobs/4740409005"
+        },
+        {
+          "title": "Principal Operations Support Manager",
+          "posted_at": "2026-10-20",
+          "url": "https://job-boards.greenhouse.io/shipbobinc/jobs/4744797005"
+        }
+      ]
+    }
+  ],
+  "open_postings": 70,
   "long_open_roles": 18,
   "sources": {
     "ats": "greenhouse:shipbobinc",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

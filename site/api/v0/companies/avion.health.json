@@ -1,13 +1,13 @@
 {
   "domain": "avion.health",
   "name": "Avion",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.3,
+  "score": 1.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "🇫🇷 Louane releases new single “mode avion” - That Eurovision Site",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNi1fWjJ4ei1BeGIzcU1qVFhVdWlJYUo2Z0ZOSXQxallkVU1JNnVWck85bk5aaGY3SUJ1MWJPeE1MMkFTNDBHNzNYajlaWVVJY0dEcVlkMFRZY1U1akQxeW1vTjRZaW9lX0hPZDRqTU1MSVdVQTNBQjktWEVKSTZuX1NYZldvN00?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

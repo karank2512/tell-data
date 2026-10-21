@@ -1,13 +1,13 @@
 {
   "domain": "arpio.io",
   "name": "Arpio",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 20.9,
+  "score": 20.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.9,
+      "contribution": 19.7,
       "occurred_at": "2026-09-03",
       "summary": "Form D: $15,862,978 offering, $15,862,978 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1989412/000198941226000002/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0001989412",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

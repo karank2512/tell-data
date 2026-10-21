@@ -1,20 +1,20 @@
 {
   "domain": "refresh.dev",
   "name": "Refresh",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 20.9,
+  "score": 20.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Fresh Gourmet Debuts Brand Refresh Around Craveable Crunch at IFPA, Bringing New Energy to the Produce Department - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQT2VKNmU0bkVJU1VhYS1qSEtOSGpaaVJla2tOOWZ3WDJ1ZkRJMTcxRFFXN3l2d0pfbkdtR0xMX2VnTFZKUk52RUdCY2ZOX1JBeFcwMmVtaWRnRUQwcDhocEVTMnVSVDBtSzJ2bmliWW0xMFVMalE5SXV1bHZFY2l2Zm9NRHdTV0V2RC10VWFSWDRBV1QzMUtmLXJKTmZGelRBUDlmeGRhQ19xWTJhelVPMVdSalJBNjhDR2JZQWNWR1RlV2l4OW5ib3BNbk53V051NU1MYnhMU2NoQ2tMdVNCbkhkWHJhN2s3Q0I1cXA2LWpSdF93TDlFbEZ4MVNJaFV2THdERQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Fresh Gourmet Debuts Brand Refresh Around Craveable Crunch at IFPA, Bringing New Energy to the Produce Department - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNWNkeFZvam1CWWYwTS1HMG5LU3pTcHh6dkFKU3A0V01MSi1MWFQyMnVacXlxLURpWHB5OEFnTUJwN2lWU2RGMXQ1b1I2T3BOS0V3Uko1WGNQeWdORzkzNGVSYzZTUm55NE1hQ3NXcFlFY3V3RGtIQVVGakg5T3pNRHJQOXRZTnk3VmlCcHJWMWQtN2IxM2Z0ckw2ZVlqeGoySk93M3I5RzcyX0VkMndxcWdOY2dsYVpDWW15NTM2U1FVczVNTWVhX0FVN2paSlZKQ1czSFdyR1lRUFNDaWhLRHladzA5b0R0a0NGcjlQZk9yb0ZoZnVSd0tSaUxTUQ?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Eagle Mountain Golf Club in Fountain Hills Launches Fall Course Refresh - www.golfpost.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDg4djZZdWZJRjBDcTU4Y2hGOHpjd0R2bktvQzYtc0M4WXFEWXE4c3U4ZHdPMGdZTmlmdzFycjJxYVFjS0dTMk55cFFyemFUOTdUMGxBTE15WHRDWXNLWkNQWDVpRXJSN0tLanlvREZPZDl1Sm5MdXlybUcwQ0sweEwtMGxMaWx1QXJsZmRrak9STHBsVXVRNHZBUzAtVXVjZjFOcDNJYjg1cGs?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

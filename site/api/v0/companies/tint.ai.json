@@ -1,13 +1,13 @@
 {
   "domain": "tint.ai",
   "name": "Tint",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 6.7,
+  "score": 6.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "Nike Air Max 95 Premium \"Blue Tint\" Releases November 2026 - Sneaker Files",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XZnJ5LTRpODdES1FJQ3hiNjZrdmVQYkJxUzNuSVJpc0UxbW5sY2d0VGRpU2xZRjVoTGkzRHpRd0QtQ2w0Vi1JTXVhN1lwRTNhaFFwZHJ4dkpFazBUZ3BWQjBQeUJLZnBZOF94b3ZpRnZoanJC?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

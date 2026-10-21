@@ -1,9 +1,9 @@
 {
   "domain": "ladderai.com",
   "name": "Ladder",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Ol' Man Outdoors Launches 2026 Two-Person Ladder Stands - Outdoor Wire",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa29VNDRLVXlwMzY1MG5QUFJnT1RfVnBLY2p6akFha3hOcWswY0RZOXFkQS1rUTdkVkFXOUppdExjSDNDNmhsQkRfdTNsQVN6X3FiM2d0Y3p1WGgyQUlrclpYLURQX1I1MWRwN1FrSkFIajdqNmd1WU5DOTMtVlJycWJXN2RaelZmbnlZQ0xSNVgzUWFQMDVDZU5JTC10ZDFVcmZIaA?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

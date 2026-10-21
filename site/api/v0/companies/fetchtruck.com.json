@@ -1,9 +1,9 @@
 {
   "domain": "fetchtruck.com",
   "name": "Fetch",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.5,
+  "score": 8.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "DeepSeek launches Search, Fetch APIs at $0.75 per 1,000 successful requests - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHVOYjRicWtHVUV5WXNYWlA2bk13OEFxWlM3VHBTWEhNaDluZVJacmNDQ2x3Nmo1T0dTejZ2djZxZ3VPU1NBcDYwU3dEVWFBSGtyWjBfRC1fcmVZSng4dGFNQVlONkRXVGQwZ09OOFMzcnBGUDZuOWN1VzRBbzdlR3BRM3c1bjY4Vl9BTHk3ekxzNmEwZGdIWWxPZi02UUwtQWc5SlkyaG5uSy10emhXXzdOX0M4bHVtNEpv?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

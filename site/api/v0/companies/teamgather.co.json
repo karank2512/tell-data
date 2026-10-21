@@ -1,13 +1,13 @@
 {
   "domain": "teamgather.co",
   "name": "Gather",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Japan launches uncrewed space mission to become first to gather samples from Mars' moon Phobos - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESHg0aW5lQnYydEZPVzE2V3kzamh4X2pCRUpENDA4bEtmZmp6akJ5VTZUU2VRRkVmS1pVNVpybVBuc1hqZWJsMGdLNjlYNTRYLWVXcTNJVmpHeW8zWmZr?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

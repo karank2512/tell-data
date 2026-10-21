@@ -1,9 +1,9 @@
 {
   "domain": "withgauge.com",
   "name": "Gauge",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 10.0,
+  "score": 9.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Stadler Unveils First Narrow-Gauge Hydrogen Train at InnoTrans - All-About-Industries",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2lOTEN2emJhaURGOWtBZ3JUY0ZOQVBGLU5oOG1YRTZiT0lWM2RKWk94bEhQaDlCSmJxSzNDaFM1U3lLcmtzT2JhZ2gyRGR6M3FHb0tNZ1M0X0RKa2l3Y2pORnZpbjhQYV9vODR1R0p2djQtLXZ6TGdCa2h6WTVtU21aNzExRmpaTWVjcmgzZkVyWW9zT0JRMVBXM0haUTV5RV9fTElwbjc2dWFRNlJlckItbW1LekU0azBhS3Nmd3Q?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Stadler Launches World-First Narrow-Gauge Hydrogen Train Testing on New Swiss Track - Rail Technology Magazine",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRFM4SFBxN29hQXpxZ2d0SWdtRUhhM0tnRjVsYU9kbVB2dzJ6Z3lFbE42UFJxeHM1VGVXU1NBaXVuMk00VVo1M3dhTGtfd1dKQ0VaczhzTGhFa25vamVjODQweU9LaFlMTmhVcnJXaTcyY0M2ZjRTZHUwRktBOWU3SVhmQU5oZXRXRTZwLUxVTkNLdS02dlNGZ0NoTmQyLVpGcWNLNWRMc2x2OGdDSVNFWUJRaXRfa1lvS1NMVG5weWE3azNNdlEw?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

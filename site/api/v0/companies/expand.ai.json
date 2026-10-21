@@ -1,9 +1,9 @@
 {
   "domain": "expand.ai",
   "name": "expand.ai",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 6.4,
+  "score": 6.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-14",
       "summary": "Briya Appoints [person] as Chief Commercial Officer to Expand AI-Powered Research Platform",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYkZnTWtQaWNnWGZGMmxiRm5BbjlsV0U3SzJFMHhkOHZCMkNYdkkzbXh0MzFuNERtbkRRU2EwSk0xSjR5UUlibVhDSFl3YzRHSWptaUZhdTktUGx2bV84UGg3dU9OcjJBNUxLVnZCWTFTZURKa25UUFAzRkVnUVVfR0lnLUdTbVd4STFvTVBHQzN3R0gwalFKbzBPS3lNakkyY1N0UHF5WVFlMTNjTEZ0cFZNMU9HU2dfaFFwUlQ3YTh6UjF0cEFvV1pmZw?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

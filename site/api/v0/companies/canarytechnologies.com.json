@@ -1,7 +1,7 @@
 {
   "domain": "canarytechnologies.com",
   "name": "Canary Technologies",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
   "score": 2.3,
   "contributions": [
@@ -33,13 +33,13 @@
       "url": "https://webflow.canarytechnologies.com/post/introducing-smart-language-translations-for-contactless-check-in"
     }
   ],
-  "open_postings": 35,
+  "open_postings": 37,
   "long_open_roles": 12,
   "sources": {
     "ats": "lever:canarytechnologies",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

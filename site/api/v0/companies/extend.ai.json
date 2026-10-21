@@ -1,9 +1,9 @@
 {
   "domain": "extend.ai",
   "name": "Extend",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 7.1,
+  "score": 7.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "NCAN’s FAFSA Tracker’s 10th Year Launches as US Pushes to Extend FAFSA Record - NCAN",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTNZYmVaM1lJVUM4WXMxdWc5Ni1mOXJFbVF3WDFHMlRXSGpQSHhaVWF2ZGNvY1Z4SFlKWWRFSGx4OVpwNFRob1FTM3l4dXNJTHVadjNoNFdKWlFQMmxfYTl2dTN2MWE2V21DSjRhVC1sZmxjaGtMUU5JNU1XZzk1MXNLTVdqVEFQVzcxOGs3M0VMcGVlLWFoUDItZVB6UDJXQVJKUElhVWlsdjh2akdfX2N2VTdST1Q4SWN3QzFyQ0hfbXRw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

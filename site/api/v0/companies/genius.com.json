@@ -1,9 +1,9 @@
 {
   "domain": "genius.com",
   "name": "Genius",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Steno Launches Litigation Genius + Product Walk Through - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUp6T0dBTmQwZVlzQWpxbFNUWHY1bnNIbVk3TU9iNG94X1FkaTU1bHlxekc4OVpyZE1mSjNZb0R6dFlxeGNVdFUyeHl5Y3U2RFhCbzhnNVk0V1J3YlFMVDZTRFhPblNBSy1LTVgzYzc5SWYydUlpZ0JsSE8xaUxVX2ZCRGZHaF9zMEVhYWdZbkhYYnZ6MnE4Y1oxcmZMRDg?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

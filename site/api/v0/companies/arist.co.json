@@ -1,13 +1,13 @@
 {
   "domain": "arist.co",
   "name": "Arist",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 15.8,
+  "score": 15.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.2,
+      "contribution": 15.1,
       "occurred_at": "2026-07-27",
       "summary": "Form D: $22,499,997 offering, $14,133,732 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1934857/000193485726000003/"
@@ -34,6 +34,6 @@
     "edgar_cik": "0001934857",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

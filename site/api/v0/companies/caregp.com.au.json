@@ -1,13 +1,13 @@
 {
   "domain": "caregp.com.au",
   "name": "Care GP",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.4,
+  "score": 1.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Better Medical launches mobile aged care GP service - Medical Republic",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3czRkg2UlRjWHRWV0RiNFVNZUY2SUhQdTh5OExETG1UUFVMYVprQVptUUVweXFqbVFtMTRYU1pDUUpUaU0xOEFBU3ZMVDJiU3FOSEtrVzJ6ekVyaVVBMTJraWQxbEt6ejRfRXl0N3psOUhVQWphd21WeWhQWU9LNmF6a1BLaVhOTG11Mk9qNDRSZEh2WkVMMQ?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

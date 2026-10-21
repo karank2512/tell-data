@@ -1,9 +1,9 @@
 {
   "domain": "onconsul.com",
   "name": "Consul",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-18",
       "summary": "Fiji appoints [person] as new Honorary Consul General to drive trade and investment across three Indian states",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2VTTm0xdkt0SUZKaTliSUpVYnI1OV9mLVdHU1dvUzZEaG1qNk1yR0k0aU1BbEw3cW90SmkxUV9sX1VaVXpydzhRR2NiSHFqN1NDMmxxa3o1QUlCVFZ3MUdYUDc4dzJvRFk0RVpuUWd3WjRBSDk2aU1fUDN0RGVESnpfX2ctZkZoWlBjV3pKMk9fLWJkUVU5SEVrV1F5U0U3ZTRHdVNhTzROSGNVZUVFcTlZLTNXODNpMGZjTVFFVE56cWJKNHNGX3NNSGJzVDF3dGpaWG9HdThvSzJOWVNJ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

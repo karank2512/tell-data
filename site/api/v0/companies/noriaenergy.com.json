@@ -1,13 +1,13 @@
 {
   "domain": "noriaenergy.com",
   "name": "Noria Energy",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 16.8,
+  "score": 16.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.0,
+      "contribution": 15.9,
       "occurred_at": "2026-08-21",
       "summary": "Form D: $2,500,000 offering, $1,600,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148820/000214882026000001/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002148820",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

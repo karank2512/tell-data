@@ -1,20 +1,20 @@
 {
   "domain": "variant.com",
   "name": "Variant",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 12.4,
+  "score": 12.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Valhalla Turrets Unveils Lower-Cost Variant of Skythunder - TURDEF",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdURwRGtMa1dFWU15NlZhSzQ4UkZGMzNGOTNLRktUMU1wQTR1eTlneTZpbERPTmxjSXI1VWV5bUFRVkxjWlNaNUR0dmhkM200ZDllaEl1YmN3eF9tTVQwUnhoeGZLUTgyYWVNQV9RTllHLXM2aTU3YTJRd2pYRFlpczJtdW9ETTJXMUJobw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "SMK Helmets launches Agnar Revv graphic variant, prices start at ₹6,700 - ET Auto",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaExRM3RwYlBTOXFnYmNWcGZMd3V0UjZxVlhFZm5vRmkxdzRyU09WcWN2ZVQ2d0lLREJ3X08xX3VZOWp3Qko4dWRsUEhRWHlyVVltUV83ZkZ1aTk5aUliakIwN0ppZUhtNUNOcUZCWXdqc2F6WEdKUzlPejdUSnoyOG1ndlVKeUFWYWZlbEQ1MkFyYWQ5S0Y3ZzM3RWJZLWd2WVpfQU5XWVZLRG5HTmp1U0Jsc0hNSGVhTHNDeEtwMVJIcDFsajNuX2tPMTEzbUM2aXk0NdIB1AFBVV95cUxNaExRM3RwYlBTOXFnYmNWcGZMd3V0UjZxVlhFZm5vRmkxdzRyU09WcWN2ZVQ2d0lLREJ3X08xX3VZOWp3Qko4dWRsUEhRWHlyVVltUV83ZkZ1aTk5aUliakIwN0ppZUhtNUNOcUZCWXdqc2F6WEdKUzlPejdUSnoyOG1ndlVKeUFWYWZlbEQ1MkFyYWQ5S0Y3ZzM3RWJZLWd2WVpfQU5XWVZLRG5HTmp1U0Jsc0hNSGVhTHNDeEtwMVJIcDFsajNuX2tPMTEzbUM2aXk0NQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

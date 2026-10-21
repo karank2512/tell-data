@@ -1,9 +1,9 @@
 {
   "domain": "withbenchmark.com",
   "name": "Benchmark",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Sentient launches first open benchmark to test AI model ownership - Quartz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVEtGRUpRT19sSWxjc3h4RUlzb1pfcmlPN2NZNDlYdm1NQmhPQklYZURZX1dKbWY1ZHIxQXE1RHRoYm1oYVRoQ2R2MWR2bExDeWhReVE0cXowdlZMV1AyNXBlOEtaamxtYUU2YmdCSkwxQjhMckRfdURBb0tFM3Q3aFJDNGdOQm5z?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Modern Asset Lab Launches Match Protocol™ After Benchmark Finds AI Ghosts 8 in 10 Small Businesses - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGdnR0c1VlFZSGVXUVp6R1J0SlVrcmROdldmUDB1a2tuUThuWk5JSFM2QVVNbjBkcTJQc0F2Z29tYU5CT3EwM1ktekdWSXhQU0owU2twMzJXVHA2TjBaTDNZcjRDVXQtUEo3bllHb01SVkdYN2dONEd1M2k0RUdQSGZ2ckhMcTFLc0szMEx5T3BzYnlHN0hibjEzU0RkTGFvTmtyQXVzVHdnajY5azI3VThDRFVIaEtaTU9sdHZFYm1ZY0Zod2RQcHQ4aFFqQUJuUkx1bjZRWEl2VTNENy1jQU9UaExoZ1h2?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

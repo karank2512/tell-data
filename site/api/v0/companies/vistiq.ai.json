@@ -1,20 +1,20 @@
 {
   "domain": "vistiq.ai",
   "name": "VISTIQ.AI",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 45.6,
+  "score": 45.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 25.9,
+      "contribution": 25.7,
       "occurred_at": "2026-09-30",
       "summary": "Form D: $40,000,000 offering, $285,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2115532/000211553226000002/"
     },
     {
       "type": "funding",
-      "contribution": 19.7,
+      "contribution": 19.6,
       "occurred_at": "2026-09-04",
       "summary": "Form D: $12,500,000 offering, $2,315,084 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2115532/000211553226000001/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002115532",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

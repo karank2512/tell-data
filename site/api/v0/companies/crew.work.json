@@ -1,13 +1,13 @@
 {
   "domain": "crew.work",
   "name": "Crew",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 2.7,
+  "score": 2.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-13",
       "summary": "Dragon Launches New Cargo as Crew Works Biomedicine, Advanced Space Tech - NASA (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONG40Sl9menpoVmtqdWtJSzF5YWd5a2JmUTFzZHNaa1FEc1RDdHY5UmZFZVRKN2ZOZkJwTDQ1cmZTbUNwcGtvZ0VLQnY4NDNxQzFaS1lnVGNJYXhQRVFjeVFsOUw0R1d3MG9YN05MamRDU19rZkxLMjN6S29XYkJZMDI3VU9BbmxzbGdiMzJzTl9TMDhGeE9OUTlJeTBRZEFsb3hET1p3RDZOekZKNDI3bGxGQjdLNnJ4WW5wVDdYYjA?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

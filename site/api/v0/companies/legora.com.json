@@ -1,10 +1,40 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 7.3,
+  "score": 11.1,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.9,
+      "occurred_at": "2026-10-21",
+      "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/legora",
+      "postings": [
+        {
+          "title": "Business Development Representative",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/legora/7f9313ec-ce30-47a0-91f7-58c37fc2d7e2"
+        },
+        {
+          "title": "Business Development Representative - DACH",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/legora/cac87fff-2724-4116-8884-b82c8445d39d"
+        },
+        {
+          "title": "Senior Manager, Revenue Accounting",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/legora/5278e165-3d87-47aa-91ae-b2abdf32c655"
+        },
+        {
+          "title": "Account Executive - Madrid",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/legora/ad78f738-7705-40bc-a40e-602a18c9755f"
+        }
+      ]
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -28,7 +58,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Legora launches integration ecosystem spanning the enterprise legal stack - Legora",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUItUkYxQUd5Zm9qSExFZ0ZzRTlXcWdzeG5ZaVI0MEtOaVB5NjBaaW9xOWdjOTZoblJpTWRrRGlRdjdiMHBoSHMtd2ZEcHhpa2ktTnJFRkM2Z2NWeGt3Tnczc25SMkxlWndRYXUwclZOb19sR0xBcmREdDJWYmlYTjI2eU1qR09Odks4OVZaZFVjWlIzWTcyamg0LXY1UDB6bjhJ?oc=5"
@@ -41,13 +71,13 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTFRYXVOZmFVZzdBeFBtUjM3aXRJMDNNYlVwNzRBQzRMOHNlbVh6RGUzZ2ZtMlZELWJnUTJhdUlVZWNoUmoxSlA2ZHJpaGdEeFJZT1NqRFZBM2RpM0xKZFZGRVVrZFNEQWlRRFhjS0JDWUtsYUt3MXJJV3FHa2JLN3ZseUhCZmFJQ1NwQlJnUWJKRlMwTms2Y3NlSkl1Zlk?oc=5"
     }
   ],
-  "open_postings": 312,
-  "long_open_roles": 96,
+  "open_postings": 314,
+  "long_open_roles": 98,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "infinite.net",
   "name": "Infinite",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Novastart Launches the Infinite Canvas OS, Where AI Agents Work in Plain Sight - CustomerThink",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2lmUlBPZkM2Nk5Ea2I3ZlJ4TzlxTk1kUHNBUkVFSHpJNkNlQVNyR1F5SDdxb1NfNXIta3BnOVg2LThDU0QyZVExSXBsRmdyNWtqV1JqR1Nlc3hTS1lQaUpZMkhrd3JKcjlqZlFWUnQ0b05uSEVJenAtdmN0d1FMVkYwYW5fOGc5aWtQSjB6QUNJclk4TllDcXQ1MzZyNk9BU2xkeTgyUQ?oc=5"
@@ -41,7 +41,7 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": [
     {
       "type": "launch",

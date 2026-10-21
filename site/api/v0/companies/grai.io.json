@@ -1,13 +1,13 @@
 {
   "domain": "grai.io",
   "name": "Grai",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 14.5,
+  "score": 14.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.3,
+      "contribution": 13.2,
       "occurred_at": "2026-07-30",
       "summary": "Form D: $2,096,655 offering, $2,096,655 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2147605/000214760526000001/"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-06-28",
       "summary": "GRAI launches new ‘Our Voices’ book celebrating 50 Years of Connections - OUTinPerth",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0k1UE1kOEdtUjg0QndpQ01USEw0M1RTaXhxSXFSM3FGNU1ROExZRXhLcDdURkRjT0ZNY1BnbVptZzQ4T0JtSDRMdTllUTV0UWNMZzJiYUJoOTZaRDd5NDZSZzB4U09OdVhNUzFvYUtvN1F5VGhJMWlva1hyLUdFLXNTa3hDSFlDT3dpUjlmU1hMWFRqaXRJUVQ4a1hSQQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

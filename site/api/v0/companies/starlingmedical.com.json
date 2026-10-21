@@ -1,13 +1,13 @@
 {
   "domain": "starlingmedical.com",
   "name": "Starling",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 10.0,
+  "score": 9.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-13",
       "summary": "hires as CEO",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOE5yWjV0LUJzN1I2QzhkMmY1LUtmNmZhaWdMUkpkSDF0czNvSmpFdDVzbGdrV1JjU2FlZWlGb0JWb19LVDE3M0RZYlBlTDJmeGstTDZicXFndldTc2ZyWHVsR3h2LWZlMzZMYzdvQXpncFBnZGpzWGt3RXNjS1FjbVNpMV9lUEE?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

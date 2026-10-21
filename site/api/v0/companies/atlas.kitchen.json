@@ -1,9 +1,9 @@
 {
   "domain": "atlas.kitchen",
   "name": "Atlas",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 13.1,
+  "score": 12.9,
   "contributions": [
     {
       "type": "leadership",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Virginia Launches Treatment Atlas to Help Individuals and Families Find High-Quality Addiction Treatment - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVY5dHFkWmVTak1CNVVFd2taMHgyQWluR3AxT3VaQXZ3WjBvWEdOOEZIbENSUXB6azhuc3ZScGlXRXZWRE5pZXMtUUZjR2ZPWGRDclhWcHRwUTU2c3hjeTNKX2NSVjFOREF0VU1IRERIV2U3SUVFREU2Y0NldDhjeGZnMVNHNkZEdW96SW9xaU5nVkxtdVk1M1pyTzIyby0t?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Nectar Launches Customer Atlas, Extending Amazon Marketing Cloud Audience Targeting From Display Into Search Bidding - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWhsSndJZzZZcFE1VkxHRVZjUHRyQ1VDMjdkbW1RemJuRllhVVN6NXFETU9nTE9qNk5kcVRPT0s0NXdBb3IwLVo2UG5HSmcyTmNHb0tUNTdRZE41ZHR3X085WkxYV013bmNySzd4ODZEOHZvX0JKemp6cldwc2N1b1NEZk1JTXZDVW12ejc0c29hNjduY3lOcG9FOVN6WFBES3hwU0JTeGNCckxn?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "daedalus.de",
   "name": "Daedalus",
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "profile": "default",
-  "score": 7.3,
+  "score": 7.2,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "Daedalus: Greece unveils new supercomputer as it eyes role in Europe's AI race - Inbox.eu",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdmg2NTlKeENfY09zRVQ3OWFySDZrbHNfUHA5cUtIVXJuTUxrMFAzVS1Wa2RTaU9rYTB0YUdvTFdaTEljY0NUTWxVNzFSVFhGakZBbG42SWFXWVBvTDMyVUZ1cVJDRDJXOXNvRDBaaGMyWjdKTVN4eUc5ZFFkV0Z1N2lSazBIXzFlRjRfMU1ua2RuMC1DbzNaZl8zRjRKRHJiMDRfcWNDTGQ0QzZlZXhnZmZicnZhNzhJM1VB?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/cee17568317cbb12a4c055eed1549423161e9870",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
   "why_not_higher": []
 }
