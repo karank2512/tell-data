@@ -3,8 +3,15 @@
   "name": "Paladin",
   "as_of": "2026-10-21",
   "profile": "default",
-  "score": 10.8,
+  "score": 12.7,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-15",
+      "summary": "[person] Joins MCU as Paladin in New Disney+ Series \"VisionQuest\"",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSVlxdk54cHZMODdUc0hLVUhOMkk2aWMxMFIzbXhkVy0zNXNnSW14YzhFNXZMUW9nc2EzWnB3NEJ4WmhkTVBLSEdvQUFIT2RvZHU5TlF4OXZrZUMxSThhUWQzY2pVUWcwSFUtU1pGU0I3aFRQYUtMZHVVT3JQa1ZWNmFiOEhPbWFqV2t6UkxoX1doNnFLZHZ2QVZrTQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

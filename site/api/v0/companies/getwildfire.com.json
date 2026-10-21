@@ -3,7 +3,7 @@
   "name": "Wildfire",
   "as_of": "2026-10-21",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-16",
       "summary": "ABC launches an updated wildfire tracker - ABC7 Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PejRMdmFjWXRLYXNzSWlXNTdCVk03OUQ5U0NRVGtQeVlXT2IyQnhNZ2p0TzBRSERURnByQTFvSTFNX19fSHZKWVVQb201S3NoaTNkUHIyYWwzZHNZSTQzbzlMNVpwWWxMWTFZYm95S3F0TllHakpQcUdB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "ABC launches an updated wildfire tracker - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03M1pTME9ldEVIakVhc18wMGlLVVptWllCZ3lzd1pjUVh4bThKYVBMd0xhSjMtdkFSUHZpT0hSQUkxc3hHc1U0U09hS3l5Tk52WWl5MUYwNjB4b3JRczViUUhpU1c1LVllRGtIZkxWQXFoVV8zaWIwM0l6RHA?oc=5"
     }
   ],
   "open_postings": 0,

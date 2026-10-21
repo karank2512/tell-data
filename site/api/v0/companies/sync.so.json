@@ -3,8 +3,15 @@
   "name": "sync.",
   "as_of": "2026-10-21",
   "profile": "default",
-  "score": 8.9,
+  "score": 10.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Microsoft Introduces OneDrive Sync CLI for IT Admins - Windows Report",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUEpmV3dKbnFfaHF0ZjZCM1cyc3REcHZrVWhvUWZxUFZJWmNXc0F3NnM1akNXRkQ4UTVab2VjNENZckd4SUcwNmFISGFDcUl3WE1yT0Q2Z1RmTWw1am9WS0NDXzdGWFlRNGpmcldwaFJFTzlGOTl2RGRLeGVmbzFDUXR2aTVPUQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

@@ -1,0 +1,25 @@
+{
+  "domain": "geckorobotics.com",
+  "name": "Gecko Robotics",
+  "as_of": "2026-10-21",
+  "profile": "default",
+  "score": 1.0,
+  "contributions": [
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-20",
+      "summary": "Gecko Robotics' USN Contract Expands To $300M - Marine Link",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXNuNFVwUTk3b1NNTDNQcnJVdFhqU1l4MkdPMTlWTUl3djFoOXlLNjRaTXZ3U2NIVjBEMWM2Vzh3elVBWExNelNxRlFMcmtYRUd2YzA1TG5DRm5sZTVfNnM5cHlram12bUE0WHNucWRrdjdYVnZDM1FDMTlnRGotRmFB?oc=5"
+    }
+  ],
+  "open_postings": 21,
+  "long_open_roles": 8,
+  "sources": {
+    "ats": "ashby:gecko-robotics",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}
