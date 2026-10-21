@@ -3,7 +3,7 @@
   "name": "Airbnb",
   "as_of": "2026-10-21",
   "profile": "default",
-  "score": 6.2,
+  "score": 7.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -31,6 +31,41 @@
       ]
     },
     {
+      "type": "hiring_velocity",
+      "role_family": "product_design",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "5 new product design roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/airbnb",
+      "postings": [
+        {
+          "title": "Product Manager, Social Features",
+          "posted_at": "2026-10-20",
+          "url": "https://careers.airbnb.com/positions/8282322?gh_jid=8282322"
+        },
+        {
+          "title": "Product Manager, Trips",
+          "posted_at": "2026-10-20",
+          "url": "https://careers.airbnb.com/positions/8303742?gh_jid=8303742"
+        },
+        {
+          "title": "Product Manager, LATAM (Mexico City, Mexico)",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8304162?gh_jid=8304162"
+        },
+        {
+          "title": "Product Manager, LATAM (Miami or San Francisco)",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8303047?gh_jid=8303047"
+        },
+        {
+          "title": "Product Manager, LATAM (São Paulo, Brazil)",
+          "posted_at": "2026-10-21",
+          "url": "https://careers.airbnb.com/positions/8304183?gh_jid=8304183"
+        }
+      ]
+    },
+    {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-17",
@@ -39,7 +74,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-14",
       "summary": "Airbnb launches weather protection - Coverager",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMjhXeGIzcXl1VE9jZDJzUHBSN2Y0Q1FUblluS0lqeFBVaF8tMDZJa2c0QV9xejVWbDJGY0szakY4NVV3WHRDdzJ6RUZxZ1J4V1hsQjJmSE1BVXhJSV9OWnFZRWYwSjhs?oc=5"
@@ -70,7 +105,7 @@
       ]
     }
   ],
-  "open_postings": 216,
+  "open_postings": 220,
   "long_open_roles": 57,
   "sources": {
     "ats": "greenhouse:airbnb",

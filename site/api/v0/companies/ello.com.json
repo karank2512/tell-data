@@ -1,0 +1,32 @@
+{
+  "domain": "ello.com",
+  "name": "Ello",
+  "as_of": "2026-10-21",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "MTN launches Y’ello Y’Fi to help Nigerian businesses track and retain customers via Wi-Fi - Technext24.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40ZGFHQzVaZ19HVHd6TGctNEFva3Y4clBSMFlIdFVFdEI4bWZOaEg2ampKajduMUdycTB0UEE4dVdsWFVrUW5RRTgzN0tId01BS1hoOXIybFRWS0VFT0laQWl4WlZMc0ZXc0VYc29LdFBqcVpCNDFlNmVPdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-20",
+      "summary": "MTN Nigeria Launches Y’ello Y’Fi to Enable Businesses Get More from Wi-Fi - Innovation Village",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnRjNDRiRm5IVTBoSnV3Q0lUZ1hDdGVHYndBSUhaVzUtdVh5OUVaVXd4YnE1QTlMRHlfd244UHMxb2hRT2h0NUI4SGxtZmlfSHJMd01GSmZHNXI1N3Ftd2hqVS13d3NXY1FDQ0NYdFlPbDl1MlhGTTV1SWpqdUs3d2ROa3hqSmtrRUtRM1hxM2JiQ0ltOHlQbUlXWC1VQjBOWWJUdmhn?oc=5"
+    }
+  ],
+  "open_postings": 4,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:ello",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}
