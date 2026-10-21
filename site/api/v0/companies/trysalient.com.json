@@ -1,0 +1,25 @@
+{
+  "domain": "trysalient.com",
+  "name": "Salient",
+  "as_of": "2026-10-21",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Salient Motion Launches Division to Manufacture Precision Ball Screws, Essential for Missile and Robotics Supply Chains - Automation.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFNDcE5pWHdRSGUtc1VoemVrcWtVRXdjNVA5eGNDdVV6ZzBReHEyOHQ2RDQxZ0J6Q0VaZzQ4RmN0WnMxVHZoa21VZ29UVUJTWFNLcXd5S20tSkpsRTBDS3llU3BVQWI0Q19mRHhsTFMzRmVOcHBQVDhZVUQ5eTFrbEY3YzlITGdqVmdfYkc1U1AwblZ4TFRUUHhCalJEMTBGc21fVU5ITQ?oc=5"
+    }
+  ],
+  "open_postings": 15,
+  "long_open_roles": 8,
+  "sources": {
+    "ats": "ashby:salient",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}
