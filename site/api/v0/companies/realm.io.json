@@ -1,10 +1,24 @@
 {
   "domain": "realm.io",
   "name": "Realm",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 2.7,
+  "score": 5.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "REALM Releases Minted, a White Paper on Who the New Wealthy Are and What They Expect - citybuzz -",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDVBc2FrQVlRLVgyV0F2aEZUNUE5WHZwRVlWdzRVWU9uS0t6N3ZoNnBxYUN5NzJ3MkpUSDc5ZmZJSlFuQmpkeE91S3llLTJNeFNtYXlldzN5ZXRRTTBYMHhranQ0dHRGYUZfMEJ6VEcxZlppQXY2MWpEeGswbmMxUkV1cEtoc200QkZKaGRHcU9zS0Zxb2FQb3JkRjlxMEhEQU0zcVZGTzYzRFlNVEtiX3ZWWFJPRURPdzBR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "La Tale Releases 'Realm of Taste' Update and Hosts Halloween Event - Inven Global",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUNhRTBNRFFVQ2ZaU0N6cE5vZWdfdnN6UG1zeUgxUnlxSWY0QktKUVJsZmtaWWxYeU1DNkw2R21RLUNIYjMtSFpXRngxYnNkeTBNcUxCTnVDR1BlVEdMbEktNUFVRUZENkhkOVpBUzQ1OTk0UTFtM1ZOMTZXVlpmSE9BbTgxc0ZNMUtkTUhFc1J5c0lKdi1VQl9wZDIzbUpCRF9pLUpwLVlWeFk?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

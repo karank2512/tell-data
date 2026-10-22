@@ -1,14 +1,14 @@
 {
   "domain": "deepgram.com",
   "name": "Deepgram",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 5.8,
+  "score": 5.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-21",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Deepgram",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-19",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Deepgram",
@@ -57,7 +57,7 @@
     }
   ],
   "open_postings": 101,
-  "long_open_roles": 31,
+  "long_open_roles": 32,
   "sources": {
     "ats": "ashby:Deepgram",
     "edgar_cik": null,

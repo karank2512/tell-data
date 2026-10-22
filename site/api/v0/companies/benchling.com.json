@@ -1,9 +1,9 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Direct Data Share, Closing the Loop Between the Lab and the AI Data Cloud on Snowflake - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWXdvZkNfNl9pU0k0RGJwUk9kc1hzQ2I3akNPTkxWWG9XNzYtdXM3bloxQkJCVFBjOE1iYWZETDFPVkJWWlp3Y0dnUEU2THlqVm1KNG5QbVctVWV3UWVScE1BVXRPTl9LdWdkU08tb0VkZTZPcE1GTnVjbHNKZWhaS0lBb0hYS0o0eW9saFZQdEhyTU5qT2l4Q2NZWlQxdw?oc=5"
@@ -55,7 +55,7 @@
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
-  "open_postings": 60,
+  "open_postings": 61,
   "long_open_roles": 14,
   "sources": {
     "ats": "ashby:benchling",

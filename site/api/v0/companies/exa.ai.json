@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 30.8,
+  "score": 30.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 26.6,
+      "contribution": 26.4,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -42,13 +42,13 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-07",
       "summary": "Yihong Exa Huang’s ‘Fortune House’ Debuts At LA Shorts International Film Festival - Deepest Dream",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 56,
+  "open_postings": 57,
   "long_open_roles": 25,
   "sources": {
     "ats": "ashby:exa",

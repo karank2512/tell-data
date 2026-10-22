@@ -1,0 +1,38 @@
+{
+  "domain": "vitalize.care",
+  "name": "Vitalize",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-22",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/vitalize",
+      "postings": [
+        {
+          "title": "Implementation Specialist",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/vitalize/a0cc14c8-e216-44b2-bc12-aba130efdabd"
+        },
+        {
+          "title": "Implementation Project Manager",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/vitalize/95f0f3ee-3cfb-48b9-910a-991d90b77269"
+        }
+      ]
+    }
+  ],
+  "open_postings": 21,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:vitalize",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

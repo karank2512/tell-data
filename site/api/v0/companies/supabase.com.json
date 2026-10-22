@@ -1,10 +1,40 @@
 {
   "domain": "supabase.com",
   "name": "Supabase",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 0.6,
+  "score": 1.8,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 1.2,
+      "occurred_at": "2026-10-22",
+      "summary": "4 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/supabase",
+      "postings": [
+        {
+          "title": "SDK Engineer - Python",
+          "posted_at": "2026-10-16",
+          "url": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372"
+        },
+        {
+          "title": "Engineering Manager, Spark",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/supabase/c6d89ec0-76ee-4de7-92d0-2e0262e9e025"
+        },
+        {
+          "title": "GRC Analyst",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/supabase/13478d3f-0093-458f-9f84-af71e66db03f"
+        },
+        {
+          "title": "Software Engineer - Turso",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259"
+        }
+      ]
+    },
     {
       "type": "launch",
       "contribution": 0.4,
@@ -27,7 +57,7 @@
       "url": "https://supabase.com/blog/introducing-osscar-index"
     }
   ],
-  "open_postings": 59,
+  "open_postings": 61,
   "long_open_roles": 19,
   "sources": {
     "ats": "ashby:supabase",

@@ -1,10 +1,24 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 10.4,
+  "score": 13.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Warner Music Unveils Sync Reorganization, Elevates Ron Broitman - Digital Music News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVI0bEFQVUp1RGN0cWdVTFQ3b0h1a1FMNno3cVBoaEIycm9IVS1jZmVDVUxpOWpTWkk5VjB3cTJFXzIxVWpodjk1a2ZsTzNIcTJNZWc3cmx4QkU0ZDdlcEdzYWtlM21GOXBkaWd4SlV2NzVQaTVGVk1EUndpTDE5LTRIVFRZT193YW9J?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Microsoft Unveils New OneDrive Command-Line Tool to Manage Sync Deployments - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUHFIdWppRHp1dml4MkJRQjlCY2lVLWJlLVZKRnMtWFNJTXd1Wk9rVGUwajgxMTFIek5kTUFicEZzSGZybklJSHJPYlYzb1RKMUJHVTZCZGxlSnU1RUhKamlkVzNERGwz0gFuQVVfeXFMTzREbHNrbWhib2tud0NJQW9sZi1WcUxkdUVEWTJTM29wcmVnSFRTT1lhQXA0Q3N0UWtXMGhSb2ExUXlieXRkcEpMd1FUakZZcjV0VnpyWkRxMUhBYnVUYU53NG9aYUlIVjhrRWp5MWc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -35,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-10",
       "summary": "Mobile educational planetarium introduces SYNC’26 visitors to space and astronomy - سانا",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGNEs5Wl90ZXowUDJvdk84U054UXFERDZvd2FJTzV4b1RPeG1leW9KaUs4M2sydlZPU0FhQ3R5ZVZXQjJ1M01YVw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-10",
       "summary": "Mobile educational planetarium introduces SYNC’26 visitors to space and astronomy - سانا",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2tqQV9NMmV1NldlNXNFcXREWWdBWGlNTm4zT0ZqMGJ0aElhazBQU0h0R1lQVjlUZXE5YjU1THFiNFZ1RTBraw?oc=5"

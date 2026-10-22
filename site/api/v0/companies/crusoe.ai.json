@@ -1,20 +1,20 @@
 {
   "domain": "crusoe.ai",
   "name": "Crusoe",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 50.0,
+  "score": 49.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 24.5,
+      "contribution": 24.3,
       "occurred_at": "2026-09-17",
       "summary": "Form D: $3,901,017,922 offering, $3,108,543,889 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1924674/000192467426000002/"
     },
     {
       "type": "funding",
-      "contribution": 24.4,
+      "contribution": 24.2,
       "occurred_at": "2026-09-17",
       "summary": "Form D: $595,943,098 offering, $595,943,098 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1924674/000192467426000001/"
@@ -34,8 +34,8 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakZUQmI3TE5wU0hSa1BwR1o4b0p3MExzVUllZWRGNzVEVlo4bEVwbUpkYUNFaXU5emRHcUVoZ0RNUDFaVk5Pbkg5djMwY0FaNjA5Q0pENWt1TWhrb1pNelpmUkkwa3VkWmh2WlhxSGlpa2E4aUlobm1JakdyS2hLdkdFaUxrQVc3cGNXOVVsZEthdVhQbXhldXJxamNlX0M2MjZzWWhSdG5VODBIRzlqWnhUUkxiZmM?oc=5"
     }
   ],
-  "open_postings": 355,
-  "long_open_roles": 95,
+  "open_postings": 363,
+  "long_open_roles": 96,
   "sources": {
     "ats": "ashby:Crusoe",
     "edgar_cik": "0001924674",

@@ -1,7 +1,7 @@
 {
   "domain": "tryjeeves.com",
   "name": "Jeeves",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
   "score": 1.4,
   "contributions": [
@@ -14,7 +14,7 @@
     }
   ],
   "open_postings": 85,
-  "long_open_roles": 55,
+  "long_open_roles": 57,
   "sources": {
     "ats": "lever:tryjeeves",
     "edgar_cik": null,

@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 17.0,
+  "score": 16.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 7.9,
+      "contribution": 7.8,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -83,7 +83,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "5 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -117,7 +117,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3l4d1o1a3h0Rkdpeng1T2VHTnZ6WkQwNWZSSUY2THNrR1pTZW5mc1RCUGZMRmpiWmZsc285YXp6TEVkYW5GbFdLZmxvRTUzeXhScjRBTHNsZUdpRHRKVlM0U3pDeExZZkRZVkwwOGpDU0d6bDJTczhHS2dlbGFUZHZueXBMRThWZFU4OA?oc=5"
@@ -162,8 +162,8 @@
       ]
     }
   ],
-  "open_postings": 226,
-  "long_open_roles": 57,
+  "open_postings": 231,
+  "long_open_roles": 61,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

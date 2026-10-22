@@ -1,20 +1,20 @@
 {
   "domain": "unify.ai",
   "name": "Unify",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 42.7,
+  "score": 49.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "appoints as CFO",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRS1wZDJ5UWd5TklkUWlDdk1HT1g2MnpLT2w0SVd2Z19JellLSUFwdzdiMm9BU090MlFHdThQbWl5OHZfVmhWWmdEMDBKcG00dnNITVZBWU54Mm9DQV9DSVJQaFFKZWZfd3JoMHpQY25oZ21MZjBkcnJsdm11Yjl6U3JOS21BRHRKZUFfNzJlUWtVOUlsNkc0NzNRWnBvcEpYNk9vUWZ4Z0xzenN1ckQyNWtHUXdlZURDS3NDZmVhbGUwUQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "UNIFY.C2 Appoints [person] as Chief Financial Officer",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkdWaVpudEF4c050eFVwVXg4MnNLWU1hZzVyb2xjWmFaVjJNR0swakplMTg1Qmt1dHBaR29aYzM2ai1zd25IcHpMdDJGQzlqR0tyU3B0R1p2czQyNDNLNHFJcG1HSEZuWXhoQllZWTNra291d2xhME5DQVhHdUZFMU9lX0JwVDVQRWtBUUFjUnVfUmkyMlNN?oc=5"
@@ -29,27 +29,55 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Postquant Labs Launches Quantum Virtual Machine To Unify Execution Across Quantum Hardware - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSzRmdnRaTC0xTjRKbzk3ckVuSTIwZkV1eEtESUVueEdTU1dSVDFoV29pTnVueTNCaFRCT0FjTWhPVXJxZW1kc254emhiZDQybW5TOXBENVdhdjNzNi1OWlFob05mSWgyai1NMXVSTmhxanJVUkkxOVR2QU9udzB6a3BpQWhWUjhXOXUyeTA2VDYtdlJBZ0x5bU1ueWZRdmxHdng3VVQ5VVNWWGZ3bEx3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Mexican Platform T1 Launches AI Tools to Unify E-Commerce - Mexico Business News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHhFYkJJNUp4cGtWT09ic3luMER1TUtGNXpBWXZxMFdKbUdmRHZhR2J2Q3BMem84cGhtZWpnNWNQM2dsNC1KTmh6RFBmZXJWc2c2NWVhUk9PU1FMTnRYRXFRV0dhUWJlb0prd290M2dWU3FST3ZRNGxvbzMtTzRxNWczNVhFS3NzN21MZkxVelJXal9FZldZUlprOFRJZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "PypeServer launches Cloud+ 3.0 to unify HVAC du... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFozT1d0ZVoxeDk3QVo5VExfdlZFZGUzVzBpOFhxMF9qRGZLMzUyVWt3VnlRLUtBOUZrSjlzaVFSUm1pMkdjeWRjRjM2OXBsMXFSRDJnYVVad3U5aThBdFU2OU1qbW9MbmxKZG40cmJNcDh0cU11bHNvdm9rcmxXamp6R21fZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Postquant Labs Launches Quip Virtual Machine to Unify Quantum Execution Across Hardware Architectures - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXFBRFJuMGdyLWZ5NEgtSE1KMzc4VW1kNnpmc1FGZTdyUFpGUktWbS1NalU0UV9GalhYejlvVGhHTlVQc2hQemNBLTFRV3l4SXpScTBHbXR3MHpjd1NmQmhUc3RpN3lYdDlCSDB0V2xaSjBRLW9mVmN3SFB2eVIwajk5VzJ0eVVJZVYtTS10M05SNWNsLXBEVmFQZWNjYjlsTnU4WUlMcXhJWThBVXVXWG9BQ0wwOUdmT1E5N2JjVVNZZUhDNDRkTjRCZXdnS0Jidk1v0gHYAUFVX3lxTE93ZVNaR25TVWU2cnM1bDRqWFR1ckpCSkJuNTRkY0pTVl9Kd2J5My1rWlVqWkxjTHpvcktKQ1VUbVEzQmhoNUNjTXBxQ0NLSGVMcEZuMG5pVmJHRktvalN6c0pGejl0enVvY2NReW96NW1tUElsQXh0cy1iU2tzTGI2dnplcWhiMmlSLTJoNjRfVzhESEJVdFpKaG0wang0UDhCaXUyTDdfMjFpczBvNjF4YWZLZWVEWWlaNjBNTXlraUEwSlFsVmFSMm9sY1BFdmVXYlBvYTVaMA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "USL launches new brand identity to unify eight leagues - Sports Business Journal",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3N1eE1sdlYyNWhrbUVGS2dBdnl5NExkeExXRkozZU9BamNSejNwVnkyVi1OcEw0VU12ZDJzUTZQdjJqbm1CWFU0X0xNdGE4UHFxZU12a19jNklGcGdUZUtCY1JJb2xNSWxUUTAzZ19ZSHpvWjZqMWZPajAydU9Pc0F3Wk9VWmEzTHVVVHEzRG5BVUFnQjVLYWJsRHNNWWpoRUJUN1VyQXE5SE5mQ1NKQTkwSQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Postquant Labs Launches Quantum Virtual Machine to Unify Execution Across Quantum Hardware - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ0F6T2VNODZlNWc4dFZOdi1nYmRTdkc1QXBFWXFUNHBKTFU5RzA5TVlMS0Y1ak9GMXV5U3RpNExnRFlsRFdrbGprbGkyY2hfbUhCdDc1aEhjVm1VOWdTNktMS1BQQ3FIdmM1cGoyeHN2NWkzdVRoaUxBbEtfMTk4ZXp3S2ZUaFg0aGRaaXlxYU5sUU5uN2IxVjVXQ0dIeHhHYmp4Z3prVmhYS2hKMGtJNm9jYUJ3eXhSYkltc1hROGhoRjJZcHBpY0ZyWlhJVmJ5ZnFYZF9PZlFfSU1GOERR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "RIB Software Launches Unify: An AI-Native Platform for Australian Construction Projects - Macau Business",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSV9PZDBsVER3bHJMT1YyZjVDSzR3Qkk3UzR0ZjM5Y3ZpLWRrejA4cDZ3N0xMLVNVOHFyVDlEVldKSTczXzdKY1ZhNWZMcDBZTjFMS2wzYWxmeFQ5N090T1VRcUtkR2VVZjk2Rmd1X09QVVhjVVAzSmUwVjREY3ZXWXN0anM1WnAyazVETFladGJ4cWNvWnJXZUJDSElWTWVkV05RQjd6OUFQY2Y4QS1tRDFvWQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "RIB Software Launches Unify: An AI-Native Platform for Australian Construction Projects - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc191a3BrYl9IRXVrV2xST01EcWxvZ1NfOEo5UkZ2NG5EcHVqMzJfcm9nU2trMjZaNlA0OWNoREQ2eUpmbGcyWUl3SWY1bUg1S2lwQXljYXJtODRCc0F5bHBVUXFfVDRBbkhjcFRKd2UwckdXX2tqbVdEWXdTVVRuWEM1WG5kaTI0NllZZ29YVTBqajdTSTh0N1BSVnJUNWYwTWtHY2txcGUtLWhQeDdIQWtQdTZUVmNrbmlGWEZ4anlyczUtOUt5OUppWE12TGw1NU42X1RMenNrVjd5U2NFYzB0NlpYczdsOVQ2WWMtRQ?oc=5"
@@ -74,6 +102,13 @@
       "occurred_at": "2026-10-18",
       "summary": "Airtel Business Launches IQ Gateway to Unify Enterprise Communications and Strengthen Fraud Protection - The Fast Mode",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV2E5N2RzV0U3RWc2QW1yLUFDOUphdHN4YkpvcG1uaFdoQjBveGhkRGhIcV8zQ1oydGwxLWpNZTRnVE5tWlhpajVoTTFIVEN5S2dBNjJTLWdWWWxvYTU5RGE4RmlmeGgwTXFzNG9tTTY3SUFHVzhZUXBCZmRlQ1FRQnBWRDdKR3NpY3A5RjBjU3NGZWVRUVBBZUo0QmtYVlJTc1FsVmlEUkRLWDRzZHViMEEycVdQaWJBVVFrUFQ5SUI5dkZWeTRJWGpScEJacUNRNlQzM044VmtMc1FUYlRCTXFYSTVDQVJ6bjJZb1N3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-17",
+      "summary": "KRAFTON Introduces ‘Battlin’ to Unify Competitive Gaming in India; Tournament Discovery, Hosting and Transparent Rewards on One Platform - Press Trust of India",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOYVdvakxDbWdVQ3R2R01SaFZNSzBuVl9MbVVHM1YyQW0zZTg3M3VFN1NiSlEyWmpvbnBGQjdGbzZsZWtMdkVUUmVVTndudWF4dWVRMzBacjFkQXJ6b0pzRGFlUll1NklyUm53OGhzUm4yNk1UYmcycWNsMFBIUEpIMGtlQkI0UktiYWZrOG4wWXRVUzkxXzNyNHRmNUF0RVVYYjNXNEtaOC1aUllfUzZySnY4WENyUlRoTHdET2NOcENDaERNMkJuZWNPbFRqRFhGWXdZdC1Qc2JINFJfSTRoQjhveFhNb3YwdzdHTmJBNGpxRmNJVjB5VEpkZzhIWUw0U2NyUmxxV3FUTWNOVUoxeGI2cnVlano0dVlIUlhEZ3JCV2s3?oc=5"
     },
     {
       "type": "launch",
@@ -140,14 +175,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Google Launches Universal Cart to Unify Cross-Retailer Shopping With AI Assistance - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaTBiVmpLRzJIOEdtZTd1c25OVWx6RUxmTkRZc1hDV1Z2c01VTXFGMGZvc2xrc2htZEdIdHpCRkQySVNIcGdOVDVVN2hiX2ptOURhWTRucnVwaXZ5UkgzcVhZOXJaZ3VqSG9RclczbWRuTzlRc0F0dEpKckw2RlZ0X2EyOTFpaEtZSVowVXduTkItTnIydUd3WWZRSlJrOGxPeGQyVGk1M3VRN0ExMHg1MXVMYjFNYW9n?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Pronto Park Launches Integrated Smart Mobility and Travel Planning Platform to Unify Journey Management - The Daily Tribune News",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNQTR6NGY2ZzVzX3VZTkVxa2lSNnRmWnMyQmNTRjJraXVscldTckVaSHdaRnY2Mko0b18wWEhEQnYzeDNxMVdnX2tGaTJWOHJQd19IcEk2WE1HZ0FUTWhUc1FRSk5jQk8yblFsTWdBT2ctMGhRYTVadUZBVjZRWGJOYUMyTFh0T3RzME5DN0tYUVVzSlVzbm5rb2Vwd3dqMVVFU1dMdlJ5UU5OeDdYV2FJTTRiLUp0ZDNFTkVZYkhkeWlIVW1La3dkOGVVdHlvYzBFLWRWNkVaOXU2Q2JjMmZza2NETUtvdnR6MlpBakpWd09xMEVGT0lTbDRLYXFBdXJ1Q0w4RjY5WC1yekVObmRZUVp5N0JpVUhYR0lVWE1POWV1TlBqU3F3N1pYTElGODhqV3pvc1NnZkVjdw?oc=5"

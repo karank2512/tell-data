@@ -1,9 +1,9 @@
 {
   "domain": "eatorigin.com",
   "name": "Origin",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 37.9,
+  "score": 40.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-15",
       "summary": "appoints new president",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwcUU3N2dLTU9wSUc5WENCVHk0Mkd2U1JRcTFPcF9FRnJ4cU1mR0N3ZEFCWC1hOWF5LXVRdXJtTl9pQ2ljRGRnWnh2MW95OUd4RHQtMWJ5VVhoUkNuOUoyZTlIcEFqYjBQX2FOTG1rYW1XTDNtTlRnWkFB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Blue Origin Plans Multiple Space Coast Launches per Week - Thomasnet",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tSm9yWjBqTHUtaWJQUmllM2pFczNObXk0V2FYNWpna0FrSHJJdDJtWS1nVXNtd2h1cS1saXpiY3BTaXpXTHRKQmtWR2kxTGVxYWpBa0NFMDFOSTJYWS1HbjJuaHc0R3lzZkYxNkU0YUdrYXVOd1dscA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-20",
+      "summary": "Blue Origin’s P-Sampler Launches Aboard JAXA's Martian Moons eXploration Mission - Blue Origin",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbWlxNG1sQ0VFWGpVdHBzYXRQNV9JQWpwcTdtMGVnUk5BN0tNcFoydU1QOVNoNFlVaHJod1N5VnF1WlM5UXpBZ21CZ0VqWEg4LUJ5MTd6bEZDV0xtYmFOSk0wdWx6c29KdGl3NThVYjdKUUFBbUFuaTQ1Zm8xZmloc3A3MUFzUVh4dDEzY3hHekRCTHNLcVkxVFhPWUs0Y3RTRDRQZTVOYmJzeWRSS2xjYXNMUDY?oc=5"
     },
     {
       "type": "launch",
@@ -133,42 +147,42 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Blue Origin eyes 50 annual New Glenn launches in $330M Cape Canaveral expansion - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0IwaXJQWENsQXhXeF9jczBkeWs3dGpUTXU5WUJhWEczODdBeGw2RzRPS3Z2LTI1cWRqZjJLMXhROFhpSUpWbjFWeHFpQ2ZNYl9YeDZhSTBXSGpxbVlQYkQtQW1xdEthWlZRUTU0SnBmZEFzVVNQU00zZjd5TW5fU2k4Nlc2VEVpVTlzY2daMm1xcVBLUUlRckoxMUtqSGN0cnJubGE4Snlpams0VUtDaFMzY3NYQ1k?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Blue Origin targets multiple New Glenn launches weekly by end of decade - The Olympian",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11MWMwSEVraGZSSmRsenE4VVFLa3RDNWNJQTEwRGhjRzZDN01OTUczQks5VUlqOGdSUlRkdFppNnkwbXRENkNMRzVaQVh1TndqUThZRVBkM0F3WFdzRzFEYkRKNEVDdWNnMUFRWXVqNHU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Blue Origin targets multiple New Glenn launches weekly by end of decade - Sun Herald",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nM1lWR2IzZEUxSU9vYnRxQ3ZjWTBmYi1nTzFwQ24tcVM4X2c0QTU4aTN5OWFfNFhEWEhvZ3RqSml0amNsdnlhOTFxSVBuejdpQXlIY2ktYXlXV0hPNkVuR215c194LTVnMlBidlBB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Blue Origin targets multiple New Glenn launches weekly by end of decade - Reuters",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMG5wOFVtQ0ZZMXAwVlF5dko0ZktZakFpZ0ZJcHVzZ1dLcF9aelVuT29nTHRzbXNvQ3NGdzdSSVZHTDlabWpEUHVhcjVXMWt2WUpPdmRZcjNVTTNOUjk1NHdrM0tkdDMtRzBvOVVXVVc5aFVSS2hpZ2pRTDhfWkRENDU4SldyNDVqdGg3ay1Nbm5iY1VpQU9SbEpwV1ctU2pZUFlWU24zeVJMc2V4MXl0OVM5VVAyRFdIcTBCc0N3TE55SXpLY2c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Blue Origin targets multiple New Glenn launches weekly by end of decade - The Lufkin Daily News",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOck5Zbm9odGFSX1dOdU1LdDFUclJKVGpDSUN2Rkk4YnZKOVYtSmhjdC1uSWFMUEFNR0d6X2k5WDlZN0FNZFU2ajhWeGprLUVhVTZFdEp2VmFyUG1fQ1hlZF9SU3RYeUxpS1VmVUN2YzEyWVlYMnpxdDBkN1ZsVEtFQ25rblBBajE1SnQxT25QZFFwRVN1M2hLcHZBcU1LOFZWdHRtR2dWclpsenlXcVc1anFtczFScld4Vm1KbUdvZ2lQTUJzNVV4M3VrQUlxN3JYVXAyTG8zWjRrdHk3bXZDOVctYTNQLUxEcmRkOHg3OHZhVVdxWFVrNEJ0X0RZQUc0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "After blast, Blue Origin pushes for multiple weekly Florida rocket launches - Treasure Coast News",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPU2NhNkNkQ3BlOE1uN1owWmhUNXl3djB6bVhoSjFBWTJadWgySFo2MkhnZHJsRWkteXVuWmtWSWlSeGhTalNFWFdJRTRVcktTVUViRHhHWk5YZ1JYY2VRMGdjSVFnTGtlUFNKQTFOdGttYmtRUy1uMUZNeEtyQ2V6UmRoUG9DSWZ2SDB1S3N5a0hadThXTDVGVnhCckJmb1FHSjhxRjN0S1BVX2dBdFNIZS1oZkh5WFBQQnhCUnhrUTJoYkYxX2xoUGs1LUZWMHlrOFRWb3FpS3hZa0hGazVGVkV3c1hsNlBCM3BweUZPQVl1YkQzbTlIN0ktUQ?oc=5"

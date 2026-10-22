@@ -1,14 +1,14 @@
 {
   "domain": "goatgroup.com",
   "name": "GOAT Group",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-20",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/goatgroup",

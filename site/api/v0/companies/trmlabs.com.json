@@ -1,20 +1,20 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - riauone.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFFSSTRZT2RvVTF0QzYzM2hXWDNzRk5xZ283OHpjdGNrblhBcnpObkRrelBxajQyQVBtWG5NOC1ucEFrRFNUWVJuN2JXb1A3QXhwcEI0RnhhRURWY2hCeWxodTNOUEFtOFAtTWpuZUp0QzFxdTFuLTRndDBoV053U3pLTWlWZUhYYm1BbWxTLVJwaC1VVXJjX2xBNWpnbF9rRzNmWDdSVXJSZktrYjhxOEZXVnVBMUhXZ3A3VWpzZzI2TTU0NGxLbEZKVTh0aGpadUlF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-19",
       "summary": "TRM Labs Unveils Ardence AI Investigation Tool for Law Enforcement & Defense Users - ExecutiveBiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaV9iMnRHRHYwT2g0R0lIUkJVX0I3MG1wRDJfZ2pxV2ZaX3huTmJ2QWgxTjI1QjhodTE0Smo2YmFrMXMxRmtmWmdWUGlIVEg5WTdZVGRuejFrOGNTOXlhV0lUa3N3amVzSldVandBX2xWcWZJcFhaYVpxZV9UWFVqbGt3?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-08-27",
       "summary": "‍TRM Labs Appoints [person] veteran Ziqing Ang as Head of Policy, [person] | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/trm-labs-appoints-mas-veteran-ziqing-ang-as-head-of-policy-apac"
@@ -63,13 +63,13 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-04-23",
       "summary": "Cyber Threat Intelligence Veteran [person] Joins TRM Labs as Account Director for DHS | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 117,
+  "open_postings": 119,
   "long_open_roles": 40,
   "sources": {
     "ats": "ashby:trm-labs",

@@ -1,10 +1,60 @@
 {
   "domain": "relativityspace.com",
   "name": "Relativity Space",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 0.9,
+  "score": 6.7,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.9,
+      "occurred_at": "2026-10-22",
+      "summary": "3 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/relativity",
+      "postings": [
+        {
+          "title": "Tooling Mechanical Engineer II",
+          "posted_at": "2026-10-15",
+          "url": "https://boards.greenhouse.io/relativity/jobs/8892926002?gh_jid=8892926002"
+        },
+        {
+          "title": "Staff Build Reliability Engineer, Clean Line",
+          "posted_at": "2026-10-20",
+          "url": "https://boards.greenhouse.io/relativity/jobs/8889013002?gh_jid=8889013002"
+        },
+        {
+          "title": "Filament Winding Technician III",
+          "posted_at": "2026-10-21",
+          "url": "https://boards.greenhouse.io/relativity/jobs/8904600002?gh_jid=8904600002"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.9,
+      "occurred_at": "2026-10-22",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/relativity",
+      "postings": [
+        {
+          "title": "Recovery Engineer II - Rocket Transport and Recovery",
+          "posted_at": "2026-10-21",
+          "url": "https://boards.greenhouse.io/relativity/jobs/8906194002?gh_jid=8906194002"
+        },
+        {
+          "title": "Staff Quality Engineer",
+          "posted_at": "2026-10-21",
+          "url": "https://boards.greenhouse.io/relativity/jobs/8889666002?gh_jid=8889666002"
+        },
+        {
+          "title": "Offshore Recovery Electrical Engineer I",
+          "posted_at": "2026-10-21",
+          "url": "https://boards.greenhouse.io/relativity/jobs/8907614002?gh_jid=8907614002"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
@@ -31,7 +81,7 @@
       ]
     }
   ],
-  "open_postings": 408,
+  "open_postings": 417,
   "long_open_roles": 143,
   "sources": {
     "ats": "greenhouse:relativity",

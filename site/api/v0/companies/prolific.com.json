@@ -1,9 +1,9 @@
 {
   "domain": "prolific.com",
   "name": "Prolific",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 2.6,
+  "score": 2.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-09",
       "summary": "Prolific Longhorn Podcaster Launches “City Cast Austin” - Texas Exes",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHZIY2pQYlhJMTV2MVNpQVp3RDRmcnZZOWJTWG9ySU5pd2U2RkRIa0xuQTkzQmFWQTlDUXpaTnBveFlSVUp3WWFvVk9iZGR1M0E4R3hHc3h3ZS1DaHcyOG5aNm96T3ZOTl9oU1htUm5kaVc3bVA0NHNPc0t1UnRsMUYtV3ZDYlBYRUpJS3Y0R1hUdXM0VlE?oc=5"
     }
   ],
   "open_postings": 33,
-  "long_open_roles": 13,
+  "long_open_roles": 15,
   "sources": {
     "ats": "greenhouse:prolific",
     "edgar_cik": null,

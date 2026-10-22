@@ -1,19 +1,39 @@
 {
   "domain": "ascertain.com",
   "name": "Ascertain Systems",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 29.1,
+  "score": 30.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 29.1,
+      "contribution": 28.8,
       "occurred_at": "2026-10-20",
       "summary": "Form D: $24,000,000 offering, $19,999,998 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2017592/000201759226000002/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-22",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/ascertain",
+      "postings": [
+        {
+          "title": "Prior Authorization Assistant, Cardiology",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/ascertain/bd262d94-73e5-4102-a59e-6f1b1e492176"
+        },
+        {
+          "title": "Prior Authorization Assistant, Oncology",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/ascertain/9efcc170-04ae-4991-8154-f3c03f344981"
+        }
+      ]
     }
   ],
-  "open_postings": 9,
+  "open_postings": 11,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:ascertain",

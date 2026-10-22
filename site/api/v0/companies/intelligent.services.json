@@ -1,16 +1,37 @@
 {
   "domain": "intelligent.services",
   "name": "Intelligent",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 18.8,
+  "score": 22.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Intelligent Relations Launches Always-On AI PR Agent - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRUcyMy1jNURNSGRLS0ZfTWFiX1BERVRIR3BHcF9pZFoxOVRaQkFSRk4xTFg3T3ZSaXVSMXptUVkyWWFGbWYyTnNFODc4V2phZF9zdnV4NkZiRGlRNFNSX0pzN2VfX1d5S1JFbU41WEpXWVI2MTlibU1ZbVhza1ZjZkJMd2dGMzJ4Q2ZmMlhQQzBoTHRyNUU0dUFCYjJ3V1R2eENxNkVwYm5ISmV6M3ZsMkpLeHFSNXd0dlJ6UGRKUGNDdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "LONGi unveils intelligent manufacturing base in Suzhou to advance solar-storage integration - PV Tech",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVTkzMUVpTFVCaUZtYUNlLTJpcTBZVk5UbVFuS2w4NVNYRnRFMWU1aGQtNU95b0dOX3pJNTVjTUxQaHlySDNydW1RZTNkeXVjWXZ6RFFRSkdGU1BwdzItbDd3b1VaZjBjbngxTEFsN2ZXS3BLeXo5UmN5N3FjSkJjTzZZS0pTd3h3Sk5ydFB5N2pJUGt0c3JNd0FPdUxaVEFEUjJsbnpxS3FkbE01VmdoZlg4RjIxMmR6dXBBaVJBY3ZsMnBaQVFxdExYQ0lzQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-20",
       "summary": "Zoom introduces smarter meetings, seamless workspaces for richer collaboration, and intelligent calling - Zoom",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xaFJYWXhOeWp3cmh0LWI0TFJfSWUxeUh2NUtpY1pwcGd5TFhtSDREcktGWkEtcmtGRVN6Q2FncV9ydDdqX0hyWS0tdlVlYUdpU3lNRjFWX0JXR3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-20",
+      "summary": "Intelligent Diva Releases “I'm Covered,” Blending Gospel Rap, Original Vocals, and Human–AI Music Innovation - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNejM1cktjd2REOFEtZE12SVhyVDhpSXdKUzEzZmJhQTgxNF9vc1d0dENOZGNZUzBCLU9IbDBJNFpLdGxPQ0FxbUNMLTlSX0xFYlFSODdIaUdqejVCdGo5TVo5VmpRaEhQbWhENHM5WkVmd0lYR2xFLWtNSzJoTG91QldlbjNUOFhyWHpTMWJuanZwWHZNOUF2VjZERDdDTUVqUm1tQ3JDaUtTYzJlbjRKM2xfRTFXUDh4MUduNC0xUXltNHBfVEZCYkZJMVdHN0lpT0lNX2U5OGhvbGcxeVhV?oc=5"
     },
     {
       "type": "launch",
@@ -28,21 +49,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Google Launches Intelligent Shopping Cart for Search and Gemini App - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEhoUDRJNEFmN0lDOFBsUVk2R09USTIwcF9ITEkwMkdXdDMwOHBlalA1WlpMOG92Y0dJZmhPMzg0SXZCeXhKOU5kcHRrSnFMaWxUNE9SSWxqQUwtYXJnYXNYV0M4ZkpJMkZLMFY4dXlQNWIxaV9WbkdkX1VhbmdKa0F1NGZfVm9aSEVyZEU2THNaNnd6aDB1UGo2YTZFWWhYVkY0eFowUE56N2M?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Veeam launches Intelligent ResOps for Microsoft 365 - Techzine Global",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDBfeDBOc2puZGZvSzEtN2JSMkNtbHp4OEJzOEFrRzh1WklmemRlNmtMMUo1RThsREVTMlZRd1RycGFzNk9QbFhRTWhyOUlCMHpJNUs5VU15NkZfX2wzdGp3RHg0UGEwT0M3M1VTUW43UXBveHpNQS1rMkxuWXBnLVRIZ2NaM2Y5a1FxS2lmMnFNTUlzUzJ0cGlRanRGM21aRGwwRlVBcw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "LONGi Energy Storage unveils intelligent manufacturing base in Suzhou to advance solar-storage integration - Longi",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHVE8xc1RxeUZkVjBTWURGaVREZEpkTUxyQ3cxbXhKTUhVSjhEVDlZVnBTU1VzQ3JEcjJvNUZhaG5fd0xFdUxvNUZfUXVodTh5SVBlUm1tbS1RaEYtQTM5TmozLW54bVdYSE1BQXpBWk5rV2VRUmZXbDV6QS05cWs?oc=5"

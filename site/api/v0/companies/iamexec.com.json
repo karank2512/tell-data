@@ -1,20 +1,34 @@
 {
   "domain": "iamexec.com",
   "name": "Exec",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 18.1,
+  "score": 24.8,
   "contributions": [
     {
       "type": "leadership",
       "contribution": 2.0,
+      "occurred_at": "2026-10-21",
+      "summary": "appoints as Chief Operating Officer",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0RnJzTFdHVTlHc0pCMTZqNVNuVC11bFJGeWdGd3BtME9aUEltQUF2MmtPMFJTT2l1OVQzaHpsamRPenh1d1VHcTF4TUpoNlpBbkFHVjhidnhWR1Z1ekJFWTU4UWRkaXFj?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-21",
+      "summary": "names as President",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2dwdGhyR01fVnFYcGYtUWVTME1LZ3lRck53Z2FVN2s0Vi1JUldxbHl1ODcyRjFncE54R2phRjhZb0paNEZjcG1nUGtnMzlqZlo2UHdfTmg2SlhnQWxtUThYWnI0cFBfSFJfZ0hDeFExOFcxZkx2eTVFOS1WQkF2a0Npd2g0WjRCeVlVbTdqQ1RqOFU3aGZCbmxQbW83MDhWVmV5bTcxRm9HeDhoMFFPdg?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
       "occurred_at": "2026-10-20",
       "summary": "Hires as President",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONk5aZHpITG9STHljSWstZU1RQU5LTm56TkxqcEJ5WmV4X1doQ0N4MGhjLVVUMDlfZktqVGNFX2hHdWNCRERNRFgyRmRldFZRTXMwaGFuNWFLUEtNSDZHdGpDX0FCRHNMSUpMYWRFYUFWbTFQemFpMExCR21zSzFCZDJGUDYtUXpTYzZEZFRxSTBaaUtsR0JZUEdKX0JqWnJpUmltV1k4NElrSTdm?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-20",
       "summary": "[person] Joins ‘The Drive,’ Inspired by JFK Assassination, as Exec Producer (EXCLUSIVE)",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzg0Q3FpNFloZDBoX085LU5ZbnFPbXVteUVsWTctMjIxaGxvU2ZLZDAySnJ3LW9iVGFLWkJ4Ry1FREVjcDRjN1o4bXowUDYwQVpJYk5tYTg1MG1LSFpGTEdkRHpzaWtwTTFtdEIxMXFYTGJoZHdNQ3hZRVVMdkEzeTEtMF82b2dzTTFCWi01c1ZKZjRZaDdFQUhn?oc=5"
@@ -64,6 +78,20 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Sowell Management Launches OCIO Unit, Taps Exec as CIO - https://www.connectmoney.com/",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlVsa0ViUnhfdThURnI1TWFMUFVON1JWRHdUbTk1UklSQXJmV1lVTlRjbWs2MEZoUVA3a3RaX1BxR3E3ZXBmMHp0d1V0MzJaOXFsdVFydklBbEJTYWJEOUtULXlINkgtY3FwNGlDMm1oLVpveFJCR2dsLUhhY2MxbE9UYnptYnNRRHIzNjhIRnZqMVdBUEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Interscope Unveils Exec Promotions Following Shake Up - The Hollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXlTZ182Q1BhU1NJRFdvVkQ1VExPSGRGYVZ3Q3Z2NzF6SWNnVXB1U1NSa3NFZWJhMXNkdktpSldhTkxmcVNFOTg5WUhCTEpnU3NoeHYzWTFBOUlab2RYSG9lR2c3Mk9LRWNRdFh5V2pncFFsTDljWnA2aG1OYWRlSnFBeVRhNUhWUW05WURDaEF3RFJTWWpWQ28xYzk0LXZ1ejEwWXBMVndnQWl6SXFhXzBrTzViWHVBN2FhQ21B?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Ex-OpenAI Exec Launches $1.5B AI Manufacturing Startup Arda - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3VxNDg5OWxpOE1rcUNkWE1ROXZQRUpYQXVVbzhPQlZ0UjlNdy1lX09VUTh1a0JXdFluQXdXUy1SdUwtQ2QweG5oTUpoeGhiWHhIakxGamFZbXlkMGtuemNkY243d0YzU3ZVNVNSWWpuUDY3OGJTclBEOUR4TVdMZEktc3BzNEJrN01pcUVCY093Q3dLOUE?oc=5"

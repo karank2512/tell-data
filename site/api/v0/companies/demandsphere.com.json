@@ -1,9 +1,9 @@
 {
   "domain": "demandsphere.com",
   "name": "DemandSphere",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 1.0,
+  "score": 0.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-06-28",
       "summary": "Introducing the State of Frontier AI",
       "url": "https://www.demandsphere.com/blog/state-of-frontier-ai/"

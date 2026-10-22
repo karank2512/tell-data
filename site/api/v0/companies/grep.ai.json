@@ -1,13 +1,13 @@
 {
   "domain": "grep.ai",
   "name": "Grep AI",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 6.1,
+  "score": 6.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Introducing Agent Evals: Turn Feedback into Better Instructions",
       "url": "https://grep.ai/blog/introducing-agent-evals"

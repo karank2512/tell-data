@@ -1,0 +1,38 @@
+{
+  "domain": "versemedical.com",
+  "name": "Verse Medical",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-22",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/versemedical",
+      "postings": [
+        {
+          "title": "Certified Professional Coder (CPC), DME",
+          "posted_at": "2026-10-15",
+          "url": "https://jobs.ashbyhq.com/versemedical/dbf22bae-471c-4133-b3ac-fb747bde23cc"
+        },
+        {
+          "title": "Senior DME Compliance & Accreditation Specialist",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/versemedical/63555cba-6761-42e9-8819-b713484a5422"
+        }
+      ]
+    }
+  ],
+  "open_postings": 37,
+  "long_open_roles": 11,
+  "sources": {
+    "ats": "ashby:versemedical",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

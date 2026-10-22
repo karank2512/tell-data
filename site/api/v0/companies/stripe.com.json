@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 10.6,
+  "score": 10.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-15",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -127,8 +127,8 @@
       ]
     }
   ],
-  "open_postings": 794,
-  "long_open_roles": 212,
+  "open_postings": 796,
+  "long_open_roles": 214,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

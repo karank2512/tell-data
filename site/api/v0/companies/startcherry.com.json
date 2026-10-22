@@ -1,10 +1,17 @@
 {
   "domain": "startcherry.com",
   "name": "Cherry",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 2.4,
+  "score": 3.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-20",
+      "summary": "Trü Frü launches premium line with Cherry Truffles - Snack Food & Wholesale Bakery",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemhXdnlrTTc4MTkwdk14Y2duYjA1UTNSaXhuUjN1bFFXVXFlY3JYb1VkM2JnZmxfQmNpRldyWV92dlJzZ0JWNy1NNzVPVVNTQzFTTVByamF5WDl0UExLYXRFR0U0cVJXdUgzY1ZGTzFHNHlWN0d6OUdmcTNQcS0tSlZoYWdsREdDYUNTOVlSNmRDSElUbVh6UkJ3UFg4dw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 22.5,
+  "score": 22.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.6,
+      "contribution": 12.5,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -53,7 +53,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-09-28",
       "summary": "STARK launches Vanta 12 to strengthen maritime security in the Baltic Sea and across NATO's northern flank - Arctic Today",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3B3R2VwQ1RPSWh0ZjRReWlVU3JIUDdNLUFwbzVVWEw2cDJULW9pakpXVkVCYm9iUm9wR3pfd0dpemQ0b0JOZmlpenFBZkN5bV84NzdIT05rc19IeVV0RFAwLTVQTHZEYUstbDVCNnJXRndRcTBNMkpfQW5zNmdfbkZNQkJjcGdhdU90WDVnMnFZM0RqbU1oUmt5QWhkWWUxNlJQSjJsc3N4RnByMXBCTjBQcVR2V3ZOMHNrQ1RHaGRSU2VvdGktUDFkeEVnMVZCVHdiaGlkQmhPUUV0SktnUk1OcC1MSWFvamJrOTd3QVM?oc=5"
@@ -88,7 +88,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-04",
       "summary": "Pwnage unveils Vanta wireless mouse with adjustable clicks - KitGuru",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXZaaHM0Y3ZaWmI5Z0ZtTXNwVkxraDJiejhCMG4yeHVldlp3dGpZbmhTSGJSSXJicks4R3dnSS1neHhGcWhQTVdIdFViLUdlb3I1TVEwZjAyZC01NWxLV1piakVkSC1yZDJXcllSVHF1cFp5ZUJtTDFLVDVkOGczNi0zeGRhMjN1ZFN0SUJtTHlQT3hpNkN3dnRLbklhZGYzZXNjclFEVmtfQU42VkRiYVF3?oc=5"
@@ -109,7 +109,7 @@
     }
   ],
   "open_postings": 87,
-  "long_open_roles": 23,
+  "long_open_roles": 24,
   "sources": {
     "ats": "ashby:vanta",
     "edgar_cik": null,

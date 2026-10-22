@@ -1,0 +1,449 @@
+{
+ "vendor": "ashby",
+ "identifier": "fab2",
+ "domain": "fab2.com",
+ "as_of": "2026-10-22",
+ "last_polled_at": "2026-10-22T02:36:01.574502+00:00",
+ "open_postings": [
+  {
+   "external_id": "043521b0-59a3-4c6a-bba2-af562f6bc67c",
+   "title": "Optomechanical Engineer, Laser Systems",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-14T15:02:13+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/043521b0-59a3-4c6a-bba2-af562f6bc67c"
+  },
+  {
+   "external_id": "0a1992a0-199b-4c6d-91c3-56c91be33b13",
+   "title": "Mechanical Design Engineer, Precision Systems",
+   "role_family": "product_design",
+   "location": "Austin",
+   "posted_at": "2026-04-29T15:51:43.766000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/0a1992a0-199b-4c6d-91c3-56c91be33b13"
+  },
+  {
+   "external_id": "0c4dc4f4-01c9-4138-a666-e7234cda7e95",
+   "title": "Fab Software Engineering Intern - Winter",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-08-28T01:45:08.376000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95"
+  },
+  {
+   "external_id": "15020e6e-be1c-4455-95a3-aa798474cec4",
+   "title": "Embedded Software Engineering Intern - Summer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:55:33.634000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/15020e6e-be1c-4455-95a3-aa798474cec4"
+  },
+  {
+   "external_id": "15a6302f-d37c-4d05-818b-19a89df8739b",
+   "title": "Staff Process Development Engineer, Etch",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-04T16:03:01.223000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/15a6302f-d37c-4d05-818b-19a89df8739b"
+  },
+  {
+   "external_id": "17b07712-9dc4-46ef-842f-d76ae6f43b4a",
+   "title": "Manufacturing Engineer, CNC & Sheet Metal",
+   "role_family": "other",
+   "location": "Lockhart",
+   "posted_at": "2026-06-17T17:21:12.660000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/17b07712-9dc4-46ef-842f-d76ae6f43b4a"
+  },
+  {
+   "external_id": "2ad7a5ba-5f80-4c4b-bd1b-5d04e3134d0a",
+   "title": "Embedded Software Lead, Vacuum Systems",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-08T17:22:37.828000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/2ad7a5ba-5f80-4c4b-bd1b-5d04e3134d0a"
+  },
+  {
+   "external_id": "2b0ab443-c7d8-4547-9766-111747f0b361",
+   "title": "Rust Software Engineering Intern, Chip Design Tools - Summer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:52:05.063000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361"
+  },
+  {
+   "external_id": "2cdb7ce3-a4c0-4586-9e8a-33ce06dcced0",
+   "title": "Software Engineer, Chip Manufacturing",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-01T22:27:29.041000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/2cdb7ce3-a4c0-4586-9e8a-33ce06dcced0"
+  },
+  {
+   "external_id": "36ab33ab-82e7-4cc4-8137-f451fd6036a0",
+   "title": "Fab Software Engineering Intern - Summer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:55:05.163000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0"
+  },
+  {
+   "external_id": "3c7fd0f1-b25f-413c-8e62-6ef00a9d47da",
+   "title": "Embedded Software Engineering Intern - Winter",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-08-28T00:42:30.817000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/3c7fd0f1-b25f-413c-8e62-6ef00a9d47da"
+  },
+  {
+   "external_id": "40b42b18-8935-4adb-969e-19c567026576",
+   "title": "Machinist",
+   "role_family": "other",
+   "location": "Lockhart",
+   "posted_at": "2026-07-11T17:12:55.355000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/40b42b18-8935-4adb-969e-19c567026576"
+  },
+  {
+   "external_id": "4356f4a0-c9f0-4cd5-9816-944a603d7012",
+   "title": "Manager, Materials Management",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-07-27T18:13:23.817000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/4356f4a0-c9f0-4cd5-9816-944a603d7012"
+  },
+  {
+   "external_id": "476007f4-4f8c-4160-86c2-8be11c5efee4",
+   "title": "Process Engineering Intern - Winter",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-08-28T00:43:59.939000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/476007f4-4f8c-4160-86c2-8be11c5efee4"
+  },
+  {
+   "external_id": "49926e1f-ef43-41fc-bce5-1d9a0a7b295b",
+   "title": "Mechanical Engineering Intern - Winter",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-08-27T23:54:19.346000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/49926e1f-ef43-41fc-bce5-1d9a0a7b295b"
+  },
+  {
+   "external_id": "4ac1b872-bd18-4f22-95bb-30f5d108706f",
+   "title": "CNC Programmer",
+   "role_family": "other",
+   "location": "Lockhart",
+   "posted_at": "2026-06-17T17:03:02.979000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/4ac1b872-bd18-4f22-95bb-30f5d108706f"
+  },
+  {
+   "external_id": "4e3958f5-4e0d-4acc-9072-e40822ddf904",
+   "title": "Rust Software Engineering Intern, Chip Design Tools - Winter",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-08-28T00:20:19.018000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/4e3958f5-4e0d-4acc-9072-e40822ddf904"
+  },
+  {
+   "external_id": "4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f",
+   "title": "Infrastructure Software Engineering Intern - Winter",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-08-28T00:46:07.571000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/4e4f8c44-2f9b-4cb4-9e44-01d24b367b2f"
+  },
+  {
+   "external_id": "5027e7cf-6c96-48f5-9cf3-2104e3f4d87a",
+   "title": "Mechanical Engineer, Automation",
+   "role_family": "engineering",
+   "location": "San Francisco Office",
+   "posted_at": "2026-01-23T16:54:55.749000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/5027e7cf-6c96-48f5-9cf3-2104e3f4d87a"
+  },
+  {
+   "external_id": "53f3fe23-9d2d-4eef-bd28-968d011f86c7",
+   "title": "Infrastructure Software Engineering Intern - Summer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:54:39.312000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/53f3fe23-9d2d-4eef-bd28-968d011f86c7"
+  },
+  {
+   "external_id": "5d687a8f-ed34-47de-9af7-6a66a69a2695",
+   "title": "Mechanical Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-01-23T16:32:47.693000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/5d687a8f-ed34-47de-9af7-6a66a69a2695"
+  },
+  {
+   "external_id": "5d9f5890-424c-48e3-9ed1-91917b559ebe",
+   "title": "Senior Electrical Design Engineer",
+   "role_family": "product_design",
+   "location": "Austin",
+   "posted_at": "2026-09-02T17:04:49.286000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/5d9f5890-424c-48e3-9ed1-91917b559ebe"
+  },
+  {
+   "external_id": "5e408670-40ff-4efa-8699-5165ae83ea7e",
+   "title": "Production Technician",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-05-22T21:07:53.498000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/5e408670-40ff-4efa-8699-5165ae83ea7e"
+  },
+  {
+   "external_id": "602d73a8-d190-4fc1-97e9-99b7f5fa7475",
+   "title": "Automation Software Engineering Intern - Summer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:56:00.313000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/602d73a8-d190-4fc1-97e9-99b7f5fa7475"
+  },
+  {
+   "external_id": "71ad6a06-9159-4bd6-8791-d11b2ed9a09c",
+   "title": "Manufacturing Engineer, Vacuum, Precision & Automation Systems",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-07-27T18:03:18.733000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/71ad6a06-9159-4bd6-8791-d11b2ed9a09c"
+  },
+  {
+   "external_id": "73ea74f8-e72a-432a-92aa-5f90f77679ed",
+   "title": "Software Engineer, AI Platform",
+   "role_family": "engineering",
+   "location": "San Francisco Office",
+   "posted_at": "2026-09-01T22:44:05.348000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/73ea74f8-e72a-432a-92aa-5f90f77679ed"
+  },
+  {
+   "external_id": "79bf7f3a-3e99-4151-a55b-ef0d196d9a59",
+   "title": "Technical Program Manager - Hardware",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-08-11T16:49:20.610000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/79bf7f3a-3e99-4151-a55b-ef0d196d9a59"
+  },
+  {
+   "external_id": "7b8a8ba1-4529-43e8-ad52-220f192378fb",
+   "title": "Staff Electrical Design Engineer",
+   "role_family": "product_design",
+   "location": "Austin",
+   "posted_at": "2026-03-18T23:55:53.146000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/7b8a8ba1-4529-43e8-ad52-220f192378fb"
+  },
+  {
+   "external_id": "832baa82-d5e1-44b9-bd6f-ef9dbf200a54",
+   "title": "Packaging Engineering Intern - Summer",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:56:25.362000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/832baa82-d5e1-44b9-bd6f-ef9dbf200a54"
+  },
+  {
+   "external_id": "86a886e7-beac-479c-9731-292cea5f0f01",
+   "title": "Infrastructure Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco Office",
+   "posted_at": "2026-02-13T21:08:34.059000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/86a886e7-beac-479c-9731-292cea5f0f01"
+  },
+  {
+   "external_id": "870f5f72-7488-41a9-82f3-8054aa4a4525",
+   "title": "Software Engineer, Rust",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-05-29T03:00:02.578000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/870f5f72-7488-41a9-82f3-8054aa4a4525"
+  },
+  {
+   "external_id": "8a5418ba-b893-47aa-b503-483129111325",
+   "title": "Software Engineer, Hardware Manufacturing",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-01T22:35:53.132000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/8a5418ba-b893-47aa-b503-483129111325"
+  },
+  {
+   "external_id": "95e8d73e-3b0a-4ff7-89dc-1a2ce3bc549e",
+   "title": "Process Development Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-04-21T15:57:26.316000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/95e8d73e-3b0a-4ff7-89dc-1a2ce3bc549e"
+  },
+  {
+   "external_id": "96e96a9c-8419-4a67-ba4a-4b28e87b3f16",
+   "title": "Packaging Engineering Intern - Winter",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-08-27T21:28:47.758000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/96e96a9c-8419-4a67-ba4a-4b28e87b3f16"
+  },
+  {
+   "external_id": "a38a0787-aeb3-491f-8a21-eff8975a4c32",
+   "title": "Mechanical Engineer, Vacuum Systems",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-08-04T16:42:28.576000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/a38a0787-aeb3-491f-8a21-eff8975a4c32"
+  },
+  {
+   "external_id": "a789d770-3634-4227-a778-e01bc8585fa0",
+   "title": "Manufacturing Software Lead",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-08T19:42:59.177000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/a789d770-3634-4227-a778-e01bc8585fa0"
+  },
+  {
+   "external_id": "a8cdf45c-6e7f-4dc7-a8bf-f7366b3ad417",
+   "title": "Optical Systems Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-14T15:02:44.749000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/a8cdf45c-6e7f-4dc7-a8bf-f7366b3ad417"
+  },
+  {
+   "external_id": "ada329fa-d8f5-4210-9722-82b1a33487df",
+   "title": "Mechanical Engineering Intern - Summer",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:57:02.242000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/ada329fa-d8f5-4210-9722-82b1a33487df"
+  },
+  {
+   "external_id": "aec19ef8-2257-4295-abc2-87afd05224ae",
+   "title": "Electrical Engineering Intern - Summer",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:53:01.490000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/aec19ef8-2257-4295-abc2-87afd05224ae"
+  },
+  {
+   "external_id": "b0d4eed4-c5b2-4a33-a672-2e5e1ffb988d",
+   "title": "Sourcing & Planning Manager",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-10-09T19:57:22.999000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/b0d4eed4-c5b2-4a33-a672-2e5e1ffb988d"
+  },
+  {
+   "external_id": "b3628272-a336-4dd6-968d-041bc4de5bc5",
+   "title": "Electrical Engineering Intern, High Frequency Power Electronics - Summer",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:53:24.174000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/b3628272-a336-4dd6-968d-041bc4de5bc5"
+  },
+  {
+   "external_id": "b8125f35-d000-414e-8cba-c45f4273e5df",
+   "title": "Senior Mechatronics Engineer, Precision Systems",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-01-21T21:44:04.300000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/b8125f35-d000-414e-8cba-c45f4273e5df"
+  },
+  {
+   "external_id": "c10bf873-5313-4a39-a0c4-a5b60208c074",
+   "title": "Staff R&D Device Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-04T16:10:29.669000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/c10bf873-5313-4a39-a0c4-a5b60208c074"
+  },
+  {
+   "external_id": "c1d1c4e9-eac4-4169-99b9-e42d63cdf9eb",
+   "title": "Software Integration Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-08T18:34:15.752000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/c1d1c4e9-eac4-4169-99b9-e42d63cdf9eb"
+  },
+  {
+   "external_id": "c5ef6f3e-a69a-4bcb-a605-8a7438d8ca8b",
+   "title": "Embedded Software Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-05-27T20:51:57.966000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/c5ef6f3e-a69a-4bcb-a605-8a7438d8ca8b"
+  },
+  {
+   "external_id": "c8c9b760-8c9f-4481-8566-27282f8c0a07",
+   "title": "Process Engineering Intern - Summer",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2026-09-05T16:54:05.322000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/c8c9b760-8c9f-4481-8566-27282f8c0a07"
+  },
+  {
+   "external_id": "ce0e7c9f-6c85-4679-a742-2b0dedd5dbaa",
+   "title": "Mechanical Integration & Test Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-04-21T20:22:24.627000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/ce0e7c9f-6c85-4679-a742-2b0dedd5dbaa"
+  },
+  {
+   "external_id": "ddeb1ae2-7342-40ec-a223-dce512d7f1a3",
+   "title": "Process Development Engineer, Etch",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-09-04T16:06:22.148000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/ddeb1ae2-7342-40ec-a223-dce512d7f1a3"
+  },
+  {
+   "external_id": "e1a7bb41-d96d-461a-b385-19ca6ec09f17",
+   "title": "R&D Device Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-07-09T00:37:21.289000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/e1a7bb41-d96d-461a-b385-19ca6ec09f17"
+  },
+  {
+   "external_id": "e48a18f9-4892-40cd-b451-d86d6a5dab04",
+   "title": "Senior Mechanical Design Engineer, Semiconductor Tooling",
+   "role_family": "product_design",
+   "location": "Austin",
+   "posted_at": "2026-09-23T17:30:16.321000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/e48a18f9-4892-40cd-b451-d86d6a5dab04"
+  },
+  {
+   "external_id": "eafa3c22-74d8-4733-ba38-b996aa24d713",
+   "title": "General Opportunity",
+   "role_family": "other",
+   "location": "Austin",
+   "posted_at": "2024-07-29T18:19:22.251000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/eafa3c22-74d8-4733-ba38-b996aa24d713"
+  },
+  {
+   "external_id": "f38b33e7-149e-45b2-b03f-fb8c1b437765",
+   "title": "Automation Software Engineering Intern - Winter",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-08-28T00:07:37.038000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/f38b33e7-149e-45b2-b03f-fb8c1b437765"
+  },
+  {
+   "external_id": "f7b783c0-c867-4cb7-8dec-21682d2c0dbd",
+   "title": "Welder-Fabricator (Flex Operator)",
+   "role_family": "other",
+   "location": "Lockhart",
+   "posted_at": "2026-07-02T16:37:00.820000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/f7b783c0-c867-4cb7-8dec-21682d2c0dbd"
+  },
+  {
+   "external_id": "fd042104-0770-4ac1-bf00-2d727e885cc3",
+   "title": "Staff Process Development Engineer",
+   "role_family": "engineering",
+   "location": "Austin",
+   "posted_at": "2026-07-28T17:01:54.626000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/fd042104-0770-4ac1-bf00-2d727e885cc3"
+  },
+  {
+   "external_id": "ffb90341-6f70-4e47-8a4a-fc4a822c122b",
+   "title": "Turbomachinery Design Engineer",
+   "role_family": "product_design",
+   "location": "Austin",
+   "posted_at": "2026-09-23T17:28:34.052000+00:00",
+   "url": "https://jobs.ashbyhq.com/fab2/ffb90341-6f70-4e47-8a4a-fc4a822c122b"
+  }
+ ]
+}

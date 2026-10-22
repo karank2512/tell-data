@@ -1,7 +1,7 @@
 {
   "domain": "ramp.com",
   "name": "Paribus",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
   "score": 0.9,
   "contributions": [
@@ -31,7 +31,7 @@
       ]
     }
   ],
-  "open_postings": 176,
+  "open_postings": 177,
   "long_open_roles": 52,
   "sources": {
     "ats": "ashby:ramp",

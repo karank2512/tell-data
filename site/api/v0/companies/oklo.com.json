@@ -1,9 +1,9 @@
 {
   "domain": "oklo.com",
   "name": "Oklo",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Oklo (NYSE: OKLO) Launches Fresh $1 Billion Stock Sale As Shareholder Dilution Reaches 58% Since SPAC Debut - Foreign Policy Journal",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbTRvT2dMUEQ2Q0xsX0hkVlhEcmtYS1pSOWZyNUFNYmY0SkJDRjJ4bkZsMWJ2bjRUcTVDZjBySGtUdWxLM0ZoN0NaaG5GRTAxMHN0YnJrNDJTY3UzQlpQN1VicS1FcVJEWkd6empBdEQtM0dGQWRjeDlCUjdBZjdSdFQwNHdGYVRXb3Robm9DX1ROYTB6Y05SbFRVSzFLeXdIVjRCSmdSZ1pYNWZOMkZMMlFYX044RlpPYm85bTdLaElEc0prVFE0SXRzYWs3SW91TXF0LVhFOVM1OGtaVFlfZHgydklQQQ?oc=5"
@@ -27,7 +27,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGxBMkRHX3lMbmtDbzdYSXNfVzFjamFkeXhndGRrZ2JhaDBFbUpJXzRFSVdldVFCaVlpanFpcnAyRlFlQjZ6T0paWkFtMG5UdnJVb1drOHNLcUhBRVNOVlZMd205NHk0Mi1wRnRhUWdNUnZrbXluaFFBQzNpby1CUDZVOHp0MXpFY3plWVcwQ1hmZVBRakRHLVNQc1g2bzVhMmVweHl5S3l5d0lmTmdZVmtXQQ?oc=5"
     }
   ],
-  "open_postings": 77,
+  "open_postings": 79,
   "long_open_roles": 22,
   "sources": {
     "ats": "greenhouse:oklo",

@@ -1,9 +1,9 @@
 {
   "domain": "usenaive.ai",
   "name": "Naïve",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-06",
       "summary": "Introducing the Mobile Sandbox: A Disposable Cloud Phone Your Agents Can Drive",
       "url": "https://usenaive.ai/blogs/introducing-mobile-sandbox"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-06",
       "summary": "Introducing Data Gateway: One Priced Data Catalogue for Every Agent",
       "url": "https://usenaive.ai/blogs/introducing-data"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-07-01",
       "summary": "Introducing Vault: Write-Only Secrets Your Agent Uses but Never Sees",
       "url": "https://usenaive.ai/blogs/introducing-vault"

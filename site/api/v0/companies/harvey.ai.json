@@ -1,21 +1,76 @@
 {
   "domain": "harvey.ai",
   "name": "Harvey AI",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 18.4,
+  "score": 20.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.5,
+      "contribution": 17.4,
       "occurred_at": "2026-09-11",
       "summary": "Form D: indefinite offering, $550,299,446 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1974654/000197465426000003/"
     },
     {
       "type": "hiring_velocity",
-      "role_family": "engineering",
+      "role_family": "finance_ops",
+      "contribution": 1.2,
+      "occurred_at": "2026-10-22",
+      "summary": "4 new finance ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/harvey",
+      "postings": [
+        {
+          "title": "Corporate Business Development Manager, Legal Data",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/2e064aa4-effe-40db-ad73-daa8fa325b7d"
+        },
+        {
+          "title": "Business Recruiter, GTM",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/fe3a26c9-5b8e-44d9-86ea-a70f7bf07f2f"
+        },
+        {
+          "title": "Business Recruiter, GTM",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/19a53893-fca3-4f28-b49d-0650441d66a8"
+        },
+        {
+          "title": "Business Recruiter, GTM",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/af9b7f50-cd25-4f60-93ef-e8aa15576756"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "marketing",
       "contribution": 0.9,
+      "occurred_at": "2026-10-22",
+      "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/harvey",
+      "postings": [
+        {
+          "title": "Program Manager, Customer Engagement",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/724731a2-ad58-4cb4-a784-c90386309501"
+        },
+        {
+          "title": "Integrated Content Programs Lead",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/cb936e5a-1b79-4207-b68e-5a4b905fd317"
+        },
+        {
+          "title": "Integrated Content Programs Lead",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/harvey/7b8f7427-4372-47a6-b46c-16ce74caa8cf"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.8,
       "occurred_at": "2026-10-21",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/harvey",
@@ -38,8 +93,8 @@
       ]
     }
   ],
-  "open_postings": 351,
-  "long_open_roles": 109,
+  "open_postings": 359,
+  "long_open_roles": 110,
   "sources": {
     "ats": "ashby:harvey",
     "edgar_cik": "0001974654",

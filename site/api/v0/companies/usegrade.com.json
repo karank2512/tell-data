@@ -1,10 +1,24 @@
 {
   "domain": "usegrade.com",
   "name": "Grade",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 4.1,
+  "score": 7.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-20",
+      "summary": "VI-grade appoints [person] as managing director",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORER1NzhtaFBpQnBDS0tZV3R0d25hallxM1cwMU1lbzZPOUJCUkh4MkZmUUVubnl6eTFuckJFSEh2eGY5dHYwbmZlRlhPell0NDBnNk5raFlnVmdMZmRzYXh2VTQ3M2hEekYtdUgycFh5N1hwTnpSQXZDSDJ3cUxiMmtmOTdycjhlNjVaOQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Trimble launches lower-cost excavator grade control system - International Rental News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONDZhQW9TUG9YTFUyUzNZV082dzdyektNRGhhSm9fbXE5a0EwSDVEVG02eWp2OEl4blVqN1BqVUw2REttdTg1bFhVSzVJQ25NeXJHY2hZTy1tSlpNVnJEYmZZYnNyMFQ0VWItMmxqWGhQcHQ1Z2ZnZkJkal84dzlZdm10em5qb1dxbjBwLTNJaFJySlBXaEpoY09ObjMteEJRMm80UHEwNWNYTDE3NUlEbEt1cFNKTER4b3Nz?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

@@ -1,16 +1,23 @@
 {
   "domain": "atomicvest.com",
   "name": "Atomic",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 8.7,
+  "score": 10.0,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-19",
       "summary": "Amer Sports promotes [person] to president of Atomic",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX09tVVNOVG1xbVJQWGtZaHpvYko2T000UFNKV2lROTQ4SzVCNzhyQWh4WjVMYlVRSlBOb0FrWVRqcGVOa2pUV0lOSEVaSnNGbXhnS25LeUtYRWhseGJCX2ZPUG1JQmozSFJSUVJIZlc1WksyM2dDMF9SeEw0QV9JbzlIYnh5dXpmMnd2QUZRM09tdW85WGRuY2ptSE9RUFdLcExtamhnQTRrdjFKZzdVYjhn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "U.S. Bank launches Payment Switch feature built with Atomic - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0poYkNjSG1kZWxBa3JNZlVGc281NVZ3THRaZWJWc0ljdG5xSzFhb0Y2MzdKNVZpUlV3cDVDSHdtOVd0U0F3QUVTTURPVzh3Yk1yekVJc01wVjh2VDJoaEluQWh5YnZlVkFtb08yOTZJaFBLU0pxN1EyX2NNTWhQYmI5am1Pdjh3VTBQNF9XSDI2aGJIVTZtUjRR?oc=5"
     },
     {
       "type": "launch",
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Nobel laureate David Baker unveils RFdiffusion3 AI for atomic‑level protein design - DongA Science",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0SFBzODlacnlXNFpMdW5iY2RKcl9QME8zZ3FfczRSemhyZk5sNVByYnNaa0poUEgzdldVMldURS1LM3gtbmNKaEVhb3h6azlLX18xbg?oc=5"

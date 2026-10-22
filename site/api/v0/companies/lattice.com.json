@@ -1,10 +1,17 @@
 {
   "domain": "lattice.com",
   "name": "Lattice",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 6.5,
+  "score": 7.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-16",
+      "summary": "a16z launches Aerie to boost Ethereum's quantum resistant signature aggregation with faster lattice cryptography. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRk5aakh2bzBCYWVzZWFtVXZiTVR6cWE2NXprdEpJVENxUlBtdmk1YXRjYU9lTmdCSnY1dEg0Nlp2X3lZNGhtVkxxeGsySkxjeWd2Unc1Q2FTYlQwWkRGMnlWZVVkU0hmd3Zzd3l1Q2NVeUo1N0lGbWg3LS13c1Z6Q0ZwUkFUYmdlWHFsYWUxZ243elN3QllTZ1NmR2FfQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

@@ -1,14 +1,14 @@
 {
   "domain": "broccoli.com",
   "name": "Broccoli AI",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 3.9,
+  "score": 3.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-20",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/broccoli",
@@ -41,7 +41,7 @@
     }
   ],
   "open_postings": 37,
-  "long_open_roles": 14,
+  "long_open_roles": 15,
   "sources": {
     "ats": "ashby:broccoli",
     "edgar_cik": null,

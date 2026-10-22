@@ -1,11 +1,32 @@
 {
   "domain": "podium.com",
   "name": "Podium",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 62,
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-22",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/podium81",
+      "postings": [
+        {
+          "title": "Manager, Customer Success",
+          "posted_at": "2026-10-15",
+          "url": "https://job-boards.greenhouse.io/podium81/jobs/8283830"
+        },
+        {
+          "title": "Customer Success Manager - SMB",
+          "posted_at": "2026-10-21",
+          "url": "https://job-boards.greenhouse.io/podium81/jobs/8219604"
+        }
+      ]
+    }
+  ],
+  "open_postings": 63,
   "long_open_roles": 37,
   "sources": {
     "ats": "greenhouse:podium81",

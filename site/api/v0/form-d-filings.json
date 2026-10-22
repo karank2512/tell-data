@@ -2,7 +2,7 @@
   "week": "2026-W42",
   "filed_from": "2026-10-05",
   "filed_to": "2026-10-18",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "filings": [
     {
       "domain": "admirra.com",
@@ -509,6 +509,6 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1921603/000192160326000006/"
     }
   ],
-  "method": "Every original Form D (no amendments, no pooled funds) filed 2026-10-05 to 2026-10-18 by a company with a tell account page and a trusted link to the issuer (an exact CIK, a name match that passed the Form D guards, or a reviewer's link), newest first, as of 2026-10-21.",
+  "method": "Every original Form D (no amendments, no pooled funds) filed 2026-10-05 to 2026-10-18 by a company with a tell account page and a trusted link to the issuer (an exact CIK, a name match that passed the Form D guards, or a reviewer's link), newest first, as of 2026-10-22.",
   "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378"
 }

@@ -1,13 +1,13 @@
 {
   "domain": "gusto.com",
   "name": "Gusto",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Gusto Unveils ChatGPT Plugin to Simplify Payroll and Compliance Management - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkdzRGQyOUtXWENxMzdUeVVCdU9WTU15R25vX0hFZG5Oek1jYUFQc2lRUjJ1U1VYbGpZcGdNd2IwVHo3SW5UTVpHNnRPOUhCTDlGTC1CSGJyYTNuWm1nWDdiWllMVmdfcGNyX2prc0Zhbm0wdDhqUDVvSzBMbGJ0YTV2dkZRZ1B5LWxVQ2NFTUNJdWhLUmREMTlPUFNhMWVkSk5XMQ?oc=5"
@@ -66,7 +66,7 @@
       ]
     }
   ],
-  "open_postings": 115,
+  "open_postings": 117,
   "long_open_roles": 34,
   "sources": {
     "ats": "greenhouse:gusto",

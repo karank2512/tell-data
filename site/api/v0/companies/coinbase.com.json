@@ -1,13 +1,13 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 7.6,
+  "score": 7.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Coinbase Crypto Exchange Rolls Out Stocks and Prediction Markets - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWl4a3hGbG4tNzIwNkRleExmaEtaRTc0T0tKcFJ3OWY2Nm9ST2RhOFJRN3oyc0IwTnJhOEpQSk5jZ21Kak5BTkgzOWMyemg5WUhncmYyZXJjc3NzZFN2TGdKUTBvMG5QQ1J5NHNWT25OTzVfMFk5Y0lfRWNBeDhIU3B3b1Q1ZElySnM5eWM3dERCTGJW?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Coinbase Launches AI Agent Wallets for Crypto Trading - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNG5abElrU3pPQlZrVTlmd2JmX3RrUFY0ZlFhT3ZOWHNBcjZtRHhnWE5TVXhQLVNhT3BRbHZqbWt0VUR6T0Q5S1dtTEhzM2hpY2VON2hkbDFGVmY3OGNWbzgyNU5JZW5GX2hyUWN6dVFuTmY2VmtRYU14aXpqcnJQaEx0SnRtMGtqV2pJeVFRdW1LQnowS1AzMnNpdw?oc=5"
@@ -66,8 +66,8 @@
       ]
     }
   ],
-  "open_postings": 242,
-  "long_open_roles": 63,
+  "open_postings": 243,
+  "long_open_roles": 64,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

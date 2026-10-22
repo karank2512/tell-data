@@ -1,9 +1,9 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 3.1,
+  "score": 3.0,
   "contributions": [
     {
       "type": "launch",
@@ -22,7 +22,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-21",
       "summary": "3 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/docker",

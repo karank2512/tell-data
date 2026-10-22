@@ -1,12 +1,12 @@
 {
   "domain": "fivetran.com",
   "name": "Fivetran",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
   "score": 0.0,
   "contributions": [],
-  "open_postings": 192,
-  "long_open_roles": 49,
+  "open_postings": 193,
+  "long_open_roles": 51,
   "sources": {
     "ats": "greenhouse:fivetran",
     "edgar_cik": null,

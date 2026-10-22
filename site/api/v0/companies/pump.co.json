@@ -1,9 +1,9 @@
 {
   "domain": "pump.co",
   "name": "Pump.co",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -48,7 +48,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-20",
       "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/pumpcareers",

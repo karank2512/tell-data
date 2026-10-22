@@ -1,12 +1,12 @@
 {
   "domain": "lob.com",
   "name": "Lob",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
   "score": 0.0,
   "contributions": [],
   "open_postings": 9,
-  "long_open_roles": 0,
+  "long_open_roles": 1,
   "sources": {
     "ats": "greenhouse:lob",
     "edgar_cik": null,

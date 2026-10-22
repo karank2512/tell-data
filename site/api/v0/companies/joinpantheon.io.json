@@ -1,10 +1,17 @@
 {
   "domain": "joinpantheon.io",
   "name": "Pantheon",
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-22",
   "profile": "default",
-  "score": 0.9,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-21",
+      "summary": "Pantheon Resources appoints [person] as CEO to lead Alaska development strategy",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVUpOUDRfYlRRT3VkTDdValZ3ZXNtaHJQTGIwa1plRlJPbDFZdVZubl94OEo4TG9WUEdmSHR3V3lWR3JyOWYyLUZZbjNhRE5jZ09oV1hmUHN3d1lWQWI5ZWFuMjA4NEdtSUVaa05BM0JadHQ0RWlPZkt5RDJYdUNJaXlUUGlEby1OR2g2cEZIUndvTlZqTTRNWFNnZDcwUkQ5V2lBenptQXJjeGVucFBWUE1tUVVzRk9rdnp4dlcxbFI1NkFkbnRlZ1lUTFpFd1RLdVIyRk5ZS2drNV9OZzVz?oc=5"
+    },
     {
       "type": "expansion",
       "contribution": 0.9,
