@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T08:36:15.757959+00:00",
+ "last_polled_at": "2026-10-22T15:31:20.174723+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -1559,9 +1559,9 @@
   },
   {
    "external_id": "8040940",
-   "title": "Account Executive, Product Sales - Optimised Checkout",
+   "title": "Account Executive, Product Sales - Link",
    "role_family": "sales",
-   "location": "London",
+   "location": "Singapore",
    "posted_at": "2026-07-17T08:52:40+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8040940"
   },
@@ -3894,6 +3894,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8179347"
   },
   {
+   "external_id": "8179349",
+   "title": "Product Sales Development Representative, AUNZ",
+   "role_family": "sales",
+   "location": "Sydney",
+   "posted_at": "2026-10-22T10:05:21+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8179349"
+  },
+  {
    "external_id": "8179419",
    "title": "Solutions Architect, Metronome (Startups)",
    "role_family": "customer",
@@ -5782,6 +5790,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8250483"
   },
   {
+   "external_id": "8256027",
+   "title": "Engineering Manager, Payments",
+   "role_family": "other",
+   "location": "Singapore",
+   "posted_at": "2026-10-22T09:32:50+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8256027"
+  },
+  {
    "external_id": "8257185",
    "title": "Community Operations Specialist",
    "role_family": "customer",
@@ -6222,10 +6238,18 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8282859"
   },
   {
+   "external_id": "8284970",
+   "title": "Account Executive - Enterprise (Hunter) - Belgium",
+   "role_family": "sales",
+   "location": "Belgium",
+   "posted_at": "2026-10-22T12:25:35+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8284970"
+  },
+  {
    "external_id": "8284974",
    "title": "Account Executive - Nordics (Hunter)",
    "role_family": "sales",
-   "location": "Sweden",
+   "location": "Sweden (Remote)",
    "posted_at": "2026-10-21T09:47:34+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8284974"
   },
@@ -6316,6 +6340,14 @@
    "location": "London",
    "posted_at": "2026-10-20T11:54:44+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8299647"
+  },
+  {
+   "external_id": "8299651",
+   "title": "Sales Manager, Europe, Enterprise Platforms",
+   "role_family": "engineering",
+   "location": "Berlin and Munich",
+   "posted_at": "2026-10-22T13:25:38+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8299651"
   },
   {
    "external_id": "8300616",

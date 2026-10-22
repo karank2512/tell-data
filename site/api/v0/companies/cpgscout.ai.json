@@ -1,0 +1,25 @@
+{
+  "domain": "cpgscout.ai",
+  "name": "Scout",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Scouting America launches inaugural NYC Good Scout Dinner honoring Jimmy Oddo and Michael Sibilia - SILive.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQTFkYTRleTJVYlM2NzJVZVRVVkJ2TUNodE9jRmt4OVh4YmxnWmJFZHB2eGhpdmRFYlJtY3RQbGpXRnRmVUE5clV4RmZFWHZqcWhSbGliYVdDZi1OQ1ZjOFdjR0ZpTmJLaEY3TG1vcVZSX294OWtzY2JBaHoxdl9pbVZyM2Q3UnBaZ2thV2l6UnZ3dV9BbGQ1V1JMeS1kYmtXcGVOQU83YldjSlduRGVxb2swZWRyZmR2dkdpdGVmME1VUzctNHV6NGZPbUJvRmViLWk4aG1hM2ZkMUpVNFZ5RA?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

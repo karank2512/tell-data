@@ -1,0 +1,25 @@
+{
+  "domain": "jerry.ai",
+  "name": "Jerry",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 1.0,
+  "contributions": [
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-22",
+      "summary": "This year's 'Scoop University' class is the first to learn at Ben and Jerry's new headquarters - WPTZ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
+    }
+  ],
+  "open_postings": 51,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:Jerry.ai",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

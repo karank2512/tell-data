@@ -3,7 +3,7 @@
  "identifier": "legora",
  "domain": "legora.com",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T08:36:13.880556+00:00",
+ "last_polled_at": "2026-10-22T15:31:18.060661+00:00",
  "open_postings": [
   {
    "external_id": "0002076c-d001-470a-b308-1df68e66f661",
@@ -1668,6 +1668,14 @@
    "location": "New York City",
    "posted_at": "2026-09-28T20:28:09.224000+00:00",
    "url": "https://jobs.ashbyhq.com/legora/b1962905-6d32-4ace-83fb-c4ada4b7b7eb"
+  },
+  {
+   "external_id": "b1a0ad19-52df-4b09-8814-9ba6191d016a",
+   "title": "People Partner",
+   "role_family": "finance_ops",
+   "location": "Stockholm HQ",
+   "posted_at": "2026-10-22T13:03:04.819000+00:00",
+   "url": "https://jobs.ashbyhq.com/legora/b1a0ad19-52df-4b09-8814-9ba6191d016a"
   },
   {
    "external_id": "b2ab9e82-a008-4f9e-a4fe-05b3e4e83cd3",

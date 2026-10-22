@@ -3,8 +3,15 @@
   "name": "Supabase",
   "as_of": "2026-10-22",
   "profile": "default",
-  "score": 1.8,
+  "score": 3.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Introducing the unified Supabase .NET SDK",
+      "url": "https://supabase.com/blog/introducing-the-unified-supabase-net-sdk"
+    },
     {
       "type": "hiring_velocity",
       "role_family": "engineering",

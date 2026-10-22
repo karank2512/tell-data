@@ -3,7 +3,7 @@
  "identifier": "aclu",
  "domain": "aclu.org",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T08:36:15.757959+00:00",
+ "last_polled_at": "2026-10-22T15:31:20.174723+00:00",
  "open_postings": [
   {
    "external_id": "6233764002",
@@ -156,6 +156,14 @@
    "location": "Washington, District of Columbia, United States",
    "posted_at": "2026-10-20T17:55:04+00:00",
    "url": "https://job-boards.greenhouse.io/aclu/jobs/8887929002"
+  },
+  {
+   "external_id": "8906181002",
+   "title": "Deputy Project Director for Immigration Detention",
+   "role_family": "exec",
+   "location": "New York, New York, United States; San Francisco, California, United States; Washington, District of Columbia, United States",
+   "posted_at": "2026-10-22T15:10:53+00:00",
+   "url": "https://job-boards.greenhouse.io/aclu/jobs/8906181002"
   }
  ]
 }

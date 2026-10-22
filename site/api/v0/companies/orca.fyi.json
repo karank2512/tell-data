@@ -3,7 +3,7 @@
   "name": "Orca",
   "as_of": "2026-10-22",
   "profile": "default",
-  "score": 16.0,
+  "score": 17.4,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-19",
       "summary": "ORCA launches PT-3 photonic quantum computer - Electronics Weekly",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNemxXN2NNZlB2VHc3MzBPS0RQaXBlQkVqUGF3NzVnT1B0eDVaSzRHS2t0X3l2dE9lbGFvUnVyUE53TGdkTWdOdDZjT0JBYmNDa2d6QmVpSHFlVGwyMXNEbG44aWZMOWNfN19JXzROMVRqS042aGxId2VoSDRVRUNORkJxNzRTbXhDZ2RhLVBGcUdhYXZ2b0V3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "ORCA Computing Launches PT-3, the First Quantum Computer Built for Commercial Quantum Advantage - AZoQuantum",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81RHJWdHdjWlpvMXpQRFRxcWhLTHlQQWlfZ0ZwSUg5TUZGbnVqYmUtTDJUemY1Vy1rWlFmVGNCV3BLbGI4UHQ3RUN3c0JDNTd2T2NycnRrTlhqbHYybkE?oc=5"
     },
     {
       "type": "launch",

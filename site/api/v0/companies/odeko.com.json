@@ -1,0 +1,43 @@
+{
+  "domain": "odeko.com",
+  "name": "Odeko",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-22",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/odeko",
+      "postings": [
+        {
+          "title": "Flex Delivery Driver - Eliot ME",
+          "posted_at": "2026-10-22",
+          "url": "https://job-boards.greenhouse.io/odeko/jobs/6231757004"
+        },
+        {
+          "title": "Warehouse Associate",
+          "posted_at": "2026-10-22",
+          "url": "https://job-boards.greenhouse.io/odeko/jobs/6232051004"
+        },
+        {
+          "title": "Flex Warehouse Associate/Driver",
+          "posted_at": "2026-10-22",
+          "url": "https://job-boards.greenhouse.io/odeko/jobs/6232062004"
+        }
+      ]
+    }
+  ],
+  "open_postings": 23,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "greenhouse:odeko",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

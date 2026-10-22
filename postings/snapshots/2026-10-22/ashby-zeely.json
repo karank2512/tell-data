@@ -3,7 +3,7 @@
  "identifier": "zeely",
  "domain": "zeely.ai",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T08:36:13.880556+00:00",
+ "last_polled_at": "2026-10-22T15:31:18.060661+00:00",
  "open_postings": [
   {
    "external_id": "056c5645-6297-4f19-95ed-7496cf2210a1",
@@ -52,6 +52,14 @@
    "location": "Ukraine",
    "posted_at": "2026-08-20T06:40:26.171000+00:00",
    "url": "https://jobs.ashbyhq.com/zeely/2af7ecff-9ff3-4e63-a572-88d3d891c96c"
+  },
+  {
+   "external_id": "3964fb00-a42e-4fcf-8901-0647175485ed",
+   "title": "Senior Data Engineer",
+   "role_family": "data",
+   "location": "Remote",
+   "posted_at": "2026-10-22T15:20:10.942000+00:00",
+   "url": "https://jobs.ashbyhq.com/zeely/3964fb00-a42e-4fcf-8901-0647175485ed"
   },
   {
    "external_id": "4001f2b6-d3f0-440d-b2a2-1dbd6c2091c8",

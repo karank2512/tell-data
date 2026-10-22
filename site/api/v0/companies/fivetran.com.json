@@ -3,9 +3,35 @@
   "name": "Fivetran",
   "as_of": "2026-10-22",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 194,
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-22",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/fivetran",
+      "postings": [
+        {
+          "title": "Imagineer",
+          "posted_at": "2026-10-19",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8037352003"
+        },
+        {
+          "title": "Strategic Account Executive, Enterprise",
+          "posted_at": "2026-10-21",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8039971003"
+        },
+        {
+          "title": "Sales Development Representative - Italian and Spanish Speaker",
+          "posted_at": "2026-10-22",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8040028003"
+        }
+      ]
+    }
+  ],
+  "open_postings": 196,
   "long_open_roles": 51,
   "sources": {
     "ats": "greenhouse:fivetran",

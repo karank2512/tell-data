@@ -3,8 +3,22 @@
   "name": "Chariot",
   "as_of": "2026-10-22",
   "profile": "default",
-  "score": 0.9,
+  "score": 3.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Indian AI startup Chariot launches real-time speech AI model, claims edge over Google and Sarvam - ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRW1YQjR2dzV1eEdEU25aTXlyWU02cXk0ZHVLMkUwbTJyVnM4RUw3TkVPZkR1WmdjQ242RTdFM3dKNmtXR3NhLThtalBaM0t1bmg1Q0NOaEFocmRIZVRtSUV3a2Qzb0htdnVWZGpyZGt2SDV1WHYyQi1GUDdPX2Uxci00TFJaSjhiZjFzcDFnS2RIb2l3UXRzMkpPdkFkYXdEWk5Penk0elg1a2w1Y3p5a1ZLVm1GYjNBd2RFb0I5S1ZkcnZvWk5aSmFIbVRPa1I3dUFPNDl4LTVqVDlVNmt1RktaTWpNdE9HMFNjdEhscUM2NTNoYmFBbEJQMUt1QdIBgwJBVV95cUxNYUlUZjdOWHNfM1dCaFkxRW83TXh0Ui0wc3M5TV9MMU1odVdHZXhldHJIakJfSU1wb2o2cFAtSHFFSVpBSndxWm52MktodjZtWmkxTnk1Z1dMdEt0aUdFY2lfbTE2Zk1iakppSFlVX3VDOE9IWUZyZ0FLckNfUl9vZTBKZEE1VW8wMGJYTTBlcnVzRWkxZ0owSEJmM19oQTh6RHFjVENmSGR0S3BCelZBb0VzWDBvVDRsVURWWVlFaG9RYlY2MnRBbG5vSllGWU15YmdZOTYySnEzNWJkT1pjZXBVTXRhdzZMYXJtRkNlcXFaYV9fTWZ2YUFrRmFfUnN4Mm9B?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Chariot launches Chariot-1-ASR realtime model transcribing 10 major Indian languages - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0FvZmNpYlFfTU1aUFJEWVV2ZWhGMUZBazZpVGcyeXlHWWYyejY2WEYzcVR6TTVUMzBObHZnZ2tMbEtpY0hnNnBEQXMtLVRzZEx3X2hEY045UEtOb0dtTUlGM2t6M3lfdklRMWQ5UVlXb25VWDZPay1aajBFazF4OUdFNlJvc045WmpzazlFMGNBSG5SSWdLcXA4WWNSWEFMVEN6OWtZaXVMTkhLbTZxNnhGMEdsejJUVktZbTR4QkpHdXBaWjJpUWhHVQ?oc=5"
+    },
     {
       "type": "expansion",
       "contribution": 0.9,

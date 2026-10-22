@@ -3,7 +3,7 @@
  "identifier": "odeko",
  "domain": "odeko.com",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T08:36:15.757959+00:00",
+ "last_polled_at": "2026-10-22T15:31:20.174723+00:00",
  "open_postings": [
   {
    "external_id": "5828430004",
@@ -172,6 +172,22 @@
    "location": "Onsite, Eliot, ME",
    "posted_at": "2026-10-22T02:41:50+00:00",
    "url": "https://job-boards.greenhouse.io/odeko/jobs/6231757004"
+  },
+  {
+   "external_id": "6232051004",
+   "title": "Warehouse Associate",
+   "role_family": "gtm_ops",
+   "location": "Austin, Texas, United States",
+   "posted_at": "2026-10-22T15:03:29+00:00",
+   "url": "https://job-boards.greenhouse.io/odeko/jobs/6232051004"
+  },
+  {
+   "external_id": "6232062004",
+   "title": "Flex Warehouse Associate/Driver",
+   "role_family": "gtm_ops",
+   "location": "Austin, Texas, United States",
+   "posted_at": "2026-10-22T15:06:32+00:00",
+   "url": "https://job-boards.greenhouse.io/odeko/jobs/6232062004"
   }
  ]
 }

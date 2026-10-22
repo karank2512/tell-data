@@ -3,7 +3,7 @@
  "identifier": "veriff",
  "domain": "veriff.com",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T08:36:15.757959+00:00",
+ "last_polled_at": "2026-10-22T15:31:20.174723+00:00",
  "open_postings": [
   {
    "external_id": "8578293002",
@@ -70,6 +70,14 @@
    "url": "https://www.veriff.com/careers/position/8827396002?gh_jid=8827396002"
   },
   {
+   "external_id": "8827518002",
+   "title": "Senior Account Executive / EMEA",
+   "role_family": "sales",
+   "location": "Europe (Remote)",
+   "posted_at": "2026-10-22T10:37:35+00:00",
+   "url": "https://www.veriff.com/careers/position/8827518002?gh_jid=8827518002"
+  },
+  {
    "external_id": "8849957002",
    "title": "Solutions Engineer - LATAM",
    "role_family": "sales",
@@ -84,6 +92,14 @@
    "location": "United States",
    "posted_at": "2026-09-30T09:25:12+00:00",
    "url": "https://www.veriff.com/careers/position/8857648002?gh_jid=8857648002"
+  },
+  {
+   "external_id": "8905344002",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Tallinn, Spain (Remote)",
+   "posted_at": "2026-10-22T12:25:18+00:00",
+   "url": "https://www.veriff.com/careers/position/8905344002?gh_jid=8905344002"
   }
  ]
 }

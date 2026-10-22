@@ -3,7 +3,7 @@
   "name": "Stripe",
   "as_of": "2026-10-22",
   "profile": "default",
-  "score": 10.4,
+  "score": 11.9,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -54,6 +54,13 @@
           "url": "https://stripe.com/jobs/search?gh_jid=8273743"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Stripe Launches Treasury for Agents, Streamlining Startup Finances - Small Business Trends",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnJkMHJfWHphOEhmNEdVR0lMT3NvZ1VyTXlBTmRUb3U0RUU4UTlGUEtyUVMxMmg3dmpLX2R4R2xrTS1ILUI0QkF0LW1sTDJNRURmdmJzeVA1SmNVaEJMd1lfMlRaNUxSTWl6ZFUwSjVzdkRpRGdEYmZMSExRQVZPZjlJUDZOcnloemw1UU5OMi1YZkxJcDNuYQ?oc=5"
     },
     {
       "type": "launch",
@@ -127,7 +134,7 @@
       ]
     }
   ],
-  "open_postings": 799,
+  "open_postings": 803,
   "long_open_roles": 214,
   "sources": {
     "ats": "greenhouse:stripe",

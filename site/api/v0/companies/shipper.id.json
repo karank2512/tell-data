@@ -1,0 +1,32 @@
+{
+  "domain": "shipper.id",
+  "name": "Shipper",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Qued Introduces Qued Context, Bringing Facility-Level Data to Shipper Business Reviews - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdWpGTVhOZ0xlVUtfdTNodk9hYjZaUWVaQVpyeC1fRlp1X0ZfY2h5SjNnXzhsT2hIcTFjZXhIVVdmT1NZVjVqdHh3SzFzb2RSVk5pdlBzUFlGSl9BYnBxc09ld3Flb1JyeFBXMktyMU5nQVlWS3BfQVRMeVlrTVRVRDFsZTVaRmtqNTJ3WXFGcG81OFZ2NzI4NUk4LU01eWFhZTN5LUVfZExGMUp1eU5qVm1pT2tGVXhfR0hfNjVpYmJ4QU95dVc4bEZrSVFjQ0l1cXM0ZFFKeGhhTjRvYVhmZA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-17",
+      "summary": "Cold Chain Technologies launches ground-breaking reusable dry ice shipper - UK News Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2VYQkpXR1JkTjFCN3RwUmMteF9wUmdhSldLbFhSM3RFUkpPdi1IZWVqOHpIX2FjQU5USU1mY1F4T213ZzJvT0dLbG95Q3VQWXV3cVh0ZFdsUnNwX0VyczlNT2l4Q2ZfejBDbVVQclhyS0pudW5qOFdaQ0NIck5LUERXaWt6TS15NGxHTWtjLTNvZmU4ajRCNW9SY19kQllVVTlJU1oyZw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

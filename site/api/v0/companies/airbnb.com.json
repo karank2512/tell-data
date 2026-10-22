@@ -3,12 +3,12 @@
   "name": "Airbnb",
   "as_of": "2026-10-22",
   "profile": "default",
-  "score": 16.7,
+  "score": 21.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 7.8,
+      "contribution": 7.7,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -79,6 +79,27 @@
           "url": "https://careers.airbnb.com/positions/8282758?gh_jid=8282758"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Airbnb introducing new rules for hosts - 95.5 WSB",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjZDcGN1eEhycmJVX2ZpLWhta2NkLVJXSnk1OHlXVkFncmdhMWJUNkxqZ3k2TTNCUzBNVWVyTkMzOWpLZTVzekxRcGVpVlVLSFhINFBGM0pYZHZCZjg5VEVfSUlyNEdYYXNYODVlTUdYSnl5Y1RTY3FXbnFLaXU0dUhPNUc2NXBhRTRyZ1JVR05mZXREdFBHOURxd1RjWGPSAbMBQVVfeXFMUHhOalBTY1JMZFViR2dYblJaTVFZRGk0OXl1bjNWYzd0YUpLR0ZKYmVPdWI0dHZLcDcycFNyTDFKbE9fZjVGdmlXZUhsRVNiQWRCVWJGQVZCaTZjZEFsZzhOMkVoYmJlT2Q0OXBXNVNIVElJT0xwS0dfNVM5enk1N1M0c3dTUXEycHdCSjFwSHdmUWNjM2pEdDVZOTkxZ0trLXJad1gyZXdmTndEa2xPN1JoRzg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWQyVEpibDNwdHpLLUhpZGtQQ0VqOGpPNkd5X2RVQ1ZYUWhsU0o4QzFrendYMzBuQktXRnp2R0dyT2NRejF5SFVldlhKNnA2X3Y4Tk0xQzFMWTBzR0RIQ3BBbVhNRnBSSDhpaGZGLU9uZ0lJZ3Q0R3V3cDRDMTUtbE9BUkZ3OTduWlE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - Yahoo Lifestyle Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXota0ZLTHRMZlZWeWV5aFFBX0toZDJ0ZXFIZHdpeEZNWGl4emJEZE5uT0ZJUzdJcTg5TG5DODdaUFR1QUNkNVlSd3gwTHpjejNDZTN5WDB6QkZpSzVHTy1oNktjakFvMkZKNkpLcDlVVWE3Qk5KY0ItcXRyWXhDUHVSU3hqZ0k?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -162,7 +183,7 @@
       ]
     }
   ],
-  "open_postings": 232,
+  "open_postings": 234,
   "long_open_roles": 61,
   "sources": {
     "ats": "greenhouse:airbnb",
