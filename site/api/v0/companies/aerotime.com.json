@@ -1,0 +1,32 @@
+{
+  "domain": "aerotime.com",
+  "name": "Aerotime",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 2.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Saab rolls out first GlobalEye aircraft for Sweden — AeroTime - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjk0YkNLVjlGenJ2VjJBSUZZWkZkN0ItUGpFSENCRWZ4VUNudzA2OFpPeW5SMHlSbjg4RkstX1VOZ1lvaUdjaVVGR3g3UjFCTkRnaUZaa3FXN2UzODVHQ3NHV3MyZk0wZjZobzZQRFlsNFJxNGJ1LTJMT3RlaFRiUmo2bnBvQTlkQ0JYSW9Edw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-15",
+      "summary": "Switzerland releases jet fuel reserves for Zurich Airport — AeroTime - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09wUlhUbDl6aElTN2xOenBmZ096UVpnQmNSMm0zSTNPYThzb0tZTXFmbnp4eWV3d3l1ck9la0dBaGh1aTVIclo0cHpXNHZ2bno3THBuU1JlNzNyTGN5ZmRoWkhtZzh1SXdyNWdKU2MyZ1c4dlBMdWN1TWFKTXBSTUtSSmxVWW9aUGw5Y0pUYVQwZkU5eVdZbzZZQ0lhRWVJUnc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

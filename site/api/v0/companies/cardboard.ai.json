@@ -1,0 +1,25 @@
+{
+  "domain": "cardboard.ai",
+  "name": "Cardboard",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Mexico Launches Its First Mezcal in a Cardboard Bottle — It Weighs Just 83 Grams - InformaBTL",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjFQcEJfRm5zSUg3dTI4TmlDcGdPMzFFbTB5V1ZWRnNaTXJTNl80clRkZDBHcnBBNHR0MHJKZDF4cmRydVVralJWTjlxRWZfNWlxdFI5MHJIQkpqWlVfUGx2bVc3dDZZRGxHQlhpZXRrVlJXR0ZOWHlWMWhieVNGT2N4NVE3YW0yUlV4ZU5iM2x2ZFRibDRpdHZMdzFYWjZpVnN0aFBZaVVxUQ?oc=5"
+    }
+  ],
+  "open_postings": 7,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:cardboard",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

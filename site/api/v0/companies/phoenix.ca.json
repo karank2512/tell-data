@@ -1,0 +1,25 @@
+{
+  "domain": "phoenix.ca",
+  "name": "Phoenix",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "City of Phoenix Launches SNAP Navigation Support - City of Phoenix (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2h3NWhlTzhGdkVpeGtINW41ZE9ZaHAwVjZTdzJGbVJfR1g0TjVmR3VJOGk3Nk0wSzU4ZVZSQWE1dDhmckpZbkRhdEw3cXVIY2NsRm1Sb2xoT1lpallJeURMbHJkVjM2UEJRNkNVMk52eW83bzgtWHRwcFZySUlKQi1WeXV3d25UQ1EtMURwV1lDWlB1?oc=5"
+    }
+  ],
+  "open_postings": 15,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:phoenix",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

@@ -3,8 +3,16 @@
   "name": "Lob",
   "as_of": "2026-10-22",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-21",
+      "summary": "Live Oak Bancshares (NYSE:LOB) Releases Quarterly Earnings Results, Misses Estimates By $0.12 EPS - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVNFYWhfSGhZS3gxZ0Z1c19MRWJRaWtuY3U3YkJodEcxRWJQNmNUck5mWDViNG1HQ292VTFVb3lKWm9rZ2Fyam9zdW04NjdUenlVVVBfT3BydEpvWXNMWmlLWkpYY1NuSjl5bjVMOGlNekVOd2NnWHNXSnlHSkZWSEJuY1RJWlZfdllxRjR0bjU5RE9vaVo1WG90U0hkTTNXM2kyMmllVXhMSHpKaU9lLXRZM0IxZHRGRXBEdHRodzFYVGpaV1BMNFJXTV9WYlJXaFZkcU4yYmg5TllNdlpoTlRNdTFVS0JucnZ3?oc=5"
+    }
+  ],
   "open_postings": 9,
   "long_open_roles": 1,
   "sources": {

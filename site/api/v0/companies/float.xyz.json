@@ -1,0 +1,25 @@
+{
+  "domain": "float.xyz",
+  "name": "Float",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Insta360 Launches New Wireless Mic With 32-Bit Float Recording and AI Noise Cancellation - Imaging Resource",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNy1TRWFseGRZRDFFdDk5ODk3ZVJNSktRZm9xRllQdmlPOXM2NzZzZTFMZWZUUENUbk1yVmJjZHZPZnhGdHM1NzZmRUEweW1sVWYtbHRxUnNNd29KMFhtb0hDZGQ4cWxUODY3SUdkZ1BnSDFIbER4Z1BfSTcza00zR056NEhlczR1TUk5eW45NjRxdnpJUkNXemlLQi1DUmZhNnI1bGh4M3lNaktSa1JzN1pWemM1X0RyVE5nX1dNRGdoMzUwRmc?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}
