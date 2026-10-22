@@ -1,0 +1,38 @@
+{
+  "domain": "clipboardworks.com",
+  "name": "Clipboard",
+  "as_of": "2026-10-22",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-22",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/clipboard",
+      "postings": [
+        {
+          "title": "Field Marketer",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/clipboard/3802bff2-293c-4503-b20b-f9b0794fee8e"
+        },
+        {
+          "title": "Account Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/clipboard/ed1c171f-8327-40c8-8612-f3a4c4547ab1"
+        }
+      ]
+    }
+  ],
+  "open_postings": 43,
+  "long_open_roles": 12,
+  "sources": {
+    "ats": "ashby:clipboard",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

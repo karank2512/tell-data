@@ -3,7 +3,7 @@
  "identifier": "flexport",
  "domain": "flexport.com",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T02:36:03.209656+00:00",
+ "last_polled_at": "2026-10-22T08:36:15.757959+00:00",
  "open_postings": [
   {
    "external_id": "5745289",
@@ -1756,6 +1756,14 @@
    "location": "Frankfurt, Germany; Hamburg, Germany",
    "posted_at": "2026-10-21T15:13:34+00:00",
    "url": "https://job-boards.greenhouse.io/flexport/jobs/8306094"
+  },
+  {
+   "external_id": "8311799",
+   "title": "Senior Associate, Control Tower & Service Delivery",
+   "role_family": "other",
+   "location": "Shenzhen, China",
+   "posted_at": "2026-10-22T03:15:23+00:00",
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8311799"
   }
  ]
 }

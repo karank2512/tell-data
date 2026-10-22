@@ -3,7 +3,7 @@
  "identifier": "alpaca",
  "domain": "alpaca.markets",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T02:36:03.209656+00:00",
+ "last_polled_at": "2026-10-22T08:36:15.757959+00:00",
  "open_postings": [
   {
    "external_id": "4431262004",
@@ -644,6 +644,14 @@
    "location": "Remote- Europe/ Americas",
    "posted_at": "2026-10-20T14:14:21+00:00",
    "url": "https://job-boards.greenhouse.io/alpaca/jobs/6229457004"
+  },
+  {
+   "external_id": "6231544004",
+   "title": "Senior Brokerage Operations Associate (Canada)",
+   "role_family": "other",
+   "location": "Remote - Canada",
+   "posted_at": "2026-10-22T02:50:11+00:00",
+   "url": "https://job-boards.greenhouse.io/alpaca/jobs/6231544004"
   }
  ]
 }

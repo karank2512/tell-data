@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-22T02:58:31.075997+00:00",
+  "generated_at": "2026-10-22T08:46:20.071102+00:00",
   "stale_sources": [],
   "freshness_p95_h": 24.0,
   "sources": [
     {
       "source": "ashby",
       "kind": "collector",
-      "last_ok_at": "2026-10-22T02:37:48.740850+00:00",
+      "last_ok_at": "2026-10-22T08:39:17.445050+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 20501,
-      "inserted_24h": 149,
+      "fetched_24h": 20521,
+      "inserted_24h": 135,
       "freshness_p95_h": 10.7,
       "stale": false,
       "status": "ok"
@@ -17,7 +17,7 @@
     {
       "source": "edgar",
       "kind": "collector",
-      "last_ok_at": "2026-10-22T02:37:44.183511+00:00",
+      "last_ok_at": "2026-10-22T08:35:27.312290+00:00",
       "success_rate_7d": 1.0,
       "fetched_24h": 519,
       "inserted_24h": 248,
@@ -39,10 +39,10 @@
     {
       "source": "greenhouse",
       "kind": "collector",
-      "last_ok_at": "2026-10-22T02:37:08.569478+00:00",
+      "last_ok_at": "2026-10-22T08:38:13.751866+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 12165,
-      "inserted_24h": 946,
+      "fetched_24h": 12149,
+      "inserted_24h": 935,
       "freshness_p95_h": 11.1,
       "stale": false,
       "status": "ok"
@@ -50,10 +50,10 @@
     {
       "source": "lever",
       "kind": "collector",
-      "last_ok_at": "2026-10-22T02:36:11.103881+00:00",
+      "last_ok_at": "2026-10-22T08:36:34.107315+00:00",
       "success_rate_7d": 1.0,
       "fetched_24h": 1657,
-      "inserted_24h": 6,
+      "inserted_24h": 7,
       "freshness_p95_h": 11.1,
       "stale": false,
       "status": "ok"
@@ -62,9 +62,9 @@
       "source": "news",
       "kind": "collector",
       "last_ok_at": "2026-10-21T15:40:58.135721+00:00",
-      "success_rate_7d": 0.6774,
-      "fetched_24h": 82730,
-      "inserted_24h": 617,
+      "success_rate_7d": 0.6333,
+      "fetched_24h": 82827,
+      "inserted_24h": 610,
       "freshness_p95_h": 30.9,
       "stale": false,
       "status": "ok"
@@ -72,7 +72,7 @@
     {
       "source": "smartrecruiters",
       "kind": "collector",
-      "last_ok_at": "2026-10-22T02:36:11.447533+00:00",
+      "last_ok_at": "2026-10-22T08:36:16.637433+00:00",
       "success_rate_7d": 1.0,
       "fetched_24h": 237,
       "inserted_24h": 1,
@@ -83,7 +83,7 @@
     {
       "source": "resolve",
       "kind": "job",
-      "last_ok_at": "2026-10-22T02:57:26.596661+00:00",
+      "last_ok_at": "2026-10-22T08:45:41.319758+00:00",
       "success_rate_7d": 1.0,
       "fetched_24h": 243,
       "inserted_24h": 1,
@@ -94,10 +94,10 @@
     {
       "source": "score",
       "kind": "job",
-      "last_ok_at": "2026-10-22T02:58:26.371295+00:00",
+      "last_ok_at": "2026-10-22T08:46:17.572263+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 4895,
-      "inserted_24h": 506,
+      "fetched_24h": 4932,
+      "inserted_24h": 502,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
@@ -105,10 +105,10 @@
     {
       "source": "publish",
       "kind": "job",
-      "last_ok_at": "2026-10-22T02:58:31.015472+00:00",
+      "last_ok_at": "2026-10-22T08:46:20.044363+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 5587,
-      "inserted_24h": 5587,
+      "fetched_24h": 5596,
+      "inserted_24h": 5596,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"

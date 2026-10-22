@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-22",
- "last_polled_at": "2026-10-22T02:36:03.209656+00:00",
+ "last_polled_at": "2026-10-22T08:36:15.757959+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -961,7 +961,7 @@
    "external_id": "7913698",
    "title": "Staff Product Manager, Sail Core",
    "role_family": "product_design",
-   "location": "New York, US - Remote, Toronto",
+   "location": "New York, US - Remote (East Coast), Toronto",
    "posted_at": "2026-05-12T02:05:58+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=7913698"
   },
@@ -5798,6 +5798,14 @@
    "url": "https://stripe.com/jobs/search?gh_jid=8257354"
   },
   {
+   "external_id": "8257500",
+   "title": "Partner Marketing Leader, Alliances & Channel",
+   "role_family": "marketing",
+   "location": "Seattle or San Francisco",
+   "posted_at": "2026-10-06T17:17:17+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8257500"
+  },
+  {
    "external_id": "8257892",
    "title": "Security Engineer, New Grad",
    "role_family": "engineering",
@@ -6252,6 +6260,22 @@
    "location": "San Francisco, Seattle",
    "posted_at": "2026-10-20T16:07:32+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8287912"
+  },
+  {
+   "external_id": "8287916",
+   "title": "Credit Risk Analyst Commercial Underwriter",
+   "role_family": "other",
+   "location": "Singapore",
+   "posted_at": "2026-10-22T05:05:56+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8287916"
+  },
+  {
+   "external_id": "8288334",
+   "title": "Operations Program Manager, Consumer Support",
+   "role_family": "customer",
+   "location": "NYC",
+   "posted_at": "2026-10-22T02:54:11+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8288334"
   },
   {
    "external_id": "8288538",
