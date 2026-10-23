@@ -1,0 +1,25 @@
+{
+  "domain": "rune.ai",
+  "name": "Rune",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Holger Rune releases statement as he withdraws from the Brussels Open and provides injury update - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEc4dGQtVV9WS2xqbUdXa0hKM0RacEVvcmd4V2t6RjRLX3JWUEg2SzBYcXpYd1Rka0E5RGNZNHJfNDJtOFY4Ql9JcDlLWi1wSHNicjNVcHVXQ0w5WjJTNWlscTBkM2VjRW5lR1M4ZmsyTjFIUk5EQmk2MS1CQTFJYTdTdWxrMThQQ25kV2JOdWdrdk0?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

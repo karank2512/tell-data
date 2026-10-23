@@ -1,0 +1,39 @@
+{
+  "domain": "rutter.com",
+  "name": "Rutter",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 4.1,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Rutter’s Introduces Hard Eggnog - NACS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORmppTFZpbjRwbkxuNDRrdnQ5c0pvbmw1Y0hEQnd0dFBfV0VyUkdocVNia2p6UnZYREtqMzZhYW8wMFM3M1ZTQzFkcmNVQ2xEalVMTlFjdFg3RnBQWW1ieUJEN2tFcm9mcTkyanBQX1ZMbURpOG9FQ1d0Z21wZEIycXAzWU1zVXNBTXBSWkZKaEZMY3E3c3pFV2xheUM5OVlNNnlv?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Rutter's releases Hard eggnog in Pennsylvania - Carlisle Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2FfVUg3ZlFXVTR4ckxiRFBMTGRiYjJ6OUxpZjM5Q3dyVmtnZHBkdnFFYW91MHBlV2oyTmp4elJ1MFN0akxXZVl2MGtUdl9ZXzhKN1VhRzhQUWJCXzA5RC1wOG9ZMllMdXpONll6eGZobnRPcU92ZFFSVGRqYTFBZnMxMzEtY2tjZWNFaXZIQlV5VlRzUXN3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-16",
+      "summary": "Rutter's launches Hard Eggnog - Dairy Foods Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAySHgxcXZXRC03Rk82RVBaQ01TUlVKSXNSYVBmZFpmVWpYRHM0YmhSQVVZWFd1bmwycGZYVThva3htb0ZFY0dYczQzdDZrR2FhV1RDb1gtaEJvWEpsQkdWdUprSmpTakZXdHRRZldNTXdGRHZRWVJFVE5R?oc=5"
+    }
+  ],
+  "open_postings": 1,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "ashby:rutter",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

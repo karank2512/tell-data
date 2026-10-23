@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:50:03.345085+00:00",
+  "generated_at": "2026-10-23T03:06:52.052323+00:00",
   "stale_sources": [],
   "freshness_p95_h": 24.0,
   "sources": [
@@ -18,7 +18,7 @@
       "source": "edgar",
       "kind": "collector",
       "last_ok_at": "2026-10-22T20:26:30.788392+00:00",
-      "success_rate_7d": 0.9688,
+      "success_rate_7d": 0.9394,
       "fetched_24h": 0,
       "inserted_24h": 0,
       "freshness_p95_h": null,
@@ -61,11 +61,11 @@
     {
       "source": "news",
       "kind": "collector",
-      "last_ok_at": "2026-10-23T02:46:24.848960+00:00",
-      "success_rate_7d": 0.6,
-      "fetched_24h": 84216,
-      "inserted_24h": 635,
-      "freshness_p95_h": 24.0,
+      "last_ok_at": "2026-10-23T02:57:55.050119+00:00",
+      "success_rate_7d": 0.6129,
+      "fetched_24h": 86862,
+      "inserted_24h": 656,
+      "freshness_p95_h": 36.2,
       "stale": false,
       "status": "ok"
     },
@@ -83,10 +83,10 @@
     {
       "source": "resolve",
       "kind": "job",
-      "last_ok_at": "2026-10-23T02:49:29.309138+00:00",
+      "last_ok_at": "2026-10-23T03:05:53.087668+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 243,
-      "inserted_24h": 1,
+      "fetched_24h": 0,
+      "inserted_24h": 0,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
@@ -94,10 +94,10 @@
     {
       "source": "score",
       "kind": "job",
-      "last_ok_at": "2026-10-23T02:50:01.013129+00:00",
+      "last_ok_at": "2026-10-23T03:06:47.857359+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 6287,
-      "inserted_24h": 696,
+      "fetched_24h": 6328,
+      "inserted_24h": 528,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
@@ -105,10 +105,10 @@
     {
       "source": "publish",
       "kind": "job",
-      "last_ok_at": "2026-10-23T02:50:03.322315+00:00",
+      "last_ok_at": "2026-10-23T03:06:51.990547+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 7946,
-      "inserted_24h": 7946,
+      "fetched_24h": 6532,
+      "inserted_24h": 6532,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"

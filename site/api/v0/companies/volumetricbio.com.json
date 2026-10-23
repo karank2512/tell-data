@@ -1,0 +1,25 @@
+{
+  "domain": "volumetricbio.com",
+  "name": "Volumetric",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "UC Berkeley releases OpenCAL, an open-source volumetric 3D printer, with Formlabs and Prusa - VoxelMatters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXpvSmdsak5yQm8wc0FPNUQ0bU9PYk5TYnZHWGtMck9fOWphUW94MGdNeVlxN3ZKa01TRjN2TjBQVDhmbDhDb1JwRlgtc1NVeFNrNzhCeF94MGs5Vm9IM2ZXQlBlaHliVDgyYjlSU0swQlhncGFqSXJsXzdBWE14UFRRUmtaU3Vyd2hxTmkwa3JRUkxOT1h0aURYc0M0bnVIcFRHcnRCUFE0NGVkRWFYWXRURmdZUXQ1NlpJ0gHAAUFVX3lxTE5MdkhneFgtSTUtNGF0MS1lSTY2S18tUzRyYXRrWU42RUZnakZlTURxVzlQTEEtQ0pxZGplLVE1X2tTaXBvNkFaOTl5SUhPeUllYm9JR1Vqai1SUUJCYUVfMTRqR3NyMWRxdnlKeHpaQjVQUFlkakNzc2VSdUhodkQzYVJUQk5fXzc0MnVGeFBfN3d0UEdSU2xidjJTSjhiOS1zRXJ6LXctT0VEMjZqWUtJWWV5aDI4amphd3NJcFpuMg?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

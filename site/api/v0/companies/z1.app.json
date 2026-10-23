@@ -1,0 +1,32 @@
+{
+  "domain": "z1.app",
+  "name": "Z1",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 2.7,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Ferris Mowers unveils the Z1-PX stand-on mower - Landscape Management",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXF0ODI1STJ6UGFKelVpU3RhdGVDc1cyUzhBSTZCeTBYMUFfb2Y3bjZPejBMSVBtNTd2OVZtMWxDcDVhQ3lMdTdLbFVqUllwUmNQdEJnNzgzS3NTemE1OXc0ZVJmazhnMjBsZnFNY0NhN25BS0VLaFoyc0YyZ3Z6Uy1TU3RTRUVGVUMw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-16",
+      "summary": "Ferris Mowers debuts Z1-PX stand-on - Lawn & Landscape",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JajlCTE1uTFVodmhzaDJzMmhjUVZNdHE1V3VaR1huN2ZScmRxaWpiVmJTSEZ6dXlzQjg0NmJZT0NsTlZ1Z0pmNlhJV18xNFBGZTdGSUF4X1RnOWs1S0lSQzJZNE82VzNFQ0gzRmFheDVnU1FqNnJZZkhXZjZWb00?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}
