@@ -3,7 +3,7 @@
  "identifier": "h1",
  "domain": "h1.co",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T02:36:26.259113+00:00",
+ "last_polled_at": "2026-10-23T08:34:22.357624+00:00",
  "open_postings": [
   {
    "external_id": "046d627b-9aae-4095-8793-a81a61770e12",
@@ -28,6 +28,14 @@
    "location": "New York",
    "posted_at": "2026-10-19T16:49:48.321000+00:00",
    "url": "https://jobs.lever.co/h1/0aeaf421-f5c8-4686-8d12-4d93e1f9001c"
+  },
+  {
+   "external_id": "0c566a55-ec8b-44b0-ab7f-e3234e853898",
+   "title": "Sr. Data Analyst",
+   "role_family": "data",
+   "location": "New York",
+   "posted_at": "2026-09-15T12:29:50.600000+00:00",
+   "url": "https://jobs.lever.co/h1/0c566a55-ec8b-44b0-ab7f-e3234e853898"
   },
   {
    "external_id": "0f676b1f-6344-4cfc-be63-bec2ab35fafc",

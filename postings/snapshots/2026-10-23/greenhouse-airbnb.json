@@ -3,7 +3,7 @@
  "identifier": "airbnb",
  "domain": "airbnb.com",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T02:36:27.059980+00:00",
+ "last_polled_at": "2026-10-23T08:34:21.508809+00:00",
  "open_postings": [
   {
    "external_id": "6757302",
@@ -556,6 +556,14 @@
    "location": "San Francisco, United States",
    "posted_at": "2026-07-29T20:22:14+00:00",
    "url": "https://careers.airbnb.com/positions/8094462?gh_jid=8094462"
+  },
+  {
+   "external_id": "8095268",
+   "title": "Programs & Business Operations Lead",
+   "role_family": "gtm_ops",
+   "location": "United States",
+   "posted_at": "2026-08-03T17:38:14+00:00",
+   "url": "https://careers.airbnb.com/positions/8095268?gh_jid=8095268"
   },
   {
    "external_id": "8095365",

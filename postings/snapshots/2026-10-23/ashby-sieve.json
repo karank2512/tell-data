@@ -3,7 +3,7 @@
  "identifier": "sieve",
  "domain": "sievedata.com",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T02:36:26.415665+00:00",
+ "last_polled_at": "2026-10-23T08:34:21.846485+00:00",
  "open_postings": [
   {
    "external_id": "025b0b10-6072-41ab-bcad-6fb4774b973b",
@@ -12,6 +12,22 @@
    "location": "San Francisco",
    "posted_at": "2026-10-05T15:12:37.185000+00:00",
    "url": "https://jobs.ashbyhq.com/sieve/025b0b10-6072-41ab-bcad-6fb4774b973b"
+  },
+  {
+   "external_id": "29dd4058-9868-46db-8e10-ace6c6f35c69",
+   "title": "Roboticist, Physical AI",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-23T06:21:01.478000+00:00",
+   "url": "https://jobs.ashbyhq.com/sieve/29dd4058-9868-46db-8e10-ace6c6f35c69"
+  },
+  {
+   "external_id": "35f1be09-921a-4a3c-a393-9f0a4a1a74cf",
+   "title": "Member of Technical Staff, Robotics Research",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-23T06:25:59.934000+00:00",
+   "url": "https://jobs.ashbyhq.com/sieve/35f1be09-921a-4a3c-a393-9f0a4a1a74cf"
   },
   {
    "external_id": "4a0e82d7-a29c-41ef-a48e-6513a7770814",
