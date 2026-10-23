@@ -1,26 +1,26 @@
 {
   "domain": "salt.security",
   "name": "Salt Security",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
   "score": 1.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-09-29",
       "summary": "Introducing Salt Claude Connect: Continuous MCP Server Visibility for Claude Enterprise",
       "url": "https://salt.security/blog/introducing-the-salt-claude-connect-continuous-mcp-server-visibility-for-claude-enterprise"
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.5,
       "occurred_at": "2026-08-04",
       "summary": "Salt Debuts First AWS WAF Managed Ruleset for AI Agent and API Protection",
       "url": "https://salt.security/blog/salt-debuts-first-aws-waf-managed-ruleset-for-ai-agent-and-api-protection"
     }
   ],
-  "open_postings": 14,
+  "open_postings": 16,
   "long_open_roles": 4,
   "sources": {
     "ats": "greenhouse:saltsecurity",

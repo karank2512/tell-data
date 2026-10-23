@@ -1,10 +1,17 @@
 {
   "domain": "launchpointhq.com",
   "name": "Galaxy",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 9.9,
+  "score": 12.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Samsung Rolls Out October 2026 Security Update for Galaxy S24 Series - SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2JXX3M3LTdqdWdtZjNBYnlQVEZYZ2FQZUY4NWJYTVZ5dHZDSFlFclI0YjRDSWtzZEpSekFGUzJfQzFjQ0FTR3JLek1zblBxZFl2V1dTeFFmTXNteEdfVzB0OTgzYVJ0V21qWHlBLWhLQzVVT3c0ejZxWFpUZE1lb1gzQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -16,12 +23,19 @@
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-21",
+      "summary": "Samsung launches Certified Re-Newed Galaxy phones on Amazon starting at $489 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkdWZHVGMzhKSVMzZGVJR3ZmWnJaaXhKZkd0ZmpJN1FDT3dlcTJibW5fWjBXeGVsWDJxVDRqeXRXYjJoajZEOHAxQTI1bzh5YnB0T0x1cnBJYl9UVjJTY09ldnRNZG14Vlc1azliaUhPdmtvTFdZVG50SENNRU9EZzFvTnNwNElYRUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
       "summary": "Samsung releases Galaxy A07 stable One UI 9.0 update - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUp5QTQ2QzVHWktpV212UWFtLU1NaGVWSjkwTm9PNjJMS0phRHVsc0l3dElDT3VyLUZHcUZuNmthSjNfbVlkY2g3ZEpaRHBfRmVCSEtmNDNQbWNGbFRmSGdrN3ZVZW4wa0dRVWR6WlhxdlZocEtxenkxNEVCTlpCUlQ3N2NwQkIwMHJIMw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases Galaxy A16 One UI 9.0 (Android 17) stable update - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU81OUY4RUZseXp4V1kwRHBXcFlZc1lTTDJlSUZWbDVzUlNZS0hHRFBJd0xwT3Q2RGZFTlpkMkJQMjAyQ1pqTlFEYlo3YU0wYzNoakw3cUlfVGxWeUF5VWpEcW5YVkE0bHZIb1o2RGJITktHWHJpeU9qTzBLazhuY0Zad2llZEgtZk1MeTRqcU5XbTJLUmVjNW45VQ?oc=5"

@@ -1,14 +1,14 @@
 {
   "domain": "odeko.com",
   "name": "Odeko",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-10-22",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/odeko",

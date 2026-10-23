@@ -1,9 +1,9 @@
 {
   "domain": "relativityspace.com",
   "name": "Relativity Space",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 6.7,
+  "score": 6.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-20",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/relativity",
@@ -81,8 +81,8 @@
       ]
     }
   ],
-  "open_postings": 417,
-  "long_open_roles": 143,
+  "open_postings": 427,
+  "long_open_roles": 145,
   "sources": {
     "ats": "greenhouse:relativity",
     "edgar_cik": null,

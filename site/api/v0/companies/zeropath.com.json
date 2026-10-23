@@ -1,9 +1,9 @@
 {
   "domain": "zeropath.com",
   "name": "ZeroPath",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 1.5,
+  "score": 1.4,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-05-31",
       "summary": "OTRS CVE-2026-48188: Critical Unauthenticated SQL Injection Enables Authentication Bypass Across a Decade of Releases",
       "url": "https://zeropath.com/blog/cve-2026-48188-otrs-sql-injection-authentication-bypass"

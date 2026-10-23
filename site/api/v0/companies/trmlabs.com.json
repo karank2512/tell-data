@@ -1,9 +1,9 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 9.1,
+  "score": 9.9,
   "contributions": [
     {
       "type": "launch",
@@ -48,6 +48,31 @@
       "url": "https://www.trmlabs.com/resources/blog/trm-labs-appoints-mas-veteran-ziqing-ang-as-head-of-policy-apac"
     },
     {
+      "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-23",
+      "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/trm-labs",
+      "postings": [
+        {
+          "title": "Strategic Finance Lead, GTM",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/trm-labs/5baf7bf3-0da2-4929-82fe-cc8f2b2a8ee1"
+        },
+        {
+          "title": "Senior HR Business Partner",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/trm-labs/864da62d-a271-4359-a395-ce096a51fb1b"
+        },
+        {
+          "title": "Post Sales Recruiter",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/trm-labs/2037b1cc-6b4e-46f1-8cbe-b5359e4af734"
+        }
+      ]
+    },
+    {
       "type": "leadership",
       "contribution": 0.8,
       "occurred_at": "2026-08-04",
@@ -63,13 +88,13 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-04-23",
       "summary": "Cyber Threat Intelligence Veteran [person] Joins TRM Labs as Account Director for DHS | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 121,
+  "open_postings": 124,
   "long_open_roles": 40,
   "sources": {
     "ats": "ashby:trm-labs",

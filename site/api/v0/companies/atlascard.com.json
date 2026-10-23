@@ -1,10 +1,17 @@
 {
   "domain": "atlascard.com",
   "name": "Atlas",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "StorageChain Launches Atlas, Its Native Enterprise LLM - 'Keep Your Data Out of Big AI' - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXR4eG5takdIaFZlZjR0UmxUVWgwb1BIQ045cDE1ZUNRUTd5dUZpR0pMaVNEci02MVZtUkNmaDhDZkNYX2tMNmF2N2VkZ3l1NFJqMFlCOVlINTNld3V2SkpVLUNzNEFqMjFMZGFNdHpDR3ctNGlmZDQ0WndLa0FfaW1VX3F4Tk9xRHpTNzBxN0pCVUE5Wjl3N0tGWjA1SVJYTlAtMGVrVldBdk0tUXo4U0hfaVp1TnM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,

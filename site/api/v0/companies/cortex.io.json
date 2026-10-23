@@ -1,10 +1,31 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 2.6,
+  "score": 7.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Palo Alto Networks launches Cortex XDR One for AI agents - SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdl9QckQyZVpJUzMyX0ZfellxWlBXcU1fTXhLVi1YWGQtdVhScG9za1FxUFg5NFUtbC05T010ZVd2dXZUSUlnb243YVpDTk5nZGdwNzJlZDJUU2dhTWNsaTBzbW5aTkdQUWtPNGFjTjYzN0w4ODllWmlkQUw5OGZINkRONjduT09BQkpXN1ZZN2FCdFctVnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFN1bmxCNnA5SE9ucmtSSk9hTk9pWllhQ1FaUmR2UnNnSkp3aG9jRUFkTHUzaW52c2stMTdESXFrdHhNSlBOQm5xNFZoUmlITXRBeWpCYkU5eHpZSGR6c3hrZ2piSlFzYXROeGR2Wmt3MlV1ZmRDVkg4WGppT25RTkstVGczeDJIWjFFdzJ3WEJ0bk9WbWtjV1dTSjVSVC05VkpxSDA3bExPYnlCUFdLSw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - PRLog",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEVEVzJXOTNwenphVVpVVzNKYTlHSF9IdnlCcTVxNUMtdjNXMHJGYjNxTUxXNDVrVWF2V24xRFpsWmZqaUFkNFkwSndFcDVPY3N3aUtrNjNDSWJPNEdxcDkxQ29PTElmNWJiU0VxOTRPM2JlZVZZZmZZQ3JzRDFzT25qLXVWM3VWSXRXUUZDcjl6UHYxS3hieEQwdVdESlNTNmFpX1lNYWxTajBnX1FjQTB6MWNUc0U?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

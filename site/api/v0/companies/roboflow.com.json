@@ -1,13 +1,13 @@
 {
   "domain": "roboflow.com",
   "name": "Roboflow",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 1.1,
+  "score": 1.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-09-30",
       "summary": "Introducing Roboflow Labs: Advancing the Frontier of Real World Capabilities",
       "url": "https://roboflow.com/blog/roboflow-labs-launch"

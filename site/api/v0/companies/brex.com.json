@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.5,
+      "contribution": 3.4,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",

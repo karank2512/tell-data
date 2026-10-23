@@ -1,9 +1,9 @@
 {
   "domain": "starsling.dev",
   "name": "StarSling",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 3.2,
+  "score": 3.1,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-21",
       "summary": "Introducing ci-speedup: an AI coding agent skill that analyzes and fixes your slow GitHub Actions",
       "url": "https://starsling.dev/blog/introducing-ci-speedup-an-ai-coding-agent-skill-that-analyzes-and-fixes-your-slow-github-actions"

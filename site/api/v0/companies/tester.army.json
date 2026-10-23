@@ -1,7 +1,7 @@
 {
   "domain": "tester.army",
   "name": "TesterArmy",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
   "score": 2.6,
   "contributions": [
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-20",
       "summary": "Introducing the Issues Tab: One Row Per Bug, No Matter How Many Runs Found It",
       "url": "https://tester.army/blog/introducing-the-issues-tab"
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.4,
       "occurred_at": "2026-07-22",
       "summary": "Introducing Scout: API Testing Built for AI Agents",
       "url": "https://tester.army/blog/introducing-scout-api-testing-for-agents"

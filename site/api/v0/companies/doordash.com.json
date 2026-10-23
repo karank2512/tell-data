@@ -1,10 +1,17 @@
 {
   "domain": "doordash.com",
   "name": "DoorDash",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 2.6,
+  "score": 4.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-21",
+      "summary": "Hires As CMO",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1h2Wm50SXBrUG8wNzlNdEVma21fZUlieEUxRk1GS1BOZ2VUbWVvOWlqM3lVMmc4NFl2LTBocDBpYldOQS04QTlQdnNQeTM1eU84RHZVRW10VjgxcWVLaFVSUHRsWnItcC0tQlpmbUJKdzIzWk12VDBXd1Qta21XN0VIb3NMSDdHam04OFFZQjFFR09ic1BmTFJ3MmFYOU5rYk1pSFJsWk5tMUVadnpfU0M2elg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

@@ -1,0 +1,39 @@
+{
+  "domain": "warp.co",
+  "name": "Warp",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 4.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbDNINzBlVV9wLWs1a0Zvd1dSMGtvRXRZU09ybnV2cVZFZGN6LU82UkdKZVVFbm5oNS1MN0E0MGxPWnVqX0ZXUUFDUFFnZGZqOWxqemtpZGRWWVlUQ1BfS0hVaTFSR3NkSXc1dEtDbzFRcFc4Y2psSjlxZ1pSdzAxRF9MYjNnRDVTZzdzOVZjUTVwS1NvNzM0NDgzc2pUU3VQLW1rWFEyWkFSdVN5SEdiaUdHc0Q4NWhHdXhWdkFETS0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Former OpenAI science lead launches Warp Science to automate wet labs with robots - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjRvdTJzNlM4cGVHQlNveER5dGpJWFA0ck01WEpPVHlxUEptVThsNnY3U1Y2dHIxZm8xMm4ydzZ6ekNoallxWU5vZXlFVjcwRmt3cGMySW9DTDMxM3pOYTYwQkJRRnNqTUI0Wk5MVVNKa000ME51OFItZ0JwbDYzUHBGUEhEeXoyTGt2TGliQ3RadjdNbzNndUJLR21TMngxMkZKTFF6MlVXOWtaTTFrRlZvT1ZFUms?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Kevin Weil launches Warp Sciences with $215M to automate drug development - Bloomberg - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenRzY3ppQ1RhUVE5SUs3TS14QlpHV2QyNzU4UHNBbmpoaGlJb1RTRjZZTnRDaUM1d1NjOFo1VUtJWExXRkxsRzVHdUdVRkxEN25NYnhxalRuazFCcUVkSDNXNy1oSlo0WndmQ3djNjk0QWJuMUMxQVRUU3d3NGU1ZVpCR2hpcEsyd0ZXN3ZqbmhJYS13eEduVTBvM2dNQTZveFd1c2k0eGNUYVJzSlI4cjg4WGJxTngyenlXc3dDV3BGR2VlSEFkb1VxV0RBRzFPUlhsUXFRbHRaOWJGYlE?oc=5"
+    }
+  ],
+  "open_postings": 22,
+  "long_open_roles": 11,
+  "sources": {
+    "ats": "ashby:warp",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

@@ -1,10 +1,17 @@
 {
   "domain": "firstdelivery.com",
   "name": "FIRST",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 5.3,
+  "score": 6.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Canva releases its first image generation model - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd21jWkQ5TzJTSGZRdl9YQVBqMWNLR3JRME9XX0JiZUJ4OXRFbjZSeWZ3NTlrT3VPLWhQeElXbzJueHAzU1hhUlB6LXFWQ1MyQXFPcUJ1ZU9Vd0ZjbkFmWjY4Y05JOU9KNGk4d3FIVTA5aFhUeHJueG5RVnhwNjgwcUpMQzBiUUc2OEE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Ethiopia launches its first gold refinery, Prime Minister says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakRZaVVPSWhhdkFTdkVTaTBHa21zS0dlRENMRlM3U0lGN0k3RUVUZjZOT0VwRkEwTGpEeFJlWkpCMnNBeUl2Yk40ekN0WkhkejRkTjZnYmI5TjZ3M3JNRmJGT0VUV1R5bkNqVm00VUVieFBVdmh1NnFCT1pMTWlOSWlFckR5RXFvWUZsVTlCTkE2QkFQSEtXRDdIeU12VjlpLV9vZ1k5MWJDcFhMbHlv?oc=5"

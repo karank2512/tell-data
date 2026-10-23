@@ -1,0 +1,32 @@
+{
+  "domain": "replika.ai",
+  "name": "Replika",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-20",
+      "summary": "Replika founder launches Wabi, a $20M bet on shared AI assistants - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFNlR1JKRUZNTTdETFh2M1VpazRHNzNKVzVMc3NxREpOcVBHY2xmZVh0RzZ1ZEhJTjMyM3p4d2ZCdkdOTUhzZGpUYzRFeG1BYm5TLW1JRE9tcWJBcTZpZnRrMDg2OGNEZUJOYmNMNVVOWnNoRllfZHJlQ3RYOVVzeEdMNlRJdzdfNlphV1NBODlMcEh3ZFFDRXpodjZDdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Replika founder launches Wabi, the AI assistant she envisioned 12 years ago - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2FOMzdtSE94dzJhMHI2VU5QT2RWOElMRkpmSC1Ndnk3U0FFNm91dGZmdFBtWG9jSjFjQWZXRHBnWllxd3FMd2FZQ1pLRHhLUVJmY3dVdHViX2NQUkdMR3BZREtrNEQ2clIzYmVtQkhWZ0tBbFNVSGlYU0Roem1OSjZjZXFLU1JVM2JZ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

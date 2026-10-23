@@ -1,13 +1,13 @@
 {
   "domain": "singlestore.com",
   "name": "SingleStore",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-09-30",
       "summary": "Introducing the Query Tuning Agent: Optimize Your Most Complex Workloads",
       "url": "https://www.singlestore.com/blog/introducing-the-query-tuning-agent/"

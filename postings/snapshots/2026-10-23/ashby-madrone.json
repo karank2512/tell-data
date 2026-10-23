@@ -1,0 +1,33 @@
+{
+ "vendor": "ashby",
+ "identifier": "madrone",
+ "domain": "madrone.cool",
+ "as_of": "2026-10-23",
+ "last_polled_at": "2026-10-23T02:36:26.415665+00:00",
+ "open_postings": [
+  {
+   "external_id": "a3820cd6-5af7-47c2-a7e2-112dbfc2add9",
+   "title": "Founding Operations Manager",
+   "role_family": "finance_ops",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-09-16T19:33:09.347000+00:00",
+   "url": "https://jobs.ashbyhq.com/madrone/a3820cd6-5af7-47c2-a7e2-112dbfc2add9"
+  },
+  {
+   "external_id": "fc75ff5a-3ae4-4ae1-ad78-ebf334e327c9",
+   "title": "Engineering Technician",
+   "role_family": "engineering",
+   "location": "Menlo Park",
+   "posted_at": "2026-10-14T17:57:47.877000+00:00",
+   "url": "https://jobs.ashbyhq.com/madrone/fc75ff5a-3ae4-4ae1-ad78-ebf334e327c9"
+  },
+  {
+   "external_id": "fd73e71d-4eb7-45ae-aba6-cf707b885262",
+   "title": "Something Else",
+   "role_family": "engineering",
+   "location": "San Francisco Bay Area",
+   "posted_at": "2026-09-24T20:27:24.057000+00:00",
+   "url": "https://jobs.ashbyhq.com/madrone/fd73e71d-4eb7-45ae-aba6-cf707b885262"
+  }
+ ]
+}

@@ -1,9 +1,9 @@
 {
   "domain": "useallowance.com",
   "name": "Allowance",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 2.4,
+  "score": 2.3,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-22",
       "summary": "Introducing One-Time Cards: A card number you control",
       "url": "https://useallowance.com/blog/introducing-one-time-cards/"

@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -86,7 +86,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-16",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -111,7 +111,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-15",
       "summary": "3 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -134,8 +134,8 @@
       ]
     }
   ],
-  "open_postings": 803,
-  "long_open_roles": 214,
+  "open_postings": 811,
+  "long_open_roles": 215,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

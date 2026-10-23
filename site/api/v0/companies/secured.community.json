@@ -1,10 +1,24 @@
 {
   "domain": "secured.community",
   "name": "Secured",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 2.7,
+  "score": 5.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "CodeCoin Launches Visa Card Secured By Quantum Encryption - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XSVROQ0VCTDFvZTBGMUwyWjJYOGFVQ3gtemc3dVFaZWlvQnQ2TVI0V2pyUUJmNHprMWk0Y0IxWDFmVmF0d0RHRDh1S0N5UnB0MDNoRU9TckRXYmlDUXo5d0tuaTh2eGJ4b0dmUU1IdXdES3MyTkE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "CodeCoin Launches Quantum-Secured Visa-Network Payment Card at IMF Annual Meetings in Bangkok - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUZ3UHE1YV92V2t0WlVqYmtkSzUxSll2SnFNMzV2ZFlYTFZLblh4REdiRXNhWGlLeXVCdHRFVlJmMnRuaWs1T3JDQm9hTHZlNVZvWk1qN05GSW9vcHN1OXMwaTJUU0hFX3pHZi1FcjB0cEpzMlJoZW9uMFRLOXQxRklxZTlVLVBKSGthTXdzSUo?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

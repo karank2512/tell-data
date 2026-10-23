@@ -1,20 +1,48 @@
 {
   "domain": "trydock.ai",
   "name": "Dock",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 24.7,
+  "score": 30.2,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Lake Hour Adds Tequila Seltzer, Launches Dock Club - Food & Beverage Magazine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzNaTVFjWF9RVlhSWXBHd2JEeEM1cjZCa2I0Z1c1eFlTcHhtM3Jpb1JSbWZHZkZHREdyMXpuVkhlUFRPUU5WR1hHX01KSHJHLTFlbG0yWDJnZUpud3lkMDZiLTFOa3JmSUJ0M0ZmNHFBM1dYckJmY2ptWFFsLWsyUFk4eEhxZXA1Wk01NDJCZ2NIanJJNFN4cXpqRGxERzJzY1lHWkZQYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Lake Hour Expands Tequila Portfolio with New Passionfruit Tangerine Flavor and Launches Dock Club Subscription Program - BevNET.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObmpHeVlGVU1LV2Z6LUl2VlNUOGtZYl8tQ053eGp6RDJsOVR0UVRGQ3pLbUpDcDhGalM2TUVUeHlzZ2V6YVdYa215ZTdLWFVyR1V6WXRnNzQ5SVhLRkRNNlNQZVM0WDFyZnljX19HcUJSWl90RUhWQ0l3bkFkRjVjSVJLRG5KYlVKN3JFVVNJVF8xY1lUR3hZZXNxaEs1Vzd0MEdVamtzN2xleDFHRTBRT28wMGRBNVpTUENtRG5XVk1RZmx3MUF6c080dGlwMmQ1VVNaSEMwcHNXRG04MkVNWVFNVlFjczJkLXdN?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Wavlink introduces 15-port Thunderbolt 5 dock with M.2 slot and 140W charging - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHg3SzR4bEx3SHRHSTVvalpuY24tSWRFM2lRbmNfcDZqU2xKSlRrWG5kWncxeVRtelNSRFhxZWE1N3RTUUN6ajBNVDlvUFF0Uk1hWjJVemtEdlMzN2VrbUFpUkk1SGNBeXpDaF9xZW1ocFozVHFzdEFwcGZQbkVoQjZ3cnQ0RnFfWjFJWjh3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Wavlink debuts new 15-in-1 TB5 dock with M.2 slot, 140W PD, and quad-display output - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFJUbUZvel9XR2lyUWhlQVI5ZFpDSkQ5QU04N2J5dG9oQmFrbGp4UVJiUVduMXRCWGhzLWp2aUZpWC0wYkk1emZBdmxzNTFmX2ZBOU5Nd2dMV1BZWlZIWGdSbDBmcV9OV2p5b2lzM2F5TlFPZkNiX0xqVzdabDkyOUlOQ1V1dkxjd2NZRVliRmZkeXAyLUpCRUZQd3c4OEtsRzh4c213X0N3UWFtNEtrTndSREVDNDNITjRuRlZkX3Z0RVdW?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "ASUS ROG introduces a new dock that gives Ally handhelds a console makeover - DLCompare.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVHh2TnRSX0RIbk5DckFmRnlBSDZwOWc3MDl4STV2ZWpLd0c3NHRhVEFFNldndVBwT2hjSi0zTWhDMm1DZXYyZ1NKNEZxNEJiaXZ0TTN0czNmNXhqd3hld0lGZGZFTHlyLW5IbUJ5WjF4UzExa3BqOFNydjhmeWZEbG9HNlZUS0xYQ21xem9JSXQ5Q0NvSlM5dFFMWE5HeDkyVEd6Y1QxV0VBQWVqa1dmVFdwU0h0QUJDVWd3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "8BitDo Launches its Officially-Licensed Xbox Wireless Charging Dock for $30 - Phandroid",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWg5clIzNUJVWFpSX1RaUUkyTDdoaWVCZmhFdThTOGpRcTVNcmZzN094T2tQeUxvT3owMkFhRFVOelB0Q01uUkZyQnlwR3d0MDFLV09idHFULXZOVDFwQ3dReGJLLS1uSS1HQ0xSLUxIWFZzVlJfeFhQbEt1RXJtUllMRk55dXVxMVc0ajJ0UGhRX2JfV1JqdnhKb2lkSXkwZGNhWUEyWktGUG8y0gGyAUFVX3lxTE5TdldvdUFBVGpXWTB1Q3BWT050WFVFanpneGZFR0t5UjFuRDdBckg4dm5Cc25KSnhOY1diMk9FYUc4VWswSDY5VWpHeEZZb3BRTnp5eXNHYnNJSjhybko5OWxRM2RxcFNjdXBRXzFYRktDbVZmS2J6dHBwOVM5VmVUWWd5WDJKd1FNcnE1VU1UajBmcEFySmJOOF9lWFA4M1ZsRkRrbXVIMjAxU3I0VG03eWc?oc=5"
@@ -63,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Mediterranean Spirit, Pacific Soul: Four Seasons Explorer Palau Unveils New Waterfront Hub, M-Dock in Koror - Four Seasons Press Room",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0ydG1NRExROHdwQXVLdXd0bF95LU9CWDM3N2cwN2NLQTFqM3NmUFlwcnFDbnJaNHpQdmZSUkdyWnJpZWRTdWg2SXl4QURyUWVyYVFpbG95THBrQnNGOVZFd2FGUzZqM083SnhOSkVoeWZ5WGFpTU5vZkJsemxOQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "New Asus gaming handheld dock debuts with Gigabit Ethernet and 4K 144Hz display out port - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnpxb29vZkFvNFJLWThZN24xZXhhQTlBc2ROZzZBU1U0WWEtWUhpbllQZk1HZV96N0Fld1NhUUNjVFBOeS03MkRmcFVxWkNfVUpQdkpoY0c5WkZHQWpuZ3l5SHl4ZTlSOExIa2tFa0dELTFsZy11dU5BVEQ2bjgzUkpSeml3Y05SRFFjbkhIUVNqdFk2MUtST25SLTVFVnZIclZ3MDhLM2xmNFZOcUViQWZSLTI2OUJVSHNaNnozRElsS1FUTlQ3UU95MGkzQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Frontline: DJI Officially Launches Dock 4 – Industry-First 25-Second Automatic Battery Swap Technology Unveiled - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MzM5RWVpZTd4MHUtSnZzREcybXh6M2dQRGM4d0M0T3hvRGxvSkxDRzZJY1VILXIzTTdUZTlEQVhNUm1Kcm9iSDcwc2FKb244NWI0?oc=5"

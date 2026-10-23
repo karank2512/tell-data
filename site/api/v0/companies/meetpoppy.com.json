@@ -1,16 +1,44 @@
 {
   "domain": "meetpoppy.com",
   "name": "Poppy",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 13.8,
+  "score": 19.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Six-year-old poppy seller from Bradford launches annual appeal - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQdkU0SkxDblRvbG04d0xYX3g5a0VLOXJwTjdvNlhLMjF6b2M0ZG9DU3dZdS1HT2pfT2pDVW9PSWFqYzBETGJhV2hfMkRINFpua2EzVkQxbHNCRXVIUUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Escape from Playtime Launches, New Direction in Poppy Playtime Universe - DLCompare.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTVlpSktFc2dyYjB5UlZpTmFNM1owOUM2eXhfM3F3anBGMnZfUl9oSEhlVFRvVHFPR3MwNl85ek5zM2lBZUUyVGdXSmVYdUZ1UlBtbk9tTkZoNVVLcVBhTXdUclc3YVZiYXgxcW9KTXI1SUhkNHJ4TEFsbl9iUmd6NE9hbklCRzVwXzhlWFdldDVBLVNpNjNpb0tpb3ZWTEZIYy0xMkJ4alNMREYwOElrVWl5RDA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "National Poppy Appeal launches at Manchester Victoria station with new 'Spitfire poppies' - Manchester Evening News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVU5ZHBFbjdzeW81TVdPRi1yMWFGRDJnQmc2eXJ3V3NmUXVoaGF3OTRFRlFJeGprUVlQS1JuWDF1RUVtTGhjLWhWelg3ZFZWOWJ2TW1ycVFjTWZhUnBOUnFTSm1Vb0Z2OWptd2lsV0dTSTZManptUHdicjRQNkdESVMyZTJPRm0zdG1mSFJLamVjVVI0Z3ptbFJXMHhRUVIwVDlKRGZPdldsRnQ5RmtBSNIBtgFBVV95cUxQY3M5Q1pkTDlaRnRVeUt6bHFSQmp3RXU0SkVRZFlYcjhvU0l4bkxaUWJueGQ2VzJocEM5b09YSGJ5MnRHcnVJXzVRZTZoQUJVX2ZrNGFUOUQ3RzZMQWI5UWw4aG5MRExKRmZDZENYUjZ4S21ldThBZmZpOHVTdHFOc1RjYXMzcmg1eFdRNS1Obks0ZVNPTUNmU0Vnd3pIeXFiaG5uUGRRMHhDM2l0UGJENjVUb3ZIQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-21",
       "summary": "Poppy Playtime spin-off Escape From Playtime launches in Steam Early Access - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOazE1c05WZXdYZm5yUWsxbWFoQ3AxTVdHTEdPU0hsYUcwcUo5WGNzM2pUSUtxOTkxLWhFTVBkcGVjamdndnVCblhaR0ZDQWFzN2F3cTNCUmNjbkNuLWdPT0NjS2t1bTBwQm90dzNVM2VlZEpGZjVIMGtfRWhKNlgxNHNkckRieVNmeGVzNTBVRUoxUGNiOTBIbnNjOGV1NEUtVGhuUjl1XzBtMU5oTzJOMGpWVFRXMnF5VXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "Stourbridge Poppy Appeal launches - Black Country Radio",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUpmLTZBRlEtNEV2U2lMMVVsNHlJUkRuOFUyMlN1VUtmWDJBMDVpTFhVa0lzVXZKZHAwS18yak1DVVd4V2dWOEdOdWNudnNDcXk1cV9xUWRTN0JUOXlsanY2R25WMjNzdHowYWkwVnJESTJhRjI4NmpzMmJoaFZhb0VSLVQyM1o2TEdjTGlDMlRFTV9FeXc?oc=5"
     },
     {
       "type": "launch",
@@ -35,21 +63,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Poppy Ackroyd releases new single \"Liminal\" - Northern Transmissions",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVBmV2Rtc0JOZW5XdzRxZzdpczAxWkZ2WVNkZC11dTZLQ2xaSkZZWXhvWjlIcnJqczd3Sll5YWM4RzRBdUpVbm5xa0ZkNlptSTZkVmYyMmQ0SE11eVJMQ1UxRWVmQ1JRbXl0b1dodnQyYV8yYTY5TzV0d194OTlFVXNR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Poppy launches her own ‘Fortnite’ musical mini-game - شبكة تواصل الإخبارية",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PWU0wVE9ydVl2TVdjOFZ5ZVd5bTZIYmRpZDE0LTdYSWpMZUw5NUZOdGJKLVlWUG5WT1VmeGtRRnBwNTJfcFd1eXVBVnRWYnl5d1ZF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Poppy launches her own ‘Fortnite’ musical mini-game - NME",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFcxQi1FUmNTcXFHZ0tYNUZESWhaZ1JSbzJIS0p3SC14M2VwNjJhUndWcllMNFJvWnh4YUx6NG1tRmdzRTFLLXF6S243R3lEUngxTFdKdzZJbG95M1NPR3VTaVFubWZqQS1yWThzTHdYaEgtdm44d0J0cnpTOVYyek1hd2w4anhvdTRXYnFpaEk0endQMlF1OXZHNkFzOEZjVG9QOEhSeGdEUE9iWXREcVpGNA?oc=5"

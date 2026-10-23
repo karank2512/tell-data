@@ -1,9 +1,9 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 11.1,
+  "score": 10.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Introducing agentOS 0.4 & Hosted VMs",
       "url": "https://rivet.dev/changelog/2026-10-12-introducing-agentos-0-4-and-hosted-vms/"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-09-24",
       "summary": "Introducing JWT Authentication for Rivet Actors",
       "url": "https://rivet.dev/changelog/2026-09-29-introducing-jwt-authentication-for-rivet-actors/"

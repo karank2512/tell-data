@@ -1,0 +1,32 @@
+{
+  "domain": "theessential.com",
+  "name": "The Essential",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 2.8,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-20",
+      "summary": "ARIS Launches Process Context for Enterprise AI, Reinforcing Position as the Essential Platform for AI Ecosystem - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX25Cb3FUSE9EQTV4dFdNM2hRX2JzREZ0X2VYQU45MnhZbnh6Q3V1MVhRdFdmYV9lUlRaOWJaUmZRSDdrNnVmVkVsOWhCMUJhQzhwOG5hRDlpaDdwam5JbjkzX0RVLW9BUHlwQU52RkpMSmRqbUQ0REIyQVdPUGpVTmJVT1g5d3FKXzRfaUc4TG5kc2dwTHBXU1FqNjU3WmJSMXA0X2xNOA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-16",
+      "summary": "Australia Unveils ASD Essentials, Expanding Cybersecurity Guidance Beyond the Essential Eight - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSy1hR0JzREVDMTBHZ3ZXUGtQMGpLVWQ5cm96NHBfZEwtQXlDaHZRel9ONlVOSjRJcTF1cmpRQWNIa3lsaHItYllNZ2lvMXE3WW9FRW5oYlp2bm9lZWxkQlhMazBpcWdhS0NVWDBIdU1oWUduclluaDZ0Q2NhM3JOQ1RINUxIdGJILURHT0syWGdEbTZYRFp1Xw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

@@ -1,0 +1,78 @@
+{
+  "domain": "optery.com",
+  "name": "Optery",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 4.4,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.9,
+      "occurred_at": "2026-10-23",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/optery",
+      "postings": [
+        {
+          "title": "Lifecycle Marketing Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/optery/6f473f96-be64-42b2-8111-c42cb089e3db"
+        },
+        {
+          "title": "Lifecycle Marketing Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/optery/98fdaad6-0745-4220-85e4-0293f078a62b"
+        },
+        {
+          "title": "Lifecycle Marketing Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/optery/8621e54d-9b71-4669-92a9-65d217bfd899"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "marketing",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "5 new marketing roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/optery",
+      "postings": [
+        {
+          "title": "Growth Marketing Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/optery/7fc6c60d-d22b-4fc1-a904-378d854e4b7a"
+        },
+        {
+          "title": "Growth Marketing Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/optery/2dee4d88-4c4c-4c76-82bc-1e8b29d87136"
+        },
+        {
+          "title": "Growth Marketing Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/optery/192c767b-f667-499b-b950-d6988f71c782"
+        },
+        {
+          "title": "Performance & Affiliate Marketing Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/optery/82031c94-1be1-41a8-95a5-c2286446a1e5"
+        },
+        {
+          "title": "Performance Marketing Manager",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/optery/6daec779-73af-49a5-835c-fd45437c6795"
+        }
+      ]
+    }
+  ],
+  "open_postings": 12,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:optery",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

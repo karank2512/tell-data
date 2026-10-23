@@ -1,9 +1,9 @@
 {
   "domain": "trace.so",
   "name": "Trace",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "CTGT releases open source tool Concordance to trace why AI agents make inconsistent decisions - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEVWaDlzRlhCcGZzeFhOaVRRbG53amdFOWw2M2h5UXpacC1vUkZEdEtVbzBockV3SkpneDR1bU8yMHBvVTBVeGNVdkkxR3Zpd29DdXkyU0Utamc1REFaeHJzTDJ3Wm8wbGg5ZHRRREk0WXZPdWZBdnhEaVM2VWsxN0FTbXBhQk5oV1haaFNOcldnTnRFcE1JWWZENktVOHh0ekM3YTBfcjBPd3FOMjhnMXBfTXI2UmhIUlpNRkRHZw?oc=5"

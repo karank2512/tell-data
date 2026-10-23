@@ -1,9 +1,9 @@
 {
   "domain": "cypherhq.io",
   "name": "Cypher",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-05-27",
       "summary": "Introducing Cypher Chat Agent: Manage & Spend Your Crypto by Texting",
       "url": "https://cypherhq.io/blog/chat-agent/"

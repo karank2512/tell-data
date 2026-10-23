@@ -1,10 +1,35 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 8.9,
+  "score": 11.7,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-23",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/benchling",
+      "postings": [
+        {
+          "title": "Leader, Majors Sales",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/benchling/e3c5a5f9-66f4-4763-864f-569caa5bf2c8"
+        },
+        {
+          "title": "Leader, Majors Sales",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/benchling/419cd5e2-4bac-44cf-a808-3a240d877a7e"
+        },
+        {
+          "title": "Solution Consultant - R&D",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090"
+        }
+      ]
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -14,14 +39,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Science Foundries, a new way for scientists and agents to work together - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcFZPcC12amgzdFc2dW1BaHdjaUk5MnA0aGVMOVZlT0JiaTNoLVNSMUZIUnJpMUNTcmN4TmdLekpySkE2dC05akEydHFjS3pfTTNDNFdCUkRhWGtmeG1mQllNR0lqamo3cjJQd0ZxTTNPV1NGVWREWFRlT3BRVklwM2tRdkV1bndmanlreGFxT0drUjJSTVF5bm12OVpYOWZIbFFIZVdRY2l6TUNXQjdfY3JQcndWaXpHbzhWMDhqNnY5dXV1WWtSeWZoM19xcGx0aGRaOEoyakhheHFJcHc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Direct Data Share, Closing the Loop Between the Lab and the AI Data Cloud on Snowflake - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNEtvcFJzV3BvRmp0cnZrSHpCdmwtNE52VzdxaWlKMnZFclJVbjZvZnNoSS1yM0VyT1pad0ZKckhwUlZKRzExNkpmQWRnWUtjZXhiSmhJYlJORjhpLU9mdml1TVVlMmp2YzQxS3YzMEFhZWZBTkZUMFRnY2RlWEdEbWNqLXQzcndhX0dEU3FlNGc2c3M1dHRXSjkwMFozWlQ0U3A1M2YxdXA5Ung0cW90Uk1RMmVUMmZzc2d1S0NWTWNvNklaLTZ2R3JzZVBsQ1A4WTN3UlNBRW5Mai12UnVtSlpNMExrcUc2WldfT1hhckIyUQ?oc=5"
@@ -62,7 +87,7 @@
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
-  "open_postings": 61,
+  "open_postings": 63,
   "long_open_roles": 14,
   "sources": {
     "ats": "ashby:benchling",

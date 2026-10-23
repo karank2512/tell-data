@@ -1,9 +1,9 @@
 {
   "domain": "trytoku.com",
   "name": "Toku",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 6.3,
+  "score": 6.2,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,7 +34,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Toku Ltd. (TKU) Launches Makimoto Flows for Speech AI Pipelines - TradingView",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVdnXzhwMjVOTldEd0hLZ3VBX0Z1eHpEOTQtSDh2enRIZFZtbGw4anl3NmF5VnNBeTVXVHc3YjBNWHdjQUtqWFQtT3VmUFZSS3NVNTAwSXQ0eHYzNGV1Z1VDTFpWQy1lR1JCb1JBZUdsXzNtMEVQMngxZ1FpVUlGSG1qdFItV053dWRmRnVZQzNtMjNuaVAxajNTdmJNV1lKSW1KTldya3lSMVVVZkxqVnE5Tlp1NmpHZnpKbjhXOA?oc=5"
@@ -47,7 +47,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSEV6X3M1UV9DZ2hFemV0MFUyTnRsWWRYbWVwYTM4TVl3ZzhTQmhvYWJUUWswdnpoQlNYSmtUS0xBYnMwMmg4a0x1NEtiNEhlV2I3WXpQUUtELWdHeHBQOUYzQk1nU1lfVy13OGNBQTJlSVJzWjZHVUhGaHNSakIzOVpPbDUzMG8zeGtRbGRfemxPbVViYWFiTmR6S0NYNk9PWjNsNWJ6cXoxZnZoSE11d3VGOTBCR0NIVlRnUlFXM3p2R2tvMVo5ZkpyVjZwbXdldXpTOFJqd3Q4dFVDblVrX1R1bnY3VHBObDdSdnhkemR4UTNMenM1UzlRY2dIYUk1NzUyWkUteG1BTGxKZnBMbXlRNA?oc=5"
     }
   ],
-  "open_postings": 27,
+  "open_postings": 28,
   "long_open_roles": 8,
   "sources": {
     "ats": "ashby:Toku",

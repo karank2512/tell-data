@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 21.1,
+  "score": 20.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 7.7,
+      "contribution": 7.6,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -89,17 +89,24 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWQyVEpibDNwdHpLLUhpZGtQQ0VqOGpPNkd5X2RVQ1ZYUWhsU0o4QzFrendYMzBuQktXRnp2R0dyT2NRejF5SFVldlhKNnA2X3Y4Tk0xQzFMWTBzR0RIQ3BBbVhNRnBSSDhpaGZGLU9uZ0lJZ3Q0R3V3cDRDMTUtbE9BUkZ3OTduWlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - Yahoo Lifestyle Canada",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXota0ZLTHRMZlZWeWV5aFFBX0toZDJ0ZXFIZHdpeEZNWGl4emJEZE5uT0ZJUzdJcTg5TG5DODdaUFR1QUNkNVlSd3gwTHpjejNDZTN5WDB6QkZpSzVHTy1oNktjakFvMkZKNkpLcDlVVWE3Qk5KY0ItcXRyWXhDUHVSU3hqZ0k?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-20",
+      "summary": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3l4d1o1a3h0Rkdpeng1T2VHTnZ6WkQwNWZSSUY2THNrR1pTZW5mc1RCUGZMRmpiWmZsc285YXp6TEVkYW5GbFdLZmxvRTUzeXhScjRBTHNsZUdpRHRKVlM0U3pDeExZZkRZVkwwOGpDU0d6bDJTczhHS2dlbGFUZHZueXBMRThWZFU4OA?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -135,13 +142,6 @@
           "url": "https://careers.airbnb.com/positions/8304183?gh_jid=8304183"
         }
       ]
-    },
-    {
-      "type": "launch",
-      "contribution": 1.4,
-      "occurred_at": "2026-10-20",
-      "summary": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3l4d1o1a3h0Rkdpeng1T2VHTnZ6WkQwNWZSSUY2THNrR1pTZW5mc1RCUGZMRmpiWmZsc285YXp6TEVkYW5GbFdLZmxvRTUzeXhScjRBTHNsZUdpRHRKVlM0U3pDeExZZkRZVkwwOGpDU0d6bDJTczhHS2dlbGFUZHZueXBMRThWZFU4OA?oc=5"
     },
     {
       "type": "launch",
@@ -183,7 +183,7 @@
       ]
     }
   ],
-  "open_postings": 234,
+  "open_postings": 238,
   "long_open_roles": 61,
   "sources": {
     "ats": "greenhouse:airbnb",

@@ -1,9 +1,9 @@
 {
   "domain": "conductor.build",
   "name": "Conductor",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 21.0,
+  "score": 25.1,
   "contributions": [
     {
       "type": "leadership",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-13",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzBxUjgzNXdWdmRBVDczU3ZRY3I4RW9vWlBqZ3IxdEFwc29oUUFsYlJRc0RkYWhPajRmQWVub1RoOHY3aFRVUmxoUy1xd0c4aDlqUEp5ank1QjZBcWhhdVFmYUpzUnRKRVFMS25ZNTEySHplQ2ZfZDF4UHB6cHRmYXppQ2xLLW5XU0FtNEZscWo1UzQwRzI5TWxjWWt0Nm8wTmIwZ0dIZF9fc0FIUHowS2NWQ2hCZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Is Rockwell Automation (ROK) Fairly Valued As Its FactoryTalk Conductor AI Platform Rolls Out? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVlTaks5cmpRTXAtV3Q3TE1QNEd1ZzVHcnJ6VU0zRmRXbFdDQ2pEUkF4ZW1USUFrQ0trSmE2OEhDN3gwVjctNEZ3cUNacE1wNzNzSEZKY1lqbTN2UEVwZ2xCd2sxU21SdUdQX29jMGZMS1JTQ1FGR0pic0tzbXJiU0ktdDJfSkl1SHZXSFJ3VEdpcm9ZLVZpeWY1dVRzZ3QyTElhaQ?oc=5"
     },
     {
       "type": "launch",
@@ -42,17 +49,31 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "Rockwell Automation, Inc. Introduces FactoryTalk Conductor, An AI-Native Orchestration Platform For Industrial Automation - www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWnpVQXBNMEtLb2ZONHVuTnpHenRielFoeTdDd3FEVWoyTm9SOVRkVHNLdDBFaG0xNS1mUVhENGwyVzAzajJ4VWlnVmpWNTh0UG4yTUNzR3p5ODhNQzh3RC1qRzZLYi1jZXk3Y2dOSk9MSXNmRlNXX19DRWxiRU9pd19JczAtQUcxOXlPUk5na1VxR3NVUTVVVF9ic2h2X2RMOVJDZG90am9fQy00R0hZdnJpRGVCMDlSaHFnMGZDN1duT3luNHM0VEMyTmlsOEpBdGtCQzlnWGRpZWhjcW52bk1JMA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSmZweG4ydldjRUIwcC1qRUs2dXUtd0ctbWMzQkpFR0Jlc2FCVk5aaXB5MjRWLXFrTVhHbWRRZUVud1k4Zl9nUzQya3lpdUpFclR1c3RYaWx1Z0JkQmM1bWRWbTVjZVhidFVBcEpDTjlYeS1ST1BJc3NFU1hPSUVjeU5xc2RVekwwalhJTkdvM0R0VWhKOUJvR0ZfWWtRa2ZWQW5PUDJsMjZMMVQ1eDRQNV81OEY2dlpsMU84QjhDZHdBeE9SbklCTXlpN2xrRWt2bXZSb05CX3NlS2RwMjA3ZG4yRGtSMUpfNnRVcTBxdFZXQU9kYWtrYTNlN2o2bVdYVTAxa293?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation (ROK) Unveils AI-Native FactoryTalk Conductor, Targeting Q1 2027 Launch - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd1o5MEhOeVhxd0xBQ2VWTEVoRjg5TkNVeDVaRXhTQVRvRkgwQzRYbzhOS3NJWEFlSHdSV2FPaDhQWXhiWFFIeGQwRXJWUDRJdDNRZEpWa3VTT0FUZ3RPU1VXN2VSdVZaNW1DV2EtalFHaVdWOFFNTzk0bjNBNTJkVnpxX1ZEMjFoMC1nc0hia1ZlRTVycW9jZWJQcUxNVmFIVHNQTEVxUE5sTWtLYUoyRTc2Wk1EeE14M0JlbnhqcEs2MlJuRUYwcFFlVG1kZmFvSWN1SU9McnhXQkJnbXQ2THpmVUo?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMzYxRWhVX1Jib0ZKd3ViR3RFTDdiWjllY2UxMDVyUlAyU2FkZHBmQW8xU3R5cmxLcDJrcGJfMlJneTNpWmk5MWZqa0tRbGtYVDluQl9neEtoZ0R5TV8wZGxSTmJPVzE1bXZOT0tXTU5HSE5Cd1ZLOXhIV2dpY25KR1J6akRRNWY2cFE4TTNlR21kVEl4eW1BQ0lpRkEwTmo3MHZjRTBhUElyZ05TRk95TG15aVBLYUw4cVN2U2NIYlNCblNSejAyVU1oOXlBenpBc1ZvRVJPV3JPT3ExNlJMLXpYUXh0WC10NXplY2ZMcHlLdE55Ul9xUjRnYkViNGlGN1BrbmFR?oc=5"
     },
     {
       "type": "launch",

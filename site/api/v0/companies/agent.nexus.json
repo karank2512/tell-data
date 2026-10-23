@@ -1,9 +1,9 @@
 {
   "domain": "agent.nexus",
   "name": "Nexus",
-  "as_of": "2026-10-22",
+  "as_of": "2026-10-23",
   "profile": "default",
-  "score": 37.2,
+  "score": 39.6,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-12",
       "summary": "Nexus Select Trust Appoints [person] as MD and [person]",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEk1LVllam1MdFVwdl9XQjZtTE5iNzRPdnFtYmdRa0taYlhyaUMtaEpyQkMtdFJkX0xaclV4RURjdzk4WFI2Z0h5S3BQVVo0b2k1MVBvZGVwNlk4WDBuN3lrNVRNZm05ZGNXekt3VkMxSzctWDB5a3VmYml4REtvYTZfcUFVWGZCQjRLZlBYWEVGdjN3dUtHd09acFlsQjhYSzJLd3NQZnZBcHAtZXdicUxpQ01YVE00OGdZ?oc=5"
@@ -29,9 +29,23 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Cognizant - Launches Cognizant Ai Nexus Modular Operating Layer For Enterprise Ai - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOTRvcEZFT19XckpsMjI5d2l5cTNOaGVIV3psTVdUOHRwQnVMM2czYmZqN0VYYjB1bFBETU1ENWJkdFNaMjJ2TEh6SGc2SVlSM3EyYm5YQWVrV3N2RmYwMWY5b0txaFVCMkRlYWQ0TVQxY2p6SllMT2hnOW5lQ0pVOEJvOGJXa0llQkpyVXRWUVgtSTBpby1FaDB2TU1mMXpFM1VuV1ExU0FiYTF0dmZsMGxtTXhmT0JaaHVobFdhdkZ0Y0RXcFJfVlVwSDlzcnA5QkUzUkhSdWNDODhZNnFDWl9Hdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "BigBattery Launches NEXUS 2: 16kWh Off-Grid Solar Battery at $187/kWh - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQklWN1BvMjdRcDZiUm9FZ3FBRU5oOFlZZUplQXZ4Y0dQQ2xmVm5FRU96UXk3VVFHS3ByamFDSGpxWkxwSTVoTnNtMEp4R1QxTEkxZlZHOXdoVmZNR1poSHVuS3JWWENCZkk1aWU1NWQ4QnhNcUkxWXM4UDVzVTN2Zi10Q1I5b1hqY0F6M1otV3JxQTVf?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "BigBattery Launches NEXUS 2: 16kWh Off-Grid Solar Battery at $187/kWh - mykxlg.com",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQM3lSWkQ1SG5oQ1NoNVZkSkdWMWJtNGtUVjRHUWx1aGRiWUR6M3lkNC1heGw2a2IydktuWW5yUWllTUZhRUgtamhoemdYTFhXV1BvRDJLZkVWT1UycVkxdm5WRjdrbUFOV2NHU2lfTVlmcElOam1vWHZXeXpZakszdXRDeVpQVFEtRnVNSlY2b3Y0MFg2bXVYYWlvWUx1cXVTaHhBc043UXVjOE1uaFBqeU5KSXNKSUlwb1ctOVo5dTE1UU1pbjJ0SDhaVmhaYU96SmpDOGFVQTN5bnRySnh3YXJyWERaUk1RamZVOFlkcnd4dTFqNTlZNWgxVjFiTGxD?oc=5"
     },
     {
       "type": "launch",
@@ -49,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "GSSI Launches NX Control, a New Mobile App Solution Built on the NEXUS Platform - Lohud",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYTNWX2ZzdGdKeW5pNnAxMWJRajRBRjVPOWVWWnkxdGZrWHVNM25ScU5NU3NsVnpBSXNlMm5mT3d4UGtBZXQ1TEJVSllDUUNLR05EdV9FSUVDZGV2Y2pJUk9XSHFnV29kbU8wUW9RYTdQYl9wNldLRnpEMlF4RjJzTWk0Y0ZxcmZicEE4V2stc0JTc1g2eTdPb2J0Z3kwaGRZXzBhbXFyTDhhdXNRZTFmb3RxNUdCT1Z5QklVc0lWUXh4TTN1NlM4?oc=5"
@@ -182,14 +196,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Pacific Defense Launches NEXUS, a Converged C2 and Electromagnetic Warfare Mission System - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYjZETm5UMTJYbWVkd29FeWtkS3RBWTJURHFsQkx5WS05dVFLNm1xU1pWam0tYmlycHZHY0NJVmVnQ1dIT0hUdkwwMlBsMnVQcHF3LUV4MUwyU0toZVdndUJrTS1MY3BlNDVpWkZ6amxhcjA3eUY4Wi02X2oyTnpqVUplWTg2WjlXZWN4MUpQVUFSOGQ2UnljaXdzZXVmRzNNbUcwZGlEcDY3QUtaQU52a0xIZE1uZFdpSGR6dU1heXlxRUp4MnBuX3lpWGtnRnFwVEN5RVR6a0Q1SlAyVlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Skechers OG Anunoby SKX Nexus “NYC Blue” Releases October 16 - JustFreshKicks",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoT2FxZnhfTGNucTcybHpmV0g0RXp1OGJ2N3ZmV3RodVNNVDFINnRsMUh2ZmNsanhOZXFUSXA0bGZCUTc0a3UxMngwMlBoQTQzOV9xVHZLdkpSZDE1clFaWC1mcmVtUmRIMGVOMmdSa2FkYU9u?oc=5"
