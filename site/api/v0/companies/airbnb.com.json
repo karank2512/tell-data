@@ -3,7 +3,7 @@
   "name": "Airbnb",
   "as_of": "2026-10-23",
   "profile": "default",
-  "score": 20.7,
+  "score": 27.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -57,6 +57,36 @@
     },
     {
       "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 4.0,
+      "occurred_at": "2026-10-23",
+      "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/airbnb",
+      "postings": [
+        {
+          "title": "Lead Business Process Improvement",
+          "posted_at": "2026-10-19",
+          "url": "https://careers.airbnb.com/positions/8279606?gh_jid=8279606"
+        },
+        {
+          "title": "Senior Compliance Lead, EMEA",
+          "posted_at": "2026-10-23",
+          "url": "https://careers.airbnb.com/positions/8318103?gh_jid=8318103"
+        },
+        {
+          "title": "Senior Compliance Lead, EMEA",
+          "posted_at": "2026-10-23",
+          "url": "https://careers.airbnb.com/positions/8318152?gh_jid=8318152"
+        },
+        {
+          "title": "Senior Compliance Lead, EMEA",
+          "posted_at": "2026-10-23",
+          "url": "https://careers.airbnb.com/positions/8318155?gh_jid=8318155"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "customer",
       "contribution": 2.5,
       "occurred_at": "2026-10-16",
@@ -83,6 +113,13 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Airbnb introduces new cleaning rules to lessen the burden on guests - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFNRZmNRSjZrVlVMVUo5SUdjdUxENVR1WWpCTXFtRUgwbjlVQlpSdDhLQndfczBJWnhkcXBNYURYZDJGMUlXeEFqYmh3N0VHQl9lSlJFTDNHMURqaXZQakF6MHpUNzBMRmlXN1lBY2k1Y0ZGUFpQTDNyaWduN3BuYUtiUVJHanVqdXA5LVFIelFQR0tvVkpZTGFFSHBjQlR2cmI2Y05NWWdabVVHaVhMZm43U2g?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb introducing new rules for hosts - 95.5 WSB",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjZDcGN1eEhycmJVX2ZpLWhta2NkLVJXSnk1OHlXVkFncmdhMWJUNkxqZ3k2TTNCUzBNVWVyTkMzOWpLZTVzekxRcGVpVlVLSFhINFBGM0pYZHZCZjg5VEVfSUlyNEdYYXNYODVlTUdYSnl5Y1RTY3FXbnFLaXU0dUhPNUc2NXBhRTRyZ1JVR05mZXREdFBHOURxd1RjWGPSAbMBQVVfeXFMUHhOalBTY1JMZFViR2dYblJaTVFZRGk0OXl1bjNWYzd0YUpLR0ZKYmVPdWI0dHZLcDcycFNyTDFKbE9fZjVGdmlXZUhsRVNiQWRCVWJGQVZCaTZjZEFsZzhOMkVoYmJlT2Q0OXBXNVNIVElJT0xwS0dfNVM5enk1N1M0c3dTUXEycHdCSjFwSHdmUWNjM2pEdDVZOTkxZ0trLXJad1gyZXdmTndEa2xPN1JoRzg?oc=5"
@@ -100,6 +137,13 @@
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - Yahoo Lifestyle Canada",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXota0ZLTHRMZlZWeWV5aFFBX0toZDJ0ZXFIZHdpeEZNWGl4emJEZE5uT0ZJUzdJcTg5TG5DODdaUFR1QUNkNVlSd3gwTHpjejNDZTN5WDB6QkZpSzVHTy1oNktjakFvMkZKNkpLcDlVVWE3Qk5KY0ItcXRyWXhDUHVSU3hqZ0k?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - People.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0g5bDUtVWNabWhkSXlZRlhQRWI4R3d0OUVMZnFjTklsM0w4LVJ0NmM4eXNFanBSaXZRS2xMYkpLb2J6UDZ0NVRuYnQwT1VQWGFTT3RRS1VHMkNrZzM0N1ZQMzgwWE1QTmVUV2VaUGk4cG10emVoLU5jeUduSWpfdzJJazBzekY2cllyb1N3WGtuclBNVUQweElCUmpiUGtaTXpXcnk0bU5maFlqNjlv?oc=5"
     },
     {
       "type": "launch",
@@ -183,7 +227,7 @@
       ]
     }
   ],
-  "open_postings": 239,
+  "open_postings": 243,
   "long_open_roles": 61,
   "sources": {
     "ats": "greenhouse:airbnb",

@@ -3,7 +3,7 @@
  "identifier": "emburse",
  "domain": "emburse.com",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T08:34:22.357624+00:00",
+ "last_polled_at": "2026-10-23T15:31:47.054313+00:00",
  "open_postings": [
   {
    "external_id": "0a63caec-f95f-45f6-afba-98b8a37d98b7",
@@ -20,6 +20,14 @@
    "location": "Barcelona",
    "posted_at": "2026-04-17T16:45:59.775000+00:00",
    "url": "https://jobs.lever.co/emburse/0f5ea09c-d68f-4b9c-8d30-097806bf1522"
+  },
+  {
+   "external_id": "1e739e01-d00e-4fb0-b239-1c586757d3d6",
+   "title": "Senior Account Executive",
+   "role_family": "sales",
+   "location": "Italy",
+   "posted_at": "2026-10-23T11:30:32.860000+00:00",
+   "url": "https://jobs.lever.co/emburse/1e739e01-d00e-4fb0-b239-1c586757d3d6"
   },
   {
    "external_id": "235a76b5-7088-4365-8ef5-491ecbc8a542",

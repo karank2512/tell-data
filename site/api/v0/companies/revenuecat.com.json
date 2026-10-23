@@ -3,8 +3,16 @@
   "name": "RevenueCat",
   "as_of": "2026-10-23",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Introducing Google Play Billing & RevenueCat Handbooks",
+      "url": "https://www.revenuecat.com/blog/engineering/google-play-handbook"
+    }
+  ],
   "open_postings": 19,
   "long_open_roles": 4,
   "sources": {

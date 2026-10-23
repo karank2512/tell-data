@@ -3,7 +3,7 @@
  "identifier": "airbnb",
  "domain": "airbnb.com",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T08:34:21.508809+00:00",
+ "last_polled_at": "2026-10-23T15:31:47.480023+00:00",
  "open_postings": [
   {
    "external_id": "6757302",
@@ -1726,6 +1726,14 @@
    "url": "https://careers.airbnb.com/positions/8288417?gh_jid=8288417"
   },
   {
+   "external_id": "8289954",
+   "title": "Senior Analyst, Frontline Performance",
+   "role_family": "other",
+   "location": "Ireland, United States",
+   "posted_at": "2026-10-16T19:05:50+00:00",
+   "url": "https://careers.airbnb.com/positions/8289954?gh_jid=8289954"
+  },
+  {
    "external_id": "8290025",
    "title": "Senior Manager, Content & Knowledge Architecture",
    "role_family": "marketing",
@@ -1916,6 +1924,30 @@
    "location": "United States",
    "posted_at": "2026-10-22T23:06:18+00:00",
    "url": "https://careers.airbnb.com/positions/8316130?gh_jid=8316130"
+  },
+  {
+   "external_id": "8318103",
+   "title": "Senior Compliance Lead, EMEA",
+   "role_family": "gtm_ops",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-23T14:32:28+00:00",
+   "url": "https://careers.airbnb.com/positions/8318103?gh_jid=8318103"
+  },
+  {
+   "external_id": "8318152",
+   "title": "Senior Compliance Lead, EMEA",
+   "role_family": "gtm_ops",
+   "location": "Dublin, Ireland",
+   "posted_at": "2026-10-23T14:32:30+00:00",
+   "url": "https://careers.airbnb.com/positions/8318152?gh_jid=8318152"
+  },
+  {
+   "external_id": "8318155",
+   "title": "Senior Compliance Lead, EMEA",
+   "role_family": "gtm_ops",
+   "location": "Brussels",
+   "posted_at": "2026-10-23T14:32:32+00:00",
+   "url": "https://careers.airbnb.com/positions/8318155?gh_jid=8318155"
   }
  ]
 }

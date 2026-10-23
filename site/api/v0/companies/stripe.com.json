@@ -3,7 +3,7 @@
   "name": "Stripe",
   "as_of": "2026-10-23",
   "profile": "default",
-  "score": 11.6,
+  "score": 14.1,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -58,6 +58,13 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Stripe launches Treasury for AI agents - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzhzRUQzcFV4NHVrODdoTXBmQkpHUlpzOTFWWC1kT2JWQXZuckpFTjlUNDNfSUF6MEM3eFhGZ1ZqdU44cFQ3Ymk0MXNTZFBBZmZjQWx6d2JSY2pwd3ZCcmhNeG5iRXFxN2xRaVlmODlacm4zRXJhOUloTFNYc3Z6SzRPSl9pNlVQX1doUDBQNVM5ZTJGODJCdlByTUtadEZFY3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
       "occurred_at": "2026-10-22",
       "summary": "Stripe Launches Treasury for Agents, Streamlining Startup Finances - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnJkMHJfWHphOEhmNEdVR0lMT3NvZ1VyTXlBTmRUb3U0RUU4UTlGUEtyUVMxMmg3dmpLX2R4R2xrTS1ILUI0QkF0LW1sTDJNRURmdmJzeVA1SmNVaEJMd1lfMlRaNUxSTWl6ZFUwSjVzdkRpRGdEYmZMSExRQVZPZjlJUDZOcnloemw1UU5OMi1YZkxJcDNuYQ?oc=5"
@@ -82,6 +89,13 @@
       "occurred_at": "2026-10-08",
       "summary": "Meta unveils AI agent standard with Walmart, Stripe - digitimes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUtOZ2w1czQycHlOcUhOb2lTc2JxVjhRSDlMMlgyeEtuM0dZeXVGbXhBTkJ1cVRoWHBOVGRnTkVkMEpLU3BzSEpTaWFtd1djaXNGR25fMy1XdXVOMTFPTWZQV01DUy1fd3V2a3ByMl9SRXRfQ3hVZTctdVFjS2piTnNha21jaUt0ZVZXOHBQVWQzaEU?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-23",
+      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSl8tdXcyS0FkN2lKb3BTTWNldEh5aUoyckFyR3pNWDhMTmdvX2UwMnNYRzFMRXdmMlJfSEVKbmUwaUpXd1JFZ2docEtTM1ZyQlhsWHptRnI2ZmE1U05RM0o2a0lRbWYxSUsza0ZYY3o0Ym9Bd001b2MxNHBSM0FObG81cXp5TlhLTGROWFlvNEt3RHFPby1xaWlrRlpWOXdzR2RVaDU3X3hka2dfWTkwNDg3d1V0YVo0YzhKY05meURYRlA4OUZJRkh2VjVVb1VGbkZrYTVUbE4?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -134,7 +148,7 @@
       ]
     }
   ],
-  "open_postings": 812,
+  "open_postings": 813,
   "long_open_roles": 215,
   "sources": {
     "ats": "greenhouse:stripe",

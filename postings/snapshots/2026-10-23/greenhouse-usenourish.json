@@ -3,7 +3,7 @@
  "identifier": "usenourish",
  "domain": "nourish.com",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T08:34:21.508809+00:00",
+ "last_polled_at": "2026-10-23T15:31:47.480023+00:00",
  "open_postings": [
   {
    "external_id": "4007342008",
@@ -724,6 +724,14 @@
    "location": "Atlanta, GA",
    "posted_at": "2026-10-22T15:26:35+00:00",
    "url": "https://job-boards.greenhouse.io/usenourish/jobs/5461092008"
+  },
+  {
+   "external_id": "5462165008",
+   "title": "Executive Assistant",
+   "role_family": "other",
+   "location": "New York, NY",
+   "posted_at": "2026-10-23T14:16:30+00:00",
+   "url": "https://job-boards.greenhouse.io/usenourish/jobs/5462165008"
   }
  ]
 }

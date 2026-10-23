@@ -1,0 +1,38 @@
+{
+  "domain": "veriff.com",
+  "name": "Veriff",
+  "as_of": "2026-10-23",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-23",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/veriff",
+      "postings": [
+        {
+          "title": "Senior Account Executive / EMEA",
+          "posted_at": "2026-10-22",
+          "url": "https://www.veriff.com/careers/position/8827518002?gh_jid=8827518002"
+        },
+        {
+          "title": "Senior Account Manager",
+          "posted_at": "2026-10-23",
+          "url": "https://www.veriff.com/careers/position/8908470002?gh_jid=8908470002"
+        }
+      ]
+    }
+  ],
+  "open_postings": 13,
+  "long_open_roles": 3,
+  "sources": {
+    "ats": "greenhouse:veriff",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "why_not_higher": []
+}

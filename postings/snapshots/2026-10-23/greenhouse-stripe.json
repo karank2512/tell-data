@@ -3,7 +3,7 @@
  "identifier": "stripe",
  "domain": "stripe.com",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T08:34:21.508809+00:00",
+ "last_polled_at": "2026-10-23T15:31:47.480023+00:00",
  "open_postings": [
   {
    "external_id": "5416444",
@@ -447,7 +447,7 @@
   },
   {
    "external_id": "7543868",
-   "title": "Software Engineer, Internal Systems",
+   "title": "Software Engineer, Financial Business Insights",
    "role_family": "engineering",
    "location": "Bengaluru, India",
    "posted_at": "2026-01-28T03:58:55+00:00",
@@ -6380,6 +6380,14 @@
    "location": "London",
    "posted_at": "2026-10-20T11:54:44+00:00",
    "url": "https://stripe.com/jobs/search?gh_jid=8299647"
+  },
+  {
+   "external_id": "8299649",
+   "title": "Head of AI Startups, EMEA",
+   "role_family": "exec",
+   "location": "Dublin, London, Paris, Berlin, Stockholm",
+   "posted_at": "2026-10-23T10:01:24+00:00",
+   "url": "https://stripe.com/jobs/search?gh_jid=8299649"
   },
   {
    "external_id": "8299651",

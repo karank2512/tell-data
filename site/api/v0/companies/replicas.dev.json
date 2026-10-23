@@ -3,11 +3,25 @@
   "name": "Replicas",
   "as_of": "2026-10-23",
   "profile": "default",
-  "score": 1.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "Introducing Replicas Review",
+      "url": "https://replicas.dev/blog/replicas-review"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Introducing GPU sandboxes for agents",
+      "url": "https://replicas.dev/blog/gpu-sandboxes"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
       "occurred_at": "2026-09-24",
       "summary": "Introducing Replicas for iOS",
       "url": "https://replicas.dev/blog/replicas-for-ios"
@@ -15,9 +29,30 @@
     {
       "type": "launch",
       "contribution": 0.7,
+      "occurred_at": "2026-09-08",
+      "summary": "Introducing role-based access control",
+      "url": "https://replicas.dev/blog/role-based-access-control"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-09-07",
+      "summary": "Introducing code intelligence in every workspace",
+      "url": "https://replicas.dev/blog/code-intelligence-in-every-workspace"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.7,
       "occurred_at": "2026-09-04",
       "summary": "Introducing fallbacks + forks",
       "url": "https://replicas.dev/blog/fallbacks-and-forks"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.6,
+      "occurred_at": "2026-08-23",
+      "summary": "Introducing harness-agnostic analytics for engineering teams",
+      "url": "https://replicas.dev/blog/harness-agnostic-analytics"
     }
   ],
   "open_postings": 0,

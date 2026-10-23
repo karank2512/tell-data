@@ -3,8 +3,15 @@
   "name": "Tremendous",
   "as_of": "2026-10-23",
   "profile": "default",
-  "score": 1.7,
+  "score": 3.7,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-23",
+      "summary": "promotes [person]",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ21PY3I3STZ5eVF5V0JLSHlXQTM4V3JLV1BnNlA4ZjVYMXE1Y1o2Z1NCMUVfTld4cTQ3SnNSdi1QUXAtV21rRzYzNi0zcC02UWExR0F1THZ1VlFCMW5obFptRVZBOFY5Mk11NGktM256RFQtTnJJS2VIT2RGdVlSMGFNZUN1dDZpbG4yVzR2dXRUcExaWlhKT2wwUVVaZFNKM3JFN3ItLUJzcTlRTUN1WHVSWWRwUnFBWW1ORQ?oc=5"
+    },
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",

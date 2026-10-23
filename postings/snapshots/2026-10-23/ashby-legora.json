@@ -3,7 +3,7 @@
  "identifier": "legora",
  "domain": "legora.com",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T08:34:21.846485+00:00",
+ "last_polled_at": "2026-10-23T15:31:44.700161+00:00",
  "open_postings": [
   {
    "external_id": "0002076c-d001-470a-b308-1df68e66f661",
@@ -532,6 +532,14 @@
    "location": "Tokyo",
    "posted_at": "2026-10-01T03:54:28.595000+00:00",
    "url": "https://jobs.ashbyhq.com/legora/3aa07833-d767-4a8c-a7e6-cbe95e3d1d3f"
+  },
+  {
+   "external_id": "3bed7504-619d-47a7-9a61-6ec343ea2142",
+   "title": "Senior Talent Acquisition Partner, Engineering",
+   "role_family": "finance_ops",
+   "location": "Stockholm HQ",
+   "posted_at": "2026-10-23T13:24:24.238000+00:00",
+   "url": "https://jobs.ashbyhq.com/legora/3bed7504-619d-47a7-9a61-6ec343ea2142"
   },
   {
    "external_id": "3c47c9ac-4bcd-4342-85f9-1af0be729ae7",
@@ -1073,7 +1081,7 @@
    "external_id": "75a7ce15-8c1f-4fa8-9444-b53b3ba43d0a",
    "title": "People Operations Specialist",
    "role_family": "finance_ops",
-   "location": "Stockholm HQ",
+   "location": "London",
    "posted_at": "2026-08-24T08:57:16.479000+00:00",
    "url": "https://jobs.ashbyhq.com/legora/75a7ce15-8c1f-4fa8-9444-b53b3ba43d0a"
   },
@@ -1852,6 +1860,14 @@
    "location": "London",
    "posted_at": "2026-08-24T12:46:51.013000+00:00",
    "url": "https://jobs.ashbyhq.com/legora/c2def7d8-f236-4a78-bdb9-5616900dd746"
+  },
+  {
+   "external_id": "c3c6e7d1-b4e8-488e-9481-d0e1fb996761",
+   "title": "AI Automation & Enablement Engineer",
+   "role_family": "other",
+   "location": "New York City",
+   "posted_at": "2026-10-23T15:25:10.268000+00:00",
+   "url": "https://jobs.ashbyhq.com/legora/c3c6e7d1-b4e8-488e-9481-d0e1fb996761"
   },
   {
    "external_id": "c50d8b6e-bf0b-48c8-b34f-1d16ecbdb0cc",

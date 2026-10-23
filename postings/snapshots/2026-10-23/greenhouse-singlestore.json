@@ -3,7 +3,7 @@
  "identifier": "singlestore",
  "domain": "singlestore.com",
  "as_of": "2026-10-23",
- "last_polled_at": "2026-10-23T08:34:21.508809+00:00",
+ "last_polled_at": "2026-10-23T15:31:47.480023+00:00",
  "open_postings": [
   {
    "external_id": "609602",
@@ -68,6 +68,14 @@
    "location": "United States & EMEA",
    "posted_at": "2026-04-21T21:42:07+00:00",
    "url": "https://job-boards.greenhouse.io/singlestore/jobs/7839324"
+  },
+  {
+   "external_id": "7863285",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "Hyderabad",
+   "posted_at": "2026-04-30T08:21:55+00:00",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7863285"
   },
   {
    "external_id": "7866479",
