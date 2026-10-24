@@ -1,9 +1,9 @@
 {
   "domain": "poly.app",
   "name": "Poly",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 16.1,
+  "score": 15.9,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Kwara Poly sets December deadline for unclaimed certificates, introduces ₦2,000 monthly fee - Western Post",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0xyWU5SNlhTMzlvM0Z4WW1JUUlhaEMyZmdEU1lGS1JyTmJTekFZekExNzg0WUt3NXFmVi0wZFhYYkFYV2dkUE5QcVNZaFJ4Znd4a0psakNLMWI2dzNQcHdXUnk0ajNtV2lrcXA0anpGYWIzUG8xY2YzYV9mb1RacVlqWjJMQ3NYS21Mc0swNDRYRkV0UmpseDNnbW9nQktQejBVZmNQWDZwZHpuV0YzWWVabG5XV05RUWZxOXZxTlAyQ2c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Poly MGM Museum unveils ‘Luminous Brilliance’ exhibition with nearly 180 pieces - macau daily times 澳門每日時報",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0pGR1dYcXRqZ3FmR3RKcElxQmZHSVBDRzdWaTB6SFJKN3Z3dGpJU1JPeVdZRzEtcEZ0eGt2Tm5WVE94MUltUFh0ZmdKZDFOcUM2b0ZqTGRWcmtINkllVm52bEJFenBYeWl2Z0F3QV8yNW50cDN5cmVvM1FYNUhOMnI4U181R29WeVRORjNNSkF0YnZ4RmxtdHJMbjJuT3FvU1JJSTRRSGJsc3lCeVlJZk1xMA?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,13 +1,20 @@
 {
   "domain": "slash.com",
   "name": "Slash",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.7,
+  "score": 13.0,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "TD Bank U.S. Launches AI-Powered 'Credit Assist' to Slash Commercial Underwriting Time - FF News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXlJUURNWkZwOEc0WGczdmt2TlFnNGxueW95VkZlQjl3SDJEU3pwTlJqVTNnYTRMN3FXbFpzbGRQWmdLQTlIWjA1U1c1NWROYW8zcWhQYTZoRlZISjN2amNkN2hGOUtqTkUzbnpFRVRYLTAwckdrUjR1YlJyUlhxT052QzlYSzdNZVhtcmxacWtqUnp1SnVVWF9NRFVEQWM4MHRUd3FOc0F0Mm1PS05zRw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "PQ unveils smallest cabinet in 20 years, promises to slash bureaucracy - Global News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXcyYU55ME8xVlk5QlFYcW05SDRsUzkzSUtQNnViUWtaTFRibE9OLTFBczNDMWR5QVpVQjd4M3lDXy1INmRjeE9lUmdWUlk0ajFEdmdpOHlEcFhBZGJFRG5oa01pUjBhb2FXeVZFRkJsTmZuNjFUZ3lBVTBrTjNjREU3Y0tBOFFVekpIeU4tQU5SdjE2dXNjN0I0RWZjS3ZZUXF2ZEN2X1BsMDlwY1E?oc=5"
@@ -63,19 +70,19 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-17",
       "summary": "Two AI Launches, Two Different Ideas of Financial Work",
       "url": "https://www.slash.com/blog/two-ai-finance-launches"
     }
   ],
-  "open_postings": 17,
+  "open_postings": 16,
   "long_open_roles": 10,
   "sources": {
     "ats": "ashby:slash-financial",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

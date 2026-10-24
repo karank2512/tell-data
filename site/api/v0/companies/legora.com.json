@@ -1,9 +1,9 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.6,
+  "score": 11.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -37,7 +37,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-13",
       "summary": "[person] joins Legora as lead legal engineer",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGdvamFfUHpBNThaZnFhTnFqcUZ0MDJSdi1VRmlieEVGTHM5aXFjNGcxRk9ReHlKSk1fTzktRzM1cGpFRlBPTktxUW1QTGxRakVGQTlQTXlvRWZNMGR0UzB0OWEtRnJOSmRjRFhHNUIwWFBHNUZMN0NfRGgyLXRQZEkzbw?oc=5"
@@ -73,7 +73,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-21",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -96,13 +96,13 @@
       ]
     }
   ],
-  "open_postings": 322,
-  "long_open_roles": 98,
+  "open_postings": 311,
+  "long_open_roles": 96,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

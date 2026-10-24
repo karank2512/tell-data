@@ -1,13 +1,13 @@
 {
   "domain": "sunflowerclinic.com",
   "name": "Sunflower",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 25.2,
+  "score": 25.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.9,
+      "contribution": 23.7,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $20,000,000 offering, $14,902,982 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1876339/000187633926000003/"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

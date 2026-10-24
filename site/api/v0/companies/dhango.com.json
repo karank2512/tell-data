@@ -1,13 +1,13 @@
 {
   "domain": "dhango.com",
   "name": "dhango",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.9,
+      "contribution": 11.8,
       "occurred_at": "2026-07-17",
       "summary": "Form D: $2,484,386 offering, $2,484,382 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2144495/000214449526000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002144495",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

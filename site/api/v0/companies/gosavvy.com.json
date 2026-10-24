@@ -1,13 +1,13 @@
 {
   "domain": "gosavvy.com",
   "name": "Savvy",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Savvy Sliders Introduces New Value-Driven Menu Options Starting at $1.99 - Franchising.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ3lnZGRHNkJLMWZlODhHVWdKelpvM0p3UWZjMTBCYjlSTzFVb21CaVRRN2dCMjZ3YkpmWm05LW9VMzNTcEJqZFB2ZjgybW53QUl4NHhQNFVlRVFxTnZISzdqOWl0TGROMkduZ1dUY1RCVU1HSGJFVUUwVnVURkdDV2MyVGJGSXlBM1NDdjV2WnM2R1FvRmhGQWx5bjNiMG1NLU5EOHV5N1JYaHNQTTJncFpCZUN4eWZBckYzX9IBvAFBVV95cUxPQ3lnZGRHNkJLMWZlODhHVWdKelpvM0p3UWZjMTBCYjlSTzFVb21CaVRRN2dCMjZ3YkpmWm05LW9VMzNTcEJqZFB2ZjgybW53QUl4NHhQNFVlRVFxTnZISzdqOWl0TGROMkduZ1dUY1RCVU1HSGJFVUUwVnVURkdDV2MyVGJGSXlBM1NDdjV2WnM2R1FvRmhGQWx5bjNiMG1NLU5EOHV5N1JYaHNQTTJncFpCZUN4eWZBckYzXw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

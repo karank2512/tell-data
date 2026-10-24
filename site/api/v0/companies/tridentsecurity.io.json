@@ -1,9 +1,9 @@
 {
   "domain": "tridentsecurity.io",
   "name": "Trident",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.7,
   "contributions": [
     {
       "type": "leadership",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Trident United Way launches $2M campaign to help working families - WCBD News 2",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWo0R3o5d1J3SW1FbTI3SWhLMmRZcWM4bVRqWFhfSS1ZWUF0dU1ZbHZRSGtIdWNrQVZFelIxelkwQl9mcFVpQWdPWmcySnRoeWY3NXJCdll3VW5ZdmRTTTZoY0wyVjZpeG02MzltSGFVWXFBdmJPSThNQTk4RmNaMHZvaWxKNzUxSEdvMnhXRzNzYTFVQzZONWc5Z1RtbWdqMld5Y1kzY1pBMEXSAbABQVVfeXFMTVRDZUE0TVBua2xYQnBxSnMwRVRFQTRiZXByUkVkM0VmQThrNmdkSTdLeDRXXzRlcTVWbmRVc01WanFNR2JqUi13LTZLcTF6d2hWdFhGRDl1eWdZRF9mUGNzdkNMUE5NcFpuekFUZENDX2dZZk9fV3RINzFHU3BzdHd0dmVLa0U1bEJtTHNQSzh0blpET011YVplTU90RnpYcXNVSjdzRmFnMHZkdTFWSEM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Triumph Trident 800 debuts in India priced from ₹10.95L - NewsBytes",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUt1Q2s3ck1McjZRSGhVeHRxRnBpX0xUZG1jRDFPejFBU2tjdXJFeUljVHdpZ0FqVXN1SzZYUkdHMmdiTHQzMk1YM1dleEptRGI2RmFzTHFXZjA1eVhyWWRfcElXeDRxMm1HZzV6cEVidTRiNXRlaDBaY3I4bzRkb0FaazhrVTQzZ3l6TnhkSHpzOTgyWF9BWWtuMmxtbkFM?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

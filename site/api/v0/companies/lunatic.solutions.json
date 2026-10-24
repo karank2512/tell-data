@@ -1,13 +1,20 @@
 {
   "domain": "lunatic.solutions",
   "name": "Lunatic",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Nightmare: The Lunatic, releases its standard and collectors edition - DLH.net",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0hJMzlfMktIczVGU0JLVWRzTUdsN01CaFdaMlZQQ2VrSUJYX09zM0tjTk1Rc1plaFF3cEthMFlVb1FqR1J4UVdmOGVGUFpkeVJrSV9aUmlsbFZtOTdKWndVeDN6a3NzTHc2Sk1TdW1kNTV4UjNUYVFJOGNTRVBnVXhqNllXTlJIUnRBRE9ScFNnQkxWWTd2Q2Vhc25GVmRDdFRYYWdrM20?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Fast-paced 2D roguelite action RPG, Nightmare: The Lunatic, releases its standard and collectors edition on PS5 and Nintendo Switch! - Games Press",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1RzOUN3VEdCSzYwTG1GWEdTbFN4cXlLZUN2VVc3NERteTB6eXN4d3RLeHh1VXFFS3ZSdTk1Z1VoV2RiUHhhRGZGSDF6VDBBQ0t6Y29iWGxObjBQZEEtOG15SHpTNGw1OUZIUFJpQVk3SmN3VU43UEVVUXI3R1U1b0F5UjVLMTBDMnM3Z0lEekdDY0JUbHJQdTVUdGZIQQ?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

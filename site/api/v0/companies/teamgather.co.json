@@ -1,13 +1,13 @@
 {
   "domain": "teamgather.co",
   "name": "Gather",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence - Space",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjI2SFl4UDBrSG9CSERUekIzLW1VWnFoNHpIOWRuZkJIaTFMcHhodkxxaXB6R1RVM0EzRmFRaVJ4UjNlX0J6U2RHSnJFdk1ENU02ejBtTC1LZk1xSWtoT00zRDV5OXFKd3VXc1A3S2gxM21peXl4M3FwMDJaREdrazl5TnAzZVh4czUtUXllWEJ5UzNoeWhrdzJQMVd3bzBCMmhuUlF5azZWMHlGc0dHQ0pwQVoxRWFveVlPV2ZaOFF0SVBDQVdVUmh2Y1RnM3AxS0Ew?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

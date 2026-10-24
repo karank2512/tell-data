@@ -1,20 +1,20 @@
 {
   "domain": "newstoryhomes.org",
   "name": "New Story",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 12.3,
+  "score": 12.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "The Wolf Among Us Remastered Debuts New Story Trailer, Pricing Set - Console Creatures",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSDFaSThNN3hzRmg0VmljMFZPcVkxYXFUN0dQMHhuZ2oxWm16ZE94dXZENk5TY2tSc0hTeW83U3NSS2tlc284OC1nNEZpazlTVkpsZF9LVmpodHZSMWE4VTItMHlrTUtxamt0d2FkWDgtczlTbTI2SUpRZXpKbEdadzl3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Fabletown needs YOU! The Wolf Among Us Remastered debuts new story trailer - GamingTrend",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakg1ajVkSEVyZ3c2QU11a1lrLXY3OW1reTY5S3E1WHJ1M2hJTDVWMmxSZGNuNHhVSTFDMlJLbVJ6VzNZY19CZDJuVjE0ZkhlQ1lXX1Jfcm40RFhyZkQ3TFJZMjRVUmhKZDh0LVZvdTVNTkdEQmNCSEZDQnRvbEF3d0dGd3lEZ3Y2YjNDU2luSnAxX2YyNE9Uendya3dQdVdKdVBaUk93?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

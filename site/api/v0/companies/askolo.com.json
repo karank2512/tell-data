@@ -1,9 +1,9 @@
 {
   "domain": "askolo.com",
   "name": "Vapor",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.8,
+  "score": 7.7,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "UVJC Launches NovaJet, First Commercial System Built on Universal Vapor Jet Printing Platform - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnNLcjhPelloNWE5UFNNdHV2VEs3ZFlaM2lkWGI1OHBRcTFuS3NnYXpIR3V0TGV0a0czR2h0NVhMTEpESnFIcDJ1aEpaNG1RYTRaalVHaDBoeGRmemtGZ0Q5RmxSNjg1eHI0QWtTN3BCa0NWM2RFYVpzN2RUR2VPWjR1ZFBKOXM4d2lLNE9ONURVX1pnMGtIMlU0SEZzZG42c2tXQThpcVZKclVHUjNEQ3lTR0x1LVZWS1hxZ1AyeEQwMUNGZmVSVG95U2VuaHdLZG5sR2FXWmw2cnM1MjdmUkRIYw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

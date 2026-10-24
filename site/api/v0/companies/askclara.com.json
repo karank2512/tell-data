@@ -1,9 +1,9 @@
 {
   "domain": "askclara.com",
   "name": "Clara",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Matt Braly Unveils The Gothic World Of ‘Clara And The Below’ At Animation Is Film (EXCLUSIVE) - Cartoon Brew",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFJOdXlEV0MwTEJHV1JQbWl3M3RSQ1VPanF5MC03V1VFYzVZMkdOZXNMRHJDR2NneTVlX2YtSnUwLXF1QUZERjF0UEt2QUJ2SDhxc0hCYmJDN3hob2RjNDRPaUhuRzlhTXRzVXdTb3JnblpzYXpMMXU4bXBUM1g2ZEVncURQYm1la29hag?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

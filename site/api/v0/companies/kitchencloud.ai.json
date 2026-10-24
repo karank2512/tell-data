@@ -1,9 +1,9 @@
 {
   "domain": "kitchencloud.ai",
   "name": "Kitchen Cloud",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 21.0,
+  "score": 20.9,
   "contributions": [
     {
       "type": "funding",
@@ -14,7 +14,7 @@
     },
     {
       "type": "funding",
-      "contribution": 10.5,
+      "contribution": 10.4,
       "occurred_at": "2026-07-22",
       "summary": "Form D: $250,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146306/000214630626000002/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002146306",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

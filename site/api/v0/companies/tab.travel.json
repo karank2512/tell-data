@@ -1,10 +1,24 @@
 {
   "domain": "tab.travel",
   "name": "Tab",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 3.9,
+  "score": 7.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-23",
+      "summary": "Tab appoints [person] as BDM for Wales",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEI4QXBtZVpWb2RudF9fc250VUh1UGxvdmpCal9LM0FMdkhsQjJhOWd6ZXNSUk1PcEZVMUVER3N6M3FSQUJJTm5PRVZnRFFyQ0J0bXdubFlRR09ROUdMTm9jR1lZWnpoc1dlbDJtZFFUV1hfVWVXd3FoYi0tODhTN2ZtRXJMODc2TUt6MTQyc2RiZnRLVzliQVVTT2s2bzdZOUFkYWxmMHd3N3hJeWRZSGVjcDk?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-22",
+      "summary": "TAB appoints [person] as BDM for Wales",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaDlfNl9MdmhpMVBXUGVfOVlYMk1uVnhTNkVpRV9hR0JUdHl3ZnBzSi1OekJhaDlvMXFvLXdUMWdrd0hQZWhyMUExZ3FoV1pYQzVEWFU5VDhRd01Wc1J1R0VXZmtHU1Z4Q0hrMXRDV2VDV0NBX0FOeDdYNVVSOTNRQ0VORzVMbUtZS0E?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

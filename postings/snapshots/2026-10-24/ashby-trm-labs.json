@@ -1,0 +1,913 @@
+{
+ "vendor": "ashby",
+ "identifier": "trm-labs",
+ "domain": "trmlabs.com",
+ "as_of": "2026-10-24",
+ "last_polled_at": "2026-10-24T15:26:11.489489+00:00",
+ "open_postings": [
+  {
+   "external_id": "051d74a6-983e-4cec-81f6-840f6d057de1",
+   "title": "Tech Lead, Staff Software Engineer, Data (US)",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-09-17T17:53:00.603000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/051d74a6-983e-4cec-81f6-840f6d057de1"
+  },
+  {
+   "external_id": "0546e8a4-2617-4b0d-b5c7-b7e1c34a1efe",
+   "title": "Account Director, Public Sector (DHS)",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-06-11T19:17:02.108000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/0546e8a4-2617-4b0d-b5c7-b7e1c34a1efe"
+  },
+  {
+   "external_id": "05e0bd56-3b47-41b8-85fe-b883c1b62d2d",
+   "title": "Sales Recruiter",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-08-28T14:01:12.735000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/05e0bd56-3b47-41b8-85fe-b883c1b62d2d"
+  },
+  {
+   "external_id": "0a5bf195-298a-4aaf-a00b-f25248f8ae71",
+   "title": "Head of Corporate FP&A",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-10-14T17:09:59.822000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/0a5bf195-298a-4aaf-a00b-f25248f8ae71"
+  },
+  {
+   "external_id": "0b8546c0-39ba-44db-aba5-3425bcb2e68d",
+   "title": "University Grad – Product Engineer (2026-2027) - Los Angeles or San Francisco",
+   "role_family": "other",
+   "location": "Los Angeles, California",
+   "posted_at": "2025-09-30T22:54:16.789000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/0b8546c0-39ba-44db-aba5-3425bcb2e68d"
+  },
+  {
+   "external_id": "0cb635c7-de7b-4770-bcda-b3320a23df9f",
+   "title": "Deployment Strategist, Eastern Europe",
+   "role_family": "other",
+   "location": "EMEA",
+   "posted_at": "2026-07-28T16:57:53.746000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/0cb635c7-de7b-4770-bcda-b3320a23df9f"
+  },
+  {
+   "external_id": "0efa86f5-3b07-40b5-92e4-7f0df54e6639",
+   "title": "Senior Data Scientist, Full Stack (Brazil)",
+   "role_family": "engineering",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-05-25T17:22:22.726000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/0efa86f5-3b07-40b5-92e4-7f0df54e6639"
+  },
+  {
+   "external_id": "0f8feeff-b2fd-492b-9f43-a24fcd6c72eb",
+   "title": "Senior Software Engineer, Full Stack | Product Engineering",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2026-08-31T21:26:00.810000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/0f8feeff-b2fd-492b-9f43-a24fcd6c72eb"
+  },
+  {
+   "external_id": "1167ee73-5d20-40c0-9f0d-cdf6f1e8988f",
+   "title": "Cloud Security Engineer",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-01T20:39:39.318000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/1167ee73-5d20-40c0-9f0d-cdf6f1e8988f"
+  },
+  {
+   "external_id": "13abf238-3475-4227-91cd-ac470973080f",
+   "title": "Data Engineer, AI Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-07-22T19:49:58.310000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/13abf238-3475-4227-91cd-ac470973080f"
+  },
+  {
+   "external_id": "16660699-5a97-42da-a8b7-9b91f81cf199",
+   "title": "Head of Product Design",
+   "role_family": "product_design",
+   "location": "North America",
+   "posted_at": "2026-07-15T21:44:31.214000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/16660699-5a97-42da-a8b7-9b91f81cf199"
+  },
+  {
+   "external_id": "178c4bed-36ac-4705-97fa-48ed08d5876d",
+   "title": "Senior Software Engineer, Frontend | Product Engineering",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-04-10T22:27:32.236000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/178c4bed-36ac-4705-97fa-48ed08d5876d"
+  },
+  {
+   "external_id": "1eff4d33-7cf1-4682-a548-dcc4abd913f3",
+   "title": "Backend Engineer, Agent Tools",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-26T19:57:58.343000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/1eff4d33-7cf1-4682-a548-dcc4abd913f3"
+  },
+  {
+   "external_id": "1f9b3bac-2ac3-4b74-b5b9-4ea1de8a347b",
+   "title": "Lead Instructor",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-30T21:49:55.876000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/1f9b3bac-2ac3-4b74-b5b9-4ea1de8a347b"
+  },
+  {
+   "external_id": "2037b1cc-6b4e-46f1-8cbe-b5359e4af734",
+   "title": "Post Sales Recruiter",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-22T18:55:30.068000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/2037b1cc-6b4e-46f1-8cbe-b5359e4af734"
+  },
+  {
+   "external_id": "20f7a5b3-94c6-4b9d-9e4a-002aa2ef6906",
+   "title": "Senior Data Engineer, Graph Analytics",
+   "role_family": "data",
+   "location": "North America",
+   "posted_at": "2025-11-06T16:56:24.250000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/20f7a5b3-94c6-4b9d-9e4a-002aa2ef6906"
+  },
+  {
+   "external_id": "2229e90e-4caf-4c55-a5dd-e5c9820bc51b",
+   "title": "Recruiting Operations Specialist (Contract)",
+   "role_family": "finance_ops",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-10-15T01:54:10.036000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/2229e90e-4caf-4c55-a5dd-e5c9820bc51b"
+  },
+  {
+   "external_id": "230550e5-e2ea-4949-af68-e572e5cf7069",
+   "title": "Senior Software Engineer, Data - SF",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-09-11T19:13:15.430000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/230550e5-e2ea-4949-af68-e572e5cf7069"
+  },
+  {
+   "external_id": "23df8728-7b04-4340-a767-07e8ce3c23dc",
+   "title": "Senior Data Scientist, Full Stack",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-05-25T17:19:12.409000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/23df8728-7b04-4340-a767-07e8ce3c23dc"
+  },
+  {
+   "external_id": "27e3cc81-2162-426c-81d2-b5184c4f6bca",
+   "title": "Senior / Staff Cyber Threat Response Advisor",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-29T22:13:28.922000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/27e3cc81-2162-426c-81d2-b5184c4f6bca"
+  },
+  {
+   "external_id": "288d5c63-7585-41bf-b0a6-68e635e31e97",
+   "title": "Senior Software Engineer, Data - US",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-04-07T17:56:17.936000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/288d5c63-7585-41bf-b0a6-68e635e31e97"
+  },
+  {
+   "external_id": "28d3523a-a910-4f9f-af72-31313a4e84ff",
+   "title": "Senior Software Engineer, Database Engineer",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-09-23T19:53:33.270000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/28d3523a-a910-4f9f-af72-31313a4e84ff"
+  },
+  {
+   "external_id": "29b027c2-d576-4dfe-b4d9-aa397573a919",
+   "title": "Ecosystem Marketing Lead",
+   "role_family": "marketing",
+   "location": "United States",
+   "posted_at": "2026-06-11T21:43:24.605000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/29b027c2-d576-4dfe-b4d9-aa397573a919"
+  },
+  {
+   "external_id": "2a42c549-793f-4b2b-83c8-b87a94730e31",
+   "title": "Senior Product Designer",
+   "role_family": "product_design",
+   "location": "United States",
+   "posted_at": "2026-09-29T00:06:50.258000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/2a42c549-793f-4b2b-83c8-b87a94730e31"
+  },
+  {
+   "external_id": "2a784630-702d-4b49-a033-5cbd0d9c8a94",
+   "title": "Data Platform Engineer - AI Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-12T21:54:38.085000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/2a784630-702d-4b49-a033-5cbd0d9c8a94"
+  },
+  {
+   "external_id": "2ea1ad50-1bd6-4132-b76a-620c8a0d6835",
+   "title": "Global Investigator (Triage)",
+   "role_family": "other",
+   "location": "EMEA",
+   "posted_at": "2026-10-13T13:34:37.494000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/2ea1ad50-1bd6-4132-b76a-620c8a0d6835"
+  },
+  {
+   "external_id": "32fa63e4-56ee-4d76-a24e-c91dcee2bad0",
+   "title": "Account Director, Central Banks & Regulators (EMEA)",
+   "role_family": "exec",
+   "location": "EMEA",
+   "posted_at": "2026-10-23T05:16:57.914000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/32fa63e4-56ee-4d76-a24e-c91dcee2bad0"
+  },
+  {
+   "external_id": "33af3036-a865-44cd-a609-76f91d3c203d",
+   "title": "Senior Software Engineer, Data Infrastructure (RDBMS)",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-09-22T21:24:52.338000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/33af3036-a865-44cd-a609-76f91d3c203d"
+  },
+  {
+   "external_id": "34ec2f41-d2d1-4197-a97a-f833b9898453",
+   "title": "Deployment Strategist, Public Sector (Regulators)",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-04-30T23:39:20.258000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/34ec2f41-d2d1-4197-a97a-f833b9898453"
+  },
+  {
+   "external_id": "3500a697-6f75-42b9-ac08-a74fabf99558",
+   "title": "Backend Engineer, Agent Tools (LATAM)",
+   "role_family": "engineering",
+   "location": "South America",
+   "posted_at": "2026-10-14T17:39:26.408000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/3500a697-6f75-42b9-ac08-a74fabf99558"
+  },
+  {
+   "external_id": "35c47911-2fdf-4c36-b5bd-5c037195017c",
+   "title": "Account Director, National Security",
+   "role_family": "exec",
+   "location": "Washington D.C.",
+   "posted_at": "2026-09-11T21:22:45.759000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/35c47911-2fdf-4c36-b5bd-5c037195017c"
+  },
+  {
+   "external_id": "3706989d-27e6-4c02-99a4-e0d14ce16abf",
+   "title": "Senior All-Source Intelligence Analyst",
+   "role_family": "other",
+   "location": "APAC",
+   "posted_at": "2026-05-25T13:01:05.942000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/3706989d-27e6-4c02-99a4-e0d14ce16abf"
+  },
+  {
+   "external_id": "39efd8aa-7d91-46e9-94a9-e16aaf8a8f0e",
+   "title": "Senior / Staff Intelligence Analyst, Environmental Crimes",
+   "role_family": "other",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-01T20:46:22.046000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/39efd8aa-7d91-46e9-94a9-e16aaf8a8f0e"
+  },
+  {
+   "external_id": "3a3ce52f-6949-451e-95f8-9e98019d7686",
+   "title": "Cyber Threat Intelligence Analyst, Scams (DC, MD, VA only)",
+   "role_family": "other",
+   "location": "Washington D.C.",
+   "posted_at": "2026-10-01T22:23:02.403000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/3a3ce52f-6949-451e-95f8-9e98019d7686"
+  },
+  {
+   "external_id": "4065e6e8-e66e-4794-bf3d-209d026879a8",
+   "title": "Senior All-Source Investigator, Severe Harms",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-02T12:25:48.065000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/4065e6e8-e66e-4794-bf3d-209d026879a8"
+  },
+  {
+   "external_id": "45166a6e-6337-4132-9429-930cde7fd499",
+   "title": "Technical Recruiter – Cybersecurity & Threat Intelligence",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-08-21T23:16:18.583000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/45166a6e-6337-4132-9429-930cde7fd499"
+  },
+  {
+   "external_id": "45e886bf-748d-41cb-9748-258440d12b61",
+   "title": "Senior Data Engineer - AI Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-12T19:36:49.026000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/45e886bf-748d-41cb-9748-258440d12b61"
+  },
+  {
+   "external_id": "47efd510-290c-4114-b4b5-8cfa384dd7dd",
+   "title": "Deployment Strategist, Public Sector (Embedded Account)",
+   "role_family": "other",
+   "location": "Washington D.C.",
+   "posted_at": "2026-10-01T00:23:25.123000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/47efd510-290c-4114-b4b5-8cfa384dd7dd"
+  },
+  {
+   "external_id": "4805b46e-9446-4f07-afe1-ad7f2b455faa",
+   "title": "Revenue and Billing Operations Manager",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-09-23T01:00:43.715000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/4805b46e-9446-4f07-afe1-ad7f2b455faa"
+  },
+  {
+   "external_id": "48902858-fe7c-4f2a-9411-748032c1269f",
+   "title": "Global Investigator - Israel",
+   "role_family": "other",
+   "location": "Tel Aviv, Israel",
+   "posted_at": "2026-08-14T17:28:07.887000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/48902858-fe7c-4f2a-9411-748032c1269f"
+  },
+  {
+   "external_id": "5b1c4862-550f-48fe-89bf-33a9181f9bdc",
+   "title": "Software Engineer, Backend | Product Engineering - SF Only",
+   "role_family": "engineering",
+   "location": "San Francisco, California",
+   "posted_at": "2026-09-07T16:41:44.641000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/5b1c4862-550f-48fe-89bf-33a9181f9bdc"
+  },
+  {
+   "external_id": "5baf7bf3-0da2-4929-82fe-cc8f2b2a8ee1",
+   "title": "Strategic Finance Lead, GTM",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-21T15:10:00.249000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/5baf7bf3-0da2-4929-82fe-cc8f2b2a8ee1"
+  },
+  {
+   "external_id": "5f814d06-0151-4390-94de-9f3e56a59923",
+   "title": "Senior Software Engineer, Graph Analytics",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2025-01-13T19:16:39.218000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/5f814d06-0151-4390-94de-9f3e56a59923"
+  },
+  {
+   "external_id": "5fe46450-19d1-41be-b206-70ce73e4bff8",
+   "title": "Account Director, US Federal Law Enforcement",
+   "role_family": "exec",
+   "location": "North America",
+   "posted_at": "2026-10-23T13:40:07.591000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/5fe46450-19d1-41be-b206-70ce73e4bff8"
+  },
+  {
+   "external_id": "6056becb-e8be-4b47-ad5c-bc7e2ee743d9",
+   "title": "Technical Recruiting Manager",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-08-27T19:02:35.376000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/6056becb-e8be-4b47-ad5c-bc7e2ee743d9"
+  },
+  {
+   "external_id": "62c75011-1cf1-4c40-85bc-2e2a16d76332",
+   "title": "Senior Product Manager, Financial Institutions",
+   "role_family": "product_design",
+   "location": "United States",
+   "posted_at": "2026-05-26T21:56:03.185000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/62c75011-1cf1-4c40-85bc-2e2a16d76332"
+  },
+  {
+   "external_id": "6bb9ae67-797d-4ac7-9572-3c2d437adc61",
+   "title": "Group Product Manager, Onchain Compliance",
+   "role_family": "product_design",
+   "location": "United States",
+   "posted_at": "2026-10-19T15:44:26.602000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/6bb9ae67-797d-4ac7-9572-3c2d437adc61"
+  },
+  {
+   "external_id": "6c7898d0-0b61-4209-8bd2-8cdaf4c95c37",
+   "title": "Senior Data Researcher",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-09T23:42:45.274000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/6c7898d0-0b61-4209-8bd2-8cdaf4c95c37"
+  },
+  {
+   "external_id": "6e0f12c5-ca3e-458a-9e0a-698d2a7e959e",
+   "title": "Account Director, Private Sector (DACH)",
+   "role_family": "exec",
+   "location": "Munich, Germany",
+   "posted_at": "2026-10-22T06:17:35.637000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/6e0f12c5-ca3e-458a-9e0a-698d2a7e959e"
+  },
+  {
+   "external_id": "7299a0d3-527f-4119-8d6a-7b64a020b169",
+   "title": "Instructional Designer, TRM Academy (Compliance)",
+   "role_family": "product_design",
+   "location": "United States",
+   "posted_at": "2026-10-01T00:33:27.629000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/7299a0d3-527f-4119-8d6a-7b64a020b169"
+  },
+  {
+   "external_id": "73b2f6bd-7f59-4378-8b9f-b0921489c8ef",
+   "title": "Growth Lead, Consumer Fraud Reporting",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-06-11T21:40:06.477000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/73b2f6bd-7f59-4378-8b9f-b0921489c8ef"
+  },
+  {
+   "external_id": "74fc12c1-be22-496e-812d-1316276c91e8",
+   "title": "Staff Data Engineer - AI Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-12T19:37:31.055000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/74fc12c1-be22-496e-812d-1316276c91e8"
+  },
+  {
+   "external_id": "75699d68-f602-46f3-b51e-4ccc283a727d",
+   "title": "Senior Software Engineer, Data Infrastructure - AI Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-12T21:59:31.149000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/75699d68-f602-46f3-b51e-4ccc283a727d"
+  },
+  {
+   "external_id": "7b2d8797-40b1-4430-bcfd-fe9d0559532e",
+   "title": "Business Development Executive, APAC Public Sector (ANZ)",
+   "role_family": "other",
+   "location": "Sydney, Australia",
+   "posted_at": "2026-09-17T05:37:46.053000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/7b2d8797-40b1-4430-bcfd-fe9d0559532e"
+  },
+  {
+   "external_id": "7d9a2c64-755c-48f3-bdb4-0332f2af8527",
+   "title": "Global Investigator - National Security",
+   "role_family": "other",
+   "location": "North America",
+   "posted_at": "2025-04-04T18:56:44.057000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/7d9a2c64-755c-48f3-bdb4-0332f2af8527"
+  },
+  {
+   "external_id": "7dfc2f45-fc2c-4de1-8043-f5ed5a678fe4",
+   "title": "Executive Recruiter",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-06T15:38:46.498000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/7dfc2f45-fc2c-4de1-8043-f5ed5a678fe4"
+  },
+  {
+   "external_id": "7e805c73-0c50-4bd9-8af2-493dd67c03cc",
+   "title": "Recruiting Coordinator (Contract)",
+   "role_family": "finance_ops",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-06-25T17:27:42.314000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/7e805c73-0c50-4bd9-8af2-493dd67c03cc"
+  },
+  {
+   "external_id": "803bf790-5e44-4b50-91d3-e618246085d8",
+   "title": "Senior Capture Manager - UK",
+   "role_family": "other",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-09T04:04:51.544000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/803bf790-5e44-4b50-91d3-e618246085d8"
+  },
+  {
+   "external_id": "80dcf3a6-3429-485a-8f05-81173b1ea52e",
+   "title": "All-Source Intelligence Analyst (DC, MD, VA only)",
+   "role_family": "other",
+   "location": "Washington D.C.",
+   "posted_at": "2026-05-18T14:21:17.968000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/80dcf3a6-3429-485a-8f05-81173b1ea52e"
+  },
+  {
+   "external_id": "818b6fe1-f924-4530-b52c-6a84f0215449",
+   "title": "Account Director, Crypto",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-10-15T02:35:36.444000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/818b6fe1-f924-4530-b52c-6a84f0215449"
+  },
+  {
+   "external_id": "828b60b2-ac8f-407d-92a0-8b794c8cf391",
+   "title": "AI Agent Engineer - US Remote",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-03-24T21:18:19.699000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391"
+  },
+  {
+   "external_id": "83ebea18-ce4b-47a9-bffc-a8432eb8c3a4",
+   "title": "Senior Software Engineer, AI Engineer (Brazil)",
+   "role_family": "engineering",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-09-09T21:56:12.078000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/83ebea18-ce4b-47a9-bffc-a8432eb8c3a4"
+  },
+  {
+   "external_id": "85d748d0-5377-486f-9209-c811704dbdaa",
+   "title": "Software Engineer, Data Infrastructure - AI Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-12T21:58:46.749000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/85d748d0-5377-486f-9209-c811704dbdaa"
+  },
+  {
+   "external_id": "864da62d-a271-4359-a395-ce096a51fb1b",
+   "title": "Senior HR Business Partner",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-22T18:37:04.629000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/864da62d-a271-4359-a395-ce096a51fb1b"
+  },
+  {
+   "external_id": "892aad4d-cd63-47d6-8025-46019966f3c1",
+   "title": "Senior Software Engineer, AI Engineer",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-09-09T21:55:00.696000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/892aad4d-cd63-47d6-8025-46019966f3c1"
+  },
+  {
+   "external_id": "8c0ea2a6-e423-4898-9e7b-810719030013",
+   "title": "Engineering Manager, Data Platform",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-07-20T21:58:44.650000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/8c0ea2a6-e423-4898-9e7b-810719030013"
+  },
+  {
+   "external_id": "8fa88bc5-4cc6-402e-891a-5c9619edaebb",
+   "title": "Global Investigator - Triage (APAC)",
+   "role_family": "other",
+   "location": "APAC",
+   "posted_at": "2026-10-22T18:46:18.270000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/8fa88bc5-4cc6-402e-891a-5c9619edaebb"
+  },
+  {
+   "external_id": "90b2a980-cb29-4cbf-9416-56355bce94df",
+   "title": "Lead Brand & Growth Marketer- Executive Initiatives",
+   "role_family": "marketing",
+   "location": "United States",
+   "posted_at": "2026-10-14T17:48:19.129000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/90b2a980-cb29-4cbf-9416-56355bce94df"
+  },
+  {
+   "external_id": "92d3b3fe-284b-4d68-890f-b5b26b64bd98",
+   "title": "Senior Software Engineer, Full Stack | Product Engineering",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-09-14T18:52:41.587000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/92d3b3fe-284b-4d68-890f-b5b26b64bd98"
+  },
+  {
+   "external_id": "990a102e-3596-49ac-b527-9addc25771c4",
+   "title": "Senior or Staff Software Engineer, Data Platform (Brazil)",
+   "role_family": "engineering",
+   "location": "São Paulo, Brazil",
+   "posted_at": "2026-09-23T19:55:01.530000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/990a102e-3596-49ac-b527-9addc25771c4"
+  },
+  {
+   "external_id": "9a2ca385-f432-4e0e-9946-c991203fd466",
+   "title": "Global Investigator (APAC)",
+   "role_family": "other",
+   "location": "APAC",
+   "posted_at": "2026-10-23T07:54:59.454000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/9a2ca385-f432-4e0e-9946-c991203fd466"
+  },
+  {
+   "external_id": "9ba428bd-9d7c-4799-bc4f-bad22ac200c5",
+   "title": "Deployment Strategist, APAC",
+   "role_family": "other",
+   "location": "Singapore, Singapore",
+   "posted_at": "2026-07-17T12:07:02.760000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/9ba428bd-9d7c-4799-bc4f-bad22ac200c5"
+  },
+  {
+   "external_id": "9baef3fe-045c-4ba0-ba17-05257111505c",
+   "title": "Product Security Engineer",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-01T20:35:00.572000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/9baef3fe-045c-4ba0-ba17-05257111505c"
+  },
+  {
+   "external_id": "a1ed36fb-8be9-40a9-8452-5641996130c3",
+   "title": "Staff Data Platform Engineer - AI Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-12T21:55:48.922000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/a1ed36fb-8be9-40a9-8452-5641996130c3"
+  },
+  {
+   "external_id": "a64577e7-ee7e-4682-8630-a242d558128d",
+   "title": "Account Director, Private Sector (CEE & Central Asia)",
+   "role_family": "exec",
+   "location": "EMEA",
+   "posted_at": "2026-10-22T06:31:41.240000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/a64577e7-ee7e-4682-8630-a242d558128d"
+  },
+  {
+   "external_id": "ab0fb4e8-659e-4087-a53b-a2bae1d7d8a9",
+   "title": "Account Director, Southern Europe - Public Sector",
+   "role_family": "exec",
+   "location": "EMEA",
+   "posted_at": "2026-10-23T04:12:11.388000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/ab0fb4e8-659e-4087-a53b-a2bae1d7d8a9"
+  },
+  {
+   "external_id": "adfa1c4e-4160-4935-9988-e45f5aad78c0",
+   "title": "GEOINT Analyst, Scams",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-13T15:51:07.084000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/adfa1c4e-4160-4935-9988-e45f5aad78c0"
+  },
+  {
+   "external_id": "ae3a0f96-50a8-480c-ba63-8ef989fbc3c9",
+   "title": "Agent Engineer - US Remote",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-01-21T14:10:46.803000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/ae3a0f96-50a8-480c-ba63-8ef989fbc3c9"
+  },
+  {
+   "external_id": "b5f265fc-c8fa-47aa-8382-3aa72108c513",
+   "title": "Head of Commercial Legal",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-09-01T00:11:55.997000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/b5f265fc-c8fa-47aa-8382-3aa72108c513"
+  },
+  {
+   "external_id": "b6994b6a-0b46-4311-b0f6-3b71d9b5ded9",
+   "title": "International Sales Recruiter, UK/EMEA",
+   "role_family": "finance_ops",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-08-28T14:04:54.675000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/b6994b6a-0b46-4311-b0f6-3b71d9b5ded9"
+  },
+  {
+   "external_id": "b6ced85a-a8e1-4da7-b065-188edb77ca9e",
+   "title": "Marketing Technology Engineer",
+   "role_family": "marketing",
+   "location": "United States",
+   "posted_at": "2026-08-25T20:52:05.987000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/b6ced85a-a8e1-4da7-b065-188edb77ca9e"
+  },
+  {
+   "external_id": "b8924cbb-3581-458c-bfd0-9f5bcb633474",
+   "title": "Engineering Manager, Product Engineering",
+   "role_family": "other",
+   "location": "San Francisco, California",
+   "posted_at": "2026-03-12T13:50:45.106000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/b8924cbb-3581-458c-bfd0-9f5bcb633474"
+  },
+  {
+   "external_id": "bd844e99-8211-4e0a-aeb5-fb78f174fa17",
+   "title": "Sales Enablement Manager, Onchain Compliance",
+   "role_family": "other",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-10-13T14:03:29.276000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/bd844e99-8211-4e0a-aeb5-fb78f174fa17"
+  },
+  {
+   "external_id": "bf05e1f6-17e2-4639-ae9c-9afe0199a028",
+   "title": "Senior Software Engineer, Data Infrastructure (RDBMS) (LATAM)",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-10-21T22:12:21.116000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/bf05e1f6-17e2-4639-ae9c-9afe0199a028"
+  },
+  {
+   "external_id": "c504b1e3-7584-4164-8b60-d16a95fbdda1",
+   "title": "Senior Product Counsel",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-09-22T22:55:56.406000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/c504b1e3-7584-4164-8b60-d16a95fbdda1"
+  },
+  {
+   "external_id": "c887dc78-8009-47a6-809c-3e75148a70b6",
+   "title": "Strategic Finance Lead, R&D and AI Infrastructure",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-10-02T17:18:05.539000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/c887dc78-8009-47a6-809c-3e75148a70b6"
+  },
+  {
+   "external_id": "ca371bbf-85f7-4746-910f-21b67181a8d8",
+   "title": "Account Director, Pathfinder (National Security)",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-05-08T13:32:45.488000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/ca371bbf-85f7-4746-910f-21b67181a8d8"
+  },
+  {
+   "external_id": "cceaec25-75b1-4e71-981c-c2082783ee2c",
+   "title": "VP of Global Growth",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-10-05T19:33:15.587000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/cceaec25-75b1-4e71-981c-c2082783ee2c"
+  },
+  {
+   "external_id": "cf1c3e90-d709-4a64-825f-7c0f0768965a",
+   "title": "Senior Data Platform Engineer - AI Platform",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-08-12T21:55:20.868000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/cf1c3e90-d709-4a64-825f-7c0f0768965a"
+  },
+  {
+   "external_id": "d37df443-8e99-40ef-97c6-781b635473cf",
+   "title": "Deployment Strategist, Private Sector",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-08-31T05:44:52.016000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/d37df443-8e99-40ef-97c6-781b635473cf"
+  },
+  {
+   "external_id": "d90d2ac3-d58d-4b63-b229-d2b09a4d8385",
+   "title": "Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-21T23:37:42.308000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/d90d2ac3-d58d-4b63-b229-d2b09a4d8385"
+  },
+  {
+   "external_id": "db211fc3-b7d2-4834-a696-99b03baf9ad1",
+   "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-09-30T18:57:44.273000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/db211fc3-b7d2-4834-a696-99b03baf9ad1"
+  },
+  {
+   "external_id": "db512ca0-9109-490d-b08a-38a6311b74e6",
+   "title": "G&A Recruiter",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-08-28T13:53:26.694000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/db512ca0-9109-490d-b08a-38a6311b74e6"
+  },
+  {
+   "external_id": "e26723cd-a11e-4e1b-ac79-a55a41ef86e2",
+   "title": "Senior Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "North America",
+   "posted_at": "2026-07-07T20:55:37.379000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/e26723cd-a11e-4e1b-ac79-a55a41ef86e2"
+  },
+  {
+   "external_id": "e4992057-b59e-4fb3-8f18-a919497d0ba5",
+   "title": "Forward Deployed Engineer - US National Security",
+   "role_family": "customer",
+   "location": "North America",
+   "posted_at": "2026-09-16T19:04:09.598000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/e4992057-b59e-4fb3-8f18-a919497d0ba5"
+  },
+  {
+   "external_id": "e597ea87-036f-41b8-9452-9a37d541f08f",
+   "title": "Business Development Executive, Financial Institutions (EMEA)",
+   "role_family": "other",
+   "location": "London, United Kingdom",
+   "posted_at": "2026-07-06T19:19:24.370000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/e597ea87-036f-41b8-9452-9a37d541f08f"
+  },
+  {
+   "external_id": "e5eff614-f469-4a08-a0fd-4976200f8c77",
+   "title": "Head of Cyber Missions",
+   "role_family": "exec",
+   "location": "United States",
+   "posted_at": "2026-07-13T16:06:23.145000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/e5eff614-f469-4a08-a0fd-4976200f8c77"
+  },
+  {
+   "external_id": "e8a7a3d5-938f-4d2b-b9d3-86765d8d1dd2",
+   "title": "Customer Solutions Engineer",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-08-22T00:01:51.995000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/e8a7a3d5-938f-4d2b-b9d3-86765d8d1dd2"
+  },
+  {
+   "external_id": "e989a9b7-103d-46fb-9787-7f81c8f361c4",
+   "title": "Senior or Staff Software Engineer, Data Platform (Canada)",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2026-09-23T19:56:00.006000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/e989a9b7-103d-46fb-9787-7f81c8f361c4"
+  },
+  {
+   "external_id": "eb560943-3adb-4839-bf64-4cbdeee9ae57",
+   "title": "Staff Agent Engineer - US Remote",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-03-05T04:56:12.933000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/eb560943-3adb-4839-bf64-4cbdeee9ae57"
+  },
+  {
+   "external_id": "ecc944bf-7cb5-48e7-be97-0d3cb45a92e9",
+   "title": "Senior Software Engineer, Backend | Product Engineering",
+   "role_family": "engineering",
+   "location": "South America",
+   "posted_at": "2025-06-13T20:13:12.149000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/ecc944bf-7cb5-48e7-be97-0d3cb45a92e9"
+  },
+  {
+   "external_id": "f17832e4-5aaa-4f54-989f-2b845dca7ec8",
+   "title": "Content Marketing Lead",
+   "role_family": "marketing",
+   "location": "United States",
+   "posted_at": "2026-09-30T12:48:02.322000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f17832e4-5aaa-4f54-989f-2b845dca7ec8"
+  },
+  {
+   "external_id": "f2300b8e-f935-447c-94f1-eb578e077f17",
+   "title": "Content Marketing Lead, Insights",
+   "role_family": "marketing",
+   "location": "United States",
+   "posted_at": "2026-10-20T22:47:55.525000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f2300b8e-f935-447c-94f1-eb578e077f17"
+  },
+  {
+   "external_id": "f50ac5b5-d199-4e5b-9dae-7ce9a44dea1e",
+   "title": "Senior Software Engineer, Data Product",
+   "role_family": "engineering",
+   "location": "South America",
+   "posted_at": "2026-08-25T20:24:53.640000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f50ac5b5-d199-4e5b-9dae-7ce9a44dea1e"
+  },
+  {
+   "external_id": "f5770e63-607a-4264-a3b8-cb10d96070d0",
+   "title": "Senior Intelligence Analyst",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-07T19:05:13.190000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f5770e63-607a-4264-a3b8-cb10d96070d0"
+  },
+  {
+   "external_id": "f671d26c-dd0e-429e-9c08-58c78c4f5dd7",
+   "title": "Software Engineer, Backend | Product Engineering - US",
+   "role_family": "engineering",
+   "location": "United States",
+   "posted_at": "2026-04-07T17:52:15.488000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f671d26c-dd0e-429e-9c08-58c78c4f5dd7"
+  },
+  {
+   "external_id": "f6e96bdf-5535-4d92-8ee0-593364cf2baf",
+   "title": "Senior Blockchain Intelligence Analyst, Ransomware",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-06-27T00:08:32.128000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f6e96bdf-5535-4d92-8ee0-593364cf2baf"
+  },
+  {
+   "external_id": "f745bdb0-a4f7-4108-9e7b-8824889aa265",
+   "title": "Senior Manager, Contracts & Compliance",
+   "role_family": "finance_ops",
+   "location": "United States",
+   "posted_at": "2026-10-03T00:47:44.297000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f745bdb0-a4f7-4108-9e7b-8824889aa265"
+  },
+  {
+   "external_id": "f7a0d7fa-3b51-4bf6-9b3b-dc6a10879123",
+   "title": "Staff Infrastructure Engineer",
+   "role_family": "engineering",
+   "location": "North America",
+   "posted_at": "2024-10-17T22:26:25.460000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f7a0d7fa-3b51-4bf6-9b3b-dc6a10879123"
+  },
+  {
+   "external_id": "f8f3c878-ec32-4709-957d-3bd9453b8bb9",
+   "title": "Global Investigator - Federal Law Enforcement",
+   "role_family": "other",
+   "location": "Washington D.C.",
+   "posted_at": "2026-07-20T19:15:27.339000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f8f3c878-ec32-4709-957d-3bd9453b8bb9"
+  },
+  {
+   "external_id": "f9698535-7237-4656-b4ce-57df8fd7d801",
+   "title": "Deployment Strategist, Public Sector (Law Enforcement)",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-16T20:54:38.353000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/f9698535-7237-4656-b4ce-57df8fd7d801"
+  },
+  {
+   "external_id": "fab05093-5714-431a-9941-23b3589919fc",
+   "title": "Account Director, Private Sector (MEA & Turkey)",
+   "role_family": "exec",
+   "location": "Dubai, United Arab Emirates",
+   "posted_at": "2026-07-10T11:00:41.957000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/fab05093-5714-431a-9941-23b3589919fc"
+  },
+  {
+   "external_id": "fdab8fd4-2d27-4878-990c-c2b940340336",
+   "title": "Global Investigator (Triage)",
+   "role_family": "other",
+   "location": "United States",
+   "posted_at": "2026-10-15T22:14:11.426000+00:00",
+   "url": "https://jobs.ashbyhq.com/trm-labs/fdab8fd4-2d27-4878-990c-c2b940340336"
+  }
+ ]
+}

@@ -1,13 +1,13 @@
 {
   "domain": "getmatter.app",
   "name": "Matter",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.6,
+  "score": 7.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-16",
       "summary": "appoints new CFO",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1laS3YxVzdqSjBwdm5zdV9GU040MVM2VFNwOG1fS1NLcE5LSk53RjV1U0tPYkpwSlM3b0J2eU9ROEJGM0JzZ0FPcnBCSVo0VGxybUd1U2NOYzJfN1dnemNTZHNJTmd0Uml5OEFjczNzemNEY1ZrNlJBZ2lRYS0yRmM4TS1VOW9oUUpobTU4cVQ1ZW8?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

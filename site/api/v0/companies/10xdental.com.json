@@ -1,9 +1,9 @@
 {
   "domain": "10xdental.com",
   "name": "10x",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "OpenAI launches Decisions API with up to 10x faster AI decisions - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDhaZlVLQmszTXh3ZHBXTWt3THdXWDdKanlBaUpIN1FsNlV6OXRjbGdTa1JnU2pRZTRZQ3ltcmpad3dCTVczZFA1MjNEajZBNjJKU1gwelluSlBGSEhOVWg5Q01RS1lheFE5akRjY01GS0JhaklQcjJnMXdOMkRmRDBUNWVicGRscU1hcnhJX203LWJhdi1JR0NDWnVac3ZtWlJYZlFjOTJrNlU1VlQ2UnVuenNQczV2VHRpU3l6TTg2a2lRZ3c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "10X Health Launches Metabolism Genetic Test - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnZiVGtEZWhmc09SYjk4cUlDMklmZ013VWh5OEJVVWJSTDJ5RGgyVjh5S1ZKOWxfZnAycTZQbTRxb2FFR055MnB0ZGg2N1R1VF93V1Y1YnVSbDdGZG13VmJYSF9WVW9UTTJrdjhzYTNVd3loRVRxYUtCRWphNlhobTZ3ckdMdHVMM3Rxck5iMjdScnJJSlAyelloQnl6RU5pNWtyVUpwVTBlVkdCdjl6ZmpUNnU2VU010gG-AUFVX3lxTFBqUHJ1TF8xdUFsVnZZZjl3OHRsaDAyRGhVcjFxM2U3VHFEelpXVWFIUFdkVjBGTXBlVkpEQlNDRS1adkNPQ2dpLTZrQ3d2ZlI2cV82Z0dyZU1jVDBRUG5ZU1hDV0lmYkM1ZERJOUdpZndCRXM1Y0pRUHZpV3lRYlFKck9HOUNYWlFIUENTT3FmM1c5VTJJOElsSzBrLWp3S0NyelhlbWNKMkMtRGlPLUIycHJGeDl2bkJnXzdsSVE?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

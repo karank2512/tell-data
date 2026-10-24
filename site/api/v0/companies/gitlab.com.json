@@ -1,9 +1,9 @@
 {
   "domain": "gitlab.com",
   "name": "GitLab",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 10.1,
+  "score": 12.8,
   "contributions": [
     {
       "type": "launch",
@@ -16,19 +16,26 @@
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-22",
+      "summary": "Max-severity GitLab bug enables remote code execution across 12 years of releases - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFVPWmtqQzh2SW85dUU1anJzeFNZQ0cwZ3Nnb1ZERnpRLXlMUTdfZ3FlMWx0b2FfNnZaYUNaREwxNElqUUJuQnZNalJCenhQOUpwUlVybEdWWEZJQ0FPcWNONDUxTDdheW5mYmhpVDZOLVRQdWxIN0xsaUJKd1FqSTRBSGRBOWpubkE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
       "summary": "Max-severity GitLab bug allows remote code execution over 12 years of releases - The Register",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQVJOWmRQbnc3ZHBWdGR5d2xIZmVVRXI3N0Z4eUxVaE1LbGt5TkhTV2hLdE15dldBQnBNOGFoQ2s1LWFxNk9HLS11RXBlakJkWkMzX2dwVGpTaDkxajBnRmV0ZXdIM003VUlRZUtqNkhZR2JiNlJBNWM3UjF0aDJibmhFT2cyNmZkWVRjdVdiVnZNY3pCbUw5WXdWNU9PbENCakhNVVBVUGdRWThEN3hWLTBRTnl0aE8xTEdqTmc5eC1lUlF1RXQxb1hzc3RBQnM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "GitLab Fixes Critical Unauthenticated Code-Execution Flaw Affecting Releases Since 2014 · cyber.hendryadrian.com - Howl.link",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBrcnIzNEVfSGstYTlpZVloUy1VX2E5QzBCQWJKNHBiREJkbHFfT1E2c19ERjVRekJGdkMw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "GitLab CVE-2026-110264 vulnerability, CVSS 10 in 12 years of releases - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUFtS01SUUVTRlVhdnlJUWR1U2xjeG83UDBpRmI0bG84REpUZGJSRW1yLTNGQ1BkSGxmOERWUkdTUkF3bDQ5SU1uY2F2MnNJNXY4ZHlBWndaMk9MMzBvVzllVzVzNHliSTZxdC1RNXZhV0NJRXl5d2JRSVBhcGJCR2ltRE1acHZaUnc2R3dpMTZvQQ?oc=5"
@@ -39,6 +46,13 @@
       "occurred_at": "2026-10-22",
       "summary": "GitLab Releases Emergency Patch for Unauthenticated RCE Flaw With Perfect CVSS Score, Affecting 12 Years of Versions - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtRmtWa2ZpZ2FFdHFLVHBRaXpud2hRU2dKRVpEQ0ZPYTlrcmlJNzJzNkF6UVZHaDRHVVpwVlJ3NXZ5UTVtTVNLOF9aMENwN0UxX0VkM0JqcGNDRXg3REFobUJCSVJNMVl5ZkZQdE5pNWN4TzFvU0E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "GitLab fixes critical unauthenticated RCE spanning 12 years of releases - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3E0TGtBT3RBWDNQVW96c0d1Szh4TlZOZUpyV2tQY2kzdV85cXg3MlBhYjhLWmJ0SlZjb3ZlUUhvRnE4VjJHaWNabVhxQV9KUXF1ZFRZUjJwWFNOaGIyMXZwWnBaZzNpQVdhQUNHYzlaX2NxeHVVb2ZKazBBdHFsY25yNlpBbG5QQUVFS1didUhuc1VlUFh3N2NmeFFTOEp5VHc?oc=5"
     },
     {
       "type": "launch",
@@ -62,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

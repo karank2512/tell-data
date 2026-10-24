@@ -1,13 +1,13 @@
 {
   "domain": "usechamber.io",
   "name": "Chamber",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 14.0,
+  "score": 14.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Chamber launches Restaurant Week Sweepstakes to boost local businesses - Gunnison Country Times",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkxqNmlDOG9hTEpGRUE3LUM3bTJTaEl0Wk1LaVo3el9xeWtrWG9BM3dOY1pmeVhzOFMwUTAyNHc5VnI2ZU5yMFhBRDFQM3FsMlYxSnQxd0NpWW1XeC1Gb0Z6Vl8tVkZ5Y2FneC1lRUowaFI5WjA1c25DajZWMWtGeUpwTGhSWWd2c3pkazlobmdLd0J6Z0VkdWJBTEVRYjMxOGNyZlpmSV8tbkRwQXIxZzRmeVI?oc=5"
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Bandon Chamber launches self-guided mural tour - kobi5.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS29fakFQazNkdTVhRlpUWUpQTkt5Tno1b3hIR1dTNmtRUmtKcWdCTUUzdURtdUVvT0ZRWnpJYnFfcEdRMk9HZDU3aGNGb0NHOUh5bndUeHg2R1pPUS1oaGV1N3lkVnJRUUk1cjdCRi1pem1hbjVxUl9kbmFEUmxUdmk1ZUVWNkF2SWxvUFoxSE5xVkk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "LaGrange County Chamber unveils new branding - WPTA | 21Alive | Fort Wayne, IN",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVI5M2N6Y0lXTEVfZEJiYnVCNS1LVEwzOGZwNGU3d19UTFkzc1dvY2ZYR2JoLVdpRnA3VHJ2SzhtdjNneUJLNU5hc1hjZko2cTh2Sk9VMTF0eTJOUEdYM0poX2huSUF2RERXb2J2ODJEV25nRmFxekx2RnY3R3oyVldfM2JEa3lrVHRER9IBoAFBVV95cUxPOVJ2OVI4ZDYxZURoaHEwVlZZZ290TmlzcXA0eF8xYXNnNWZPVDdtMnBiRFVKNWdTRTE2M3kxNUc4QzdMTjQwMGZuQVlZbkhaSkV4Vm8tYTNhOHFPZkQ4TkhmamhrVlpnWXBWTE9sVWsxM292dHNpYU95cUZMdHRlUDM1TDlYYlZUQXJUd2c4UTN2cnp2aTdmcWYtUDJNV25f?oc=5"
@@ -74,6 +74,13 @@
       "occurred_at": "2026-10-16",
       "summary": "LaGrange County chamber unveils new branding - Inside INdiana Business",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2dfTWxpYS1kQk42b2RHZjItTHhlX1Z2VjFsTEdoS1FuZno0RnNpdVJZNmtQRlY1WmstamRrWXB1TzBUZXY0by1iN2ZrSlhiLVBMUVRYR09jZUpuc19oVllJVU1IWFYwb3pHVHl4RHJKYmZwa0N0NUxTMFVhYmNWVVNJM3dSYUZSU05GX3A4cFhXaVBZSVE?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-21",
+      "summary": "L.A. Area Chamber of Commerce Invests in Downtown L.A., Selects U.S. Bank Tower for New Headquarters - City of Los Angeles (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHBlYVlLN3ZGbkszdW4zWVR4bVJSdXd5NVZwenY4cUp0aEJnSVlJSWtiTi1selUxU3dtN2s1a0tXZ1N4ZmdPUTRPV0ZrYVZiZGlFclFfN3FqNDdkczBLUFdLeEdvTWNGN3RCaHBGdmVDdk85YVpZaHdHQ29pM0lJSnRsM2podWRuWUJZYWM3cHhjcmNaYWhKNzU2VGFSRWYwalNyMmRvUkloMXZ2NG90RElVZw?oc=5"
     }
   ],
   "open_postings": 0,
@@ -83,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "keepertax.com",
   "name": "Keeper",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 8.5,
+  "score": 8.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Keeper Security Launches AI-Powered Phishing Protection To Warn Users Before Entering Credentials on Fake Sites - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcFB4TEJ2WkhZTE41R09LWGdHSmlFYjJJSGJfc1gwY3VrNW5NU2ZVVFlRamkwOTBKY1VnS1FSSUJaUjlQSWxjLVRON3JKUDNYN1JWSGVlSUktNkpTV2FucnhiMEp1Qk1nYjRfOGtxTzJJQ25maXZOakZyWU1IeEVMbThieHczX184c3F4R3JEQTllVUpFR1VlWXkydWdzOGctUXZ1bzBNV3FMNGJ1d25rMWVLNGM1SENla2dub0V5WEFBNDFtUlg0VGxtd0ZmVFdjVldYb2hodko5WGZyREtoTjJva2ozVWQwanFla014MG1WT0ctY1k4VE5CWQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

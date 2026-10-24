@@ -1,10 +1,17 @@
 {
   "domain": "trymonte.ai",
   "name": "Monte",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.5,
+  "score": 7.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-21",
+      "summary": "[person] joins packed house as Rampoldi celebrates 80 years in Monte-Carlo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGZzZ2dYSExscTNfakd6LVYwSDNTQlBldEhRWEJMMmhuQU1lUldITXhlNER0NndCc2JRUzB4cDdXdkd2UE5Fd29FT2k2TENreWZ2ekUyNkJIQnFiaWxMYlYzOUJCaGdkNGVwdjd5OU5oeDJSZWdCRUIyTTFDZzF0US1ZRVNxbEozclBUNkFmdUUzeHFiVnpnZ2daYjVSVmY4ekhCaWJlbmRvUQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

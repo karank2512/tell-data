@@ -1,9 +1,9 @@
 {
   "domain": "plumefinder.com",
   "name": "Plume",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Plume Cleaning Services Introduces Absolute Clean, Raising the Standard for Home Cleaning on the Central Coast of New South Wales - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOeHZrNUtkaGRadkxaWnZ4dkZscmdBajVTbWstSFF0Nno0cmFMVUNzR1U0R2pIOXRzVm13Qy01bUVwd28xeE81X2dTNV9QVkM5d2ljVmNCNW51X3pTS0ZXcEt1QnF3cTdQTmJhX0VESlpNZ1I5WjB2YUZfemhLS21yM3pHeGpSZm9ESHp3cWlEN21EV05waFBkZF9rZWdSaXUtREpyR3dMcVNpQnZzZFZIckN6NmpMd2NBbFpPSXdmczhuNnRvbXFqbndoczZHR0h3ZHpHU3I3aXVNLWx1YUcwN0NPMW9udmR1Tms0dmFnc2sweDNicTBZWnNnV2xfcTZadHZoaTA3MngwbjR5b3lhYW0tTmU4OFc2b3gtMTJmb1hnVXZ4OHpDZkU2V2NzQm_SAa8CQVVfeXFMTnh2azVLZGhkWnZMWlp2eHZGbHJnQWo1U21rLUhRdDZ6NHJhTFVDc0dVNEdqSDl0c1Ztd0MtNW1FcHdvMXhPNV9nUzVfUFZDOXdpY1ZjQjVudV96U0tGV3BLdUJxd3E3UE5iYV9FREpaTWdSOVowdmFGX3poS0ttcjN6R3hqUmZvREh6d3FpRDdtRFdOcGhQZGRfa2VnUml1LURKckd3THFTaUJ2c2RWSHJDejZqTHdjQWxaT0l3ZnM4bjZ0b21xam53aHM2R0dId2R6R1NyN2l1TS1sdWFHMDdDTzFvbnZkdU5rNHZhZ3NrMHgzYnEwWVpzZ1dsX3E2WnR2aGkwNzJ4MG40eW95YWFtLU5lODhXNm94LTEyZm9YZ1V2eDh6Q2ZFNldjc0Jv?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "dartai.com",
   "name": "Dart",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
   "score": 3.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "The Sanchez Government launches a dart at the PP after the designation of Álvarez de Toledo as number two on the Madrid list and has called it \"a very powerful message of radicalism\" - El Constitucional",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOZlVYZVRJVTRMWlN2dGpWaUVlRTNQSWZtNEpwRldRMTQ5d1RpTE9HZ2s2aTAySTdzX2V5bWNPSFBmcnhZT0lZZ1lWY1JzY0JEX2lmN0hpNVh1eHdtRk1qN0FQU2czSUEzb1FiTF8zTWM0ZUNKTUdMUElhUnhjbjNsMGQtZFo2YVFsMnJnOVZhWEtKY1RYSmpvY2M4eGVWZXMxcDBhR0pqUlFxTEtfMEVNWk1odFpzVkVrM2pUSngxVVpfbDhvWFRyYXFjd3Vad1ZlOVQ5dTJhdUZPdW1aY2Z2ajZWdnpVMVM1WXNOVWpqekdZZHBxLWMwR19IUFU4dFNkWHpxWGNYVVNvVGdWVUVkSDJLcmZPUzZBMC1HeEl3cGpET1VOdlpvWW5CNHhTaDduY3l3THRIdFlXWlJNU2NMRGN2LURrXzJlck0xYkZJOHE?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Dart Appraisal buys ACT Appraisal, expands into Chicago - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVA0VU9CbHlBYl9KbnAxbHBQSlFpUEdNZFdnd09xeWNrd1ZXZEEtZlY3YWpBcUJuNC1xWVdBdkhFckpXMldYYUgzc3R2TWJUQWRyT2xwekJoTWhPNmJsbmVMMkRtS2FVSDRjUWhqellfVFcyZVlLWWh3alJ4SUFXMHkwbm5TZ3pBbW1ua1BLc0R5dw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

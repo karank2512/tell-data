@@ -1,0 +1,38 @@
+{
+  "domain": "arketa.com",
+  "name": "Arketa",
+  "as_of": "2026-10-24",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-24",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/arketa",
+      "postings": [
+        {
+          "title": "Customer Support Representative - United States",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/arketa/f55b7a7c-2b8d-49ba-8378-98d0c6dd00d0"
+        },
+        {
+          "title": "Customer Care Representative - Australia",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/arketa/8509f1cb-ccc7-4b42-aa7e-08f4c8c308e5"
+        }
+      ]
+    }
+  ],
+  "open_postings": 10,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:arketa",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

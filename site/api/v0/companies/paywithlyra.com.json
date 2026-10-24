@@ -1,9 +1,9 @@
 {
   "domain": "paywithlyra.com",
   "name": "Lyra",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.5,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-12",
       "summary": "Lyra releases her cover of The Pogues' Streets Of Sorrow - RTE.ie",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONV96WmdRZVdOQmo5aktvbXVVemNjZjdNUWpuOE9HQ0xWU0w0NXNJcXF2OWoyXzluLWgtbFdwUGI3Zk9NaktFZWVLbl8zd2ZCSDZEZ1lpWmlTMXNsY05FeDdqTGp6TFFsNmxOYm4xWDhqQ2p1NEw5cWZMaUJRZ05fYWhXX2h1VDRtUzM2UEVpNXBBNlBhZEhXWGgyLU9LYmNsRlc0VVItY3JyV00?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-23",
+      "summary": "Evergreen expands to Netherlands with Lyra takeover of Lantack - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXp0SjJJSDFxZUNoRzZBSTJOMnpJU2RsYjVpcFQ5eDY2dGFSc1doNFJtZWN6ZWFwd1VacnBFZ1VmczVTVGxuVFJQb1kxNldwcmlFSERURWxGOWdZNjFtX2tQalZwVklMaXpQVk9zekF5Umlrcjg2RWF3YVRIOTlGQkgzdmI1dkprSkJHcHQxMllmcjZDd2dqZWZ4aUExVmJLUnpfNldPcmw?oc=5"
     }
   ],
   "open_postings": 0,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

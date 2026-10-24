@@ -1,10 +1,31 @@
 {
   "domain": "forgehq.com",
   "name": "Forge",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 14.7,
+  "score": 18.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Honeywell (HON) Unveils Forge Cognition To Bring AI Into Facility Operations - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTVGOE1Ga2toczlBUEdtVVZqbThOUE9WQXFRRFZHbUg4ZGJteFJhQmlXWmtNem1jUVRwcl92R0VfWFRhMWlfMC0wV0lDTkR3bWNaXzZEX3E4RDdMc2oxbHBTeUFwRnV6VGVRSml1djdCaXI2akRwYW5Rb2J6Q0dscUxFRDhvNGhDeDNuYU9rN3lmckE1b2lDN3lmZnByWUZTdXpn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Hubbardton Forge unveils Christopher Todd Living collection - Home Accents Today",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWFlR2JmMGJhNEV3SFZnY1VjSlNDQkNVOGU3OU9zMWtSV29hQjNoQ3U4MVJIOFpRVmxmMGZpQ0diMnF0SzBwQV9peHFpcHd2OEhTSlIxcGl3ajBPX204UDk5Wl9xc0c3c1VjV2I5ZWN2VmlQSDdfZFdGRHByY2l5WFMyWE1XOXcwM1RpaXZMQVJ4cDcwVXdCc2dLeUZES2xGV0l6UA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "AETC launches Green Belt Course to Forge Data-Driven Warfighters - Air Education and Training Command (.mil)",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOGE1VFFjOXE2bU50UXdjSWM0cnc2TDBKdHNxUzFCYmlkRzlhQXZuZ0ZRbFBROWRKbWdWOFNKWW4yNHlzcUpzcC1abHFqTmZnd0xab1IxTWl2Z1gwU0ZhaWg3X083XzBPNy1FQldEWk9vNTNZdHVFLWhWTHZSQlhJZ2w3bHhOS2RpVE1YMHZKWkoyU01DNkhYSDhSamJ6Z2d2U3ZTaDA5c2g0MXJ0akd6alJuNVhaaEpjcGpReDVxaG9vbm45?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Honeywell Launches Forge Cognition with NVIDIA and Dell - VMblog",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYjVHemlDOV92NGFnT2pjcnU4cnhfSXRPaVBJOW5QZlBsblA3a3AxN1U4dGR3c05IVmNPUXl2RmVoaTZJRGI0QW5FMWVGYnhnV0hHSThyTWZwQ3VHRWNtWVZFaWIxRko5NWR4UVZSblpoOW51T1RXSWJFcUp3ZjRSQTFxMHFyTU5oUXBScUIyQlQ2Uk90V3Y4aDR2UGMyWmxqTDBlRW51djlqbXJzUnlob1BKWGVKeWNKSXFnUEIzNk9wbGg5YWRhTDNLNElnSUloTXFuRW9iUUhvRzJONlRUWnA4eG5vQVJMeUhJWUJQZVJEZDZpVVE2d3RZaVlBYWNF?oc=5"
@@ -90,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

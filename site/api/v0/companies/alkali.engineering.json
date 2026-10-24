@@ -1,9 +1,9 @@
 {
   "domain": "alkali.engineering",
   "name": "Alkali",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-13",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk1fX09wX2lNUEdacUlIcUNFc0M5X0tVQS0xdDlOdHNZNG1UaXZoMmh2U0pPMFNvN0pxaWlIaTNuNWltRGhLM2ZuLUViYl83MUZEc0d6RWtjSG9rVGR5aDJGa2VEVXFmSlpYLU1VeUo1cWZRQVIwRjlvYmV1WTZyV29ldDhyTThGSUdjTQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

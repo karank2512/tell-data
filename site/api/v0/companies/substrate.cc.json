@@ -1,9 +1,9 @@
 {
   "domain": "substrate.cc",
   "name": "Substrate",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.2,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-20",
       "summary": "South Korea's EST Expands Into Semiconductor, Glass Substrate Electrostatic Chucks; Seeks KOSDAQ Listing - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yYldDZ1FmZDdnclVQNTN5a0lhQTNYdERMTEdId3E2U2k5NW4ySEVycTBrMFZDZy1JdVhWVUh0cnM0QjJfSDIwZ2ZZNy0xSkJ0SGNtUVZ2TV9yWHZyT3Zyd1Q1dE5uLTBFeklPX0tqaGtwMUtMNXc?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

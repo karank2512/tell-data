@@ -1,9 +1,9 @@
 {
   "domain": "talos-us.com",
   "name": "Talos",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Sidero Labs Launches Talos Director - A Resource Management Platform for Data Centers - NewswireToday",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPandVckllcHpYVEhCTDhtNFB4N0V4YUJjcWtyTFhxcFdiNXo2QUhqOG5McG5jQWlmcElQUmoyWmppbUo4aURqT1YxbVNBZEVDdjQxN0haa1JMeTBtc0JiTTl4MF82RjRsdU9wUTV5NUlqem9TOGE1bWo3M0FERWFjZTFGd09LNUVyUjdOSDg5dTJXMDdqem91T2YyMnhkVGlVY200M01OT2JGSmx6RllCZXczaU90bmtfMUZETGxCME96czdt?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

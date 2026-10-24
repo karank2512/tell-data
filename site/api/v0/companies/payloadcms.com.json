@@ -1,20 +1,20 @@
 {
   "domain": "payloadcms.com",
   "name": "Payload",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 37.0,
+  "score": 36.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.1,
+      "contribution": 12.0,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Bondada Group Unveils T1 Electric Two-Wheeler at ₹59,999; Offers 200 kg Payload and 86 km Claimed Range - Auto Punditz",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFVSVWIwYWhUbV9yemtuSy00OHpsQ1BZYlN6dUd2aDZBdEVXRDFpS0tQQWt4S0Q5b0ZVaWszQXczdXZmYmVvejhFSGlmamF6a1Mtc2tjS3FvQ1ZPeDhOMmpaY0JRd0tJLUxWaS0wemZPTGFSTEVjZmVacUtVSWxzUUN4ZVpOUGJFY1hrR2FHS0s0UHM?oc=5"
@@ -98,21 +98,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Sikorsky unveils Black Hawk Next upgrade with more range and payload - Air Data News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1RmekV3UGNyZEJQNDJIb1kzREJkX1M1Nkg3bFdycFhLSy1INFlETm9mWlVJWWFIc242UGJtVXlOd3BHZWFadXUzN1dPSW54VlcyMzhSdWNBaVE4QktCN0pzcjEwYlJsY0tsR21vNm1nM044ald0VDFDZnoxWDBUcW9EWG5BVmJURWRBYWEyUjAwY3hsZF9ZRzRRREQ4UQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "China debuts heavy-duty wheeled humanoid and 110-pound-payload cobot - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSl8ybjcxcGs0NGNVVGt5RlYxcHIycjdNX1ltRHg0ZWFLQ2w1ckZja0FkYzJvUWVPOTFDYy1GY1A3NlVXU3BoUjB5N2VsM3Z6ZEZVV1ZneU9OV2ZOaVZDaVJDeDhrUDZ0MHdERHZrOHhWcjlBWTlpcmNqMk9Bd2dxN1NYaXZsenpTUmdMbVgzZDMyd2IxalRaMHJFSXBiU1E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Microcon Vision unveils MICRO-D laser-designator payload; initial orders secured - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXd2cWVqbXZqWDJTUlVzZWVTblF2dHRfcDE4V04yb0hQVEtTQ2NmYVNHZVVpaFQyME0zc1RoNjNXWVJNUFcyWnQtbzI5OGwzX3BieF9lY05IMmNiamRWN2xZdGI3VWplRTBadU50YlowMW9VZnYwWmpfTVVtVGZXTWp1dGVHeE1Id0EtdDhkVWdTQVhSLXowMzIxWm5GVHlib0ZTNUVXbmlENzJ4MDF2SVg5bw?oc=5"
@@ -153,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

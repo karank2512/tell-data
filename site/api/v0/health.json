@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-10-23T15:45:21.362319+00:00",
+  "generated_at": "2026-10-24T15:53:00.447010+00:00",
   "stale_sources": [],
-  "freshness_p95_h": 26.6,
+  "freshness_p95_h": 37.4,
   "sources": [
     {
       "source": "ashby",
       "kind": "collector",
-      "last_ok_at": "2026-10-23T15:33:27.988383+00:00",
+      "last_ok_at": "2026-10-24T15:29:19.950453+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 20513,
-      "inserted_24h": 123,
-      "freshness_p95_h": 10.2,
+      "fetched_24h": 6799,
+      "inserted_24h": 595,
+      "freshness_p95_h": 23.1,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "edgar",
       "kind": "collector",
-      "last_ok_at": "2026-10-22T20:26:30.788392+00:00",
-      "success_rate_7d": 0.8788,
-      "fetched_24h": 0,
-      "inserted_24h": 0,
-      "freshness_p95_h": null,
+      "last_ok_at": "2026-10-24T15:30:58.712798+00:00",
+      "success_rate_7d": 0.8571,
+      "fetched_24h": 1110,
+      "inserted_24h": 570,
+      "freshness_p95_h": 37.4,
       "stale": false,
       "status": "ok"
     },
@@ -39,43 +39,43 @@
     {
       "source": "greenhouse",
       "kind": "collector",
-      "last_ok_at": "2026-10-23T15:33:16.947137+00:00",
+      "last_ok_at": "2026-10-24T15:28:16.120324+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 12105,
-      "inserted_24h": 221,
-      "freshness_p95_h": 10.9,
+      "fetched_24h": 4031,
+      "inserted_24h": 695,
+      "freshness_p95_h": 23.9,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "lever",
       "kind": "collector",
-      "last_ok_at": "2026-10-23T15:31:59.790375+00:00",
+      "last_ok_at": "2026-10-24T15:26:20.780427+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 1640,
-      "inserted_24h": 9,
-      "freshness_p95_h": 7.8,
+      "fetched_24h": 548,
+      "inserted_24h": 65,
+      "freshness_p95_h": 23.9,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "news",
       "kind": "collector",
-      "last_ok_at": "2026-10-23T15:41:31.889738+00:00",
-      "success_rate_7d": 0.6452,
-      "fetched_24h": 86837,
-      "inserted_24h": 580,
-      "freshness_p95_h": 43.0,
+      "last_ok_at": "2026-10-24T15:43:59.791315+00:00",
+      "success_rate_7d": 0.6429,
+      "fetched_24h": 39630,
+      "inserted_24h": 327,
+      "freshness_p95_h": 43.1,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "smartrecruiters",
       "kind": "collector",
-      "last_ok_at": "2026-10-23T15:31:56.905674+00:00",
+      "last_ok_at": "2026-10-24T15:26:18.795297+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 237,
-      "inserted_24h": 0,
+      "fetched_24h": 79,
+      "inserted_24h": 9,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
@@ -83,9 +83,9 @@
     {
       "source": "resolve",
       "kind": "job",
-      "last_ok_at": "2026-10-23T15:44:47.377785+00:00",
+      "last_ok_at": "2026-10-24T15:52:03.464089+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 0,
+      "fetched_24h": 560,
       "inserted_24h": 0,
       "freshness_p95_h": null,
       "stale": false,
@@ -94,10 +94,10 @@
     {
       "source": "score",
       "kind": "job",
-      "last_ok_at": "2026-10-23T15:45:18.524876+00:00",
+      "last_ok_at": "2026-10-24T15:52:56.410213+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 7659,
-      "inserted_24h": 693,
+      "fetched_24h": 1314,
+      "inserted_24h": 284,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
@@ -105,14 +105,14 @@
     {
       "source": "publish",
       "kind": "job",
-      "last_ok_at": "2026-10-23T15:45:21.338225+00:00",
+      "last_ok_at": "2026-10-24T15:53:00.388226+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 8133,
-      "inserted_24h": 8133,
+      "fetched_24h": 2297,
+      "inserted_24h": 2297,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
     }
   ],
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378"
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad"
 }

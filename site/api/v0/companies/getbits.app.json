@@ -1,10 +1,17 @@
 {
   "domain": "getbits.app",
   "name": "Bits",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 8.1,
+  "score": 9.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Amelia's Bits & Bytes 10/23: Sonic Temple Releases Full Line Up, First Fleetwood Mac Doc Gets Release Date, RIP Tom Skirritt, SNL Release November Line Up, Defunct Mass Effect 5 Gets Trailer And More Pop Culture News - 98 Rock Baltimore",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYzBwSkZoQ0ZIUFBZYVcwb0UxcjJua2RsN1BhcGdJX0ZZbmN0eDA5UldwN1NWQXdFTTVSRmwweHpkWTNPbW8yTGRXNTVKMWNoeWMyWlVuSE43OWd0T3BTSC1SWnVlRzhsUjNPeFpFNWtfa2JPRTVVOXExbmhnWlk2Qzk2eGlLd09SUndaUWhzQllJT2EwQm5uTWdHNi1hQTJtOTFIZVhybkNWRFE4dDE3ckp4b2JhOF9YdWxWTjVQeEJRSDFwY0JFRmhOZEJKcXI1akZhTzlnVkF5ZUdLakdoMExqS2huWHdZQ3NpMTRGVlM1LWJZSGVZdFZDZ1NpNWRVVnNWZkhGSFRqOUgybFBPU3FybHo5emlHR0xMZA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Goa Launches AI Policy 2026, Signs MoU With BITS Pilani For AI Development - Prudent Media Goa",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWi1wWjZtNVp0OG1lMkxWTE5NQTlybFFOT2JMaVlFUzhoRUxhaGRrblBHeVhOZ3J0eWNMYV9KUW9RS2NhRDV6M0UwMG1BS2ktTklrdC1PelpEemRITWI2b2RuWmV1Sl9MYjFENDNHUEs3cENTVVZXeDlva19hOWlmdDkzS0pBNjJCWkxBblV1NW5zRXhScEl3NTRUUHpmcmh2bGZQMXlyam1paHN1Nzk0MGJaZzlBc2l4?oc=5"
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

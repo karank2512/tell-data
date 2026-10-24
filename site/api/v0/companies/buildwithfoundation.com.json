@@ -1,9 +1,9 @@
 {
   "domain": "buildwithfoundation.com",
   "name": "Foundation",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.0,
+  "score": 8.4,
   "contributions": [
     {
       "type": "leadership",
@@ -21,10 +21,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-16",
       "summary": "The [person] joins Presbyterian Foundation as Director of Theological Education Funds Development",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWXdaVVR4TmlyTWpCQjY3dzd3aHhzNzNGOEtBZGk1YUp6TlhVZHQ3YU9DNmk3MXZZZThQSmk0c211SkpFYmJNcGJrNmJpZzBHU2VLeEk1NW1xeGlGbm4yMWswMllTZ1VPaHlXdEFseDBEc1VjWkF5ejZpNVd3MUdaX2hZbzlMZ1p6N1JkU3RGcGh2dVMwYlhPV3plaEVObXBWc2RZWks1eVVLTGNIdUVCZEJ2c3dxQzN6SjZGdkNzTVpfampnd3VvczRwYi1VbFI4WjIwb280QVNHUWZIZUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Ford Foundation president unveils the $18B philanthropy’s first strategy overhaul in over a decade - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEtSZ0VUTzY5OWRZbkJtLVdqTldTal9ILTJ3c1VBVGU4Y3RndXh1ZzN1OVc3M0RjeFRjeW9kRnpqR1BOMGFraTJVMF94OUxLRWtBeWc4LTBMLXhUbEZybTRzcXphSlNrRjM1NkVnaWZPX3AxMVZGSG5oWEJPVXNxcFdOanhNWXZPNTEtRkdWNGozS1ZjTlU2S0gteHNtaUFLN1FENg?oc=5"
     },
     {
       "type": "launch",
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,0 +1,43 @@
+{
+  "domain": "noxmetals.co",
+  "name": "Nox Metals",
+  "as_of": "2026-10-24",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-24",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/nox-metals",
+      "postings": [
+        {
+          "title": "Factory Technician",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/nox-metals/d804fe1c-3bfb-4735-a1c4-f2a908705933"
+        },
+        {
+          "title": "Factory Technician - Weekends First Shift",
+          "posted_at": "2026-10-24",
+          "url": "https://jobs.ashbyhq.com/nox-metals/b0534de4-2c36-4b84-bbe0-d18223006351"
+        },
+        {
+          "title": "Factory Technician - Weekday Second Shift",
+          "posted_at": "2026-10-24",
+          "url": "https://jobs.ashbyhq.com/nox-metals/3848f081-a256-452d-8d2e-310cdda54515"
+        }
+      ]
+    }
+  ],
+  "open_postings": 37,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:nox-metals",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

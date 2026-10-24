@@ -1,13 +1,13 @@
 {
   "domain": "whatnot.com",
   "name": "Whatnot",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 26.7,
+  "score": 26.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.1,
+      "contribution": 19.0,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $547,000,000 offering, $547,000,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1844768/000184476826000001/"
@@ -49,7 +49,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-29",
       "summary": "ThredUp Expands Into Live Shopping with Whatnot - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkc2SGRRV0pETm1GVlJuQVFFSHY4WkhsZFNrelNRX040MzdUUDZKTjdvZnpTR2pEVHdEWjFwS0VWVmtVV2N6S2NRcjFJeloxLV82cUtrR3hMMXZLT1loTWFzY0hFdEtUdnZncXB6T0k1UWVGaTd6ZEdsQ0NiLXNwM3J0bkFQcWRRY1YtUTYtQkpVR0g1M3lEOUdOS2VXdEdqNklicjVYUQ?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-01",
       "summary": "Volunteers of America launches new thrift showroom on WhatNot - FOX 2 Detroit",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuZnlycFdyU0FmanBnYmYxQndaSWoycDRCeXRPekdEV0FOMDRTM2daVEpDa21GNEQ3Y1BldHM1OWhJakJ2bDc3ZDViWElDR1FiNmwtd2tQM3RvWEhuY0U1WkZKWDbSAWpBVV95cUxNQVZYUHZ5MS1FWnYwUXRleHRacEtvYlpkMXh5QjNKaHFCTUtKc3pyVmczemFxWE1SeTdMaHF5NjBVY3gzNS1xX29YOV95cDN2dUlDTnU1UXJOSDFCMmk1d3FPOTBmZzNYamVn?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": "0001844768",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

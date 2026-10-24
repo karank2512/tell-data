@@ -1,9 +1,9 @@
 {
   "domain": "tilt.com",
   "name": "Tilt",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 8.7,
+  "score": 8.6,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Amazon Says Blink Launches Five New Cameras—Its First 4K, Spotlight, And Pan-Tilt Models - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUlVfNjBsa2JoSkpuS0xKMHNDR3Nuek1hYkVWZXZLbGtvZ2JTczIweFkzSU9ONGo2dFNyUExnaW5KZmpaeTI2ZnRkTGM0TVYwdjBmVklPdGhBOWVxSGNmVnlfcWpYdUM3NVRZRXdXbS1jczhQX1pHNVlzMTY4Zkw4TVZoT3VKY00zbWFiWVgwRWk3S0x0RHhBMmZ3blNfa3JfaVJuVjVOeFNZUzl6TVNOX21qc1o3cmZuckFWNFJMNGs4eVhsWmlrY1pnUnUxTlBzZ2FvQzZhQ3gyOWZMUnNRSERqaklKRG9faUxxaw?oc=5"
@@ -48,13 +48,13 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTd5UHNfcFhsaGRaMXhGRkN0SVh0NjlYNmJZY1RFb29GWFZZd0dxVHBqSTdUX2dRdzU3ajN0dFYzdnJrREs5NDdZVE55WHBUWXk2bTJxUWE0ZUJMM0dHSTVKbjFCMU9YUlhQUThQWllvbEZDbjUxVm1QUVJTeWUtMXBvTkh5N0lfby0xQU9ibzNSN3JqRW5VaVppaG1UTnhQOXNMV29RYU0yaVpILW83ZU9RZExyTmQ2c0dwcEs1SjdseWc0Q3hqdi1RVnJqdHU4WDdnUw?oc=5"
     }
   ],
-  "open_postings": 20,
-  "long_open_roles": 6,
+  "open_postings": 17,
+  "long_open_roles": 4,
   "sources": {
     "ats": "ashby:tilthq",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

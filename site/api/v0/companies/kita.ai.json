@@ -1,13 +1,13 @@
 {
   "domain": "kita.ai",
   "name": "Kita",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "Kita Alexander releases ‘Back To Sydney’ a bonus tracks from her album ‘Rage’ - Inquirer.net",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEpPRWI3UmU4NWctVFZmcWU3U3pJbzYtZ3RTR254azRxMWRSZEtCQmxtTHZ6d0ozQk5BbmV3RC1HY0FtWUNJUXlZcFZzSEtUNWdSTlVBS0Y2YURfdVJWLTIzeXZwaDhyNjdQZUtiWjlKUkpHUUhKWnltRHJOajYxeDE4aVBMNlh5N25McWhPYjlPLVNYYXRXbjE5RkwwMjN4M3dVSkpIc00?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

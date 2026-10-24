@@ -1,9 +1,9 @@
 {
   "domain": "ophelia.com",
   "name": "Ophelia",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 16.6,
+  "score": 16.4,
   "contributions": [
     {
       "type": "launch",
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "Taylor Swift debuts live version of The Fate of Ophelia at gala - Minute Mirror",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ25JenBySTNrd3dzXy1ndUtpemNJSEpYZnlEVzJ5NmZpVzA2dTRpdlVYcm5Ed2g3emdVWVA0TWQ2Snk2ckRtYUxNM0FmbDhlUWZMYVVfODV1dzdGRm1ESWlkbHJhSVE1Q2FWQXgyMHpJcFExLW8tck9NV1FDaXR4NUI3UjUwSGduYnF0Wl81UnM5akNqUEpLTTM0aXdYR2Nr?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "Taylor Swift debuts live performance of ‘The Fate of Ophelia’ at Academy Museum Gala 2026 - The Express Tribune",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzNZTFZ0YUNoaUlZQ21Ic292cS1GbXRVZFJPS3lMSjdSNDRUdHdMMEhVSFZzaFpnemVKOXpYSndFUVJFWDVMWGtHNUc5RDdFZzh3YXEtMG1lRDV0cGFwNWp6WEUyVzFXcTJtMWp6RVZ2OXF4VWxDck9CazhLVXYwb0VmQWhEd2pYRERaR09BUGNweDZ1cHFPbDAtSmdNeTNxMHBFODZzWnBuZmk3TnRPRU5LSHUxZzRpaG9nOXlmOEI0UdIBygFBVV95cUxPbWN5TGtzYmJYR1gxclVUQVVZNV8tbW05dmNUYjM0YnRtMzEwQ1EyQXBmQW5uZ2tjVndYSjN4N25qdmdMTkJvU0U0TjNJZDE4em92R3NSQ1VDeGJHMzViSlBRR0FJSkhpSURzQy05STI5a0kxV0twY19IcVRQZHY2NDJqX3AzQVVDNTNfcHRSQWJ5ZkFxbVRDak1YREZtblRVZ0FOaDlvZnhoVm1oVlo2QlF5XzY4bE9JLW4wSV9mdENmQWp5MHBOZW5n?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

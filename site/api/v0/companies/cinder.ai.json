@@ -1,7 +1,7 @@
 {
   "domain": "cinder.ai",
   "name": "Cinder",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
   "score": 3.9,
   "contributions": [
@@ -27,13 +27,13 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazRXSlRib0RNcjJSMkZPdU5qdkx4US02QjREWDFieV8wYU1fZjl2cURRYkxWQUJYcFhmeGVBLUtmSlpkMkppNlZWdnVCeHBTZWdWb2dCMWpCTWlHLVNBRF9UdzhlT2JmOG9yZGkyMEdUSDc2TmdSeDF5MWhDMXEzbWVEamRERFRFckJJNHhfcUJmemtmcnBYMEVhZjVqTXM4akE?oc=5"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 10,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:cinder",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

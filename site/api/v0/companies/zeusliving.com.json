@@ -1,10 +1,17 @@
 {
   "domain": "zeusliving.com",
   "name": "Zeus",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 8.5,
+  "score": 12.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-22",
+      "summary": "H-Power appoints [person] as nominated adviser By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkJnNUhKYmwybVV3YnFBZk9CeE5xZjJpbXI3U0gzM1MtWVNzYmx5YTZ1RkdQdDZac2lWRzdyNXlZeFEzSjk0SVN2bHQ0MVROalRtd0JFd0xDaE5SY1Vac0gxRUQycWNpUFZfRnlpUGR3bzVpZVRxUm94blRCTlVyNlpqbEd4TThZWVVUWExXOXI1MEtkcExDQkNvTkp1VktPcXc0N3VVek1NOXBHMUdj?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 2.0,
@@ -14,10 +21,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-22",
       "summary": "H-Power appoints [person] as nominated adviser By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1lmZ2RWNDNpaU5LekFyN3NhUlRFdEFsVTNCRVVLdnFLcndfZWRyRzh2S25wQnBETTc2QUpvcTRYVjR2Mjg5THFjU012dTZqYWNoNl9Dcm10cnFVMWZMMmhyaVRoV09DbXhoM1RqT2xOWW5YTTlvNTFseHJySEJsN2w4SFJGRlNPcEZKZVZmMDZiSkRSeDFMWXBYVjZyeUhaaWl4eWlsbjNJQllQWnl3?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-22",
+      "summary": "H-Power appoints [person] as nominated adviser By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGEtQnJpOWhTVmVkMkdzQnloOFdieUo4U0hsSVZMZ1M3UWtEc05zY1BIdkJ2VDlYZVh3aXViRXJzNXJ5X3VVVVpDMGNhY0JDLVRQMjF1WENNMm83SjByR3VOYS1fcFVJd1FlbE12Ul9mYTNQQTc5YVh4S1U4VURpU2VzcGpXYXZtenI2SzU2RVY4M2VoMTRETktpR3RSdUI5aVBaampadmF5WkJiRUI0?oc=5"
     },
     {
       "type": "launch",
@@ -55,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

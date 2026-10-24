@@ -1,13 +1,27 @@
 {
   "domain": "outbound.io",
   "name": "Outbound",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.6,
+  "score": 8.5,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Roadrunner Launches Its First-Ever Outbound Canada-to-U.S. LTL Service, Connecting Key Canadian Markets to 40+ U.S. Metropolitan Areas via Its Smart Network™ - Chinook Observer",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQNVFZaWZkUW5DbUQxaTFMZDZtZFUyWGt1TWl5dktISnp5SU4tVXVZY1FSSW9UcGloN1JTOFFWTEQ2S0RERXFyWFVJR2pxMXdSdWFqb0pfakFFVTZlYWhRNk5TbC1YY3k5ODNka2Noc0U2WTdBeVV1N0RseExHMFJXYUtPZGpRcmFBZWstUVAySGYyR1JIV3BBUnNoeHlWLVAwZGlGQnFMaDVaREp6OVdhSXRCOXNmZXdINVZFRVIzWWx2ZmEwaGpWM1Rwb0tOSjlUZ0pLbWlpSjd3VnBXeVdZNmVnWG1kQWFkQzFUVVlIXzNGRm16RjJJdi1pUWhDM2p2ZzhuVmdkNGh3TWNwWnZ1S3lrVmxTU0E0eC1qYlR6YlNXUjhYTFJRenhqWTJOV3NEcHJzQ285RTBaUE9i?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "ETOA Launches Second Edition of Showcase: Outbound India for 2027 - EventFAQs",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWYwQXdIbnVreFZfX01RYWJ2ZDhOX2tPSVJPRzZDaUJlcEE0R2dWNlZSTms1dmw3bHBqb011NWN1YU81bUFBOG9EODFXZ1hNaEhJNFVmeFd2cWV4Q1JFQS0wZTlVTUZ2ampoZl9qTUthNkE2dnRTYWNvVVdyQVBSb191ay1lWWN3NTkzTkoyWWlmaE94NTlpOUs5QzBwT3U0MG9r?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "ETOA launches Showcase: Outbound North America 2027 - Travel Daily News International",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFp3Qzk0RmctTE41VVdqRG9DNnBiYVlsVnBwZ1UxQnhGTHA3T01WSTVtdDB4Z3BBa2JDTE5fbEJieldjemxySU5TeXUtR1RWTkNKZFZFai1xb0JuSEtQOXpDOUY0VFBFQ0RpVm9VYmE5UDZaNFc2YVRVQXh1WjU3Qy1OcTFocWs3S1dxbnpjMF8?oc=5"
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

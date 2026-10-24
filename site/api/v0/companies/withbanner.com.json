@@ -1,13 +1,20 @@
 {
   "domain": "withbanner.com",
   "name": "Banner",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.0,
+  "score": 8.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Cosentino’s Price Chopper debuts new discount banner - Supermarket News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmUxLXI2a1lUZzlxVjBtSngtUFhLNFE2T0VwTVlwQ0c2YThEdndVVm9QcTE5ZF92N01Ub01MejkyeGRNOUt5ZTdNM0lzajBJemFVWkNWWGVJa0o4RC1SZExtUW9TUUlBNnB5OVdqZlphbUxDeGZfVDl0aHRIdXpMZE13a3pEbkdBSmdGYVdGdTFsZHdxMGUyMVVWVQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "DDA Launches Downtown Business Banner Program - Discover Dade",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzJMRDU4ZUJtcGVYN29hNUhPZVBEVWctZzZuNkRQMEE5RUFpNDY5bVRzMEdTMU9xcjhYNGRPcGlDbXhvRXpsVlJGVWI1SklaenFIOGEzdGh3MW1sdy1kWmFSdnNlVU5UY1FrSGd3TWxNdVB0eGlvTk9HZGRLQ1hTaFVDZzNLZ2Zh?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "orchid.ai",
   "name": "Orchid",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.3,
+  "score": 2.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Orchid Island Capital (NYSE:ORC) Releases Quarterly Earnings Results, Misses Estimates By $0.02 EPS - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQnl5RTllLXdXZFF0a2paS3VzaXM1eGdqRXBpanpWeTZ0cFhBdW1mbHEzamNlNVZLdTJZUnY1VEVuLXhWVTVJNldPWkluRmljU1U5Qjh0T05ZY2FHa3hiRU92SmlyOEYxOXRwNlJGX2N6ZXhqazJubnNmMEZEaU5TbGJzTjdjMjE0LVBncW5hSjZkWW5Qb3FoSEhGOTZwZjBkR3Y5NjJMUlRucldoYThPR2xSajk2M1doYXUzcWxJdURoQkNfSGNpcGw3eFc0UHEtZktXRzJmSFdqa3pRTzB0dW5ZTnBFS0FIamVPU1Vn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

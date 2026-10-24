@@ -1,13 +1,13 @@
 {
   "domain": "ascertain.com",
   "name": "Ascertain Systems",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 30.5,
+  "score": 30.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 28.6,
+      "contribution": 28.4,
       "occurred_at": "2026-10-20",
       "summary": "Form D: $24,000,000 offering, $19,999,998 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2017592/000201759226000002/"
@@ -33,13 +33,13 @@
       ]
     }
   ],
-  "open_postings": 12,
+  "open_postings": 8,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:ascertain",
     "edgar_cik": "0002017592",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

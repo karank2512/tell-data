@@ -1,9 +1,9 @@
 {
   "domain": "avocadopos.com",
   "name": "Avocado",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.9,
   "contributions": [
     {
       "type": "leadership",
@@ -56,7 +56,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-19",
       "summary": "Colombian avocado sourcing expands to support year-round U.S. supply - FreshPlaza",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONGxEV3pPdWJ4dEFSSUhEbGZBUnZ5VTd1T3N1SW5hZFIxd3JmWWNteUtLZEJlU003eGNDUGwzQUw2R1lTa2xsTnRFcTlzVFExaVlYNU00NHdvbTJoSExlS2NsaE44OTQ2d25wci1HUzRLNmZtQUlSdGFPbnR0dHNDSjhhemFZWDZxM0xfUlU2eFRQVlBITzVfaUE4SHU2VVFTSUhkdHdubktOZC1UaTJaWUt5QlRmUVlBdjZpZlhJM2UwdDQ?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "shipper.id",
   "name": "Shipper",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Qued Introduces Qued Context, Bringing Facility-Level Data to Shipper Business Reviews PR Newswire - Chinook Observer",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUi1nRU9UOXBHQTVqTUp6T1ZLYjI4cERSdHp6aEVxWjZ4aGh5ZTRwVk5hSENHdzNnRm1JUWlwVnRoT2laVVc0OHExeG5zeEhhSEFzRXlGMUJYU1BDNDI4emp3QlRZeFdYeU1MUFVYMjJhZVZRVHVzdmROc1UwMGhSTkhWUTk5ZEdwSHhjUEx5UXd5YXZtYUg0SEVVbm1EZmxSR29lUXhUV3QwTmVvOTFTeVM3a1JDRk0yVWxodW1paExld2R4N1lHSTY5a0ZYQnZGNGJtNzQxbkdTeXF3ZGpUNTg3bw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

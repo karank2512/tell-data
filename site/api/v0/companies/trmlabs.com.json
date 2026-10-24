@@ -1,9 +1,9 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.1,
+  "score": 10.9,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - TRM Labs",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXRiMUd0NFA1YWgtNkMtdk9ORkd6VVN3ZlllWkcyU3YwWTVXYlg2dDZJRmliNXRfa2tyRWhDcjJFRDVMMjJBcFNHRW92Q255Ynk3ZkQtSDlrV2RIS3NTdjBGd3F0T2J0d19hT1V6eVRXRnNMUEpJOHJGdGJ2LU42MDNPUlJ6cFNoQjNhcWFn?oc=5"
@@ -43,7 +43,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "4 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/trm-labs",
@@ -124,13 +124,13 @@
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 128,
-  "long_open_roles": 40,
+  "open_postings": 113,
+  "long_open_roles": 34,
   "sources": {
     "ats": "ashby:trm-labs",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

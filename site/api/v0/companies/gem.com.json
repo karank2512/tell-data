@@ -1,9 +1,9 @@
 {
   "domain": "gem.com",
   "name": "Gem",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.4,
+  "score": 8.8,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-15",
       "summary": "Multitude Media Promotes [person] To New Senior Leader Team",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYUdYeGdsRU9aNWdnRjllSVF4Z2lmdUg5NGxxNWJQdmJub1h6OWZ3c2dUOEc4WlRnRTdNa1BjLXFCdjU0NnZIb2lQR0JPZGhnNUUyRUN6SWhlaGVqTU5rUTI4bFVicXJBOEEzZkpvYlMyOG00dFR4eG95a2k3ajg3V1JERUhONmxjV21iY1IyQkdxUzYtV3Q4VWFJUUY2SGt3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "NAPCO Releases GEM-XK5 Slimline Keypad for Gemini Security Systems - Security Info Watch",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQVVBid0NCLXNlSUpuTGxlbFBCUlY2czBiSnBPZ09uZVlXemNEeWJ2RTBBWDdPc2N0djNpNkVCbDROOUc5enM1Q0ZaQ0JhS0Z2T0FxNzhLT1RrTmlSdnBkdUt3SE1nVlRDS1pDVDlSUHltTDFhMWN5TC1jelN1TmIwRjhNbGRvak1IcmRSeFlmYmdtQmpqenVlY1dQZ2JlZW56bFhkVjlxQzNDZEs3RWFyWjRkaWVOWWhSaDNaU0h1Mk4zVWFUUTF4VG9yd25QcmpkSnFfV0phTGFIWW5SclNVSWFxTVVJTzAxM0gyZldYR1d6WktQazd0NFZfNFkwbGNnWDJqSHpEWlB6Rnl2RHc4RzJCZjZ0OHR2Y1lOVmVqV2NXYnc?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

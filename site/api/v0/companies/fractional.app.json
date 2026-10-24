@@ -1,9 +1,9 @@
 {
   "domain": "fractional.app",
   "name": "Fractional",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 23.3,
+  "score": 24.4,
   "contributions": [
     {
       "type": "leadership",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Bureau CFO Releases Fractional CFO Pricing Index Showing 32 of 47 Providers Publish No Price for Ongoing CFO Work - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZk5NMFdRQ2ZzODFXcTl1T21Va1JIU19EMFJuYmRKTk96bHFVRmxNY2V4dFhXWWQtNC1GTlZrTWYtVlNsYWNfUlA4VVNzbGF0YmdjMXN1cEpmVE1WVVV6MnRRc1FqTTBqZGtETHR5NTFKTUVFWS1WMzJjU3lPX3R4TjFFdnUzWTV5U2V3Rzlza1RqWWdpeWgxeG04VlZkTkxMVHNDcmprcDhlZmxyV09IcHZEYjM0X2dqQ2d6R2w5Wk1mam03U0w4ODg1T3B4QmtKNVdxSl9waXQtYmhCa0RBY2dZY29QNmEzbTZCaTg3cnRKOUVsTUtwcjUwWmJKWGM2UllPdnBsQ25nNVVF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Honda Aircraft Takes Minority Stake in Thrive Aviation as Las Vegas Operator Launches Fractional Program with Refurbished HondaJets and Challenger 3500s - Avi-Go",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RbWY3QzRWQi1VcVNKczhCMm5lSDVOeFFwaVBlVlUwWnlDZ3IyWUZ0alltQWh3WDJocTVhYVZHdlNzUVJfaHJMN3QtdVFaZFVlQzBUbTRpbUxmSFFMV1JqSEF3Yno1QTh3dTdlM0ZEajBjbWc?oc=5"
@@ -64,6 +64,13 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "Zerodha launches US stock trading facility: Selected customers can buy fractional shares without purchasing... - Bhaskar English",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeXItQ1RMUlZxcks4ZlNneUpEZXZuOUFxdDNnVDM1UklPcTFmdlRRZkpOcHFHZ19GbVRsb1BWU2plTGpkYThFMHZpdHJiRGNBbUpWVHNTbzUwaTZtcGItNDljWkVKbmJzcUZUU1RqZjMzQVBLWnBjTFVHQndlSmoyZUVnUWh3SVptUG1EXy01dy1ua0cxZ2M5YVdXSkRnNlRBaFR1R2MzVjU3SlVyY1ZLUnZUMjdmekHSAbwBQVVfeXFMTnRUdGpZVDRnSlBhMmxDWmVGMmlsempiMlNTZ3FsRjlSaFhfQl9raEhlRko3WU1iWWFfcGozbUI0dzF3X0tBUEI2MVQydkNPWjQ0aTB3LU96NEN0N19kUnYtczB2N0dsVlRXc0twQnFXWG5Ld1dEbjFad1JsQTVuRW02N3oteEp1MW1OeTRMWC1wN1FsLUZ3MF9RUlFmZExxTkh2cFJNTHVFcGRpTWdic1BWVXMxMWc2cDJLQUM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Thrive Unveils First Fractional Fleet Aircraft - Aviation International News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYTJLWkd6V2hyM0J5N3E4RTUxQlJWa29aRlp4OXZybW1WczhYMlJ3cS1JTjlOckVXS3ZUd09ZOHZuMHJ2UzdPUFpfRWEwTlQ4S0hmVEdFZTEzdUZxTGwxdGdRS1FSOFNCUHRGWXpWekNYM2xVZGhSQ3ljeDVRSEw4RGJaa0dnODFDbDF3R3hjOW50dWxyQlRuUnFCOW9hb24tUXI2aG9xTy04RGtFZWp1cnd6XzliQQ?oc=5"
@@ -125,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

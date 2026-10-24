@@ -1,13 +1,13 @@
 {
   "domain": "sola-solutions.com",
   "name": "Sola",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.7,
+  "score": 11.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "SEVEN KINGDOMS Releases Official Behind The Scenes Video For \"Sono Sola\" - Metalheads Forever Magazine",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbFU1b2NXQWVRTEhwYUc3ZWRsMWNvUHBxR2E0Sm5oQ211LUxWSUxDM0FXeEdqd3FrdnlwbVJ2TUFKb1lGclh4X1l3OVhGaWVkbEY4TzU5N0JvdktobGlzcFpGc3Z0dDZlVExuY2Ntc1Znc0RYYnVQbTlLS29ON19kWWVfbFhfRjJRYVhZOThLUzlwV1hVVUE?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "ARDE BOGOTÁ Releases MANUFACTURAS DEL CLUB DE LA GENTE SOLA - BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSUpwT1hwUkhnS3FVZ3dienFjdmxYVDNBWm0zc2JweEcyUzB1cklZeEtzeGdaTXJpVVNEbWtqVVRCajAzNTVyS1loMDlUZEYtcVJNQl9VVWpzLWxmV1A2THE1ZnVHOEhkTU53a3Y2OEVSc3daSjlpYlNRV2o2T2ZUeU9VYkhyWmZjSmJXY1NqanBndm9oLTBjdnBPemx1SE9LQVdZYTRpYWRyNjhuLVQzamxCd1E?oc=5"
@@ -69,13 +69,13 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR1lvTkdNUnpRR1Z2SkVkaVVXdjlxTXVrSzZuaGhZYm1vRnpSZjJuckdmbW1IX1lDNmpIMXBDNkgxMGJBbU1oZFIwVDZHU3UwWHFQSW5BV2JVRVBuYWtNNEoyeG5ZNmtQS1hlN3dMY3JpekQxcWt3VzBwUnBqb3hlbVNMX1VDZw?oc=5"
     }
   ],
-  "open_postings": 6,
+  "open_postings": 7,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:sola",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

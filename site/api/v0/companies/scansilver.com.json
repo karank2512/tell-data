@@ -1,13 +1,20 @@
 {
   "domain": "scansilver.com",
   "name": "Silver",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.1,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Swingers diner launches in Silver Lake with a takeout window that’s open til 3 a.m. - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHB3SnFtVXVXMXdPSXQ4ZGlhOWh2VE1BYTVSUEdtd2s4ZmJsTUNpbkhKdkhIaDQ0dS1ISi1tWXlrZEg5MHA2dXptMHlqbGVyQnZnMlZONVNGWWNQaEhkVUdzTm1fLTA5MlkzeDVvTk5OSktiMDJrMnVWNTJqenBGSnhnMjgzNWdOUUVZTVBQNDVCUDYtSGk1UkNURTNpR2VPR0drRkNjRGVWVFJwaDZJSm5tYjRtc1ZpQ0tEQlhCWEZfZms?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Central Oregon Strong: Becky Drury Releases Statement Following Silver Rail Elementary School Shooting - KTVZ",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaFBVdlNMUTBGSURzV2dMM2ZRYUNxNTl3OEkweGkxWjRwaG5qU2dsYU9tcUQtX2NhWnh3WDNkX1VTQVpOZkVieUpBMERXeVZ3VHRpWW8wOWpvMXJmTmdsV0x4UGNKbjVlbFN6NWlEVHhNYXpLNDVkWGNaWmp1OXI5SXlPUzVtNlpuU29LSUF5akg3MzdncExQY3QtM0Jsb204Ulg1V1BFbTVUbjF2TEZEemV2aS04V042T09DZE5LaDN4UVJ5WWMtT1hGdldhbERx?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

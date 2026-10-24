@@ -1,9 +1,9 @@
 {
   "domain": "daily.co",
   "name": "Daily",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "ADWEEK's TVNewser Introduces the New and Improved Daily Cable News Ratings - ADWEEK",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFU3QlNzd0w2T1hSNS12NVZLV3hnX0dWSmdKWHlOUkpOMnFHd0RpV2NPOERqYXh3ekhLVkpRcDItN2FrMC1VOTkyQUlSeFYzQjNJdmgxbGJXcHhnaEJDaXVGMXpUd3BDVXlTeF9YZE9zM05tVDBsRl8yclZLUDRVNTMxVkRrZEFVME1scDBEQ1E2eEtPQkJJeUNUSEFXOTdqVl9YNTl3OWxxUQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

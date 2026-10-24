@@ -1,13 +1,27 @@
 {
   "domain": "remix.com",
   "name": "Remix",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "NVIDIA RTX Remix 1.6 Launches With DLSS 5, 6X Multi Frame Generation, Minecraft Java Edition Support, And More - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWpBMXNZVjNUcHZDM2RXcXd6eWtXUFljY0tnajdWb3Q0bUJoaU5uMWtSaXRTSVpiZmhtTzFneFc1a00yQlU3NDlQbE5PWThhb0kxNlpUVWNTVmo3VWJOM1FqTk5neFZRNjNZT3M3ODFGb3pxdXNYeElhLW1PV2tLZE1HNVNSY2tXTTUwRl9GMDcyMktDNG1Cek4xRWlpWHl5LThLUGxMTng1ZjV6VGdkVGtFb3hXOUdNcU9GVFBybm1PSmtqOFlLMtIBzgFBVV95cUxNOFpvRnA0R0hJMl9TdHZ3dWwwaGNoeTBsSnZLWndybWtoLU1sRFdlelRtbHlDdW8wOTdEZXdLRHBBNmJFNmlpcUhOWUpjckRBLTZvcTAxdmtYQVRZT2RpOUZURi1mVDA1aFBMLWZLdUxYZkZUOVlYNF9rcExhS3VPT0Y0d2tBYzZ0Zk53UlZlcGpWbnQxbVFIbFBNMWJDMFNrUDcxX0QtQlJQUEJrMVppdnd6c2JPMVZJNi16WGpDcnRPbEdLcUwzOG84QWxHUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Cyndi Lauper Releases ‘Time After Time’ Remix 42 Years After Song Became Her First Number One Hit - Parade Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbUlvZU1WSEcyaGVPMHB2RFREX0JXYWlfRlpoTDdPNmdMRVNSTjBxLUJ4M0ducHJJNFl5b0lsOTBxOTF3VmJVcmlFNzJ6TmRmYzBHZUNhVnR6Rm5Vcm1NZEVTekpLWkdoVnFjTWQyX2YzV09hYk9xeHNSeF9fVXp0bTFCeGxNRGNpSDVIbjI2c1JQbWVNZkdyUGc4elJjZ05fNkFvaG5nR0dfVFlxSVVBRklMVmVJVGtUZ3Nv?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Roger Sanchez releases ‘Spectrum Refracted’ feat. David Morales remix - Electronic Groove",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdFdWS2RpS01nRnpUSFBKNGozanZNaUswUGVwSEROQzVWUWlsc1NwbnJkSjRHYnpRQW1BWEh3ZExRLXJoMjJCR0dLTlJxaUNXYy1WaVpLdHdmMU5ET0JPaFdMUklYd0l3ZjlpcGdXd3VqRnh0WmVTaXJXamVpQnVEVk5HSVlCSmFSZ3hob1k3ZUNMaHNPLU4tLW1fV0RiR3NyU2JB?oc=5"
@@ -27,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

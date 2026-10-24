@@ -1,9 +1,9 @@
 {
   "domain": "proxy.com",
   "name": "Proxy",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.1,
+  "score": 10.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Percona launches Valkey-proxy to ease Redis migration - ChannelLife New Zealand",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDk0QmltOE1LeFF6c2tOS3BnMWVwMHUyZkxxNjY0QnotQjdmM3R6T3F6aEhFb0tnajh3eDVrdHJOZG5VR1RJSUpTVUhIWl83NUdLSEZhcTh0SDVSSDRvY29ua1dCcEl0c3UtZGJ5OFN0Q0JRWW4tSWF0ZDdDN0pHTF95WkN4dFFiWmJfUVFn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Byteful, the Residential Proxy Provider, Launches TCP/IP Fingerprint Emulation for Datacenter and ISP Proxies - Inter Press Service",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMldGTFJQaU0yZVFhN3FNQ3RpczVQTV9paE1TUnhBQ1VUclFHdnB5eFBLR2g1b3NQR3FnbUlLbFhfMExiOU5ER3otM0NXQktSQktpMW9QU0NXNXdqTE9nWTI4bWhLRW1xOTFGU21OOExWUFQwUk9JdlNNeklSYmhKdnRSeEtBMDRqQ3h5NmpVeHM5VnJyUzJLSU1YemFLZnBuLTdzenhYYzhiZmh4SnNsd1p4QUMtT1R5d3I5SW0ya1VkdVk4UFdub1M0UDZRUlRsZWxWNGtNVjRKSUJQNjY3MFpB?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

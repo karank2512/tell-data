@@ -1,9 +1,9 @@
 {
   "domain": "h1.co",
   "name": "H1",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 6.2,
+  "score": 7.5,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -29,12 +29,19 @@
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-22",
+      "summary": "MAHLIFE: H1 pre-sales rose 66% as disciplined launches and INR 7,100 crore of GDV additions supported growth - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNeE5SY1lLSG9XY2VaeGlsTm9Zd1piUFNpRnlLdVNJc1pma19vaTBLdzRSd2piWWRkcDM5S0k5TTBrYUpwVklvT1l2UXdKd2FacmhrWFVfQUlQU0JRVk95S2k0VUFSUE5yUWdyM09FRXNfY0gxZDZoM1ZJODVEb0lrekg1anVYS21OMDRVcVV6YmVubi1JQ2M2VEdfTFBhNmNGczA4R3BieHhxWWplcG05N1pEMThnczBaQVZBdG1UOHNmUEFUdTlOU0lzVmRPV2NFSFJQYjhBQUZFaDloUE9JcS1CenBXdzZ2QWIzUUV2QVhrQzhmdnhCcFJPY094Yl9XdjF2djRsakhfc0pWOXgzUnZNbl83VXYtd3lWMExR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
       "summary": "ALPUL: Q2 back-catalog growth supported revenue as H1 new releases fell short and H2 skews to Q4 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQUhXUTcwQTJSeWFGT3hXa0RUNkhFR21SeXdrZlJuMmZwRVV3ck5jelRLTVlyTnN2LVZ6eWJmc2thVkd3OXR5U1lVREl1bU11aXBLT3lUcDV3T2NJQ3o5NkQyeTBtUEZoSDY2ZDFUSVJCUEQ1eEdNempCUzJid3VfVVlJeF9ZbGVSQ2F4a3E4eGVVQ2tUMXY5U0o5UkkxWUg0WjB6WTMtekxwb251Skw2Ym8xSHRuZmRlOEtIcnhQejNMVGt1YXlGSDBDWVJReGFqSkVQTVozckZyQ3J1WEVUMFBLaVlXdG1NWW1RTkFTYzdadjVFZV9hY0xEUVBiX1FjTE5fdUw2YUV2bzhDdHg4?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "BMY: H2 releases and resilient A&P growth support confidence in record FY results despite lower H1 profit - TradingView",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWXRCamdzcmEyNzIzMnJ6a3RqSDd0RWtIUTZfbFJ5R2N6RFdYdDhNRGZOb0JCSHNzdmpMZFBzRzFFVEs5SDFKS3ZwREVjUVdLdVNFeTdPaUx0YXEtUmI3R2ZmSUgxdkVYZHRaeFpBLXhuZTVnanhGWVpMNXBoMUFTSkNNX2ItNGJHZEZNUDZTQnpzSzNxUnZmMHNTbWRUakJQOGhIZzZLUDk0dFo4LU5VSDR2WkZGQ3JfMDlmeVRIZ2pJcWVuQXNHMUsteGFJQ1dsZGE1Q3NDU1NMX0R1YWZkUDFsd3ZUX3BZQ0RkNmxZTmFmMWV5eW9CS1pSVkM0c0UxdXNtNU1oRVA1UXpjSUJQZnA5MmxzZw?oc=5"
@@ -47,13 +54,13 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3F4M2k5SHZfUlBhTS1aUF8wYUViTVZQUEVXV2NON3ZzWC1RWHQ5YnlNQ2hGTk95VTRQZElMcC1RV21abXJjcW1hdnUyU3U4RUt0LXpxR08tZDgwZFF4STdvLVNndW0tWV9MNlFnVUhvNVM3a0ttcUlyekt0ZENpSndTNkd4VG1ZZk5uNjMzTlFGYkZX0gGUAUFVX3lxTE1HcXgzaTlIdl9SUGFNLVpQXzBhRWJNVlBQRVdXY043dnNYLVFYdDlieU1DaEZOT3lVNFBkSUxwLVFXbVptcmNxbWF2dTJTdThFS3QtenFHTy1kODBkUXhJN28tU2d1bS1ZX0w2UWdVSG81UzdrS21xSXJ6S3RkQ2lKd1M2R3hUbVlmTm42MzNOUUZiRlc?oc=5"
     }
   ],
-  "open_postings": 30,
+  "open_postings": 27,
   "long_open_roles": 7,
   "sources": {
     "ats": "lever:h1",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

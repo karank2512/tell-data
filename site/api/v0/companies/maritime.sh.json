@@ -1,13 +1,27 @@
 {
   "domain": "maritime.sh",
   "name": "Maritime",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.6,
+  "score": 8.5,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "IMO launches Blue Solutions to support maritime decarbonization in Southeast Asia - International Maritime Organization",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDdUx4TTFUN3g5VmRnRkM5ZWhCQXhpU1pNd0VVVzg2amRzYlRtMkwxNEhURnIyRXJLb0M1M052NW1rS2dmVExtSjVvQlgtZ3hybGwxQmMxSUFXT2t1aHM2WkM4MTJaMFR4VEtn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "US Coast Guard releases NVIC 02-26 to guide maritime operators on cybersecurity plans, IT and OT risk assessments - Industrial Cyber",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUkp3TlhzT21tVU1tbm1mZlg5Z0lGMWlDaXhYd1pTN1FTT0dQWV9BaTZuLW1KYmRxV0d4d3dJOXo5NlZrRlFEUWQ5dV94MXZqVFFNM1BzXy12QzZHbnNOblM4bUcyWERsX0lMMWY0SkQzRWt1aTJyU1lsdGRIdDlIMm5ZMWphNkpDWjRqa3NLMDUtRW8xT295dllNTUN3eE9sRXRQNlpMT1J5R3o4RnpUQ0pzbl9mQUwtcXY0YU5keWJIMDkzN3lhSUxIVmNHNnVhejh2NTlrTWFScXFLM0UwcGl6STU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Governor Moore launches maritime task force to boost Maryland’s economy - WBFF",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHhCR0RXcFFiZkxoSkhPcDIzVHFzQkJxNVpFRU1HM1dZc0tQNmFHcHhfTF9yS3p3cm1hM3ExeEtaR1JsMHdLRWFtd18zTEJ1VmRnYkZfOVdMX3diN0hYeUdrUE93U3dQcm5aVk03WUFZM1FLOE9UV0VfSUJNRzFGNDFkYzZ5LTMxeXVrUTBDVW8?oc=5"
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

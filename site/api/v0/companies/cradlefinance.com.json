@@ -1,9 +1,9 @@
 {
   "domain": "cradlefinance.com",
   "name": "Cradle",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.6,
+  "score": 2.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Automating Childcare Like a Factory: 'CRADLE PLANT' Releases Steam Demo - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS21tazJXZFh3YVJKMmIySEstSFYyRVlRbnVYbHNnb2stc2xjbk12bnU1VDI5UDZ0ZzhER2Nqa0dsZUtlRVpPMjhxejhYVGl2V2JnclpEMFpGWGpaY09QN2w5akQ3XzJmN0dKRGZoQi1kWnR2eGhPamlfcEd3c0JaYU9fMHFwejhFc09Jd1R0U0tBZ1VVZUEtLUZ3bFJqNDBoUDR3Z0ZDaHk5aXhfUjBwag?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

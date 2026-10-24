@@ -1,9 +1,9 @@
 {
   "domain": "conductor.build",
   "name": "Conductor",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 25.1,
+  "score": 24.7,
   "contributions": [
     {
       "type": "leadership",
@@ -21,28 +21,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Is Rockwell Automation (ROK) Fairly Valued As Its FactoryTalk Conductor AI Platform Rolls Out? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVlTaks5cmpRTXAtV3Q3TE1QNEd1ZzVHcnJ6VU0zRmRXbFdDQ2pEUkF4ZW1USUFrQ0trSmE2OEhDN3gwVjctNEZ3cUNacE1wNzNzSEZKY1lqbTN2UEVwZ2xCd2sxU21SdUdQX29jMGZMS1JTQ1FGR0pic0tzbXJiU0ktdDJfSkl1SHZXSFJ3VEdpcm9ZLVZpeWY1dVRzZ3QyTElhaQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation - KIPOST",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RY1FyMGg0MFZuUnR1Z19JZGpKOE04RmpFOFBlT3I4TFRIOXlHRjVjQXZxcVVpTzBDMTdHSEVCaHY1RVQ3dEJETlh4bHdfelBfeWJZOEVrQTR0MU4zajZ2SEFKSXlIajRrMVRvMA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcUpFN3V2QXpXNVlRWE9WSDFyZkJmQUZSN0F6cDdDTXY3YWd0SDVfd0tRZ19LWVBHODU2S3BaeW4wVWpXVGo1M1NNcEFSUEdTenVybHg5Qk9FRDZfNExLTmg5emdNRWZUOVV1UGtPS1M0MzRoMXI2X1pwQ2IzYTVfNk9GQy1pcWJ3a3NOOTVneHZKdnBNYWYyVm02OXhxZjFwaGhRcjZtRmNEUXFCZWk5UVJDOXVpOVhJZkpZdDZtS0R6bGtrUHU0Ujc2TDNjajJXSTA5anREd3NSNU9PWHRtZlpqbnZzY1IwSkRWUE54TWc1Q1RjaWhKNnVSVUQ3OE5uWEVyWUhNeTdBM2QwSEtPX2pkX0diQkU5LWfSAZoCQVVfeXFMT3FKRTd1dkF6VzVZUVhPVkgxcmZCZkFGUjdBenA3Q012N2FndEg1X3dLUWdfS1lQRzg1NktwWnluMFVqV1RqNTNTTXBBUlBHU3p1cmx4OUJPRUQ2XzRMS05oOXpnTUVmVDlVdVBrT0tTNDM0aDFyNl9acENiM2E1XzZPRkMtaXFid2tzTjk1Z3h2SnZwTWFmMlZtNjl4cWYxcGhoUXI2bUZjRFFxQmVpOVFSQzl1aTlYSWZKWXQ2bUtEemxra1B1NFI3NkwzY2oyV0kwOWp0RHdzUjVPT1h0bWZaam52c2NSMEpEVlBOeE1nNUNUY2loSjZ1UlVENzhOblhFcllITXk3QTNkMEhLT19qZF9HYkJFOS1n?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation Unveils AI-Native FactoryTalk Conductor Platform - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmxOZjdsMW5rR2ZlTkp6VEN4cjZLSnk5d0gyR25RVm5ydEp5YWdVTHZ6YmUyYUNJSVBkR19zcUdudHpabGhHWEpRWnJ5OHlMQ2R4LU8wT0x2aWJsQkpCR1FobzBqUGlDUV9SWXZfblI5VFQ3azU3bFFJdTF3YmJxZ3BEeVByR1pjV2NiMVlUdVktNkhi?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "avenue.app",
   "name": "Avenue",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Housing Lottery Launches for DOMI at 29-24 40th Avenue in Long Island City, Queens - New York YIMBY",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9aQVJxb2t6NVZLMFRLejdYN1Qwd1VLNHc0SmZHRG5Mb3JLTWh4bmx0aFNOTi1yaTNzdzdZYVF5aUlpWEtYUDl0QmpmUlZyczhVeVZ2emU1ZHVrR1hKRVY4Q3BDdzN5WTdKZFdPQTNfZjM4Rzk4M0s2VmVsTUJ4dHN1V3RFXzJzcmpSUGVsZE9BUmhOcFhUbThFck5ZQS16dnA0b2RpRDI4Z0xtZW1leHVpamx2YldrQl9r?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

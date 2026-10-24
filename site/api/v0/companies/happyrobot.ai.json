@@ -1,7 +1,7 @@
 {
   "domain": "happyrobot.ai",
   "name": "HappyRobot",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
   "score": 4.2,
   "contributions": [
@@ -38,13 +38,13 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamlPbWxvc3ZFRThxWVBIenp2b0plQXppMU9UUkJzNHRGRmo1ZlpsR3RHNF9pbUd0MlNnUHlYd2djek9reEpLY21wWEpOVWFqc3ZJbUtna2xUMUpIVXFfRTNIc2F1eXJFTmFBY3ZQUEp4Wm5QTHVGdXJDT0stVHZVSGo5V2FqbzZTS1hmTWtUeGRYd3lxZlp1VGRiM2xyeFV6R3BucUVDUmkyT0gzdWlKaHZhNkk5Nnk1?oc=5"
     }
   ],
-  "open_postings": 86,
-  "long_open_roles": 36,
+  "open_postings": 83,
+  "long_open_roles": 34,
   "sources": {
     "ats": "ashby:happyrobot.ai",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

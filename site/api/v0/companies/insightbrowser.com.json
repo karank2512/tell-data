@@ -1,9 +1,9 @@
 {
   "domain": "insightbrowser.com",
   "name": "Insight",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 25.7,
+  "score": 26.9,
   "contributions": [
     {
       "type": "leadership",
@@ -32,6 +32,13 @@
       "occurred_at": "2026-10-14",
       "summary": "Insight Global Appoints [person] as First Ever Chief Marketing Officer",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY0IyOFRyemdKUHo1UUdMRTM0aGppdEtuNzFUVUxnb2VSSHdMNjBWTzRnU0M3LWE4bktvTEt3WFVtOERmaFJ1d25kLWtCZjlBYkNvQWhLTVp0aEhkVDNjd0xHV3hYOWlaWEx3dEFWamw5SzRQZUdPT2RWc1VZOHBCUFpheTVDMFg1bGRRaWxWRmRnSmVINlh1VzZrMjUxTVJxSnRZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Insight Homes introduces Wynford Preserve in Georgetown with pricing from $399,900 - Cape Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM2lkelNER0F2ZzA3SzFCSV9xOUQ1OUhjNU5KY2JsRHNiV005anZEMHEwX3pCTjVpODB4VnZwcDdPOTZCNi04d1lybGVXd1ZVTm45djJBVWsxUXVZLWxnWW1Ic0wxUWpMOWlIa0tORHBBbjdZS0ZxU2V6d3BTVmVNR0p0cFctT2dzR2s2RVRlTUpfZXlWN2JlVFNvb3FxbnFCSFVQT2RFam5hemlUQ3FkSDJjZzhfeTV3?oc=5"
     },
     {
       "type": "launch",
@@ -105,21 +112,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Transportation Insight Launches TI Infinity, an AI-Powered Decision Intelligence Platform - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVE53MHBINThRaElWOUo2c1ppM0pwME1NbjdJcVVjdHVYSVRjR3JsVjhXMHR2ZC1qMW5zN0hIWnBWNXFxbHNnLW9sbnBleFVoWVBVZ0VfQjY1RW9ZRktObDJjOEx1WEFDM2RYMnNrTUdjZE0yVy1uLXAzcWRJM0JzTl80QXFudlJCVGZEaG5LbVJOeDNLX3NxSFdSU0pVajFITkhNLXZKNXc3MW8xTV90TXZhbVJoSXFXSjNMUGxQc3dhUUpDRTZoOWhSVGpHdmtYblFqRGhnS3VWcHU3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Transportation Insight Launches TI Infinity, an AI-Powered Decision Intelligence Platform - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYlZRWGFiZ1ZTaHY0ZEF4ODdtR2FmdG5xT3p3VEFTZVpLcGlZX3VRSXM1M2hnSVJrckR5ZVVpcUFVdjlNZHNRM1dGcjV4aDNON09MZ1FrVDExWjVKOXhNMzJGZGVGZlRDUmYweGdKanRySl9iMC1FenRnQnVUUWxQT3pKQTdJUWdialV5d054a2hwdEJYMzR0ZjRjRDBZbGNuWlBuRUFkX2tla00?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "CPP Launches Bronco Experience Questionnaire to Garner Insight for Positive Change - Cal Poly Pomona",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTGJSUnF6SkZrdTF0Q0JyWEJBZkItRDVRNXcxTU1QOTlxdW9VQU55SVA3X2ZDNHBMdU1pR2ZQVW5hUzgyLWxrUDVSNjcxMW9zbUFvSHNJaHhUM2RJVVhhYWtkR1BXRDFKdnMxMmRBNkdLTXpQRVM4SjlhLWtNdWtyZnJEWFZPM0pWQi1zS2RXRENyRnp0enhtLUtnZEFHT2JMcjlONzZ1UVEyXzRRdzJjOVN0TGN3UEZrTlJxWjNfR25qOG9vU3VYZU5fWEZiTHVk?oc=5"
@@ -139,6 +146,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "remihq.com",
   "name": "Remi",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 17.8,
+  "score": 17.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "Remi Tinubu Launches ₦1bn Empowerment Scheme for 5,000 Edo Beneficiaries - - MSME Africa",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlGMkUxc1gxMzNqYlBWdWc0V0FFaERjSEhEUkhyZmZMRjNzQkZsMl9yeGp0WmY4b2dRQ1Y2QU1SYXlzQ2pOdkVySnhpY19OM1JaSVlxaEpHODF4N1VFeVMxTERhSkZwcWN3Qk1wZmRkZkZ1STNTLUJjenY0ZVJKOUtocXV0Qy1fWEpMbl9xWUV5U0hRMmlpZFBkT2RYX3FVMDhTWF9oREZ0cWI0aEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Remi Tinubu Unveils N1bn Fund For 5,000 Edo Women, Launches 50 CNG Buses - Independent Newspaper Nigeria",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFvY1FNeUJaUEd4YWoyY1djTVFmb3N2TGx4MHgzM25jZzFBMjlhNzNKN2RKbUl5Y1dGaVVtcUp3TzZzOGxkemw1U05rZXFyUlVTNy1fZU5aWmZRckR3OTIxTXo0eUpCMmw0c1A5SEZIQ1RpbElOZE5JU0dBUnI3Nzc2c01MazVhZk5aX1pJR2otcE9heExZSk1n?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Remi Tinubu launches N2b school retention fund - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zM280Q1FjNEFQUkdJLVkyM2hTa0ptRUJqUDgxT3UwVmxySjJKeEdLUWx5aVRLMWRWWmI2eGJ3eFNKWk5hbXctY1NjeE5lcFhPMHdLY2RnVHVSRHg5dF9tT3c4QnpkRWgtTUdNMEtYYXo1YS1KVW5lTXdVVlM?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

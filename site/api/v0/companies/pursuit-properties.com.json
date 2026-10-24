@@ -1,10 +1,17 @@
 {
   "domain": "pursuit-properties.com",
   "name": "Pursuit",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Minnesota PBS launches 'Pursuit of Happiness' - kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjFVV0FNSmtybnU4anZfemp3a1VDdkNkQk5kVWhidURJbWVVVS1Ebks2dEliaWRxaW5xcVRRTWdVMklGMVItVTNwVmtlZ0hNeWVBZjQ1cEt5WGxoR3dFSzNyWjl6MG9oZkR1c2tBaDJ3d3FxT1B4Z3JQRGtqSnAwVHlMazNtSmIzcGZzejVYeUYtdnB2bGt4WG5IalFxVHFRbEpNY0hXWGtyMzZ6bC02V0JNY0FWa1QwWWxrdnFTbGcwTk8zcUZmbzRHZW1VWkZuZXZZUy1BR0k?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,0 +1,25 @@
+{
+  "domain": "harperinsure.com",
+  "name": "Harper",
+  "as_of": "2026-10-24",
+  "profile": "default",
+  "score": 1.9,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-22",
+      "summary": "ITP Media Group appoints [person] as Editor-in-Chief of Harper’s Bazaar portfolio in the Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeEc1VTBTX2NWQnBuazJlUlBuT3FWOTRGS3pkcW01V2dPbjFZOVFNeWlBMHZWOUlIbDVUN0pfcldCeE1fOEtTT1NxZG1oNmtGcXpSekJidkpNUlBjWlVGdC1JUmtjX045NGMxd1d4Zmw3V01haFBzcV9iY1FjSE1NT0FaaVR1SFdPNEZYRzRtNFFmUklZWVJGUDk3RGpIWHlONGQyYzFDd2ZuR3Y4ek9VNFVGOUxHNzhmN2ZPaXhxRlFkTWNnOGYyVnFFTmNEVjEtM256LUlhaHRCOWVQUlBEUkszcVVaVVMzaWc?oc=5"
+    }
+  ],
+  "open_postings": 36,
+  "long_open_roles": 21,
+  "sources": {
+    "ats": "ashby:harperinsure",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

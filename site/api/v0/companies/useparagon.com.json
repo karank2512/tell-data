@@ -1,13 +1,13 @@
 {
   "domain": "useparagon.com",
   "name": "Paragon",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 21.9,
+  "score": 21.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-21",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFpTTDM3WUZucVRBT05wQjlZNlVNeEh5bHgtU1RNMmdMMDRYXzgtdUJXOVdQOWNPaU9fWUdIVlY5azZ0QmdGaUZRaGJQQXVYcm9kcUFlZTFtQ2s3ci1ocThnN0Z5TzU5aG1lOUd4dWc2MlFMQk1ieDlLZHNTbnBiOTRiWWpVTXNBVjBwOWFZZUQ?oc=5"
@@ -84,26 +84,26 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Eeken by Paragon unveils new campaign, ‘Our Kinda 9-5,’ for Autumn-Winter season - IMPACT Magazine",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS1RMYjdPOElwOWoxNXlRV29BYUlwb1dUT3ZsRlQ3WTBvWThua1JRVmVTNEJnNy0yblRUVHBoVjRiZlFwV0FWcWtadDVXc0h0NV9rWFJuLTRnQ0poYzY0RnZrMWpvaExqcUpydnpYLVBDQW5VMjBtU0hPQnRMM0VlQldUNFNkcmZNY3UyN3VvM0pZOEl5WlVhYmxjOTNqeTByWGxnTENZTndnZ3ZuRW1hY2xyejM4bldJcTFSS1pyaFk5RVdFM09Ca19sNG0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Eeken by Paragon launches ‘Our Kinda 9–5’ Autumn-Winter campaign - MediaBrief",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUJabWk5cUprYXBDYWxKQ3FLeGdRYzBGNnFEQmlkbjNjQlBfSzdVdHUwcXl6bTVoaFRQS0R1YnZOckNTVTd4S1dOcDBKWGdPZkgwazR6Q3pLam9GZkFwRVNPeUhUb0EzYW9QWjh3MXVZenZPTFRkU0drcTdLYTd4dHk0bFUxR1FsMFNSeWhuVQ?oc=5"
     }
   ],
-  "open_postings": 1,
-  "long_open_roles": 1,
+  "open_postings": 0,
+  "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Paragon",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

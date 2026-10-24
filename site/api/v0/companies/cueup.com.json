@@ -1,10 +1,17 @@
 {
   "domain": "cueup.com",
   "name": "Cue",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.2,
+  "score": 2.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Breaking News - AMC Global Media Launches New Unscripted Clip Series, \"Cue the Laughs,\" Premiering Saturday, November 7 on IFC, AMC+ and All Reality - The Futon Critic",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQWUd0UXlzbVpkdUVubGZOTkRkRnNSWm51WmxxRi12eURINHdjNFlJQjdHSTZhVmtOVHJweXBWVjZXMF9fa3licVl0SGQ2V2FRQXlqOWJUTjhGSlpXSnlyblBnRklZX2pQeTktVnFTSDVDNkotS3p2X19yQkpHSDZ3eWVIWmZaLVNFQlg3NmZKcDNtaG9POE1fU1JVU2FYdzJuNUpSYTJSUHFnenVOYkVMYXlKc0dtYXY1SjhnY0ZhZzM1QVROZDdfYXBpbUxSWmZkNHRpMFYwSjc1d2lCNVREUHd5NTRSeDVkX1BpT083b3VVaGtFNkY0aWVGcW5qX1lwMm05WUhKemJIb1hVazNua0hpVGFPelQtZkZaUy1QSnJkWFk?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

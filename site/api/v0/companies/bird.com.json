@@ -1,10 +1,17 @@
 {
   "domain": "bird.com",
   "name": "Bird",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.2,
+  "score": 5.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "A New Bird-Recognizing Feeder Under $100 Launches for Beginner Bird-Watchers - CNET",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanJQLWNfZHlxLUJxVWJQNngzUTBaV1dkTVJZZHNLaUx6c0ZqT0pYMm5GN2RpOW84RU1EQXRkYmMyV1RQcVNSRjFpZ20yZUVCd0dia28wR2w2QTlDQl9nSF9HYWhmS1hBeUdhVUZrR1ZyeDdVMV92ZUZ4R2x4LXBCMm9HX2U2VjIwcTlOZklBVzh5UFdBaU05M2s0RFRsM09Xel90ZjVn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

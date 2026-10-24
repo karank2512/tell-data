@@ -1,9 +1,9 @@
 {
   "domain": "infinityapp.in",
   "name": "Infinity",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.8,
+  "score": 11.6,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Wolong Electric America launches Quantum Infinity high-power motor platform up to 10,000 hp - Hydrocarbon Processing",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZm5za1ZPc0xCRmctcVZhanh6R1BfT0ExSXZBRTY0Sk42UEdLRTRKMFZnanVSZk5NOElnMmhzRDdfU01lUVV0NjFsb25QUnBLd18wb3pVNXRERExoaTliX2FFNldYcjItVjJPNE84QUE0RUF1dUtxdXo3MWRJU2J4WFZWOUFCZjZkUXRZdFlnRjlmNWJPQVR2WHVRYzVDM0twODYyTGQ3ZExZaTc1V1dnODNHcnhUSWRDNkJaeW5ydS1maEx1ZDJOR0J5bS1oYzB5STBGMzh1TWVQMGM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Wolong Electric America launches Quantum Infinity high-power motor platform up to 10,000 hp - Pipeline and Gas Journal",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWp1dDQ5cnpfcE5iUERXeUJPYzZ2SzBNbkJXc21kRjZPUEZfRUg5WDJuR1ppWmNlWmg1ZHMxVG1NOEw3eHBJYzJGeWhRVGI4OHc4cG9Zd3hEZWNfaFdnbVFFbFFyN21vUzVZRmtmNXl0X1JkcXhBWGdiajRKUUc5VlBublRxNlNyb3FzcG5qSkJKcXIyX1NTYVlrY0R3ci1KaWV6bk5WbjRSRkc2dlU1WnMyRTY5S2FxbXJZUFR1SUhiLWpJRnhEeVZ5cw?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

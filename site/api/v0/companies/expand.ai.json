@@ -1,10 +1,17 @@
 {
   "domain": "expand.ai",
   "name": "expand.ai",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.6,
+  "score": 9.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-23",
+      "summary": "Infinity Appoints [person] and [person] to Expand AI Chip Inference Optimization",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQkU2QkFLS2lEdzVKbGU2TTI4MnhpSlpBd1lEalljd1IwOENLWlNZcExzVk02dFd4bXUzNFRvOGV6ckVCcnQ4cGJNeWpra3U3QnJmV2JRZWd5bENCdGpqWDlpTGZrdkpWZFk1bTlteGI4SDNwaGtJYWp1c1hyb1d3MllTaU8wVUpyVmluWnlseGN0eGU2dTZRcU1qaEtlWkhSWHRsOGY5TVlzOXkzZXU5ZF90VGM4TmJjZFNnc0lNUTlEMXpz?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -28,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Samsara Launches Agent Studio to Expand AI Automation - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTFsVUlVU2tCYk10Z3l5eWhHS2NUMWZQNWVud2JFVFowRUhuWk5RaGJWMmViM2hBZm9DMk5veVdGRDAwbE0wN2wtLWtiZnhVNTlkd1JaazRRbmNhT3owdXNkUXhQUXptaXZCa2ZZSXN0b0NkQVJhN3BQOGpmMlJTVjBoZGRZRzllaUxxblZ5Ni1ibW4wYjlWU0J5UGZBYXhVLTZvYlZ3MVdNZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Samsara Launches Agent Studio to Expand AI Automation - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0tEMHNKTlh2c0lfUWtjalF1SFhBSWdwTnUwcXlpcm5NLTRVRnVzd2NpZTVLbERnQlpROE04YV9jQ2Q5THhrSHVxaVlFVmFQSmp0NWlUN1pWd2VVNnZjLWJfMUpOZTNPQmxqMXJyeUt6QlN6cXVDMmRpeGptM3J1Y2YwYkpXTTNIMC13akhGdmZaZjFfam9oVmg4R0diNzUtX1E?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

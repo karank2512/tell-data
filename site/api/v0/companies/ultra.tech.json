@@ -1,20 +1,20 @@
 {
   "domain": "ultra.tech",
   "name": "Ultra",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 12.0,
+  "score": 11.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Air India Launches New 20-Hour Ultra-Long North America Route In 4 Days: See Map Now - Simple Flying",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUi1qaEdhekNpSVdiQzNnMTBHV0tBUUZrUVVReHB1QjNXZ3FLTHl0azFlcVJId3dYQUt0eG5OdVBVSDNUdFhoeUNULUhKMVVpalFDRGNDU0dvSGxMYlZLNnRuU2dzVU5idTJ1NUVPbGhoZ1ZEdmtWSEs5WWI2dUROR2VUVW9JX1VsUVRhcHVzUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Reolink OMVI 2i Ultra launches at $229.99 with two views and solar power - The Gadgeteer",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHhHeEZ0MG43bWdhOVphRkpnOUgxTE1XTGZka0E0NWYtNHdWZUVKeEtwWWlIWmMxT2U3UmRlckRDc21MUFpxYlNzeE81RUEtZU54dllxeVY4TGFFeEpkaGE5amVCa3kyWERETERzMzlnZC1RdDVqX1NYdi0wemZ0bG9vbzJMRXdSa0pfT1FNYTRhclFheWMtR190ZFM3alNTRjNIQms3WDNtc1RLVnc?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

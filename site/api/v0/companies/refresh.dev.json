@@ -1,9 +1,9 @@
 {
   "domain": "refresh.dev",
   "name": "Refresh",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 27.2,
+  "score": 26.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "INNOCN Launches 2780S, a 27-Inch QD-OLED Gaming Monitor with 280Hz Refresh Rate - El Paso Times",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQenU5Wmh1dVkzaGhXeVBGQ3F2YnpCUVhxMG5mU21uNlBrR1pqYkNYVGxVWGdpN1VQSUNScW5XM1FZRWZzaHFTVVMzRUhEU1p0SVFTLVZTT2JNV0JRbUphWnBmNm9IV1JuZWJCU25xaEhxQWRtVHdhb3NlU002akh6Rnoyb0x4SjlpTFFXcmx0Wl9GZlE3NHg5TVY5UDRqYVRaUXNDcEdFdVE3ME1Bb3o1Y29jOTdSV3ZWM3FINXpMV3AtTDlybzNqLWV4VU00YUE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "INNOCN Launches 2780S, a 27-Inch QD-OLED Gaming Monitor with 280Hz Refresh Rate - Akron Beacon Journal",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYS01UjFESExLWnQ5NjZvZVFPLWtaODlHNlpROGdsbG5PU1IzNG5QRGhyWXhXcDRhY08yaHpLTDNGa09OLTFieDVKVlJwOG84Vlh0bzVvSmdoSkNNaGRhTnNZV3IyOXd5ZkFGcHBGcDNwbUszREFoOWozM2ZzSWhEOFAtTnMyTEd2bTJ3QnotdVBtcUZGUkhZN0ZFbG9tc1ZMRWJTaUUyVWlQVzItalRYckt4bzdNUjAtLVVDcWlpLWpyWE5vVGVRWmlMR1BrakRsWkE?oc=5"
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Asus ROG Strix XG27ACNS launches supporting up to 920Hz refresh rates - KitGuru",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbkh6VDZnOGNnNnh3RnJKc0YwVjdVeElhNnVUd1NVSVkyRVdubDdmSDFiM0N5Tl82WTNIeFotOGh3ODNpZ3RST3FJYjlSeFE1THU2a2hQblJfbFpIOHA4OURENVhrcl9IU2twVGdSSkVRQVMzdkVkem5VbFRwTzlRNGVodTJPNlRXcHdqSTZIaHBKVXFjblFLZ0ltS1FNdm5QdkxBV3lzeDhtYkpib3N3RVNxZHRlOUNUcHllbklzNzF1NUlZV0d1ODVaOUIxRjBMakQwZU9VMDZIMmpPS1oxUGdhYnA2QQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "AOC unveils Agon Pro AGP277QKM with 1152 dimming zones and 425Hz refresh rate - KitGuru",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOVU4TlJsVGhrYkdVWkFyT1VoY0I5eHN4bzN6WE5VRGhuNTZ5WlE0a3h5ZG9ua1Z6OEljbUNMOUJJN0hSYnRFMWQ3VmNVX19Kbi1iMGdkdTAzQWdBY25EX1pIR1JSTnUyMnFMbFBoOEwySzREVmlMZzFuYk1kT3QxaG5YWk9IMENLZlppdmJqUGYyc0xfQ3V3SkUxUTJJMlFtdlZ6VUpReUpwOXBoTWhqWk5tRlMwTHY1STg3azg4TlhUSm9qS01DNWhwN0JLenFMNWZDZ0xPUkxLd2w2RW5FejhEdUdhMEItUFBLbHlDcW8?oc=5"
@@ -153,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

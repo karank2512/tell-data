@@ -1,10 +1,35 @@
 {
   "domain": "assemblyai.com",
   "name": "AssemblyAI",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 3.0,
+  "score": 5.9,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-24",
+      "summary": "3 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/assemblyai",
+      "postings": [
+        {
+          "title": "Forward Deployed Engineer, Triage (NYC)",
+          "posted_at": "2026-10-23",
+          "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747365005"
+        },
+        {
+          "title": "Forward Deployed Engineer, Triage (SF)",
+          "posted_at": "2026-10-23",
+          "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747340005"
+        },
+        {
+          "title": "Forward Deployed Engineer, Triage (Singapore)",
+          "posted_at": "2026-10-23",
+          "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747368005"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "sales",
@@ -27,19 +52,19 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "AssemblyAI Launches Voice Benchmark to Cut LLM Workload Costs - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRV9qV1duYnRjTXF3Uk9pb25zTmdrZVlaX1oyOV9uNFVrd3ptTWF0S3g4cC1jTXdiczVTU0ZDNXk3Z0FobzJ5MzNzSV9NRHh0MVZ4SnFrdUVFRVk?oc=5"
     }
   ],
-  "open_postings": 15,
+  "open_postings": 18,
   "long_open_roles": 0,
   "sources": {
     "ats": "greenhouse:assemblyai",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

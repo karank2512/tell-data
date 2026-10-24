@@ -1,0 +1,25 @@
+{
+  "domain": "assembly.com",
+  "name": "Assembly",
+  "as_of": "2026-10-24",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use - pv magazine Global",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLVNDT0p6THBQUU00X3JMcnNUSmNNZXcyNTVIREZNcmpVM0RnYm5HU2VqblR1ZkVkSHNzSGJYSVJQWXhudXNzejhxOGMyUnBVUGZfOU5jOXZfOFlFUTgxMlZJXy1FbUF0OHRFNDlKZFQ3bEd1aVJuckpmT3RucjQxT0NGazd3MzNVaWxCSnJ0T1pVYWUyVGJ0cEpBTGg5Qldzc0piN0ZxRkdFOXZuYlRYUWRpNkVOcnQzMHlrVUp0UG9uMlVLcW50YnJpM0F0cndPa2Y5UWE2cU42Q1E?oc=5"
+    }
+  ],
+  "open_postings": 4,
+  "long_open_roles": 4,
+  "sources": {
+    "ats": "ashby:assembly",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

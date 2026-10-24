@@ -1,13 +1,20 @@
 {
   "domain": "specific.dev",
   "name": "Specific",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 23.2,
+  "score": 24.3,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Longtime real estate agent launches Short Pump-specific residential brokerage - Richmond BizSense",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXZVa1lJV0xaXzdjMkZqdEFQZEplWDlNVm1pNXJWdkUydWRRQWdwZVdfNWNtSUU5cFBpU2N5UWFzWWk2SFU5ZENXTWwtUFRqZ2ZBenU4eXJBNktSOFlLbzQ0Y2llMF9ubVJMR1ZPV0djd1RLV1FreFBOY1NZRHRxaGlhMlhYeV9rVlA0SU1kWUFaVGw1Z0pMY1pMcU12T2FTMDFrUmtYS1F4QVdtdDAwZ1pESGh0UkpBRmc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "American Rental Association Launches Comprehensive, Rental Specific Carbon Reporting Guidance - Rental Equipment Register",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdy1feGdjaGlyYnpTVVg5M2ZpT3BmcWhBMVpMUUpJYVBDLXVMUlJYX19HSUN4QnNsWm9JUWtXSHJmb1FCMElVc3JpT3ozMDBsYUFNdkcyejFsQmNRdTlKTVNXX1FzVEFYSnQyT3ZOR1N0Ulp1Qm93RWhSZ3RtQWZMVlo4R0s3VmdEYktlZGlCcDlwQkk4dDlhcDhMcnM0ZWE1czVha2I1QnduZGlQTlYtRWhOUGk2WGZtNFVGd0hhYTJQRUtTdFRPZGNQZDI3MHQxYmo5aTN6aGQtdFBXalJOZXFoRkU2bGRSaE5lOXFvWDE5QQ?oc=5"
@@ -63,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "Beyond Labour Arbitrage: Sprint Labs Adds Role-Specific AI Training to Offshore Placements and Launches Real-Time Accent Conversion - USA Today",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTVV5QUlSR2xhTlc3T1ltODFhWllFbDgtOWJFTXpPaGc5cEVCNFJITVVqcXNvaXZpUmNYX05Xd0Q2bkFVOHlSZkZTQnlMSkNzSEwtRWxhT2NUS091dkREeThUUmJVX0tkNndfMmdQU3FwQUZsdFVENnYtNGNMUllEM1RsaVRfS2hfb1J3R1h0N3BjVE5sRFBlYkp6Rm0xNnNoQkZ0MUVCcjktZDV4Ql95MXZCLVVPZk9zU1ZRUTVNdGJBV0VXTkwxRVlnaVlXN1g2Q1AxNGZyWW9zdlV0WjVSTlR3VDhVU3BsWF91Ymp5ME9QaWtucEdTbUxoVjJKLUk1a0QzOFk0YVV0cV9mSDB3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "Flight-Specific Wi-Fi Trackers: United Airlines Introduces Its Digital Starlink Tracker - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80YmVudktkNDJEQXZrVFJDQjBFLUNaYl8waVA3eHhnR0hpcS1qSGpLaUhKZnIwVE5BSF9wc0c2NzlxVlBJYnpXMHlDdjJ4VVh3LU5aOE5PdWxOWkVqWEFzd2FjRFVveG1CZm93WFN5TXZtNkU?oc=5"
@@ -119,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Chinese Company Launches Legal-Specific LLM - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRlNReGdJTjNKYjRBTXNNMlU1Y1Npdk9EbmtnaWxMQkhIUDUyZVpMTGphWWx2UEwtRXRJQk9qanZsQkNqZHFBMk4za1dTN1JueWhTdVB6azMyaGxHMm5hcjFqWDRXOGQ0ZlNabXBPRk9pYUVob2dReHpLQWRtdkVGbUQwYTVjdUthRE1sV3VQTl9pdw?oc=5"
@@ -132,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

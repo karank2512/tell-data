@@ -1,13 +1,13 @@
 {
   "domain": "coba.ai",
   "name": "Coba",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.7,
+  "score": 1.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-08",
       "summary": "joins as chief executive",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZG5GZTlPeU9xYVZ2SzcwbGtOQW5TYWVxVU9fRWVnMnJMbzl6X0JMWnV5YkN4TF9pYzk0RU1VWWdjZEFMZ25wWW91TzBNdFRtSEtObnVCazV5ZFpxVUNuZDJRcE9FY0pvUnNhQVh4UGJQWEtnNzRlT1lmVUttemtPa05KUmYtOG9TT3c?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

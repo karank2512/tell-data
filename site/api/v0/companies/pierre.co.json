@@ -1,9 +1,9 @@
 {
   "domain": "pierre.co",
   "name": "Pierre",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.3,
+  "score": 11.2,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-13",
       "summary": "Foundever Appoints [person] as CEO to Drive Global AI and [person]",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NbV93dnhOcm16N21uam9aek9RWVd1UVZyQkhGclNPdE9Ic3h3RVFJYmI4NUdUVGw4UDBVZjF5OWk5WnZoWHNQRnNIYTgyMlduN2ZLWUhRTGpTb3V5N3lxRnp0d0sxaXpyU2JObDNESXBwODJyNXAyOVRIb0pKUDA?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

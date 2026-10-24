@@ -1,10 +1,24 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 42.8,
+  "score": 45.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model - Menafn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmh6TFktNlpuUzY5X0xSdFZSeDR3ZjR0Mi1TcnRmd091Nm41aXg1NW5zNk5VQkNhRm9IVlJsOHFleVRITGNkSExSMF9hWGt3VFlPUGhTR2FQNnNXUTZ5VFZvckN1TG1fNWw1dDhwMWJNNDB1akFSaGpqeVktMGYtcmNWUHlzb0ZNeE9vVG9sVGZ5TlhrSjBj?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model - Asianet Newsable",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVBWaWVJM0FDb20tbG9jcWdFaXRuRlhoTmV5LVBpZldaZWRsUC0xS0xuV2wzY01QNFVNeFk4cXduN1pWWUpJN2NDcXp1STlYVGxqMnJreUFMREF4NUV3eDVKVVNibmRjcE1DY1hTWFFoMG1LcWlaa2R0Z2xUVmxuOFhqMkFLWkhTZV9UREFVRGJhMVdqZkN0dFpMVmJBUklxVE9jbURiTnhjeTlaWlpVdHRkYTUzVkZtSDhIaXlBTUF2dWvSAcgBQVVfeXFMT3lrVE9QLVBMMnV6YzZPUXVOekNFMy1nbV94dk5WalI3MUw0WnpYM055RkRBMm50ZGhtbkR6TlE3RlNvZzFmS05Sc0liNXZENjRjS0M5MVVOSnBVUl85ZWdKOTZyZkRKNzhiQlE0V2wyY0dZUjJuVWFDZzVCb0Y2QWU5a3VJUWhPWUJlN0xGMDRKUkEyeDR3Ql9iV1dyTGM1akdwNFM0c0tZQzkzY2Y1cmVYQmJ4MDFVZ25ndm0zRU4tSXYwNENIVTg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -14,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Riemann Computing Releases 13B Parameter AI Model Demo, Aims at Disrupting Model Training Costs - Chinook Observer",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd2NONXZsaWZOOTBSZHlhQTZlVDNjZEllY3pFaGVxX2NNd3VxenYxeXpubTNLRDVXRTlWRm5mSXFMRDc5b2w1TDVLWGxWWlNTNUpjSUl0MFRYZFU4d3FhU1drbUJjUVRkT1BrSkJFbEZMYzlYWF91bzBHODZGcFdZWTNDLVhYMFV6Mnc1M3lMeWhsbHduY2xtUGdqUkxlLURvTGYxMW5pTGg3bXI2akQtWWZmZmwxaTgyVkVVYmZxWWpSaGVnYy1Kc1RWTmhMNzl2VGw5UHAxbk80ZVBCLUJNcnBTaUFEelRobUtSYUNJSQ?oc=5"
@@ -35,42 +49,42 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Black Forest Labs releases FLUX 3 Image Klein, a 5.6B parameter open weights model - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZE0tTXVtQ0xYSl9mVnQ0N1JQYW10M2ZxOXR6YzkzaHVseE1mQlNfdEUzajZXUnFfbllINldxam1pUXFIbS1pYUwtcjh3TnEyTzJ4Y2NkaTFaS3pyQ0I3VWhiTTJ6YlBQUzU5SVQ0QVcySGZlbTNPR29teFZUSmdDR045R0RKUk1VTlVrTFBKNERtX1JpSnM5WkhwSDV5OXBLS2hYV3dwYzA1LUFSM3RR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Microsoft AI unveils 2.8 trillion-parameter model, claims efficiency gains By Investing.com - Investing.com Australia",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2dYNFpQMXM4cG1DTjhJM05sN2p1dXZRYU1OWWFqM3FvSTVSc19qaEx2UnBZMDcwdkwtVGhjbGwzWU10TXcxWURCbVFzZkZfU1BnUWZOMXRrWksyVzB5WUdIcVBEVUllcHFtSTdsQ2FscGtVNkxDNFZFQi1CYTNITm9PbmZubHkwc0lmNkZ1dVM0eTBTc09GeTI5SFVKSlV2UVJNWGsyS2RTMXBPeGpRQldIcjBsVV9MZkZKY2xNT0U5S25wTlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight AI Model Built to Run on Macs - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUh1NldjcmR2b2ZQeWd2VDdEalNuMkJvQ1FxS1ZVUTBRRUFDODBvR1dUeVB2Nzg1YVh1NnkybTNJb3J5dWVfd1JFM3BhanJlaTJnelRmUDFtQ3JPRVpabzh1el9wSVJhM1lzVTI1Tk92LXZoTVNUTkNuVW1EYmg1ZnFSNy1GQWVEQUVZNkVQUzZwRjBlbUpvM2ppbGp4NWZybjhoTENTZTNQUHJzY1BfMElFaDFvSXUwT1lpQUNDTEt6U1dMYkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Meta Launches Muse Spark Open: An 800 Billion Parameter AI Model Tailored for Mac Studio with M5 Ultra - Inkorr",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmhIQTJKYzNuSm5ELVE5VU9xSDBkMFB2aFJPaUczZ3VTRnZCNW53R21BSGpndk1DeGI2RjlIM3ZGWGQzMDExbXZpQXFjVzhsRXpLU1R6bkQ1VnVScnhJeWJhZDZIV052NHRBQXI3d0RTaVJJRE9jTmxJU0VRU3BobEszbVF0ZldkREZJR1JMRU1XblVyQ3JpT0h1Q0lYZDc5YmU4b3hZZjZQdjFtaDN2d3dzd0E2d9IBuwFBVV95cUxNWmZaM0tPcEZqUUZzb0J6bVZDeG9zX184STRrTjRLMEkzaWZBS05rVjZ3UDc5WGtXeHEtSmNlVElnZF84TnJEUFd1NWR5UU5KQ0RMSkU1NTR1b0FuZENjTlhnMmFXYndKT0FOWTFlRXZKa0g2b25ZZ2dIVFRJWng4UllqZkpfTnBBMXBCQ0ZQNXpmdjF2SUQ1Q3d5ZjJManlJRWdjRjF5Y3ZKWTNzT3NOeDM2NmxRQ1RsMF8w?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Intel Unveils GPU D-Series For AI Datacenters, Featuring 480GB LPDDR5X, 32 Xe3P Cores & 300B Parameter Support - Pokde.Net",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVlI5YXV2dFR0d05MdS1lcHFSQjV4c3hDSHZOTVUzNlk4XzRWa1dOXy1rdlg2YjJGaVVmMTREcGZZNjU0XzNYSklCNjBzWlpxVTJ4enp3dHlDSlZldmRSRF84XzM4amgwY2ZFY2VpTk5nOGs?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight Model - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmZiN09kOWdLOVMxMWtCMUF3UUxOS1kzOEFsMm9iU0stZzcxY3pnM1VZWVZZNUt2Y0VJbGd6bFFLYnVVLXBMOE5QanlIRFR0bV8tSnB5anozMU1ralFzbDA1RklzRzIzeF9aZVlWV19oOXh3N3JsTlotQnlNa3A4UWJKaGZyeWQwUzNCY2Vaemw?oc=5"
@@ -230,13 +244,13 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYVVqZnBhdDVjbjVFRkxUQnA0cExncjJxRnFLejV2M3NZUTZ1MFBjRXFoQVREYm5sQjZzZ0wwNjZOUjFhSmJZYjh6Xzc1RVNvMmVucFpCR0FUa3hlSkFhYm42NTV5T2phdnc?oc=5"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 7,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:parameter",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

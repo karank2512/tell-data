@@ -1,9 +1,9 @@
 {
   "domain": "ashbyhq.com",
   "name": "Ashby",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.7,
+  "score": 3.1,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -24,15 +24,22 @@
           "url": "https://jobs.ashbyhq.com/ashby/044cc683-be16-471b-9af1-99cf70607735"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Poppy Appeal launches in Ashby for 2026 - Ashby Nub News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDZGYWYzR2ZieVlsUWdUTTVFR0VpU1h0bnI4MmhsbGhZM0pMSEpIbGMwVEZJclB3b2hheGd5REp2b3FqaGdNQ2RDMHY4Z3Yzd0xQZmQ1NXpsUjFYUV9CeEtEWFA0c3hLNXpqTk9FTDdRSTJ6Rk9PXzFPTGJBczRUbXJ6dVdHRUg2OUFXNnJ3?oc=5"
     }
   ],
-  "open_postings": 76,
-  "long_open_roles": 41,
+  "open_postings": 69,
+  "long_open_roles": 39,
   "sources": {
     "ats": "ashby:ashby",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

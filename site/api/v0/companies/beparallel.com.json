@@ -1,13 +1,27 @@
 {
   "domain": "beparallel.com",
   "name": "Parallel",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 12.1,
+  "score": 14.8,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "OCC Releases Yearlong Debanking Review, CFPB Opens Parallel Investigation - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjd0ZUJDd25NQmkzSlVMT3l2cF9EZk9ab3NmRzAzZEJzT3YtUnpCdDRvVGFMOVNXUmhhVEdXT1FIcC16V19kMlVNOGdOYmdlZWQ2Nlp5c2pETnl3OFZfbWtiQk9qWkRrR3Itd3YyVU42Vkg1Z3Yxa0p0SDRjSVFjQVBCb3VocWRS?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Mercury 3 launches on Venice, bringing parallel token generation to private AI - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZNnVWalh4SUs4RzJHLVdENzlHN1JSX0hTb095SnYzYUROdUxMbW15VE1sZ3BxamV0NWVEUkhMTzc4ZlJFYlBEQndDNENlRVF0RzlMYlVPazhYVGJFUXkxcF9UQTVBUUpjMFBuRTRjSVNSN05rNWxuMA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Broken By The Scream debuts \"Parallel Universe\" video/single - Chaoszine",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbC1fR2VSbjJLTkJvTTZlQXFHdjZCeTRTVm9KTV9Rbll0MExVbVBVVUF4QWRtM2NobHY5TVdudWRnSHdPMFdjN3YzekNiWnVBcVFyZlN4STJ2MU1DYU1ZSHlZOTJfU2RyajVZUmxwQ0UtM2FiY18xcjBkNkdrYk5IMV9wbVFnQldK?oc=5"
@@ -56,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Credo Unveils 1.6T ZeroFlap Active Light Cable, Industry’s First Row-Scale, Wide-Parallel Optical Interconnect for AI Data Centers - Credo Technology Group Holding Ltd - Investor Relations",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQbjBhWjd4UFR3UjhFT3pEX1g1a181RFlWbFZhSi1naENRdlc2ZlFvV3JqWUZRUDItVnR3Ym5hdVFpM2g0QXBEUThib3Z1NUdROVhNVUZJdlgxNHQ2MmdnSlVRNElRcmpobjdJaDZOLXFrZVhLUEhURWNNay1VWlhBQkZDZUV5TnVJaFd4alFLTS0tVmNNMnd1MkxtcnVhRU91dEJnczNxUGhlSHlIelU3dUVfaDBhV1YxTndKcHliNVpJZTY0dXVtcXd0cF9BX0txUjhoUFZHSUozcVJTcUt2eTZkYkZ5U1c4RnBnUVVDZFF1RXRqNGpGQWl6a2hsOHdBbkZkcnh5TUtWZUxyZzhza1ZtWlZTcmJxN1VEZ0ZaWFYzR0ZYd1VGV2VRdDFTQjJD?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Credo Unveils 1.6T ZeroFlap Active Light Cable, Industry’s First Row-Scale, Wide-Parallel Optical Interconnect for AI Data Centers - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tY0RRMU5aREpHUFVPdEZkRGJmNTlKQVlfMHhhYkFHM3E4MWVOOVVnc1ZyZVZXMDFMLTF4dHNUTGVZRzhGM1ZhUWJUcmxoN1duVFlVeEI5OHBhbUUtZzVYclI3NkQ1SF9YZ3Rsamo0RE5VcUVidTltUE9Haw?oc=5"
@@ -76,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

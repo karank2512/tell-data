@@ -1,9 +1,9 @@
 {
   "domain": "apollographql.com",
   "name": "Apollo",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 21.4,
+  "score": 21.1,
   "contributions": [
     {
       "type": "leadership",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "NASA HISTORY: NASA Launches First Crewed Apollo Mission 58 Years Ago from Cape Kennedy - Space Coast Daily",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGxxNFpYc244VXJaX0NIZzBIM2lGOC10WVhrM0tsNERRbXhNdUdCbElGNVBTMjhPR3d1N3RmR25vdkZxTkxxZVlvbWI3UkFTT2pxUEVSbkppY0tQY3BITnBGeDJKMFdHWHYxTjJzcW9uSTM2UDhxeVdtaXBGdGl3TW5CSTA1QjFEVVpPRmdMREg0MnVGMER2cDhFcDBZWkpqVnhpdFpjdTIzSXRpNmhxUm9BdThNbVhPSldFX2xIYw?oc=5"
@@ -91,14 +91,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Apollo’s Runtime Testing Framework",
       "url": "https://www.apollographql.com/blog/apollos-runtime-testing-framework"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Apollo’s Next Generation Query Planner",
       "url": "https://www.apollographql.com/blog/apollos-next-generation-query-planner"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

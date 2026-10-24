@@ -1,9 +1,9 @@
 {
   "domain": "jupiter.co",
   "name": "Jupiter",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.8,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Roland Launches Jupiter-08 to Celebrate 45 Years of JUPITER-8 - rAVe [PUBS]",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1NvcTVpZWRSVXo3T29DeUlFN3NqdVlMLWR2QlFUcGswLVBzbVVQbHp3dFAxUGRDTFRHMG1Qa2xYQUZ6YzlXRFFWbzNoV25CTTRHMzJDazZ4U3lnS0ZPMjV1TVo2OGZKamIzcXBWQmhSUFl4Z3Q5UURXa2FsLUwzRHZoUW0yRDY4ZlRxR1A5TzbSAZABQVVfeXFMUE9Tb3E1aWVkUlV6N09vQ3lJRTdzanVZTC1kdkJRVHBrMC1Qc21VUGx6d3RQMVBkQ0xURzBtUGtsWEFGemM5V0RRVm8zaFduQk00RzMyQ2s2eFN5Z0tGTzI1dU1aNjhmSmpiM3FwVkJoUlBZeGd0OVFEV2thbC1MM0R2aFFtMkQ2OGZUcUdQOU82?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "shortbread.ai",
   "name": "Shortbread",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "Lindt Launches Limited Edition Shortbread Lindor Truffle for Fall—Here's Where - AOL.co.uk",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFA1VzZ4cHVDWnhEaGo5b1ViVnJ1d2JxeGJtQmcyNG9KVmdSazREVE44X1RvdTBRUVpVdVRFa2pLanFDemJhU3hRZGkxZmFpcFJIMVo3eVlEVG9PYktBbUp5SkloVVhhX3F1N09JVVVhTnFaX2Q3bWhxUHd3LV9GX2xkc1N3bWdTQ3kxTDV1Mmo?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

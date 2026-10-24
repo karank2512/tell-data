@@ -1,10 +1,17 @@
 {
   "domain": "getprompt.app",
   "name": "Prompt",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.3,
+  "score": 6.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Quote.Trade Launches Prompt Trading and Advanced Order Suite, Bringing Institutional Grade, AI-Native Strategy Execution to the Dark Pool - The Daily Tribune News",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQQUVTMnBna29UaUNQWGtybTB5U3NnZmxFbEJ3b1kyaWFlZUFIeXozcUhNOTVEYzBnenR5Qk5DMXZzQ1NhNWYtRVg1b0x2Y1AwbHI0X0ZPb3RTUjRjWXpLOFQxZVRNbkVhT3F4SFRZUW5BY3JpbWxnUjM5RDl6LW0zSG9WeWRkb2tTSUkxbmhhMFRTVml3M2dILWk0SkZLYm94ZlJ2c1pvLW44aFQwTzh1OEJZdWY3MHZkak8wOUJmSVB0LVdZRHBVOTRVMXhrMWpyQkFiY3pDdVFUOHVyU1c2Z0p2eWRjQ1lZODhyNzlJdE1xbTQ3STlnMDV2OWt5U0lCRWJvdVI4MHlSUGR6Qkd2dU5OTmNwTS1ybXR4dUpRd28xREItLTh4M1M3a1ZjZGJkNHdkMDJtWThFMVE5bzU4dg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

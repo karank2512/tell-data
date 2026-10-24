@@ -1,0 +1,38 @@
+{
+  "domain": "teleo.ai",
+  "name": "Teleo",
+  "as_of": "2026-10-24",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-24",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.lever.co/teleo",
+      "postings": [
+        {
+          "title": "Senior Field Robotics Technician",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.lever.co/teleo/9d333c68-03ef-4916-ae71-4e52d198fe77"
+        },
+        {
+          "title": "Senior Field Robotics Technician",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.lever.co/teleo/03b12558-5f89-4701-b242-def610d652af"
+        }
+      ]
+    }
+  ],
+  "open_postings": 11,
+  "long_open_roles": 5,
+  "sources": {
+    "ats": "lever:teleo",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

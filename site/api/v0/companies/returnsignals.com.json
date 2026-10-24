@@ -1,20 +1,20 @@
 {
   "domain": "returnsignals.com",
   "name": "Signals",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 15.6,
+  "score": 15.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Revvity Launches Signals LabGistics to Coordinate Scientific Workflows - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGEyRzc0NHcydU5uc19wWVJORUdGemphYWJoWHRmbWgzTFBzaktIelVWUFVqWFgzbnpfZnVBc2lxVmMydjB4bmI2WlhMZUpiR3d0OU4wNHVGSTF5ckd5UDNuWWx5X2xEbTA2TWkwUXEwVzFkdWFET0MwSjZNczJjY1IxNjdyQ1N5VFJvc2ZJcGZsdVh6Q3R0cF9IVlFMektNZXZHcmQ1SjA0MHM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Hoxhunt launches Secure Behavior Detection and Response to turn human risk signals into lasting behavior change - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbkdKOEZaQlgybDRQNEFXWkJzUURfSDBtSDk5bWQwYU9Tb0YzZ21aM2lZSGFBWHp4elpONGRsTGszNTNUSUxRQnJzamJLMWQyYU9CYlRXaUtoTlEwNFI3OWYtb0VJdG5xUVhMTDdfUkdwM0pXMklTWTg5b3RaUXhreDB6MTJaeTJzRjhWalRuTjByeUw1eFllSkxaVGkzWDZKQ1N6OEFXMGYyRTVKUW9qMWR0Rk1KSUxDUGJCVnRnY1drWVFwY2tfLXRQcHFZU045aU9JMGt3QXl4aVRkUnliM2RFVnJuTUdJVmNlQmJVUmhRazZjTXhqcWt4UQ?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

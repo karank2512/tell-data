@@ -1,25 +1,25 @@
 {
   "domain": "tryjeeves.com",
   "name": "Jeeves",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.4,
+  "score": 1.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "OpenFX Ventures Launches From Miami, Backs Jeeves, Cyclops - Hoodline",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZmSi1nMmVZRW9qa3NESVpXUUlJaU92aE9ZSmtMNUU4TE1PMGxQbnNLT3lGYnhZSkl0SkxuMTFyLWNLeVlBQ3JWNEY0VTRDSEFnRHJzQTlQYkNWOElXbmRmbG52VnRVUzVWWlEtUFpmbV9ldGU2cDY4elBqYzMxLXRQRFplU2N0azBrbkRMeFM3Wm12aUpwWk1YZjZ3Q01m?oc=5"
     }
   ],
-  "open_postings": 85,
-  "long_open_roles": 57,
+  "open_postings": 82,
+  "long_open_roles": 56,
   "sources": {
     "ats": "lever:tryjeeves",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,16 +1,23 @@
 {
   "domain": "ambition.com",
   "name": "Ambition",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.3,
+  "score": 8.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-21",
       "summary": "'Not here for political ambition' Livingston County appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BTmJvY1FZeGpYaXFiRHUtOEpaaWRXWTJsV1JkbU1XY05hZTN1OVpYUVoyTUFkbkVhM1l0eG5jaEFYTlhEV0lNNHZOMU5PM0dhU01yT3lteGRSMi04YjRmUVU2aC1yQVlLUXphM1F5RmZCeUEzaEZn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "LemFi launches its biggest product expansion yet alongside a new global brand, ‘Ambition has no passport’ - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVGtPa01MamlMdFRQbm5RTnFtSTVqN3R1NTlBZWFVTTNiOFJEblVZaXhaclItMDRGOHFrN1lvZEhVNkZJTlA1dXJqN0VDazQ1M3VTVXY5SlFZTERYYTVOaVVjbExTSEYtbzhiblF5eW9uWWFheWkzMl9xRFB0c3NwNDQxc3M5bTBpWVZLaDRjamMwQWlFcW9NYlRTMTlPTzdJckFTc01hQ1FVcEZXbGVUc2R2Y3RvUHg4OVZzM0FSMC16MC1RRnVYNmNfRFJIdjh0bHhmYXZR?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

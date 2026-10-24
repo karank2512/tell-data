@@ -1,13 +1,34 @@
 {
   "domain": "solosuit.com",
   "name": "Solo",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 16.5,
+  "score": 20.7,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Halle Bailey Unveils Deluxe Edition of Solo Debut Album ‘love?…or something like it’ - YouKnowIGotSoul.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXZnTEVQek9CRWNIS3dvQWtYUld0ekZVemFHb0ZOUllBcXVKX3I3VVJVeDFhYTVzVGFLaGc2NHk5ZzlDQ0N0RFRwR0x2QlRQQThGZGh0a1lFM2ZGeERhc0NOaXBBY0VMZ3h3MVlaRjVtV09ZekNmUXBsajZ5MkRodW1qYVBUdFpVUUhJQWtqZm9pcGNKZE9ZOGJCam02RFdpenlYX09XdTZkZmtSdGc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "WATCH: A-ha singer Morten Harket unveils video for new solo ballad If I Ever See Your Face Again - Contactmusic.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd1VTUWdpX3NTZkYxN1MzQ1N2aHFQUkJkSWg5UmRvWlEwLTJVa2FMdVJqMi1iVWlDNmNYNlpFMGpUTjU2TmprTlJtS1dheEQxdHdvakZ3bWVjX2lwcUlVQVBxVW9XSEdoSkNkemxYNlBSQzVIZ2p6dlhpeDR2aXJxaExqenpFbWFleE1YMF9CTnNZOTZtbVRNQS1NbnZDc0dmclFVYzJJenA5V1JpRWNtTjNVcy05eGI2cWRQYzF2alRFWVRmM1k1QkFTYkxMVTlUR1g4Q3hlVTlGUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Tony Iommi Releases From the Dark, First Solo Album in Over 20 Years: Stream - Consequence of Sound",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4ZnRGMC1KeHZCUkVtb1lyWkxaMFdoS0s0VmVUeHRocElIal9MdWtMVEpjVEdudERWS3V5WUk3QUhySDhwT2NDWGswX1VkOTU5Y1QyajFBUl8zRm1LTERmR19hTDZUcF8xa3dFTF96NG9rWFJPYVhfMnR3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Solo-developed Cozy Game Restoration launches on Steam November 4th for $14.99 - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGpxNDNRczZmRGZuUG5ndUcyeWItSER6cmVTcHc0Wm05dnlCVXVxVFVOaDBUaWxTcVVoUm9fQXdRQlhwUlFnRWFXQTZ5c3dhTThKS0lNM3dHQjRaX0taSFNZQmVBbnYzUF9QSzU0RDVDNTh5enNqeUp5ZE01OTNQMlJoS3JZSmkzN2pRSmtrTk1IWFFoc1lNaEdCVDNPV0JhQXB6WFBGRHdQNDRJdEQ4ZDlfUENlS3Bpd3NZ?oc=5"
@@ -49,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "Solo Leveling's Latest Release Officially Unveils New Monarch - IMDb",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlNVFmb01JWG90VzJyeXI4cEVRZHN2UHlMWXlqUjAwTkhNWEEydVRVeGVNWFJSbXNPdDdPb1ZIemI4Vk9SYUJHTjdCc1FqQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Jazz singer Elizabeth Bougerol of Hot Sardines launches self-titled solo debut album - NPR",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYjRhcnluU1NlRWJlYXh1WDg4cXdjN0JpY2MxYjI5RE9iYUpiZVpFeU5JN0F1Qm9oVFVGVXNzYkdobDgwRU9ucnlEOXFWOFltLTJpSlExQ0xVbTdMRDltSGlMa2xjUl94Z1NYeTNmTE9YcnFTc2ZESlRkbWJ0bFJsMHZpSnRYclRWODJWZmdiRE9EZFYta3RmVE4wbHVtUnZNZGpkWVVCWVZ2aUREVmJ5ck1YWllITUVHckRoc0E3ajdYcURGSk1nbA?oc=5"
@@ -97,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

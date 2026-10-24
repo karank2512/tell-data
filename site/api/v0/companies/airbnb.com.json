@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 27.6,
+  "score": 27.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 7.6,
+      "contribution": 7.4,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 4.0,
+      "contribution": 3.9,
       "occurred_at": "2026-10-23",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -88,7 +88,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -119,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb introducing new rules for hosts - 95.5 WSB",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjZDcGN1eEhycmJVX2ZpLWhta2NkLVJXSnk1OHlXVkFncmdhMWJUNkxqZ3k2TTNCUzBNVWVyTkMzOWpLZTVzekxRcGVpVlVLSFhINFBGM0pYZHZCZjg5VEVfSUlyNEdYYXNYODVlTUdYSnl5Y1RTY3FXbnFLaXU0dUhPNUc2NXBhRTRyZ1JVR05mZXREdFBHOURxd1RjWGPSAbMBQVVfeXFMUHhOalBTY1JMZFViR2dYblJaTVFZRGk0OXl1bjNWYzd0YUpLR0ZKYmVPdWI0dHZLcDcycFNyTDFKbE9fZjVGdmlXZUhsRVNiQWRCVWJGQVZCaTZjZEFsZzhOMkVoYmJlT2Q0OXBXNVNIVElJT0xwS0dfNVM5enk1N1M0c3dTUXEycHdCSjFwSHdmUWNjM2pEdDVZOTkxZ0trLXJad1gyZXdmTndEa2xPN1JoRzg?oc=5"
@@ -204,7 +204,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-16",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -227,13 +227,13 @@
       ]
     }
   ],
-  "open_postings": 243,
-  "long_open_roles": 61,
+  "open_postings": 197,
+  "long_open_roles": 52,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

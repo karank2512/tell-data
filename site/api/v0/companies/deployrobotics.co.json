@@ -1,9 +1,9 @@
 {
   "domain": "deployrobotics.co",
   "name": "Deploy",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.1,
+  "score": 7.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Yourco® Introduces Frontline Agents to Instantly Deploy AI to the Frontline Workforce Through SMS - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNm9mOGticGlabGVEZGNseHg0NGpraVZfSEV2bU03M0lHbVk4aE9zaDRBeFVNSWdwYVdkUTA5Nkhnakloa0huWFhaQS0zME0xbWRSMHV0b2ZrbWJFR3c4T1R1QnphMnlOYnZiYmFpSW83bHJRWmx1dlJ0TzFna3BiN05pM2xobmpvWVBEWjduTFV6X3J4bmJjRnNxX1BOaUNWeW1aSS1QQXgxMThyRGc2YUpUbzVoZ3R5R091VEdpTXo0elgwSklZd0xSUjdXX09kSURzWG5GVWZVMnJpbE1FVHpZd1VHVndr?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

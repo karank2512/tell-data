@@ -1,10 +1,17 @@
 {
   "domain": "expo.dev",
   "name": "Expo",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 10.7,
+  "score": 12.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Ada County’s Park at Expo Idaho debuts with grand opening celebration - Boise Dev",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzJRS1duZ05JdmhiLWNnc2JrbmpQZ0s4R0dFU1h2SzZJUzRoZ1NxR2s4SnBkVTFEem93UTFpRU1Gek5McDdDWi1FOHhOS18zTnotVFRoeTFvWjAzU3NidFRXaVFBS1FVRjBKcDlZdnpyXzMza2dBVENsdEtJUWhBaHVFbDJlN0ZXSkg3a0xueF93YjVYS1B4UjZLV2VmbzZzV2lxUVpvUl84dw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -63,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-23",
       "summary": "How Posh went from manual weekly mobile releases to continuous delivery with Expo",
       "url": "https://expo.dev/blog/posh-manual-weekly-releases-to-continuous-delivery-with-expo"
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

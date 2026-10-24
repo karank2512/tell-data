@@ -1,9 +1,9 @@
 {
   "domain": "seal.run",
   "name": "Seal",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 13.9,
+  "score": 13.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "PLAYWITH Korea Launches Official Domestic Service for Seal M2 - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlNtSy04U0tHTUVjVE9YVjY0VDZtdGhhYXNjMl92d0kyVm44MWhHT3ZYRWpFYXA3Q0Z2VE1Rb1doRk8yelpaSVNreFozY0ZPeDVmeDhyN0VLbUxOZUJxbl9xS2l1SjkxcWpKZU5aWldrLXJoSHlfU0hFMmF4NVhUU3NXM1BRZGxtYmlRTldjTTQtdDVHZmppcUhtNUs2TEZXOC00dTQyZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Playwith Korea Officially Launches Seal M2 in South Korea - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNHV3dHdsazVwcFJfTEhxenRMM1lvRThSVGlDZWpNcGNmaDQ4cVhBeWtRTGJxeFJFU09VMjRoRWtfRVpCeVd5dTEyd3doX05UNXFYZlM2SjdUNjhHMVQwSWtEQnY2T2N4NjN0S3lOZ1hpaU80ZHJjdkZ4NGd6VWh1dTBVdzVneE1OS0pSSlVMMXk2b29zNGxKSUpLbm5FQ1l0Y3c?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

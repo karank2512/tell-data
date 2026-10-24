@@ -1,9 +1,9 @@
 {
   "domain": "lattice.com",
   "name": "Lattice",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 13.6,
+  "score": 15.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,17 +14,24 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-22",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVnFDQVpVT3czX0tkSm1Hd1k0T0sxOVItRFc2NVNLRUxIclh0TnlSMFhkaGtxZWIzdjh2R0o0NUp5azQtaUVuQTRvTmdnS2VUTU51M29wbWx0RzNXdXZIS3BkdGZ1U3VWRVpBY2Q1a0JfZnJESmhTck9HNG5kNmVRUUJBZExENFpYdnJyT1JvYmJqSmg1MDc2S05EZFlfZW9UNWRueXgyVHNScXFuWFRzUWlMOEh2cHFWYUlBMldlRnRybVdlYzd3aVN4VmhkUGZLM0wycWlHUk9vNjlUSUlpNXIwRjdjLTFpcXlwVk9n?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-22",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0h0WG01OW5zV09IMk5naElFeHhjYjJCd0VaN2Y1dC1WcVFHWUY2dzdYcUJSQlJ3RDRlVURQRGdybDZoaWFaUXdLMEM0LTV0MWFDVl9pem1aS01nNktIWThVR3BfXzVGZ0UyeGZMdFVseEFaRGlFcDQ2QjlLaTFTNV8wR3FnTGdEUldoeDVTeWdyUS1UdlhCaENwYmpSeDYtOU1HdDFsMERYQXd3QVdQbmhTTnJQQQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-22",
+      "summary": "Lattice Semiconductor Appoints [person] and [person] to Board of Directors",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRBOXkxZ3ZRTWFVbjNMdmJubUh6ZTljNm1hNE40QzhRZWhCZ2hmUGMtcFczYkp2Y3ZnY2x6WmNlUzkxYmZ1TlJsZDJ1elQzYUt2ck1JR3o4dDk3bnFnTm9FS244M0UwMkw2YVFuTm91V0JZZS05cWE1c1ZHOExvTUJxN2FvdndhOTA3TEo5RnJKb2R4cFdDdGoyNV81cDhkcEVEcnJn?oc=5"
     },
     {
       "type": "launch",
@@ -69,13 +76,13 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWThUeUZYYkY3X1U1MHpneDV2Z0duckY5NkR6dm81T1IzNjd5em9STWZIbW51a0JHVVBWRkFfaVEwU01oMEc5eklpaGFUYXR0T1JNLTAtZW5wTDNpVlNxbWtfTmZ4WEVTNEt5X3JwaVVqdVRjdG1PN0s2NzVzeTQxcWh2WndIQ1B4Z2R0NXByVGFFVm5YNndWYjU3M3dmM1RuRW9ORE42VDZOWU0xd1FhZXVmZi1rWlEzdnJMQjRCZXptTkRS?oc=5"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 7,
   "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:lattice",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

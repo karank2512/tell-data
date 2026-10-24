@@ -1,9 +1,9 @@
 {
   "domain": "genius.com",
   "name": "Genius",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.6,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Genius Group Launches Genius High as a scalable model for AI-Powered Future Schools. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR09heV9uQ1pLOGpLcm51OVJVSGE5M0NJZ01SakJraVRlWG42X2t3dzdsdUlCOXl4ZVU3T2dqaXU2T0R6TFA5Z0lqV09haU5KN19wa2EtQzdBbzc3aXJYaWJIdk11X2ZXYmlCVUczSUlxWGNfRWNhZXJlUkZvWHBsdzAwVGZhNVNzcEhnLTV3M2tQb01OUmVtVnNVbGkxZw?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

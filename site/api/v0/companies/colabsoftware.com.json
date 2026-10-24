@@ -1,10 +1,57 @@
 {
   "domain": "colabsoftware.com",
   "name": "CoLab",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.2,
+  "score": 6.6,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-24",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/colabsoftware",
+      "postings": [
+        {
+          "title": "Customer Value Manager",
+          "posted_at": "2026-10-23",
+          "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5461013008"
+        },
+        {
+          "title": "Customer Value Manager - Europe",
+          "posted_at": "2026-10-23",
+          "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5462534008"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-24",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/colabsoftware",
+      "postings": [
+        {
+          "title": "Industry Strategy Lead - Supplier Ecosystem",
+          "posted_at": "2026-10-23",
+          "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5462049008"
+        },
+        {
+          "title": "Sales Engineer",
+          "posted_at": "2026-10-23",
+          "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5461087008"
+        }
+      ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Seams Like a Good Fit: Sean Wotherspoon Debuts First Mizuno Colab - Sneaker Freaker",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEREOThXZWgyekZndzFNeVZ0VU44bVM5dGhSWlpkSE9IeElGZ05CaTVzOFNMNE5UTjlSM0lxdkRid08zVlA2UlBhNjVsSlBYV1BKV3JZZjJqWno5cTRBOER6TVZ5NWdTV2xxX255NEItcUpsVzdZb1NCLVViMXBEMF82YjBkVTl6aVF5S3RfdkpnbC1oekt0b092cG9JandBOWc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -13,13 +60,13 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmItMC1mZGpqaExCZ2JmXy0wSVFIRTZPM3FyN1RMMU12d003WUFVVnotemdQOEFlS2lXUzJ6SHlnRjRIQktWazJfOHVhQWV1NFN5cmlyaWFmVVdncGtPRUpEQndDb0YwNTh5NHhoUkRsQ0N6OVJ4akZOWU9UUjNQOVZfSGpUSi15TVprVXd1dzRBRUNDX3RnUVdRYlVfRXVyaDdLeTZ1amJVNGhSa2pJTA?oc=5"
     }
   ],
-  "open_postings": 27,
-  "long_open_roles": 7,
+  "open_postings": 28,
+  "long_open_roles": 6,
   "sources": {
     "ats": "greenhouse:colabsoftware",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

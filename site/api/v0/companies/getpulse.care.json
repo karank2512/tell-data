@@ -1,10 +1,17 @@
 {
   "domain": "getpulse.care",
   "name": "Pulse",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.3,
+  "score": 5.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Introducing The O’Neill Institute’s Health Pulse - Georgetown University",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52NXJFUURSNlltRTlKb3NfTzFsekdydXRIUU5aa2pSQzhmcTZxd2wyMGJCUW02V0NHQk1tY3Y2UU83aWhGMTBUeUd5TE5ndW9acUd2SmpLbGxsalZBTFdRMEJ0WFBOVGd2Sk11S2oybTYtMTM3NWVv?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

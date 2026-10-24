@@ -1,13 +1,27 @@
 {
   "domain": "pops.fyi",
   "name": "Pops",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Beyond Resilience Launches Fro-Bite, Mini Brittles, and Crunch Pops: Cool, Crunchy, Seriously Protein-Packed - Nosh.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPclEzTTF3VlZOU2FGdnRETnpobHB6SDdYSndEanNkUGdnbHFvLVBNZlhOemxZbG1wdUVhbWxGWTRFLW14alU4em9WQ183TGRzbHZhYW9QVXM0T2VFQzVJY1Fqa0JZSzFPWDdKOVdQU2hkNjhodThtc0Fob0c3bktweXJiRDVYQ00zN2lKWjRwTUVaR21sLUpPZ3pRSDg3WUROaTdNZmdLZm05YmhmYUIzS25MbFpzS2ZlTUs5cEEtUnVIYWVFVDlnYUVkZjdzNnd3amc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Pacific Symphony Launches 2026-27 Pops Season with Broadway Star Idina Menzel November 6-7 - Newport Beach Indy",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNzd4N1owdzV4RjhYTWFPc3dxY3hYd0FrUmFMNnljelhndjd1Q0NqUHRGeXJTV3NiYkFuRm5VRVZlRmVDSzZjdjZ2RHlEendkN1c2bHo4eDdsS3VfQ2NINklvaFZrYkJSQ0twWnlfQ2tLVDBPeVBTRjVFNWhINndSMHJaTGVNd2tWOFB1RlZxcGozUzVkT3lzemVJSUxSOWhXTGt3dEpONWg4Z3VaMFRNdndIWEgwSEIyYkRxUWJtME9hQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Cleveland Pops Launches 30th Anniversary Season - The Land",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd3RxRDZ0MzRlNjNzZVE1SGpGZV9zNjFnWXlWWU85dExGRXptZTh3NXFSczJDNmJBRldnOElIcnB5MDBIbDhmYWpsaXBWVkd5WkVXaHZQZVpMWTFOcWllVkRXQ2lleTV0R3N4Q3NjUnM1NzRJQzNnbUtxRmxpZzIwRHRVMA?oc=5"
@@ -20,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

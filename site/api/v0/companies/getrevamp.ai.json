@@ -1,9 +1,9 @@
 {
   "domain": "getrevamp.ai",
   "name": "Revamp",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 13.4,
+  "score": 13.2,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "Pasco unveils plan to close, revamp schools in struggling west county - www.tampabaybeacons.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2Jwc0tkaU1XZWJXbzJuYUVnc003VVItTlBwaXZtbHN2b2h3YWlPWVB5dWg3aHZ1S25nTFB0MjZkWllqMy0zR3ByZGllS2dWSWpEVFpzbEpVdmNZLWxFS3Z1QWgzWURxMTJibGRYSnUtYURVbHB2UGNHNUJHWlRsZWFxRzdHMUtPeDRidUNZZmFZVW43bEtEd2lkNjMzV2l3VC1qWjQwTXRndmx3OC1oS3Fn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Revamp Garage Door Company Launches New Website for Garage Door Repair Pittsburgh Customers - Lohud",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZnc5VVJhU2dDdHNLSVp3cmVubnN6Y0VzNDNSQzJfUFhqLWFOVTRMNG5CcGFxSzh2ZE56Ql9YZHdFcy1McGdpSFplcDVITlBXeXBqWHhsV1BtN3VaZWUwZXR5Tnh1dWVYTm82c28xZmd1VGRkMXNSZDRRdk93YUJORFhrVUNiaW5fNHhmUWhLNVJOZkhyUkx5cnByTTJ0ODVwbFM4MGRsaUJteE5JYlgwMWwxZmdYOW55QXZnU01tZF9kUm1xcFRqcURiSmFRdEdVNTQxV05SY2I?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

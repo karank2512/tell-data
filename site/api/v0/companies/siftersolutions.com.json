@@ -1,13 +1,13 @@
 {
   "domain": "siftersolutions.com",
   "name": "Sifter Solutions",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 14.7,
+  "score": 14.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.7,
+      "contribution": 14.6,
       "occurred_at": "2026-08-12",
       "summary": "Form D: $2,752,600 offering, $1,252,600 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1830995/000183099526000002/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001830995",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,20 +1,34 @@
 {
   "domain": "turntable.so",
   "name": "Turntable",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.1,
+  "score": 13.9,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Technics Unveils SL-1210MKX Turntable Built For Modern Club Booths - Undrtone.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BU1dqUlNRa3VtaTZoM3dYLW9qNEZldUJKYkpnOWZUWWZkc0YtWnliYXFzLUZQVXNheUpaQ2xQNDhDcExUeWtQUWRUU0FuV2QxVE1KS0lIb0c4ejFHZEdESzI3aTNJQllhREJ6dV80am9xbTRDWWZ3b0pUWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Technics unveils SL-1210MKX turntable at ADE 2026 - Electronic Groove",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IMVpYVjBxcUVlTVhiQ2ppQ3ZkR3JUWC1icnppYnpjYTV2MkVvWXJuamlXc3lPczQ3Unc5d01WSEhTTlcxd3Vpakl0bUNRcmZDd0FXNjVVWjRCaW1XeXRPbTRKYVhMRTZja0IzWlp6U0lqX1hiak5sd0pQUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Technics unveils SL-1210MKX flagship turntable · News ⟋ RA - Resident Advisor",
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5HNUdPN2JGN0FaamRWbDhMM1NoclBEMFZGdVVBMHduV0lUajFoZWJObmIwdGRNX1hiYUphTQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Technics introduces a new flagship model in its SL-1200 turntable series – here's what you need to know - MusicTech",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGcG9KN1JkWU1MQ0o2UDMxbXI0bmI5MldFd3RidzhrZFFSSVhXQ0s1M1h4YnhhS0dkeVNIcmdsam95blpiUmdVMzVTNk4xUDh6WTJZZGZ3dnVQZldNdFpqaTB3?oc=5"
@@ -69,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

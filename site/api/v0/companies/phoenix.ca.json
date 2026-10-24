@@ -1,9 +1,9 @@
 {
   "domain": "phoenix.ca",
   "name": "Phoenix",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.5,
+  "score": 2.9,
   "contributions": [
     {
       "type": "launch",
@@ -11,15 +11,22 @@
       "occurred_at": "2026-10-22",
       "summary": "City of Phoenix Launches SNAP Navigation Support - City of Phoenix (.gov)",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2h3NWhlTzhGdkVpeGtINW41ZE9ZaHAwVjZTdzJGbVJfR1g0TjVmR3VJOGk3Nk0wSzU4ZVZSQWE1dDhmckpZbkRhdEw3cXVIY2NsRm1Sb2xoT1lpallJeURMbHJkVjM2UEJRNkNVMk52eW83bzgtWHRwcFZySUlKQi1WeXV3d25UQ1EtMURwV1lDWlB1?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Phoenix Launches PHXLink Microtransit to Expand Public Transit Options - City of Phoenix (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVdWOVBvMkZuYnFxNkpfb1g0clpaX29LeWNzU0RRNUhsLWVOeFE4WDFkazBCYUpUMUt3YkpiWDVEV1N4aXQxVFVKTC10TmlhQmJrTFpseWlOX0lUTjRHNjRfc2lzQlJjX3B2SHJuM1pSWFg5eFRzRUNFczdVNi02ZDc1V0NzaVllMHFUbEhpMzlUUDNuR1RoenBNV29PZmxWQ3RnVm9uQVJEbW5xdFEzZkdRN19ianAwU3hmT0RMNA?oc=5"
     }
   ],
-  "open_postings": 15,
+  "open_postings": 10,
   "long_open_roles": 2,
   "sources": {
     "ats": "ashby:phoenix",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

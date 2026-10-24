@@ -1,9 +1,9 @@
 {
   "domain": "trydock.ai",
   "name": "Dock",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 30.2,
+  "score": 29.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,21 +14,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Lake Hour Expands Tequila Portfolio with New Passionfruit Tangerine Flavor and Launches Dock Club Subscription Program - BevNET.com",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObmpHeVlGVU1LV2Z6LUl2VlNUOGtZYl8tQ053eGp6RDJsOVR0UVRGQ3pLbUpDcDhGalM2TUVUeHlzZ2V6YVdYa215ZTdLWFVyR1V6WXRnNzQ5SVhLRkRNNlNQZVM0WDFyZnljX19HcUJSWl90RUhWQ0l3bkFkRjVjSVJLRG5KYlVKN3JFVVNJVF8xY1lUR3hZZXNxaEs1Vzd0MEdVamtzN2xleDFHRTBRT28wMGRBNVpTUENtRG5XVk1RZmx3MUF6c080dGlwMmQ1VVNaSEMwcHNXRG04MkVNWVFNVlFjczJkLXdN?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Wavlink introduces 15-port Thunderbolt 5 dock with M.2 slot and 140W charging - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHg3SzR4bEx3SHRHSTVvalpuY24tSWRFM2lRbmNfcDZqU2xKSlRrWG5kWncxeVRtelNSRFhxZWE1N3RTUUN6ajBNVDlvUFF0Uk1hWjJVemtEdlMzN2VrbUFpUkk1SGNBeXpDaF9xZW1ocFozVHFzdEFwcGZQbkVoQjZ3cnQ0RnFfWjFJWjh3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Wavlink debuts new 15-in-1 TB5 dock with M.2 slot, 140W PD, and quad-display output - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFJUbUZvel9XR2lyUWhlQVI5ZFpDSkQ5QU04N2J5dG9oQmFrbGp4UVJiUVduMXRCWGhzLWp2aUZpWC0wYkk1emZBdmxzNTFmX2ZBOU5Nd2dMV1BZWlZIWGdSbDBmcV9OV2p5b2lzM2F5TlFPZkNiX0xqVzdabDkyOUlOQ1V1dkxjd2NZRVliRmZkeXAyLUpCRUZQd3c4OEtsRzh4c213X0N3UWFtNEtrTndSREVDNDNITjRuRlZkX3Z0RVdW?oc=5"
@@ -77,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Baseus launches new 14-in-1 dock with dual 4K output, 120W fast charging, and display - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNURDM01rY0U0d1hITkZKM0VfYUU3S2pORjk4S1VzMk5pSkU2bWE1MzRRU25aSkNGSVlXbTNFcV9rUDY5UVFpamVRMHZkY3NWc3VuQkpOeEFUTi1VdVhucmtwbGJ1VHFHYmZYaER1S2QxOW1BeWk0OC1QMC1BelkweXN0Yi1SMGQ3QkNQLXlsa0EtN0FiUHV0el96UGFaREFoWTFWSGNQdTczMS01d1hXTHVzVzc5VmFlVFM1cG51d0hVX25jWXdR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Asus Unveils $139 ROG Bulwark Dock DG310 for Xbox Ally With 4K 144Hz Output and Gigabit Ethernet - finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CT2hrRFlXb1J1Nm9LNzFGX3pqNjAxNWlEM3FsNThTOU9wR3FkYzl3VnNCNGRTdlZTbE5Eb0xGdldDV2oyZ3dkZnBNdWNIbU1RcFA0TTJQaU5VT3VSQlFOUkpqQ1RmVW9QYmdQR2R2aFdQenM5Y0E?oc=5"
@@ -167,6 +167,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

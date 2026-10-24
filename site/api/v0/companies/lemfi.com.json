@@ -1,10 +1,17 @@
 {
   "domain": "lemfi.com",
   "name": "LemFi",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.6,
+  "score": 12.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "LemFi launches rebuilt app as it broadens financial services portfolio - IBS Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnVLNnYzR3hMOGRva21sWEFmRWR1dDE5TFREN0MtTDVwUDc4SFBZSmRnTXYtbXRUSHhXWTVFUDM1dGRCOVMtTzYwWThnNWRTZEV2d2lwcF93VEYtT01ENGw3cGEwT3lZNjgtU3kwckxGNG9KQ1ZyRFZTQnJkVlRpUS16QTNWbkRBS3dXNEVybFBjYlM5LUE4ejVVLWFOVEI2TU9hMXptbmJZUDdBaFE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -21,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "LemFi expands financial services, launches new global brand - myRepublica",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNThqMHo2YWJFV1BxcEhNNGg3VFdpWVFFeEZtWVl2Y0pPNmdBNERJdk50dVFHNW9TMlpSa1AtSFJ5MFIxRG1qdDZPNDBwVmphRjFpZl9RTUdNaFkybmp0cGk1M3VaQTh4OE1sa2EyVFgyYndpRUtaN0dCT1ZOLU91dU1acF9ZX25qOWlMTWhWUWwxUkl3NFNHbEYxbzN1eFhLYTFrYWdkUEE4NkVDWTRUNTFfUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "LemFi Unveils New Global Brand Platform, Expands Services Beyond Money Transfers - Brand Icon Image",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVlYemdhZWNrdW5YbC1CTThlMG9MMzlJQ25haWczY0tSMmtpa0hvck1FMDhjaHRoSVItNF9PNFktSVYtcE1GYnNIZEtmdGgtajVQcGRLclB4aEJTNUhjYW1zbm1QMVRtYnVtZ2sxemFlRGREM0hTdGxVU0tCdkE4Sko3NVVlTVZVMnZB?oc=5"
@@ -62,13 +69,13 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JSVVEbGpHVFVELWtaM0VONVA3SnBkdTVxdEFYWmdLNENVVWNCcnd1Vk14SDVTU3doOVR5bWx5MXFGdDJfMjBSZ0w1Mm1lMzEtREhVUUNyeU1VRXNURUNqUWxSS2FtUG9uSWV2R2tSM3piLXRMUXNKVDBB?oc=5"
     }
   ],
-  "open_postings": 24,
-  "long_open_roles": 2,
+  "open_postings": 20,
+  "long_open_roles": 1,
   "sources": {
     "ats": "ashby:lemfi",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

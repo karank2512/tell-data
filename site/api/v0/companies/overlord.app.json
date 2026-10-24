@@ -1,13 +1,13 @@
 {
   "domain": "overlord.app",
   "name": "Overlord",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 17.6,
+  "score": 17.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.7,
+      "contribution": 11.5,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $4,898,993 offering, $4,033,993 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2143465/000214346526000001/"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

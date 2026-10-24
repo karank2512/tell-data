@@ -1,13 +1,20 @@
 {
   "domain": "trace.so",
   "name": "Trace",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.2,
+  "score": 5.6,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "TraceLink Launches Track & Trace Lakehouse to Expand Compliance and Analytical Access to End-to-End Serialized Events - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSjFBOUpfUUtwaVNCS19JcEl1TGxpbHNTSG9VeWQyS1RUSHZnSy1iZ3lJZDU2aEZjT1lsOWNENU9kdG9mSWVpLWt6VWNIeGtUQ0liRWJ0a0ZOMm9pVGlNRzNCZFZOR1hjUzlVTkpGd0pyV3drTElDT0kyMFNKemFUVTlLWE9iTExKd1I4VjQwMklubGtIZngxNmpHY2I4Y3Ixam1US2l6eGowaWNrQWJTX1A1ZWZqa2RGWHhNWWZ4YjlTM1VvQTZuTkozallURnR2VENpei1QYUJXN2ZFYlljdUFuMDFlcjJjbVQ0RHc5RUhVdmk3MUREMjE0cTdjempqcHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "NorthernSky Cloud Introduces Batchwork to Help Smaller Food Producers Trace Every Batch, From Supplier to Customer - Perishable News",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN29qUTdLU1lvbnA1UEVPS0pTNndmenFNb3M1UU1pMi1uaG80ZWVZTy1zNzVTVkU1Mkw4eWxjOXU3SmFRUThiTTN4a3dxclcyOGVVbnYyLTA4RUo3UU5ueHhFWlRwVEE3aU5OS185ZmtpV25vUzg3VEliS3kyUndnYzctU1hvTTlpdG9nTFUtWjlEZWkwTE9sUjhPRHJ2M3lyWXllU0pnVF9MblNfd2JwMFlScVN0cmxIZTFiTHVPdmdleTVwNlp6SW85azcyTWRRNFlqbkM2emhVb3MzcEl2cTBR?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

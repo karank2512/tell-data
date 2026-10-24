@@ -1,9 +1,9 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 14.1,
+  "score": 13.9,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-10-15",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -64,7 +64,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Stripe Launches Treasury for Agents, Streamlining Startup Finances - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnJkMHJfWHphOEhmNEdVR0lMT3NvZ1VyTXlBTmRUb3U0RUU4UTlGUEtyUVMxMmg3dmpLX2R4R2xrTS1ILUI0QkF0LW1sTDJNRURmdmJzeVA1SmNVaEJMd1lfMlRaNUxSTWl6ZFUwSjVzdkRpRGdEYmZMSExRQVZPZjlJUDZOcnloemw1UU5OMi1YZkxJcDNuYQ?oc=5"
@@ -148,13 +148,13 @@
       ]
     }
   ],
-  "open_postings": 813,
-  "long_open_roles": 215,
+  "open_postings": 728,
+  "long_open_roles": 187,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

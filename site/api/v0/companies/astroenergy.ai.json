@@ -1,9 +1,9 @@
 {
   "domain": "astroenergy.ai",
   "name": "Astro",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 15.8,
+  "score": 15.6,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Astro Launches Internship Programme Exclusively For Customers & Their Families - Newswav",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX0VRYm91eDVlVXp5eGdjLWRwclZxUU9JOGtBMHRsTkFCbEQxSk14WlZwczRQZ3ZQbURGSkxmakp0cEhxYlhBNl9JbDJQR0pzNnhxRmRneE1qSXJUNmhBbUJTbWEwd2hUczhOY0Vlalo3LUQ2b2RNU3hfQkVxS3o0b2swQzg4Z083OHQwdmRveVRXc2dsb1hDb1gzN01iMWN1WGllSFBsRGdXVEpCNEwtTW5aT1ZfRkk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Florida Poly Debuts Astro Flying Police Vehicle in Lakeland - Hoodline",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa2ZkbEVPejd2R0F3YVlrMXAzNTkxV1B1UDJlaUdOako5UldCMHBIdDAzWHlzTFpWQ2FBOGw2cmRwdzBxY3RNdXhfQ2d4ZEoxdktoY040a0p4OW40QnlidkhhcWYxSWkxTUdnVm1sSk9DZzIxYVRZbjNucDJ0Nm9iOXVudWlKNDdzSTZMZWxVQ1dnVzNHWUM5dDhQZFZIZU0?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

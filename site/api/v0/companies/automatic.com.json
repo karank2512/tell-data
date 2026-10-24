@@ -1,9 +1,9 @@
 {
   "domain": "automatic.com",
   "name": "Automatic",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 17.1,
+  "score": 16.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Introducing: Maurice Lacroix Refines the Aikon Automatic Chronograph for Its Tenth Anniversary - Monochrome Watches",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmpoNE42dXlWdWl1MlZWZjFfLTRCbHNFR2hhbm5nWUI5TlNpTWVMcTFNVmRRYUJVczRFU19RWnpTTktoR0ZuU3dKRTMxYnNzR2VYMDltMTJOVWJBWEhUSFhYMkltdFYxT1NScm9YbzB1QkxaRnFZYlBISHdjVFJQSFIwNV90ZFB1bzRSdXR1QnlLdVRha3drOElIbFhlSFU2S2hzcEd6eWh2OEYzQUpBUlI1NWNUQXBSRFhJ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "TriStar Arms Introduces the All-New Viper G3 Semi-Automatic Shotgun - Outdoor Wire",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWY5LWFGM1ZoWlBEbzNCMjVsR09KMlJURExkWE51UGY1UmlqaXAwSmhXajhYSHZQSHFnNWJMX0oxWWFpeHdmY3JjNGF6TGRzWmV2cWJCbXM2TGExeFRZMnljbWhZTVk1eW1QYnB0WXFsOTZ3Z3BNSUtqYW1ZbVpEQkhOb1NldTRKckN6WHdWWmVQbV9vVFQ1aFIyQXV2UEFQR0ZyQzhwcktodUctdVFtSkVYWHhHdw?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

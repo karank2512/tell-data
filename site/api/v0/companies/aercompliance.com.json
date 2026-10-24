@@ -1,9 +1,9 @@
 {
   "domain": "aercompliance.com",
   "name": "Aer",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Aer Lingus Launches Winter Schedule With Seasonal Favourites - Hospitality Ireland",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzlrVnVkOFg2SEt2N1NqbDI3VEhMcnpLbC1VVTN1V1lqM0NqR3JpTDIyajdRNHFoaW95aFVuMFVGRDhPN2NEQko0MGpRNHdUY082QVRPVWZPRDZZMXFfamdrcWM5S2p6S2JudEhlOGVuWEI3c1dDOEE3ZWdpcFVwU3cwYy13UExIOXRrbHpPajhtYTdXblVqQXFBNDV5cVJYdmdiM3hTVnpvWmNfdkdLMEZvdEpWckJnYUNz?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Aer Lingus launches winter schedule packed with seasonal favourites - Breaking Travel News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNME1GMFl5T1FxNVhiQmU1T1dabFRSWm9RTEZpVERodFpmeUFDMDN4VzBQNHRvLVZaSjh1clRSeHlMbHBpWjZQSzd0S2FqMVU4cXgyVXU0dmJtOWQ3U3ZJdEo3dVduTHc4NlpvU1lpVHl1OV81YnZlSWMxNzljWXRYZWlwVnBwRGc3bVd0OTlhUVE1ajBrak1UV24zQmVLbDBDZ1JkbnZ0ZXJyMmdNQVB0T3NVbVprZE0?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

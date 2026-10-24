@@ -1,10 +1,17 @@
 {
   "domain": "fetchtruck.com",
   "name": "Fetch",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 11.0,
+  "score": 12.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Fetch launches weeklong event with $15M in rewards - CW33.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUFhXzRkSUJJTjB6QXZIbm40SVVhUS15MGk1VmpReld4TG1leGtTLVBpUnBSQS1WbFZIbzBmQWc1MnlQaHFmZFZtd0Q0VVZJX2ZXTHE4MmZDS0RUZG9KNzJSbkRPUkY4UFlHZTVreGJlSjZOSExwSUhCNHd5NlVUYkJKSUjSAYoBQVVfeXFMTnZMY08ta1dwMjBRT1RvbG1Ld2tPR3ZHV2M0TVRuRWJ0cWZYQTBNZlA3djNMWlZ1WGdSUXdSUHVIRm9LQlR0c2JFMFdwaUpSd0pGZFBQWTlQMUYzRGFqSEc2X3pRVHFLRUdrX2c5amlHdFI2ZEhDOENfQUpsQ2VOaXpKYUJ6LTFOY01B?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -35,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "DeepSeek releases Search and Fetch APIs for live web access - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmNLYXVrODU0cHRtYXI1NGR0RUx1eVMtdU54dnpZaTV6RkszRlhSZU1Mb3ZFakFPV2VQUVQyVC16UXlKbEpHSmZwdmdjRldRdTlhVXRUMDd2MklpUWloUy1MUUNuYVgxTnV5VnI5ZWcxdURqbVNmVHU5NEJ3U3U0QXNVY0hRU19hd3B3dUFEdnRsdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Fetch.ai Launches ASI:One, an Innovative App Store for AI - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3MFdRd1A2SUFraHFndGxURHJVekZFMFBLX3NCcWRmQlFMOTJSSndtZE0zM21yY1h2cDlaWk10UUVHU19wTXU1QVdOazI2WFpGTkIxaGtLemstUQ?oc=5"
@@ -69,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

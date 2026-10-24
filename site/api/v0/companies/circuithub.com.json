@@ -1,14 +1,14 @@
 {
   "domain": "circuithub.com",
   "name": "CircuitHub",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.2,
+  "score": 2.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 2.2,
+      "contribution": 2.1,
       "occurred_at": "2026-10-19",
       "summary": "8 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/circuithub",
@@ -56,13 +56,13 @@
       ]
     }
   ],
-  "open_postings": 16,
-  "long_open_roles": 8,
+  "open_postings": 10,
+  "long_open_roles": 2,
   "sources": {
     "ats": "ashby:circuithub",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

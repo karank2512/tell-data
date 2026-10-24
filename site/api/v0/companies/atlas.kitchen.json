@@ -1,9 +1,9 @@
 {
   "domain": "atlas.kitchen",
   "name": "Atlas",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 16.9,
+  "score": 16.6,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Smart Care Solutions Launches Atlas by Smart Care™, New App Putting Expert Troubleshooting in Every Field Technician’s Pocket - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOLWgxbGN0WkE3RU12cmxfYTdGdngyRXZVZWRzM0RyYU9xZFEwM3MzdmxrdkMxNzFFYksxWlFnRm51ZTVrVW9fTHQwSy1sOHZPU3h2ak12S2gxRUFtVURPR0hMUmJxNjRtSEhyY3dNNlozX1dyemwzV01vLTdUQy1WYVMwMklFYXV6UnVvNVhWSVFXLWxHd2F5eDEtck9KSWRuODZhMFhCWFBKR2Z1ZjFxcVhuODZLVnp0QWRVb1kxNS1meTY0dmZPaDRlVXRYN3RHTDlqSzlQTS1fRERLZFE5cGRsVzZiTzhrMkcyckF3ek9nVEFsRGs4UFJuOS1PaVphVnFScWRrckVybVcyNDRj?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Atlas releases Fall 2026 catalog - Trains Magazine",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzNmVFp2eUVReHNUOHdicWMzb09ybVFQZGMzT0xzUV9VUko4dUI2SXFoNDlXdUt2ZjkzMnV4dzduYUVPeFNqekgxclpfdkNjQzAzMjlaclJCSkdPbW92Z1FxSVNkbGtiWmFxaGs2UUM2UllxNGg4TlNsRzZCd2hHU3lwSDM?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Atlas unveils 25 Antarctica expeditions for 2028/29 - Seatrade Cruise News",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVpPaEVGRDZTdExhVW5GTjJMVmRIS09YZk9FTFhiU3hEWkxyR2Z3NXo5aENOOWZDVHFYVTlvTjFZV21VRmpCOGNTVGQtMmZiQnVnSkVNOVQ2OGtoQng0ZUJoMlllbi1RZnhRcnNrWVZDdnVHSXhUR1hzeDJQU2oyNHlUdUprMV84aUZOWllQYTJvQUM0QlJZbVF4c0NlQjlGd3o3X2E0SnpOUGZiSDRCZ3F0NFJtM3lPT1c4MzJHWnpXckl0?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

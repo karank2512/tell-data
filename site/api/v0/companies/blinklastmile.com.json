@@ -1,10 +1,17 @@
 {
   "domain": "blinklastmile.com",
   "name": "Blink",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 13.0,
+  "score": 14.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "Amazon's Blink Debuts First 4K Camera and a 7,000-Foot Trail Cam in Five-Model Push - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KT180SWlvSXpsVUxqeFZ2VmpRMk5LZ0diLUZkWHZ2dzZqNHlfREZab0ZoNFBXTGhGYVBKN196U2ZCbmg5QmRpNUloUU1feWl0LVYyaXVUcGF4bHVPYXpOWXY2TWkxV1JXZU5jeFE1YkRHUVNnZVE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -21,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Blink launches 4K and pan-tilt security cameras in Australia - ChannelLife New Zealand",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1Q1WF82SlR6WHZwUTFFLV9GTl9pN1lMQVdHN0Y3ZDdISS1rX21UV3lkS0xoVHlFcnlSUzJMc2xQc3UyVXN2SXhyaTQtZ3hPYmdLaTBldWE2WXNiXzUyODdUY3RfUksydEY2RHgwZFVaVXJzazRITHpZUWJpam0zZmg3WlktRWJsVG42Q3NJQ0NLOFhLNm5v?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Blink Unveils 5 New Cameras: Here’s What Canada Gets Next Week - iPhone in Canada",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0txbXBYU0dlc09TV3FDMVIySngtV2RQYWNpOExrS21FUXhkdVlRZWtkZ1pvMUZvMnZNVTJucXNsVHdNRU9kT3pKVXVmZFlFeUZYVkVYZnlaV0cwNk1kSWFaZ1hWcnRJUklRT2dGcnp6WGE3Qmh2V1phdHRWS202UUNqMjdwMUlTcWRWYw?oc=5"
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

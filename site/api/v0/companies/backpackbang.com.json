@@ -1,10 +1,24 @@
 {
   "domain": "backpackbang.com",
   "name": "Backpack",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.4,
+  "score": 8.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Backpack Securities Launches $AAPL on Solana Through - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXbmFSVUV6S05fcndYV2U3RmJuaTdlQWo1ekFJVDg5S2Nidmw0Z1hhSjZVMEFIZ2pxblRmLXVZVm55M2tXc0hSQnJfMGpuT2VqTUJLX1RPVFBoVERn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "LEGO launches new Wednesday Addams Backpack building set - AL.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGN3WmlRZ3d5bmxMd1FWV19FajBIa1p2aDRleEMtZ0FfOHd2M1c2RktSRERrSmJkMkRBQnRWYlYtZ3BPenJsUWpWR3ViUkdjNlBYYUtmY2t2c3M2SU9lQThvMFJyY0lRa3JLN0ljTDNocUVCSTZNZ1N4eGRtYjM3QTBIQ1JFem1wamo2MGUtX29fVzJHVmdIMU5uQ2JHME8xTUdxeUhjX3lyZDDSAb8BQVVfeXFMTU1SYk92NnZqM1YtaVZqN0s0VGdJbTZUaFE1Y09UVjk2d3F2NmpzbVpyQ1JqTmVUam5fMEVwb0pZQXAxTnVDQjRjSWlXWjRFb0FfNzEtbDdLNldGcGNtLVVpTEw5UUUyZjNUazZvOExYZmxPNHZ1Tzg3REUxMGlVVTB1cXBqbjFfY0JUTFl1QnFUUU5jVlQ3UGVvSzMtclJQZ203cFdPMHY2WkF3RTluSTdXZXppaWlQZGp1UlkwWmM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

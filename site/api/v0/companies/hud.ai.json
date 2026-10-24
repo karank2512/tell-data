@@ -1,13 +1,13 @@
 {
   "domain": "hud.ai",
   "name": "HUD",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "HUD releases workforce development curriculum for 3D concrete printing - Building Design + Construction",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRXhYc0hzN1NQZm8tRkEwTzRkUWctM1d4UnlJTTMyWWJnV1diMG9jNzdDR05NemZGcW0zWDVDbnIzWm0tMmxobVJwa21Nbll3WUJXcmFBc3lpdEhmSkFoLWZXRnhYUVdadW4wcHFoS1BsS043eUVQc2dVSVZvTURKQ1o3d1Q5OWlOQ2NnRU1IMEdoQ2tpbVA0NS0wVW1LYk9Oc0JWLWFDT2xvYS13M1l3WVkxS1kteWVSM2xab1JBYTR5bFRZOExwSFF4Uzljb1c3?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

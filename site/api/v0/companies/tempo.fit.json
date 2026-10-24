@@ -1,9 +1,9 @@
 {
   "domain": "tempo.fit",
   "name": "Tempo",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 3.8,
+  "score": 3.7,
   "contributions": [
     {
       "type": "launch",
@@ -21,19 +21,19 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-08",
       "summary": "First Look: Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker - Monochrome Watches",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWNVMnJ6QWc3Q2pBZXRKMHlRaHZ3SkQ4VmIxYTNSbXVtOTFXalBmTVYtaVBOTW5SX2pxaWpPbG5xcGt2RlJjdEZqM3pBRFd4WXZPT1JsZ0xqTUx1SGdzMWd6bHFHMjk5VmtWbWJkRDRyMi1aQ2VPRXgxVnRwUmhMdDluYmVwcTZDUFFKcFQ1QWg4cWdLbVp1a2VOelVDQ0EtSFljc3FsTGM3dw?oc=5"
     }
   ],
-  "open_postings": 8,
+  "open_postings": 7,
   "long_open_roles": 1,
   "sources": {
     "ats": "greenhouse:tempo",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

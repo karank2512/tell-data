@@ -1,13 +1,27 @@
 {
   "domain": "griprobotics.ai",
   "name": "Grip",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.7,
+  "score": 8.6,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Matthews Introduces a Compact 33 Sliding Leg C-Stand with Grip Head & Arm - Newsshooter",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjFMNERNRlYwR2lXZTlaNF9YTHpEU1hpZlVtTnNJUDhYSE1OQ2hocmp2d2d0SkFiMWlBWDBLNjZIZHoyRlFOZFpTd1pQQ0FhSnBzTjduLXA3N0NnUlAzbHMxaG51cXJHdDI2eXlIRlVDcm9qSkFMcVdvRFRWeUd2Q01EWlJxaElhZzZ4N0RlVjBvVmFWQTJZSW0zNjdGZjdfVlI4Szg4QTlnNTZMcUY1Vw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "Tour Winner Copies Fellow Pro By Introducing Hockey-Style Grip To Putter At Butterfield Bermuda Championship - Golf Monthly",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlIzM0xRQ0h5RE0yWTlSdkdyUjFyQWhMYzRqSHFIdDJPNWtVUmtXOGxtRDdaSGFPYVd0SmhHclllYW1yWmtOX3ZQaG5xc3V2UHZJa2p2ZWtvNTAwbk9tSzNwSVo5dDdaNmk2LXNsT1Q5RkpvOWh4d2NsMklqdi0yUWhsc3dKSkthSnp5NTQxandXdHFTSF9OYkIzSVdoWDF3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "JumboMax introduces JMX UltraLong grip for greater club control - GolfWRX",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzBNMW0xTFRyUlN0MnJMMzl2Vm9UUlcyWXl4S19JbDVHQ0tubmV1UlhHZ1NSQ3hHTVpYZFBkNUxKbFhGQkQ2Q2loRkFXSXNDaUxhNF9sajY4LXVtdWlmSVVRT1pMVDBiSDRqbUhJNUJzbGRaNmsyamJhc3dJWV9lWHc0Zmo1UGd6eEJhdThIV0I3bjhEVGc?oc=5"
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

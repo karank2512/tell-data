@@ -1,9 +1,9 @@
 {
   "domain": "metal.ai",
   "name": "Metal",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.4,
+  "score": 5.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Solukon launches the SFM-AT850 depowdering system for metal parts up to 1,000 kg - VoxelMatters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekxRcGdWbHdFSXY4b1JhdG42V1JIaDdXa3d6Qjk1cDY3SUwzVHQ1c19EOEVGR3d1a1V5VGxHZlZJTmRPU0pPQWRqT3kzTXZicHl4ZlJpRmJtNkNXTFJzSHBaWnJzdTZqMDN5TThfRGR0a0cyUkt6eTVGeDFhYUgwczZSbnVDM2VIN1FRZ3FZalFxZmpNUXpzRjJsdm93UnFaaDBrSEdXaUFWZEtGcXfSAbMBQVVfeXFMUE5Kd1ppZFRKdzJtMTNZRGFxbE04TDdrc3JHSDNHMEdDeTliOTB1MVdIMnlFZXlGeGgtWnVOLVVqQ0hXbXRXUWJNY2VRNW9qaHFvbjBqX3ZDTmRFWlE5V1lVT3pUSXg0ckJDTEFlTjE2UDFhY2Q1cUNfZkUwOHVGdENSR2ZidFZWOHdxdThEZkpQeHVOaG1ONndaV092MnRLbFNwdUs2bFhESWV0bVItbWx6Nmc?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

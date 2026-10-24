@@ -1,9 +1,9 @@
 {
   "domain": "index.io",
   "name": "Index",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 13.2,
+  "score": 13.0,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Corebridge Financial Introduces Progressive Trigger, a First-of-Its-Kind Index Annuity Strategy Designed to Turn Missed Years into Future Opportunity - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQckRUZE5sdFJVQkhPQ2hVYlhDSGg4VDIwcHJmWjJfREV1MDc0M1dJTnFEN2RoVXJMbEZfTEMxbDhyLWNham9faDlyRGtqd3l3YnlNRER1UWtmNkdSR0tsSXZyZ3pYWno5MTZmcC1iUjlHZllQLUZPbHpvcGNIdm5GOEQxZjJ0R0JnazJTZlVnaDBDUDVCdEtwU2RJZFYtV2tsZUl5V29YU3EyNXFUNkVGRXVyTGZDV25OM2d5ZTgzQVR1UVZ4cjNuRUdlTE43Y0trNHBtUUdkTTRvTkVzQ3Fha0thVXFvQzZUQkl2ZWxjbHVYSy1oXzR0QzlaYmhONVh2UWpGWHlITjYzWEt2ZFQzdk01RXduaC0yOXhVUlRvNXBGYmM3WVFMbVE4S2N4UQ?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-07",
       "summary": "Sapiens Launches Industry-Wide Insurance AI Maturity Index as 67% Predict Full Autonomy Within 2 to 3 Years - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcTNtLUJMZEJKdWs4akJFNVp2SW53VzV0WDlZa0U5ektCMFNNMDB2U09kZkJrMDVaU3BHUS1paGhpQ2xDLVZkXzFBcDVaV3c1SWVqcU9tSFdkRm1oM1F4eEVxQkxUNHphT1dyLTN6RnZmekdJV2pIcDU1ajRJZzlwUDF2UG1tcldqSXZBOTNYNnRodjNzTkFkel92WnEzT1R1MjJNYU9nVFlXdjZCbzdYbGZlNTNEWEpIaXgzSlcyWUwxbDRjVnc0eWNxS3Q4NmtzenNOSWdtRnlhdVlyRFhNTS1FSWRCcl84MWgyWmdQR19OX3Zj?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

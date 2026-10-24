@@ -1,9 +1,9 @@
 {
   "domain": "peer-freight.com",
   "name": "Peer",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.9,
+  "score": 7.8,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-20",
       "summary": "agnt8x Listed in Gartner Peer Insights™ AI Agent Management Platforms Market and Opens UK Office - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFhNOXBXWVdnZlk5NnNLR1JhTXRaUzhjamtLS2lFQ3VVR3pDc1psZWhxeUlBdnY1MjZJS3dfdFJhQ2pGVjc4Q3RUeVJvaDNBWGUxX1dEeEotcVpPVXVQQ21NcC04eDdid1dFTi1CVkRBVTBBU3dWOV92ckdGYVMzRzJzVW1GSTIzeU9HamRINTF6YkI3bm5Za0twX1Z3Q1Zp?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

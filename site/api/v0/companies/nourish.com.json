@@ -1,13 +1,13 @@
 {
   "domain": "nourish.com",
   "name": "Nourish",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Martin High School launches canned food drive with Nourish Laredo - Laredo Morning Times",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ29GRE91MkcyalQyTlFKRk9YRGM0YWtJbWhQY1Z0UXdPQU10VDNtQ0M0djBUUTMyLVZ1d2ZSZ0FxckpKTW1CLVg0U1lQTGJFY21XdGhzOUtzd3dzOWIwc1pkVklidUU3OTNPZ0FwcG9hMTY1NFdFWWZxV0lJOFhpRGl2Y2p1V2l0OEduVW9mZmJNYzJ6YmFMY3pBR1g0Wmx6N1FHZ2F3?oc=5"
@@ -20,13 +20,13 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2t2TGxNSi1sNjFRak9HQzVQQ0xOOGlpMUstT3VST1BTVTNVc1FKOHRUcnNDTmNwRkpNaFhManU4cVhMY29oVEtMWmV1ZWlEZXpKWEE1SDdhdXpkelI1bERlX0NWSlNEUk94c2RUbDhHSk5paDh6bERZenRDMXJVWV9MaFF3NzdJVmlxNmJCaUx0Nk02Q1NnVlV4eTI4UnpKNGlvNTNOZDdiWS03enpYR29qZDR0dGVxTUtBcmR3NTlSemVialJjUEJaMVRUVExhdlkxYjFiM2dwRWZqcFV6NUdwNG9WNWc?oc=5"
     }
   ],
-  "open_postings": 91,
-  "long_open_roles": 19,
+  "open_postings": 86,
+  "long_open_roles": 18,
   "sources": {
     "ats": "greenhouse:usenourish",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

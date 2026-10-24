@@ -1,9 +1,9 @@
 {
   "domain": "campfire.ai",
   "name": "Campfire",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-06-25",
       "summary": "Introducing AskEmber in Slack",
       "url": "https://campfire.ai/blog/introducing-askember-in-slack"
@@ -55,13 +55,13 @@
       "url": "https://campfire.ai/blog/introducing-accounting-intelligence"
     }
   ],
-  "open_postings": 53,
-  "long_open_roles": 24,
+  "open_postings": 51,
+  "long_open_roles": 23,
   "sources": {
     "ats": "ashby:campfire",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

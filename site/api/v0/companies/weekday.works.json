@@ -1,9 +1,9 @@
 {
   "domain": "weekday.works",
   "name": "Weekday",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.3,
+  "score": 5.2,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "STARTRADER launches 48 new US stock CFDs and extends weekday trading hours - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDRhd3luQWlKZEUyakZoTTEzMTFPZGJ5RXpzUUJheENRN2xscTJOeWRvRG9VdUtCdzNGdTRDMEhnQ1Z6ZkNTWkt5VHk1Q1NHRWl4UjVLbDNndHhSYUFYR3lDM0ptZ2gyRmkyRXduMkc5VUsyRmc2alRhUnpscHRZVUVjdWtfQk9zeUE?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

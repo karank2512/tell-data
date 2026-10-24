@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 22.0,
+  "score": 21.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.4,
+      "contribution": 12.3,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-10-16",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -46,7 +46,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-09-30",
       "summary": "STARK Unveils Vanta 12 USV With 1,200-Nautical-Mile Range and 10 Kamikaze Drones - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3pzbFFxb3drZElSOTNoWXBTcUFOb081czduTE1JclJ2cWFfcldMLUN5VkhnVW9HaXRwVV9VbktERVU5OVByREdaOGk1VU5HbTN2RC1OdzB1b203TVhHTDZ2d1plMkkzQUFTQ254blM5OUFVZi1fT2hONUZ1R19tNmx5SFp2YlVNUU0wVERDdkdHMHNSLUpzUlN4S05KUkhKNTBqWExSd25jdU0wV19xS0tB?oc=5"
@@ -108,13 +108,13 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 90,
+  "open_postings": 85,
   "long_open_roles": 24,
   "sources": {
     "ats": "ashby:vanta",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "realm.io",
   "name": "Realm",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.0,
+  "score": 8.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "REALM Releases Minted, a White Paper on Who the New Wealthy Are and What They Expect - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMUxWWUhUazhjb1FkRFZRbENtbmFVVlJDNEwxUUVjdTBEaE5PMjdMRDJ0VXhqN1pHbVhUaEpDdVdMQ1QzZnk5bWg4TWdDczNSZlM2WlFHMHRNdDVoY2xCZmJJSlQ4QWZRVXBxTXRuRFoyMUJtMWN3eldaQnhSWEtYRWc0enRSNHllQjk5ZW9pUUZjRlFhaWVMaHpock5rMktkQWtQa08tLXNzdTd4TjRxVkMyVDNldnFBQmhTelJZVFNET0hKLU9kQw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "REALM Releases Minted, a White Paper on Who the New Wealthy Are and What They Expect - citybuzz -",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDVBc2FrQVlRLVgyV0F2aEZUNUE5WHZwRVlWdzRVWU9uS0t6N3ZoNnBxYUN5NzJ3MkpUSDc5ZmZJSlFuQmpkeE91S3llLTJNeFNtYXlldzN5ZXRRTTBYMHhranQ0dHRGYUZfMEJ6VEcxZlppQXY2MWpEeGswbmMxUkV1cEtoc200QkZKaGRHcU9zS0Zxb2FQb3JkRjlxMEhEQU0zcVZGTzYzRFlNVEtiX3ZWWFJPRURPdzBR?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

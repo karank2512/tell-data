@@ -1,9 +1,9 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 15.9,
+  "score": 15.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Sync or Storm: UN launches Roblox game to prevent violence - Unric",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1LU1YTU5yZ2loaUU3TjNtam1CNDhkZ3JUS0lpdFJhcEZ0dzc0RDNDNGItVHNLaDZSQW8yakdsS1pzTEcxbnBaM0dQbUk3WklLT1BUUHlyRTlIdXZCLXFyb2RCXzFZa3FCSkVpWXpOU1pzeFFOWXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Warner Music Unveils Sync Reorganization, Elevates Ron Broitman - Digital Music News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVI0bEFQVUp1RGN0cWdVTFQ3b0h1a1FMNno3cVBoaEIycm9IVS1jZmVDVUxpOWpTWkk5VjB3cTJFXzIxVWpodjk1a2ZsTzNIcTJNZWc3cmx4QkU0ZDdlcEdzYWtlM21GOXBkaWd4SlV2NzVQaTVGVk1EUndpTDE5LTRIVFRZT193YW9J?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

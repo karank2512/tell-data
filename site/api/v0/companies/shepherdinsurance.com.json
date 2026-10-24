@@ -1,13 +1,13 @@
 {
   "domain": "shepherdinsurance.com",
   "name": "Shepherd",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-20",
       "summary": "Fiesta Sports Foundation Names [person] as Vice President, [person]",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckoxZkYxS0lTVU9QYkM1eG1NemoxaGJDY2FOQkg5T0N5Y3Y3bW5hUTMtNFZsci1TOGZwQmxFQnBHX2JMWktQMGZyd2lyODdmZzJUTU1iMThwZXoxYkFVdkQ4czY3a2hwVUtCZnZCVEwybkhZcURHMllEY0xrd1V2RGE5NTFyekRPYUxFOG5yTFlqbzRBM21XV3ppLVh6SG1PLUE1UXNoc0J2NEVpaVUtMVJXNURmVXBkQXc?oc=5"
@@ -52,13 +52,13 @@
       ]
     }
   ],
-  "open_postings": 25,
+  "open_postings": 26,
   "long_open_roles": 11,
   "sources": {
     "ats": "ashby:shepherd",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

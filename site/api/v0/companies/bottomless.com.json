@@ -1,13 +1,13 @@
 {
   "domain": "bottomless.com",
   "name": "Bottomless",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Barbs launches new Friday night Bajan fish fry with bottomless rum punch and DJs in Shoreditch - London Daily News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVZuTmxidms0VnlfUERKd3lGczduZWlCcFc3cmZQQ2M4VnJVLUdkdVNLMFVxcmQ1S0RDNWFpZ2E2Yl9weFJDNGYtVFFxN1FaNTJJTkhyY2Utd1dmNE9rTXlkcVpDYjZ6bWVkWFlfZm5KNkZSdmVlMG1VUjNqd2NqQ0VqZzgzRkxvNnhVb3FnVFFsQy03RE9waEpDU05YVGoweEFTS19KbGlQdlZIOElNQjVfMGJQVHM4VWZ2MGlyQVgwdw?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

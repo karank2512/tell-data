@@ -1,9 +1,9 @@
 {
   "domain": "onshore.com",
   "name": "Onshore",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.5,
+  "score": 2.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-07",
       "summary": "France introduces NZIA resilience criteria in its 13th onshore wind tender round - Review Energy",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkU4ZVpKeG51QUFWZlNkQ3oya3AtMU0tcm03WkJlQ0dDOUZBaUVuWTBIU1pVMmRCZ2FaT1d2UW9XRy1VZnZXU0E3elM0WTQ1czZ2TFlJSmVHTllpbHhnS3FpUXlxM3ZhZ1B6alhNb0Q5UkxTYl9wWU4yWEFNSXdEcXRXNDQ2b0VDU1poRXNwUVlLbjQzcVVjdWVjU0JHb3NPNG9DZTI4aEJFVXo3OXI4YXpaU25iakFp?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

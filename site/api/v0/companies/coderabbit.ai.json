@@ -1,20 +1,20 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 21.0,
+  "score": 20.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 18.5,
+      "contribution": 18.4,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-07",
       "summary": "Introducing collaborative coding: Build together with Slack Code and CodeRabbit Agent for Slack",
       "url": "https://coderabbit.ai/blog/introducing-collaborative-coding"
@@ -48,14 +48,14 @@
       "url": "https://coderabbit.ai/blog/introducing-coderabbit-reverse-tunnel"
     }
   ],
-  "open_postings": 46,
-  "long_open_roles": 19,
+  "open_postings": 45,
+  "long_open_roles": 18,
   "sources": {
     "ats": "ashby:coderabbit",
     "edgar_cik": "0002014393",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": [
     {
       "type": "launch",

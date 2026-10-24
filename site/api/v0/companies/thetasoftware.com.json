@@ -1,13 +1,13 @@
 {
   "domain": "thetasoftware.com",
   "name": "Theta",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-13",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHp0UnRXNkgzWF9FX3BVREpkQk5uQ0h0UTFsYUR2Ql9TQWJZeFJDWUtlR1JQUndDUTQwbmJOWG5FTkt5UC1sUTFHUm5veGx0Mm9UZUZsZFhvNzQ5Q0M4YWVSLUR2UnNtc0NVU3hmYnNXSHkyOENpYzhKTEFTdnZGMkxZRG90MUdndmxrZjhEaWhBZHduN1BvdTAtR2pEOEtDLXliTjQ3X2pNVFZwYnNBa1VvaGxCcHA0Wjg5aUw1QdIBxAFBVV95cUxQQWc0UDU0RTZ0ck5kOW1LQmpSNmZmWjhZQTdfOXQtaDkxMVVvUlU4SENBWTF3RTZfc2M5eEJTZWVTOWMwQ1k5Qi1hTlQ5OFhGcGI3SDNLelg0ajNBT3MyaFlQM0V2dm9FQWZKM3RFSUViTmNxYmVBRkJpMVhoWW02SE5pMGNQTWxUZmJkbnZ1WlVWLVQtV2FDdHdLcWNyMUZkbGNfVEw0RmJDalhhYTFXSjVEZy1CRzVrbzROZURPUVRqdExB?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

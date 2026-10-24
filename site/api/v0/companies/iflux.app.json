@@ -1,9 +1,9 @@
 {
   "domain": "iflux.app",
   "name": "Flux",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 9.3,
+  "score": 10.5,
   "contributions": [
     {
       "type": "launch",
@@ -36,6 +36,13 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-19",
+      "summary": "fal Launches FLUX 3 Max, Delivering #1-Tier Image-to-Video Quality at Industry-Leading Speeds - KITV",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNk9aQm0wZnAtcExfeHc0dFZ6Nm1NS0lOaS11aXU2WWhBV1hQQ0lRZ2pyVzhEaHhwcWRlNVpjQzFnVmpXUFBzeXEwd1Zwc0poRlkzcC0wRjZZYlBrVG56S0Z5cWNSMEh5QUlyUTZrQmJsaUtYYm5mS2piazRwdHV5TnpKVlpwa0tQNTZlRGNFVFdJUTdJWFVuTDNKWUJ2dnpjZF9WSWw1WklHWEZuOVFZSWZEaUh3WHZfVUN6R3B4ZGRhM0c2SjFPOEc5R2UtVm40Y2VwaGlFT2pPQ2dIVEJCazMzd2lKZmtoT0txNk5RdllxS0VCSmtWdFZUTUNKZDNGUHVuX01oUjl5cmN0MDVvbzFCbWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-15",
       "summary": "Black Forest Labs Releases FLUX 3 Image Klein With 5.6B Parameters - Technobezz",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmRMUmVqbk9PTWVBeS1wNlpMbVVHWDVnTWIzX1BtaWUtOFh4ZEYxbWRJTjg1blpvRnp5RzgtZ0RzZ2VnLUVjYzhUdDE1YURCdUM1ZkdUak80aFdyOWhYNGZiSWlaWEhGZEJlQ1BPa0ZJanlQS0wxUXRHM2xSWDY1eFFaZw?oc=5"
@@ -49,7 +56,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-22",
       "summary": "DeepDrive to supply radial flux motors to a global automaker as it expands to China - Charged EVs",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmhuMjl4ODIzVUczYk81U3c5c1VYUEZodTBoTEJnYWlpdjcxeHBqX1kyZVByZ1U0bEtpZ3djRncwb1I2REd2aUFtR1RwazhDVkhEdzNRbW9fQUxjSG9oaXAtRHBac1NidDdSUzNQdVIzbVd3cDhMRFh2MWItOGJhY1RhWXpYaWNpcnA0RGt3Rnh2VE5BRktrU3dpS2tsaDFwY2JyTmFkV1VNb1R4bnhfU2pDajFSYTQ?oc=5"
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 30.3,
+  "score": 30.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 26.2,
+      "contribution": 26.0,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -28,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-08-01",
       "summary": "[person] Joins Exa as Vice President of Marketing",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXFxNzNEdjVKNERQNWUxZmswcHJxb3VkazBLV2ZhQU1LTGJrSTdxd2VpUkxuc2dKa2VmS2VGSWNjU1BwSFRKbDJHaF95cHZNR09pUTdSWmJONTJuWlZKU3RsbkY2WjBZMXZweTktY3EzTjFYY0VIVDM3bm1XZDBZZzhNMk9jeXpjbmhwZ0JuaHBsN2VRclRTNklQaEhEQ2Rydm9r?oc=5"
@@ -48,13 +48,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 61,
-  "long_open_roles": 25,
+  "open_postings": 57,
+  "long_open_roles": 24,
   "sources": {
     "ats": "ashby:exa",
     "edgar_cik": "0002024864",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

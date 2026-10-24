@@ -1,13 +1,13 @@
 {
   "domain": "tagme.pk",
   "name": "TAG",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "F1 unveils limited-edition Leica camera with eye-watering $9,950 price tag - Motorsport.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNUw2NnNJWmxWbjEydHBLUlFZMFVmLXRtVUZ0WW9yQS1VWGstVnB0Q1dtMjhVNUJNRU5COEc1SmJCSmx2MmRsRnROa0FtT2pQWk52QVo4VGxmQm5FVFJBWHpCZEJkY2hMd2pxbFVQOWcxM2tLcHhkOGdjWW02NFhFdDRqa3BaNl9XNUs3U21qbmlMLURIRFNXYXBkSC1HVWNaNEVQdWt5Z3dUMFdmS3Z3YjZLdEFoQVJq?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

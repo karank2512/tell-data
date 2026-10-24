@@ -1,9 +1,9 @@
 {
   "domain": "caseyinsure.com",
   "name": "Casey",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.5,
+  "score": 5.8,
   "contributions": [
     {
       "type": "leadership",
@@ -15,6 +15,13 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Casey Bloys Unveils Skydance DTC Content Leadership Team - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUjBORW1SeUd6TVdNM1dTdUtmUnkyUlJTNm1pYmRZNlBnWmlENExCby0zak1aOFNFMzdQUXhyYS1VNWxQbDU2Tk5md1FyXzJQRU9obFhMeWdkUGpQVzlXVlhZWFpsMHRnZkxBXzBOamg0Z3JiUkRfc1J0Rlk0cGUteUUzX0ZackxmakRpTUwwQXdVdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Down on the Farm – Ty Nelson recalled, Chase Reid and Casey Mutryn make college debuts - Sound Of Hockey",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdXV2l5cFFsTndYS25KN29Hd18zYkV4T0dwT3JfS3ZQdDZ5YzNKTUNISko3ajdSSUxwQVZvTUs2bURaWmt2aEJNU24wSGFReDVyZVBjTnl4eXNsMTZXTzZzRXg2OC1YYi1QeEJiVXhqSDlqZTY1V1lGbjBEdWNYQ0JNWlBnM0RiR3dFd2RjVUJSSTRXMXJEeFpncnpXMEZjaURzU081UmY4UVB5SzV4VWJWUFYwYVdqZ0IwLUp30gHDAUFVX3lxTFB2WE0tb0V3ckF0M1hObzAwYnAxVmhQV2hOSG5QZTdFeXJ6SEl2dWdZZjRiNmNMd29PZkpSRzJhVzhGdVRvS1ZfdHY4NFd4TmpoeXlCTnFfcTRLZ0FtSWhjYVBNdHd5YVpYNTQtWGY3M2h6aENXd0tobXBOM1BZZGpjT0RMUmJRazg4a01DUUlQaGZzQnJTREFONjA3dzlIcmxscVA0aDZOTUc3a0pYWWVmVU5tclJsVmRRMkJzU1hXSHo4VQ?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

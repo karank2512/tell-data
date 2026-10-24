@@ -1,16 +1,23 @@
 {
   "domain": "gusto.com",
   "name": "Gusto",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 8.4,
+  "score": 9.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Gusto Unveils New Tools to Help Small Businesses Start, Run, and Grow From Day One - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2xyNk9mWEJjMm5GeUNYeTBNMDE5R3I4LWNuTjZKRnl2RnZReFVRVFJIVTc2TS0wYXhvOGlLUVN2aTJ3cHZJTTQ5MkU1SGFBM1F0c044M05paUxZNHlUbTNacWZOQlhMbmk1OXFtVmxnbEdWdzZHYVZWXzEyLWJnMVZ4aS1Kdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Gusto Unveils New Tools to Help Small Businesses Start, Run, and Grow From Day One - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb0ZiMllmS0RDdTRnZ25WTjZQVWhuRi02bUVwbk4xejNtaTdpUXpaMTEzdHJBeFRCc0ZrQUhvWjJ4WFctX2Y4TnFvQUVnYVRIc1ItazI5SFlTZGltT1pWa0R2SGxYczUtdUJBUXc4VHNxeF9uNkVMM3NpdHZSS2ZfRkR6NGdGeFdSdDlDNW93SUhrdGhJdVNDQUloWlUxQUpZMUJzbElBT2NndVN4OWlSeDZVbUx5ZElsTFVXR3NjMjA3enVWLTFRbTZfZXVDdVRuNGc?oc=5"
     },
     {
       "type": "launch",
@@ -73,13 +80,13 @@
       ]
     }
   ],
-  "open_postings": 117,
-  "long_open_roles": 34,
+  "open_postings": 101,
+  "long_open_roles": 33,
   "sources": {
     "ats": "greenhouse:gusto",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

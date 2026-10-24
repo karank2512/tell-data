@@ -1,9 +1,9 @@
 {
   "domain": "joinpantheon.io",
   "name": "Pantheon",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.7,
+  "score": 6.6,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-21",
       "summary": "Pantheon Resources appoints [person] as CEO to lead Alaska development strategy",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVUpOUDRfYlRRT3VkTDdValZ3ZXNtaHJQTGIwa1plRlJPbDFZdVZubl94OEo4TG9WUEdmSHR3V3lWR3JyOWYyLUZZbjNhRE5jZ09oV1hmUHN3d1lWQWI5ZWFuMjA4NEdtSUVaa05BM0JadHQ0RWlPZkt5RDJYdUNJaXlUUGlEby1OR2g2cEZIUndvTlZqTTRNWFNnZDcwUkQ5V2lBenptQXJjeGVucFBWUE1tUVVzRk9rdnp4dlcxbFI1NkFkbnRlZ1lUTFpFd1RLdVIyRk5ZS2drNV9OZzVz?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-21",
+      "summary": "Pantheon Resources appoints [person] as CEO to lead Alaska development strategy",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVi1XaHExVHRWUXRPM3kyMk0zRUxiN29CVUZWVHVicC1xeHcwU1EwOXBfUlNrWGRLMmh4OXR3ZmxfZUVPeHBienNFS3duaVBXMTVOWDB6cVp2aTNEU1doRUhNOXBFOXVHNXZNVmROcmNpY1hRYWRUMnZPR1lyemJ3NU9lMnlRa1FCV19mTlF3emhLRW9LdkFYNzVSaVc2b3dUZWRoNm85dXk3NmNDcHBsT0dIczQ0eHpPdzNGN3FCdXpiNDRmSUQ2aGhoMmExTTZ5elREVlhsY3l1NnVWcE9aQlpVeWUyVW1kanc?oc=5"
     },
     {
       "type": "leadership",
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

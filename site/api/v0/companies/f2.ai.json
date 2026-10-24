@@ -1,9 +1,9 @@
 {
   "domain": "f2.ai",
   "name": "F2",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 3.4,
+  "score": 3.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Sigma's New 50-120mm F2.8 Launches Today — But High Demand Is Causing Supply Issues - Fuji Rumors",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXJIVkhScS1zU3JPN2ZvSUdobGNEZnRES2hYdE9JNVBweGZVaU5pMGVrUE9FQlU2NlNIVldWN21abURBZEE4OS00a3FOQi1WLVNKdXpwYnI0N1BtUFJhZEs3OTZLUXk2UG9mRVRRVWVSN2N4enNaRlBEaWZ4SmtNVEJ2dnU2VU0tekR1al9NMDV3dnpsd0ZrYkVpeGZkbGtfZXBmNEhmY29uUU8z?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "hue.run",
   "name": "Hue",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Hue unveils three municipal platforms to support businesses and investors - Vietnam Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmNHSVctN1JQenVJQlJmY1lFY2xiNFptLUpHMmFVTmhsU1FQcEJCYmhETWJscWNKdGdxSWZXUm1FeXE1anE3ZmM3U2xEQkR5RkRGTHgzNERyMGU2aG1yTlRSV2tNa1kwTVNvNmJzY3JodnEzcjBuVTJBTTFqUGpIWlBXQlh3UlZ1cWc3aG4yaUM1MHdGY0ZXUjA0cW5wdDc4Qjln?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

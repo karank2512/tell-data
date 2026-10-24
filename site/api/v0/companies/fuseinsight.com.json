@@ -1,9 +1,9 @@
 {
   "domain": "fuseinsight.com",
   "name": "Fuse",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Fuse Energy Launches Fuse Compute AI Reservations - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRk5kamd3bGNReU1qbHVGWldsSkxTcGtKX25lRk94TU9SSXdlMjNqNFc1dXE1MnJYUy1LT1k4S0twM3hDZXE0QTBxZHpmQXd6bENFelNPRWxnSWxQaHpMLV9lOW9aZnlhLV9sZUJwZzc5WnBqTEV1MHBMTTFoNTZ0RFI2aUxvX3NnVExDeVRYM1loUEJZVXl0SEEyVzNFZ2pQaVdQT1g1clJVX19ZYUNaSzF3Y3lQSkxmWHJ4aHdrYUxISHFHMDJuT1R6a1FLQ0dUV1JQd2R3?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

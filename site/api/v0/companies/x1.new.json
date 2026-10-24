@@ -1,13 +1,13 @@
 {
   "domain": "x1.new",
   "name": "x1",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 12.9,
+  "score": 12.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Garmin releases Venu X1 beta 19.15 with workout and navigation updates - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUIyR2o3TkQ3M2NDT3dQbGpKME96ZnpnUWdkdFp0LWIxeXFvcmhtY0RrYzdGaHpxMGl2eGplMlk2dXd0NS1nZ1pKampGbkNXckpId3JVNUZzRGszcm51ajJNcExPVjV4aUJJNFJsZ0RVSkNJVnR5T1dmU2I1TjRsWWl6NzI4QlYwN1JlTk11NFpLMk9EZGVjQ3B1dmJRN1h2?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-08",
       "summary": "TCL PV TECH introduces BlueArk X1 - UnGeek",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5URXAyOW53NkMzUzhjWEFpM2lfNmtUOFdYOGZXaEVfbHlLQmdBc3k1Sk85ODJJMnJZVmZiNlByWHFHMUtIWjBUSTc1MEpHOXlXVmNqMHBNSXFCc2FSRkJDTEdxTXNBX2Q2QWdOejlUZ2h1dw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

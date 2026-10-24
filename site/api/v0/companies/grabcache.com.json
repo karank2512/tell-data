@@ -1,9 +1,9 @@
 {
   "domain": "grabcache.com",
   "name": "Cache",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 10.6,
+  "score": 10.5,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Cache County Sheriff releases names of 5 victims of carbon monoxide poisoning - Gephardt Daily",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUl9FVGtMSDFiX0NXeFhDMG5tUEN5akEtRElPOV91MXFUQkROSF9DWExXV2F6c0ZqaXYyV3l1aHVBLURPN3RUbldxVGtKU2lyN093cVdLak9BcWpJdVI2VkU4SHBEZzkxSi1OVXJlTWtlamp6UjJSQjhrb3poWWxVcWhHdEg1Ry1CQVF1N2ZRZmxzVDFWd0lRUWxpRk5JLU13SlN1TTRxRFp1Q3pmcUlv?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

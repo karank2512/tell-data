@@ -1,14 +1,14 @@
 {
   "domain": "vapi.ai",
   "name": "Vapi",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-23",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vapi",
@@ -40,13 +40,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVERkMGdrOThjeTVaeE45eE5kSjdNTkd4ZTgzclFITlBWblp5U3dtbDV5YVJWLTZWUTZpWl96eUx4djhIWG5HRVI5MERTdlFCYVNkZW43a0Q1WlNHeHQ4TnNuYmFOZnl5SmJPTXpPVDFZc19IWDBWZkVRY2xRdzhTX0pwN1Z6X1Q4T0pQMkFXQjdnaWNXSnR2T0RJR2tFeVNjYmVxTEhLeDJMZw?oc=5"
     }
   ],
-  "open_postings": 25,
-  "long_open_roles": 12,
+  "open_postings": 6,
+  "long_open_roles": 2,
   "sources": {
     "ats": "ashby:vapi",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

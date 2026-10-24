@@ -1,9 +1,9 @@
 {
   "domain": "justflip.com",
   "name": "Flip",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 14.2,
+  "score": 14.0,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-13",
       "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2UxX2x4Z3ZuNFlQY0UyTFN6Q1QyT0xsOWlmaGdMZndWcWVZa1E4cjFZYUlMLUpmMW93WlBNU2trbkFRQXMwSFVOaUxURkh0V3NObUgtY2p1QjFaZHJmTU81TGcxZmxNUDJTYndBSEo0RzVwQ3lkQWVlRFEya1AzaTVjSVlvVXVyUzRjNEJ2b0ZLRG1zcDRTZzVaRUx6ZXhRZ1FlazIzV0xfQ0xuWWluYXgzTjd5N0NCZHRzQk9tdURQcDhSRTVkWHlOa1V4WGU2cTFieDVBanZzbHdISmc?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Samsung rolls out new Galaxy Z Flip 8 and Fold 8 discounts in the USA - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1BURW9vYnBqY29heVRYWHFWQVJRX21aLUNScnNQUWtZLUp3aW50cHdQUlJ6b0l4UjYwaTFVT2dZLURWdTRsaDd5dzFMVVpIYlRPME1qbjJLbUFJdkhvMG5iam1uTXUwbUFiaGRNWVZ4ZnZVbFBWN2dTMVJhem1iUF9fbFQzUmpEamVxT3J2eUQ3bDBiTFhPSUVZbGZvYWNCV0pn?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

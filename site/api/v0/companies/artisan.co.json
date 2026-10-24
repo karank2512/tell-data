@@ -1,13 +1,13 @@
 {
   "domain": "artisan.co",
   "name": "Artisan",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Comeryx launches AI-powered insurance platform for artisan contractors - Beinsure",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBWVBHRklwS3F0YS0teVU0R2JUWVFXakVwMWp5b3phMVp1TU0wWlNFOTJkZENvNzd6ZWF4dFBzWEF1TFk4bnpPeUZjMDhXV2pKXzh5NE9LcThGRHBZZmFnM1kxTEVzdmNNd1J4RzQ0RXhsU0l5X0kzNzhDbUY4QQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

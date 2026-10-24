@@ -1,13 +1,13 @@
 {
   "domain": "mlnavigator.com",
   "name": "MLNavigator",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 9.3,
+      "contribution": 9.2,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $10,000 offering, $10,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2150571/000215057126000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002150571",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

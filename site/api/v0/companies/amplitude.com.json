@@ -1,20 +1,20 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 14.3,
+  "score": 14.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-17",
       "summary": "OpenAI CTO [person] Joins Amplitude Board As Statsig Continues Under Its Brand",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkN3RWRhRHAwMW5pR042djVScHFHblpzNFVNajZGS05kLUFlYW1RUmZWR1hKdEluR0RWUmgySXhBYWkteV8tTDAwSUJqRzJONW9QRDBLRUNzQ3dlcHByazRoLWMyZFhXaTRza0tSN21HUWU1OWdBS0kwTzY5SXFSbXNuVndNNkZ2dTRCMUFSVHVXbHJaMi1EVnNIQWk3eThPRkpuUjVFd25uSUh2SEdEdV9zLXNDZEVLaUQxcnRYQXpGc0s3NUotUw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-16",
       "summary": "Amplitude Appoints [person] Founder to Board",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkFMcWxMZVFYeUcwY0VvNUYzWVFGNmtYaXI5VFRwakMzTXRBLW1FcENERGY4c0xRRjlyeXRKUkRkdmRlazZTQmdsVGRIYkRKTlVLeUV4Yy1WaG9JNXQzYzJ4N0Z6QmdsbFhqdWRsSFNUXzI5bHRhTTg1YkdVY0JTV3Bsbk1DdExfQV9ERnRSOA?oc=5"
@@ -69,13 +69,13 @@
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 46,
-  "long_open_roles": 8,
+  "open_postings": 40,
+  "long_open_roles": 7,
   "sources": {
     "ats": "ashby:amplitude",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

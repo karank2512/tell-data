@@ -1,0 +1,38 @@
+{
+  "domain": "tovala.com",
+  "name": "Tovala",
+  "as_of": "2026-10-24",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-24",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.lever.co/tovala",
+      "postings": [
+        {
+          "title": "Production Assember (3rd Shift)",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.lever.co/tovala/451e6f20-4e21-41f3-8811-3203dae5b926"
+        },
+        {
+          "title": "Quality Assurance (QA) Specialist - Food Manufacturing",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.lever.co/tovala/7d96f790-c54c-4bb1-8353-70ea5321757a"
+        }
+      ]
+    }
+  ],
+  "open_postings": 13,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "lever:tovala",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

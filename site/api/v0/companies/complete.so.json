@@ -1,0 +1,32 @@
+{
+  "domain": "complete.so",
+  "name": "Complete",
+  "as_of": "2026-10-24",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "IndyCar Releases Complete 2027 Schedule With Some Significant Changes - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM241VGlQM2N6OTFndXNOWnh6NFZXaU4xTE5ueGlZMlplYndIVi1hOVlQTl94LXN2eXJHRm9wQ0JKbFFlaUczY1VRVGx6eVZ0UGVWWFJrOUl5WXJLdUJBTnZiUndOdWR2WTZ3RDhvcDFaXzlMVVV0OERVOTAxek90bVlyZGhGdkd1NVZLVmkxSjRLX0dWRzROWngzTk1DaHlJdlFQODJJTHNxN0FzM1l4SlBDakVnUHdvZjM4dlZIYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Near-complete assembly of wild emmer wheat unveils centromere reorganization during polyploid evolution - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tcGpuX192M3R0bFRlT0VlSDhhOXNBMlhCTi1zUkhJSURWbDdwQndmQnpyQWhMQzJlT1dmcFZGbDk0WlU0bXBKbHRQcjZjYUNGQmNJZVdnODluU2lLNmRr?oc=5"
+    }
+  ],
+  "open_postings": 6,
+  "long_open_roles": 6,
+  "sources": {
+    "ats": "ashby:complete",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

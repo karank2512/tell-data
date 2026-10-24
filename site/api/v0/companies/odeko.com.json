@@ -1,14 +1,14 @@
 {
   "domain": "odeko.com",
   "name": "Odeko",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-22",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/odeko",
@@ -31,13 +31,13 @@
       ]
     }
   ],
-  "open_postings": 23,
+  "open_postings": 19,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:odeko",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

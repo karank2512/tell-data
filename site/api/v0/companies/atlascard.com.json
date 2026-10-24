@@ -1,10 +1,17 @@
 {
   "domain": "atlascard.com",
   "name": "Atlas",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.3,
+  "score": 7.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "StorageChain Launches Atlas, Its Native Enterprise LLM – ‘Keep Your Data Out of Big AI’ - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RUcU11dUpvQ25ZYkxHbkF5ZG90TGowUVpXeHdQNFc3a2xZcGZLLUZzT2ljXzVST2xaVVlkblN6N0ZYQ1pGem9SUDR0TWIxaFRVZXhtbEpCdFNsb1p3MTNyX0h1WDJ3UTd0RmJWV3lrbXZGQnZFZkxBQVNjc1NXQW5sMGtRS1VmTERiZWZlYU13RlZxQlZCZDRVVkNZNTE4b1NGbkRDWVBBU294ZlFaRUtCaTNoOWlndnVVanlUQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -14,7 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Smart Care Solutions Launches Atlas by Smart Care™, New App Putting Expert Troubleshooting in Every Field Technician’s Pocket - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNnlqcDlHSjhrTExGZnhDLTYzUjQwVFNzQXpMVlBPRVo3X0UwdEVwbzNWSHo2Y09BUzZhOHl5Q2g1WEF2R0tDbGNnckxJaFFjVTJWalRtakdKLWY5Uk55bjRpN3BTZkM3MTdkbFRENzZTVXgxVS1lbl9uT0pwZWZsM0ZQQmdXaUl6X2Y2N1I4Zm5HblR5XzVTQkRMN0o?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "OpenAI Unveils Mouse Brain Reasoning Atlas From GPT-Rosalind Agents - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWE8wR1RJLUJFYjRMN0d6WWYwMTMwdHJpUC01RDlDSmlZMHBtMUxaVHd1ODJJdzRNMUlVMzFpNFg1cVJyaEhVWHlrd1dVWjVwUmdzMk53aElRY01sZzRvaEliRDVxU1YxaUtRekFUNGF0UVVCcHJoSzVMbTZkUUxfRFdHTFk2M01wRmtSdF9FM1VTdmc?oc=5"
@@ -27,13 +41,13 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2ctWkZfY2hGS1BBLS01Y1M0bzJpTy1ORmIxRzZrU29DLUIzOXZUVE1rOS1Cbk91YWJldG45TXVLWnh3VGswLUZRQU1zOFBwaWR3dWxBZ1VQZnI4UVl6dWk3eE1CbnVjQlF5cDFHTUhWRlRiY3dLajhtbjh4Uzl2Ti00UnZLTXBlSm5SUldJUEVLQWIyX2ZmdjI4ZVNIcHV4bjg1ZjR1c3pKZFAtaGF1Szkyc3ZHbUNiQjgydEFB0gG-AUFVX3lxTE5fZy1aRl9jaEZLUEEtLTVjUzRvMmlPLU5GYjFHNmtTb0MtQjM5dlRUTWs5LUJuT3VhYmV0bjlNdUtaeHdUazAtRlFBTXM4UHBpZHd1bEFnVVBmcjhRWXp1aTd4TUJudWNCUXlwMUdNSFZGVGJjd0tqOG1uOHhTOXZOLTRSdktNcGVKblJSV0lQRUtBYjJfZmZ2MjhlU0hwdXhuODVmNHVzekpkUC1oYXVLOTJzdkdtQ2JCODJ0QUE?oc=5"
     }
   ],
-  "open_postings": 6,
-  "long_open_roles": 3,
+  "open_postings": 2,
+  "long_open_roles": 1,
   "sources": {
     "ats": "ashby:atlas",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

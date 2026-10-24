@@ -1,9 +1,9 @@
 {
   "domain": "ironcladapp.com",
   "name": "Ironclad",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.0,
+  "score": 3.9,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,19 +34,19 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-08",
       "summary": "Ironclad Launches New AI Agents Grounded in Commercial Context, Helping Teams Negotiate Better and Capture More Value From Every Deal - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVHhTVjE4R0RKVENNTV84MVdRa0RNblhEWUJSOWZPSGwwT1Q2SlY0VlJiVGlacFVzWWFiamlEbGZfTUh0N0hFekZVNDd3SEo0NWpBZVBIM2Fmc2twS3NpM2NNM2dZTlBOajhFRGwwVHRtbjR1dWtJVzFyWHFYZTFkOTJoLVFwNFA0NU9VUFFDSkNvVWZZMFlFVC1ZUllqWmJPcjNBU1dHQk1ZRlR4UFUtR0JqVGRIYVFrc1lSakp1aWM3dlJEd0NzWkxjaVVuTV91Vl9mcWRWUW1QV3puXzRQZFV3dTVmN2xTcksxWGd0WFlwVF9oelNKN1gzTHB0WGFzR3AwMjVyZmFLek5xTW9MMTZFMEV1LWc?oc=5"
     }
   ],
-  "open_postings": 39,
-  "long_open_roles": 6,
+  "open_postings": 32,
+  "long_open_roles": 4,
   "sources": {
     "ats": "ashby:ironcladhq",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

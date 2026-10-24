@@ -1,20 +1,20 @@
 {
   "domain": "reflect.run",
   "name": "Reflect",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Reflect Scientific Launches PF-90 Freezer with LN2 Blast and Plate Cooling - Refindustry",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHNVV3kxQmhodFBmTmxENHkyZEYtRl9MWE16NGZrcDMwVUZySTdoM3ltcHhkNDJXdzBDeFJNV2UySGotdlQtNzBmZGFEWkRJNm80YVhsa2I1MmFWSk85b01OcVpJcTc5TlhqRXo4WGQxOW1xVlVRWHhoT01zaUdOVFRWNUYtS0RuSFJHRXREWHdKdDEwX2tIVVM3ZUZocERWaWo5YUh6WQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Solana’s Reflect launches stablecoin creation in one transaction - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTVRY19MeXk5QV9UQ1pGSGE1VjhMQmQwQ3hKcVo3NHpRQ3VWT21UYmdBejZkaXN1WWFWNjhjR2hIaGNoZlJhaWdwSElxSDRDRDFya3JlUFJvQjhSMm1aNXF2eEdodHNOdU9xV0o5S2RnLVRhR0h4cTlfRXNiSGh6dm5tUUhod3hvMFMtaw?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

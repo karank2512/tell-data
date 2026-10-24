@@ -1,13 +1,13 @@
 {
   "domain": "willowvoice.com",
   "name": "Willow",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.7,
+  "score": 2.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "The Willow Path launches ‘Rocks of Solidarity’ for Domestic Violence Awareness Month - The Cullman Tribune",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2JQWERFVGJIQXM2eG5ZXzhSY1g2ZUVmeEtncm5oSHYzWk5xd0pwVy0yUkVZeENhUnp1dFhyZHlLQmhyelY2MXQzWmxXOF9GclZaOEc5eWt1M3RiTE1pVzhNdFZhWlJ2TDNNTC1qQ2ZwUkMyc3JwZnBrVnhaVi1teEpkaVJFNDJyNXJfUVRCaDA4NGozVUxVWHFHaE5XZ01WdU55anNVVFB5MEo0VWR5a19MRDdhaUo1MTU1ZENDMDVEZk0?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

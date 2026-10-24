@@ -1,25 +1,25 @@
 {
   "domain": "replit.com",
   "name": "Replit",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.0,
+  "score": 1.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-22",
       "summary": "Replit Appoints [person] President of Corporate Affairs, [person]",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQemdqVVM2VjQxMURvLVB0SVBqelNNRDUyX281WGZjUXpCY1U3U1hkUzQyNTdFNFRxeFM5T2V1bHE5TUdvX2pLWW9VMGoyNDVuT2JlelZEaVlXRGVRMXR5Q1lmZzhIcUs5bC1fQ2Y0bm9Sb0hBNkRZMWJOenlGcUhlbm9OSkFuNEFjQXRrSkkxSmJrVHVXN3ZXVkdNdGZwZUJBZDhWbWxaRlZpWTc5dFJqYjE2dUNFdXY5SVpJMk9IR2RtMW12dk5NcUtCSmFodDBlVDlIMw?oc=5"
     }
   ],
-  "open_postings": 66,
-  "long_open_roles": 26,
+  "open_postings": 53,
+  "long_open_roles": 19,
   "sources": {
     "ats": "ashby:replit",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "orchid.health",
   "name": "Orchid",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 16.0,
+  "score": 15.8,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Royal Orchid Hotels rises as its arm launches new property in Kota - Investment Guru",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5FT29ucmI5TDA3bTMwNG9XYXFnNjVJNmFzTlFpTVU1M3NNRkQ3eHoxQXI2WFJhVjBIMWY3WmRIckJuTFlCU280dThndHFpdmExakNDNUREc1QyczRaWDNVMDhiRkZkelFJcHlMTzZ5TE1ReVA3NXVNVHdsVUhwNjBxR25LUmNCZTdpV2R6MldJelFrWk5HSVNpV0lkUzFXZGpnb3BZVkVsdTItQUtDc1BfWkFVQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Royal Orchid Hotels launches Regenta Place in Kota - Trav Talk",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWd1eV9RWmdueV9CUUMxcDZ1NzhVdjdMbXpVbjN1RWFuLUJGeGViWnhIbG9JZGVhWk9PemoyRjVub1M5anpsazFzdW5LSnJ4U2ZyeERsLTN4VndKTHdUcVdtWV9zYXpHX1ZRczZWaEQ4cFZ0Q2hjWU1fRkhBTGV6X25LTQ?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

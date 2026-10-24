@@ -1,9 +1,9 @@
 {
   "domain": "ello.com",
   "name": "Ello",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 10.1,
+  "score": 10.0,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "MTN Nigeria Launches Y’ello Y’Fi Wi-Fi Analytics Platform for SMEs - naijapreneur",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmtleFJWZkV2bVROYVBMRjJvOGxraWhBMWhvel9tM3BDeU1QR1FnQTczWmRpMGpGSWt4cDNMWl9fY3h3U0VXTkJkQWlXajNUSmdwa04zS2Y5b0QyYUw5UFg1dkRZZ1lsa21QSU1rVFZpMXc5YmRKUjMxeUZMRl9Ja3pvS0hDYUd4MFdIb1AtWkZFUDAxZ1Ewa1Jn?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

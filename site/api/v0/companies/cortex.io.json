@@ -1,10 +1,17 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 7.0,
+  "score": 9.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "TCG launches Cortex DC to build 2 GW data centre capacity in India - Tech Observer Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlJWTS15VGpDZkdPbWRmbi14TFhqQ29KTHZBVVIwTzdiWTJ5WGFRenctOFlHcjhaTG9EQ2Y4bkd3VDdLNHRVa1JBcERPM1l1TzBnZ1FfZkJpd2YtLVQ3dFczdG1UTG1GcjEwbWhrTURTWlpMQmVKdmtsZlhObUtwTEtyR18xT3dLcTdCeHI5dThNbS14TXlKbmprdXl2RknSAaQBQVVfeXFMUDJPZTVha19LZWQtNks3b3dOYzNkSUUxNEJZTFFDTWNkTkJNZnM1Mzg4QWVZd3BQNEtwY0Q0cVZCUzhxODVob1d5MThEOU0zREpiRDlxMzJXUDBTMFlKVXh2V3o3bEFMbTUxVVhPQWNWN3JtdFQ4aHJVWWhBRUpqVGFkdDIxUGpUemlQMGE1RFdwbWhuM05HQTlHU3ZHcjRobXVlVno?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - Digital Journal",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFN1bmxCNnA5SE9ucmtSSk9hTk9pWllhQ1FaUmR2UnNnSkp3aG9jRUFkTHUzaW52c2stMTdESXFrdHhNSlBOQm5xNFZoUmlITXRBeWpCYkU5eHpZSGR6c3hrZ2piSlFzYXROeGR2Wmt3MlV1ZmRDVkg4WGppT25RTkstVGczeDJIWjFFdzJ3WEJ0bk9WbWtjV1dTSjVSVC05VkpxSDA3bExPYnlCUFdLSw?oc=5"
@@ -25,6 +32,13 @@
       "occurred_at": "2026-10-22",
       "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - PRLog",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEVEVzJXOTNwenphVVpVVzNKYTlHSF9IdnlCcTVxNUMtdjNXMHJGYjNxTUxXNDVrVWF2V24xRFpsWmZqaUFkNFkwSndFcDVPY3N3aUtrNjNDSWJPNEdxcDkxQ29PTElmNWJiU0VxOTRPM2JlZVZZZmZZQ3JzRDFzT25qLXVWM3VWSXRXUUZDcjl6UHYxS3hieEQwdVdESlNTNmFpX1lNYWxTajBnX1FjQTB6MWNUc0U?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - PR Underground",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQTVmMkxQTl8xX3lIdXVpSkRrcVNMOExHbnhNVE8zSDFQY1ZuZG9PZzRDcThoT0RJZkdYdWUycXhqdmhvcnFfamt1MmtHbTF2RDdQb2VaZEtRTVpLNC1ZcXl5NFlwVHU5MzdJZ1BQU3czMUR4MEdHTUhDREY1aWtuZmFtZTQ1MGJncWV3dWM1TlA5ZmhYMXc3Ty05UlktMTlMaWYzd2lUOXpWUHlUQ1F3MkU0dW9veTFreE5iWVhwbVZSQUdYV3c4bHNMSlU?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

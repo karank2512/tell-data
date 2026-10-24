@@ -1,34 +1,62 @@
 {
   "domain": "intelligent.services",
   "name": "Intelligent",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 35.5,
+  "score": 40.8,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "ZTE Launches M8000 Intelligent Computing Micro-Module Data Center, New-Gen AIDC IT POD Solution for Global Deployment - Asia News Network",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWk9DVWF3THp6ZHhuZnJYVjdnRl9VU2NNQS1wOFBKV3RPbVZhMU8wNnNzQlp6M3dWbE1yakFfOV91SmtkUEtMWDRBMnpXa0pRSmNoSm5leC1WNTB5cDNVczczS0ltbW5GTjdEazloQXFOM3l0dnN6SEhkM1dmbzk3RXpnR1pnQVhxZnBvUGVRR3VsV2RDZ1d0UHZlWUlxN0NZcGt0QUkybXdrRlFsWlprbENoT1ltUzJsVklaMzYxNkpQSUtPbE96Z2ZVeWYxbGo0WVFxQ2FPcHNYQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "MCM Unveils Next Generation of Its Intelligent Operational Readiness Platform at IACP 2026 - Police1",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNmotYmsySFpTcVpQTlh6NUxjbFp1dzQ4bDJUZ01LSFhnbGx5djI1dnhjWmM3bFZQcEJmbHVMOWpSWnh2UkNHQ3B5U05TY2NPdkpZemF4b1hiRzU4QjFYMmY2akNsV2xGNmQwMlZpRk12R2pfYnBEcm1UMDBJZENpeG84bk5WUjRHV2t4ZGdOcHdISzAwYW1iWnFhY1lScTA4a3VKTDZJRUY5REFSdUZ6dFcxRzZOMXg5WGtQM0ZwZHdqTlY5WklyS1o2T2pFdUtFdU45Q1ZmYzhPTXhCVGI1VUtKUDF5bXhBbTdFVDg5RkowcnZ1TkY2RUlHT1NSeXYyTVZhZ2h6bEJuZmRW?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-22",
+      "summary": "International Business University Launches the Journal of Business, Management, and Intelligent Systems - Chinook Observer",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVTk0dlZuU3Etc21yRlNHWGVlZk80TGxlYzBHTEpVZ19LMkZFeGpDVzNJeW93SU1nQmdSNTlablFNMlY0NmR2UXhDSDI4cGVrSm5Ha1ExTmZvV3BLYXlvYU1PVVpUb2xSVHFFYmRzTlM5bkhTQ3BXY1BFemdmWnhTa2lqbzRuZnhSaGZaRXlTNmVCcDBRQ3ZCVGlaeEJHQ1dST0FUbFRfdFRqQzg3emtvN0w0UGNRREhMLUxpeldPV3FiMTFJeERWVklxNVMxWHN1Rm5zZUZPelpscmFiZWpZa2lCSTlHZ2pqOUdDYzE3VTM5UzVyWDh1bw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "SUNMI Launches Windows Commercial Product Family, Expanding Computing Choices for Intelligent Commerce - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmZmUEFRZ1QzR01IUHk4TUtYVTRDSUZsMklud3RfdXJoNENFQ2RSZWVwT1BET05QN1FTZGN6QTNpUjU2N0NGbktOMW1XdkowYjVKZ2RBTkRIOGRIUnlOR2Fwb0tla2RFSkRxMVR3UHlXWngtTC1XLUNzenkyQkhQbWx1UHBjcFI1cF9uSEdaeEt3a2hs?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "SUNMI Launches Windows Commercial Product Family, Expanding Computing Choices for Intelligent Commerce - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVHI3R3Q1TVMzcVhLbkhPWmtCUDJZenZ2UGQtcDNraklDQThubVRZc3RBMk0wemVWYTZ6M0NCN3hCaVRLQnJhdnRqMWxSOXlDeEx4QTd6d01xOEh1SzFfam5HNXFRczVOc3B3bUt2c3FtZ2FObjJDVm1vOWtoLXJfdlg4ZTJhdkh6ZV95X0lmcTV4NWlENWZNTVNYRXdMRXlTXzlWYktkUGpkZkgzTTRoWEhxbkFlV3pjaGRYc3NjbnRKTHN1SXk0eERHWkY2MDg4Z3dOZllsV2NBZXhDbEVQY2FwT0xscllrdjUyMmxMd2RGc0FV?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "LONGi unveils intelligent manufacturing base in Suzhou to advance solar-storage integration - pv magazine Global",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1YtYzduS3M5ZFZGbzhpbkRWc3dvWk13b3JaTUpyUHNNYlRNTHNHRFQtWE82VVpkU05NTGRCa2J3V3ZqdjdnVXpNNF9KWXFNdVkyUUpfX01QTmR4V0oxYUpfQUhlQVRzWVNud3lMbVVCdU5jU3ZBYlRXMmdycUNTVFc2T0NvaVpmakJDRFRtdjh4NlBLRnQ2V0JHSW50dW01S3FzbkJHLXNPN1RfZHlvWTVHZmJvUl96VDd2b0dQVzEwaVc0emdOV0wyQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "ZTE Launches M8000 Intelligent Computing Micro-Module Data Center, New-Gen AIDC IT POD Solution for Global Deployment - News-Press NOW",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOb2VTbnlWSWw4LTc5WGRobS1scGZDOENPdWx5NEZPNWg2MFBjS0Q1dmRRZlVUNXNDWUdCQWQzVHJYWk9fTWNyZjhaeGpLdGFRY3JxdTdGN0s2emFPY0xWSmtKQ015emw5S01jWnRGNkJ2LS1LdlFKdWFpS3FxdGVrUHJCNHBhMmJlQTBma2VBTzA3anlKQ1pFS0tfM1RRcFdqS0RJV1hEZUlkMmRwNmdZNVdTTmI5SkQ2YVpCUVY5bUFCUnFDeng3dlpKRlVJNWZIUkZLUHoycExBR2dvdFc5bzloTk1PaHg2c0tQTldLQ0dfZ1JPRVhvOUplR1l1VjBNcXc5RnA0TGpfVHQzcXE4dVRZTHZUaEVvWGpHRXZLMmRTVlRFcWVELQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Intelligent Relations Launches Always-On AI PR Agent - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRUcyMy1jNURNSGRLS0ZfTWFiX1BERVRIR3BHcF9pZFoxOVRaQkFSRk4xTFg3T3ZSaXVSMXptUVkyWWFGbWYyTnNFODc4V2phZF9zdnV4NkZiRGlRNFNSX0pzN2VfX1d5S1JFbU41WEpXWVI2MTlibU1ZbVhza1ZjZkJMd2dGMzJ4Q2ZmMlhQQzBoTHRyNUU0dUFCYjJ3V1R2eENxNkVwYm5ISmV6M3ZsMkpLeHFSNXd0dlJ6UGRKUGNDdw?oc=5"
@@ -168,14 +196,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "Inseego Introduces Intelligent Multi-WAN Control Software for SD-WAN Appliances to Improve Broadband Resilience - Quiver Quantitative",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNczZ5a2ZyLUxTQVk4S3BqR0QwMHRvOFBQZmc0RUtERTRMM0xTdTF2aEtRN0M5X25Qd0I4bzd2UW45NkdabHFqZ3BfaWotN3VsTmZxdVl3V0Z2eVdXU3pBZkNtdjhnYkxMeWNKbVNxSDRpaERrVGVwVHEtUXdlQXFnc2RzbWVCZDVjcXBnSVY5NEt1aHpuelBIUTBUWDVrcEt1alc1cF9LanRsdkdsUnpnVmJ0Y0U3SFlmREVjdlBkUEhmX1hGU3VKOTlSRTNxdzR4VFo2QThzTmY2S0hZ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "PROS Launches PROS Kairos, a New Foundation for Intelligent Airline Retailing - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHlTZHpYMnFsTDVEQ1hOVnJEWWNubk5sWTVjbmhYdERsaW5rVkdkZk5NX01UWFVhdl9LX3BKWTlkbTlzTENZazR2YUU3S3Zzd3kzWGdwOHRqVzByZGRhcElZb1FBTzdleUFweWhQamx1N2g1VldwcWpaaGx5TFpRMllBMXliSGl1MFVLY2lEZm84Xy1PM0xaT0Y3a1JNYm1sV3h3TmpubFJ5T0tVX0dZOWlEQVVBWWMxazNZdTQyMHpqVlNWdWcxa3o1OVNsUQ?oc=5"
@@ -195,6 +223,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

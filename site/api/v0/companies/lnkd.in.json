@@ -1,9 +1,9 @@
 {
   "domain": "lnkd.in",
   "name": "Zen",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 2.7,
+  "score": 2.6,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-12",
       "summary": "AMD Unveils Helion Racks With 32,768 Zen 6 EPYC Cores For Agentic AI - HotHardware",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iMmdjekJQOGRBRTdlZmVZZDFCVU9ndDh4M3UwbUdpeThMcTJicDdiSE5OWDdfOHY3b2hxeEpCaXU1V1AzaV9sa3dvWl9pREhfUm4yZmdEcGRLcFFGNndXQ1NzRDRDajJnS3R2c1F5NA?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

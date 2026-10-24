@@ -1,9 +1,9 @@
 {
   "domain": "tryhelium.com",
   "name": "Helium",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 5.0,
+  "score": 6.4,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "Charbone Launches Hydrogen and Helium Filling Unit Upgrade - Fuel Cells Works",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnQ2Z3J2cGEyZHg0VlZSaFhtb0RPUmhjbmJiaXFJZ2pFU3dVX3VVNkRvT1poY2s0dFFnZW1oaDM5dS1vR2stQlQyeVhfTVdEQUFiYUVUTS0tMGlCMkU0TERUMTVRU1M0SHl3eUg5NF84OEdHeXBoVlJXbGs1Sng3VHNQWjBJeGduNFotY3hRU2pfLWtNWGlOYVQ1Wk5DaWx3ZVBKeQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Solara unveils Helium Vol. 3 on EЯЯORR ahead of debut performances at Laroc and D-Edge - Beatportal",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSWlOWGJ5Y1diaWRuUEdtTTR6YXBULVl2R3NYb0tOa1oyTUVHVmlBcERCdUpXWVJUOW9zWnYxNV84STBaS21ta3gtRmNQTFlramVvWEhyamhCMmk1T0x4NkZXZjJ5RC1GbS1VX2t3ZVJRaWRuSWV3UVNIMlIzSlVkNzd3bU1XRGlzYW5UUm4yYXE2WnJ1cnBpb05mT1JnbTdaYnhNQ3hyOVB6d1ZhYUFvSlc0c3VwX05peU1GUWZtTFlORkNnRkg1S1ItNA?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

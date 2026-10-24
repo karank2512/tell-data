@@ -1,9 +1,9 @@
 {
   "domain": "blink.new",
   "name": "Blink",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 6.1,
+  "score": 6.0,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-09-25",
       "summary": "Introducing Durable Agents",
       "url": "https://blink.new/blog/introducing-durable-agents"
@@ -48,7 +48,7 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": [
     {
       "type": "launch",

@@ -1,9 +1,9 @@
 {
   "domain": "evidence.dev",
   "name": "Evidence",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.8,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "WHO launches guidance on evidence generation for new TB diagnostics - World Health Organization (WHO)",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUx2ZmVkLWtGVnktdWp5Q2psQnJVOVk4b2Y1QXVxUUoycFJtckVXWHZqTVgtX3hNWi1aMTdoU3VkWi1ETmlCZjh3X0tFbnJPWEYyY0xTb2ZoR1BWbnBMNE9OUno3RU5PdnBMQUpJZ0Z6OFBVSVEzclNQbGFDcmZGdFhMTUVDczA3U242ZmFWNzhwT2ZGdGM0NmpLZ3k0WXBxbkJzSFRtaTlpVngw?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-08",
       "summary": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRnpEeWRjQ2RQRnhvcWQzSGpKTVVWSHpqLTcySDAtOFcwWnJlUkxCTGY2RnJrTi02S3lUQy1meTNNNWFUTkJpakRaQzcyR2U1ZnFLODhJaExSQXFQaUNQV2hpdWxocXZBTTI5NDZTQWsxQkRsVE4zY09ncnBaZUxtTTllRjRJZHdvaTVOdUxLcnc4MG9xeWFzVUQ1TEpOZFFGVUp5SUoxSW45Y3RKc0cxSTRRV1RzU0t0SVY4?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

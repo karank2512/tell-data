@@ -1,13 +1,13 @@
 {
   "domain": "draftin.com",
   "name": "Draft",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 6.7,
+  "score": 6.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "2027 NFL Draft: ESPN's Field Yates releases early mock for top 10 picks - On3",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUGRiUkJGaWhENFZLaGVWRy1XNXFfVVIxQk0xTmIzVjVFZEt4QWp0ZXZkeWxXbVhjSk1scW5LVXhpbklDbFpidzlYZGYybWtnekFMcXZpSXhKd3Q1QWRoWjdzNDJuUW56SUtXb1F5N1NOdG5NUjNyV2RTNmZPZmI1dEQ5SmxTQzJqUTZYRGl1SENWM1pQWlB6RS1JZFBiR0U?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

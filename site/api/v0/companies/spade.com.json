@@ -1,9 +1,9 @@
 {
   "domain": "spade.com",
   "name": "Spade",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Kate Spade New York Unveils Duo Mini Bag with Ink Waruntorn - Hashtag Legend Hong Kong",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFJYd2tfMGszV1U0eWtzM3pXNW9aNTBXbFJTUzZybDF6TkpiYy01cFZhVXFDNEhTVXF5dVpOME5VRXZiUVcySHlMSzFYVEJObWM1ZUFEcjl3emlYZFlfLUdFY2VKN0FVWGRyVWlrRXRpakp4UmFUYXEybHZ4ZE5URHNweG9LUnVFZHlQVHVMN2hPU1Fo?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

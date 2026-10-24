@@ -1,16 +1,44 @@
 {
   "domain": "doordash.com",
   "name": "DoorDash",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 4.6,
+  "score": 10.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-21",
       "summary": "Hires As CMO",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1h2Wm50SXBrUG8wNzlNdEVma21fZUlieEUxRk1GS1BOZ2VUbWVvOWlqM3lVMmc4NFl2LTBocDBpYldOQS04QTlQdnNQeTM1eU84RHZVRW10VjgxcWVLaFVSUHRsWnItcC0tQlpmbUJKdzIzWk12VDBXd1Qta21XN0VIb3NMSDdHam04OFFZQjFFR09ic1BmTFJ3MmFYOU5rYk1pSFJsWk5tMUVadnpfU0M2elg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "DoorDash launches restaurant insurance with Authentic - Coverager",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDhKZ0FkWDB1NnVlaER5SksxVlhFcmw1ME5zZEN6YmRGU2VVQkduRy1LSEN2b3RtanRsdVNMSUVRcTlOa0ZPYkZNNXV4UjNyTGZUanh0dWw5UFNSMEF3Vjlod2s3aUhFN3E3bG4xNHlJUGRvN0dlekhEUVhMQkZteWdB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-23",
+      "summary": "DoorDash Rolls Out AI-Powered Planning Recommendations in the Dasher App for Experienced Dashers - Reno Gazette Journal",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZlpzeVZEZ0VCbXVQemJpcnBmVVc5OVBlb29VRkQtTjhjZzVxZXJKamxKQlExNGlVd0Z6T1JSQmhsVnBGRVE4cmpuTHlQZy1hbkpzTklUZjQ1ODZrYTlqSzY3YU1qZGhwZGtZcm0waEJVbVBsWnZXeTJ6WThiOExtWWJrVGNxREtDU0VhLWx5dFVwdWVlS2RIR1VMdzRJbi00NTZ4NUR2aTZrMzNaN0Q0RndpR3FoV01UaDNyRUdiYUNXOV8wblFQaU8yTnl6cDZkT2tTcldoaC1WLTJp?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "DoorDash Rolls Out AI-Powered Planning Recommendations in the Dasher App for Experienced Dashers - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTmgwRWQwMG5kLUhiYkhINmpYUlVteHFFY0g4eEtselozNXd4WFVNLVZpMzFJdDVfM2NCTmVPMWhUeXcwRVRnc1RtNFo1ZllCVHJhWmxULTViZGp2WFVjUXlvOTFJOVNadkRuZDlSamhNaW0tZDhVSDBTcFlDOUt3YzJBdkhHdHltZjQtVXhfS08zTnhncEUzdlcxVTZaYWJ4T1c0XzNvWmd5YTZMTmliMEswVGZoYTE3OXBXZDI2UklWYUdGVFlIbVhhWWNmN3l3ZVpHSjc1UlNmN3NScWJhMm8ySQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "DoorDash Launches \"Crash Out Corners,” Backed by Data on When Americans Hit Their Limit and What They Order To Recover - DoorDash",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52SnBLQkM1bTRzaHN6LVk5TzFub2dDYWhadXhkRmpsY3J5VmN0cjItSEROR08zTDl5UE5jcVFKZkpMdHhqOG14cWJzM2N1bzVOQlRLZ1l5T3FaWEkzdzhZZ2ZBWFRMc2xvZTBaRmRFaUNGZjJIZFVZSw?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []
 }

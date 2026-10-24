@@ -1,10 +1,24 @@
 {
   "domain": "cosmicjs.com",
   "name": "Cosmic",
-  "as_of": "2026-10-23",
+  "as_of": "2026-10-24",
   "profile": "default",
-  "score": 1.8,
+  "score": 4.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Prof. Robert Stewart Ph.D. Re-Releases Controversial Book 'Science and Cosmic Messengers' - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWZoY3E0YW1lTHZVVzNkSnFNdmJMdGtTM3U3RS1hVXY3WVhhaVZVZ1BJdzBnYlJUUE5WNmFLX2cwMzkxdlFBMjNuY1pRSHREbGlFa3NCMjRqTWJSdGVVUS1SZFZ5ODFJTjl4QXluZngzVjdxc0VDNzd5TU1qUzJFbVZtQVAzem4zUVBOWlI5OWN6bVFZbUxCUjNoN2VtMGdvN1JEVFNQdlRyRWhOU3l5MXhuUm8xM2JJSUhQVk93NlRwYk1IZGlnSzU3NkQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "Cucina Stellata Surprise-Launches Free on Steam With Cosmic Cooking Horror - MonsterVine",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02MzAxRGZQWTlQY2dHZmZRR2s5N0UtdGh3Yld2eDNUMGRiaTRzb0FkQXExdEVRcDNnZ3Y0R3M2WEphQTRtd2ZxVEFVazZNQWVSdlNuSzJKWXd6S18tanBtUXNKOHFQdE5WS3djVFM5S3NZaXI4UDFHVDhCbUF4QQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -27,7 +41,7 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/330ce26211b7a989069f6ba2122d313eabe42378",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": [
     {
       "type": "launch",
