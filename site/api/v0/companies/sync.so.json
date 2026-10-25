@@ -1,13 +1,27 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 15.7,
+  "score": 19.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Luct Melod releases electro-industrial EP ‘Sync Loss’, the first release on Chrestomath Records - SIDE-LINE",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CcXg5UGFhQUowY0QtbUFQTmprenlKYVQzLXUtRElHMUhqdGk5bDlxaHRlMTd0MW5lWEtKSS1OQ3g5YmpVaUxwZUtQeDc4Vm1WSlJacFE1WTA0NUQ2ZHZZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "MiniTool ShadowMaker 5.0 Introduces Cloud Sync for Google Drive and OneDrive - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnkxdWJOdkNhRlB1dXA0RElScWJLNWdwdmk1UkxwYU02aW1ZUHJncW16Rml6ajBLMUxUMUtxTk1aZjFFamhKVzdHell2QTdOd1pqV0tFWTVwS2puOXAxemktTjc3R09YSUxqclAtc0RWQzFET216MzFubVFieUZEbjBkYVR2TUNhVXFCOEo4UTVqYmpCbFVNS2R3UjIwZWxYeTZkby1WQ0tQa3dpQ1NETFFZLTZCT2lSd3gydXQwSkVGd1JtZnEyakl6U3BNemhZRWZLNlZ2SnE5RzNsd05meVBzNTNsQdIB5gFBVV95cUxPTnkxdWJOdkNhRlB1dXA0RElScWJLNWdwdmk1UkxwYU02aW1ZUHJncW16Rml6ajBLMUxUMUtxTk1aZjFFamhKVzdHell2QTdOd1pqV0tFWTVwS2puOXAxemktTjc3R09YSUxqclAtc0RWQzFET216MzFubVFieUZEbjBkYVR2TUNhVXFCOEo4UTVqYmpCbFVNS2R3UjIwZWxYeTZkby1WQ0tQa3dpQ1NETFFZLTZCT2lSd3gydXQwSkVGd1JtZnEyakl6U3BNemhZRWZLNlZ2SnE5RzNsd05meVBzNTNsQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "MiniTool ShadowMaker 5.0 Introduces Cloud Sync for Google Drive and OneDrive - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXM0YllfM1ZkRmhKVGRzNmZqdzBRZVVHME0wc2JYdEhxZ3pxTnh3Wnc4WnF2bFY5MnlLb01QZzd5VTlCMUxtYVR4UmVveU9icGtxbWdRQVlwSGgtRlRvS2htUU1pWTlqV1R2ZWRmRWU3Y1BqT2hTX0hIRW42VERNanhvbnhaRzd6VzRjVi05VVBIYzRzSy1OTEpGX3Q1WDl3b1ZoMTM3TUpWUzhIbThWUGNZeE1lSXBlZGdQdzd1cjFrODRhMVhUeGJIc3A?oc=5"
@@ -36,6 +50,13 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-21",
+      "summary": "Microsoft Unveils New OneDrive Command-Line Tool to Manage Sync Deployments - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80RGxza21oYm9rbndDSUFvbGYtVnFMZHVFRFkyUzNvcHJlZ0hUU09ZYUFwNENzdFFrVzBoUm9hMVF5Ynl0ZHBKTHdRVGpGWXI1dFZ6clpEcTFIQWJ1VGFOdzRvWmFJSFY4a0VqeTFn0gFuQVVfeXFMTzREbHNrbWhib2tud0NJQW9sZi1WcUxkdUVEWTJTM29wcmVnSFRTT1lhQXA0Q3N0UWtXMGhSb2ExUXlieXRkcEpMd1FUakZZcjV0VnpyWkRxMUhBYnVUYU53NG9aYUlIVjhrRWp5MWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "Microsoft Introduces OneDrive Sync CLI for IT Admins - Windows Report",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUEpmV3dKbnFfaHF0ZjZCM1cyc3REcHZrVWhvUWZxUFZJWmNXc0F3NnM1akNXRkQ4UTVab2VjNENZckd4SUcwNmFISGFDcUl3WE1yT0Q2Z1RmTWw1am9WS0NDXzdGWFlRNGpmcldwaFJFTzlGOTl2RGRLeGVmbzFDUXR2aTVPUQ?oc=5"
@@ -49,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Ovii Launches Tropical-Flavored Metabolic Sync Stick Packs on Amazon for On-the-Go Metabolic Care - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUlhlX2otaS1CNHQ4VURrRTBLbjJyQ1NzQ3RpM1pqdWVaRlp5V3EtQWp6X01KTG1ycWI5Unl2czA4bzRkczhzaldJUGM5OHdyRWFNdEt3V3NtV1N4R0NxWlJrTGQ2WjYxWFRYZWxpRWxyQjc0S0dxZXRzQlo3WVBTbS11UjN2ZmxRNWIxM2VQamU4Y1Q2WEFySTJDaWprSVBkY2c4WlBYNGpVb0g4MnNTR0lMRU1hRkstNnR2Z0ZWTUIyLUVXU2VlMmFwWFdoMVlya0cweE0yaldqSnpGN0dEMnZmSXl5SUU?oc=5"

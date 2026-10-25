@@ -1,0 +1,281 @@
+{
+ "vendor": "ashby",
+ "identifier": "adaptyv",
+ "domain": "adaptyvbio.com",
+ "as_of": "2026-10-25",
+ "last_polled_at": "2026-10-25T15:27:24.152888+00:00",
+ "open_postings": [
+  {
+   "external_id": "133ec3cc-dfcd-430b-aa61-6a15b1dd7abf",
+   "title": "Head of UK Operations",
+   "role_family": "exec",
+   "location": "London",
+   "posted_at": "2026-10-19T15:41:23.787000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/133ec3cc-dfcd-430b-aa61-6a15b1dd7abf"
+  },
+  {
+   "external_id": "14bac451-613d-4b73-94ff-e4fd485a7db1",
+   "title": "Talent Lead",
+   "role_family": "finance_ops",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:41:13.871000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/14bac451-613d-4b73-94ff-e4fd485a7db1"
+  },
+  {
+   "external_id": "15688d24-78ca-43ad-9648-9880381b9d2a",
+   "title": "Community Manager",
+   "role_family": "other",
+   "location": "Lausanne / Hybrid / Remote",
+   "posted_at": "2026-10-19T15:40:56.583000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/15688d24-78ca-43ad-9648-9880381b9d2a"
+  },
+  {
+   "external_id": "181fc5b0-b891-4342-9ac5-d87e2e315122",
+   "title": "Scientist, Protein Expression & Purification",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:58.582000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/181fc5b0-b891-4342-9ac5-d87e2e315122"
+  },
+  {
+   "external_id": "1c860a86-2d9d-4964-b4a5-930d6614878a",
+   "title": "UK Ops & Programme Manager",
+   "role_family": "gtm_ops",
+   "location": "London",
+   "posted_at": "2026-10-19T15:41:30.716000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/1c860a86-2d9d-4964-b4a5-930d6614878a"
+  },
+  {
+   "external_id": "32b4fe9e-cd0a-4600-bea3-2fe44ff781fb",
+   "title": "Senior Scientist, Production",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:50.263000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/32b4fe9e-cd0a-4600-bea3-2fe44ff781fb"
+  },
+  {
+   "external_id": "34944559-933b-491a-874f-a15c6a0660e8",
+   "title": "Supply Chain & Procurement Manager",
+   "role_family": "gtm_ops",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:41:18.748000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/34944559-933b-491a-874f-a15c6a0660e8"
+  },
+  {
+   "external_id": "3cc2c8ea-7973-46a8-8f6c-a8ec461437e1",
+   "title": "Mechanical / Mechatronics Engineer (Early Career), Hardware",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:13:37.377000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/3cc2c8ea-7973-46a8-8f6c-a8ec461437e1"
+  },
+  {
+   "external_id": "48a9f6c0-dd4c-4608-b509-3f06fa97484f",
+   "title": "Scientific Account Executive",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-10-19T15:41:01.360000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/48a9f6c0-dd4c-4608-b509-3f06fa97484f"
+  },
+  {
+   "external_id": "5fc1a010-890e-4810-b1f3-fef205c6be64",
+   "title": "Scientific Account Executive",
+   "role_family": "sales",
+   "location": "Switzerland",
+   "posted_at": "2026-10-19T15:40:58.722000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/5fc1a010-890e-4810-b1f3-fef205c6be64"
+  },
+  {
+   "external_id": "60a84223-a3e4-453b-8be9-1028cfebbfdd",
+   "title": "Head of Finance",
+   "role_family": "finance_ops",
+   "location": "Lausanne / Hybrid / Remote",
+   "posted_at": "2026-10-19T15:41:15.996000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/60a84223-a3e4-453b-8be9-1028cfebbfdd"
+  },
+  {
+   "external_id": "624170d8-3cee-4859-a1ea-e74658d0b50c",
+   "title": "Software Engineer, Product",
+   "role_family": "engineering",
+   "location": "London",
+   "posted_at": "2026-10-19T15:40:34.939000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/624170d8-3cee-4859-a1ea-e74658d0b50c"
+  },
+  {
+   "external_id": "64318537-2279-48f2-9213-7acce3bfd808",
+   "title": "Synthesis Instrumentation Engineer",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:49.404000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/64318537-2279-48f2-9213-7acce3bfd808"
+  },
+  {
+   "external_id": "7116a0f0-0326-45a6-9356-829b1519932f",
+   "title": "Lab Operations Associate",
+   "role_family": "gtm_ops",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:58:02.701000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/7116a0f0-0326-45a6-9356-829b1519932f"
+  },
+  {
+   "external_id": "71e7b346-1db7-4d87-808d-9abdf615e488",
+   "title": "Lab Automation Engineer",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:13:46.863000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/71e7b346-1db7-4d87-808d-9abdf615e488"
+  },
+  {
+   "external_id": "79a58bcf-0df5-48cd-8ec9-21288b25f0ec",
+   "title": "Lab Technician, Molecular Biology",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:55.630000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/79a58bcf-0df5-48cd-8ec9-21288b25f0ec"
+  },
+  {
+   "external_id": "8038bf0d-b7ab-4e23-9ce9-f6fea2a5691f",
+   "title": "Founders Associate",
+   "role_family": "gtm_ops",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:41:10.581000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/8038bf0d-b7ab-4e23-9ce9-f6fea2a5691f"
+  },
+  {
+   "external_id": "88451659-b23b-4f27-a082-2e5635d8126a",
+   "title": "Scientist, Binding Kinetics",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:51.228000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/88451659-b23b-4f27-a082-2e5635d8126a"
+  },
+  {
+   "external_id": "8c8af908-3dcb-4ac4-b451-fa73ec4a3b12",
+   "title": "Business Operations (Intern / Working Student)",
+   "role_family": "gtm_ops",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:41:06.690000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/8c8af908-3dcb-4ac4-b451-fa73ec4a3b12"
+  },
+  {
+   "external_id": "8cdef07a-1803-4679-b039-c66c8e307518",
+   "title": "Research Associate, Molecular Biology",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:53.431000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/8cdef07a-1803-4679-b039-c66c8e307518"
+  },
+  {
+   "external_id": "8e67b2b8-0cff-4dcf-96c2-572926ffeb73",
+   "title": "Software Engineer, Lab Automation",
+   "role_family": "engineering",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:40:52.542000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/8e67b2b8-0cff-4dcf-96c2-572926ffeb73"
+  },
+  {
+   "external_id": "9bfcccdb-8d60-4766-9600-295e0440349d",
+   "title": "Intern, Molecular Biology",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:54.675000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/9bfcccdb-8d60-4766-9600-295e0440349d"
+  },
+  {
+   "external_id": "a68c9a68-cee9-44bf-9b1c-4213b4aa8aea",
+   "title": "Bioengineer, Display & Library Engineering",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:56.656000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/a68c9a68-cee9-44bf-9b1c-4213b4aa8aea"
+  },
+  {
+   "external_id": "a6f40152-e49c-4bdd-a0cd-650776b785b9",
+   "title": "Lab Technician, Lab Operations",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:57:52.239000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/a6f40152-e49c-4bdd-a0cd-650776b785b9"
+  },
+  {
+   "external_id": "aeed97e7-941f-4e6b-ad64-cf85b018f09b",
+   "title": "Scientific Account Executive",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-10-19T15:41:04.127000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/aeed97e7-941f-4e6b-ad64-cf85b018f09b"
+  },
+  {
+   "external_id": "b3342c86-3661-4221-a7cf-ad59208dccf7",
+   "title": "Forward Deployed Scientist",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-10-12T15:18:08.829000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/b3342c86-3661-4221-a7cf-ad59208dccf7"
+  },
+  {
+   "external_id": "ba00389d-8530-4902-8636-42ec80f96503",
+   "title": "Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "London",
+   "posted_at": "2026-10-19T15:40:32.916000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/ba00389d-8530-4902-8636-42ec80f96503"
+  },
+  {
+   "external_id": "cf3cc792-16d2-4370-a9e8-091380fff318",
+   "title": "Software Engineer, Product",
+   "role_family": "engineering",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:41:33.369000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/cf3cc792-16d2-4370-a9e8-091380fff318"
+  },
+  {
+   "external_id": "d2f42399-54b0-4262-bf85-d173cb21bbaf",
+   "title": "Head of Software Engineering",
+   "role_family": "engineering",
+   "location": "Lausanne / Hybrid / Remote",
+   "posted_at": "2026-10-19T15:41:40.580000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/d2f42399-54b0-4262-bf85-d173cb21bbaf"
+  },
+  {
+   "external_id": "d490ee05-1c8f-464f-978a-f67467ed3f4e",
+   "title": "Lab Automation Internship",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:40:50.106000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/d490ee05-1c8f-464f-978a-f67467ed3f4e"
+  },
+  {
+   "external_id": "e4372bd7-efc1-4255-aef4-3a2180f6cd35",
+   "title": "Head of UK Lab Operations",
+   "role_family": "exec",
+   "location": "London",
+   "posted_at": "2026-10-19T15:41:27.555000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/e4372bd7-efc1-4255-aef4-3a2180f6cd35"
+  },
+  {
+   "external_id": "ec9a66de-1538-4922-9141-655d8432e78c",
+   "title": "Software Engineer, Backend",
+   "role_family": "engineering",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:41:42.497000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/ec9a66de-1538-4922-9141-655d8432e78c"
+  },
+  {
+   "external_id": "eda79fb3-7b4a-4fbf-87ce-0e23daef742f",
+   "title": "Bioengineer, Molecular Biology",
+   "role_family": "other",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:36:48.140000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/eda79fb3-7b4a-4fbf-87ce-0e23daef742f"
+  },
+  {
+   "external_id": "eeaa3a4f-ec6d-42ee-abba-2f781e3f7307",
+   "title": "Data Scientist, Lab & Protein Data",
+   "role_family": "ml_ai",
+   "location": "Lausanne",
+   "posted_at": "2026-10-19T15:58:03.924000+00:00",
+   "url": "https://jobs.ashbyhq.com/adaptyv/eeaa3a4f-ec6d-42ee-abba-2f781e3f7307"
+  }
+ ]
+}

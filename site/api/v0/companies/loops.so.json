@@ -1,10 +1,17 @@
 {
   "domain": "loops.so",
   "name": "Loops",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Pendle Launches PendleLoop for Leveraged Trading and Yield Loops - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6eUVqdk02WDlvdEpxaFU3T0swQUFqWFV2NXY2Z2dQdW5hUWNNNlFscnRVUHA2MHBfa240d3ZGalRvN1VPWHNRLTljTWVKTkpaOFNRT3VoWUpNOEU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

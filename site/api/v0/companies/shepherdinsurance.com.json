@@ -1,9 +1,9 @@
 {
   "domain": "shepherdinsurance.com",
   "name": "Shepherd",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 6.5,
+  "score": 6.4,
   "contributions": [
     {
       "type": "leadership",
@@ -29,7 +29,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-19",
       "summary": "3 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/shepherd",
@@ -52,8 +52,8 @@
       ]
     }
   ],
-  "open_postings": 26,
-  "long_open_roles": 11,
+  "open_postings": 25,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:shepherd",
     "edgar_cik": null,

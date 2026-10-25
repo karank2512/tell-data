@@ -1,13 +1,13 @@
 {
   "domain": "onebrief.com",
   "name": "Onebrief",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 30.3,
+  "score": 30.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 29.4,
+      "contribution": 29.2,
       "occurred_at": "2026-10-14",
       "summary": "Form D: $249,999,915 offering, $150,799,963 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1888809/000188880926000002/"
@@ -20,7 +20,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTVp4bHRCZFNPN1c0VWxsTWpYM1dNcTlVZEJRWDNZQ0ZjNlFhYUo2dm10WEZTeFlRVGJMdVBsTjEwanBiRHp6SmNYckk3X2hEMElQLXc0REY3ai1fVnJnVzNCeDJjR1NQaExwZ2QxUkFRYU9LdnJ0RE51NVllTVhkQkZNU21FVXNJcTBDNWQzbmNXZUFIMDlpeXZSX1ljWEhqT01lWWhTRlppT1p5Y1NTQWpFcGpWN3ZxYm9NNUhNYjB5MlYwaUFTRllvUHR4NW5aYWRKa3ltUW5nSTdzNlV2dTJGeDVhQVVSN3AzUW04TmVyZHU0SDJ4MjhlUG5QeWxkNnpsV3BnbVdNVnc?oc=5"
     }
   ],
-  "open_postings": 35,
+  "open_postings": 32,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:onebrief",

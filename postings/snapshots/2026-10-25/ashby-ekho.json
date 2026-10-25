@@ -1,0 +1,33 @@
+{
+ "vendor": "ashby",
+ "identifier": "ekho",
+ "domain": "ekho.com",
+ "as_of": "2026-10-25",
+ "last_polled_at": "2026-10-25T15:27:24.152888+00:00",
+ "open_postings": [
+  {
+   "external_id": "111a4f0e-624e-41a4-8c9a-4927a1331292",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "New York City HQ",
+   "posted_at": "2026-05-06T00:48:43.945000+00:00",
+   "url": "https://jobs.ashbyhq.com/ekho/111a4f0e-624e-41a4-8c9a-4927a1331292"
+  },
+  {
+   "external_id": "c8888199-a4aa-4b61-9744-67bd2c92f4d8",
+   "title": "Full-stack Engineer",
+   "role_family": "engineering",
+   "location": "New York City HQ",
+   "posted_at": "2026-08-17T17:41:08.357000+00:00",
+   "url": "https://jobs.ashbyhq.com/ekho/c8888199-a4aa-4b61-9744-67bd2c92f4d8"
+  },
+  {
+   "external_id": "f6859821-786e-4700-8c9c-ee8b1e0e1438",
+   "title": "Chief of Staff",
+   "role_family": "finance_ops",
+   "location": "New York City HQ",
+   "posted_at": "2026-08-12T01:56:59.894000+00:00",
+   "url": "https://jobs.ashbyhq.com/ekho/f6859821-786e-4700-8c9c-ee8b1e0e1438"
+  }
+ ]
+}

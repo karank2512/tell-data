@@ -1,13 +1,13 @@
 {
   "domain": "finic.ai",
   "name": "Finic",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 1.2,
+  "score": 1.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-08",
       "summary": "Introducing Finic Grayson",
       "url": "https://finic.ai/blog/introducing-grayson"

@@ -1,7 +1,7 @@
 {
   "domain": "ramp.com",
   "name": "Paribus",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
   "score": 0.8,
   "contributions": [
@@ -31,8 +31,8 @@
       ]
     }
   ],
-  "open_postings": 172,
-  "long_open_roles": 50,
+  "open_postings": 167,
+  "long_open_roles": 49,
   "sources": {
     "ats": "ashby:ramp",
     "edgar_cik": null,

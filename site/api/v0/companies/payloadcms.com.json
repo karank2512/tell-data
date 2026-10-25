@@ -1,16 +1,30 @@
 {
   "domain": "payloadcms.com",
   "name": "Payload",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 36.5,
+  "score": 39.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.0,
+      "contribution": 11.9,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-25",
+      "summary": "Gujarat startup launches India’s first commercial thermal payload aboard SpaceX rocket - Bilkul Online",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT3YyenRnaWJrM0JUZlR1bDlUbEZWNHZiWTBKODViQTg2dVZYejdSd1lTOXdybm5objUzczRxWGZhQURfd1VsbjBBaHFxX2FqeXQ3bUVBQmVGQVVKYXoxY25QWHBORnhISzNDNUtpTDNjUEQ3WTJOMmJjSHdEUUJOZndiZUZxXzQ3UkdDZWllbF9MMTdjcEk0NmdvVFhrSUJBcU9qRVkwaEtmREttNmQtS05rRHdTVUlrU1RWZmIwMnE5TU1QNFJB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-25",
+      "summary": "Gujarat startup launches India’s first commercial thermal payload aboard SpaceX rocket - Social News XYZ",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3I3TXk4UXRCaFlQSkpLZTNhc1V5SWZjSEN6UTAyWjJGb2VpUWRaMFB6aEtINkJCaG8wOXZZbUN4MGJndHdHUHk1dzFoeHVNTWtzWi1waFZDVmZUYl9pVEREZzRQREtwbE9mbWlkUnplRW9hOE5qNmptZnRIYThFbExoX3MwRWptTlotUGs3U3kwd0gzc1kzcmxMcXhSNGpqaURDcldWMlc3ZEFyWmFXMTV3QUp0dkdvVDdkN3pUMXVZQdIBwgFBVV95cUxOb3I3TXk4UXRCaFlQSkpLZTNhc1V5SWZjSEN6UTAyWjJGb2VpUWRaMFB6aEtINkJCaG8wOXZZbUN4MGJndHdHUHk1dzFoeHVNTWtzWi1waFZDVmZUYl9pVEREZzRQREtwbE9mbWlkUnplRW9hOE5qNmptZnRIYThFbExoX3MwRWptTlotUGs3U3kwd0gzc1kzcmxMcXhSNGpqaURDcldWMlc3ZEFyWmFXMTV3QUp0dkdvVDdkN3pUMXVZQQ?oc=5"
     },
     {
       "type": "launch",
@@ -42,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-18",
       "summary": "WarpAstron Launches WD-20E: 30kg Payload in a 5.7kg Mount - DIY Photography",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWEZXZ3BqdHhvekQxNzdDNjVEUVZNTjh6ZlMzc2RZeTRNUEhvTzVlVnZoWUhYa3k0R1FfN2V2U1MyVnJBenFyU2ltOC02MkxpaGpCc0VlblBLZ3JXN2NLTTFrRnJYSXpVUDZ3ZUhFR2lKbnBseDI3R1NHWEVhUDVVbjlUM19KcjdpcGZ5V0E3ajl1Zw?oc=5"
@@ -77,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "HLB Panagene Unveils 'PNA Payload Optimization' Findings at 'OTS 2026' - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xNWdOOElzSUlMamdRcTV6Skwwdkhtbll0cl85R0FiXzdUNEpZYTFoQnNZVWx3d09fWVdJdnc3d0NmWUdLeUhNUGpYVmhtbXNqZXdxUFJ2SXNRLXI2eWh3c3Z0MFl4VkN5UlktSlVIZTF1azByVmpXZHY1SQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "IAI Launches POP 1000 Compact Electro-Optical Payload For Maritime And Airborne ISTAR - Ocean News & Technology",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEkyNldyYjczcU9KcFJXVjgtZ0hGUFVSRVkyT1pNcmgzY1lTTUdmUTYxUVdJcVRSVFhMSkhGTGd6NTJFMnotY2VLUHJITm9wM1ZMLUI0ZHJkTS1KRGEyeGJvcDVYY3ZpcjNrQjBpdUQ3bFhzMFhIQloxeUZyQWVCTGRXX2pPcjNfa3NWWjI0MVA1a21ZWnBCVFBjQVlyTnFiZlBQWEhOQU1pXzg0RDFROXZBYmlWR2ZYUktxblV3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "China’s five-ton-payload robot debuts at Shanghai’s CIIF, but real-world performance is what counts - TechNode",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT29Ca3BDcUZXTUJTQW9jOUtlbWdNTzVZMFZ4MnFOdUFNYkJSdy01YUpuTHFQNlFWYW5WOGN5RzhTUFBfejVTNlJBUnp1SWEtT2tSS0VRbEFLNG5UaGlSUV9kdmhKbnJ1SHBOTnJ0Z05KWjlialFNQTJfZjR3MGJQSFVnVzhqZjVrLVVmT1dVaWJhSzVtR0cyUDJteEVSdUlPMFVyTlJPUW5FU3NnNk4zR240Y1ZHODBuQ3NDMVRxNmRLQQ?oc=5"

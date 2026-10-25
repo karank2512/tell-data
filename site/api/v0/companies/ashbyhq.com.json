@@ -1,14 +1,14 @@
 {
   "domain": "ashbyhq.com",
   "name": "Ashby",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
   "score": 3.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-17",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/ashby",
@@ -27,14 +27,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
       "occurred_at": "2026-10-23",
       "summary": "Poppy Appeal launches in Ashby for 2026 - Ashby Nub News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDZGYWYzR2ZieVlsUWdUTTVFR0VpU1h0bnI4MmhsbGhZM0pMSEpIbGMwVEZJclB3b2hheGd5REp2b3FqaGdNQ2RDMHY4Z3Yzd0xQZmQ1NXpsUjFYUV9CeEtEWFA0c3hLNXpqTk9FTDdRSTJ6Rk9PXzFPTGJBczRUbXJ6dVdHRUg2OUFXNnJ3?oc=5"
     }
   ],
-  "open_postings": 69,
-  "long_open_roles": 39,
+  "open_postings": 67,
+  "long_open_roles": 40,
   "sources": {
     "ats": "ashby:ashby",
     "edgar_cik": null,

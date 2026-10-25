@@ -1,9 +1,9 @@
 {
   "domain": "singlestore.com",
   "name": "SingleStore",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-09",
       "summary": "Introducing Singlestore Analyst : Question to Insight While It Still Matters",
       "url": "https://www.singlestore.com/blog/introducing-singlestore-analyst-question-to-insight-while-it-still-matters/"
     }
   ],
-  "open_postings": 40,
-  "long_open_roles": 15,
+  "open_postings": 39,
+  "long_open_roles": 14,
   "sources": {
     "ats": "greenhouse:singlestore",
     "edgar_cik": null,

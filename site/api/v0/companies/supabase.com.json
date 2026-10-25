@@ -1,9 +1,9 @@
 {
   "domain": "supabase.com",
   "name": "Supabase",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 3.1,
+  "score": 3.0,
   "contributions": [
     {
       "type": "launch",
@@ -55,22 +55,22 @@
       "occurred_at": "2026-05-06",
       "summary": "Introducing @supabase/server",
       "url": "https://supabase.com/blog/introducing-supabase-server"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.1,
-      "occurred_at": "2026-04-28",
-      "summary": "Introducing the OSSCAR Index",
-      "url": "https://supabase.com/blog/introducing-osscar-index"
     }
   ],
-  "open_postings": 59,
-  "long_open_roles": 18,
+  "open_postings": 61,
+  "long_open_roles": 19,
   "sources": {
     "ats": "ashby:supabase",
     "edgar_cik": "0001829334",
     "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
-  "why_not_higher": []
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-25",
+      "url": "https://supabase.com/blog/introducing-osscar-index",
+      "summary": "Introducing the OSSCAR Index"
+    }
+  ]
 }

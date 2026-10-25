@@ -1,13 +1,13 @@
 {
   "domain": "mistle.dev",
   "name": "Mistle",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 0.2,
+  "score": 0.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-05-29",
       "summary": "Introducing Mistle: a background agent platform",
       "url": "https://mistle.dev/blog/introducing-mistle/"

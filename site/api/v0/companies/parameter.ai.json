@@ -1,27 +1,34 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 45.1,
+  "score": 45.9,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-25",
+      "summary": "China’s Moonshot AI unveils 3-trillion-parameter Kimi K3.1 Pro - Qatar Tribune",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3BOcFZaRXo5YUttWWk5RlNxTTNWVTRxQjM0WmxPcWwzSzlsME5QeWpXMTRwWDFmUUE1S0pRX2R1RXJOc01ZN1JMLTczcmdJZ0U0WkV0eWxtc1dZVDR3aU00TGpxeHpjNEhQNnJzLVh3Z0xiZ1M5ZHZUVnFtcGZROGY4Rl9QVFlyaVNnTWZ4NVg1T0RPcEhoVlRGTjVKc05RVl9nRmpnZGs0a1BhWEIwNXlpREw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model - Menafn",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmh6TFktNlpuUzY5X0xSdFZSeDR3ZjR0Mi1TcnRmd091Nm41aXg1NW5zNk5VQkNhRm9IVlJsOHFleVRITGNkSExSMF9hWGt3VFlPUGhTR2FQNnNXUTZ5VFZvckN1TG1fNWw1dDhwMWJNNDB1akFSaGpqeVktMGYtcmNWUHlzb0ZNeE9vVG9sVGZ5TlhrSjBj?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model - Asianet Newsable",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVBWaWVJM0FDb20tbG9jcWdFaXRuRlhoTmV5LVBpZldaZWRsUC0xS0xuV2wzY01QNFVNeFk4cXduN1pWWUpJN2NDcXp1STlYVGxqMnJreUFMREF4NUV3eDVKVVNibmRjcE1DY1hTWFFoMG1LcWlaa2R0Z2xUVmxuOFhqMkFLWkhTZV9UREFVRGJhMVdqZkN0dFpMVmJBUklxVE9jbURiTnhjeTlaWlpVdHRkYTUzVkZtSDhIaXlBTUF2dWvSAcgBQVVfeXFMT3lrVE9QLVBMMnV6YzZPUXVOekNFMy1nbV94dk5WalI3MUw0WnpYM055RkRBMm50ZGhtbkR6TlE3RlNvZzFmS05Sc0liNXZENjRjS0M5MVVOSnBVUl85ZWdKOTZyZkRKNzhiQlE0V2wyY0dZUjJuVWFDZzVCb0Y2QWU5a3VJUWhPWUJlN0xGMDRKUkEyeDR3Ql9iV1dyTGM1akdwNFM0c0tZQzkzY2Y1cmVYQmJ4MDFVZ25ndm0zRU4tSXYwNENIVTg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "MiniMax releases open weights for 428-billion-parameter M3.1 Flash model - TechNode",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGlLdDl6SUZJcGxJUUdBbDNUaXg3akpBZmlkWFBSSWFFQ29CTW9VeTNVWV9RU2hLdzdSY3VMV1MydnNLNGN2XzN6RUM5amMteDdZeHg0eXRrbGZYS1o2a1hhTFB6cVZlWlA4VGx0TG03NVlUb0k1RllRTnJ1bjVFSTRwRXp0ZWVyc0VMZFM3M0RCVFU1ZFRacE5RMk56MTFCTXJubTNzaGg?oc=5"
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-17",
       "summary": "Reflection Releases Open-Weight Beam, a 501B-Parameter AI Model Built to Reason With Fewer Tokens - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16UW9SVFhEM0JBLXdtTGFZWlFQaHBOS3ZwLTI0RU5YZ0ZCaF85ckNLZF9DOEoxMVNBWjZLbnVBamlrOVRYaDBWQ3E1dkFoY0NDNC1GcGpEUzRKWEZxSkFQcFlKZXNEREtJVHZTRno1cElCQ0dk?oc=5"
@@ -224,21 +231,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Mistral Releases Le Chonk, a 1 Trillion Parameter Open Weight Model - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnhZbGk0NWEtZTdPNXd0NXpaV2tnam1oSXBfNkFlVEZOU3ZmcjBrcFZqLWMxRFZYQkR0TVo5WUxDNE82YXVKdlRTZ3ByWk5EY0lTWXlPbE96azVpeWdWMDJnNlBmczM2cEoyRlpnaHJRd1FEMHJvTTFHal9qQ01EY3V1UkpvYUVmTF9vWk8tNy14cVNKM3Njblhn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB Laptop - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFRBbUY4eXZsUlZPeUR5dFh6bm41NHE1cmZSTGV6UzBxWjdHNmQ1ZmdmLUQ2LVAzbFRJcW1UV1pYaFAxcDhBTW1TMDRmSmxESFpGcVNFa0JJamtrZzE1NzRxcGVsWGJNWmpWVm5VLUdWQURZLXIxZjFaWDVQNkdGc3I5eEpHOWZ3dlVCSWdla3JZSHdWSlBKdzNqTGdLNVNMT18wSEF2ZFptVG1oeWVfWnpRTUFsNXVaNjRXQXZ6Y1NFR2ZvdVI4?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Liquid AI releases LFM2.5-24B-A2B, a 24B-parameter model built to run on your laptop - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYVVqZnBhdDVjbjVFRkxUQnA0cExncjJxRnFLejV2M3NZUTZ1MFBjRXFoQVREYm5sQjZzZ0wwNjZOUjFhSmJZYjh6Xzc1RVNvMmVucFpCR0FUa3hlSkFhYm42NTV5T2phdnc?oc=5"

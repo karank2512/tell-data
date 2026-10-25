@@ -1,14 +1,14 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-23",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/benchling",
@@ -67,7 +67,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Direct Data Share, closing the loop between the lab and the AI Data Cloud on Snowflake",
       "url": "https://www.benchling.com/blog/direct-data-share-with-snowflake-and-benchling"
@@ -87,8 +87,8 @@
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
-  "open_postings": 58,
-  "long_open_roles": 12,
+  "open_postings": 56,
+  "long_open_roles": 11,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,

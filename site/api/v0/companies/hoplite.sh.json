@@ -1,13 +1,13 @@
 {
   "domain": "hoplite.sh",
   "name": "Hoplite",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 0.3,
+  "score": 0.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-01",
       "summary": "Introducing Hoplite",
       "url": "https://hoplite.sh/blog/introducing-hoplite"

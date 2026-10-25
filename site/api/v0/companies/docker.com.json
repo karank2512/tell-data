@@ -1,7 +1,7 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
   "score": 2.9,
   "contributions": [
@@ -45,8 +45,8 @@
       ]
     }
   ],
-  "open_postings": 67,
-  "long_open_roles": 14,
+  "open_postings": 52,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:docker",
     "edgar_cik": null,

@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 13.9,
+  "score": 13.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -57,7 +57,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "Stripe launches Treasury for AI agents - The Paypers",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzhzRUQzcFV4NHVrODdoTXBmQkpHUlpzOTFWWC1kT2JWQXZuckpFTjlUNDNfSUF6MEM3eFhGZ1ZqdU44cFQ3Ymk0MXNTZFBBZmZjQWx6d2JSY2pwd3ZCcmhNeG5iRXFxN2xRaVlmODlacm4zRXJhOUloTFNYc3Z6SzRPSl9pNlVQX1doUDBQNVM5ZTJGODJCdlByTUtadEZFY3c?oc=5"
@@ -85,7 +85,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-08",
       "summary": "Meta unveils AI agent standard with Walmart, Stripe - digitimes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUtOZ2w1czQycHlOcUhOb2lTc2JxVjhRSDlMMlgyeEtuM0dZeXVGbXhBTkJ1cVRoWHBOVGRnTkVkMEpLU3BzSEpTaWFtd1djaXNGR25fMy1XdXVOMTFPTWZQV01DUy1fd3V2a3ByMl9SRXRfQ3hVZTctdVFjS2piTnNha21jaUt0ZVZXOHBQVWQzaEU?oc=5"
@@ -148,8 +148,8 @@
       ]
     }
   ],
-  "open_postings": 728,
-  "long_open_roles": 187,
+  "open_postings": 719,
+  "long_open_roles": 189,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

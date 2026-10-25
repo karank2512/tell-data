@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 4.2,
+  "score": 6.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.4,
+      "contribution": 3.2,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -32,6 +32,51 @@
           "title": "Director, Marketing Operations",
           "posted_at": "2026-10-16",
           "url": "https://www.brex.com/careers/8895350002?gh_jid=8895350002"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "marketing",
+      "contribution": 2.1,
+      "occurred_at": "2026-10-25",
+      "summary": "7 new marketing roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Senior Finance Manager, Marketing",
+          "posted_at": "2026-10-19",
+          "url": "https://www.brex.com/careers/8900330002?gh_jid=8900330002"
+        },
+        {
+          "title": "Senior Field Marketing Manager",
+          "posted_at": "2026-10-20",
+          "url": "https://www.brex.com/careers/8895839002?gh_jid=8895839002"
+        },
+        {
+          "title": "Director, Performance Marketing",
+          "posted_at": "2026-10-25",
+          "url": "https://www.brex.com/careers/8899486002?gh_jid=8899486002"
+        },
+        {
+          "title": "Director, Performance Marketing",
+          "posted_at": "2026-10-25",
+          "url": "https://www.brex.com/careers/8914950002?gh_jid=8914950002"
+        },
+        {
+          "title": "Director, Performance Marketing",
+          "posted_at": "2026-10-25",
+          "url": "https://www.brex.com/careers/8914951002?gh_jid=8914951002"
+        },
+        {
+          "title": "Director, Performance Marketing",
+          "posted_at": "2026-10-25",
+          "url": "https://www.brex.com/careers/8914952002?gh_jid=8914952002"
+        },
+        {
+          "title": "Director, Performance Marketing",
+          "posted_at": "2026-10-25",
+          "url": "https://www.brex.com/careers/8914953002?gh_jid=8914953002"
         }
       ]
     },
@@ -61,7 +106,7 @@
       ]
     }
   ],
-  "open_postings": 264,
+  "open_postings": 259,
   "long_open_roles": 96,
   "sources": {
     "ats": "greenhouse:brex",

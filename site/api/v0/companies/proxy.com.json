@@ -1,13 +1,13 @@
 {
   "domain": "proxy.com",
   "name": "Proxy",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 10.9,
+  "score": 10.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-21",
       "summary": "Percona launches Valkey-proxy to ease Redis migration - IT Brief UK",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYnpMd0pXanE5dldyZ3JaWXlxY3hJYW94cnVXUW4yd09WZDlNZUVHLUVOUV84c1JhYXNWTXFMSzBoZ0NXOUFyLXNWM3hrck5SNUJDZnRrY2JHdzZocFNGWk1fekxXcWJOZUhzZC02NmR6R3NfWXhNOFVHNjFMNnAtaXRvNE13VG9o?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Oasis Officially Launches Proxy Fight to Win 4 Board Seats at Vail Resorts - SnowBrains",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOFMtcWVRWS1oWjN2dTBkM2otY0U4QmN4OGRJcGV1RVpkR3o5enJDb0lid1hINklWN0hBc2hRN2IwSmJDM3BLNkQzTEJmZzE1bWlVZmhyOXM1NnJDRURMNDJzeXNvajlKVjhKN1VnNGo5RU00SkV0SFZ0RFFjZkJacDh0cUxxZ3AzU0VScUFNQ1BxYUd3TU9GbFRrbFpQckE?oc=5"

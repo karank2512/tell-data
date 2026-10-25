@@ -1,13 +1,13 @@
 {
   "domain": "goradar.com",
   "name": "RADAR",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 12.5,
+  "score": 12.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Arbe Introduces the Gryphon Radar System, Bringing Reliable Perception to Unmanned Ground Vehicles on Rough Terrain - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOLUtuSVdSbC1jM00tR2JCUTBWNUFITWxpa081bWxnRUdTMmdoT3RkdjRyT0g4M1BUaFFKLXpjenJmWWJ6WVliOEFvbFc3eENfNGNFcmh1bGN5THpoeldleG1IZUNxSzFNR3F3WXRhVjVuYk5BTnVqM3cyY1Yzc2JDWDUtNmF0M05RNWxkZXhyREp5Z3VTbUpESkxOWnR3MW5pMVZFb1dCRjc2N29Pd1hSOGI4R0E0UThPTE1XYk05S25kN2pKQl83Wk5TOFE5elF1anFDeDVjWWQwRHRVTWJyMDhVMklDMDNMVjNtZlFyWTF2ellQWUFpQXhwMXF6OE0?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Teledyne FLIR Defense releases new compact counter-UAS radar - Breaking Defense",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTZQZktpdjFreFZjSGZfbU5aRmtqQU92b1lDUDU0LUtLMzlYMTN3WVhwYTdCZGt2dVNsYlNodnVyS05DZ2tSbU81MkthdkpIRjdTMzdyWmRFa0ZpRVFtQmpwRnJ4dHRMY0NabjVPUHdOQ1loQm5qU2paSEVyeV9BZ3dDbWM2bVRicXZ0VjE1ek5hckJYTDdXUTdIeU9Ndw?oc=5"
@@ -76,7 +76,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zNFQtWURfSmFDMFoydFNnODBJSVRueFBibjd4QkVfeTBsTlloektXR3RLclpiNDI3anZkZlA4X0U2dzFTVXBrUmFZY0p2R25qY25hajBYRmhnYVE4VUFLLTE3WXY0OXUyZDNidXFrVdIBb0FVX3lxTE9zNFQtWURfSmFDMFoydFNnODBJSVRueFBibjd4QkVfeTBsTlloektXR3RLclpiNDI3anZkZlA4X0U2dzFTVXBrUmFZY0p2R25qY25hajBYRmhnYVE4VUFLLTE3WXY0OXUyZDNidXFrVQ?oc=5"
     }
   ],
-  "open_postings": 8,
+  "open_postings": 7,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:radar",

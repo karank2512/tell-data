@@ -1,14 +1,14 @@
 {
   "domain": "happyrobot.ai",
   "name": "HappyRobot",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-23",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/happyrobot.ai",

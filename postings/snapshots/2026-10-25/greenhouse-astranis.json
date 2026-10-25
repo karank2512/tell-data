@@ -1,0 +1,1481 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "astranis",
+ "domain": "astranis.com",
+ "as_of": "2026-10-25",
+ "last_polled_at": "2026-10-25T15:27:28.044335+00:00",
+ "open_postings": [
+  {
+   "external_id": "4002671006",
+   "title": "Wire Harness Technician",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-02-07T00:42:40+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4002671006"
+  },
+  {
+   "external_id": "4004153006",
+   "title": "Senior Software Engineer - Flight Software",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2023-03-01T22:56:33+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4004153006"
+  },
+  {
+   "external_id": "4004155006",
+   "title": "Senior Thermal Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-01-24T05:44:54+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4004155006"
+  },
+  {
+   "external_id": "4005029006",
+   "title": "Senior Mission Operations Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2023-02-23T23:24:55+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4005029006"
+  },
+  {
+   "external_id": "4015611006",
+   "title": "Environmental Test Technician",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-01-25T01:01:21+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4015611006"
+  },
+  {
+   "external_id": "4015622006",
+   "title": "Flight Software Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2024-04-16T23:57:02+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4015622006"
+  },
+  {
+   "external_id": "4017297006",
+   "title": "Mission Operations Engineer II",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2023-02-24T21:16:05+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4017297006"
+  },
+  {
+   "external_id": "4017391006",
+   "title": "Assembly, Integration, and Test Technician",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-02-15T21:07:32+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4017391006"
+  },
+  {
+   "external_id": "4017405006",
+   "title": "Senior FPGA Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-05-07T22:36:37+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4017405006"
+  },
+  {
+   "external_id": "4017414006",
+   "title": "Avionics Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-03-22T22:26:33+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4017414006"
+  },
+  {
+   "external_id": "4056230006",
+   "title": "Sales Director - Central Asia and Europe",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2023-03-17T19:57:59+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4056230006"
+  },
+  {
+   "external_id": "4133327006",
+   "title": "Senior Mechanical Engineer, Electronics Packaging & RF Components",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-04-13T19:24:41+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4133327006"
+  },
+  {
+   "external_id": "4248048006",
+   "title": "Hardware Integration Test Engineer",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2023-06-24T00:00:29+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4248048006"
+  },
+  {
+   "external_id": "4248232006",
+   "title": "Electrical Engineering Manager - Mixed Signal Hardware",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-06-26T18:22:49+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4248232006"
+  },
+  {
+   "external_id": "4248382006",
+   "title": "Facilities Technician",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-06-27T01:17:25+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4248382006"
+  },
+  {
+   "external_id": "4249662006",
+   "title": "Senior Harness Design Engineer",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2023-06-30T19:13:02+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4249662006"
+  },
+  {
+   "external_id": "4263016006",
+   "title": "Electrical Engineering Manager - Digital Hardware Design",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2023-08-01T01:08:27+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4263016006"
+  },
+  {
+   "external_id": "4263017006",
+   "title": "Electrical Engineering Manager - Software Defined Radio Hardware",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-08-01T01:09:46+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4263017006"
+  },
+  {
+   "external_id": "4298100006",
+   "title": "Propulsion Manufacturing Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-10-27T17:26:06+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4298100006"
+  },
+  {
+   "external_id": "4299740006",
+   "title": "Mechanical Engineer, Electronics Packaging & RF Components",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2023-10-31T22:58:55+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4299740006"
+  },
+  {
+   "external_id": "4325685006",
+   "title": "FPGA Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-01-22T19:28:58+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4325685006"
+  },
+  {
+   "external_id": "4338015006",
+   "title": "PCBA Manufacturing Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-02-23T20:38:58+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4338015006"
+  },
+  {
+   "external_id": "4342733006",
+   "title": "Material Handler",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-11-13T17:34:35+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4342733006"
+  },
+  {
+   "external_id": "4344258006",
+   "title": "Senior Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2024-03-08T19:49:26+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4344258006"
+  },
+  {
+   "external_id": "4350473006",
+   "title": "Senior Electrical Reliability Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-03-21T22:03:28+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4350473006"
+  },
+  {
+   "external_id": "4350927006",
+   "title": "Mechanical Engineer - Spacecraft Design",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2024-03-22T17:10:23+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4350927006"
+  },
+  {
+   "external_id": "4351177006",
+   "title": "Senior Avionics Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-03-22T22:34:31+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4351177006"
+  },
+  {
+   "external_id": "4353821006",
+   "title": "Senior Embedded Software Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2024-04-05T16:57:35+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4353821006"
+  },
+  {
+   "external_id": "4359278006",
+   "title": "Electrical Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-04-09T21:29:22+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4359278006"
+  },
+  {
+   "external_id": "4359279006",
+   "title": "Senior Electrical Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-04-09T21:30:56+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4359279006"
+  },
+  {
+   "external_id": "4362128006",
+   "title": "Senior Propulsion Manufacturing Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2025-08-19T23:09:15+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4362128006"
+  },
+  {
+   "external_id": "4363202006",
+   "title": "Embedded Software Engineer - Network Software",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2024-04-24T01:00:33+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4363202006"
+  },
+  {
+   "external_id": "4363976006",
+   "title": "Satellite Operator",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2024-04-25T21:17:31+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4363976006"
+  },
+  {
+   "external_id": "4373868006",
+   "title": "Spacecraft Mechanical Ground Support Equipment Engineer",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2024-05-31T00:20:09+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4373868006"
+  },
+  {
+   "external_id": "4392832006",
+   "title": "Team Lead - Propulsion Manufacturing",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-08-08T22:40:15+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4392832006"
+  },
+  {
+   "external_id": "4403140006",
+   "title": "Environmental Test Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2024-09-13T22:27:26+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4403140006"
+  },
+  {
+   "external_id": "4430423006",
+   "title": "Aerospace Fabricator",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2025-01-02T23:33:41+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4430423006"
+  },
+  {
+   "external_id": "4577445006",
+   "title": "Power Electronics Team Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2025-07-22T18:44:59+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4577445006"
+  },
+  {
+   "external_id": "4577446006",
+   "title": "Electronics Engineering Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-02-11T00:23:09+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4577446006"
+  },
+  {
+   "external_id": "4577464006",
+   "title": "Senior Mechanical Engineer- Spacecraft Design",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2025-06-19T00:11:19+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4577464006"
+  },
+  {
+   "external_id": "4590767006",
+   "title": "Employee Success Partner (HRBP)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2025-08-11T16:31:11+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4590767006"
+  },
+  {
+   "external_id": "4594971006",
+   "title": "Technical Recruiter (Fixed Term)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2025-08-20T18:56:48+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4594971006"
+  },
+  {
+   "external_id": "4595934006",
+   "title": "Senior Electrical Engineer- SDR Hardware",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2025-08-22T21:52:27+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4595934006"
+  },
+  {
+   "external_id": "4609432006",
+   "title": "Recruiting Coordinator Associate",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-17T18:55:54+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4609432006"
+  },
+  {
+   "external_id": "4609795006",
+   "title": "Senior Technical Program Manager - Gen- 1- Spacecraft",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2025-10-15T17:31:35+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4609795006"
+  },
+  {
+   "external_id": "4613409006",
+   "title": "Senior Technical Recruiter (Fixed Term)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2025-10-27T20:39:00+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4613409006"
+  },
+  {
+   "external_id": "4613477006",
+   "title": "Senior Software Engineer - Enterprise Systems",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-10-28T16:37:01+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4613477006"
+  },
+  {
+   "external_id": "4649968006",
+   "title": "Senior Solutions Engineer",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-01-31T01:09:11+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4649968006"
+  },
+  {
+   "external_id": "4663009006",
+   "title": "Supplier Quality Engineer (Mechanical)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-02T20:55:14+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4663009006"
+  },
+  {
+   "external_id": "4664260006",
+   "title": "Government Contracts Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-03-17T20:09:18+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4664260006"
+  },
+  {
+   "external_id": "4664644006",
+   "title": "Civil Space Sales Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-03-18T22:16:58+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4664644006"
+  },
+  {
+   "external_id": "4667335006",
+   "title": "Product Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-03-26T23:12:05+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4667335006"
+  },
+  {
+   "external_id": "4667349006",
+   "title": "Senior Product Security Engineer (Applications)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-03-26T23:03:18+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4667349006"
+  },
+  {
+   "external_id": "4678367006",
+   "title": "Financial Analyst",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-28T17:56:17+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4678367006"
+  },
+  {
+   "external_id": "4680321006",
+   "title": "Avionics Associate Engineer (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:17:23+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4680321006"
+  },
+  {
+   "external_id": "4680324006",
+   "title": "Avionics Associate Engineer (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:18:41+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4680324006"
+  },
+  {
+   "external_id": "4683946006",
+   "title": "Vehicle Test Software Team Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-05-22T20:51:54+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4683946006"
+  },
+  {
+   "external_id": "4689200006",
+   "title": "RF Integration Team Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-06-12T22:08:44+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4689200006"
+  },
+  {
+   "external_id": "4694895006",
+   "title": "HITL Test Engineer",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-07-06T23:22:06+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4694895006"
+  },
+  {
+   "external_id": "4697271006",
+   "title": "Senior Motion Designer & Editor",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-07-15T16:38:26+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4697271006"
+  },
+  {
+   "external_id": "4701699006",
+   "title": "Senior Technical Sourcer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-07-31T20:27:14+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4701699006"
+  },
+  {
+   "external_id": "4703466006",
+   "title": "Sales Director - International Government",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-08-24T20:00:08+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4703466006"
+  },
+  {
+   "external_id": "4704274006",
+   "title": "Antenna Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T04:09:34+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704274006"
+  },
+  {
+   "external_id": "4704276006",
+   "title": "Network Planning Sales Engineer Intern (Winter 2027)",
+   "role_family": "sales",
+   "location": "San Francisco, California",
+   "posted_at": "2026-09-18T20:51:12+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704276006"
+  },
+  {
+   "external_id": "4704282006",
+   "title": "Radiation Effects Associate Engineer (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T23:16:15+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704282006"
+  },
+  {
+   "external_id": "4704284006",
+   "title": "Antenna Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T04:09:31+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704284006"
+  },
+  {
+   "external_id": "4704293006",
+   "title": "Network Planning Sales Engineer Associate (Winter 2027)",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-09-18T20:50:57+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704293006"
+  },
+  {
+   "external_id": "4704298006",
+   "title": "Antenna Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T04:09:40+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704298006"
+  },
+  {
+   "external_id": "4704301006",
+   "title": "Antenna Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T04:09:38+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704301006"
+  },
+  {
+   "external_id": "4704335006",
+   "title": "Radiation Effects Engineer Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T23:15:39+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704335006"
+  },
+  {
+   "external_id": "4704595006",
+   "title": "Flight Software Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T22:37:25+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006"
+  },
+  {
+   "external_id": "4704598006",
+   "title": "Flight Software Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T22:37:23+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006"
+  },
+  {
+   "external_id": "4704600006",
+   "title": "Mechanical Engineer Intern (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:23+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704600006"
+  },
+  {
+   "external_id": "4704601006",
+   "title": "Mechanical Engineer Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:24+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704601006"
+  },
+  {
+   "external_id": "4704602006",
+   "title": "Mechanical Engineer Intern (Spring 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:25+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704602006"
+  },
+  {
+   "external_id": "4704619006",
+   "title": "Mechanical Associate Engineer (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:38+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704619006"
+  },
+  {
+   "external_id": "4704620006",
+   "title": "Mechanical Associate Engineer (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:39+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704620006"
+  },
+  {
+   "external_id": "4704621006",
+   "title": "Mechanical Associate Engineer (Spring 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:40+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704621006"
+  },
+  {
+   "external_id": "4704714006",
+   "title": "Flight Software Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T22:37:01+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704714006"
+  },
+  {
+   "external_id": "4704716006",
+   "title": "Flight Software Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T22:36:59+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704716006"
+  },
+  {
+   "external_id": "4704740006",
+   "title": "CAD Engineer Intern (Spring 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:14+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704740006"
+  },
+  {
+   "external_id": "4704742006",
+   "title": "CAD Engineer Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:14+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704742006"
+  },
+  {
+   "external_id": "4704748006",
+   "title": "CAD Engineer Intern (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-15T00:15:13+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704748006"
+  },
+  {
+   "external_id": "4704755006",
+   "title": "CAD Engineer Associate (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-26T22:35:48+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704755006"
+  },
+  {
+   "external_id": "4704756006",
+   "title": "CAD Engineer Associate (Spring 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-26T22:35:46+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704756006"
+  },
+  {
+   "external_id": "4704759006",
+   "title": "Assembly, Integration, and Test Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-21T23:30:47+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704759006"
+  },
+  {
+   "external_id": "4704761006",
+   "title": "Assembly, Integration, and Test Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-21T23:30:45+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704761006"
+  },
+  {
+   "external_id": "4704765006",
+   "title": "Guidance, Navigation, and Control Associate (Summer 2027)",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T22:32:28+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704765006"
+  },
+  {
+   "external_id": "4704767006",
+   "title": "CAD Engineer Associate (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-26T22:35:50+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704767006"
+  },
+  {
+   "external_id": "4704778006",
+   "title": "Harness Design Engineer Intern (Winter 2027)",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:27:54+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704778006"
+  },
+  {
+   "external_id": "4704779006",
+   "title": "Harness Design Engineer Intern (Summer 2027)",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:27:51+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704779006"
+  },
+  {
+   "external_id": "4704782006",
+   "title": "Electrical Reliability Intern (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:44:17+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006"
+  },
+  {
+   "external_id": "4704784006",
+   "title": "Electrical Reliability Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:44:15+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006"
+  },
+  {
+   "external_id": "4704788006",
+   "title": "Electrical Reliability Associate (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:44:05+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704788006"
+  },
+  {
+   "external_id": "4704793006",
+   "title": "Electrical Reliability Associate (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:43:59+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704793006"
+  },
+  {
+   "external_id": "4704795006",
+   "title": "Electrical Integration Associate - Avionics (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-26T00:31:21+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704795006"
+  },
+  {
+   "external_id": "4704803006",
+   "title": "FPGA Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T23:05:02+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704803006"
+  },
+  {
+   "external_id": "4704805006",
+   "title": "FPGA Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T23:05:05+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704805006"
+  },
+  {
+   "external_id": "4704811006",
+   "title": "FPGA Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T23:07:35+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704811006"
+  },
+  {
+   "external_id": "4704813006",
+   "title": "FPGA Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T23:07:34+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704813006"
+  },
+  {
+   "external_id": "4704818006",
+   "title": "Thermal Intern (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:28:53+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704818006"
+  },
+  {
+   "external_id": "4704820006",
+   "title": "Thermal Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:28:51+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704820006"
+  },
+  {
+   "external_id": "4704826006",
+   "title": "Electrical Integration Intern - Avionics (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-26T00:31:29+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704826006"
+  },
+  {
+   "external_id": "4704829006",
+   "title": "Thermal Associate Engineer (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:28:43+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704829006"
+  },
+  {
+   "external_id": "4704831006",
+   "title": "Thermal Associate Engineer (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:28:40+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4704831006"
+  },
+  {
+   "external_id": "4705172006",
+   "title": "Guidance, Navigation, and Control Intern (Summer 2027)",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T22:32:23+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705172006"
+  },
+  {
+   "external_id": "4705214006",
+   "title": "Software Engineer Backend Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-22T22:16:56+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
+  },
+  {
+   "external_id": "4705255006",
+   "title": "Harness Manufacturing Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-19T00:56:02+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705255006"
+  },
+  {
+   "external_id": "4705260006",
+   "title": "Harness Manufacturing Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-19T00:56:13+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705260006"
+  },
+  {
+   "external_id": "4705261006",
+   "title": "Trade and Regulatory Compliance Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-08-14T22:30:48+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705261006"
+  },
+  {
+   "external_id": "4705597006",
+   "title": "Software Developer, Network Software Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T19:27:16+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705597006"
+  },
+  {
+   "external_id": "4705599006",
+   "title": "Software Developer, Network Software Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T19:26:29+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705599006"
+  },
+  {
+   "external_id": "4705610006",
+   "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-22T22:18:40+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
+  },
+  {
+   "external_id": "4705615006",
+   "title": "Software Developer, Network Software Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T19:27:50+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705615006"
+  },
+  {
+   "external_id": "4705617006",
+   "title": "Software Developer, Network Software Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T19:27:52+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705617006"
+  },
+  {
+   "external_id": "4705640006",
+   "title": "Propulsion Test Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T02:57:48+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705640006"
+  },
+  {
+   "external_id": "4705648006",
+   "title": "Propulsion Manufacturing Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-18T23:39:52+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705648006"
+  },
+  {
+   "external_id": "4705649006",
+   "title": "Propulsion Manufacturing Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-18T23:39:50+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705649006"
+  },
+  {
+   "external_id": "4705652006",
+   "title": "Environmental Test Engineer Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-19T00:53:00+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705652006"
+  },
+  {
+   "external_id": "4705660006",
+   "title": "Environmental Test Engineer Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-19T00:53:49+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705660006"
+  },
+  {
+   "external_id": "4705665006",
+   "title": "Supplier Quality Engineer Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T17:19:18+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705665006"
+  },
+  {
+   "external_id": "4705675006",
+   "title": "Production Quality Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-19T00:51:10+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705675006"
+  },
+  {
+   "external_id": "4705677006",
+   "title": "Production Quality Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-19T00:51:08+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4705677006"
+  },
+  {
+   "external_id": "4706024006",
+   "title": "Avionics Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:18:45+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706024006"
+  },
+  {
+   "external_id": "4706025006",
+   "title": "Avionics Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:18:47+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706025006"
+  },
+  {
+   "external_id": "4706425006",
+   "title": "Power Electronics Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:29:14+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706425006"
+  },
+  {
+   "external_id": "4706427006",
+   "title": "Power Electronics Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T03:29:17+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706427006"
+  },
+  {
+   "external_id": "4706644006",
+   "title": "Electrical Test Specialist",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-08-20T22:20:08+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4706644006"
+  },
+  {
+   "external_id": "4707012006",
+   "title": "Hardware Test Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-22T20:57:50+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4707012006"
+  },
+  {
+   "external_id": "4707943006",
+   "title": "RF Hardware Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:36:57+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4707943006"
+  },
+  {
+   "external_id": "4707945006",
+   "title": "RF Hardware Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:36:55+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4707945006"
+  },
+  {
+   "external_id": "4708364006",
+   "title": "Technical Project Management Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T23:18:22+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708364006"
+  },
+  {
+   "external_id": "4708369006",
+   "title": "Technical Project Management Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T03:20:21+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708369006"
+  },
+  {
+   "external_id": "4708417006",
+   "title": "RF Hardware Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:36:01+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708417006"
+  },
+  {
+   "external_id": "4708436006",
+   "title": "RF Hardware Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:35:59+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4708436006"
+  },
+  {
+   "external_id": "4709397006",
+   "title": "Senior Hardware Test Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-08-28T22:45:36+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4709397006"
+  },
+  {
+   "external_id": "4710166006",
+   "title": "Finance Systems Associate (Winter 2027)",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-18T21:43:49+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4710166006"
+  },
+  {
+   "external_id": "4710627006",
+   "title": "Technical Program Manager, USG Space Relays",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T22:40:41+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4710627006"
+  },
+  {
+   "external_id": "4711257006",
+   "title": "Supply Chain Manager - Payload/GNC/Electro-mechanical",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-04T16:51:42+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4711257006"
+  },
+  {
+   "external_id": "4711347006",
+   "title": "Senior Ground Station Systems Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-14T22:50:00+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4711347006"
+  },
+  {
+   "external_id": "4711382006",
+   "title": "PCBA SMT Technician",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-08T16:25:26+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4711382006"
+  },
+  {
+   "external_id": "4713183006",
+   "title": "Propulsion Engineer Intern (Winter 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T19:51:42+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4713183006"
+  },
+  {
+   "external_id": "4713184006",
+   "title": "Propulsion Engineer Intern (Summer 2027)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T19:51:39+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4713184006"
+  },
+  {
+   "external_id": "4713723006",
+   "title": "Senior Data Platform Engineer - Enterprise Systems",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-18T16:03:47+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4713723006"
+  },
+  {
+   "external_id": "4714017006",
+   "title": "Senior Software Engineer - Vehicle Test",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-17T16:01:07+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4714017006"
+  },
+  {
+   "external_id": "4714019006",
+   "title": "Software Engineer - Vehicle Test",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-17T16:00:28+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4714019006"
+  },
+  {
+   "external_id": "4715207006",
+   "title": "Camera Operator Associate (Fall 2026)",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-09-21T21:03:03+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715207006"
+  },
+  {
+   "external_id": "4715553006",
+   "title": "Avionics Integration Engineer",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T19:23:11+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715553006"
+  },
+  {
+   "external_id": "4715788006",
+   "title": "Electrical Integration Intern - RF (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T17:20:55+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715788006"
+  },
+  {
+   "external_id": "4715793006",
+   "title": "Electrical Integration Associate - RF (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-24T17:21:25+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715793006"
+  },
+  {
+   "external_id": "4715978006",
+   "title": "Production Scheduler",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T18:23:40+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715978006"
+  },
+  {
+   "external_id": "4715983006",
+   "title": "Software Defined Radio Hardware Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T22:57:50+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006"
+  },
+  {
+   "external_id": "4715985006",
+   "title": "Software Defined Radio Hardware Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T22:57:53+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006"
+  },
+  {
+   "external_id": "4715989006",
+   "title": "Supplier Quality Engineer Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T17:17:19+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4715989006"
+  },
+  {
+   "external_id": "4716087006",
+   "title": "Software Defined Radio Hardware Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T22:52:15+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006"
+  },
+  {
+   "external_id": "4716088006",
+   "title": "Software Defined Radio Hardware Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T22:52:17+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006"
+  },
+  {
+   "external_id": "4716161006",
+   "title": "Business Development Associate",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T03:09:14+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716161006"
+  },
+  {
+   "external_id": "4716175006",
+   "title": "IT Support Technician Associate (Winter 2027)",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T22:28:07+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716175006"
+  },
+  {
+   "external_id": "4716184006",
+   "title": "RF Validation Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:01:45+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716184006"
+  },
+  {
+   "external_id": "4716499006",
+   "title": "RF Validation Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T21:01:42+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716499006"
+  },
+  {
+   "external_id": "4716655006",
+   "title": "Project Manager, Configuration Management",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-25T16:26:00+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716655006"
+  },
+  {
+   "external_id": "4716826006",
+   "title": "RF Validation Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-26T00:07:32+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716826006"
+  },
+  {
+   "external_id": "4716835006",
+   "title": "RF Validation Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-26T00:07:34+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4716835006"
+  },
+  {
+   "external_id": "4718057006",
+   "title": "Team Lead, Avionics - Vehicle Electronics",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:43:17+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718057006"
+  },
+  {
+   "external_id": "4718058006",
+   "title": "Electrical Engineering Team Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:43:14+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718058006"
+  },
+  {
+   "external_id": "4718203006",
+   "title": "Automation & Controls Engineering Intern (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:48:13+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718203006"
+  },
+  {
+   "external_id": "4718206006",
+   "title": "Automation & Controls Engineering Intern (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:48:17+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718206006"
+  },
+  {
+   "external_id": "4718209006",
+   "title": "Automation & Controls Engineering Associate (Winter 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:49:37+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718209006"
+  },
+  {
+   "external_id": "4718211006",
+   "title": "Automation & Controls Engineering Associate (Summer 2027)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T22:49:35+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718211006"
+  },
+  {
+   "external_id": "4718774006",
+   "title": "Senior Supplier Quality Engineer (Mechanical)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-02T20:54:54+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718774006"
+  },
+  {
+   "external_id": "4718941006",
+   "title": "National Security Programs Development Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-04T18:41:32+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718941006"
+  },
+  {
+   "external_id": "4718942006",
+   "title": "Director, National Security Programs Development",
+   "role_family": "exec",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-04T18:41:30+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718942006"
+  },
+  {
+   "external_id": "4718943006",
+   "title": "Director, USG Capture Management",
+   "role_family": "exec",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-04T18:41:48+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718943006"
+  },
+  {
+   "external_id": "4718944006",
+   "title": "USG Capture Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-04T18:41:49+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718944006"
+  },
+  {
+   "external_id": "4718945006",
+   "title": "Director, Civil Space Sales",
+   "role_family": "exec",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-04T18:41:04+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718945006"
+  },
+  {
+   "external_id": "4718946006",
+   "title": "USG Capture Operations Analyst",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-04T18:41:57+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4718946006"
+  },
+  {
+   "external_id": "4719135006",
+   "title": "Senior Information Systems Security Manager (ISSM)",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-05T18:28:09+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4719135006"
+  },
+  {
+   "external_id": "4719442006",
+   "title": "Radiation Effects Engineer - Modeling",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-06T17:35:08+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4719442006"
+  },
+  {
+   "external_id": "4719588006",
+   "title": "Power Electronics Engineering Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-06T22:34:38+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4719588006"
+  },
+  {
+   "external_id": "4721544006",
+   "title": "Director, National Security Capacity Sales",
+   "role_family": "exec",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-20T00:05:37+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4721544006"
+  },
+  {
+   "external_id": "4721545006",
+   "title": "National Security Capacity Sales Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-20T00:05:39+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4721545006"
+  },
+  {
+   "external_id": "4721733006",
+   "title": "Software Engineer (Mission Applications)",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-14T23:25:39+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4721733006"
+  },
+  {
+   "external_id": "4722357006",
+   "title": "Team Lead - Recruiting Coordination",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-16T17:29:15+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4722357006"
+  },
+  {
+   "external_id": "4722722006",
+   "title": "Senior Technical Program Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-16T18:53:31+00:00",
+   "url": "https://job-boards.greenhouse.io/astranis/jobs/4722722006"
+  }
+ ]
+}

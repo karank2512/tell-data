@@ -1,13 +1,13 @@
 {
   "domain": "supernova.io",
   "name": "Supernova",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 0.7,
+  "score": 0.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-01",
       "summary": "Introducing Supernova Editor MCP",
       "url": "https://www.supernova.io/blog/introducing-supernova-editor-mcp"

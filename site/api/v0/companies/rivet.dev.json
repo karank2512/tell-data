@@ -1,9 +1,9 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.6,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Pi Durable for Rivet",
       "url": "https://rivet.dev/changelog/2026-10-07-introducing-pi-durable-for-rivet/"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-08-31",
       "summary": "Introducing Dynamic Apps: Deploy AI-Generated Apps for Your Users",
       "url": "https://rivet.dev/changelog/2026-08-31-introducing-dynamic-apps/"

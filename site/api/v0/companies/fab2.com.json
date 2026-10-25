@@ -1,27 +1,27 @@
 {
   "domain": "fab2.com",
   "name": "fab2",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 22.5,
+  "score": 22.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 22.3,
+      "contribution": 22.1,
       "occurred_at": "2026-09-08",
       "summary": "Form D: $587,997,030 offering, $556,021,222 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2151752/000215175226000002/"
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-07-05",
       "summary": "\"A Factory That Mass-Produces Factories\": Semiconductor Genius Jim Keller's Fab2 Launches in Texas - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TZDVBT25leGJKbkplSk4xTFZDdmpldWMzVWRYTktyTG4xZzh1VW02cVFHSEdtcDNDaHpuWFFITGR4Q1VjR29zeC1CRnFNenFXV3V5Mjc3S1NPZkthVWFJUWp5TzVWakpFZEJIZHZvY2dJWUpIUmc?oc=5"
     }
   ],
   "open_postings": 55,
-  "long_open_roles": 17,
+  "long_open_roles": 19,
   "sources": {
     "ats": "ashby:fab2",
     "edgar_cik": "0002151752",

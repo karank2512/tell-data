@@ -1,9 +1,9 @@
 {
   "domain": "colabsoftware.com",
   "name": "CoLab",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -28,7 +28,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-24",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/colabsoftware",
@@ -60,8 +60,8 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmItMC1mZGpqaExCZ2JmXy0wSVFIRTZPM3FyN1RMMU12d003WUFVVnotemdQOEFlS2lXUzJ6SHlnRjRIQktWazJfOHVhQWV1NFN5cmlyaWFmVVdncGtPRUpEQndDb0YwNTh5NHhoUkRsQ0N6OVJ4akZOWU9UUjNQOVZfSGpUSi15TVprVXd1dzRBRUNDX3RnUVdRYlVfRXVyaDdLeTZ1amJVNGhSa2pJTA?oc=5"
     }
   ],
-  "open_postings": 28,
-  "long_open_roles": 6,
+  "open_postings": 24,
+  "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:colabsoftware",
     "edgar_cik": null,

@@ -1,13 +1,13 @@
 {
   "domain": "ascertain.com",
   "name": "Ascertain Systems",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 30.3,
+  "score": 30.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 28.4,
+      "contribution": 28.2,
       "occurred_at": "2026-10-20",
       "summary": "Form D: $24,000,000 offering, $19,999,998 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2017592/000201759226000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-22",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/ascertain",

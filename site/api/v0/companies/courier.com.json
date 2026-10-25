@@ -1,20 +1,20 @@
 {
   "domain": "courier.com",
   "name": "Courier",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
   "score": 0.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-01",
       "summary": "Introducing Cross-Device Email Preview: see your email on real devices before you send",
       "url": "https://www.courier.com/blog/cross-device-email-preview"
     },
     {
       "type": "launch",
-      "contribution": 0.1,
+      "contribution": 0.2,
       "occurred_at": "2026-05-28",
       "summary": "Introducing Routing: Reusable Strategies for Every Template",
       "url": "https://www.courier.com/changelog/new-channel-routing"

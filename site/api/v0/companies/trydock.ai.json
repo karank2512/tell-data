@@ -1,13 +1,34 @@
 {
   "domain": "trydock.ai",
   "name": "Dock",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 29.7,
+  "score": 35.6,
   "contributions": [
     {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-23",
+      "summary": "Appoints as VP of Business Development",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTdpWVoxV2hHTG1XWks2VVAzaVcxZTNIaHEtTmF4NTg1NEk4aEM4X0VVSllHZWZMOTJfd0lWMzdkOVJ4OUxrbnhPZ1VTME1ja3I4UXYxdC1ZTVlvTUd0WERMa1lCOUFIMGlIVk01ZWlDZFFzZzhrNUJ1VFljU0k3NldFdmk1R0NFUlkyZndPYmlxTFVINFdhOFF1YmZKUFJiV0p5OVZnb3BhZ0E3QWExWF95U09JMWlhaFE?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-23",
+      "summary": "Appoints as VP of Business Development",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXdpWmZQc0tIaHNFUmkzT2NZc0ZDSU5NcHhpNFhxVnJGeWJnNG1xTnlzZXFwdW5xWnoyeW1FN0VVcVRadzNDTExsMHc0cDRuV0hWTzhfVWs1SF9zYjM4NHFFZUN5eTZwczk5UFdjbERKSXcySmJPeURFT0ZBaTZkVUVtOEJVWDZhNWZMQmhobGFTX29UY1VQOVZuQ1ppTkI5eDV3cTFrbFVYX0FuSWpXZm1UR0pjQXJ3VXUzSzlDcGUycHNYMzhNWFRqUjlSWkdOTU5wT2t4VQ?oc=5"
+    },
+    {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "JSAUX launches a six-in-one dock for Switch 2 with controller charging and 4K output - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQODdOUkpJTmhiSWoweEdHaGh2U1VWTWl0RElyeGRKWm44UDJhekRjanpHa3VnSzMzeGZFNExLSTBYMzQzUXItRnZhVllLM1FaUURjQTR6bno2OXJjV2hVUHdZLUpkWEJEUmhRdUlBMEEzUklrTEFGMDU3Uk5sYVJXNHZmZXctcFZqeW1mV0hZYzV2Z3c4ejJqMHBJeEVNWEpqQmNKLXhtOU00NnFPS2c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "Lake Hour Adds Tequila Seltzer, Launches Dock Club - Food & Beverage Magazine",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzNaTVFjWF9RVlhSWXBHd2JEeEM1cjZCa2I0Z1c1eFlTcHhtM3Jpb1JSbWZHZkZHREdyMXpuVkhlUFRPUU5WR1hHX01KSHJHLTFlbG0yWDJnZUpud3lkMDZiLTFOa3JmSUJ0M0ZmNHFBM1dYckJmY2ptWFFsLWsyUFk4eEhxZXA1Wk01NDJCZ2NIanJJNFN4cXpqRGxERzJzY1lHWkZQYw?oc=5"
@@ -147,17 +168,24 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Jiangnan Shipyard Launches Sixth Batch of Vessels from Dry Dock No. 4 - iMarine",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oQXlYYzVyTEg2UGZsb2E5SDZOZ3RtMjhYUERFaXFnaG9wU1ZkYlJPcWZ0UDBfNzdJQ1Eza3Z2UF9pOExLMlh5QXNNTWRfME0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "OneXPlayer Super X Pro Debuts with Liquid Cooling Dock and Ryzen AI Max+ PRO 495 - Technetbook",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0l5Mm9iU2JXTS1jUGg4WVZPcUtTMC1VbVR5VXduS0JzUjVJRENXSlRZbTF4dl80ZVhDbGFJWk5DTWlkM2QzMmN0bnFJa2JucVh3cmN1V3A5MDdMVGV1dkgycXBDemU1MWxqMkFBdE9mRkJLNUdVSGVxZkNfSktlb3lB?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-23",
+      "summary": "Dorchester Behavioral Health opens new Dri-Dock Recovery Center office - 47abc - WMDT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGNFT3puY1VBdTFBSzFxclc3QTFaNWNsSHlDTUJWSmZUMU9JRFZaaEY4NGhhaWM3RU42SE05NnFmQ1VWay1HeEVud1MtajZuMVJNUE5mUkJ6VG5JQzBkYm13SjBaWV84M25lb2Iyd3FBVVc3cWxDbjVyb05DaDVNRlVhZENpc1pVVEJpaWljZmJmT3plYnFxeEhKR0VTQU4tOHc?oc=5"
     }
   ],
   "open_postings": 0,

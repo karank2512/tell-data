@@ -1,9 +1,9 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "Listen: John Mayer Debuts “Tom and Jerry,” First New Song Since 2021 - Rock Cellar Magazine",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRW9zNVpfUy03MWVPTmQ3VlVBZ2ZKNFpuQWhoTVYxVkdXaDBELURKWFhmek1LcWtoc0k5S21hSmtfazRwOGpVNC13ckt1bmsyNldUWXV0bEdjZEMtT2hQMXlnUTh0aEJ0RnRlVjZyQzZaYkoxLUxDdnYwU0stSlhvdXJ3Nkp0cjBabjNxT2VFSmZ5amNoWG03cENB?oc=5"
@@ -69,7 +69,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 50,
+  "open_postings": 36,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",

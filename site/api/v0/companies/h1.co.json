@@ -1,9 +1,9 @@
 {
   "domain": "h1.co",
   "name": "H1",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "MAHLIFE: H1 pre-sales rose 66% as disciplined launches and INR 7,100 crore of GDV additions supported growth - TradingView",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNeE5SY1lLSG9XY2VaeGlsTm9Zd1piUFNpRnlLdVNJc1pma19vaTBLdzRSd2piWWRkcDM5S0k5TTBrYUpwVklvT1l2UXdKd2FacmhrWFVfQUlQU0JRVk95S2k0VUFSUE5yUWdyM09FRXNfY0gxZDZoM1ZJODVEb0lrekg1anVYS21OMDRVcVV6YmVubi1JQ2M2VEdfTFBhNmNGczA4R3BieHhxWWplcG05N1pEMThnczBaQVZBdG1UOHNmUEFUdTlOU0lzVmRPV2NFSFJQYjhBQUZFaDloUE9JcS1CenBXdzZ2QWIzUUV2QVhrQzhmdnhCcFJPY094Yl9XdjF2djRsakhfc0pWOXgzUnZNbl83VXYtd3lWMExR?oc=5"
@@ -54,8 +54,8 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3F4M2k5SHZfUlBhTS1aUF8wYUViTVZQUEVXV2NON3ZzWC1RWHQ5YnlNQ2hGTk95VTRQZElMcC1RV21abXJjcW1hdnUyU3U4RUt0LXpxR08tZDgwZFF4STdvLVNndW0tWV9MNlFnVUhvNVM3a0ttcUlyekt0ZENpSndTNkd4VG1ZZk5uNjMzTlFGYkZX0gGUAUFVX3lxTE1HcXgzaTlIdl9SUGFNLVpQXzBhRWJNVlBQRVdXY043dnNYLVFYdDlieU1DaEZOT3lVNFBkSUxwLVFXbVptcmNxbWF2dTJTdThFS3QtenFHTy1kODBkUXhJN28tU2d1bS1ZX0w2UWdVSG81UzdrS21xSXJ6S3RkQ2lKd1M2R3hUbVlmTm42MzNOUUZiRlc?oc=5"
     }
   ],
-  "open_postings": 27,
-  "long_open_roles": 7,
+  "open_postings": 25,
+  "long_open_roles": 6,
   "sources": {
     "ats": "lever:h1",
     "edgar_cik": null,

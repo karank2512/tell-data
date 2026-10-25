@@ -1,7 +1,7 @@
 {
   "domain": "roboflow.com",
   "name": "Roboflow",
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "profile": "default",
   "score": 1.0,
   "contributions": [
@@ -13,8 +13,8 @@
       "url": "https://roboflow.com/blog/roboflow-labs-launch"
     }
   ],
-  "open_postings": 37,
-  "long_open_roles": 22,
+  "open_postings": 36,
+  "long_open_roles": 21,
   "sources": {
     "ats": "ashby:roboflow",
     "edgar_cik": null,
