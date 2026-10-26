@@ -1,8 +1,8 @@
 ---
 report: speed-vs-press
 title: "Speed vs press: Form D filings against the first funding headline"
-as_of: 2026-10-19
-generated_at: 2026-10-19T07:02:24+00:00
+as_of: 2026-10-26
+generated_at: 2026-10-26T07:04:08+00:00
 n: 334
 quotable: true
 flagged_numbers: 9
@@ -37,15 +37,15 @@ Cohort N: 334.
 
 ### Who came first
 
-- Filing first, among filings with press (press strictly after the filing date): 63.0% (N=54)
-- Filing first, over all filings (no press counts as filing first): 94.0% (N=334)
+- Filing first, among filings with press (press strictly after the filing date): 61.1% (N=54)
+- Filing first, over all filings (no press counts as filing first): 93.7% (N=334)
 
 ### How fast tell alerts
 
-- Median alert_at - filing_date, hours: 895.3 h (N=334)
-- Median alert_at - filing_date, hours, observed filings only: 26.6 h (N=3; too small to quote)
-- Filings whose alert_at is observed (a scheduled run within 36 h of the filing date): 3
-- Filings whose alert_at is estimated (filing date + 1 day 02:00 UTC + the 6-hour cadence, 32 h after the filing date): 18
+- Median alert_at - filing_date, hours: 751.3 h (N=334)
+- Median alert_at - filing_date, hours, observed filings only: 26.6 h (N=4; too small to quote)
+- Filings whose alert_at is observed (a scheduled run within 54 h of the filing date): 4
+- Filings whose alert_at is estimated (filing date + 1 day 02:00 UTC + the 24-hour cadence, 50 h after the filing date): 15
 
 ### By cohort
 
@@ -53,24 +53,24 @@ Monitored before the filing: a YC directory company, or one tell had before the 
 
 | Number | Monitored before the filing | Found from the filing | Pooled |
 | --- | --- | --- | --- |
-| Filings | 21 | 313 | 334 |
-| Share with any press | 33.3% (N=21; too small to quote) | 15.0% (N=313) | 16.2% (N=334) |
-| Share with no press within 60 days | 66.7% (N=21; too small to quote) | 85.0% (N=313) | 83.8% (N=334) |
-| Median lag, days | 12.0 days (N=7; too small to quote) | 4.0 days (N=47) | 4.5 days (N=54) |
-| p75 lag, days | 24.5 days (N=7; too small to quote) | 19.5 days (N=47) | 20.2 days (N=54) |
-| Filing first, among filings with press | 71.4% (N=7; too small to quote) | 61.7% (N=47) | 63.0% (N=54) |
-| Filing first, over all filings | 90.5% (N=21; too small to quote) | 94.2% (N=313) | 94.0% (N=334) |
-| Median alert_at - filing_date, hours | 32.0 h (N=21; too small to quote) | 991.3 h (N=313) | 895.3 h (N=334) |
-| Alert times observed | 3 | 0 | 3 |
-| Alert times estimated | 18 | 0 | 18 |
-| Alert times at the link | 0 | 313 | 313 |
-| Press-ambiguous filings (one-word brand) | 14 (N=21; too small to quote) | 147 (N=313) | 161 (N=334) |
+| Filings | 19 | 315 | 334 |
+| Share with any press | 26.3% (N=19; too small to quote) | 15.6% (N=315) | 16.2% (N=334) |
+| Share with no press within 60 days | 73.7% (N=19; too small to quote) | 84.4% (N=315) | 83.8% (N=334) |
+| Median lag, days | 15.0 days (N=5; too small to quote) | 3.0 days (N=49) | 4.5 days (N=54) |
+| p75 lag, days | 34.0 days (N=5; too small to quote) | 18.0 days (N=49) | 20.2 days (N=54) |
+| Filing first, among filings with press | 80.0% (N=5; too small to quote) | 59.2% (N=49) | 61.1% (N=54) |
+| Filing first, over all filings | 94.7% (N=19; too small to quote) | 93.7% (N=315) | 93.7% (N=334) |
+| Median alert_at - filing_date, hours | 50.0 h (N=19; too small to quote) | 847.3 h (N=315) | 751.3 h (N=334) |
+| Alert times observed | 4 | 0 | 4 |
+| Alert times estimated | 15 | 0 | 15 |
+| Alert times at the link | 0 | 315 | 315 |
+| Press-ambiguous filings (one-word brand) | 14 (N=19; too small to quote) | 147 (N=315) | 161 (N=334) |
 
 ## Query or script
 
 Script: `tell/backtest/speed_vs_press.py`.
 
-Implementation (bind :as_of = 2026-10-19T07:02:24.848156+00:00, :cadence_hours = 6, :observed_window_hours = 36):
+Implementation (bind :as_of = 2026-10-26T07:04:08.243339+00:00, :cadence_hours = 24, :observed_window_hours = 54):
 
 ```sql
 with links as (
@@ -188,7 +188,7 @@ group by grouping sets ((cohort), ());
 - Google News coverage is incomplete for small companies; the no-press share is reported, not hidden.
 - first_press_at is the earliest funding headline the news collector kept (name in the headline, funding regex match); a story that never names the company in its headline is invisible.
 - The press window (from 14 days before to 60 days after the filing date, as SPEC 13.1 sets it) misses same-round press published more than 14 days before the filing: such a round counts as no press, or as filing first when later press exists, so the filing-first shares lean high.
-- EDGAR publishes a day's form index at about 02:02 UTC the next day, so no scheduled run can see a filing before filing date + 26 h. alert_at is the event's observed_at only when a scheduled run (not the quarterly backfill) saw the filing within 36 h of the filing date; filings from the quarterly data sets, from a catch-up run days later, or with observed_at before the filing date get the estimate filing date + 1 day 02:00 UTC + the 6-hour cadence, 32 h after the filing date. Observed: 3; estimated: 18. The estimate adds one full 6-hour cadence after the index appears, the longest wait for the next run. With one run a day (TELL_RUNS_PER_DAY not 4) that wait is up to 24 h; pass the 24-hour cadence for such a period.
+- EDGAR publishes a day's form index at about 02:02 UTC the next day, so no scheduled run can see a filing before filing date + 26 h. alert_at is the event's observed_at only when a scheduled run (not the quarterly backfill) saw the filing within 54 h of the filing date; filings from the quarterly data sets, from a catch-up run days later, or with observed_at before the filing date get the estimate filing date + 1 day 02:00 UTC + the 24-hour cadence, 50 h after the filing date. Observed: 4; estimated: 15. The estimate adds one full 24-hour cadence after the index appears, the longest wait for the next run.
 - Links: the 2026-10-14 production audit found 20 of 41 automatic Form D links were the wrong company, so only links that are trusted after the guards are counted; a wrong link that passed every guard is still in the cohort.
 - Found-from-the-filing companies (issuer-first discovery, ADR 0035) are monitored because they filed: their alert time includes how long discovery took to link the filing, and they have no hiring history before it. Report them apart; the pooled row mixes two different questions.
 - Press-ambiguous brands: tell has no dictionary to tell a common word from a coined one, so every one-word brand is flagged (161 of 334 filings). Only for companies not from the YC directory with a longer legal name does the headline have to carry that name (4 filings); a YC one-word brand still counts any headline naming it.
@@ -196,4 +196,4 @@ group by grouping sets ((cohort), ());
 
 ## Date
 
-As of 2026-10-19; generated 2026-10-19T07:02:24+00:00.
+As of 2026-10-26; generated 2026-10-26T07:04:08+00:00.

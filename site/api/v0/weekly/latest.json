@@ -1,186 +1,510 @@
 {
-  "week": "2026-W42",
-  "start": "2026-10-12",
-  "end": "2026-10-18",
+  "week": "2026-W43",
+  "start": "2026-10-19",
+  "end": "2026-10-25",
   "top_hiring": [
     {
-      "domain": "instacart.com",
-      "name": "Instacart",
+      "domain": "airbnb.com",
+      "name": "Airbnb",
+      "velocity": 8,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-21",
+          "url": "https://boards.greenhouse.io/airbnb",
+          "summary": "8 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Market Associate",
+              "posted_at": "2026-10-19",
+              "url": "https://careers.airbnb.com/positions/8300839?gh_jid=8300839"
+            },
+            {
+              "title": "Market Manager",
+              "posted_at": "2026-10-21",
+              "url": "https://careers.airbnb.com/positions/8303198?gh_jid=8303198"
+            },
+            {
+              "title": "Manager, Key Accounts - Hotels",
+              "posted_at": "2026-10-21",
+              "url": "https://careers.airbnb.com/positions/8303917?gh_jid=8303917"
+            },
+            {
+              "title": "Manager, Key Accounts - Hotels",
+              "posted_at": "2026-10-21",
+              "url": "https://careers.airbnb.com/positions/8303963?gh_jid=8303963"
+            },
+            {
+              "title": "Manager, Key Accounts - Hotels",
+              "posted_at": "2026-10-21",
+              "url": "https://careers.airbnb.com/positions/8303967?gh_jid=8303967"
+            },
+            {
+              "title": "Manager, Key Accounts - Hotels",
+              "posted_at": "2026-10-21",
+              "url": "https://careers.airbnb.com/positions/8303966?gh_jid=8303966"
+            },
+            {
+              "title": "Manager, Key Accounts - Hotels",
+              "posted_at": "2026-10-21",
+              "url": "https://careers.airbnb.com/positions/8303971?gh_jid=8303971"
+            },
+            {
+              "title": "Manager, Key Accounts - Hotels",
+              "posted_at": "2026-10-21",
+              "url": "https://careers.airbnb.com/positions/8303970?gh_jid=8303970"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "firstwork.com",
+      "name": "FirstWork",
+      "velocity": 4,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/firstwork",
+          "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Account Executive, Staffing (US)",
+              "posted_at": "2026-10-21",
+              "url": "https://jobs.ashbyhq.com/firstwork/f1162b13-2e81-40e7-9688-fadf44c088e6"
+            },
+            {
+              "title": "Enterprise Account Executive (UK & Europe)",
+              "posted_at": "2026-10-21",
+              "url": "https://jobs.ashbyhq.com/firstwork/21fe62bb-e622-413c-8a36-780488cc1ef6"
+            },
+            {
+              "title": "Account Executive, Staffing (UK & Europe)",
+              "posted_at": "2026-10-21",
+              "url": "https://jobs.ashbyhq.com/firstwork/fc3191d5-3a5f-4b4d-a5a1-f0a0e595a5dc"
+            },
+            {
+              "title": "Enterprise Account Executive (US)",
+              "posted_at": "2026-10-21",
+              "url": "https://jobs.ashbyhq.com/firstwork/5b5ae5d0-8a02-466c-933e-d37c7d8bf201"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "hightouch.com",
+      "name": "Hightouch",
+      "velocity": 4,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/hightouch-inc",
+          "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Solutions Engineer, Lifecycle Studio",
+              "posted_at": "2026-10-16",
+              "url": "https://jobs.ashbyhq.com/hightouch-inc/c6b43a48-ba7b-4bd1-8865-73b255f3aaea"
+            },
+            {
+              "title": "Mid-Market Account Executive - Central",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/hightouch-inc/c5c83beb-2544-493c-a0e7-8ce7cb8fb915"
+            },
+            {
+              "title": "Mid-Market Account Executive - East",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/hightouch-inc/f933c2f7-d483-4c83-8003-20e2beb75726"
+            },
+            {
+              "title": "RVP, Enterprise Sales West",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/hightouch-inc/516edfb5-9a94-4742-a2f9-586e601b3c58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "legora.com",
+      "name": "Legora",
+      "velocity": 4,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/legora",
+          "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Business Development Representative",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/legora/7f9313ec-ce30-47a0-91f7-58c37fc2d7e2"
+            },
+            {
+              "title": "Business Development Representative - DACH",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/legora/cac87fff-2724-4116-8884-b82c8445d39d"
+            },
+            {
+              "title": "Senior Manager, Revenue Accounting",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/legora/5278e165-3d87-47aa-91ae-b2abdf32c655"
+            },
+            {
+              "title": "Account Executive - Madrid",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/legora/ad78f738-7705-40bc-a40e-602a18c9755f"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "benchling.com",
+      "name": "Benchling",
       "velocity": 3,
       "receipts": [
         {
-          "occurred_at": "2026-10-17",
-          "url": "https://boards.greenhouse.io/instacart",
+          "occurred_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/benchling",
           "summary": "3 new sales roles in 7 days vs 0.5 baseline",
           "postings": [
             {
-              "title": "Senior Software Engineer II, Ads Data Solutions Engineering",
-              "posted_at": "2026-10-14",
-              "url": "https://instacart.careers/job/?gh_jid=8281965"
+              "title": "Leader, Majors Sales",
+              "posted_at": "2026-10-21",
+              "url": "https://jobs.ashbyhq.com/benchling/e3c5a5f9-66f4-4763-864f-569caa5bf2c8"
             },
             {
-              "title": "Senior Sales Engineer",
-              "posted_at": "2026-10-16",
-              "url": "https://instacart.careers/job/?gh_jid=8292786"
+              "title": "Leader, Majors Sales",
+              "posted_at": "2026-10-22",
+              "url": "https://jobs.ashbyhq.com/benchling/419cd5e2-4bac-44cf-a808-3a240d877a7e"
             },
             {
-              "title": "Senior Sales Engineer",
-              "posted_at": "2026-10-16",
-              "url": "https://instacart.careers/job/?gh_jid=8292802"
+              "title": "Solution Consultant - R&D",
+              "posted_at": "2026-10-22",
+              "url": "https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090"
             }
           ]
         }
       ]
     },
     {
-      "domain": "stripe.com",
-      "name": "Stripe",
+      "domain": "deepgram.com",
+      "name": "Deepgram",
       "velocity": 3,
       "receipts": [
         {
-          "occurred_at": "2026-10-15",
-          "url": "https://boards.greenhouse.io/stripe",
+          "occurred_at": "2026-10-19",
+          "url": "https://jobs.ashbyhq.com/Deepgram",
           "summary": "3 new sales roles in 7 days vs 0.5 baseline",
           "postings": [
             {
-              "title": "Account Executive Product - Fraud & Risk",
-              "posted_at": "2026-10-14",
-              "url": "https://stripe.com/jobs/search?gh_jid=8271657"
+              "title": "Account Executive (India)",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/Deepgram/07f98531-7a03-4481-a7ff-863fb07dfccd"
             },
             {
-              "title": "Account Executive, Product Sales, Billing (Grower)",
-              "posted_at": "2026-10-14",
-              "url": "https://stripe.com/jobs/search?gh_jid=8215758"
+              "title": "Sales Development Representative (India)",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/Deepgram/30210b62-73aa-417c-b2cf-0929c565a00a"
             },
             {
-              "title": "Account Executive, Product Sales - Payouts",
-              "posted_at": "2026-10-15",
-              "url": "https://stripe.com/jobs/search?gh_jid=8273743"
+              "title": "Account Executive (German Speaking)",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/Deepgram/1140ca2e-0b17-4262-8c1b-a3eb156086dc"
             }
           ]
         }
       ]
     },
     {
-      "domain": "vanta.com",
-      "name": "Vanta",
+      "domain": "fivetran.com",
+      "name": "Fivetran",
       "velocity": 3,
       "receipts": [
         {
-          "occurred_at": "2026-10-16",
-          "url": "https://jobs.ashbyhq.com/vanta",
+          "occurred_at": "2026-10-22",
+          "url": "https://boards.greenhouse.io/fivetran",
           "summary": "3 new sales roles in 7 days vs 0.5 baseline",
           "postings": [
             {
-              "title": "Account Executive, Growth - Benelux",
-              "posted_at": "2026-10-15",
-              "url": "https://jobs.ashbyhq.com/vanta/1d927532-02f2-45dc-a0b8-3d4242dcc38b"
+              "title": "Imagineer",
+              "posted_at": "2026-10-19",
+              "url": "https://www.fivetran.com/careers/job?gh_jid=8037352003"
             },
             {
-              "title": "Sales Development Representative, Enterprise",
-              "posted_at": "2026-10-15",
-              "url": "https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4"
+              "title": "Strategic Account Executive, Enterprise",
+              "posted_at": "2026-10-21",
+              "url": "https://www.fivetran.com/careers/job?gh_jid=8039971003"
             },
             {
-              "title": "Sales Development Representative, Enterprise",
-              "posted_at": "2026-10-15",
-              "url": "https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5"
+              "title": "Sales Development Representative - Italian and Spanish Speaker",
+              "posted_at": "2026-10-22",
+              "url": "https://www.fivetran.com/careers/job?gh_jid=8040028003"
             }
           ]
         }
       ]
     },
     {
-      "domain": "assemblyai.com",
-      "name": "AssemblyAI",
+      "domain": "avoca.ai",
+      "name": "Avoca",
       "velocity": 2,
       "receipts": [
         {
-          "occurred_at": "2026-10-18",
-          "url": "https://boards.greenhouse.io/assemblyai",
+          "occurred_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/avoca",
           "summary": "2 new sales roles in 7 days vs 0.5 baseline",
           "postings": [
             {
-              "title": "Digital Native AI Account Executive",
-              "posted_at": "2026-10-17",
-              "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4743063005"
+              "title": "Account Executive",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/avoca/ff7e8d71-16b2-4187-bef1-fc7c55b71e1d"
             },
             {
-              "title": "Digital Native AI Account Executive",
-              "posted_at": "2026-10-17",
-              "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744900005"
+              "title": "Sales Development Representative",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/avoca/6bd8b480-871d-4b5c-8685-37421cca1f38"
             }
           ]
         }
       ]
     },
     {
-      "domain": "canarytechnologies.com",
-      "name": "Canary Technologies",
+      "domain": "broccoli.com",
+      "name": "Broccoli AI",
       "velocity": 2,
       "receipts": [
         {
-          "occurred_at": "2026-10-16",
-          "url": "https://jobs.lever.co/canarytechnologies",
+          "occurred_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/broccoli",
           "summary": "2 new sales roles in 7 days vs 0.5 baseline",
           "postings": [
             {
-              "title": "Sales Development Representative (Singapore Working Hours)",
-              "posted_at": "2026-10-16",
-              "url": "https://jobs.lever.co/canarytechnologies/5f3de608-d9e6-40b5-a1fa-5e2ffd0460d8"
+              "title": "Head of Enterprise Sales",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/broccoli/853c7e1c-b032-45f3-8747-6867596c5917"
             },
             {
-              "title": "Sales Development Representative (French Speaking)",
-              "posted_at": "2026-10-16",
-              "url": "https://jobs.lever.co/canarytechnologies/246d02d8-b7e7-4a05-88ab-6dbaf41df706"
+              "title": "Account Executive, Enterprise",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/broccoli/ee6e27b9-f2b3-4806-96ac-9d55abe878e8"
             }
           ]
         }
       ]
     },
     {
-      "domain": "ironcladapp.com",
-      "name": "Ironclad",
+      "domain": "clipboardworks.com",
+      "name": "Clipboard",
       "velocity": 2,
       "receipts": [
         {
-          "occurred_at": "2026-10-15",
-          "url": "https://jobs.ashbyhq.com/ironcladhq",
+          "occurred_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/clipboard",
           "summary": "2 new sales roles in 7 days vs 0.5 baseline",
           "postings": [
             {
-              "title": "Strategic Account Executive, West",
-              "posted_at": "2026-10-14",
-              "url": "https://jobs.ashbyhq.com/ironcladhq/c2729f71-8004-4179-8aff-08341249cb5c"
+              "title": "Field Marketer",
+              "posted_at": "2026-10-21",
+              "url": "https://jobs.ashbyhq.com/clipboard/3802bff2-293c-4503-b20b-f9b0794fee8e"
             },
             {
-              "title": "Senior Manager, Solutions Engineering",
+              "title": "Account Manager",
+              "posted_at": "2026-10-22",
+              "url": "https://jobs.ashbyhq.com/clipboard/ed1c171f-8327-40c8-8612-f3a4c4547ab1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "colabsoftware.com",
+      "name": "CoLab",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-24",
+          "url": "https://boards.greenhouse.io/colabsoftware",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Industry Strategy Lead - Supplier Ecosystem",
+              "posted_at": "2026-10-23",
+              "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5462049008"
+            },
+            {
+              "title": "Sales Engineer",
+              "posted_at": "2026-10-23",
+              "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5461087008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "fieldguide.com",
+      "name": "Fieldguide",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/fieldguide",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Enterprise Account Executive",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/fieldguide/c7703b1a-e7c2-4c24-bd8a-ebf4357dbc0d"
+            },
+            {
+              "title": "Mid-Market Account Executive",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/fieldguide/72f0d7f3-bd05-4e95-8a01-e6ed42ecbe31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "h1.co",
+      "name": "H1",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-20",
+          "url": "https://jobs.lever.co/h1",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "RVP, Health Plans & Technology Sales",
               "posted_at": "2026-10-15",
-              "url": "https://jobs.ashbyhq.com/ironcladhq/331d44a7-a6d2-4cc1-bd7c-12361cb03ea9"
+              "url": "https://jobs.lever.co/h1/9b6bba80-c8a6-4dff-ad40-e7413585c825"
+            },
+            {
+              "title": "Sr. Account Manager - Health Plans",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.lever.co/h1/cdde8d34-4eb7-41c7-9b47-d108dadf300c"
             }
           ]
         }
       ]
     },
     {
-      "domain": "within.ai",
-      "name": "Within",
+      "domain": "outset.ai",
+      "name": "Outset",
       "velocity": 2,
       "receipts": [
         {
-          "occurred_at": "2026-10-17",
-          "url": "https://jobs.ashbyhq.com/within.ai",
+          "occurred_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/outset",
           "summary": "2 new sales roles in 7 days vs 0.5 baseline",
           "postings": [
             {
-              "title": "Senior Business Development Representative - US Market",
-              "posted_at": "2026-10-16",
-              "url": "https://jobs.ashbyhq.com/within.ai/d56219dd-313a-44c3-bdc1-b8787fb6e7da"
+              "title": "Enablement Program Manager",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/outset/a90f9994-d72d-4897-bb30-fad9ce65e0f9"
             },
             {
-              "title": "Business Development Representative Manager - US Market",
-              "posted_at": "2026-10-16",
-              "url": "https://jobs.ashbyhq.com/within.ai/a920fbfb-598a-4347-8353-796b726e7631"
+              "title": "Founding CX Solutions Account Executive",
+              "posted_at": "2026-10-19",
+              "url": "https://jobs.ashbyhq.com/outset/02f05d9b-ebe7-4b8a-816c-70821d73bfc7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "pump.co",
+      "name": "Pump.co",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-21",
+          "url": "https://boards.greenhouse.io/pumpcareers",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "VP of Revenue",
+              "posted_at": "2026-10-19",
+              "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5457645008"
+            },
+            {
+              "title": "Business Development Representative",
+              "posted_at": "2026-10-20",
+              "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5459127008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "trytoku.com",
+      "name": "Toku",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/Toku",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Consultant CL",
+              "posted_at": "2026-10-20",
+              "url": "https://jobs.ashbyhq.com/Toku/a06aa260-119f-4c51-bd71-77b5db98e9db"
+            },
+            {
+              "title": "Payment Consultant CL",
+              "posted_at": "2026-10-21",
+              "url": "https://jobs.ashbyhq.com/Toku/ebe9e1d8-12e4-4065-a2aa-7a2d90576d49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "vapi.ai",
+      "name": "Vapi",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/vapi",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Enterprise Account Executive",
+              "posted_at": "2026-10-22",
+              "url": "https://jobs.ashbyhq.com/vapi/68b5209c-f814-4528-a340-7d958cc7ed79"
+            },
+            {
+              "title": "Solutions Engineer",
+              "posted_at": "2026-10-22",
+              "url": "https://jobs.ashbyhq.com/vapi/0ac869b1-0697-479d-a22b-17a5e160ffe5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "veriff.com",
+      "name": "Veriff",
+      "velocity": 2,
+      "receipts": [
+        {
+          "occurred_at": "2026-10-23",
+          "url": "https://boards.greenhouse.io/veriff",
+          "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+          "postings": [
+            {
+              "title": "Senior Account Executive / EMEA",
+              "posted_at": "2026-10-22",
+              "url": "https://www.veriff.com/careers/position/8827518002?gh_jid=8827518002"
+            },
+            {
+              "title": "Senior Account Manager",
+              "posted_at": "2026-10-23",
+              "url": "https://www.veriff.com/careers/position/8908470002?gh_jid=8908470002"
             }
           ]
         }
@@ -189,211 +513,203 @@
   ],
   "top_funding": [
     {
-      "domain": "onebrief.com",
-      "name": "Onebrief",
-      "amount_usd": 249999915,
-      "amount_sold_usd": 150799963,
-      "date_filed": "2026-10-14",
-      "url": "https://www.sec.gov/Archives/edgar/data/1888809/000188880926000002/"
+      "domain": "boltz.com",
+      "name": "Boltz",
+      "amount_usd": 119999991,
+      "amount_sold_usd": 97359830,
+      "date_filed": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/2161288/000216128826000001/"
     },
     {
-      "domain": "rapidcanvas.ai",
-      "name": "RapidCanvas",
-      "amount_usd": 28999988,
-      "amount_sold_usd": 28999988,
-      "date_filed": "2026-10-14",
-      "url": "https://www.sec.gov/Archives/edgar/data/2052031/000205203126000006/"
+      "domain": "mavria.com",
+      "name": "Mavria",
+      "amount_usd": 100000000,
+      "amount_sold_usd": 75000000,
+      "date_filed": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159979/000215997926000002/"
     },
     {
-      "domain": "memazing.com",
-      "name": "Memazing",
-      "amount_usd": 26244981,
-      "amount_sold_usd": 15404990,
-      "date_filed": "2026-10-16",
-      "url": "https://www.sec.gov/Archives/edgar/data/2160552/000123191926001462/"
+      "domain": "aheadcomputing.com",
+      "name": "AheadComputing",
+      "amount_usd": 79999913,
+      "amount_sold_usd": 63499913,
+      "date_filed": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/2035028/000203502826000002/"
     },
     {
-      "domain": "remitian.com",
-      "name": "Remitian",
-      "amount_usd": 20000000,
-      "amount_sold_usd": 14031768,
-      "date_filed": "2026-10-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/2153884/000215388426000001/"
+      "domain": "chubbygroup.com",
+      "name": "Chubby Group",
+      "amount_usd": 49999372,
+      "amount_sold_usd": 49999372,
+      "date_filed": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/2085051/000208505126000002/"
     },
     {
-      "domain": "sapphiretechnologies.com",
-      "name": "Sapphire Technologies",
-      "amount_usd": 12841337,
-      "amount_sold_usd": 8941337,
-      "date_filed": "2026-10-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/1887783/000188778326000001/"
+      "domain": "mattur.com",
+      "name": "Mattur Holdings",
+      "amount_usd": 24999999,
+      "amount_sold_usd": 974867,
+      "date_filed": "2026-10-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/2115233/000211523326000002/"
     },
     {
-      "domain": "circularityfuels.com",
-      "name": "Circularity Fuels",
-      "amount_usd": 10209999,
-      "amount_sold_usd": 8790194,
-      "date_filed": "2026-10-14",
-      "url": "https://www.sec.gov/Archives/edgar/data/2147938/000214793826000001/"
+      "domain": "ascertain.com",
+      "name": "Ascertain Systems",
+      "amount_usd": 24000000,
+      "amount_sold_usd": 19999998,
+      "date_filed": "2026-10-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/2017592/000201759226000002/"
     },
     {
-      "domain": "cofertility.com",
-      "name": "Cofertility",
-      "amount_usd": 9000000,
-      "amount_sold_usd": 8380000,
-      "date_filed": "2026-10-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/2057534/000205753426000003/"
+      "domain": "ezbombs.com",
+      "name": "EZ Bombs",
+      "amount_usd": 14999996,
+      "amount_sold_usd": 14999996,
+      "date_filed": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/2153061/000215306126000001/"
     },
     {
-      "domain": "spatiallogic.com",
-      "name": "Spatial Logic",
-      "amount_usd": 5685000,
-      "amount_sold_usd": 3584999,
-      "date_filed": "2026-10-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158653/000215865326000001/"
+      "domain": "omnibuds.tech",
+      "name": "OmniBuds",
+      "amount_usd": 14618053,
+      "amount_sold_usd": 2999991,
+      "date_filed": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/2158873/000215887326000002/"
     },
     {
-      "domain": "immortabio.com",
-      "name": "Immorta Bio",
-      "amount_usd": 5000000,
-      "amount_sold_usd": 612503,
-      "date_filed": "2026-10-16",
-      "url": "https://www.sec.gov/Archives/edgar/data/2102665/000210266526000002/"
+      "domain": "candoriq.com",
+      "name": "CandorIQ",
+      "amount_usd": 13543208,
+      "amount_sold_usd": 13543208,
+      "date_filed": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160850/000216085026000001/"
     },
     {
-      "domain": "jaccard.ai",
-      "name": "Jaccard",
-      "amount_usd": 5000000,
-      "amount_sold_usd": 4517000,
-      "date_filed": "2026-10-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/2160401/000216040126000001/"
+      "domain": "revreply.com",
+      "name": "RevReply",
+      "amount_usd": 12000000,
+      "amount_sold_usd": 845000,
+      "date_filed": "2026-10-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/2157048/000215704826000001/"
     },
     {
-      "domain": "laminasurgical.com",
-      "name": "Lamina Surgical",
-      "amount_usd": 5000000,
-      "amount_sold_usd": 490000,
-      "date_filed": "2026-10-16",
-      "url": "https://www.sec.gov/Archives/edgar/data/2160275/000216027526000001/"
+      "domain": "rsynq.ai",
+      "name": "RSYNQ",
+      "amount_usd": 6000000,
+      "amount_sold_usd": 2000000,
+      "date_filed": "2026-10-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/2161899/000216189926000001/"
     },
     {
-      "domain": "lykosindustries.com",
-      "name": "Lykos Industries",
-      "amount_usd": 5000000,
-      "amount_sold_usd": 5000000,
-      "date_filed": "2026-10-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/2159222/000215922226000001/"
+      "domain": "spartanx.ai",
+      "name": "SpartanX Technologies",
+      "amount_usd": 4999998,
+      "amount_sold_usd": 4999998,
+      "date_filed": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/2161171/000216117126000001/"
     },
     {
-      "domain": "musaffa.com",
-      "name": "Musaffa",
-      "amount_usd": 5000000,
-      "amount_sold_usd": 310022,
-      "date_filed": "2026-10-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/1966710/000106299326005308/"
+      "domain": "sigilhealth.com",
+      "name": "Sigil Health",
+      "amount_usd": 2100000,
+      "amount_sold_usd": 35000,
+      "date_filed": "2026-10-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160716/000216071626000001/"
     },
     {
-      "domain": "saaz.com",
-      "name": "Saaz Micro",
-      "amount_usd": 5000000,
-      "amount_sold_usd": 1500000,
-      "date_filed": "2026-10-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158679/000215867926000001/"
-    },
-    {
-      "domain": "axelyf.com",
-      "name": "Axelyf",
-      "amount_usd": 2700000,
-      "amount_sold_usd": 2631439,
-      "date_filed": "2026-10-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/2078406/000143774926032509/"
-    },
-    {
-      "domain": "zeely.ai",
-      "name": "Zeely",
-      "amount_usd": 2091993,
-      "amount_sold_usd": 2091993,
-      "date_filed": "2026-10-16",
-      "url": "https://www.sec.gov/Archives/edgar/data/2155182/000215518226000002/"
-    },
-    {
-      "domain": "getdispatchdiligence.com",
-      "name": "Dispatch Diligence",
+      "domain": "mikri.ai",
+      "name": "Mikri",
       "amount_usd": 2000000,
-      "amount_sold_usd": 250000,
-      "date_filed": "2026-10-14",
-      "url": "https://www.sec.gov/Archives/edgar/data/2159229/000215922926000001/"
+      "amount_sold_usd": 1350000,
+      "date_filed": "2026-10-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/2115414/000211541426000002/"
     },
     {
-      "domain": "primedelta.io",
-      "name": "PrimeDelta",
-      "amount_usd": 2000000,
-      "amount_sold_usd": 1827000,
-      "date_filed": "2026-10-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/2159963/000147793226006277/"
+      "domain": "ladderuphousing.com",
+      "name": "LadderUp Housing",
+      "amount_usd": 1300000,
+      "amount_sold_usd": 750000,
+      "date_filed": "2026-10-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/2077927/000110465926116908/"
     },
     {
-      "domain": "vernex.com",
-      "name": "Vernex",
-      "amount_usd": 1400000,
-      "amount_sold_usd": 1400000,
-      "date_filed": "2026-10-16",
-      "url": "https://www.sec.gov/Archives/edgar/data/2160116/000216011626000001/"
-    },
-    {
-      "domain": "fibrobiologics.com",
-      "name": "FibroBiologics",
-      "amount_usd": 1200000,
-      "amount_sold_usd": 1200000,
-      "date_filed": "2026-10-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/1958777/000149315226046663/"
-    },
-    {
-      "domain": "admirra.com",
-      "name": "Admirra",
+      "domain": "galeforceaesthetics.com",
+      "name": "Gale Force Aesthetics",
       "amount_usd": 1000000,
-      "amount_sold_usd": 430000,
-      "date_filed": "2026-10-16",
-      "url": "https://www.sec.gov/Archives/edgar/data/2057082/000205708226000002/"
+      "amount_sold_usd": 800000,
+      "date_filed": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159264/000215926426000001/"
     },
     {
-      "domain": "brainforge.ai",
-      "name": "Brainforge",
+      "domain": "melangespace.com",
+      "name": "Melange Space Technologies",
       "amount_usd": 1000000,
-      "amount_sold_usd": 50000,
-      "date_filed": "2026-10-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/2158686/000215868626000001/"
+      "amount_sold_usd": 15000,
+      "date_filed": "2026-10-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/2161189/000216118926000001/"
     },
     {
-      "domain": "contor.ai",
-      "name": "Contor",
-      "amount_usd": 850000,
-      "amount_sold_usd": 600000,
-      "date_filed": "2026-10-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/2139601/000213960126000003/"
+      "domain": "swatechnology.com",
+      "name": "Swa Technology",
+      "amount_usd": 1000000,
+      "amount_sold_usd": 25000,
+      "date_filed": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/2161267/000216126726000001/"
     },
     {
-      "domain": "atjustice.org",
-      "name": "ATJustice",
-      "amount_usd": 500000,
-      "amount_sold_usd": 360000,
-      "date_filed": "2026-10-13",
-      "url": "https://www.sec.gov/Archives/edgar/data/2159536/000215953626000001/"
+      "domain": "solfera.co",
+      "name": "Solfera",
+      "amount_usd": 900000,
+      "amount_sold_usd": 68000,
+      "date_filed": "2026-10-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/2138218/000213821826000002/"
     },
     {
-      "domain": "talnflo.com",
-      "name": "Talnflo",
-      "amount_usd": 400000,
-      "amount_sold_usd": 50000,
-      "date_filed": "2026-10-15",
-      "url": "https://www.sec.gov/Archives/edgar/data/2141965/000214196526000002/"
+      "domain": "bracely.ai",
+      "name": "Bracely",
+      "amount_usd": 700000,
+      "amount_sold_usd": 700000,
+      "date_filed": "2026-10-20",
+      "url": "https://www.sec.gov/Archives/edgar/data/2155238/000215523826000001/"
+    },
+    {
+      "domain": "stelmo.ai",
+      "name": "Stelmo AI",
+      "amount_usd": 550000,
+      "amount_sold_usd": 225000,
+      "date_filed": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160349/000216034926000001/"
+    },
+    {
+      "domain": "omnishot.ai",
+      "name": "Omnishot.ai",
+      "amount_usd": 22500,
+      "amount_sold_usd": 22500,
+      "date_filed": "2026-10-19",
+      "url": "https://www.sec.gov/Archives/edgar/data/2159682/000215968226000001/"
+    },
+    {
+      "domain": "entirelywell.com",
+      "name": "Entirely Well",
+      "amount_usd": null,
+      "amount_sold_usd": 230000,
+      "date_filed": "2026-10-23",
+      "url": "https://www.sec.gov/Archives/edgar/data/2147800/000214780026000001/"
+    },
+    {
+      "domain": "naytra.co",
+      "name": "Naytra",
+      "amount_usd": null,
+      "amount_sold_usd": 125000,
+      "date_filed": "2026-10-21",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160812/000216081226000001/"
     }
   ],
   "method_change": "Scoring rule: funding magnitude is log10(total_offering_amount) capped at 8, or 6 when the amount is undisclosed or zero (spec section 8); form_d_filed events flagged is_amendment never produce a signal.",
   "coverage": {
     "companies_monitored": 965,
-    "boards_polled": 528,
-    "filings_read": 18841
+    "boards_polled": 637,
+    "filings_read": 1228
   },
   "repo_url": "https://github.com/karank2512/tell-ai",
   "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad"

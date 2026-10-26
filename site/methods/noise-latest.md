@@ -1,11 +1,11 @@
 ---
 report: noise
 title: "Noise handling: reposts, lifetimes and long-open roles"
-as_of: 2026-10-19
-generated_at: 2026-10-19T07:02:24+00:00
-n: 10588
-quotable: false
-flagged_numbers: 4
+as_of: 2026-10-26
+generated_at: 2026-10-26T07:04:08+00:00
+n: 12887
+quotable: true
+flagged_numbers: 1
 script: tell/backtest/noise.py
 private: false
 ---
@@ -13,8 +13,6 @@ private: false
 # Noise handling: reposts, lifetimes and long-open roles
 
 Dated report written by `tell backtest noise` (spec section 13.3): how much of what the boards show is reposts and long-open roles, and how long postings live.
-
-**Not quotable:** 1 headline number has N under 30.
 
 ## Question
 
@@ -24,50 +22,58 @@ How much of what job boards show is noise (reposted and long-open roles), and ho
 
 Repost share: postings first seen in the 90 days before the evaluation instant. Lifetime: postings closed by then that carry the provider's posted_at. Long-open share: boards with status active.
 
-Cohort N: 10588.
+Cohort N: 12887.
 
 ## Numbers
 
 ### Reposts
 
-- Share of postings that are reposts (first seen in the last 90 days), percent: 0.1% (N=10,588)
+- Share of postings that are reposts (first seen in the last 90 days), percent: 0.9% (N=12,887)
 
 | vendor | postings | reposts | repost share |
 | --- | --- | --- | --- |
-| ashby | 5,651 | 4 | 0.1% (N=5,651) |
-| greenhouse | 4,294 | 1 | 0.0% (N=4,294) |
-| lever | 558 | 0 | 0.0% (N=558) |
-| smartrecruiters | 85 | 1 | 1.2% (N=85) |
+| ashby | 7,419 | 82 | 1.1% (N=7,419) |
+| greenhouse | 4,768 | 33 | 0.7% (N=4,768) |
+| lever | 612 | 2 | 0.3% (N=612) |
+| smartrecruiters | 88 | 2 | 2.3% (N=88) |
 
 ### Reposts by role family
 
 | family | postings | reposts | repost share |
 | --- | --- | --- | --- |
-| customer | 916 | 0 | 0.0% (N=916) |
-| data | 123 | 0 | 0.0% (N=123) |
-| engineering | 2,263 | 1 | 0.0% (N=2,263) |
-| exec | 379 | 0 | 0.0% (N=379) |
-| finance_ops | 645 | 1 | 0.2% (N=645) |
-| gtm_ops | 592 | 0 | 0.0% (N=592) |
-| marketing | 484 | 0 | 0.0% (N=484) |
-| ml_ai | 266 | 0 | 0.0% (N=266) |
-| other | 2,551 | 1 | 0.0% (N=2,551) |
-| product_design | 730 | 1 | 0.1% (N=730) |
-| sales | 1,639 | 2 | 0.1% (N=1,639) |
+| customer | 1,104 | 2 | 0.2% (N=1,104) |
+| data | 148 | 4 | 2.7% (N=148) |
+| engineering | 2,731 | 18 | 0.7% (N=2,731) |
+| exec | 480 | 4 | 0.8% (N=480) |
+| finance_ops | 838 | 16 | 1.9% (N=838) |
+| gtm_ops | 718 | 12 | 1.7% (N=718) |
+| marketing | 627 | 8 | 1.3% (N=627) |
+| ml_ai | 312 | 6 | 1.9% (N=312) |
+| other | 3,143 | 22 | 0.7% (N=3,143) |
+| product_design | 883 | 13 | 1.5% (N=883) |
+| sales | 1,903 | 14 | 0.7% (N=1,903) |
 
 ### Posting lifetime
 
-- Median posting lifetime, closed_at - posted_at, days (all families): 45.4 days (N=3; too small to quote)
+- Median posting lifetime, closed_at - posted_at, days (all families): 53.9 days (N=1,300)
 
 | family | median lifetime |
 | --- | --- |
-| customer | 53.5 days (N=1; too small to quote) |
-| other | 45.4 days (N=1; too small to quote) |
-| sales | 28.4 days (N=1; too small to quote) |
+| customer | 51.7 days (N=126) |
+| data | 36.3 days (N=17; too small to quote) |
+| engineering | 65.8 days (N=213) |
+| exec | 65.0 days (N=50) |
+| finance_ops | 50.6 days (N=121) |
+| gtm_ops | 36.8 days (N=83) |
+| marketing | 46.0 days (N=65) |
+| ml_ai | 101.7 days (N=30) |
+| other | 50.0 days (N=310) |
+| product_design | 52.8 days (N=87) |
+| sales | 66.4 days (N=198) |
 
 ### Long-open roles
 
-- Share of boards with at least one posting open more than 180 days, percent: 63.1% (N=575)
+- Share of boards with at least one posting open more than 180 days, percent: 61.1% (N=635)
 
 ### Rated usefulness, filtered vs unfiltered (placeholder)
 
@@ -80,7 +86,7 @@ Not run yet. For the first three design partners, two CSVs go out on the same da
 
 Script: `tell/backtest/noise.py`.
 
-Repost share (bind :as_of = 2026-10-19T07:02:24.848156+00:00):
+Repost share (bind :as_of = 2026-10-26T07:04:08.243339+00:00):
 
 ```sql
 select b.vendor, p.role_family, count(*) as n, count(p.repost_of) as reposts
@@ -128,4 +134,4 @@ where b.status = 'active';
 
 ## Date
 
-As of 2026-10-19; generated 2026-10-19T07:02:24+00:00.
+As of 2026-10-26; generated 2026-10-26T07:04:08+00:00.

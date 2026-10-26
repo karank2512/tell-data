@@ -1,11 +1,11 @@
 ---
 report: velocity-lead
 title: "Hiring velocity as a leading indicator of a Form D filing"
-as_of: 2026-10-19
-generated_at: 2026-10-19T07:02:24+00:00
+as_of: 2026-10-26
+generated_at: 2026-10-26T07:04:08+00:00
 n: 0
 quotable: false
-flagged_numbers: 7
+flagged_numbers: 4
 script: tell/backtest/velocity_lead.py
 private: false
 ---
@@ -14,7 +14,7 @@ private: false
 
 Dated report written by `tell backtest velocity-lead` (spec section 13.2). The prospective study is the real result once it is runnable; the two retrospective reconstructions are rougher and are labelled as such, each with its coverage.
 
-**Not quotable:** N=0 is under 30; not yet runnable, 5 days of collection.
+**Not quotable:** N=0 is under 30; not yet runnable, 12 days of collection.
 
 ## Question
 
@@ -26,33 +26,33 @@ Prospective: every new Form D (isAmendment = false) filed after day 60 of collec
 
 Cohort N: 0.
 
-**Not yet runnable: 5 days of collection < 60.**
+**Not yet runnable: 12 days of collection < 60.**
 
 ## Numbers
 
 ### Prospective (the result to quote)
 
-Not yet runnable: 5 days of collection < 60. The retrospective versions below are rougher and are never quoted as the result.
+Not yet runnable: 12 days of collection < 60. The retrospective versions below are rougher and are never quoted as the result.
 
-- Days of collection: 5
+- Days of collection: 12
 
 ### Retrospective (a): current postings' posted_at (survivorship bias)
 
-Filings: 364 from database events, 0 from 0 quarterly data sets; 5 by companies with an active board. The difference between filers and controls is the number to quote, with both N.
+Filings: 388 from database events, 0 from 0 quarterly data sets; 35 by companies with an active board. The difference between filers and controls is the number to quote, with both N.
 
-- Retrospective (a) coverage: filings with a reconstructed posting in the 12 weeks before: 80.0% (N=5; too small to quote)
-- Postings carrying a provider posted_at: 100.0% (N=10,588)
-- Retrospective (a): filings in the cohort: 5
-- Retrospective (a): share of filings preceded by a spike in the 8 weeks before: 60.0% (N=5; too small to quote)
-- Retrospective (a): median lead, days from the first spike week to the filing: 56.0 days (N=3; too small to quote)
-- Retrospective (a): control share preceded by a spike (matched by open-posting decile): 44.2% (N=206)
-- Retrospective (a): difference, filers minus controls, percentage points: 15.79 (N=5; too small to quote)
+- Retrospective (a) coverage: filings with a reconstructed posting in the 12 weeks before: 80.0% (N=35)
+- Postings carrying a provider posted_at: 100.0% (N=12,887)
+- Retrospective (a): filings in the cohort: 35
+- Retrospective (a): share of filings preceded by a spike in the 8 weeks before: 51.4% (N=35)
+- Retrospective (a): median lead, days from the first spike week to the filing: 31.5 days (N=18; too small to quote)
+- Retrospective (a): control share preceded by a spike (matched by open-posting decile): 34.6% (N=489)
+- Retrospective (a): difference, filers minus controls, percentage points: 16.80 (N=35)
 
 ### Retrospective (b): Wayback Machine snapshots of the board page
 
-Of 5 filings, 0 have a Greenhouse or Lever board; 0 have a CDX listing in the cache (0 not fetched yet), 0 have a snapshot in the 12 weeks and 0 are covered (a snapshot in at least 8 of the 12 weeks).
+Of 35 filings, 6 have a Greenhouse or Lever board; 0 have a CDX listing in the cache (6 not fetched yet), 0 have a snapshot in the 12 weeks and 0 are covered (a snapshot in at least 8 of the 12 weeks).
 
-- Retrospective (b) coverage: covered filings of those with a supported board: n/a (N=0; too small to quote)
+- Retrospective (b) coverage: covered filings of those with a supported board: 0.0% (N=6; too small to quote)
 - Retrospective (b): filings in the cohort: 0
 - Retrospective (b): share of filings preceded by a spike in the 8 weeks before: n/a (N=0; too small to quote)
 - Retrospective (b): median lead, days from the first spike week to the filing: n/a (N=0; too small to quote)
@@ -83,4 +83,4 @@ lead     = 7 * max(spiking k) days
 
 ## Date
 
-As of 2026-10-19; generated 2026-10-19T07:02:24+00:00.
+As of 2026-10-26; generated 2026-10-26T07:04:08+00:00.
