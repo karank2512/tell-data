@@ -1,0 +1,297 @@
+{
+ "vendor": "ashby",
+ "identifier": "harperinsure",
+ "domain": "harperinsure.com",
+ "as_of": "2026-10-26",
+ "last_polled_at": "2026-10-26T15:42:28.925921+00:00",
+ "open_postings": [
+  {
+   "external_id": "081b2871-a11f-4d89-b6fe-922a12dcfb2e",
+   "title": "Engineering Manager/TLM, Platform",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-31T17:47:08.609000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/081b2871-a11f-4d89-b6fe-922a12dcfb2e"
+  },
+  {
+   "external_id": "141fc972-0309-43ee-975e-b3677b966bdc",
+   "title": "Senior Commercial Broker, Brokerage Intelligence",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T02:31:41.476000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/141fc972-0309-43ee-975e-b3677b966bdc"
+  },
+  {
+   "external_id": "16d9ed97-926c-4a0f-8841-50e59f0862e1",
+   "title": "Content Coordination",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-06-22T19:33:46.619000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/16d9ed97-926c-4a0f-8841-50e59f0862e1"
+  },
+  {
+   "external_id": "201358c2-d9cb-476c-aff9-831625a84684",
+   "title": "Special Projects Lead",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-01-22T14:11:51.615000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/201358c2-d9cb-476c-aff9-831625a84684"
+  },
+  {
+   "external_id": "2030a0d3-596f-46d7-a436-83a94f12cdaf",
+   "title": "Sales Development Representative, AI-Native",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-05-08T12:56:21.866000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/2030a0d3-596f-46d7-a436-83a94f12cdaf"
+  },
+  {
+   "external_id": "2b79c172-1dcd-43b8-8b36-a07a9785633d",
+   "title": "Recruiting Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-01-14T15:04:36.835000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/2b79c172-1dcd-43b8-8b36-a07a9785633d"
+  },
+  {
+   "external_id": "34c87659-5c04-4954-bc23-5dfe5654e2bd",
+   "title": "Partnerships: New Verticals Associate",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-21T23:52:09.454000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/34c87659-5c04-4954-bc23-5dfe5654e2bd"
+  },
+  {
+   "external_id": "3509ecc5-e8c2-43c6-911d-01bd4a984c0f",
+   "title": "Data Analyst",
+   "role_family": "data",
+   "location": "San Francisco",
+   "posted_at": "2026-06-22T19:37:35.849000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/3509ecc5-e8c2-43c6-911d-01bd4a984c0f"
+  },
+  {
+   "external_id": "36888318-e7b0-43a4-ac62-6e5babc829a6",
+   "title": "Performance Marketing & Paid Acquisition Lead",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-05-14T02:09:05.078000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/36888318-e7b0-43a4-ac62-6e5babc829a6"
+  },
+  {
+   "external_id": "3a362c7e-ca05-4b88-a90c-a3e9b8446b91",
+   "title": "Customer Service Operations Specialist",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T05:43:08.283000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/3a362c7e-ca05-4b88-a90c-a3e9b8446b91"
+  },
+  {
+   "external_id": "3f450d2b-a1ae-4fe6-8ffc-76eaadcd5b43",
+   "title": "Platform Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-07-24T00:02:56.759000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/3f450d2b-a1ae-4fe6-8ffc-76eaadcd5b43"
+  },
+  {
+   "external_id": "3f94afd4-5d68-4f94-965f-280a6e1c1957",
+   "title": "GTM: New Verticals Lead",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-06-05T14:26:36.754000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/3f94afd4-5d68-4f94-965f-280a6e1c1957"
+  },
+  {
+   "external_id": "46022bfc-922d-4f31-9cf0-876333cdde92",
+   "title": "SEO/GEO Manager",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-06-22T19:28:20.594000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/46022bfc-922d-4f31-9cf0-876333cdde92"
+  },
+  {
+   "external_id": "4919f9ef-73ce-4f9d-ae70-0c6856635d88",
+   "title": "Account Executive, Service",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T18:47:26.655000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/4919f9ef-73ce-4f9d-ae70-0c6856635d88"
+  },
+  {
+   "external_id": "4d603511-cb01-4203-a184-13fe60aed9ee",
+   "title": "Product Manager",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-05-26T21:30:16.253000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/4d603511-cb01-4203-a184-13fe60aed9ee"
+  },
+  {
+   "external_id": "52bdda0e-d294-485c-9657-8462d485908c",
+   "title": "Account Executive, New Business",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-07-08T16:06:49.672000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/52bdda0e-d294-485c-9657-8462d485908c"
+  },
+  {
+   "external_id": "52fae06b-fcab-49c9-b832-65afe6578fb3",
+   "title": "Future AI Founder",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-01-07T03:39:16.149000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/52fae06b-fcab-49c9-b832-65afe6578fb3"
+  },
+  {
+   "external_id": "5636cdca-5001-4de9-b455-baeb85e4bb1e",
+   "title": "Carrier Partnerships Lead",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T18:18:17.593000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/5636cdca-5001-4de9-b455-baeb85e4bb1e"
+  },
+  {
+   "external_id": "57521df4-7480-4ac4-90be-5a97650939bf",
+   "title": "Senior Commercial Underwriter, Underwriting Intelligence",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-06-02T15:30:56.015000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/57521df4-7480-4ac4-90be-5a97650939bf"
+  },
+  {
+   "external_id": "585d2c4a-06c4-4bb1-91cc-5f70c2a04b18",
+   "title": "Forward Deployed Operations",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-06-19T00:35:43.609000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/585d2c4a-06c4-4bb1-91cc-5f70c2a04b18"
+  },
+  {
+   "external_id": "5c1d20be-2113-4552-a4c3-b7546f2b274f",
+   "title": "Operating Memory Lead",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-05-28T16:01:45.346000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/5c1d20be-2113-4552-a4c3-b7546f2b274f"
+  },
+  {
+   "external_id": "7d678dba-885a-4432-94c7-a9c20852db35",
+   "title": "Product Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-07-24T00:04:06.808000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/7d678dba-885a-4432-94c7-a9c20852db35"
+  },
+  {
+   "external_id": "81cdb8e5-7be0-4eae-ac26-46fcdc7fd235",
+   "title": "Customer Service Representative",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T05:37:37.591000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/81cdb8e5-7be0-4eae-ac26-46fcdc7fd235"
+  },
+  {
+   "external_id": "93d4ea71-6fa3-43ba-b617-859765f31dce",
+   "title": "Head of Partnerships",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-06-08T14:41:33.494000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/93d4ea71-6fa3-43ba-b617-859765f31dce"
+  },
+  {
+   "external_id": "9a109415-7062-403a-8c44-a535edd8489f",
+   "title": "Account Executive, Renewals",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T00:19:46.442000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/9a109415-7062-403a-8c44-a535edd8489f"
+  },
+  {
+   "external_id": "aaa1a96e-b2b5-4120-b993-a8641067496a",
+   "title": "Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-08T22:06:50.825000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/aaa1a96e-b2b5-4120-b993-a8641067496a"
+  },
+  {
+   "external_id": "b18d5271-db0f-40b7-971f-ba6bb0b9337c",
+   "title": "Customer Service Associate",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-10T18:48:25.380000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/b18d5271-db0f-40b7-971f-ba6bb0b9337c"
+  },
+  {
+   "external_id": "b2447b59-5f34-4e27-955c-e4211baa2ca0",
+   "title": "Learning & Knowledge Systems Lead",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-06-02T00:55:37.162000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/b2447b59-5f34-4e27-955c-e4211baa2ca0"
+  },
+  {
+   "external_id": "c428402d-491d-4ff9-86cf-cf091127845c",
+   "title": "ABM Lead",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-06-22T19:24:52.902000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/c428402d-491d-4ff9-86cf-cf091127845c"
+  },
+  {
+   "external_id": "c90b946d-8dae-48a1-9914-64383c8e7b31",
+   "title": "Customer Intake Specialist",
+   "role_family": "other",
+   "location": "Atlanta",
+   "posted_at": "2026-02-23T14:31:04.441000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/c90b946d-8dae-48a1-9914-64383c8e7b31"
+  },
+  {
+   "external_id": "cff6e3ae-da5b-4ffd-92b8-b3248b97605f",
+   "title": "Revenue Operations Lead",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T01:40:35.740000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/cff6e3ae-da5b-4ffd-92b8-b3248b97605f"
+  },
+  {
+   "external_id": "d1a82faa-7d95-4806-b160-038616f7ef97",
+   "title": "Customer Operations Specialist, Payments",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T01:14:01.620000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/d1a82faa-7d95-4806-b160-038616f7ef97"
+  },
+  {
+   "external_id": "eb41a142-5615-44eb-93ad-7f7786bc2d1b",
+   "title": "Account Executive, Partnerships",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-09-24T00:14:56.054000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/eb41a142-5615-44eb-93ad-7f7786bc2d1b"
+  },
+  {
+   "external_id": "f635e211-fda5-4628-a3fb-d61ef12b8052",
+   "title": "Business Operations Associate",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-04-30T01:32:09.872000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/f635e211-fda5-4628-a3fb-d61ef12b8052"
+  },
+  {
+   "external_id": "f90811ed-b822-4e34-a721-1e18512b221d",
+   "title": "Field Marketing & Partnerships Associate",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-09-21T23:52:04.985000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/f90811ed-b822-4e34-a721-1e18512b221d"
+  },
+  {
+   "external_id": "fb090823-feb9-430f-b193-68dee922386b",
+   "title": "Engineering Manager, Growth",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-31T16:42:02.309000+00:00",
+   "url": "https://jobs.ashbyhq.com/harperinsure/fb090823-feb9-430f-b193-68dee922386b"
+  }
+ ]
+}

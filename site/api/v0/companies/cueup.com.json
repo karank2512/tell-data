@@ -1,10 +1,17 @@
 {
   "domain": "cueup.com",
   "name": "Cue",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 2.6,
+  "score": 4.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "IFC Launches Cue the Laughs Clip Comedy Series with Adam Ray from 7 November - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBVGdXUjY5REtMeWJnbnk2UXVVTm45M0FBdng0dnd5M2dCaVc2aEhiLUYzUjExLVlHWUx5eEo2UHFqRlUtbHZuU2F4RVVUS2ZtWl80RTUyY2tUYmF2ajdtSA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

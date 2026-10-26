@@ -1,10 +1,17 @@
 {
   "domain": "whip.run",
   "name": "Whip",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 1.3,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "M&S launches THREE new ginger cookies so good they've replaced our Gingerbread Latte Whip obsession - Good Housekeeping",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzdKY2Y0WVFJTlVSTmZmYmd5cUw1dzF4YjlxajFaa3lHU1VodVQzdE03YWJ5NndYYVlNczNJNlVCVHZBSWJHRTQyUEdiR3kzdXpITVlQQTdWb1dJVDBubjd5YUhjTGFtSFUwZEVRRHY5Y2JqcHJWQW5GVDYzb3ozdWdBRW5lcmh0TTdDXw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

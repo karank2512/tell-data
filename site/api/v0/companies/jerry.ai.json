@@ -1,14 +1,28 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 6.7,
+  "score": 9.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-25",
+      "summary": "[person] Joins Jerry Harvey Audio As Director Of Sales",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnVOazBqanFSOG5sb0x1Y0lzU1J5X3FQa01jMEx0di1naGZyRVdiWDFIY01WeTRPODVMRUtiUWtJTXNxWEhqRGRqcUZDUDhseUhQMnlPS1dOajhWZnlodi1qNF84TU9jcXh1amxpWGtBamQzVXVreG5tcWdmTW5vNXNnWWhhNGFsN2lwWUxaMEZlcjk3S040?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Listen: John Mayer Debuts “Tom and Jerry,” First New Song Since 2021 - Rock Cellar Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRW9zNVpfUy03MWVPTmQ3VlVBZ2ZKNFpuQWhoTVYxVkdXaDBELURKWFhmek1LcWtoc0k5S21hSmtfazRwOGpVNC13ckt1bmsyNldUWXV0bEdjZEMtT2hQMXlnUTh0aEJ0RnRlVjZyQzZaYkoxLUxDdnYwU0stSlhvdXJ3Nkp0cjBabjNxT2VFSmZ5amNoWG03cENB?oc=5"
+    },
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "5 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Jerry.ai",
@@ -44,13 +58,6 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-23",
-      "summary": "Listen: John Mayer Debuts “Tom and Jerry,” First New Song Since 2021 - Rock Cellar Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRW9zNVpfUy03MWVPTmQ3VlVBZ2ZKNFpuQWhoTVYxVkdXaDBELURKWFhmek1LcWtoc0k5S21hSmtfazRwOGpVNC13ckt1bmsyNldUWXV0bEdjZEMtT2hQMXlnUTh0aEJ0RnRlVjZyQzZaYkoxLUxDdnYwU0stSlhvdXJ3Nkp0cjBabjNxT2VFSmZ5amNoWG03cENB?oc=5"
-    },
-    {
-      "type": "launch",
-      "contribution": 1.4,
-      "occurred_at": "2026-10-23",
       "summary": "John Mayer Plays a Game of Cat and Mouse with ‘Tom and Jerry’ as He Releases First New Music in 5 Years - People.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TWXlDaDAwQ1gwc2RrblItV1k3ZU51VUk0VUhSTGRIRjNQTDBIUHl6dDhIUTgtazhhQ2ZYQ2sxUUdJTWdmd1dlQjJqenVRZ2RWc2xZSWQyWDlkdkVzTmJvc0k1QUVfanpjOWJJNTVnRFp6VXRxclJiWW9R?oc=5"
     },
@@ -60,6 +67,13 @@
       "occurred_at": "2026-10-23",
       "summary": "John Mayer Releases New Single \"Tom and Jerry\": Stream - Consequence of Sound",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAydzhoTGJMeURmZGp5Z1JiLWpkQnR3eEo4RmpNd0tfVU4xdG1rRWdfUENpWThBem03SENIUXRkZzVVcVJwclVLRm5fVDdjX250MVVmNjhNM2czaUItWG9ueVhwYmxwcUVxUVNQRWxydUxQY1I4d0ZfQzlNXzlDa2s?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-25",
+      "summary": "Jerry Jones Opens Up on Possible Troy Aikman Role in Cowboys Front Office Amid ESPN Uncertainty - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNEktcmhGZkVETTI5QkRuWkY0ZXIydjlsa2REb2tsTGVKTEJnT0dsOG8zZ2IxcFdObjJnM2FIU3pNSEU5NFpxUUJ4LVZDV1VCdEtST0pQWTR4eTdKaDVUQTJpQW04TEZjU2JRNVlzc3hrbzlrRE01MVhXcjNiZjNVQmJrZkVWWlU?oc=5"
     },
     {
       "type": "expansion",

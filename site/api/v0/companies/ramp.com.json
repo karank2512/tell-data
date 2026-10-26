@@ -1,10 +1,35 @@
 {
   "domain": "ramp.com",
   "name": "Paribus",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 0.8,
+  "score": 3.8,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-26",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/ramp",
+      "postings": [
+        {
+          "title": "Account Manager | Growth",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/ramp/6ac50530-ce1c-4375-9cc1-c56f8b5925fd"
+        },
+        {
+          "title": "Manager, Customer Activation, Mid-Market",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/ramp/6a508863-352b-4f39-b299-5a3b6693605a"
+        },
+        {
+          "title": "[Internal] Managed Services, Consultant - Enterprise & Strategic",
+          "posted_at": "2026-10-26",
+          "url": "https://jobs.ashbyhq.com/ramp/4b3063cb-bb07-40d5-93d3-b7ce556f96e8"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
@@ -31,8 +56,8 @@
       ]
     }
   ],
-  "open_postings": 167,
-  "long_open_roles": 49,
+  "open_postings": 168,
+  "long_open_roles": 50,
   "sources": {
     "ats": "ashby:ramp",
     "edgar_cik": null,

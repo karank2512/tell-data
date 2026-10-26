@@ -1,9 +1,9 @@
 {
   "domain": "ashbyhq.com",
   "name": "Ashby",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 3.1,
+  "score": 3.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,13 +27,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "Poppy Appeal launches in Ashby for 2026 - Ashby Nub News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDZGYWYzR2ZieVlsUWdUTTVFR0VpU1h0bnI4MmhsbGhZM0pMSEpIbGMwVEZJclB3b2hheGd5REp2b3FqaGdNQ2RDMHY4Z3Yzd0xQZmQ1NXpsUjFYUV9CeEtEWFA0c3hLNXpqTk9FTDdRSTJ6Rk9PXzFPTGJBczRUbXJ6dVdHRUg2OUFXNnJ3?oc=5"
     }
   ],
-  "open_postings": 67,
+  "open_postings": 68,
   "long_open_roles": 40,
   "sources": {
     "ats": "ashby:ashby",

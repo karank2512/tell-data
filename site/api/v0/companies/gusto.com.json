@@ -1,9 +1,9 @@
 {
   "domain": "gusto.com",
   "name": "Gusto",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 9.6,
+  "score": 9.4,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-08",
       "summary": "New Name, More Gusto! Introducing CCAF’s Project Positive - POZ",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMekVXTjJjdDhXWFFjc1BKcEJORzU0djZrVDhoUlN5WS1RajdicnhielJuZTdUM1pGRGZRRk5CT3hSR09fbU5uQ2dTcFNKaEJpSTBzMUNWbWZvbWNjd1hFMTNJem5UbU9udjM2c2Y1MUIxdUZIVnhnLTd2d0xNUzA?oc=5"
@@ -57,7 +57,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-17",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/gusto",

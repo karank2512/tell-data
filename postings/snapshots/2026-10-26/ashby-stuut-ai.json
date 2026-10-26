@@ -1,0 +1,225 @@
+{
+ "vendor": "ashby",
+ "identifier": "stuut-ai",
+ "domain": "stuut.ai",
+ "as_of": "2026-10-26",
+ "last_polled_at": "2026-10-26T15:42:28.925921+00:00",
+ "open_postings": [
+  {
+   "external_id": "04251b6f-289a-4b8b-8980-166d9b91d148",
+   "title": "Data Engineer",
+   "role_family": "data",
+   "location": "San Francisco",
+   "posted_at": "2026-09-03T16:25:45.389000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/04251b6f-289a-4b8b-8980-166d9b91d148"
+  },
+  {
+   "external_id": "0daf2a5b-5ee5-45e3-b2c5-7fef149e1866",
+   "title": "Enterprise Account Executive - London (German or French Speaking)",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-10-23T17:06:29.198000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/0daf2a5b-5ee5-45e3-b2c5-7fef149e1866"
+  },
+  {
+   "external_id": "239ab80f-1f4d-4b81-8d30-706b975d00fd",
+   "title": "Member of Technical Staff - Full Stack, Credit",
+   "role_family": "engineering",
+   "location": "New York City",
+   "posted_at": "2026-09-03T17:43:59.778000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/239ab80f-1f4d-4b81-8d30-706b975d00fd"
+  },
+  {
+   "external_id": "23e41345-de2e-4d2a-8f3b-7c6211d90146",
+   "title": "Enterprise Account Executive - EMEA (German or French Speaking)",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-08T16:20:31.956000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/23e41345-de2e-4d2a-8f3b-7c6211d90146"
+  },
+  {
+   "external_id": "37cad4ea-2387-4c66-8dce-173109349ab9",
+   "title": "Member of the Technical Staff — Applied AI, Fullstack",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-10T18:26:23.916000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/37cad4ea-2387-4c66-8dce-173109349ab9"
+  },
+  {
+   "external_id": "37cc28af-0ce7-4ddb-a099-6fb88b0b593f",
+   "title": "Member of the Technical Staff — AI/ML",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-08-10T18:23:37.364000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/37cc28af-0ce7-4ddb-a099-6fb88b0b593f"
+  },
+  {
+   "external_id": "48480e10-4f5d-4d05-991d-e313d598029b",
+   "title": "Design Engineer",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-10-09T19:44:38.844000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/48480e10-4f5d-4d05-991d-e313d598029b"
+  },
+  {
+   "external_id": "67b84ac0-bd84-4851-aa9f-0659469812d4",
+   "title": "Business Development Representative (BDR)- NYC",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-10-05T18:56:22.906000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/67b84ac0-bd84-4851-aa9f-0659469812d4"
+  },
+  {
+   "external_id": "6f3a2b0d-9783-449f-b086-210afc0dc8bb",
+   "title": "Customer Success Director",
+   "role_family": "customer",
+   "location": "Chicago",
+   "posted_at": "2026-09-28T19:29:40.061000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/6f3a2b0d-9783-449f-b086-210afc0dc8bb"
+  },
+  {
+   "external_id": "7ee715c9-1061-4cb3-b3be-8042499fbdae",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "New York City",
+   "posted_at": "2026-08-10T18:24:58.521000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/7ee715c9-1061-4cb3-b3be-8042499fbdae"
+  },
+  {
+   "external_id": "80fe538b-2a87-4fbd-96e2-37678235bc67",
+   "title": "Sales Enablement Manager",
+   "role_family": "sales",
+   "location": "Remote",
+   "posted_at": "2026-10-15T16:05:27.197000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/80fe538b-2a87-4fbd-96e2-37678235bc67"
+  },
+  {
+   "external_id": "8849a31b-43af-449a-bfe0-4794a1fe191f",
+   "title": "IT Systems Engineer — Identity & Automation",
+   "role_family": "engineering",
+   "location": "New York City",
+   "posted_at": "2026-10-22T21:18:08.572000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/8849a31b-43af-449a-bfe0-4794a1fe191f"
+  },
+  {
+   "external_id": "8e9c5e22-5b34-4863-aa01-83079becd1b3",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-10-01T19:29:17.729000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/8e9c5e22-5b34-4863-aa01-83079becd1b3"
+  },
+  {
+   "external_id": "92a7cab2-13d9-48ab-aff8-0b9596790e27",
+   "title": "ISV & Marketplace Partnerships, Lead",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-10-01T19:32:22.125000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/92a7cab2-13d9-48ab-aff8-0b9596790e27"
+  },
+  {
+   "external_id": "949e32cd-c27c-4ea0-862a-ef012b8d8dcd",
+   "title": "Staff Product Manager",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-09-10T20:06:56.216000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/949e32cd-c27c-4ea0-862a-ef012b8d8dcd"
+  },
+  {
+   "external_id": "968489ee-06a0-48a4-8a52-8c6b937aae98",
+   "title": "Director of Sales, West Coast",
+   "role_family": "exec",
+   "location": "Remote",
+   "posted_at": "2026-10-01T19:31:37.854000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/968489ee-06a0-48a4-8a52-8c6b937aae98"
+  },
+  {
+   "external_id": "a8e3f2c4-505e-467a-a834-140fc13f3af2",
+   "title": "Applied AI Engineer, GTM",
+   "role_family": "ml_ai",
+   "location": "New York City",
+   "posted_at": "2026-10-07T17:57:19.212000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/a8e3f2c4-505e-467a-a834-140fc13f3af2"
+  },
+  {
+   "external_id": "ac054999-5fdd-451a-9060-54a1001ebed0",
+   "title": "Partner Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-10-12T19:00:23.350000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/ac054999-5fdd-451a-9060-54a1001ebed0"
+  },
+  {
+   "external_id": "b62bebb8-a9c3-4da6-97bc-9ae56687b63b",
+   "title": "People Operations Manager",
+   "role_family": "finance_ops",
+   "location": "New York City",
+   "posted_at": "2026-09-15T16:12:41.283000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/b62bebb8-a9c3-4da6-97bc-9ae56687b63b"
+  },
+  {
+   "external_id": "c6e78f46-a45d-49c1-a892-1278e5fddbba",
+   "title": "Buisness Development Manager (BDR Manager)",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-10-12T18:59:40.921000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/c6e78f46-a45d-49c1-a892-1278e5fddbba"
+  },
+  {
+   "external_id": "cf95675f-d122-4951-afad-0413d87ecde8",
+   "title": "Area Vice President of Sales, Central  Territory",
+   "role_family": "exec",
+   "location": "Remote",
+   "posted_at": "2026-10-20T19:16:37.645000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/cf95675f-d122-4951-afad-0413d87ecde8"
+  },
+  {
+   "external_id": "d4a3ed4d-ad44-465a-b310-ff3260b8f30e",
+   "title": "Business Development Representative (BDR)- SF",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-10-05T18:57:40.172000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/d4a3ed4d-ad44-465a-b310-ff3260b8f30e"
+  },
+  {
+   "external_id": "da91ed5a-bbbc-4e5a-b32c-3e8fb2405f4d",
+   "title": "Business Development Representative (BDR) - Dublin",
+   "role_family": "sales",
+   "location": "Dublin",
+   "posted_at": "2026-10-13T20:29:01.805000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/da91ed5a-bbbc-4e5a-b32c-3e8fb2405f4d"
+  },
+  {
+   "external_id": "e5cd46b5-a2b8-4cbf-8936-c0aae318b534",
+   "title": "GTM Engineer",
+   "role_family": "gtm_ops",
+   "location": "New York City",
+   "posted_at": "2026-10-07T17:57:13.558000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/e5cd46b5-a2b8-4cbf-8936-c0aae318b534"
+  },
+  {
+   "external_id": "e7f0c9b7-f145-4860-ad18-089b066e526d",
+   "title": "Account Executive",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-10-01T19:29:03.748000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/e7f0c9b7-f145-4860-ad18-089b066e526d"
+  },
+  {
+   "external_id": "ea930515-128a-40d7-9c1f-8bd0546f3e7b",
+   "title": "Channel Partnerships | Private Equity",
+   "role_family": "sales",
+   "location": "New York City",
+   "posted_at": "2026-10-01T19:32:27.625000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/ea930515-128a-40d7-9c1f-8bd0546f3e7b"
+  },
+  {
+   "external_id": "f747bd73-73e1-4638-a67b-75951f1434bf",
+   "title": "Area Vice President of Sales, East  Coast",
+   "role_family": "exec",
+   "location": "Remote",
+   "posted_at": "2026-10-20T19:11:57.513000+00:00",
+   "url": "https://jobs.ashbyhq.com/stuut-ai/f747bd73-73e1-4638-a67b-75951f1434bf"
+  }
+ ]
+}

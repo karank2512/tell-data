@@ -1,13 +1,13 @@
 {
   "domain": "atlascard.com",
   "name": "Atlas",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "StorageChain Launches Atlas, Its Native Enterprise LLM – ‘Keep Your Data Out of Big AI’ - AiThority",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RUcU11dUpvQ25ZYkxHbkF5ZG90TGowUVpXeHdQNFc3a2xZcGZLLUZzT2ljXzVST2xaVVlkblN6N0ZYQ1pGem9SUDR0TWIxaFRVZXhtbEpCdFNsb1p3MTNyX0h1WDJ3UTd0RmJWV3lrbXZGQnZFZkxBQVNjc1NXQW5sMGtRS1VmTERiZWZlYU13RlZxQlZCZDRVVkNZNTE4b1NGbkRDWVBBU294ZlFaRUtCaTNoOWlndnVVanlUQQ?oc=5"
@@ -42,7 +42,7 @@
     }
   ],
   "open_postings": 2,
-  "long_open_roles": 1,
+  "long_open_roles": 2,
   "sources": {
     "ats": "ashby:atlas",
     "edgar_cik": null,

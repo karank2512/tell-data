@@ -1,10 +1,17 @@
 {
   "domain": "beam.cloud",
   "name": "Beam",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 6.8,
+  "score": 8.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Diversified Launches Google Beam Demo Centers in Four U.S. Cities - Sports Video Group",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLW5oYzFfampSOWtRcFFqeU5mSW1MWVk4eXo5XzB2ZTczVmF6V25fVHExMWJDRG5RclVJTl9NRS1UZU0xX0YxSEFDN3Yxdko3Uy1MQTJZX1BhSEZoY3ptVHYwMG5mZVBqNWRxTWs2SUoweHV4N0dKVGxENkhOOXhZYnFtUzhwVEQ2OGxkckVxTkhwMUk4MWhTek5pdkt4UkpETDdRSmJUVQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-16",
       "summary": "Reflection Releases Beam’s Open Weights Under Apache 2.0 License - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONklLYjJNN2xhMUI4S196NG9vaFdvczBXNVZKOUJHUkFJQVAtYVFKdWtkR1FocnlVVVd6Ry1KLUpidU5iNVhLNEZuTzl6YV9oVGNnN0VVY19SUjB3dHF0X1c3UzRQNWxfNEJWdFdScXhjalB2SDVxSE8wUWxVNDFZTWs4Q2JpbFVHN2dRckpn?oc=5"

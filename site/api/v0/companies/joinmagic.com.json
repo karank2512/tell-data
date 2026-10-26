@@ -1,10 +1,17 @@
 {
   "domain": "joinmagic.com",
   "name": "Magic",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 5.3,
+  "score": 6.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Hailee Steinfeld releases new song 'Magic' from 'Hexed' - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUVmSUN2Ty1EbHdCMEw1czAwd3dXT29lbGdyUnBVSnRaUXpHQ2x4SmtrS0U1eHJDRlRvLV93YThYM2NDakd5V2U4Z1lXT0lVTWNOY2VmLXlfTE1jYTEzckpmMWRtTWYxblc0c0tNRDl4Z3N1dGRXaUxZbGFWYS00SEFOZmJGQnpWcHN6dGhEd0VveUZGbzFrbV85aE9Ed9IBowFBVV95cUxOUnBJSVJlR1JHZWdncEF4T2JSZHFZbmNsa2x0cXREN0JkMGUtcVRzUG14VmxCWS1rNDNXdUFJODhPU0lCVU9DSnE5THVRZFhYTjU1Y01GX0J2eThDb2IyRXpPQkgzbDJNLWxwX3JZa0hnckhmb2pxUjVSVEZzRlRrdWNfSXJab1VxbTc5S05ValdhMHlteC00N1l3bGVIMHVZWmxN?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

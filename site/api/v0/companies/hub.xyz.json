@@ -1,16 +1,30 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 45.9,
+  "score": 48.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.5,
+      "contribution": 13.4,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Cambridge University launches first international startup hub in West Harlem - Columbia Daily Spectator",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1o4SXM2aEIzWUc3eXBZUzVoQ2xpV196TWxmNUk5eFJPUDJOd0RielhzWDc2WEJnRVhLTGtfUDhiY3N3aHlINnBFNURJX051cHlYQTZUVS1ZbHB3MjI1RWZTT0JWNjlaWG80RHN3QmFUSFlaZ2pqOWdRV2VjdWptOWZYSGtBaDZFcHlacnI4VEk2RmJSSk1Cb0dqZ3Jnd0VIdEVMTEVqSXVRWVA4Q3ZvM1F5VHgxTlVYMkxaYlJfcV9wZWw1cU5pbkRlTUc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-24",
+      "summary": "World Bank launches new philanthropy hub - Alliance magazine",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREp0N2pEUW1nM2VhVzlTWWRlWC1MdDVpTFhZVTR6c2FOUXlVR3dkT09vdXVqaDlFNGNJalV2MllRdG0wd09IekJhRFpSRjBHckRRM3RZYVU0SnFsRFdOQU5QTDRPRDNGbmFlODhyRGZta2pQLXVSR3d3WTR1OG5oVA?oc=5"
     },
     {
       "type": "launch",
@@ -70,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Better in BTR launches new branding and resource hub for Capitol area - WBRZ",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHBocVNrNHRxcUxmYUViRE90ajVvQUFLYWJLcU1pX2dFM2pibUUzcEx3WnBFZ3lnU1l6T1k5VWprR2tsTEJadkdSS2FqNGRxaUlRQUduOGxfbFB5M19YbUE4bURMQVZ2UDFTUW9ZMlNnZkVMVXcyUTU4cHd3QV81NndSci1GT2FzYkZSa29wd1dOX3RXNTF5bUhvRTA?oc=5"
@@ -91,28 +105,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Monument Health launches second Community Heart Hub - KBHB Radio",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51MlBuUFFaOTBSUmEwZ0kyd3RaU1Q2NVhseU91WGl6a3pjVDF0R0dlbmpoWHprMUZFSklheXFEZG5KM2NQeVFFeGpKUEtiZncydVRUYkNxdWJwbUNxd0Z1amxhNFRPQjUxWWp3R0pnRlliSjJNS3NPUXZjbndzcDA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Apple Unveils New HomeView Smart Home Hub Powered By Apple Intelligence And Facial Recognition - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tRHZrMFlyczRWMG1hQlEwcXZkYjgzQ3N5cWhUZVRFNE00S1Z0dzR1a09NeTBWbVpiZktkRnpsN0dnb0s0S0VDZG1HX1dod2hCUGRlZVZUNnhTbkw2cS1TbF9sOHNiYzNIalRIa0VfX25zYWw3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Apple Unveils HomeView Hub, Plus 9 New Smart Home Gadgets With LG - PCMag Middle East",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDhLMFphNjNEcjVXQk9GLThIdHpRRXp5U0NLVV82ekhxTkhBYndkdzd2TjJhWU9XWXFYSThzUi1Ya1hlR1NxU0Q2V2IyMmY0cTZjcmJ6Ym5sRzZJdUJBN2pJazhlcmJOMUYzY29JUUxPQlJJNk84VE9pYVlUbTUwMFlQUjhlVUNiWFE0NG5NQUpvYkQ1eHptaGVBY3EtUGhYRWVkOFNqNV9kaWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-13",
       "summary": "Apple Introduces HomeView Smart Home Hub, Other Gadgets - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWTYwTUFpUk54Z2pBZXFieWJpODkzYk1nTm00V1NsX0Nhd2ItZ0QzSk1ZQ0ZhbEN3RnFQQWpSTmxGWThJY1FhRVE0LUhiWVBYcGVlMmZpcWl2WkFtY21Jcm9qbUpIc2xzakJzM05UQ2xEMEh3WnZ0ZUtjTnplaWhOWHZsek5TSFlyVWtGNldB?oc=5"

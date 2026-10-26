@@ -1,13 +1,20 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 10.6,
+  "score": 11.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Introducing Rivet 3.0 Preview",
+      "url": "https://rivet.dev/changelog/2026-10-26-introducing-rivet-3-0-preview/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Xiaomi launches premium Mijia Metal Suitcase with rivet-free design and silent wheels - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVV6a3BHak5iZmprazdYVU95Uy1BSkoxS2pRLTZuOVBnWDlSRWJBelBxQ04wLXZhb3pYcDJ2S25VWFR3MlA1QTNsRWpaX1FsMEQ2ZVRDd09IeUNFWHBka3RVZF96TlBxeFp1aE42OEktNUQ5QzczUTBoVm8wdVJOS2VvcFhvOC00SUlNVG5qa0g?oc=5"
@@ -56,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-10",
       "summary": "Introducing Rivet MCP",
       "url": "https://rivet.dev/changelog/2026-09-10-introducing-rivet-mcp/"

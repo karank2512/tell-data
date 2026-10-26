@@ -1,14 +1,14 @@
 {
   "domain": "colabsoftware.com",
   "name": "CoLab",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 6.5,
+  "score": 6.3,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-24",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/colabsoftware",
@@ -54,14 +54,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-09",
       "summary": "CoLab Introduces AI Tool to Generate DFMEAs and Root Cause Analyses - Assembly Magazine",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmItMC1mZGpqaExCZ2JmXy0wSVFIRTZPM3FyN1RMMU12d003WUFVVnotemdQOEFlS2lXUzJ6SHlnRjRIQktWazJfOHVhQWV1NFN5cmlyaWFmVVdncGtPRUpEQndDb0YwNTh5NHhoUkRsQ0N6OVJ4akZOWU9UUjNQOVZfSGpUSi15TVprVXd1dzRBRUNDX3RnUVdRYlVfRXVyaDdLeTZ1amJVNGhSa2pJTA?oc=5"
     }
   ],
   "open_postings": 24,
-  "long_open_roles": 3,
+  "long_open_roles": 5,
   "sources": {
     "ats": "greenhouse:colabsoftware",
     "edgar_cik": null,

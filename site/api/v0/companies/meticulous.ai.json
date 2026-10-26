@@ -1,0 +1,25 @@
+{
+  "domain": "meticulous.ai",
+  "name": "Meticulous",
+  "as_of": "2026-10-26",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-25",
+      "summary": "Man releases the full six-hour build of his fake Porsche 911 showing the meticulous process he followed - supercarblondie.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54NWVWWG9aTENMTlI4M1NDWGU5dmlBdGFPaTZDUl8taTg0cjNWV2ltck9pdVpTOUZFTmEtSHNETWc3NFcwTVdlck1RYU5sbXBudU81S3lzNjIyMDhNUzRvdW5USzMxekJOVUEyWWdHNTY?oc=5"
+    }
+  ],
+  "open_postings": 6,
+  "long_open_roles": 5,
+  "sources": {
+    "ats": "ashby:meticulous",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

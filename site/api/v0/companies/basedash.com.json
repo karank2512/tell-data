@@ -1,13 +1,13 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 10.9,
+  "score": 10.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "Introducing scheduled CSV exports in Basedash",
       "url": "https://www.basedash.com/blog/introducing-scheduled-csv-exports/"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-02",
       "summary": "Introducing AI Sources: see what built every answer",
       "url": "https://www.basedash.com/blog/introducing-basedash-ai-sources/"
@@ -140,7 +140,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.1,
+      "contribution": 0.2,
       "occurred_at": "2026-05-29",
       "summary": "Introducing Basedash Embedding",
       "url": "https://www.basedash.com/blog/introducing-basedash-embedding/"

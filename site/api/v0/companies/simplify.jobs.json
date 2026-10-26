@@ -1,10 +1,52 @@
 {
   "domain": "simplify.jobs",
   "name": "Simplify",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 61.0,
+  "score": 70.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Fukuda Denshi USA Introduces the BDS-2100: Designed to Simplify Bedside Monitoring - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY3Z2VzZNU2FtcFlVcHZnVmJzdEJvRGg0R1pwWlF1c3FGbzNCdUt6NkNuVi1ibFE5b0JqM0swUnlkZjBaM0JQenpOY1pVR1RkMnc5SnhuWVZ2UlNabDkxLTM2SXkxR0h1SjBjMnJFRE8yU3YyVFVSbG9oWFQ3d0VNRkswcFZuQ2ZBWXBESDF6Z0x2a3daaW5ZMEF3cHF1UXJWdWd1OU5NR2NXWkpoSXBfa1NkZEhLZTB6bm1wbUtKamgwMV81M21pc2NWRDgyckdwbWFUcUFmd1JxTW8?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Reflect Launches Create to Simplify Branded Token Issuance on Solana - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMi1pbk5jeFhTS1JPRzY5eXJhQ2hEdHUyUUlIOUFfUktXbTdab1dUOVN3MWR0N3hGS0pTQXRLQlI4QVVCQklFemYxMHR0MjRDMnhxVXVGek9hLVh4LVVnSWhndWdCOE9PTU43TG9jbGxoWVJoOU9lZ0RPWmhjRU9FUXJCMGx6YnJza1R2YWxYdnpmWHdMa0RzU0lFc3hrWXRJNDdLQw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Circularo Launches Hospitality Support Initiative to Help Hotels Simplify Operations and Reduce Costs - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb0I4QVV2bVZHaGt4d3VZZjN4UFJMR1ljeFlWaWNuZElOZEdxNVVBV2tydHFvODJwQlNBMzk1VjhGM0lPU1BwRktfZzQyVWVvWE9NU2gtZl9OVUphdS1vem9jeEJsT0FLMHNNRzRqc2FuUkdyUzNuZFItVUVqTlR1ZFVNZXhkcDhFb1laY0hfSmpKcVNrYWNjNl96bHc5aVFBdU9scThRQVJrQTJPbGYzUnNxcVZyMlEzcnJsdHBtQ2w3Mmd5azJoMnFpcEd0ZzQ1bm9UWmpMMDNTQjA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-25",
+      "summary": "Colorado DMV Launches Redesigned Website to Simplify Driver and Vehicle Services - North Forty News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0ZrX1NOUTFuQ0E0ZDhjbHAwRmhXaDI0S3hCN0V2Z2dOU3ZhR1QyTHRBdTUzN2VRVWd5R2JGSGtwMmNKYUFnc19OTnhuR2NVRkxPTjdiUC00VVN5SFVFalBSWUVUYzJhdGptV2lmejJ5NlZEUTRRM0FVcW9wTUdMQlBLSDhaZC1uOHF4RzA5WUNLdGxlaXJWTTNyNHEyeWtWUDljR0U3M0JPOGwwb0Q0akY4WTA5STk1UzJWbEtNcw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-24",
+      "summary": "Nassimi Unveils New Website to Simplify Performance Upholstery Selection - officeinsight",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS05OQldmd29CSXhBRm5FeS1pZjE5enBwTkk5ZG9UYUVINWNia3Zjejh5dDNFSVROUVhDaHdZU1JjbFhodkh2bUlzTUJXU2VwZ1c4TTZXUXRIMzJFZHRfQ0pWa3dMa3doTTdLWS1uSnNaUEx3djcxV0NXaGdkbmNEX2Ntc0hYU3ItSUo4QzhkYnVWVHQxRDRGS2NpZHNDWm9LeDFlN2hKVXYwRU95aXhBSjZWYlQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Press Release: Rep. Young Kim Introduces Bill to Simplify Federal Address Updates - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1ZtTDV2LTY3dkV0TzktTldQTjRPRC0zMDMzNTNTMHRJUTJ3SkxseVlIZHFRdU9kSzZ1NEZxcHdLcF9DcFBMVkZSUFlveldwTm5IWkFBb3U1ZHFyMmpzYUtaTE1ELXpsQU5CSGpWWWUyRmxxZGUyWndYQmZmVWVwTnRNMGVmamdGNkpRREs0dm9XNDdBVjdUdzhfNjlKZ3Zpc2I0cmtYSmV3Q3YyaG91UUM4WDZBc0U?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -53,6 +95,13 @@
       "occurred_at": "2026-10-22",
       "summary": "Hikvision launches the Quick Pass to simplify people and vehicle access control - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ3BpaFNNdWxDeUNUWlpGdGtZMndwMzVoSHkyRi1naHBMQkFZN3Y5dmhuN0Z1SkxDQkRfay1hMmpzSDFIUHc3VHBGLV9NMWhKaW1QUU1EeTZrN3VHQnU4VFFCa2FGVWpMVlhQdE9QMzZLYnp0dTNaYWQ5bEVoNUZ4ZkNLUENONXpzVG9fYi1FTWpQRVh6UV8tS0hJVzhGV09ISU5Sa0RoNWV5YzJFaXNkQUM5czdoZ3FYc0UzMVZ0cEs5eG12RmJ6YWVUdV8tdDJJ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "Hikvision launches the Quick Pass to simplify people and vehicle access control - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFhqLU5QcHRDTWp1amlYZHBHNGVfRlFVMkstWTl4aEhfeWtLNGNSLXpZaFF3Qzh1T1czMmRzaEtfUmYzUEZzR2F4OWtJTHNMUTFWM1o4bDBHS3VwRnNTXzlCZVJRSlZkUmllUkJpeUhWRW41NFNmaTVsamRZVWNRNENCN3hHdU5Ed0JyS0taSWc?oc=5"
     },
     {
       "type": "launch",
@@ -154,63 +203,63 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Calix Launches Subscriber Agent in CommandIQ To Simplify the Connected Home, Reduce Support Costs, and Build Subscriber Loyalty - Bluefield Daily Telegraph",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQS25hdEh1ODEwaUczTlhIWXprWjl1Q0M0Y2EtWWdEUUVaVnJncEYtT3VQQ1BXQ0RLNmxGNENnWXdMdHN0aHJwbV9VTTFQRWw5bFZqQXQxV1JQa0tmcTBSc2hhaFgzYXZWZjJmYnpGYmhHSTk1X2p0QkVYd3ZPMkFwRlU3MWFGZWswSW5uZU8tR3drUndNdE9IcFRqTXRIdUx1UzBYSjdUd0l5VFJCSnVEcDZDdzJBeXF0eWJMN3BNLUlLVG1mcXBWaWxRUjJRRWVIcm9jVG1LdGVnYi1wMjhpWjVDNmJ3ODRGVWhwd0YwaUtxR1I0Nnc0UkdmZ211c0ZNNVM5dUF6di0xMFgxaFRmdA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Calix Launches Subscriber Agent in CommandIQ To Simplify the Connected Home, Reduce Support Costs, and Build Subscriber Loyalty - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDFpOEhUbUV5UG9ZbHJxWDVheXVoU3JITU5MNGRXbHFPVXdiQ0NLX3gyMnNVcnd5Mi1aSkZiOWY5aFpkek9fb3hCWDlzLVUxcENXaDRzTUVtQ3h0M0t6YUlTTmJqMXNIblRsdURMZUxRVkVnYTg0eEVfbzhWWEZDVk43UEhJT2U4YUo0Snpn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Calix Launches Subscriber Agent in CommandIQ To Simplify the Connected Home, Reduce Support Costs, and Build Subscriber Loyalty - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcS1ocjRYblJXeXFRX0RwTXVsbW5tRDNmcVkxeWo4X1M3TjRaRnZPSWdGdGZXU21Ic216b2JfaUFWTHhKOGh6Qmxxd09MT3FqbmUxajZzcnZSdmtYRnlsNzNXZmFiekFOWnFTRWRmRW16S0F0cDZHWmg0VXByZFhuZXdmRHBsQlNUY2ZyZ0FkOHk5cS1jTm5OdjR0TF85SDRid2dCSUpmcHBIMVJfdm16U3NaRWNIQTM3QmpUUmt4S0pRQVdNOXpFTEpNel9WbXRzbWI3R05oLWNtVEJacl83OHI4SnNPZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Calix Launches Subscriber Agent in CommandIQ To Simplify the Connected Home, Reduce Support Costs, and Build Subscriber Loyalty - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVGpnd0JWSDdkcEJfbHBtMGJoYzZ1cHJNb25FcmZ1VWFNMkJjTTdDTU9sUHMxUGloclpTa05NLTR0MHdyR21HZVVVUVRvUFBfNmd1VTVEX2N3M00xeWpzdWNIZGNJMDN5VVVBblB2TFVoNmYxbWtYZDJJbU0zcUg1S3Zya0p6SnlhUFFJdl9JNlZMR3dlVGoyaWdBOTlwZHlKSTY0OVJMU1liTldndURhYzhFWlNXLWcxLWpGYWJQY3lZaFNYcnRmVVNCY3Q3ZEtSSjlBS1JhU185UERFR0NkSm4zOVQwUGJLT1B4NFVUSHhQTTltZnU2YkZJdk94TTVVZVJ0QkJiT18tdVZZeHBV?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Calix Launches Subscriber Agent in CommandIQ To Simplify the Connected Home, Reduce Support Costs, and Build Subscriber Loyalty - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNekZvVWZ1REFjbGp4N2lRWDF5RWxWN19nTXNtZDN6WjV4dmNOSGprOW9jVFczaFZKZXN0QlpPcm1uS3hCREdLaUdWbVEtbGFsRmdrdzNhM2ZVVUNwdHRVV2tSQXFqaGRXTHZlZVQ5SWR3QUdKVmlSWDBqSzJPcUlaUWwzVTMxTkNlNEZDMmZtaG1WcWtpQ0kxcFN5R0d4dU1GM2MtRnpoOXRFMnBIcW82ZW1WSnYtcnU0WThHeWNTa3lrTk81S2c4WmJhUWpiWkhRVnp0WlBldVZSSTBEWUtXMUZrVWRyRGFSaUVfMTRJeE5yNUlKWkFTQ2l6WV9KcWZ2c1MtWHlEOF83TVpieVY5SlVGQVZWdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Crypto services firm Zerohash launches 'AUTH' to simplify transfers between wallets - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFpydTNyOU02OFAtZktESVh2dW1XSHNWRGczV1JGcDlKdmhUZ0FyczBmdS01a0h6Q3ZXMVI0b05oWTFlZFZrRllOLW12VzJnRzY5LVk5SHNMVXBHWURYalNyalBFUjU5WXdkb2h4LUV4UU1yVmJUd0dsTVcwaC1NLWw0VEJOY2N6NW1YcWNmblo3MFVsMzVGdGI0a0YtVnpoZ0dyQkRObmFpa3g0ME5ZS296NGFIYmNmbWk5Sm9DOA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "zerohash Launches AUTH to Simplify Onchain Movements - markets.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTN2b2FtNTAzc0VXQnRxSzFBS1FYRG1ZcC16MjdGcTZqaE1XRkIwTzhkcmoyMmtSZTVtdkVtekFzVXR5M2RaVml3UUNmYmxoNlNxYjUyTUozLXR4TXFuZWFPVDRhZTg1YVVZTGJmSndsNFVlajdMQlB4bVZuMjNrX2Zjek1aSDcwbm1WbkxjaHVLNWNNRnllMTNwQ0ZCeXBPS1VKNWdCNS1NZDRpNzBTcg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Fiserv launches Commerce Hub to simplify global payments with one platform for local methods and unified reporting. - Pluang",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV1pGNXB0aTFsZ3FBVnlFQlhlYXFYYTFmcGRVM0R4NkNQbTkyWFNJODRRYlhiU1lBWDJaMm9ZRVlNVmZOUlFqcGlKNTJVVXRFTmNFX1U1MmhyczlCdUFKOVYzTVhDbERxaWVFdmlHelFhdlRlNHpiVVhrOTdPVUlZcHI0OVJSSWtZQ3g3VjE3UEZqYXN1d1dVUkFrN1k?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "zerohash Launches AUTH to Simplify Onchain Movements - Carroll County Mirror-Democrat",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnE0YVNnMnoxS0MzelBWQkRDUlpkR3FKMHZuXzFSSDFvX0lwOF9fMUZ4eFlEeGh0S3RLN3FXUEQ5VVZSNzg2THRVRnowTnc1ZVZzbUVRelhaWUt5QXlYcEdXLWYwcU5VSklMdXZZM3pVbE51QURjUkI2S01yTUZuNnd1alkwRFpQRzlpcTl1NlRLSW1lRC0zOFJsWm5xUTRTZWRxeVhUNkxEVkZQanB5UldLdUFJTlE?oc=5"

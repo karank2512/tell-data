@@ -1,9 +1,9 @@
 {
   "domain": "joinminerva.ai",
   "name": "Minerva",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 16.9,
+  "score": 16.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "NVIDIA Launches Minerva Platform for AI Factory Observability - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISDg2NEpkcEQ5SEY3QktPak1QdE56VWU4WVdkMjRjWHdrbWhNQl80SlpCM0NRN3U2NGFSSnd0Q0FxWG5MVVNZcmFJSEhBUWhoR1RidkNaek02eUk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "NVIDIA Launches Minerva AIOps Platform for Large Scale AI Infrastructure - Technetbook",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUpIMnpiZU54NGZzcThZUUdYblFTc0dqal84Tk5UT0k5QWk4V040OW5hQTByUVJubEVjWlhNOW13MFprNUlSYmFsRFhZVlE2RDhGZjhlVlk4VzJPb3JERGFqZDRkZlZ5dzM0WFZQMnR2ZTlFYzdGLWRHMEhyTFNUR3J4WUdKa3M?oc=5"

@@ -1,10 +1,17 @@
 {
   "domain": "pacific.space",
   "name": "Pacific",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 3.2,
+  "score": 5.2,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-25",
+      "summary": "Pacific Union College Appoints [person] as MBA Program Director",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOThjMHY0bURqZVM2bzFEeHgyZ2V0MW8xbFdUaW94OUl2cUhFN1N0SmczeEJUWGlTYmRoM3BEZENkVmhJc2xBX1RjZlA1RDd3MTRua1ZYajJKZ1p5NDVZRGRfUnhJX2doallYeU5lX2gtdXpSRjZYbHgwalhyUmNPYWF3bFFibGl5Ul9iQ3VOdlY0VEVISzluekdyVmJBWWtnbjJjY0xpR1U?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,

@@ -1,14 +1,14 @@
 {
   "domain": "trytoku.com",
   "name": "Toku",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-21",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Toku",
@@ -47,7 +47,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSEV6X3M1UV9DZ2hFemV0MFUyTnRsWWRYbWVwYTM4TVl3ZzhTQmhvYWJUUWswdnpoQlNYSmtUS0xBYnMwMmg4a0x1NEtiNEhlV2I3WXpQUUtELWdHeHBQOUYzQk1nU1lfVy13OGNBQTJlSVJzWjZHVUhGaHNSakIzOVpPbDUzMG8zeGtRbGRfemxPbVViYWFiTmR6S0NYNk9PWjNsNWJ6cXoxZnZoSE11d3VGOTBCR0NIVlRnUlFXM3p2R2tvMVo5ZkpyVjZwbXdldXpTOFJqd3Q4dFVDblVrX1R1bnY3VHBObDdSdnhkemR4UTNMenM1UzlRY2dIYUk1NzUyWkUteG1BTGxKZnBMbXlRNA?oc=5"
     }
   ],
-  "open_postings": 25,
+  "open_postings": 26,
   "long_open_roles": 8,
   "sources": {
     "ats": "ashby:Toku",

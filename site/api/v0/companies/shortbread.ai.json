@@ -1,10 +1,17 @@
 {
   "domain": "shortbread.ai",
   "name": "Shortbread",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 4.1,
+  "score": 5.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Tate’s Bake Shop Unveils New Drizzled Shortbread Cookies and Its Largest Holiday Cookie Lineup Ever - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONTFmYlBpU05VbU00SUNsOVBJb2ZQTDFFajltc1FZMWszOFRWd0lIQk95SnFCaFdSeXNGZWtsUjBMckhmTWxRYlZPakJtdHRHQlJRYVU2M01sdWNJY2lVaGNKMUEyTzhwd0Z6cG1OTXB0V2l0NEFJZ2NjY0JtUzFaWXFUOE82dmlvUVg2OG9xeDVjUUFyVE53NTc2UlhDYm00d0dmT0E1anNjTkZMSjIteGpncjVxT1M2OUJjX0VsTTlSUGZxTnZDTWh3LUlub2QwUDlwQzlxZkFjUVh5SWhLMWFPZlFiSXdfU0FjTlczRkFudw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

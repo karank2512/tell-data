@@ -1,20 +1,20 @@
 {
   "domain": "alderbuck.com",
   "name": "Alderbuck Energy",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 14.2,
+  "score": 14.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.5,
+      "contribution": 13.4,
       "occurred_at": "2026-07-20",
       "summary": "Form D: $15,000,000 offering, $6,590,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2040548/000204054826000001/"
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-02",
       "summary": "OCP Releases Version 1.1.0 of Its Data Center DC Power Distribution White Paper",
       "url": "https://alderbuck.com/ocp-dc-power-distribution-white-paper/?utm_source=rss&utm_medium=rss&utm_campaign=ocp-dc-power-distribution-white-paper"

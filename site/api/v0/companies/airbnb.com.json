@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 26.5,
+  "score": 27.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 7.2,
+      "contribution": 7.1,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.8,
+      "contribution": 3.7,
       "occurred_at": "2026-10-23",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -88,7 +88,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -109,6 +109,13 @@
           "url": "https://careers.airbnb.com/positions/8282758?gh_jid=8282758"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-25",
+      "summary": "Airbnb changes checkout rules, Marriott launches luxury expeditions and other hotel news this week - The Points Guy",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DQThQMTg0WVQ0ZWlXWG8yRkc1bFVJWTBRVkpwOEljOExaaDFLYlZNaG45YXZyYjJQM3dCUGRTckZvWXZ6X0RMVmlBOE9tMElwdWpHcl9TV25BX2ZGbXVNc0xQZk1tTS1MWlpOcW9kWWdlOEstNmJ3?oc=5"
     },
     {
       "type": "launch",
@@ -147,7 +154,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3l4d1o1a3h0Rkdpeng1T2VHTnZ6WkQwNWZSSUY2THNrR1pTZW5mc1RCUGZMRmpiWmZsc285YXp6TEVkYW5GbFdLZmxvRTUzeXhScjRBTHNsZUdpRHRKVlM0U3pDeExZZkRZVkwwOGpDU0d6bDJTczhHS2dlbGFUZHZueXBMRThWZFU4OA?oc=5"
@@ -155,7 +162,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "5 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -196,7 +203,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Airbnb launches weather protection - Coverager",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMjhXeGIzcXl1VE9jZDJzUHBSN2Y0Q1FUblluS0lqeFBVaF8tMDZJa2c0QV9xejVWbDJGY0szakY4NVV3WHRDdzJ6RUZxZ1J4V1hsQjJmSE1BVXhJSV9OWnFZRWYwSjhs?oc=5"
@@ -227,8 +234,8 @@
       ]
     }
   ],
-  "open_postings": 191,
-  "long_open_roles": 51,
+  "open_postings": 193,
+  "long_open_roles": 53,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

@@ -1,0 +1,32 @@
+{
+  "domain": "greatquestion.co",
+  "name": "Great Question",
+  "as_of": "2026-10-26",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "\"Great Question with Tony Dokoupil\" launches - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVndwTXh3RHJhRUhidnpYbG9iQjgwSXdEb3QyaWdneWNXajJNaUZKMGg1NVZyUnJfbGpHWllhZ0ZZZGpKVnliN0RvZl94MGx2TmRLOEoybHN1NlplRjQxNGEwTWxTRHNXaGkyZ3BZYkdQTTUzYkFtSzZfYnk5ZGtLX0NuVE4xbHBIYUd4S3ZWTW9tYXJYTUJwZ0xTcnoweFk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-24",
+      "summary": "CBS News launches Great Question podcast series - PodcastingToday",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDV1dDdibUlCU2lKbDNkRDBfdUN3RElhVTZrY28tZy04VWlrSWgwZEw0Rl9XQ2p1cmNMMktvbzViYVNzeDNfX1RpZTYwRk02QlpZNkxYYXkwYVRsOFlBR2N0VDY5blpKRGhPeTZpdnRZVTE3QjNubXNSaHhUQU9LYnBKbk8?oc=5"
+    }
+  ],
+  "open_postings": 4,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:greatquestion",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

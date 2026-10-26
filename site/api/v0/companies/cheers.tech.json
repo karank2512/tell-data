@@ -1,0 +1,25 @@
+{
+  "domain": "cheers.tech",
+  "name": "Cheers",
+  "as_of": "2026-10-26",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-25",
+      "summary": "[person] joins dad Jay-Z on piano for L.A. concert as reunited Destiny’s Child cheers them on",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2tLVXRLVzJITzktakQxZlhTOUtqT0xaaGQxdW56eWtqSVRqNUVmSXhOZWtKNF9FaUU0U3AtWDVObDR4N3dleHFSanV1WFpmcVhxRFlLRXc3alpUQ2d6N0F0MmxWYTA2U05EV0d2emhrengySEVneE5qTWlCT1VMdFBvRGRxeWhUZFZCdndMNUpwaFo1d0E?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

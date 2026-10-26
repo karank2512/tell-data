@@ -1,10 +1,24 @@
 {
   "domain": "iamexec.com",
   "name": "Exec",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 31.5,
+  "score": 38.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-26",
+      "summary": "Appoints as COO",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTVlZ0dxZTBnbXBnSjVkaGR3WHVwREJIdlFxUzFNTGV6MlhRWkNOMThKbXdDa0FoRGFqcWt1U3BCMjFGYnRRUlIzTVE3RVZnNl9zWlZUaE9Dazd1NGc0T1ZaYlNGSUxmbzZCV2szam9QX3FUSzFxdlcyNjJqYVZ3QmR4aUdvd1VLaklvbUdVY0w5WkIyeFNjV0FKZmRmZUpSVTBWVEt1eUc5Unc?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-23",
+      "summary": "Position Music hires ex-Big Deal Music and RCA exec Pete Robinson as GM, [person]",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMElQSkoteGlOVlI2bW9BUldtbkdlMm82aTFvQTEzOTdwTU1QNndGMlRyRGZmOGtMZldrWW5MdG42SDZITEpfTkk3MXdzdWtyQXlrT3duVXE1Z2s4Rnh2U1pvSzlYSFJZQnptVGVZSkt6b1U2LWFXX0dpMG50SmVuRXdoZG1zLWpPRzdwQzFVU3BrLXVoZ0xPY3dpMTk3QXYycTBzdl8wdFhyRUdyaWVwT0FZc25OdEc2VDBpbEIwRnA1U2Z1YVdHMWNn?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -52,18 +66,25 @@
       "contribution": 1.9,
       "occurred_at": "2026-10-20",
       "summary": "Hires as President",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONk5aZHpITG9STHljSWstZU1RQU5LTm56TkxqcEJ5WmV4X1doQ0N4MGhjLVVUMDlfZktqVGNFX2hHdWNCRERNRFgyRmRldFZRTXMwaGFuNWFLUEtNSDZHdGpDX0FCRHNMSUpMYWRFYUFWbTFQemFpMExCR21zSzFCZDJGUDYtUXpTYzZEZFRxSTBaaUtsR0JZUEdKX0JqWnJpUmltV1k4NElrSTdm?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NbGl2ZkVqM3A5cnlId25KMWx1OW9YUm1HdElPRGlEWjJjTTZ2eXJaVlFBSndnZmJwbUdEeTNtQlhGazFjUkhMeW4wRE10UjdxQVhZbzNIYWVTVjJVdHNSNEpnNkhLQjQ?oc=5"
     },
     {
       "type": "leadership",
       "contribution": 1.9,
+      "occurred_at": "2026-10-20",
+      "summary": "Hires as President",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONk5aZHpITG9STHljSWstZU1RQU5LTm56TkxqcEJ5WmV4X1doQ0N4MGhjLVVUMDlfZktqVGNFX2hHdWNCRERNRFgyRmRldFZRTXMwaGFuNWFLUEtNSDZHdGpDX0FCRHNMSUpMYWRFYUFWbTFQemFpMExCR21zSzFCZDJGUDYtUXpTYzZEZFRxSTBaaUtsR0JZUEdKX0JqWnJpUmltV1k4NElrSTdm?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
       "occurred_at": "2026-10-20",
       "summary": "[person] Joins ‘The Drive,’ Inspired by JFK Assassination, as Exec Producer (EXCLUSIVE)",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzg0Q3FpNFloZDBoX085LU5ZbnFPbXVteUVsWTctMjIxaGxvU2ZLZDAySnJ3LW9iVGFLWkJ4Ry1FREVjcDRjN1o4bXowUDYwQVpJYk5tYTg1MG1LSFpGTEdkRHpzaWtwTTFtdEIxMXFYTGJoZHdNQ3hZRVVMdkEzeTEtMF82b2dzTTFCWi01c1ZKZjRZaDdFQUhn?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-20",
       "summary": "[person] joins CISA as Chief Acquisition Executive (SES)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyMEotSjBrRXZFVjBGbFRBazBVVFRSSlhGWnV5N25hZ2lwWnUyaDZ1WG1HYzNQbGdFYUhGQV96SHd0MVNvNUtQaGg2alozZkkweGRwaWQyUGNDTU5ldjRobGlnbnBOYjFBdzZZWmUtM0tmU196a2RKeUxMVE9mRGdpSHM1dkhjazFKTXR6MldZT05GdXVuR1N6X0I?oc=5"
@@ -91,7 +112,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-15",
       "summary": "hires as CFO",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdm5ZazFNazlPdk5nRkZBWmVha3lKWE5Ed0hJU1JuT25TZjhUX0lCT2hLRVhtU0w4dWp4Q1hhTmpzSGtodFl6eGJXUTJqTzVka0YxdTlzNmp6Zk9GUXBLMlNaWTh0Mko1SmNLeV9iREk5akJMVzItWDNNYWlkZmFfSWRhdHNmUVlOYm55NjJtWVdpQVE1UVFqaWhvOGtRYjJaZVE?oc=5"
@@ -102,6 +123,13 @@
       "occurred_at": "2026-10-13",
       "summary": "hires [person]",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHNES1p4RUNKWXA0NzUtLWE1QVZwUkUwT19UY09oQXJsUUFHODdpdFBnUEM1Z2stRk5Td3VDOFlhRVNpU0txOFhFZE9kOWtBaGRQenNyMFZyN0NiWmtiYnF3NkxKQ0dQOWRRbXVrYVBQd3h1anJndDJhTXlleG5iUy03d3dVUXJuSWc1MURaQVJKMjI4djFFLUxLSjUzVU1VNGl2Z3d1MERyZWs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "As Muse personal AI agent debuts in Japan, Meta exec says it won't have ads - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOXN6Wl82UEJHb1o1Q3ZmXzhEZGZwOTBGbmdlRkw1VGQtM0dlOGlYVk9XOVpsOUh4eHF0aFBHb3RMaXZDd0k0NGJVclBHV1lKVUp6Q18yWW9aTUFfaGU1bmx0MmJnM3RENU4tYzBkd25YS0xyVDdrdWoxdFAtOVpSZWUxWFJhWURSZHBXVmxyVzh5TEluRjItUjBJak41eFZPcEFBQWx1VFRXR25wR2hwYUJ5aC0yMFVLdk96aTdVamU?oc=5"
     },
     {
       "type": "launch",

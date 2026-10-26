@@ -1,9 +1,9 @@
 {
   "domain": "assemblyai.com",
   "name": "AssemblyAI",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 5.8,
+  "score": 5.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-18",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/assemblyai",

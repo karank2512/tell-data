@@ -1,10 +1,24 @@
 {
   "domain": "getpebble.com",
   "name": "Pebble",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 2.4,
+  "score": 5.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-25",
+      "summary": "Logitech launches Pebble Up mouse that can transform into a vertical mouse - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDFKVFpZc3R5MmxkUkM4LXNoODF3SFhZNXJFVS0yY0ZMSFBBZW1sSkFkamZRMUZyazljME5ZYUN3aDB0WEN5dGthdWp2UEpLRFA4LUpLYUFpTFdBUVNLX3VoYWlTWVJDanVsOXdWRTZpd2xqNXpHcUZ3RGFtNW5JMGhFeFlLeFI0X0RxczBRTzAxSUVMcllCdWZrU0hqZklGMmxKRmpGRFBkZTh1SUxqUmVCQng3WUFFakxV?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-25",
+      "summary": "Logitech launches Pebble Up mouse with a fold-up grip and 90-day battery - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTY1bmxuMHJrZ2dzbE56VDdUaUZDQXUwcVBORVdDOFpXT2ZtLVQzLW82REtwN09ZaEJfWUZHakFfYVVFUVFzN01SeDRpQ0RVamZMWFRfZGYzLVUzd3ZtZGNYeUhFRnBXck55aUMxN3lhODItM05FX0VCYVFVYV9USlN5RnBnWVVBOFdIeUdKSUZXLTFOV3pXUmEtLVpMVkozYXQtVjluaklCdHRZLWZXQg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

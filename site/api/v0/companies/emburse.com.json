@@ -1,0 +1,48 @@
+{
+  "domain": "emburse.com",
+  "name": "Emburse",
+  "as_of": "2026-10-26",
+  "profile": "default",
+  "score": 4.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 4.0,
+      "occurred_at": "2026-10-26",
+      "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.lever.co/emburse",
+      "postings": [
+        {
+          "title": "Senior Account Executive",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.lever.co/emburse/1e739e01-d00e-4fb0-b239-1c586757d3d6"
+        },
+        {
+          "title": "Account Executive, SMB",
+          "posted_at": "2026-10-26",
+          "url": "https://jobs.lever.co/emburse/5f1e6ea6-3116-4d01-bae8-d02edeab85f6"
+        },
+        {
+          "title": "Account Executive - Velocity",
+          "posted_at": "2026-10-26",
+          "url": "https://jobs.lever.co/emburse/22c6e51a-14ea-4078-bff7-5036ca17a97a"
+        },
+        {
+          "title": "Account Executive - Midmarket (remote US)",
+          "posted_at": "2026-10-26",
+          "url": "https://jobs.lever.co/emburse/33245689-3cf2-4f12-8bfe-ce9816c2a78f"
+        }
+      ]
+    }
+  ],
+  "open_postings": 31,
+  "long_open_roles": 4,
+  "sources": {
+    "ats": "lever:emburse",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

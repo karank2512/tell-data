@@ -1,9 +1,9 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 14.0,
+  "score": 13.8,
   "contributions": [
     {
       "type": "leadership",
@@ -35,14 +35,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude appoints [person] to board after stock ends session up 3.6%",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzFwR0IxQ194MUVqdXA2NVNtenhOVExydHd0VFdyUkxjNFAxQko1U1JnUkpsZDlaeHo2QVZob3RvcHRGTFd4S2NIaHpYeU04bUxQaVl4RjFhMVNsSEtoVndIV1hCeWpVc0owYVE2NW9DaWNyamRNSWpzLXI0ZGFzWkZRVW1PLUp0OWcwVFZPR01OTGNNWEtz?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude appoints [person] as Class III director, joins Cybersecurity Committee",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHJaVUUwLXF5OW5RZVVEamIxVUZjbXFIY2JYNHVOM0F5YldCY0NHSWhBT2RkbDluWUpxaWxvd1pCX0haVmlRVHc3SXFVZFBXRzJabEc5U2tzRnZaRndVUnRHN1VqeE5GMmctYUdGVjlmZC0tQTFNYzRWSkpCOFlVYndCbUlZYkNpdlF5c3hrWWJmSjN5eE9mS2ctRlFJdmZVZlhQcGFrSWZGUzg1c2MyWnFJd21URHVwblhCSmFralM2aTBzTDRDaGY5Q1hUNDcxZmQ4alpXYUNxWlZp?oc=5"
@@ -70,7 +70,7 @@
     }
   ],
   "open_postings": 39,
-  "long_open_roles": 7,
+  "long_open_roles": 8,
   "sources": {
     "ats": "ashby:amplitude",
     "edgar_cik": null,

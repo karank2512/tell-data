@@ -1,0 +1,713 @@
+{
+ "vendor": "ashby",
+ "identifier": "hightouch-inc",
+ "domain": "hightouch.com",
+ "as_of": "2026-10-26",
+ "last_polled_at": "2026-10-26T15:42:28.925921+00:00",
+ "open_postings": [
+  {
+   "external_id": "02b90ed8-4037-499c-a6a0-23b0e6af1590",
+   "title": "Senior Associate, Strategic Finance",
+   "role_family": "finance_ops",
+   "location": "Remote",
+   "posted_at": "2026-06-24T23:47:25.352000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/02b90ed8-4037-499c-a6a0-23b0e6af1590"
+  },
+  {
+   "external_id": "05b91e98-f431-469f-919a-e592f1d43110",
+   "title": "Developer Productivity Engineer",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2025-11-06T21:21:26.631000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/05b91e98-f431-469f-919a-e592f1d43110"
+  },
+  {
+   "external_id": "060808fc-d1b6-4479-bb28-e983216f9040",
+   "title": "Solutions Engineer, Enterprise West (Pre-Sales)",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2025-05-06T18:00:14+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/060808fc-d1b6-4479-bb28-e983216f9040"
+  },
+  {
+   "external_id": "0d895900-d628-4d4e-9fc0-92be559c269b",
+   "title": "GRC Lead",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-07T02:12:51.798000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/0d895900-d628-4d4e-9fc0-92be559c269b"
+  },
+  {
+   "external_id": "12f9b220-62a0-403d-8b20-3af3cabf933c",
+   "title": "Product Manager, Real Time",
+   "role_family": "product_design",
+   "location": "Remote (North America)",
+   "posted_at": "2026-09-08T18:05:43.072000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/12f9b220-62a0-403d-8b20-3af3cabf933c"
+  },
+  {
+   "external_id": "158350af-a359-432d-b5be-b22e61befc1f",
+   "title": "Manager, Strategy Consultants (Agentic Customer Data Platform)",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2025-07-25T15:39:45.582000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/158350af-a359-432d-b5be-b22e61befc1f"
+  },
+  {
+   "external_id": "165e1d03-8765-41d6-98ca-fa3e1f5a7e58",
+   "title": "Software Engineer, Distributed Systems",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2023-01-25T22:42:27.990000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/165e1d03-8765-41d6-98ca-fa3e1f5a7e58"
+  },
+  {
+   "external_id": "17dcedc7-725e-40fa-9929-e16c9a8cb7e4",
+   "title": "Technical Sales Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco Office",
+   "posted_at": "2026-07-14T18:00:21.464000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/17dcedc7-725e-40fa-9929-e16c9a8cb7e4"
+  },
+  {
+   "external_id": "1a1d75dc-10d4-4497-85fc-4772de095080",
+   "title": "Solutions Engineer, Mid-Market East (Pre-Sales)",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2025-05-08T16:42:06.672000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/1a1d75dc-10d4-4497-85fc-4772de095080"
+  },
+  {
+   "external_id": "1addfe1c-96e8-4f13-87fb-318c3a702b21",
+   "title": "Sales Development Representative - Denver",
+   "role_family": "sales",
+   "location": "Denver Office",
+   "posted_at": "2026-10-15T03:49:10.319000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/1addfe1c-96e8-4f13-87fb-318c3a702b21"
+  },
+  {
+   "external_id": "1d5ece89-ac42-4772-a211-8df70e427c9a",
+   "title": "Engineering Manager, Agents",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-06-11T17:03:05.911000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/1d5ece89-ac42-4772-a211-8df70e427c9a"
+  },
+  {
+   "external_id": "1f01f34b-b0bd-493f-8405-9d6536cab79a",
+   "title": "Solutions Engineer, Enterprise East (Pre-Sales)",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2024-03-20T01:48:40.508000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/1f01f34b-b0bd-493f-8405-9d6536cab79a"
+  },
+  {
+   "external_id": "22bcb19d-af31-4dd9-89a8-b0fa9b513fc4",
+   "title": "Partner Sales Manager",
+   "role_family": "other",
+   "location": "Remote (North America)",
+   "posted_at": "2026-07-01T00:00:34.818000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/22bcb19d-af31-4dd9-89a8-b0fa9b513fc4"
+  },
+  {
+   "external_id": "24dba985-1d50-4853-a33d-47ef56552735",
+   "title": "Workplace Operations Coordinator",
+   "role_family": "other",
+   "location": "San Francisco Office",
+   "posted_at": "2026-10-08T19:52:34.543000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/24dba985-1d50-4853-a33d-47ef56552735"
+  },
+  {
+   "external_id": "27e2668c-10d7-4a0a-acc1-07dec5ad90f4",
+   "title": "Enterprise Account Executive, East - Northeast",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-02-11T15:24:14.341000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/27e2668c-10d7-4a0a-acc1-07dec5ad90f4"
+  },
+  {
+   "external_id": "28cb18d8-7047-4cc1-b853-7629d06c706a",
+   "title": "Product Manager, Marketing Orchestration",
+   "role_family": "marketing",
+   "location": "Remote (North America)",
+   "posted_at": "2026-09-08T19:15:59.931000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/28cb18d8-7047-4cc1-b853-7629d06c706a"
+  },
+  {
+   "external_id": "30a45e15-d938-4b9d-82ca-2f86e2ccd476",
+   "title": "Senior Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "Remote (North America)",
+   "posted_at": "2022-03-24T22:22:48.901000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/30a45e15-d938-4b9d-82ca-2f86e2ccd476"
+  },
+  {
+   "external_id": "3a95437d-4ae5-457d-b4ed-43982280c6e2",
+   "title": "Software Engineer, Customer Studio Backend",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-04-28T19:02:03.899000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/3a95437d-4ae5-457d-b4ed-43982280c6e2"
+  },
+  {
+   "external_id": "3e7758ec-307a-40ee-a083-5341c19f3c11",
+   "title": "Forward Deployed Architect",
+   "role_family": "customer",
+   "location": "Remote (North America)",
+   "posted_at": "2026-09-24T15:16:01.934000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/3e7758ec-307a-40ee-a083-5341c19f3c11"
+  },
+  {
+   "external_id": "3f686548-a559-4452-8cf1-0e25894e270f",
+   "title": "Account Manager",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-06-17T17:30:35.128000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/3f686548-a559-4452-8cf1-0e25894e270f"
+  },
+  {
+   "external_id": "4229edf9-eeba-42f9-93de-ff0661715de2",
+   "title": "Enterprise Account Executive, West - Texas",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-08-27T13:55:09.236000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/4229edf9-eeba-42f9-93de-ff0661715de2"
+  },
+  {
+   "external_id": "49187f77-70fe-432e-9a46-1f5341ff6e2b",
+   "title": "Sales Development Representative - San Francisco",
+   "role_family": "sales",
+   "location": "San Francisco Office",
+   "posted_at": "2026-10-15T03:50:49.440000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/49187f77-70fe-432e-9a46-1f5341ff6e2b"
+  },
+  {
+   "external_id": "4be3cf34-de9d-4fc3-884c-13cd5f868204",
+   "title": "Solutions Engineer, Enterprise East (Pre-Sales)",
+   "role_family": "sales",
+   "location": "New York Office",
+   "posted_at": "2026-05-20T16:11:39.311000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/4be3cf34-de9d-4fc3-884c-13cd5f868204"
+  },
+  {
+   "external_id": "516edfb5-9a94-4742-a2f9-586e601b3c58",
+   "title": "RVP, Enterprise Sales Central",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-20T15:27:34.906000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/516edfb5-9a94-4742-a2f9-586e601b3c58"
+  },
+  {
+   "external_id": "53892888-7a61-4908-a56f-bee638b441af",
+   "title": "Founding Account Executive, Lifecycle Studio",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-16T18:37:32.642000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/53892888-7a61-4908-a56f-bee638b441af"
+  },
+  {
+   "external_id": "5512c70a-a9f4-401e-a284-08d662c50cbd",
+   "title": "Engineering Manager, Customer Studio",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-06-11T17:37:18.897000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/5512c70a-a9f4-401e-a284-08d662c50cbd"
+  },
+  {
+   "external_id": "570ddc53-959c-4f69-af5a-e232c4f6cdd2",
+   "title": "Product Marketing Manager, Competitive Intelligence",
+   "role_family": "marketing",
+   "location": "Remote (North America)",
+   "posted_at": "2026-08-19T15:07:53.442000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/570ddc53-959c-4f69-af5a-e232c4f6cdd2"
+  },
+  {
+   "external_id": "57b4b31c-0f1f-4d53-a2be-408ef79d2322",
+   "title": "Senior Technical Sourcer",
+   "role_family": "other",
+   "location": "Remote (North America)",
+   "posted_at": "2025-02-27T17:13:06.019000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/57b4b31c-0f1f-4d53-a2be-408ef79d2322"
+  },
+  {
+   "external_id": "605ee3f7-4e5b-414f-a2cf-c97112513b38",
+   "title": "Forward Deployed Product Manager",
+   "role_family": "customer",
+   "location": "Remote (North America)",
+   "posted_at": "2026-05-28T23:53:57.849000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/605ee3f7-4e5b-414f-a2cf-c97112513b38"
+  },
+  {
+   "external_id": "626a0b4f-4e1b-40a5-86d4-1b47f19169e9",
+   "title": "Account Executive, Ad Studio",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-06-24T19:54:31.681000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/626a0b4f-4e1b-40a5-86d4-1b47f19169e9"
+  },
+  {
+   "external_id": "640735c4-2f4e-4b71-bbc0-511305bad3a2",
+   "title": "Software Engineer, Control Plane",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-04-28T20:03:22.269000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/640735c4-2f4e-4b71-bbc0-511305bad3a2"
+  },
+  {
+   "external_id": "64e89738-5846-493c-a64b-698da086af58",
+   "title": "Senior Product Marketing Manager, CDP",
+   "role_family": "marketing",
+   "location": "Remote (North America)",
+   "posted_at": "2026-09-30T18:25:03.692000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/64e89738-5846-493c-a64b-698da086af58"
+  },
+  {
+   "external_id": "65e8540d-b6c7-48ba-a402-8f9303f3142b",
+   "title": "AI Decisioning Strategy Consultant",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2025-08-21T12:04:46.677000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/65e8540d-b6c7-48ba-a402-8f9303f3142b"
+  },
+  {
+   "external_id": "691d94c0-fee6-407c-ac37-6748b49a2187",
+   "title": "Strategic Finance Manager",
+   "role_family": "finance_ops",
+   "location": "Remote (North America)",
+   "posted_at": "2026-07-22T23:39:15.162000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/691d94c0-fee6-407c-ac37-6748b49a2187"
+  },
+  {
+   "external_id": "6cabea6f-4f1b-4e14-9c1e-e2c1a7ac9413",
+   "title": "Software Engineer, Applied AI Research",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-08-28T21:18:55.578000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/6cabea6f-4f1b-4e14-9c1e-e2c1a7ac9413"
+  },
+  {
+   "external_id": "6d3527b9-4f72-4a53-b837-daec9016b8e5",
+   "title": "Technical Account Manager, Enterprise - West",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2024-11-22T15:21:48.855000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/6d3527b9-4f72-4a53-b837-daec9016b8e5"
+  },
+  {
+   "external_id": "6d741c14-8969-4928-98bb-d24636a3ded7",
+   "title": "Enterprise Account Executive, DACH",
+   "role_family": "sales",
+   "location": "Remote (Europe)",
+   "posted_at": "2026-03-19T12:17:38.145000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/6d741c14-8969-4928-98bb-d24636a3ded7"
+  },
+  {
+   "external_id": "6dd75317-b43a-40f3-9570-7eb9167d726d",
+   "title": "Enterprise Account Executive, Paris",
+   "role_family": "sales",
+   "location": "Paris Office",
+   "posted_at": "2026-07-21T16:12:14.695000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/6dd75317-b43a-40f3-9570-7eb9167d726d"
+  },
+  {
+   "external_id": "74840640-05e2-44bf-bf74-acbe7a2cce27",
+   "title": "Strategic Agency Partner",
+   "role_family": "other",
+   "location": "Remote (North America)",
+   "posted_at": "2026-09-18T00:50:56.496000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/74840640-05e2-44bf-bf74-acbe7a2cce27"
+  },
+  {
+   "external_id": "76c6864e-8ce4-4242-b1ff-099252afee6c",
+   "title": "Sales Development Enablement Program Manager",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-22T22:44:12.278000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/76c6864e-8ce4-4242-b1ff-099252afee6c"
+  },
+  {
+   "external_id": "7a0998ca-5130-46dc-af26-25d926edd7cb",
+   "title": "Software Engineer, Streaming Systems",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-04-28T19:31:31.696000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/7a0998ca-5130-46dc-af26-25d926edd7cb"
+  },
+  {
+   "external_id": "83314d35-22c7-45b4-89a0-e872e2c5a818",
+   "title": "Enterprise Account Executive, West - Mountain",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2025-12-04T23:19:10.913000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/83314d35-22c7-45b4-89a0-e872e2c5a818"
+  },
+  {
+   "external_id": "83b879e6-628e-41b4-a601-191e2dc69a54",
+   "title": "Software Engineer, AI Agents",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2025-10-30T18:16:29.943000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/83b879e6-628e-41b4-a601-191e2dc69a54"
+  },
+  {
+   "external_id": "8418e461-fa71-4d6d-8ff5-b5bdd474b540",
+   "title": "Lead Product Manager, Agentic Personalization",
+   "role_family": "product_design",
+   "location": "Remote (North America)",
+   "posted_at": "2026-04-08T22:42:32.695000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/8418e461-fa71-4d6d-8ff5-b5bdd474b540"
+  },
+  {
+   "external_id": "86aacdf8-facc-43be-89a4-b45b2a948116",
+   "title": "Senior Product Enablement Manager",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-08-25T20:26:36.988000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/86aacdf8-facc-43be-89a4-b45b2a948116"
+  },
+  {
+   "external_id": "8c602235-af22-41bb-b5af-31cc97151b0f",
+   "title": "AI Creative Solutions Designer",
+   "role_family": "product_design",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-16T21:37:41.467000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/8c602235-af22-41bb-b5af-31cc97151b0f"
+  },
+  {
+   "external_id": "8dcefec9-4013-4a4d-b614-83f4a9c169ed",
+   "title": "Enterprise Account Executive, East - Southeast",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-02-11T15:22:58.594000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/8dcefec9-4013-4a4d-b614-83f4a9c169ed"
+  },
+  {
+   "external_id": "9e1fc443-f830-4977-9eeb-9b06bdcf59f5",
+   "title": "Solutions Engineer, Mid-Market, EMEA",
+   "role_family": "sales",
+   "location": "London Office",
+   "posted_at": "2026-05-07T11:34:01.771000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/9e1fc443-f830-4977-9eeb-9b06bdcf59f5"
+  },
+  {
+   "external_id": "9eca924a-4805-47ff-8649-01be37ad53cd",
+   "title": "Solutions Engineering Manager",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2025-12-29T20:23:14.323000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/9eca924a-4805-47ff-8649-01be37ad53cd"
+  },
+  {
+   "external_id": "9f7aee03-d718-47d2-91d1-6f2f0eac68b5",
+   "title": "Enterprise Account Executive, West - Northern California",
+   "role_family": "sales",
+   "location": "San Francisco Office",
+   "posted_at": "2024-06-25T13:55:18.905000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/9f7aee03-d718-47d2-91d1-6f2f0eac68b5"
+  },
+  {
+   "external_id": "a016d776-756f-4bb3-b3f0-136509c8e38f",
+   "title": "Solutions Engineer, Mid-Market West (Pre-Sales)",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-08-13T18:30:26.732000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/a016d776-756f-4bb3-b3f0-136509c8e38f"
+  },
+  {
+   "external_id": "a22b16e1-6cb8-466c-bca4-dc6ff1e2f1d6",
+   "title": "Technical Account Manager, Enterprise - East",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-05-21T15:50:24.551000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/a22b16e1-6cb8-466c-bca4-dc6ff1e2f1d6"
+  },
+  {
+   "external_id": "a287cb33-e488-4395-acde-afa0eca9655b",
+   "title": "Full Stack Product Engineer",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2022-08-10T18:25:02.608000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/a287cb33-e488-4395-acde-afa0eca9655b"
+  },
+  {
+   "external_id": "a6c12429-6e21-4c2b-91c5-d5904b1502a6",
+   "title": "Sales Development Representative - New York",
+   "role_family": "sales",
+   "location": "New York Office",
+   "posted_at": "2026-10-15T03:50:10.340000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/a6c12429-6e21-4c2b-91c5-d5904b1502a6"
+  },
+  {
+   "external_id": "afbab4dd-1940-4a27-9f97-f11d7a465248",
+   "title": "Deployment Architect - Email & SMS / Messaging",
+   "role_family": "customer",
+   "location": "Remote (North America)",
+   "posted_at": "2026-09-23T14:10:36.552000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/afbab4dd-1940-4a27-9f97-f11d7a465248"
+  },
+  {
+   "external_id": "b065eb2f-aea7-4044-99f9-7bc948039e1a",
+   "title": "Staff Engineer, AI Productivity",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-06-11T17:50:51.155000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/b065eb2f-aea7-4044-99f9-7bc948039e1a"
+  },
+  {
+   "external_id": "b18beda1-1f61-4665-8289-02013fa0d2ba",
+   "title": "Enterprise Account Executive, West - Southern California",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-08-28T15:40:32.802000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/b18beda1-1f61-4665-8289-02013fa0d2ba"
+  },
+  {
+   "external_id": "b3ebf101-a64a-4448-b455-6add06bceac3",
+   "title": "Solutions Engineer, Enterprise, EMEA",
+   "role_family": "sales",
+   "location": "London Office",
+   "posted_at": "2026-09-04T09:07:00.993000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/b3ebf101-a64a-4448-b455-6add06bceac3"
+  },
+  {
+   "external_id": "b6451624-0414-4006-99f0-8bc668e76056",
+   "title": "Manager, Sales Development, Ad Studio",
+   "role_family": "sales",
+   "location": "San Francisco Office",
+   "posted_at": "2026-09-25T22:56:41.508000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/b6451624-0414-4006-99f0-8bc668e76056"
+  },
+  {
+   "external_id": "b6c7dfdb-2a9c-4172-b257-9af0b2e12970",
+   "title": "Sales Development Representative, Ad Studio",
+   "role_family": "sales",
+   "location": "San Francisco Office",
+   "posted_at": "2026-10-14T14:31:38.952000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/b6c7dfdb-2a9c-4172-b257-9af0b2e12970"
+  },
+  {
+   "external_id": "bab7802b-2f38-458d-b5c5-58146ee2922a",
+   "title": "Solutions Engineer, Senior Enterprise (Pre-Sales)",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-03-27T01:11:44.956000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/bab7802b-2f38-458d-b5c5-58146ee2922a"
+  },
+  {
+   "external_id": "bafc75f7-2559-464c-b67f-045e6b9440b2",
+   "title": "Product Security Engineer",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-04-27T20:40:06.294000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/bafc75f7-2559-464c-b67f-045e6b9440b2"
+  },
+  {
+   "external_id": "be5bc19b-f1e1-44ce-b0f5-c5251bb0628b",
+   "title": "Deployment Architect - Email & SMS / Messaging, EMEA",
+   "role_family": "customer",
+   "location": "Remote (Europe)",
+   "posted_at": "2026-10-15T01:46:46.807000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/be5bc19b-f1e1-44ce-b0f5-c5251bb0628b"
+  },
+  {
+   "external_id": "c5c83beb-2544-493c-a0e7-8ce7cb8fb915",
+   "title": "Mid-Market Account Executive - Central",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-20T14:54:13.785000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/c5c83beb-2544-493c-a0e7-8ce7cb8fb915"
+  },
+  {
+   "external_id": "c6b43a48-ba7b-4bd1-8865-73b255f3aaea",
+   "title": "Solutions Engineer, Lifecycle Studio",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-16T14:44:26.634000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/c6b43a48-ba7b-4bd1-8865-73b255f3aaea"
+  },
+  {
+   "external_id": "cc529e12-abff-40cb-b5c0-d4d1c6c495b0",
+   "title": "Customer Success Engineer",
+   "role_family": "customer",
+   "location": "Remote (Europe)",
+   "posted_at": "2026-01-16T22:05:11.411000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/cc529e12-abff-40cb-b5c0-d4d1c6c495b0"
+  },
+  {
+   "external_id": "cdf151e2-3093-4871-963b-65277cb40a75",
+   "title": "Technical Account Manager, EMEA",
+   "role_family": "sales",
+   "location": "Remote (Europe)",
+   "posted_at": "2026-10-08T11:11:23.298000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/cdf151e2-3093-4871-963b-65277cb40a75"
+  },
+  {
+   "external_id": "d33f73fd-d889-4a23-9568-3ff32ac9fc53",
+   "title": "Enterprise Account Executive, East - New York City",
+   "role_family": "sales",
+   "location": "New York Office",
+   "posted_at": "2024-11-18T15:54:16.224000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/d33f73fd-d889-4a23-9568-3ff32ac9fc53"
+  },
+  {
+   "external_id": "d47b2d53-0ec4-4216-a722-ae4199bf7247",
+   "title": "Customer Success Engineer",
+   "role_family": "customer",
+   "location": "New York Office",
+   "posted_at": "2025-11-07T00:03:03.806000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/d47b2d53-0ec4-4216-a722-ae4199bf7247"
+  },
+  {
+   "external_id": "d50b4c79-74d9-433f-a06b-1bc522abf892",
+   "title": "Deployment Architect",
+   "role_family": "customer",
+   "location": "Remote (North America)",
+   "posted_at": "2026-01-12T22:06:22.461000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/d50b4c79-74d9-433f-a06b-1bc522abf892"
+  },
+  {
+   "external_id": "d6ee0bc8-0281-493a-b658-1f7e26f6705a",
+   "title": "Forward Deployed Creative Designer, Ads",
+   "role_family": "customer",
+   "location": "Remote (North America)",
+   "posted_at": "2026-04-27T14:16:24.427000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/d6ee0bc8-0281-493a-b658-1f7e26f6705a"
+  },
+  {
+   "external_id": "dace612e-16c3-49a2-b1fe-622d80516f2d",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Remote (North America)",
+   "posted_at": "2026-09-24T15:13:02.817000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/dace612e-16c3-49a2-b1fe-622d80516f2d"
+  },
+  {
+   "external_id": "dbfd96cb-1616-4a2e-a2f8-f78e1ac9e47f",
+   "title": "Software Engineer, Native Delivery",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-05-22T19:30:58.905000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/dbfd96cb-1616-4a2e-a2f8-f78e1ac9e47f"
+  },
+  {
+   "external_id": "dc9a7cb9-6ac8-4929-afe9-8088074e89d2",
+   "title": "Principal Engineer, Streaming Systems",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-04-28T19:29:15.661000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/dc9a7cb9-6ac8-4929-afe9-8088074e89d2"
+  },
+  {
+   "external_id": "dee1b5b9-c5a5-4dd8-af69-286ac5420925",
+   "title": "Enterprise Account Executive - Midwest",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-14T19:35:52.310000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/dee1b5b9-c5a5-4dd8-af69-286ac5420925"
+  },
+  {
+   "external_id": "df3467d8-a7ef-41ab-8dd8-f55d6965c99a",
+   "title": "Enterprise Account Executive, West - Spanish Speaking",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-14T18:59:46.823000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/df3467d8-a7ef-41ab-8dd8-f55d6965c99a"
+  },
+  {
+   "external_id": "e126097e-fb3b-4c86-8094-4245dbcd1570",
+   "title": "Head of Machine Learning",
+   "role_family": "ml_ai",
+   "location": "Remote (North America)",
+   "posted_at": "2026-01-20T18:56:44.748000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/e126097e-fb3b-4c86-8094-4245dbcd1570"
+  },
+  {
+   "external_id": "e539363f-9489-487d-be31-69bec7523271",
+   "title": "IT Business Partner",
+   "role_family": "engineering",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-19T14:43:01.833000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/e539363f-9489-487d-be31-69bec7523271"
+  },
+  {
+   "external_id": "e5a1ed81-9f7c-4a2e-affd-cc5eed6f207f",
+   "title": "Field Events Coordinator",
+   "role_family": "marketing",
+   "location": "New York Office",
+   "posted_at": "2026-09-10T15:04:30.482000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/e5a1ed81-9f7c-4a2e-affd-cc5eed6f207f"
+  },
+  {
+   "external_id": "e6ba1b95-f1d6-4494-a4ad-e30ad5278732",
+   "title": "AI Decisioning Strategy Consultant",
+   "role_family": "engineering",
+   "location": "Remote (Europe)",
+   "posted_at": "2026-09-25T16:23:16.229000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/e6ba1b95-f1d6-4494-a4ad-e30ad5278732"
+  },
+  {
+   "external_id": "eaa2fdb6-3f48-4fa2-9947-e1a397a176ab",
+   "title": "Customer Success Engineer",
+   "role_family": "customer",
+   "location": "Remote (North America)",
+   "posted_at": "2026-09-09T18:29:07.780000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/eaa2fdb6-3f48-4fa2-9947-e1a397a176ab"
+  },
+  {
+   "external_id": "ebba2ef1-c357-40ad-b81b-6db0e67ac9e8",
+   "title": "Partner Solutions Engineer",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-06-02T20:51:48.638000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/ebba2ef1-c357-40ad-b81b-6db0e67ac9e8"
+  },
+  {
+   "external_id": "f131ffcc-0abf-4aa0-aad0-17cfe7dacb4f",
+   "title": "Sr. People Operations Specialist",
+   "role_family": "finance_ops",
+   "location": "New York Office",
+   "posted_at": "2026-10-22T23:56:48.537000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/f131ffcc-0abf-4aa0-aad0-17cfe7dacb4f"
+  },
+  {
+   "external_id": "f1d7957a-8c74-480e-84da-28a9a7466272",
+   "title": "Staff Product Designer, AI Creative Tools",
+   "role_family": "product_design",
+   "location": "Remote (North America)",
+   "posted_at": "2026-06-26T16:40:37.421000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/f1d7957a-8c74-480e-84da-28a9a7466272"
+  },
+  {
+   "external_id": "f796e791-d14c-4681-a6bc-7c9c3176d7d7",
+   "title": "Strategic Alliances Manager - AdTech",
+   "role_family": "other",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-15T18:41:03.515000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/f796e791-d14c-4681-a6bc-7c9c3176d7d7"
+  },
+  {
+   "external_id": "f933c2f7-d483-4c83-8003-20e2beb75726",
+   "title": "Mid-Market Account Executive - East",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-10-20T14:54:25.270000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/f933c2f7-d483-4c83-8003-20e2beb75726"
+  },
+  {
+   "external_id": "fabce6a5-3403-488c-8bcd-5d7ef03bef39",
+   "title": "Mid-Market Account Executive, EMEA",
+   "role_family": "sales",
+   "location": "London Office",
+   "posted_at": "2025-06-16T14:09:38.279000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/fabce6a5-3403-488c-8bcd-5d7ef03bef39"
+  },
+  {
+   "external_id": "fd617eec-cf68-49b4-90f1-14596de7f2aa",
+   "title": "Mid-Market Account Executive- West",
+   "role_family": "sales",
+   "location": "Remote (North America)",
+   "posted_at": "2026-04-28T22:41:39.552000+00:00",
+   "url": "https://jobs.ashbyhq.com/hightouch-inc/fd617eec-cf68-49b4-90f1-14596de7f2aa"
+  }
+ ]
+}

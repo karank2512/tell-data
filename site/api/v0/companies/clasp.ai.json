@@ -1,13 +1,13 @@
 {
   "domain": "clasp.ai",
   "name": "Clasp",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 27.6,
+  "score": 27.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 25.0,
+      "contribution": 24.8,
       "occurred_at": "2026-10-08",
       "summary": "Form D: $15,249,996 offering, $13,249,996 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024665/000202466526000006/"
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Clasp Launches the First Marketplace for Loan-Linked Hiring, Where Every Healthcare Job Lists What It Pays Toward Your Student Loans - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbXNaU0taZzJ4RndTNzUtaGgxVWR2S3EyZlBEQk81anprRHpKQTJDaVpPazNQR24yWkRoOXl5elFWN3FNT2xhR0txdnRBdm81aDYzcmJZa3J5ZGxocnM2RkQ2ZThYaUVQcVh5eUNLQ1BNLUxmcW56M1NHX3Q5VVlfNHo5VEJMZmxBV3Fyel9DMzdoLU5ZM29JVTBrUUFiWFB1OFpkNzlxdDVzX2dZakVRS2txWHY0NmVDN2ZxSzJnZkhncnNVTmNZYjFaUkdMZ1VkYTNtSk8tYktmTHVhUlBaZlNjODFsVHNuandWZ295R1MtTGVpRVFfcEZubFQ4NXk4NGFWdnZySl82SUZiRWk3QkhxVWc3Tjg?oc=5"
     }
   ],
   "open_postings": 5,
-  "long_open_roles": 2,
+  "long_open_roles": 3,
   "sources": {
     "ats": "ashby:clasp",
     "edgar_cik": "0002024665",

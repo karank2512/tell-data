@@ -1,9 +1,9 @@
 {
   "domain": "verifiable.com",
   "name": "Verifiable",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 7.8,
+  "score": 7.7,
   "contributions": [
     {
       "type": "launch",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-10",
       "summary": "Orion Backgammon Launches on iOS With Verifiable Fair Dice - COGconnected",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFo2QkRUTmpmOFAzS0NSTnlmMW5pV3YzWHZoajBCSGFpdHpqZEJNQ1Y3LWRHXy1GRXpUaEd4ODM5UmRGMjlQSElkcy1peFczOF96OUw3UktoYlZXdEdLWUk5b0xRSTV0YmhEMWtGbnR4YTBJMUFUdy1pUGk5WkIyNUpsM1VEdVlWT0NRMGNLWEJaWW42ZTRj?oc=5"
     }
   ],
-  "open_postings": 2,
-  "long_open_roles": 1,
+  "open_postings": 3,
+  "long_open_roles": 2,
   "sources": {
     "ats": "lever:verifiable",
     "edgar_cik": null,

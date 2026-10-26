@@ -1,20 +1,20 @@
 {
   "domain": "crusoe.ai",
   "name": "Crusoe",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 49.3,
+  "score": 48.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.7,
+      "contribution": 23.5,
       "occurred_at": "2026-09-17",
       "summary": "Form D: $3,901,017,922 offering, $3,108,543,889 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1924674/000192467426000002/"
     },
     {
       "type": "funding",
-      "contribution": 23.7,
+      "contribution": 23.5,
       "occurred_at": "2026-09-17",
       "summary": "Form D: $595,943,098 offering, $595,943,098 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1924674/000192467426000001/"
@@ -22,7 +22,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-24",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Crusoe",
@@ -53,14 +53,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-07-07",
       "summary": "Crusoe Launches Serverless Fine-Tuning and Self-Serve Inference Deployments - Crusoe",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakZUQmI3TE5wU0hSa1BwR1o4b0p3MExzVUllZWRGNzVEVlo4bEVwbUpkYUNFaXU5emRHcUVoZ0RNUDFaVk5Pbkg5djMwY0FaNjA5Q0pENWt1TWhrb1pNelpmUkkwa3VkWmh2WlhxSGlpa2E4aUlobm1JakdyS2hLdkdFaUxrQVc3cGNXOVVsZEthdVhQbXhldXJxamNlX0M2MjZzWWhSdG5VODBIRzlqWnhUUkxiZmM?oc=5"
     }
   ],
   "open_postings": 349,
-  "long_open_roles": 94,
+  "long_open_roles": 95,
   "sources": {
     "ats": "ashby:Crusoe",
     "edgar_cik": "0001924674",

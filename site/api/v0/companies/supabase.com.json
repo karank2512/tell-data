@@ -1,9 +1,9 @@
 {
   "domain": "supabase.com",
   "name": "Supabase",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "launch",
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "4 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/supabase",
@@ -57,8 +57,8 @@
       "url": "https://supabase.com/blog/introducing-supabase-server"
     }
   ],
-  "open_postings": 61,
-  "long_open_roles": 19,
+  "open_postings": 64,
+  "long_open_roles": 21,
   "sources": {
     "ats": "ashby:supabase",
     "edgar_cik": "0001829334",

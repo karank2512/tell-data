@@ -1,0 +1,497 @@
+{
+ "vendor": "ashby",
+ "identifier": "overview",
+ "domain": "overview.ai",
+ "as_of": "2026-10-26",
+ "last_polled_at": "2026-10-26T15:42:28.925921+00:00",
+ "open_postings": [
+  {
+   "external_id": "07661759-6665-49dc-af13-35b7af01afa8",
+   "title": "Senior Full Stack Engineer, GenAI & Web Tools",
+   "role_family": "engineering",
+   "location": "Taipei",
+   "posted_at": "2026-10-12T02:03:35.230000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/07661759-6665-49dc-af13-35b7af01afa8"
+  },
+  {
+   "external_id": "078e9126-b862-4a9e-8726-0d907a5f3c1b",
+   "title": "Vision Engineer",
+   "role_family": "other",
+   "location": "China",
+   "posted_at": "2026-03-19T08:26:54.356000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/078e9126-b862-4a9e-8726-0d907a5f3c1b"
+  },
+  {
+   "external_id": "07bdfb41-0a5d-4f74-b5a2-1507ee107e84",
+   "title": "Engineering Manager,  Core Platform",
+   "role_family": "engineering",
+   "location": "Taipei",
+   "posted_at": "2026-10-22T15:19:54.664000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/07bdfb41-0a5d-4f74-b5a2-1507ee107e84"
+  },
+  {
+   "external_id": "0da5f34f-a3d1-493f-b052-4cd9d0df86b4",
+   "title": "Senior Field Engineer (Controls)",
+   "role_family": "other",
+   "location": "Shenzhen, China",
+   "posted_at": "2026-02-27T07:49:52.657000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/0da5f34f-a3d1-493f-b052-4cd9d0df86b4"
+  },
+  {
+   "external_id": "143506fd-e5b1-43f8-b771-b0cc5de125e6",
+   "title": "Senior Lead Full Stack Python Engineer",
+   "role_family": "engineering",
+   "location": "Taipei",
+   "posted_at": "2026-09-16T08:00:57.359000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/143506fd-e5b1-43f8-b771-b0cc5de125e6"
+  },
+  {
+   "external_id": "1837564b-d64e-4fa5-94b8-b2cfa4eabca6",
+   "title": "Senior Field Engineer (Controls)",
+   "role_family": "other",
+   "location": "Chengdu",
+   "posted_at": "2026-05-26T19:27:11.181000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/1837564b-d64e-4fa5-94b8-b2cfa4eabca6"
+  },
+  {
+   "external_id": "18b579f8-c9bb-4660-8466-daad58b763d1",
+   "title": "Application Engineer",
+   "role_family": "other",
+   "location": "Taipei",
+   "posted_at": "2026-04-17T04:41:08.326000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/18b579f8-c9bb-4660-8466-daad58b763d1"
+  },
+  {
+   "external_id": "18dc694a-7d7a-45fc-a5f4-2442ba955525",
+   "title": "Global HR Operations & Compliance Lead",
+   "role_family": "finance_ops",
+   "location": "Remote",
+   "posted_at": "2026-10-21T16:00:56.481000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/18dc694a-7d7a-45fc-a5f4-2442ba955525"
+  },
+  {
+   "external_id": "19da6e76-0137-441f-a472-f6c2e87ef258",
+   "title": "Vision Engineer",
+   "role_family": "other",
+   "location": "Nantong, China",
+   "posted_at": "2026-02-27T07:17:25.884000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/19da6e76-0137-441f-a472-f6c2e87ef258"
+  },
+  {
+   "external_id": "19e87333-599a-4cef-96ec-0294402cc253",
+   "title": "Vision Sales Engineer - Northeast US",
+   "role_family": "sales",
+   "location": "Northeast US",
+   "posted_at": "2026-10-07T17:43:31.754000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/19e87333-599a-4cef-96ec-0294402cc253"
+  },
+  {
+   "external_id": "1f9c815d-7642-4e5a-8265-374eccdc4b4e",
+   "title": "Vision Engineer",
+   "role_family": "other",
+   "location": "Chengdu",
+   "posted_at": "2026-05-26T19:27:08.339000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/1f9c815d-7642-4e5a-8265-374eccdc4b4e"
+  },
+  {
+   "external_id": "226ce1ff-9d2c-4a74-84bd-c3cefad2a16c",
+   "title": "Technical Sales Engineer",
+   "role_family": "sales",
+   "location": "Shenzhen, China",
+   "posted_at": "2026-09-11T15:41:42.759000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/226ce1ff-9d2c-4a74-84bd-c3cefad2a16c"
+  },
+  {
+   "external_id": "2bb3df66-4290-48b0-b1f0-27852872d0b2",
+   "title": "Applications Manager",
+   "role_family": "other",
+   "location": "Shanghai, China",
+   "posted_at": "2026-09-11T15:57:00.002000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/2bb3df66-4290-48b0-b1f0-27852872d0b2"
+  },
+  {
+   "external_id": "2ed8ea22-9a3c-4ad1-a7e6-4114f52cc00c",
+   "title": "Business Development Representative",
+   "role_family": "sales",
+   "location": "Bogota",
+   "posted_at": "2026-08-25T16:42:31.059000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/2ed8ea22-9a3c-4ad1-a7e6-4114f52cc00c"
+  },
+  {
+   "external_id": "2fbdfd72-cbc1-44e6-b767-186cf54930a7",
+   "title": "Applications Engineer, Mexicali",
+   "role_family": "other",
+   "location": "Mexicali",
+   "posted_at": "2026-08-27T05:08:08.941000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/2fbdfd72-cbc1-44e6-b767-186cf54930a7"
+  },
+  {
+   "external_id": "36b953ed-0d6c-4465-a784-521581af569b",
+   "title": "Applications Engineer, San Francisco",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T17:00:35.506000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/36b953ed-0d6c-4465-a784-521581af569b"
+  },
+  {
+   "external_id": "38a5fa33-a694-44fb-9439-f32a450062a4",
+   "title": "Global HR Operations & Compliance Lead",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-21T15:46:52.121000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/38a5fa33-a694-44fb-9439-f32a450062a4"
+  },
+  {
+   "external_id": "3ba07040-7833-4ab7-84c4-9266fe35dc76",
+   "title": "Vision Sales Engineer - Querétaro",
+   "role_family": "sales",
+   "location": "Queretaro",
+   "posted_at": "2026-10-09T18:53:38.134000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/3ba07040-7833-4ab7-84c4-9266fe35dc76"
+  },
+  {
+   "external_id": "4324daf6-c2f6-4488-8c06-9cc7f56e2f51",
+   "title": "Events & Partnerships Lead",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-08-04T02:34:53.330000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/4324daf6-c2f6-4488-8c06-9cc7f56e2f51"
+  },
+  {
+   "external_id": "47835158-4848-4d7d-939c-1d1667ca3232",
+   "title": "Application Controls Engineer - Southeast",
+   "role_family": "other",
+   "location": "United States | Field Based",
+   "posted_at": "2026-03-23T22:24:16.707000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/47835158-4848-4d7d-939c-1d1667ca3232"
+  },
+  {
+   "external_id": "489170b9-201e-4ef4-8d62-e1eb041175ad",
+   "title": "Junior IIOT Engineer, Haiyan",
+   "role_family": "other",
+   "location": "Haiyan",
+   "posted_at": "2026-09-11T16:41:27.692000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/489170b9-201e-4ef4-8d62-e1eb041175ad"
+  },
+  {
+   "external_id": "5c3a26d6-7575-4838-a368-2b07beb47e11",
+   "title": "Applications Manager",
+   "role_family": "other",
+   "location": "China",
+   "posted_at": "2026-09-11T15:24:00.712000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/5c3a26d6-7575-4838-a368-2b07beb47e11"
+  },
+  {
+   "external_id": "662d6eff-8808-401e-9687-bf3141ce722c",
+   "title": "Senior Field Engineer (Controls)",
+   "role_family": "other",
+   "location": "Shanghai, China",
+   "posted_at": "2026-02-27T07:10:09.816000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/662d6eff-8808-401e-9687-bf3141ce722c"
+  },
+  {
+   "external_id": "6b07bfd6-a179-4c9f-aae8-1f5069f3ac13",
+   "title": "Senior Field Engineer (Controls)",
+   "role_family": "other",
+   "location": "Nantong, China",
+   "posted_at": "2026-02-27T07:11:35.588000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/6b07bfd6-a179-4c9f-aae8-1f5069f3ac13"
+  },
+  {
+   "external_id": "771d32f3-5c04-44c2-b0a0-de1ddb4c6b43",
+   "title": "Application Engineer, Bengaluru",
+   "role_family": "other",
+   "location": "Bengaluru",
+   "posted_at": "2026-03-23T23:34:20.517000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/771d32f3-5c04-44c2-b0a0-de1ddb4c6b43"
+  },
+  {
+   "external_id": "820438fc-d2c7-4738-91a9-96c1e199b38f",
+   "title": "Software Engineering Lead / Engineering Manager",
+   "role_family": "engineering",
+   "location": "Taipei",
+   "posted_at": "2026-10-22T08:15:01.752000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/820438fc-d2c7-4738-91a9-96c1e199b38f"
+  },
+  {
+   "external_id": "827eabc8-7c28-4e9b-952d-1db108600096",
+   "title": "Vision Sales Engineer - México",
+   "role_family": "sales",
+   "location": "Monterrey",
+   "posted_at": "2026-04-22T19:23:05.352000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/827eabc8-7c28-4e9b-952d-1db108600096"
+  },
+  {
+   "external_id": "83b1080a-4807-4e4b-9dc1-3c83ecf64d81",
+   "title": "System Integration Engineer",
+   "role_family": "other",
+   "location": "Shanghai, China",
+   "posted_at": "2026-02-27T07:17:00.139000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/83b1080a-4807-4e4b-9dc1-3c83ecf64d81"
+  },
+  {
+   "external_id": "83c6a150-57ff-4ab7-8f37-87ecb5da1db3",
+   "title": "VP of Sales",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-09-02T14:23:43.020000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/83c6a150-57ff-4ab7-8f37-87ecb5da1db3"
+  },
+  {
+   "external_id": "870af5e2-9e00-479a-8635-70f8225489ce",
+   "title": "Senior Field Engineer(Controls)",
+   "role_family": "other",
+   "location": "China",
+   "posted_at": "2026-03-19T08:20:05.446000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/870af5e2-9e00-479a-8635-70f8225489ce"
+  },
+  {
+   "external_id": "8b7f0789-8e3b-4fd1-a09d-4fe89f4744dc",
+   "title": "Junior IIOT Engineer, Shenzhen",
+   "role_family": "other",
+   "location": "Shenzhen, China",
+   "posted_at": "2026-09-21T19:11:43.625000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/8b7f0789-8e3b-4fd1-a09d-4fe89f4744dc"
+  },
+  {
+   "external_id": "8c201bc0-af6e-42d7-b1c7-c1ed264117ec",
+   "title": "Applications Manager",
+   "role_family": "other",
+   "location": "Shenzhen, China",
+   "posted_at": "2026-08-20T09:59:24.995000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/8c201bc0-af6e-42d7-b1c7-c1ed264117ec"
+  },
+  {
+   "external_id": "8e74662c-b7e4-43ef-a6e6-3a8da0d5108e",
+   "title": "Application Engineer - Taipei",
+   "role_family": "other",
+   "location": "Taipei",
+   "posted_at": "2026-09-14T04:24:23.624000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/8e74662c-b7e4-43ef-a6e6-3a8da0d5108e"
+  },
+  {
+   "external_id": "91219c61-9b19-4ddd-b050-738a9e08aba5",
+   "title": "Vision Sales Engineer - San Francisco",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-02-25T17:30:00.342000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/91219c61-9b19-4ddd-b050-738a9e08aba5"
+  },
+  {
+   "external_id": "93892598-67bd-4707-9fa8-28546333e326",
+   "title": "Machine Vision Applications Engineer, San Francisco",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-10-22T21:52:49.520000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/93892598-67bd-4707-9fa8-28546333e326"
+  },
+  {
+   "external_id": "967d5bf9-e4f5-44d0-988c-dbb4c99192e7",
+   "title": "Vision Sales Engineer - Dallas",
+   "role_family": "sales",
+   "location": "Dallas, Texas",
+   "posted_at": "2026-10-06T22:09:38.806000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/967d5bf9-e4f5-44d0-988c-dbb4c99192e7"
+  },
+  {
+   "external_id": "98a71941-b589-40dd-a07e-65db47c7834e",
+   "title": "Technical Sales Engineer, Taiwan",
+   "role_family": "sales",
+   "location": "Taipei",
+   "posted_at": "2026-10-20T15:25:29.132000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/98a71941-b589-40dd-a07e-65db47c7834e"
+  },
+  {
+   "external_id": "9a72daec-200a-4610-aed6-c0ccd7855538",
+   "title": "System Integration Engineer",
+   "role_family": "other",
+   "location": "Chengdu",
+   "posted_at": "2026-05-26T19:27:13.804000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/9a72daec-200a-4610-aed6-c0ccd7855538"
+  },
+  {
+   "external_id": "a26e7c1a-ed13-45e6-a8ce-4f1fc3461096",
+   "title": "Technical Sales Engineer",
+   "role_family": "sales",
+   "location": "Shanghai, China",
+   "posted_at": "2026-09-04T01:53:36.702000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/a26e7c1a-ed13-45e6-a8ce-4f1fc3461096"
+  },
+  {
+   "external_id": "a4bda123-a341-42e4-82fd-b3691e16ad32",
+   "title": "Applications Manager, Bac Ninh",
+   "role_family": "other",
+   "location": "Bac Ninh",
+   "posted_at": "2026-09-08T06:45:02.030000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/a4bda123-a341-42e4-82fd-b3691e16ad32"
+  },
+  {
+   "external_id": "a8824e61-4bef-4c86-8fa8-bcbcdaf977d9",
+   "title": "System Integration Engineer",
+   "role_family": "other",
+   "location": "Shenzhen, China",
+   "posted_at": "2026-02-27T07:44:11.066000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/a8824e61-4bef-4c86-8fa8-bcbcdaf977d9"
+  },
+  {
+   "external_id": "ab3aeeb3-907a-4832-b11e-046a9095f2bb",
+   "title": "Marketing Executive",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-09-08T15:36:23.557000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/ab3aeeb3-907a-4832-b11e-046a9095f2bb"
+  },
+  {
+   "external_id": "aca8cd24-5a15-478d-ba4a-f2214945a15f",
+   "title": "Applications Engineer, Penang",
+   "role_family": "other",
+   "location": "Penang, Malaysia",
+   "posted_at": "2026-05-01T20:59:22.954000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/aca8cd24-5a15-478d-ba4a-f2214945a15f"
+  },
+  {
+   "external_id": "ad33b509-2ebe-4c94-be91-91f4a79608ea",
+   "title": "Assistant Application Engineer",
+   "role_family": "other",
+   "location": "China",
+   "posted_at": "2026-10-22T13:07:30.199000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/ad33b509-2ebe-4c94-be91-91f4a79608ea"
+  },
+  {
+   "external_id": "b4be1049-26a7-4985-866a-a6085fc87ca5",
+   "title": "Systems Integration Engineer",
+   "role_family": "other",
+   "location": "China",
+   "posted_at": "2026-03-19T08:22:42.441000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/b4be1049-26a7-4985-866a-a6085fc87ca5"
+  },
+  {
+   "external_id": "c3c24e8a-7cbb-467e-8562-3191af5d13a3",
+   "title": "Senior Product Program Manager",
+   "role_family": "other",
+   "location": "Taipei",
+   "posted_at": "2026-07-31T05:11:10.724000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/c3c24e8a-7cbb-467e-8562-3191af5d13a3"
+  },
+  {
+   "external_id": "c597579f-4ad1-41d2-9c30-a981d295fcbd",
+   "title": "Vision Sales Engineer (U.S. – Expansion)",
+   "role_family": "sales",
+   "location": "Remote",
+   "posted_at": "2026-04-27T18:51:57.120000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/c597579f-4ad1-41d2-9c30-a981d295fcbd"
+  },
+  {
+   "external_id": "c6c08651-9784-41ab-8608-67ed39997231",
+   "title": "Vision Engineer",
+   "role_family": "other",
+   "location": "Shanghai, China",
+   "posted_at": "2026-02-27T07:08:36.632000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/c6c08651-9784-41ab-8608-67ed39997231"
+  },
+  {
+   "external_id": "c6e23915-1bab-4c97-b22c-b99e4583ce5b",
+   "title": "Applications Manager",
+   "role_family": "other",
+   "location": "Chengdu",
+   "posted_at": "2026-09-11T15:13:40.332000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/c6e23915-1bab-4c97-b22c-b99e4583ce5b"
+  },
+  {
+   "external_id": "ca2f7283-c372-4517-8f16-c50b4dffcf61",
+   "title": "System Integration Engineer",
+   "role_family": "other",
+   "location": "Nantong, China",
+   "posted_at": "2026-02-27T07:12:29.694000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/ca2f7283-c372-4517-8f16-c50b4dffcf61"
+  },
+  {
+   "external_id": "d0f32974-e8fd-4c77-bea8-e6c49dc25a9d",
+   "title": "Engineering Intern",
+   "role_family": "other",
+   "location": "Taipei",
+   "posted_at": "2026-05-18T02:22:01.824000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/d0f32974-e8fd-4c77-bea8-e6c49dc25a9d"
+  },
+  {
+   "external_id": "d5243c06-e1f3-4526-900d-2c3d198a6585",
+   "title": "Senior Software Development Engineer in Test",
+   "role_family": "other",
+   "location": "Taipei",
+   "posted_at": "2026-02-27T01:04:16.995000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/d5243c06-e1f3-4526-900d-2c3d198a6585"
+  },
+  {
+   "external_id": "d8b1eb41-6bfc-4ad7-a8d0-29df085e068f",
+   "title": "Fulfillment and Operations Specialist, Shenzhen",
+   "role_family": "other",
+   "location": "Shenzhen, China",
+   "posted_at": "2026-10-15T03:23:05.695000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/d8b1eb41-6bfc-4ad7-a8d0-29df085e068f"
+  },
+  {
+   "external_id": "dd93cfc5-54cc-4628-88d4-af7c61a5e03e",
+   "title": "Applications Engineer, Bac Ninh",
+   "role_family": "other",
+   "location": "Bac Ninh",
+   "posted_at": "2026-04-24T17:53:44.845000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/dd93cfc5-54cc-4628-88d4-af7c61a5e03e"
+  },
+  {
+   "external_id": "e77566a0-5018-4b18-a032-88353801e313",
+   "title": "Vision Engineer",
+   "role_family": "other",
+   "location": "Shenzhen, China",
+   "posted_at": "2026-02-27T07:43:01.745000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/e77566a0-5018-4b18-a032-88353801e313"
+  },
+  {
+   "external_id": "e9e5eb0a-80d2-411a-9574-1e88b77bf602",
+   "title": "Junior IIOT Engineer, Nantong",
+   "role_family": "other",
+   "location": "Nantong, China",
+   "posted_at": "2026-09-21T19:11:02.442000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/e9e5eb0a-80d2-411a-9574-1e88b77bf602"
+  },
+  {
+   "external_id": "ec473518-429b-442b-a303-b8395021ed0b",
+   "title": "Senior Recruiter, China",
+   "role_family": "finance_ops",
+   "location": "Shanghai, China",
+   "posted_at": "2026-09-02T03:54:27.189000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/ec473518-429b-442b-a303-b8395021ed0b"
+  },
+  {
+   "external_id": "eccdff69-bbde-4c6a-8032-ba3a582c7de9",
+   "title": "Senior Field Engineer(Controls)",
+   "role_family": "other",
+   "location": "Haiyan",
+   "posted_at": "2026-09-11T16:11:31.988000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/eccdff69-bbde-4c6a-8032-ba3a582c7de9"
+  },
+  {
+   "external_id": "f8446fd9-7d99-4beb-a63a-02c1004bb493",
+   "title": "Vision Sales Engineer - Great Lakes Region",
+   "role_family": "sales",
+   "location": "Great Lakes Region",
+   "posted_at": "2026-10-08T17:32:51.922000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/f8446fd9-7d99-4beb-a63a-02c1004bb493"
+  },
+  {
+   "external_id": "f85a167a-4624-4e7e-873a-b4b6e7aa8616",
+   "title": "Business Development Representative",
+   "role_family": "sales",
+   "location": "Remote",
+   "posted_at": "2026-07-07T23:04:10.107000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/f85a167a-4624-4e7e-873a-b4b6e7aa8616"
+  },
+  {
+   "external_id": "fb4833dd-96f9-4829-b7d6-604d77ec2a53",
+   "title": "Applications Manager",
+   "role_family": "other",
+   "location": "Nantong, China",
+   "posted_at": "2026-02-12T07:41:06.905000+00:00",
+   "url": "https://jobs.ashbyhq.com/overview/fb4833dd-96f9-4829-b7d6-604d77ec2a53"
+  }
+ ]
+}

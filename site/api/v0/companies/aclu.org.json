@@ -1,0 +1,25 @@
+{
+  "domain": "aclu.org",
+  "name": "ACLU",
+  "as_of": "2026-10-26",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "ACLU of Indiana pauses new director’s start date, launches external review - The Statehouse File",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWTM5ZnNTOXUwMFB6RVJuNkF2RGRXWFhsendNOG5YWWgyTUJxamlxazM1RzZIWDlmRFNsRnhScXZ1TGYyU09LV0lwQW91UC1RR2lCSjcwMlJWdVZ5Q3NGNHcyNUxXMFppX1lxa1lJVkNuOWJWeHgydFZqaW5IOHZnaXNnVUZndWtWaXRRWEFEYUVjRy1laFNlNUd5VlZhSkRUS3A4dkhUM2Flb2htc0t1d1MzdjA4d0g5VzU2b1ZhakpFQVpjcEZjNFBCd2ZxUmd5WGFIdWdrbF9GSWFTc3A0WmpIcmdvWDhicURVQTdjdjQwVmljd0M4ZHBR?oc=5"
+    }
+  ],
+  "open_postings": 16,
+  "long_open_roles": 7,
+  "sources": {
+    "ats": "greenhouse:aclu",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

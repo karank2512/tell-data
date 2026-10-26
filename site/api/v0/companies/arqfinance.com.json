@@ -1,14 +1,14 @@
 {
   "domain": "arqfinance.com",
   "name": "ARQ",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 0.9,
+  "score": 0.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-23",
       "summary": "3 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/ARQ",
@@ -31,7 +31,7 @@
       ]
     }
   ],
-  "open_postings": 32,
+  "open_postings": 38,
   "long_open_roles": 7,
   "sources": {
     "ats": "ashby:ARQ",

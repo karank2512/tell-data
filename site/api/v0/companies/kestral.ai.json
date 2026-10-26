@@ -1,13 +1,13 @@
 {
   "domain": "kestral.ai",
   "name": "Kestral",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 0.4,
+  "score": 0.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-24",
       "summary": "Introducing kstack: The Skills We Built to Ship Faster with AI Agents",
       "url": "https://kestral.ai/blog/introducing-kstack"

@@ -1,9 +1,9 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 8.5,
+  "score": 8.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "Coinbase Crypto Exchange Rolls Out Stocks and Prediction Markets - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWl4a3hGbG4tNzIwNkRleExmaEtaRTc0T0tKcFJ3OWY2Nm9ST2RhOFJRN3oyc0IwTnJhOEpQSk5jZ21Kak5BTkgzOWMyemg5WUhncmYyZXJjc3NzZFN2TGdKUTBvMG5QQ1J5NHNWT25OTzVfMFk5Y0lfRWNBeDhIU3B3b1Q1ZElySnM5eWM3dERCTGJW?oc=5"
@@ -73,8 +73,8 @@
       ]
     }
   ],
-  "open_postings": 227,
-  "long_open_roles": 57,
+  "open_postings": 228,
+  "long_open_roles": 59,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

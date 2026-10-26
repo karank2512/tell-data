@@ -1,13 +1,20 @@
 {
   "domain": "corgi.com",
   "name": "Corgi Insurance",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 3.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 2.0,
+      "occurred_at": "2026-10-26",
+      "summary": "Corgi Insurance Appoints [person] as VP, [person]",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnhkamhGRjZTQTJrUWR3TUN4a3R5UDRVUWtQN1NMVGYzNzR5ckhFVE55cldTRkYwbFRwNzMyT2lXemxmTW02WERSZXdyMHF5UXdnSVIxMUFNTmxmSXA1V1UtYmt2TnRJWC1ESXBSOW1oVUkyTUNUdUNuMk50aFMxX1M2Y05ENGVSOVUxTzVtb0FLaXd6UzFqMmR3dzFsOUs5YV9BSw?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.7,
       "occurred_at": "2026-10-13",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2R5Z0Z6cHk3TllXdWxsa1BVZzh2XzJ0MDkwR1cwcUlWa19iMWdjSEFSRGJMQWhkanhEMzc5dTQ5OFRqMkJPTlZrR3NWZXhSeTZKdGRQajNhb283R2hkeE5lbXduMmdjX2hpNnBtR2wzM3JvbmZyUjFSc0h2UHFVaGhQUXd6SmFCTEpWVkl4WEdzVXFrX3hfWm9oVnFfRGU5WnZuSFExM2xrRlQzV1BLNV9wdFNNbXFZZ2w3SDlMMWo4SnR2UExDb2thYnFIWmtGS3VtTF9iRQ?oc=5"

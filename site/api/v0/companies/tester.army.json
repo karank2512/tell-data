@@ -1,9 +1,9 @@
 {
   "domain": "tester.army",
   "name": "TesterArmy",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 2.5,
+  "score": 2.4,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-22",
       "summary": "Introducing Scout: API Testing Built for AI Agents",
       "url": "https://tester.army/blog/introducing-scout-api-testing-for-agents"

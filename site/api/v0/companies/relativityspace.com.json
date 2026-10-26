@@ -1,14 +1,14 @@
 {
   "domain": "relativityspace.com",
   "name": "Relativity Space",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 6.3,
+  "score": 6.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.8,
+      "contribution": 2.7,
       "occurred_at": "2026-10-22",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/relativity",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-20",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/relativity",
@@ -81,7 +81,7 @@
       ]
     }
   ],
-  "open_postings": 398,
+  "open_postings": 397,
   "long_open_roles": 133,
   "sources": {
     "ats": "greenhouse:relativity",

@@ -1,14 +1,14 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 11.2,
+  "score": 12.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.6,
+      "contribution": 3.5,
       "occurred_at": "2026-10-21",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -44,6 +44,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Legaltech Rundown: Goodwin Launches AI Governance Program, Legora Announces Integrations With iManage, Blue J and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQkdLNVZiam03YjZZbGFOX1VYVnJheHRISmJnNlVWenpUZVFOUEo5QzJNeWZmOElTcnlsS2JwUUR2T3B6bDFTc3hEdWVIOFl6T2k0NFpCTHlhblRTRWVuVmZnS01LQnE3M01FUGdXdHY5blBOeEFRTkRPWGZNS1BuU3hzQjVtTUQxQ0Q3SHkycHNYSVJEWmNEbEJxQWZEQ1FaODFnU0xFOEJ3ZGJyb2ZvbnBkR01OdlpNRGxXakc0bTgxekJPNVNrcGoxOEpOaHZaOWlNNU5oZkpWaXFCVHhXYWlHeWJrd2JWSkU4MUFxMDNwcDA?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.3,
       "occurred_at": "2026-10-16",
       "summary": "Hogan Lovells Cadwalader unveils firmwide AI strategy, signs with Harvey and Legora - Legal IT Insider",
@@ -58,7 +65,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Legora launches integration ecosystem spanning the enterprise legal stack - Legora",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUItUkYxQUd5Zm9qSExFZ0ZzRTlXcWdzeG5ZaVI0MEtOaVB5NjBaaW9xOWdjOTZoblJpTWRrRGlRdjdiMHBoSHMtd2ZEcHhpa2ktTnJFRkM2Z2NWeGt3Tnczc25SMkxlWndRYXUwclZOb19sR0xBcmREdDJWYmlYTjI2eU1qR09Odks4OVZaZFVjWlIzWTcyamg0LXY1UDB6bjhJ?oc=5"
@@ -97,7 +104,7 @@
     }
   ],
   "open_postings": 310,
-  "long_open_roles": 96,
+  "long_open_roles": 98,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": null,

@@ -1,10 +1,17 @@
 {
   "domain": "continue.dev",
   "name": "Continue",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 1.2,
+  "score": 2.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-24",
+      "summary": "City releases preliminary air monitoring data while several agencies continue testing - Toledo Blade",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVVZseWo0WkRSQ1VCQ3pYTlBNVXVxYVlhbDZvYjB4alRldG9JYkg3SHR1N2UyQ0ZPejExWF9KekJueVRCNng0VmNFYS12dEtLbG1kZjA3MkZPR1BibDljYVB6ckxLM21KTXhlWWE1aXctSS1EVF9hNzJCUjY3V04tVzZ0SkExSTFHMVk0TGZjbjZWenRGZXp0cks0bEJJejVBZGVlUHYwN3ZKSldHRHNveDg4cTZVSGxjQURSVnJNX0c3SEFnd09BcENKWHJUcVk1ODNzV3RKM0JZa095WnctWERkaUlSU1E4VElCNjVR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

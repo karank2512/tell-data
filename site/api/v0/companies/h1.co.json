@@ -1,14 +1,14 @@
 {
   "domain": "h1.co",
   "name": "H1",
-  "as_of": "2026-10-25",
+  "as_of": "2026-10-26",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/h1",
