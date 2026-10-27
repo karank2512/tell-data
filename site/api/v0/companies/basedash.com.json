@@ -1,9 +1,9 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Introducing the Basedash Connector gallery",
       "url": "https://www.basedash.com/blog/introducing-basedash-connector-gallery/"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-24",
       "summary": "Introducing the Basedash developer platform",
       "url": "https://www.basedash.com/blog/introducing-the-basedash-developer-platform/"
@@ -165,13 +165,6 @@
       "occurred_at": "2026-05-07",
       "summary": "Introducing the Basedash MCP server",
       "url": "https://www.basedash.com/blog/introducing-the-basedash-mcp-server/"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.1,
-      "occurred_at": "2026-04-30",
-      "summary": "Introducing the Basedash Dashboard Agent",
-      "url": "https://www.basedash.com/blog/introducing-basedash-dashboard-agent/"
     }
   ],
   "open_postings": 0,
@@ -183,6 +176,12 @@
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-10-27",
+      "url": "https://www.basedash.com/blog/introducing-basedash-dashboard-agent/",
+      "summary": "Introducing the Basedash Dashboard Agent"
+    },
     {
       "type": "launch",
       "decayed_at": "2026-10-19",

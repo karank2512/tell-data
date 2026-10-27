@@ -1,0 +1,38 @@
+{
+  "domain": "flagright.com",
+  "name": "Flagright",
+  "as_of": "2026-10-27",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-27",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/flagright.com",
+      "postings": [
+        {
+          "title": "Senior Mid-Market Account Executive - London",
+          "posted_at": "2026-10-26",
+          "url": "https://jobs.ashbyhq.com/flagright.com/24d3180a-ddfd-4442-a734-151388ed5bc9"
+        },
+        {
+          "title": "Senior Account Executive - US",
+          "posted_at": "2026-10-27",
+          "url": "https://jobs.ashbyhq.com/flagright.com/7d783b4d-ccec-43ae-803a-2d124fecb90e"
+        }
+      ]
+    }
+  ],
+  "open_postings": 11,
+  "long_open_roles": 6,
+  "sources": {
+    "ats": "ashby:flagright.com",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

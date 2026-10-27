@@ -1,0 +1,377 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "mixpanel",
+ "domain": "mixpanel.com",
+ "as_of": "2026-10-27",
+ "last_polled_at": "2026-10-27T15:32:52.835805+00:00",
+ "open_postings": [
+  {
+   "external_id": "7776048",
+   "title": "Engineering Manager, Query Service",
+   "role_family": "engineering",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-04-02T19:47:13+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/7776048"
+  },
+  {
+   "external_id": "7943560",
+   "title": "Senior Software Engineer, Data Foundation",
+   "role_family": "engineering",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-06-02T20:12:11+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/7943560"
+  },
+  {
+   "external_id": "8039991",
+   "title": "Senior Customer Engineer - ANZ",
+   "role_family": "customer",
+   "location": "Sydney, Australia (Hybrid)",
+   "posted_at": "2026-07-10T01:38:11+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8039991"
+  },
+  {
+   "external_id": "8053868",
+   "title": "Staff Design Engineer",
+   "role_family": "product_design",
+   "location": "San Francisco, US (Remote)",
+   "posted_at": "2026-07-09T17:28:15+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8053868"
+  },
+  {
+   "external_id": "8075971",
+   "title": "Strategic Finance Associate, GTM",
+   "role_family": "finance_ops",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-09-30T16:13:12+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8075971"
+  },
+  {
+   "external_id": "8075972",
+   "title": "Strategic Finance Associate, GTM",
+   "role_family": "finance_ops",
+   "location": "New York City, US (Hybrid)",
+   "posted_at": "2026-09-30T16:19:05+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8075972"
+  },
+  {
+   "external_id": "8080826",
+   "title": "Head of Sales, India",
+   "role_family": "exec",
+   "location": "Bengaluru, Karnataka, India (Hybrid)",
+   "posted_at": "2026-07-23T06:18:37+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080826"
+  },
+  {
+   "external_id": "8080828",
+   "title": "Senior Partner Sales Manager - Southeast Asia and India",
+   "role_family": "other",
+   "location": "Singapore (Hybrid)",
+   "posted_at": "2026-07-23T06:13:14+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080828"
+  },
+  {
+   "external_id": "8080832",
+   "title": "Senior Enterprise Account Executive, Japan",
+   "role_family": "sales",
+   "location": "Singapore (Hybrid)",
+   "posted_at": "2026-07-23T06:35:25+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080832"
+  },
+  {
+   "external_id": "8080833",
+   "title": "Enterprise Account Executive, Malaysia & Indonesia",
+   "role_family": "sales",
+   "location": "Singapore (Hybrid)",
+   "posted_at": "2026-07-23T06:27:33+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8080833"
+  },
+  {
+   "external_id": "8106851",
+   "title": "Regional Marketing Manager, ANZ",
+   "role_family": "marketing",
+   "location": "Sydney, Australia (Hybrid)",
+   "posted_at": "2026-08-05T00:35:21+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8106851"
+  },
+  {
+   "external_id": "8107402",
+   "title": "Startup Program Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-08-07T23:13:29+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8107402"
+  },
+  {
+   "external_id": "8112770",
+   "title": "Startup Program Manager",
+   "role_family": "marketing",
+   "location": "New York City, US (Hybrid)",
+   "posted_at": "2026-08-07T23:13:30+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8112770"
+  },
+  {
+   "external_id": "8115028",
+   "title": "Senior Data Scientist, AI Product Insights",
+   "role_family": "ml_ai",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-08-10T15:48:55+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8115028"
+  },
+  {
+   "external_id": "8124207",
+   "title": "Delivery Engineer, EMEA",
+   "role_family": "customer",
+   "location": "London, UK (Hybrid)",
+   "posted_at": "2026-08-13T14:38:52+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8124207"
+  },
+  {
+   "external_id": "8124267",
+   "title": "Customer Value Architect, EMEA",
+   "role_family": "other",
+   "location": "London, UK (Hybrid)",
+   "posted_at": "2026-09-08T14:32:52+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8124267"
+  },
+  {
+   "external_id": "8124704",
+   "title": "Senior Software Engineer, Experimentation",
+   "role_family": "engineering",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-10-22T13:58:53+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8124704"
+  },
+  {
+   "external_id": "8138187",
+   "title": "Customer Value Architect III",
+   "role_family": "other",
+   "location": "San Francisco, US (Remote)",
+   "posted_at": "2026-08-18T13:40:32+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8138187"
+  },
+  {
+   "external_id": "8142608",
+   "title": "Senior Account Executive, Enterprise - UK",
+   "role_family": "sales",
+   "location": "London, UK (Hybrid)",
+   "posted_at": "2026-08-19T19:38:20+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8142608"
+  },
+  {
+   "external_id": "8143102",
+   "title": "Customer Value Architect III",
+   "role_family": "other",
+   "location": "Remote, US",
+   "posted_at": "2026-08-19T23:04:21+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8143102"
+  },
+  {
+   "external_id": "8162414",
+   "title": "Software Engineer, Distributed Systems",
+   "role_family": "engineering",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-08-31T22:00:38+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8162414"
+  },
+  {
+   "external_id": "8172398",
+   "title": "Commercial Counsel, APAC",
+   "role_family": "other",
+   "location": "Singapore (Hybrid)",
+   "posted_at": "2026-09-03T10:19:49+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8172398"
+  },
+  {
+   "external_id": "8194551",
+   "title": "Marketing Systems Engineer",
+   "role_family": "marketing",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-09-14T15:55:51+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8194551"
+  },
+  {
+   "external_id": "8194560",
+   "title": "Senior Account Executive, India",
+   "role_family": "sales",
+   "location": "Bengaluru, Karnataka, India (Hybrid)",
+   "posted_at": "2026-09-11T11:14:10+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8194560"
+  },
+  {
+   "external_id": "8198277",
+   "title": "Senior Customer Value Architect",
+   "role_family": "other",
+   "location": "Bengaluru, Karnataka, India (Hybrid)",
+   "posted_at": "2026-09-15T02:08:25+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8198277"
+  },
+  {
+   "external_id": "8198286",
+   "title": "Customer Value Architect",
+   "role_family": "other",
+   "location": "Bengaluru, Karnataka, India (Hybrid)",
+   "posted_at": "2026-09-15T02:16:05+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8198286"
+  },
+  {
+   "external_id": "8201470",
+   "title": "Marketing Systems Engineer",
+   "role_family": "marketing",
+   "location": "New York City, US (Hybrid)",
+   "posted_at": "2026-09-14T15:55:53+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8201470"
+  },
+  {
+   "external_id": "8207137",
+   "title": "Delivery Engineer",
+   "role_family": "customer",
+   "location": "Singapore (Hybrid)",
+   "posted_at": "2026-09-22T09:00:53+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8207137"
+  },
+  {
+   "external_id": "8207163",
+   "title": "Interactive Designer",
+   "role_family": "product_design",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-09-16T20:48:05+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8207163"
+  },
+  {
+   "external_id": "8222166",
+   "title": "Senior Strategic Finance Associate, G&A",
+   "role_family": "finance_ops",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-09-28T22:20:26+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222166"
+  },
+  {
+   "external_id": "8222194",
+   "title": "Senior Outbound Strategist",
+   "role_family": "other",
+   "location": "Singapore (Hybrid)",
+   "posted_at": "2026-09-23T09:01:55+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222194"
+  },
+  {
+   "external_id": "8222210",
+   "title": "Outbound Strategist",
+   "role_family": "other",
+   "location": "Singapore (Hybrid)",
+   "posted_at": "2026-09-23T09:03:28+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222210"
+  },
+  {
+   "external_id": "8222214",
+   "title": "Senior Customer Engineer - LATAM",
+   "role_family": "customer",
+   "location": "Texas, US (Remote)",
+   "posted_at": "2026-09-28T18:16:12+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8222214"
+  },
+  {
+   "external_id": "8223567",
+   "title": "Product Manager",
+   "role_family": "product_design",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-09-22T21:16:33+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8223567"
+  },
+  {
+   "external_id": "8237751",
+   "title": "Senior Customer Engineer - LATAM",
+   "role_family": "customer",
+   "location": "Florida, US (Remote)",
+   "posted_at": "2026-09-28T18:18:35+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8237751"
+  },
+  {
+   "external_id": "8238224",
+   "title": "Senior Customer Engineer - LATAM",
+   "role_family": "customer",
+   "location": "Mexico City, Mexico (Hybrid)",
+   "posted_at": "2026-09-28T20:41:38+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8238224"
+  },
+  {
+   "external_id": "8238551",
+   "title": "Senior Strategic Finance Associate, G&A",
+   "role_family": "finance_ops",
+   "location": "New York City, US (Hybrid)",
+   "posted_at": "2026-09-28T22:21:08+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8238551"
+  },
+  {
+   "external_id": "8240617",
+   "title": "Renewals Manager",
+   "role_family": "other",
+   "location": "Singapore (Hybrid)",
+   "posted_at": "2026-09-30T08:56:26+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8240617"
+  },
+  {
+   "external_id": "8248501",
+   "title": "Senior Customer Engineer - LATAM",
+   "role_family": "customer",
+   "location": "Remote, US (Remote)",
+   "posted_at": "2026-10-02T01:19:23+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8248501"
+  },
+  {
+   "external_id": "8250405",
+   "title": "Senior Finance Manager, Product & Engineering",
+   "role_family": "finance_ops",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-10-03T00:03:39+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8250405"
+  },
+  {
+   "external_id": "8260692",
+   "title": "Digital Adoption & Lifecycle Manager (Customer Success)",
+   "role_family": "gtm_ops",
+   "location": "San Francisco, US (Remote)",
+   "posted_at": "2026-10-09T21:58:48+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8260692"
+  },
+  {
+   "external_id": "8263014",
+   "title": "Product Manager - Data",
+   "role_family": "product_design",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-10-07T19:54:37+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8263014"
+  },
+  {
+   "external_id": "8263237",
+   "title": "Product Manager - Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, US (Hybrid)",
+   "posted_at": "2026-10-07T21:06:37+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8263237"
+  },
+  {
+   "external_id": "8268370",
+   "title": "Digital Adoption & Lifecycle Manager (Customer Success)",
+   "role_family": "gtm_ops",
+   "location": "Remote, US",
+   "posted_at": "2026-10-09T20:26:26+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8268370"
+  },
+  {
+   "external_id": "8269024",
+   "title": "Digital Adoption & Lifecycle Manager (Customer Success)",
+   "role_family": "gtm_ops",
+   "location": "New York City, US (Remote)",
+   "posted_at": "2026-10-09T23:24:38+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8269024"
+  },
+  {
+   "external_id": "8305887",
+   "title": "Senior People Business Partner",
+   "role_family": "finance_ops",
+   "location": "London, UK (Hybrid)",
+   "posted_at": "2026-10-23T17:37:52+00:00",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8305887"
+  }
+ ]
+}

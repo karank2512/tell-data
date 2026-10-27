@@ -1,13 +1,13 @@
 {
   "domain": "vector.co",
   "name": "Vector",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 26.1,
+  "score": 28.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-19",
       "summary": "Vector Science and Therapeutics Corp. Appoints [person] as Managing Director of Corporate Development",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVFM4WnozVkxKcXhHSjVSQVZsQXFhdmRYOWpoRmlsbDFIYkhDZW1HaU5NaWRISzFvMEF2ZlBkRU1TSnp3VXlrVnd1Z3BtNkQzZEhkcUpOUkJyempENVNuZjlxd1U5TEhtc0EzZG1JTVhkWm5URVpSbVV1eU1BWVRSdFU0RWJyZkR1STNIeXZjZ1FUa2VhTm0yRE90dXdJSGttYjdXODVjbEFyQjB4aUM3MUF5MTEtdk1sVEwzcU52SmV1T0tVOUItY2NkM1hveXFqSTZQdnVQV08tbFU2bEV5RVIzSnUzbHhMQzdWa3dUZ3E5bUU?oc=5"
@@ -65,6 +65,20 @@
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-26",
+      "summary": "Vector launches AI scenario simulator for workplace training - IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkNWU3JzM0JjOTVjd2dCUVJxNXVnNE5SdW9qNmdDYVpDTndlVVlDTkc0Q1ZxM0J5cWljTmRYTHRzcnRGSkprVmdXM3gwNGF0ZGNjRHpvT0xmT1hSLWNqaFVfNTBHalJOakViZHN5SnA3ZlROR2FHdEFLMWpTSnFhQmNMVVBnbXByamdQOFNETTdZQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Vector launches AI scenario simulator for workplace training - IT Brief Australia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeU9iX2ttTDJwS1l0aTdTWWZvbmRCM2dkMFhBRFdBLUY1RWhkc3VLSTUtX1ZnQ1pOLU9wNjFKTWdnRzd5MldkZGtkNHBWLVVyVkxPMVludWNLbGFwRGVMRG1iQmNSU1VESDZ2TTRlZGw2aklaRGwwaC1uS0RDeWdZWUZOd1J0S01pNURLX0hfdGh4bnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
       "summary": "Vector launches Rust-based IEEE 11073 SDC stack for medical device connectivity - New Electronics",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaG1sc1lYazVqbWxSNkdBOTNCOTVUV2NBM00zSG9kS0RFUm1fdjZoa3NmaVYyNGxBN2xwSVNIcGNodVlpZFZSNGl0LU9tUTN4N1JYUmtVSTIzNUlTMTJ6M21WMHVrQ3ROZ3RVNjI5MTRDUEhpcEJ5TGw3Nk5nT1FhQURQTUR6MF9Cd0oxMVdZaVBNUEpNVnA1RW9FYllLSVBsNUVnM0x5NU5fRUdoYmVhMDB6VUxlSGpmazFUVVUxYjdJTWc?oc=5"
     },
@@ -91,21 +105,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "Vector Solutions Launches Skills Intelligence to Give Manufacturers a Real-Time View of Workforce Readiness - HRTech Series",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdWxCQlZ1dGRxR3YtLUFLQl9TT2FoTXVEaU53NkFsOERLQlpLckdZc3NfQW9JM0NPREZPeGwwaDVoQXRlRUtWUkN4QmtaX1V4OVp5WHBrb2QzdEtodEJDUGxsdk53bjNpbnpFZS1Cd0FxSzhvNFA3SmUtSUhrWEJLWWlhdjFqS2FKV1AtQW5ZN015cnphMXlLTWJOMkhRZTJka1NZRC1yM2xCZ2hhWVQ2QlpnUjRBVVYzNzBlUlZ3Q1FlX1EzSDJ0LTVkMG9jMzh4azIxWU5ZX1lKRnNiUGVob1phSjRqU0JDX2c1SQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "W. Darfur launches vector control campaign amid rising mosquito numbers - Radio Tamazuj",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTk2RzExalJDQWVSYlJidURpQVQ0bjJUZHlYQngyc0xkN2xKcEdwek1xWF9LVmJoX2ZBemIxSng5UzFJVU80X0Z4czVGejV4OWNqbWVhQUZBZnNzUWtidHdyOXpFQnJONmtJdEpuay14dC1kVFlIZXhLdlJvMHJXSU1zOFEtdkNLVl9GaHoyaGwzeXlfVzJHRF9IUW16dl9QcDY3c1FsVXZVTVFMV245enAxcDZCdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "RestaurantData Expands Restaurant Enterprise Index to 430 Companies and Introduces Restaurant Vector - RestaurantNews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUdpS1ROTTdmdWlMc0Q0QTNIVU9KM2o2Q2ctek5ZT3B2aVU3M3d5dVI0STFXYW5yaXRNZXFsLW5qUlNUNW9KYk1fOG12RWRWUWNHT2RQTWNIdFdyeG5HREU1NDB6SVhLTXU3TGNlYUtpVG5NUXJkcVBzM2tiR1EwMUVIUlpKOUFGczlCSEFXV01NeEpkcmhpVU5WUlZaT3VBU1A1SFkzZnB4TnM?oc=5"

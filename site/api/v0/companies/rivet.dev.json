@@ -1,13 +1,13 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Introducing Rivet 3.0 Preview",
       "url": "https://rivet.dev/changelog/2026-10-26-introducing-rivet-3-0-preview/"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-06",
       "summary": "Introducing the agentOS Package Registry",
       "url": "https://rivet.dev/changelog/2026-07-06-introducing-the-agentos-package-registry/"

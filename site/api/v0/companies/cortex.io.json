@@ -1,9 +1,9 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 9.5,
+  "score": 12.1,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-23",
       "summary": "TCG launches Cortex DC to build 2 GW data centre capacity in India - Tech Observer Magazine",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlJWTS15VGpDZkdPbWRmbi14TFhqQ29KTHZBVVIwTzdiWTJ5WGFRenctOFlHcjhaTG9EQ2Y4bkd3VDdLNHRVa1JBcERPM1l1TzBnZ1FfZkJpd2YtLVQ3dFczdG1UTG1GcjEwbWhrTURTWlpMQmVKdmtsZlhObUtwTEtyR18xT3dLcTdCeHI5dThNbS14TXlKbmprdXl2RknSAaQBQVVfeXFMUDJPZTVha19LZWQtNks3b3dOYzNkSUUxNEJZTFFDTWNkTkJNZnM1Mzg4QWVZd3BQNEtwY0Q0cVZCUzhxODVob1d5MThEOU0zREpiRDlxMzJXUDBTMFlKVXh2V3o3bEFMbTUxVVhPQWNWN3JtdFQ4aHJVWWhBRUpqVGFkdDIxUGpUemlQMGE1RFdwbWhuM05HQTlHU3ZHcjRobXVlVno?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Palo Alto Networks Launches Cortex XDR One to Protect Enterprise AI Agents - Konsulteer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLVNzTFQ2YTJEMmdpTVpRazZFaUNlSTE4cEctTFBKcTBjM01OVHMxaGhOY2VTU3F0MmljUkpKUG9tTXVxU25oekloOWJabW1HLVFCM0xQQWV6OHVLYVNMSE5XWXhtRnpFU2E2b3YxVDNQY09CbHRTNjJsVEVPakl1MkIxcjgybk5YU0FVVzRjbmcwdldadjFVMWhLZ09oTGN3eGtDcnZRUUk5OWVDYnc?oc=5"
     },
     {
       "type": "launch",
@@ -43,6 +50,13 @@
     {
       "type": "launch",
       "contribution": 1.3,
+      "occurred_at": "2026-10-22",
+      "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa1FvaGU4eVliSGVySHpRSzVyUnhDeFpKaE9iZzh4MV9ubnBxXzlXLWphTm90aDBuME1OZkJtOXk0TzJlSkdOSWNxeXE2SDdhREVlblc3WU1oWjcycVFweWxXV0dWMzFnbGNySV9oRlVaa3dpbWxnZV93Vzk3bWxFLXFYZlJTdl9tX21KemUyVjBsZ2lqVmZ4UXg5aHhRNEFkM3NQRFlMQ25HVnQzLTNwWVFFT0hTbmd3T1VXYTFLWVBRUjRrYXVIQk5aaWwtM3RDNTMtSnBCOU9JWm5kX0lv?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Pervaziv AI Launches Cortex Host Protocol, Unifying Six AI Providers in One Enterprise Experience - PRLog",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTm9DMk1qYjRpdTlnUloteDBKY3JVN3R0T2hyWVJvZU15bFg3UnhLWlVuZ3lZaXpmYnE0YzlsNVVtelRfc3NwcFBZYW9BUVZ4X1ZlWHo5WjBKTVRaVGhhbWxGbUN4RzVpSF84ZklDaWpZWUN4WmViNVBoRmJFQ0xrM2gzM2d0bzNPZ0JucnZCQXZQS3dUMm5OR0VwWkJCdkNMZ1JzMXh0Vzd3MHhNd242MjJYdWdaWng0amkzNFBtdVpGdDJMX3A2OVhaOFA?oc=5"

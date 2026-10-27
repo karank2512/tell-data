@@ -1,20 +1,20 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 31.5,
+  "score": 31.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.3,
+      "contribution": 13.2,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "Irish alpaca knitwear brand, CAYO, launches at multi-brand boutique destination Square Bath - Retail Times",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGhTRzRzNzhyNF84UFRYYXVrY3Q3LTc2UTNJeElRbWRuU0d6ZkxKUlVhOS1Jd2RGeTF2ZkViRlc1R3hTZTNlVURrWC1HVnc0SkZRM01Gak44Z3k1UFJKa1lRS2FuRTZBRnNVanpuSnl2OGpTRUZ3OXV0U1hMM0Q5aHd1cWM3alJudzZNSHFqejdXTndaTGhnWVVFakZ1Q24yWkJsM1VCRjBoT2FMWmcwNFdnZ0p4MmM?oc=5"
@@ -130,14 +130,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-02",
       "summary": "Alpaca Launches Live Trading for Index Options via Trading API",
       "url": "https://alpaca.markets/blog/alpaca-launches-index-options-via-trading-api/"
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-01",
       "summary": "Binance Launches US Options with Alpaca to Expand Multi-Asset Super App",
       "url": "https://alpaca.markets/blog/binance-launches-us-options-with-alpaca-to-expand-multi-asset-super-app/"

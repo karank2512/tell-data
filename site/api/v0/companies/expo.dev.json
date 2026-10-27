@@ -1,10 +1,31 @@
 {
   "domain": "expo.dev",
   "name": "Expo",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 11.7,
+  "score": 15.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "Husqvarna debuts new gas, battery chainsaws at Equip Expo - Lawn & Landscape",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLXVvMm5YU0xQNlhrZm10b2RMNW10X1EzYUJNQ0hneUkzalBldUYwQWt3Skh6WXN5TmlzSDV5TFIxaXBNdnRieVFDMWh3TkJIRUVHYVJNMExBa25QeUE0MGhSdVdydmozMlU3SVllZUc0WTAzbkw2NXFKWXBXZndwMGg1YUJ0bjh1aTBIZURKRE9UejBJLW9maFB1bw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "APEX FTE EXPO 2026: PXCom Launches Turnkey Connectivity and Brings AI Onboard - APEX Media",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFVTTTN0ZmVYQ2VjUnRWYnpSZFlrTjM1N1QxUW1fQ2I1aU96d3lTN0htbEk2X3ljRlh1cVQ3Q0tkRGJaOFBWaTRWcVprV0tXUGpFUEpoYjczODJ3UmV5ZDBqMEd6N1N2UVRnU1NILWhxdVRmUzNiSHNqTEQ1VnBhaVBOMnJrT2RVUHZ5MF9scDR6WUZZRUFCOFhXYm8zblZ3ZEVMVEs1OA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "The Black Atlanta Comic Expo launches on Halloween weekend - Comics Beat",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXJIeV80LUVGbXdJRWk5ZFA5MTQzc1lYQ29fTHJfOE5JRVE1NkU2SVFXTXYzbVNIbkRnVzUyQzRTRm1iLWRKTDdHMUxseExpODZ4NTBnSEdoOTlRU2Nwbm9qM1VORVhCcUdkSUZGQ1o1Y2ZUZjdMb2VYQ0QyZVZKdHJLZUFJaFY4WWh1ZnRXQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "Introducing Lightbox Expo Artist Emerson Tung - Anime Herald",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR2FLeGY2XzIySndPa0wwV0FuYWRjWTdBb0VnT0ZXaDlvMGxpOE5LbDJ0bUhpME1rOThHSnp2T1dBLVZnZDhHcmliektTZHQ2OU84UkFiX3ozT0VTQ3ZFSjBrWU96cVFEUndWZkw4bTBscDRKQUM5elhZRVlkdGphdjI4bkJldkJu?oc=5"
@@ -70,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-23",
       "summary": "How Posh went from manual weekly mobile releases to continuous delivery with Expo",
       "url": "https://expo.dev/blog/posh-manual-weekly-releases-to-continuous-delivery-with-expo"

@@ -1,7 +1,7 @@
 {
   "domain": "blacksmith.sh",
   "name": "Blacksmith",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
   "score": 1.2,
   "contributions": [
@@ -14,7 +14,7 @@
     }
   ],
   "open_postings": 20,
-  "long_open_roles": 11,
+  "long_open_roles": 13,
   "sources": {
     "ats": "ashby:Blacksmith",
     "edgar_cik": null,

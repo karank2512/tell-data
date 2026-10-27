@@ -1,0 +1,473 @@
+{
+ "vendor": "ashby",
+ "identifier": "benchling",
+ "domain": "benchling.com",
+ "as_of": "2026-10-27",
+ "last_polled_at": "2026-10-27T15:32:49.362291+00:00",
+ "open_postings": [
+  {
+   "external_id": "009bed71-c948-48a4-887c-cbbcb1bb3b34",
+   "title": "Leader, Product Support",
+   "role_family": "customer",
+   "location": "Boston, MA",
+   "posted_at": "2026-09-23T21:49:04.690000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/009bed71-c948-48a4-887c-cbbcb1bb3b34"
+  },
+  {
+   "external_id": "0796012f-3e8c-40b7-a869-b98ab5290380",
+   "title": "Product Manager, Schemas",
+   "role_family": "product_design",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-06-22T21:26:43.422000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/0796012f-3e8c-40b7-a869-b98ab5290380"
+  },
+  {
+   "external_id": "0ce2fdd9-44c9-4ec0-86c3-59fdb76a8850",
+   "title": "Solution Consultant - R&D",
+   "role_family": "sales",
+   "location": "Zurich, Switzerland",
+   "posted_at": "2026-10-09T21:34:27.917000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/0ce2fdd9-44c9-4ec0-86c3-59fdb76a8850"
+  },
+  {
+   "external_id": "1a6a2f2e-b0e7-43b1-a985-d1e27ddb0d2e",
+   "title": "Field Enablement Manager (Enablement Program and Platform Manager)",
+   "role_family": "engineering",
+   "location": "Boston, MA",
+   "posted_at": "2026-09-04T23:39:45.121000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/1a6a2f2e-b0e7-43b1-a985-d1e27ddb0d2e"
+  },
+  {
+   "external_id": "1d637755-eba0-4c0f-99aa-a7201779bcf6",
+   "title": "Implementation Manager",
+   "role_family": "customer",
+   "location": "Boston, MA",
+   "posted_at": "2026-08-31T20:45:18.896000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/1d637755-eba0-4c0f-99aa-a7201779bcf6"
+  },
+  {
+   "external_id": "2537278d-5417-4af0-a6a8-c0b145e3cc0c",
+   "title": "Partner Enablement Manager",
+   "role_family": "customer",
+   "location": "Boston, MA",
+   "posted_at": "2026-09-04T23:40:21.709000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/2537278d-5417-4af0-a6a8-c0b145e3cc0c"
+  },
+  {
+   "external_id": "263fd507-eb03-4cfa-8297-ce276b729b52",
+   "title": "Software Engineer, Agents",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-04T18:37:48.367000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/263fd507-eb03-4cfa-8297-ce276b729b52"
+  },
+  {
+   "external_id": "3309acf5-0fc2-43ee-a3da-242faa81f7e4",
+   "title": "Revenue Accountant Manager",
+   "role_family": "sales",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-14T17:09:37.431000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/3309acf5-0fc2-43ee-a3da-242faa81f7e4"
+  },
+  {
+   "external_id": "33c6c504-9ca4-4cae-8ebc-cfc55127b2bf",
+   "title": "Product Manager, Study Lifecycle",
+   "role_family": "gtm_ops",
+   "location": "Boston, MA",
+   "posted_at": "2026-10-15T23:10:57.069000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/33c6c504-9ca4-4cae-8ebc-cfc55127b2bf"
+  },
+  {
+   "external_id": "33c85327-b9aa-41c6-a2e7-4dac4381087e",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-07-10T00:15:26.881000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/33c85327-b9aa-41c6-a2e7-4dac4381087e"
+  },
+  {
+   "external_id": "345fa9cf-c753-4fe0-91a4-1e37e0cde651",
+   "title": "Product Manager, Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-18T21:14:08.011000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/345fa9cf-c753-4fe0-91a4-1e37e0cde651"
+  },
+  {
+   "external_id": "358ff26c-7b23-4645-b906-2244c76e2cb2",
+   "title": "Product Manager, Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-18T22:47:18.029000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/358ff26c-7b23-4645-b906-2244c76e2cb2"
+  },
+  {
+   "external_id": "3687b373-439c-48d8-8de1-a8368c7527a2",
+   "title": "Software Engineer, Full Stack (Enterprise Lifecycle) (High Seniority)",
+   "role_family": "gtm_ops",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-03-29T23:34:22.924000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/3687b373-439c-48d8-8de1-a8368c7527a2"
+  },
+  {
+   "external_id": "3b50ebb7-4e9e-4ede-aaf7-d5ce91ca7eb3",
+   "title": "Product Manager, Process Execution",
+   "role_family": "product_design",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-07-22T18:46:49.870000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/3b50ebb7-4e9e-4ede-aaf7-d5ce91ca7eb3"
+  },
+  {
+   "external_id": "3b86037a-3b17-4334-b03a-4caa470cd665",
+   "title": "SMB Account Executive",
+   "role_family": "sales",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-06T20:27:12.774000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/3b86037a-3b17-4334-b03a-4caa470cd665"
+  },
+  {
+   "external_id": "3fbb23bd-c06c-49da-8834-4da67200275e",
+   "title": "Research Engineer, Model Evaluation and Improvement",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-08-24T22:22:55.143000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/3fbb23bd-c06c-49da-8834-4da67200275e"
+  },
+  {
+   "external_id": "419cd5e2-4bac-44cf-a808-3a240d877a7e",
+   "title": "Leader, Majors Sales",
+   "role_family": "sales",
+   "location": "New York, NY",
+   "posted_at": "2026-10-22T18:29:34.737000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/419cd5e2-4bac-44cf-a808-3a240d877a7e"
+  },
+  {
+   "external_id": "43d438ea-3234-4dde-8b8a-c30d87b75cd4",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "Indianapolis, IN",
+   "posted_at": "2026-10-14T20:00:29.048000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/43d438ea-3234-4dde-8b8a-c30d87b75cd4"
+  },
+  {
+   "external_id": "49454722-ea62-41da-80f8-864ff06e9265",
+   "title": "Strategic Financial Analyst, GTM",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-22T15:30:07.364000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/49454722-ea62-41da-80f8-864ff06e9265"
+  },
+  {
+   "external_id": "4b44c935-f7cb-4a5f-8abc-eb9a91845a18",
+   "title": "Head of Enterprise Applications",
+   "role_family": "exec",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-16T22:41:10.003000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/4b44c935-f7cb-4a5f-8abc-eb9a91845a18"
+  },
+  {
+   "external_id": "5f98903f-739c-44d4-8ce9-80767baf569b",
+   "title": "Software Engineer, Applications (Scientific Development Solutions) (High Seniority)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-07-20T19:56:51.050000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/5f98903f-739c-44d4-8ce9-80767baf569b"
+  },
+  {
+   "external_id": "63d7d126-efaf-4a48-b328-f8d85b640ebf",
+   "title": "Software Engineer, Platform (Developer Experience)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-08-25T18:43:47.823000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/63d7d126-efaf-4a48-b328-f8d85b640ebf"
+  },
+  {
+   "external_id": "65d30858-1165-4c3f-8ba1-38489fa2e63f",
+   "title": "Technical Solution Architect",
+   "role_family": "customer",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-01T23:02:24.192000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/65d30858-1165-4c3f-8ba1-38489fa2e63f"
+  },
+  {
+   "external_id": "6a18cd23-4c31-4df5-b321-442037b48b3a",
+   "title": "Implementation Manager",
+   "role_family": "customer",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-08-28T22:10:48.467000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/6a18cd23-4c31-4df5-b321-442037b48b3a"
+  },
+  {
+   "external_id": "6b309e07-80fd-4e59-9636-9617283ce6ae",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "Boston, MA",
+   "posted_at": "2026-10-14T19:07:42.004000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/6b309e07-80fd-4e59-9636-9617283ce6ae"
+  },
+  {
+   "external_id": "6beeaebc-fd49-47d7-a179-dd674bab58b7",
+   "title": "Software Engineer, Applications (App Foundations) (High Seniority)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-07-22T17:02:36.582000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/6beeaebc-fd49-47d7-a179-dd674bab58b7"
+  },
+  {
+   "external_id": "6c14e523-4fbb-4250-99ce-27e3104f5c53",
+   "title": "Head of Procurement",
+   "role_family": "exec",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-12T17:49:56.655000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/6c14e523-4fbb-4250-99ce-27e3104f5c53"
+  },
+  {
+   "external_id": "714ea82b-2255-4ce1-abf0-800a5be460b5",
+   "title": "Account Manager - EMEA",
+   "role_family": "sales",
+   "location": "London, England",
+   "posted_at": "2026-10-26T23:25:54.814000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/714ea82b-2255-4ce1-abf0-800a5be460b5"
+  },
+  {
+   "external_id": "73b44c32-f5ab-48e5-a812-c70f09858f15",
+   "title": "SMB Account Executive",
+   "role_family": "sales",
+   "location": "Zurich, Switzerland",
+   "posted_at": "2026-05-20T22:13:56.565000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/73b44c32-f5ab-48e5-a812-c70f09858f15"
+  },
+  {
+   "external_id": "7a1d37f2-957d-457b-b6d3-4f133ef63e95",
+   "title": "Technology Operations Engineer",
+   "role_family": "engineering",
+   "location": "Boston, MA",
+   "posted_at": "2026-09-28T22:28:37.282000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/7a1d37f2-957d-457b-b6d3-4f133ef63e95"
+  },
+  {
+   "external_id": "7c32ac1e-3de3-462b-aa17-7618317f0da0",
+   "title": "Software Engineer, Cloud Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-23T21:42:31.702000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0"
+  },
+  {
+   "external_id": "7f49f7bd-b74d-4b27-8e20-71c7d9868cb4",
+   "title": "Head of Professional Services, EMEA",
+   "role_family": "exec",
+   "location": "Zurich, Switzerland",
+   "posted_at": "2026-09-24T17:12:50.101000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/7f49f7bd-b74d-4b27-8e20-71c7d9868cb4"
+  },
+  {
+   "external_id": "874062e7-7903-4fd3-9930-ea538a4cac1e",
+   "title": "Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-08-05T21:01:08.657000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/874062e7-7903-4fd3-9930-ea538a4cac1e"
+  },
+  {
+   "external_id": "8dc59fa4-27f1-48fd-a379-d3855a3b4a87",
+   "title": "Executive Assistant to Sales Leadership (Contract)",
+   "role_family": "other",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-11T19:47:34.831000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/8dc59fa4-27f1-48fd-a379-d3855a3b4a87"
+  },
+  {
+   "external_id": "8f47c31f-4fd1-4108-92c0-98fc85feb7b0",
+   "title": "Enterprise Solutions Architect",
+   "role_family": "customer",
+   "location": "Boston, MA",
+   "posted_at": "2026-07-23T01:02:04.625000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/8f47c31f-4fd1-4108-92c0-98fc85feb7b0"
+  },
+  {
+   "external_id": "9b850e1f-1ba8-47e3-9057-0562e0739e6f",
+   "title": "Software Engineer, Full Stack (Process Execution)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-28T22:52:29.185000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/9b850e1f-1ba8-47e3-9057-0562e0739e6f"
+  },
+  {
+   "external_id": "9bc4ad8e-3446-4345-bc61-b079c62f2090",
+   "title": "Solution Consultant - R&D",
+   "role_family": "sales",
+   "location": "Tarrytown, NY",
+   "posted_at": "2026-10-22T19:46:36.247000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/9bc4ad8e-3446-4345-bc61-b079c62f2090"
+  },
+  {
+   "external_id": "9d1d99b6-dfbf-4bb4-8349-84f97c6ab282",
+   "title": "Strategic Account Executive (Nordics)",
+   "role_family": "sales",
+   "location": "London, England",
+   "posted_at": "2026-10-02T16:03:55.518000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/9d1d99b6-dfbf-4bb4-8349-84f97c6ab282"
+  },
+  {
+   "external_id": "9f8ae677-37a6-4bbc-898d-8fee032b6de1",
+   "title": "Leader, Account Management",
+   "role_family": "customer",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-06T22:26:10.619000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/9f8ae677-37a6-4bbc-898d-8fee032b6de1"
+  },
+  {
+   "external_id": "9ff817e6-9274-4613-9ac3-1bc012b7ff8a",
+   "title": "Global Program Manager",
+   "role_family": "customer",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-05-20T15:54:41.125000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/9ff817e6-9274-4613-9ac3-1bc012b7ff8a"
+  },
+  {
+   "external_id": "a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
+   "title": "Software Engineer, Extensibility Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-12T21:48:59.616000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa"
+  },
+  {
+   "external_id": "a338cb38-bf43-40dd-9fbf-dc9205b30bb1",
+   "title": "Software Engineer, Platform (Developer Experience)",
+   "role_family": "engineering",
+   "location": "Boston, MA",
+   "posted_at": "2026-08-25T18:43:54.489000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/a338cb38-bf43-40dd-9fbf-dc9205b30bb1"
+  },
+  {
+   "external_id": "ab7ea47a-c9af-4d2d-9ba3-002a556a7686",
+   "title": "Product Support Analyst",
+   "role_family": "customer",
+   "location": "Boston, MA",
+   "posted_at": "2026-07-21T19:39:05.147000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/ab7ea47a-c9af-4d2d-9ba3-002a556a7686"
+  },
+  {
+   "external_id": "ac6d50a7-8a73-43ab-98ac-591bcca1742b",
+   "title": "GTM Strategy & Operations",
+   "role_family": "sales",
+   "location": "London, England",
+   "posted_at": "2026-10-06T18:06:42.201000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/ac6d50a7-8a73-43ab-98ac-591bcca1742b"
+  },
+  {
+   "external_id": "ad3970dc-1dc5-4cb7-b0f0-2adcfeda19ce",
+   "title": "Account Manager - EMEA",
+   "role_family": "sales",
+   "location": "Zurich, Switzerland",
+   "posted_at": "2026-10-26T23:25:49.898000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/ad3970dc-1dc5-4cb7-b0f0-2adcfeda19ce"
+  },
+  {
+   "external_id": "ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e",
+   "title": "Software Engineer, Tools and Automation",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-09T21:31:50.026000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e"
+  },
+  {
+   "external_id": "c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
+   "title": "Data Engineer",
+   "role_family": "data",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-08-28T16:13:20.796000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b"
+  },
+  {
+   "external_id": "c8414a0f-9bb8-41dc-9797-e781af1a2f49",
+   "title": "Strategic Account Executive (Zurich)",
+   "role_family": "sales",
+   "location": "Zurich, Switzerland",
+   "posted_at": "2026-10-23T17:00:07.278000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/c8414a0f-9bb8-41dc-9797-e781af1a2f49"
+  },
+  {
+   "external_id": "ce76248e-0453-49a5-8f92-27ffec0392b8",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-23T21:26:55.958000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/ce76248e-0453-49a5-8f92-27ffec0392b8"
+  },
+  {
+   "external_id": "d2e3176f-beea-4827-a4ba-00989db3fd88",
+   "title": "Technical Account Manager",
+   "role_family": "sales",
+   "location": "Boston, MA",
+   "posted_at": "2026-09-25T18:19:41.967000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/d2e3176f-beea-4827-a4ba-00989db3fd88"
+  },
+  {
+   "external_id": "dc25d641-aff0-4804-8276-8c3406119c4b",
+   "title": "Product Manager, Growth, Scientific AI Models",
+   "role_family": "product_design",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-07-07T21:19:25.533000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/dc25d641-aff0-4804-8276-8c3406119c4b"
+  },
+  {
+   "external_id": "df9f0b19-c0a7-4d2f-954c-c056f3908f68",
+   "title": "Solutions Delivery Manager",
+   "role_family": "customer",
+   "location": "Boston, MA",
+   "posted_at": "2026-08-14T22:07:50.565000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/df9f0b19-c0a7-4d2f-954c-c056f3908f68"
+  },
+  {
+   "external_id": "e3c5a5f9-66f4-4763-864f-569caa5bf2c8",
+   "title": "Leader, Majors Sales",
+   "role_family": "sales",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-21T16:57:14.066000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/e3c5a5f9-66f4-4763-864f-569caa5bf2c8"
+  },
+  {
+   "external_id": "e8ded637-23ba-454a-8d74-e08e07235673",
+   "title": "Solution Consultant - R&D",
+   "role_family": "sales",
+   "location": "London, England",
+   "posted_at": "2026-10-09T21:34:17.630000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/e8ded637-23ba-454a-8d74-e08e07235673"
+  },
+  {
+   "external_id": "ef652ae4-88a5-452c-8963-7ebe75542d13",
+   "title": "Head of Professional Services, EMEA",
+   "role_family": "exec",
+   "location": "London, England",
+   "posted_at": "2026-09-24T17:13:02.132000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/ef652ae4-88a5-452c-8963-7ebe75542d13"
+  },
+  {
+   "external_id": "f337aee2-12a5-49f6-bc48-8aef1acace51",
+   "title": "Global Partner Lead",
+   "role_family": "sales",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-09-02T21:26:48.145000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/f337aee2-12a5-49f6-bc48-8aef1acace51"
+  },
+  {
+   "external_id": "fc421d57-1a11-4693-939a-6001cf4c5c3e",
+   "title": "Customer Experience Communications Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Boston, MA",
+   "posted_at": "2026-08-11T18:30:21.420000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/fc421d57-1a11-4693-939a-6001cf4c5c3e"
+  },
+  {
+   "external_id": "febb0539-70a3-49f4-b649-92d254f7c223",
+   "title": "AI GTM Specialist",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-01T23:19:31.094000+00:00",
+   "url": "https://jobs.ashbyhq.com/benchling/febb0539-70a3-49f4-b649-92d254f7c223"
+  }
+ ]
+}

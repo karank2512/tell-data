@@ -1,9 +1,9 @@
 {
   "domain": "basilica.ai",
   "name": "Basilica",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 10.5,
+  "score": 11.8,
   "contributions": [
     {
       "type": "leadership",
@@ -21,10 +21,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-10",
       "summary": "Pope appoints [person] as Archpriest of St. Peter’s Basilica",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUFidUhrMEQ2cmFqNVYyWjVkTG5UamxKdTBOODRvYmVuaXFyT3gxMmNEWGdTMHlOTTVPQWpMazByU2JaSTJTMjB1YXFGdzJtaV9SN0ZMWDRMRW5Ucnk0NzUzRzFXVzB0RDl6WXFzWHZJTlhGSzhYM3N1a19OVFl5X3N3SzMteGFQbVlraHEtVzZiZHRHU2JvenVXeWdFeWowLVhrN0pRc2pmWk1sYmYwMWJPZVI?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-25",
+      "summary": "Montreal’s Notre-Dame Basilica unveils restored facade after decade-long restoration - CityNews Montreal",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTRyaTNMR3pCemhkNGpKWHFTZFBjaVMtNU1kazhLWXdQSTdYQTBLaHdfeXhhcWlFc3llMEJMRkZXTzc3ZkhnaTY2Mk5XekdyZVpwd0RjS0c2anNDTVNCVXhCZFlQYVlnUVBWbUEyQkhvQUR0eTFsNVlLMFNra051eDBn?oc=5"
     },
     {
       "type": "launch",

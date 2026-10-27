@@ -1,10 +1,17 @@
 {
   "domain": "experiment.com",
   "name": "Experiment",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 3.6,
+  "score": 5.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Prime Video Releases Premiere Date for Fallout Shelter: The Experiment Unscripted Competition Series - Amazon MGM Studios Press Site",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmJuZDBQcWgtdVptVjhfLWRNVnBuUVItZEtLVTR2aF9sWE9GSE9HOU1nOTA2NFp6R0U0b3lFWkJHNzQzTU43S2I2THNYYlpIWUpyWWF1cGZBYVBYeHBsaGlnYndEeXlCY1N3NFFvMGhyaTNPM0dVU3hmbGd2cmw4LVBqT2VZanVoNHlmVVN4MGx5QUJUOFU2ZkY1OVc3eFFkWkQtUlRFTy01cHc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

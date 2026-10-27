@@ -1,9 +1,9 @@
 {
   "domain": "gitlab.com",
   "name": "GitLab",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 12.4,
+  "score": 12.2,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "GitLab fixes critical unauthenticated RCE spanning 12 years of releases - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3E0TGtBT3RBWDNQVW96c0d1Szh4TlZOZUpyV2tQY2kzdV85cXg3MlBhYjhLWmJ0SlZjb3ZlUUhvRnE4VjJHaWNabVhxQV9KUXF1ZFRZUjJwWFNOaGIyMXZwWnBaZzNpQVdhQUNHYzlaX2NxeHVVb2ZKazBBdHFsY25yNlpBbG5QQUVFS1didUhuc1VlUFh3N2NmeFFTOEp5VHc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases - The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUYWp2NjhKVmlxcU5uWFhHTU5veEhRVVhCNlFGc1YyT2doY05aVU5ERExoZVRYTUNFYVpscDNHRFFFOTFaQzNzTTk2MkVqN1VmQmZaY2RQbzM4SF85RHZaOTNsRDB2aXhmbnRadUUteE96Vlp4V21wZl8tb0J1NzA?oc=5"

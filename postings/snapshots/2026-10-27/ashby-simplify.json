@@ -1,0 +1,25 @@
+{
+ "vendor": "ashby",
+ "identifier": "simplify",
+ "domain": "simplify.jobs",
+ "as_of": "2026-10-27",
+ "last_polled_at": "2026-10-27T15:32:49.362291+00:00",
+ "open_postings": [
+  {
+   "external_id": "2506ec72-6f67-4c3b-8fad-ad9dc06d46ab",
+   "title": "Temp Job",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-03-04T19:27:11.695000+00:00",
+   "url": "https://jobs.ashbyhq.com/simplify/2506ec72-6f67-4c3b-8fad-ad9dc06d46ab"
+  },
+  {
+   "external_id": "f3303c42-b13b-4013-850a-46df64c1c832",
+   "title": "Temp Job less fields",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-03-05T02:25:25.374000+00:00",
+   "url": "https://jobs.ashbyhq.com/simplify/f3303c42-b13b-4013-850a-46df64c1c832"
+  }
+ ]
+}

@@ -1,10 +1,17 @@
 {
   "domain": "launchpointhq.com",
   "name": "Galaxy",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 12.1,
+  "score": 13.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Samsung releases second Galaxy S26 update in October - SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmJiWU9pLTdRQVBNTGZMbS1jZk1kR2RKeDN2Rm1hS05RcjdaUVJvenZjaGxTSUY1czl2Sy10MkpkWG1NdDdyenF3WmZhVXJMR0RsZmk1UnBTcW85QXA2cXZ2c1pBMjRkOWZ5VF8wZkV6UDgzVkJMYU11c29tSy13aFowTjNlZERi?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -35,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases Galaxy A16 One UI 9.0 (Android 17) stable update - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU81OUY4RUZseXp4V1kwRHBXcFlZc1lTTDJlSUZWbDVzUlNZS0hHRFBJd0xwT3Q2RGZFTlpkMkJQMjAyQ1pqTlFEYlo3YU0wYzNoakw3cUlfVGxWeUF5VWpEcW5YVkE0bHZIb1o2RGJITktHWHJpeU9qTzBLazhuY0Zad2llZEgtZk1MeTRqcU5XbTJLUmVjNW45VQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases stable One UI 9.0 update for Galaxy A35 - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVFicEt0eXE4QmRtZHJubGdQV1phSWNvODdLTGlCbnFoRjQzdDZfZ0pmTXF0aUFNQVJzREVJSTg3LWVXMHRTSjZwSEVLZmhmT0l2S1pWVk9wUGt0Q1k4cmItVnVrRFBHMkVlU3FOVTFsalhnOWZvSTVlTE9ncjJZdVNiSXRuZFB3SS02Rg?oc=5"

@@ -1,10 +1,24 @@
 {
   "domain": "float.xyz",
   "name": "Float",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 1.4,
+  "score": 4.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "SONIC Unveils Festive Holiday Menu with New Slush Float and Smasher - QSR Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDlLRWNCTF8yQXdURWhlOGcyZTl1T3hnTXQwMDlxQUxmNEt2dzdPdm9fX0lVa09Leld1Z3c1TmRoMFJPYS1Bb2E1VktJb3czeDlBTnlmMmZFYWthOU1Od0lWMVJtS2VKcC1WeUpwRk5zaHp6ZjZjcjYwMGlxZS10SnoydDFLNUxzODlvbEZ3aURDVEcxLWw1TkhZam5wUUtEM21r?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Sonic Introduces New Santa Slush Float and New Smoked Gouda and Bacon Smasher - The Fast Food Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU3lZOHVQUW9WaF96V1FxMWJKVFlSTXNvbVktV1Rzb1VaMDNaSjY2bW1KQnVaSXl3c194Y2xGZGZZS1k4UFgtMkdQWUtKNFNXZ3hxdUxGaWJtTDFjTDZ4cTlRck93WlZwcG1DbFR3dHUxWW4tOE11eEFOOHpfeE43WHM3QVBMWmtmNmkzRk1EeVFYeTh3eGdERTZQWkI2QWZCMzNEQVptb1lVSnc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

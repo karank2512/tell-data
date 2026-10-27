@@ -1,41 +1,90 @@
 {
   "domain": "moonshot.computer",
   "name": "Moonshot",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 35.8,
+  "score": 45.3,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Moonshot AI launches new Kimi model with reduced hacking capabilities - National Technology News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenRPckdaRE95dVczUFA4QjVUZVR3SEtJeEN5UjlMSkRtenFTR20ydEpaVXIzclJBZGZkSjk5UGw3LUM5N0tseExjSkw1enE4R0wwWlBhRTVUbHFja2FCOXBSZEtsY1djLWR2VVJHNXkwMjJyb0ExSHpRN25GUjkyOUJYVmVkVnNmeHNSaS1NQlNueXNrRjVVS0NUcV9Ld0tSb3pteU1SMzc0QQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "ZAI, Minimax shares fall after Chinese rival Moonshot releases upgraded model - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS29iUWFCckdfWlVndDdoZndHUnRsSWRFSFFhTUlBSTFZNlFySGs4YVFmQzZLOENCYVBiWHYtX0hoVnY4NFIzdldQLXZmMFFmRkgtdFdzUmgxVjRDOUp6a0N3MHN5UTBUS2gzWEhIUTE4S0NCdnV5R1ZlZEFNWW5yaDhlWVJrSXhIOFdHekpRTndaV3hHclpLaDVoUnpHeTB5Rm5XaW9ubGptcTVQeGpteS16a0otUVhOTV9Yd3FrRDRfOHBUbW9zS1A3dTFMUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "\"Gap with South Korea Too Wide\"... Emergency Response as China's Moonshot AI Unveils 'Kimi' Performance - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OdmJ4VnZEVG5hTWYxOWIyUTFYQ2w5VXZEaDQ2WEVZRDl3NENZM1AxOERmRDJBV1hMNXE5bW8xeEJYdDhpYmVia0tZM3NPUEY1T01NajJGLURPOWpFeUIzQlB1MmFYRzZBc3Yw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Moonshot AI Launches More Powerful Kimi Model - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWgxWWpZQmVncVp4ekNpTlpBWjBTWVVtWkZBTXdNdnJydjh4dkFSRWxmdUNqTDRxay1heG5JUUk4eV9LNUgtNkFkeDFxVExYQ2s0RWdJSkFCVHhIRWlzZnJPem1pa3lEV1AwS0ZDZDNLZXZsZ0VQWVRaWTZHamlGWkl0clczdU9OZ2lRQzRfOXotZERKZEdDTnR6Y25xRHo1Wnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-25",
+      "summary": "Moonshot AI unveils Kimi K3.1 teaser; release date still unannounced. - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV2tON1RUaW1PYW1Rcjd6UHdIMGpSdmVfSm1rc3RKTkFLTG5nU2ExMFNweHhtNFd5WkVtU1lhcThMb29xaXNzVFpUWGlKYnVYS2V3UjRlOWZRXzNZUzNYbERtVzY5bUFTc0FzaFIyR1RVakZQdEItTFBFQTdYN0FlTEJUM0hQMlZ2bFc2aVQ2Tkp0QnNYOVd3QVlNeTdiUmlidmlv?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by November - ET Enterprise AI",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYXhYU2QyY2E2WFVYWS1jVVJ2OVlyUUFreGYyOFZtak94X1E0YmoyS2NGVmdWV28yNktNT2dHQVN5dDlCMHVXazdnLVIwS2gtS3ZzU21sd1BHZjJ5MFlDY3ZqYlUyRVhRSmc4WTBXMTdSQmM5dXJVYnpUUmplZmJ0QUJISm1OY0VFWVptWFhqMGs3Y2hGbzU1YnRMRnVTN0FjenBJYXo2RDFBbXZEZnlndUREYkVlRHBna3EyN0gweHFWNFh5QjFOaVlxOWN5QjN2VXltbWNVbkF2cEZidDRTcUJPc3NGM2dnWE1CMjRZNlFZMU05eVk0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "Moonshot AI launches Kimi K3.1 Pro with better coding skills, reduced cyber risks - Livemint",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjB5MWpKMGlqa0d0bkN3SWoxZnRUWXlhTkQ2Mk95VmZHMVRZaGJfN1JGbGtMbGV0bXJFbEFiaVI4SzRkS0hxMzR2YXlvb3l1QkREa0VwT05UN3pkbVAtcDNEUUJHaFc4RnVGZ04ySWhkeURCY1hpdXREZ3dyMjZ4SmtES3UyNXo0dXFzYS1SdFF1bFhzQjI1M3pFcVQ3TjZRcWpiQzk3NFp4em14MjNQV1ozbnM2cTZVRGpQY2s4RmZPTklBbnpN0gHMAUFVX3lxTE93SlhzaHg4bnNEd0FHcHgxZ0VDS2FKTEs3Y1RSTUZHNm44LW5TWF9QaFp4cXIwXzc3NlpMZkxpOVdLUnMxcnRVeFhZTWVESUVpbzlHU0s1QllBZGlGZHdxbzBCTE1Xa0xueC1ZQksyLUppb0FNVVJnTE10QXZOUHNJZnVNSmlaMlRwSk1mNzdBcldxRDR0Tml4WDdoMXdHZGIyMWJqczJtN2dmdDFvdVNMS2tVM2lET1lJREMwUmZEQ2lGQTFIUEk2TDVpMg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "Moonshot AI launches Kimi K3.1 Pro, restricts its cyberattack capabilities - ForkLog",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHVSeFZqYVp3Yk5OR3FsaXZuTXpZVE5hejFEX3Biam1XdWYwUTlmaEpMRUNHcXFxR1FHdnZDVmd1eTVWNEdnTDNUaFZJZ0FrQ3J6QkREUDJLb1UxTFNRMG9lMC1FYXg0OTVkNzF5MUNDSm9MelZNRklpV1dPVWFUYmFVZXBDZEZRcmp4N0pzMnFrN1U3b3BTTWFsUE5oQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-24",
+      "summary": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by this date - Babushahi.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnQkRmNmJYX2lCQlFMTlZHdEFRTjktY2ZKSlltcTR6dURTcXYwdHZSSTNuUHJvRFZYbzFGdUhSN09ndXN3bHpSNjNNZFFkNVlGeDVCNDBnZFV2S2FoZ1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-24",
+      "summary": "Moonshot AI launches Kimi K3.1 Pro with 3 trillion parameters - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPai1OcDFZTmVnRENxSFNPNjdJSzRnTkJUTzJQalNBZkk0VlFQSndjS2VXdnNPUTFDSXB5eWNpem54ak0wVFlxWXVJMDlNZVZ6VUVxMFd1NWFEeVRqbUl6eWhBbVVWNjZGVG1Qckx3WmNraUItSGdWUzJ0SlI1dnUxWjQxb1M2SFFhb0RYZ1M4Z1JfVE0tUXVMV0Q0LWlzWXlJMjBxM3gwNFRHVEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "Business News | China's Moonshot AI Launches Kimi K3.1 Pro; Plans Full Model Weights Release by Nov - LatestLY",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbVVBeGVsRnBUOF81SVdTRHBHa3F1TUwtSkFvMk5EWFZxQU5BcmZjQmZOOW1CM2FETEdjZkdHSXI3M3AwcDJnMlFUMURQanJ6bUJqRE9xWTQ4amlVbGxUSUd5VlpOd3FYWWNGTjhCOTd3clRzR0RsQTFjMW9aSHZhRy1pdFlsVXMtRHAwRnNwaG12OFQ3eWl6NERzOHR2b2Zub1gzdXVNRjFUcFBWRG56c09CclU4Y0VjTGJmdk1IWkZwTlZKSHY3a1B1RFNjdHBFak9XYkJhLVQxWkZrT2fSAeMBQVVfeXFMT1dzVFBpUVRMU1hwVG4xREdBVUlONzIwQVNjcXVDcTBjU2gyYzFIR3JQNVFBcy1MZm42UHVNX1pGWDNmU1E3UGs0ZF9nbTV1ZTBjMjd5NWlsT3pTM1F6dlFUSFZmWFJWcmZBVmV6MkxPNWl6QkIzSEV0cUp5cUNqWWN0bUFIOEk5cHJ5QW9UWHJuS3p0RW1KblI2cmxZUG9xY0VWbkVZY3k4RUx2NWg2UGZaVkhTR29vbkF1aXFJdDVsMmVoclJYUzlnZXJSTU5GWHhzLTZ5MnVoUy0zSnJDTjBBMVE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "China's Moonshot AI Unveils Kimi K3.1 Pro, Sets November Release for Full Model Weights - Lokmat Times",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFRfR3VXRTZqSXVKeTVhc1BVT09hMHFYRkcxOE52RTBNR1VJZi1jQWI2VGNZZ2EzQ2RMSGZjd2x2dUtBRDc3VXlNblFuQUdmclV5bUNGSld4S0RnUXBKSURJallkWlQ0QUNaM1dUR2RaanZJem91RDg4SEhTMW10SkhmUkYwcG5LTnlCbk54bHBpWmFaS0tZMHFuODlrQjZTVWxuNGN5akxrM1RTNzdKblhuRGprZWVXUnA4RHgzaHlIX0FYMWdwUzdnMNIB0AFBVV95cUxPQ091LVh1RHZoSjU2WWJQTk5zZFRnMFFkQWlSV0FqMElka2E2aTZmcG1hVTZyY0hEa1lKdFJJbmxra1Q2c1RZeXlBcUlGaGprb1VhY0VuT1drbG0teTlGTkxKODFneGxlRENVSUNjNEhRS0xtQmdoYWxHUXFUQXRNa0NhT0FRUVR5b0NqZGdGd201dms4bWhyb1RCVnY4akhrbTlDalhESlpRUjFCR1hRUk5QLUN4TC03UGdhZlBkX0pnamYzcDBWS0d0ZkhZV0NY?oc=5"
@@ -126,14 +175,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "HP Launches First 'Project Moonshot' Servers - PCMag",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKcGlHb2NmYlRTZ284MVZZLTFaa0pERHQwZ0QxdXU1ZzlVb1BsYnZ2N3JhSzl1aHdnb0JGaEZDVVh0MUJPTFBfNVJaSmhtam9PY3FXaGRJaS0td0VKenlQc0F4NVl6Y01XZVk2S0JsSDVfcl9Sa2FuTw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Moonshot by TechCabal unveils 2026 theme, \"Courage & Conviction — Building for a New World\" - Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTmwzdnJtRkFtT09kOFdIcWdDUW1fUmJPYWdIb2xDcGxuLUhYcGt0WG1JSENiLWV5aUlxZFZ6WTFKZFU2djFLOXItQXQzREtjNG5lRDE1XzhqQkpjMl9pMXFiWThUODQweHJHT0JDNFhpNXRKeFdIaWVnSlJUWmFNUjNQY0FVYlhucHgyVmU0Y2xEVnpBeEZNWmNkUlFFdUtqTFJ0Zi1mM1QwNlI4Q1BMbXA0aE1pVkRlM09CM01EVXlZREVpVDRtQ19DZ0hibFVMTW5iU3Bn?oc=5"
@@ -175,7 +224,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-21",
       "summary": "Moonshot AI expands to Singapore and starts hiring - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rSGtoQUNYNUlDY041YXJzRC1vZlgxbW9YazRPejl3N1k5RzNpS3IzV0U3WGpRTnJEVDFuYU1GM3FEUDVUMS1LeGEtUkd3RGhETVZjdW83bDVlNDd1eWFrNnlicjRJcWVYVGJVNXFUZ0ZlUQ?oc=5"

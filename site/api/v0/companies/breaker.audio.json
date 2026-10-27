@@ -1,9 +1,9 @@
 {
   "domain": "breaker.audio",
   "name": "Breaker",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 3.8,
+  "score": 3.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Hyosung Heavy Industries completes new export-only ultra-high-voltage circuit breaker plant; Chairman Cho Hyun-joon launches global supply chain drive - 매일경제",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wcWhxRUpnMkNBUFdpV3NlWDJmTXE1a3pqbGx4MFRfaWlUZFhsb1ExcWNjQU8tclFRaDR3aXBaaWIwTXp4bzBZRHhWbWQzcjNyeS1J?oc=5"

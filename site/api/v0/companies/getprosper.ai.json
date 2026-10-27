@@ -1,9 +1,9 @@
 {
   "domain": "getprosper.ai",
   "name": "Prosper",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.3,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "‘Creates opportunities for people to prosper’: Rice launches annual United Way campaign - Rice University",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlhQUFlOa3g3REVoSkFPd1dtUmdTeEMyYjVaaGpZLUFJdHNCVmpqLXVLYnZWU3VrekNyZXVMQlZOcndlZ2YtYjh6TTEzTVUwUHZ1WWU4S0tYS0lPWDZUY25qcl9wZG8tQ0RXZVp0Nkc4MDN6MzFfbjJhSTBOOWFhNmVUWlRPdmRjWmtaQl8wZGMwNzJ4OFZvMkVrSFphYmdMY3c0TzJwNVJGRTFRMHc?oc=5"
@@ -48,7 +48,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDhnbnZ0LXg0ZEdMTXdaVmpIaU5JdXJLdDJfNE1lSk1iLUlwU1dJXzdaclpISmUxZ01XUVQ2UzA5akUxbnVERFNlRmg5d1k4QzZfNThTaUx6MmdEVG9vTDhMYXlvbHZPWnE2R3QwOFBqM0JqR09KT2Zyek5LMm4zV21fenFSQ182dE1IMFZLQUhDUS1kQUtORm81R3FTZDBCT0dJ?oc=5"
     }
   ],
-  "open_postings": 12,
+  "open_postings": 11,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:prosper-ai",

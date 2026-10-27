@@ -1,10 +1,17 @@
 {
   "domain": "ventura.ai",
   "name": "Ventura",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 1.2,
+  "score": 2.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Ventura Music Festival Unveils 2026 Season With Classical, Jazz, Bluegrass & Opera - TicketNews",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3BSREFza2h1UGMycUd5cGN4Njg5NVphQW1LcXlrUDlEeGxjUmtkdDRIekM3Qm8wOHZpdUg0bVl6aFNnQmhQVmVQYzQ0b3NVWDd2Zmt3QWJ3ZTVhMnk1b3A1aTdVUmRPSU93N0huekVNMVFnQkJVa1ZiU2FPcXNmRmZTWHo4ZlZyMWFvR25B?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

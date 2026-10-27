@@ -1,14 +1,14 @@
 {
   "domain": "emburse.com",
   "name": "Emburse",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 4.0,
+  "score": 3.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 4.0,
+      "contribution": 3.9,
       "occurred_at": "2026-10-26",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/emburse",
@@ -36,7 +36,7 @@
       ]
     }
   ],
-  "open_postings": 31,
+  "open_postings": 32,
   "long_open_roles": 4,
   "sources": {
     "ats": "lever:emburse",

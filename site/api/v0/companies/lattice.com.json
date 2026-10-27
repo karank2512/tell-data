@@ -1,9 +1,9 @@
 {
   "domain": "lattice.com",
   "name": "Lattice",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 14.9,
+  "score": 14.7,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-22",
       "summary": "Lattice Semiconductor Appoints [person] and [person] to Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRBOXkxZ3ZRTWFVbjNMdmJubUh6ZTljNm1hNE40QzhRZWhCZ2hmUGMtcFczYkp2Y3ZnY2x6WmNlUzkxYmZ1TlJsZDJ1elQzYUt2ck1JR3o4dDk3bnFnTm9FS244M0UwMkw2YVFuTm91V0JZZS05cWE1c1ZHOExvTUJxN2FvdndhOTA3TEo5RnJKb2R4cFdDdGoyNV81cDhkcEVEcnJn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-16",
       "summary": "a16z launches Aerie to boost Ethereum's quantum resistant signature aggregation with faster lattice cryptography. - Pluang",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRk5aakh2bzBCYWVzZWFtVXZiTVR6cWE2NXprdEpJVENxUlBtdmk1YXRjYU9lTmdCSnY1dEg0Nlp2X3lZNGhtVkxxeGsySkxjeWd2Unc1Q2FTYlQwWkRGMnlWZVVkU0hmd3Zzd3l1Q2NVeUo1N0lGbWg3LS13c1Z6Q0ZwUkFUYmdlWHFsYWUxZ243elN3QllTZ1NmR2FfQQ?oc=5"
@@ -76,7 +76,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWThUeUZYYkY3X1U1MHpneDV2Z0duckY5NkR6dm81T1IzNjd5em9STWZIbW51a0JHVVBWRkFfaVEwU01oMEc5eklpaGFUYXR0T1JNLTAtZW5wTDNpVlNxbWtfTmZ4WEVTNEt5X3JwaVVqdVRjdG1PN0s2NzVzeTQxcWh2WndIQ1B4Z2R0NXByVGFFVm5YNndWYjU3M3dmM1RuRW9ORE42VDZOWU0xd1FhZXVmZi1rWlEzdnJMQjRCZXptTkRS?oc=5"
     }
   ],
-  "open_postings": 7,
+  "open_postings": 9,
   "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:lattice",

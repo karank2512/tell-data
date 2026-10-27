@@ -1,10 +1,17 @@
 {
   "domain": "ben.co",
   "name": "Ben",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 1.3,
+  "score": 3.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-26",
+      "summary": "[person] joins Capra Bank as Head of Commercial Banking",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmViaWFtR24wemw1cGNrZkhINXpvZzVOc0ZmRF9ObXZ5Ym5WMVFvU25rT2thVENOR1pJSlZBX29abHVJNGM1eU9lY29nSnVFd1BCREo0NzdXUmRLU3BKX0xtNlVuTGltbGRPWGZKc19wU2hJQnVUcDdTemFvR09xOHQwNXo3VWlFLVlXcjNPd0NDQlMxYjFORUQxczBKckpJUEE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

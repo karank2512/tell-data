@@ -1,10 +1,17 @@
 {
   "domain": "reachpower.com",
   "name": "Reach",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 2.4,
+  "score": 3.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Reach Aviation Unveils Plans for New Backcountry Aircraft - Plane + Pilot Magazine",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWHA3aGRYQjg5Vk55ZnBMeWJGaXVObGxrTFc1dzFPc01ycXpUbDdRbVAwNk9BNC1CT1ZybWpIUURFZHBTMHpyTFl6WVotd2tNR05qZ040ejNnWmpmOGpmdDdmT3BWbGJPQWZtUk5EM0Jid0NIZmd2THNqZUR3T0pJV1dFY0FHUzRxRnFERUEyMTM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

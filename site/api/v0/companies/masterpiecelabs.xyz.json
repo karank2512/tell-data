@@ -1,10 +1,17 @@
 {
   "domain": "masterpiecelabs.xyz",
   "name": "Masterpiece",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 2.4,
+  "score": 3.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-25",
+      "summary": "Denis Villeneuve’s Sci-Fi Masterpiece Sequel Officially Releases on Prime Video in 1 Month - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FT2R6MmsxSHg0azlvZHhqXzMwVGw3b2dWdktxMTVqOVRpRzFtZm5ZbFNiVTFNLVZaMTJXWEhUMmRUSG85dVJtV0tGTXNxVmdGWEs2WGlKLURxMEp5VVQyMjhB?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

@@ -1,10 +1,24 @@
 {
   "domain": "shieldedglobal.com",
   "name": "Shielded",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 4.0,
+  "score": 6.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "CoreFX launches CreaSHLD-IN shielded creatine at SupplySide Global 2026 - Nutraceutical Business Review",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFV1d3hkVHlIUHYyY09RWktQRWU3QTlOMWt3YVlUejRXTDUyZ1Y1ODFjc2FVZm5ibGpHWE1Ed3JnNGNGam9TM2NCb3B6ck9LTmhZMEVpY2NQT3hDSmtOTjRPSVdOVHkzXzE1Rzl6M3A1N2FISmRvNlh1Sm5YWjdWUE81OUtmamFkcnBFbDdBSnB6MVZ5RDN0eVVJVEdzOXkz?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-25",
+      "summary": "Zcash Introduces Quantum-Recoverable Shielded Notes As ZEC Price Targets Rally - TronWeekly",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd1RLRHVXN0s4UFJTN3o2RmdUVDlhNHF0SWl6MnE1N3AtbnBLRHh4Y0VGUE0tLXV6Ylo1QXJEUEctd1p4ZlRYSXMtMTRnUG9KdGFtOEFfWENyOUdxN0NYZDdRR1kxSHp5aHBNTGRmMUczVFoxUUcxODBiMnZQenJNNmdXdWQyd21XMVZsSWVZV2JUQlhyWVhMS29tZU5LcERuN1ZsY19xN1c2Zw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

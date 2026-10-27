@@ -1,0 +1,32 @@
+{
+  "domain": "gobonfire.com",
+  "name": "Bonfire",
+  "as_of": "2026-10-27",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "Northumberland Council launches two-week safety campaign ahead of Bonfire Night - Hexham Courant",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSk1DZGZZLTZaOFM5YTB2MFdqdDVhT25YN3ZONnR3eW4xOHQxZmgwTjdhN05tN2toSGZVbk5RY2N6Wk9vbWRqU3o0X182aHBUSWdGLVR0ZHNGYzBDUXRib0tDYlFQc0Vodl9tYVVBdUpObXh2WldwWWFqdXdBNzcyX1pwcWZSV01seWZTT1E5OF9pT3VkVW5lbVBLMEZGb1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Algiers Bonfire Concert Unveils 2026 Design - Biz New Orleans",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KaHhMejhnY1QteG1Wd1NqdmhRSGNYT0FaVldNVWxaazRrVkNjSnJRMXNCUFpCUHpPekVVRHR2WVkxUzVlQVUybXRneVhONjF0SVZEMllQZ05YMmJOOTZJMmphS0VjQ181N3BPWV9pSmRiTnJYNWxjS1NR?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

@@ -1,9 +1,9 @@
 {
   "domain": "trace.so",
   "name": "Trace",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 5.5,
+  "score": 6.8,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-23",
       "summary": "TraceLink Launches Track & Trace Lakehouse to Expand Compliance and Analytical Access to End-to-End Serialized Events - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSjFBOUpfUUtwaVNCS19JcEl1TGxpbHNTSG9VeWQyS1RUSHZnSy1iZ3lJZDU2aEZjT1lsOWNENU9kdG9mSWVpLWt6VWNIeGtUQ0liRWJ0a0ZOMm9pVGlNRzNCZFZOR1hjUzlVTkpGd0pyV3drTElDT0kyMFNKemFUVTlLWE9iTExKd1I4VjQwMklubGtIZngxNmpHY2I4Y3Ixam1US2l6eGowaWNrQWJTX1A1ZWZqa2RGWHhNWWZ4YjlTM1VvQTZuTkozallURnR2VENpei1QYUJXN2ZFYlljdUFuMDFlcjJjbVQ0RHc5RUhVdmk3MUREMjE0cTdjempqcHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "TraceLink Launches Track & Trace Lakehouse to Expand Compliance and Analytical Access to End-to-End Serialized Events - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMGtKNmFEbFhERnVabV9oN0dla0JFSUg3bU1fYlJ4VjluYzhrUjNiUXE0Y3dwZURjQmtxekNiREZMOXFLS2JhVnJPaGFyTE5nSnNEbVdjXzBKWnh1Z21LaU52RWNvYl9rd0QtcnQzVDRVRm1KVE9NVDhvM2lLalk4WWtNQ3F6SjVRQUJnamxvV19NU2M?oc=5"
     },
     {
       "type": "launch",
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "EXCLUSIVE: Serena Williams’ Venture Fund-Backed Trace Launches App - WWD",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNVpJc3l6TXNGRWtmdW4xbDZZY2JtWFhabmJ4eFBpaDNjelUwM0FJOERseEphTW94NDQwS2dNS0dvTTFoQ0hrRnh2SDJ2QnNiV05iZDhMYXFwLVZGeFQyVXJ5STl4S2JDWF9XbkFLX1JKNzVRRFNQcDBTdlpqQkVYVUswdlp3OVowTk1jRGlYa0lld19DcGt2TF85MEFpZG9LSHFXeW5zZnY0Z29u?oc=5"

@@ -1,10 +1,24 @@
 {
   "domain": "capture.so",
   "name": "Capture",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 8.9,
+  "score": 11.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "Introducing the Cloudflare PHP Capture the Flag challenge - Cloudflare Blog",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNRHExVkZlUF9rcUptUTFPZkkzNDk4SUwzWGxlWFJFcnNLNzZSWGNHaUNwYm5QMElaTEpLOXZsZmtRTkhjRE5CbG43M2I?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "ClassNK Releases Onboard Carbon Capture Handbook - Ship & Bunker",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdnluNmZYWmRqNjl0RG13Y0NaLTdkNS1mbUVBYmJqUFVrZE04U1o3NVI5ZUkxSnAxcmtiLW9hdmRuV0Jtcnl1T0QxbDkyWjZiN3VNMzN6aHJ4SFJTMGhtelhQYTFuWVI5a3VUZHpKa0VNYkRYcHE0b2JSX290RWxyMmdON1FjN0N2RHh6SjNjLUdRNmlRajRV?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Nikon Releases Firmware 2.01 for the Z6 III With Pre-Release Capture - Imaging Resource",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekJqQ0dwX0EtVlBxY2NKbHV6cDJrWldjN3BHOHBpVHN4ajNTQl9nVmU0akdlMUc0UDJZc1pRS1VnVFhCbHp2ZVMwQ05HRXJ1aGV4RzBpdU1MSjA4YVlad01uME1ZVXVkT2IxbnVIUno0cnBsSHMwT1A1MG5tdmc1SlV2aW9WZDE1RW5IUENGVXA3aXBoRUk4TERmN3cyZ2Y5YzVMX1JkendXSFE?oc=5"

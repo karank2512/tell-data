@@ -1,14 +1,14 @@
 {
   "domain": "dropbox.com",
   "name": "Dropbox",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-22",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/dropbox",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-19",
       "summary": "Orangedox Introduces Document Signing for Google Drive and Dropbox - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTF9hUHpjUDZyT2VmbXJCZ2FZWEtLaXFBaG9uMTM5R3ZlNTBNU01hT1VSY05JX0d4SEljUmVYa0pxU3p5bGtfZkYwXzBFTmVGQTh6X2ZCb1ZHaEpkWEhGQmlRZDlQc1V4SlVVQURmaEJzX0MxaHQzd2tZbzhlQVRkUE9jTTJIUlhvUHVYSWlyWHdyU0ZzZUVUZHJPdV9SeVFFT21oem1PdkM2R0pvOUZZbDEzY1Iyd25Nby16bFdR?oc=5"
@@ -54,7 +54,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREhxNmpfclZsNGF4SFppMnNvNTZhNi1TMmIzU0VaZ2VrRFJaZUV0cGI4VVVoRjd6Q0liSmJFRTQzSWtxSGQ4Y2YybTNBQV9jYWh2X3FmcnpwZ0JhU3ZfRjhNcUo1eWoyQW9VTWRTZlgza3RwU2RjaEppZmNOaVpZQ3ZxTGtpdVFtbHJMOG5YcnBKWjdDMmlqZXNlVm1pUDJQVmM2c1Ziam9iQlFlb0Vncm4xRDQ1QWY2WEdOSllxQlFmd24y?oc=5"
     }
   ],
-  "open_postings": 23,
+  "open_postings": 22,
   "long_open_roles": 4,
   "sources": {
     "ats": "greenhouse:dropbox",

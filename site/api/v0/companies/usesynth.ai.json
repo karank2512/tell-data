@@ -1,10 +1,17 @@
 {
   "domain": "usesynth.ai",
   "name": "Synth",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 7.9,
+  "score": 9.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "ebbandflow releases deCADE, a vintage synth instrument with 100 layered sound sources - Bedroom Producers Blog",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzWmtLSHR2TjRsc1NGWGt6MHhfNkRaMkdHd3VWZTh4SGlOanliOTA5NFZlY1ZaSG1FX1JFMnJOY3BOU2plNTF6WnBWZnhfQTUxdUlpcWpaNVBwSnpvMEprS09jRk1PY0lCdFZMNHNRaw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Push and Groove releases MICRONIX, a FREE Plaits-based synth plugin - Bedroom Producers Blog",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTREdoQXpEUmNSWFpVSGN2bTlzNWxFYm5PQW9BN3MtQUluQndsaG56MGJ6OVhIQ3BBbXRCamQybFhSQzNqZVZlb245ZHM4aWRXdmF3ekRqUUNIZ1lYVDNRZ0JYbkVEaE1LNUlsWGJ4cE5kUXJHQVdWWQ?oc=5"

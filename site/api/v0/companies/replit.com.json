@@ -1,9 +1,9 @@
 {
   "domain": "replit.com",
   "name": "Replit",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 1.9,
+  "score": 3.4,
   "contributions": [
     {
       "type": "leadership",
@@ -11,9 +11,16 @@
       "occurred_at": "2026-10-22",
       "summary": "Replit Appoints [person] President of Corporate Affairs, [person]",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQemdqVVM2VjQxMURvLVB0SVBqelNNRDUyX281WGZjUXpCY1U3U1hkUzQyNTdFNFRxeFM5T2V1bHE5TUdvX2pLWW9VMGoyNDVuT2JlelZEaVlXRGVRMXR5Q1lmZzhIcUs5bC1fQ2Y0bm9Sb0hBNkRZMWJOenlGcUhlbm9OSkFuNEFjQXRrSkkxSmJrVHVXN3ZXVkdNdGZwZUJBZDhWbWxaRlZpWTc5dFJqYjE2dUNFdXY5SVpJMk9IR2RtMW12dk5NcUtCSmFodDBlVDlIMw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Replit launches Replit for Business to tame chaotic AI agent deployments - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fbFlMdXNrR1dTeW1IR0pqLXhmYlR4amFZdU8tZzNRdFgxVHBaZC00ZGxLN2N4bVBsbXVhQ3hSZEJtMVVfWGx4RTNPMlJXUlJxam5HbVc2WWdBNDRxVThpLU9wblQ2UmVKTUtjLWU0TDZKYXo2Vmg5Ug?oc=5"
     }
   ],
-  "open_postings": 37,
+  "open_postings": 38,
   "long_open_roles": 15,
   "sources": {
     "ats": "ashby:replit",

@@ -1,10 +1,38 @@
 {
   "domain": "intelligent.services",
   "name": "Intelligent",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 39.6,
+  "score": 47.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "SlotsUp Launches AI Assistant to Power Intelligent Search Across Its iGaming Platform - Android Headlines",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS3l4U01NNW5wNFgtMUl1UmJ2OEZtUEhwX1VTN29XeVF0RlJaNG5sLWJ2YjNtMTNhUDVKcmR5bnFocmtfVEhHSUVObi14eXE5QWNzLVktbHpkZXJzOGJwMUYtb2pYNnVhbzl0bk5pWlNra21XZ2stcjIxSVlwNnBLR29SYWZ6TVVrdEQ2MmQzaG8ydndqVE5fV2xHZkZMb2JqMXVGUEdjREp2SWdDdTJRX2tSQXREcmpFMVYtSk1aNFZldDQ1bThsdTZYZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "BluWis Launches TraWis to Bring Intelligent Decision Support to Energy Trading - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnVNSnBLVjFMZXRBVDVUMHY3SlJjNDdPY2ZIYmozSjZuOWV1c0tyRXJVd2p6a3lDN1NKQU55WTV0RE5OcjlkTV9vZGJnNlVBelc0MGd2MHl3UnNUa2pfc2hSc1E1R1A1RE1tbllaa1ZhTEJZanRSdW5lWHgxTVI2bW5RNWZwbl92Qno0OVR1ZWJQc2d2cWI4Y1JESXFwbzlwOHZ2NGpQVzRhRFVVellveGJB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Rutronik launches robotics initiative to support intelligent automation development - New Electronics",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXVaTzFLTFVBWVJ0cWc2T2otRVJYTEZvVVJTT3o4eUVpOGhubVNuTXA3X252Z0cwaU11cGZwU3duQVJvdDZJeEZvM3VnRXpCQWtvdlpORVJsQmhSWVNVWVppRUNaY0d1cjl5cjJ1VU93RUd3dXdVUlExQ0NYclFnaW43OUo4c1paMjM3REh1bkh0WFk2dDhmOTNwVTZhUXZtYWQ0MDJCNzJJRFJIcHByTWNxV2NaM2YwTWhmV2V0TkxSMEI0cGNZVw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Zhongke Tongliang Unveils Full-Stack Domestic RISC-V Data-Flow Intelligent Computing Products at 2026 CNCC China National Computer Conference - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pRnExbC01Z3p5TkN5VXpGd3dVZHg4bnhPZGF0Sno0T3hlUWlMWFU2ZzFJdlI1enBfd0VLWWVrZ2tTMGlUZ3JnUVlkSGNDLWw3dWlZ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -39,6 +67,20 @@
       "occurred_at": "2026-10-22",
       "summary": "SUNMI Launches Windows Commercial Product Family, Expanding Computing Choices for Intelligent Commerce - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVHI3R3Q1TVMzcVhLbkhPWmtCUDJZenZ2UGQtcDNraklDQThubVRZc3RBMk0wemVWYTZ6M0NCN3hCaVRLQnJhdnRqMWxSOXlDeEx4QTd6d01xOEh1SzFfam5HNXFRczVOc3B3bUt2c3FtZ2FObjJDVm1vOWtoLXJfdlg4ZTJhdkh6ZV95X0lmcTV4NWlENWZNTVNYRXdMRXlTXzlWYktkUGpkZkgzTTRoWEhxbkFlV3pjaGRYc3NjbnRKTHN1SXk0eERHWkY2MDg4Z3dOZllsV2NBZXhDbEVQY2FwT0xscllrdjUyMmxMd2RGc0FV?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "MCM Unveils Next Generation of Its Intelligent Operational Readiness Platform at IACP 2026 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZVltOGd3QkIxSDJpY0JpcnEySXVPa2JmZWhDRXNnNDF4cFpSenlBTkthZnVIWDdSMEpVODdpR2RzcEV3OHUtTUNXeHBoZjhuclZRQ2MxMFpqbHo4M0NBWnpNY1NfdzdjWldwNWJOdzY3eW1KU3NrazdvMXZmN3JET01RWlkyMGJPcHVhclUxNHJBXzNERjNYbXp3M3FHaElXUUY1QWZB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-22",
+      "summary": "FinBursa Launches the Intelligent Front Office for Private Markets, Powered By Agentic AI - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzMybWxldExOUnVGWVpLM0lCZUMyaWZPVEQxZ0dvaF9jQzJOWWQyNEo0YXBOMmI0aHFiS0dreTg4dHhDZGRyUjg1RTZyaHJvTHBsbnRJcEdnTXoxRnozbGszUV9NdGVYSXprYkszR192TEQyR29UUmVhc1dBSkNpc29lZ2lYbHRwajE0U3MzTEZQemtqTV8tTnZKdTR5TEoxaFBzQkNQR0hVcTdBQTNEWmNxaDAzVXhmN2sxZ3Q2Q1lLaXJsNzktWVEzNmFZSFNwakctZG9Cb3RjT3lMNDBzOU45aE1tQkI3S29OVU1OQW5LQQ?oc=5"
     },
     {
       "type": "launch",
@@ -84,35 +126,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "ZTE Launches M8000 Intelligent Comput... - Mobile World Live",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUk5MRGNnNEJRMi1heGROTlZMQnZOai1MTUR6NXp3YkJFa242ZVpoRWRydzEyTjdLdkQ3MGIxZnhaSWVWdURZTzlIbUIxX1h1aVl5czlsTEk0ODNFVGxnMnpOOTIwRFBnR3hLWkhoLTFpUGVwaVAzbHhVZ1NOeW02cGcwN1VZUDNBcUZaRXhSdmFlWHpyQ01Pb19oTThVTHUxS3JLbFdONUN4X1RBM0pMYTJfVlBELW9xUEREbDAxQlBUS25DeXNvcWRLNEc0U2tzSXBsVHd3WXhsZENOR1NqMFVHbw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "Zoom introduces smarter meetings, seamless workspaces for richer collaboration, and intelligent calling - Zoom",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xaFJYWXhOeWp3cmh0LWI0TFJfSWUxeUh2NUtpY1pwcGd5TFhtSDREcktGWkEtcmtGRVN6Q2FncV9ydDdqX0hyWS0tdlVlYUdpU3lNRjFWX0JXR3c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "Intelligent Diva Releases “I'm Covered,” Blending Gospel Rap, Original Vocals, and Human–AI Music Innovation - Knoxville News Sentinel",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRXBoTnhObHJZaWFVanZrbkI4cDh2aVhwZ2hZSGhxZy1kNWRBa1BIQzlsRnJwZFowZHltcFFMZXdVNXp0dTRidk9sd1hoTkxCdkZWRzdDdF84UDR4eDZqT3hwRHZRaWVqaXVaRFA4ZkR5b1BWTUZhYmZhSTZLa3puQXZTck9VSWhmUy1ZMFUyNTRoRzZ3ZXlsX2FReUp1VTE1OWlYMjl5a0RjNTNNbEZ5MUpoTDJxd0RvN3ZpVWo3WlM1OXpkamtIYzJ6MTBlLTZwQ0tEVVBUT1NlTTV1TEJSV255QUpyN19iYmFR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "ProAmpac introduces intelligent packaging range for food applications - Packaging Europe",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWjJCdWhCZU8wOVRoak15RUxTUTh2WDdKSGxZZ3o0VTVuSnY5XzVLeEJESG5ZemtNcGswOUxUbkpUQW9XN1NwR0ZGSlN4ckMtLS1FRTFWUHRFVTJCT1JBLWh3dE1XQ3RqZ0tWRS0tMU1pWFdwNGt2cWVGNXZxY0pqTUpqbEJHUzJ6d3k5UzcyWkZtQXdfSl9tZ3hscVBqSWxLUlpDNw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "Intelligent Diva Releases “I'm Covered,” Blending Gospel Rap, Original Vocals, and Human–AI Music Innovation - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNejM1cktjd2REOFEtZE12SVhyVDhpSXdKUzEzZmJhQTgxNF9vc1d0dENOZGNZUzBCLU9IbDBJNFpLdGxPQ0FxbUNMLTlSX0xFYlFSODdIaUdqejVCdGo5TVo5VmpRaEhQbWhENHM5WkVmd0lYR2xFLWtNSzJoTG91QldlbjNUOFhyWHpTMWJuanZwWHZNOUF2VjZERDdDTUVqUm1tQ3JDaUtTYzJlbjRKM2xfRTFXUDh4MUduNC0xUXltNHBfVEZCYkZJMVdHN0lpT0lNX2U5OGhvbGcxeVhV?oc=5"
@@ -133,21 +175,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-16",
       "summary": "Huawei Unveils Upgraded Stellar Intelligent Network Solution Under the \"Secure and Intelligent Connectivity\" Philosophy to Advance Industrial All Intelligence in Europe - Huawei Enterprise",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWl1dHBGS1BYLXhNRno1LTNrTkkzSVZxNURiMmY4bmQyOUxlOVFvNkdhNTB0UEhNU0kya1M3al9RdEdJQjZ3WHlndmpIMV9mQ3ZrTncwTHEwTVBCM1VOYmlqa1c2TU1BYWdONjVZcEpPQ0NNVXA2RExsSWhQU1lXWUN5a0xnWHkwNUVkTm1tS0hUQ3JpZXNtVVV2Unp4TW44ODROeHV4ckw4X3NJb0E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Google Launches Intelligent Shopping Cart for Search and Gemini App - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEhoUDRJNEFmN0lDOFBsUVk2R09USTIwcF9ITEkwMkdXdDMwOHBlalA1WlpMOG92Y0dJZmhPMzg0SXZCeXhKOU5kcHRrSnFMaWxUNE9SSWxqQUwtYXJnYXNYV0M4ZkpJMkZLMFY4dXlQNWIxaV9WbkdkX1VhbmdKa0F1NGZfVm9aSEVyZEU2THNaNnd6aDB1UGo2YTZFWWhYVkY0eFowUE56N2M?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Veeam launches Intelligent ResOps for Microsoft 365 - Techzine Global",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDBfeDBOc2puZGZvSzEtN2JSMkNtbHp4OEJzOEFrRzh1WklmemRlNmtMMUo1RThsREVTMlZRd1RycGFzNk9QbFhRTWhyOUlCMHpJNUs5VU15NkZfX2wzdGp3RHg0UGEwT0M3M1VTUW43UXBveHpNQS1rMkxuWXBnLVRIZ2NaM2Y5a1FxS2lmMnFNTUlzUzJ0cGlRanRGM21aRGwwRlVBcw?oc=5"

@@ -1,10 +1,24 @@
 {
   "domain": "letsping.com",
   "name": "Ping",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 5.2,
+  "score": 8.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-26",
+      "summary": "Capstone Energy+ Appoints [person] to Board of Directors, [person]",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekhpZjh0SjJ4Z0NkV3UxaUVYemtidU5tR3RSSHNFdUZiUkRCeUFYbVVqUnZ3MUppa0Jla1ZJbUtlYlpwMTZyWU1JNWU5LWR5WEo2dlliVGlsRVIyYUVXaTJad3Y5T0txMlV5aS1OVHE3OFBXdDViRDdrUE1YaUFQdDV4RWt3dEx6SHdET1VkSFg0YjlSMWViN2NOd2dsNEdZRjVjbDRoVElHejBlNkZpanUyQl9JdlZIWlhGNVlteFk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-24",
+      "summary": "Ping introduces new face material with its G400 Fairways, Hybrids and Crossover - GolfWRX",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSE1ZX3ltaTJiMWpsbGhRWTF3YndFWnJvWEVxMmMtZ2xrdzRycEdyME5rbTJfOVFXUEIyMjJvVGxzdlBuS1lUdG13RGJVVnRwWWVoVUlKcVVIVFNoRUZqSnlWRW9KRjVQb2N2dzFDRmdCY2taVWhyYS13azI3T2xTZ05zR0h3bDRNc2xvdXR3LXNGVUcwOV9PWmRhQUNjNzRXOFhlc0pqdFIxUQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

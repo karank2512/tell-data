@@ -1,0 +1,38 @@
+{
+  "domain": "simetrik.com",
+  "name": "Simetrik",
+  "as_of": "2026-10-27",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-27",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/simetrik",
+      "postings": [
+        {
+          "title": "Customer Success Manager - Enterprise Arg",
+          "posted_at": "2026-10-20",
+          "url": "https://jobs.ashbyhq.com/simetrik/7271d80d-7574-4707-a796-2c8c2e3b3712"
+        },
+        {
+          "title": "Implementation Specialist - US",
+          "posted_at": "2026-10-26",
+          "url": "https://jobs.ashbyhq.com/simetrik/29d76c7f-2ece-44e9-a7a6-8faeb37db649"
+        }
+      ]
+    }
+  ],
+  "open_postings": 9,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:simetrik",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

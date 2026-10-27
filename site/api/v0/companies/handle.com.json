@@ -1,10 +1,24 @@
 {
   "domain": "handle.com",
   "name": "Handle",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 1.4,
+  "score": 4.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "Exclusive: FireMon unveils AI agents to handle the legwork behind firewall policy changes - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFpHQnE5QjlUTVJfV0M4TW45RjBfZEZQNFhzOXdLLVM1V3RlcHZ3SllDeFdhNDJFRDlwUU1UWHlmcVhBWXhOWGFzdTQ0WXVxMnZJbVhHVWxrOURCTV9VTlExRmhfQWlpenFVclRlZVpGS2ZMRC1zZk9tanFENG05TlZNR1B0ZG1DcEVJWF9WQ2Z4SVJYYWtsbnFhZ240aGc1aEN2cEVFZEpkZ0hBUHlneG04b2JTcmxDZFU4YWVWRTMza1U?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "EPA unveils effort to boost tech to handle ‘forever chemicals’ - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3poOGtWanBuQXdrR2ZuLWZ2dmp6Tms5eXhnTWhEakpCVVFJOWU5aFRiTWlVSGQ0U3JNVFZqNFBFQVJZRldjR1JybmY4ZTJhdzAxSTlUdUxkcU93aXhwQ2RISUpTd3RWWkdBQ3lOOXNabUdoQW10OHRCbWN0RlhkOHVwSllpbVQ2aWZQMmxBcmU3b3QycHJ4SDM3SVI0U2ZkTGdkcWJWRUt2SnpHeFZVczVvRmVaSC1LU0U3UA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

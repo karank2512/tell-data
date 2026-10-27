@@ -1,0 +1,25 @@
+{
+  "domain": "readychapter1.com",
+  "name": "Ready Chapter 1",
+  "as_of": "2026-10-27",
+  "profile": "default",
+  "score": 23.8,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 23.8,
+      "occurred_at": "2026-10-26",
+      "summary": "Form D: $1,080,000 offering, $956,598 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2161358/000216135826000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002161358",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 17.1,
+  "score": 16.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -99,14 +99,14 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-23",
       "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRG5rLThDdEt6eDE0NnRqbGNtdC1UU2drYWV3UEp6OFpJT0tNM09RQjUtNWRjYUtXWENiSFlQa2syb1RnSm02ajM0SUE4dUpYM09QeUNJbDNHQ09vT3RQS1JzQUF5SExaX0RnaTBRbHoxUjltWllwREZJU0NwdnlBMUtLQmNROVpMaUNLN2MwZklQSEhwZTRsRXJ3NA?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-23",
       "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - KTBS 3",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOY0tnT0Y0SDhSV05VdmhoSUVmVWlBOHRQQXNudHRrbGMxZGJMYnJTbFlXVWY3cTR4NFlxZnp5T2tCT0NoM3NwcGdzSThkTjRKaDJMMV9aLVFrSHpGN1UxblhNTlJyQTFCTHJpeGlNTndLaUoxTzhiaXVBeUgwaXFtQXRiZGkxbGYxdFBMY3l5d0V4aU5NRVAyYTNVeHFvcmxTRWJPNkdja2NUWHdjeTU4Vmd3OU5rek9TXzFIZkpoNzcweS1WVWM0OTRwdHlnYXVPRjlQNUlaVFNHVXlJZGlCQ1c3bjFvR1FJb3hlMmVzR0ZaNmdwQXZrQlZjemF4LVN5TWNLNHRlRm5hSjlwa20wdktYblB3SlkwOGhJ?oc=5"
@@ -194,7 +194,7 @@
       ]
     }
   ],
-  "open_postings": 725,
+  "open_postings": 728,
   "long_open_roles": 190,
   "sources": {
     "ats": "greenhouse:stripe",

@@ -1,10 +1,17 @@
 {
   "domain": "scansilver.com",
   "name": "Silver",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 5.3,
+  "score": 6.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "Parent-led nonprofit launches fund to support children affected by Silver Rail tragedy - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWRkTkJXdWJEdEN4akVnZkZWRGZiVnBXWEpSYWt1N2FreDFvMXMyZ29jZFdGb2oza05YRTAxR0RhUDFSa2xwdTViZ2J0ZHhFaV9JYjBHdXhsdTlsUThfb0pyZGRiZXEyTDR1MDEzNDhDYzJIV0RSQ2ZjaXlmZHZwbDRFdTlDbFhMcTFMR2UwNEhYYWZmc2VkbWhFOUhRdjVlaGJ4QVhPTUxyY2dSUlcxbGZadlVMV1E?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

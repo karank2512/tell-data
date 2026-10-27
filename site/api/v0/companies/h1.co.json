@@ -1,14 +1,14 @@
 {
   "domain": "h1.co",
   "name": "H1",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 7.3,
+  "score": 8.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-20",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/h1",
@@ -24,6 +24,13 @@
           "url": "https://jobs.lever.co/h1/cdde8d34-4eb7-41c7-9b47-d108dadf300c"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Tinna Rubber Releases Updated Q2–H1 FY27 Investor Presentation - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOEpLaGFnb2h6M0lNLXpxOEkyV19Bb1FNOUZpekJFRTJadExqb0t4N1BoVzUxR1RwcGx0LWpDZ2haUjVROWxlTlNSNzZnR0lHOU80ZG50OFl6OWlNSXVTUDY4Z2MyWnFRNURvdkFabjR0YzkzLW82V3RucUhuR3ZFaWN1VHhjbEgzTmpvVlREdXBSb0IxNmVORGNvMU9LU3BIeThmcnE5MjZuX1ZPMlY0TnVwaXdkX3pUTE5XdTA5eFlZTHV2bkJzZVlfT2RnS0xMbl9GLTA5MV9iX0k?oc=5"
     },
     {
       "type": "launch",
@@ -48,13 +55,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-20",
       "summary": "JE Cleantech Holdings Releases H1 2026 Financial Results - AlphaStreet",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR3F4M2k5SHZfUlBhTS1aUF8wYUViTVZQUEVXV2NON3ZzWC1RWHQ5YnlNQ2hGTk95VTRQZElMcC1RV21abXJjcW1hdnUyU3U4RUt0LXpxR08tZDgwZFF4STdvLVNndW0tWV9MNlFnVUhvNVM3a0ttcUlyekt0ZENpSndTNkd4VG1ZZk5uNjMzTlFGYkZX0gGUAUFVX3lxTE1HcXgzaTlIdl9SUGFNLVpQXzBhRWJNVlBQRVdXY043dnNYLVFYdDlieU1DaEZOT3lVNFBkSUxwLVFXbVptcmNxbWF2dTJTdThFS3QtenFHTy1kODBkUXhJN28tU2d1bS1ZX0w2UWdVSG81UzdrS21xSXJ6S3RkQ2lKd1M2R3hUbVlmTm42MzNOUUZiRlc?oc=5"
     }
   ],
-  "open_postings": 25,
+  "open_postings": 26,
   "long_open_roles": 6,
   "sources": {
     "ats": "lever:h1",

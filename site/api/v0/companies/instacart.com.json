@@ -1,14 +1,14 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 4.6,
+  "score": 5.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-17",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -36,6 +36,31 @@
       "occurred_at": "2026-10-20",
       "summary": "Big Y Foods rolls out in-store kiosks, online delivery with Instacart - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnpEcVJIeS1VdlVQVEZmc0xrb2VZcFI2LVc0amQ4TUQzRUpvY0hYUnY4Slpvd0hFT3dfdTBIbk5BaThtY2VqU01KWTA1cFZMWWJQVVJiSG1SUFhSZ1k1UEpNaU5TNzRxRXd5MmRmRHlmaGh3cVUxelJRdWs1VHRXZm5OUjNqUUszZ3NlZ0RuYw?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-27",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/instacart",
+      "postings": [
+        {
+          "title": "Senior Software Engineer II - Enterprise Foundations",
+          "posted_at": "2026-10-20",
+          "url": "https://instacart.careers/job/?gh_jid=8304279"
+        },
+        {
+          "title": "Senior Software Engineer - Ads Manager",
+          "posted_at": "2026-10-20",
+          "url": "https://instacart.careers/job/?gh_jid=8304487"
+        },
+        {
+          "title": "Senior Software Engineer, Fulfillment",
+          "posted_at": "2026-10-26",
+          "url": "https://instacart.careers/job/?gh_jid=8315996"
+        }
+      ]
     },
     {
       "type": "hiring_velocity",

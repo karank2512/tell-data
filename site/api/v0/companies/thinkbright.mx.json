@@ -1,10 +1,24 @@
 {
   "domain": "thinkbright.mx",
   "name": "Bright",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 3.9,
+  "score": 6.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Bright Security launches STAR Fuzzer to automate application security testing - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5sZGtwbG9GYzBOaXR3V1RwZkk2MnZhY0RCX2YxZ3hINWtlNXMtUVJzSHpjeEJ2QUc4a1EtWDZVeG9pODBoUUFQM1BPRmdDRkZZXzVwdVpNWlo1TmQ4UnNvWWQ4WWRKMkRaOXBVTHNpN25iSmJsQ2tOcFF6MlpzQlZJbG5xM1NmdHVXSE5BZWFmZXRfcm1Mbjl4bUhvX0IwTXRqSnk5Nm5tOFk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding - CSO Online",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNm9sQUhkbldTdW05ZHVDVTFlX2F4LVdjRkMwX1VXbGx0UEw3bElOdFdQeF9vY0lNSGo1YVR0QUozVWFsYmI5NTBnTWNINF83SWo5M2QzbHljUjZQcFV6NUtFVk5RMU4xVHV0UWcxejlxbEFMWVlUbExtSnhfMzk4Mld2ZVZJeUNRdHpHRml0eS1rV3lCX2lVR0JMaHRjRHU3NjMxSWozeGFkV2l6TUNSYWxfYzhxeVVKb2dZMFlDc1dsRjJuWDh0akhGR1VHU2EyY0FOQ2szTUVpQV9QUUVQYUtnR0owU2IwNDVyRA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

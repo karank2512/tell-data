@@ -1,0 +1,43 @@
+{
+  "domain": "sievedata.com",
+  "name": "Sieve",
+  "as_of": "2026-10-27",
+  "profile": "default",
+  "score": 0.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-27",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/sieve",
+      "postings": [
+        {
+          "title": "Roboticist, Physical AI",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/sieve/29dd4058-9868-46db-8e10-ace6c6f35c69"
+        },
+        {
+          "title": "Member of Technical Staff, Robotics Research",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/sieve/35f1be09-921a-4a3c-a393-9f0a4a1a74cf"
+        },
+        {
+          "title": "Member of Technical Staff, Computer Vision (Perception)",
+          "posted_at": "2026-10-26",
+          "url": "https://jobs.ashbyhq.com/sieve/de68f566-5760-4bda-b976-026fd4a1e149"
+        }
+      ]
+    }
+  ],
+  "open_postings": 17,
+  "long_open_roles": 7,
+  "sources": {
+    "ats": "ashby:sieve",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

@@ -1,10 +1,24 @@
 {
   "domain": "phoenix.ca",
   "name": "Phoenix",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 2.8,
+  "score": 5.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-24",
+      "summary": "Mama mia! Mario-inspired Italian restaurant debuts in downtown Phoenix - azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFRSdlV1RThhb1o4R2pqSUFmbWFsQVc3cXlhTmMzUmVVankwQWE0dUNtQXVGN2Q5T3BXZDlqX2RlUmpRVUQzcjlxTDlVeGNMZndjckc1bHRxdzdPc1cyQlhYeWpvcnJKcC1xcDdDVEpocnhHSkZNU2ZUOTc0X0pxYnZVUW5lRUpyU0hfdEw0S19kc2VzZXVLaEg2aFdOVGZzcjAzZ3Jnd0xsR0xsRzllaUpENmJSYkxzcTExRmxB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Phoenix Launches SNAP Assistance Initiative - Signals AZ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUFhYXZDN0dtczI1a0VYY1lzMTNxZFZ2VkFaX1p3TzltclpNbHdjOXZfZ1RxUF9EY1FrX0szUWswaFpLUkhTZl9ua250YTdPeDhzdFh0MFdndXFmMGF2ak1yS1p3OGNSNklSdXFSRERtX1Q5dXBJV2JfUlZYSlA5RE51T2tfZw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -20,7 +34,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVdWOVBvMkZuYnFxNkpfb1g0clpaX29LeWNzU0RRNUhsLWVOeFE4WDFkazBCYUpUMUt3YkpiWDVEV1N4aXQxVFVKTC10TmlhQmJrTFpseWlOX0lUTjRHNjRfc2lzQlJjX3B2SHJuM1pSWFg5eFRzRUNFczdVNi02ZDc1V0NzaVllMHFUbEhpMzlUUDNuR1RoenBNV29PZmxWQ3RnVm9uQVJEbW5xdFEzZkdRN19ianAwU3hmT0RMNA?oc=5"
     }
   ],
-  "open_postings": 10,
+  "open_postings": 11,
   "long_open_roles": 2,
   "sources": {
     "ats": "ashby:phoenix",

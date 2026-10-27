@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 6.0,
+  "score": 8.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.2,
+      "contribution": 3.1,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -32,6 +32,31 @@
           "title": "Director, Marketing Operations",
           "posted_at": "2026-10-16",
           "url": "https://www.brex.com/careers/8895350002?gh_jid=8895350002"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-27",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Startups Account Executive",
+          "posted_at": "2026-10-26",
+          "url": "https://www.brex.com/careers/8918205002?gh_jid=8918205002"
+        },
+        {
+          "title": "Startups Account Executive",
+          "posted_at": "2026-10-26",
+          "url": "https://www.brex.com/careers/8918206002?gh_jid=8918206002"
+        },
+        {
+          "title": "Startups Account Executive",
+          "posted_at": "2026-10-26",
+          "url": "https://www.brex.com/careers/8918207002?gh_jid=8918207002"
         }
       ]
     },
@@ -83,7 +108,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-21",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -106,8 +131,8 @@
       ]
     }
   ],
-  "open_postings": 259,
-  "long_open_roles": 96,
+  "open_postings": 272,
+  "long_open_roles": 100,
   "sources": {
     "ats": "greenhouse:brex",
     "edgar_cik": null,

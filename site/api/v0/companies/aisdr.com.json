@@ -1,13 +1,13 @@
 {
   "domain": "aisdr.com",
   "name": "AiSDR",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 0.3,
+  "score": 0.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-02",
       "summary": "[AI SDRs in Action] How customer-owned domains slow email launches by up to 7 months",
       "url": "https://aisdr.com/blog/cold-email-domain-setup/"

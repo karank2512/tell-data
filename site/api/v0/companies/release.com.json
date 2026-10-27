@@ -1,10 +1,17 @@
 {
   "domain": "release.com",
   "name": "Release",
-  "as_of": "2026-10-26",
+  "as_of": "2026-10-27",
   "profile": "default",
-  "score": 3.9,
+  "score": 5.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Toledo evacuation order lifted following chemical release, city releases preliminary air monitoring data - WTVG",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUm9SX2VZenozU3hYUURKd0F1NUdRbGRJcEVjV0RaS0V2dFh4ZHkzVXRPZkdkWHNfS2hGd3dRWUVyLVZQT01hSGlkRUhOd0RRSTU4cHZNN0Fxb3ZITmgwRGRQTk5PdE5URzRzYU50ekpfZURwWGNESmQ2ZmRMSDZoLVQ1c1ZkeGMzRVBEc21fV18zVl94NU9DWFVhNFB4eUdPOWtKVEZKc005cHhoQVUwMXZ30gHGAUFVX3lxTE0xQ3JiUEJOUE1zT3FsbzM5ZWYzLVdES05NeVBBMmIwLUVtaFBDUGJJVkVMdTFLcFFycnJRRjN3Q0dlUHpyZHZCR3JJeDFNaTM5akFuMGpWYklBU09HcWRER2FTN2lfOG5MdGhkVDJQd0V1NGdyUVZ5bWdrcGdwTlJpdU85Mmt0QXd5eFdjbkk2Zi1wMk5wNW5mMHhzc0Mwc3hiYzdrM0pKMDIwSnd0UzhvZmdsRHRZT1BXTTBMUkNEYTlfTWUxdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Modern Warfare 4 Launches October 23 as a Standalone Release - Call of Duty® | Best-Selling Video Game Franchise",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMnJsbWYzR19zV3VIS0V6Ry1TLXU4X1ZCNWZ5SVRNXzR4M09TYm11Sl9oQXlXeUNzenNxc0lYOHE3V2s3eUlwTTdKellvRFF1QkQ1LVpFSWlqWFhISVRjbnZ5V2lVOElqclRNOHEzVlQzQUlsc1JjOW83Q2Q3eHN6RVJoWDdaWVdwaDdQTC1mVU1wVEx2Z2x2VTVaNFdRQQ?oc=5"
