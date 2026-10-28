@@ -1,16 +1,23 @@
 {
   "domain": "modalmotors.com",
   "name": "Modal Motors",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 26.4,
+  "score": 51.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 26.4,
+      "contribution": 26.2,
       "occurred_at": "2026-10-26",
       "summary": "Form D: $5,000,000 offering, $1,705,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2095109/000209510926000002/"
+    },
+    {
+      "type": "funding",
+      "contribution": 25.5,
+      "occurred_at": "2026-10-27",
+      "summary": "Form D: $3,000,000 offering, $1,000,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2095109/000209510926000003/"
     }
   ],
   "open_postings": 0,

@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 26.9,
+  "score": 26.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 6.9,
+      "contribution": 6.8,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.6,
+      "contribution": 3.5,
       "occurred_at": "2026-10-23",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -88,7 +88,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.3,
+      "contribution": 2.2,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -133,14 +133,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWQyVEpibDNwdHpLLUhpZGtQQ0VqOGpPNkd5X2RVQ1ZYUWhsU0o4QzFrendYMzBuQktXRnp2R0dyT2NRejF5SFVldlhKNnA2X3Y4Tk0xQzFMWTBzR0RIQ3BBbVhNRnBSSDhpaGZGLU9uZ0lJZ3Q0R3V3cDRDMTUtbE9BUkZ3OTduWlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - Yahoo Lifestyle Canada",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXota0ZLTHRMZlZWeWV5aFFBX0toZDJ0ZXFIZHdpeEZNWGl4emJEZE5uT0ZJUzdJcTg5TG5DODdaUFR1QUNkNVlSd3gwTHpjejNDZTN5WDB6QkZpSzVHTy1oNktjakFvMkZKNkpLcDlVVWE3Qk5KY0ItcXRyWXhDUHVSU3hqZ0k?oc=5"
@@ -158,6 +158,13 @@
       "occurred_at": "2026-10-20",
       "summary": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3l4d1o1a3h0Rkdpeng1T2VHTnZ6WkQwNWZSSUY2THNrR1pTZW5mc1RCUGZMRmpiWmZsc285YXp6TEVkYW5GbFdLZmxvRTUzeXhScjRBTHNsZUdpRHRKVlM0U3pDeExZZkRZVkwwOGpDU0d6bDJTczhHS2dlbGFUZHZueXBMRThWZFU4OA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-17",
+      "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjN3akxCanRDTl9LTDNfYUE1UWdNbVJvZFkzVkZmckNrOWk2c1FkR2p5VldZRzRVR1dXOU1xbXA5MjNZQ0FoOTdOdzVKcTF3UlBwZ3BYcmdCNDdSM2Z3OVppLUtzLV9DcTZvU1A0V1ZaVi1YYnFRZzJ4aXdUWW9mc1NmTTRPUWlNYlZ1NXgyeGc5aUt3cmxlQQ?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -196,13 +203,6 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
-      "occurred_at": "2026-10-17",
-      "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjN3akxCanRDTl9LTDNfYUE1UWdNbVJvZFkzVkZmckNrOWk2c1FkR2p5VldZRzRVR1dXOU1xbXA5MjNZQ0FoOTdOdzVKcTF3UlBwZ3BYcmdCNDdSM2Z3OVppLUtzLV9DcTZvU1A0V1ZaVi1YYnFRZzJ4aXdUWW9mc1NmTTRPUWlNYlZ1NXgyeGc5aUt3cmxlQQ?oc=5"
-    },
-    {
-      "type": "launch",
       "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Airbnb launches weather protection - Coverager",
@@ -234,8 +234,8 @@
       ]
     }
   ],
-  "open_postings": 197,
-  "long_open_roles": 58,
+  "open_postings": 200,
+  "long_open_roles": 59,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

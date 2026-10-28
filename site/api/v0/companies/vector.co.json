@@ -1,9 +1,9 @@
 {
   "domain": "vector.co",
   "name": "Vector",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 28.7,
+  "score": 31.2,
   "contributions": [
     {
       "type": "leadership",
@@ -64,20 +64,27 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Synthflow Launches Vector, a Long-Horizon AI Agent for Lenders That Doesn’t Stop When the Call Ends - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXVyZUl5ek9kYXdDbFA0MlhsUjVfRGRrODh6OUQzNkViUENCMk1meTNiTzBFbUxsRE1KNVc3OTNPY2NLOHdFSnZXdUFnYkZ1OHM0QVAyYTJBeTlJYkRUSXEwb2h6NVp2RlQ1aHRuMFowdmQ1dHlOSXVtdGlKWkZKaWZZQTJaZmRQXzhDTVNna0NucmRGYXpzVVl1b1ZhcmZ1dUdCQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Vector launches AI scenario simulator for workplace training - IT Brief UK",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkNWU3JzM0JjOTVjd2dCUVJxNXVnNE5SdW9qNmdDYVpDTndlVVlDTkc0Q1ZxM0J5cWljTmRYTHRzcnRGSkprVmdXM3gwNGF0ZGNjRHpvT0xmT1hSLWNqaFVfNTBHalJOakViZHN5SnA3ZlROR2FHdEFLMWpTSnFhQmNMVVBnbXByamdQOFNETTdZQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Vector launches AI scenario simulator for workplace training - IT Brief Australia",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeU9iX2ttTDJwS1l0aTdTWWZvbmRCM2dkMFhBRFdBLUY1RWhkc3VLSTUtX1ZnQ1pOLU9wNjFKTWdnRzd5MldkZGtkNHBWLVVyVkxPMVludWNLbGFwRGVMRG1iQmNSU1VESDZ2TTRlZGw2aklaRGwwaC1uS0RDeWdZWUZOd1J0S01pNURLX0hfdGh4bnc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Vector launches Rust-based IEEE 11073 SDC stack for medical device connectivity - New Electronics",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaG1sc1lYazVqbWxSNkdBOTNCOTVUV2NBM00zSG9kS0RFUm1fdjZoa3NmaVYyNGxBN2xwSVNIcGNodVlpZFZSNGl0LU9tUTN4N1JYUmtVSTIzNUlTMTJ6M21WMHVrQ3ROZ3RVNjI5MTRDUEhpcEJ5TGw3Nk5nT1FhQURQTUR6MF9Cd0oxMVdZaVBNUEpNVnA1RW9FYllLSVBsNUVnM0x5NU5fRUdoYmVhMDB6VUxlSGpmazFUVVUxYjdJTWc?oc=5"
@@ -102,6 +109,13 @@
       "occurred_at": "2026-10-22",
       "summary": "Vector Science and Therapeutics Corp. (PAIN) Unveils Investigational Peptide Microneedle Platform - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWFdIQ0hQaDJndHVLcjQwU1Z4cGhNY0E4YjRIOE9oRjNVXzRwR1FPMVJkUnpKU1dfUWxnQl9SS0JlaGhHS1BYVGpnYWhBYzZQZEdMcjNnWlN3eWQySllaYmpDQXlYZUUxVFJHRTA5SW1ZNUZnU3FJWkdFOGNHNFRSdl9lV3JVTEIzUEdfSkRGWjI5YmVTUDNOd3NwY0RWc0JNUlprdThJVC1LZ0dvSWduelZqenE5T2RSZ01EMlJLU3d3dFZZRGVvWG83R2prQmtvRFpQMktNQk5pcHdtdEtxUVRadlhsb0R1bjRUOQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-22",
+      "summary": "Vector Science and Therapeutics Corp. Introduces Peptide-Matrix Microneedle Technology for Targeted Transdermal Delivery of Peptides - PR Newswire Canada",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYmNOb1JqdjZiZEpjZ3VkdGk2WU54OWRUZTRHYTlRU29Oc3dSUDVmVVVCaFA0WjdINndaYk0wNDFfTHA1VVJkdWJlaHZvT0xzNTF3Y2hSZFNxMlhlUmppaFZiSGxxc0lCSW9hd1VyTzhhY05IRjdDdEhlMXNGRXViMkt3Z3dZaEUtVmpla2d5bjdjVkRKNEpPTHoyVzI0NEdMNlNfVml2WkhNOWp1aGVTSHZ2Njl4Slhjb1lnN2ZVSXlFZy1WRXlvRnB2c05KZl9PRlowMmFwMjFRRHhUTkFjOFFwRmxQRUMwRk94eWc1U2lQUjFQYkJPNkcyNUlmMFVmTkRmbVRMOVJpcjRzaUE1OEtn?oc=5"
     },
     {
       "type": "launch",

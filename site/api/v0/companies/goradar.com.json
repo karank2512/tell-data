@@ -1,9 +1,9 @@
 {
   "domain": "goradar.com",
   "name": "RADAR",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.8,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-11",
       "summary": "Israel Aerospace Industries unveils new radar system with 360-degree threat detection - www.israelhayom.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVhPYzloc0t4RzU3b0pMbU1JUDlUbDlMdWJjQUtxLVUxVVpCM2gyeWxfQnhuUWhqdzVFcTdobnpyUUJHRGQxTjUyeFRUYzd0ZngwOThwTFFSNnhvcW1BbmZ6R0tDVG9BLTQxUHk2RUE0UEpocmgwNlpyOG95Y3pBOVZpTmRBNm9Bd3RfSEkxOGNJNHY3bUdyZndhT1BJbjhueVl4VFpyQnc0czVoQWJmUFA2RFdQMzJOS3BEbTNDVFl4ck0?oc=5"
@@ -76,7 +76,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zNFQtWURfSmFDMFoydFNnODBJSVRueFBibjd4QkVfeTBsTlloektXR3RLclpiNDI3anZkZlA4X0U2dzFTVXBrUmFZY0p2R25qY25hajBYRmhnYVE4VUFLLTE3WXY0OXUyZDNidXFrVdIBb0FVX3lxTE9zNFQtWURfSmFDMFoydFNnODBJSVRueFBibjd4QkVfeTBsTlloektXR3RLclpiNDI3anZkZlA4X0U2dzFTVXBrUmFZY0p2R25qY25hajBYRmhnYVE4VUFLLTE3WXY0OXUyZDNidXFrVQ?oc=5"
     }
   ],
-  "open_postings": 7,
+  "open_postings": 8,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:radar",

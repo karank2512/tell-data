@@ -1,7 +1,7 @@
 {
   "domain": "aclu.org",
   "name": "ACLU",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
   "score": 1.4,
   "contributions": [
@@ -14,7 +14,7 @@
     }
   ],
   "open_postings": 16,
-  "long_open_roles": 7,
+  "long_open_roles": 6,
   "sources": {
     "ats": "greenhouse:aclu",
     "edgar_cik": null,

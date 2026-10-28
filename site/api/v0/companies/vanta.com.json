@@ -1,9 +1,9 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 20.9,
+  "score": 20.7,
   "contributions": [
     {
       "type": "funding",
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.3,
+      "contribution": 2.2,
       "occurred_at": "2026-10-16",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -67,7 +67,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-03",
       "summary": "The House of Makeba Launches O'Vanta, An Immersive Dining Concept in Ahmedabad - Indian Retailer",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVljMVRvcG4tVEJYWF9qT0FQbmg3TkhUeXRaT0pmMURLdGNWTzVVd3d4M1cyenlZakxYdkEyUnkzSWZIZ28tVGQ1TEpJVHRpTk5FSHNiMDZ0RWk1Y2dzWGlUcHlRRXZTNmVyVnJObkRrZWp0WnRUT3MzZ1N2WGMxMGdpMzBKSS1INUs2ZS1aSEVjOHlTOU5oY3VBYVJxWWdU?oc=5"
@@ -108,7 +108,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 85,
+  "open_postings": 83,
   "long_open_roles": 22,
   "sources": {
     "ats": "ashby:vanta",

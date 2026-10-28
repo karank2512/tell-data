@@ -1,9 +1,9 @@
 {
   "domain": "starsling.dev",
   "name": "StarSling",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-13",
       "summary": "Introducing ci-secure: an AI coding agent skill that closes the critical attack vectors in your GitHub Actions",
       "url": "https://starsling.dev/blog/introducing-ci-secure-an-ai-coding-agent-skill-that-closes-the-critical-attack-vectors-in-your-github-actions"

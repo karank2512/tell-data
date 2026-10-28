@@ -1,19 +1,19 @@
 {
   "domain": "qualifiedhealthai.com",
   "name": "Qualified Health",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 14.7,
+  "score": 14.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.7,
+      "contribution": 14.6,
       "occurred_at": "2026-07-29",
       "summary": "Form D: $24,999,987 offering, $9,999,972 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2147743/000214774326000001/"
     }
   ],
-  "open_postings": 22,
+  "open_postings": 21,
   "long_open_roles": 9,
   "sources": {
     "ats": "ashby:qualified-health-pbc",

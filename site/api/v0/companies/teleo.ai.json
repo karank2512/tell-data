@@ -1,14 +1,14 @@
 {
   "domain": "teleo.ai",
   "name": "Teleo",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 1.9,
+  "score": 1.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-24",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/teleo",

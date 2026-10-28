@@ -1,0 +1,25 @@
+{
+  "domain": "contrastcube.com",
+  "name": "Contrast Cube",
+  "as_of": "2026-10-28",
+  "profile": "default",
+  "score": 23.6,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 23.6,
+      "occurred_at": "2026-10-27",
+      "summary": "Form D: $1,000,000 offering, $310,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2162058/000216205826000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002162058",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

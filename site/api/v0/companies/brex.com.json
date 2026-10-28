@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 8.8,
+  "score": 8.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.1,
+      "contribution": 3.0,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -38,7 +38,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-10-27",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -63,7 +63,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-25",
       "summary": "7 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -108,7 +108,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.7,
+      "contribution": 0.8,
       "occurred_at": "2026-10-21",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -131,8 +131,8 @@
       ]
     }
   ],
-  "open_postings": 272,
-  "long_open_roles": 100,
+  "open_postings": 267,
+  "long_open_roles": 108,
   "sources": {
     "ats": "greenhouse:brex",
     "edgar_cik": null,

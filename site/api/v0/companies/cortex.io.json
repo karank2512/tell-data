@@ -1,9 +1,9 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 12.1,
+  "score": 11.9,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - PRLog",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEVEVzJXOTNwenphVVpVVzNKYTlHSF9IdnlCcTVxNUMtdjNXMHJGYjNxTUxXNDVrVWF2V24xRFpsWmZqaUFkNFkwSndFcDVPY3N3aUtrNjNDSWJPNEdxcDkxQ29PTElmNWJiU0VxOTRPM2JlZVZZZmZZQ3JzRDFzT25qLXVWM3VWSXRXUUZDcjl6UHYxS3hieEQwdVdESlNTNmFpX1lNYWxTajBnX1FjQTB6MWNUc0U?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - PR Underground",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQTVmMkxQTl8xX3lIdXVpSkRrcVNMOExHbnhNVE8zSDFQY1ZuZG9PZzRDcThoT0RJZkdYdWUycXhqdmhvcnFfamt1MmtHbTF2RDdQb2VaZEtRTVpLNC1ZcXl5NFlwVHU5MzdJZ1BQU3czMUR4MEdHTUhDREY1aWtuZmFtZTQ1MGJncWV3dWM1TlA5ZmhYMXc3Ty05UlktMTlMaWYzd2lUOXpWUHlUQ1F3MkU0dW9veTFreE5iWVhwbVZSQUdYV3c4bHNMSlU?oc=5"
@@ -69,7 +69,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZm52OWVpSndSd0d0blN4RERvSmhWd1JFVDluSk1SWnlJc0IyWE1JNmFhQkgwWmJrS3hlQ1hrQ3o2SDBrLTR6SzdGYnczT2FJSmI3YWFSaTM1OXZjejBnT1VibXlJem0wdFpxSnpBWllCeURTdDBQYmh1cmJJNm93T0w3SGVSbUJ2cWNzdmxPX191aGJXVzBXOHlQeTU3bGE0NlpXS1JpcjZ0dXBlV09WSl94Yk5UTjk3VFN4QnJWZkpWSGl2Sl82cUpXQTk?oc=5"
     }
   ],
-  "open_postings": 7,
+  "open_postings": 6,
   "long_open_roles": 1,
   "sources": {
     "ats": "greenhouse:cortex",

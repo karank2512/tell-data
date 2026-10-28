@@ -1,0 +1,25 @@
+{
+  "domain": "abundant.ai",
+  "name": "Abundant",
+  "as_of": "2026-10-28",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "UKRI launches £20M trial to encourage electricity use when renewables are abundant - New Civil Engineer",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT214X2ZvQ2hnd3RNeFFHV0YxdGFJNGs0VkhqY1lOWWpVaWVjcmhCREF0UmhBcXhaNW1QR1hwWnpiTjJ1RF9oWGVvQUM4aVNZNWhmWlYzNlhFbTBGZ1diTExDMlhrWWRfdkl0LWRfb2Q0X1prUTFHWHd5QnZvajZvdWRuQmhlS2M0SkNWZkFaZzJDM2xvNDl5QmVFTnBlejctQ2J0ZWoyUHdaa1RJUlNVRWtWQzlPVEFYUzd5ZWg0dy1LWVVTVlJnNDBtRllUdw?oc=5"
+    }
+  ],
+  "open_postings": 9,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:abundant",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

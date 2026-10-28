@@ -1,13 +1,13 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 20.3,
+  "score": 20.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.9,
+      "contribution": 17.8,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-25",
       "summary": "Introducing the CodeRabbit plugin for Cursor",
       "url": "https://coderabbit.ai/blog/coderabbit-plugin-for-cursor"

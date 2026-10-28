@@ -1,7 +1,7 @@
 {
   "domain": "tryfinch.com",
   "name": "Finch",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
   "score": 2.2,
   "contributions": [
@@ -27,8 +27,8 @@
       "url": "https://www.tryfinch.com/blog/introducing-flatfile"
     }
   ],
-  "open_postings": 12,
-  "long_open_roles": 11,
+  "open_postings": 10,
+  "long_open_roles": 9,
   "sources": {
     "ats": "lever:finch",
     "edgar_cik": null,

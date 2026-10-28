@@ -1,20 +1,20 @@
 {
   "domain": "icarus.one",
   "name": "Icarus",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 1.4,
+  "score": 1.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "VALOFE Launches Global Official Service for Icarus Online on October 22 - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjVPWkY4d3BkaGJmSlpRcV9TWVJfTlMxNjBmdnc2Z1N4SXM4Z2JWQi1KUEJTS2lrcGdqUHYta0xPdGIxVUVvYkt5WGlaNXlYQjBwRV8wcWwwYjdRWjBBWVUyVlU1eU9HS0paWjEwaWY0ZUlZMzlyLXcwQXZzOUxCQ3Vaa1ZSUkp2bEc1Y0d1dzJKSzN0SUZmQnNuODRMVWR1UG5VNFV2enRXaVBzM3NVam05UW8?oc=5"
     }
   ],
   "open_postings": 24,
-  "long_open_roles": 17,
+  "long_open_roles": 19,
   "sources": {
     "ats": "greenhouse:icarus",
     "edgar_cik": null,

@@ -1,9 +1,9 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 16.8,
+  "score": 17.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.3,
+      "contribution": 2.2,
       "occurred_at": "2026-10-15",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -77,6 +77,36 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXlWM0YyaXZEQm0zRmtUTGE1QUV4M09LZUwzSnhYWTQtWno3SkdsVFJXMUpEeGJKR3k5YVBrZHVuclJRUlY1Rk5oUkxQT0NhYS1Yc1QyZVEyaGEtZWpDS0pXWTJtaWUwaGY5eUU2VG5iUkoyX0M1N19ySU85YWxMc1MyUUZwdWZieHc2U3lBMDRIUThrSkU5Y0xKRDlpRnk3TVhGWS01TVFzS3FVVEFwMG96ZDlKQ1hrZGxWNDJR?oc=5"
     },
     {
+      "type": "hiring_velocity",
+      "role_family": "exec",
+      "contribution": 1.2,
+      "occurred_at": "2026-10-28",
+      "summary": "4 new exec roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/stripe",
+      "postings": [
+        {
+          "title": "Head of Product Sales, Payouts",
+          "posted_at": "2026-10-21",
+          "url": "https://stripe.com/jobs/search?gh_jid=8204649"
+        },
+        {
+          "title": "Head of AI Startups, EMEA",
+          "posted_at": "2026-10-23",
+          "url": "https://stripe.com/jobs/search?gh_jid=8299649"
+        },
+        {
+          "title": "Head of AMER Startups (AI Sales)",
+          "posted_at": "2026-10-28",
+          "url": "https://stripe.com/jobs/search?gh_jid=8267847"
+        },
+        {
+          "title": "Federal Government Relations Director",
+          "posted_at": "2026-10-28",
+          "url": "https://stripe.com/jobs/search?gh_jid=8314318"
+        }
+      ]
+    },
+    {
       "type": "launch",
       "contribution": 1.1,
       "occurred_at": "2026-10-10",
@@ -92,7 +122,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-23",
       "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSl8tdXcyS0FkN2lKb3BTTWNldEh5aUoyckFyR3pNWDhMTmdvX2UwMnNYRzFMRXdmMlJfSEVKbmUwaUpXd1JFZ2docEtTM1ZyQlhsWHptRnI2ZmE1U05RM0o2a0lRbWYxSUsza0ZYY3o0Ym9Bd001b2MxNHBSM0FObG81cXp5TlhLTGROWFlvNEt3RHFPby1xaWlrRlpWOXdzR2RVaDU3X3hka2dfWTkwNDg3d1V0YVo0YzhKY05meURYRlA4OUZJRkh2VjVVb1VGbkZrYTVUbE4?oc=5"
@@ -171,7 +201,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-15",
       "summary": "3 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -194,8 +224,8 @@
       ]
     }
   ],
-  "open_postings": 728,
-  "long_open_roles": 190,
+  "open_postings": 732,
+  "long_open_roles": 191,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

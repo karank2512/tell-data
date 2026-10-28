@@ -1,9 +1,9 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 2.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
@@ -18,9 +18,34 @@
       "occurred_at": "2026-10-15",
       "summary": "Madison County House Buyers Releases As-Is Cash Home Sale Overview for Huntsville and North Alabama Homeowners - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHRwQjRlUVFZbUJ1MlZySWtBRXJvRG82Vkw0dDhQdnUxQUFEV1VpSzUyZFI5TDJSLWl2VXRsOTc1bzEzZXNscld5OTltVlQ4LWVSRkw5R2NSel9HaXloZnZlVUctS1pZY282dngyUmFGUklBMGcyazhFejE3Ul9ZbmNfdUFfc3BnX3lLakJ6aXpDeG5neTdNS2JlM0lPUWc?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-28",
+      "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/overview",
+      "postings": [
+        {
+          "title": "Global HR Operations & Compliance Lead",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/overview/38a5fa33-a694-44fb-9439-f32a450062a4"
+        },
+        {
+          "title": "Global HR Operations & Compliance Lead",
+          "posted_at": "2026-10-21",
+          "url": "https://jobs.ashbyhq.com/overview/18dc694a-7d7a-45fc-a5f4-2442ba955525"
+        },
+        {
+          "title": "HR & Admin Manager, China",
+          "posted_at": "2026-10-27",
+          "url": "https://jobs.ashbyhq.com/overview/cc471123-d4e9-462c-bba9-60e13afcf268"
+        }
+      ]
     }
   ],
-  "open_postings": 61,
+  "open_postings": 63,
   "long_open_roles": 27,
   "sources": {
     "ats": "ashby:overview",

@@ -1,19 +1,39 @@
 {
   "domain": "momentic.ai",
   "name": "Momentic",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 0.2,
+  "score": 2.1,
   "contributions": [
     {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-28",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/momentic",
+      "postings": [
+        {
+          "title": "Solutions Engineer",
+          "posted_at": "2026-10-25",
+          "url": "https://jobs.ashbyhq.com/momentic/8380e2b0-5919-4be5-92ee-92cb5499c51a"
+        },
+        {
+          "title": "Account Executive, Enterprise",
+          "posted_at": "2026-10-27",
+          "url": "https://jobs.ashbyhq.com/momentic/297215e6-6ae9-49b1-85a1-61ec407992bb"
+        }
+      ]
+    },
+    {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-06-08",
       "summary": "How to Optimize Your Mobile App Testing Strategy For Faster Releases and Fewer Production Bugs",
       "url": "https://momentic.ai/blog/optimize-mobile-app-testing-strategy"
     }
   ],
-  "open_postings": 3,
+  "open_postings": 4,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:momentic",

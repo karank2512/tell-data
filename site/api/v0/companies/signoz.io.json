@@ -1,9 +1,9 @@
 {
   "domain": "signoz.io",
   "name": "SigNoz",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-12",
       "summary": "Introducing the new trace detail view",
       "url": "https://signoz.io/blog/new-trace-detail-view"

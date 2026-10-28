@@ -1,7 +1,7 @@
 {
   "domain": "podium.com",
   "name": "Podium",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
   "score": 1.7,
   "contributions": [
@@ -27,7 +27,7 @@
     }
   ],
   "open_postings": 65,
-  "long_open_roles": 37,
+  "long_open_roles": 36,
   "sources": {
     "ats": "greenhouse:podium81",
     "edgar_cik": null,

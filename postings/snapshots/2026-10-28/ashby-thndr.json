@@ -1,0 +1,153 @@
+{
+ "vendor": "ashby",
+ "identifier": "thndr",
+ "domain": "thndr.app",
+ "as_of": "2026-10-28",
+ "last_polled_at": "2026-10-28T15:24:24.252525+00:00",
+ "open_postings": [
+  {
+   "external_id": "1176178f-e4ca-456a-b623-846346d622fb",
+   "title": "Lead Backend Engineer - Feed Squad",
+   "role_family": "engineering",
+   "location": "Sofia, Bulgaria",
+   "posted_at": "2026-09-11T11:46:51.064000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/1176178f-e4ca-456a-b623-846346d622fb"
+  },
+  {
+   "external_id": "1b1f5c71-2ddd-4180-9add-7b623676f07d",
+   "title": "Statutory & Regulatory Reporting Accountant",
+   "role_family": "other",
+   "location": "Cairo Office",
+   "posted_at": "2026-09-03T08:15:56.550000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/1b1f5c71-2ddd-4180-9add-7b623676f07d"
+  },
+  {
+   "external_id": "1f4456de-ba21-4409-9ab8-b964ab09fd60",
+   "title": "Facilities Coordinator",
+   "role_family": "other",
+   "location": "Cairo Office",
+   "posted_at": "2026-09-30T08:22:08.105000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/1f4456de-ba21-4409-9ab8-b964ab09fd60"
+  },
+  {
+   "external_id": "2601803d-9388-4723-9bda-30203987db9a",
+   "title": "Senior Backend Engineer - Money Movements Squad",
+   "role_family": "engineering",
+   "location": "Cairo Office",
+   "posted_at": "2026-09-14T02:46:11.446000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/2601803d-9388-4723-9bda-30203987db9a"
+  },
+  {
+   "external_id": "2fa7519c-3690-4f67-9932-1cda3168e150",
+   "title": "Senior Backend Engineer - Experience squad",
+   "role_family": "engineering",
+   "location": "Cairo Office",
+   "posted_at": "2026-10-22T16:03:31.985000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/2fa7519c-3690-4f67-9932-1cda3168e150"
+  },
+  {
+   "external_id": "3133bc12-50ca-41b2-b8d4-da9d0907dd9a",
+   "title": "Trader - KSA",
+   "role_family": "other",
+   "location": "Riyadh Office",
+   "posted_at": "2026-10-07T11:56:14.065000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/3133bc12-50ca-41b2-b8d4-da9d0907dd9a"
+  },
+  {
+   "external_id": "339d760b-71c7-4428-b379-5e0a8ea411fa",
+   "title": "Fixed Income Associate",
+   "role_family": "other",
+   "location": "Cairo Office",
+   "posted_at": "2026-10-20T08:52:32.352000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/339d760b-71c7-4428-b379-5e0a8ea411fa"
+  },
+  {
+   "external_id": "3a8b18ce-b3f0-4192-8051-108706d44e1e",
+   "title": "Head of Operations",
+   "role_family": "exec",
+   "location": "Cairo Office",
+   "posted_at": "2026-10-27T08:13:34.173000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/3a8b18ce-b3f0-4192-8051-108706d44e1e"
+  },
+  {
+   "external_id": "4f2d5cd9-af34-4958-9d9a-4e6e66a68e37",
+   "title": "Senior Backend Engineer - Feed Squad",
+   "role_family": "engineering",
+   "location": "Sofia, Bulgaria",
+   "posted_at": "2026-09-11T11:28:27.092000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/4f2d5cd9-af34-4958-9d9a-4e6e66a68e37"
+  },
+  {
+   "external_id": "5311dc50-d660-4c45-b8d5-7b9a7f4e34ac",
+   "title": "Senior Cyber Security Engineer / DevSecOps",
+   "role_family": "engineering",
+   "location": "Sofia, Bulgaria",
+   "posted_at": "2026-10-27T06:34:32.119000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/5311dc50-d660-4c45-b8d5-7b9a7f4e34ac"
+  },
+  {
+   "external_id": "6a0f02ee-35be-4386-8711-220a3351bcb7",
+   "title": "Head of Brokerage - KSA",
+   "role_family": "exec",
+   "location": "Riyadh Office",
+   "posted_at": "2026-10-12T21:35:54.116000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/6a0f02ee-35be-4386-8711-220a3351bcb7"
+  },
+  {
+   "external_id": "6ec66e9e-9260-4332-97ca-e0861156b0e7",
+   "title": "Senior Cyber Security Engineer / DevSecOps",
+   "role_family": "engineering",
+   "location": "Cairo Office",
+   "posted_at": "2026-10-11T15:59:31.774000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/6ec66e9e-9260-4332-97ca-e0861156b0e7"
+  },
+  {
+   "external_id": "73f6bb75-d445-483d-aa79-d24d68bc821d",
+   "title": "Head of Custody Operations - KSA",
+   "role_family": "exec",
+   "location": "Riyadh Office",
+   "posted_at": "2026-10-12T21:41:42.794000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/73f6bb75-d445-483d-aa79-d24d68bc821d"
+  },
+  {
+   "external_id": "7415b26c-a8aa-460a-8caf-9baed7602290",
+   "title": "Senior DevOps/Infrastructure Engineer",
+   "role_family": "engineering",
+   "location": "Cairo Office",
+   "posted_at": "2026-10-25T09:36:37.158000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/7415b26c-a8aa-460a-8caf-9baed7602290"
+  },
+  {
+   "external_id": "86ae5784-cae8-40b8-a0e8-e01735c4e328",
+   "title": "Senior Revenue Accountant",
+   "role_family": "sales",
+   "location": "Cairo Office",
+   "posted_at": "2026-10-15T11:29:22.720000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/86ae5784-cae8-40b8-a0e8-e01735c4e328"
+  },
+  {
+   "external_id": "944d6ceb-09a7-4b9a-992c-99c8401bacaa",
+   "title": "Compliance & Money Laundering Reporting Officer - KSA",
+   "role_family": "other",
+   "location": "Riyadh Office",
+   "posted_at": "2026-10-08T00:34:39.539000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/944d6ceb-09a7-4b9a-992c-99c8401bacaa"
+  },
+  {
+   "external_id": "d82aeb0e-0fb0-4709-82ee-c154d64d871f",
+   "title": "Strategic Finance & Investment Banking Manager",
+   "role_family": "finance_ops",
+   "location": "Cairo Office",
+   "posted_at": "2026-09-19T00:26:07.770000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/d82aeb0e-0fb0-4709-82ee-c154d64d871f"
+  },
+  {
+   "external_id": "dd5874a8-88cf-4c8b-b37a-a571658b413d",
+   "title": "Compliance Officer & MLRO (COMLRO)",
+   "role_family": "other",
+   "location": "Abu Dhabi Office",
+   "posted_at": "2026-10-12T19:00:17.376000+00:00",
+   "url": "https://jobs.ashbyhq.com/thndr/dd5874a8-88cf-4c8b-b37a-a571658b413d"
+  }
+ ]
+}

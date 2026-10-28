@@ -1,7 +1,7 @@
 {
   "domain": "gocardless.com",
   "name": "GoCardless",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
   "score": 0.7,
   "contributions": [
@@ -27,7 +27,7 @@
       "url": "https://gocardless.com/blog/gocardless-launches-recurring-pay-by-bank"
     }
   ],
-  "open_postings": 26,
+  "open_postings": 24,
   "long_open_roles": 9,
   "sources": {
     "ats": "greenhouse:gocardless",

@@ -1,0 +1,38 @@
+{
+  "domain": "juicebox.ai",
+  "name": "Juicebox",
+  "as_of": "2026-10-28",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-28",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/juicebox",
+      "postings": [
+        {
+          "title": "Account Executive",
+          "posted_at": "2026-10-22",
+          "url": "https://jobs.ashbyhq.com/juicebox/80d8c129-7121-4d33-bfef-8bace22ac7ba"
+        },
+        {
+          "title": "Sales Manager",
+          "posted_at": "2026-10-27",
+          "url": "https://jobs.ashbyhq.com/juicebox/aa21022e-2aa6-4d2d-8203-cf52eeaa4c48"
+        }
+      ]
+    }
+  ],
+  "open_postings": 36,
+  "long_open_roles": 14,
+  "sources": {
+    "ats": "ashby:juicebox",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

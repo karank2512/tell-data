@@ -1,14 +1,14 @@
 {
   "domain": "arketa.com",
   "name": "Arketa",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 1.9,
+  "score": 1.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-24",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/arketa",
@@ -26,7 +26,7 @@
       ]
     }
   ],
-  "open_postings": 8,
+  "open_postings": 9,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:arketa",

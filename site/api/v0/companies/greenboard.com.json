@@ -1,16 +1,24 @@
 {
   "domain": "greenboard.com",
   "name": "Greenboard",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 9,
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Greenboard Launches GreenboardGo2.0, the First AI Harness Built for SEC & FINRA Compliance - 01net",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTW9BeHk0eDlkeHZFX0Q5Y1F5dHV3RkJvbWp6RzNSQi15eDQ2TEcxMlhlNjJTUmxtUkFiZFJmb2E2aktWNDVtdWRwR1pfdTI0WmRheUNfSGQwUHNDYkxMak5LQUtzWmQ4VTJhYzJJT1BMd180UWVXbDdfeXE2cTIzMUFYWTM4Smw5Q3hsQkk1cWdLZXBtNWlMb2IwNUszeUVjWXJVX1llWmViOFVnMlE?oc=5"
+    }
+  ],
+  "open_postings": 8,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:Greenboard",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []

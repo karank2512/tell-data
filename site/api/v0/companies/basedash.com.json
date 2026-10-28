@@ -1,9 +1,9 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.3,
   "contributions": [
     {
       "type": "launch",
@@ -105,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-02",
       "summary": "Introducing Basedash Actions",
       "url": "https://www.basedash.com/blog/introducing-basedash-actions/"
@@ -140,7 +140,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-05-29",
       "summary": "Introducing Basedash Embedding",
       "url": "https://www.basedash.com/blog/introducing-basedash-embedding/"

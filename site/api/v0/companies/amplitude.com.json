@@ -1,10 +1,40 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 13.6,
+  "score": 17.4,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 4.0,
+      "occurred_at": "2026-10-28",
+      "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/amplitude",
+      "postings": [
+        {
+          "title": "Enterprise Account Executive",
+          "posted_at": "2026-10-27",
+          "url": "https://jobs.ashbyhq.com/amplitude/7e773392-9aaf-4c56-b289-8083c2ea96de"
+        },
+        {
+          "title": "Enterprise Account Executive",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/amplitude/5be2be8e-c1e4-4f85-bab6-e8c11e14d603"
+        },
+        {
+          "title": "Enterprise Account Executive",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/amplitude/fb0db5a8-37c7-43cb-a6f8-2c8741bdd14e"
+        },
+        {
+          "title": "Enterprise Account Executive",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/amplitude/5ffa2512-3841-497a-9404-e99f54a1f4a3"
+        }
+      ]
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -14,7 +44,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-16",
       "summary": "Amplitude Appoints [person] Founder to Board",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkFMcWxMZVFYeUcwY0VvNUYzWVFGNmtYaXI5VFRwakMzTXRBLW1FcENERGY4c0xRRjlyeXRKUkRkdmRlazZTQmdsVGRIYkRKTlVLeUV4Yy1WaG9JNXQzYzJ4N0Z6QmdsbFhqdWRsSFNUXzI5bHRhTTg1YkdVY0JTV3Bsbk1DdExfQV9ERnRSOA?oc=5"
@@ -56,7 +86,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Humankind 2: Amplitude Studios unveils its new strategy game, due in 2027 on PC - Sortir à Paris",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaU1mY0xMTEowa19KemQyaFlaSGlqN2VGQW84dmJua2JZdjQxdGlvbWgtSURSd09SRkN3NloxeEpoTFhDc0ZzbjFSTW1hNTNxQmpBSU9POUxVbVBaZ3hMbFB5SDMzX3ZUTVhGaW1PdDk0bjdQbWU1ZzhZck1McW1iN2dNck5SV2o5V0VzdWRfemFtLUVoRFNNOW0tcGhKTHVid0thZmliREZFYTJCZ2JzRVJiQ0lkRGpXcXREeGxpNTd6Vk9sSmd1UkhMLWFDWXliTElzbWR6Wmdiakhtem1vVkZRR1RvQQ?oc=5"
@@ -69,7 +99,7 @@
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 39,
+  "open_postings": 44,
   "long_open_roles": 8,
   "sources": {
     "ats": "ashby:amplitude",

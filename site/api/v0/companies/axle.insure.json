@@ -1,13 +1,13 @@
 {
   "domain": "axle.insure",
   "name": "Axle",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 30.2,
+  "score": 30.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.5,
+      "contribution": 23.3,
       "occurred_at": "2026-10-01",
       "summary": "Form D: $17,260,363 offering, $17,260,363 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1951844/000195184426000005/"
@@ -55,7 +55,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYjBDVWxPN2FtcXoxTU1tVXpORXdyUHpXRUtWMjI0YXNSX2NLZzcxdWdTY0hlRHZncVlFVEJJTlRCWHBqdlpXdXdVUDBFTTNfSUFEMnZHTldaRmNBYVpsTmZjZ1hSTUVXWWxXQktGbERPTTJGWTZUNGYxR19QNXFhcnVXblQ2ZXVFN29sUWkza3E1LVdKUDdLdkdTckdqZEZ3OEpqZFpHUm5WNHNwNjc0N3N4R0VyRk16ZE1YMVNVd3BrNUZVZnBFUXFSOTFKVHpYMmJxOTZCLVJVVWx3clFfa3pVRQ?oc=5"
     }
   ],
-  "open_postings": 14,
+  "open_postings": 15,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:axleinsure",

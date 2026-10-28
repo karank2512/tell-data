@@ -1,9 +1,9 @@
 {
   "domain": "replicas.dev",
   "name": "Replicas",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 6.1,
+  "score": 6.0,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-04",
       "summary": "Introducing fallbacks + forks",
       "url": "https://replicas.dev/blog/fallbacks-and-forks"

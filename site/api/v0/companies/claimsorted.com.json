@@ -1,0 +1,43 @@
+{
+  "domain": "claimsorted.com",
+  "name": "ClaimSorted",
+  "as_of": "2026-10-28",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-28",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/claimsorted",
+      "postings": [
+        {
+          "title": "Account Manager - London",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/claimsorted/45f90ff7-987c-46dc-a0a5-34a9ae675e13"
+        },
+        {
+          "title": "Strategic Account Executive - London",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/claimsorted/d33f3ef2-e30a-4224-8a0a-bb121ae0736a"
+        },
+        {
+          "title": "Enterprise Sales Development Representative - London",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/claimsorted/caec00d3-6d72-47a3-9d20-10195e997402"
+        }
+      ]
+    }
+  ],
+  "open_postings": 17,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:claimsorted",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

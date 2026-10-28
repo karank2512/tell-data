@@ -1,14 +1,14 @@
 {
   "domain": "confidotech.com",
   "name": "Confido",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 2.0,
+  "score": 1.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-27",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/confido",
@@ -26,7 +26,7 @@
       ]
     }
   ],
-  "open_postings": 39,
+  "open_postings": 38,
   "long_open_roles": 16,
   "sources": {
     "ats": "ashby:confido",

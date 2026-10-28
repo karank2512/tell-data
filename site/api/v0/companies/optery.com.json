@@ -1,14 +1,14 @@
 {
   "domain": "optery.com",
   "name": "Optery",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 4.0,
+  "score": 3.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-23",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/optery",
@@ -66,7 +66,7 @@
       ]
     }
   ],
-  "open_postings": 12,
+  "open_postings": 11,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:optery",

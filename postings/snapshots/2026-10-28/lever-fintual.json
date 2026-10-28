@@ -1,0 +1,25 @@
+{
+ "vendor": "lever",
+ "identifier": "fintual",
+ "domain": "fintual.com",
+ "as_of": "2026-10-28",
+ "last_polled_at": "2026-10-28T15:24:22.564531+00:00",
+ "open_postings": [
+  {
+   "external_id": "43c3398c-5d95-470a-88fc-72eca8e996cd",
+   "title": "Senior Portfolio Manager",
+   "role_family": "other",
+   "location": "Gran Santiago, Región Metropolitana de Santiago",
+   "posted_at": "2025-09-15T14:33:51.715000+00:00",
+   "url": "https://jobs.lever.co/fintual/43c3398c-5d95-470a-88fc-72eca8e996cd"
+  },
+  {
+   "external_id": "9c863695-5fdd-40f3-a907-fc8db1227036",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "Chile / México",
+   "posted_at": "2026-09-22T14:36:38.546000+00:00",
+   "url": "https://jobs.lever.co/fintual/9c863695-5fdd-40f3-a907-fc8db1227036"
+  }
+ ]
+}

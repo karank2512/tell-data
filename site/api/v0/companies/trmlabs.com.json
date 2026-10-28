@@ -1,9 +1,9 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-10-27",
+  "as_of": "2026-10-28",
   "profile": "default",
-  "score": 10.4,
+  "score": 10.2,
   "contributions": [
     {
       "type": "launch",
@@ -43,7 +43,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-23",
       "summary": "4 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/trm-labs",
@@ -104,7 +104,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-08-04",
       "summary": "Names [person]",
       "url": "https://www.trmlabs.com/resources/blog/trm-labs-names-former-mas-regulator-claudia-hui-as-head-of-compliance-advisory-apac"
@@ -124,7 +124,7 @@
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 114,
+  "open_postings": 117,
   "long_open_roles": 35,
   "sources": {
     "ats": "ashby:trm-labs",
