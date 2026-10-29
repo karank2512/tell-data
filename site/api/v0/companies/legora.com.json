@@ -1,9 +1,9 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 12.0,
+  "score": 13.3,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -37,10 +37,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-13",
       "summary": "[person] joins Legora as lead legal engineer",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGdvamFfUHpBNThaZnFhTnFqcUZ0MDJSdi1VRmlieEVGTHM5aXFjNGcxRk9ReHlKSk1fTzktRzM1cGpFRlBPTktxUW1QTGxRakVGQTlQTXlvRWZNMGR0UzB0OWEtRnJOSmRjRFhHNUIwWFBHNUZMN0NfRGgyLXRQZEkzbw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Legora Launches AI Agentic Operating System for Legal Work - The Chenab Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGF0S0tLUG9lRXVFd1pzeklaaTY2eFV5Q0JOZ3llZU5UMTQxVm4tOTFSQmg4M3VZUVU2d24zZFhqNnJmRzJhMFFKQ1lyUjA2eGNMWFpUb0s4UVpWVFF1Wm1hVk1nYVRoT2hkcTdibTdVSm9iQlBWT3VJUHRod202RlF0WHIxTFE2UlB0bjhHaDBlbTMwOXF3am5ycUx6NUVjT0VpUkU3ZTNSeGo1bHVBc193bnE5NDlFRTZiVHhBdFRad9IBwgFBVV95cUxNNGF0S0tLUG9lRXVFd1pzeklaaTY2eFV5Q0JOZ3llZU5UMTQxVm4tOTFSQmg4M3VZUVU2d24zZFhqNnJmRzJhMFFKQ1lyUjA2eGNMWFpUb0s4UVpWVFF1Wm1hVk1nYVRoT2hkcTdibTdVSm9iQlBWT3VJUHRod202RlF0WHIxTFE2UlB0bjhHaDBlbTMwOXF3am5ycUx6NUVjT0VpUkU3ZTNSeGo1bHVBc193bnE5NDlFRTZiVHhBdFRadw?oc=5"
     },
     {
       "type": "launch",
@@ -80,7 +87,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-21",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -103,8 +110,8 @@
       ]
     }
   ],
-  "open_postings": 308,
-  "long_open_roles": 99,
+  "open_postings": 309,
+  "long_open_roles": 100,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": null,

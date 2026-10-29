@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 20.7,
+  "score": 20.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.0,
+      "contribution": 11.9,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -53,7 +53,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-09-28",
       "summary": "STARK launches Vanta 12 to strengthen maritime security in the Baltic Sea and across NATO's northern flank - Arctic Today",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3B3R2VwQ1RPSWh0ZjRReWlVU3JIUDdNLUFwbzVVWEw2cDJULW9pakpXVkVCYm9iUm9wR3pfd0dpemQ0b0JOZmlpenFBZkN5bV84NzdIT05rc19IeVV0RFAwLTVQTHZEYUstbDVCNnJXRndRcTBNMkpfQW5zNmdfbkZNQkJjcGdhdU90WDVnMnFZM0RqbU1oUmt5QWhkWWUxNlJQSjJsc3N4RnByMXBCTjBQcVR2V3ZOMHNrQ1RHaGRSU2VvdGktUDFkeEVnMVZCVHdiaGlkQmhPUUV0SktnUk1OcC1MSWFvamJrOTd3QVM?oc=5"
@@ -108,8 +108,8 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 83,
-  "long_open_roles": 22,
+  "open_postings": 79,
+  "long_open_roles": 18,
   "sources": {
     "ats": "ashby:vanta",
     "edgar_cik": null,

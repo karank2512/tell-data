@@ -1,10 +1,24 @@
 {
   "domain": "spurtest.com",
   "name": "Spur",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 4.0,
+  "score": 6.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Maryland Launches $200M Auction to Spur In-State Clean Power - The Well News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMEY3TjZiT1REcmZlUEV3a2pJQVZOSlVycnBmWHQwQm9Pcmc1RzY1WWJ6eEJrM191cGhkXzJ5c3R3aElDcjRqUkNsREFXTW1KRlV6eEdwS0Jnb0w0ZkVVajlVeGR5c3NNamNZTEE5Z2lJQm41ckQzcmU1YVd4YjRna1dPNGlXX01pVXl4WnBiR3ZKX2pCc2NrY3RYUUl1dVR6MFVDcQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "USDA rolls out SPUR processing loans program - meat+poultry",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcFFMNHNzTElQRVVKTm00WU9XckVOeWlXRmRmQ3Rzb3N5NGtTa2p2Nm11bHNQc21EZS15VVhxSk5WV1pPRmdIanlzdVljaXVrckwyRFFldXBQLUtlTHJ1TGFFT1Q2NVByOGhqajgwWmxUUi1nN1YyaVNjTlJaalBUUkQ5LVhLRUxibnNZQTJ0Q00?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

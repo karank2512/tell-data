@@ -1,10 +1,24 @@
 {
   "domain": "sparkhq.ai",
   "name": "Spark",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 2.5,
+  "score": 5.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Positive Grid Introduces the Spark CAB 2 Powered FRFR Cabinet - Premier Guitar",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzA1d1J2WkpOREVBamdSZWp2cmY5dm1uSThPU29vaTNBY2FNcnpya05pM1hlcklmaThUekpQb2NNdVlPWGxHQ2x4RXRoNjltQXRXeDdZQXdlazh2TEdudk1uTkpsdjdZWlpjUEYxMWl4UWNtaWF2ZEFtT1ZSUTl3OGhGN1V3V2ppeHVXTDhSMXJQOTNnejh5aHlwZXI?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "Nvidia DGX Spark 64GB Launches at $4,999: Is It Worth It? - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWFkT1pMNUVFdG13ODFXeGV4Mk5YQ012ZzUtdVgydzNhOWNCNk9BUzZ5VkRmaE0yREFXYmpJeEhlQjJKcHhQUW1kY2wwZUhic1NmZWF4aVp5LW5FUXBPWjBSbnRnTzNFLVQzcWlpNTVNVi1nUHg1Uk5lbThpUlF1V3RB?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

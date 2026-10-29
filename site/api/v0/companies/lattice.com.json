@@ -1,13 +1,13 @@
 {
   "domain": "lattice.com",
   "name": "Lattice",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 14.5,
+  "score": 14.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-22",
       "summary": "Lattice Semiconductor Appoints [person] and [person] to Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkQtcy1UenFjckFJbGVROFVhZ0FtSTF5ckVKbkI0WGVwOGdBZWhzY0lCWm5nalVRSlBOcF9FZjlHa3FOdm94Sm9MOHhFQ1FGaXdzX0U3TkxMTkVJVll3cUYxSXRubmhrcTMxVGVYZlp2TnFBM2l1VWZpb1dySkhmSWJjV1AtY0JmYU9EemNrQVk5WkVKbFllZXBCY3YxYUxQdnAzVkFDcVJBaDdYc1ZIWU5zTlJPaFRxNjVpS3BTZU1keDJX?oc=5"
@@ -70,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Lattice Semiconductor launches post-quantum firmware security stack - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWThUeUZYYkY3X1U1MHpneDV2Z0duckY5NkR6dm81T1IzNjd5em9STWZIbW51a0JHVVBWRkFfaVEwU01oMEc5eklpaGFUYXR0T1JNLTAtZW5wTDNpVlNxbWtfTmZ4WEVTNEt5X3JwaVVqdVRjdG1PN0s2NzVzeTQxcWh2WndIQ1B4Z2R0NXByVGFFVm5YNndWYjU3M3dmM1RuRW9ORE42VDZOWU0xd1FhZXVmZi1rWlEzdnJMQjRCZXptTkRS?oc=5"
     }
   ],
-  "open_postings": 9,
-  "long_open_roles": 3,
+  "open_postings": 11,
+  "long_open_roles": 4,
   "sources": {
     "ats": "greenhouse:lattice",
     "edgar_cik": null,

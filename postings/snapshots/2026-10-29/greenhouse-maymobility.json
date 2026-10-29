@@ -1,0 +1,337 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "maymobility",
+ "domain": "maymobility.com",
+ "as_of": "2026-10-29",
+ "last_polled_at": "2026-10-29T15:24:43.267942+00:00",
+ "open_postings": [
+  {
+   "external_id": "8187004002",
+   "title": "Lead ML Engineer - Mapping",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-03T17:04:04+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8187004002"
+  },
+  {
+   "external_id": "8187068002",
+   "title": "Machine Learning Engineer II - Autonomous Driving Performance Evaluation",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-06-08T20:01:04+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8187068002"
+  },
+  {
+   "external_id": "8206406002",
+   "title": "Senior Vehicle Communications Architect",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-06-25T15:45:57+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8206406002"
+  },
+  {
+   "external_id": "8206419002",
+   "title": "Lead Vehicle Controls and Interface Engineer",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-06-25T15:43:15+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8206419002"
+  },
+  {
+   "external_id": "8318003002",
+   "title": "Senior Data Scientist - Metrics",
+   "role_family": "ml_ai",
+   "location": "Ann Arbor, MI",
+   "posted_at": "2025-12-08T01:08:22+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8318003002"
+  },
+  {
+   "external_id": "8350365002",
+   "title": "Director of Product",
+   "role_family": "exec",
+   "location": "USA - Remote",
+   "posted_at": "2025-12-22T19:42:27+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8350365002"
+  },
+  {
+   "external_id": "8392808002",
+   "title": "Tech Lead, Performance Evaluation",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-02-03T15:29:05+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8392808002"
+  },
+  {
+   "external_id": "8395061002",
+   "title": "Systems Engineer II",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-02-02T15:27:35+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8395061002"
+  },
+  {
+   "external_id": "8496551002",
+   "title": "Senior Systems Engineer",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-04-13T18:28:52+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8496551002"
+  },
+  {
+   "external_id": "8502280002",
+   "title": "Lead ML Engineer - Lane & Route Network Mapping",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-04-24T18:43:50+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8502280002"
+  },
+  {
+   "external_id": "8502300002",
+   "title": "Lead Machine Learning Engineer - Localization",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-04T17:26:06+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8502300002"
+  },
+  {
+   "external_id": "8509911002",
+   "title": "Senior Product Safety Architect II",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-04-17T15:27:01+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8509911002"
+  },
+  {
+   "external_id": "8533129002",
+   "title": "Director, System Safety",
+   "role_family": "exec",
+   "location": "USA - Remote",
+   "posted_at": "2026-05-05T20:04:27+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8533129002"
+  },
+  {
+   "external_id": "8561428002",
+   "title": "Director, Performance Analytics",
+   "role_family": "exec",
+   "location": "USA - Remote",
+   "posted_at": "2026-05-27T21:54:47+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8561428002"
+  },
+  {
+   "external_id": "8561454002",
+   "title": "Senior Autonomy Applications Engineer",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-05-29T00:21:47+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8561454002"
+  },
+  {
+   "external_id": "8580411002",
+   "title": "Machine Learning Engineer II - Autonomous Driving Training Infrastructure",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-06-05T16:01:08+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8580411002"
+  },
+  {
+   "external_id": "8582594002",
+   "title": "Lead ML/Perception Engineer",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-06-08T19:14:56+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8582594002"
+  },
+  {
+   "external_id": "8605750002",
+   "title": "Senior Autonomy Engineer, Integration",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-07-13T14:42:47+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8605750002"
+  },
+  {
+   "external_id": "8631044002",
+   "title": "Senior Integration Test Engineer",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-07-13T13:56:05+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8631044002"
+  },
+  {
+   "external_id": "8631724002",
+   "title": "Director, Autonomy Perception",
+   "role_family": "exec",
+   "location": "USA - Remote",
+   "posted_at": "2026-07-13T18:29:13+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8631724002"
+  },
+  {
+   "external_id": "8643940002",
+   "title": "Senior Systems Engineer II",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-07-24T00:22:14+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8643940002"
+  },
+  {
+   "external_id": "8643943002",
+   "title": "Director, Autonomy Behavior",
+   "role_family": "exec",
+   "location": "Ann Arbor, MI - Onsite",
+   "posted_at": "2026-07-23T01:36:40+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8643943002"
+  },
+  {
+   "external_id": "8687497002",
+   "title": "Lead, Safety Assurance",
+   "role_family": "finance_ops",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-10T15:11:17+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8687497002"
+  },
+  {
+   "external_id": "8692360002",
+   "title": "Manager, Simulation Operations",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-12T20:35:32+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8692360002"
+  },
+  {
+   "external_id": "8730957002",
+   "title": "Lead Machine Learning Engineer",
+   "role_family": "ml_ai",
+   "location": "USA - Remote",
+   "posted_at": "2026-08-19T19:14:18+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8730957002"
+  },
+  {
+   "external_id": "8734496002",
+   "title": "Robotics Engineer II",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Onsite",
+   "posted_at": "2026-08-20T20:12:21+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8734496002"
+  },
+  {
+   "external_id": "8746085002",
+   "title": "Senior Accountant",
+   "role_family": "finance_ops",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-08-25T14:26:43+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8746085002"
+  },
+  {
+   "external_id": "8753239002",
+   "title": "Senior Autonomy Technical Project Manager - Release",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-09-03T00:47:38+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8753239002"
+  },
+  {
+   "external_id": "8755629002",
+   "title": "Autonomous Vehicle Operations Specialist",
+   "role_family": "gtm_ops",
+   "location": "Atlanta, GA - Onsite",
+   "posted_at": "2026-08-28T13:46:39+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8755629002"
+  },
+  {
+   "external_id": "8756557002",
+   "title": "Senior Autonomous Vehicle Operations Specialist",
+   "role_family": "gtm_ops",
+   "location": "Arlington, TX - Onsite",
+   "posted_at": "2026-08-28T17:55:50+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8756557002"
+  },
+  {
+   "external_id": "8756639002",
+   "title": "Autonomous Vehicle Operations Specialist II",
+   "role_family": "gtm_ops",
+   "location": "Arlington, TX - Onsite",
+   "posted_at": "2026-08-28T17:56:46+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8756639002"
+  },
+  {
+   "external_id": "8769365002",
+   "title": "Senior Software Performance Engineer",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Remote",
+   "posted_at": "2026-09-21T15:16:47+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8769365002"
+  },
+  {
+   "external_id": "8795020002",
+   "title": "Senior Autonomy Technical Project Manager - Integrations",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Remote",
+   "posted_at": "2026-09-10T13:36:11+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8795020002"
+  },
+  {
+   "external_id": "8806449002",
+   "title": "Site Autonomy Engineer II",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Onsite",
+   "posted_at": "2026-09-15T12:54:20+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8806449002"
+  },
+  {
+   "external_id": "8811975002",
+   "title": "Manager, Simulation Infrastructure",
+   "role_family": "engineering",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-22T15:09:33+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8811975002"
+  },
+  {
+   "external_id": "8855809002",
+   "title": "Internal Audit Manager",
+   "role_family": "finance_ops",
+   "location": "USA - Remote",
+   "posted_at": "2026-09-29T14:22:21+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8855809002"
+  },
+  {
+   "external_id": "8900313002",
+   "title": "Site Operations Manager II",
+   "role_family": "finance_ops",
+   "location": "Atlanta, GA - Onsite",
+   "posted_at": "2026-10-19T17:19:16+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8900313002"
+  },
+  {
+   "external_id": "8900334002",
+   "title": "Site Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Eden Prairie, MN - Onsite",
+   "posted_at": "2026-10-20T19:47:17+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8900334002"
+  },
+  {
+   "external_id": "8900369002",
+   "title": "Autonomy Engineering Manager - Behavior Prediction and Intent",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Remote",
+   "posted_at": "2026-10-27T14:01:54+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8900369002"
+  },
+  {
+   "external_id": "8902419002",
+   "title": "Senior Systems Engineer - Sensor Selection",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Hybrid",
+   "posted_at": "2026-10-20T13:36:40+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8902419002"
+  },
+  {
+   "external_id": "8902893002",
+   "title": "Senior Manager, Supply Chain",
+   "role_family": "engineering",
+   "location": "Ann Arbor, MI - Onsite",
+   "posted_at": "2026-10-20T15:43:54+00:00",
+   "url": "https://job-boards.greenhouse.io/maymobility/jobs/8902893002"
+  }
+ ]
+}

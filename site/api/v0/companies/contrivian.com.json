@@ -1,20 +1,41 @@
 {
   "domain": "contrivian.com",
   "name": "Contrivian",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 14.4,
+  "score": 18.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.2,
+      "contribution": 13.1,
       "occurred_at": "2026-07-30",
       "summary": "Form D: $4,665,809 offering, $4,665,809 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2147465/000214746526000001/"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Contrivian Launches Lighthouse 2.0 for Enterprise Network Orchestration - The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnVKNnhTdXJlemRwWktNZExITlhyTkVLY0V4OEc4ZThtS3VBd1laeDd5R1NaWC1idlpYeHRHcEs0djdRR2FReDMxZVNheUljWnhSWE1uRzAxamNVWmlzc1ZVNXNXWXBnM0N0UkU3YnlyQlNEZEZ2XzFnb1FRUzU1MDg0Z3ZDUFU5WVRXbkVWV3pRbmU1VEtYdVVPa3h2N05EbHlZYWhvaFZqMkd0N2ZZYThtLVE0ZlZUNktfRHkxbTBid1B0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Contrivian Launches Lighthouse 2.0 to Orchestrate Enterprise Networks Across Fiber, 5G and LEO Satellite - Enterprise Talk",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdXdEp0azNtd1JfNnZlLWZVNkNyZkVzeFBZOWxTbzRLNmlpRHZiTklHVW0zSnRFVktIMW1PX2JYSXpya1gxSm10RkhsWGVWZXVfOHQ1UlQ4cGFvQjZfSnEzazV3bXRldkdNbVRpR25UOE1kYkdxazJ0R3Bsb3RqWUNkbHFfcWNpMEFCcWNUcXZCZFRyNW9vWUJSb2FfR0dhcnhNTjJZdVBja1VaVE1iVjV1aXJpMkJEeWRQXy15dF9yaEJ3UnVsNWhuMUg0UjRs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "Contrivian Launches Lighthouse 2.0 to Orchestrate Enterprise Networks Across Fiber, 5G and Satellite",
+      "url": "https://contrivian.com/contrivian-launches-lighthouse-2-0-to-orchestrate-enterprise-networks-across-fiber-5g-and-satellite/?utm_source=rss&utm_medium=rss&utm_campaign=contrivian-launches-lighthouse-2-0-to-orchestrate-enterprise-networks-across-fiber-5g-and-satellite"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
       "occurred_at": "2026-09-29",
       "summary": "Contrivian Launches Government Solutions Division to Deliver Secure, Mission-Critical Connectivity for US Federal Agencies",
       "url": "https://contrivian.com/contrivian-launches-government-solutions-division-to-deliver-secure-mission-critical-connectivity-for-us-federal-agencies/?utm_source=rss&utm_medium=rss&utm_campaign=contrivian-launches-government-solutions-division-to-deliver-secure-mission-critical-connectivity-for-us-federal-agencies"

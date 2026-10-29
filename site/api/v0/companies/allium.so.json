@@ -1,20 +1,20 @@
 {
   "domain": "allium.so",
   "name": "ALLIUM LABS",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 14.9,
+  "score": 14.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.9,
+      "contribution": 14.7,
       "occurred_at": "2026-07-28",
       "summary": "Form D: $39,999,994 offering, $39,999,994 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1938040/000193804026000004/"
     }
   ],
   "open_postings": 11,
-  "long_open_roles": 9,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:allium",
     "edgar_cik": "0001938040",

@@ -1,14 +1,14 @@
 {
   "domain": "assemblyai.com",
   "name": "AssemblyAI",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.3,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-24",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/assemblyai",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-18",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/assemblyai",

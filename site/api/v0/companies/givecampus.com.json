@@ -1,0 +1,38 @@
+{
+  "domain": "givecampus.com",
+  "name": "GiveCampus",
+  "as_of": "2026-10-29",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-29",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/givecampus",
+      "postings": [
+        {
+          "title": "Account Executive- Strategic Accounts- South Atlantic",
+          "posted_at": "2026-10-28",
+          "url": "https://job-boards.greenhouse.io/givecampus/jobs/4470845009"
+        },
+        {
+          "title": "Account Executive- Strategic Accounts- California",
+          "posted_at": "2026-10-28",
+          "url": "https://job-boards.greenhouse.io/givecampus/jobs/4471474009"
+        }
+      ]
+    }
+  ],
+  "open_postings": 11,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "greenhouse:givecampus",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

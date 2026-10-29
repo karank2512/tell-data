@@ -1,10 +1,17 @@
 {
   "domain": "joinspine.ai",
   "name": "Spine",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 7.0,
+  "score": 8.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Indie bookshop The Enchanted Spine launches Camden pop-up - The Bookseller",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1o0Rkd4SzlsSHlBbVNETjZ1RF9JcC0wb1hGN1hWTjQ5T2plQURyTEk1Z0pqaUUxYjFQeEdjWVo0bjNtaU91TzBJVXlSdkloUTJzZmdUNjBmWFlLVGZ1VldJV3dCMUN0V3VDRjhKaU1vTHd0NkN5ajZja1hQcEd0Wl9hZ0Y2eDBvSGpYTW9Td0NiOGU3NVFr?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

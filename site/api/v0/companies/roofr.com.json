@@ -1,9 +1,9 @@
 {
   "domain": "roofr.com",
   "name": "Roofr",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 1.5,
+  "score": 2.9,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -24,14 +24,21 @@
           "url": "https://job-boards.greenhouse.io/roofr/jobs/4744562005"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Roofr Launches AI Receptionist, Expands Roofing CRM - Roofing Contractor",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdEptSVdZWER1RWJNbUkyN3NPbmZOcl9nN1p1NXA1cjVLVnpkdjlxZ2tzUE41WUxBUG9CUlNmWlkzOXJHTUdGb2FYN1JUaG5FZzB0MkdjcWFyX0tMdTZXbXVrTC0xTTZOM2hubXVjZXExeXh0X3NSUU1qck05dW96Z3FWWjFnMnZuQk1ZbFltY0hkcWI1WjQyLTgzZndDaGlPdWc?oc=5"
     }
   ],
-  "open_postings": 12,
+  "open_postings": 11,
   "long_open_roles": 0,
   "sources": {
     "ats": "greenhouse:roofr",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []

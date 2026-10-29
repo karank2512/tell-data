@@ -1,9 +1,9 @@
 {
   "domain": "tester.army",
   "name": "TesterArmy",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 2.4,
+  "score": 2.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-26",
       "summary": "Introducing unbox-ai: See Where Your Agent's Tokens Actually Go",
       "url": "https://tester.army/blog/introducing-unbox-ai"

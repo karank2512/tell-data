@@ -1,0 +1,25 @@
+{
+ "vendor": "smartrecruiters",
+ "identifier": "wayup",
+ "domain": "wayup.com",
+ "as_of": "2026-10-29",
+ "last_polled_at": "2026-10-29T15:24:43.395650+00:00",
+ "open_postings": [
+  {
+   "external_id": "106984836",
+   "title": "Intern Test",
+   "role_family": "other",
+   "location": "New York, NY, United States",
+   "posted_at": "2017-01-30T15:29:48+00:00",
+   "url": "https://jobs.smartrecruiters.com/WayUp/106984836"
+  },
+  {
+   "external_id": "743999661125525",
+   "title": "Sr. Back End Engineer",
+   "role_family": "engineering",
+   "location": "New York, NY, United States",
+   "posted_at": "2017-10-12T18:46:13+00:00",
+   "url": "https://jobs.smartrecruiters.com/WayUp/743999661125525"
+  }
+ ]
+}

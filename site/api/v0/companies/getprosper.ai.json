@@ -1,9 +1,9 @@
 {
   "domain": "getprosper.ai",
   "name": "Prosper",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 9.6,
+  "score": 10.4,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "NXT TV RESULTS (10/27): Wells’s live report on EK Prosper vs. Jackson Drake, Dusty Classic semifinals, Evolve’s Chantel Monroe debuts, more - PWTorch",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQa3NNWnJpT1Z1QVpNQ21sWndOYnFhQjVlOXJZUUEyMUhrUHg4SHQwN3BwSUZuMFFEbV9KbG8ybC1QaU55cy12OGpsajBJMlNCcGgwNGdWOThqNW5JLUpOeEF5Q3JJMEwxNk5fazBQNTRYUjkxNXgxV0dhWlV2Rmt6R0tuS1NuM1FjYWRka2JzdFlQX2VJVFFLZzlUZlhYN0k0R0lxX0NMUF9UaWZRb2RuU3JOUFVIcDFBT08zTlF4X1N1dHQ4dFZPd040cDV2c2tvTmhCM25GLTZzN1YzN09odlpSeWZnbVZHM3lod2Iwbk8xMVJ5LVd2NnFKbHBXUmtQ?oc=5"
@@ -53,9 +53,34 @@
       "occurred_at": "2026-10-12",
       "summary": "Prosper Trading launches $42.1M mandatory takeover of United Malacca - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDhnbnZ0LXg0ZEdMTXdaVmpIaU5JdXJLdDJfNE1lSk1iLUlwU1dJXzdaclpISmUxZ01XUVQ2UzA5akUxbnVERFNlRmg5d1k4QzZfNThTaUx6MmdEVG9vTDhMYXlvbHZPWnE2R3QwOFBqM0JqR09KT2Zyek5LMm4zV21fenFSQ182dE1IMFZLQUhDUS1kQUtORm81R3FTZDBCT0dJ?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-29",
+      "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/prosper-ai",
+      "postings": [
+        {
+          "title": "Recruiter",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/prosper-ai/47e659e1-c965-4fd5-96ea-e5dc7fc6b50e"
+        },
+        {
+          "title": "Founding Recruiter",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/prosper-ai/c92c3385-64f1-42dd-82b8-aeb9c063cd95"
+        },
+        {
+          "title": "Director of Finance",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/prosper-ai/2884cc73-31c7-4af9-a62d-fa8205f5b817"
+        }
+      ]
     }
   ],
-  "open_postings": 12,
+  "open_postings": 13,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:prosper-ai",

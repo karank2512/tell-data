@@ -1,9 +1,9 @@
 {
   "domain": "vapi.ai",
   "name": "Vapi",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,14 +34,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-11",
       "summary": "Safexpress Launches Ultra-Modern Logistics Park in VAPI, GUJARAT - Business News This Week",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVERkMGdrOThjeTVaeE45eE5kSjdNTkd4ZTgzclFITlBWblp5U3dtbDV5YVJWLTZWUTZpWl96eUx4djhIWG5HRVI5MERTdlFCYVNkZW43a0Q1WlNHeHQ4TnNuYmFOZnl5SmJPTXpPVDFZc19IWDBWZkVRY2xRdzhTX0pwN1Z6X1Q4T0pQMkFXQjdnaWNXSnR2T0RJR2tFeVNjYmVxTEhLeDJMZw?oc=5"
     }
   ],
-  "open_postings": 7,
-  "long_open_roles": 3,
+  "open_postings": 6,
+  "long_open_roles": 2,
   "sources": {
     "ats": "ashby:vapi",
     "edgar_cik": null,

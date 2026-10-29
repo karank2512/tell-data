@@ -1,10 +1,24 @@
 {
   "domain": "getcallback.ai",
   "name": "Callback",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 1.2,
+  "score": 4.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "LA Olympics launches official slogan with callback to 1984 Summer Olympics - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUpUeG1hRDNxdk03SG15cnJHV1ZweHMwZGgyNDdldVA5d0QyRjl2QUZMMnA0ZlRJU29iUnFHTXNNZHhpSlZzX19DTmVRdC1KUHhSRzRMSTJEVWJJY1hpZk9pcWNrMlYyRVBLX0x1NTdmRUhmSFlFMWVhVGRZSlJhSC12ZlNydjlVS3VYY1VPdklNZi1NSVExUGF1WnhiaUdhMGliMVVhSXdLRV8tUGRqcnd3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "LA Olympics launches official slogan with callback to 1984 Summer Olympics - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbkhjS1dNVGdPXzM4ME5DX25lNFhIRHNiclZKd01EU1JpZXpsc2pkNWNVRU9yTDJvVWR3YkRJWEVlSGNMZ0xVSmRnSFN0SWJaVjk3TzRrREVzamtxWlNWeTlJQy1YSXVqa3ExbWJvY2ZPSElaVW5XdUNjRElueTFUM21qQ3FwRDRKTEE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

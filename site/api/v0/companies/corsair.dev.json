@@ -1,10 +1,17 @@
 {
   "domain": "corsair.dev",
   "name": "Corsair",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 35.5,
+  "score": 36.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Corsair Launches the RM1200e with PinProtect to Protect GPU Connectors - Overclocking.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHozbEx6cHdMNEh6QXJyQW10bHk4bnBFbDdtZHNFb3o0cDlFbl95emVzTnpKRFdYNnFvVE5ZMm9wSnBudVJONmJPbXNPZTlJQWtxcmxlZ28tXzE0bzRXbHFGSzN1a0FFOW53bVYtTV9kamVhMWM2MjVtVEZSWHJwLTZGT2dESFR5QmVlRWIxVDVaZ3Q2eHlidFJDZVA0THla?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,21 +56,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "Corsair Unveils Special Edition Cyberpunk 2077 Arasaka White And Edgerunners 2 Gaming Gear - eTeknix",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3B2MllYc01CMUhlRFY3aVpZMENtN2xJNHd0anBSMk5RX1dscF9xSURDa3U1SjBXejVfbU1YU3dDVVBfSDVrTDJXN1dOWXExbWxKNkV1UlVwYlZaTjdZMmlTamxIR3ZlMzh1VE8wQnozRU1QRzVTUm92cjA5UVBrMTFvaGh2djh0WVdleUc0azY5Q3RBN3MxVS0wYnBGN0w1RnpaOTYtSlg3VW4tNW5vWDNNS0pYUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Corsair Launches SABRE v3 PRO PureVector Mice with Aimlabs Tuning - Technetbook",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoakI4X2NnYXpyZ1RYX0dSeVc2LWxOLW0ydHc0STNZdEtlZFZkdHItNDUyRjBUVWMzWFNHbFJuNU5QUHhsa1Z2QjJ0Q2tSRFR0YXg0RHBQTEFfQWhlaGJ1aGMtNkhtcVlnVGM0b0pkQ3RNckxlZmdKRHNMRQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Corsair unveils SABRE v3 PRO PureVector gaming mouse with smart aim tech - DLCompare.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTBiVkgtMkwtYmpPeDd2aWpjOS0xTjBqa1otSElHdkwzc3l5YWN0MUVaVWRCbTRYZ2dJU1gxOU5PX1AtZkFYUHg3WGFhZFZiU19JMzk1ckdWSzVQRGJrTzQzQlhPVGdBNXdfeF83VUl4TFduWlV0UWFCZEVRcF9wTVhVYktfb0dLOHNUdW56Wlp6NkRKclBoczI1bUdYXzdNWk1KTzdOMm5Zb0tFLTlrbm10UkhqWm8?oc=5"
@@ -140,14 +147,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "d-Matrix Launches Squadron AI Inference Clusters, Scaling Corsair XPUs to Data Center Megawatt Levels - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZlc1OEt4NHJ5VEd3YkRxVEcydXV4RHhFa1E2dWpERDV3MzBFZEw5RFd2UUJkMXVPQjhnVERkNTNPSTY5YzI2bzZoVF9NSWxMWFNCNFV5aW5VbWdFUXJmamJLd2V5Y0Fsb0J4Tk5Jb0tqXzV2VGV6c01xMWQzUDJFZmhxR3didXEyWGRvY3hqc1NEcjl4Nm5oZUpUM1ByWWVTWTFCUlkybTE1dUdmQzJIWlVXSTMydmNxX1F1ZEJna2ZtVlZXbFZPWHR5UndKTGpkQVlNS0RtajN2bzIwbkVDNV9R?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "CORSAIR Launches HS80 v2 MAX WIRELESS Gaming Headset, Available In Malaysia Mid-November - Pokde.Net",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EQ081bnJUdFFJNnhiTFZWeXBsM2pMXzZTME1XdElNOHB5ZUxmR3dnVC0wVFNRVm52bXd1YU43aWVJMkVSWi1rNVVNcDQ4Y3NNYzBBMTV3alhJMklVcnFKNmRGakpua19oWlQ0NmFxeGVxV2ZsSVlHbA?oc=5"

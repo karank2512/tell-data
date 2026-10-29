@@ -1,10 +1,17 @@
 {
   "domain": "clever.com",
   "name": "Clever",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 7.2,
+  "score": 8.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Škoda launches Printly Clever 3D-printable accessory range - Automotive World",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUVHdThOa3plaktVakRlSnFNNEgxWDhKZzVjNDlVTmc1dmZYanV3MDZHRTM3TTFnR1M1eHdCcEo4UVdwbEtNeE5IU1EydXRGVV8yOWplQjItT2tZekNETWw5U1g0OHV5RUhpLWFoZUoxZkVVWmRLREw2MkhvYTNOODFISk1PWDE5VWg5Uy1jcWNuWG9ab240TEdxYjc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Fiat introduces clever new watermelon car that switches from a people carrier to a pick-up - Yahoo News Australia",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzVlQXpfQklvUF95ODlhdW9qa1VFX2w2akRJTHA4aU5GaFN3RGZ5b0lNa3owZkZOSGhOeHVMcVpRYmwwQW5ObWhKTXVqMnVlTGRlelhVSGgyZ25tQ2NyMVlDWVhZM1JQcFBrbWg2TjlFWEZOaGFfT3VaLTB5aF93QkpTUmM?oc=5"

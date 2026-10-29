@@ -1,9 +1,9 @@
 {
   "domain": "greatquestion.co",
   "name": "Great Question",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -15,12 +15,19 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "S2026 | \"Great Question with Tony Dokoupil\" launches - CBS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBha3NMZEUtTzlwbDdNTzN6a0ROc2h5NWxqVlBFUVZ2dTNUMEpZZGptWlc4S0l4YTBENkZaaVV5UzJKMXhyQVQ2NkZUMjBMZktxSE4waEpjY0NDTENnN0c1MHlBTnlIZEZwNExmQjY2ams?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "CBS News launches Great Question podcast series - PodcastingToday",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUDV1dDdibUlCU2lKbDNkRDBfdUN3RElhVTZrY28tZy04VWlrSWgwZEw0Rl9XQ2p1cmNMMktvbzViYVNzeDNfX1RpZTYwRk02QlpZNkxYYXkwYVRsOFlBR2N0VDY5blpKRGhPeTZpdnRZVTE3QjNubXNSaHhUQU9LYnBKbk8?oc=5"
     }
   ],
-  "open_postings": 4,
+  "open_postings": 5,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:greatquestion",

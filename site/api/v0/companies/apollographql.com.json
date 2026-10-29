@@ -1,9 +1,9 @@
 {
   "domain": "apollographql.com",
   "name": "Apollo",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 20.0,
+  "score": 19.8,
   "contributions": [
     {
       "type": "leadership",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "NASA HISTORY: NASA Launches First Crewed Apollo Mission 58 Years Ago from Cape Kennedy - Space Coast Daily",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGxxNFpYc244VXJaX0NIZzBIM2lGOC10WVhrM0tsNERRbXhNdUdCbElGNVBTMjhPR3d1N3RmR25vdkZxTkxxZVlvbWI3UkFTT2pxUEVSbkppY0tQY3BITnBGeDJKMFdHWHYxTjJzcW9uSTM2UDhxeVdtaXBGdGl3TW5CSTA1QjFEVVpPRmdMREg0MnVGMER2cDhFcDBZWkpqVnhpdFpjdTIzSXRpNmhxUm9BdThNbVhPSldFX2xIYw?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Apollo’s Next Generation Query Planner",
       "url": "https://www.apollographql.com/blog/apollos-next-generation-query-planner"

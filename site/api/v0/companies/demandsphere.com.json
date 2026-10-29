@@ -1,13 +1,13 @@
 {
   "domain": "demandsphere.com",
   "name": "DemandSphere",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 0.9,
+  "score": 0.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-03",
       "summary": "Introducing Chat Features",
       "url": "https://www.demandsphere.com/blog/introducing-chat-features/"

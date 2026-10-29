@@ -1,10 +1,31 @@
 {
   "domain": "sift.com",
   "name": "Sift",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 2.2,
+  "score": 6.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Kindo Introduces Deep Hat Sift, a Self-Improving AI Model That Gets Smarter With Every Decision to Reduce LLM Costs - VMblog",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0RvNnIxU3lmZEFzams4QXlpVl9tb0twMURrX3dCWWswM21OUUtNYUF1SXl3VjBOMmNMSmNvTkhyelZuVHlzZE13X3FidzFMQUpBbER4S2tNdF85U2xnVVVUMUxHQU82Rkw2Qko2TFRiVFlubXV6NEo4eUgxTnZPZ19jZmFBeXJlTHB3LU1TNE45b19YNHV2Q19yQldyRHFKYnAwY3VVOVdEemI5X19EZDdqazVjaEE5d1Bja2FoQUFSNGVYYWFZVXk4NVhFdG51NV9rR0Fn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Kindo Launches Deep Hat Sift to Cut Unnecessary AI Agent Runs - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMMWdULWRlbW5rSDdqb3dyRU0ySnduWENaWjUwQkZFWmFTUlMzN1cxd1FqUERUa1hHUVJWZHhJdENHTHdxeF8wTW5iM0dWN0hWRXNfMnNkd1BMLXp6R2hTYTA2cXhLWFlha1IwVVA0RVA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Kindo Introduces Deep Hat Sift, a Self-Improving AI Model That Gets Smarter With Every Decision to Reduce LLM Costs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWJxSl90MGNpbnZKVk9GLXN5SHd1X2FSZHRVS1hVVlkzdDE0dndGZ1haQWNTR3hyVDE0NUtwamRQNGVScUlUYUpYZnpKOE00VTVqODN4SGowVEhuQkg2LUVibjUzZDB4VGNOQ1lFX29RbDIxWGM3SUNyS211THdEYzlPaG1IUm1CWHg3QlhhdHlfTkx5U0wxQk53?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -14,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-06",
       "summary": "Your Fraud Team’s New First Responder: Introducing the Sift Fraud Attack Defense Suite",
       "url": "https://sift.com/blog/introducing-the-sift-fraud-attack-defense-suite/"

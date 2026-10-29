@@ -1,12 +1,38 @@
 {
   "domain": "flexport.com",
   "name": "Flexport",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 195,
-  "long_open_roles": 82,
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-29",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/flexport",
+      "postings": [
+        {
+          "title": "Ocean Planning Associate",
+          "posted_at": "2026-10-28",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8330095"
+        },
+        {
+          "title": "Ocean Operations Associate",
+          "posted_at": "2026-10-28",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8304749"
+        },
+        {
+          "title": "Senior Ocean Operations Associate",
+          "posted_at": "2026-10-29",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8063944"
+        }
+      ]
+    }
+  ],
+  "open_postings": 193,
+  "long_open_roles": 78,
   "sources": {
     "ats": "greenhouse:flexport",
     "edgar_cik": null,

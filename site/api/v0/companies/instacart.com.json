@@ -1,14 +1,14 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.3,
+      "contribution": 2.2,
       "occurred_at": "2026-10-17",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -88,8 +88,8 @@
       ]
     }
   ],
-  "open_postings": 100,
-  "long_open_roles": 23,
+  "open_postings": 94,
+  "long_open_roles": 22,
   "sources": {
     "ats": "greenhouse:instacart",
     "edgar_cik": null,

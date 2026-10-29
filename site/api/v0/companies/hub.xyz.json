@@ -1,16 +1,51 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 47.0,
+  "score": 53.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.2,
+      "contribution": 13.0,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "FOX One launches interactive election hub with real-time polling and race analysis for midterms - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDFESS01Q3d2b29nSWlpLTlhTV81OE9NR1B0N0phUzFhaTlBMmFILUxySHJkQk1UN0E1c2hReDY5WnBzUnFlNFpiMGFSS3hibnNKN04teEVkR0dNTW1YQlUtdkVZZXkzZTJxQjZZVUp4Nk9wSEgxYnkwN3ZjRkwwX0JkeDRLdUpjcEdXRnVmTDVCQzdNTXZ5WUt4bjNuRGd6MEl0ekVPYWNQYXZQV1JoVkN3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "WHO Launches AI Hub to Help Clinicians Tackle Alcohol Risks - Medscape",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmRGMExUMVJUYTZqVTg0eTdXMkxXRm5XX2FacWdETW5GMkhSZ29RdTRjdWpFTENNZWVLWWpBZFVTUVhrTG5Lb1Q5R2VkQVg3c2tpOU54SG04YVRvclVBMlRRbkNCbXBtOGlHc3JKS3ZTM0RYUkhNSUR2dVBxa0k0bVJpY1JieFpjaW03QXllWnEtNThBQ1NaLUFiclhuV21BMTdkVG44cS1oUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Boise State University unveils new Hemingway Mobility Hub - Boise Dev",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjgtWVJHOFVMUUR3UHUycG85Vmp1Q2FMSTZVMHQ0QkdnaVU0RzQ0Q3ZKd3B3dWpLbEFvZkpoMXVTX3ZhandIV0ZNMVFONzhxQlBEUmRNMDYzaGstRzgxaEx0NTJlamx0a1E4bFFGZTRvTUgyTEtZVURSaXRuTmJZZU51UmZLbE9ZaV96MndKWFRJcXR6MW1mTkZnVQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "LinkedIn launches data insights hub - Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlFYX1FHMGtvNmtfamhSN2FBU05CdHNfQTl6WVowVVNTcGVrSGZnSkV4S1djX2x5ZjZiUE8xS3l1S2RPSHlWemllMFlta3ZzejhudHdsb3lieTNDMnYyUlByMkYtSWFFVjdpZ0ZmckI3eXJXTmNjbzdIekE1TXNzRUdsWktpNDI5?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Austin launches public Data and Insights Hub - KXAN Austin",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNldPaVNiTFB0U2FCVF91ZjQwMmJZVEFOZXVOc2M5eUxhQjViNnJpVFZIdkNMdFlMckFRMEhsWHo3VEJlazh2Rngwb3RtOHZDak1WSkNabmdyeFl4UFdSQU4yYjFiei0xVWNqM0VTeUllRlRZdThIQnBrYTVXS0lOemcySHoydU5WUjhKbtIBkgFBVV95cUxPS2tjT3lkZmlwc2laaG8yM1E4RzdFVjFpRVVqckM3VEhFOVVXd2k5dGJUT3p3YnQyLVBDeTVDcGJGenE1cDFqVmtXWERsVk9rMjVzcFFxb24tNUVlMVNwbWZJMGFINzJ1VzFOcldXaFRZMExUODNxVnFGVkxMTEtjcFZRSzhVenBBSmpPVmxBcEptQQ?oc=5"
     },
     {
       "type": "launch",
@@ -28,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Gonzaga University launches 'one-stop' reporting hub following last school year's controversies - The Spokesman-Review",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc0ZTOGJrRjNOd1o4ZzRvaE9HQnZRd2VOWUpfck9nNjBJWkYtaDB2b25iQ0dGX19fT1R6UDR6LUNGbUZ0UmR2OXVZVk9zMHJaMkVCd1hwQ0JlR0NPN1VjeDF5S1lsc3B2LXBmRGVVMGx3c1hxVU5IZS1TV1VDd3M4emRzVkVkdlhnQjc4b0RsUmxFS2dZeVpDbXRhRTBtdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Philadelphia launches online hub to connect businesses with resources, support - Metro Philadelphia",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOUtKbDNqRVdGMGZxM2VGeTVGMDhNVnBqVEdISWxvWWNZZ3cya1h4WGoyNkVwZlhqS1UySk1sdFFPTmpWSkYzR1NXc1lTQ1N5ZTlkZ0N6d0JYYnEyTEhRWWxrNDVXRFBESVNxdDgwUThQek8xMEdSWjBXZl9ub1NQeU81bGZmcWt1LWM1M1Rybw?oc=5"
@@ -182,7 +217,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Duke launches national hub to advance trustworthy AI for aging and dementia care - Duke School of Medicine",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2hSRE1DZ2ZPVllULThXR2ZMN0JNSlN2c1ZlT2JJMGpSMENudjRiUzJqMDk4Q2hhOW11cnV2emFiUXRYanFwd0hBR3VEdExhSkdSM3gtV1hMU19iajl6VjBSLWpMWXptdFBoaU9XdFVFQk5sQkE4Mk9adzNVWkhxdldDeW5iUnpfcmNzd09lMHFpOVo1b0RMVGpldWljU25PUTVjT3djMVNLUVk?oc=5"
@@ -196,7 +231,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-26",
       "summary": "Introducing Governance Hub: Intelligent, account-level governance over your Databricks estate - Databricks",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlpsb2JfaVRXVFBTX3NaR1FxMGx4ejl4YmVpUE4zd3l2Y0xwM0pLNXg2alJ1R1RuTkowWGpBVnBBS01kU09idGZtN3dHLWd5bXRGaVlFZHJ0X0dpNzNmR0Zqd2MzeTNLb3Ruc2VIZnRuMDVyZWVvTjczLVJrWW5XN29JQlVibHhualNZMEc1TWI0M3Jha1pqUGNISUZDanhsYW9tV2hvZUpSQnVWaGxYQVN5MzdXbmhRUGJVczdpR3Y?oc=5"
@@ -210,7 +245,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-07",
       "summary": "PBOC Unveils Measures to Cement Hong Kong’s Yuan Hub Status - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYm1WOGM0T21QRkZkX1ZMYWozam9idTNvOTBzclR5ZGd5bVF6SzY4RXFyTlRINFhPdGhOM252bUFrUnk0dXNlbzJ1bFVhUHh1OERYT2pzWXNJWnlhUXI4TGx3emxFZUgyeDJaYktrSWx5RTRLenJEYzRaTjBJMzFhRkVIYW01MlFFWVV1MXRJZnFoVWR6Q1VGa1NSYi1YamN5ODRVNk5DbkNnaUIwb1BqM0M0alA?oc=5"

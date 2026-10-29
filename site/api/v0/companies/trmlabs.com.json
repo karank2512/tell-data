@@ -1,9 +1,9 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 10.2,
+  "score": 10.0,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - TRM Labs",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXRiMUd0NFA1YWgtNkMtdk9ORkd6VVN3ZlllWkcyU3YwWTVXYlg2dDZJRmliNXRfa2tyRWhDcjJFRDVMMjJBcFNHRW92Q255Ynk3ZkQtSDlrV2RIS3NTdjBGd3F0T2J0d19hT1V6eVRXRnNMUEpJOHJGdGJ2LU42MDNPUlJ6cFNoQjNhcWFn?oc=5"
@@ -72,7 +72,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-08-27",
       "summary": "‍TRM Labs Appoints [person] veteran Ziqing Ang as Head of Policy, [person] | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/trm-labs-appoints-mas-veteran-ziqing-ang-as-head-of-policy-apac"
@@ -125,7 +125,7 @@
     }
   ],
   "open_postings": 117,
-  "long_open_roles": 35,
+  "long_open_roles": 33,
   "sources": {
     "ats": "ashby:trm-labs",
     "edgar_cik": null,

@@ -1,10 +1,17 @@
 {
   "domain": "joinmilo.com",
   "name": "Milo",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 3.6,
+  "score": 5.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-28",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbE8xY0xJY0xwZ3VES19GRlNzLU8xUnlZYVdfdGVPWV9KcGVjR3NJRXNGVnJmeTZTbUZ2bEN1b2NSX0pIVEVNRnkzN0N4UUxOX0tVcVIzaVpILUk3T05CdFhhTnRvVGpBSjNIcmlKMlNYVlRxRzF2VUJWaFhwZXZaOXZTeXYwd2h3cklvZDlrSFpPdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

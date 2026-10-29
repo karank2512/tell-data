@@ -1,9 +1,9 @@
 {
   "domain": "atlascard.com",
   "name": "Atlas",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 10.6,
+  "score": 10.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Acer's Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300 - Engadget",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUndFMWZFOUZScm9jeWc2RTJFOGtRNmFaMlhBOXRXQlBEOU95WDUxU2VpNk5jTHNHd0gtaTNLbS1hZXJJYmpwNmxKT3ZxOXJHUl9TTnR1VDdBcUpnVzNUVjYyaTJsQXRkYV9rS0pXdkJwbWFQQjZrc085ZEVEcVl2bURkN2g3S2hqZXlaclJWZUYyUkh4aDJocE5nSmNpb0JRZk1Wd1BpNzlRRDg2SDRZLUhn?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "StorageChain Launches Atlas, Its Native Enterprise LLM - 'Keep Your Data Out of Big AI' - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXR4eG5takdIaFZlZjR0UmxUVWgwb1BIQ045cDE1ZUNRUTd5dUZpR0pMaVNEci02MVZtUkNmaDhDZkNYX2tMNmF2N2VkZ3l1NFJqMFlCOVlINTNld3V2SkpVLUNzNEFqMjFMZGFNdHpDR3ctNGlmZDQ0WndLa0FfaW1VX3F4Tk9xRHpTNzBxN0pCVUE5Wjl3N0tGWjA1SVJYTlAtMGVrVldBdk0tUXo4U0hfaVp1TnM?oc=5"
@@ -62,8 +62,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlN3VmswZUhLNDdwLXpZSnRXMTJWbzBlU3UyT2F0Z2ppcnB1V3NMcW5RY3ZoV1gtMkpTZC1rVS1ISUtvMkpZdzcyTGg0dVZFOE80eF9jYWRnRHUyY3J1VzktTGJoWFlfN1Z6Wmk0djRaUGpNbjdHZmNSX3pBX2F5QUF1NlJuNWhGelNJQzlsWUlaWUNlRjY4ZzRPNUQ1MHFfUnR3X2QyZC1rc0JONlZrR2NpQQ?oc=5"
     }
   ],
-  "open_postings": 2,
-  "long_open_roles": 2,
+  "open_postings": 1,
+  "long_open_roles": 1,
   "sources": {
     "ats": "ashby:atlas",
     "edgar_cik": null,

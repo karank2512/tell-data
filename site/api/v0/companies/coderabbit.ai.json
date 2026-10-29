@@ -1,20 +1,20 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 20.1,
+  "score": 19.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.8,
+      "contribution": 17.7,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-07",
       "summary": "Introducing collaborative coding: Build together with Slack Code and CodeRabbit Agent for Slack",
       "url": "https://coderabbit.ai/blog/introducing-collaborative-coding"
@@ -49,7 +49,7 @@
     }
   ],
   "open_postings": 46,
-  "long_open_roles": 18,
+  "long_open_roles": 19,
   "sources": {
     "ats": "ashby:coderabbit",
     "edgar_cik": "0002014393",

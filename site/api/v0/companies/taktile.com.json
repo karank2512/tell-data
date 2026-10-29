@@ -1,16 +1,31 @@
 {
   "domain": "taktile.com",
   "name": "Taktile",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 35,
-  "long_open_roles": 21,
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-27",
+      "summary": "Taktile Insights Launches to Help Banks and Insurers Question Automated Decisions with AI - FF News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdk0temM4eEFkRHdNbG45SWhYLUk1MHVoSEdMaVdycUhFb01iZDRxUU9uY1ZOT2FzQ21oeld6c1Q5dUdmYkdzQWREUVc3X0J3Z2tHSUxLblZBNGgyR1JxWTY3ejVQZWNlRERncDhwMHJxdUZSUzAybVZvdGw5MWlnLUZZSUNBRFd6dHVoMQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Taktile Launches AI-Powered Insights to Accelerate How Banks and Insurers Learn From Decisions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0Vhb1dDem9uSS1xV0d4NlJueGtKNl9xSlVOdVNLcjVTQXJpWkpFellld2hzVUFLa0VBWHRNSXBJWm9McnVKd3pmdUJXckVoTW5LRFlHMUNzcXlPNGd0S3lNVHM2MmttOTVrZXU1ZzNBV24wTlJ3Mlp5eVlNa3VOYzJJWUswbmZwcWcwQngxc285VmJZWFRiQnJuOTVVX3dqWXc?oc=5"
+    }
+  ],
+  "open_postings": 34,
+  "long_open_roles": 20,
   "sources": {
     "ats": "ashby:taktile",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
   "why_not_higher": []

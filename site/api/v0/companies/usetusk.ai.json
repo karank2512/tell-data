@@ -1,10 +1,17 @@
 {
   "domain": "usetusk.ai",
   "name": "Tusk",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 1.2,
+  "score": 3.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-25",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1gxZUxFOXl3NFhDWVhIZEJPdTFtaFFxZ0NmdzFrTmM0TGdaZVdUb0tUYkxjd2ZjSEdYWDZOOWxsNGN3RUVFdG5BN0NUbGt0VWdacE9hRkV4S3dnS2ZzcG5ybHFKbUo4UEpDclluMHVUYW02UVNMaHNOTTJUeHNRMi10LUdfNlVNRXRCOXJ0TEpMOUhUMHJzMFF1b3BRbUNXUlE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

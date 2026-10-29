@@ -1,9 +1,9 @@
 {
   "domain": "torch.io",
   "name": "Torch",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 3.9,
+  "score": 3.8,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-16",
       "summary": "VisionQuest Promo Releases Best Look At Jim Hammond’s Human Torch - The Direct",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oQzFwRUJRQjlsYlR4NjBuUmNpUlctUTQzekdZbk1sX1o0SVMwRURCemVyQkZmUnZkQnczSmltdlZSclduTUVGTlN2eGl2eG1ubzZObHpWUktNRktkZVhLblplQ1FtMUZvVEp2dzlfX0FzeGM?oc=5"

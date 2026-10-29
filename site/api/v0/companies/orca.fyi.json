@@ -1,10 +1,31 @@
 {
   "domain": "orca.fyi",
   "name": "Orca",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 15.8,
+  "score": 20.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "ORCA launches PT-3 quantum computer for business use - DataCenterNews Asia Pacific",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1dpOEpxcWRDbFFTVlpwdlRReUxaU19IblZlaF9aSmtoWVpSNTBNSGtxTWZoMHpkd2dMT1NRTjkzZy1jVTlTdFczMVRpRzR2cGUtanJBeFJUTlhTQW9Ta1ZzeEljTHE2QjB6aWtnRlpDS0pjRlh1eTF4LXEtcjB3SGs2ckd2X1hTUGQ5ZGI4VQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "OrcaRouter Launches Orca Connect, Turning Any Local GPU into a Free, Globally Accessible AI API - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmJGa1B2UWFNNFhBRmZjTkV6dTkwbFRya2I2MEJEenJHXzhhcUtNM0JmZFpvNnNHRUJDdFRHNUNBSkg3TFhRVVo0VnJmb3lMR3FIZ2JXVE8tc05mQ2dFaFdlaVNGblhVSTllRTdCT3VleDVCUlItT0JtYXNsVnJYTVJoOGFDTGdIUUgzNW9oVjVydWdoVndqdUZwRmZYWXFiZzhHN0lUb0oyNURRQ3pJd0RGMDB2X1pUdmNGcWQ3Zm5OS19iTV9SekdDQmMxdENwTTNLQVdNYzQyQ0tna2ZSUi1YUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Orca AI launches berthing assistance solution in collaboration with Samsung Heavy Industries — SMI DIGITAL - https://www.shipmanagementinternational.com/",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkpoSllscXJoZTNORm9rS2RVX1lhUlRYTXhwX1ZobU5YYlU1cFVTNDdTb0NSZUJEZ3VWcl9WVUgzZVZFQ28xTktxRWxEZlg4US1JRERHUFZKdjM3bUFPd1FXaGlvLW15NGtBdVQyV2M5U21wN0s4V0txb3lydWdZZHpueUY2YVA0dzY0VXNkYXJqTzJhc2g3clFPbGYzLXRiNnptYjNQcnR4REFZUGcxQTRGN2hhcWhWbnVIb2xsaVYzdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -14,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-16",
       "summary": "ORCA Computing Launches PT-3, the First Quantum Computer Built for Commercial Quantum Advantage - AZoQuantum",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81RHJWdHdjWlpvMXpQRFRxcWhLTHlQQWlfZ0ZwSUg5TUZGbnVqYmUtTDJUemY1Vy1rWlFmVGNCV3BLbGI4UHQ3RUN3c0JDNTd2T2NycnRrTlhqbHYybkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "ORCA Computing Launches PT-3 Photonic Quantum System in London for Hybrid AI and Industrial Optimization - Quantum Computing Report",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT25MYkVmVkdBcWw5LXdYNDN2YUQxOWxmeVJMVFNjbkdrQzZZZ3h4SDcwYmtpOHRFeXRfTlBzVGV4S1pGZF9EeGdQN1RmenZFTGg5UVJxcEphWDdGaHhzeTlFekJPSzRHbnNsekNSZmtHb1RFSjlKQTVPcmtLUlRqdmRtbi1mRXZ0NnJyZkh4WE4zNjk2aE12MkJaWl9IYk1yaTJ6cER2dE10ZlVWbWx6Q2djdEQwZV9uWGQ4VXNtUG15NThIOWpPWlliNTlHTDlfallsLXRDONIB3AFBVV95cUxNa0huOVh3bmRkeWZUbHgySGJNeUJQM0hMa2FoZS1MeEVGcFZJZzJhYzRHdFBHZnFRMHBOa1QxMVlZRm03QUtzYmUzOWhhVmtja18zeU5MYzVaZFpkemVKeHR4c2VHYzVneXZoLWlERmU3VFVIT2hDdW90TVpmVE5LQVlKTjlEZnhhalZuZ1VTYmVaNGk5RDdyTE9sUlZ3MnlFSFE0dU9VTkxsNXNjeVlmNmJDeGROc0xYX25hZzV3WnZvX3BTSnR5Uk5DQ29xWUw2UFVLQVBXcndVSlZ0?oc=5"

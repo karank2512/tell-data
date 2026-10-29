@@ -1,0 +1,2929 @@
+{
+ "vendor": "ashby",
+ "identifier": "Crusoe",
+ "domain": "crusoe.ai",
+ "as_of": "2026-10-29",
+ "last_polled_at": "2026-10-29T15:24:42.710471+00:00",
+ "open_postings": [
+  {
+   "external_id": "003644a1-ef11-4bbd-bf37-23d4e1ec771f",
+   "title": "Chief of Staff",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-23T23:13:21.710000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/003644a1-ef11-4bbd-bf37-23d4e1ec771f"
+  },
+  {
+   "external_id": "009117f4-4798-4ac3-9a9a-54377338cfb5",
+   "title": "Senior Customer Success Manager, Managed Inference",
+   "role_family": "customer",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-07-07T21:12:12.234000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/009117f4-4798-4ac3-9a9a-54377338cfb5"
+  },
+  {
+   "external_id": "03815252-2543-44f1-ad40-7ba71da6e450",
+   "title": "Senior Physical Security Systems Engineer",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-10-23T20:58:38.719000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/03815252-2543-44f1-ad40-7ba71da6e450"
+  },
+  {
+   "external_id": "0403cd2a-1e93-40b3-b686-948e81cd229b",
+   "title": "Instrumentation & Controls Engineer II - Modular",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-18T15:08:06.250000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0403cd2a-1e93-40b3-b686-948e81cd229b"
+  },
+  {
+   "external_id": "04a0b2ea-bb9d-47e2-9b98-68d26c0da823",
+   "title": "Lead Financial Analyst, Manufacturing",
+   "role_family": "other",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-22T19:34:35.468000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/04a0b2ea-bb9d-47e2-9b98-68d26c0da823"
+  },
+  {
+   "external_id": "05b0c5ae-1041-4103-b34c-fc91904c03eb",
+   "title": "Senior Project Controls Manager",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-09-16T18:18:13.873000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/05b0c5ae-1041-4103-b34c-fc91904c03eb"
+  },
+  {
+   "external_id": "06d1fdc2-215b-47ea-acac-37ec9fa9a86d",
+   "title": "Senior Atlassian Cloud Engineer",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-02-12T16:30:02.416000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/06d1fdc2-215b-47ea-acac-37ec9fa9a86d"
+  },
+  {
+   "external_id": "07932096-2047-4b14-9c72-6bdf59299093",
+   "title": "Manager, Sourcing",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-24T19:45:42.749000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/07932096-2047-4b14-9c72-6bdf59299093"
+  },
+  {
+   "external_id": "0801c21d-8c99-47b5-8830-fe81449fb69f",
+   "title": "Executive Assistant, Product Management",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-13T22:31:09.865000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0801c21d-8c99-47b5-8830-fe81449fb69f"
+  },
+  {
+   "external_id": "0848f774-3e75-4ddf-9886-a572dc52fc1e",
+   "title": "Director, Accounting – Manufacturing",
+   "role_family": "finance_ops",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-10-15T01:33:39.406000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0848f774-3e75-4ddf-9886-a572dc52fc1e"
+  },
+  {
+   "external_id": "0932c95c-e8db-437c-9333-fcc37c659961",
+   "title": "Head of EMEA Partnerships",
+   "role_family": "exec",
+   "location": "Dublin - IE",
+   "posted_at": "2026-03-09T09:48:34.780000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0932c95c-e8db-437c-9333-fcc37c659961"
+  },
+  {
+   "external_id": "09b085c5-dc6e-4009-b330-378ff0c11fb2",
+   "title": "Director, Recruiting, Digital Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-21T18:02:41.289000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/09b085c5-dc6e-4009-b330-378ff0c11fb2"
+  },
+  {
+   "external_id": "0a4fa789-4a22-49c9-8521-638c02c45bac",
+   "title": "Director, International Project Management - Spark",
+   "role_family": "exec",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-30T20:19:26.853000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0a4fa789-4a22-49c9-8521-638c02c45bac"
+  },
+  {
+   "external_id": "0a5a9851-7502-474a-b87c-fc4c6d3f8eb3",
+   "title": "Staff Product Manager, AI Infrastructure (Fleet Management)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-09T23:14:18.868000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0a5a9851-7502-474a-b87c-fc4c6d3f8eb3"
+  },
+  {
+   "external_id": "0aae94c4-9fe6-4275-be3c-6c397345f7f4",
+   "title": "Staff Applied AI Inference Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-08T22:09:28.459000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0aae94c4-9fe6-4275-be3c-6c397345f7f4"
+  },
+  {
+   "external_id": "0dde69d9-38ec-4b3d-a761-a4c5535eb81d",
+   "title": "Senior Manager, Protective Operations",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-21T16:46:28.795000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0dde69d9-38ec-4b3d-a761-a4c5535eb81d"
+  },
+  {
+   "external_id": "0e2a9c00-574b-454f-b47e-91accc0fc37f",
+   "title": "Senior Facilities Engineer",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-09-03T15:10:01.528000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/0e2a9c00-574b-454f-b47e-91accc0fc37f"
+  },
+  {
+   "external_id": "11603bfb-6d3b-4ce0-ae1c-47662bd6e3d9",
+   "title": "Mechanical Engineer I",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-10-07T22:02:10.999000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/11603bfb-6d3b-4ce0-ae1c-47662bd6e3d9"
+  },
+  {
+   "external_id": "11cd72b6-4bb0-4e32-9d7d-6b5cb72cce37",
+   "title": "Senior Automation Engineer, Compute",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-06T04:35:14.685000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/11cd72b6-4bb0-4e32-9d7d-6b5cb72cce37"
+  },
+  {
+   "external_id": "13e81a89-1bc8-47cc-950d-4ce0e5a5a228",
+   "title": "Workplace Food & Beverage Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-23T23:04:14.789000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/13e81a89-1bc8-47cc-950d-4ce0e5a5a228"
+  },
+  {
+   "external_id": "13f64cc5-77f1-4b04-99a3-c49aaef0e7ca",
+   "title": "Staff Software Engineer, Billing Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-07T20:36:16.918000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/13f64cc5-77f1-4b04-99a3-c49aaef0e7ca"
+  },
+  {
+   "external_id": "1557a2a0-d13d-46bd-aeb2-111e6bd86262",
+   "title": "Senior Escalation Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-06T00:11:58.405000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/1557a2a0-d13d-46bd-aeb2-111e6bd86262"
+  },
+  {
+   "external_id": "15c35458-7da0-4d69-9269-344244093f89",
+   "title": "Senior Manager, Engineering - AI Inference",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-23T17:36:20.944000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/15c35458-7da0-4d69-9269-344244093f89"
+  },
+  {
+   "external_id": "162ccad3-5860-44e1-93d1-d28c8ed9159b",
+   "title": "Senior Variable Compensation Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-18T21:36:41.874000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/162ccad3-5860-44e1-93d1-d28c8ed9159b"
+  },
+  {
+   "external_id": "166d3101-5f47-4d1e-be18-76dc06e89908",
+   "title": "Workplace Project Manager, Real Estate",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-06T22:21:32.838000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/166d3101-5f47-4d1e-be18-76dc06e89908"
+  },
+  {
+   "external_id": "1877a89a-6948-43d4-b23b-5561a72fc2e3",
+   "title": "Director, Commercial Operations",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-04-27T20:34:02.998000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/1877a89a-6948-43d4-b23b-5561a72fc2e3"
+  },
+  {
+   "external_id": "18de4724-dbed-4a5d-a4ea-219b2f8a6ef3",
+   "title": "Sr. Manager, Cost Controls",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-05T21:51:21.354000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/18de4724-dbed-4a5d-a4ea-219b2f8a6ef3"
+  },
+  {
+   "external_id": "193b39d9-9295-4477-8231-a7051959ecad",
+   "title": "Financial Reporting Manager",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-24T17:13:30.310000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/193b39d9-9295-4477-8231-a7051959ecad"
+  },
+  {
+   "external_id": "19bbd06a-d3ec-4027-a1a7-e629d4fa05a4",
+   "title": "Staff Software Engineer, Storage",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-16T14:44:00.435000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/19bbd06a-d3ec-4027-a1a7-e629d4fa05a4"
+  },
+  {
+   "external_id": "1d2e246c-bef2-48d1-aaf4-789120921851",
+   "title": "Staff Engineer, Crusoe Managed Data Transfer (Distributed Systems)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-28T22:03:29.785000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/1d2e246c-bef2-48d1-aaf4-789120921851"
+  },
+  {
+   "external_id": "1df489e7-3cef-4471-9515-a2d63243c882",
+   "title": "Travel Programs Specialist",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-10-20T18:54:45.518000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/1df489e7-3cef-4471-9515-a2d63243c882"
+  },
+  {
+   "external_id": "1e02db37-9329-42f3-b55b-2c9631414661",
+   "title": "Data Center Hardware Technician",
+   "role_family": "engineering",
+   "location": "Springfield, OH - US",
+   "posted_at": "2026-09-22T22:32:16.332000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/1e02db37-9329-42f3-b55b-2c9631414661"
+  },
+  {
+   "external_id": "1eb50f41-8a4b-4db0-953e-1bee91e3f40e",
+   "title": "Sr. Technical Enablement Engineer",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-08-28T23:59:56.171000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/1eb50f41-8a4b-4db0-953e-1bee91e3f40e"
+  },
+  {
+   "external_id": "1eff3cc7-3022-4cf4-86a8-8f90e4e008a4",
+   "title": "Plant Maintenance Technician - Brighton",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-03-18T22:01:31.929000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/1eff3cc7-3022-4cf4-86a8-8f90e4e008a4"
+  },
+  {
+   "external_id": "20cf6b75-c1ae-42db-bb82-d79af1d82401",
+   "title": "Field Acceptance Testing Technician",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-03-26T17:27:57.562000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/20cf6b75-c1ae-42db-bb82-d79af1d82401"
+  },
+  {
+   "external_id": "20dbc9d0-1de8-45ed-80c5-5e27d8f2e92e",
+   "title": "Staff Engineer, Customer Insights & Alerts",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-23T19:39:47.684000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/20dbc9d0-1de8-45ed-80c5-5e27d8f2e92e"
+  },
+  {
+   "external_id": "21ac9f73-82cc-4d16-a7d7-59095d2ea8d3",
+   "title": "Senior Staff Software Engineer, Billing Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-24T23:49:11.132000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/21ac9f73-82cc-4d16-a7d7-59095d2ea8d3"
+  },
+  {
+   "external_id": "21f67070-cd23-45f7-be88-8c6200809b68",
+   "title": "Senior Software Engineer (DCIE)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-04T22:07:05.650000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/21f67070-cd23-45f7-be88-8c6200809b68"
+  },
+  {
+   "external_id": "21ff8438-535e-4846-ac5b-fec56acffe48",
+   "title": "Senior Backend Software Engineer - Core Backend, Cloud Customer Experience",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-31T17:43:02.403000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/21ff8438-535e-4846-ac5b-fec56acffe48"
+  },
+  {
+   "external_id": "22877385-f9ac-4a5e-bce9-f3352476d8df",
+   "title": "Production Engineer II",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-19T16:47:29.046000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/22877385-f9ac-4a5e-bce9-f3352476d8df"
+  },
+  {
+   "external_id": "234c4f43-1072-48d0-8e3e-abea34f4770f",
+   "title": "Senior Software Engineer, Developer Experience",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-22T21:11:32.135000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/234c4f43-1072-48d0-8e3e-abea34f4770f"
+  },
+  {
+   "external_id": "23b5f7b3-d184-4a43-8cb2-1ff3b0b96903",
+   "title": "Staff Hardware Systems Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-03T22:29:04.465000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/23b5f7b3-d184-4a43-8cb2-1ff3b0b96903"
+  },
+  {
+   "external_id": "23e702ed-cb00-43ea-b659-94ce6ccfafe4",
+   "title": "Senior Staff Technical Program Manager, NPI",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-21T23:02:06.547000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/23e702ed-cb00-43ea-b659-94ce6ccfafe4"
+  },
+  {
+   "external_id": "241cf464-7e87-43a7-baaf-6472ee823b69",
+   "title": "Engineering Manager, Deployment",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-23T19:20:25.887000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/241cf464-7e87-43a7-baaf-6472ee823b69"
+  },
+  {
+   "external_id": "2434efc4-dfa9-4a52-89ff-663bf927d8a1",
+   "title": "Staff Software Engineer, Networking",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-31T16:23:39.874000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2434efc4-dfa9-4a52-89ff-663bf927d8a1"
+  },
+  {
+   "external_id": "24b70045-49de-4605-9466-ccd82cb3bcba",
+   "title": "Senior Associate, Strategic Initiatives",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-16T22:24:11.913000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/24b70045-49de-4605-9466-ccd82cb3bcba"
+  },
+  {
+   "external_id": "26f9d857-3a97-4354-b76e-d13cb8862640",
+   "title": "Business Development, Strategic Initiatives",
+   "role_family": "other",
+   "location": "Tel Aviv - IL",
+   "posted_at": "2026-04-21T14:47:43.591000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/26f9d857-3a97-4354-b76e-d13cb8862640"
+  },
+  {
+   "external_id": "271c1b60-e04c-4f70-875e-bd8243d87ca9",
+   "title": "Senior Customer Success Manager",
+   "role_family": "customer",
+   "location": "New York, NY - US",
+   "posted_at": "2026-07-02T03:50:01.673000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/271c1b60-e04c-4f70-875e-bd8243d87ca9"
+  },
+  {
+   "external_id": "27841a58-5cc7-4d5e-a6ee-798b8a3d32ae",
+   "title": "Senior Manager, Finance - Corporate",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-05T22:05:57.629000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/27841a58-5cc7-4d5e-a6ee-798b8a3d32ae"
+  },
+  {
+   "external_id": "2844eeaf-48ea-4273-8e12-f96c33164050",
+   "title": "Senior Engineering Manager, SDN Control Plane",
+   "role_family": "engineering",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-08-06T21:47:42.530000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2844eeaf-48ea-4273-8e12-f96c33164050"
+  },
+  {
+   "external_id": "2875f7e1-7cfc-41d4-ba4d-1ed6be4939c8",
+   "title": "Director, People Success - Digital Infrastructure Group",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-02-07T00:01:09.256000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2875f7e1-7cfc-41d4-ba4d-1ed6be4939c8"
+  },
+  {
+   "external_id": "28c03346-c659-4f7d-8a35-5b6467ff717c",
+   "title": "Operations & Maintenance Technician II",
+   "role_family": "other",
+   "location": "Abilene, TX - US",
+   "posted_at": "2026-10-28T19:52:23.831000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/28c03346-c659-4f7d-8a35-5b6467ff717c"
+  },
+  {
+   "external_id": "2974285f-e298-4cf7-9eed-e0bdafeb0998",
+   "title": "Senior Accountant, Lease Accounting",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-27T22:08:18.440000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2974285f-e298-4cf7-9eed-e0bdafeb0998"
+  },
+  {
+   "external_id": "2a5368b3-8df6-475e-a0e3-25f6913436f7",
+   "title": "Logistics and Inventory Coordinator",
+   "role_family": "other",
+   "location": "Reykjanesbaer - IS",
+   "posted_at": "2026-09-10T11:23:43.608000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2a5368b3-8df6-475e-a0e3-25f6913436f7"
+  },
+  {
+   "external_id": "2a5ae7cb-6c58-4a86-a470-2bce2f9265cc",
+   "title": "Head of Internal Audit",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-10T18:12:39.451000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2a5ae7cb-6c58-4a86-a470-2bce2f9265cc"
+  },
+  {
+   "external_id": "2b1c55f2-0c03-4d01-8814-f19ead2d4ad6",
+   "title": "Senior Engineering Manager, Developer Experience",
+   "role_family": "other",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-07T22:05:57.017000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2b1c55f2-0c03-4d01-8814-f19ead2d4ad6"
+  },
+  {
+   "external_id": "2b1deb04-7f7b-4688-ae5e-76606f38e44c",
+   "title": "Senior Staff Instrumentation and Controls Engineer",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-16T19:46:42.504000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2b1deb04-7f7b-4688-ae5e-76606f38e44c"
+  },
+  {
+   "external_id": "2b51201b-1830-4c3e-89ec-146fd34a52d7",
+   "title": "Senior Cloud Support ​​Engineer",
+   "role_family": "customer",
+   "location": "Dublin - IE",
+   "posted_at": "2026-07-27T14:23:04.751000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2b51201b-1830-4c3e-89ec-146fd34a52d7"
+  },
+  {
+   "external_id": "2b5d8063-e09b-4c21-95b1-89ca70f63011",
+   "title": "Senior Network Production Engineer, Deployment",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-23T22:50:44.437000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2b5d8063-e09b-4c21-95b1-89ca70f63011"
+  },
+  {
+   "external_id": "2c2b4dd4-0212-42ef-bfa6-d70590e751a7",
+   "title": "Senior Software Engineer, Security",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-18T19:44:45.149000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2c2b4dd4-0212-42ef-bfa6-d70590e751a7"
+  },
+  {
+   "external_id": "2cf528b8-afe1-4fca-8be9-5381b91fae07",
+   "title": "Sr. Category Manager, Strategic Sourcing (Electrical)",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-08-21T19:05:33.849000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2cf528b8-afe1-4fca-8be9-5381b91fae07"
+  },
+  {
+   "external_id": "2e04430a-2503-4ce6-ad1b-271d431e9019",
+   "title": "Cloud Support Engineer ll",
+   "role_family": "customer",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-30T19:01:01.792000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2e04430a-2503-4ce6-ad1b-271d431e9019"
+  },
+  {
+   "external_id": "2f916265-7555-4e52-9165-739bf7272ecf",
+   "title": "Staff Software Engineer",
+   "role_family": "engineering",
+   "location": "Dublin - IE",
+   "posted_at": "2026-09-21T07:42:23.101000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2f916265-7555-4e52-9165-739bf7272ecf"
+  },
+  {
+   "external_id": "2fec8a8a-5582-49b2-b009-32dd634e1a28",
+   "title": "Journeyman Electrician",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-05-12T18:09:41.172000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/2fec8a8a-5582-49b2-b009-32dd634e1a28"
+  },
+  {
+   "external_id": "309e1a3f-dceb-4da1-a3c9-747e4c64c469",
+   "title": "Electrical Quality Technician Inspector",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-08-28T23:34:42.555000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/309e1a3f-dceb-4da1-a3c9-747e4c64c469"
+  },
+  {
+   "external_id": "3122d55e-a586-4af4-adc3-b257e86e4cc2",
+   "title": "Staff Instrumentation & Controls Engineer, Deployment",
+   "role_family": "engineering",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-05-20T17:35:06.460000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/3122d55e-a586-4af4-adc3-b257e86e4cc2"
+  },
+  {
+   "external_id": "3184315a-93c6-4557-ace3-e561266761fe",
+   "title": "Senior Project Manager, Special Projects - Power Distribution",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-09-16T18:01:58.549000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/3184315a-93c6-4557-ace3-e561266761fe"
+  },
+  {
+   "external_id": "3387e288-b852-400d-9b98-cf06d82b5978",
+   "title": "Director, Cloud GTM Finance",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-05-22T20:08:59.245000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/3387e288-b852-400d-9b98-cf06d82b5978"
+  },
+  {
+   "external_id": "34466ae7-a0cc-4db5-a3ca-416477005bd2",
+   "title": "CNC Operator",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-05-22T22:01:53.265000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/34466ae7-a0cc-4db5-a3ca-416477005bd2"
+  },
+  {
+   "external_id": "34fcf8ec-8cef-45ff-9771-8b7492404689",
+   "title": "Senior Production Engineer, SDN",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-07-31T19:42:05.305000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/34fcf8ec-8cef-45ff-9771-8b7492404689"
+  },
+  {
+   "external_id": "36b25aed-0e53-4a38-9dab-b4593f142b23",
+   "title": "Senior Cloud Support Engineer - Managed Inference",
+   "role_family": "customer",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-14T20:48:48.984000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/36b25aed-0e53-4a38-9dab-b4593f142b23"
+  },
+  {
+   "external_id": "3853c802-62a8-44c2-8fb7-207bd6fe85c7",
+   "title": "Senior Manager, Customer Support",
+   "role_family": "customer",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-04-28T19:34:53.490000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/3853c802-62a8-44c2-8fb7-207bd6fe85c7"
+  },
+  {
+   "external_id": "38ad7460-5b12-4080-88e7-0dcb5e7102aa",
+   "title": "Wiring Technician",
+   "role_family": "other",
+   "location": "Ponchatoula, LA - US",
+   "posted_at": "2026-09-15T21:36:25.114000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/38ad7460-5b12-4080-88e7-0dcb5e7102aa"
+  },
+  {
+   "external_id": "39bb9f8c-a28e-4068-8c87-a86999231c09",
+   "title": "Senior Financial Analyst, Headcount Planning",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-20T18:59:08.743000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/39bb9f8c-a28e-4068-8c87-a86999231c09"
+  },
+  {
+   "external_id": "39cc39cc-2971-45bb-bb73-80d3612a8ebe",
+   "title": "Senior Systems Engineer - IAM",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-04-20T23:22:26.455000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/39cc39cc-2971-45bb-bb73-80d3612a8ebe"
+  },
+  {
+   "external_id": "3c574639-8e05-4bef-8d29-6c822dc3be4e",
+   "title": "Senior Commissioning Engineer, Mechanical",
+   "role_family": "other",
+   "location": "Abilene, TX - US",
+   "posted_at": "2026-10-14T16:28:03.912000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/3c574639-8e05-4bef-8d29-6c822dc3be4e"
+  },
+  {
+   "external_id": "3d970d19-0954-47ec-9d95-64670886c37a",
+   "title": "Staff Electrical Engineer",
+   "role_family": "other",
+   "location": "Tulsa, OK - US (2)",
+   "posted_at": "2026-06-11T17:06:42.339000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/3d970d19-0954-47ec-9d95-64670886c37a"
+  },
+  {
+   "external_id": "3e15d534-589e-4efb-a829-75ab86d70034",
+   "title": "Senior GRC Analyst",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-22T17:19:52.856000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/3e15d534-589e-4efb-a829-75ab86d70034"
+  },
+  {
+   "external_id": "3f285a89-b06e-4d0b-98cb-e61c619d44fb",
+   "title": "Senior External Communications Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-11T20:08:14.030000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/3f285a89-b06e-4d0b-98cb-e61c619d44fb"
+  },
+  {
+   "external_id": "40033c38-88a2-4d77-b172-2f9d9d29ffbe",
+   "title": "Senior Endpoint Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-10T18:36:35.908000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/40033c38-88a2-4d77-b172-2f9d9d29ffbe"
+  },
+  {
+   "external_id": "40d87d12-e3b2-4d42-ac31-3316798dbb32",
+   "title": "Vice President, Product Management, Managed AI",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-02T18:59:52.038000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/40d87d12-e3b2-4d42-ac31-3316798dbb32"
+  },
+  {
+   "external_id": "41edbcf8-0dfc-4bfc-a76d-881e421a64e4",
+   "title": "Principal Hardware Product Manager - Spark",
+   "role_family": "product_design",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-29T22:47:12.744000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/41edbcf8-0dfc-4bfc-a76d-881e421a64e4"
+  },
+  {
+   "external_id": "421c6a50-d93c-4dcd-acda-06dcc21931ac",
+   "title": "Commercial Strategy & Pricing Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-29T18:04:25.615000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/421c6a50-d93c-4dcd-acda-06dcc21931ac"
+  },
+  {
+   "external_id": "425c2814-f163-41d6-9346-99d088f28db8",
+   "title": "Treasury Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-26T20:08:16.688000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/425c2814-f163-41d6-9346-99d088f28db8"
+  },
+  {
+   "external_id": "43f1edf3-8459-4573-87db-9f00293e3118",
+   "title": "Senior Cloud Support Engineer - Weekend Shift",
+   "role_family": "customer",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-07-17T05:48:11.278000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/43f1edf3-8459-4573-87db-9f00293e3118"
+  },
+  {
+   "external_id": "448eb00c-0345-4a65-9c13-1571109da214",
+   "title": "Staff Commissioning Engineer",
+   "role_family": "engineering",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-05-20T17:40:09.312000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/448eb00c-0345-4a65-9c13-1571109da214"
+  },
+  {
+   "external_id": "449a72cd-e979-41cb-8425-7a3f822f6215",
+   "title": "Material Handler",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-06-02T19:27:36.605000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/449a72cd-e979-41cb-8425-7a3f822f6215"
+  },
+  {
+   "external_id": "44b3a185-065e-452c-a274-3a9d45fc61bf",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": "New York, NY - US",
+   "posted_at": "2026-07-07T21:15:41.017000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/44b3a185-065e-452c-a274-3a9d45fc61bf"
+  },
+  {
+   "external_id": "45537e7f-9cdf-4ac7-bf8b-58269226b9d7",
+   "title": "Data Centre Operations Engineer",
+   "role_family": "engineering",
+   "location": "Reykjanesbaer - IS",
+   "posted_at": "2026-06-04T10:32:09.184000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/45537e7f-9cdf-4ac7-bf8b-58269226b9d7"
+  },
+  {
+   "external_id": "45745301-7f53-4680-ad00-e9251b230956",
+   "title": "Senior Network Production Engineer, Operations",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-29T17:27:45.771000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/45745301-7f53-4680-ad00-e9251b230956"
+  },
+  {
+   "external_id": "458980c0-0fc1-4285-803a-3c049c588a74",
+   "title": "Staff Technical Program Manager, Storage",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-17T01:13:02.522000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/458980c0-0fc1-4285-803a-3c049c588a74"
+  },
+  {
+   "external_id": "45e6724c-2404-46f2-8786-60e7ad459283",
+   "title": "Senior Global Category Manager, Fiber",
+   "role_family": "other",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-08-28T19:35:12.661000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/45e6724c-2404-46f2-8786-60e7ad459283"
+  },
+  {
+   "external_id": "48ad0fef-276a-499c-b7ec-4c906667912a",
+   "title": "Material Handler",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-06-23T15:50:34.612000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/48ad0fef-276a-499c-b7ec-4c906667912a"
+  },
+  {
+   "external_id": "48e12158-97bf-466c-bd64-50f537d6e764",
+   "title": "Service Desk lll",
+   "role_family": "other",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-09-08T20:48:55.603000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/48e12158-97bf-466c-bd64-50f537d6e764"
+  },
+  {
+   "external_id": "48e3acec-a929-49ec-8d9d-6abfc1f9608a",
+   "title": "Executive Assistant, CTO",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-20T20:27:21.169000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/48e3acec-a929-49ec-8d9d-6abfc1f9608a"
+  },
+  {
+   "external_id": "4ba723b1-35f9-46dd-b7ca-eb2afcc36af8",
+   "title": "Senior Manufacturing Engineer",
+   "role_family": "other",
+   "location": "Tulsa, OK - US (2)",
+   "posted_at": "2026-09-18T21:40:49.501000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/4ba723b1-35f9-46dd-b7ca-eb2afcc36af8"
+  },
+  {
+   "external_id": "4bdf1f92-1a1c-480b-84a6-2255a40cb442",
+   "title": "HSE Manager, Data Center Construction",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-09-24T19:33:45.468000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/4bdf1f92-1a1c-480b-84a6-2255a40cb442"
+  },
+  {
+   "external_id": "4c5de99e-87e0-4269-acf4-505c5d5b9d2b",
+   "title": "Staff Technical Program Manager, Cloud Availability",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-28T03:41:25.635000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/4c5de99e-87e0-4269-acf4-505c5d5b9d2b"
+  },
+  {
+   "external_id": "4e479e29-9ddf-4ef0-822a-105dff0eb1e8",
+   "title": "Senior Production Engineer, SDN",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-28T22:36:17.850000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/4e479e29-9ddf-4ef0-822a-105dff0eb1e8"
+  },
+  {
+   "external_id": "4fb2d1b1-8fe6-40b1-b399-49e5d89b1abc",
+   "title": "Mechanical Quality Inspector",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-10-14T19:36:57.594000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/4fb2d1b1-8fe6-40b1-b399-49e5d89b1abc"
+  },
+  {
+   "external_id": "52d134b6-039d-4c3c-b157-2cf7f700f77a",
+   "title": "Senior Manager, Revenue Accounting",
+   "role_family": "sales",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-24T00:30:47.157000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/52d134b6-039d-4c3c-b157-2cf7f700f77a"
+  },
+  {
+   "external_id": "52ebf84d-a113-40c1-9bd3-0a626fbe2efe",
+   "title": "Contracts Coordinator",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-21T23:36:34.930000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/52ebf84d-a113-40c1-9bd3-0a626fbe2efe"
+  },
+  {
+   "external_id": "52f4e88d-14ff-4d18-a620-5a7543c04b37",
+   "title": "People Programs Specialist (Contract)",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-29T00:03:57.099000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/52f4e88d-14ff-4d18-a620-5a7543c04b37"
+  },
+  {
+   "external_id": "5315a370-af0f-4025-a8f4-d5686301e8ce",
+   "title": "Senior Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-14T19:04:50.778000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5315a370-af0f-4025-a8f4-d5686301e8ce"
+  },
+  {
+   "external_id": "5397415c-99c9-4f74-ba25-db1f89cde101",
+   "title": "Senior Events Manager, Community Engagement",
+   "role_family": "marketing",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-11T20:42:54.763000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5397415c-99c9-4f74-ba25-db1f89cde101"
+  },
+  {
+   "external_id": "54690afc-4c05-4e30-a550-fa94a305f073",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-07-02T03:53:50.654000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/54690afc-4c05-4e30-a550-fa94a305f073"
+  },
+  {
+   "external_id": "54da16d7-2895-43a3-bf9f-53041de699c0",
+   "title": "Senior Customer Success Manager",
+   "role_family": "customer",
+   "location": "Dublin - IE",
+   "posted_at": "2026-10-02T09:36:39.219000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/54da16d7-2895-43a3-bf9f-53041de699c0"
+  },
+  {
+   "external_id": "55a3db11-bfce-4595-b94a-5ff46b5b1618",
+   "title": "Quality Manager - Manufacturing",
+   "role_family": "other",
+   "location": "Tulsa, OK - US (1)",
+   "posted_at": "2026-08-28T23:50:48.688000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/55a3db11-bfce-4595-b94a-5ff46b5b1618"
+  },
+  {
+   "external_id": "568efeae-346c-4cf6-b52f-07faa5ce1fb5",
+   "title": "Sr. Manager, Strategic Sourcing",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-08-19T20:48:53.176000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/568efeae-346c-4cf6-b52f-07faa5ce1fb5"
+  },
+  {
+   "external_id": "58374130-c292-4206-ab5f-a4491ce078e3",
+   "title": "Project Manager",
+   "role_family": "engineering",
+   "location": "Dublin - IE",
+   "posted_at": "2026-09-18T12:18:00.022000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/58374130-c292-4206-ab5f-a4491ce078e3"
+  },
+  {
+   "external_id": "58ba6e06-7fe1-4091-bfad-bcf9f95f2117",
+   "title": "People Programs Specialist (Contract)",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-29T00:01:53.769000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/58ba6e06-7fe1-4091-bfad-bcf9f95f2117"
+  },
+  {
+   "external_id": "59824ec7-64a5-433f-894f-e488613b5fca",
+   "title": "Senior Director, Fleet Management",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-19T18:52:51.704000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/59824ec7-64a5-433f-894f-e488613b5fca"
+  },
+  {
+   "external_id": "59c7d6a0-436f-45bb-8abb-f24329d3eda1",
+   "title": "Senior Software Engineer, Billing Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-11T17:16:59.416000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/59c7d6a0-436f-45bb-8abb-f24329d3eda1"
+  },
+  {
+   "external_id": "59debd8a-2f96-4da3-98d8-4b4ef9497e79",
+   "title": "Workplace Coordinator",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-14T18:41:40.492000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/59debd8a-2f96-4da3-98d8-4b4ef9497e79"
+  },
+  {
+   "external_id": "5a06acab-d14b-49fd-83b8-f575d505d500",
+   "title": "Director of Construction",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-13T19:31:11.892000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5a06acab-d14b-49fd-83b8-f575d505d500"
+  },
+  {
+   "external_id": "5a814b0e-81b5-47f2-aefc-1f0536e91dca",
+   "title": "Senior Manager, Facilities Remote Operations Center",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-08-19T02:40:00.021000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5a814b0e-81b5-47f2-aefc-1f0536e91dca"
+  },
+  {
+   "external_id": "5a9d3635-7762-4ee0-bb23-d0a74cbd0e47",
+   "title": "Senior Construction Project Specialist",
+   "role_family": "other",
+   "location": "Warrenton, MO - US",
+   "posted_at": "2026-06-08T17:55:32.025000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5a9d3635-7762-4ee0-bb23-d0a74cbd0e47"
+  },
+  {
+   "external_id": "5bb98387-3239-4b7d-9a9f-779bccf77011",
+   "title": "Senior Director, Construction",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-05T20:35:12.237000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5bb98387-3239-4b7d-9a9f-779bccf77011"
+  },
+  {
+   "external_id": "5c70c64b-918c-4970-85a0-1d39f7f7c7ee",
+   "title": "Workplace Change Manager",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-23T05:16:31.965000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5c70c64b-918c-4970-85a0-1d39f7f7c7ee"
+  },
+  {
+   "external_id": "5ccfccf7-90f3-4a06-a8cd-dc0d2550ed81",
+   "title": "Staff Network Production Engineer, Network Ops",
+   "role_family": "engineering",
+   "location": "Dublin - IE",
+   "posted_at": "2026-07-24T15:13:40.014000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5ccfccf7-90f3-4a06-a8cd-dc0d2550ed81"
+  },
+  {
+   "external_id": "5cda3a9b-cd8d-4bf5-8a25-81f1dafbd711",
+   "title": "Recruiter, GTM (Contract)",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-09T23:28:04.101000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5cda3a9b-cd8d-4bf5-8a25-81f1dafbd711"
+  },
+  {
+   "external_id": "5d36a560-f2b1-4588-93d9-fa365794ab07",
+   "title": "Senior Network Engineer",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-09-14T16:20:52.022000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5d36a560-f2b1-4588-93d9-fa365794ab07"
+  },
+  {
+   "external_id": "5d92c794-3340-4129-a5a2-464dbca3d885",
+   "title": "Senior Customer Success Manager",
+   "role_family": "customer",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2025-11-21T20:54:48.382000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5d92c794-3340-4129-a5a2-464dbca3d885"
+  },
+  {
+   "external_id": "5f36fd00-133e-4df2-98b7-49aba8f84a16",
+   "title": "Welder",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-09-16T17:27:43.064000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5f36fd00-133e-4df2-98b7-49aba8f84a16"
+  },
+  {
+   "external_id": "5f803496-8968-44bf-ae78-531567fbe2f9",
+   "title": "Field Master Electrician",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-03-18T22:19:01.283000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5f803496-8968-44bf-ae78-531567fbe2f9"
+  },
+  {
+   "external_id": "5f80ee5b-b4e0-41d7-8e19-e087e341517c",
+   "title": "Senior Cloud Support Engineer - Weekend Shift",
+   "role_family": "customer",
+   "location": "New York, NY - US",
+   "posted_at": "2026-07-17T05:40:18.358000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5f80ee5b-b4e0-41d7-8e19-e087e341517c"
+  },
+  {
+   "external_id": "5fc7e448-33c0-40e9-a60e-e24d27600084",
+   "title": "Senior L&D Program Manager - Manager Programs",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-06T21:46:58.764000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/5fc7e448-33c0-40e9-a60e-e24d27600084"
+  },
+  {
+   "external_id": "6039abb1-516d-4730-8f8a-932d6b60fb8a",
+   "title": "Staff Instrumentation & Controls Engineer",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-06T21:22:27.696000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6039abb1-516d-4730-8f8a-932d6b60fb8a"
+  },
+  {
+   "external_id": "603dff72-39ae-461f-9277-663e9c2db928",
+   "title": "Senior Supplier Quality Engineer - Manufacturing",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-08-31T17:23:14.090000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/603dff72-39ae-461f-9277-663e9c2db928"
+  },
+  {
+   "external_id": "60c4dbac-a6f8-4fae-bec6-8c6e6698498a",
+   "title": "Manager, Modular Building Programs",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-09-15T22:10:15.776000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/60c4dbac-a6f8-4fae-bec6-8c6e6698498a"
+  },
+  {
+   "external_id": "6151186c-8d13-4143-b57d-73b86e900c5c",
+   "title": "Senior Manager, Revenue Accounting",
+   "role_family": "sales",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-24T00:31:37.907000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6151186c-8d13-4143-b57d-73b86e900c5c"
+  },
+  {
+   "external_id": "62a01e46-9571-45b6-9205-13db16c4327f",
+   "title": "Senior Financial Analyst, Central Finance",
+   "role_family": "finance_ops",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-10-14T06:53:48.606000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/62a01e46-9571-45b6-9205-13db16c4327f"
+  },
+  {
+   "external_id": "6321b0c6-702d-4f61-891e-c07b9e9b591f",
+   "title": "Service Desk",
+   "role_family": "other",
+   "location": "Tel Aviv - IL",
+   "posted_at": "2026-10-23T11:38:46.867000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6321b0c6-702d-4f61-891e-c07b9e9b591f"
+  },
+  {
+   "external_id": "648dc4df-6a51-4e99-822a-23f76e8ca53c",
+   "title": "Customer Success Manager, Managed Inference",
+   "role_family": "customer",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-26T19:24:36.677000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/648dc4df-6a51-4e99-822a-23f76e8ca53c"
+  },
+  {
+   "external_id": "661beff3-5ae4-465a-8c81-c87cdc6067e7",
+   "title": "Staff Software Engineer, Crusoe Container Registry",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-14T18:50:43.888000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/661beff3-5ae4-465a-8c81-c87cdc6067e7"
+  },
+  {
+   "external_id": "66f18f41-3317-4199-b574-c94a1caba1cf",
+   "title": "Staff Quality Control (QC) Engineer",
+   "role_family": "other",
+   "location": "Childress, TX - US",
+   "posted_at": "2026-10-14T20:08:23.832000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/66f18f41-3317-4199-b574-c94a1caba1cf"
+  },
+  {
+   "external_id": "6717e397-4d2b-4d7a-bcf9-6c906920951d",
+   "title": "GL Accountant",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-07-27T20:51:59.383000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6717e397-4d2b-4d7a-bcf9-6c906920951d"
+  },
+  {
+   "external_id": "673be1ed-a2a4-4733-b781-e84de473f8c8",
+   "title": "Workplace Project Manager, Real Estate",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-06T22:21:29.686000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/673be1ed-a2a4-4733-b781-e84de473f8c8"
+  },
+  {
+   "external_id": "679035bb-1787-4f1e-a942-b3a28a23626e",
+   "title": "Account Executive, Emerging AI",
+   "role_family": "sales",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-21T22:17:27.903000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/679035bb-1787-4f1e-a942-b3a28a23626e"
+  },
+  {
+   "external_id": "690d374c-c23e-4e91-9c1a-2a675fa37ed0",
+   "title": "Contracts Coordinator",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-21T23:36:32.829000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/690d374c-c23e-4e91-9c1a-2a675fa37ed0"
+  },
+  {
+   "external_id": "69199044-a3c3-4e00-8aa8-fa0fc8e19ef5",
+   "title": "Control Room Operator",
+   "role_family": "other",
+   "location": "Abilene, TX - US",
+   "posted_at": "2026-10-27T18:54:14.750000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/69199044-a3c3-4e00-8aa8-fa0fc8e19ef5"
+  },
+  {
+   "external_id": "6bc2913c-73a9-483d-9695-b6cbb0db7ae5",
+   "title": "Wiring Lead",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-09-28T21:53:15.231000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6bc2913c-73a9-483d-9695-b6cbb0db7ae5"
+  },
+  {
+   "external_id": "6c4d634c-fd4a-4709-b836-72e5d6087e94",
+   "title": "Director of Engineering, Compute Cloud",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-11T19:02:05.759000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6c4d634c-fd4a-4709-b836-72e5d6087e94"
+  },
+  {
+   "external_id": "6c7fe08a-5340-4d7b-a799-90fd40e995d0",
+   "title": "Senior Engineer, Load Integration & Model Development",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-09-17T18:42:56.737000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6c7fe08a-5340-4d7b-a799-90fd40e995d0"
+  },
+  {
+   "external_id": "6e6c3c74-36f4-455d-aafe-a159412a5c94",
+   "title": "Treasury Manager",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-26T20:08:13.628000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6e6c3c74-36f4-455d-aafe-a159412a5c94"
+  },
+  {
+   "external_id": "6e872818-3bce-4931-8791-07c2d5d05dd4",
+   "title": "Assembly Technician",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-10-20T13:23:15.806000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6e872818-3bce-4931-8791-07c2d5d05dd4"
+  },
+  {
+   "external_id": "6f33949e-db7a-4ef4-94cb-d0d0e97ce767",
+   "title": "Senior Cloud Support Engineer",
+   "role_family": "customer",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-06-23T21:55:46.759000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6f33949e-db7a-4ef4-94cb-d0d0e97ce767"
+  },
+  {
+   "external_id": "6f9bc9a8-117f-470b-b180-12abdd5408d8",
+   "title": "Principal Sustaining Engineering Manager - Spark",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-05T21:45:20.792000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6f9bc9a8-117f-470b-b180-12abdd5408d8"
+  },
+  {
+   "external_id": "6fc4874c-d2a0-40e9-bcd2-fb6737e2bbc8",
+   "title": "Assembly Technician",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-09-26T17:43:10.544000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/6fc4874c-d2a0-40e9-bcd2-fb6737e2bbc8"
+  },
+  {
+   "external_id": "700cd0ee-3b0b-4fab-9c8b-7d53e511882f",
+   "title": "Shop Foreman",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-09-15T19:10:52.045000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/700cd0ee-3b0b-4fab-9c8b-7d53e511882f"
+  },
+  {
+   "external_id": "7013a589-5163-4f40-96f9-e5e172823990",
+   "title": "Staff Kernel Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-06T21:08:41.260000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7013a589-5163-4f40-96f9-e5e172823990"
+  },
+  {
+   "external_id": "7081cd4c-dda9-44d0-a4aa-41d4a5b7ddb9",
+   "title": "Staff Software Engineer, Developer Experience",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-08T22:03:27.755000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7081cd4c-dda9-44d0-a4aa-41d4a5b7ddb9"
+  },
+  {
+   "external_id": "70866174-4b78-4a82-8e09-87fe06fe1219",
+   "title": "Senior Staff Commissioning Engineer, Mechanical",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-01T21:16:03.896000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/70866174-4b78-4a82-8e09-87fe06fe1219"
+  },
+  {
+   "external_id": "708d1e0c-247f-43a8-9dc7-42cffbb95904",
+   "title": "Senior Product Manager, Orchestration",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-21T23:12:01.335000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/708d1e0c-247f-43a8-9dc7-42cffbb95904"
+  },
+  {
+   "external_id": "70c0adde-d850-4f73-80b8-36d255f0beb0",
+   "title": "Project Manager II, Power Distribution (Switchboard Program)",
+   "role_family": "other",
+   "location": "Tulsa, OK - US (2)",
+   "posted_at": "2026-09-15T22:29:04.197000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/70c0adde-d850-4f73-80b8-36d255f0beb0"
+  },
+  {
+   "external_id": "71db7beb-717d-4119-8060-39d545e2d8bb",
+   "title": "Senior Revenue Accountant",
+   "role_family": "sales",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-03-19T18:58:39.234000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/71db7beb-717d-4119-8060-39d545e2d8bb"
+  },
+  {
+   "external_id": "72a3d312-e719-4efc-860d-0f586aab634e",
+   "title": "Senior Technical Recruiter II",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-18T22:56:15.456000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/72a3d312-e719-4efc-860d-0f586aab634e"
+  },
+  {
+   "external_id": "7360f5f7-1ca0-4ff6-a504-d45792376725",
+   "title": "Senior Utility Contracts Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-01T18:39:02.752000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7360f5f7-1ca0-4ff6-a504-d45792376725"
+  },
+  {
+   "external_id": "7422b0eb-b7c0-4713-854a-65221a44f874",
+   "title": "Press Brake Operator",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-05-22T21:18:10.037000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7422b0eb-b7c0-4713-854a-65221a44f874"
+  },
+  {
+   "external_id": "7450de05-5c86-4d21-a66f-69596499fe55",
+   "title": "Construction Manager MEP",
+   "role_family": "other",
+   "location": "Childress, TX - US",
+   "posted_at": "2026-05-01T21:44:01.259000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7450de05-5c86-4d21-a66f-69596499fe55"
+  },
+  {
+   "external_id": "7548e8b7-d8d3-4bd6-885a-91ad604ee179",
+   "title": "Senior General Ledger Accountant",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-21T21:59:24.559000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7548e8b7-d8d3-4bd6-885a-91ad604ee179"
+  },
+  {
+   "external_id": "7594d737-5744-49e6-b9d4-1154d080d954",
+   "title": "Accounting Manager, Leases",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-28T22:02:28.545000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7594d737-5744-49e6-b9d4-1154d080d954"
+  },
+  {
+   "external_id": "773c2712-82cf-4464-837e-436e5965b6ba",
+   "title": "Senior Manager, QMS - Manufacturing",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-08-31T18:47:12.335000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/773c2712-82cf-4464-837e-436e5965b6ba"
+  },
+  {
+   "external_id": "77a405a9-4ee5-4b9f-b75f-2fd1eb87d285",
+   "title": "Senior Staff Electrical Engineer, R&D",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-28T22:42:29.620000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/77a405a9-4ee5-4b9f-b75f-2fd1eb87d285"
+  },
+  {
+   "external_id": "77e0b8bb-c39c-4c3e-9f20-3d8d6c994cba",
+   "title": "Senior Manager, Technical Recruiting",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-06T19:18:04.910000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/77e0b8bb-c39c-4c3e-9f20-3d8d6c994cba"
+  },
+  {
+   "external_id": "7810aa31-c396-4b0c-87b9-7d008b039fa3",
+   "title": "Manager, GL Accounting",
+   "role_family": "finance_ops",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-06-26T21:51:35.117000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7810aa31-c396-4b0c-87b9-7d008b039fa3"
+  },
+  {
+   "external_id": "783c32fd-a710-4320-a839-7d81513c2d0e",
+   "title": "Senior Staff Linux Kernel Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-13T22:40:48.619000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/783c32fd-a710-4320-a839-7d81513c2d0e"
+  },
+  {
+   "external_id": "7892f702-1af8-483e-9d00-3b1a1bd51803",
+   "title": "Staff Network Production Engineer, Deployment",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-05-21T17:12:08.362000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7892f702-1af8-483e-9d00-3b1a1bd51803"
+  },
+  {
+   "external_id": "78c8be37-93e2-40dd-9be6-93ba06ec2613",
+   "title": "Senior Incident Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-30T19:12:43.244000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/78c8be37-93e2-40dd-9be6-93ba06ec2613"
+  },
+  {
+   "external_id": "7bfcb535-f3f4-454e-a186-236ac95c42a4",
+   "title": "Construction Project Specialist, Building",
+   "role_family": "other",
+   "location": "Warrenton, MO - US",
+   "posted_at": "2026-06-08T17:44:42.928000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7bfcb535-f3f4-454e-a186-236ac95c42a4"
+  },
+  {
+   "external_id": "7c184fd7-89fa-4e10-894b-6fbd783fe5f1",
+   "title": "Senior Contracts Specialist",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-15T17:38:32.726000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7c184fd7-89fa-4e10-894b-6fbd783fe5f1"
+  },
+  {
+   "external_id": "7c950821-e4b2-4eeb-a73a-989456d55aa6",
+   "title": "Manager, Logistics & Asset Management",
+   "role_family": "other",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-10-28T16:32:26.446000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7c950821-e4b2-4eeb-a73a-989456d55aa6"
+  },
+  {
+   "external_id": "7d0b8c9a-09e9-4419-93c1-ecf168981cf1",
+   "title": "Construction Project Specialist",
+   "role_family": "other",
+   "location": "Childress, TX - US",
+   "posted_at": "2026-09-17T21:02:09.145000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7d0b8c9a-09e9-4419-93c1-ecf168981cf1"
+  },
+  {
+   "external_id": "7d0f9375-78fe-4bb6-8246-f4d936712beb",
+   "title": "Senior Staff Integrated Capacity Planner",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-06T18:39:13.051000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7d0f9375-78fe-4bb6-8246-f4d936712beb"
+  },
+  {
+   "external_id": "7db491a6-5adc-443c-8513-f4c0743178c7",
+   "title": "Electrical Design Engineer",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-28T16:03:34.749000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7db491a6-5adc-443c-8513-f4c0743178c7"
+  },
+  {
+   "external_id": "7dd7d216-98cc-4b82-829b-c3376caadfb6",
+   "title": "Senior Software Engineer, Cloud Monitoring Service",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-08T19:08:29.551000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7dd7d216-98cc-4b82-829b-c3376caadfb6"
+  },
+  {
+   "external_id": "7f62d94f-54ad-4e28-89a3-db52514a2d37",
+   "title": "Director, Portfolio Product Marketing",
+   "role_family": "marketing",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-08-31T21:47:03.134000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7f62d94f-54ad-4e28-89a3-db52514a2d37"
+  },
+  {
+   "external_id": "7f7529af-bf01-4f64-887c-8b15d3f5c28c",
+   "title": "Marketing Operations Manager",
+   "role_family": "gtm_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-16T22:40:42.345000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/7f7529af-bf01-4f64-887c-8b15d3f5c28c"
+  },
+  {
+   "external_id": "8299398d-53f4-4c75-9568-cef135d52cc1",
+   "title": "Senior Financial Analyst, Central Finance",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-14T06:54:45.543000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8299398d-53f4-4c75-9568-cef135d52cc1"
+  },
+  {
+   "external_id": "835e1209-4f3f-461c-9f82-d21ad827c3f8",
+   "title": "HSE Program Manager",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-15T21:58:00.244000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/835e1209-4f3f-461c-9f82-d21ad827c3f8"
+  },
+  {
+   "external_id": "83981cfa-7264-4feb-b5be-0195691cf1ec",
+   "title": "Senior Workforce Intelligence Analyst",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-18T21:13:02.632000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/83981cfa-7264-4feb-b5be-0195691cf1ec"
+  },
+  {
+   "external_id": "8485e26d-6ede-406c-b40a-e9c3e305789a",
+   "title": "Senior Manager, Accounts Payable",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-08-12T20:47:18.195000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8485e26d-6ede-406c-b40a-e9c3e305789a"
+  },
+  {
+   "external_id": "85137d1f-83ac-4685-8631-0922bae2649e",
+   "title": "[Electrical Design Engineer, Modular Data Centers - Data Center",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-26T23:13:18.982000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/85137d1f-83ac-4685-8631-0922bae2649e"
+  },
+  {
+   "external_id": "852c0da5-4ab6-4422-bff1-9a27c3f627c3",
+   "title": "Director, Customer Enablement",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-04T05:05:22.002000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/852c0da5-4ab6-4422-bff1-9a27c3f627c3"
+  },
+  {
+   "external_id": "8542fd03-9a05-4c2b-800e-3106ed14af6f",
+   "title": "Staff Software Engineer, Cloud Monitoring Service (Distributed Systems)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-08T19:09:06.928000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8542fd03-9a05-4c2b-800e-3106ed14af6f"
+  },
+  {
+   "external_id": "85caa3eb-2192-49cb-ba76-8596bdeeae36",
+   "title": "Principal NPI Engineering Manager - Spark",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-05T21:21:49.845000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/85caa3eb-2192-49cb-ba76-8596bdeeae36"
+  },
+  {
+   "external_id": "862c8ee9-b18a-49f3-afa8-9796a33becee",
+   "title": "Construction Project Specialist - COLO",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-09-24T18:28:56.844000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/862c8ee9-b18a-49f3-afa8-9796a33becee"
+  },
+  {
+   "external_id": "86648ef3-257a-4914-9704-4dab3a0d39ef",
+   "title": "Senior Staff Linux Security Engineer",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-06T21:22:17.213000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/86648ef3-257a-4914-9704-4dab3a0d39ef"
+  },
+  {
+   "external_id": "88259992-3dff-4e15-9758-9df012be2bac",
+   "title": "Senior Performance Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-28T21:38:50.944000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/88259992-3dff-4e15-9758-9df012be2bac"
+  },
+  {
+   "external_id": "88654793-32c7-4c33-a8ac-f3b541632c02",
+   "title": "Developer Social & Content Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-16T17:38:00.098000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/88654793-32c7-4c33-a8ac-f3b541632c02"
+  },
+  {
+   "external_id": "89c7e4b0-b5a0-4fec-b243-8554e3652b8f",
+   "title": "Director, Accounting – Manufacturing",
+   "role_family": "finance_ops",
+   "location": "Tulsa, OK - US (1)",
+   "posted_at": "2026-10-15T01:33:53.666000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/89c7e4b0-b5a0-4fec-b243-8554e3652b8f"
+  },
+  {
+   "external_id": "8a279206-4413-42c4-a02b-c2a5412202d0",
+   "title": "Staff PLM Administrator, Manufacturing Systems",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-09-01T20:02:41.503000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8a279206-4413-42c4-a02b-c2a5412202d0"
+  },
+  {
+   "external_id": "8b405394-0e5a-4fdb-9b4a-3611251f2554",
+   "title": "Head of Internal Audit",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-02-12T16:52:12.266000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8b405394-0e5a-4fdb-9b4a-3611251f2554"
+  },
+  {
+   "external_id": "8b7fce51-1d4d-4ead-9e7e-e2d851fcbbdc",
+   "title": "Staff Integrated Capacity Planner",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-28T18:33:44.332000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8b7fce51-1d4d-4ead-9e7e-e2d851fcbbdc"
+  },
+  {
+   "external_id": "8ba43db9-91b8-45b7-bf82-3475adc2f457",
+   "title": "Wiring Technician",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-06-12T22:45:09.267000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8ba43db9-91b8-45b7-bf82-3475adc2f457"
+  },
+  {
+   "external_id": "8e2f8cce-e727-484a-a8bf-c4c5b6a615a8",
+   "title": "Manager, Power Distribution Programs",
+   "role_family": "other",
+   "location": "Tulsa, OK - US (2)",
+   "posted_at": "2026-09-15T22:21:01.620000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8e2f8cce-e727-484a-a8bf-c4c5b6a615a8"
+  },
+  {
+   "external_id": "8fb0e3f5-3b65-4680-90a7-b5480b23eeeb",
+   "title": "Staff Product Manager, AI Infrastructure (Storage)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-28T23:55:33.836000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/8fb0e3f5-3b65-4680-90a7-b5480b23eeeb"
+  },
+  {
+   "external_id": "9019714b-3d88-4be4-a40e-35cd31281ae6",
+   "title": "Senior Accountant, Lease Accounting",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-13T16:14:00.942000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9019714b-3d88-4be4-a40e-35cd31281ae6"
+  },
+  {
+   "external_id": "90aa9112-1f98-493c-8f67-a9e1991ae7c1",
+   "title": "Director, Finance - DC Construction & Operations Finance",
+   "role_family": "finance_ops",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-09-02T21:07:36.902000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/90aa9112-1f98-493c-8f67-a9e1991ae7c1"
+  },
+  {
+   "external_id": "90beaf70-84d5-484d-8686-44c7dceff271",
+   "title": "Enterprise Account Executive, Capital Markets",
+   "role_family": "sales",
+   "location": "New York, NY - US",
+   "posted_at": "2026-07-08T17:53:20.880000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/90beaf70-84d5-484d-8686-44c7dceff271"
+  },
+  {
+   "external_id": "91475b33-9f0e-4594-a425-cde5c5335cde",
+   "title": "Associate Construction Engineer - Power Infrastructure",
+   "role_family": "engineering",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-10T21:00:56.567000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/91475b33-9f0e-4594-a425-cde5c5335cde"
+  },
+  {
+   "external_id": "91b8d1dd-2368-4509-bcce-d1a528dac9a2",
+   "title": "Sr. Technical Enablement Engineer",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-28T23:59:51.976000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/91b8d1dd-2368-4509-bcce-d1a528dac9a2"
+  },
+  {
+   "external_id": "91e9f770-438f-41ec-9532-01095e82f044",
+   "title": "Inventory Control Coordinator",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-10-14T20:30:59.902000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/91e9f770-438f-41ec-9532-01095e82f044"
+  },
+  {
+   "external_id": "92617bf7-46a0-4510-b9b5-7b6c3efd789d",
+   "title": "Staff Instrumentation & Controls Engineer, Deployment",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-05-19T16:53:05.625000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/92617bf7-46a0-4510-b9b5-7b6c3efd789d"
+  },
+  {
+   "external_id": "92b8ee07-1e78-40cc-ac2f-0a98bc9d9fda",
+   "title": "Construction Manager",
+   "role_family": "other",
+   "location": "Childress, TX - US",
+   "posted_at": "2026-05-01T21:44:56.959000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/92b8ee07-1e78-40cc-ac2f-0a98bc9d9fda"
+  },
+  {
+   "external_id": "938d90ff-88f7-4876-b522-238acaee85d9",
+   "title": "Material Planner",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-08-21T20:29:16.666000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/938d90ff-88f7-4876-b522-238acaee85d9"
+  },
+  {
+   "external_id": "93c99cb7-4528-49f0-a367-60013190a86e",
+   "title": "Project Manager II, Power Distribution (New Product LV/MV)",
+   "role_family": "other",
+   "location": "Tulsa, OK - US (2)",
+   "posted_at": "2026-09-16T17:55:36.191000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/93c99cb7-4528-49f0-a367-60013190a86e"
+  },
+  {
+   "external_id": "9414f13c-b6db-49dc-9d25-6c20606addb5",
+   "title": "Senior Manager, Technical Recruiting",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-30T23:16:57.250000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9414f13c-b6db-49dc-9d25-6c20606addb5"
+  },
+  {
+   "external_id": "947726f2-0868-40ea-ba32-ff77d79102fc",
+   "title": "Staff Production Engineer",
+   "role_family": "engineering",
+   "location": "Dublin - IE",
+   "posted_at": "2026-08-18T09:44:05.439000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/947726f2-0868-40ea-ba32-ff77d79102fc"
+  },
+  {
+   "external_id": "95347434-cb96-426e-b1d7-b15bb327c4fd",
+   "title": "Electrical Field Engineer - Data Center",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-09-08T19:28:25.343000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/95347434-cb96-426e-b1d7-b15bb327c4fd"
+  },
+  {
+   "external_id": "95848a9a-f759-4fb3-8372-562a5a8dc012",
+   "title": "Technical Accounting Manager",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-22T22:55:18.500000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/95848a9a-f759-4fb3-8372-562a5a8dc012"
+  },
+  {
+   "external_id": "964ecaee-75b0-4078-b1df-997929181c0f",
+   "title": "Painter",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-06-08T17:50:28.840000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/964ecaee-75b0-4078-b1df-997929181c0f"
+  },
+  {
+   "external_id": "96d29d17-1357-486e-bf87-ca315d59b344",
+   "title": "Senior Production Engineer, Managed AI",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-01T22:53:38.417000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/96d29d17-1357-486e-bf87-ca315d59b344"
+  },
+  {
+   "external_id": "99fede61-450c-44cd-9dad-ca4fef925cfb",
+   "title": "Material Planner (Electrical)",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-08-21T20:10:33.089000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/99fede61-450c-44cd-9dad-ca4fef925cfb"
+  },
+  {
+   "external_id": "9a11d096-6ce1-4216-883f-0588ab6b7c4e",
+   "title": "Senior Software Engineer, Cloud Customer Tooling",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-23T19:10:56.889000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9a11d096-6ce1-4216-883f-0588ab6b7c4e"
+  },
+  {
+   "external_id": "9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+   "title": "Software Engineer I, Network",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-16T22:52:30.178000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
+  },
+  {
+   "external_id": "9a539958-c8c8-43d9-b075-dea8ebc9b799",
+   "title": "Senior Staff Software Engineer, SDN Architecture",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-04T19:52:57.600000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9a539958-c8c8-43d9-b075-dea8ebc9b799"
+  },
+  {
+   "external_id": "9aa892be-71db-455e-9980-ffff4badfee3",
+   "title": "Senior Staff Mechanical Systems Engineer - Spark",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-08-24T18:02:56.481000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9aa892be-71db-455e-9980-ffff4badfee3"
+  },
+  {
+   "external_id": "9b41f10a-54e8-4c4c-a59b-df93447b356f",
+   "title": "Senior Staff Network Engineer, Deployment",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-25T03:46:05.146000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9b41f10a-54e8-4c4c-a59b-df93447b356f"
+  },
+  {
+   "external_id": "9b5f4d44-a1da-4149-892c-0883de3bba54",
+   "title": "Principal Product Manager, AI Infrastructure (Networking)",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-08-27T22:37:15.955000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9b5f4d44-a1da-4149-892c-0883de3bba54"
+  },
+  {
+   "external_id": "9d7b0457-5263-46ad-ace8-4551027a01c4",
+   "title": "Senior Staff Software Engineer, Storage DPU",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-06T19:41:30.295000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9d7b0457-5263-46ad-ace8-4551027a01c4"
+  },
+  {
+   "external_id": "9ded2482-7fb5-470a-9422-774933f79d7b",
+   "title": "Staff Customer Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-07T16:15:04.485000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9ded2482-7fb5-470a-9422-774933f79d7b"
+  },
+  {
+   "external_id": "9e569e68-2026-4c5d-98d3-2b7579182299",
+   "title": "Engineer, Load Integration & Model Development",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-17T18:43:14.663000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9e569e68-2026-4c5d-98d3-2b7579182299"
+  },
+  {
+   "external_id": "9e94c3c9-9941-42a8-9638-bb862532ba7a",
+   "title": "Principal Product Manager, AI Infrastructure (Storage)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-28T05:23:28.189000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9e94c3c9-9941-42a8-9638-bb862532ba7a"
+  },
+  {
+   "external_id": "9f84d6cc-6efe-4fd3-aa22-80a5003cd924",
+   "title": "Staff Cloud Support Engineer",
+   "role_family": "customer",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-02-16T15:49:47.730000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9f84d6cc-6efe-4fd3-aa22-80a5003cd924"
+  },
+  {
+   "external_id": "a02d7665-254c-439b-8771-b8eaa30addd0",
+   "title": "Senior Staff Data Center Systems Engineer, R&D",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-20T20:44:49.607000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a02d7665-254c-439b-8771-b8eaa30addd0"
+  },
+  {
+   "external_id": "a0b9f5c4-10b1-447f-961d-63ebd22f0da8",
+   "title": "Senior Staff Commissioning Engineer, Electrical",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-08-12T20:49:37.387000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a0b9f5c4-10b1-447f-961d-63ebd22f0da8"
+  },
+  {
+   "external_id": "a125b4ed-362c-4865-a205-7514bca4c2f0",
+   "title": "Senior Talent Acquisition Program Manager II",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-27T21:25:04.910000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a125b4ed-362c-4865-a205-7514bca4c2f0"
+  },
+  {
+   "external_id": "a14be664-690f-4c05-aa5a-837f866fc30e",
+   "title": "Senior Staff Software Engineer, Cloud Availability Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-07T03:17:12.136000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a14be664-690f-4c05-aa5a-837f866fc30e"
+  },
+  {
+   "external_id": "a1ad6adb-6706-4490-9512-fd8fcb51dae9",
+   "title": "Principal Systems Software Architect",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-05T20:07:39.852000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a1ad6adb-6706-4490-9512-fd8fcb51dae9"
+  },
+  {
+   "external_id": "a1adc254-151a-48a0-b609-0d37db879919",
+   "title": "Staff Software Engineer, Data Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-10T20:22:35.247000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a1adc254-151a-48a0-b609-0d37db879919"
+  },
+  {
+   "external_id": "a1b222af-486f-4865-abbe-cbc365a31af0",
+   "title": "Principal Organizational Development Strategist",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-08T00:26:51.455000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a1b222af-486f-4865-abbe-cbc365a31af0"
+  },
+  {
+   "external_id": "a1b73362-ae88-4b60-8c5e-4ee1ed998177",
+   "title": "Senior Workplace Manager, Colocation & Spark",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-09-29T16:29:08.272000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a1b73362-ae88-4b60-8c5e-4ee1ed998177"
+  },
+  {
+   "external_id": "a1d40cd8-829a-4cb9-af9d-6ff0d93c5d51",
+   "title": "Senior Construction Manager",
+   "role_family": "other",
+   "location": "Warrenton, MO - US",
+   "posted_at": "2026-05-26T18:27:04.198000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a1d40cd8-829a-4cb9-af9d-6ff0d93c5d51"
+  },
+  {
+   "external_id": "a3b40100-cb00-41cb-ac93-fe81bd614c9d",
+   "title": "Senior Software Engineer (DCIE)",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-28T22:26:53.856000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a3b40100-cb00-41cb-ac93-fe81bd614c9d"
+  },
+  {
+   "external_id": "a4059884-8ed8-4903-9819-465ccb58c47f",
+   "title": "Master Electrician",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-05-13T21:55:31.943000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a4059884-8ed8-4903-9819-465ccb58c47f"
+  },
+  {
+   "external_id": "a47eea20-0f86-4d60-ab86-4e4f9ad9abc7",
+   "title": "Senior Director, Analytics & Data Science",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-22T03:59:50.784000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a47eea20-0f86-4d60-ab86-4e4f9ad9abc7"
+  },
+  {
+   "external_id": "a5e693c2-ae16-4961-9857-0492c5768077",
+   "title": "Senior Physical Security Systems Engineer",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-23T22:12:38.298000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a5e693c2-ae16-4961-9857-0492c5768077"
+  },
+  {
+   "external_id": "a603f157-4346-42a4-82ea-7bd67c11548f",
+   "title": "Engineering Manager, Data Platform",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-31T15:30:43.008000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a603f157-4346-42a4-82ea-7bd67c11548f"
+  },
+  {
+   "external_id": "a6043dea-1b46-456c-8d2c-5b44e1660975",
+   "title": "Senior Software Engineer, Platform Networking",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-19T21:26:34.699000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a6043dea-1b46-456c-8d2c-5b44e1660975"
+  },
+  {
+   "external_id": "a61c2d1b-68cc-40fe-b9d1-e91ec2ae5bb3",
+   "title": "Construction Manager - MEP",
+   "role_family": "engineering",
+   "location": "Warrenton, MO - US",
+   "posted_at": "2026-05-26T19:56:45.586000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a61c2d1b-68cc-40fe-b9d1-e91ec2ae5bb3"
+  },
+  {
+   "external_id": "a6a94635-e43a-4213-bd6c-1be896007726",
+   "title": "Travel Programs Specialist",
+   "role_family": "other",
+   "location": "New York, NY - US",
+   "posted_at": "2026-10-20T18:54:43.663000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a6a94635-e43a-4213-bd6c-1be896007726"
+  },
+  {
+   "external_id": "a6ac4ffb-36ea-4dd1-afd7-3e6eb825c653",
+   "title": "Senior GPU Capacity Planner",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-25T22:55:35.109000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a6ac4ffb-36ea-4dd1-afd7-3e6eb825c653"
+  },
+  {
+   "external_id": "a6b5f295-caf0-4759-95c3-3c7b79fa9b77",
+   "title": "Director, Cloud GTM Finance",
+   "role_family": "finance_ops",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-05-22T20:09:19.013000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a6b5f295-caf0-4759-95c3-3c7b79fa9b77"
+  },
+  {
+   "external_id": "a711fde4-371e-4d5e-9c06-5b1c4fc2a6ca",
+   "title": "Senior Digital Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-16T20:11:51.279000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a711fde4-371e-4d5e-9c06-5b1c4fc2a6ca"
+  },
+  {
+   "external_id": "a84cf7c2-1f49-43b0-9e19-c7258ed74f88",
+   "title": "Field Journeyman Electrician",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-03-18T22:22:47.542000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a84cf7c2-1f49-43b0-9e19-c7258ed74f88"
+  },
+  {
+   "external_id": "a8afdd2f-abd2-4db9-9434-ad46e540e427",
+   "title": "Construction Project Specialist - Spark",
+   "role_family": "other",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-09-24T18:30:12.967000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a8afdd2f-abd2-4db9-9434-ad46e540e427"
+  },
+  {
+   "external_id": "a8e77cd0-0652-4045-9fa3-083b0fa3db97",
+   "title": "Project Engineer - Spark Deployments",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-14T18:37:31.220000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a8e77cd0-0652-4045-9fa3-083b0fa3db97"
+  },
+  {
+   "external_id": "a8ec0fc2-d32c-46d7-9bd7-da01ea8f17fe",
+   "title": "Senior Staff R&D Technical Project Manager Design",
+   "role_family": "product_design",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-15T20:03:08.876000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a8ec0fc2-d32c-46d7-9bd7-da01ea8f17fe"
+  },
+  {
+   "external_id": "a93c56d0-ecca-4fe3-8e13-61ae1b381742",
+   "title": "Senior Enterprise Technology Administrator, Finance Systems",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-03-31T15:57:19.113000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a93c56d0-ecca-4fe3-8e13-61ae1b381742"
+  },
+  {
+   "external_id": "a977aa96-1c7e-48e8-883b-19a1f59e9b2d",
+   "title": "Senior Data Scientist, Research Engineer",
+   "role_family": "ml_ai",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-03-11T20:29:45.685000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/a977aa96-1c7e-48e8-883b-19a1f59e9b2d"
+  },
+  {
+   "external_id": "aadc46b2-a20f-4815-8206-06b0e2eccb91",
+   "title": "Senior Engineering Manager, Deployment",
+   "role_family": "engineering",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-08-26T18:26:54.380000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/aadc46b2-a20f-4815-8206-06b0e2eccb91"
+  },
+  {
+   "external_id": "ab5a5395-5480-4731-9053-3906b0f92f23",
+   "title": "Senior Staff Automation Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-13T20:11:06.904000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ab5a5395-5480-4731-9053-3906b0f92f23"
+  },
+  {
+   "external_id": "ad79ec06-1303-40c3-b233-7e68f5193011",
+   "title": "Senior L&D Program Manager - Manager Programs",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-06T21:46:55.942000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ad79ec06-1303-40c3-b233-7e68f5193011"
+  },
+  {
+   "external_id": "ae617133-d56a-4020-812f-08e071dd2daa",
+   "title": "Senior Solutions Engineer",
+   "role_family": "sales",
+   "location": "New York, NY - US",
+   "posted_at": "2026-07-28T17:50:40.827000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ae617133-d56a-4020-812f-08e071dd2daa"
+  },
+  {
+   "external_id": "ae9cb957-cbc2-4c1a-93e8-2d01ff0a2247",
+   "title": "Senior Production Engineer, Core PE",
+   "role_family": "engineering",
+   "location": "Dublin - IE",
+   "posted_at": "2026-07-20T08:20:55.520000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ae9cb957-cbc2-4c1a-93e8-2d01ff0a2247"
+  },
+  {
+   "external_id": "aee915dd-954f-43d4-9daf-27b52cbdddd4",
+   "title": "Construction Manager - Spark",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-23T21:47:39.154000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/aee915dd-954f-43d4-9daf-27b52cbdddd4"
+  },
+  {
+   "external_id": "af02fe1d-ee1a-45de-8dfd-d5aa4733b93e",
+   "title": "Staff Commissioning Engineer, Electrical",
+   "role_family": "other",
+   "location": "Amarillo, TX - US",
+   "posted_at": "2026-10-13T21:45:34.804000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/af02fe1d-ee1a-45de-8dfd-d5aa4733b93e"
+  },
+  {
+   "external_id": "b00c2d8e-89f5-41b9-977c-70a87516675a",
+   "title": "Senior Cloud Support ​​Engineer",
+   "role_family": "customer",
+   "location": "Tel Aviv - IL",
+   "posted_at": "2025-11-05T07:38:48.407000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b00c2d8e-89f5-41b9-977c-70a87516675a"
+  },
+  {
+   "external_id": "b0db4b7e-7e7f-4e66-a2b3-fcd526f4614a",
+   "title": "Principal Organizational Development Strategist",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-08T00:26:54.178000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b0db4b7e-7e7f-4e66-a2b3-fcd526f4614a"
+  },
+  {
+   "external_id": "b10e9ff0-887b-47c0-95f6-0a1a7f5394aa",
+   "title": "Manager, Process Engineering",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-09-16T19:59:23.561000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b10e9ff0-887b-47c0-95f6-0a1a7f5394aa"
+  },
+  {
+   "external_id": "b1b99030-d393-4329-80fe-5bc2e4c93b03",
+   "title": "Staff Product Security Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2025-05-22T18:55:26.985000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b1b99030-d393-4329-80fe-5bc2e4c93b03"
+  },
+  {
+   "external_id": "b231b95f-75dd-46c2-9766-a59afea9e087",
+   "title": "Senior Project Manager, Modular Building Programs",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-09-16T17:40:37.172000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b231b95f-75dd-46c2-9766-a59afea9e087"
+  },
+  {
+   "external_id": "b2404524-e541-4c76-b813-f1195c1c0b33",
+   "title": "Senior Staff Technical Project Manager - Spark Deployment",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-29T17:21:51.688000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b2404524-e541-4c76-b813-f1195c1c0b33"
+  },
+  {
+   "external_id": "b269b283-8d04-4a32-89cc-e83a3d355830",
+   "title": "Plant Maintenance Technician - Arvada",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-06-24T17:08:31.137000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b269b283-8d04-4a32-89cc-e83a3d355830"
+  },
+  {
+   "external_id": "b5add860-a33a-419f-bc9a-91092c60266a",
+   "title": "Director, Legal Counsel, Corporate & Securities",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-14T20:34:31.159000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b5add860-a33a-419f-bc9a-91092c60266a"
+  },
+  {
+   "external_id": "b66ec19f-c7eb-463d-b4c5-42fbd8d5666b",
+   "title": "Strategic Sourcing Specialist, Compute",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-21T21:54:00.500000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b66ec19f-c7eb-463d-b4c5-42fbd8d5666b"
+  },
+  {
+   "external_id": "b69c0bdb-e44e-4d8a-996b-d98558e65d07",
+   "title": "Staff Software Engineer, CAPE",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-23T20:05:57.609000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b69c0bdb-e44e-4d8a-996b-d98558e65d07"
+  },
+  {
+   "external_id": "b6b5cd98-80e9-44da-bc43-0e2c48c863c9",
+   "title": "Manager, Mechanical Engineering",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-08-18T15:28:37.762000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b6b5cd98-80e9-44da-bc43-0e2c48c863c9"
+  },
+  {
+   "external_id": "b7515891-7ea3-4176-aeaa-cb8267773e79",
+   "title": "Senior Manager, Supply Chain Planning",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-08-19T21:04:57.476000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b7515891-7ea3-4176-aeaa-cb8267773e79"
+  },
+  {
+   "external_id": "b75a8937-b187-472f-9472-fbbf1f151495",
+   "title": "Safety Engineer",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-10-02T21:26:44.593000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b75a8937-b187-472f-9472-fbbf1f151495"
+  },
+  {
+   "external_id": "b7758825-8805-41e9-b92d-aff19ad44c9c",
+   "title": "Director, Finance - Real Estate Finance",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-02T19:29:19.068000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b7758825-8805-41e9-b92d-aff19ad44c9c"
+  },
+  {
+   "external_id": "b829a1d0-3a4d-4a77-bda0-5ba8703486aa",
+   "title": "Director, Infrastructure Security",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-27T15:43:54.646000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b829a1d0-3a4d-4a77-bda0-5ba8703486aa"
+  },
+  {
+   "external_id": "b97b5281-f88b-4470-9b88-419d747d83eb",
+   "title": "Field Superintendent",
+   "role_family": "other",
+   "location": "Remote - US",
+   "posted_at": "2026-03-18T22:13:54.002000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b97b5281-f88b-4470-9b88-419d747d83eb"
+  },
+  {
+   "external_id": "b9ca6b48-29ef-4442-aa51-f55ab360d2c7",
+   "title": "Senior Staff Software Engineer, Storage",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-15T17:01:55.408000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/b9ca6b48-29ef-4442-aa51-f55ab360d2c7"
+  },
+  {
+   "external_id": "ba674f40-30b5-4145-8042-6137678e5f1f",
+   "title": "Senior Production Engineer, Managed Cloud",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-29T17:17:05.053000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ba674f40-30b5-4145-8042-6137678e5f1f"
+  },
+  {
+   "external_id": "ba8a4032-77ac-484f-b28e-4eddf6db87de",
+   "title": "Finance Manager, Deal Governance",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-23T20:46:24.046000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ba8a4032-77ac-484f-b28e-4eddf6db87de"
+  },
+  {
+   "external_id": "bc698eec-aea3-4e49-bd37-dc166a8bd9c3",
+   "title": "Senior Internal Communications Manager",
+   "role_family": "marketing",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-16T17:54:40.659000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/bc698eec-aea3-4e49-bd37-dc166a8bd9c3"
+  },
+  {
+   "external_id": "bd1d6df0-fa3c-44a8-9a4a-aaf43f973a44",
+   "title": "Senior Workforce Intelligence Analyst",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-18T21:13:00.393000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/bd1d6df0-fa3c-44a8-9a4a-aaf43f973a44"
+  },
+  {
+   "external_id": "bd70c4f9-5b08-4aa8-92af-ac59967ea231",
+   "title": "Onboarding Operations Specialist (Contract)",
+   "role_family": "customer",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-22T22:41:25.685000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/bd70c4f9-5b08-4aa8-92af-ac59967ea231"
+  },
+  {
+   "external_id": "be7cdd68-5d86-49a6-a044-b2dfb3053936",
+   "title": "Senior Manager, Strategic Initiatives - Special Projects",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-16T22:58:45.518000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/be7cdd68-5d86-49a6-a044-b2dfb3053936"
+  },
+  {
+   "external_id": "bf5ee562-5b33-459f-857f-95694944ac67",
+   "title": "Strategic Initiatives and Government Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-27T22:00:58.989000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/bf5ee562-5b33-459f-857f-95694944ac67"
+  },
+  {
+   "external_id": "bfe521aa-da02-40fd-b5f7-80d9572b7ceb",
+   "title": "Staff Commissioning Engineer, Mechanical",
+   "role_family": "other",
+   "location": "Abilene, TX - US",
+   "posted_at": "2026-09-08T22:22:05.353000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/bfe521aa-da02-40fd-b5f7-80d9572b7ceb"
+  },
+  {
+   "external_id": "c0733130-91d2-4efc-be0a-0deb87530f16",
+   "title": "Senior Staff Optics Engineer, Network Qualification & Strategy",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-06T01:32:18.785000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/c0733130-91d2-4efc-be0a-0deb87530f16"
+  },
+  {
+   "external_id": "c08a297f-2be4-467f-85c0-24f9ad0bec8e",
+   "title": "Principal Product Manager, Bare Metal",
+   "role_family": "product_design",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-16T19:51:58.338000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/c08a297f-2be4-467f-85c0-24f9ad0bec8e"
+  },
+  {
+   "external_id": "c14b835d-d8d4-45e0-ba88-c9a41911631d",
+   "title": "Director, People Success - Tech",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-11T21:47:18.472000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/c14b835d-d8d4-45e0-ba88-c9a41911631d"
+  },
+  {
+   "external_id": "c330daea-b932-4a10-85e4-71e2be7e994d",
+   "title": "Senior Project Engineer",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-10-07T22:28:27.015000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/c330daea-b932-4a10-85e4-71e2be7e994d"
+  },
+  {
+   "external_id": "c48758cc-79a0-468d-9a8c-b50abc88c324",
+   "title": "Strategic Sourcing Specialist, Compute",
+   "role_family": "other",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-21T21:52:35.245000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/c48758cc-79a0-468d-9a8c-b50abc88c324"
+  },
+  {
+   "external_id": "c4fefe80-a789-4829-a839-81ebc21247a7",
+   "title": "Senior Microsoft Cloud Infrastructure Engineer",
+   "role_family": "engineering",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-07-06T22:27:23.233000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/c4fefe80-a789-4829-a839-81ebc21247a7"
+  },
+  {
+   "external_id": "c5983897-cfc2-42e1-a5f1-f81db849ec68",
+   "title": "Manager, Cloud Infrastructure - Finance",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-23T16:34:33.388000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/c5983897-cfc2-42e1-a5f1-f81db849ec68"
+  },
+  {
+   "external_id": "c85a1046-36f8-4381-907c-531b12a447e2",
+   "title": "Staff Network Engineer, Storage",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-08T16:43:08.277000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/c85a1046-36f8-4381-907c-531b12a447e2"
+  },
+  {
+   "external_id": "ca49cb96-50b9-4a3d-a490-2e1d88c357b3",
+   "title": "Software Engineer II, Storage",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-28T20:25:32.576000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ca49cb96-50b9-4a3d-a490-2e1d88c357b3"
+  },
+  {
+   "external_id": "ca5c3bbc-13a5-49a5-aadd-feff72306fb9",
+   "title": "Senior Manager, Finance - Supply Chain",
+   "role_family": "finance_ops",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-08-24T22:17:04.735000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ca5c3bbc-13a5-49a5-aadd-feff72306fb9"
+  },
+  {
+   "external_id": "cbedbed7-72e6-4c23-afc2-8a4b6593e31b",
+   "title": "Vice President, Information Technology",
+   "role_family": "exec",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-11T14:19:32.583000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/cbedbed7-72e6-4c23-afc2-8a4b6593e31b"
+  },
+  {
+   "external_id": "cc7537d5-ecb1-4a5f-a1ad-f33abd69d201",
+   "title": "Senior Manager, Accounts Payable",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-16T19:49:25.163000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/cc7537d5-ecb1-4a5f-a1ad-f33abd69d201"
+  },
+  {
+   "external_id": "ccdaa39d-9a9a-4fbe-a27a-98b2522d6940",
+   "title": "Sr. Staff Software Engineer, Managed Platform Services",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-24T21:09:34.652000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ccdaa39d-9a9a-4fbe-a27a-98b2522d6940"
+  },
+  {
+   "external_id": "cd54474a-b215-4600-80ab-89f66c9b1379",
+   "title": "Senior Staff Hardware Technical Project Manager - Spark",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-22T23:54:49.418000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/cd54474a-b215-4600-80ab-89f66c9b1379"
+  },
+  {
+   "external_id": "cdca4752-d6b5-4df4-b121-57826b41d4b5",
+   "title": "Senior Staff Applied AI Inference Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-22T16:20:41.854000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/cdca4752-d6b5-4df4-b121-57826b41d4b5"
+  },
+  {
+   "external_id": "ce4b8e24-0beb-4ed6-927d-77634ebaee40",
+   "title": "Senior Staff Solutions Engineer (NYC)",
+   "role_family": "sales",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-05-26T19:51:53.389000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ce4b8e24-0beb-4ed6-927d-77634ebaee40"
+  },
+  {
+   "external_id": "cecb6c47-959f-4eca-a614-361d33a6fc87",
+   "title": "Senior Customer Success Manager, Managed Inference",
+   "role_family": "customer",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-07-07T21:12:07.353000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/cecb6c47-959f-4eca-a614-361d33a6fc87"
+  },
+  {
+   "external_id": "ceec8488-8f01-41e6-bbcb-6f4cf9ff9ad4",
+   "title": "Staff Quality Control (QC) Engineer",
+   "role_family": "other",
+   "location": "Warrenton, MO - US",
+   "posted_at": "2026-10-14T20:07:52.718000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ceec8488-8f01-41e6-bbcb-6f4cf9ff9ad4"
+  },
+  {
+   "external_id": "cef69daa-ad08-4fd8-9680-f0e60f7936be",
+   "title": "Manufacturing Engineering Manager",
+   "role_family": "other",
+   "location": "Tulsa, OK - US (2)",
+   "posted_at": "2026-06-22T18:28:43.479000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/cef69daa-ad08-4fd8-9680-f0e60f7936be"
+  },
+  {
+   "external_id": "d0b5eabb-9b76-40b9-9bea-56757733a0fa",
+   "title": "Senior Hardware Systems Engineer",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-08-03T22:31:03.533000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d0b5eabb-9b76-40b9-9bea-56757733a0fa"
+  },
+  {
+   "external_id": "d0e72f9f-37af-4391-98cd-4e187cd224ae",
+   "title": "Senior Staff Software Engineer, DC Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-12T22:51:19.788000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d0e72f9f-37af-4391-98cd-4e187cd224ae"
+  },
+  {
+   "external_id": "d1bc2bf1-79ee-4184-a5b7-7417d6f08aef",
+   "title": "Senior Cloud Support Engineer",
+   "role_family": "customer",
+   "location": "New York, NY - US",
+   "posted_at": "2026-08-26T19:30:19.186000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d1bc2bf1-79ee-4184-a5b7-7417d6f08aef"
+  },
+  {
+   "external_id": "d202513c-b746-4d86-a468-8f2cf2c3e37e",
+   "title": "Senior Supervisor, Quality Engineering",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-10-22T15:39:14.177000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d202513c-b746-4d86-a468-8f2cf2c3e37e"
+  },
+  {
+   "external_id": "d2213d93-733e-4aff-bcc3-2f3103159d2a",
+   "title": "Senior Software Engineer, CAPE",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-23T20:04:52.988000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d2213d93-733e-4aff-bcc3-2f3103159d2a"
+  },
+  {
+   "external_id": "d29a4247-5731-4738-9f60-0e1e2f1b8d82",
+   "title": "Senior Cloud Support Engineer",
+   "role_family": "customer",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-06-23T21:58:00.168000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d29a4247-5731-4738-9f60-0e1e2f1b8d82"
+  },
+  {
+   "external_id": "d3cebc93-f12c-416a-aca9-1cdb507cc13c",
+   "title": "Senior HSE Specialist",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-03-20T21:07:48.983000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d3cebc93-f12c-416a-aca9-1cdb507cc13c"
+  },
+  {
+   "external_id": "d40eda63-0bda-4559-8f0d-fc275c6760ea",
+   "title": "Senior Financial Analyst, Central Finance",
+   "role_family": "finance_ops",
+   "location": "New York, NY - US",
+   "posted_at": "2026-10-28T17:19:59.186000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d40eda63-0bda-4559-8f0d-fc275c6760ea"
+  },
+  {
+   "external_id": "d4287b1b-c78b-44fb-bd2b-d2cca26cdc2a",
+   "title": "Software Engineer II, Managed Platform Services",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-06-25T00:02:39.575000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d4287b1b-c78b-44fb-bd2b-d2cca26cdc2a"
+  },
+  {
+   "external_id": "d6586bd6-4382-4e6e-a1e0-7b60acb9c942",
+   "title": "Recruiter, GTM (Contract)",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-09T23:27:02.773000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d6586bd6-4382-4e6e-a1e0-7b60acb9c942"
+  },
+  {
+   "external_id": "d6e8efe4-6d14-4f04-87c0-69e3d973c877",
+   "title": "Production Planner",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-08-21T19:43:18.612000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d6e8efe4-6d14-4f04-87c0-69e3d973c877"
+  },
+  {
+   "external_id": "d72502c5-20ff-4c6a-bf83-b8a2d694b73f",
+   "title": "Principal Electrical Engineer",
+   "role_family": "other",
+   "location": "Arvada, CO - US",
+   "posted_at": "2026-09-03T15:57:27.431000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d72502c5-20ff-4c6a-bf83-b8a2d694b73f"
+  },
+  {
+   "external_id": "d8716440-f634-44df-b89d-16ac8599be2b",
+   "title": "Senior Staff Project Manager, Spark",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-07-20T21:36:51.086000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d8716440-f634-44df-b89d-16ac8599be2b"
+  },
+  {
+   "external_id": "d935d60a-bdac-444a-8610-c9bdd08ca5b1",
+   "title": "Staff Instrumentation & Controls Engineer, Deployment",
+   "role_family": "other",
+   "location": "Warrenton, MO - US",
+   "posted_at": "2026-04-17T22:34:10.657000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d935d60a-bdac-444a-8610-c9bdd08ca5b1"
+  },
+  {
+   "external_id": "d957b171-6c62-4c69-9e34-4fbd4a366601",
+   "title": "Senior Software Engineer, Storage",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2025-08-26T20:24:28+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/d957b171-6c62-4c69-9e34-4fbd4a366601"
+  },
+  {
+   "external_id": "da804e0a-0b37-471b-b422-e148b9a4bf13",
+   "title": "Staff Commissioning Engineer, Electrical",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-01T21:34:36.607000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/da804e0a-0b37-471b-b422-e148b9a4bf13"
+  },
+  {
+   "external_id": "dad3d7e6-6cbd-4fb7-b967-a50e8a02e197",
+   "title": "Director, Finance - Cost Analytics",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-22T04:09:54.876000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/dad3d7e6-6cbd-4fb7-b967-a50e8a02e197"
+  },
+  {
+   "external_id": "db1501c9-d253-47c7-a803-5b01bd3a5d01",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-02-17T18:26:01.716000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/db1501c9-d253-47c7-a803-5b01bd3a5d01"
+  },
+  {
+   "external_id": "dbc41e5c-97be-4859-9bca-2b2bfb41fa00",
+   "title": "Senior Staff Software Engineer, Founding BMC",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-07-09T18:02:32.833000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/dbc41e5c-97be-4859-9bca-2b2bfb41fa00"
+  },
+  {
+   "external_id": "dd4594d9-9ed1-4d90-b689-447e4a83101f",
+   "title": "Construction Specialist",
+   "role_family": "engineering",
+   "location": "Warrenton, MO - US",
+   "posted_at": "2026-05-26T19:50:19.540000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/dd4594d9-9ed1-4d90-b689-447e4a83101f"
+  },
+  {
+   "external_id": "dd7e2ce3-0726-4b19-8978-531874ddce91",
+   "title": "Director, People Success - Corporate",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-27T00:19:11.684000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/dd7e2ce3-0726-4b19-8978-531874ddce91"
+  },
+  {
+   "external_id": "e0064009-7246-41b7-a727-e6653942a08f",
+   "title": "Senior Construction Scheduler, Data Center",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-28T18:29:16.459000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/e0064009-7246-41b7-a727-e6653942a08f"
+  },
+  {
+   "external_id": "e21b6f4b-2b9c-4f5c-8cf5-b61cf2272a56",
+   "title": "Production Scheduler",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-03-18T21:52:00.920000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/e21b6f4b-2b9c-4f5c-8cf5-b61cf2272a56"
+  },
+  {
+   "external_id": "e2b175b1-71ad-4e91-952d-a2e9d913098c",
+   "title": "Staff Technical Program Manager",
+   "role_family": "product_design",
+   "location": "Tel Aviv - IL",
+   "posted_at": "2026-06-17T13:25:56.236000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/e2b175b1-71ad-4e91-952d-a2e9d913098c"
+  },
+  {
+   "external_id": "e304a457-ec2f-4093-ac31-49ce36bd6e59",
+   "title": "Senior Physical Security Intelligence Analyst",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-10-13T15:33:38.288000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/e304a457-ec2f-4093-ac31-49ce36bd6e59"
+  },
+  {
+   "external_id": "e5240559-3c02-4064-a1bc-2500d2aa2c07",
+   "title": "Senior Contracts Specialist",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-15T17:38:39.181000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/e5240559-3c02-4064-a1bc-2500d2aa2c07"
+  },
+  {
+   "external_id": "e64f032a-e50b-429d-a7db-bc210600d626",
+   "title": "Senior Enterprise Automation Engineer",
+   "role_family": "other",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-16T23:10:46.976000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/e64f032a-e50b-429d-a7db-bc210600d626"
+  },
+  {
+   "external_id": "e65b3748-5d3a-400a-a6d8-e49d55ed65f4",
+   "title": "Sustainability Program Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-27T21:30:54.301000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/e65b3748-5d3a-400a-a6d8-e49d55ed65f4"
+  },
+  {
+   "external_id": "e9374a42-aefd-451e-8a41-583083060c79",
+   "title": "Senior Staff Applications Engineer - Spark",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-02T04:56:06.075000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/e9374a42-aefd-451e-8a41-583083060c79"
+  },
+  {
+   "external_id": "eafe65e4-0e8a-4608-b565-ae1647e31090",
+   "title": "Workplace Change Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-23T17:55:38.629000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/eafe65e4-0e8a-4608-b565-ae1647e31090"
+  },
+  {
+   "external_id": "eb0e996b-02f6-49a4-a8c1-1e2c59fb8dc3",
+   "title": "Finance Manager, Deal Governance",
+   "role_family": "finance_ops",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-09-23T20:46:22.509000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/eb0e996b-02f6-49a4-a8c1-1e2c59fb8dc3"
+  },
+  {
+   "external_id": "edc9b16c-d3d2-44ca-aa57-819580b1d98b",
+   "title": "Sustainability Program Manager",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-27T21:30:52.443000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/edc9b16c-d3d2-44ca-aa57-819580b1d98b"
+  },
+  {
+   "external_id": "edd5ed53-7944-4b14-b3c4-989d61b95d10",
+   "title": "Pre-Employment Program Manager",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-08T17:44:02.359000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/edd5ed53-7944-4b14-b3c4-989d61b95d10"
+  },
+  {
+   "external_id": "edf0de0b-6e71-4dd6-940f-d6bd89b0425e",
+   "title": "Senior Construction Manager - Building",
+   "role_family": "other",
+   "location": "Warrenton, MO - US",
+   "posted_at": "2026-06-08T18:21:08.235000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/edf0de0b-6e71-4dd6-940f-d6bd89b0425e"
+  },
+  {
+   "external_id": "eea07c90-2404-4291-9670-d5fcab030b50",
+   "title": "Senior Construction Project Specialist",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-23T23:15:16.105000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/eea07c90-2404-4291-9670-d5fcab030b50"
+  },
+  {
+   "external_id": "ef056baa-d0d1-4a32-80d7-dcf6d255b9ad",
+   "title": "Director, People Success - GTM",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-19T23:06:22.862000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ef056baa-d0d1-4a32-80d7-dcf6d255b9ad"
+  },
+  {
+   "external_id": "ef7dfa42-4de8-48e3-87d6-88edcf459314",
+   "title": "Director HSE, Data Center Operations",
+   "role_family": "exec",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-09-18T16:53:28.928000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ef7dfa42-4de8-48e3-87d6-88edcf459314"
+  },
+  {
+   "external_id": "ef99771f-c1a6-44eb-94f3-fae7652d7a47",
+   "title": "Staff Network Production Engineer, Operations",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-13T16:38:08.819000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ef99771f-c1a6-44eb-94f3-fae7652d7a47"
+  },
+  {
+   "external_id": "ef99c43f-8aef-495c-84e7-36663cd73369",
+   "title": "Data Scientist, Analytics",
+   "role_family": "ml_ai",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-26T20:26:15.525000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ef99c43f-8aef-495c-84e7-36663cd73369"
+  },
+  {
+   "external_id": "f05ca800-e9ca-46ac-b09b-8c9058331ac9",
+   "title": "Shop Foreman",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-09-28T22:01:27.295000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f05ca800-e9ca-46ac-b09b-8c9058331ac9"
+  },
+  {
+   "external_id": "f173e5d9-3f51-4d10-8779-df43c6f67a9c",
+   "title": "Senior Director, Portfolio Management",
+   "role_family": "exec",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-08-21T17:25:51.580000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f173e5d9-3f51-4d10-8779-df43c6f67a9c"
+  },
+  {
+   "external_id": "f3e3a3ed-5a19-46a2-91a3-0ec6ce5eec19",
+   "title": "Enterprise Account Executive, AI Labs",
+   "role_family": "sales",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-19T20:36:31.847000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f3e3a3ed-5a19-46a2-91a3-0ec6ce5eec19"
+  },
+  {
+   "external_id": "f3e4d342-2c7a-455d-a4fa-54608bbd6248",
+   "title": "Director, Legal Counsel, Corporate & Securities",
+   "role_family": "finance_ops",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-14T20:34:26.583000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f3e4d342-2c7a-455d-a4fa-54608bbd6248"
+  },
+  {
+   "external_id": "f5004216-9d8f-4265-be25-59c72bb2f949",
+   "title": "Mechanical Quality Inspector",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-08-28T23:23:21.008000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f5004216-9d8f-4265-be25-59c72bb2f949"
+  },
+  {
+   "external_id": "f50b9415-9657-4882-b0be-5e200c716776",
+   "title": "Senior Financial Analyst, Cloud Infrastructure - Finance",
+   "role_family": "engineering",
+   "location": "Sunnyvale, CA - US",
+   "posted_at": "2026-10-27T20:55:49.320000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f50b9415-9657-4882-b0be-5e200c716776"
+  },
+  {
+   "external_id": "f581dfe7-d2c4-4a22-9974-b9d93e8c3293",
+   "title": "Associate, Capital Markets",
+   "role_family": "other",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-08-26T20:24:05.605000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f581dfe7-d2c4-4a22-9974-b9d93e8c3293"
+  },
+  {
+   "external_id": "f5961d4a-cd6f-49ca-b3cc-e68272fd94e7",
+   "title": "Senior Cloud Support Engineer - Managed Inference",
+   "role_family": "customer",
+   "location": "New York, NY - US",
+   "posted_at": "2026-10-14T20:48:45.792000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f5961d4a-cd6f-49ca-b3cc-e68272fd94e7"
+  },
+  {
+   "external_id": "f69e6726-7bae-440b-87e1-50b22cdc9cc7",
+   "title": "Director, Finance - Cost Analytics",
+   "role_family": "finance_ops",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-09-22T04:08:27.519000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f69e6726-7bae-440b-87e1-50b22cdc9cc7"
+  },
+  {
+   "external_id": "f77006c7-a8cd-49b5-9216-8a661962afbc",
+   "title": "Analyst/Associate, Investor Relations",
+   "role_family": "other",
+   "location": "New York, NY - US",
+   "posted_at": "2026-10-08T14:08:12.316000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f77006c7-a8cd-49b5-9216-8a661962afbc"
+  },
+  {
+   "external_id": "f7955ba8-7484-46e1-9826-f2d760a2c101",
+   "title": "Master Scheduler",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-05-01T21:31:33.765000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f7955ba8-7484-46e1-9826-f2d760a2c101"
+  },
+  {
+   "external_id": "f84de7ef-c151-4454-88e5-8afe40d0a300",
+   "title": "Staff Software Engineer, Internal Tools & Automation",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-09-03T20:31:10.830000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f84de7ef-c151-4454-88e5-8afe40d0a300"
+  },
+  {
+   "external_id": "f937ebba-50f2-4e15-b2fd-0830b975b68d",
+   "title": "Senior Network Production Engineer, Network Ops",
+   "role_family": "engineering",
+   "location": "Dublin - IE",
+   "posted_at": "2026-08-19T14:53:57.611000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f937ebba-50f2-4e15-b2fd-0830b975b68d"
+  },
+  {
+   "external_id": "f9fd52a2-aa6d-4d16-8bde-ed56c778d0f3",
+   "title": "Senior Incident Manager",
+   "role_family": "other",
+   "location": "Dublin - IE",
+   "posted_at": "2026-10-08T11:48:16.164000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/f9fd52a2-aa6d-4d16-8bde-ed56c778d0f3"
+  },
+  {
+   "external_id": "fa9563f2-277a-4b31-9b73-e14df48af004",
+   "title": "Senior Strategic Sourcing Specialist",
+   "role_family": "other",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-08-28T17:18:41.610000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fa9563f2-277a-4b31-9b73-e14df48af004"
+  },
+  {
+   "external_id": "fb0c1911-c752-49df-84ef-4ff5309e8590",
+   "title": "Senior Production Engineer, Storage",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-20T20:38:12.206000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fb0c1911-c752-49df-84ef-4ff5309e8590"
+  },
+  {
+   "external_id": "fb0d4b75-3fe9-4a50-94cc-b6d134a43864",
+   "title": "Production Manager",
+   "role_family": "other",
+   "location": "Ponchatoula, LA - US",
+   "posted_at": "2026-07-09T18:46:50.251000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fb0d4b75-3fe9-4a50-94cc-b6d134a43864"
+  },
+  {
+   "external_id": "fb2f4059-00a0-4e89-a58b-2e8d7a3ed0c6",
+   "title": "AI Tools Engineer, Storage Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco, CA - US",
+   "posted_at": "2026-10-16T14:29:01.870000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fb2f4059-00a0-4e89-a58b-2e8d7a3ed0c6"
+  },
+  {
+   "external_id": "fb59d79e-a3b5-4842-8967-910e89ba82b5",
+   "title": "Staff Instrumentation & Controls Engineer, Deployment",
+   "role_family": "other",
+   "location": "Childress, TX - US",
+   "posted_at": "2026-04-17T22:35:33.852000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fb59d79e-a3b5-4842-8967-910e89ba82b5"
+  },
+  {
+   "external_id": "fbbe6b53-4c75-4d8a-badb-73e547176152",
+   "title": "Accounting Manager, Leases",
+   "role_family": "finance_ops",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-28T22:02:34.753000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fbbe6b53-4c75-4d8a-badb-73e547176152"
+  },
+  {
+   "external_id": "fbcab5cb-7a0a-4c73-9b64-dcfe99f2fcb1",
+   "title": "Senior Director, Developer Advocacy",
+   "role_family": "exec",
+   "location": "Bellevue, WA - US",
+   "posted_at": "2026-07-01T16:58:15.857000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fbcab5cb-7a0a-4c73-9b64-dcfe99f2fcb1"
+  },
+  {
+   "external_id": "fc530bc9-0745-45e7-b433-fb0151005d10",
+   "title": "Staff Electrical Engineer, Power Systems",
+   "role_family": "other",
+   "location": "Denver, CO - US",
+   "posted_at": "2026-10-02T21:21:17.443000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fc530bc9-0745-45e7-b433-fb0151005d10"
+  },
+  {
+   "external_id": "fdc0bb13-420a-47b4-b540-dd87a735cb3a",
+   "title": "Project Executive",
+   "role_family": "other",
+   "location": "Dallas, TX - US",
+   "posted_at": "2026-05-26T19:46:27.803000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/fdc0bb13-420a-47b4-b540-dd87a735cb3a"
+  },
+  {
+   "external_id": "ffd76963-0fc3-4840-b915-2c69b55d4700",
+   "title": "Quality Manager - Manufacturing",
+   "role_family": "other",
+   "location": "Brighton, CO - US",
+   "posted_at": "2026-09-09T17:15:18.044000+00:00",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ffd76963-0fc3-4840-b915-2c69b55d4700"
+  }
+ ]
+}

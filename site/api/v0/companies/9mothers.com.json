@@ -1,0 +1,43 @@
+{
+  "domain": "9mothers.com",
+  "name": "9 Mothers",
+  "as_of": "2026-10-29",
+  "profile": "default",
+  "score": 0.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-29",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/9-mothers",
+      "postings": [
+        {
+          "title": "Sr. Mechatronics Engineer - Actuation & Drivetrain",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/9-mothers/1ea85050-cd71-422e-9ac5-f7d6adf0e4da"
+        },
+        {
+          "title": "CNC Machinist",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/9-mothers/ab4e8fb2-0bd7-4977-9032-4159feda74a8"
+        },
+        {
+          "title": "Sr. Electrical Harness Engineer",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/9-mothers/08f4ee14-b1fd-4a9f-9122-96f153e08619"
+        }
+      ]
+    }
+  ],
+  "open_postings": 9,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "ashby:9-mothers",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

@@ -1,16 +1,30 @@
 {
   "domain": "askjo.ai",
   "name": "jo",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 4.3,
+  "score": 7.7,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-28",
+      "summary": "Promotes [person]",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMGZsLXFPbVRrcVZsNjhsekU4Z0UxV2lmc0VPc2NGWGtRUF9pNDYtdGViM0QydFFvNXRkNUhWeEw3S0k1ajF5Y3hvaWM0QkFQS0Noa25zNTI4eERFbFlEcXE3RWJqYVFpeXhhLTNjODBGTjdxb3lpLW9FaV8zMjc0ZERsUG5zN2tORGRyaHZoWDI1bEhCbWdHNzhYTGQzOFIzV0M0b3pCMlVpMDdr?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
       "occurred_at": "2026-10-15",
       "summary": "USDA Appoints [person] as Administrator of Rural Business Cooperative Services",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNm9Lbk5Wck5lVkl1VVE4TTREZjN5YkJQTFpSdFNPcGJuUFJ4dzNKSDl0NWZOSEJjVXZrbU1qTm9DLTh6MWhJTnhhSUNlWjJTazNRYWpvWGVWLTF5SnptTmpLbnZ0S0JrcHlacl83QnVPSWJpT0JyLUJkYktUaElrQzBOQTE2alJfU0RxVDQxTGw2b3IwM0w4X0FyMWM4WUVDZlRubGRPN2l4Z3VUeFByWU9JM2lzd285Z1k4Tlh4bDRyNXMwMjFwWFFrMWNzUVk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Democratic Party Launches First-Ever Parliamentary Probe Against Chief Justice Jo Hee-de - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTNWQXhDd2R6dEZlZlk0QkxJRkxMcHRCLXFibjZaVGY0OU1EdFd6c2NQQzVTNkNBRFRKSzk3dmFYRGZYWUlFTVg1bDR2QmV2aU1xckFRY2gzRExRSDZpN3VIOUdmTWR6N29wTVVzWTdpUFl2VTJHYlNOTFotU0c3bXVObURRUm42?oc=5"
     },
     {
       "type": "launch",

@@ -1,9 +1,9 @@
 {
   "domain": "formance.com",
   "name": "Formance",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 1.3,
+  "score": 1.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-29",
       "summary": "Introducing Formance Studio",
       "url": "https://www.formance.com/blog/product/introducing-formance-studio"

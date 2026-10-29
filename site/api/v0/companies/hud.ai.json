@@ -1,10 +1,38 @@
 {
   "domain": "hud.ai",
   "name": "HUD",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 2.6,
+  "score": 8.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Hud launches agentic rollouts to take AI-written code to production - The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RQ1NHd2F0SzdHUm1wX2pfMi1RRFNlVE9tVWIxY0xzM3pZTUFXUTNEdU91SHJmSF9ZdUdkbW9GM1VvX1Eza1VlYUlrSlhUdnhqeXIyN1lxXzlnSmNQeTB5MXdTV3dibXc3UDhQRi1MbVNlTFlscmc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Hud Launches Agentic Rollouts to Move AI-Written Code From Pull Request to Production - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUxBM1VGTTFBdUo4b2x0eDZpbHozWlZhbkJNbnA0cUc5X2FZSTd6MlB4ekgyQXBSU2l6UHhNV3hLVHB6Si1vTDk2bjVkWThZQlpSLW5ZMzhlYnBxTmdiZUlENTZyemR6cXlnTkNrMjF6MXpxM1NoRXlMcGxqazQzeVBPNXc4VW1VOXVxaUxsMHZoMjZlTGtNaGd3U2RiSF8yLUpIRzFTR1MxeHVa?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Hud Launches Agentic Rollouts for Evidence-Based Code Merges - NewsBlaze News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEJrelZmX21DZzA2ZkZnbm0tNVlKUkxTT3NiQW5nTjhxWDF2S1VmR1ZvOTRabWJRTmpJcnFuNTJ3ZUNoR3ZES0VUTG10Vkt1amhQRUREQTdvMVdsbjBhMWFadkpDaTBLTy1HYUJXSWJ0Uzh5LUhEVmtrTVM5SnhkMnJEOGUteEdyQW9jVW9JVXJ5UVJQRE9WSkR6OWoySEV1Qmh1SVN0Wk92YzF3RVREY1Via09WeEFNN0lBM0ZGUjM3WF9JY3BqMDJR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "No Man's Sky Update 7.10 Rolls Out With Forsaken Traders, Minimal HUD Mode & More - Full Patch Notes Listed - PlayStation Universe",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdl9zblRTZFhzMFNIcVp6LXdHa2xzMzVxVTF0bGFXb2Eya0EweTRPaEZld2VfWmtOa0REd2RUTlpnWDJxTVhmX1JQZWZWaERhR0Y3bkRxQkZiUmFjX1BRbVZqTDVic19xRGx0LVdrVUtKTnZHRmlzbmdCZTRvVEdZbzBwYmRlVmpXMlRoS0xMOTZ5N25lVjJtU2JfNk5JSEFLbkVwbXVkQUFadzhnUFpldkZ0bEJBVmx5eDdVbVE5THJzd1h4SlE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

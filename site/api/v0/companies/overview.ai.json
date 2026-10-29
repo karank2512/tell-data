@@ -1,13 +1,13 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 3.5,
+  "score": 3.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "RPG Action-Adventure Kitaria Fables 2 Releases New Overview Trailer! - GameGrin",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS00zMUdtRGJuQmswaFFBMGtJU2NFS3FhR2JFN04yYWNzaExWcmFSbXVTRnhkMlMxQVR3VnBKT0Q5UUd6cjQ2enhMT21ORDJfaE9telZES040STBPQkRYYVBPTWp1WkhZd2hlVi13NkN5bFNhaURyVFFISE5YTk9PaWgyRUxYUUtTQjBwVlN4cUI3T3k5TThndkw3NXh6NTA?oc=5"
@@ -46,7 +46,7 @@
     }
   ],
   "open_postings": 63,
-  "long_open_roles": 27,
+  "long_open_roles": 28,
   "sources": {
     "ats": "ashby:overview",
     "edgar_cik": null,

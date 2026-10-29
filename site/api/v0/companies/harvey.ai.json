@@ -1,13 +1,13 @@
 {
   "domain": "harvey.ai",
   "name": "Harvey AI",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 21.7,
+  "score": 22.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.6,
+      "contribution": 16.5,
       "occurred_at": "2026-09-11",
       "summary": "Form D: indefinite offering, $550,299,446 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1974654/000197465426000003/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-22",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/harvey",
@@ -34,6 +34,36 @@
           "title": "Manager, Customer Experience, APAC",
           "posted_at": "2026-10-22",
           "url": "https://jobs.ashbyhq.com/harvey/e697261d-8322-4fab-a479-fd042bf64793"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "product_design",
+      "contribution": 1.2,
+      "occurred_at": "2026-10-29",
+      "summary": "4 new product design roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/harvey",
+      "postings": [
+        {
+          "title": "Senior Product Manager, Admin",
+          "posted_at": "2026-10-27",
+          "url": "https://jobs.ashbyhq.com/harvey/7a3b9337-ac67-4255-8db5-08bb3d57541e"
+        },
+        {
+          "title": "Senior Product Manager, Embedded Experiences",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/harvey/bc94becd-102e-49a1-abdc-5ce42076a68d"
+        },
+        {
+          "title": "API Product Lead",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/harvey/310cde20-2456-4132-a3eb-b5d80e691ed5"
+        },
+        {
+          "title": "API Product Lead",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/harvey/5f3959e4-8d36-4e3f-b6f4-2ee248a4f1d6"
         }
       ]
     },
@@ -70,7 +100,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-22",
       "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/harvey",
@@ -118,7 +148,7 @@
       ]
     }
   ],
-  "open_postings": 371,
+  "open_postings": 372,
   "long_open_roles": 113,
   "sources": {
     "ats": "ashby:harvey",

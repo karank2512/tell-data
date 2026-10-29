@@ -1,10 +1,17 @@
 {
   "domain": "pacific.space",
   "name": "Pacific",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 5.0,
+  "score": 8.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-29",
+      "summary": "News | Oxford Properties appoints head of Europe and [person]",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWVkeTBrRGR1dUpnUWN1S3lwOHJ4dTN6VEhnX3JfQjUyYWRDeEF1eUlfQ1pBNGc5RW1pYloxcWk4cGM3Y1dxckU2cmlzQ1otamNnNFRWdEhJS2pNU1daLWNRbGhDc2M1TkNYUEM2NW9Ca2dtSTNxa0M5cU9OZ1ZvY0dKVjZ6TjdlZVZJYmxsNnFBOWFyQ2F1Q2k2OTlnZw?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -18,6 +25,13 @@
       "occurred_at": "2026-10-20",
       "summary": "Disney Appoints [person] As Asia Pacific President Following Luke Kang’s Retirement",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWERyQlpVbjdFbFFaSGVmNXdsbE8yZTIxUks4b2E1QW5HRGE5LVlfRkxvY1NuOHBiSVlBVmNfT2xXcFdnZUg1czNEMnl4ejVaQ1dfVnNKU0xFRzlrWGxrUFcwRmJnbGNDV0dIdklqbzJfM3J4TFAwWm5EYXd0bmxrLWhFODh5VEhT?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-23",
+      "summary": "Introducing VCT Pacific Partnered Teams for 2027 and Beyond - VALORANT Esports",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmlTQmRzQ1BmVm54OWRoQzY4ZUc4c3pUR0ZfRzVtdVg1TVZncGszWngwNDFSRGstY1I1QThUdXZCaDR5TExkeHBsOHYwYVAyTlV6cy16X2xVWlk1LTYyZkNuX1FBZlFNeG1XZ29QV3FEdnJJODlLTnNNUmRCUnFqZFlNRHNsMU5pSDhsanRwRzBnYWR3ZVh3dXFkX3FFam8?oc=5"
     },
     {
       "type": "launch",

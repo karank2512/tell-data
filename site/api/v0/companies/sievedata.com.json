@@ -1,7 +1,7 @@
 {
   "domain": "sievedata.com",
   "name": "Sieve",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
   "score": 0.9,
   "contributions": [
@@ -31,7 +31,7 @@
       ]
     }
   ],
-  "open_postings": 12,
+  "open_postings": 15,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:sieve",

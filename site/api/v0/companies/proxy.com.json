@@ -1,9 +1,9 @@
 {
   "domain": "proxy.com",
   "name": "Proxy",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 10.2,
+  "score": 10.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "Percona launches Valkey-proxy to ease Redis migration - ChannelLife New Zealand",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMDk0QmltOE1LeFF6c2tOS3BnMWVwMHUyZkxxNjY0QnotQjdmM3R6T3F6aEhFb0tnajh3eDVrdHJOZG5VR1RJSUpTVUhIWl83NUdLSEZhcTh0SDVSSDRvY29ua1dCcEl0c3UtZGJ5OFN0Q0JRWW4tSWF0ZDdDN0pHTF95WkN4dFFiWmJfUVFn?oc=5"

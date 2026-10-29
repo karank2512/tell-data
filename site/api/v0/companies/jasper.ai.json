@@ -1,20 +1,20 @@
 {
   "domain": "jasper.ai",
   "name": "Jasper.ai",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 17.9,
+  "score": 17.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.9,
+      "contribution": 17.8,
       "occurred_at": "2026-09-21",
       "summary": "Form D: indefinite offering, $0 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2141961/000214196126000003/"
     }
   ],
   "open_postings": 9,
-  "long_open_roles": 0,
+  "long_open_roles": 1,
   "sources": {
     "ats": "ashby:Jasper AI",
     "edgar_cik": null,

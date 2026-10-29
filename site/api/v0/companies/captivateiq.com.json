@@ -1,0 +1,25 @@
+{
+  "domain": "captivateiq.com",
+  "name": "CaptivateIQ",
+  "as_of": "2026-10-29",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-23",
+      "summary": "CaptivateIQ Introduces Trusted AI Agents for Sales Incentive Planning - MarTech Cube",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1dkcnlxdFNQcUlpMzNEWTBqZkZlQUxYV3BHdUlvQnI4cV9JSUdPMWNscnFjcjBXeGFBLWxIbzlXa2VpTDE4bzJiNHNVWVV1N1NSQVR2RXl6VDZmQ0NvUW1ZV2FwSk9QN3hJb2s4ZlpJaThLaUh4UUR1MnJJNEFSY2xyc252eUJPWW1iSzFmeVhmQnl1ZUU4cEM5VjB6Q0U?oc=5"
+    }
+  ],
+  "open_postings": 25,
+  "long_open_roles": 11,
+  "sources": {
+    "ats": "lever:captivateiq",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

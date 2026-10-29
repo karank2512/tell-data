@@ -1,10 +1,17 @@
 {
   "domain": "cueup.com",
   "name": "Cue",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 3.9,
+  "score": 5.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "ElevenLabs unveils Cue for character-level audio timing - Blockchain News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0FjN2tlakZBR3djOFhUSHU5VW84UFBTOWJVT2hOQmswbGpDeldzdmx4VFprWW9zc0JUby1iOUNLOTBiNV9kNjFZX0gyOXpnNUhfYXV3cmE5Skx6YlNNMDI0WkZQRjdxekdPRlFDWEZjR0FkSjRFcDVHRVRRRVV1Rm5qLUpMWUxqcHppVWh1cnpRY3M?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

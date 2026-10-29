@@ -1,14 +1,14 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-23",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/benchling",
@@ -32,7 +32,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-21",
       "summary": "Benchling Launches Direct Data Share with Snowflake for Biotech R&D - HPCwire",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObW9CNVp2V05CRFdoVThhNzZYVnVQemhBLTUwNlJhdnJoV05IcnNtSjhIelJUd05yU192WmUzQTdiX2kzU3RYQ3VIWnVFbml1SngyWWdHY1diTDZYRlF5Ykw3TTZ3ekxBT0xfTy04S3JEdEl0cEFjSDBuN0lfazY0NUZITlVURFZsa2JvT1EzUTcza2lxSV9zcFE3SGdtWnRTdDhoSXRlWUYtYmJqZ0JHeWozZG1jb0U?oc=5"
@@ -87,7 +87,7 @@
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
-  "open_postings": 58,
+  "open_postings": 60,
   "long_open_roles": 11,
   "sources": {
     "ats": "ashby:benchling",

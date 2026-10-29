@@ -1,9 +1,9 @@
 {
   "domain": "permutive.com",
   "name": "Permutive",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 0.9,
+  "score": 0.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,14 +14,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-05-08",
       "summary": "Permutive Appoints [person] Chief Eileen Kiernan to Board of Directors",
       "url": "https://permutive.com/eileen-kiernan-appointed-to-board-of-directors"
     }
   ],
-  "open_postings": 1,
-  "long_open_roles": 1,
+  "open_postings": 0,
+  "long_open_roles": 0,
   "sources": {
     "ats": "ashby:permutive",
     "edgar_cik": null,

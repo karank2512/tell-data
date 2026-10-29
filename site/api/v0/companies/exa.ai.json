@@ -1,16 +1,36 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 35.9,
+  "score": 37.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 25.2,
+      "contribution": 25.0,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-29",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/exa",
+      "postings": [
+        {
+          "title": "Forward Deployed Engineer, India",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/exa/89efced9-7799-459b-997c-a8a3df5780c4"
+        },
+        {
+          "title": "Solutions Architect, SF",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/exa/0059f617-4744-4a47-b4dd-0a63065864a8"
+        }
+      ]
     },
     {
       "type": "launch",
@@ -28,21 +48,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "ZoomInfo Launches Native Integration With Exa - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWQ0a21vbzZUamxiTGJiOE5BTXFxbWlPbTYtT0VxYTJhN1pzYzI5TDVndlZJbzBaNUtJZV9BNHM2OWM0UVlOUl8zUWNtQnRPYTZaZ0RHZDFOUWFmSWkzNjE5bmVOcElPcVFjSlhfYWR5NGNUNUVBZjc0RGlWWE5aRHJ6VEowOWlxSTRocjZPbWxhcEtYSFNWS2NFUXltMnc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "ZoomInfo Launches Native Integration With Exa - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXFoQzdQMjZPRU9Wb1VmQW9XUG5ENVJBd3lpRnpUREpWaFZjaDJsNVhOOVZOTkk3RlkySG5ZdXFoRGNrTkl3VDdoLWFhUVRqNlRLT1pScGN2cmxYOVIyY2FjZUttdzVWOF9SSk95cEpCekNNSlFlQmNzMDlSa0ZlLWpVcFdwaVlNRkdScklGQjh5dDlkSEo3VWZVUGM0WmJ4VmRSUmw2WQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "ZoomInfo Launches Native Integration With Exa Through GTM.AI - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGNNQ1RnYUNiNWcyQ3B3bk5RRmhLQy1pemZnWk1vS2Rnblh0YlRtVkhKNGFycVJMY1JWREZhNGgxZHlZUm1XRXFKb19xcDVmbjJEVzIzR0VzZ0JERnB0eExaTnRDWFhDTjVrSXl0TXA1eVhsd0g3cUFiRXRMaElFVmR0cjdkY2dhRG40ZEJTYmZscEViQ082amRrOW9mcURmM3hld05iTnNfZTNVR09nQWlsOFgzOG5x?oc=5"
@@ -70,7 +90,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.6,
       "occurred_at": "2026-08-27",
       "summary": "EXA Infrastructure unveils new Barcelona-Bilbao route - Mobile Europe",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ldDN3Tl9ONnZ0QTZ1eENvUnJaeHotLUtnVjJGaGl4MC1oRGU4WjRfU0ozbGdwdU1wM3lCWGRGZEZfNF9qcndrX1F0ZkFCdy1HMWVhd3NqYTI3OHVwUHpFaU1EVURmU1FpMTMzTg?oc=5"
@@ -84,7 +104,7 @@
     }
   ],
   "open_postings": 55,
-  "long_open_roles": 24,
+  "long_open_roles": 29,
   "sources": {
     "ats": "ashby:exa",
     "edgar_cik": "0002024864",

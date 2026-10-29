@@ -1,0 +1,553 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "podium81",
+ "domain": "podium.com",
+ "as_of": "2026-10-29",
+ "last_polled_at": "2026-10-29T15:24:43.267942+00:00",
+ "open_postings": [
+  {
+   "external_id": "2101292",
+   "title": "Account Executive - AI Software Sales",
+   "role_family": "sales",
+   "location": "Melbourne, Australia",
+   "posted_at": "2025-10-08T03:36:20+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/2101292"
+  },
+  {
+   "external_id": "5588072",
+   "title": "Sales Development Representative (In-Office Lehi, Utah)",
+   "role_family": "sales",
+   "location": "Lehi, Utah",
+   "posted_at": "2024-01-03T18:37:29+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/5588072"
+  },
+  {
+   "external_id": "5588133",
+   "title": "Sales Development Representative (In-Office Lahore, Pakistan)",
+   "role_family": "sales",
+   "location": "Lahore, Pakistan",
+   "posted_at": "2024-01-02T16:46:43+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/5588133"
+  },
+  {
+   "external_id": "5670478",
+   "title": "Accounts Receivable Specialist",
+   "role_family": "other",
+   "location": "Lehi, Utah",
+   "posted_at": "2024-02-03T00:16:01+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/5670478"
+  },
+  {
+   "external_id": "6050943",
+   "title": "Sales Development Representative (In-Office Islamabad, Pakistan)",
+   "role_family": "sales",
+   "location": "Islamabad, Pakistan",
+   "posted_at": "2024-07-09T23:23:32+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/6050943"
+  },
+  {
+   "external_id": "6447143",
+   "title": "Associate Sales Development Representative (In-Office Islamabad, Pakistan)",
+   "role_family": "sales",
+   "location": "Islamabad, Pakistan",
+   "posted_at": "2026-05-05T01:13:26+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/6447143"
+  },
+  {
+   "external_id": "6447162",
+   "title": "Associate Sales Development Representative (In-Office Lahore, Pakistan)",
+   "role_family": "sales",
+   "location": "Lahore, Pakistan",
+   "posted_at": "2026-05-22T18:12:09+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/6447162"
+  },
+  {
+   "external_id": "6447645",
+   "title": "Product Support Specialist (Guatemala)",
+   "role_family": "customer",
+   "location": "Guatemala, Guatemala",
+   "posted_at": "2024-12-10T22:09:23+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/6447645"
+  },
+  {
+   "external_id": "6449871",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": "Guatemala, Guatemala",
+   "posted_at": "2024-12-10T21:43:56+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/6449871"
+  },
+  {
+   "external_id": "6462897",
+   "title": "Customer Onboarding Manager",
+   "role_family": "customer",
+   "location": "Guatemala, Guatemala",
+   "posted_at": "2024-12-10T22:26:22+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/6462897"
+  },
+  {
+   "external_id": "6507823",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Melbourne, Australia",
+   "posted_at": "2025-06-26T06:10:32+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/6507823"
+  },
+  {
+   "external_id": "6637207",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Lehi, Utah",
+   "posted_at": "2025-02-19T18:21:32+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/6637207"
+  },
+  {
+   "external_id": "7129220",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Lehi, Utah, Open to Remote",
+   "posted_at": "2025-08-04T21:38:37+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7129220"
+  },
+  {
+   "external_id": "7243261",
+   "title": "Senior AI Engineer - Agentic",
+   "role_family": "ml_ai",
+   "location": "Lehi, Utah, Open to Remote",
+   "posted_at": "2025-09-11T17:09:17+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7243261"
+  },
+  {
+   "external_id": "7367363",
+   "title": "Staff AI Engineer - USA",
+   "role_family": "ml_ai",
+   "location": "Lehi, Utah, Open to Remote",
+   "posted_at": "2025-12-22T17:32:00+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7367363"
+  },
+  {
+   "external_id": "7490572",
+   "title": "Staff AI Engineer - Utah",
+   "role_family": "ml_ai",
+   "location": "Lehi, Utah",
+   "posted_at": "2025-12-22T17:28:59+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7490572"
+  },
+  {
+   "external_id": "7528142",
+   "title": "AI Customer Success Manager - SMB",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-01-09T22:31:01+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7528142"
+  },
+  {
+   "external_id": "7542672",
+   "title": "AI Enterprise Customer Success Manager",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-01-15T18:51:05+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7542672"
+  },
+  {
+   "external_id": "7557676",
+   "title": "AI Onboarding Specialist - Automotive",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-01-22T16:50:58+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7557676"
+  },
+  {
+   "external_id": "7597038",
+   "title": "AI Onboarding Specialist",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-02-06T23:15:30+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7597038"
+  },
+  {
+   "external_id": "7612056",
+   "title": "Sales Manager - SMB AEs",
+   "role_family": "sales",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-02-12T19:35:23+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7612056"
+  },
+  {
+   "external_id": "7654693",
+   "title": "AI Onboarding Specialist - Medspa",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-02-25T17:29:12+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7654693"
+  },
+  {
+   "external_id": "7654696",
+   "title": "AI Onboarding Specialist - Home Services",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-02-25T17:30:11+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7654696"
+  },
+  {
+   "external_id": "7798018",
+   "title": "Regional Customer Success Manager (Automotive)",
+   "role_family": "customer",
+   "location": "Remote, US",
+   "posted_at": "2026-04-09T14:50:22+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7798018"
+  },
+  {
+   "external_id": "7798020",
+   "title": "Regional Customer Success Manager (Automotive)",
+   "role_family": "customer",
+   "location": "Remote, US",
+   "posted_at": "2026-04-09T14:50:46+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7798020"
+  },
+  {
+   "external_id": "7861956",
+   "title": "VP, Enterprise Sales",
+   "role_family": "sales",
+   "location": "Lehi, Utah, Open to Remote",
+   "posted_at": "2026-05-04T21:21:31+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7861956"
+  },
+  {
+   "external_id": "7940221",
+   "title": "Sales Recruiter",
+   "role_family": "finance_ops",
+   "location": "Guatemala, Guatemala",
+   "posted_at": "2026-05-19T22:34:24+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7940221"
+  },
+  {
+   "external_id": "7944129",
+   "title": "Product Support Specialist",
+   "role_family": "customer",
+   "location": "Lahore, Pakistan",
+   "posted_at": "2026-05-19T22:15:41+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7944129"
+  },
+  {
+   "external_id": "7974582",
+   "title": "Senior Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-06-01T22:54:25+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/7974582"
+  },
+  {
+   "external_id": "8002107",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Guatemala, Guatemala",
+   "posted_at": "2026-06-18T20:25:54+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8002107"
+  },
+  {
+   "external_id": "8018851",
+   "title": "Director, Talent Acquisition",
+   "role_family": "finance_ops",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-06-22T21:58:20+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8018851"
+  },
+  {
+   "external_id": "8018927",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "Lehi, Utah; Remote, US",
+   "posted_at": "2026-06-22T14:16:02+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8018927"
+  },
+  {
+   "external_id": "8063639",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": null,
+   "posted_at": "2026-07-14T04:52:32+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8063639"
+  },
+  {
+   "external_id": "8074532",
+   "title": "Corporate Recruiter",
+   "role_family": "finance_ops",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-07-20T15:21:01+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8074532"
+  },
+  {
+   "external_id": "8077450",
+   "title": "Senior Software Engineer – VoIP",
+   "role_family": "engineering",
+   "location": "Lehi, Utah, Open to Remote",
+   "posted_at": "2026-07-21T18:00:38+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8077450"
+  },
+  {
+   "external_id": "8113092",
+   "title": "Director of Communications & Brand",
+   "role_family": "marketing",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-08-06T21:43:55+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8113092"
+  },
+  {
+   "external_id": "8120512",
+   "title": "Corporate Recruiter",
+   "role_family": "finance_ops",
+   "location": "Guatemala, Guatemala",
+   "posted_at": "2026-08-11T19:56:31+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8120512"
+  },
+  {
+   "external_id": "8157904",
+   "title": "Chief of Staff - Sales",
+   "role_family": "finance_ops",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-08-25T22:30:26+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8157904"
+  },
+  {
+   "external_id": "8165175",
+   "title": "VP of Sales",
+   "role_family": "exec",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-08-28T22:13:02+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8165175"
+  },
+  {
+   "external_id": "8172144",
+   "title": "Technical Support Engineer",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-09-01T21:55:07+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8172144"
+  },
+  {
+   "external_id": "8186916",
+   "title": "Senior Corporate Recruiter",
+   "role_family": "finance_ops",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-09-08T20:03:36+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8186916"
+  },
+  {
+   "external_id": "8192812",
+   "title": "AI Product Support Specialist",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-09-10T21:01:32+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8192812"
+  },
+  {
+   "external_id": "8194446",
+   "title": "Director of Demand Marketing",
+   "role_family": "marketing",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-09-11T17:51:56+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8194446"
+  },
+  {
+   "external_id": "8197489",
+   "title": "Software Engineer - GTM",
+   "role_family": "engineering",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-09-11T22:42:09+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8197489"
+  },
+  {
+   "external_id": "8204711",
+   "title": "Product Manager - GTM",
+   "role_family": "product_design",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-09-17T00:51:21+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8204711"
+  },
+  {
+   "external_id": "8209762",
+   "title": "Senior Director of Engineering, AI Agents",
+   "role_family": "exec",
+   "location": "Lehi, Utah, Open to Remote; Remote, US",
+   "posted_at": "2026-09-18T15:15:05+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8209762"
+  },
+  {
+   "external_id": "8214820",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Remote, Brazil",
+   "posted_at": "2026-09-21T16:39:08+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8214820"
+  },
+  {
+   "external_id": "8219604",
+   "title": "Customer Success Manager - SMB",
+   "role_family": "customer",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-10-21T23:19:58+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8219604"
+  },
+  {
+   "external_id": "8240075",
+   "title": "Senior Software Engineer - GTM",
+   "role_family": "engineering",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-09-30T00:09:32+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8240075"
+  },
+  {
+   "external_id": "8243091",
+   "title": "Regional Customer Success Manager (Automotive)",
+   "role_family": "customer",
+   "location": "Remote, US",
+   "posted_at": "2026-09-30T14:55:13+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8243091"
+  },
+  {
+   "external_id": "8248693",
+   "title": "Sales Development Representative - Automotive",
+   "role_family": "sales",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-10-02T06:59:41+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8248693"
+  },
+  {
+   "external_id": "8260073",
+   "title": "Regional Customer Success Manager (Automotive)- CHICAGO",
+   "role_family": "customer",
+   "location": "Remote, US",
+   "posted_at": "2026-10-06T22:22:51+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8260073"
+  },
+  {
+   "external_id": "8261515",
+   "title": "Integration Support Engineer",
+   "role_family": "customer",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-10-12T19:36:20+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8261515"
+  },
+  {
+   "external_id": "8265852",
+   "title": "Recruiting Coordinator",
+   "role_family": "gtm_ops",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-10-09T18:52:18+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8265852"
+  },
+  {
+   "external_id": "8275401",
+   "title": "IT Helpdesk Technician",
+   "role_family": "other",
+   "location": "Guatemala, Guatemala",
+   "posted_at": "2026-10-12T22:58:37+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8275401"
+  },
+  {
+   "external_id": "8279048",
+   "title": "Tech Lead, Site Reliability",
+   "role_family": "engineering",
+   "location": "Lehi, Utah, Open to Remote",
+   "posted_at": "2026-10-13T22:47:44+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8279048"
+  },
+  {
+   "external_id": "8280074",
+   "title": "Account Executive - Lehi, Utah",
+   "role_family": "sales",
+   "location": "Lehi, Utah",
+   "posted_at": "2026-10-14T03:43:32+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8280074"
+  },
+  {
+   "external_id": "8283830",
+   "title": "Manager, Customer Success",
+   "role_family": "customer",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-10-15T21:42:21+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8283830"
+  },
+  {
+   "external_id": "8299829",
+   "title": "Manager, Support & Operations",
+   "role_family": "customer",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-10-23T03:06:25+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8299829"
+  },
+  {
+   "external_id": "8305238",
+   "title": "Product Manager - Automotive & AI Products",
+   "role_family": "product_design",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-10-21T06:01:11+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8305238"
+  },
+  {
+   "external_id": "8315210",
+   "title": "Senior Manager, Enterprise AI solutions - Automotive",
+   "role_family": "customer",
+   "location": "Lehi, Utah, Open to Remote",
+   "posted_at": "2026-10-22T22:46:38+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8315210"
+  },
+  {
+   "external_id": "8318838",
+   "title": "Data Migration Specialist (Temporary Contract)",
+   "role_family": "engineering",
+   "location": "Guatemala, Guatemala",
+   "posted_at": "2026-10-26T16:51:21+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8318838"
+  },
+  {
+   "external_id": "8325144",
+   "title": "Director, Product and Privacy",
+   "role_family": "exec",
+   "location": "Lehi, Utah, Open to Remote",
+   "posted_at": "2026-10-27T20:04:27+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8325144"
+  },
+  {
+   "external_id": "8326566",
+   "title": "Project Manager - Automotive",
+   "role_family": "customer",
+   "location": "Melbourne, Australia",
+   "posted_at": "2026-10-27T05:17:38+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8326566"
+  },
+  {
+   "external_id": "8333063",
+   "title": "Account Executive - Phoenix, AZ",
+   "role_family": "sales",
+   "location": "Phoenix, Arizona",
+   "posted_at": "2026-10-29T04:31:38+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8333063"
+  },
+  {
+   "external_id": "8333068",
+   "title": "Account Executive - Dallas, TX",
+   "role_family": "sales",
+   "location": "Dallas, Texas",
+   "posted_at": "2026-10-29T04:31:51+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8333068"
+  },
+  {
+   "external_id": "8333072",
+   "title": "Account Executive - Austin, TX",
+   "role_family": "sales",
+   "location": "Austin, Texas",
+   "posted_at": "2026-10-29T04:32:02+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8333072"
+  },
+  {
+   "external_id": "8333075",
+   "title": "Account Executive - Atlanta, GA",
+   "role_family": "sales",
+   "location": "Atlanta, Georgia",
+   "posted_at": "2026-10-29T04:32:12+00:00",
+   "url": "https://job-boards.greenhouse.io/podium81/jobs/8333075"
+  }
+ ]
+}

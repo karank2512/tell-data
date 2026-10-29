@@ -1,19 +1,19 @@
 {
   "domain": "theathletic.com",
   "name": "The Athletic",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 1.4,
+  "score": 1.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Lunchbreak: The Athletic Rolls Out ‘Big Board’ Before NFL Trade Deadline - Minnesota Vikings",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmhnQXpZRTVSaGZJMEFZU1Y0ckZVaXFQNnlOcXJNQUxRZjF6M3N4bG1ZYmM5NDFUd1dfRHhpVGNaYVRtcVVzUWF6VExNRTZWLXlHQzJlaG1QaGRpSXM5eV9UNWtoSUJqUjREYl9hVU5RWmQzY3NyQ2QtU2Z2dXo5NFZWbGVlVnFOLXVKWTJKNEl2SFdhaWc?oc=5"
     }
   ],
-  "open_postings": 14,
+  "open_postings": 13,
   "long_open_roles": 2,
   "sources": {
     "ats": "lever:theathletic",

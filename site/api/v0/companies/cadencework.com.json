@@ -1,55 +1,97 @@
 {
   "domain": "cadencework.com",
   "name": "Cadence",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 30.3,
+  "score": 38.4,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Cadence Launches Maestro AI Models for Chip and System Design - www.embedded.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb1dJRzRNbGRlV25xY2RmTExSVElWSW13dXZrUTJJWjFUcFlCWkxYWTNrbktLRklSeUJadWRfcG1GWnlNUnM1S2QzUjVsRlhjQmNkZzB6cUgwTWRZb0N5V1U4YXZQNzBzaGQwVkVTbmt5S2VRR1hFTFBPNkFWQnMyRkpBaGJPY0l0Skw1RTVHNA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Cadence unveils Nvidia-powered AI data center in Munich, Germany - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalZIclZtZzhOdnlLbVdQRHlldkFKcU04SWV5V3F2ZHlYN0dYSVlmaTFkcHhuWEx5MDlObFpRTzVuN29lRjdnVmtqN3NhclgtTkpGNEFWLXVjeHBmWS1HaE1QUFBwQXpBZ2dGZXk2cDFoT3NZbll0ZHpNbEJ4T1VkZlhwcWRubEpKODlZdS1JcUZWSTl2eHdUdXREemoxWkROY09iWFh2bXlWWGs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Cadence unveils suite of AI models that chipmakers can run in-house - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVdHSC1rQ29hTm9Ic0tzNjc0bEpzTllLYk1PZW1XZTJFTko2Y0g3WHo5RmptQVlPNUJlX3pCbzg0SjlMd1J1RUNhSjBSdmhqMVp2bE5USGF4cWNLN3JvczVTb2lVdWZJWl8xT2IwVjkwSGs4dUNvcTVCbV9WUDIwYUJYcEtvQmNBcFBBbTNJWWdjbklHS1dJcnV1MzdiMWQxR201Smt2ZzBneWhoVEtNMkVZeHpZN0JkMG12aDJGVEx2S3ZUYkJtYkdRVXZSa1FHLUVn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-26",
+      "summary": "Cadence launches AI model portfolio for chip design automation - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0hkX0dmMnNIb2ZPQXZ2c1JzZkdsZUdXRHdmUzBBRVFZWmkzeUU1R0d5TFdmU3Q4UDRrMldjd3VUekhfdm42VXh1eVp3RE92cDJXaFBSREx1LXNPT3NJRzFUbHVwblFHeVdOdHhlS0s2VWNzUmV4OHpvcWJsd0FLa3k2TTY3Q1llYjhYdmdmazBIV2IzR0w3STBEdGhvWUFfdUFzNzBVQnpMVWdsYVQ2b1NYeTZaTmpMRExZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Cadence unveils Maestro AI models for chip design — Channel NewsAsia - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRllybE1PbVBnSjRpRXYybmRwdWpJbks3U055bi1POUE4aE5fOXBuOElKMG9DSVZHTHpKSWpHaVJfaU9QbDQtMkFmZkdFb0FlcllGUUViZ0lsUDRfYU1UWTBjQktjV2hxMzNpcWJINDJJNVVXV1k4NHpOQU5xbnRYQ0Z2cjI2aDh4aDB3RmJEa05WZE9oSXJPSjFDbnMzb3U0dDlyczEycHp6OVRl?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Cadence Design Systems Introduces Maestro AI Model Portfolio - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmJEdTk4UXM1bzZZdzZMVzhCQUtZZVdrWWpzR0pDdVVCMXFlNzE2WHc5TktGS1UyTmJsQXBGazFqcXVzUWZZci00SVRaLWdQWTFsSGRyNHpwNVVjMVRQMURIVmNwYkd0SUZiMTk4ejNOeWVQc2g4c19zVW9UU1pjSGpvSkpZVFBzOWUzRU5CSjRCQnA2SGVzRWpUVWF1ZHRpalByREpGNkU3SG1CQkQxNGtJUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNklOVk5SZnMxYlZpY3AtbkJteWJBS3QxMFhWNUFzNzRQelZhTGhzVFpuQm9oMHZkQjU2Q0hib2djOGQwRTZIZWxVcFdhWUZMQUo2NWpfdk8zZW56RElOTVIzQUdGaW1qeTk5UmlRVF9SY1ZsVTRLckZ6N1dyMldvTnlYOGpJcjNkMFFkTnBsYWgwZ3dOUDNnVFd0UUZFOVJmNi1lR0ZmdXVZTjZWZ0JyNDBwdVdleGh4aWNsRjNPMlh4ZmRpcE5CUldTaE5rMU1wdEwydEFieFZ5TzZaaF9JZkxYWVZSNk9JR2ZtRmZmdHh2bloxLXRn0gHwAUFVX3lxTE1ZbnM2Q2dDSzVFRkVscmZ0bGwzTlg0YXNyTUJrTTVhMEM1SEh0S1UtUkV3UldvRlB0QWpyQU40NHNJTm0xNGlwMmhhVWI0RUJLbkpSR0VFdHNCQVhMOWM0YXc4YUdvdk9CZ1lpamlvLVBhRXNfWHNxZTlJa1o3SkJNOGtiQWh5MWlicW9VRXpaeDNKenVmVjNpYkpfdG5JRkVjeHBudk83U2NuSnpKYnhpcFRnUzNKeE42WHRwbnc4dXhBMDRYNXV2TW9QV0xsV0ZTNi00QzNxcEdsLTlyZXVmQzdscEtSZFcwVFpWLVJVbA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - CNA",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDhtYWF3cEQwUEtIa3NNeUZ1ck1xQzBaTlVRX3NWNTh4X1hZY0tiWURuMGhvSjhxa19WaEJCZW16WC1xaEcwaFVpdnFabDR5VXFCTkx5Z0htWGw1X3AyTWNSOVRnWEZxT0R1UFZLaG51Q3ZpRWxXYUd6MEhyem41dDFkdGN5bktTMVptS2hXZERkbHcwMS1Ob1FrN3VyMzJXNWJHSHF5LXJLRFFoTGkyOVRyR2l1dlU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Cadence launches Maestro AI model portfolio for chip design - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUHduQm8yZXV4UFp4NjJWdEx6V083ellmQUtrUUJ2bXo0S1FLaUFqblVQZzRLVnpDQkxsdFJSZDF6ZzVJNlNNRWptek1LRXozZnJvM29lMWJ4X2JMV3A1ZzRkSTBRNkhndXNjZUVyQ3hKRW5pZ1FaRm0zNkNKUmRUZ2JKNk80bUtHdjlQN1A5czZYSUg2NXl6TmR4LS0yMkFKMDltSXdBV1ZFbTI4NWNFOUxlUk1VZEJ4enc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMjFHdFlXeFc5NFFqOTJWcmxjSXFmN3ByWU1xY3E3UVJzWFRaYlUyNFlVUC0yS09DU3NWVkh1TjV4R1ROT01GemdNdjhCTEROVzhETndtZk1LaVNieU5zczZGdXl6dXBHOVFjbjVzRVdQVmZjMkd3R2RmU1dKZGo3d2NfVmxCNGotRTVXYkUtVkhQaWxqdDVwY01XM3l1MzlPdGNlOWE0V0hFb2hmclRvUld4Y29hMWU5bFU0Yzgtay1Rb0xLdG5UMThZU1lveElSdHJOWUF6YjFDZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Cadence Introduces Maestro, a Domain-Specialized AI Model Portfolio to Revolutionize Agentic Chip and System Design - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVV0TGNXbVZnY3pMYmVuUFI1bVRvOERtX3B5ZDlXQWpYSkhXQVpJVHhKQlVNdHdBRGhpbWF5SHNJZzdnUG9tdHotbWkwWWhna2xyNFNyVmpyT0hYZ2JmQVB5TTB1VHVFWXRZX2ZHNUFjSjBhWl96QnFjcXFycDFDMnZKdzl1NlowQ2hJdEZneEItX1c0LWxWWnU3em1jTUlGLXFUSTFGQlVvcVpjb3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Cadence Unveils Maestro AI Model Portfolio to Advance Agentic Chip and System Design - I-Connect007",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaXJJM2pLcS1JNVNpMnZBZU5DNG1TeFJUMnh2TFlpQjAyc0tYZVpQMEdxQ2NOUHVQZU50VkZBb202X0dvRjBOdGw4WDlYZm9oeUhlYzJObEFfLU0tSjNIQVZuWllZUlNBRUNYbmktNkpVM3RRbHNUNVNzbHRoUDY0bHdSXzV6N3lLcURLTkJKU29TNEZUaG9udlgzYTdEUjNQTE5ZYXdpTHM4T2VWVHczaElCOXkzQ0xFeUY2OXJ1Tkk4NnlXcXdFQ2RTYXNqQlZXbHBZ?oc=5"

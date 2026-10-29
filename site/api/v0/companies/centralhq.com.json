@@ -1,10 +1,24 @@
 {
   "domain": "centralhq.com",
   "name": "Central",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 1.2,
+  "score": 4.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Central Park sex assault: NYPD releases video of suspect as search continues - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTMwQm9KQ2FweE1DNWlydHNqc0Iyb3E4RkxrVlM3RWNhc0tkMkNJbzJ5VVJPWEJvblo4aURyUUtwMFd0SjFka0NLb1VkdVU1bUhzNUxJSWhXcDZaZ3NoZ012Z1czRVRSZkZfbXJZVm5HN0ZxVUpHMFBVZUJQclJ1bFpaOU5uenlidE5hc1NDRmxlYi1uekVuQW90ZWtCeER3dWNRbUwwd0pvQ0x3R3fSAbMBQVVfeXFMUEtiREJ4bnhwOF9PNUlMYkIzZktySmdqcUtGZmlYMEJHU3ZRYnphRXRfcl8zVGZuRXg5VnpZZVFPOTVQUmlzcXlqbGVqbkxXNnY1MXpyMUFWM1RXU2s0bWg5dnRIRnJOb3dVaThfUU5WUC1VSzk1VFdSUUxiVjJzREx5LTFoZ0s5c3hmbGRaU0xJREo3bFZTVDE3UzdHUHhiUXg2blNKVXNQQzBPOG1ZRkNuUnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "NYPD releases new photos of Central Park rape suspect - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUE0ZEYzZnJfYXpzNFZtMjF5ckhFY0F3aUpCOXAtdXZvcmVyZWluWi1JZnlOMHVYc2pXQnBhTFMtNlByUG9KSDZ5TXlEWk9GVDhGNjAzSjZXdWFfV2dtT3NnUGdVOFRJU3lKVEdqb0xzalREU08yRGJiaDJmZDVRT3lEUmtOQWVs?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

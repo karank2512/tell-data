@@ -1,10 +1,17 @@
 {
   "domain": "replicate.com",
   "name": "Replicate",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 1.2,
+  "score": 2.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Hyundai launches Bayon at Rs 9.9 lakh, hopes to replicate Creta’s success - Forbes India",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ0V3b3ZtTzJnTzhwZFJyX3o1M3gyTFQ1UTljX3IwVHU4QWdocGxRc2pMSE1LUS03eFNXT0dybm4zay1HMGRQeUUyU2E4MXp5WU55MHFETXEtX3VuZDZ1a0VENGlKY1hDSzBNT2hjRnhtakQxVVZkeXcwN1dOUHFBalIxc2h0TzhvOFgzLVIyWE13MDV4T1I3cWZJT0tMbC00VWZvcDgzU2N4UF91ajdkZklpbThkX2NLZEZDNTU0OUNLcmtYSEpNcDc4NVV1TlBTY1Z30gHYAUFVX3lxTE84NjdmTlhNcU5zRXRUYVhodkV6Wk5Qa2toOVlvRHRGdXQtOHBSODVlWkJpLWMzYVlFWGVNQXVZQUd5cFhlRFUyenJBZHpYak1leHh5R0dkOWY1MFJKM0F2em5yWUpEd0xZUUlJNEppX0hpRnJfa08xVTh0M01pLW1iUXFqQUhjNTZidlpPLW1KSTdFWVNYNTJSNm9OZHJ5UHFhM1RNVDNsV1ZCRzFzQnlpRjlRQXVhTVJlUHJxR0swYTlPcEM2ZHBwOVc1S09CNWhZdmYzUFpkVA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

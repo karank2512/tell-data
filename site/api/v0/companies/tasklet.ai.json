@@ -1,13 +1,13 @@
 {
   "domain": "tasklet.ai",
   "name": "Tasklet",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 0.5,
+  "score": 0.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-12",
       "summary": "Introducing Memory: Agents that learn & improve over time",
       "url": "https://tasklet.ai/blog/2026-08-12-agent-memory"

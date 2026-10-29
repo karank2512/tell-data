@@ -1,14 +1,14 @@
 {
   "domain": "relativityspace.com",
   "name": "Relativity Space",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-22",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/relativity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-22",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/relativity",
@@ -82,7 +82,7 @@
     }
   ],
   "open_postings": 410,
-  "long_open_roles": 135,
+  "long_open_roles": 137,
   "sources": {
     "ats": "greenhouse:relativity",
     "edgar_cik": null,

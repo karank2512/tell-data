@@ -1,20 +1,55 @@
 {
   "domain": "vessel.dev",
   "name": "Vessel",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 7.9,
+  "score": 15.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Vard launches energy construction vessel for Wind Energy Construction AS - TGS | 4C Offshore",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDJKdWM4Skg4YkR3aGJ6VWVfeEpfTXdXYXUwdFZkTU5EN29UaDMtU1k1eXZvMWNWbEJDRTFBU1RpTDg3bU1EbzhaZlBrQTJqUVpRUXNaZ1NLQ0pENVVWTm5sajJQWE9TWDNXZ1U0RUM5NWRwNHhWaUxoem9TUXFPaGZsZlIxamNLbF9oRlNFVFRDM3pZaDVMbkZpT2w5M2JvSGFGRFRxOEVnVzhtdEh5RzhwWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Vard Launches New Energy Construction Vessel for Norwegian Owner - Marine News Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSkNXdGZDbTlwczJ5R2ItanV6SVNyTmFDSHpha2oyWlA5ZmE1RVJHSERTWllaNTBUa1RvZUFaY1V3WFZKMFRlWFhiNlpXNkFVdFNKdTN2MGhLTVFweDVyNTIzaXYzNlViUTJxcTBhWVFPbDZ3TkNkUEtPdXp2SjBQNGFR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "'Industry’s first’ energy construction vessel launches one year after construction start - Offshore Energy",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEhiYnp1bFVpaG00S1VtWnFCYVNtMVllQmlYUXVFR2lFdEpPUHE0NDNQaGNrNFFFYVVieVg0Vm9EbUxGOHhTanBKMnV3cDNPWllfMFZNTGdaUUZ6ZHdxbjZhX200QlVjN2R6cmhfQWUxeVBFRF9DVndGd2YwdTJzdkRBaVB3V1pFc0lITXFQX2M4VEhqN3BDXzROay16QTVfX2RJanBqSjFDMHVfa0JPZ083VDA0YmlxenVfSEJXVmFyblZRUm1J?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "KISA Unveils First Dedicated Vessel for Maritime Cybersecurity Testing - THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XWDNGOXItc3h6VWZQdnd5alBqMXZLWGhsdnEwMjF3SEFtVVlhSFpaeC1zMEVEcmZnWG53akJTLV9fWHdYS1RRc09WZ2JXUjRTTkZCSmhIaU56Y2pJZHA4TlAySm92WDA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Miros Launches 3D Vessel View For Real-Time Wave Monitoring In WaveSystem - Ocean News & Technology",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWxJZlF1X0lRWlVHeXJhNU5sMVdhWlRMVjJyRlR5cVMwQmpGSkQzaWVLSEFDek9fVGpxR2RoREg5THFWeWRGQTREa3dXZmR1a2J4Q184WDc1Y2djWWVwZjlNYmp2V1dhNzdacklFQUNSMG5QaF9TRmFnOE1femxsMkJSbWRNWG1zR3BYM3laVUZGUnFkSGdMQkMtLXpCZU80Q3JFZEQ0dEpxbmZIb0VhT284b2taQTczM3JtZQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Miros introduces 3D vessel visualization for real-time sea-state monitoring - Brazil Energy Insight",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRkVjUE1IcXI0QVN3dzhwMk1SN1ZGUXNWakhmUDJoVUJUNGZtMUZnUTFWdVI5ajJZS3ZITnlSYzJPZHFTMDZYbXRnYjdXOWU0OGYxR2l1c3hjODNWVXl6cnVvZFJaUlFycWl1THFxbm5lcXUtRWVackNuTkVic21CTk5tQk8tWTNHdXVvRy1TZ3NyTGQ2Ml8zeHdrbG0yV3dNMDRVVVFPXzdxMVZjQ252OXpXRlZiZWFoTEtJ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Miros Launches 3D Vessel View For Sea-State Monitoring - Marine Link",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWHpBNFNRNFoxSUVjMF9scmhTZVdwLVBLWFhGcms4UDhQYUlxcVhIWUVTb19HcVpnbnRBTnljZGFOQUY4TzhNU0JteURuUDBidW5wTnF0NlFheWdnU01CWUQ5ZGV5SW9yMnpIM1lNdjlfRWx2RlpBSlFFLVkzcTNuZjZ3?oc=5"

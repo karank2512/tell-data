@@ -1,9 +1,9 @@
 {
   "domain": "writesonic.com",
   "name": "Writesonic",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 3.2,
+  "score": 3.1,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-06-04",
       "summary": "Introducing Project hub in Writesonic for multi-brand teams",
       "url": "https://writesonic.com/blog/project-hub"

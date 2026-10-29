@@ -1,14 +1,14 @@
 {
   "domain": "canarytechnologies.com",
   "name": "Canary Technologies",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
   "score": 1.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/canarytechnologies",
@@ -27,14 +27,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.5,
       "occurred_at": "2026-08-13",
       "summary": "Introducing Smart Language Translations | Canary",
       "url": "https://webflow.canarytechnologies.com/post/introducing-smart-language-translations-for-contactless-check-in"
     }
   ],
-  "open_postings": 34,
-  "long_open_roles": 10,
+  "open_postings": 29,
+  "long_open_roles": 9,
   "sources": {
     "ats": "lever:canarytechnologies",
     "edgar_cik": null,

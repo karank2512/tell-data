@@ -1,16 +1,44 @@
 {
   "domain": "getcoach.com",
   "name": "COACH",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 2.9,
+  "score": 10.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-27",
+      "summary": "Rowing hires [person] as assistant coach",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUW11WnFsbEUyN1pTb3EwOTFmNDhFdjNaSEhFWnpab1MwWHExcjN0b0tveV95bmRIeVBPMFBOd05fZGE5Vko4Z05UOVdxaHpZYmlYZTNIMXltcDhob2lMblVBNENTVmJsSWN4bDFPemd0TXBfempMWlJkRDhvLTFfbzNZNFV6ZDg2Z21nT3EtX1ZRZw?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-27",
+      "summary": "hires [person]",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQazBXN0l6elBBQzFKNUQ2SzVVWFJnYWpHb2hSM0pGTDNzbW1BWWRPa1FnZ1FMd3lwX2NJUzBWajJ2Um80dS0zZDB6WkM3ZEFVbEZhRUtobFVoVXZGOWZOc29mMUpfeUZUSEw1NldqOEQzNjdzZ2pPVlRHOVBIa1lTRDhvZU1kd3lqTHlIQlpTT1RscDNSQUZaWkVMRmxmblJZY2FGUmdNSEVZaTlvbVpwWmZNdThrR0JmR3dvVVVwZFVXVFNMaV9FcC1vRW14b0QtWlQ0MWljRWh3YlNsNGRfa01pQkI5UQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
+      "occurred_at": "2026-10-22",
+      "summary": "[person] Joins Track and [person] as Assistant Coach - University of California, [person]",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0tSTHhUbDczLWJwVEVjMHRsU3ZwcjFBLVJHOU1QN1Y4SWVyUnlCcWRQU1c4NUhmTGRYMjJqN19IMG9KN01obzhDaXJ5Q3AyWkFDOGJ4XzBSRXU5dldvWDNudEtTUWpvcmZMYmxOWTlnMVBaWDVSb2cxRloyYlpYdFY0aldoTUwycWlqTDFLZEd5MjY0cHlNZTFVdkVzQ2xmajVwd0V0RTZvTXo5QjNZNFE0WlR2UG4xc3lsNHlR?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
       "occurred_at": "2026-10-16",
       "summary": "Former Providence football coach [person] joins Mount Carmel as a volunteer assistant",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWx3ZzVMc05jcW5HZTVVbzJxTHZXSVlnd251ZGJQWWN5ZFNSVVMzS0dIV3VldU5sWEVPYnNrbnFlOENiTnBna1FFLXdWbXowXzh1WGlBYlJfMmlqOWtEZDNVRUowQVhlamQ5NGwtYkgxMEx3cFh2a2duODRNSEFjM3F3U1lnbWFsTlBYNk9NS3RZRkhJQ3FhWmphaVRITy00OVpMNU5NVWtVUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Hometown of legendary Phoenix Suns coach launches campaign to erect statue - AZ Family",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHczbmVpLU41M1RiVVJmSGtwZnNQWERZbDAybHQ1UEtXWWtSbUpFa3BjRFR0Z0t2R1JtZ1J2V09Gc0U3Zy1PSHNyamluSGttX0p0UWRrTGlxc2dwekRoN3ZZSEtMczRZMXZQa0MxVU8xblJaLTQ4ejdqTk40TDM2aHdxWFoxdFAwWWk5SmNMcmhtNXc5OU8tUE8wUEJoSEdrWWh4V1NicmjSAbwBQVVfeXFMUHZqT2tpb3JkbkFIZzljZk5ja1pWaVoyN0M2MTNxYV9XbHh0RTg3MlJpRkQxc3NDeWtRSldKUTVvcE5rd3ZRQTNaTi1mVG03OVVvVVhmNDZDZ1NaR3hpWDVGMjFwSlYwVU1tZkxXREQxMFYxODN6SzBMYzNoWHl6NmJZcTVNYWIxMFJROGxBeVJ2UWN2eU9wdy1NbERWLVY2U3ZpRGpZQXNndEZUcEVza3Q3RDRWQkxUQ0RFWHA?oc=5"
     },
     {
       "type": "launch",

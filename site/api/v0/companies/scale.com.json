@@ -1,13 +1,13 @@
 {
   "domain": "scale.com",
   "name": "Scale AI",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 83.0,
+  "score": 83.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.7,
+      "contribution": 14.6,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
@@ -64,48 +64,55 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "HCLTech launches AI-powered nano GCC to help enterprises scale AI beyond pilots - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXRoM3lWRUpVb2VQLUZ5czVScjlMenlKbEpHbXlaT3BGNE1aV0RubmdNNFY0eTdnYVhodk5BNmVtODk3X2RPSFhmLUpsYzdaZ2g0YkFUZGQybldiZXV4YjQ2eGt2RERrQlpuYlZjdlk2dW0wRnpGUXhzSTZkTzRQM1FRYVMyWEFYMEhlT1dkd3lBalZQajdpck1Pdmc0VFdJOHJRWjZIM3pGQy1Fem54dVhMdC1FRTVNMFVDOTBPekdwdVp10gHEAUFVX3lxTE1pdGgzeVZFSlVvZVAtRnlzNVJyOUx6eUpsSkdteVpPcEY0TVpXRG5uZ000VjR5N2dhWGh2TkE2ZW04OTdfZE9IWGYtSmxjN1pnaDRiQVRkZDJuV2JldXhiNDZ4a3ZERGtCWm5iVmN2WTZ1bTBGekZReHNJNmRPNFAzUVFhUzJYQVgwSGVPV2R3eUFqVlBqN2lyTU92ZzRUV0k4clFaNkgzekZDLUV6bnh1WEx0LUVFNU0wVUM5ME96R3B1WnU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
       "occurred_at": "2026-10-28",
       "summary": "HCLTech Launches AI-Powered Nano Global Capability Centers on AWS to Help Enterprises Scale AI Beyond the Pilot - CXOToday.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSXVYbllfR3VmXy0wU09XbVEyNGtnVUlKczRmTmZBbFBYODFmU3lrMDRzeGlpRlVGM290aE9nZ2F0bm5YcHJ2bWpqYjB5cnlReXBIdTBYMFRhV3BJVmNxRmhVNmtDbmRZLWdhTmUwMmtkOHJOSVlmVEdHUUViQXAyWXQwQVVFc2FVdnBhNEdMX0RoQUxqYUV5SHRscHVVY3ZSVEh6X0pPZVVkbU0teE9sSXNmU25DbmdBYlZMeGY1TGFhd2FIQ2dzTHJvMnFNRnFGRGdNUUFEalJtWmZoTkNBRURR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "KaarTech Introduces KEOS to Help Enterprises Scale AI Across Business Operations - Press Trust of India",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVlkWDhlS2o4cHpGYVdrZmlFdW9xemN3bzlKTm1Dem5jMDZKSUVlLXRvNE9GRFA5S1R2bWRYTU56VEFQaWxXZWU0eWR6SzlCX0I5WHB0V1BrZjlud3NieGFBMnRkaGZtWElnNDlJdGdZQzdGYk1rOTMtQWtrVnAwczN3X1YySTJuYnlHX0ZaRWdTYnNGSUo1NXFFQXN5MjV1OVZ6ODRxZzZkSFJhSC1nR1FBcDdtTkpSMkdoX0F2Nk53a0Fh?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Business News | KaarTech Introduces KEOS to Help Enterprises Scale AI Across Business Operations - LatestLY",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSnVNdmdicDlFdklwWElPUUNuallhNjBYbmtkaDdrRFRWTFFxemcySjhtVHBLUVc1OTdlMFJ5eWl1RG9UeHltbzBReEVMNzRHTW94SGlrYmlCblh5R092eld3dGFHNjJhVWw4VjZIcVNuSUYwSmZFcGZlNXBKV0FSN0dBOWNkMUFuanotTmRKUm9hQ2txTGVGMGJFSHcwcW1aM2FfSTVhM08yYUpnZW5xZ1NJaVVrUGo4OGhTaDRRZ05ucGJxcFRhaFdqejdBYzBsU1VfUTNBWHl5UkJX0gHiAUFVX3lxTFBpQl9RRTBWZzZoMmRmYW52dk1ObGxkWExZbFJsWUdzWlRkUnJwb25hQ081dk5DemdwR0x5UnBKeDhQZ1YzdDdrUDJrUjBVNTlLWjIwOXZqWlVqX0N6RTQwcGpHYTFKdTVQckdPY0hUajNKbk84dEJaY3NlSE56U3hrUlg0VTE1anMyRXRESWJjd19IbUp2UXhpLVFYVm8yWlFWSTJRMTRTX0o5M3FMaHlIbE0zc1pLaGwtSXRkMHdCeGtpY3JWcjBZZnJoS2RJUTY2VVo4X0F6d2hVYzFlbTVZaXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "KaarTech Introduces KEOS to Help Enterprises Scale AI Across Business Operations - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcWJLMERHOGdVUnpJLXFxWHRYUTV3OHVwa1FXdWdsdE9PSnczZzNxVDFpQ0Jiai1HQ3lTZnBWLWdlaUpXcHpMV2RocUdRNDVqNEhRLV94M0sxcVhxdmtfYUxMVDRXdmJxY2FmS0FVczU0MFM5LUV5WERxb3RDWnNYWk95S1VMalJ5Q1BIb0ZJVFpSWHlId1lpLUtnSEN0cnhJMEYzSWhHbTBTM2k3SDhCbEoxNWl4X2pManRiX2tXa0JTcEtSOTNTWXZsT1Q0Q3lpbVIxTXBQeGpvTWhwNWFjZzBB0gHiAUFVX3lxTFBxYkswREc4Z1VSekktcXFYdFhRNXc4dXBrUVd1Z2x0T09KdzNnM3FUMWlDQmJqLUdDeVNmcFYtZ2VpSldwekxXZGhxR1E0NWo0SFEtX3gzSzFxWHF2a19hTExUNFd2YnFjYWZLQVVzNTQwUzktRXlYRHFvdENac1haT3lLVUxqUnlDUEhvRklUWlJYeUh3WWktS2dIQ3RyeEkwRjNJaEdtMFMzaTdIOEJsSjE1aXhfakxqdGJfa1drQlNwS1I5M1NZdmxPVDRDeWltUjFNcFB4am9NaHA1YWNnMEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "KaarTech Introduces KEOS to Help Enterprises Scale AI Across Business Operations - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYW1wbkY0T0ZXLS0zLXk4b0ZNUDl5Q0NkeHNMdmdhbE5ldEI4WWZuYnVTdkdaOHlTZTRhTVBUZWQxMDd3UEhjb1BOREpNbnEwTGlMblVQM2UxQnE0Y1V1bTlITG9xM2VkUUNnb0dFRUZaYUJkSkVRLVFQYldnSjJvZnQxVTFFUGZ4QnRyS3JLRFJkd2xjcFBxZFlNZnltWUdaZjM5OWZYUTlzdDduel93RllndngxMDRWRFhvTFVhdTlydVBRLUNR0gHMAUFVX3lxTE16eXBwRzA4bmF1NExuZnJaQ3FCbThraHQ1dTVCZWFfek5JNVJyNjJnamRtMDM5NlZzWE4xUmdZb0o1VlRQemlLQlU0RGFQb1pQVWFGUkY2T21MVk44Q25NWEV6bkVUaVJQV3c2VjQxaVZUT3JNalpyZGlUU2FRanpBd3BjbWx3alZxODJiVU1VXzJSTkJ0Z3E4bjZjd0l5U3hyMGlEVkEzNE9XVmxyc3RtTEw2Y1ZzcU1BeFp2RjdBdVpMQll0YkpFc0FaeA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Scale AI Formally Launches UAE Entity at Dubai AI Festival - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXV1Q2ZjMXpNSmpQcWVYQWtnSTJXbTZGUUQ1MWY4dXZ3VTFFbUZnNjU4T2R3M0R3OXJnMUh1UzY0UUE3YThmUDZmeERkaFh0TzYxdHlreHFzQkpsaURaenhLVzA4VUJhY0dYc2ZEcHRCa3MxV2tHVUlHOUU4NjFVOGRHTS1XUzg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "Swi Compute Launches Nvidia Ai Factories in Europe with First Large-Scale Ai Factory in the Uk - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSU96TVBIUnhYOVFCMGo3ejNSWldQaHhaUUJtaEtSYkMwNG5OUUM1SERhQmEtR0dpZkR5aTczMktjc09yNkFBSk1uak5RSnpqTEhVRjBUYjhuaFlKX3hLYnc0a1dNTmlQSGNyWms4N08xc0lmWWxaZEJXME5Hamk5UGVLdi1Ia3Jvb1lMYUYtSDkyNk55MXJ6Q3ZjNmtTNkNULXhPeUtuUkNUdWw5ZFVZelBOVnoyTVhwUUlwMTlHY284aEluemF2SXVLTkJfN3dpN25WUGoyRW1JWXREWnFPdQ?oc=5"
@@ -133,7 +140,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "LTM Launches BlueVerse ValueMesh to Scale AI Across Oracle Transformations - Machine Maker",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjBwWGI2ZFZSb2dvdnVMazlxNzItYTN0NzNLMW1DN1NLdG1NajNHbTlXMXFPMktkQURHNUhxT194X0JGdzM3Y2NJWG9Eczg3ZTg2LWwybW9nblNIcHhWd21Bc2k1SlcweXY3V3lra2NwR25jMWhGdU50cC1qWnNTVXc3N081Y081SWpYRmM1eFotS3p1VndHbkhDczgzMlVxbVhqcl9tRkQ1VUNK?oc=5"
@@ -287,7 +294,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Astera Labs launches Orion, a modular rack-scale AI inference design - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3NMVG1OXzR5Vkc3U0dManE1OHdySmViRkpfVk4tYVBIaDZpdVRXX3VxU1VGTU5UbHQxSTV0bFVOOE1JQ29sTEkxdjdibkZxOEk5d2dGY0kzMnZacjBlS3YyRmt1M1ZTTzEzMXhOY3N4dkw2eW5WZ1FMc25SS3NSZ0lWNkY1bnIyWkpHV1hVT0FZa2tqRko2dWlVeDFpaEVFbDR4NUxRa194WkZFWUVjSThEcUtBNjZrNFByZTJKbS1YRTdIYnJFaw?oc=5"
@@ -301,14 +308,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-09-29",
       "summary": "Nasdaq Calypso Launches Agentic Capabilities to Scale AI Adoption Across the Trade Lifecycle - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmZEOVVqbXl5cTNLY0V0X1YyTDVYcUlXT01GVGwyUG9qS09OUTVKQXR4UEphV29wN2FFM0pld0JIWjVONVNQUUZ2UGNjLUtQLVluM2xtVGk0OUZiY0NreEhjMmlIcl9YLUlfTEZOR1VNYUtsUWktd2p3VFhWOWNFb09hOWpBaWk2TzVzb0VYRUZwb1JEMFh5dEtXdnE4SFVVYlVHTEtuck50UWlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-21",
       "summary": "Fastly Launches AI Firewall and AI Runtime Control to Secure and Scale AI - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaldTeVAyLVFieTVWOHpzYkRmUEY3Y2hxel80MEZmejg3OWdIei1Mc2t2QUlZUEZ0SXZVVXg1RENDSFQxdWd3RER4V2t5UmExU2RtS3RJMmJtQ0p4ZTJoR2c3QUdnakQtaFQyZktpSkN3by1GVzA2d2x5d1dJX3Zna3o5MlFrWHZNajJWRnNUQWRyVUo0Uy1RS29aeVM0WUNyekZkVTQ4MnduZ3JIR3RGNkRHT1NqMVZNdmRuSUxmaEV6VkJuR0tBYXdB?oc=5"

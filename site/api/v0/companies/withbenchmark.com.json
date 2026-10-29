@@ -1,10 +1,38 @@
 {
   "domain": "withbenchmark.com",
   "name": "Benchmark",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 14.9,
+  "score": 20.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "SecurityScorecard Launches the World’s First TPRM Benchmark to Test Whether AI Can Defend the Supply Chain and Withstand an Attack - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUFc3SWlIRlk4ekRscU0tS255QmNIdnVNdDBHUm5jZUJabkZfZzFISXBxb3dBd2d4WFRRdGk5T01tTC04NnFJZHJ5OU5aWXVOdHBNOXZ3bE9TbFNBZEZSekZyMDI2Qmo1YWxJVGEtbGsyTl9OdElnU0pyQnZ1TG5vSmVzUTJiUURXaFotYmV4TjVhM3pKOTBIeWRjM21PWTcxXzdkclFyYkFBSzJFSVpUYW1qUmZHZHYySWJXcmtxRmJEbmt1dkhxU3d6dldpNV94eU1XaTU1TkNOSXp6c0dvdEt0QXhuQVdJRHpmcXRwcVlxVTRkaXVkdzdGc0RXQ2FobUVuekRmclUtTEM3TUZNMnBoWElTUk1HbW8w?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Goodwin Launches AI Governance Benchmark in Anthropic’s Claude for Legal - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbnM5UnIxaE9wdWhyYnpYVTdBMGt3OU5LYy1uUXMzMG1HSHl0YlNEYXJsLUJFSDlSWUZTdlQ0dUFDLXJCSzYyTzRVU3hXMU1TczNvdWkzZTJjYTI2eHNXdEt2SDRyTmpZTVJmS3FlX1Fud2pETGZOd1NTMWRCVGE2NWZmMFJjTlphcmRzNzViZmxWQTN3UWVDeThPclE1OFdoZ0NEOGYwd3V4cDZsV2xN?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Grasshopper Releases Beyond Small Benchmark Report Revealing High Growth Ambition Among Small Businesses Amid Financial and Operational Pressures - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTYyZlFPNWtSeUx6U09pRF9BbHZuaXozUVgtUXhHeFBkUl9DdDFadmhWYmtvOEFuc0ZfZGRJVXFMTU1GVk5Uc29oYUhrNXZFYUx3Q3Q2THFER2oxYVpoLXZrcXFUQkRNMTRfNW1FT1pRbklfZTVmeEkzbGJ1NTNQSG1mcE1FeHV5Y1htRi1PbkxPNzFWUVRtMER6eHFvNVRlVXpreE1kU1p2dFRZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Climate Action 100+ releases 2026 Benchmark assessments - Climate Action 100+",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVpLbldUT1h1cEdyNGpKMDgyaTBueFl1ZlVwM3FXRktIdHROMEN1OEcxdk5CODR1ZW1zeEsxb3dPVnc3WGZEVG9fVHJpNWV0WGdJY2RhVjRLOHBRam5EQWtQX3g4WHVlMWc0WlVOVnVWNm9ESWxFSUUwdmNZWm90b25sMDBzMjJpLWpKb3EzOEx5VmFTZS1wRA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -77,14 +105,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Northspyre Launches Development Index, a New Monthly Benchmark for U.S. Real Estate Development - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLW45UERGdUFHVGo3MWVYblZRM21fRzJ2Zmp3MU1EQWpia2pFcDB5ZHNhUms4TFFoOVNjUUY1X2Z1M2l6bWFDYWxsZkh5cFlYR202REpRUElTQW1fV1hmY0VjVXFNM2JjOWdYZ0txZFNqWkp0eUdRSm5ENDZ0cmFIRTRMaGp0ZDBCbmF2cm1lZGpMVm9rYi1WNjhrRXlUZFpVNmxsSzJVMG1VQWNsZ3hrVWR6MDRUb09FQnpmUmVFZnZBMG1BcndGYU02RHB3TmFFdHNrZUFBTDZ0TWNGS2pEMlpZYVVCZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Semrush Releases 2026 AI Visibility Index, Revealing Its First UK Benchmark - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUUF2TWpUbTFqcGpWLXZUYXpjckRHeEk1Q1h2UENqVmNNeFVscnF3SlR1V3hHLXNwa2lWLWM4Z0trZ2U5b2VBd0M2T3FDeDBRQngwZWRoM0g1cTFkMk0xTXZDWG8yUUktV2tMM2JDcXBUR1BqRi1hMjdWWk9FWEZGeEtFZE9XZHR2V2lPR1dZcGgxYTdjTjdZeFlYRF9LUG84UGhqTnpiS1FUM2dVNkJlV1RwdXY3bmt2clA0N3FyTU9EREJkVy1GU3dhOA?oc=5"

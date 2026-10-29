@@ -1,9 +1,9 @@
 {
   "domain": "depot.dev",
   "name": "Depot",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-26",
       "summary": "Introducing the Fibonacci Benchmark™ for CI runners",
       "url": "https://depot.dev/blog/the-fibonacci-benchmark"

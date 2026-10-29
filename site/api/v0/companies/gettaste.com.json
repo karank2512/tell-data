@@ -1,0 +1,25 @@
+{
+  "domain": "gettaste.com",
+  "name": "Taste",
+  "as_of": "2026-10-29",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-24",
+      "summary": "'Taste of Israel' free food truck launches tour in US - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWV9DZ25vYzhUUEFHVDhDZGJLaUhjZXdzSTFhVy1LOG01WElxODh1dFdLZlIyZzdTa3JQTVpVRy1kcVBPN2VQZG00RGRuUU96TGt2dnNn?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

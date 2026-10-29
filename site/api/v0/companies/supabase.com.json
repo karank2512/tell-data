@@ -1,7 +1,7 @@
 {
   "domain": "supabase.com",
   "name": "Supabase",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
   "score": 2.8,
   "contributions": [
@@ -58,7 +58,7 @@
     }
   ],
   "open_postings": 64,
-  "long_open_roles": 21,
+  "long_open_roles": 24,
   "sources": {
     "ats": "ashby:supabase",
     "edgar_cik": "0001829334",

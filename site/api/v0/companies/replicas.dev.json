@@ -1,9 +1,9 @@
 {
   "domain": "replicas.dev",
   "name": "Replicas",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.9,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-24",
       "summary": "Introducing Replicas for iOS",
       "url": "https://replicas.dev/blog/replicas-for-ios"

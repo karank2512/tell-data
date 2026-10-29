@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 17.7,
+  "score": 21.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.3,
+      "contribution": 2.2,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -57,6 +57,27 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Stripe Pay Launches Instant Business Transfers in US and UK - FintechNews CH",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDRnUnk3cEhuVWk3eHlzNHcxckdPaTBBdjYtakhvRFRjcE5vY1cyZTNER1lNNGs4bHBLaUZudkJlVlNiWnlza3FMREpxQjlnbFIyTEZHU3VUVFhma2NyMlZuU2NpcGFNaGVGX1BSeWJXUkg5OE9Ya1lyOUpmMVk1d0p3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Stripe Unveils B2B Payments that Mirror the P2P Experience - PaymentsJournal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2swYzg0T29KaG5GZ3dsTkZfSHl3bzN0Yjg3ZFhqMTlxdjk4emloS3FabDA3NTBra2lzRWsxZXg1OEZsQXFwRUY1NElhMGxVamVINEJQdjhia01kSjMtZU5DZzZETUhjNExtdzZ1VzcwOVN0RTZSU3ZnT1NMSElvZ0xYcXY2QVh1OG1aaXFHc2hIZG8yVkHSAZsBQVVfeXFMTjJnOEFxV3lQaTI2OWdZMlZBcjJLU3VsZm1iUWxMVjMwSDA3ZDJvMlFES3dPdVlRQmkxRDl3Wk1iZ21GQWxmUWxkUy1GdGhLOVlyZjNEc3NrLUtDVVFCVlBhQTN3LWQ5SGxyZ243ckstZFNPODhVMHU5S3VwdU1GSFNHbHBiOTIycGZqRVZnY3BWaWYyYlBpU2xoVTg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Stripe launches free instant B2B payments through business handles - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05alhVTF9xUm5waFdxTjBidGdRS2lZeW5NYUNsUGhPX2RRalBxOHg3SWhiLWJDRGFlSFVWNWtZNy0xT09iNG1rcFBRTVFWaHJnMFN2YkRraUhTT2tjMzNZT0F6alhjWTdqUEZyNDhCbmR4TmF2bkNVU3ln?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-23",
       "summary": "Stripe launches Treasury for AI agents - The Paypers",
@@ -64,7 +85,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Stripe Launches Treasury for Agents, Streamlining Startup Finances - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnJkMHJfWHphOEhmNEdVR0lMT3NvZ1VyTXlBTmRUb3U0RUU4UTlGUEtyUVMxMmg3dmpLX2R4R2xrTS1ILUI0QkF0LW1sTDJNRURmdmJzeVA1SmNVaEJMd1lfMlRaNUxSTWl6ZFUwSjVzdkRpRGdEYmZMSExRQVZPZjlJUDZOcnloemw1UU5OMi1YZkxJcDNuYQ?oc=5"
@@ -151,7 +172,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-26",
       "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -176,7 +197,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-16",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -224,8 +245,8 @@
       ]
     }
   ],
-  "open_postings": 732,
-  "long_open_roles": 191,
+  "open_postings": 741,
+  "long_open_roles": 193,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

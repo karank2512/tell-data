@@ -1,10 +1,31 @@
 {
   "domain": "sim.ai",
   "name": "Sim",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 18.2,
+  "score": 22.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "MandićLab Launches 3D-Printable Sim Racing Wheel, Pedals and Shifter - BoxThisLap",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY25nT1Z0cEhzdnhyYkE1Zm5qNFdKN0FKNjQ2ck9PWWhWSDhsOU1MY0N1YnZsajVVT21QbzVwMTU1aVp0UmtUd3RYOVVZd1dqckZSNDlLS3QtYndWM0R5TFI1NnJ0UEI2Z0ltU0lISEV3UW54akdwTnZ6MXgxY24xN2dYaEZ6UXc1ek9zbnVuSXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Thrustmaster introduces TCA Sky Yoke Flight Sim controller with cross‑platform support - KitGuru",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVHBFVFloSDlpbHVfR09GVW1aU0FNOFVUWThzNmZlX2hHYVBJeDhwRWpZMnFVa3duZFFPXy1ZYnk2cEVsRzB3cjJRTzZ5RjY4aFZpdV91NWp5R1RLZFdZcXd6MHJlWjlJUUdmYVBxakVXeFB6dFZ4aHJscExBbFF4bnlRLUUtMUhfZjZDbUpfdHcyek5RdjdRSjZwUEZHOVNtdnplLUV4bElmYWFHWlEtWUdKR0VLM1FvbXdYODdkd0tpakhMMWhoeWpCblZsNDZfQk5aVEFGbmo?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Metro Aviation introduces MetroAero Sim at AMTC 2026 - Vertical Mag",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWFHRXdwbkJDMnJqb0phWXppVUtzTGNXY1ljbWpOTlBDcTBoRjVMUTNpdG44NGhFclFnYVhoZ3pPbXFLV3F3RlllcHhveEhZOWNrMi1RZ0tpRnhpZTVkZV94TnIxaUVlTE5QVjFfYXpUV2h3cVM0ckVsUExySGtJT1ZfcUZSbjR4MFdxQ1Mwcjg1STlTUnhv?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -42,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "MOZA Racing Launches Ford Mustang GTD Sim Racing Wheel - Sports Gamers Online",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd1R0TjV6UjdRUW9XSDdTWVFwb0JCSlJMdWhweXVBTjJ3WUE5bkZNcGZQdk9IQkZ6dWNRX0pYc0RhaS1SVlhhVlY0ZG5ZWG1rd0dsaGoyTDNuQzluX0tGeF9TeG1jQnRpZi1WV0xaUUtVeG05cTN1RmJCeG5nZzVDUXRvdEdraUtLZ3hMNGdvanJyU0t10gGaAUFVX3lxTE9CTjNDRG5SVDVMWW5rY3dNNUhEZ0JMZlJZVm4tdHVSVUl4LVJqNnBnRzdvSkF6cHlyUGZTbnBtZkV0YkhLck1MR0xVcEdkeWRld2NFOXNLX0ZhdnM5a1duU3c5UVduQ0k1eGY2Z2tnWENQUmtjUC01SWtYeTdFcnpkWUgxdk1qeVdOa1JvQlpMQXBqS3hLYW1lSEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Racing and flying collide as MOZA launches two licensed sim controllers - GamingTrend",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPblYyRHZ5d2RHRUk4NHpNYms5bkZfVWE5ekpKcWJtaW1vdnFLNHY2c3h6bVA3Q2JvZWFwWDZoOUdRdUEwbXFWU0lVRHl5eEVJSDNXSXZQVjFYUTA4YWIyNkNUTEJrNkVxR2RwVGNxYl9PNklKdEJEM0Z5SlhEQnI5MnpiM3FEOXJTSnhGYm9IU0ROR1QyU0VMaw?oc=5"
@@ -91,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Already a Steam bestseller: Highly anticipated zoo sim launches tomorrow - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLUFCOGVxZkFTQlpOMkh2alpDRFFXUWRvTUZnVDlhWEVOcktSNmdsR0pqdjAtMy0tMXB1NEpmdXFlUFExZWVNYVY4MWxFX2xMMUFtcUEzZ1N0MXEydE5rWVlvR2lsb1hmN0lsZGpHLWdtdC0tMVRRSGZMWWVhSTVHbkVYSlc5RjVYNE5VaXI1TmZqYzBwMGtMcjZsYWN6YWdEbjhNcXJJbldOY1prM2h3ckhzb0xQR2s?oc=5"

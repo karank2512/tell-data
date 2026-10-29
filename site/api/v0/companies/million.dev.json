@@ -1,0 +1,25 @@
+{
+  "domain": "million.dev",
+  "name": "Million",
+  "as_of": "2026-10-29",
+  "profile": "default",
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Entergy Louisiana launches $2 million bill credit program for eligible customers - Entergy",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzQ2X0czdGFnSXZ2N3AtTWhOLVlsNGJfZmlYdENXWUxxVUFXTV9XQnJsRFNUQVBQZUNQc2tlYlFKdlBLeFdVNGdiSnZwOU1DT0tVWmlXZ0dIc3FMVlUxc3FqVjV5NzZ3WUlmZzUxZFQ5bXliUFhzQ1dBNmJGUFIwSDRQTlNCSy1hVTFVS1VESE11em91d2dZbVlZM3lycEN3eEVsQjlpR1RGYmtp?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

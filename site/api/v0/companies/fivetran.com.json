@@ -1,14 +1,44 @@
 {
   "domain": "fivetran.com",
   "name": "Fivetran",
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "profile": "default",
-  "score": 3.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 4.0,
+      "occurred_at": "2026-10-29",
+      "summary": "4 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/fivetran",
+      "postings": [
+        {
+          "title": "Senior Solutions Architect",
+          "posted_at": "2026-10-26",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8042380003"
+        },
+        {
+          "title": "Customer Solutions Architect (Denver)",
+          "posted_at": "2026-10-28",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8047327003"
+        },
+        {
+          "title": "Customer Solutions Architect (NYC)",
+          "posted_at": "2026-10-28",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8047340003"
+        },
+        {
+          "title": "Sr. Customer Solutions Architect",
+          "posted_at": "2026-10-28",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8047657003"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-22",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -56,8 +86,8 @@
       ]
     }
   ],
-  "open_postings": 174,
-  "long_open_roles": 49,
+  "open_postings": 167,
+  "long_open_roles": 42,
   "sources": {
     "ats": "greenhouse:fivetran",
     "edgar_cik": null,
