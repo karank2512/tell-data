@@ -1,10 +1,38 @@
 {
   "domain": "metavision.com",
   "name": "Meta",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 15.5,
+  "score": 21.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Google Launches $1,099 Aura XR Glasses in Jab at Meta - ExtremeTech",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU253blRvTWVVaXV1YVIzX004SDh0MDgyMnhZWkZtNFNzLTdTUVhvRFA0T09qVGtLYnF2WERZZXdjUlhLdm9pZHZpNW9yNEFHbnlvWmF3MDJXUTN1QkYzQ1B2MFB0T3l6LVRyaUxpZFphcVN2Q0h2aEVXZ3JicEMxYWtYNFdGQjQ1ZXVhSFpBTWJ3Vlhibnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Meta Quietly Launches An AI Fashion App For Virtually Trying On Clothes - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDd4RnEtVFZGd0xld1Z6V2pQNkpqTEdXbXVyYktDb1ZHQ3FVc3dobnZKdHc0RUZ1andhZFhjVWV2TUlHSkw1bHFqOHFCLW5SVUh5aWFxQVVCWGFkMmc4eHlMRTlPemJmLVoxVklybVR4LVNJLU55U1FNQ0FJazhmaDFKc3Z3UDYyd1EzbG1rWXRnblktNFo2dkd4ZXdPLUtlazNRakhvdlg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Meta quietly launches an AI fashion app called Style Sketch - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQXRBNUhYaUUzS1AzR0lfSWpvTVZrT2xhVEczTzJqMmg0dUp1S2RVeWlmQno4SGFXRmk5UkNub0dibHl1eEpMbEtiSnhtaFpZUlYyd2huLUF2SGZnUm5QZGwtb0E0TjNQaDBidTh2RWdUZ0FzTXNNcFNuU3MzV3BXSURmS19qSWNpSk5OcENWdzRXX0pjWHpFUTR3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Meta launches $35 billion stock offering to fund AI expansion - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0V3QzVreFZ5N0ZYTWdzVGExN1lxeWpSVG43T3JHUXNtUVdmRElUVEhqXzJVWnMwWEt2eW0ydmJ2MGw5Ri03aVoxTE93VkJtZ3RtS0ozWllHOW5EVEUtRmtna3NONVdNdXNUU2lpa3hrSkdZbkM4Ym5yNEtqRWJUYkliR1NfT1XSAYwBQVVfeXFMTnA0RG0wLV9zYmd4c0pMUXlEMjJkMENJWGdkVDIwVlFkTG9lQThqTGpIczlFaTdvVGtnTmh2anhyazZfV1BmdTJxTDItazZlMDNBZ0VqOHJEVUVfM0I3RGgxWUh2aDc2Tkx1NFV2MVNSRGNVZWJLcHBtRGxIaDc5anN4WTZMNjd4UUhzamo?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -56,21 +84,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic - Axios",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals - CNET",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1Y0UFdHdXdYYkstX3lYcmRKUUxESnh5cEx1Y0p3ZlgxM0ZoR3N0eEExNWZqaEZGVzYwb1VIRVM4NTdMeDdGazRlUUR6dGl4SWNLUHNIOUxoZGZERThIaDlTRi04WXZPT3Fqc3owNGNVanlWTTZvVTBmTEtQbFVNZjJyVnNSQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5"

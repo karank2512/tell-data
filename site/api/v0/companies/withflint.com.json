@@ -1,10 +1,17 @@
 {
   "domain": "withflint.com",
   "name": "Flint",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 1.3,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "City of Flint unveils the St. John Street Neighborhood Memorial Park - WSMH",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR0hzcktobHQxbUFTQXQweUs4S1RlV0tNR0l0NDJCaWhfaE1fYnBSbjh1dlNMNk1HaGl4d3NOU3hRXzF3T0Q4SUhmQnF0cEVzbXNSak1wcm4tOWZzWEptZFlIZEw1YTVzREN6MFlURU9VQlhDa3FZR3MtNDFYc0JHU3ZsSC1hXzlRQVFjT1Y5RU5teXl2NEw0TG80Wl84NUJpdUJ5MDJndHg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

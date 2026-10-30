@@ -1,10 +1,24 @@
 {
   "domain": "kernel.sh",
   "name": "KERNEL",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.3,
+  "score": 5.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass - MarkTechPost",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGR6RHB2b1hfM1Y0MTVDSHN3eGxGTXJibG5mbjRmVnVYRW9PemltaGczeTVvWmtvRmN3V1VHcUZLU3BzbTVLdzhXRF9nOUxzYy1tSGZiWG1PTndGR0xDVDJSdllNQXNaNWZrWjl0SGVBSGhpeHpUV2FJSklvckR2QWZiaVBvcThTVDU2bTAtU1htMG1HWnRBdFJQN3M0UdIBngFBVV95cUxPeGR6RHB2b1hfM1Y0MTVDSHN3eGxGTXJibG5mbjRmVnVYRW9PemltaGczeTVvWmtvRmN3V1VHcUZLU3BzbTVLdzhXRF9nOUxzYy1tSGZiWG1PTndGR0xDVDJSdllNQXNaNWZrWjl0SGVBSGhpeHpUV2FJSklvckR2QWZiaVBvcThTVDU2bTAtU1htMG1HWnRBdFJQN3M0UQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "SteamOS 3.9.0 Preview Launches With KDE 6.7.3 and Linux Kernel 7.2 - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObkUwTHZ6eUtzT0IxbzFFRjVqTThxMmRaV3NqcWxBY2E2R0JsOHIyeTVDbk9zbXVabjVUczF5RVFWMnJVcVBhbkdhMzY1STlYeVJHb3hKSzhPaHNQaWk2ZGtoNWJ0NHVlTVBXVlR4M01PTlJ5YmVDUjNYQ0Z4YU43MG9RVWp5RnBvdkw4SHJRM1Nfd0NTcTFJYUVpTDZNVGJmR0Nj0gGoAUFVX3lxTE10d1ZER2VGN1pHM214X2ptVzlnOVJuWG5adGNEU09mczUwM2N0c1ExODNCUVJwaFJFV1I3UTNENVFtRjJGRWJ2ZlVsVlA3VDFocHVQNnN6OUwxcGtvNzNBRVdBOE1KbmE2SHF0Vm9XTE1YaEJYNllGSW5oUmdFdTBQQlRxSDlhOE5fUm8yTUNSVmtmcHl4bXBmUlY2NHZmQ1BSVXB0TktQdA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

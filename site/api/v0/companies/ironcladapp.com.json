@@ -1,9 +1,9 @@
 {
   "domain": "ironcladapp.com",
   "name": "Ironclad",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,13 +34,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Ironclad Launches New AI Agents Grounded in Commercial Context, Helping Teams Negotiate Better and Capture More Value From Every Deal - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVHhTVjE4R0RKVENNTV84MVdRa0RNblhEWUJSOWZPSGwwT1Q2SlY0VlJiVGlacFVzWWFiamlEbGZfTUh0N0hFekZVNDd3SEo0NWpBZVBIM2Fmc2twS3NpM2NNM2dZTlBOajhFRGwwVHRtbjR1dWtJVzFyWHFYZTFkOTJoLVFwNFA0NU9VUFFDSkNvVWZZMFlFVC1ZUllqWmJPcjNBU1dHQk1ZRlR4UFUtR0JqVGRIYVFrc1lSakp1aWM3dlJEd0NzWkxjaVVuTV91Vl9mcWRWUW1QV3puXzRQZFV3dTVmN2xTcksxWGd0WFlwVF9oelNKN1gzTHB0WGFzR3AwMjVyZmFLek5xTW9MMTZFMEV1LWc?oc=5"
     }
   ],
-  "open_postings": 31,
+  "open_postings": 30,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:ironcladhq",

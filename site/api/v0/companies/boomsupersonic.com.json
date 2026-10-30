@@ -1,0 +1,32 @@
+{
+  "domain": "boomsupersonic.com",
+  "name": "Boom",
+  "as_of": "2026-10-30",
+  "profile": "default",
+  "score": 3.4,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-28",
+      "summary": "appoints new CEO",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlBLaUpGYWpRdGFBMy0yd184VnE3aXktZF9vYi0yZ2xtVGJWdGsxZzdtSzVXeWFFU0g0V2VmaTZEcjJDdVl5dVhjYV9yTEtVaHhlVHplZmE5MDA3OWd1MElNNWExaDVfWmlkUGxCT2lXbmp0QXZNMEstOGZXMEdZRGlFWTdjeFhLZHc5ZUZ5R3VFc0hPQlRWMkUzcWpTTHQ1Z2E1WXAyYktZOFF2NklZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Cape Canaveral in its \"boom cycle\" of launches - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LVnViOHhjMXBwVlJ5czlpa2pwbGxxZjUzM190SHBrOWJkeDF1ZDZwRXhFcl9uMGUyT1JWQXRuNFY3SXRBcjJUcEFxbVJiVkJsUWpQUlJCNHU5anNRWnNoalRrQUg2MEg4dlY4RVFBaFFzNGM?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

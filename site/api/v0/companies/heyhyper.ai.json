@@ -1,10 +1,17 @@
 {
   "domain": "heyhyper.ai",
   "name": "Hyper",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 18.0,
+  "score": 20.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Bigwave Robotics Launches Hyper Foundry to Connect Robot Data, AI Training and Deployment - Democrat and Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSDJpZThLcFVzSE1QZUwxczNrcTMxT3R6em95bjZpUGljcVBLejNjRUxqa216TGJnWTZlTTJCbklmVzNSS3YtX3VqbWZuQ1JvbjYybnNUMGppZ2NtaDhSMGhZNW1ZVzg4dzNsaFp0THdMbXF1amxuYUd2RG9RTWwwYTB0SEx3aGxhWV9Jc0JtN0dnNjI1M2d6bXZxb0hDNjJaZm5YcVoxRkdKWGhhemZXMHd3ZVpOYUlXZEQzRUl1MnItZUliMjlrLTc4bTdPMXNLNE9wRVVyOUVSQzI5NEVnVndfTVZIemRT?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -17,18 +24,25 @@
       "contribution": 1.4,
       "occurred_at": "2026-10-24",
       "summary": "Porsche unveils new 'Mission S' hyper-luxury sportscar - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EX3kwTVgxeXQzWjZHUFhkTUJVZ0Nid1VNV0ZsLXJJYWppeFBuLUFEcHlTQThNWko0MmFkYTNydjBtc3BoeEFBb0FYZmtHZ3FpTWZqMzFBa1dSZHZTQndF0gFcQVVfeXFMTU5pbzM4Tk05Zmd3Smh1U1lKWXo1QXdsdkNsTHVCd0F6ZEpzMHpfaUVXLURUZXFISjQ0LUFQMFg2OXY4ZzJWLTVpVFM3OC15aTNZRU8xSE1DLWxKVTg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-24",
+      "summary": "Porsche unveils new 'Mission S' hyper-luxury sportscar - Modern Ghana",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5ZmkteFlGajlZMlByNmpkeUxncnd6X1BkQlM5UVBRendaRVpBc01CZHJYYndjeERSMDh5YTk5d21NbnBFZC04bU1XSFpxTUdvMEFhMlZ2ZEV4bVg0ZWxJ0gFcQVVfeXFMTU5pbzM4Tk05Zmd3Smh1U1lKWXo1QXdsdkNsTHVCd0F6ZEpzMHpfaUVXLURUZXFISjQ0LUFQMFg2OXY4ZzJWLTVpVFM3OC15aTNZRU8xSE1DLWxKVTg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-24",
       "summary": "Porsche unveils new 'Mission S' hyper-luxury sportscar - NBC News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTUyV3V1Y0hwX2NYY1JIdWVrS3h3YXhVQVF3SmNUWi05U2hKMl9YaDY4bkZwMndtM01OMTlWYzd0UUIzNDRfNlJXU2Mxb0hYRkZzLWhzVTNBUDV4LUdjU2hWcXlTWU9yTkZSdU94c2RXNHZtelI5NnUwQTdZclpNUU1UeE50bFB5eFl4UklBajVuZjlMdjQ1R3lONA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Dual Brains, One Chip: Harvest Praxis Unveils 3nm \"Hyper AI Brain\" to Break On-Device Robotics Bottlenecks - Digital Journal",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd28yWC1ENXNwTUlpZU9uWU9JLURrTG15MXdzYzk0UF8tNC1sQm5iS21ZeUp6TzNYOF95UFdNVUxPTGJ4c2Nvb1NsVTJaY0ZGTkd1WUdtcE5Pcjd1alVGemFyQTJzb3FKRjc4blJiajFVVTZraUFWRmp0MEFYZGdJWTBBa21Dc2RyWFMtMFRFZzNaR3NFUEV3?oc=5"
@@ -91,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "ASML unveils Hyper NA EUV successor targeting 5nm single exposure - digitimes",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGRtMFhQM2hOTmZKV1FUYUtzVWktdkxhaGk0Z05nSkw2cE1mbU5vTDduNjJ0TDgtaEpNRWNyWV9DTHkxNnFLOXF4SVNxME1PaEhmUjFoNmFWbGhSSVJZdEVncjZMaWQ5RnVYempPSVRzUERNZ0x6eVdMWVFra09rcTVoTFRNMktPWTFRUmdCcw?oc=5"

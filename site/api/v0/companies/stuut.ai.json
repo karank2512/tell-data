@@ -1,19 +1,39 @@
 {
   "domain": "stuut.ai",
   "name": "Stuut",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 22.3,
+  "score": 24.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 22.3,
+      "contribution": 22.1,
       "occurred_at": "2026-09-16",
       "summary": "Form D: $67,597,673 offering, $67,597,673 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2045111/000204511126000003/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-30",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/stuut-ai",
+      "postings": [
+        {
+          "title": "Enterprise Account Executive - London (German or French Speaking)",
+          "posted_at": "2026-10-23",
+          "url": "https://jobs.ashbyhq.com/stuut-ai/0daf2a5b-5ee5-45e3-b2c5-7fef149e1866"
+        },
+        {
+          "title": "Enterprise Account Executive - London (German or French Speaking)",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/stuut-ai/71d7b0e0-5a4d-4b17-988e-b38236285444"
+        }
+      ]
     }
   ],
-  "open_postings": 27,
+  "open_postings": 28,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:stuut-ai",

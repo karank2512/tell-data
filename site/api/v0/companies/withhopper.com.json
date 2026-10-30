@@ -1,0 +1,32 @@
+{
+  "domain": "withhopper.com",
+  "name": "Hopper",
+  "as_of": "2026-10-30",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Free rides for South Jersey seniors? NJ Transit launches new CG Hopper service - NBC10 Philadelphia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlktSVV5UVJEdTFlcWZCNFhfdTZaMFlFSUFRb184TjRHZ1psd2ZyMFI3N0RoY2VRTFQ4ajJJYUZnUGYzNkVmMk44UlZXRklLcUloc3lJaHBodmJzVXdNZ2lrOXJySWlFMDY2dVlNc1R5M0hXaDJycm9lRV9KcEM2bkdYT1lLN0FKZzR5SGM1UnVIaW4zaGJuRWVTUGV1X2xXb28zeGxPbWxmWHp6Zk9OQklDcC1ja0sxZUJzMTdWbzN4d9IBygFBVV95cUxPcEkyQUNhY09xSFl5SjlwM3Z3ckRvZ2lRZFRQVC1kcjNGNGcwSVNrYUw1OVVyZGxpOGpCOGw3dkpUeVl3OTVDX2MzS2U4ZlpIZl83MWdlcTZNaGJlU0RKc2ZJZGVERm5qeGFfcENLdGN2RmZ6U3hoenRRVFVQd1JRUnd2REs5a2ljMVQ4X3AyU280MGZsUGVhV2NROWN4ckxJQU1KSW4tblBWTlViZUdRMDZxb0xVSUFkaDZfcHRCa3NwUlR2X2plUFBR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "NJ TRANSIT Launches CG Hopper Service for Senior, Disabled Camden, Gloucester County Riders - NJ PEN",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQl9NcE9PV2ViTFRNR05rbXd5R2Vub1ZjMzRwRmVrMjU1SVd6MjZsdFBONy1iT3pfZGMxWVRmZ1dJT2dvSm4zUy1WNGRxdXRKelhmMHExQ1pXTGRLV1l2V2xWOWlpa1J5X1ZPV05tc1pPMmN6bFMwUnlfZnE1TDlEY182Z2NaeEJCWnFFbnQ5Tm5ySmRkcnlCOGloZkZoZUVZTzFybGNINjVnbWNOQVo0eWhR?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

@@ -1,9 +1,9 @@
 {
   "domain": "shepherdinsurance.com",
   "name": "Shepherd",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 6.1,
+  "score": 7.4,
   "contributions": [
     {
       "type": "leadership",
@@ -21,10 +21,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "Fiesta Sports Foundation Names [person] as Vice President, [person]",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlRoeVVpZ3JKd2pWRGRSM19jSWJxZTNzWFJGdHB5Q0JrVFlLVG9uVi0wSi1FNnF0b1BSZUJibkZ1Y3lEeXIyNnRsZktFdW1PYTdENXUzZTFDOEtTVVN1QURaTExUWDA4Nmd5cGlXNE1Idk1ycmdqMGRSODF3SU9aVnRWYXVoR2tRVEhCODJfUEd4ZmxfaW5YUmt5RHNQZjVCNVVCOTBkQW9mSGNvMlFvbHZnT3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "OpenAI Debuts 'Shepherd' Model for AI Research Validation - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTEZwck4tWFAtMDZkdkh6ZG80cTZ6UUVScTNJM3hYNURBbXUxZkJiZGM5VERuYU9UUTdxYlViY1o5eUp3bTk3X3B6b1QwTS03djhSUk5VWHVEcHhwNmdpRGVJYkFMb0VBakR5WUVYVWhCQWtEMkdPaE5XSS1Ibk5sRUhsTGdjLWJQTm1hbE5na0pkUQ?oc=5"
     },
     {
       "type": "hiring_velocity",

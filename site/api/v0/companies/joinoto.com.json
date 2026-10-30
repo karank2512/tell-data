@@ -1,10 +1,17 @@
 {
   "domain": "joinoto.com",
   "name": "Oto",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 1.2,
+  "score": 2.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "VinFast Philippines introduces OTO digital platform, combining online convenience with in-person vehicle services - LionhearTV",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjeFdOYzVIMWdOMFQ5bjZrZU5PTE42SGpjVUNJNEFPZl80QktZNXBCaEpLTEtGYTFoZXNwUFY4WVR3YUllOElwbzFWWlBZZnppV3Z1Q3RBQldRaFdJa2RfQVVEX21SQVBxRE5IbUlDVm5Xdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

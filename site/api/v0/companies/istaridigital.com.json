@@ -1,20 +1,20 @@
 {
   "domain": "istaridigital.com",
   "name": "Istari Digital",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 14.3,
+  "score": 14.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.3,
+      "contribution": 14.2,
       "occurred_at": "2026-07-24",
       "summary": "Form D: $40,000,001 offering, $22,649,970 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2051439/000205143926000003/"
     }
   ],
-  "open_postings": 10,
-  "long_open_roles": 7,
+  "open_postings": 8,
+  "long_open_roles": 5,
   "sources": {
     "ats": "lever:istaridigital.ai",
     "edgar_cik": "0002051439",

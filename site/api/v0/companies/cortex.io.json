@@ -1,27 +1,41 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 11.8,
+  "score": 14.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Conglomerate Chatterjee Group launches Cortex DC, targets 2GW of data center capacity in India - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbERiQ3I2UVR5RDNGUUN3RFpXWXBXTzNaZWJXMGxkbkJsUnBHakVHbHZtcnZvZ3FyZ2lNb2tSd1pKeUEwRWtOaXJLX1FaSjVxNlRGNUI3cDY2ejZUY2MxdzZHOGdQMW1rVHlpRnQ4MzBMQ0FUb0xHcUVFa3VjRnpTbXFKRV9LS0h4ODg2TEVXcE42UFJoM3NwUzY1N0x5djNNSDRnaVRMYlc2d1NhcEdtWDZTaVBza2hXbjdmR2VQZktRZldtdjE0SklHRktVenBYQ2x3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-28",
+      "summary": "Introducing Cortex Cloud SaaS Security: Secure the Entire Attack Surface Across SaaS and Cloud - Palo Alto Networks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGl5T0s1aW1Dd2h0SmJqMWdzSFZYVEhOSE5GUGtwOHBsUHczMnBSdm1DUmJDSDVWbVpSZ1NOZjkwUmdmTDBiOTc5ejBIUEJ6c2lER2pSRjQzUThrVE9MaXhFVUpZNF9vb2ZYcmFFT1lXTnBwalVQNE8xRFNYOXJxVGRNTEw1UzZEelllMkgtajEzcVV4bFo4?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "TCG launches Cortex DC to build 2 GW data centre capacity in India - Tech Observer Magazine",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlJWTS15VGpDZkdPbWRmbi14TFhqQ29KTHZBVVIwTzdiWTJ5WGFRenctOFlHcjhaTG9EQ2Y4bkd3VDdLNHRVa1JBcERPM1l1TzBnZ1FfZkJpd2YtLVQ3dFczdG1UTG1GcjEwbWhrTURTWlpMQmVKdmtsZlhObUtwTEtyR18xT3dLcTdCeHI5dThNbS14TXlKbmprdXl2RknSAaQBQVVfeXFMUDJPZTVha19LZWQtNks3b3dOYzNkSUUxNEJZTFFDTWNkTkJNZnM1Mzg4QWVZd3BQNEtwY0Q0cVZCUzhxODVob1d5MThEOU0zREpiRDlxMzJXUDBTMFlKVXh2V3o3bEFMbTUxVVhPQWNWN3JtdFQ4aHJVWWhBRUpqVGFkdDIxUGpUemlQMGE1RFdwbWhuM05HQTlHU3ZHcjRobXVlVno?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "Palo Alto Networks Launches Cortex XDR One to Protect Enterprise AI Agents - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLVNzTFQ2YTJEMmdpTVpRazZFaUNlSTE4cEctTFBKcTBjM01OVHMxaGhOY2VTU3F0MmljUkpKUG9tTXVxU25oekloOWJabW1HLVFCM0xQQWV6OHVLYVNMSE5XWXhtRnpFU2E2b3YxVDNQY09CbHRTNjJsVEVPakl1MkIxcjgybk5YU0FVVzRjbmcwdldadjFVMWhLZ09oTGN3eGtDcnZRUUk5OWVDYnc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Palo Alto Networks launches Cortex XDR One for AI agents - SecurityBrief Australia",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdl9QckQyZVpJUzMyX0ZfellxWlBXcU1fTXhLVi1YWGQtdVhScG9za1FxUFg5NFUtbC05T010ZVd2dXZUSUlnb243YVpDTk5nZGdwNzJlZDJUU2dhTWNsaTBzbW5aTkdQUWtPNGFjTjYzN0w4ODllWmlkQUw5OGZINkRONjduT09BQkpXN1ZZN2FCdFctVnc?oc=5"

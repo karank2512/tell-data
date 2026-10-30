@@ -1,7 +1,7 @@
 {
   "domain": "arqfinance.com",
   "name": "ARQ",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
   "score": 0.8,
   "contributions": [
@@ -31,7 +31,7 @@
       ]
     }
   ],
-  "open_postings": 32,
+  "open_postings": 36,
   "long_open_roles": 7,
   "sources": {
     "ats": "ashby:ARQ",

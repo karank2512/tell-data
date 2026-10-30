@@ -1,9 +1,9 @@
 {
   "domain": "taskade.com",
   "name": "Taskade",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 1.5,
+  "score": 1.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-08",
       "summary": "Introducing Taskade TSK-1: The System Kernel Behind Every App (2026)",
       "url": "https://www.taskade.com/blog/introducing-tsk-1"

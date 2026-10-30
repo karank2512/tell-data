@@ -1,20 +1,27 @@
 {
   "domain": "gitlab.com",
   "name": "GitLab",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 11.8,
+  "score": 13.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "GitLab launches Orbit context graph for AI agents - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVZ5MEdBanlDdHNVMkt1dzZ5UzFOalRob0VCQlhRWVNjY0xyaDFJNmpTQ3c4YktlMWJoU21jcEVGcFQxd3hSRk9SWGNoTFA4c2IzTDhvZzNlOWV2UUVMaHBheXRndHF0X0pIVm90c3QyOFZFYXZvcGhsWGgxbC1ncDZWckVkdFUtNjg4Vi1sWnZqVzdQbnN0cmdidzhqb3Fwa21JX0dDLXYtcklQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "GitLab Patches Maximum-Severity Flaw Affecting More Than A Decade of Releases - LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1ZRbWxHaUtIX2dNaDZVV1dJYl9fUU40aUhKbzktelFFczNsai1MeFlXRzZZLTVKNEh3cUVYMnY5MmRmT0VvS2c5Ynp5UmVLemJLdFk4R2JWWlRoT0pSUXRjbExXM2xpYkctY2NaNmdNZ3Z6OXViYVZrd0dJWlFpSEVZc0xhejdPVjZj?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Max-severity GitLab bug enables remote code execution across 12 years of releases - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFVPWmtqQzh2SW85dUU1anJzeFNZQ0cwZ3Nnb1ZERnpRLXlMUTdfZ3FlMWx0b2FfNnZaYUNaREwxNElqUUJuQnZNalJCenhQOUpwUlVybEdWWEZJQ0FPcWNONDUxTDdheW5mYmhpVDZOLVRQdWxIN0xsaUJKd1FqSTRBSGRBOWpubkE?oc=5"

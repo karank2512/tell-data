@@ -1,10 +1,17 @@
 {
   "domain": "assembly.com",
   "name": "Assembly",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 1.4,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Bureau of the Assembly of States Parties launches procedure for the election of the fourth Prosecutor of the ICC - | International Criminal Court",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHdETmR5U0k5aVhiaDI3cmYwVkhvc0RnRm1nTTMydU5JQV83clV4aWtVS2xmZzFISUxHa1c5RnozTWV0OHVqeW9pSVdnclZDRG96amFNX2F2OG1YdWFOdFVka0FkakRZUEpfS09oeUR5SjEwVVJpaWRoZGhBQjRzSWlKQWRpZGpxc29HZERmeWVsMFExb2EyTTVKcnJUek5QeEdLOTk5cTI1b2oyNGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

@@ -1,10 +1,17 @@
 {
   "domain": "buildwithfoundation.com",
   "name": "Foundation",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 10.7,
+  "score": 15.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-29",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWpPZ1kzekZnak0tN1VxazZBSFl1c3RtTlZXVHZybFZsY3M5Q29YWGZvWERxcGdKWndZbkw0bWZPQTh6YndGeDJjX1MwUEZoV09nN09ZSTBTM2ZIc0hLTFNRb0NEaHpfZmhUTldOT0Z5dV9aUWdpNU1fcjZaRnNfRXFRNTFWcmhBVl9zc25ZR1BLNWhpc3lWNWV1MlEyMzBoSS1ZRUhCS2wzNExfNkRDem1QX29tVTBaSDlfSmtyUWhFRk53V2UzWTZzZ2FkZHd4SWc?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -14,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-19",
       "summary": "Ford Foundation Appoints [person] to Board of Trustees",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSE1NQW1wRHdUbXJiLWEtZTlIbm9kdkI5ZFdDNFQ5WUM5VGxYUFV5VWF0bkQyMXg4SGFLVW5kNGxKSWJYNHZSRmxEUk9fNGlXRjg1QzJQc05aaldvUjhHdk1SN3AyaHlGaEFHMVhLejdBb2VUcVJRWXRpN2dCT1lyWEhmYUJpdXJLM0pqYmZxNkNEWFpIRzNjMURvVUVCWTVPQklkREs4Vy13blY4Q2hDZU9KNnBJckJzcmJJcg?oc=5"
@@ -25,6 +32,20 @@
       "occurred_at": "2026-10-16",
       "summary": "The [person] joins Presbyterian Foundation as Director of Theological Education Funds Development",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWXdaVVR4TmlyTWpCQjY3dzd3aHhzNzNGOEtBZGk1YUp6TlhVZHQ3YU9DNmk3MXZZZThQSmk0c211SkpFYmJNcGJrNmJpZzBHU2VLeEk1NW1xeGlGbm4yMWswMllTZ1VPaHlXdEFseDBEc1VjWkF5ejZpNVd3MUdaX2hZbzlMZ1p6N1JkU3RGcGh2dVMwYlhPV3plaEVObXBWc2RZWks1eVVLTGNIdUVCZEJ2c3dxQzN6SjZGdkNzTVpfampnd3VvczRwYi1VbFI4WjIwb280QVNHUWZIZUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "USA Rugby Launches the USA Rugby Legacy Fund to Build a Lasting Foundation for the USA Eagles and Growth of the Game - USA Rugby",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMkxraEJQTy04cGI1Mnc3emhOaHUxNnFKdGllT3Q4LWsxN1NZc21EZXRNV21LbTBSaFZmbjdxMkVySGxXanZiRFd5TzdJcjdMWVRfY2NqMHloaGZFX2ZKNlI0b25BclRjY3ZONFBJcURvMFVsVFVWTkhQQW9BaFpMUkFadXlobFllb0dUWlo3V1FWVU5HdmhweHVEM0V2b0owMWJWMWkxb3FyOGtxQ1dfNER2bmtpQUhLeFdKQm0zV0dsaDI3bGFmcGxRVFNXZkN6TWxFQjIyM09aLS1Na08yb1RB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "UM Foundation Launches Annual Crowdfunding Campaign to Grow Griz Nation - University of Montana",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOEpLMDY5MFZnN1l5ZU5hU3poSkZBWkRJQng4MjVKZzk5YjROYXAtdldTa2N3ckRkMzFCeHhwTnRoQTdJclpZcGNZcWpwSTdCaWhWZFU2bXBrME0?oc=5"
     },
     {
       "type": "launch",
@@ -42,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "Ford Foundation president unveils the $18B philanthropy’s first strategy overhaul in over a decade - Fortune",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEtSZ0VUTzY5OWRZbkJtLVdqTldTal9ILTJ3c1VBVGU4Y3RndXh1ZzN1OVc3M0RjeFRjeW9kRnpqR1BOMGFraTJVMF94OUxLRWtBeWc4LTBMLXhUbEZybTRzcXphSlNrRjM1NkVnaWZPX3AxMVZGSG5oWEJPVXNxcFdOanhNWXZPNTEtRkdWNGozS1ZjTlU2S0gteHNtaUFLN1FENg?oc=5"

@@ -1,7 +1,7 @@
 {
   "domain": "instrumentl.com",
   "name": "Instrumentl",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
   "score": 0.3,
   "contributions": [
@@ -20,8 +20,8 @@
       "url": "https://www.instrumentl.com/blog/instrumentl-fall-2025-release"
     }
   ],
-  "open_postings": 11,
-  "long_open_roles": 10,
+  "open_postings": 8,
+  "long_open_roles": 7,
   "sources": {
     "ats": "lever:Instrumentl",
     "edgar_cik": null,

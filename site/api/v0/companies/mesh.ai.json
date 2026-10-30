@@ -1,34 +1,76 @@
 {
   "domain": "mesh.ai",
   "name": "Mesh",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 39.7,
+  "score": 47.9,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Casio releases two Vintage watches with gold-tone mesh bands in the US - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM1c1ck9yRWRaVjIteUdXcjI4c05JZW9jM3htcGY3azVKR1phX2pDSGR4VjU3N0hlTFc5c2k2NFRpanRWbFFYM0FLV0YyYklYNUl2RjlqbmRKX2I5cWExQktWeW13TUJBM2tLdWFvS2lYZ3FzeGl1dV9vbnd2a2xOb1kwZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Casio launches two retro LA680WEM mesh band digital watches - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYzEyNFN1OHBJRlVHeHBIWVBjU2NCQ1FFcmdtYnNBSnRHdjQtbkYyODhFU3VOX2NFbEV1MzN5ZHpMLTZkMnd4dmR3a2F3WkUtWjJnYnlXemRXRWRtWkFUNWpmVGtmOWVVWXhibW1mamp5Qy13ODRBS2FEeDhEYW5DRHd3Vk1YV2JQLXJXdDdrWkZoQ3oyblNmYmg1RkVQOGZyVWNV?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Casio launches two classic Vintage watches with stunning gold mesh bands in the US - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT05CelVSMU9PZHpVVUI0YTZmM2xrY1JCU0ZJUlJLODQwamFUZjZORF9vZ09Oa0NaNFF4REFrT19CTnNsZUtZTDF3R25FemRES0pjM0FuaGVnTjhNTGlVNzVQd3JleWxSTm9TakU4MGNaczh6aTM3RUZXYlN0WE4xZnJ0NllKSnc4UmxlOW1DM3JrejBmV0ZVUkUxeGRxbXh2R29LM2hhdlk5TVk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "ZTE launches budget Wi-Fi 7 router with 3.57Gbps speeds, AI Mesh and dual WAN support - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXRQbDE0OWJjMzdLanRRQ2F3NjMxUVZINEZzQ2hMSURSZzZyV0xKU3lQRFdMZTBVdFV1VDhlRXdFM1A2b0UycktUS0Z1TEt2Y2hwTFRJVGxwNnB4WHg2Rk9zZkhtTFhCNlphQmE0bjB4ZlhocjJNRGtsWmI3ZGZHbHU1WFYxRjFtT3RpdVozeUhwMW55c0thYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Cooler Master debuts Gold edition MasterFrame 400 Mesh and MasterLiquid Atmos II - KitGuru",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVENpcEVxMkhjRm9NV21ablRHRXVHc21uY2tUTTNudHU0bDJDdXk1QmdzR09oXzN2MG9PeHhUMHcxV0xlSFlkQW9xWXpsampvVFNYb0FkWUFIZVB6UTRqdUxHZkx6N01hcDhTdEVDNEhjSVhNS3lMbWNEM0xXaXA4d2lxVzNVSmpHX19rQUl6aUxBMFd6bWJadUsyWGlGOXJEZjRCWGtid1Nua0hCTjVUSEdZRDVKajh5RDlscXNsNXpNMC10dVBUQ0V1azFrLW5fbkRr?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Oracle launches AI security mesh with OpenAI to fix flaws - IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajB6YjNnaUk5bkZvOEhqNG96Vm5qZW14TjJxNTRTZUZISndCeV9wbWoxc0JZWVJ2Y1BkUnYzMmg0aXhuSnpORy1YUTNma1BpS2l5YzF4SWZMRnBkZVMtelk5bVkwazF6OXVYaUdXZER3cGl0Sl9QakpLUG4xYVBvOHBkNmoyMVh3SHJwTk9R?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Microsoft debuts AR/VR collaboration platform Mesh - TechTarget",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSGlnM2pkblRQaXZaZERkdThIblpLbjBNZGNCZFpURGZPX0t5dVQ1U2dCQnd4MGtlVk5XQkNYSXkwZlo5UmZ5WnBvVHk1THRTWHhvRGFQSGNNRG91UzJMcjRiUGdLVmRBUkgzRklrUmcwRTlIOFFjWW9nYlQxZmFoRVFsR2E3NHBvY25GVy03VVNNRGJD?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Oracle Unveils AI Security Mesh, Expands Agent Controls And Cloud Infrastructure - BW Businessworld",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUl2TzRRSU9QOFU1elRXeDlvdWZhUHoxWkZSX1gwRVVlUW1rWkRmNGwzQVZfVVE4djRuenU3TU11bmtrNHRhM0Q2dHRrS2ZKcmE2cmNqT0kwYWRROTRJeVNNZFJjelMzR0FJZnIyV2J2VWZ1TFJTQ2g3NlpWb09VVkl4aGNtV0Q2MFZRS0NlUENpYTBybWJBSEozUGRNdndZRTk3VTZ3c3NUay0zZHJ1dGRRZ04tdlc5cy1uWnFjUEw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Introducing Oracle AI Security Mesh: Put AI to work finding your hidden security gaps - Oracle Blogs",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTUJYcXZ5VVFLaW1DMDhNTFA3aDYwSjZwTy1ITlk0T1FzWk1UTDRPVm9ZTU5CVjJhNTdwbVZIeW9jQ3ZqUkxiNEV4TVFtYS1Id0UyLUdGOGdMZ2dJTUJkbVdMaGpsdUF0d0VVblh2TXVXMWlQU3Z1VzRHSzlaR1NreVVjMU1EZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Oracle launches AI security mesh powered by OpenAI models - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2NVNktFbE9qMDdnX1B5dXBsS2RoRF9TMmUwZlVEcVBIamFmalNsc05lNWZIYWsyanpaSzFRNkphWW4tRHNMS2FucW9udWdKakhZWDNWX3I1YkJZajJwVmplUnF6QWRfT010eDMwQ2d6VW1Ob3NqZm1FQmRwLWNLUnVnTGZOVVQtdDZLUE5sNFhOYXJzUzlNeU9Dd0t6N3Z6czhzUmdrZUwtN0szeTIwRkRQd3k?oc=5"
@@ -133,28 +175,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Mobilicom Launches SwarmiX Suite, Secure High-Throughput Mesh Networking for Data-Heavy Missions at Swarm Scale - The Courier-Journal",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQm93RHJXV084R240bDVSVTlMZE5Rc1lYR1pJcTZ1bURqbHdoVDN5Ti1KRGFOQ3JyY0pydkh5UnJreGlYTUZRS2JfWEJWZHhRYkEzMGZaMGdJSnE4NDNsQVNkTkVsSk9TSktmRExlYS1YZktzZmMzckt1RTRPXzBUckpxdUxLNTVKS2NxZE9qeHdnM29yOXl0aDR0cWluTkRhckFTU3Z6VHpXV0hFdWVBUTZTdVpfVjVyb3hQYkUtQVlWWF8yY3FEajR2VFJPWHduU2JJN0Y0TlNGc1RKbzBTR3N0dkNBb3h5cHNrdmVUU0lET2R1U3FmVm1JNzFqMEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Mobilicom (MOB) Launches SwarmiX Secure Mesh Suite for Drone and Robotic Fleets - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT3NBUlNCY3lURkR1WTBpczBjV19HcVJZMkFra2E5bW0zaTVFZ1hFLXUxSnYwMDlVSW9xeFBxSWJMcUZwMFpzZW9yX2NRR0ZMQU1EeGcxUUNrMjBCOVZVOGNTQWp5WmVPV29YODMwYmJ5TGNpR1EtbkZhZHB5WGJDT2UySUt0aXJJYVRpZk4wVjJHU21RTGs2dEFnMWZiSVRnbE9IbmZwcE1oSEpqSDhES2k3NnZBN3AwendwWmgwOS01OGd3TU9TczZFQnEwYWlTMXR0N3RB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Mobilicom (NASDAQ: MOB) Launches SwarmiX Secure Mesh Communications Solutions for Drone and Robotic Fleets - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUTNUYUd0b3RoMXpwZ01XWGNvNERVVkpfbjNqM0RBZ3NoQW1pQnVwd0h6d0NtRWN1WGpUUV9wcmdkMzU2OHFMbVV4TWhfcWdaVkVMVFBfWHJhNUYwNTBPRThCNV9YTkNfdHRIdjg4eVROWndRUjJUWVJkTVc2dFZ2SlRhVU1PNUNsVjVRUjdZT2JzQjdnd0FjQ2JtbG1wWUpCSXhfN0F3MGdqNzhKOTJESk5ENFlic3lUd1hEUUhvWHZYUjhDS0c2eG9Ic1RPejEteUdtaG5jMjNUTzFXTXB4MXRPSm53Q0xBWWZBeWZfNF9ZMUxaMEI0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Mobilicom Launches SwarmiX Suite, Secure High-Throughput Mesh Net - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVUxVWW0tYWh5MHY2bkU5Ym9uSGQ1ZzlpbS1MdGI3ZThWMzNiTGtYTl9majZOMVpuemZPQUkyOTJqRmRGRnNjd0N4a3lCemJuQTVaaERZVUZCdk1rZ3A3QTdTV1piYzQteUxfM3V5RHlXNzluNmo0U3B1eTByc1dHQXRpREFhbzdYOGh3bl9Tb1p4amRNLVZ6MUhCcVJvYUVfazhPczVhdUd0UzMyWkI4Ymg3S0dGam8?oc=5"

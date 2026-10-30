@@ -1,9 +1,9 @@
 {
   "domain": "deepgram.com",
   "name": "Deepgram",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 5.6,
+  "score": 6.9,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-19",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Deepgram",
@@ -54,6 +54,13 @@
           "url": "https://jobs.ashbyhq.com/Deepgram/1140ca2e-0b17-4262-8c1b-a3eb156086dc"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Deepgram Acquires Daily and Launches Protocol for Voice Agents - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmFIOEtYUXpYVTNGVXJyNXB2aDh0QkVMWDIwSE5DcmY1WEpSMFh0a0NBaVRVRU4yUWpsTVQ4WDVON3VUVHJCZjRYVVZrdmt2V1NCb0I1M0EtNnpBVWljNGpIa2NUUW1mTXI2R25kVV9pRm00aUF1ZVo0MElIeEVPZU1mSmowMFlPeXZMYWJSNk01aGtzcjQxdXhDclU?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -81,7 +88,7 @@
       ]
     }
   ],
-  "open_postings": 80,
+  "open_postings": 81,
   "long_open_roles": 29,
   "sources": {
     "ats": "ashby:Deepgram",

@@ -1,20 +1,20 @@
 {
   "domain": "scale.com",
   "name": "Scale AI",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 83.4,
+  "score": 89.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.6,
+      "contribution": 14.5,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
     },
     {
       "type": "funding",
-      "contribution": 8.2,
+      "contribution": 8.1,
       "occurred_at": "2026-07-27",
       "summary": "Form D: $17,490 offering, $17,490 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000002/"
@@ -56,10 +56,24 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-13",
       "summary": "Matter Machine Closes £4M Pre-Series A to Scale AI-Powered Materials Discovery, Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUozUi1MVWxDLW9VNGhFRjU0QVBDMi1hWU8taVJVcXBOWU1qa2NyalZ1QXU5QmlUZjhaUE9uaU1HVFBzLVhSX3NOaGI2VTJVU1JxbHhXNjRONkVpUG9VS09NUlZHUDJFTmNYUUdNb0psMzd1OXlqVGRabXRTWWFwa3VnMWV1QWhEOHliM0gyenVuZ0Q3RFpjZXc0emJHNl9hQTltYTNZNi1tS2VkeS1Ua2NqdDllQTQ1dF8wUzZZN2pyclRmZ3dPS2VVa1Atb21kU1lNR2lYV0RkR251c211WEpnUTd5dUhxcENiY3lB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "HCLTech Launches AI-Powered Nano Global Capability Centers on AWS to Help Enterprises Scale AI Beyond the Pilot - CXOToday.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR3VzUmtHd0hMclRTM1ZhcW5uVFhYMjlaTk9oMm02M1RPLVEtSzhJUC1hTmI2d0Y4bWdvRnZVMU12M0kxTFZ1amQ4Z3ZRR1J6WFN4ZXJ3NDI2clJ3aDhGLV9FNDVjRVRudjNtMW9jdzNBS2FsaGhwaG9EY2tVN3g2SEg2QUpwQ2t4WG1Ga1Z5TDgzS0VDdDhIblhBV29jeTlZbDBEV2pQREE1ZUNUM0RJUjUybHBuZGdMZnA0T2lNVmhic1Y3N1hyX2lLcEpNVHRjWTdYS191d3NXOF9UUTVxVVRxeEs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "HCLTech Launches AI-Powered 'Nano GCC' to Help Businesses Scale AI Adoption - Lokmat Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVEFwbFhZUW5FQmJEWjIzQUo3S04tb2l0N2JRdTViQWk0dVdLMnVpSjU1dnQwVHRVVm1kckFNUFJsVDFUTnNqTkV0OXg5bndqYzM4cTBaaHozTUZDT2EzQmVndlZFWXA2aEs5aTMwWmlUdjZiQkxyWDNnMHRMRlR4X0ptT2NoS1d4bzRBRVU2MWZ4UDB1ejIyTGI0QVl2WmR0QVJyLWo5X1pvekVfWERBM2FwSHk3SWxBTGd5btIBwgFBVV95cUxQTlVSeXJYcjUwQ1hkQ2s1WUwzWXQ5dWtCZi1OVWctX091SG5rOEV0MkZjaXF1RWF4RlV3LUdENVZJZnVnUWdITlNBYXpOdmNCUjhyX2VfNWc4dVRqekJ0WkVCNkZPOVp5SGZZdzdXaC1SYmJKVWpvTmxzQW5aWWZUdG9YQlZSbjNqWTB6TzA3NW5qU0RXZURJRVlVZGhoNmZ4SkM4UlBkOU1PcFZLcmJPTkJObUljS3hjNk1nY3JVYUQ5QQ?oc=5"
     },
     {
       "type": "launch",
@@ -71,9 +85,30 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "HCLTech launches AI-powered nano GCC to help enterprises scale AI beyond pilots - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQkdJWmhmMGgyU190M1h6elluQzB2ZG5qbGlVaGU5bXdoWEpEQWVhQ2FNdlRlTkpVR2VSS2xsOWl5V3ZqUFg0NU82cERvZkp2cVBvTWgyYlhXT1Z3Y3NsZTRwNXEwU3VqdUJ4dFhWN2xXN3RWZmxsN0RMek5yV2hWSzFvQ0gyeWFvUmZ0Z2ktQk1TYVY2VHZ6QzhvZzY4ZkpCTUlLbjJfWWJHVk1XQVVZQ3pZd3dFNUUyYzhZODZhbVRheko2Z2pMY0VR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "HCLTech Launches Nano GCCs on AWS to Help Firms Scale AI - Equitypandit",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTdYNFRvYzNIdWdPMm1hbnNQV013OElKM1VyZHNQVWVmSHF6SDZlWFMzUjhIalZkNVdqOUd4c0VuV2hIcFlaV0VoaG1uWVdSbHN3Z2pCZ1Q4bnJFcmVGV0FRS2xkVEIxcXFGZG82LWdGdGdwalBNS05heDBwN1pOLTVkelJNV2RLN0FWM29Gbw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "HCLTech Launches AI-Powered Nano Global Capability Centers on AWS to Help Enterprises Scale AI Beyond the Pilot - CXOToday.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSXVYbllfR3VmXy0wU09XbVEyNGtnVUlKczRmTmZBbFBYODFmU3lrMDRzeGlpRlVGM290aE9nZ2F0bm5YcHJ2bWpqYjB5cnlReXBIdTBYMFRhV3BJVmNxRmhVNmtDbmRZLWdhTmUwMmtkOHJOSVlmVEdHUUViQXAyWXQwQVVFc2FVdnBhNEdMX0RoQUxqYUV5SHRscHVVY3ZSVEh6X0pPZVVkbU0teE9sSXNmU25DbmdBYlZMeGY1TGFhd2FIQ2dzTHJvMnFNRnFGRGdNUUFEalJtWmZoTkNBRURR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "HCLTech Launches AI-Powered Nano GCCs on AWS to Help Enterprises Scale AI Beyond Pilots - PSU Connect",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGJ2Nm5PZmxheWR0RVUxS0YzSGwxR2swSlRscDJYRFdPLURPWmhGMThBWk5WaE5OT1dZRUJpdnhTTFlyQkY1YkxOVUNzU1pBaVExWUpvUXU1Z1FTdk9JaVR6RHdBanpydDk4Z3JoWUxTNG5fZWt5SXNlMmRlcHN4TjZfY0VlMEo3YVp0bGlSdTFKQ0JLRFU1R0M1bS1kbU1pRFFtZkpoRGFMNjViX1BVWjU4VE84OTd3WXJDUjF2WldHZVlZRkFR?oc=5"
     },
     {
       "type": "launch",
@@ -119,21 +154,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "LTM Launches BlueVerse™ Industrial AI Lab in Chennai Helping Enterprises Scale AI Across Physical Operations and Intelligent Products - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUjRhV1ZOdVI3cHliSXVSck5VYU9LRTdwckg0b1lvVnZ1U2xqTVlEcGttY0YzdE5xOG5PLXJ5Z0ktNGdZVm81RXBsajBmZGJfQk4xcGZTZ05hNDRHWlNIU2xGdThDRHpIdlVHTHQtQ1R5bUlYLWFRcUtoQmNaYWY5c2VCdjhGUFpFVFAyYkFlVUhUSExpaDF2Zk42alZEVUN2OFVINEh0VHppbzhLSmRrREZqMFZiNkwxT1NPc1JBRU5jYS1nMUFhZ050aFVTUExKMXRBazJ2M21qWTZ1YVJKdjR3TUprS25BelB2ZEdPNmdvOGM5R2U2cGZ0YzY0a1dfYTY5a2UyazdFcEkyTGlMadIBkAJBVV95cUxNUjRhV1ZOdVI3cHliSXVSck5VYU9LRTdwckg0b1lvVnZ1U2xqTVlEcGttY0YzdE5xOG5PLXJ5Z0ktNGdZVm81RXBsajBmZGJfQk4xcGZTZ05hNDRHWlNIU2xGdThDRHpIdlVHTHQtQ1R5bUlYLWFRcUtoQmNaYWY5c2VCdjhGUFpFVFAyYkFlVUhUSExpaDF2Zk42alZEVUN2OFVINEh0VHppbzhLSmRrREZqMFZiNkwxT1NPc1JBRU5jYS1nMUFhZ050aFVTUExKMXRBazJ2M21qWTZ1YVJKdjR3TUprS25BelB2ZEdPNmdvOGM5R2U2cGZ0YzY0a1dfYTY5a2UyazdFcEkyTGlMaQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "LTM Launches BlueVerse™ Industrial AI Lab in Chennai Helping Enterprises Scale AI Across Physical Operations and Intelligent Products - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWlJ1WkhEeU40czBzM1VQNmx3SnJyd2g3WWRISVN6YzhqSDhIWEQ2MjdoMS1SN0tsSWRBa0kzbVpUZ29EWERSU0pfQnE3R19YXzVUS18yVE5WbjJwVmFES2F2VHE1azdoeThNS3VNeFZUTy10LW5nZVZLUFAzMDBHNnBWMTBEMnVJazBTYVY1NUYyZ1BOVDlod3dfQXM5alZFQ2VFMlBnQlZ3TnhGY2lCQTMtcWNDbmwtSlZEVnNxVmxEcEJveWJmTzZlR0ZnY013OUhzc1B5UGJqT2lLMF9sTklSaXVPZnppeEpNSmdjdU04aVJGamZOaEdRdlNtZzNQdjZZSDMwUHBBZ1dn0gGMAkFVX3lxTE9aUnVaSER5TjRzMHMzVVA2bHdKcnJ3aDdZZEhJU3pjOGpIOEhYRDYyN2gxLVI3S2xJZEFrSTNtWlRnb0RYRFJTSl9CcTdHX1hfNVRLXzJUTlZuMnBWYURLYXZUcTVrN2h5OE1LdU14VlRPLXQtbmdlVktQUDMwMEc2cFYxMEQydUlrMFNhVjU1RjJnUE5UOWh3d19BczlqVkVDZUUyUGdCVndOeEZjaUJBMy1xY0NubC1KVkRWc3FWbERwQm95YmZPNmVHRmdjTXc5SHNzUHlQYmpPaUswX2xOSVJpdU9meml4Sk1KZ2N1TThpUkZqZk5oR1F2U21nM1B2NllIMzBQcEFnV2c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "LTM Launches BlueVerse™ Industrial AI Lab in Chennai Helping Enterprises Scale AI Across Physical Operations and Intelligent Products - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdVdia3lIaEZ3VlcyQnRPRmdCQm1QbzZDYlY1NF94M05ycDlxdF83SDhPc3RtYmNUMWR2NlJZS2xyRVJRVzNPcmhWVzZKMUt4aVhZZWYzQW81RXlEcE5LU3hyUC04WlBTdW5Vckc0WFpvLXRWSmRlNjhFdi1nTW5iQnFUV2xkMGNubEgtQ3hnMm9PSnFyXy1CRUkybllaZU1DVUFFUXV6RWdGbDVaMGE0STlVZVg3bVJOUmlRU2M2V3pjOVlfUVF5VEt0bW1qRjZobnZDSWdTalNiRnIwMHVzWlVONjBHWTE5TERHYlZMX0JvVjB6MlhJWXFGTF9VdXAwZXhoQnRJUlJ3UDDSAYsCQVVfeXFMTXVXYmt5SGhGd1ZXMkJ0T0ZnQkJtUG82Q2JWNTRfeDNOcnA5cXRfN0g4T3N0bWJjVDFkdjZSWUtsckVSUVczT3JoVlc2SjFLeGlYWWVmM0FvNUV5RHBOS1N4clAtOFpQU3VuVXJHNFhaby10VkpkZTY4RXYtZ01uYkJxVFdsZDBjbmxILUN4ZzJvT0pxcl8tQkVJMm5ZWmVNQ1VBRVF1ekVnRmw1WjBhNEk5VWVYN21STlJpUVNjNld6YzlZX1FReVRLdG1takY2aG52Q0lnU2pTYkZyMDB1c1pVTjYwR1kxOUxER2JWTF9Cb1YwejJYSVlxRkxfVXVwMGV4aEJ0SVJSd1Aw?oc=5"
@@ -273,21 +308,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Manulife Launches Enterprise AI Platform to Scale AI Solutions and Deliver Business Value Across Global Operations - TradingView",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSDlSbm9HTXFIUnZhS1FOUktocXY0WkpqYl9XeW1hQ1YyVEQ2M1kyV2pkMm1MUjdaNE9fZ0FOT003YU9GMlJ6ZUZ1UlNzYUU1SHdrRXZjZlhSREVkbTFmak55TnI4UXpVQ18yNU1oUDdMNDJUTFhVZVVLTjVOd2NHSkxiWTNXajhpQlV4ZncteHFIRGxnd0xERHRlb1lvV1pHR1c2cTNUZG5JSFhtcG5qNTRPc0lJYUM0MmM4V0JIUl9pTVozZnE5VHdhQjZLajVtMjBnVmpsWUw0UnFpTW5UclJWbWRpVm1NakZrQ2NXMm1kSnJMdFVIcmRjMUMxUTVIOVliREtB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Manulife Financial Corporation Launches Proprietary Enterprise Ai Platform to Scale Ai Solutions Across Global Operations - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSVdqWVFHREJIWk9uRmFONk9UQk9WcFdabXhXN2JvaFFla0lraWpwRmtvLTdqSVRrMUk2N1g0MGZ0amJRQjFkZ05GOF84XzNYS1FORGtBejgya0FYQVFOSmpZYXp5VXlkWkJlWVZyOC1jaVBQOUxybzBSanMtWUJmdWNwT3lYSFZUYlZPekVlSHM5eHptVjNtZ3cyZFdjbXo3b2hUWklhWjY2YnpEYlRKLTZHV0tjMDViRF9iRVFHa3dLUEh6Tk9zamxST21idTBrczZuYUxYZUNLODloWGFDUkNMZlZ5T21j?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Microsoft Unveils Maia 300 to Scale AI Inference and Improve Data Centre Efficiency - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0d0Q2Y3cU9md0JjVl9Cak43RnVmcWpRS1EwM1FZamo3X0ppcFl6VjZaNHkxWlEzc0otSEFmMDhQNzFQMjlhZXFHcW1xd0JsMlJ3Mmo4SWxqUGFNZlVjSEhRMndnd1VtYzFPcWY4T0JWLXpmOHZQR1d1Z3FYOVY4M3RyTWFRWDFNNzdDYmtpVjBjZWJYdFlPYzh4TFVJQmNNQkhISXZVZ2kzQ1V1SzV3NGVHenU3amxFM1E?oc=5"

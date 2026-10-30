@@ -1,10 +1,17 @@
 {
   "domain": "adenhq.com",
   "name": "Aden",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-27",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0V0SUY2Nnh1cksyeHQzekZxWlFNRWFzanJiM0k4QmVNUDBWLTZqSnBLY29PUE9WTGxQb3FKVkp2OUN5bEFZV09pQjFpRV83RUhfYU9lRkJxODFiWlRHbl9vTndRanlGUk0xak9aV2FpN1o4RFk4SldjTUd6VVhTUkpPY3ptNEdNMXhKVzNxbmNvellVSUswM0hMOXgwRGE2NXQtYmNjeW9fNGZHWDBkN3hoTWZ4SDdENkNveGRQWFMxdTJWdlFGTg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-24",
       "summary": "Houthi militia launches multiple missile attacks on Yemen's Aden - TRT World",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uMEJsU0ZGUWRVcHFhSjZ4UElJX2FZY25sNDRaV2JmTmhteFB6YkJhd1NXU3hKSFBkT084d0k2WkVSZlRxZTEwNWZCQm5mVXY5WnhVUjk1TE0?oc=5"

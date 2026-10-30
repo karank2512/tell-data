@@ -1,16 +1,30 @@
 {
   "domain": "saturnos.com",
   "name": "Saturn",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.7,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-27",
+      "summary": "THIS DAY IN HISTORY: First Saturn Rocket Launches from Cape Canaveral 65 Years Ago - Space Coast Daily",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWG9LMFp1ODk4U3llN2tZLWV4YnFrR184azduX0ROOEtZeHh2WHRwSTdoYnh4NUhKUVpUaUdyb2dCVTdmT3M5c2h1SndTcFg1RDZLbHpqSXhjNUxkUHpWajdyeklxRm1jbm1NME9palA3QnJ0c2Ztb1FUdE14WC1xUVlDcTAyRDJZT2NZa3BCdF8zaVJjVUxUaHBad3RhNlE1R3NxbktDQUpOMVlXLVhJZ1hJUk91b0NuUnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
       "summary": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket - Space",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEdCZDNlY0RKVU1YSFZ1NjRiYzM1MW5OV3pONEprbENnYzFJbmhIOWNnQ3d4UE84QXN0bHZpajY4cE9XOVVzS21nYUlUUk1jVktOdzBQSGFsaklzQ2dYYlFraS1DbXAwZm1CaWN3R01vcmxoTVJEMXJrMmZaSWVDNUVn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Oct. 27, 1961: The first Saturn rocket launches - Astronomy.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWo3MzR4TWltbG5pTWx5Q1pBMjJEcXpSbG5XQnlmd3hWM01PZ3pBN0Q2QWNFWVhhWHByclN5c0pSSEd2eWhSVFB6cXgzRURJN21YTEtHdVNCMkgxS0t6Z1ZscDBBWFp5dURsT1pSVVpSb2g3Z2pDVHpkUVhpLXNJU0FVY0ZoMGVfdi1sQWQtUURnQVZaODcwVlhjNHYzTEI4dmF0TFIzd20?oc=5"
     },
     {
       "type": "launch",

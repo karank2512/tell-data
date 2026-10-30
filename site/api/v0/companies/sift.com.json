@@ -1,9 +1,9 @@
 {
   "domain": "sift.com",
   "name": "Sift",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Kindo Introduces Deep Hat Sift, a Self-Improving AI Model That Gets Smarter With Every Decision to Reduce LLM Costs - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWJxSl90MGNpbnZKVk9GLXN5SHd1X2FSZHRVS1hVVlkzdDE0dndGZ1haQWNTR3hyVDE0NUtwamRQNGVScUlUYUpYZnpKOE00VTVqODN4SGowVEhuQkg2LUVibjUzZDB4VGNOQ1lFX29RbDIxWGM3SUNyS211THdEYzlPaG1IUm1CWHg3QlhhdHlfTkx5U0wxQk53?oc=5"
@@ -41,7 +41,7 @@
       "url": "https://sift.com/blog/introducing-the-sift-fraud-attack-defense-suite/"
     }
   ],
-  "open_postings": 6,
+  "open_postings": 5,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:sift",

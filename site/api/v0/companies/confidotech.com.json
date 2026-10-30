@@ -1,9 +1,9 @@
 {
   "domain": "confidotech.com",
   "name": "Confido",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 1.9,
+  "score": 3.3,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -24,6 +24,13 @@
           "url": "https://jobs.ashbyhq.com/confido/54553f6d-b525-44da-adbb-bb021b2a1967"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Confido Launches the First AI-Powered Foodservice Trade and Deductions Automation Platform - The Food Institute",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWs5MzcwX2ppQlp0N3NlMFJFZDBaWGJLSXNpSzJFcEoyN2xrUmxFWjVXWjNmVnZkVTJvbHpvWDd4T09PcUhmbnNLcm9mTEdUd0JsU2RTZmdlZHpOWmVCVDViV2RFNE9JekQwa3hiZlZaX2JtWEZjTzdSUWwxa0N0dC0tdGEwUFJwcHVpVzJ6X1FJbkFIRjgwZjFJOVhMZWVqQm1Sa3ZRbHJ3eW5jMTY3RDRjY3pacHFGcnA4ZnNoQ3g?oc=5"
     }
   ],
   "open_postings": 38,

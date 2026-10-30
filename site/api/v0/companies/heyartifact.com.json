@@ -1,10 +1,24 @@
 {
   "domain": "heyartifact.com",
   "name": "Artifact",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 3.1,
+  "score": 5.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Harvey launches Intake artifact for Claude legal workflows - Blockchain News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVEVXSTE4OG5yNUZvc2xCMnNmd1R5ZjktWGszVXQzV2J2ejVXVGYwVmh4SVFHMFRKcGY4N3VDemJEbGlDbUQzbDV6cklhMm95OXE4NVEyNm1vTlVBMW1Zc2VBVlJBQnBWc0pabjNidWlpeWlCS3MwS3BzdlRtZTQtMHpENVZkUHNnZWxaaVlUR3o?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "E-Land Group Unveils 30-Year Pop Culture Artifact Collection - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMjRPTEF1ZEtwbjBSRXdDRXpTbHlod1JoV192aVh1aDR0X2dMYldhTkNUdGRqY0dqd3VPREpPbW53MEFRZzI2UGh4WEVJUXhYVzBaOXVreVI1VDQ2QlQ0VnRGNUdTMDhwTUZHeUY4Q2dvWnNyZEN0TWpNTl93R0hYa2xhVUcxUEFy?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

@@ -1,0 +1,25 @@
+{
+  "domain": "laminar.com",
+  "name": "Laminar",
+  "as_of": "2026-10-30",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Laminar Research Releases X-Plane 12.4.4 Release Candidate 1 - ThresholdX",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcXNDSnF3R1Z6djZxYUhBS2YyNHIwM3ZDWVU3MW0yUVdIUW5GTWZxZ2c0bGE2NG9xSmNFTGhLaW82M081X00xUGhHVVV4SFJUXzd4M3YybW5ocXpNQWE0WmhmaWJCN0RRUGl5OURzTmJlX1g2Zzcwakd6Nm1LbmoyZm5CakJEQ1ppN295Vw?oc=5"
+    }
+  ],
+  "open_postings": 5,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "ashby:laminar-jobs",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

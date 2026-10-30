@@ -1,14 +1,14 @@
 {
   "domain": "gocardless.com",
   "name": "GoCardless",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.7,
+  "score": 2.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/gocardless",
@@ -47,7 +47,7 @@
       "url": "https://gocardless.com/blog/gocardless-launches-recurring-pay-by-bank"
     }
   ],
-  "open_postings": 25,
+  "open_postings": 27,
   "long_open_roles": 8,
   "sources": {
     "ats": "greenhouse:gocardless",

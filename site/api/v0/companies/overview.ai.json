@@ -1,10 +1,17 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 3.4,
+  "score": 4.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Mobileye Releases Third Quarter 2026 Results, Updates Guidance, and Provides Business Overview - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcTJ2RkYtWl90d1VOWTBqU2pLbmNjbHkwWTZ1UjE5QW9PZ2xpaGVkYWZObTRDQ1dRWHFYRGM3UDBjWGVNLTJMVUtTMWlyOG1heHhnX1BuX0EtQ2pWLXJBeVhaRElhVk1pSXgzendFMHU2X3RqUmpWbE4zYktYbjF4ZlF6RW5NTFZaRGczbkEwS1pidjBFTmh4bVAxeDdJMFM2RHdnV0prSVZyc0RMd29JaWs2eXlsMHNGaThFaUozZXIxaU5TSW9mTGVYVUZ5Wm9zMXNTeTM4cG5KSFJNTVlHaDJUaw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -22,7 +29,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-28",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/overview",

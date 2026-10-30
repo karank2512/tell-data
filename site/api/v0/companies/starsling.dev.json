@@ -1,9 +1,9 @@
 {
   "domain": "starsling.dev",
   "name": "StarSling",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-27",
       "summary": "Introducing sling: an agent-first CLI for your CI",
       "url": "https://starsling.dev/blog/introducing-sling-an-agent-first-cli-for-your-ci"

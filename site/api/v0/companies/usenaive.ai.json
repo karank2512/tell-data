@@ -1,13 +1,13 @@
 {
   "domain": "usenaive.ai",
   "name": "Naïve",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
   "score": 3.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-06",
       "summary": "Introducing Social Data: Public Social Media for Every Agent",
       "url": "https://usenaive.ai/blogs/introducing-social-data"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-07-01",
       "summary": "Introducing Vault: Write-Only Secrets Your Agent Uses but Never Sees",
       "url": "https://usenaive.ai/blogs/introducing-vault"

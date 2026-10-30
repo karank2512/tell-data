@@ -1,10 +1,24 @@
 {
   "domain": "caseyinsure.com",
   "name": "Casey",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 15.4,
+  "score": 23.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-28",
+      "summary": "CompTIA Appoints [person] Chief Product Officer to Advance AI Workforce Readiness",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUdjMlJ4bjl0aktJYjBDVmpaV1M3dXhkdFpleWo5TGNDX2Npa2hQS19HLXNoQnFHdldOU0RuUF9qNm9ndFZFdmxOZDI0RFFUUTVYbThaVUgzMERyTDk2bmVob2YwdnRscUVld0lyb0xwY2E3a2xtUzVERDZUOS1vU1JIYjBhV1YtM2c3YVQ3dDg2MzQ1TjJ4UVRqaVlhQ3l1RkZBS0Z0VXNFSWJNczlWc2RPYXpFY0haTTdSUFFZcy0?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-27",
+      "summary": "Heritage Bank Appoints [person] Chief Information Officer to Lead Technology Strategy",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0x1STZRbXZoOW81ajNjN2k4YVdvSFJZam8zQlB4M3V3djlFek5nQkJ6LVozNXZIUzVSUjJlczZFMlZWWHRQM3dDek5tTzljMWFwNTdIUGhzSUZHTURQSkNJOXB3YUhyUUh0a0JTUXJPS1VaZUdoMUxqY3o2MllFczBzci1YYnlnZGplNjc2Nkkxb18tWHN3SFV3djdrSVpNM1JNemdTNHlXWWQ0T3dEc0N0OFFFdGNCamJMMUUwWThTZm8?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
@@ -15,6 +29,27 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Casey’s rolls out its first pan pizza across 19 states - Mobility Plaza",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkh0N3lrem1kWmZjOVUwN0RCdDRTME1yZFBYT3ZiUHJRSE9QQnFGaEhldnltQUVJLVk0WmlUdFBZdVJiVG5ieHQ0Z1FIQWJyU2syWHVvNDZmSjlvVDBHeVdXaDlnYWhUN3l4b2x4VFozR2JlNnhfamN4OWJEa2tMODV3SjNwcVpTVVd6RnBQWHZVajQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Casey's debuts new pan pizza in the Omaha area - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXB5S1FZc2FZRmhiQ0JTN3lWazdlLU80VXVBMWJfZjRpdDRLc21TRG5qRWMzM1hzWUQ3dXVXazF6Q0U5Q0FtNGNfUTNmNktCbzdFeks0QUduMXhCbVAycEptLUREMHRYZGRPNVFhTXN6ZVdFYmZXQU1sbWl6OU1JZjNTbw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Casey’s Introduces First-Ever Pan Pizza - CStore Decisions",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpODhla29rcDdlY2ZfeWVBbERKN1M2MDVDX013QzRYXzlveG9HNURrbmhSTnpmVm1tSkFQTWRXcG4tZXo1Vnd3WkE0b3BhQ2xaVm9BdEFoaFJyV044azNrRFVZTm9EV2hEajUxZXU2ZHJrQ0FZX1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Casey’s Launches New Pan Pizza - NACS",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0J2QWxnSHhmTmh6ZWw3emNjLUJ6aWFreGNJNmFaR05TYl9yblM4c196azVTT080ZDVLSHpOSmM2ck1laGh6NnItdEdyVDg3MG5kOTNkMGhvN0s5SVF4UXllOW44TFMtLU1iWVNnWDVfMDlzWWRXdk5vR2tfMzVBS0RVd19qUzd3YUJ1bElWUFcwQWkzZGUxOWc1Vm1JaFJjZHc?oc=5"
@@ -63,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Casey Bloys Unveils Skydance DTC Content Leadership Team - Deadline",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUjBORW1SeUd6TVdNM1dTdUtmUnkyUlJTNm1pYmRZNlBnWmlENExCby0zak1aOFNFMzdQUXhyYS1VNWxQbDU2Tk5md1FyXzJQRU9obFhMeWdkUGpQVzlXVlhZWFpsMHRnZkxBXzBOamg0Z3JiUkRfc1J0Rlk0cGUteUUzX0ZackxmakRpTUwwQXdVdw?oc=5"

@@ -1,14 +1,14 @@
 {
   "domain": "fivetran.com",
   "name": "Fivetran",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 7.4,
+  "score": 8.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 4.0,
+      "contribution": 3.9,
       "occurred_at": "2026-10-29",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -62,8 +62,33 @@
     },
     {
       "type": "hiring_velocity",
-      "role_family": "finance_ops",
+      "role_family": "engineering",
       "contribution": 0.9,
+      "occurred_at": "2026-10-30",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/fivetran",
+      "postings": [
+        {
+          "title": "Software Engineer I",
+          "posted_at": "2026-10-23",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8028409003"
+        },
+        {
+          "title": "Senior Site Reliability Engineer",
+          "posted_at": "2026-10-27",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8044038003"
+        },
+        {
+          "title": "Senior Software Engineer - Core Experience",
+          "posted_at": "2026-10-29",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8041168003"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 0.8,
       "occurred_at": "2026-10-27",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -86,7 +111,7 @@
       ]
     }
   ],
-  "open_postings": 167,
+  "open_postings": 168,
   "long_open_roles": 42,
   "sources": {
     "ats": "greenhouse:fivetran",

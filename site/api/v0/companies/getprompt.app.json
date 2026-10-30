@@ -1,10 +1,17 @@
 {
   "domain": "getprompt.app",
   "name": "Prompt",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 6.2,
+  "score": 7.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Coptis unveils Purple, a “Prompt-to-Formula” AI agent for cosmetic R&D - Premium Beauty News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMFhYcnVJN1VnaF9hMHBjZGJkNE1MUmdxVlZMbGVUSUZnLU9EaFNadUk3REQ2V05LZm9OQ1VIUXk0Um15dkdKSlZ3U2F1WHRSRVZjaXd0Ujhwb3VSdGhrZDBkM2h6Z0xDZXc4QzdyZE1leS0tYWN6aXFISzZ1U1A5UTlR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-18",
       "summary": "‘Put every prompt in its place’: Intel launches 480GB GPU D-series for AI inference - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOclVIODY0eUZwVGM4dmhVYjZOcFU4NG4teTMzaUlhM08wb05XZjdiY1NGeVhDa1hhWXZWeXNBSjBmTm5wSGtBYUhtem5iU1hLSmxlYkF0Y1JZdXN0SF9UaXVVcjFsMGNPUjhNQXM5WHNLd2NqM3JkSEpiNFUxWDhCVW45ZkwwczFEYzIxYQ?oc=5"

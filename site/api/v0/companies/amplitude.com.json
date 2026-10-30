@@ -1,14 +1,14 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 17.2,
+  "score": 16.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.9,
+      "contribution": 3.8,
       "occurred_at": "2026-10-28",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/amplitude",
@@ -79,7 +79,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude Appoints [person] Founder Vijaye Raji to Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWVIZV9FNWJQbTd3R2tUR1Q2U2JKbDJPbFQzVzEzTkpEdWdlMko0b1pfWERVMDJtMXBlZ0p4NWRkVkFoVGhOOVBSdzF6QzFkR3JqOTdlYjk2ZWRNQXJMVlVXRVN0TWRuV2tvNWlyaGVXOHE3Z0dLbEpaS2lSdmRobVNJbUwxcXZhX05pZzhhbnhMQzl6NmZQOE5JQUpGZFo4YlBtMUFLS00?oc=5"
@@ -93,13 +93,13 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-06-11",
       "summary": "Introducing zoning insights: Web intelligence at a glance",
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 44,
+  "open_postings": 48,
   "long_open_roles": 8,
   "sources": {
     "ats": "ashby:amplitude",

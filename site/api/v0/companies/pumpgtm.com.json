@@ -1,13 +1,13 @@
 {
   "domain": "pumpgtm.com",
   "name": "PumpGTM",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 1.1,
+  "score": 1.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Signals: buyer activity for your sales agent",
       "url": "https://pumpgtm.com/blog/introducing-pumpgtm-signals"

@@ -1,14 +1,14 @@
 {
   "domain": "claimsorted.com",
   "name": "ClaimSorted",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-28",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/claimsorted",

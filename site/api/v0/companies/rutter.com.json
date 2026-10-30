@@ -1,10 +1,17 @@
 {
   "domain": "rutter.com",
   "name": "Rutter",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 3.7,
+  "score": 5.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Rutter’s Launches New Game Day Haze IPA - NACS",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZi1CZ0ZrandZTGJKU3ByLVFuSVN5SktSTzdrN0l2OGFjYVp1UmhqVWo0QWFRSG9Tb2JLUG8yZWJZZVp1cndMeF9xelBUblUwTEhKdEF5Q2N5all2OGVubnVhb2lLUnZ1QmF0aVZ5YzZEbHZSNXJxSzM2MFpTSUYxTl8ycXpoVTJiSm9UNmNPUFJja1ltNFRacGhUX0NXS0VidzJCUHJjY3lkcXhkbHc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

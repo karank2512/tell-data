@@ -1,19 +1,19 @@
 {
   "domain": "quartermaster.us",
   "name": "Quartermaster AI",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 25.2,
+  "score": 25.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 25.2,
+      "contribution": 25.0,
       "occurred_at": "2026-09-29",
       "summary": "Form D: $123,649,412 offering, $122,649,481 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2132947/000213294726000002/"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 8,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:quartermaster",

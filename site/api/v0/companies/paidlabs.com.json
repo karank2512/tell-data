@@ -1,10 +1,17 @@
 {
   "domain": "paidlabs.com",
   "name": "Paid",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 3.9,
+  "score": 5.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Vox launches its first app with an eye toward building paid memberships - Nieman Lab",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHhNUjlPLU11U0NrYW1CNWZPWGhVOTdzNGUxVzdmYXl3UlVHWjFXMVZIWGVBRnJNTjFObWdZRDE0NnBVUHY1WEpUdmZ0Z3ZrYzVPV1FkajVLMlFGb0N2d2U3N0tjTlpwRDZJSkxjT2lxUHVaOTljX0xzZ1Q0MkVOOUs2eHpQS0xkVGp1S0FwNWw3XzBybHlQRG1uNXc3Rl85d1JZMmlOOFQ1dw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

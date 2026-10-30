@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 20.5,
+  "score": 21.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.9,
+      "contribution": 11.8,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.2,
+      "contribution": 2.1,
       "occurred_at": "2026-10-16",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -46,7 +46,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-09-30",
       "summary": "STARK Unveils Vanta 12 USV With 1,200-Nautical-Mile Range and 10 Kamikaze Drones - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3pzbFFxb3drZElSOTNoWXBTcUFOb081czduTE1JclJ2cWFfcldMLUN5VkhnVW9HaXRwVV9VbktERVU5OVByREdaOGk1VU5HbTN2RC1OdzB1b203TVhHTDZ2d1plMkkzQUFTQ254blM5OUFVZi1fT2hONUZ1R19tNmx5SFp2YlVNUU0wVERDdkdHMHNSLUpzUlN4S05KUkhKNTBqWExSd25jdU0wV19xS0tB?oc=5"
@@ -57,6 +57,31 @@
       "occurred_at": "2026-09-28",
       "summary": "STARK launches Vanta 12 to strengthen maritime security in the Baltic Sea and across NATO's northern flank - Arctic Today",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3B3R2VwQ1RPSWh0ZjRReWlVU3JIUDdNLUFwbzVVWEw2cDJULW9pakpXVkVCYm9iUm9wR3pfd0dpemQ0b0JOZmlpenFBZkN5bV84NzdIT05rc19IeVV0RFAwLTVQTHZEYUstbDVCNnJXRndRcTBNMkpfQW5zNmdfbkZNQkJjcGdhdU90WDVnMnFZM0RqbU1oUmt5QWhkWWUxNlJQSjJsc3N4RnByMXBCTjBQcVR2V3ZOMHNrQ1RHaGRSU2VvdGktUDFkeEVnMVZCVHdiaGlkQmhPUUV0SktnUk1OcC1MSWFvamJrOTd3QVM?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "product_design",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-30",
+      "summary": "3 new product design roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/vanta",
+      "postings": [
+        {
+          "title": "Staff Product Designer, Activation",
+          "posted_at": "2026-10-28",
+          "url": "https://jobs.ashbyhq.com/vanta/7d9922bb-2d0e-4833-bc4e-df65dc57d232"
+        },
+        {
+          "title": "Staff Product Manager, Activation",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/vanta/c3a34fb5-02e4-430e-83d2-b096363901aa"
+        },
+        {
+          "title": "Senior Product Manager, Commitments",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/vanta/0eb769bf-5444-491b-8721-2fc579ca4932"
+        }
+      ]
     },
     {
       "type": "launch",
@@ -108,7 +133,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 79,
+  "open_postings": 82,
   "long_open_roles": 18,
   "sources": {
     "ats": "ashby:vanta",

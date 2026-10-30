@@ -1,10 +1,17 @@
 {
   "domain": "grep.ai",
   "name": "Grep AI",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 5.4,
+  "score": 6.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Introducing Grep AI Swarms: Teams of Agents for Work",
+      "url": "https://grep.ai/blog/introducing-grep-ai-swarms"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Introducing the Skills Library",
       "url": "https://grep.ai/blog/introducing-the-skills-library"

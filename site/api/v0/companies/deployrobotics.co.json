@@ -1,13 +1,20 @@
 {
   "domain": "deployrobotics.co",
   "name": "Deploy",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 9.3,
+  "score": 10.7,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Signal Consulting Launches Foundations FastTrack: Accelerate + Deploy Modern IT Infrastructure and Security, Predictably - LawSites | by Robert Ambrogi",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV3lDRW50ckJrUHBFdDRzV1hRUG1vYWF4bk0wSmtIOC1xd0diVHJyWjVRUm43UFlzQ3oydUtkZk8xZTFKYi1LMXFxNW94OGxpZk9VemVXUWF2T25aazdEMG5ZbURwdngzQUVrd1JMM0ltTjZPVVQ4dml4QmVQVzh6dGZ3OE81bE04OUZaUjhoSWswSnA4WFVKeEV1Vm5pR0d4NWhPZWNrNHBNNDZkeGttM1d1VXk0NldleWlVZG5ZdDFRNFM2akhfRXpseFdpTEN1VldFM0JlaFNkLXNwQlZmNEZBOEl1b2hx?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Opera introduces a new web standard to let users deploy AI locally in their browser - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZW9MRW9HempOUW9lTTBfYlRRTExoUUpYc0RzTlhDS1ozUUh6WjdSdUVRc1g3XzNJSE1ZcDdiYjMtSnpMX1NaUTBYSG1MYThoSGlOalZWMHRCZU5SYkhEN1Iwamt0VzdLQU9sNEJ2Q2p6a2txSVdPMTRCQldkZG5LMW5WSnJhMHc2a09XcDBCQV9zN09keDR1THMwMVN1cHdEMFYzTXVlQnFyQTlGV2ktbEN2TURyam9GVWc?oc=5"

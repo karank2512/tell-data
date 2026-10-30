@@ -1,10 +1,24 @@
 {
   "domain": "famapp.com",
   "name": "Fam",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 4.9,
+  "score": 7.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Railbookers launches 10 agent fam trips for 2027 - Travel Gossip",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzQzNFhHcWNEVjFqV2lxZ243NGFobVJBbnFlNzVEWENzUVM4bERuY3BuMjNqYk1NT1RGYm5lRTJxVl9YbEFVNTIxUWc0cXV0VWpZemlaZGFheDV6eWl0Uk4tdG1JbUVwV0FSTFRzSFVRV2xub096dWprbldYMkxBYXVxQkQ3dklVS2Q2ZkxLNDk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Railbookers launches 10 escorted agent fam trips for 2027 - Travel Weekly - Home",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnFfdkZXbWdXSHJQYzlrcXV0V041SC1VTDdUMEx6ZGQyQXlrV3Q5SFNWbGtsOGVGeGs1LUVuR3N1S0ZSTWJPRmJ1bWdXM1A1dmFBWXdkV0ZMci1uX3F4ckVKSEpCSHBXYm9jcW5yWEt3S2ljYVlacGFmOVE5Rzc4eHhUYWdlekZPTjdpRG14RGhsdWM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

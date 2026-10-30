@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 37.5,
+  "score": 37.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 25.0,
+      "contribution": 24.8,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/exa",
@@ -41,7 +41,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "ZoomInfo launches native integration with Exa through GTM.AI - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelNwY01IZnJ4aXhuSExYSHRaSTBGY3VjS0Q2MzV2SGFfVmVBczFObVRkSGVxcXVnTzlEeE9ERGpWNkNLQUJCT1I1NUMzaFUwUWZEcjluWVVIZFhFeXl1Q3JYTFVjLWRMMmZBUmIzUVQtTjQ1TGRuV28wbDNJM21Semp4TVFfYmk3cUFLc2pxallmcjNrdlFRd3Bvb1g4T2Y0QzZYYzQ4MUpEWW5GNEpz?oc=5"
@@ -103,8 +103,8 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 55,
-  "long_open_roles": 29,
+  "open_postings": 62,
+  "long_open_roles": 26,
   "sources": {
     "ats": "ashby:exa",
     "edgar_cik": "0002024864",

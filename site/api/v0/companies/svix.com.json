@@ -1,9 +1,9 @@
 {
   "domain": "svix.com",
   "name": "Svix",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 0.6,
+  "score": 0.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-01",
       "summary": "Introducing Webhooks AutoConfig",
       "url": "https://www.svix.com/blog/webhooks-autoconfig/"

@@ -1,10 +1,24 @@
 {
   "domain": "mayhem.gg",
   "name": "Mayhem",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.3,
+  "score": 5.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Marked For Mayhem Releases First Dev Vlog: Ex-Blizzard and ArenaNet Veterans’ Four-Player Dungeon Runner Where Only One Escapes, First Playtest November 6–8 - 인디게임닷컴",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xRXNzNnBMTjZHMEVHUFlZOTV4SW8xbDlMa2d3TEEyUU9jbnZTcDNPOGhSdTM5THptMmgzZnFEZWkzOG84YTJlSVhqUWpmcDJq?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Chaos, Mayhem And One Very Long Arm - Jackbox Games’ My Arms Are Longer Now Launches March 11, 2027 - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0R5UWxhMDhZQUdQeXZiWGVXVnFJWF9SN2xYRmFPRUx1RVptVkxRd1FvSkJoYmJ3cDJoZEROcUpQTzEwXzJzbW9hLTY4WUJ4ZjZtdTI0Vy1ManRoVVg0U29BUENGWDBHSlFjNXdSZ0diZ2lfTWJkcVBLRldoTjBPLWNsYjJIT3JQZl90ZUgxX2VKa09kMTB6Q0tZdW9xYnFBNEFNb09zeDhBOGNacEZ1b1dIV3U2V1hhQUlHYmUzcw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

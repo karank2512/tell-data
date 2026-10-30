@@ -1,0 +1,681 @@
+{
+ "vendor": "ashby",
+ "identifier": "happyrobot.ai",
+ "domain": "happyrobot.ai",
+ "as_of": "2026-10-30",
+ "last_polled_at": "2026-10-30T15:22:55.760045+00:00",
+ "open_postings": [
+  {
+   "external_id": "016536a9-1cc2-4259-97d9-dbc9fe58cc65",
+   "title": "Strategic Account Executive",
+   "role_family": "sales",
+   "location": "Sydney",
+   "posted_at": "2026-09-24T18:53:23.808000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/016536a9-1cc2-4259-97d9-dbc9fe58cc65"
+  },
+  {
+   "external_id": "019a38ba-756c-4c5c-8742-756f101b38c4",
+   "title": "Software Engineer - Backend",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-20T17:52:47.096000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/019a38ba-756c-4c5c-8742-756f101b38c4"
+  },
+  {
+   "external_id": "02bccbe0-6ded-435e-ad30-84121b359fc5",
+   "title": "Product Marketing Manager",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-02-07T02:47:02.773000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/02bccbe0-6ded-435e-ad30-84121b359fc5"
+  },
+  {
+   "external_id": "039cf27f-591f-435a-84be-9b4b2df568f1",
+   "title": "Cloud Security Engineer",
+   "role_family": "engineering",
+   "location": "Madrid",
+   "posted_at": "2026-08-06T19:21:24.277000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/039cf27f-591f-435a-84be-9b4b2df568f1"
+  },
+  {
+   "external_id": "0e5b9fa2-0c61-413b-9fc9-73dbefe14406",
+   "title": "IT Engineer",
+   "role_family": "engineering",
+   "location": "Mexico",
+   "posted_at": "2026-09-23T22:00:37.724000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/0e5b9fa2-0c61-413b-9fc9-73dbefe14406"
+  },
+  {
+   "external_id": "11eacf67-079e-4760-9ed0-ab5cce117fd5",
+   "title": "Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "London",
+   "posted_at": "2026-07-23T17:14:02.647000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/11eacf67-079e-4760-9ed0-ab5cce117fd5"
+  },
+  {
+   "external_id": "1381c729-5d21-4345-94b8-08ba4a37063a",
+   "title": "Founding Forward Deployed Engineer - French Speaking",
+   "role_family": "customer",
+   "location": "France",
+   "posted_at": "2025-10-01T15:25:34.236000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/1381c729-5d21-4345-94b8-08ba4a37063a"
+  },
+  {
+   "external_id": "1b29321d-9f37-4b38-adeb-e3d865727e00",
+   "title": "Senior Recruiter",
+   "role_family": "finance_ops",
+   "location": "Brazil",
+   "posted_at": "2026-07-23T17:17:22.083000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/1b29321d-9f37-4b38-adeb-e3d865727e00"
+  },
+  {
+   "external_id": "224e1cd5-4299-483d-a6d6-70e34130ad94",
+   "title": "Senior Software Engineer - Backend",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-20T17:52:52.644000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/224e1cd5-4299-483d-a6d6-70e34130ad94"
+  },
+  {
+   "external_id": "2c93031d-b3e5-4e04-a494-de170dd88838",
+   "title": "People Operations Specialist",
+   "role_family": "finance_ops",
+   "location": "Madrid",
+   "posted_at": "2026-10-05T18:39:31.643000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/2c93031d-b3e5-4e04-a494-de170dd88838"
+  },
+  {
+   "external_id": "2f7eadb0-e757-4555-9f2f-d515844fe904",
+   "title": "People Partner",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-29T21:38:23.950000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/2f7eadb0-e757-4555-9f2f-d515844fe904"
+  },
+  {
+   "external_id": "31bb7dd1-6c24-489e-80b9-93c6a797fe32",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Argentina",
+   "posted_at": "2026-04-22T15:41:48.219000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/31bb7dd1-6c24-489e-80b9-93c6a797fe32"
+  },
+  {
+   "external_id": "3435ec4f-72ff-45d1-bf94-e9957d5c7689",
+   "title": "Northern Europe Sales Leader",
+   "role_family": "other",
+   "location": "London",
+   "posted_at": "2026-09-30T16:43:51.479000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/3435ec4f-72ff-45d1-bf94-e9957d5c7689"
+  },
+  {
+   "external_id": "36b90c44-7d9f-4cfe-98ab-fb548c93d1ee",
+   "title": "Data Scientist",
+   "role_family": "ml_ai",
+   "location": "Barcelona",
+   "posted_at": "2026-08-12T20:45:31.272000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/36b90c44-7d9f-4cfe-98ab-fb548c93d1ee"
+  },
+  {
+   "external_id": "3f410c9a-79f4-4a80-ba7e-962210a0ce04",
+   "title": "Strategic Account Executive",
+   "role_family": "sales",
+   "location": "Dubai",
+   "posted_at": "2026-09-24T19:06:07.242000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/3f410c9a-79f4-4a80-ba7e-962210a0ce04"
+  },
+  {
+   "external_id": "4061af5c-c35d-4f59-851d-52854facfdb0",
+   "title": "Deployment Strategist",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2025-07-03T19:52:51.066000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/4061af5c-c35d-4f59-851d-52854facfdb0"
+  },
+  {
+   "external_id": "43d9bd48-7701-4719-affd-ecf92adfc37a",
+   "title": "Machine Learning Engineer",
+   "role_family": "ml_ai",
+   "location": "Spain",
+   "posted_at": "2026-04-29T10:31:58.688000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/43d9bd48-7701-4719-affd-ecf92adfc37a"
+  },
+  {
+   "external_id": "46cff020-a295-4464-a062-94639689654e",
+   "title": "Machine Learning Engineer",
+   "role_family": "ml_ai",
+   "location": "San Francisco",
+   "posted_at": "2026-08-10T16:47:45.189000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/46cff020-a295-4464-a062-94639689654e"
+  },
+  {
+   "external_id": "4768c3cb-9a60-40d9-8704-3fa8b5042553",
+   "title": "Product Operations Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-09-01T23:14:49.377000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/4768c3cb-9a60-40d9-8704-3fa8b5042553"
+  },
+  {
+   "external_id": "47d4191c-39b3-496e-86ec-772da9fb2046",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Barcelona",
+   "posted_at": "2026-06-12T17:20:34.783000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/47d4191c-39b3-496e-86ec-772da9fb2046"
+  },
+  {
+   "external_id": "49c03702-d9a6-4d8d-97ff-94c0071fe984",
+   "title": "Chief of Staff",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-01T20:50:33.115000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/49c03702-d9a6-4d8d-97ff-94c0071fe984"
+  },
+  {
+   "external_id": "4a4a98d0-a915-4724-93b5-a0fe035b88c3",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": "United States",
+   "posted_at": "2026-10-20T17:01:37.417000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/4a4a98d0-a915-4724-93b5-a0fe035b88c3"
+  },
+  {
+   "external_id": "4fcffc26-ea08-41e2-b85d-9f076d97419c",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Madrid",
+   "posted_at": "2025-03-10T16:15:13.749000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/4fcffc26-ea08-41e2-b85d-9f076d97419c"
+  },
+  {
+   "external_id": "539aa8f6-5e03-44eb-8de7-7bade6dbfdd7",
+   "title": "Sales Development Representative (SDR)",
+   "role_family": "sales",
+   "location": "New York",
+   "posted_at": "2026-10-09T20:20:59.445000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/539aa8f6-5e03-44eb-8de7-7bade6dbfdd7"
+  },
+  {
+   "external_id": "5726534e-7958-4b4e-8e3c-553025d38cc2",
+   "title": "Site Reliability Engineer",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-06-04T21:38:14.984000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/5726534e-7958-4b4e-8e3c-553025d38cc2"
+  },
+  {
+   "external_id": "5ac9b169-1ff7-46cd-8cf9-e771081869e7",
+   "title": "Founding Recruiter - APAC",
+   "role_family": "finance_ops",
+   "location": "Singapore",
+   "posted_at": "2026-09-23T21:35:43.330000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/5ac9b169-1ff7-46cd-8cf9-e771081869e7"
+  },
+  {
+   "external_id": "5acb962e-1d0c-4c01-b624-09d2cb041041",
+   "title": "Founding Forward Deployed Engineer - French Speaking",
+   "role_family": "customer",
+   "location": "Madrid",
+   "posted_at": "2026-06-30T09:56:22.361000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/5acb962e-1d0c-4c01-b624-09d2cb041041"
+  },
+  {
+   "external_id": "642aa378-a45b-40a4-8050-2c77d1b38f49",
+   "title": "GTM Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-06-04T20:54:27.275000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/642aa378-a45b-40a4-8050-2c77d1b38f49"
+  },
+  {
+   "external_id": "652c1b59-bf4a-4781-8f33-57bb4652b0f1",
+   "title": "Deployment Strategist",
+   "role_family": "other",
+   "location": "Australia",
+   "posted_at": "2026-10-21T23:59:54.481000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/652c1b59-bf4a-4781-8f33-57bb4652b0f1"
+  },
+  {
+   "external_id": "66f36293-ebf3-43ce-a931-d21d12b527ff",
+   "title": "Strategic Account Executive",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-10-14T23:08:58.774000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/66f36293-ebf3-43ce-a931-d21d12b527ff"
+  },
+  {
+   "external_id": "68eacfb3-4b22-4f6b-969c-8dcb97e9238f",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "A Coruña",
+   "posted_at": "2026-10-21T10:00:59.346000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/68eacfb3-4b22-4f6b-969c-8dcb97e9238f"
+  },
+  {
+   "external_id": "6a77a204-ed77-47b5-9868-e2836db16077",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-08-06T19:30:11.704000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/6a77a204-ed77-47b5-9868-e2836db16077"
+  },
+  {
+   "external_id": "6ab9571b-8543-47e5-9436-b505fb5cd6a9",
+   "title": "Performance Marketing",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-07-14T19:46:39.717000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/6ab9571b-8543-47e5-9436-b505fb5cd6a9"
+  },
+  {
+   "external_id": "7097b62d-7b33-4d26-93d6-2ad4bbd0a890",
+   "title": "Deal Team",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-08-06T05:09:57.967000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/7097b62d-7b33-4d26-93d6-2ad4bbd0a890"
+  },
+  {
+   "external_id": "7319a3fc-c9f6-4a2c-b7f9-9b67d5481295",
+   "title": "Field Marketing Specialist",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-04-30T00:15:07.133000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/7319a3fc-c9f6-4a2c-b7f9-9b67d5481295"
+  },
+  {
+   "external_id": "7324dd6c-6c6c-4b05-871a-7da626824252",
+   "title": "Senior Software Engineer - Full-Stack",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-12-20T01:30:02.557000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/7324dd6c-6c6c-4b05-871a-7da626824252"
+  },
+  {
+   "external_id": "76db1cd9-edbd-45ff-bc22-73244f9c2b4a",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "Brazil",
+   "posted_at": "2026-03-24T03:51:13.890000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/76db1cd9-edbd-45ff-bc22-73244f9c2b4a"
+  },
+  {
+   "external_id": "79809096-6ef0-4eaa-a6ad-d7ff246a2b38",
+   "title": "Deployment Strategist - German Speaking",
+   "role_family": "other",
+   "location": "Munich",
+   "posted_at": "2026-10-22T12:11:57.061000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/79809096-6ef0-4eaa-a6ad-d7ff246a2b38"
+  },
+  {
+   "external_id": "7a103afa-b351-4cc8-bb48-f299ca31e742",
+   "title": "Head of Customer Success",
+   "role_family": "customer",
+   "location": "United States",
+   "posted_at": "2026-10-27T18:48:39.467000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/7a103afa-b351-4cc8-bb48-f299ca31e742"
+  },
+  {
+   "external_id": "7b32ea1c-ef8b-469a-8bca-0987ade09ab1",
+   "title": "Technical Customer Support Specialist",
+   "role_family": "customer",
+   "location": "Brazil",
+   "posted_at": "2026-10-22T16:40:36.434000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/7b32ea1c-ef8b-469a-8bca-0987ade09ab1"
+  },
+  {
+   "external_id": "81dbc757-2bd5-43a3-8cde-f88d5ffc1f01",
+   "title": "Legal Counsel",
+   "role_family": "finance_ops",
+   "location": "Madrid",
+   "posted_at": "2026-09-14T07:59:49.473000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/81dbc757-2bd5-43a3-8cde-f88d5ffc1f01"
+  },
+  {
+   "external_id": "83ce50a4-db30-4d23-a118-d874f5927b26",
+   "title": "PR & Communications Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-08-31T21:46:46.495000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/83ce50a4-db30-4d23-a118-d874f5927b26"
+  },
+  {
+   "external_id": "8403f545-3f4a-4300-81ad-8c22e35e6cb8",
+   "title": "Director of Content and Communications",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-10-05T23:00:19.397000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/8403f545-3f4a-4300-81ad-8c22e35e6cb8"
+  },
+  {
+   "external_id": "875c5335-97a5-4408-a9ae-9fdefdd3b768",
+   "title": "Product Engineer Intern",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-07T21:27:31.105000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768"
+  },
+  {
+   "external_id": "8b9a29e9-3a90-4aea-abf6-a79e3c956ca3",
+   "title": "Forward Deployed Engineer - German Speaking",
+   "role_family": "customer",
+   "location": "Bonn",
+   "posted_at": "2026-10-09T12:20:03.842000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/8b9a29e9-3a90-4aea-abf6-a79e3c956ca3"
+  },
+  {
+   "external_id": "8d17907d-f18a-4259-a881-cdf41cb67af3",
+   "title": "Technical Customer Support Specialist",
+   "role_family": "customer",
+   "location": "Remote Spain",
+   "posted_at": "2026-09-24T19:20:32.889000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/8d17907d-f18a-4259-a881-cdf41cb67af3"
+  },
+  {
+   "external_id": "9126c84b-700d-49b1-b7b3-f174861b7333",
+   "title": "Forward Deployed Engineer - German Speaking",
+   "role_family": "customer",
+   "location": "Munich",
+   "posted_at": "2025-12-09T19:54:53.029000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/9126c84b-700d-49b1-b7b3-f174861b7333"
+  },
+  {
+   "external_id": "a274e440-ad70-4f50-a586-9f5df011da5a",
+   "title": "Technical Recruiter",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-21T14:36:24.585000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/a274e440-ad70-4f50-a586-9f5df011da5a"
+  },
+  {
+   "external_id": "a888a280-60a9-4001-a5b3-ce889d24a47a",
+   "title": "Strategic Account Executive - French Speaking",
+   "role_family": "sales",
+   "location": "France",
+   "posted_at": "2026-07-08T00:16:13.857000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/a888a280-60a9-4001-a5b3-ce889d24a47a"
+  },
+  {
+   "external_id": "ab5d1089-9d31-448a-89a9-3cdb0915a8f6",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Mexico",
+   "posted_at": "2026-04-09T03:15:21.671000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/ab5d1089-9d31-448a-89a9-3cdb0915a8f6"
+  },
+  {
+   "external_id": "abf6f4e2-7754-4475-9a2c-96cbdb996dd5",
+   "title": "Head of Workplace Services",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-07-30T18:54:32.770000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/abf6f4e2-7754-4475-9a2c-96cbdb996dd5"
+  },
+  {
+   "external_id": "af20e9c4-3644-40f0-ae2f-540ea846ac28",
+   "title": "Deployment Strategist - German Speaking",
+   "role_family": "other",
+   "location": "Bonn",
+   "posted_at": "2026-10-20T11:27:08.003000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/af20e9c4-3644-40f0-ae2f-540ea846ac28"
+  },
+  {
+   "external_id": "afd99ef3-78a8-47a1-8566-04f1cf73939d",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-04-09T03:15:07.184000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/afd99ef3-78a8-47a1-8566-04f1cf73939d"
+  },
+  {
+   "external_id": "b05c43f0-d460-4331-92f9-4a915d170100",
+   "title": "Director of Product Marketing",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-10-05T22:19:00.223000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/b05c43f0-d460-4331-92f9-4a915d170100"
+  },
+  {
+   "external_id": "b6cdc323-2ffa-4bb0-95d9-b626fec23de7",
+   "title": "Founding Forward Deployed Engineer - French Speaking",
+   "role_family": "customer",
+   "location": "Barcelona",
+   "posted_at": "2026-06-30T09:57:00.131000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/b6cdc323-2ffa-4bb0-95d9-b626fec23de7"
+  },
+  {
+   "external_id": "b918e758-9d28-4f6f-a832-cdfbf61c5c7a",
+   "title": "Legal Counsel",
+   "role_family": "finance_ops",
+   "location": "New York",
+   "posted_at": "2026-10-22T18:46:03.551000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/b918e758-9d28-4f6f-a832-cdfbf61c5c7a"
+  },
+  {
+   "external_id": "b9586eb7-e636-4b0a-a60d-3d1e09815016",
+   "title": "Product Growth Engineer",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-06T21:10:36.790000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/b9586eb7-e636-4b0a-a60d-3d1e09815016"
+  },
+  {
+   "external_id": "c205491a-d073-44aa-84ea-ffba6f042b88",
+   "title": "Strategic Account Executive",
+   "role_family": "sales",
+   "location": "London",
+   "posted_at": "2026-09-24T19:00:01.240000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/c205491a-d073-44aa-84ea-ffba6f042b88"
+  },
+  {
+   "external_id": "ca2ec773-fa00-4b9e-a439-200599e4f0cf",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "New York",
+   "posted_at": "2026-05-13T00:42:11.226000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/ca2ec773-fa00-4b9e-a439-200599e4f0cf"
+  },
+  {
+   "external_id": "cbe3137c-2305-4368-a60e-adce4bd38c3a",
+   "title": "Software Engineer - Full-Stack",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2025-02-13T12:44:20.279000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/cbe3137c-2305-4368-a60e-adce4bd38c3a"
+  },
+  {
+   "external_id": "ce944a16-b6eb-4d43-96ee-8da48b4dea49",
+   "title": "Technical Recruiting Manager",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2025-12-16T18:57:08.070000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/ce944a16-b6eb-4d43-96ee-8da48b4dea49"
+  },
+  {
+   "external_id": "cf1a2e2f-1c07-4aa1-9203-197becb6ea6b",
+   "title": "Global Talent Marketing & Events Manager",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-08-05T16:00:04.569000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/cf1a2e2f-1c07-4aa1-9203-197becb6ea6b"
+  },
+  {
+   "external_id": "d1934503-6c28-4f01-8369-6ceba9774be1",
+   "title": "Revenue Accounting Lead",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-10-12T22:19:15.325000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/d1934503-6c28-4f01-8369-6ceba9774be1"
+  },
+  {
+   "external_id": "d2bae179-0079-48c3-8a55-d1835d59156d",
+   "title": "Strategic Finance & Business Operations",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-13T01:58:25.005000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/d2bae179-0079-48c3-8a55-d1835d59156d"
+  },
+  {
+   "external_id": "d7b5a249-3635-45c2-ad7e-11c5d5c7529a",
+   "title": "People Operations Specialist",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-05T18:39:17.055000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/d7b5a249-3635-45c2-ad7e-11c5d5c7529a"
+  },
+  {
+   "external_id": "d8724b4b-a974-40aa-9982-8c5cd1de8282",
+   "title": "Founding Design Engineer",
+   "role_family": "product_design",
+   "location": "San Francisco",
+   "posted_at": "2026-06-27T00:03:28.133000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/d8724b4b-a974-40aa-9982-8c5cd1de8282"
+  },
+  {
+   "external_id": "db68a556-d010-4b69-a463-aa567065a56d",
+   "title": "Enterprise Account Executive - German Speaking",
+   "role_family": "sales",
+   "location": "Bonn",
+   "posted_at": "2025-11-19T10:58:57.379000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/db68a556-d010-4b69-a463-aa567065a56d"
+  },
+  {
+   "external_id": "dd2bb977-b85d-44e3-b3f7-e7442ed0bada",
+   "title": "Field Marketing Specialist",
+   "role_family": "marketing",
+   "location": "Mexico",
+   "posted_at": "2026-07-13T21:52:16.638000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/dd2bb977-b85d-44e3-b3f7-e7442ed0bada"
+  },
+  {
+   "external_id": "e0c3e2ed-ffb6-430f-aa27-3cb58c9373a0",
+   "title": "Strategic GTM",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-10-05T16:57:57.265000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/e0c3e2ed-ffb6-430f-aa27-3cb58c9373a0"
+  },
+  {
+   "external_id": "e2847ce0-816b-4a54-a052-e479e6963323",
+   "title": "GL Accounting Manager",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-12T22:18:35.373000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/e2847ce0-816b-4a54-a052-e479e6963323"
+  },
+  {
+   "external_id": "e99684ef-42fb-425d-be07-608756f6b62a",
+   "title": "Enterprise Account Executive",
+   "role_family": "sales",
+   "location": "Mexico",
+   "posted_at": "2025-12-05T19:39:21.728000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/e99684ef-42fb-425d-be07-608756f6b62a"
+  },
+  {
+   "external_id": "ec6a0aba-306e-4a5e-a33e-9fa4b4dcc49e",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Chicago",
+   "posted_at": "2025-06-16T09:36:25.020000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/ec6a0aba-306e-4a5e-a33e-9fa4b4dcc49e"
+  },
+  {
+   "external_id": "f025b971-e667-4a95-b626-a2fad22bbd65",
+   "title": "Regional VP Sales, North America",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-10-08T14:55:19.516000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f025b971-e667-4a95-b626-a2fad22bbd65"
+  },
+  {
+   "external_id": "f080a3d7-bf77-4c05-8ff8-5df90e4d76bc",
+   "title": "Head of Sales, Mexico",
+   "role_family": "exec",
+   "location": "Mexico",
+   "posted_at": "2026-10-09T20:12:22.991000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f080a3d7-bf77-4c05-8ff8-5df90e4d76bc"
+  },
+  {
+   "external_id": "f0971f8a-abca-47e2-9d56-10c15b9979d0",
+   "title": "IT Engineer - San Francisco",
+   "role_family": "engineering",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T19:09:27.658000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f0971f8a-abca-47e2-9d56-10c15b9979d0"
+  },
+  {
+   "external_id": "f4b45d48-7b50-4e59-b51e-32ca13e59858",
+   "title": "Partnerships Strategy & Enablement Lead",
+   "role_family": "other",
+   "location": "Mexico",
+   "posted_at": "2026-07-08T01:58:03.292000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f4b45d48-7b50-4e59-b51e-32ca13e59858"
+  },
+  {
+   "external_id": "f5e119a2-ea48-488b-81fe-a476f96e76fb",
+   "title": "Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Brazil",
+   "posted_at": "2026-03-24T03:18:35.483000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f5e119a2-ea48-488b-81fe-a476f96e76fb"
+  },
+  {
+   "external_id": "f65629ea-e4ab-475b-9bda-1f5b66b21c84",
+   "title": "Performance Marketing",
+   "role_family": "marketing",
+   "location": "Madrid",
+   "posted_at": "2026-09-14T16:30:38.399000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f65629ea-e4ab-475b-9bda-1f5b66b21c84"
+  },
+  {
+   "external_id": "f86afecf-93d3-4481-af9c-c126992f6968",
+   "title": "Founding Forward Deployed Engineer",
+   "role_family": "customer",
+   "location": "Sydney",
+   "posted_at": "2026-10-05T16:35:15.579000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f86afecf-93d3-4481-af9c-c126992f6968"
+  },
+  {
+   "external_id": "f86bff56-07c5-4e33-b891-57bb133a6068",
+   "title": "Strategic Account Executive - Italy",
+   "role_family": "sales",
+   "location": "Italy",
+   "posted_at": "2026-08-14T10:08:25.362000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f86bff56-07c5-4e33-b891-57bb133a6068"
+  },
+  {
+   "external_id": "f89a1d2c-6cec-41f9-9320-ecd8d6c7c7da",
+   "title": "Strategic Account Executive",
+   "role_family": "sales",
+   "location": "Singapore",
+   "posted_at": "2026-09-24T19:02:51.399000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f89a1d2c-6cec-41f9-9320-ecd8d6c7c7da"
+  },
+  {
+   "external_id": "f8bae268-05ec-462a-b6a9-9d82d27f4d92",
+   "title": "Deployment Strategist",
+   "role_family": "other",
+   "location": "New York",
+   "posted_at": "2026-05-13T00:38:15.441000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/f8bae268-05ec-462a-b6a9-9d82d27f4d92"
+  },
+  {
+   "external_id": "fe931942-eee2-4c25-8d1f-7215a87d622d",
+   "title": "Deployment Strategist - Spain",
+   "role_family": "other",
+   "location": "Madrid",
+   "posted_at": "2025-10-03T10:53:44.343000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/fe931942-eee2-4c25-8d1f-7215a87d622d"
+  },
+  {
+   "external_id": "ffb28efb-3bfd-4306-ba2e-53141a1c476e",
+   "title": "Data Scientist",
+   "role_family": "ml_ai",
+   "location": "San Francisco",
+   "posted_at": "2026-07-14T10:14:49.027000+00:00",
+   "url": "https://jobs.ashbyhq.com/happyrobot.ai/ffb28efb-3bfd-4306-ba2e-53141a1c476e"
+  }
+ ]
+}

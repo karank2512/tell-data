@@ -1,10 +1,17 @@
 {
   "domain": "metal.ai",
   "name": "Metal",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 4.9,
+  "score": 6.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Metals.io Launches Copper, Unlocking Access to the Critical Metal at the Heart of Electrification - Investing News Network",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWdURlpYcGpKWmRORDlqSGJ2X0F4aE1CTk1Yc2RLSlFxaHQwNUlZUTdaUGNaZnp6bkhCYkRPYzBBeVdEWW9rNmhraVFDcWVFaFhVSzI5Z2M4Z29QbDc5dFlrLVZ5ZE00VVZleUFWY2RYY1hqUTJiMGpKemNkZkIwV3BWZmpid1hhV0NROEgxNzVIbk5TdlpnRjJKbkNSM2FUeGJ6dkZubl9CNXQ1cVMzU1VHdEN5Z3RxWTNZUU5jZUM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

@@ -1,13 +1,43 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 9.3,
+  "score": 13.1,
   "contributions": [
     {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 4.0,
+      "occurred_at": "2026-10-30",
+      "summary": "4 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/coinbase",
+      "postings": [
+        {
+          "title": "Customer Support Specialist II",
+          "posted_at": "2026-10-29",
+          "url": "https://www.coinbase.com/careers/positions/8333273?gh_jid=8333273"
+        },
+        {
+          "title": "Customer Support Specialist ll",
+          "posted_at": "2026-10-29",
+          "url": "https://www.coinbase.com/careers/positions/8334157?gh_jid=8334157"
+        },
+        {
+          "title": "Customer Support Specialist ll",
+          "posted_at": "2026-10-29",
+          "url": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234"
+        },
+        {
+          "title": "Payments Risk Analyst II",
+          "posted_at": "2026-10-30",
+          "url": "https://www.coinbase.com/careers/positions/8334164?gh_jid=8334164"
+        }
+      ]
+    },
+    {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-24",
       "summary": "Coinbase launches crypto debit card in the U.S. - Mashable",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNSmlidWZrT1VVc1BxczhiWE1EZWFFZGEyTmEwbDl1RW1oRm1IQlgyRU1NNWRMY2NLSF93ZW1YSzBxVG9TMzVGa2cxU0tRX2pvX2taZ0c2V3lYQlZ3UFVpeQ?oc=5"
@@ -42,7 +72,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Coinbase Launches Agent Payment Stack on 1-Year Business Unit Anniversary - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzNzQ1Y0QkVLbGx0QXpEQUlXMHBkRUZhNkxPS09hTW42dWtaRk1CWE1wNXhqeGp3bmtXVllPVjdYM3hLenY4c3oxU1UtQkx6aEdqa0NmSkJadTVRVHZPNXNYUUQ4OXZYQkVVQzlDLUQ1VjBsUzV6dm1GR1pfTDN3RmlvcHM5bnlSSWMzeDhkeTdvS21MUWxxRlU3ZDNEbmdqT1hOOC1VMTJOV3VyRHZCMDc1M3N1dw?oc=5"
@@ -80,8 +110,8 @@
       ]
     }
   ],
-  "open_postings": 232,
-  "long_open_roles": 59,
+  "open_postings": 243,
+  "long_open_roles": 60,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

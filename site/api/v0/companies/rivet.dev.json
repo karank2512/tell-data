@@ -1,9 +1,9 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 11.4,
+  "score": 11.2,
   "contributions": [
     {
       "type": "launch",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Pi Durable for Rivet",
       "url": "https://rivet.dev/changelog/2026-10-07-introducing-pi-durable-for-rivet/"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-01",
       "summary": "Introducing Pi 1.0 for Rivet",
       "url": "https://rivet.dev/changelog/2026-10-01-introducing-pi-1-0-for-rivet/"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-28",
       "summary": "Introducing agentOS Execution API for JavaScript and Python",
       "url": "https://rivet.dev/changelog/2026-07-28-introducing-agentos-execution-api-for-javascript-and-python/"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-07-06",
       "summary": "Introducing the agentOS Package Registry",
       "url": "https://rivet.dev/changelog/2026-07-06-introducing-the-agentos-package-registry/"

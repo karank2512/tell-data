@@ -1,0 +1,32 @@
+{
+  "domain": "sendmemo.app",
+  "name": "Memo",
+  "as_of": "2026-10-30",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Skydance rolls out RTO and buyouts in memo; Microsoft announces buyout offers to give employees ‘choice’ and ‘support’ - Ragan Communications",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTcDcyM2RtUV9qZHJ0cU1iNThRRXJrSVA5aW9USzhFSXE3aExJU1l4UXhUd1d0YW1DZUhPRFpqVUY2SS1scHYtSU9PN2xkc1RJelV1VjIzSGlJRXNOSXR0QTBQQVhaUmhwM0w0WGRpaVh2aEF4?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Potter Appraisal Board Releases Memo Amid Contract Debate - The Amarillo Pioneer",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHoxMHpERmtWNV80UXJBaUhvZUliM3h0TnFlRDdUUnAzd1hMbnNJNTYzWUl5ZndZUVVZSzNjN3c3MHVCalZaNW9pblRGdFJSa3l2cG9pYjlkR0hYTTJ3d1RIZWRkd3RPNnZQZ0p6QVVfanZBdm5CZHNVOU1nOGN0ZnhzcDd6Q2pUalVFNnRxSHBfR0oxSzRNVmE5NTZrVVlRVHkzWkVMWko?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "why_not_higher": []
+}

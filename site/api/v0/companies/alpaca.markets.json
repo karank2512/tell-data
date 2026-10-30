@@ -1,9 +1,9 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 35.8,
+  "score": 36.9,
   "contributions": [
     {
       "type": "funding",
@@ -29,6 +29,13 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Video. Pakistan: Islamabad zoo introduces 'Coffee with Alpaca' attraction - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzY2ZHU2d1NiZWpsNmRGZTdLN1RrM2MwanJ3SlZXM19XbVFNMVFNMEduUk9rSjVSNDNLOFc3cDdVS3QtT29pN0lXNjFKT1BuRWZteGo5LUdqVnJ5T1VUSHFGR2xWcjU4ZW5wdG1sei1BdERzVWh6TjhSNVNaVXB4cC02S2k2cUo2TC03M3JFSkZWUTdQdkVyMHJBcklZWGZfbGVLWE1CU1U?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Bitso launches US options trading to build a more complete investing experience in Mexico",
       "url": "https://alpaca.markets/blog/bitso-launches-us-options-trading-to-build-a-more-complete-investing-experience-in-mexico/"
@@ -70,21 +77,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca With Access To More Than 7,000 Stocks And ETFs - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZklZNGNYcTBXMzZDbm9RTzRTODNBUlg1eFVUS3JvWkItczNxMHdLQWlhbzVqMkRhM2FXQWJmVGxpN0J5QmhLNlVJLTVKeWplWjFrR2RNWm5hN3U0VnQxTF9jWmZmY1cyYTcxLUpUSUZqUDVNRjVBaExkdkJGZngzcGtBRGxVQmJoYjNqN0h3RmU0Z21ybW9fR0ROWktlN2hmRUk5SUtWYzNjbWVkX3ZuMndrUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Bingx Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access To 7,000+ U.S. Stocks And Etfs - menafn",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnZpNU13am84X2p0bDBZU09jYjJRUEp5RzVRZ3NDQTBsNjRpcW1HTlZDcXc5YlIyZXJfbzlRUGI4T3pRemFqci15cDdfRzd1VlpWV19YaGxGWHowX1BWaHhLbHFWWG1DUW55Sk5oOG5KWms1SXVLSVpuRVFtNVpOcWxhVzkxTlRXZExfZlZIc29JWU5iMXh6RktBVXBiangtMjQ1Ql90bUJHMDN3bDRjUlBldWJhbDh0R0hmcVdyTDBJZ1V5NjZhNzNVZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "BingX launches US stock trading through Alpaca, offers access to over 7,000 stocks and ETFs - The Nation (Pakistan )",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZHFNOWZHVURIRnJoQzl2R0FpV1JNQVhTekE4UFBvYU9JRHBCMUVYcjhtNC1CZjdVWHNhNVRQYW5FeU1wR29aYmxtZkV3OGJuTktvaldwSXJWVHJrZGU0QUlYYTVDREswT283aFVVS3R2R0N1RjNkVlJ5X3lxS0hyX1o3QzBlbmNhQ0NMcnplTEVHanhSakZCYTF1V2FWVFhKcXNPdGtfWHlYRi1P?oc=5"
@@ -185,7 +192,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
     }
   ],
-  "open_postings": 70,
+  "open_postings": 71,
   "long_open_roles": 13,
   "sources": {
     "ats": "greenhouse:alpaca",

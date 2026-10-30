@@ -1,10 +1,17 @@
 {
   "domain": "newincentives.org",
   "name": "New Incentives",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.5,
+  "score": 3.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "South Korea introduces new incentives for foreign students to develop Korean language skills - ICEF Monitor",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGZ1WGNUMl9XQnRXeXg3MUJ1aFJZQWU1SUVJMG5mYzU4aWc3bkt1ODVtTmd3Q2M1NmlvNk43eVFBdFZkUUI5VUYtU3NaWGtHRHRhMHlwSDU4X0ZyWlBRNUhNT3Zpa0N0eVItbHlKclNOR2tRS0RGZ0YtRjZQcGRRdDN2UTFpTDJQRmh0UDBkRzlIMDlfMjFJdzU0eHNlRTZfdHFfTzJ0clk0QjQzX3BjSUZRVV9Gc08yQ3pBRlJ5bmlMRHJB?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

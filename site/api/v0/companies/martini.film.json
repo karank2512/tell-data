@@ -1,10 +1,59 @@
 {
   "domain": "martini.film",
   "name": "Martini",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 2.4,
+  "score": 13.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-28",
+      "summary": "E.F. Hutton Appoints [person] Senior Managing Director and Head of Capital Markets",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2xnaU5IWjUwQW9LMWdWZ3hhLW5Ha1VnM1VIeFZpdllZblZKaFJEOVdaTlM2RjJyaU15SE42dWROb3JuMnJVeE9aN0lfQ1Z6SnM2WWlBTEZKaEdQSVZIZGtYRVNFMng5aWYwSXVDM0tfUU5vc2FKS0Q1UWxhbnRwUFdmRmY0Y1BOZ1BlNGpJWWdYQnk2bjFRTHdMM3lLTFVNTDRiUHFZODFDQzBNeUdDVEdvcWFDeXA3N2E3OGxzbHY0MWI5?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-28",
+      "summary": "E.F. Hutton & Co. Appoints [person] Veteran P. Mark Martini as Senior Managing Director, Head of Capital Markets",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQ3FpUVRfektTSWFKNVlYMUI5T2xIX3k3MzE4cW45NUY5UUc3bE1nSlRYMGdQUkJhUGc0WU1hYl8zbGFwRGk4SGhYWXFKN0VSczlOV3JjZWtmeFpiRWdsMnF5ZC1oU2hCcXNWOEcyYXJlNTF3YmFnWGhZR2FLSnJZOTdxOVB1NU05SzZHQlRXVXl2b0l6cFBLV19WaUJZdnFYc2h6ZVBhUGVOcHJHRGVaaEU4WW1UOE9nbnd5QjZiVUQzSU1KSzhIeGNMTUF3Vm1HRmFPblNJV0pxN3RHZ2tqMXd6dnhZWFk0T2JRS0hXV095MG45MmVwRmFCN1lwR1FDT0RacE1yVG82Z2U2NW5od19FVnjSAZQCQVVfeXFMT0NxaVFUX3pLU0lhSjVZWDFCOU9sSF95NzMxOHFuOTVGOVFHN2xNZ0pUWDBnUFJCYVBnNFlNYWJfM2xhcERpOEhoWFlxSjdFUnM5TldyY2VrZnhaYkVnbDJxeWQtaFNoQnFzVjhHMmFyZTUxd2JhZ1hoWUdhS0pyWTk3cTlQdTVNOUs2R0JUV1V5dm9JenBQS1dfVmlCWXZxWHNoemVQYVBlTnByR0RlWmhFOFltVDhPZ253eUI2YlVEM0lNSks4SHhjTE1Bd1ZtR0ZhT25TSVdKcTd0R2drajF3enZ4WVhZNE9iUUtIV1dPeTBuOTJlcEZhQjdZcEdRQ09EWnBNclRvNmdlNjVuaHdfRVZ4?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Cîroc Debuts The Martini Machini And New Messy Martini In Partnership With Dave’s Hot Chicken - Roastbrief US",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG90dDRsWXlOdGpqWVBJWU1GWENadGhZX0JGRlFoVUtRdjJPLU0tOXdTZEpSRHQ0UVRKMUJYcTU4c3BNRWVuck0zYnVncDQ0eXVoWkNBNW1KM2tZVHF3cGtWbUZ0SzVnXy1YemtTNEI1R1JVc0VTVGhxMDBzZXZMTW01RWttaU1qU0N1dk0zTGVfTF9jS093QkhkUTNGV0NydHh2WGZDMFpweDZGNllrdmZYZmY2Zw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Cîroc debuts Martini Machini - The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMYWY0bjFUY3NBTENub0RrLUdDZlZXWG1BWGNRZ3Bzb2RuZzhQNXdZYzV2MHNJWUsxaFZRd3MwU2NSU1BGbGRiZUpwU1VxSk1LdmRFMkJMZjE1YUp2S2JvcDFNWTNCcVRqWDQwaUdqdXFSTWgyb2NRZFlLaUU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "CÎROC DEBUTS THE MARTINI MACHINI AND NEW MESSY MARTINI IN PARTNERSHIP WITH DAVE'S HOT CHICKEN - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM1I5ZlQ4d3RHUFFTbkVZQ2VQcWY2aWNsc3RVT014LW9zaENPVGdBRHRyUDVOMThNTjJwTnVGTnF3TXNvS2pSQ3kyNmtVem9MSlkwLWZWcUtyME55bjJtMEE1Zl9HcWRqSU9RUkFfSnNwZGwtSklBeWhIWkhiY0EtUHI0ZDZGdTR3dXJlVGU5Vk55QlAzTVJwTEFuQ1o0ckt6REdZUjRoY1Q5aWRqRV9KVGc2d1EwY3NVTVRUNFlqVVMweHBLTEtNcWRsTWlFZFVpOGNOT2ppX3U3N1lGeTFoSm5B?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "CÎROC Debuts ‘Martini Machini’ for Full Customization of Dirty Martinis - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0FvWEpzU2dxWEdtU0RnNll6RUU5bHVXZ3UyeGEyb3doMzNselZUa3laYTRiM3lJbWJPT003NG4xTWs0UURjSWpGQVNvWGZlcmQwaXU2ZVJZaFBrdXFqREYxOFM5TXBsdXdUWVB3OXJNQ3dXa2FRbzJGMTR0YUNTR0hNeHFhUDV5ZUNhTA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "GREY GOOSE X HENRY HOLLAND: EXCLUSIVE MARTINI COLLECTION AND COCKTAIL EXPERIENCE LAUNCHES AT LONDON'S BISTROTHEQUE! - Verge Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRmdLZHdKUkR2NDY2SzBtcC1peDNPRjVGdUhFbkszVU5GSjF3a1VOd3RHM3ZEb0JVc1M3YWpNMGpNVHRVOWJLbE9rd1VFalV5WGt2WEsxcFhQOHJmbG1ub0FiTUNHbXJONDFCb0Rpd3lRMGJMU2dUZmlseGtyZTZmeG1QWnVYcWY0WWFjX3JlaWRQb1A2U2VYdktvckFKanRfWGxpVTY5Q3p0RkY3MWdqNFNJZHVZaDNBaHVsc2FxT3BtS0d3bGNQM2VlOTU3c2VqTU9KQ0dWUnc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

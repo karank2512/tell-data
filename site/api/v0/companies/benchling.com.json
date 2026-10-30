@@ -1,9 +1,9 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -74,7 +74,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-27",
       "summary": "Introducing Benchling Agents, your infinite program team",
       "url": "https://www.benchling.com/blog/introducing-benchling-agents-your-infinite-program-team"
@@ -87,8 +87,8 @@
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
-  "open_postings": 60,
-  "long_open_roles": 11,
+  "open_postings": 55,
+  "long_open_roles": 8,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,

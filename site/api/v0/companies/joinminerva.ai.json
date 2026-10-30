@@ -1,10 +1,17 @@
 {
   "domain": "joinminerva.ai",
   "name": "Minerva",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 15.9,
+  "score": 17.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Open Practice Introduces Minerva, an AI Assistant Built Directly into OpenPM - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkFsTWl3LU8xcHdjMzV0ZXd0TXYwUEwyU3JOMEIxSkhya1BhYmg0bFhrME9WX3EtZTRXOTA2OWRiZUM0NzVKam12OWhlc0xoV3N3cm5JTGdRMEQyWkY4LTJNQ09ielZpZmRNaXloN21ZUEIyalZqSjZCbkZoTnBOOWhVd1NDTWx5NTk2RzZWay01aFVQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "NVIDIA Launches Minerva AIOps Platform for Large Scale AI Infrastructure - Technetbook",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUpIMnpiZU54NGZzcThZUUdYblFTc0dqal84Tk5UT0k5QWk4V040OW5hQTByUVJubEVjWlhNOW13MFprNUlSYmFsRFhZVlE2RDhGZjhlVlk4VzJPb3JERGFqZDRkZlZ5dzM0WFZQMnR2ZTlFYzdGLWRHMEhyTFNUR3J4WUdKa3M?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Nvidia launches Minerva to catch failing parts in giant AI data centres - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVTFZbXFBSW5aX3I4RnVzSi1fYnJIVzlYQjVXWktlNDlOQ2dQaGh0NnFVVjdoMlgydTdjQlZqdHNnQVBMeE9UTWdfaTJ5cUtyX0NSZ3FCYW9leXduMEE2UktjQTIzR0F4Vm5oVTg4UkkzZ1V4cEN0YTBR?oc=5"

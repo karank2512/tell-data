@@ -1,9 +1,9 @@
 {
   "domain": "agent.nexus",
   "name": "Nexus",
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "profile": "default",
-  "score": 37.5,
+  "score": 37.0,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-13",
       "summary": "Nexus Malls operator Nexus Select Trust appoints [person] as CEO & [person]",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeWtGSGpSdlBOeHRjcWpaMnVJQlBXeU0zLWY4T1BuSl81cXJ1ZHlZYmQtcVNKTnViMFNrYW0zaWNBRWZ3T3NGdW1QcFRQZU1hT0M3RHl6T3o2YTEyZW9rZFFWWk1KZUxxT3BSZ3NCMXotWVBPV29pVUhRM0U5VWdPTG9aOWltajdFX251dE9TZFB5ZW1aeVh3OGxxcHA3dUNkSDR3T3pxd21sYWhSVUJoZlhTQUtFand1XzItQWVuRG1rOF90TjExWnZjSHNQUUFZRVlzZ2tBOTNsWW9Z0gHiAUFVX3lxTFBSaW96a2JicjZPdHFwTjhmXzVIU1N2c1FUbGJfRExmT0QwLWRTTzNDc3ZpS1hrWGZEVlNUOElVdU9nMkRCVk9WTTJrRmtLY1poUzlRNldDWWw4NUtyd21GYVE1YXdrbnpUcWc0QU9ubkdlUEo2YzJRNHRMVVlvV3RvVXRmUkZMR3NQMHM0b1JKRUE2STlEQ2lkWC1nLXpfZHJzMEtudHRzS2I0TzVnQmlOTEpabmtNa3dEMkx3ckhjNl9fX1F4X21EeXJRLUNrRV9BNEJoRTVrcnJsSEQtajdvQlE?oc=5"
@@ -147,28 +147,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Georgia Tech unveils ‘Nexus’, a $20 million supercomputer - Atlanta News First",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHAwQk5GdjFoRi14RW9jTHpMZnNtd1lqWTBpTGFoaExNMURPU1JWd2R4VVo1S0NHaWs0WENYeF9wLVJDMEFhSlRWSG9Za1l3VF9JbUJLLWRJVXJJaS1ZeVBTUHoxeXhjYVdnakV0bHlMZm16bW1oZ2x2bWh6akpEODRUVWtWbGcxQTk0ckFQLWlad2ZzbUZURXU3bUTSAbABQVVfeXFMUGlCSU9wakFsNXBGd0sxVThRaEQ0R0RianBNcDBmSFF2Rzc5X2N1Q1djWTJ4eGxzSTRmWnJWWllGTDhGVndHNXRZeDd0SFRDMDlXLUNKLVkxYUFxc1RxT3ZjQ1JkMkV1SFpteG9helpnSnRsRzY5VXY1LUZmSFpFU2t1X1lHVUZOUFp6TW9OamJ2QTFVbmFEeUNPY1ZEQlZRVHU1Qi01bnFRQ25tZk1NNUc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Nexus Legal Group Launches National Roblox Exploitation and Abuse Case Acquisition Program for Plaintiff Law Firms - ACCESS Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3BqOUoxZ2xHNXVFemlQUGN2MDFmUHVuaVRobWVST3JOQl9UU2ZYaHd5aDdfT1pQUWZ3U21MS1FxeXJiS3JaSldNel8xTXpodTUxaDZkQ05idnpKWHgtbTNKX000RUZXSG0wNk9qS2s4bmYyYThjRmlRa0FQcGh2SjJfNFRsZ0JfdkdqU0t2ZXB6QnVLVlVsMHp2NzFtUFZkcTQxOU9EdURzYmtkV2lreU9XbTYzbm9lREJiZWF4SHNnUXpLTVVvNVYtd2Fzam91Z29iV2s3LWRCb1dBWUJPZDloS0Y?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Nexus Legal Group Launches National Roblox Exploitation and Abuse Case Acquisition Program for Plaintiff Law Firms - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcEV2c2FNUi1QVDN6cFMwZzU3MXpPYV9jOUZreW1yWWVvc1BsU3hId0FjNmxLWHRqTFFmMkdlQWdrNmwtaDVRelJZN3RkTHFWSHNzTUItMVE3OTRQQkhFajA3d0VibFBDQmI1WnM4U0kzM0lFRVpXMUpzYllWN1ZLS2EzWDBFVFE1WjdfeFhmVXdLZXpYWHVKSmgwZWV6X3Z3TmJWSzRRclFmbk94ajNQd2xpWXUtS2pEWXRrWms4SDdWSUE1RHRFUGtNQ0Z4dWxOZ0hsQjFQRHhjRjNnTThoVVA4cWlwTm9aMkFzZUhwTHZ5UmxkM0VvQzJYYU9qNlVkbGdXNUlzOA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Nexus Legal Group Launches National Rideshare Sexual Assault Case Acquisition Program for Plaintiff Law Firms - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPTEQ3SzFzWmxOckJ6RXlvNlA3MUx6MXVYd2pfaDlYYXl3ZWJ2aG1fWjh2WTUxT2dHdnQxcnlUV28tYmdHMWhHSkNFUGNaS2hySDM0aXJLc3J0Q0MzT0YyMFZuN2V1ZElmOVA2RTcyQ2pCNDhNb1JzLWJwS21UOWFzaHo3NUhWN1k5VWpWZmhpVG9ZVWtXcHhZQjVkdnd1X0JTdEhwUjV5ZUZkMnNPT2FtOG42cU9NMWdDeWFsRTdUc2x1eUVlbW1FVjBEb3hfOFBhaXBsczluT0hLcnZheDA4Qk9WX2VXY3JFS1lfWDFWZHFnb2FJakVTcTZtdFBoN3pu?oc=5"
