@@ -1,16 +1,51 @@
 {
   "domain": "nexushq.com",
   "name": "Nexus",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 6.6,
+  "score": 13.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "WHI Solutions Launches Nexus AI Suite for Nexpart, Starting With AI-Assisted Phone Ordering - Billings Gazette",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGdFS2FFVmxvRFFWNXNFUkdaUmhXX1haUkFHcEFvVmhkM1FReFJqN0xleUZDanJONnBQLXEyaUlPZ0diYXBIY2E5ZXpHS1NmZENnUnYyTW5DTjJZQTI5cFdJNEdVc0RtNWhyX3NkQll2RnpVZzV6UDR4Q1NlQl9meU9wZWQtOEE3aE5JUmtxdDRSd085YmR2b2w5aGY5ek9EcXRqWlkxV0VQaTU3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Nexus Praesidium Launches International Close Protection Academy in Romania - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZW16Vnlybk1oTE5OTnlHVXQydmxtZmRta0F0WEMxSGpnYm5WM2EzeHFRTXBPNDJCbERQdzJYYW1kZWVselMzTkdTRE9HMlY5N0szSTJRTEdrbDFvNWFEcWxMYnlKTzFXTHVDZzB0Y0EwajlncXNMSlJldFA1RThfU25RU05HQmhWalNyd2RIeU0tVndhSE15emtaMzRVMm5oaWxiS0RqSU1PcGhla25OcjV1SEp3alFFTkxMZ2FDdEstR1dVQ0dBOFlVbGpBdHZuNUs0?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "Avalara Launches Nexus Report for Intuit QuickBooks® Online Users - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYWs1ME04TzZkVm81UjNvbHR6OW9yRFRhUFNoM3czZ19ERl9ka1hlOHhKckRCQmZLclo5NTJrY3cwYUtZMGlDSEdzSHNFWUFZcEJqbmhIOVhRUHFHamhFQmloTWlxRlF0ZWxfeVNkSy1YRTU2ajE5WnlqekVoZXRaV0JEUk1FSE1NcG5PYnJYY25MS0RMTDZSZllZZFZ6bVF4RWM1d3ZJaG80dUZlVE5Idjc3T1Z5ang5b2haXw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Avalara Launches Nexus Report for Intuit QuickBooks® Online Users - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTzk1R1hTcElrdVhoOG93REJsMGpmNmU1STBaSVhCT0JtTjNjdlkzVHFDSnFyQ1lPWjVYT1ZzV2lkbnFzZzFiRG9UY1lNamtnUk5WQTJvSllOUVh1Y1c0c2E3X3pSdG03ZHpGYTFOR21lTXNlMzlEazhvUy1icVBKQm9ZejhEVjBBeDduVVNCUnd4ZW5hRVhtcG1DZTRqZVdrajFB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Nexus Legal Group Launches Nexus Crash, a Consent-First MVA Program for Plaintiff Personal Injury Firms - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaEs5VmZtdlgxanhrekZKbWZKRWJvQk9ydFVBZDZTNWdPS3BCalg5RmRhNnlIbjFEOGJOMmd0Um1VaVpfQ01hVVZFWjVYbVZ4NmJfWDNGeXhMeVhfb2U3blN0RkRWbzJRdFBZZHo0NXlpN0cxa2hXMUVaWG1sUy0tWTZfVWp1UHBvQkRBdEVDTFdBWW5EUHVvSVMzZUpvRDdab0ZkM2ZkT2ZHQlpaU29FT3JpNk1WSHk3b2NUX043emxnRzRCdlp2cndwWkFHZlZzbzl3NWVTY3NsWFExMmtjcU5KdGFtQ1RsOFkzX08yTWUzU3Y0SUhv?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-10-25",
+      "summary": "Swanson Vitamins Launches Swanson Vitamins Nexus Pro to Champion Registered Dietitians and Licensed Nutritionists at Every Stage of Their Careers - Fitt Insider",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNDF3MmZndXlKd0R0R2dnbDY5VGtET1JEcnMxVDJKYnRQanFadVYwMkE4U3VlUjZIRmhCcWJxSHpyRjdVMkV5ZlQ1c3dhaXljRk5UQ2FNNkthM3lIdHBBSEhEM0pvUWU1cmRfb2VDZlYwaE5WajNyaUxYQXR6WFh3RjRtQVJjRFNHWE1GQWlZTWEwOTl6UzFua3p0OU80OE5JdnpaLWJ0djhMclM1NTVSVHZOREdGdWRYNEk1d1U0eVZjb0gySmUzXzZDNGFNQTllYUN0YWFWai1FQ01vMF9LYzlWWGdMRzgxNm00dlFMWU8xbjlHX2NBSEw1YXRRTEVYRVRua3FudjE0MVlidW40SC13?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

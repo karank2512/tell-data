@@ -1,9 +1,9 @@
 {
   "domain": "mesh.ai",
   "name": "Mesh",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 47.9,
+  "score": 52.9,
   "contributions": [
     {
       "type": "launch",
@@ -30,6 +30,13 @@
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-29",
+      "summary": "ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBqblItSGVqd1RGaS1xSXpOdldLLTR1bXo0amxaT19udXRfRnFIZ3FiNERaNHNQZlBxb1hCS05xdzhkdGZCN1BPMS1Nek4zXzhJUEFnTm9Yd3RSQjVjMXRTVDlUS1lqZC1Qc2xkeFNsbFJHSzYzRVliSXVIWk1GbDhRWnk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
       "summary": "ZTE launches budget Wi-Fi 7 router with 3.57Gbps speeds, AI Mesh and dual WAN support - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXRQbDE0OWJjMzdLanRRQ2F3NjMxUVZINEZzQ2hMSURSZzZyV0xKU3lQRFdMZTBVdFV1VDhlRXdFM1A2b0UycktUS0Z1TEt2Y2hwTFRJVGxwNnB4WHg2Rk9zZkhtTFhCNlphQmE0bjB4ZlhocjJNRGtsWmI3ZGZHbHU1WFYxRjFtT3RpdVozeUhwMW55c0thYw?oc=5"
     },
@@ -42,10 +49,24 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Oracle launches AI security mesh with OpenAI to fix flaws - IT Brief UK",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajB6YjNnaUk5bkZvOEhqNG96Vm5qZW14TjJxNTRTZUZISndCeV9wbWoxc0JZWVJ2Y1BkUnYzMmg0aXhuSnpORy1YUTNma1BpS2l5YzF4SWZMRnBkZVMtelk5bVkwazF6OXVYaUdXZER3cGl0Sl9QakpLUG4xYVBvOHBkNmoyMVh3SHJwTk9R?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Oracle launches AI security mesh with OpenAI to fix flaws - SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMUQ5dXowQlVHR0J2WnFmQ2xCb2xIcncxcVNYb2xDOFFUQ2IyNGdmcmFLakxyaHNQdnF3TFh1QWEzaUNWbVhoTXgtUmt6VVJ4dFBUMHBWOGZmNVQwQU5zX2FWZ2RLcUhvTjEyTXlRT1FoLU9Uc2hfWlh3UnA3dDluVktHdE5oeVo5MUl3d3EzZ05kdlNI?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Oracle launches AI security mesh with OpenAI to fix flaws - SecurityBrief Australia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDZTLXZHc0pia3hSVGVhZmNJWXI1Z1dNNVdKcmFMRUhOa2NGUnp3b0ZsN1hYeURJRmVLTUpQdWRKTkFVckp6VG1ybWNkZGJkWkN4Q0VBakRtQmk2RjdWMkpHVHBaeUJGbnlnWE0teUQyZzdZUWdOVlE2WW0yb3JJb2xrUjBDTi1Vb3BtMlZZWDNYNTdSSTNZ?oc=5"
     },
     {
       "type": "launch",
@@ -93,12 +114,19 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-27",
+      "summary": "Oracle Corporation (ORCL) Launches AI Security Mesh Powered by OpenAI - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUJXYnRVOUtKYURPZUtlSzNKLUhnanhPeFZ4c0Q1SlRMbWplR1pWVGtTMFc5UVR4dEs2aTZBend3NUZaMUk1SmhEYUU1UWdJWWlZYno1UlgzbDlzbEVpeTZNaGR0SjZmNTNMZlFQZGkzdXJJa1FKMy1qNkNzTW9XYzNrVFh5a0xqdzduLVlZZDlkWWpWZEhCaWhLM05vX29scFhFNXE1a01pQ3ctak1lUGh0OE84YjZiLUdfbmVDWVZOQ1lFV3E4Ng?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
       "summary": "Cooler Master launches Gold Editions of its popular MasterFrame 400 Mesh case and MasterLiquid CPU cooler - TweakTown",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbWJwdUtyZ29jbFBqbG5ZVElvQ254bzdpV1BHckl5c3hTYUZLSHlXZnl4eEdmQkh4MWYwSnV5ZXBVLUlDcjUxX2hRa2RXMGdiMzV3cDA4SEtUXzFpZXBLMjJBbXI5SUJyWXNiUGdQODVERE5Qa0x6cVV6SmVES3RTalpPR2c5LWZ0TFIxVndleW83bUFXemxBOXpfZ0tWRE9iZk90eFhZcElhVWd6LXo5Q3FaOGNrclVnX25PdDU0UzVoRWZHNTVja2VoMDltRVNWWTF6akJsN1VvQ19sT3BVQ1NvTlkxaTZHT0E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "Kornel Wolak Releases MESH Album With Composers Palej and Cozens - BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjBoUjl0VWJnWEpmbmxncnp1Z3hCUWY2NHdFVGk0d0loZjBhUWlKTmZlTWhGNFZtalBOVzIyQnJOQnBReFZmdVBEOFA2UmJWcUVxN004MXFpSmJITUQwbGlDSkFYeUppbGd3YVQwTGJOX05UTWg4eUJ0MkNGa1d0TnFEWFBmdHdSOFNsVjU0ZkhvSjdEUkJvR19NNG5HT1V3YVhXWmpQQXQwSEdrVlR6REtLQkJMYnBROU9JWg?oc=5"
@@ -119,7 +147,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "VSBLTY Groupe Technologies Launches New AI Edge Computing Platform — The World’s First Mesh-Connected, Multi-Pipeline Edge Device Purpose-Built for Law Enforcement and Defense - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGxzZFc4SlJ0dFFyNlh4Ym9acG9TNERDTUdMT3F2X3VQUnhJWDB5aFFZTHdoOUQyRmpuX3lOd1F6UDJ0X2l1RThzV2g3bl94QmhBNEU2MWFyR2p2N3lYY2NobkxubHNyT2RXYXNLTmtKSnYzWGd2dlpIWWxIQmJFY09sbzJwTkF6blV1YURuRzRQU24zUjI4MHFwY2RNX0hCSGJyYQ?oc=5"
@@ -154,21 +182,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Mesh Launches Link Chat to Start Crypto Transactions With Natural Language - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wWDlTRldVRmVxTXF5N2lnejlScjdhTlBwSXljTUZWUlJBOXFTMzR1c1VHODdTdmMtWTFEX3JLeGF6MDU0Mjh6elVpa1pmQVlEZGhVQ05UQ0RxODA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Mobilicom Unveils SwarmiX Mesh Comms Suite for Drone Swarms - Israel Defense",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sd0VIUElaZEJ3MHhZMmxJX04xNHV3a0xlVEU0RTBoZTJGVktuWVFiel92bzJSQ2NsVHoyeGkycEgweWxPQVZnUG9UYUdPa25mR2Y4alRLaDE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Mesh Launches Link Chat, Turning Intent Into Financial Action - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHkwb25YMmZPVlk4Qm5Ca0xpWTcyNnZ4dWdjczZPSjJCcjY2b0JnbEVxZmxDVUEzSEZ4RkE4UkJCWjhkd0JVVVdJbzZRSjlWc09tX1NIRW5IYjVoLTVZNkk3dTFxS3RtdDNveGZJYWNCMkVocWg5TGd1Z0d2czVXemZUNk5lTV9TQUZ4eWtpVHIteHlYdHZZYWVnc3BLMFVvVDJjemVTYS1ubEV2NVZTWHdmV3c4V2s?oc=5"
@@ -266,7 +294,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Gibbeum Hospital chief introduces military doctors to his mesh-free hernia repair - The Korea Herald",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00cTJXaGZzb1R2Zzg3Y3c5ckpEWVp2S215WFNOS21UTGtQekpEMUtXc0Y5aE5mbVgwMzZhUExjY2U1bmpGM1BVTGNTc1BmazFJV2x3bS1TNA?oc=5"
@@ -279,6 +307,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,0 +1,43 @@
+{
+  "domain": "useflai.com",
+  "name": "Flai",
+  "as_of": "2026-10-31",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-31",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/flai",
+      "postings": [
+        {
+          "title": "Senior Sales Executive, Sales CRM",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/flai/eb83d0b5-7121-450d-ad4a-f06be7bce003"
+        },
+        {
+          "title": "Regional Account Executive, Pennsylvania",
+          "posted_at": "2026-10-30",
+          "url": "https://jobs.ashbyhq.com/flai/f5c0182b-73bd-43f5-8de2-3c9d6641f886"
+        },
+        {
+          "title": "Regional Account Executive, New Jersey",
+          "posted_at": "2026-10-30",
+          "url": "https://jobs.ashbyhq.com/flai/68d9105f-7f6e-444a-aa62-02b866263abf"
+        }
+      ]
+    }
+  ],
+  "open_postings": 17,
+  "long_open_roles": 3,
+  "sources": {
+    "ats": "ashby:flai",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "why_not_higher": []
+}

@@ -1,13 +1,13 @@
 {
   "domain": "pacific.space",
   "name": "Pacific",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 8.2,
+  "score": 8.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "News | Oxford Properties appoints head of Europe and [person]",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWVkeTBrRGR1dUpnUWN1S3lwOHJ4dTN6VEhnX3JfQjUyYWRDeEF1eUlfQ1pBNGc5RW1pYloxcWk4cGM3Y1dxckU2cmlzQ1otamNnNFRWdEhJS2pNU1daLWNRbGhDc2M1TkNYUEM2NW9Ca2dtSTNxa0M5cU9OZ1ZvY0dKVjZ6TjdlZVZJYmxsNnFBOWFyQ2F1Q2k2OTlnZw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "sid.ai",
   "name": "SID",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "Sid Lee Appoints [person] as Executive Vice President of US Growth and [person] — LBB",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTR6YXhXU1Y3cWFJX3RzVjlMWUdVNEI0YkVyVjUzYjJlZ1hlUVJLSXNVSklHUjhUalZUbGlTZlJzR3NfNXNDZmVLdjNtSXRxTUQ2RUZWLVVlaUwtVk9QWHp4dzFsbmNiTXFQWUYwY21ORGk4UFBJb0tJX09aZzBVOG5qUF9qZzZfWG5XbEZUM1ZfVXdVRTBhNGFncGVqenJjZHBpUlRyZHpMRDV6ZmNJ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

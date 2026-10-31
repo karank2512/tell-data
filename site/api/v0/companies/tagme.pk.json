@@ -1,9 +1,9 @@
 {
   "domain": "tagme.pk",
   "name": "TAG",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.1,
+  "score": 9.0,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "TAG Heuer’s Best New Watch Releases of 2026 (Updated) - Gear Patrol",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmJpQVdVS3o0eDhIR1pDSEctY2djSjFjN3NMd18tQzh5UE9kXy1JQmFZajJ2aVY4NFJmbkt1bFY3TWhST1Q5eWhNNG00dGFURkt1T0hfNEFyVFEzcmNzak5uNW0xaURxUEFuLUpEOFdpcVZBQkctRUVDdkVSdWdQQ0YwMA?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

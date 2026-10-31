@@ -1,9 +1,9 @@
 {
   "domain": "axisanalysis.com",
   "name": "Axis",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 16.4,
+  "score": 17.7,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "[person] joins Trump and [person] new axis of evil, as Starlink grounds Ukraine’s medium-range drones (Ukraine Battlefield update, Day 1,693)",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLVJ1WnBNQVh2empkekpHcFpjMzdmZGc0TktUSDhlV3liREpTeno0aGpaVmtqa05CVHBfYlZsOFZNOEZCbS1JSUlKdjlsdnNFUTNmWmxmNW5JUHhyQVVkMEZtOU5QNDNvQng3WnhpWVRGa2NoTHN2dlpLdW8yc0VYR1VfaXNvZjU4cktsTzYxVFNfZkJ1RW0xMjZGaWR1V3phQW5iWVpwcEF0RTdsaTV3c0lORnk5cmN3LW1ORlR6Ti1VUmM0SlNseUxVVGpNYWgwcEpJQ1NNanVUQzlDQTZ3SzZFMTZwdnlrUFJpWmhwQ0NuZw?oc=5"
@@ -39,6 +39,13 @@
       "occurred_at": "2026-10-08",
       "summary": "joins Managing Director",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnVsbjVfUTUtdzczLXc3dGd4RklaWkpjOFN6M2FmX182TjhhcW9mS3dyZ2FaOURCT3lkajNBSlg5R2YzdVpjaG9JYjYzbUdKRGI3ajVCREduaDhDeHpCWVN6cE96T0JZWjlSSTdwSWdLVkR5TXJwM0R6VkNpajJBRExqcHJBaHRzWS1EX2FuNTZBNllyWDk5UUQ1TWRwTzNURWNLVklwQmFNZ1oybk1ubXY4WmtuUkk0cEFBQlAxdGdHb3pRaGMzOWFpQjRLWnlNZnVKNmZFWEZlcURqVDM4SNIB5gFBVV95cUxOczZyNXNucnE2YVJyN1FWRE44dWlORnN6ZkFFR0tXc08wY0JfQTZFQmZpaGlKN1hXXzI1ZEFXVXVvdENWQ1lNRnNwUDZqZHZSb1lXWlh1VGo0Z3ZPazBvdmFYaTJ0TUFIVHA2Ri10dDUxY1ZzTUhyV21iMEJLNTB4ZXB5Qzl0VlBHbHozUmFsMURfSWpyYkZ3djE1Q0dLZlJ6TVZUUVM3cm9ZZnJCWEtKV3hLanRDcUFNR3BuSW1FaVo3aWJUN2d4TmhaLW1yZ0QxU2N6anBOaktaSDBkMWZMUG91TGNoQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Axis Bank launches dedicated lending programme for hotels and resorts - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbF9DMkpSdXM1M1p1a1B6WFgwSHNzZnR1enVJbTJpaVZkU09pQXRxRXE0Rk1xZXY3d0NkUTB5cHU2bUY4TkxCdktyd1JzaFo4SkVGb2pKMFNseHNScXFfRXQ3cHJ4TjdtdDZKSFRqaF9ZQ05ad1RWbFg5Wmh5SFBHZVhHbTRCMWtLcDA0QmUzekNmYjZ3dUJmMi04blFwZXJ2VUUySWVrRDJGVDVpVjktODFqbGlJa2d2MW5VbkF5UERWaWpF?oc=5"
     },
     {
       "type": "launch",
@@ -56,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Dobot Launches VEGA 7, a Seven-Axis Force-Controlled Arm for Embodied AI With 50,000-Hour MTBF - Pandaily",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0RoYU90Y1BFSUJZUFdhbHVCNG5WZmpjaFA4dmRsV2pDM2wtaWdPbER4SmU3cm1IYWlQczd6clRaOURJRThNa2JkaTFrZVdmdVVQX3MyRkRhVWxyZFFJT0RnaWxncG1XakFzZTBDYjUxYnZPSjRDazRLdVZ6UE5uYTl6VWdEb2dEaWIzVEotTnA5SFdY?oc=5"
@@ -97,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

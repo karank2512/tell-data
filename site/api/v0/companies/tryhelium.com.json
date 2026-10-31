@@ -1,9 +1,9 @@
 {
   "domain": "tryhelium.com",
   "name": "Helium",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "BLM Launches Map Identifying Helium Concentrations on Public Lands - Bureau of Land Management (.gov)",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1JLenp0bUt0RTUxaFV0ZFBrTVpDVjN1UFppQ2dvWTZpbnN1Yk8wR1VQUTJpN0NlRC1odU8yY3dNNkRtOHNIMFg4VWZXc08wSFNBR2RBbDc0TWtrUlhUaDQ5UDJ4LS1qTGtRQjg1aHNhRG1GR1VqdTN4MmF6SjNqbmlJX0xtaGtPeklYdEg1dmgxYUdRS2lRUUFLRkw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

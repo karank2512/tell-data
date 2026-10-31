@@ -1,14 +1,39 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-31",
+      "summary": "3 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/instacart",
+      "postings": [
+        {
+          "title": "Bilingual Customer Experience T3 Specialist (Spanish)",
+          "posted_at": "2026-10-30",
+          "url": "https://instacart.careers/job/?gh_jid=8336857"
+        },
+        {
+          "title": "Customer Experience T3 Specialist",
+          "posted_at": "2026-10-30",
+          "url": "https://instacart.careers/job/?gh_jid=8336883"
+        },
+        {
+          "title": "Program Manager, Escalation Management",
+          "posted_at": "2026-10-30",
+          "url": "https://instacart.careers/job/?gh_jid=8337981"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.2,
+      "contribution": 2.1,
       "occurred_at": "2026-10-17",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -88,13 +113,13 @@
       ]
     }
   ],
-  "open_postings": 93,
+  "open_postings": 101,
   "long_open_roles": 22,
   "sources": {
     "ats": "greenhouse:instacart",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

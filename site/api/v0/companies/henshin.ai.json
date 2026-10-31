@@ -1,20 +1,20 @@
 {
   "domain": "henshin.ai",
   "name": "Henshin AI",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 27.3,
+  "score": 27.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.7,
+      "contribution": 13.6,
       "occurred_at": "2026-10-05",
       "summary": "Form D: $15,000 offering, $15,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2153655/000215365526000002/"
     },
     {
       "type": "funding",
-      "contribution": 13.6,
+      "contribution": 13.5,
       "occurred_at": "2026-09-17",
       "summary": "Form D: $60,000 offering, $60,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2153655/000215365526000001/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002153655",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

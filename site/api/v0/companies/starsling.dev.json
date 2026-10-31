@@ -1,20 +1,27 @@
 {
   "domain": "starsling.dev",
   "name": "StarSling",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Introducing CI Playbooks: 250+ GitHub Actions Lessons from Software Factories",
+      "url": "https://starsling.dev/blog/introducing-ci-playbooks"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Introducing Adaptive Compute: up to 2.3x faster GitHub Actions",
       "url": "https://starsling.dev/blog/adaptive-compute"
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.6,
       "occurred_at": "2026-08-27",
       "summary": "Introducing sling: an agent-first CLI for your CI",
       "url": "https://starsling.dev/blog/introducing-sling-an-agent-first-cli-for-your-ci"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

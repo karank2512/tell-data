@@ -1,9 +1,9 @@
 {
   "domain": "runway.team",
   "name": "Runway",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.3,
+  "score": 14.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "$152M runway project launches at Selfridge Air National Guard Base in Macomb County - CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1U5UG1sMXFsMU4zd2dNeTZyMXhEYTNnWWswLTJGWFg4VWFiRUtENFNNdE5kOVNzZWdDMkIxN1BHakMxV1pPQTdqMzNKSnlkUVBUcElqcWdqZ2hNU0paOWtyY0k3V2hMNExTdWVfak5qS3NPTm5lalFIVm9Xd3hWUEU2YjNqdFlPVWRVc0h6NEVPSkcwMzE5MXgyYk1wdnc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "$152M runway project launches at Selfridge military base in Macomb County - CBS News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS01zcWdvdTRSdzRNYXJLT0ljODZPaUNjaVExODJsZFFXU2VmTHJHMHZrOF92LUVxOGRGVFNtbUNTTk5QRGdtSVdVVVdDal91RjBGSUEtU0dXa0F2OXhCZDA2YWt3SlFSNW5kcFpUYzVjTW1nZ3VVNTUyQ2xzYmlEMmFtNlgxSnRXUXNWTU1KamZQcFFSMGgxeU4yOVhpam15Rk9TSzdZd09meHFpY2VkZg?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

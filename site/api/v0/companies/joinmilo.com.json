@@ -1,9 +1,9 @@
 {
   "domain": "joinmilo.com",
   "name": "Milo",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Sakon releases Ask Milo telecom AI companion on ServiceNow Store - Telecoms Tech News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWpBSTJBbHdPSzZUS1FTWFNXV1c0Vk92ZVA4YW5taEhERXdXUkxLdGZ0SjAzd1hnU2kyQWtCSm12NmRCbURGMW1VcnR0LTFNQTR0T3pwNU1HTkpFbHlJTXV6all3NWdUUGwzWlpSZy1hR0ItXzRwV3R3Tms3Q0o1UGR4WXY3aWNacFpkSnFWN1ZxQ1hfLU55N0c2SkFwWktGZVE?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

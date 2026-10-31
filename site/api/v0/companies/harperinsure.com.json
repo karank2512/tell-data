@@ -1,9 +1,9 @@
 {
   "domain": "harperinsure.com",
   "name": "Harper",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 15.3,
+  "score": 15.0,
   "contributions": [
     {
       "type": "leadership",
@@ -28,21 +28,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Spurs Star Dylan Harper Debuts the Nike GT Uptempo with a Silver PE - Sole Retriever",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3FkSjhYV3lBUXZCQlhvdDdkMVp1OFlGd2czaW1xVnhGQjZqNFZXOWF5aDk1eWZFSUxhOW5pckp6UWgzLS1rdFVyUks3NHFIZnBLLW1GeEhxLWV3OWhXTUVPTGtfQWRjczhQbUNvWWh4RTdGTUZIa3lwWFcxcmVjUmhjSDZ5OXVSWF9v?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "ELPD Releases Footage of Controversial August Arrest Outside Harper’s - East Lansing Info",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakE1eThTdXppLVN2b2MtZ3JVcDlBYl9WTnF0Rk5yMDB6Y1FmMF9heUVrOWh4eWttWlp6S21temt0Rk9XdUpGLVY5UzM4YlVaMGc5cE1LaExYS3NTWllXRHMtY2sxMGxnWGp0VUdETVkzZEliM0gtbzVwQ01vRHFvdEFNcGVJdDd2cU1PWC1naVBQYmE2U0o5dFlxMnhuejA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Dylan Harper Debuts The Nike GT Uptempo - Sneaker News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2JpLUlLWDlNamsxLXp5d3I5cFRabnI1WUNqX1pBM3V3b3RlaVRENWdEd1VKQThRYVFjekVCX0N2RWJzeHBOaG9XRWpRVEgyOTdueE9NbHhxWGI2RHQwdWxTWE8xekFHVHltdXpkMG11X2NjQVlHSFh1R1lyODd1QmdSalo5eEdHaGh1ZdIBjAFBVV95cUxOS2JpLUlLWDlNamsxLXp5d3I5cFRabnI1WUNqX1pBM3V3b3RlaVRENWdEd1VKQThRYVFjekVCX0N2RWJzeHBOaG9XRWpRVEgyOTdueE9NbHhxWGI2RHQwdWxTWE8xekFHVHltdXpkMG11X2NjQVlHSFh1R1lyODd1QmdSalo5eEdHaGh1ZQ?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

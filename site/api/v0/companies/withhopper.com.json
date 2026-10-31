@@ -1,13 +1,13 @@
 {
   "domain": "withhopper.com",
   "name": "Hopper",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Free rides for South Jersey seniors? NJ Transit launches new CG Hopper service - NBC10 Philadelphia",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlktSVV5UVJEdTFlcWZCNFhfdTZaMFlFSUFRb184TjRHZ1psd2ZyMFI3N0RoY2VRTFQ4ajJJYUZnUGYzNkVmMk44UlZXRklLcUloc3lJaHBodmJzVXdNZ2lrOXJySWlFMDY2dVlNc1R5M0hXaDJycm9lRV9KcEM2bkdYT1lLN0FKZzR5SGM1UnVIaW4zaGJuRWVTUGV1X2xXb28zeGxPbWxmWHp6Zk9OQklDcC1ja0sxZUJzMTdWbzN4d9IBygFBVV95cUxPcEkyQUNhY09xSFl5SjlwM3Z3ckRvZ2lRZFRQVC1kcjNGNGcwSVNrYUw1OVVyZGxpOGpCOGw3dkpUeVl3OTVDX2MzS2U4ZlpIZl83MWdlcTZNaGJlU0RKc2ZJZGVERm5qeGFfcENLdGN2RmZ6U3hoenRRVFVQd1JRUnd2REs5a2ljMVQ4X3AyU280MGZsUGVhV2NROWN4ckxJQU1KSW4tblBWTlViZUdRMDZxb0xVSUFkaDZfcHRCa3NwUlR2X2plUFBR?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

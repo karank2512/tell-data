@@ -1,20 +1,20 @@
 {
   "domain": "smooth.sh",
   "name": "Smooth",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.4,
+  "score": 11.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Carson Launches Project to Smooth `Rollercoaster Road’ - MyNewsLA.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMUxQR01iT01kYTVEZk1VenFYWm5XVHdVZlFWV29xMEJJUGwwWExKSnBuVmpjZDJNMVhzS19YSDhHRjhXY0VlVnRGakk0SHVyN2t5Y1lhZlU2dVZ0aGdQZkxBN0o0RWVrYUtFdlBKUGNlY1REX0NOX0s3NTlCVTVaa2FMX29LazhJTG9vd1lNRG0zRE0zMFE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Lexus Unveils First Electric ES With Hybrid-Like Smooth Ride - Seoul Economic Daily",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbllzbVh6dmtvX24za3ZZUVFhYWlFVDFPZDA1aGswNWdpNFd5VDhRRVJqdDEwY3BjWlRiTldZdnpVZy1hRi1tUGhreVNQT0pkUlQ0cV8yR0NpWmVrdDQ5MmI1dlZ6RnRkNHNNakYyRmpFRkozbEN0aXVxbGhyRHlEVHVXX0kxbVp2VkhPaEFSNDAxUE5YRzUzdHJHazVnRGNvOTUxUA?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

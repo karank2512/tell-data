@@ -1,9 +1,9 @@
 {
   "domain": "startcherry.com",
   "name": "Cherry",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 12.1,
+  "score": 11.9,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "A century in bloom! DC unveils big plans for 2027 Cherry Blossom Festival - WJLA",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaTAtdklpTUNMR2dsT3ZDd0p0OUdEdDdweFFmU1ZoSEVSZHh1cTY2UlhmWVdTWlRYREctcUJOMm1xVWNlQmpVdWFHd1FEdXBwRlI4T3dDV1lEQ1o3c2UyU2tUdjNVTC14ckNPZ3B4cEhLRGI4RGdOM2RETnRyN2RwVTUydi0xa3hWY3RQYmxUcEJFdXNzZ0VvRThGTzJXR3lFcWpiU181Ui1PRE5CT1BQeThsa1RaSTMyQmluOFhFbGNXZ0Y3dHdoYVo4UXVHbkIwUXRYMVY4UVZmYXFwellyOHNpYjVocnpfZUE?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Introducing: Glashütte Original Brings Meissen Porcelain to the Senator Cherry Blossom - Monochrome Watches",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYlZOcmhNdkNHOEtjTUExcUd4Z1V6OGlFbEtnQ3V6dS1oVDdPaUJzYzF0MS1tRkJXMlpYWEF5ZzNBUkVzLWJHMVRQTWQ2YnI0VU9sUGtHSkhOdkgyYi1ydEdpeUw1RzFKeDFLMnN3dXcyaW9qdmtRSUZTNkZsZXA0d0U2Zk5Mc0tKeGd3NThaTjlsRlZVY3ZwMGpqMS1XS2tXWWNDVFM3VFhkY2tjRjRRWGpOOXk?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

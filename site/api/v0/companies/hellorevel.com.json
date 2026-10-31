@@ -1,9 +1,9 @@
 {
   "domain": "hellorevel.com",
   "name": "Revel",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Revel Launches Limited Edition Ranger Ti - Pinkbike",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OaEFMR1ZwT3lkM1dITXVLWUdReG9SblVpakRNUjlZcGZaaC01NVpBVXRlLXpHeEptN3VETld5bm9BRjhsRm5TcE1ST052WEhsdjkzbllyc09jRFdqdnV4Z3FHbWtfVFAtNFkxZ1NwUGs?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,10 +1,38 @@
 {
   "domain": "useclick.ai",
   "name": "Click",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.8,
+  "score": 15.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Mammootty becomes Kerala Police’s Cyber Security Captain as Kerala launches CLICK initiative - Telangana Today",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEJ2NDJaa2lHQ1Q2dDgxM0hsRm9YamRpMU8xOGhXdE1CWnJ3ZHJkMGpWaHZhMFFPM3gtTGg1Vko2RWhRWTRQNFNvaDFDb2NtRDkxTFdYdkIxcUpJQ2V4eElBMHdPYl9SLVpLa3BvM1Y3YkZaY3ZkYTk3aE9yNlhpbFNFV29xUkIxSDMzZS00TUYzOUFZUFBUdml4U1RrbUFNMlJ4OHIyeXJ0SEpCZmpRaXBIM3dsOWZKb1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Custom Legal Marketing Launches Sequoia Ranger, Click Fraud Protection Built for Law Firms - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbG5mVVdLMG1HOGRBMk5jNmd4N1FwcTh0dDJIU0x2cngyVTRSdnk4ZHV6U3Qxd1RRbS1vbVNPclc0MFhDSzF6N1Q1TG5SUzlISXR1R2RvY09OVVh1aXNrZkQzOWlFVENCOXdzeFhyNzgzaUh1OTlteFBtekFwaGhYVklyM1I2Wmo3RmItN2NpSG5iMjUteVRDZS1xbzE2WmlsQURjd3ZuNlZnQ0NILW02WmhTeVNVS3NJTzNCR2U3RW03alN6OFZEZ1EyejJfMXlyaHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Microsoft Rolls Out Windows 11 Preview Update to Customize Right-Click Menu - SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1JvNEY3OXJYWkxwVmlTbDA4UWt1ZkNkU3JWSDBGNlVuRVhUUksyUFBzbVVEdE91UzFwaFpqMkk4VjNQdTFJaGRoTmcwcVRsdlBLZlc3YmhJa0c0Q3hBQ2gyZFN4SHRRWEJIcjN0X09VMjA4OEJxbHh5V09NS0ZFTkg2RjNrQllyTGNuLXdkRERPeURXaExYRGU2bjZzQWY0SXBqMw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Microsoft releases optional Windows 11 KB5127936 update with customizable right-click menu and dark mode support. - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmRYcTU5T1ptOUNxRHZTaTNSNm9EYThkb0pCSlBRREpJXzV4bndhQURJN0dUVXFqVklldzZFOVdMa29uUk0yV1dvQzh4ZHN2ZlZKUmN0TzlHSGdtZ2pVejV5MWp2bUtQSFd3VWQwY1VXeUZSSS1VX1Z6bFJITHdGZVM2blNzVV9FS3ZQN0l6OVUtcXduS2pPRnhzanEzX0NnV0Z2VkNaenZNaG4wbXZLRFNnQUt5MkQxdFJXWF9UaVRCMm1oMGdKbEUxaGNHZHI5T20tRkExWDQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -35,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "BidShakti Launches AI Platform to Find Government Tenders and Build Bid Packs in One Click - Kitsap Sun",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSUJEX0FEcjlJdWxnRS1jZVFvVk1HOTg5XzF6YUtwSFJMZy14X0FaUzB3dUxKV1N3TzNfVGM5NVhSYjRJdDBYV2JsMGVqWjNRZmo3OVNib2VKY094cm9TUlZRU2c5ckVmeEFrdjltR1JNUWhDVjRVck9TQ2h4RlZoZGh6OEdTZy1HWXNuZjBkbEFwdmo0MDF5WFhxMjZuWUFNaWNheTlYaXRadkhkU1loYzY1OTBLeDV3Umh4SmlJQ3lMLXpBclhqeFFQU1RSWXVpY0hHcVNKajY1RnhW?oc=5"
@@ -56,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Introducing CCIP Vault Adapters: Enabling 1-Click Deposits From Any Chain - Chainlink",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EdzhfWGh0Y05RTXVKcE1RS0J5Wl9pdnRZZWk0SXp2NmpWb04tS3U0RHVjQm1CSWV6cUdwRWozUDQ0RndrbHUwV3B2cWR3dEdCWTFaaXkyTjRBSWZPRWFsVVNKUURKQQ?oc=5"
@@ -69,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

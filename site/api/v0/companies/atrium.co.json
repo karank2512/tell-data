@@ -1,9 +1,9 @@
 {
   "domain": "atrium.co",
   "name": "Atrium",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Disney Stays on the Orlando Magic Jerseys as the Team Unveils a Reimagined Disney Atrium - The Main Street Mouse",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajl2SVRYRy1tLVJ2ekRNUTh0b2c1TUpWTlB2cHhSZ1M3dVNnalQ3LUMzZEZ2cjJqMUQ5bkhQLUV2TjhCYmFJYmhPRjNwWVBTc1BEQ3puODlzWnlKLUI0bS1FVDdBNDdWTmJ0SUY3cEl4aUV6OHZZVklBOS10LVNnd0ZKbjYtWEFjQkZ1Qlo5Q2U0eFBhQjNDUUJwSlQyOWk2MHh6N1ZwME44cHRsakZaSmpBUG4zQ09Wd2c4WG9id1JmT1pmVVVCcXYxRGJTT3lzdHRic0R5Uk1VM2MxNFo2Nnl6VQ?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

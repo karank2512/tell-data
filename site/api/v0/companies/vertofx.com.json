@@ -1,9 +1,9 @@
 {
   "domain": "vertofx.com",
   "name": "Verto",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 3.2,
+  "score": 3.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Federal Bank launches Verto premium savings account; here are similar options available - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYVFKU0tqemhlVjJuVDl6NlcxQzNiRFFDMnNtM0FqQ0VrdzhxcFZtTjdRVlppRFY3dS1TaUNvcnloTzZtdmRrcDByZlJqVHhBQVBRa3F5QkVVc1cxNDNiZnBLM051Q2Vudk9FRnBXRzBWd2VyakRMNXRFNmM0cGo4em1WRnJodHVpNmd2ZWFHRmhMeUFGaUlhTmY3WWtsc2Ywa0FKTUFtcXhzUkpObW9sZnFnd1RfZFBmM3NZOE5aZHBZZUhEdFHSAcsBQVVfeXFMTk5YZ0NBYkEzQ1lNb1E1bVB3bzk0NFluSWd1UHd4S2NBdlVfb1pUVjhidmZFLTR3OENEdVd5M3FSX0J0X2NPclhsMHhneHN2MkwwbElPZ2NvaTkwam1Gd19HNHBFZ2VDRXZPd1N4Z1R3dC1oYlp1S0tGQnYydlI2MFZJcUFYUy1hNkpzWEtOQ3I1NVFtbHhUOWpsOUtvdXVxbm5SbWd6aFlBdUZDbUZNeEhSU2RYNlRSbDB2V0hoLVJqdG1hQ2FPano1Q0U?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

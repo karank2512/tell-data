@@ -1,9 +1,9 @@
 {
   "domain": "avocadopos.com",
   "name": "Avocado",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Avocado oil moves onto the menu as Omega Pressery launches into foodservice - Wholesale Manager",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG9xazdWQmVsRl80MGlBVVdzZEVmSXJ1THl3WWlleXZFd3VsQURqeGdiVXpHUlZLek11bHRqV01NOWlXUlZ5Z1p3OFdZWFFxTHd1UGdsSFNJMUgwWVQ5TExoelEwbHh2WlZhS1dJVGtkakNTazYtcXNCaXhCZ3czTnctSkRtdUNWam9ZTEZNU2ZUZU4ySFZfcUViNnlkVjFsdzVUU3VhVGtJUVk?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Del Rey Avocado Unveils Refreshed Bag Line with New Big Reys and Lil’ Reys - Perishable News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3ctQ2tNdU5TTDhvNUlScE12OHdDdW4tRm9JajdnT3V1NU9xTVNVM3AwTXFLcTg2eGI3SHltM3l3OWlyZ2xtamlWOFpxWjZjZVNrNkhSNVRZYl9uMlFkLUcwcDFKZU1ZTUhVS1RDb1ZIZEZPUnpSWGJqVjY1ZC1DUk5BY28tU1ZkVE1kcHlrcTdadUZ3SmQxX3RQX0pDT0VJOHJvZDZUY3pHYW9VLWc?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

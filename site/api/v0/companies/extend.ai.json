@@ -1,13 +1,13 @@
 {
   "domain": "extend.ai",
   "name": "Extend",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.3,
+  "score": 7.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "ProAmpac Introduces Food-Contact Packaging Film to Extend Shelf Life - Packaging Strategies",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDl3NFpkZUE1eHF3T2NVaWpKLWRFNkpvdUp0cjZTamhsU095R1BHR0hmcUFwbmg1RlVTZ0Q3d3lqNEloeUV1MksteDVwSE1TMm1zME1LUzJxcEVMUWgyYWdUVmJnS2I2SVJtUjFaRllISFp2aVJFbkpiOEVaYUpjUVhadWF1VEtlN1lxT0JFS3M5bzVoQTc4OVV2OXdmZW5kMEdZN2hZWTUtM19TMlk2NXg4NnBPRVV3X1NWYw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

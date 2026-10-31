@@ -1,20 +1,20 @@
 {
   "domain": "eternal.gg",
   "name": "Eternal",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "The Eternal unveils new lyric video for album title track “Obscured Horizons” - Chaoszine",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGxLZXVsN09fek91Vy1ZY3A0VW1KZDRpMkJiNV9DbDltTDhxa2FQbHhUbEV2ZVh0V1kwSVZ6a0ZYTG81S2MtekZnZmxTSG50Y3lsWmRaV2VCel9DVEhla3BEVW5DWHNybTZDZjJfTE5sOEsydmRjZGJXTjltN19PcFlPMkVobVpkQTY4ZzhoWHFWRGRidVFCQVFHdzlCblE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Grand Egyptian Museum Launches ‘Eternal Sun’ Light Show - CairoScene",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc21OdHhsRV9GVk91cW5xNTN6RDFWTENjU2h0MzBjQTEtSnRyVzBjb3NPSVdVU05uaWhlUFBDOEFSUlhXOVpHRGVmd3JjWXJLNVRTWnJ1MDlKNERUNkdLZG5hcHlkSFBVSGx2dW5DS0h4a3UxU01CQmVwNjRPVXlwNzBCbm5OVXZO?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

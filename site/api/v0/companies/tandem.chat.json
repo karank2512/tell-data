@@ -1,9 +1,9 @@
 {
   "domain": "tandem.chat",
   "name": "Tandem",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 17.9,
+  "score": 17.7,
   "contributions": [
     {
       "type": "launch",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Apple Introduces MacBook Pro 14 and 16 With Tandem OLED Touchscreen and M5 Silicon: Price in India Starts at ₹3,49,900 - PaidFreeDroid",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjV5VGQ1ZWJkWTE0OEJuWkQtbWlDU0dhN1o3c0VQNld1OXlxbUxmTGFVS3JoQlkwSV92MmJ1Qi0tbkZaRVk1aHBXVlk0Q0RhM25HZF9sV0JHWkdNMUUwdkM0TXRXVlR5M2Y0VXVTaUY2SGhhWmlaU0U0RFQ5THNpdkVLWUZhZ2J3WkZSMUlQcFN0R1NxR05Edkh2MXhXS0FEc0HSAacBQVVfeXFMT0o4cGpVek50NTk0VTZkeFBRc1dscngtai1Fc21aSERNMWRnTC00a1RlZlJTREN0X3Vna3pwT3lybjVtUlhPbkRXZ2tIeGhJWkRvQzJSblBIQ1FXM1RpNE5xZ2dzNUpUN1VIQ1NaMkJkX093ZWp0WmNXSnJhd0FDUnhMVTYwaThWOFlTaXBYMjNEZVBQV2xBLUg0eDdySFBfdWktczEzWjA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Apple unveils first touch MacBook Pro with tandem OLED and M5 Max, pricing - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamhmaktxSEh2Zi0wYnVzbjJuOXc1aXdBYzZ1VS05RkhnWURvVEF0ZTlIa0dKdDZwVnJGNVJlNXhKSFRjYXRYcW9CNlhoYmF2LWZReTZ3alBFX2ZUdXhYMnd5RF8wMGhnazY5MFhBRmt2N1Z2RjhtT2t1ZEFic1I3QWY1MXdnMWFpUTh3aVhFc19pS09sSy1IM19xdnFwcDE0Vm1acldTQ3ZsWTZudzBZU1dSeEp3bzNaa2JF?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

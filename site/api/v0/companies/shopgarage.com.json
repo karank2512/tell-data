@@ -1,9 +1,9 @@
 {
   "domain": "shopgarage.com",
   "name": "Garage",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.6,
+  "score": 6.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,6 +14,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-29",
+      "summary": "Protocol Home Services Releases 5-Point Guide to Epoxy Garage Floor Cost and Installation for Central Florida Homeowners - Kitsap Sun",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdTZaZ0ROOVJGb3dZY0RTeHV4eXdlRHFDWERmZzJSZkZYb2hIWlJHMTJvMHJfYVFKNG56dzA1Ukp1OHFVUWg1cm5CWmZHOWV6c3VyVnZZVGdkMGhNRERGblExWUE1azlHcVc2dWxiWlFCNUhFWlI2ZHotQ2N2U19ndzFpUTd4akxDYl9fX0U2aUhBSlVobld1UVNoQlFQZm00cnB4M1NlTW9zaTIyRnN3VkZNb2JLb2xkenVXX1hsbGlCME5naHVqbXEtRnlaQ0V0RnhCbHZhaVVUYl9qNURSYWl2bjJ5WUlJV1RqWkJCMmpHcmVJVTVnd3NpT1JaaTNuNjA5Yw?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-26",
       "summary": "ODOT unveils new Putnam County maintenance garage - LimaOhio.com",
@@ -21,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "McAllen unveils South Texas’ ‘largest mural’ on downtown parking garage - MyRGV.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDBYOW40YTZncUZ3Q0oyZmNjeFBDcGJxenptT2p2a3lGZ2hoZGMxTmNIMlRNMkZjei1laTd3anpMTWxLazZVbnZ0aXpkU21DS2FCWGo0N093NWFaLXNoeTJGWVl6amJ5UjRpaktqdUFObHBIU1dNUDFnS0NpdXd6MmdZbWFWYnh0NmNMdk12WkJENWg1czUxRVlOd0xrS1V5ajdQRktZbzJVdkhtLWZvU2hUSU1qbWZ4U3pBTFNFVVo?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "McAllen unveils South Texas’ ‘largest mural’ on downtown parking garage - MyRGV.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEVBUkROc3hrV3Ywc09paDBiYmFUWTRyeUVpU2pMRFhGajhIY2VkYkZteDd6QjQ4UVNEeVRuaFM2VW01SC1zdmZmaWlEcWl6MHJMWFZwejhmZFVnMlFjMWRHMXRKZEVNaGl1M09nVXpJQWZVSVVlZEFTdy00UjlnZG5nNXVjU2d6dlMzZUpzRG9DYnZ3MUVTX0didWFrTWhxWVgwWUNYRUFIYkEtS2c?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

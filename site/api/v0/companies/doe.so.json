@@ -1,9 +1,9 @@
 {
   "domain": "doe.so",
   "name": "Doe",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.8,
+  "score": 7.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Netflix releases new 'Jane Doe v. Cornell' documentary about Cornell 7 case - CT Insider",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1Z2R1RPbE5RMUlld0ljU1poa21NOUxlcnR5cHFweUl1elhWX1BMTDZQRE5aLXJNLXBkX29zWWM0VUZ3MUNjSV9vejRWVC1zR3VUbDZyRFhpUXQ3TVBjTWlvN1paelNKT0Q4U25MWlVpWmMwSm9uUWw4OU41Wm5Qel94MWF1LW5nNEZoODhuQVhkZk1McHp5Q2VGa0dHYjdmSGtLYQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

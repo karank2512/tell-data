@@ -1,9 +1,9 @@
 {
   "domain": "draftin.com",
   "name": "Draft",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Colorado Releases Interim Draft Rules for Automated Decision-Making Technology and Chatbot Safety: What Changed and How it Affects Financial Services Institutions - Consumer Financial Services Law Monitor",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPX1dfTmV0Zjl0Uk0zVjhsUGdiQnoxWTZSUlFfdTJfOVktTGNoYXl4dVJvMVo0bWFoUlFGTEp0UHIwV1NLRU9Ka2ZUZm1hZHdEUG1fUXR6WURpeWl2X3RTWUZYdDNIVnh3OFd0bXUwN0s1VUhURGt0dEVJVHdKMVNVdGxreG14YkJNYlNzOE9WN3lCYUVUaGNhRXJxTm52WkZOSHNlUEpXMUY0Z0g5TDBQaWQydS1ia1hrWmFQZzYzbnhxUGdoYnNNTmh4bTRIWDNjdl9UaW0xTmJubDA0MjhSeExtaE9ER1Y1UkR3YnJLdUIwN0J4MmVPN0ZERXJQakgtZnRMYWU3UEFEblZqc0FvbXFEc2R5YWlOSUh6bFIzSnpDM2loTGNuNklRM18tRnRhOFNIQkVJbmxVMmxiR19GMUtkdlc?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

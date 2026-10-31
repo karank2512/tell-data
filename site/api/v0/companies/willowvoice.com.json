@@ -1,13 +1,13 @@
 {
   "domain": "willowvoice.com",
   "name": "Willow",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.3,
+  "score": 5.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Fort Worth releases land to Willow Park in legal settlement over 'city shopping' dispute - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWHJvd29ZNk9IbzctVVgyNUtXUkNtblkzeFdfWXdfRDJ1NDZicGZ2OXRJbXplanJ1ZFBzYWlKSktsdzhyR3JMSXBvZHpqdDFwNDFfakI5Z1ZhYlNXUmM3VDlEb1BTUUk1aFhCOUxzMmswQkozb1ZzSkxJbi11OUJUV19aT1FVN1hfXzlhQU9Ncm1EOWgxUFE?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

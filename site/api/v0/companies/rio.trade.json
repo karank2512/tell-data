@@ -1,9 +1,9 @@
 {
   "domain": "rio.trade",
   "name": "Rio",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.3,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Cafe Rio Launches New Sonoran Dog - QSR Magazine",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12V2hibjAzY196a1FCaG1RN0ZtU3RJRUJKLWRoMG9NNENzOTE2cXN5VklkYWVWN1U0Rm5SV3dBaldnalk4WHVlZUZLWnhKOWpzNGw2UkFPZS1leFV1Ym5FaHd6LWRTLXZEa2FzTFpTdktwam53ZkE?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

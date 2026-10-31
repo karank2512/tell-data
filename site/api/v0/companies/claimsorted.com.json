@@ -1,9 +1,9 @@
 {
   "domain": "claimsorted.com",
   "name": "ClaimSorted",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -29,15 +29,35 @@
           "url": "https://jobs.ashbyhq.com/claimsorted/caec00d3-6d72-47a3-9d20-10195e997402"
         }
       ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-31",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/claimsorted",
+      "postings": [
+        {
+          "title": "Founding Strategy & Operations Lead - London",
+          "posted_at": "2026-10-30",
+          "url": "https://jobs.ashbyhq.com/claimsorted/5f5b938d-3c69-49f9-9e9e-ae2d050e460d"
+        },
+        {
+          "title": "Founding Strategy and Operations Analyst role",
+          "posted_at": "2026-10-30",
+          "url": "https://jobs.ashbyhq.com/claimsorted/7d9d515a-96fe-4c5c-86c4-e24777f2a92d"
+        }
+      ]
     }
   ],
-  "open_postings": 17,
+  "open_postings": 19,
   "long_open_roles": 2,
   "sources": {
     "ats": "ashby:claimsorted",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

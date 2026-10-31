@@ -1,13 +1,13 @@
 {
   "domain": "reformhq.com",
   "name": "Reform",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Reform UK launches its own ‘newspaper’ with Farage on front page - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVo5bVk5cmpQd0d6V1lxZU9uTDE2bF9WdHBiYmR5QnQtRWtnSlQ3eklUSUJRaVdpLW83OWg5d2ZBM0RlaEduSFZPaGw4YWxlOFl6TjRFTERoR0gwb1RhTWZpVkxWT3lYcm5kZ0Zib0hESGoyV213NnJwRkJFQlNkejJ6MmxST3FzUEhyRmNxZVBWcTZoODBNaFJsVFZscFZFNjk2V29NcXVUNkIx?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

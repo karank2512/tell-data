@@ -1,9 +1,9 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.2,
+  "score": 11.0,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-24",
       "summary": "Introducing JWT Authentication for Rivet Actors",
       "url": "https://rivet.dev/changelog/2026-09-29-introducing-jwt-authentication-for-rivet-actors/"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-06",
       "summary": "Introducing the agentOS Package Registry",
       "url": "https://rivet.dev/changelog/2026-07-06-introducing-the-agentos-package-registry/"
@@ -139,13 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
-  "why_not_higher": [
-    {
-      "type": "launch",
-      "decayed_at": "2026-10-01",
-      "url": "https://rivet.dev/changelog/2026-04-04-introducing-agentos/",
-      "summary": "Introducing agentOS"
-    }
-  ]
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "why_not_higher": []
 }

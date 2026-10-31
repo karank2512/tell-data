@@ -1,13 +1,13 @@
 {
   "domain": "gitlab.com",
   "name": "GitLab",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 13.1,
+  "score": 12.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "GitLab launches Orbit context graph for AI agents - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORVZ5MEdBanlDdHNVMkt1dzZ5UzFOalRob0VCQlhRWVNjY0xyaDFJNmpTQ3c4YktlMWJoU21jcEVGcFQxd3hSRk9SWGNoTFA4c2IzTDhvZzNlOWV2UUVMaHBheXRndHF0X0pIVm90c3QyOFZFYXZvcGhsWGgxbC1ncDZWckVkdFUtNjg4Vi1sWnZqVzdQbnN0cmdidzhqb3Fwa21JX0dDLXYtcklQ?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Introducing GitLab's agent orchestration for software development - GitLab",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycFA2dXhQUGNUR3AwX25XTG5PYzhEcEJsQndzS08yU0FEcVdpWmVPNVQ1c21VVy1weE05eHFFQTNMSWlFT3VjNlZDcHR5SGdhMlh6aHR2dTlJUTU1Q0EtQWxXcGY4Q29Z?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

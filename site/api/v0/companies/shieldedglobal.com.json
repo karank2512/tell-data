@@ -1,9 +1,9 @@
 {
   "domain": "shieldedglobal.com",
   "name": "Shielded",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Parker Chomerics launches EMI-shielded vent panels - DataCentreNews UK",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUk03YjFGVGdsSXNyTE5mRVd0NG1RZGZ4ZHJtbzl2Um8ydzJMT2tmMXFnYU10VmVxcHJxYTJYZjFtSXE3NWVvMXFkQnlzNUdOaEltTUs3cmxKMXd2ZGJhSEhpd18wNmw4T2djQkxFV0lmazFEbWRaUS1zTjA4STJ5alFtM0Y4bHBoR2c?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "jupiter.co",
   "name": "Jupiter",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 13.7,
+  "score": 13.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2d1aVpqbmc3Y2R4RUlfQTRVcHlSWFhXVG1kcXlMUkRHVnZsQ0ozM0VyRzExYmFkOUpTd2c2X250OW01dERrWnNHd2JtZ2tqR1VwNnhiNjBZdjNQb04xYk1fNlVxSlc5SEduZG9kd0Z1ajZPWTRUU20zTkNWbmljM2ppSUxMdEtpS29HMy0tY3d6ZnljQXlXUW9abDFZajjSAaQBQVVfeXFMTldJb3QzNko0aGVZcXdYWVFoLVRSUDNXUHgyYkVUN19WYldUNjdzSEhYTGJhUG12bkhQcWk4TzA5OGF2YllPRnNWeG5lZHB5Vy1RZktBNHdfV0JRZG9QQlV3czZSOFhGYklINVFQcjJnT2ExVGItOXRPQkw5SnVJMnpveHRlajJORzR6cm5WNkNrS1hmQk8xWGlGaVBzTHI5ZjUzalY?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Roland introduces JUPITER-08 with expanded 32-voice polyphony - Electronic Groove",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbC10OWR6ZEYzMk52eXBBLUVCVVdSZkI4QnZPbGxzclhSV2Zka2Z3VmpYYkw0X09SaUNuOEZBMy1ac1FVZkxpdnZMc0tGY0dEQ2JINFBBWUxBckJ6cWZzSG0zRE8tXzZIclhEZGs0QVM2SUk1WE5nQTk5WHFpMDdKX3ZIMG4xQ0VxOHVFdVdVa2pTWVBxZFE?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

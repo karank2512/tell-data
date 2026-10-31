@@ -1,13 +1,13 @@
 {
   "domain": "stationhq.com",
   "name": "Station",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 6.2,
+  "score": 6.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Artist Ian James launches pirate radio station in California desert - The Art Newspaper",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVF5UjhTSk5maU41dXJTWWROUjJvZi03dGd1WFhyZWljYkQzbEgxUW4yQmYtU1lva2xiOWlKYjEyNWdQdVg3RXZZRWJob0s2LWFIeTROcTRZRkNtV09ralBhNTY3ajUyNGRqN0JQUDlEZ05UOUVfZnFPa0FCbV9DYnFKREgzUm13M1hzRHpBQW0ycldPdmpVUFNha01zdmM?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "fractional.app",
   "name": "Fractional",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 22.4,
+  "score": 22.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-19",
       "summary": "GameOn Appoints [person] to Strengthen Fractional CMO Team",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGloV2JrM0o4V0dyUU55ME9rTkVSRFRkVERtQm9vdTdaMHdnSkxYQThtcW11ZXJ6di1BVGkwaVg2aGdhdm5RblRGNzJfTVBCa1BSMmNtbjJGT0I5ajhNY2NlUktnaU1LdnlIb3BkSXgzdjZDdTROcE9RS3lFeExkRkNnaEV5ZjZWM1pwYUxkRlNvY2U5ejdV?oc=5"
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Zerodha launches US stock investing on Kite, offers $1 fractional investments - Daijiworld",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BWnpEZEZSa3NNYkFqZ28zUnZRU2JSLVRBQkxUajN2eWZ5VzlBMzJmcUVnZURxYzYwNE1RMTRmcUUxZzJSQWhNY2d6dm50eXpWR1V0ZXpXVno1UUYtaTJyak1Ta2FnVi1kV1E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Zerodha launches US stock trading facility: Selected customers can buy fractional shares without purchasing... - Bhaskar English",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeXItQ1RMUlZxcks4ZlNneUpEZXZuOUFxdDNnVDM1UklPcTFmdlRRZkpOcHFHZ19GbVRsb1BWU2plTGpkYThFMHZpdHJiRGNBbUpWVHNTbzUwaTZtcGItNDljWkVKbmJzcUZUU1RqZjMzQVBLWnBjTFVHQndlSmoyZUVnUWh3SVptUG1EXy01dy1ua0cxZ2M5YVdXSkRnNlRBaFR1R2MzVjU3SlVyY1ZLUnZUMjdmekHSAbwBQVVfeXFMTnRUdGpZVDRnSlBhMmxDWmVGMmlsempiMlNTZ3FsRjlSaFhfQl9raEhlRko3WU1iWWFfcGozbUI0dzF3X0tBUEI2MVQydkNPWjQ0aTB3LU96NEN0N19kUnYtczB2N0dsVlRXc0twQnFXWG5Ld1dEbjFad1JsQTVuRW02N3oteEp1MW1OeTRMWC1wN1FsLUZ3MF9RUlFmZExxTkh2cFJNTHVFcGRpTWdic1BWVXMxMWc2cDJLQUM?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "alchemynano.com",
   "name": "Alchemy",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Introducing Singer-Songwriter Anya Alchemy - Scenestr",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmJtR3E5NFoya3JtQnEtQzIzWTVmeU0wajhUQnlyZVJLbWZYN2ZaU0x5Z0ZWcEVBaXpGZEtRdGZkVjUyNHVuN1BEcE9WSEtZSzVQVUZhQ2ZKMnMxRnZmYmV6elZNOU83c215ZlhEZFdlZHVMdTdpelllSlFfNWZWbUpsWm1ZN3FX?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Alchemy 21/12 Introduces Oleotide™ - a Breakthrough Modular Biotechnology Platform for Advanced Skincare - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRmpfS3UxSnI5NzB3di1lUkNIRGtNaXRvM1NUcExzMWItb3pCX2tpd1diS3ptY1M0TW9UdFBpZF9ERXVuMDRXcjNpNTlVSmF0N0pQZjdaTVNDUkZYek5nSThfQ05EOUJtNUlyVEZLQi1VNmFrSl9ZVFVxVENJSDI4YXpaRzlOSnNwWmhmZTZlQlBiSUN3N3FUb3g2djNrY1ItWFV1NU9CdE1tUy1oLTNOczdFNzFBaWp0OTM4UERyanRST3gxZ3pTVVh6UG1vbEpSamxFbkxyOUw3RTJsbkg1TzY4Ulg2R0RmcGJDcE9n?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

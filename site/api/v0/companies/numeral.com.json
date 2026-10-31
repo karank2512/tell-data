@@ -1,9 +1,9 @@
 {
   "domain": "numeral.com",
   "name": "Numeral",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-26",
       "summary": "Numeral Launches New Partnership Program to Help Partners Accelerate Growth and Deliver Sales Tax Compliance - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVzJwNUJNcWVTb1paRDFMNFczTGRZcXh0SHRVd1ZNNm0zZUlsMS1VR3NfSUozUG41LV92Z2NYMzUxYkxDam1wQ0JPMEdBUmtFOERtRklWZzk0Z0dlYjNia3F5eFFIbHZ5QlB3aFl6V2ZsTVpUZnh6dW94SlZGc1E5NXp0Y3hBT0NNWng0X3FOX2FqNm4zRXV1SUVacFhTTThpQ0JpX1RHWHBpbTdZZVRZTGNuN0k0MS03SjdCamp4YVVtQXd5cDhSTTZadGdEdmFRWm1maHRJa19sQkYwS19HZ1hLMmtoMG0yNUJ4Vy10QjhvdGJVTjFsYg?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

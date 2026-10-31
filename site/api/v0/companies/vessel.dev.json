@@ -1,9 +1,9 @@
 {
   "domain": "vessel.dev",
   "name": "Vessel",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.9,
+  "score": 14.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Vard Launches New Energy Construction Vessel for Norwegian Owner - Marine News Magazine",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSkNXdGZDbTlwczJ5R2ItanV6SVNyTmFDSHpha2oyWlA5ZmE1RVJHSERTWllaNTBUa1RvZUFaY1V3WFZKMFRlWFhiNlpXNkFVdFNKdTN2MGhLTVFweDVyNTIzaXYzNlViUTJxcTBhWVFPbDZ3TkNkUEtPdXp2SjBQNGFR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "'Industry’s first’ energy construction vessel launches one year after construction start - Offshore Energy",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEhiYnp1bFVpaG00S1VtWnFCYVNtMVllQmlYUXVFR2lFdEpPUHE0NDNQaGNrNFFFYVVieVg0Vm9EbUxGOHhTanBKMnV3cDNPWllfMFZNTGdaUUZ6ZHdxbjZhX200QlVjN2R6cmhfQWUxeVBFRF9DVndGd2YwdTJzdkRBaVB3V1pFc0lITXFQX2M4VEhqN3BDXzROay16QTVfX2RJanBqSjFDMHVfa0JPZ083VDA0YmlxenVfSEJXVmFyblZRUm1J?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

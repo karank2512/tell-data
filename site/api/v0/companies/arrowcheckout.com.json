@@ -1,13 +1,13 @@
 {
   "domain": "arrowcheckout.com",
   "name": "Arrow",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "On this day in space! Oct. 28, 1971: Britain launches its 1st satellite Prospero into space on a Black Arrow rocket - Space",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGQ5ZVd4V1lXcVRGNnVfenVRMmRDWGtxUU1kSXRsN0c3bHJYT1VMckp4WE1OWHc1U2MxeUZDeklfaUxHcWFyWWxRenNvak9aMW50RnlsNWluX3FlcThlWUxIVmVUeUNKemxhY0Z5MnJrM2JvQVV6M0FxTHFRdjdOdVpR?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

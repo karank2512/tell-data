@@ -1,13 +1,13 @@
 {
   "domain": "caspiantherapeutics.com",
   "name": "Caspian Therapeutics",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 27.4,
+  "score": 27.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.0,
+      "contribution": 22.8,
       "occurred_at": "2026-09-23",
       "summary": "Form D: $50,000,000 offering, $50,000,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2156247/000123191926001219/"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-09",
       "summary": "Kura launches new company, diabetes focused Caspian Therapeutics - The Pharma Letter",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWV8zbFVDUmZ4QS03QTZWWHg1TGM0bm9UZk9XSFZmci11VktGMm9rT010elRVX284dUFTWXZfLVl1VlRRbUdNODR5VnV0SFY4NlNjY1dyVGNPNFIwczNhUF9YVG5Eb3EzWGFkU2xYS0hXa2xkV05PUE5jX1FJajV3NHFWSmdZYTZTVy0zYUdYZ1Bsc3BrWV9hS19IdTdObWVGdzIwVU9yS2VtdTZV?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": "0002156247",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

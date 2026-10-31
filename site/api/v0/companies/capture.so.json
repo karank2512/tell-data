@@ -1,9 +1,9 @@
 {
   "domain": "capture.so",
   "name": "Capture",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.2,
+  "score": 11.1,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Capture What Shapes You - Fujifilm Introduces instax SQUARE 2™ instant camera - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGNlNmVydDlkVTRUTlZFdWZ6dDdGckJsdnQtU3JXa3MyaGZKXzUtQ3pVamNZRmUtNUs5R2M3dHZwdVROcVBwLUh3RG5lWDNWZWk2X29lelhJSjEyZ0FsNnhMM3o3c2ROQnluWjFocXh1V2J5ajhPTGlObFh2OVRVQzQtSVFqOGREdkVWZUE4bi15Qm9XQUxvN294UHRMZWhlSW5mVTQ1WWs4TlN6MEd0d2MzRzlrb3VSaVVsMEFJd0g3bUdnNVljV0x4Y3lLdw?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

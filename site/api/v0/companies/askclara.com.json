@@ -1,9 +1,9 @@
 {
   "domain": "askclara.com",
   "name": "Clara",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Santa Clara County releases timeline in death of 8 year old girl - KTVU",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9taVM5SllZWVQ0V25FX2hBT0xiWDgweWNfSnZwdmIzM01DckFlY1VtSnFDQkVzdGtRQUhEWTkyQlRCR2RJZjFpXzBEVE50RXdkdXBFSVF6RUdBNVHSAWBBVV95cUxQRHAzSXg0cFVnaEt5YWRJLXRwb1VyQUVTOXBOWUszN2VLMThyamZiWEdwNFFyY0ZiS1U2RGYycjJCLUhLTUM2NF9lY3NfV0FJYm9yczVkTEpXS250dkJ2RE4?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

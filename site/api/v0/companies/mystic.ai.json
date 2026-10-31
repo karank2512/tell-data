@@ -1,9 +1,9 @@
 {
   "domain": "mystic.ai",
   "name": "Mystic",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWk1PZWVFU0VUMHpPT3ZMZ19YU1BWdDdZUlJ0cm9OR1FmODNLRVVzVUNjQXhGV3VPTWktTmZSa1hBQW5NcFRSVVJpMUczSXh5aDE3TGFDVGZvZXJQQjl0NG42MmlZeFgwRXZUbUdOdWF1S182Vmp4UXU3MklIWGpxLTln?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

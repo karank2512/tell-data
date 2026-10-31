@@ -1,9 +1,9 @@
 {
   "domain": "getcargo.io",
   "name": "Cargo",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 20.4,
+  "score": 20.1,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Miami International Airport unveils Kale Logistics Solutions' AI cargo community platform - https://www.groundhandlinginternational.com/",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUVyN2xYa25VLWQ0djBtRkpjNHJGUzFfLV85dDBxb1hGOGJBdzU1RExtVjlWQjhoYmtEYzBTVU1rTmF6R3FYYXh0RllCWHpYUmcyLUprc0hMSHIyRTl0MHJnZVFFTEFsOHNvcGRSSjl2di1HSDFPOTJfMVQxMTB4OFhpNno0elFwOWsyWXBUZU5mNUNyT0w0T3FJb1lDYnJmTV9mZWFnbTdreTZlRzg3Q2JXbHQ4VHhpaEZwUzdtZ2dJVnBjeU5wYjd2VzNEVVdPUGJ3OWpUUW9DeVFsWUE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Miami International Airport launches AI-powered cargo platform: $250M in potential savings - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDA2RUxkU0QyUElHRFlWUU1oRjNVcGxBeGJZTThzcUF1T2duSlByam9NSzZ1bkJTMnh4REg3WmtGSkE4ajd1TFBuRFJTVEJjQ2xHTHJBNFNoWXBmS2REbEtGb0FtQjBXdlZxNmRnYjVlcXRGVTBtWl9hWkhMUjRlZW90TVdYeEFJT1o4RU93dzJtSmFtb3VLVXYzakhkc2x6cC1EcGwwM0lYR3J4azVB?oc=5"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "SpaceX launches NASA science and cargo to the International Space Station - Spaceflight Now",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1lTcjQ0alBPSUxLV2ZaS09ya0VldHBrSmVKNWxJNEFRV0x1WHVtQW1uY0NINExmeWUzamVwenJuRExKYzlkbkJNX0VvSFdWazZ0Z2dsM3ZwYVBsdXRpZVhhdkZSdVFjWHBrelpvY1BvMGVqNHd1VU12RmU2U2JzSjBLSWI1Tnl5WklIWS1IRUtYdEd2eUNUWG9hVnFSSEtKc09PLTRXdDRMWTNRNmUwS2dn?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

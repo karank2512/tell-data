@@ -1,20 +1,20 @@
 {
   "domain": "martini.film",
   "name": "Martini",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 13.5,
+  "score": 13.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-28",
       "summary": "E.F. Hutton Appoints [person] Senior Managing Director and Head of Capital Markets",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON2xnaU5IWjUwQW9LMWdWZ3hhLW5Ha1VnM1VIeFZpdllZblZKaFJEOVdaTlM2RjJyaU15SE42dWROb3JuMnJVeE9aN0lfQ1Z6SnM2WWlBTEZKaEdQSVZIZGtYRVNFMng5aWYwSXVDM0tfUU5vc2FKS0Q1UWxhbnRwUFdmRmY0Y1BOZ1BlNGpJWWdYQnk2bjFRTHdMM3lLTFVNTDRiUHFZODFDQzBNeUdDVEdvcWFDeXA3N2E3OGxzbHY0MWI5?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-28",
       "summary": "E.F. Hutton & Co. Appoints [person] Veteran P. Mark Martini as Senior Managing Director, Head of Capital Markets",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQ3FpUVRfektTSWFKNVlYMUI5T2xIX3k3MzE4cW45NUY5UUc3bE1nSlRYMGdQUkJhUGc0WU1hYl8zbGFwRGk4SGhYWXFKN0VSczlOV3JjZWtmeFpiRWdsMnF5ZC1oU2hCcXNWOEcyYXJlNTF3YmFnWGhZR2FLSnJZOTdxOVB1NU05SzZHQlRXVXl2b0l6cFBLV19WaUJZdnFYc2h6ZVBhUGVOcHJHRGVaaEU4WW1UOE9nbnd5QjZiVUQzSU1KSzhIeGNMTUF3Vm1HRmFPblNJV0pxN3RHZ2tqMXd6dnhZWFk0T2JRS0hXV095MG45MmVwRmFCN1lwR1FDT0RacE1yVG82Z2U2NW5od19FVnjSAZQCQVVfeXFMT0NxaVFUX3pLU0lhSjVZWDFCOU9sSF95NzMxOHFuOTVGOVFHN2xNZ0pUWDBnUFJCYVBnNFlNYWJfM2xhcERpOEhoWFlxSjdFUnM5TldyY2VrZnhaYkVnbDJxeWQtaFNoQnFzVjhHMmFyZTUxd2JhZ1hoWUdhS0pyWTk3cTlQdTVNOUs2R0JUV1V5dm9JenBQS1dfVmlCWXZxWHNoemVQYVBlTnByR0RlWmhFOFltVDhPZ253eUI2YlVEM0lNSks4SHhjTE1Bd1ZtR0ZhT25TSVdKcTd0R2drajF3enZ4WVhZNE9iUUtIV1dPeTBuOTJlcEZhQjdZcEdRQ09EWnBNclRvNmdlNjVuaHdfRVZ4?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

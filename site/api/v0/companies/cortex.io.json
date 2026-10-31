@@ -1,9 +1,9 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.5,
+  "score": 14.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Introducing Cortex Cloud SaaS Security: Secure the Entire Attack Surface Across SaaS and Cloud - Palo Alto Networks",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGl5T0s1aW1Dd2h0SmJqMWdzSFZYVEhOSE5GUGtwOHBsUHczMnBSdm1DUmJDSDVWbVpSZ1NOZjkwUmdmTDBiOTc5ejBIUEJ6c2lER2pSRjQzUThrVE9MaXhFVUpZNF9vb2ZYcmFFT1lXTnBwalVQNE8xRFNYOXJxVGRNTEw1UzZEelllMkgtajEzcVV4bFo4?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Pervaziv AI Launches Cortex Host Protocol, Unifying Six AI Providers in One Enterprise Experience - PR Underground",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZm52OWVpSndSd0d0blN4RERvSmhWd1JFVDluSk1SWnlJc0IyWE1JNmFhQkgwWmJrS3hlQ1hrQ3o2SDBrLTR6SzdGYnczT2FJSmI3YWFSaTM1OXZjejBnT1VibXlJem0wdFpxSnpBWllCeURTdDBQYmh1cmJJNm93T0w3SGVSbUJ2cWNzdmxPX191aGJXVzBXOHlQeTU3bGE0NlpXS1JpcjZ0dXBlV09WSl94Yk5UTjk3VFN4QnJWZkpWSGl2Sl82cUpXQTk?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "weave.in",
   "name": "Weave",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 2.4,
+  "score": 2.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today - Nintendo Life",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUN3eXFCemtLZE5OZFd5V3RINTBPakEwTzB0Ul93d0RfLUFFa1Z4RTN3Z0hWT09SandhUkpQRGNIRHZYdDFrUkV3RGpjc0Z5bFFUS2dWR3ZSc29HenlWMUdSdGJJM1EwMjV1UGVXSlFNQnE0RldNVHN6MFdjekw3WEY2N1VvaG44dkxRR2I3Z1Y4QURiaEEzdzRQcDBJTWZtXzZ0MW84TGRzVEcxVklUVTE2X2NEUQ?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

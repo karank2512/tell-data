@@ -1,9 +1,9 @@
 {
   "domain": "grabcache.com",
   "name": "Cache",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 10.9,
+  "score": 10.7,
   "contributions": [
     {
       "type": "launch",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Cache County Sheriff releases names of 5 victims of carbon monoxide poisoning - Gephardt Daily",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUl9FVGtMSDFiX0NXeFhDMG5tUEN5akEtRElPOV91MXFUQkROSF9DWExXV2F6c0ZqaXYyV3l1aHVBLURPN3RUbldxVGtKU2lyN093cVdLak9BcWpJdVI2VkU4SHBEZzkxSi1OVXJlTWtlamp6UjJSQjhrb3poWWxVcWhHdEg1Ry1CQVF1N2ZRZmxzVDFWd0lRUWxpRk5JLU13SlN1TTRxRFp1Q3pmcUlv?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Google Gemini 4 Unveils Limited-Time 50% Off APIs, 95% Cut on Cache Prices, and Self-Developed Simulation System Enabling Robots to Catch 7 Consecutive Balls - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54ZjJlcTdXTVNhRUFDNVVuQjk4ZDdIc2FVanV5aGtqNERKeDBKWWNUN0JkNHQ0YjlqSTRYVFBhYmF6cUp6Yy0xMjBwSHg2N0ZiT0R3?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

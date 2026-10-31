@@ -1,15 +1,17 @@
 {
-  "generated_at": "2026-10-30T15:43:21.790237+00:00",
-  "stale_sources": [],
-  "freshness_p95_h": 71.4,
+  "generated_at": "2026-10-31T15:40:59.280225+00:00",
+  "stale_sources": [
+    "news"
+  ],
+  "freshness_p95_h": 64.7,
   "sources": [
     {
       "source": "ashby",
       "kind": "collector",
-      "last_ok_at": "2026-10-30T15:26:04.524238+00:00",
+      "last_ok_at": "2026-10-31T15:24:14.759049+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 6781,
-      "inserted_24h": 230,
+      "fetched_24h": 6787,
+      "inserted_24h": 218,
       "freshness_p95_h": 23.8,
       "stale": false,
       "status": "ok"
@@ -17,10 +19,10 @@
     {
       "source": "edgar",
       "kind": "collector",
-      "last_ok_at": "2026-10-30T15:23:59.932212+00:00",
+      "last_ok_at": "2026-10-31T15:23:18.920869+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 709,
-      "inserted_24h": 224,
+      "fetched_24h": 519,
+      "inserted_24h": 270,
       "freshness_p95_h": 13.4,
       "stale": false,
       "status": "ok"
@@ -39,22 +41,22 @@
     {
       "source": "greenhouse",
       "kind": "collector",
-      "last_ok_at": "2026-10-30T15:24:32.045522+00:00",
+      "last_ok_at": "2026-10-31T15:22:34.307737+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 4055,
-      "inserted_24h": 1199,
-      "freshness_p95_h": 24.0,
+      "fetched_24h": 4072,
+      "inserted_24h": 297,
+      "freshness_p95_h": 23.9,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "lever",
       "kind": "collector",
-      "last_ok_at": "2026-10-30T15:23:16.356875+00:00",
+      "last_ok_at": "2026-10-31T15:21:37.560420+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 509,
-      "inserted_24h": 15,
-      "freshness_p95_h": 23.4,
+      "fetched_24h": 507,
+      "inserted_24h": 16,
+      "freshness_p95_h": 22.9,
       "stale": false,
       "status": "ok"
     },
@@ -62,30 +64,30 @@
       "source": "news",
       "kind": "collector",
       "last_ok_at": "2026-10-30T15:34:44.172249+00:00",
-      "success_rate_7d": 0.7143,
-      "fetched_24h": 37306,
-      "inserted_24h": 567,
-      "freshness_p95_h": 71.8,
-      "stale": false,
-      "status": "ok"
+      "success_rate_7d": 0.5714,
+      "fetched_24h": 9766,
+      "inserted_24h": 107,
+      "freshness_p95_h": 90.3,
+      "stale": true,
+      "status": "stale"
     },
     {
       "source": "smartrecruiters",
       "kind": "collector",
-      "last_ok_at": "2026-10-30T15:23:00.109957+00:00",
+      "last_ok_at": "2026-10-31T15:21:33.622684+00:00",
       "success_rate_7d": 1.0,
       "fetched_24h": 72,
-      "inserted_24h": 0,
-      "freshness_p95_h": null,
+      "inserted_24h": 1,
+      "freshness_p95_h": 21.4,
       "stale": false,
       "status": "ok"
     },
     {
       "source": "resolve",
       "kind": "job",
-      "last_ok_at": "2026-10-30T15:42:24.895554+00:00",
+      "last_ok_at": "2026-10-31T15:40:09.282772+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 224,
+      "fetched_24h": 488,
       "inserted_24h": 2,
       "freshness_p95_h": null,
       "stale": false,
@@ -94,10 +96,10 @@
     {
       "source": "score",
       "kind": "job",
-      "last_ok_at": "2026-10-30T15:43:17.744541+00:00",
+      "last_ok_at": "2026-10-31T15:40:55.148590+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 1384,
-      "inserted_24h": 452,
+      "fetched_24h": 2788,
+      "inserted_24h": 584,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
@@ -105,14 +107,14 @@
     {
       "source": "publish",
       "kind": "job",
-      "last_ok_at": "2026-10-30T15:43:21.728177+00:00",
+      "last_ok_at": "2026-10-31T15:40:59.221533+00:00",
       "success_rate_7d": 1.0,
-      "fetched_24h": 2265,
-      "inserted_24h": 2265,
+      "fetched_24h": 4544,
+      "inserted_24h": 4544,
       "freshness_p95_h": null,
       "stale": false,
       "status": "ok"
     }
   ],
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad"
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643"
 }

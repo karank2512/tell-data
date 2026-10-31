@@ -1,20 +1,20 @@
 {
   "domain": "aesthetic.com",
   "name": "Aesthetic",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Canadian Board of Aesthetic Medicine Launches Online Aesthetic Training Guide Library - EIN News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHVHN0t6X2l2enhIcnJodV9pZDFDbzdORDVJZ2hBRjd0LWFYdldsS2FmeHBuNmJKajJCblp5eUk0OWpvT2EtVFpHajlYU0xpU1I4TmRkVUFFQVVNM1l3SUg5Q2hPcFp2Skw5eHI2S29UNVQxMU5uNDZMQmNFeHVNZ3dMVVFzOVBBRkdHME9kMXFVaEgtRERYaE95RkdfdFdvZkRRQ1pGai1QMmwybmFfYWpfejJzZUxQR2hhUklUZGdscmN2S0Rr?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Canadian Board of Aesthetic Medicine Launches Online Aesthetic Training Guide Library - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTlpydVFDdEpRM3NnSHd4OU9nLXZLMUVRXzNyN2RZcmZ3U05IdFpzRkR2b2l2Z2N2WUVDWklCZjBJaTRMSWxqbU4tcmIyNEswMlJGdzNod0NCcmxYQURsZllIMllOcXRiX1g2S0RxbWd5MUlrYmlpNjJWcEpZY05sTTlEX1daNWR0M3AtRV9ISk5BMk0xb29VenVzZFl4M24xeVh5VC1VRHVaOWdWamIzRE5sdHdJU1U1YkFhUjRHWjdoWDdBbklRUjJzYkM?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

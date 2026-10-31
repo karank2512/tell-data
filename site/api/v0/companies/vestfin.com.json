@@ -1,9 +1,9 @@
 {
   "domain": "vestfin.com",
   "name": "Vest",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.7,
+  "score": 11.5,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-16",
       "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - lincolnjournal.com",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZTNDYnZwWHpJUXJseFh3Vy1DMHRXelZXRjhmQzNEbkxJdW1LaWZQb2VwN0JzV2VzSF9IeldPNjU0MGJyRkxibThzS0ctOUhmeS12Smk2cFRSOEgxWWx6TWFzeEVuNWF6ckZNZkxObzYwOEJWaVU1MkhHQzEwY3l1bkZrbHVhZVM1dDhiRkpCMVgxUTd1SjlBNnNrWV9iY1VJUDVVR1MtT2RNQ2JTYTlGMm00SllFaEhmRzNSeUtIQkpSdndFNjh4SXZEM0lMb3dyUFFGcU1kTmwyOFp6T3F2UkQwdl9iZ3VtWk44NWRJR0ZWbXZkQkkwWC1PN0ZsVWNOb2tpNWZoZkxwOS1JeWViNHlXUUtEWUpxY1NfXzhTcmJubWM?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-16",
       "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - mykxlg.com",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQckN4M0hCa0NLNkxELVU3eThoQWliOTNtVTVLcXVJbHdRSVF3WURNZ2ZGdTlGT2VFZjVjaFpJOXdtVDNzekZUVjkwQ3JiOWRwdkN1a3FlNEVuY3JLS1czMDd0WkRwOTE0ajM0LXNjTmcxeU5VWWZWcDN3N1duZGw3RTJ6U2VlODk0YWw5eXJ5RWpKYThmcEM5Vmc2eVR3YVpVeWwyUEg4M3oxV25kLWR5d241UUQzRkVNUnZJcE1sLU4tQzEtNm9KaVJTdzV1OVQzOW5SeUZJYjlzRXcxMU5vQjB3bl90SXlnLU42RlJkOXlGRkpKMXg4bGFmX1I2Zk1VZ2RPVEs1VkV1ekF0MTRnYlcwQ243ei1W?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "joinblair.com",
   "name": "Blair",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.0,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "William Blair launches coverage on U.S. oil majors, sees value in cost leaders - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUkR2S2lnLTVHVmFkRnpoNmZjcU1mVGZTQ2oyZDVVenMycmhXSHpsMG14V3dURXRUVHJhYmNLV1k2Zzg2RU5wTG96NGdBRnlXOHBrbV9MMkpPd1ZHNzkzWW1pbllYXzQtTkI2RGx1cVRZVXF3aVRpaEJ2MkVWM1NPd1YzSDJuaTJWRXJhbDV3ZEJoZXJT?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-27",
       "summary": "William Blair Private Wealth Management Opens Dallas Office, Adds Four-Person Advisory Team - citybiz",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXhzSldhZThDRlYtVTd1ZDlwVW1FWldJdm5rZHF3SFEtakpmM05XRnhrSW5UMzlVbE5HMkp2UHdjQXVMblJZNFM1aFgyNmNZa1Fnc2cxSUQtNkdaTmVPWWZZdTBhS1o3LTZWeTlOUDdLUVdPTHlJLU5ZWi03Ql93N19ZMjdORmJuZFlhRjhzaE9hYUg2RnFSSS1ZcmRjMHJkTUQ4SndRQjQ4Tk9LSXFjaVZMU2dnbmxZZFhGR3JSVDJRVUpXb1psYw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

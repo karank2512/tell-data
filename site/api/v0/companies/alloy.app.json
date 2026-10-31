@@ -1,9 +1,9 @@
 {
   "domain": "alloy.app",
   "name": "Alloy",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 13.5,
+  "score": 13.3,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Alloy Personal Training introduces Holiday Hold’em challenge - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHh2ZjVpeG1CUGxLU3c3QlJicmJDSXUycGVqWlBZNnBJRVVZR2llRU9MZXAzT2Q1bmNiYjk3V2JHZFE3akNsNll6SE80Y2VNOVhNOENaelZlVTZOVFF4WTByQy1jVHV5N3pZSFc3cEJnSUw1RkR4MzBCbFpPRHJOS2QxYzNWQVpKV2NMMWlmMmV6UkFEVGluWlpJRGNXVFE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Huawei Wind Chaser Cooling Stand launches with a 27g aluminum alloy body, bladeless piezoelectric fan - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQclR4TlZTUGFNeWJBbTJDcnMzcDRNd1FQWmtudHVVa2JKd0RlRU1MdmRxNF96Uk9haE9EUjRISHpzMEZPZlRzdGJaU0Y0VEZfRWtwRFhkb0dDQ2ZOZkpreFpNcFVxZlZDaWpoUlczbkwxN3hzdGpIeXFKN2E4TWczWkdJX0Z6SEJ6NmFvS3p5TFdwQ3BtbXoyalUwQmJIdHhaa1VmNXNYckdRMVZxclFKc1Jlcmt4VkJsa1VaWFhnblM0dk9rMXJpM3ZQMnAwaFNHWXpXVXZR?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

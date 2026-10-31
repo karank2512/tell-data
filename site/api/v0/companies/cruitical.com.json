@@ -1,13 +1,13 @@
 {
   "domain": "cruitical.com",
   "name": "Cruitical",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 15.9,
+  "score": 15.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.9,
+      "contribution": 15.8,
       "occurred_at": "2026-10-01",
       "summary": "Form D: $100,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2156647/000215664726000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002156647",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "verifiable.com",
   "name": "Verifiable",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Prophecy launches DataGPT to turn AI chats into verifiable, reusable enterprise data workflows. - Pluang",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejluNFk3RG5sNm1oVXFiZzQ0aENlbk9KSkRJRWxGajRMVmVRU0d0MUw3d2N6Ql9raXQ5MDJfem1xNC03bXVqSkI2WEhQU2JjTmVQOE5pMTM0bG9jZHpHTW9mM0RXM0ttY1ZOQUhodm54QUZtdHZBSm5NUE1taklxdzg4a0dsNFNHMjE3OFFzQ0ZUUXh5dE8yM0VqTHNNZTBaVHdSQ0NPcmNqc0M5?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-10",
       "summary": "Orion Backgammon Launches on iOS With Verifiable Fair Dice - COGconnected",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFo2QkRUTmpmOFAzS0NSTnlmMW5pV3YzWHZoajBCSGFpdHpqZEJNQ1Y3LWRHXy1GRXpUaEd4ODM5UmRGMjlQSElkcy1peFczOF96OUw3UktoYlZXdEdLWUk5b0xRSTV0YmhEMWtGbnR4YTBJMUFUdy1pUGk5WkIyNUpsM1VEdVlWT0NRMGNLWEJaWW42ZTRj?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

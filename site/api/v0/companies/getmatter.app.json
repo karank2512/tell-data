@@ -1,9 +1,9 @@
 {
   "domain": "getmatter.app",
   "name": "Matter",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Shelly Unveils Presence Gen4 Sensor With Matter & Multi-Zone Tracking - Forbes",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeHlyc0F4Wk5qVlVPMjZYclZyc3ZBNnZvMEpLbVo0NTBsd1dLNVRDNDVxQ294MzQ2aXFXV3lGaTlzRmM1VGpuUWYyNEY0U3IxNXpObk0yd3Y2ejVleWZFeHhWa3FRX0RackJfTkJybkVyaUZYYjgwcmplaDhUb2J3bVJqYnhqRlhhXzF3RWNmS0dlTF9JSzQxQllHOXg1WFNFQUtUWU5Yd2FGUkMwSUdJNy1wMVd6TDJ3Z2RHVg?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

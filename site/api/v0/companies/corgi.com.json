@@ -1,9 +1,9 @@
 {
   "domain": "corgi.com",
   "name": "Corgi Insurance",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 15.7,
+  "score": 15.5,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-13",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2R5Z0Z6cHk3TllXdWxsa1BVZzh2XzJ0MDkwR1cwcUlWa19iMWdjSEFSRGJMQWhkanhEMzc5dTQ5OFRqMkJPTlZrR3NWZXhSeTZKdGRQajNhb283R2hkeE5lbXduMmdjX2hpNnBtR2wzM3JvbmZyUjFSc0h2UHFVaGhQUXd6SmFCTEpWVkl4WEdzVXFrX3hfWm9oVnFfRGU5WnZuSFExM2xrRlQzV1BLNV9wdFNNbXFZZ2w3SDlMMWo4SnR2UExDb2thYnFIWmtGS3VtTF9iRQ?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Corgi Insurance Launches Medical Malpractice Coverage for Healthcare Practices - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVHVsQndOVXNtU2JCcmNya0J3R2hocno1aXJWbmo5MVlLaFg2a0xwWHl0UExlMzVSdnR3R0hiWUYza2pqVmszeGttc3Z5ZW0zWHhrZFhJaW02YTQxRGZNTGZ1NG94WC1YZmpSeTdSb3VaSV94T1lXaG9BaU1aWkx4WlZSVllKSFZTdHk2TTJXZkg3eUdySW1jZHlBdjdISEU0cTI4bXg1cTJ0UmtkWlZKdUxMTW85WkR5ckFpVHhXa2VXSUZSS3daMXhUb3dnQjA?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

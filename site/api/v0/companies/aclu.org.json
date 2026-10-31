@@ -1,7 +1,7 @@
 {
   "domain": "aclu.org",
   "name": "ACLU",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
   "score": 4.1,
   "contributions": [
@@ -27,13 +27,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWTM5ZnNTOXUwMFB6RVJuNkF2RGRXWFhsendNOG5YWWgyTUJxamlxazM1RzZIWDlmRFNsRnhScXZ1TGYyU09LV0lwQW91UC1RR2lCSjcwMlJWdVZ5Q3NGNHcyNUxXMFppX1lxa1lJVkNuOWJWeHgydFZqaW5IOHZnaXNnVUZndWtWaXRRWEFEYUVjRy1laFNlNUd5VlZhSkRUS3A4dkhUM2Flb2htc0t1d1MzdjA4d0g5VzU2b1ZhakpFQVpjcEZjNFBCd2ZxUmd5WGFIdWdrbF9GSWFTc3A0WmpIcmdvWDhicURVQTdjdjQwVmljd0M4ZHBR?oc=5"
     }
   ],
-  "open_postings": 15,
+  "open_postings": 17,
   "long_open_roles": 5,
   "sources": {
     "ats": "greenhouse:aclu",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

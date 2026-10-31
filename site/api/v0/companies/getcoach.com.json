@@ -1,9 +1,9 @@
 {
   "domain": "getcoach.com",
   "name": "COACH",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 10.0,
+  "score": 9.8,
   "contributions": [
     {
       "type": "leadership",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Hometown of legendary Phoenix Suns coach launches campaign to erect statue - AZ Family",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHczbmVpLU41M1RiVVJmSGtwZnNQWERZbDAybHQ1UEtXWWtSbUpFa3BjRFR0Z0t2R1JtZ1J2V09Gc0U3Zy1PSHNyamluSGttX0p0UWRrTGlxc2dwekRoN3ZZSEtMczRZMXZQa0MxVU8xblJaLTQ4ejdqTk40TDM2aHdxWFoxdFAwWWk5SmNMcmhtNXc5OU8tUE8wUEJoSEdrWWh4V1NicmjSAbwBQVVfeXFMUHZqT2tpb3JkbkFIZzljZk5ja1pWaVoyN0M2MTNxYV9XbHh0RTg3MlJpRkQxc3NDeWtRSldKUTVvcE5rd3ZRQTNaTi1mVG03OVVvVVhmNDZDZ1NaR3hpWDVGMjFwSlYwVU1tZkxXREQxMFYxODN6SzBMYzNoWHl6NmJZcTVNYWIxMFJROGxBeVJ2UWN2eU9wdy1NbERWLVY2U3ZpRGpZQXNndEZUcEVza3Q3RDRWQkxUQ0RFWHA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Introducing Sana Coach: Always-On AI Coaching for Every Leader and Employee - Workday Blog",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRdU5yWWZqWjBCeTVTTWlSQTI1ZmI4YUVpUnZEaUltNUx3N1ZyRUE5S2lLYmpxNlZMLUg0UjZ5RW9BRjVsZVBMenRIUDN3dXRqMnlmazZLWGN0Zw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

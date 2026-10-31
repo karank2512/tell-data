@@ -1,9 +1,9 @@
 {
   "domain": "getinflow.io",
   "name": "Inflow",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-27",
       "summary": "Vertiv India expands into South Asia through new distribution partnership with Inflow Technologies - tele.net.in",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVVhVbEtvT1JBeDV6ZFhQazFGV2VQZTczd3lTeUxOeWUybS1qdkM4S3N1VTNzRm5pOHQ3WWE1VnZDRXpGYk5qd3pvektGY3VPZloxWFhrWGtnMTJsbzNlRExEMzI5TjJXa3FWX2ZHRy1RN1UtbS1oWFFKVFRRV2JIQUE5OUVkVWVmTXBTVWFxVkFVOGJpemx6NGlmaXAybWVFR21JUkJJbWFZX0xhZVQtSW80WjFaT2lKMmhfM1VCR0RuTjNEbU5SYl8yWlNRYWhXcHUzbWxoWDI?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

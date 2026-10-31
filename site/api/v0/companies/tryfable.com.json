@@ -1,9 +1,9 @@
 {
   "domain": "tryfable.com",
   "name": "Fable",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 13.3,
+  "score": 13.1,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Fable Security Launches Vishing Simulations to Prepare Organizations for AI Voice Impersonation Attacks - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVORVZ5NVEwc0ZuREtobU5CNkdmZ0I3Wm1mNjRSdVA5Q3lXMnNwdHJNWkxkS3BwWVRVazhXYzRka0p6TmUyZFF3aE43N1pSeURzd3ZvQWNvSV9pUzIzZFUxcDlVYTd4QkQzWVVHOExRamJNN3VibmhNOV9kbjdRNk5XZU8yUHlwR1NrZjU0c0JzMXFOVlo2NUlYNEk0WGhRZHIybnR2UWlLSFE?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Anthropic Unveils Claude Opus 5 — At Half The Cost Of Fable 5 - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzYyMkx0NFhLdTdIZW5vaVI5bnJXODl4LXRFd1VXNkJJeklVX1VsNllfOVNzSERKSlRfU2lyZ3o4enY4dWFSYWNRc2xnVmVpU0tkMHBkTmVFTHRWR0oxOWpzQ0ROM3pGcW95MzFKTE85Yjd4Z0tvNmdvV3R1XzUzUGlVOUFQOG5FT0NYZ3NDejRkQmd6TTlibmcwbnJYMVBGZC0xbjNQTndLQWFVY21sTXJ5N3c4VFo2NnhHazRQdWk?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

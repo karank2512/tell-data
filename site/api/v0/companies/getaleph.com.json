@@ -1,9 +1,9 @@
 {
   "domain": "getaleph.com",
   "name": "Aleph",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 15.6,
+  "score": 15.4,
   "contributions": [
     {
       "type": "leadership",
@@ -56,26 +56,26 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "Aleph releases anniversary collection of 14 stories and 9 films about rescuers of Jews - BurgasMedia",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWjN2RHI2dTFuLUdKX0JYR2NGT3BVNnpHelh5eDhYaUJZTlhsTlFWT2kzcDdBTVVXYUFoM0dCa1o5WUEycjBsWkwyNV9nNThvTy04UElJLVJZVzBENVN5QUJtV1lSVGhLSmpsenRSY0ZYcEtIOXIwLTM3SnFncUxueldTRHZUOS1pQW9ua3BOX2hoZUdpTGY5cHJiajM3bVlEX2lSLURaejd3d3NuaUNjbNIBtgFBVV95cUxNWVNpbkZUZzFvSlNwcDlpLXFhbkdmTUF6Z1VJV2RvWDlzSnpsaDlaeTduM3p5S1dEa18yaTItT3NhVHpTT3E3YXZLOEdxRXVLc3hPVk1DbmpZbk5mNVp4OThvLVRLQ0ZfTjBtM1lMOFhHd0k3SzB0dk1pX19XbXRNOWFoekk3R1dmVklQbExSenkzV2p2UDFnNlg2WUxUS2YtbEpZa1dQaGxtM05yN0J2ZkZrTnBDZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Aleph Alpha Launches Kolibri to Bring Sovereign, Open-Weight AI to European Enterprises - Techiexpert.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmdoWVRWT0RxajgwLUw0Q0NwZEdJWjNMY0FUMndwSmJKeFN5bXoxQW1vaVdNei1rNllFaFh2Xy10MEhtUF9PWUc4YmFBWlNqWGhsQm9KdDZNZmNPT2doX2RiWW5SLVNPUzAzQ2hhbFBsZmRZWjVxVEs0UVpucTJpMkRQUG1XUTFaVThMQ2h6YnVSclNYelFvS0w2aVU2WThuTHpucDg5UzA1Tm5zUGhOdA?oc=5"
     }
   ],
-  "open_postings": 13,
+  "open_postings": 12,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:aleph",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

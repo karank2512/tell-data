@@ -1,14 +1,39 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 21.4,
+  "score": 24.0,
   "contributions": [
     {
       "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 3.0,
+      "occurred_at": "2026-10-31",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/stripe",
+      "postings": [
+        {
+          "title": "Technical Operations Engineer",
+          "posted_at": "2026-10-26",
+          "url": "https://stripe.com/jobs/search?gh_jid=8325807"
+        },
+        {
+          "title": "Marketing Operations Program Manager",
+          "posted_at": "2026-10-30",
+          "url": "https://stripe.com/jobs/search?gh_jid=8283786"
+        },
+        {
+          "title": "Administrative Business Partner, Coverage",
+          "posted_at": "2026-10-30",
+          "url": "https://stripe.com/jobs/search?gh_jid=8328118"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.2,
+      "contribution": 2.1,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -57,14 +82,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Stripe Pay Launches Instant Business Transfers in US and UK - FintechNews CH",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDRnUnk3cEhuVWk3eHlzNHcxckdPaTBBdjYtakhvRFRjcE5vY1cyZTNER1lNNGs4bHBLaUZudkJlVlNiWnlza3FMREpxQjlnbFIyTEZHU3VUVFhma2NyMlZuU2NpcGFNaGVGX1BSeWJXUkg5OE9Ya1lyOUpmMVk1d0p3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Stripe Unveils B2B Payments that Mirror the P2P Experience - PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2swYzg0T29KaG5GZ3dsTkZfSHl3bzN0Yjg3ZFhqMTlxdjk4emloS3FabDA3NTBra2lzRWsxZXg1OEZsQXFwRUY1NElhMGxVamVINEJQdjhia01kSjMtZU5DZzZETUhjNExtdzZ1VzcwOVN0RTZSU3ZnT1NMSElvZ0xYcXY2QVh1OG1aaXFHc2hIZG8yVkHSAZsBQVVfeXFMTjJnOEFxV3lQaTI2OWdZMlZBcjJLU3VsZm1iUWxMVjMwSDA3ZDJvMlFES3dPdVlRQmkxRDl3Wk1iZ21GQWxmUWxkUy1GdGhLOVlyZjNEc3NrLUtDVVFCVlBhQTN3LWQ5SGxyZ243ckstZFNPODhVMHU5S3VwdU1GSFNHbHBiOTIycGZqRVZnY3BWaWYyYlBpU2xoVTg?oc=5"
@@ -136,7 +161,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Meta unveils AI agent standard with Walmart, Stripe - digitimes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUtOZ2w1czQycHlOcUhOb2lTc2JxVjhRSDlMMlgyeEtuM0dZeXVGbXhBTkJ1cVRoWHBOVGRnTkVkMEpLU3BzSEpTaWFtd1djaXNGR25fMy1XdXVOMTFPTWZQV01DUy1fd3V2a3ByMl9SRXRfQ3hVZTctdVFjS2piTnNha21jaUt0ZVZXOHBQVWQzaEU?oc=5"
@@ -245,13 +270,13 @@
       ]
     }
   ],
-  "open_postings": 753,
-  "long_open_roles": 191,
+  "open_postings": 752,
+  "long_open_roles": 188,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

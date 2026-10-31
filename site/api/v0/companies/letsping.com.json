@@ -1,9 +1,9 @@
 {
   "domain": "letsping.com",
   "name": "Ping",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 12.5,
+  "score": 12.4,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-24",
       "summary": "Ping introduces new face material with its G400 Fairways, Hybrids and Crossover - GolfWRX",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSE1ZX3ltaTJiMWpsbGhRWTF3YndFWnJvWEVxMmMtZ2xrdzRycEdyME5rbTJfOVFXUEIyMjJvVGxzdlBuS1lUdG13RGJVVnRwWWVoVUlKcVVIVFNoRUZqSnlWRW9KRjVQb2N2dzFDRmdCY2taVWhyYS13azI3T2xTZ05zR0h3bDRNc2xvdXR3LXNGVUcwOV9PWmRhQUNjNzRXOFhlc0pqdFIxUQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

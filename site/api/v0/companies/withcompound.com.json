@@ -1,9 +1,9 @@
 {
   "domain": "withcompound.com",
   "name": "Compound",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.8,
+  "score": 4.7,
   "contributions": [
     {
       "type": "launch",
@@ -28,19 +28,19 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Compound Capital Partners Launches First Hospitality Investment Fund for Accredited Investors - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWl9nLU83cWg5MTdiV3RBRy0yQU9Tck1SX0pmdXIzTm9Beko2VTlMajJIaDVTTFF5VVpFQ2pLSE9lY3dmY3BBU19pcFdRYjlHOUx2LWNBMmdOMklXUWREckg2UW1WaVkzbW56bWd3UUp1Y1lnVEp4T0hpVXpuaVp6RzRQZVJlZWgtR25xMmZ4OEluUlFMR1J3ME5qQWl3allvS2VBV1pTUGZxMU5IZkNDYzhTcFFmaXhzQk0wejV3bHEwWFhxOTJUSFpwTjh2N3ZRN2pKaFQ5Yl9mUFJWdlVpNFBRNWdNRTRMSnhIN0wxY3c5WTk3SjBhcUxUZTQ?oc=5"
     }
   ],
-  "open_postings": 7,
-  "long_open_roles": 5,
+  "open_postings": 6,
+  "long_open_roles": 4,
   "sources": {
     "ats": "ashby:compound",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

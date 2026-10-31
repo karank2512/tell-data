@@ -1,25 +1,25 @@
 {
   "domain": "alex.com",
   "name": "Alex",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 1.1,
+  "score": 1.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Alex Ovechkin's 'cool' final home opener marked by sons introducing him pregame - ESPN",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXEtNjRUbkVKSU10Z2NmbUN6NlRfd1ZndFl6Q1JqWlh6NHBDdWQ1bVNFYzJFSUNiSkpOQnVieW5hbkk5ekFjWkR6cVQwTzF0YjI1aHdZQ2wzMmtjNkhxMzFTVF9fVW5VM2tGaE1nRzdJZTZGd0lpRGU1QlAtQWhaRzNETEVzdHF3QW1CY0pGam5takNNUlByd2ZJMW1yN2RfZWttS2ZuMGpDU3dxb0hyd1h4RQ?oc=5"
     }
   ],
-  "open_postings": 1,
+  "open_postings": 2,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:alexai",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

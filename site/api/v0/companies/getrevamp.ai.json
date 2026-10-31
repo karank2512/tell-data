@@ -1,9 +1,9 @@
 {
   "domain": "getrevamp.ai",
   "name": "Revamp",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 13.4,
+  "score": 13.2,
   "contributions": [
     {
       "type": "launch",
@@ -70,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Delta Air Lines unveils business-class revamp as it bolsters luxury flying experience - wtsp.com",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2tZaHRHQ01FbEEwVmp1RGtUdHF6RWxJbmxIcFpWQzhJQXZKbjVyWFA5a29qSk9rTHN2cmlUY1N4WXpyWnJ2Wm8wbGo5Q3R1R2VtWHJ0d0xFanlkMUZ0QUx0UENJSlZxSTcwd2d4VXBXeHdFZ3FldUNZaFBFUVdDb2llOWZ1ajBuREt3S2VhOEo3MkxkTkJNaDdnNVduWlVOMWNGdDY4bzl2eHV5akVpMjlXU1R3OTFtUkx5Y19Id0pFYWlfbHhTa0U3T0lUQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Bybit App Homepage Revamp: Introducing The New Financial Platform - Bybit",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDhpZVZJVFFqQldIQ0xLTzNtVGZPRkEyRThpd0JFYnJobUZIRnNVSW1OTlRqUzk1Vm1KcDBxX25UcndNbmJyMmpxVnhFLTlHdUU0MjJfM2VPd2JlTkQyQkdZWWpwSGRpQjctWE5iX3d6T0htWWs3LUl1Wm8zd3VvOTZHRk5tU2htYTJnSWl0YUZZWnFQVHNwTmhOM3hybjMzckNSQ21rWXlIX3RvaGFieF9RRzByYjJEU0Z2bEFGY2VnNkk?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "lattice.com",
   "name": "Lattice",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.1,
+  "score": 13.9,
   "contributions": [
     {
       "type": "leadership",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Lattice Semiconductor Launches Quantum-Resistant Security Stack for AI Infrastructure - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdnVFVHVJX3R5Nmltc1QyQTlvaUkyam9aRnRLNHR1UUtnOWhKZjFDZVdTZFBKTXQtNmRjZU9Id0FKUDlCM2M4UkpBWEVSc21vY0pKRGxES0RkQWQ0aGptVXc4NEstMW9CTHFqRUhzLWhDdkNYOHdONzZTMHdQbzVZQ05nbVRSX09JMkpyejdFOGF1SEJmaGtGWVJ4cm9ibEdBWl9iMnprZ2xoZVhnSV9FNVBGS2s0VGxxdTlnYlhjaUZQSlZUMHg4YzZ3SV9fNnprcnZzTQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-12",
       "summary": "Lattice Semiconductor Launches Quantum-Resistant Security Stack for AI Infrastructure - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXA4X1dHcjBOYnN4alAydTE2cnE0bXo1VGxFMHlTejZwSUlIMWhSdzlFNnFJaTc1MDh0bUdyOGgyLV9Fdmc5azhQSVpBMTZJMHBFbFdQaTZBS0JmUUd0ZjVidWxCcXV0eXNnenlNQ1Jhak5VVE5ENkg5NmNlVkNIa2tpSnl2YklFdWtQVjNJRUhieE9HXzlSX0pNejNxeEdJRjdSSmFEckE3RUFmdHBKZ21n?oc=5"
@@ -76,13 +76,13 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWThUeUZYYkY3X1U1MHpneDV2Z0duckY5NkR6dm81T1IzNjd5em9STWZIbW51a0JHVVBWRkFfaVEwU01oMEc5eklpaGFUYXR0T1JNLTAtZW5wTDNpVlNxbWtfTmZ4WEVTNEt5X3JwaVVqdVRjdG1PN0s2NzVzeTQxcWh2WndIQ1B4Z2R0NXByVGFFVm5YNndWYjU3M3dmM1RuRW9ORE42VDZOWU0xd1FhZXVmZi1rWlEzdnJMQjRCZXptTkRS?oc=5"
     }
   ],
-  "open_postings": 11,
-  "long_open_roles": 5,
+  "open_postings": 9,
+  "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:lattice",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

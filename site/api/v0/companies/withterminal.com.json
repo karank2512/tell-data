@@ -1,9 +1,9 @@
 {
   "domain": "withterminal.com",
   "name": "Terminal",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 24.3,
+  "score": 23.9,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-24",
       "summary": "United Airlines Debuts its New Major Terminal but Faces a Practical Complication - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMlZpV19lM2k3NDNrVXFBb28wSUhMSGtKYzlkX25UTUFNTWFkSU4ySUIyYVRIQTNSZmUzVzVYX2Z1VVJGRkxaalRmaE91bG9IWjZ0d0YxZnkxd0Q5T0JkZUFQVDdZTUtYdFB3ZUVlS1hCTXpsUVBFN0lFMXo3bnlRcmw2LUltNUtmazNJZ01TOExLVTNlVEE?oc=5"
@@ -84,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Honeywell Launches New JetWave Satcom Terminal - Aviation Week",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZGVaeGtKUHU5ZDM4U2xMY1hfU2JSZDBrWU5zT0NMeFM1VkJqSko3eEtHVktNZ1VTMklDS3VfaWFXeXdTcHcydzB0WUdseGUyejV5Uk02YThYQjAxZDhDell5UDhLaGhvR096dklUaUJ2OVJTWi1mVWtxbkhYTjA0ckZGdDJIZW9XdHZzRUVGX0ZnTUgwczFPRGkxSWFja0FaT24zbjBRc3VwM251M0I0V1hB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Ukraine launches massive drone attack on Russia, striking a major oil terminal - The Hill",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHBiZUxaaWF5RlJvQWRHdjJ6UlFKOW16MHVaM1F2cWNDZnFEeFgtUHl4OExfWlZUOUJwYlMxVTE0ZWVuRWc0UzdsN0toVEg5YU1lUzVQeTRCVnZ3cmxDQ0hjM3lJajJ3R3dXQWlhM3AtMGZmd09hNjVXaExlX1oxRDVmSG1VQnhKSmlrLVdVWFZwbHdiUThHNFpKX0R2bDM1czhoX3M5elJ5aU0ybGFvOVQ4TmJOYUtTX3lidTlR0gHDAUFVX3lxTE84Y09UNW5IZlc2S21ubFdYSkJHbktwZE44YTRzcEhXLVJ4TGhrdzBvQUV2eUlFZUIzTTVmbUNvVTlQWXE3NFFvdmJ1MFdvaVJxOFY0OEZGVmlEMHNSRjYzMWQyMS1qQmN3LU9LMDAtd2hIMXFzZkdfNlRCUFEzV2MtRDBWZzBzUnh3bXpEc2IzT0NDZHkzLVQxUlU4WnNVTVU0bGF4Y3dqd002cExNR01tXzc2aTB5cVlXdDF3QVVWVmdsVQ?oc=5"
@@ -126,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Georgia Ports unveils plans for new Savannah terminal - Savannah Morning News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNenFENGRMSjQyVmNzZHNwVEs0dlMwWWN0eU51RXdlT2FCVUU4bmxmcWlWWVFtTTFjUkN1UnRRZjMtQmlYWDV4QkYtY1VGcFBjLWRPR0lDWF9Xd3liTDRPOFRFRFEzV3FwNnhRelliNS1peVFQMFpxS0p3dEpQWUNqNHJVeXhGbzRSdDRwdWhQc3l5M3hySS1HWS1wWkFxMTlFbTlyLWJRWnZlcmIzbHlaRmpxeTY4RUo0LWRiOXdQTE9Sdw?oc=5"
@@ -146,6 +146,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "flower.ai",
   "name": "Flower",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Montreal’s Flower Face Introduces New Album ‘Kill The Muse’ - Clash Magazine",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObGpPZHZBMUFkV2NzWWdTVlkwX1lUZld5anNOMzRNbUV5YzZJOG9MOWtfcXZWX0VmLUdIS3U2ZThsWHNybVlkTVJPd3V6M1NrNXhVeUFtMFNaZjdpSjcwOHRoVl9rd1liUFlzUlJWLXBfd0NKeXFvVXozU0p6c19qY3VacC04bE82clJxY3doMURfV1k?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "powderfi.com",
   "name": "Powder",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.6,
+  "score": 9.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Transparent Labs launches its three-source Daily Fiber powder - Stack3d",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0Rlp1UGVVZmlnWkwwUHBRbHJTR045SE11cm01ald6aUVLMFZFWElTMVhyOWVoS3F2c0JvbHVNQlRZei03ZExkNDBEaVFOOHVWWU8zVHdCSWZUMjhWNHRXaDhBVmtvSEtSZUhaanFR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Plan Ahead for Powder: Four Seasons Resort and Residences Jackson Hole Unveils Exclusive Ski Season Perks - WebWire",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMaGdlWWFoWk1RMXBFbTZMTFllU2w2SjhWQUhOa0RXZy0zWVc0Wm1qVFJyLUVJbms2U1doUW81dnQtOHY4OWZ3dkJ1WEZERE1ZNlI1enFPQzYzcjdiZXZHVg?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

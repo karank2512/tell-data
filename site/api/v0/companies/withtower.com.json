@@ -1,20 +1,20 @@
 {
   "domain": "withtower.com",
   "name": "Tower",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.3,
+  "score": 11.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "TOWER SPORTS LAUNCHES THE PLATFORM FOR THE FUTURE OF HUMAN PERFORMANCE - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT2MtU1d2MGxWUENDdTRPVUNnZS1sT3JoS18wT0lCNmdZVXF5Vm5jN3lpeE95T1lLYlFDMnVJeFN3UEk5NkJKaHVOVnc4UDVUdDROOTRfZDlwYnpxRU5jUk15OTc2ZXZuN0VOSGVTckNUUEFSOEJ1cm1RSDBuVkc4QjZEdFBrTVA5ZUJkeUlnRC02SG9zZXBKMHZNVUIxVkVUem5xX3VEVU1ZUTNhTC1OOWJzbWxXWXdWUEhGUU84b2hDZzRMNHVKemFUUGg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Bend Airport debuts new air traffic control tower - Bend Bulletin",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVhnN0JDb3VPMVRXYjlpSlBBRFdUWHJSeDRfWWNsNnNrcTNRR0ttUVNvck9MczFsTVJGX1I5X3pZTlBqTGtuN2U3S3RFQ29nRU8zTEtUUUtrS3loT25ESWJqN2MwWUhWa1FqR01MVXdXbGtHU2pUMGtiWWNHVnVjX0dsRUtodU5odUxaVm1YQQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

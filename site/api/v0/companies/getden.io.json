@@ -1,9 +1,9 @@
 {
   "domain": "getden.io",
   "name": "Den",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 8.9,
+  "score": 8.8,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "LXR Hotels & Resorts Debuts in India With The Den Bengaluru - Hotel Online",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemowdjVOZDg1WEU1c0VoeWU2YnlyanQwemlSNE13M3pXUFZwQ3EwdlRETm5qWXN4SUdLQ3cxQ1l2eXVSd2ZkalRrQkJRZE8yUm14TnpUMzh0YWNWQzdPUW9XY01jaktOQWdPdURncDlyUmNBbHFkRVFZNWR2N00yU0NFSVNWbDNMczlFdDg3YktMNEViUGc?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

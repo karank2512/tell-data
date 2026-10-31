@@ -1,13 +1,13 @@
 {
   "domain": "soon.app",
   "name": "Soon",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 1.2,
+  "score": 1.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Apple TV unveils new heist thriller series coming soon - 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHprcW9pOG50RWlQbmdDZ1VJLUNQR1AyR1d5SlJJWDdRMUY5eHd4S1ZqSzBNSm5uWGlNckRLTGZBb1lwNkNaVTRPRUVZX2RHZnJaNzg3WkFuUDJ2TEpSbHN5UkhHR3NOanVyRWFoaUE3eE1JX2Z5b05reWNoV1pxRkZ0dEhyWmJsd1BSaDRJYw?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

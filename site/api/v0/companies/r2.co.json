@@ -1,20 +1,20 @@
 {
   "domain": "r2.co",
   "name": "R2",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 8.8,
+  "score": 8.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Webzen Launches R2 ORIGIN Burning Server on October 29 - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2RMVXdMY0lSMGxpWWpDRXBEa0QzbnFSNm41amxKU2hKNDA2RTBveDkxZElVTjhjTWd6VXU3cHFmVWtKaDlsNXRFWFlhZWI3Ykp3R2htNnFjck5nODN5dXV3dU0zeDFESkRsWU9haHZjaDhYNU1NZXpUWTU2Vi1GZzZldklIbmFzc0o0QXF0RUp2WmlBemhQdVB0MThhdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Dept of Rural Development launches R2 billion support programme to support land reform beneficiaries - power987.co.za",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSmxjenMwRlJYbDRLMG5FVTlSMGQyOGJ0ckJQemw4RnNsb0hzelk1SjdEcW1feHEtaVRoZ2VScmg0U1NIRnozUmNjN3hGNVYydkNDY093THVHWGo5ZlRGaXFCNXZJdnVSWmhrZXNmejZqbW9JU0c0bkl0OXJXeFFBaGRRelFodXlLZDRpQWY4Ti1TTVFDLVJlLU1tNEpJUTJFYUdXa2trVjg0ODhxenFzOGsxNDZvR0QwQi1oZkk2TlRJNXF3UkVwNENic0VOQQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "ambition.com",
   "name": "Ambition",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.7,
   "contributions": [
     {
       "type": "leadership",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Visit East Midlands launches with £1bn visitor economy ambition - East Midlands Combined Authority",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85T0dwN2dXV3RwaTdOcXhIUjREbTlZVWlkd3lBT0pINldadkd6T1ZsX2dBM2lUTnlXaHUwemdzcEtQZ2lwQ29fcWlUVTNRRFpURHZBRGJHVlByVS1LZm1Ud1hrMnB5emZUaGxSVXdLV0lBSm81S2ln?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

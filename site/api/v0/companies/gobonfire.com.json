@@ -1,9 +1,9 @@
 {
   "domain": "gobonfire.com",
   "name": "Bonfire",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 10.6,
+  "score": 10.5,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "Performance agency Bonfire appoints [person] as SEO Lead",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOE5oWUIwYmI1dGZuN2NITXo5a0ZLc1Z5VXZmb0gzdHB6dnVlUEJpTE1fMGR5cW9JcjVSNEl3RURGTUhZS1BfYm9IZllQRGJBaTk1aUJUOVpsNmRDRDM3alJmdFlndk1hOE03QzY5d1ZsdHJ5c2ZOUmV5N0ZDYXNHNGluVU1RMnNrYmxZZ2JRdk8yTG5JYVg0bg?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "joinformal.com",
   "name": "Formal",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.8,
+  "score": 11.6,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Louis Vuitton unveils refreshed travel and formal wardrobe for Real Madrid - SENATUS",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFgzWXdRQ0g0R1BNdUJGcGs1MlJ2aEM0YndCV21iT2xybS1fWS1FbGNvVW10OGl3ZW1YV1RfenFlM0lSa0RmdTQ5Zi1xZkExZzU2WFdlMXdqSEt2YTUtVjJ0T2hxNXRLNnM5RjNPTkdJODkxMlpMNExCdkU2MC1GUWxUc1lQb1BZYk9zRWowN2Z3NERob2Z2VXI3YjR0OWtP?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "South Korea's FSS Launches On-Site Inspection of Yegaram Savings Bank Over Hacking Breach, Weighs Formal Probe - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aVk1VNWw3LXBoTE9QbnBEWXB2QzRMYVFyNkwteGI1WklwS1ZxTzIzR1R2Q1BqQ0RJWGpVY3l3bTYxTF9DbURhXzlDQXU0bmJlcFhrMFFyWDdmY0dxZWJqS0tMalAzN3otTS1RNmpaSnZjMW9JMkE?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

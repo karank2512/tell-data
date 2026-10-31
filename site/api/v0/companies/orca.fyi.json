@@ -1,9 +1,9 @@
 {
   "domain": "orca.fyi",
   "name": "Orca",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 19.7,
+  "score": 19.4,
   "contributions": [
     {
       "type": "launch",
@@ -91,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "ORCA Computing Launches PT-3, The Latest Generation of Its Photonic Quantum Computers - The Quantum Insider",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFg1VHhFSnNmdE1idkZQaWg1a2VZM25qbExpWHEzSkdUd3BaZEduejd5djZlaUxvUnNzRTE4bUxJZmRDWGJCMTNUTDVtZUFZeHhVeVFTeWt5cnJuUFRTaW94elZfT0l1b3hKakNPYjNJenAydktER01fTFc2WTVoZXFIbDhCMWY5Z0xxNFgwMWNYT2JTeVliRHhiUlpFeVE2Ni1EZ0dHdWhoajNJWHBWNW1jZ1VwVGFjVXBiUENJLUp5MHM3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "ORCA launches PT-3 quantum computer in London datacentre - Computer Weekly",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWVsdzA1aXNERG5ac0xpa2tPRE1KUkliRl9ZY1FHSkhYckFNTzRpd19EZHI4WGc0WDROWVBqODMzc2xTRHNSdTNMLXVfYzVFYktvdl95TVM4dHZVMUtfR21DUjBHQ29sUTdkbGJfNHFFNHBEbzdBOWN5ci1iRmlRY2tUbkNpNUc2ejM3MW5YeGZzVlhFVm5zVDV3LTlVYko3X0gwdg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "ORCA Computing launches PT-3, the first quantum computer built for commercial quantum advantage - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOEV2QnNXc1FlR1VNbDJPVmNZZTlYSnpGeVpIU0RQWDlfOUZXOXAtVjVXUTVUX0VNUmVzOGdIdThQYi1Ed3RNb3UxUDlVd0JvV0VUZ2JiTm5KVThqTTRvX2dMdm43N21hN2VkdjJhRzNPZXBxZGxsdVlCcjJNZXkwOXJVQ0xVUFFHdnNacTV0ckpCVzdzYk1IZ3d1MmZIUE9YNVFOakZ2Q1pMcGRYRkhOdnJ2TXhheFJ6djBHV3lxZ213ZXZ4TFFtYnQ1TW1YRDN5TkliQmZkTS0?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

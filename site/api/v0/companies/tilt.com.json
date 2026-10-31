@@ -1,9 +1,9 @@
 {
   "domain": "tilt.com",
   "name": "Tilt",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.9,
+  "score": 7.7,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Anker launches new window-mounted camera with 25-degree tilt and local AI detection - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVnR4bUQ2VGQwQVRDdG8yR0dnLUVpUEUxNGs5S1hwS2NFN2ZCU0kzeEQ4YUNwNWlBMWwyaWhjU3NjLVJHMFQ0RkVpejlocnhPUHJIWlB4YzBEanQyQVBJMXJ0ZW1yZnU4ZzY1aGJyR1VhU0NmXzRBTlV5RF9rT2l4N2E3UUhkY1hrby1iUVJ0Ml9vUkswRktQMU1zUDVCRW1nMTdCVkFYdlctLWpTMjZCMjFLWjFIbEdDMlV2ZDhvSkQwZXhOa0E4?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Tilt Rips Launches Limited VIP Concierge: Access Premium Events - TheLines.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSFpIaTdZcEI4VXpGTzVPX2dmRWttS2xfWmJBM2Z1a2RlZ1BkdkNtbjFOM0xnTWpkTFhUWXJ5dFFYVXZzNER0ZlA5M1FtbWlFY0ZXSmtxemhVbGxMRDRyYWFMUkpjLXFyQnpFRENFbnNHRWxheENTS0l6SlJ1LVB0Q2xpWjMzaG52RktYU1FyMWp5LVBkS2J4anJxdkRwUG9abnlWYWZ2R1Blc1BhbHMzTUJ1WllJeXJ6VG9GRERR?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

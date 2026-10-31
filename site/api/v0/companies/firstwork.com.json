@@ -1,14 +1,14 @@
 {
   "domain": "firstwork.com",
   "name": "FirstWork",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 3.2,
+  "score": 3.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.2,
+      "contribution": 3.1,
       "occurred_at": "2026-10-21",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/firstwork",
@@ -43,6 +43,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

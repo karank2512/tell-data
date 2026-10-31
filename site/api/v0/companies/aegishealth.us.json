@@ -1,9 +1,9 @@
 {
   "domain": "aegishealth.us",
   "name": "Aegis",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 13.9,
+  "score": 13.7,
   "contributions": [
     {
       "type": "leadership",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Safe launches Safenet Aegis security network on Ethereum, Gnosis, and Arbitrum - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zOHNnRzlMTTNjZi0xQWJlRk9MWHlrZnJwWHBQbzdwTHMxOGpTanFjR3hiV3R3NG15eXpZcGptZ25TQVB0d2VmY3EzR0JrM3dTQnZwT0N6ampGM0djRlVlQndWSnNHUC05YU9tWjdrWWRBQnZoU1VFLXU5anE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "AEGIS Advanced Launches endcorrosion.com for On Site Corrosion Coating of Parts Too Large to Ship - IndyStar",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeWIzanJhZUgyMDdsdDFGeDFCNFpwN0FneTlBclVzbFh5OVdaamNBaE5CcUtVd2t0R0R3UVhBRE12Q3B6YUdrdEJFQUN3TlVOLWFtaFRINFBNX1ZodXI4eDFxTWRiRmV3bE9LVE5TdHJXbXpNcnVGQU5pRktUN2tpckhaR3ptMkN4VmlHWGFoNUZqRE9sWXR2VVlCanpRcmtzemhqWXhpakp1dlVrZDBVbURaQnY3U1J1aGhzUkhrVVVGV1F1dXRjcEo2Zl9mdzgtdy12TEZQVW92SEp5LWdxUE5aelU?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

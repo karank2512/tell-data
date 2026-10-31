@@ -1,13 +1,13 @@
 {
   "domain": "index.io",
   "name": "Index",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.7,
+  "score": 14.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "HKEX Launches AI Index,Southern Asset Management Authorized to Launch ETF - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXZ6UTdBUExaX3ZMOExBNEsyYzdrRnRKRnYtTGFVUV8xWUhGdUpSRFVLY0Y3Z2pDMjE4Sjc5RGRGd2U4V0RsWWFSVDlKZUJzRDFPdWItZXJWRmRnLVRGNWVfcmFxTzhKODVib3NHR2trSmFhQkJoQmkxUDU2a25IY1BSYS14ancwYVY0SkdKZmt5cmlnWS1PSmxjbw?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "GridCARE Unveils AI Power Index to Unlock $350B in Grid Value from Existing Utility Capacity - TD World",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXE5TlhsWDIybnl5LUxuNFBldURIU3dxR2VBdkRpMklsRllmNHhlZmY3aDJTdjcxQlltckg5MGpsNldPZ1Fsc0dtSXhwaGoyc2Z0SHB6TGtnX1dZYUlYV2NTNVFsekNaWmtqSmR4NnBHRzc5bjVwblA3Znk4U1VhelVVYzZPODhzczYxd1ltVTd0ZWZ5TkJzOVRScndPN3ZqdEJVM3ZHMU5nQkoxekgzT2psSUlLeWxmcEEtZmNub25HNm1pWXVtZi1yY0hhZ1NmMUVoUVNjWXJCakE?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

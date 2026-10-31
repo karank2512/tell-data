@@ -1,9 +1,9 @@
 {
   "domain": "hud.ai",
   "name": "HUD",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.3,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Hud Launches Agentic Rollouts for Evidence-Based Code Merges - NewsBlaze News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNEJrelZmX21DZzA2ZkZnbm0tNVlKUkxTT3NiQW5nTjhxWDF2S1VmR1ZvOTRabWJRTmpJcnFuNTJ3ZUNoR3ZES0VUTG10Vkt1amhQRUREQTdvMVdsbjBhMWFadkpDaTBLTy1HYUJXSWJ0Uzh5LUhEVmtrTVM5SnhkMnJEOGUteEdyQW9jVW9JVXJ5UVJQRE9WSkR6OWoySEV1Qmh1SVN0Wk92YzF3RVREY1Via09WeEFNN0lBM0ZGUjM3WF9JY3BqMDJR?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

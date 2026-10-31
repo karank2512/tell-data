@@ -1,20 +1,20 @@
 {
   "domain": "peer-freight.com",
   "name": "Peer",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 17.2,
+  "score": 17.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Alipay Denies Crypto Trading Support After Peer Launches USDC Payment Feature - Coinpedia",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjJ3X0J4VGhtRWI0aVV4enJEMTZVTlJtc1BIOWZoUGF3LWxpNFhsVzVVSGN6OTdkcC1wZE0xZVdMUXdNRTdaWktaR0pZR1l3YTlic2wxR1dlaFQ4aExWT2dESmVza2IyTFFtQ2lfRi1IX25naDV6R1ExT25QNGJXZ0xNLWtZUUdZRElDR3Z2cmF6alh3QzJlVjVqNUxMeGxJdS01Rk9BRFnSAa4BQVVfeXFMTWRDbTBuYUV3WWlhUkZabXNBbU9HTFRSV1dhcElWOTFOSjViZURocnpjUkY1YkdqeWZ4bUppZmhvbGtNZWIxWEFjN1J5RkNzOG9vc05aTk9ZMl9DUWd6VVJwMXdnWEpuaEJXb2NGRWFySzViaVM5UnUtRDQ2U0lmYld6bG54dy1iblB6Rm9pRUxlenY3cWQzYW9PdFgwWlNQRndLQndRNXMtUHQwNjJ3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "NinjaOne Revamps MSP Partner Program, Launches Peer Groups - CRN",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTNfZU1VQ25JbDF0UVNPSVNrNTRjajliazZUNkljX3lRb1Vjak9yb2xwalFOaUwtYTZJOC1ZSUhYejY2NGtpaHFBV0ktRHIzbktKazROU3g0VHFzREozV3BTWU5MN3hyNHNWYW4yWmVSb25CRFdvbWM4ZnVTMFd2TEJCZ3o5dUlsZUl2clE0NXNZX2VzdXlZdUM0Q0p5dU9yMXlrMUR4WQ?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

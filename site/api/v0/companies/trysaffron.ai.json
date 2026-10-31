@@ -1,9 +1,9 @@
 {
   "domain": "trysaffron.ai",
   "name": "Saffron",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.8,
+  "score": 8.6,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-28",
       "summary": "Esfedan Introduces a New Generation of Saffron: No Grinding or Steeping Required - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcWhncFZpOXJ5TS1QNmY2ZGlNOUxjWXdaV1lTZTJrUkhXSks2bDlTUDJHLWtKOWNFck00TVZXTTAtTVh3Vzlnb1RGb0hNRFJfajd0SG84LWNQU0RwaVdNUTY3UVVTWmRUZXZOSUtPZm8zQUpHdzZtSUNjdVlhSUZfdUgtTDBiRzBwMURyX1NCbWtjMHFibGtuaFhoY215d0ZDblhnSDMyQmlTZ3phYXRVWDdrU1NiZUlENzdsWjkwMzY3cUVMcXpqSV9wcURkb3BsajRGbnNsSDRXbmxSeXFGbnlHY241QmdURWN6dy14YVp4My16NkQzdHp4a05xdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Esfedan Introduces a New Generation of Saffron: No Grinding or Steeping Required - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVl6Y1YzMkVFTmhOclpQR0FpQU5uYXdTODVPSkU4ZURLdFgzVThHN3JlRTN0V0ZPcGwzc25Vc01PX2p2VmNhekF0Z3VjaEF6UVRJRXVqeG1TQnJma014M0ZQRU5nYk56LVlIVHFOWTFQRlEzSHdzS0ZrYWNCbmtEZDU5NE1aSFJfRFZhcXc1YlRreDlkMmlWRU1SbEF2aEkteVp0dTFVYXVOQV80Uml5MEtVS0ZMbmVQd28xLU85d1F1SW5nNEZDQjRKTF9xUnM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Esfedan Introduces a New Generation of Saffron: No Grinding or Steeping Required - ACCESS Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ3hKUGUtZ2F4ZmN5cl9wck9ZdXR3MEU0bGJJcUw2OXN0T01HRXNxVDNhSW03eDg5Qkl4UWpkVTQtLXVHeHdseW0tNm9sNlRaTnpNUFdCSnZkQUlvQ1lrTVJDUzJpYmtldG5qaGlYdXFKaXlZc0RBTl9pRWc0c1c0R0dtckxfaE5QYTVvWmhWekR4NW1nQmJOMEIwLVdZY25oLVluVVZFZmZOWEhUM1RYb1BSQl84R3BldW0xd01vSFZzdUs1N2dxeVFENUoxMTJOOUpvV2hvelBnVFhVUW5xNkNZWlU?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

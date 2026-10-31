@@ -1,9 +1,9 @@
 {
   "domain": "sola-solutions.com",
   "name": "Sola",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.3,
   "contributions": [
     {
       "type": "launch",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Securitize launches tokenized US stocks on Sola... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXpjTGZ3U1hCV3VBT0dIWW00YzVwZWhJM0Yyb2REZ29oRzR0ZDEyZVBCUDR0c0V5bVpGd2F1eDU0RUt2T3ZCTnQ0c25razlhUHRaN0tVM1pwank4OHFGM3JXSEVfV04xRUIxOTBrR0xORUJrRXZwYlduWlYyZGhSWE9MRjExLTdrUmc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Sola launches snack-size bagels - Food Business News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR1lvTkdNUnpRR1Z2SkVkaVVXdjlxTXVrSzZuaGhZYm1vRnpSZjJuckdmbW1IX1lDNmpIMXBDNkgxMGJBbU1oZFIwVDZHU3UwWHFQSW5BV2JVRVBuYWtNNEoyeG5ZNmtQS1hlN3dMY3JpekQxcWt3VzBwUnBqb3hlbVNMX1VDZw?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

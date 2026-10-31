@@ -1,9 +1,9 @@
 {
   "domain": "item.app",
   "name": "item",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "Taco Bell rolls out $2 item as McDonald’s wrestles with pricing - TheStreet",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzZfb1BqRWd3MWR0Y1JqdjRXS01ielViTDlpeWxBNzcyREtHSFRwbVBzdzRienE1MFVaT053N1NuZzFmaThhdTBjUjdSRGZMRG9IeDNYazdjLUpOV3J1VVlTeWlRaXNYR1Iwb3lyR0JLTWRwQk8zZi1fR1FXNEdZdTU0OURNaWtiTklRYk5fOVRreHU0Yi1FNkp2SGhiaEg3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Associated Wholesale Grocers Unveils New Item Lineup to Meet Shopper Demands - Store Brands",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekY0YmpQRURlenlRSlZSSU9waW0zRDdUYzNVTjR2ci1WSkJSOWVWR0Z1WFBuR0dPbndfalc2TnB0RXpSTTU2SUpKY2ZOXzJCbjhMWmNkWmlTRi1aQ2hSeTJFdXlKTm00QW1VSUhoVWNhcE1RUE81RFdRNTNXanRfaGdJbV8ySTh3OGxhR2xYWUQ1Y0pBVHFna1ExOTc3dw?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

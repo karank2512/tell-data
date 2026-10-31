@@ -1,9 +1,9 @@
 {
   "domain": "plumefinder.com",
   "name": "Plume",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Plume introduces unified Plume Console for ISP-grade service insights - Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV09GOWlwbmdQX3FuVUlrNnQwNnFDdEtZQzZTR1dfbXh0d0paT3Viby1aR0s2RlZfQkNBM1FEWkZySk9weUZ2R053TWxCd0JpNzEwS3FKQ2UxNnl0MDdzQUZNaXpFT2tlUzhqb0MwRFFNSmhsQUtBNlBUckR4cldhcENsWTM3ZHg2UmtZY1JuV2FPTnNRZG9Oa0hydml5ZW5CbUdnX2NVaGhnaEJDNjAteTVR?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

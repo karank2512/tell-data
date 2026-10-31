@@ -1,9 +1,9 @@
 {
   "domain": "trycoast.com",
   "name": "Coast",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "North Korea launches an unidentified projectile off its east coast, South Korea says - New York Post",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNEVXXzdxZGVWUHJzWkh2QTZXakMxLS1xYkVRdGxFV09PYWNIY1dxSmVFX0txTXEzUnZpS0dNRWdwdmQ1ODhjNC1LdkluNmZLRjBIREtGSHg2QlJkMTVjVmhod0R6ZU56eFV6NUEtVHJOci01QzhaMGdPYV9UUWt6NVcwMW5ybGV1Z1k2LUxvdUhtS1ZweHhJTDZZRDdlcUgwT1FKYy1KOUtKZkRWVDlkSTFuRGVMOE9kUGFWUVZvMUtqS0E?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

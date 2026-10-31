@@ -1,9 +1,9 @@
 {
   "domain": "usenarrative.ai",
   "name": "Narrative",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.8,
+  "score": 9.6,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Blackbird.AI Launches 'RAV3N Radar,' Bringing Agentic Narrative Intelligence to Slack to Protect Organizations and Executives from Narrative Attacks - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZ0JDRWpQN3Jza25mc0xhSjM3bU1laTVUb3VmMGJXVGIzcGxHb3VpTFV1V0N0ejJ2cEM3dUdKZENnaHFCSFFkdlNDc0RZV2ZUYU5hMlYxTUlhdTBTc1lDWWV6bk82ajlvOVBWXzNKanpjUUQ1dXFxd3dlb1JwX0ZhS09iSzNpcXpXYUxyWTBHRWVxbllnNHhVaVYydV9QM2VwbF92eklCMWRDT2tJcWZtNWRuUW01elY3a1lGOXJDb1AwbVFtTVIyVzVoUHBKMm9uTkZ3UTdvcEdIQkxpOGVMclp2U1NycVI2VnVOdWcxeDF1ejY1V1hWZ2t2ZU40VlRMM0FreUI3dmVidjI4R3owREs3WlFqeUxyMVFpMzd4X1A5UzFKX3ow?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Celcuity (CELC) Launches REVTORPYK On A Narrative That Says It May Still Be Undervalued - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3QyYWgyWERKaGMwbUZYSkpDM0IyMzhNYlJmYzVjT2NkZ0tMbTNqZHRhV2RScjZEYnJUQUN0LUdMSzBRVUxGaHJGQVE2LUFua3ozUkVsVFNQZU92VkszMEhQMTV1N3lGUlBidDFYUVBUa0RNemE4R0RNUFVwdjNrNFNtQkJTRVJKSUlENXVfaGVNNmtnSy1PakQtLXFWVi1LZllpeTBRdmZMTElBWkJyZjFBWndyV1EwNEZDejBjOWZMcTdXcjFQMlMycFA1UkFpclZpejFDQW8yd9IB3wFBVV95cUxPN3N5cWs5NWZiWnI0QnJTcmhKY084QU9kRlJfM2xSa2FSN2ViekFvT2Q1NDdFcTQyRXZ3X1hRcEU5TkZNMHFIMzBlZ2Z3Y1ZvRHByZ29vY2xhbHFtVkhaVDI5bXk4bXRwZ19YS2Q5anJXU3dJWkE3a096NGtuM3JHQm5LVGQyYndFb3pHV0NWQ3FndlFSZThSLUpTWm1ZUl81TFNOb1JnMDlnT2ZndU5CRThVUi1rcTRvcjZ5VnJMRXcxb3NWSThMRktIeWg3TFJ1WFJ6SjhEVE9FRHZtdnVR?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "featherhq.com",
   "name": "Feather",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Ducks of a Feather x Nike SB Dunk Low “The Zoo” Releases Holiday 2026 - Sneaker Bar Detroit",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcllyR1hVUF9INEp4clBmWm1XLXUyVFVmbjBaLVFRM1lobmk5UVFoNG9yb1FLUk96eG95bng1WVplak9QY01QeGh5MzFqeVM2VzNVZW9UWnZnRUZzTVl3R21nelNETUZyZ0FPbzg1MmRtSVYwZGVteWRLUEhCbHF6OEtRY1llU0FW?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

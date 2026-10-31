@@ -1,13 +1,13 @@
 {
   "domain": "withbenchmark.com",
   "name": "Benchmark",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 20.2,
+  "score": 19.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "SecurityScorecard Launches the World’s First TPRM Benchmark to Test Whether AI Can Defend the Supply Chain and Withstand an Attack - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUFc3SWlIRlk4ekRscU0tS255QmNIdnVNdDBHUm5jZUJabkZfZzFISXBxb3dBd2d4WFRRdGk5T01tTC04NnFJZHJ5OU5aWXVOdHBNOXZ3bE9TbFNBZEZSekZyMDI2Qmo1YWxJVGEtbGsyTl9OdElnU0pyQnZ1TG5vSmVzUTJiUURXaFotYmV4TjVhM3pKOTBIeWRjM21PWTcxXzdkclFyYkFBSzJFSVpUYW1qUmZHZHYySWJXcmtxRmJEbmt1dkhxU3d6dldpNV94eU1XaTU1TkNOSXp6c0dvdEt0QXhuQVdJRHpmcXRwcVlxVTRkaXVkdzdGc0RXQ2FobUVuekRmclUtTEM3TUZNMnBoWElTUk1HbW8w?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Fastmarkets launches Corrugated Cost Benchmark for North America - Fastmarkets",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaG5xQTlCWTg5TEdpWjNXOFpfRWMzX1VGdmpPcXA1Y2hHd0dGb1RQSmtoMndxODJLX1JGby1LaHA5MnJNNmJUM2FaUXhGZUNxNlNTN3ZRVEtXNVJKbF94NF9ranp5bGF5OTJScHpMc1lpZ0pfQmpSRzl4VFlpanRwUy1YSkJMUWtuRG1TdGNLWmF5TXNOcGQ2aXhtWE9YdXhUYnZJXw?oc=5"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Modern Asset Lab Launches Match Protocol™ After Benchmark Finds AI Ghosts 8 in 10 Small Businesses - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGdnR0c1VlFZSGVXUVp6R1J0SlVrcmROdldmUDB1a2tuUThuWk5JSFM2QVVNbjBkcTJQc0F2Z29tYU5CT3EwM1ktekdWSXhQU0owU2twMzJXVHA2TjBaTDNZcjRDVXQtUEo3bllHb01SVkdYN2dONEd1M2k0RUdQSGZ2ckhMcTFLc0szMEx5T3BzYnlHN0hibjEzU0RkTGFvTmtyQXVzVHdnajY5azI3VThDRFVIaEtaTU9sdHZFYm1ZY0Zod2RQcHQ4aFFqQUJuUkx1bjZRWEl2VTNENy1jQU9UaExoZ1h2?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "remix.re",
   "name": "Remix",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 22.3,
+  "score": 22.0,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Spotify (SPOT) Unveils AI Remix Licensing Tool in Partnership wi - GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkR6b3R3NGo0am5YaHpXclNlQjlVZ2R2ZWVROGJoY0RqTWdTUXpWVGVFNEJHaUhYMmJaRWxtemw0bHlkYjNDU1VCMGl6c1BjWV9sOV80RzlNUFRWcVVkU3h6ZmpsX1MzR3FwMWZ3WlkwN3pVQ1F6Y3NZZDJOZkpMTWh6MEpYdVJLVmZaTWtsRVJKOThXXzJRazRVYzlZaGdfRnV4SnQ1aWROQUNlTE1TOA?oc=5"
@@ -119,14 +119,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "French Montana Releases UK Remix of 'EVER SINCE U LEFT ME' With Skepta, D-Block Europe - BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMG9KNk1HeTl5U09tOGpTclpUZ2Z2T0tTV3FjZnBFaHBnQ1BmdVI2SHdGbU8zVWNFR2xUZEhLTmZGTEJVUXRrWF9mal83bVVLdjFHb3h0UkNWZlRBdTF3V1VjTEJqYkxWcmVDaGozMXdFazBTTUlYWDFfbzR1eDNzU2VfeXFNOHhWM1diSXVyUTBHRUJHU2J5dDBjWm1sUGgtNS1qYzFtNzF0ZERpUW9NT3NBbnpkS20tQTZXcDQwNGJPTnVQRTdxQUFIMGlSUk5CQjZFTGx3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Bloodborne launches on PC with path tracing using RTX Remix and shadPS4 - GameGPU",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGJyd1NpVlNyem16X29RLUNSaTdlY1g0V2J1cHZmMnd4TWhnVThnVXhucDJSWUo2VUI0YzA3LWNIalVSNjB0Q194dHlOSER1c2c3bHllai11cTZTdWR1NF83ajNTcFRNNS1qTmR1R0R1T05FZnpnaXBUX1V0OXc4ekNmMzBJZnN1OG5CQVVEQzh0MVZNaF9fSTZRdVNoRUxnN3FLeldsNkdwS05jb0pieUNHdmw?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

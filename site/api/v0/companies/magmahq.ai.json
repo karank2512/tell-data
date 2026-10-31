@@ -1,13 +1,13 @@
 {
   "domain": "magmahq.ai",
   "name": "Magma",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 1.7,
+  "score": 1.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "Magma General Insurance appoints [person] to lead HR technology and AI-driven transformation",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFhIYnJzdm9jdEZMT04tczJkMFZNT2c4QnpsMEtXVGdGcFRCZW1LbzI4aTF4cUxUMG8xSVlsank0N1VvNTBhWXYwbjFqWnhhSktUOE9Wd2lIWTBXVWFoTjVnRGlDdFdINnhsdWRYalA2cVppcHE1Y2JMOVNjREQwUjhjMTJwcVNpVlFsdi1BUXg1NjdiVmp3a202VkxhS0lTLTdFZVUzdkMtdW5sNngtSFNPbDltdk9qNmlJdzVFVGJfRG9GR1NhOVlZV3hJQU9fTTR4emVuZkhJbm9nelRySVVR?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

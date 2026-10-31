@@ -1,9 +1,9 @@
 {
   "domain": "useforward.co",
   "name": "Forward",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Green Plains introduces Farm Forward initiative - Feedstuffs",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVk5qOXh6azV2Wkx1dVF1dDF5ZzFCZDJiM0FVZmM2dWdBejJwVWNXc2RJRFZQM3hlanV1dV9vWS04VTJ1Z18zZlEySTREd3dLaWlKVlRocER1TmRPQjVIbDAzdTlSLVpTU0MwWEZjVHRIMlJmckE1NHhtWjhlX25tVHhseDExalhwMk93NmNqc0dBVUtKc0w4?oc=5"
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Accenture Launches Forward Deployed Engineering Program with Workday to Reinvent Work for the Agentic AI Era - Accenture",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSGJYdHVDblNTNldZb2hsMm10V1BDTUF3Vkxrd0JNb0ZGbTJVOV9LVFpIUkI4am14a0FTYWVOaU16Q0NCb3hpYVUwZW80cjNMa0hDLVVwbXhjSDF6RGQ1ZjFZaWEtMWsySy1BUGk3OFV0dkh6cWNicTZGVG1DcjRYSXNnWUcxTU1zUEo4cFZpb0RKcVVaeFJrMGxzblREZTFvdjhwYWFla0FRa0daN3ZyUFBWOW9mU2lIYzVhQXVobmh4cEc1YWx6WmlsNjAzRFkxTTEwSTNuTmlhcFl1alpJOE5YNA?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "See photos: WCSD moves forward on plans for new headquarters - Reno Gazette Journal",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbW9yTThqVDI3bVFQdXhKbDJ0NGhEQ19ERXkxbG04SGtyWlJ0Q1h0aUdkaUdjaHdEV3EycGxzOVlCUWVJTmdjUWs1VTVvOXBFbmswTUIxMXNyR1lKN21UWXZkdXIyeGtpX0NTVkVzNElldTJGeHJ1RE9mc2ZWQS1WdHlfazh0MGdhVHdlSGp6M1lCQUdhc21EUlFvT2cwSTVtdGR6RHQzX1dudVFfbGQ3S1VpczhGQ1pq?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

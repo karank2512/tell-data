@@ -1,9 +1,9 @@
 {
   "domain": "bloomapp.com",
   "name": "Bloom",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "A century in bloom! DC unveils big plans for 2027 Cherry Blossom Festival - WJLA",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSy0xc29Ea2E2Tk80RFd0clhfR2hyUE5zMzZ0eUN1WWxkUXFiNzhtUGowWU1Bd25wRmJpV0RqcEpKdGNiaVUyeG1PZVhnbmlDYThQTzBQVjNsV0doWUhuUl9OZTNCMm9keE5PSHNnWHVSUk8ybEN5ZS14aFpCSkxSYWtWSUdia2VDdWkwYkNuYnBaRmh6RllOV3c1ZHZBMHhjOHdYVEZhSFJxdU1IZ3NwSG15WmxiRlp1bmpSa29Ub2tvVjlhMjJQcnh4czdEZWdRS1hqQjBDd09nQUFtUjFIcTlMMi1RbnBvdjd1TnBWSW1Sdkt5Ylk5VU9KcVd0Y216VEw0OEN0WFIxd2trcjZ4dQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

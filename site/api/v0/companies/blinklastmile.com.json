@@ -1,20 +1,20 @@
 {
   "domain": "blinklastmile.com",
   "name": "Blink",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 18.3,
+  "score": 18.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Welcome To Rockville 2027 Unveils Huge Lineup Led by Blink-182, Korn and Faith No More - Blunt Magazine",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlZiTkxWVnhpQWxFWlZRaXRNUXJqYkxPeUFmcXNVQkVNZnZmM0FxX0FDazZDU3h0MUFBbHBFY2h2V180S1dkNi1MdWQ1Qkc4MGstT1ZwakVldEVrcWhXX1JjbW1ERlVULXlBWGMxZ1BZSDJUVTFrdTNwYkJaUGJzdm5sMm9nM2VXSGpvS0lDY0dwTVBfLVlr?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Nostalgic Rock Festival Unveils 2027 Lineup With Blink-182, Korn, and More - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjhPWlFpdlJQRjFEQjE0ZjVTdExaRDhRYkpvUXN5X1hxN0ktVTZoSlBuZm1RejA1YnFnWTVzOXZ0NEdPNnhIQ2pYLVVzSTljd0tXS0xxTF9BdS0tWnN1U0k3clZBWVpKQ3I4bHpsTXg5Wk9PNm1BeHhZeHlBR1ZObE9kTTI1QUtMLVhENi1FRlRiVXdmRm5sTzFodldtRGRzbVVCXw?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

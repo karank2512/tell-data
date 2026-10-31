@@ -1,13 +1,13 @@
 {
   "domain": "avenue.app",
   "name": "Avenue",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Transcript: Mayor Mamdani Unveils Major Safety Overhaul of Third Avenue in Sunset Park - NYC.gov",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmhuRVhlUTk4Zi0wR2dYSHJCZE9lUXBOS0JTdEtZcWE3WkpielN5YU02SEFsZHNTRGxZeXc5cnVLdnZKVWliaERjZWJHWFpzMnRWTEZVajJOd3NBam1oYkdNTHZqMUQwU1BEWDlFZUFJa1lETGdQR05yVXM3TFVuMjh1MTkyeUtDTDRINzE5LXQwbkJNaGVycVZoSHZKTUJyWHdRaVFrNU9nTWF4RG9mQUp0VHpTWU0?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "RPD releases name of man hit by car and killed on Lake Avenue - WHEC.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjF5SWRlbTIwcWNIS1djTGNwYXg5LWNlRDUwVS1lbXkteEllSU0xcHczeVpLbEVHcTJuM0VZMGtIMkRUYUs1LWNyUmF6YkVwTmdGQXRWcS0yMmpfTDRkMndvZ0VVWXVNa2x6U0E5SE1RTzdtNjhoYVU3ZFpueXNkZEs4bXBHdWpOUGc?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

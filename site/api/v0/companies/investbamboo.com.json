@@ -1,13 +1,13 @@
 {
   "domain": "investbamboo.com",
   "name": "Bamboo",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.7,
+  "score": 7.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "HKMoA Unveils On Ink and Bamboo Exhibition Featuring Donated Artefacts from Dr. Kôssen Ho's Collection - 巴士的報",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTVZuOElYR2lfQU1XMGVmN01Gczcxak92RThxTnBzR0lUYlVxZVp5NUlMS2ROam1IREFqd1M5bVdDZF9JSUl6MlE5QjIxbGt0SU03dm83VzJ0bmRwRnpiZ2k3Q0h1TmVZMzFVdDRscDJiSWJtMmpZSFZZV1AxLU1EUUxBZnJaSVVmRGNXaVplRmo5TFRQR3UtYzF5Q1BaLUY4MV8yWi1ZbWlocHRPRDg5UnB2S2VNYVBoT3p4WDFadE9rNkdGR2NRZG1QSzNWZ3Y1Qnl0QWxYYUdjdV9WUjhnU0dicHZ0WEE?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Union LA x Nike Dunk Low \"Bamboo\" Releases Holiday 2026 - Sneaker Files",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mS1IwYl9MYUlKd0ZJaWdrZ3ltLWo5WHdWZHprbExEV0piME5RYlUwemxmb1Z3UUkycDg0dEFXekdVeU1INUlnMVVSbDVGcmRJUmg1ME9hZGVVdnBQMjVfeElXdWx5cHJxV0RXa3Nn?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "nowcircular.com",
   "name": "Circular",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 6.3,
+  "score": 6.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Dodzi Komla Kokoroko Launches Forum To Build Africa’s Circular Economy Position Ahead Of COP31 - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYUtpVWJZNlpvNmlZYkx1QXBzZ281aTh3d0FmeHl2Q3NzT2g2aTZ5cjktOW5RLXowdTE5WTNVRE5FQTV3MXRzQzQwb3ZsNDhUZnlJanY3eDBnb1RqbExQR00yYTZBLVFoY1dkbHh5dTdZNV9aRTl5b0J1WEhXREMyNnZNQzRMRlYzMXRseW5SVW5seU1HRDktd2ktc1ZrNDd6Z2tObXJNdktJdFBuTzc1QVNudFBWRGoyajFoVXVqNThocURBTnNCTGpLdU5fYnVFSWs2VWsxN2R4OG9jWEpTcm1Oc1Vqb2dtN1E?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

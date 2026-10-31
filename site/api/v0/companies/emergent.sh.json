@@ -1,9 +1,9 @@
 {
   "domain": "emergent.sh",
   "name": "Emergent",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-13",
       "summary": "Promotes [person]",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uMU9vcGd3eXk1MW1xbkJwZ0M0Sms5UjRKNktxWENPZ1Y0a3hwQXVoczFLZnF5c2ZUUU9nZTZkeWZNNW9Kdnd2c3pUblFRMEpqUHYzNEFieU5kRzQzYVd4bGVVV2RYZ1RXZFhIYVd6WktWVXJQN2tOZnVWQ01iQQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

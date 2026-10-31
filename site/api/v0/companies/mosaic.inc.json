@@ -1,9 +1,9 @@
 {
   "domain": "mosaic.inc",
   "name": "Mosaic",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.8,
   "contributions": [
     {
       "type": "leadership",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Adtran launches Mosaic One Agents to help teams easily scale operations - Via Ritzau",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc3V5Qk1heEdHNzl2enJmOVJuanVyWDRIMHZQMFVzYnl3ckVFLWs4ZDlEeEQ5QjVYRGpUUzZOUlVETGZUMEJZUDZBQllPNlNwUmU2NTN4T2wzMEpZZTd3dy1GSmgzUkNlSWtFYnBmNVB3SHlyU0Y1Y2g2Q2w5dlZ6RU5mbVhLd1VDOWxKUU5JaTdSb0NIV19WMUNRSFJ0ZWZrRC1QS2pha0ktSG9kREZoRFEwVklhMERJemg1WnFXY1p1X1VUNVdNREZwMzNTMWIyOXAxY281MFB2WlhOcnc?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

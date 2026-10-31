@@ -1,9 +1,9 @@
 {
   "domain": "gosavvy.com",
   "name": "Savvy",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.9,
+  "score": 7.8,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Savvy Sliders launches new fall menu item - WLOX",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmdfZFRRXzdOSmVzM2x0NDZTemNTVnk5X3BIRVlJekZNM2JHSkV4V1RKb3Bkck5Sam1IV0RQc1pYVlBNbUtybkl5bWZwbTdFYi0xa05LZHYwTzZFUjhFc1U1eWU0LU9VWnRuMFItWGlvZ0x6ekktQ0VoUE1ISGVuVnBOQ1g3XzA?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

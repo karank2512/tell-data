@@ -1,9 +1,9 @@
 {
   "domain": "campfire.ai",
   "name": "Campfire",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.6,
+  "score": 7.5,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Campfire Interactive Launches New AI Capabilities to Help Automotive Suppliers Protect Profitability - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajc3ckNSZlBtYkZoVUNTemNiUGZDX2lJdEtpdGdzWkpORGc4eHRaSUtoNy1vZGJCM3pvaktUdXRORW00RHlEVTNpeVJsWHlJWTRiYklsNVRMcmFPY01xQjFZYm0zUUZ2Uy03R3NGdnVUYVVYUl9HYW9JeTBZLXpwS1dsU3B2QnBmd3picVV6UXFKbjNuSnZuMkFPNG5nd2toM2N3SXpaMDlQRlJDM05tTnNCTUN2NjZPQVlXQjNBUVkwekwzSjhob3kxaG5NWkZxYnZYTnRhMDNSM3d5cWE3Zw?oc=5"
@@ -62,13 +62,13 @@
       "url": "https://campfire.ai/blog/introducing-accounting-intelligence"
     }
   ],
-  "open_postings": 50,
+  "open_postings": 51,
   "long_open_roles": 23,
   "sources": {
     "ats": "ashby:campfire",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

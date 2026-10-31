@@ -1,9 +1,9 @@
 {
   "domain": "cloverapp.co",
   "name": "Clover",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 15.8,
+  "score": 15.5,
   "contributions": [
     {
       "type": "launch",
@@ -70,21 +70,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Black Clover Officially Unveils Two New Supreme Ranking Devils - IMDb",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CSTNfTFVJSTdJNnI0RVRyNTNVU09Pa2RhQjZCTnlFOVlwSHRFQjR5aU5KcklQWkJYeDd2YUE5Sl9vLXotM1J6Rkw4dTgtaUFxU3RBaU9SejdzS2w5UWxReA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Clover Introduces Krush Grapefruit & Blood Orange Fresh Fruit Juice - Dairy Business Middle East & Africa",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNjhrX1FBSUE2N1pMTGRzV1N1Zkk5aTFRWTZHZW5tSEtHSWZGUmM4OTdwNGF5Rlg5a1RPelJyQmx5TmRrdVliNHpmSU1sZXo3RGd4SlYzeGxNWmZOYlVTdVRiNXY2OEZyYnc0X093cC04eGpPdUFRNFctS1BtU3ZEaEZ2bWF4QjlYRnBhM0prZjRydjl5OGtsNzZONzc0eXRGeklEaFRES1ZJQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Clover Stieve Debuts New Album At New Hope Release Party - Patch",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXlPNnhQcnJMRVI1Z1RlMXBtQlhsNFpIbmlveWFOZjRseFdfa0FjZWNhb2RhcGJyWVA5OTA0cE0yV1RWR3BYdlUtcHpEZjlNa1lJOFl1ck9ScS1GN2E0ZWR6ZHcxWFFOcjc2OEZKMFVXbmJ3bThVNUljaHRxVU91S3Z6WGQ3OVYwSW5pQ01hbmViaE10XzZrNWIzTGRrWXUwZHU1ZDM1UWhVcTZOcnVEctIBvgFBVV95cUxPaDNva1BUQWRlX1d6bG9WVmZvbzNjNGVrdlhaY2ozWVhoT0Q0aTNLRWZCMS1sMmx5Y0NqZ2hqcHVrODhjYVhpSUlMZ0tfZVAxUUo1N0JpUE1fR0tHUkVwOVlad1pDakNudHJmaEp6QmJXMzJTdXRpMmVKb05sR1lDc3V5dmdhWFFUZFhMaGVNUjFJaVYxUDdDS1pTZUJHNU95SFF6NkFteG1sUmhsY2JPN18xcTAzRXlJUlJ1X3N3?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

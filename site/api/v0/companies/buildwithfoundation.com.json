@@ -1,13 +1,13 @@
 {
   "domain": "buildwithfoundation.com",
   "name": "Foundation",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 15.5,
+  "score": 15.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWpPZ1kzekZnak0tN1VxazZBSFl1c3RtTlZXVHZybFZsY3M5Q29YWGZvWERxcGdKWndZbkw0bWZPQTh6YndGeDJjX1MwUEZoV09nN09ZSTBTM2ZIc0hLTFNRb0NEaHpfZmhUTldOT0Z5dV9aUWdpNU1fcjZaRnNfRXFRNTFWcmhBVl9zc25ZR1BLNWhpc3lWNWV1MlEyMzBoSS1ZRUhCS2wzNExfNkRDem1QX29tVTBaSDlfSmtyUWhFRk53V2UzWTZzZ2FkZHd4SWc?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "UM Foundation Launches Annual Crowdfunding Campaign to Grow Griz Nation - University of Montana",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TOEpLMDY5MFZnN1l5ZU5hU3poSkZBWkRJQng4MjVKZzk5YjROYXAtdldTa2N3ckRkMzFCeHhwTnRoQTdJclpZcGNZcWpwSTdCaWhWZFU2bXBrME0?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

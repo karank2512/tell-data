@@ -1,13 +1,13 @@
 {
   "domain": "within.ai",
   "name": "Within",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 13.3,
+  "score": 13.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "Promotes [person]",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcllNT0Vlb2RUQTI2WG5iZkRYYlhJUGppaHlnblNlNjFXeFFaQnZDTW9td3FwLUdBWm9sZ3B0cDVOQVFQYzFaM002TjhxYzdYX3J1TkIzTWNCSFBySmloRUZIM0NRM011V3RVZGEyN2FGd2h1RnRiYjkxNEpxZ0NnS3ZJcm1hc0o5YUZmaDNKNnFPNDFKc3dLRA?oc=5"
@@ -96,7 +96,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Internet Delivered To Your Doorstep Within Hours: Xfinity Launches Same-day WiFi Across Southwest Florida - Comcast Corporation",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWhlQjVBREJkNm1VMXAzRkhCenkwa2poZzVSM0xvako2Mkp2UGZINEdYdDQ3cU5nM2JVX0Fsazc3bUNVcURBalRBNUd4YVppWEJBd3N4X3lKMnZfb3Y3WXlaSU0tM2lsamZHQ2lwU19sU2h1UjJvNzhqcDVyNlRBeUhQN2p6SW1xMER6WUFWejdoejhJcjZReTlHTl94VDA5LTloTXFFN0VZd2E2bnYwbko1N0RTaVZ4YlRFZlZJOGZFTWdjb2x1T3U3STA5eUJGTWdWbVU1dkVacWVrZm1QOVNkejZ5OFpQYmUyWQ?oc=5"
@@ -109,6 +109,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

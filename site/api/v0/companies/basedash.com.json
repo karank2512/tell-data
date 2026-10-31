@@ -1,9 +1,9 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-25",
       "summary": "Introducing Basedash MCP write: build charts from anywhere",
       "url": "https://www.basedash.com/blog/introducing-basedash-mcp-write/"
@@ -140,7 +140,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-06-04",
       "summary": "Introducing the Basedash semantic layer",
       "url": "https://www.basedash.com/blog/introducing-basedash-semantic-layer/"
@@ -181,7 +181,7 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": [
     {
       "type": "launch",

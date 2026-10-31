@@ -1,9 +1,9 @@
 {
   "domain": "withkairos.co",
   "name": "Kairos",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 12.9,
+  "score": 12.7,
   "contributions": [
     {
       "type": "leadership",
@@ -14,14 +14,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Appoints [person] to Board Of Directors",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWstN214alAtRkU2QVRJcFBKV3NJZndZN2hVVVZDcXBsNnZIRHlUTmZmM21YMmhFelFtQmlSTmpaNVgzMmNFRS1ZbmFBaDh4Q1dlLXAzRTB3eHFHa2Q5WGNROXBwS19yMWw3aGVtUEd3SW9qMy10M0g1WEZ5RHhOR0JscHhPYVZCbU9ObTdkNjMtT1hzUmY3YVpSNWZnaU8wb0t6eXpzTm9ZYTYyeEk5MlFreXY2bGlfd0N4LUhOUWRIdXh4Q1B2d2R3?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Inc. (KIRO) Appoints [person] to Board",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSWF6bzQzY3k3RnVwSGRmdV9NcVEyOHo2cHViUld1VGNBMlY3RVpiVkp6dlh6b1IwQ3RFd214SkJqQXlrRUdZcXJ4ck1GV1FjbV9sc3VVeHBmcVVDWVFrN1hRTXM4dWVXMDloM1NJUmoyVVpXblBsX1F6dlNabW5kcDRXT1haQ01zQWYwVTZTZXptZk5WbkVyOHo1eVFJUXRndlFhWWJPWVhLdUk0NFY3SHZB?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "axis.xyz",
   "name": "Axis",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.4,
+  "score": 14.2,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "181 combat engagements took place on front: enemy launches most attacks on Pokrovsk axis – General Staff - Цензор.НЕТ",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTlWeW5BSGlBRlg4OFlRSHJTcDhKQVNuZU5wWTJIVmhDUDBleDEtS3d0bTRDZG1feVd4NmRQQW9ON19BZW1hdUtIYUVzQTNXSFkwQ21hc0FFMkZhaFNlQndpY2xWX29DSlNLNGtPdmlZVUszZjVVTkdTSThuMEJYUHgyV3J0dXBjUGp2TzFCOFkzamQ2?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-24",
       "summary": "Binance New Listing: AXIS Debuts on Binance Alpha and Upbit as Pepeto Presale Tops $11.2M - TechBullion",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVRfSjZUUVRVSV9PVkdLdmlKV3VCcXdXZkJGSXp6SVc5Z0sxa2EydXJrNTJhaEx6S05PWEtjZnpiaUc5TFYzQ2lfOXlLODQtVG1GVFhjV180X1ZPclBlOV91UkZrcWxscDVFczZRb0pSTXVCVnZOVWY0bDhMUHFyOGZZeF9OMllfbmN3MEdzOW44cm1OUEtvWExYSnZGdEJxX002STByc3pJamFzTkNzUmRR?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

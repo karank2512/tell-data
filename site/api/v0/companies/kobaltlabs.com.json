@@ -1,9 +1,9 @@
 {
   "domain": "kobaltlabs.com",
   "name": "Kobalt Labs",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 3.4,
+  "score": 3.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-16",
       "summary": "Kobalt Labs Appoints [person] to Lead Expansion of Bank Partnerships",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVDkwZldvYVhOTDJfUlFBOVVjUDRiNzhCdm1VQTJ2b1dLaGtwb1Q4TUloNlRXSGluWVV6OXN6R2t2TW04d3M2anR0LU5zT0hXZW9DZEZLZEpBSTQ0V0Z4U3BHemN5Y1g2aldEdmRqSEhQbzlVblp5VEhrZklZeVIxVmpyQ25UbXVLRWhhMW00VHo1VmlWNjBBSUEyT0pHMjNjY0FMNy1ReXhMZHhXaUZid05COA?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,16 +1,30 @@
 {
   "domain": "fancyapp.live",
   "name": "Fancy",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 1.3,
+  "score": 3.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Fancy Feast debuts limited-edition white cat micro bag - PetfoodIndustry",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZnkyUjhqNWxBSmlGcDQ5d295ekw0TnlDTXhjcU1WQ05BY2kwY3ptZDNJel9La2tBUER6d1VBSnRBdktfN2xrX3BpR29iNm4yZlowY3NuN25fTU1HQWdQTnlQNU1OT1M3aGRJekRFZ1pzc0swYURNcWd1YzJnS3EtbGcwMjlxV3hYUnI2MGlfTndvMXJya0c4akpfdmdTaHQxQlVFSXlhSTVSeGdsSkRhcERhQW5LRldQUWNKQmRhUy01cWRJbi1QWDUtbw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
       "occurred_at": "2026-10-22",
       "summary": "Plain & Fancy launches frameless cabinetry collection, Richland - Woodworking Network",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVXkxWGRJTUtqOEJOX2hWYk1CVjl5NWozb3pIc0c2ZEoxYlZQbE9sSjlmY1RTOUZWb2dpdTRCVktGVjl4MFZfWEkyTm9Za2p3ZW9yZ3NzZGpBM2ppejItMllsU2pUZ2hpamJHeUdYS25fQjM2ZWJ5Sm93X0ZrX0hrdzRpNEwyYmpqcGM0UEZ2ZnNVVFFjWDdIZW9rRFZ1TGNtX3Q0a05TUQ?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-29",
+      "summary": "Linda McMahon wants a fancy new office at the agency she’s killing - Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalB4RGNRVW56Tl9UVXJ3SG5RSUdrbDFFYVRHQnJCenp1NVo2YW11UHA0aUI4b2pZdE5XNWlRYUNFTjdJODA0M2tsQjMxZmVtalhCS1V2SE9tTTNBbTdWOHB3VXdXMzZ1VU53M292TXNsVGR5YmJnd3JwZGZiSnVtNllLTnB3Y2dicXVrRERZSkF0LW9LeXp0dTRWS0pKN19GSF9aSjJibFE1c0E?oc=5"
     }
   ],
   "open_postings": 0,
@@ -20,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

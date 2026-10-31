@@ -1,9 +1,9 @@
 {
   "domain": "tryglimpse.com",
   "name": "Glimpse",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Elorian Launches Glimpse AI Model for Advanced Visual Reasoning - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXpORlN1NWZxc0wxZGNGbG1qb21tZUVxckJMMWp0OFgyOEJUYnpwblpKSVdSQXBfLU1nV3lJa2lkSkJMZE9TeEhyeC1Qd0RYdWNhR2RPdVItTjUzaFVDaWctZU1lNkJBTUR3UnkxY2NCU2V6U2RHTTNNSkxBUnpKUWVTNmtoTUw1TFhxYVBtaUg1b3hJWUpSbmM1TF90NHM?oc=5"
@@ -63,19 +63,19 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Glimpse Launches Explore to Simplify Industrial CT Scan Review - Metrology and Quality News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVZ2QzJ0blNWVXl4YThYc0c0bUVvUGVLbkNKVVhhdFl6ZGI5T3lSSGZPTVZHZGJhc2xTNGRzdzNlYlBiYXJKVW90OGprREFNOWNQclRhSk1wTUtRT1REc180MVNweG9YX3ZLcjdNSWtnNGRCRFJxWHdQNFdlTTZuYlFxNU9QQmR2ZU9vaVhHVQ?oc=5"
     }
   ],
-  "open_postings": 8,
-  "long_open_roles": 4,
+  "open_postings": 7,
+  "long_open_roles": 3,
   "sources": {
     "ats": "ashby:glimpse",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

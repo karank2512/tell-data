@@ -1,13 +1,13 @@
 {
   "domain": "launchpointhq.com",
   "name": "Galaxy",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.2,
+  "score": 14.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Samsung Rolls Out One UI 9 Update to Galaxy M07 and F07 - SammyGuru",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XdlZtRENqOGZiQ25pVmlHQ3VUa3BGV0pTQk1lNmkxemU0NjBLaWtKaWNJNTZGbktnU2gtQmpXczUtSWw5WE14TXlnT08xUk9wRlpKeG9hYV9vcUlod3pBMXhuUDFWR25CNVo2ZndR?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases stable One UI 9.0 update for Galaxy A35 - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVFicEt0eXE4QmRtZHJubGdQV1phSWNvODdLTGlCbnFoRjQzdDZfZ0pmTXF0aUFNQVJzREVJSTg3LWVXMHRTSjZwSEVLZmhmT0l2S1pWVk9wUGt0Q1k4cmItVnVrRFBHMkVlU3FOVTFsalhnOWZvSTVlTE9ncjJZdVNiSXRuZFB3SS02Rg?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

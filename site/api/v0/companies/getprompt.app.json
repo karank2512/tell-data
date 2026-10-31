@@ -1,9 +1,9 @@
 {
   "domain": "getprompt.app",
   "name": "Prompt",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Facebook Launches Prompt-Based Feed, Reels Customization 10/14/2026 - MediaPost",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmJwTmdVXzhUWXRjVHRpVTBfaW4yTDNoYkI3OVFWc256V1g2d0xXaXpBYTliSG5jVmViZEZwcUdVRnRVbzI1YmhOUngwaUZqMmNUMVEwSjlRd1ZodE9sNFlkRzdTWGx1NGRKZW81TzJ5TnV1NE5CeUFSUURPWkJKWGhWT3R2M1JHRWdYSnYzTU81Z0NCcWswclBrNHA5RHNETGY4QVE2ME1rTkQ0WWFPaVJ6TkFRcjRRTnhVV0RpZ1c?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "apollographql.com",
   "name": "Apollo",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 19.5,
+  "score": 19.3,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "Apollo Sprayers Promotes [person] to Boost Shop Transfer Efficiency",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzBiRkEtSEZHWGNZUzdkYU90YzNCOHhxYWktY1FGVFZPdFJMTXFSSHR2dlRzbm9jRUc5anRJTnB0bmhNaXlBUFBLb3YweTNHUmkwMGxsNlltZjZnOE9NaFJkUzBwQmZwaHNpSzl6TDdRajJvS1NHV1haeUFFRWhrZjhxWnNvV0ZCTzljU2ZtSUJQQ0YzSS1SY204d1lZV2dMcEFWVW5MTWJ6TE9seUdUOVFn?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-07",
       "summary": "Introducing GraphOS Agent Services",
       "url": "https://www.apollographql.com/blog/introducing-graphos-agent-services"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

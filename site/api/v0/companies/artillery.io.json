@@ -1,10 +1,31 @@
 {
   "domain": "artillery.io",
   "name": "Artillery",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 2.5,
+  "score": 6.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Somaliland launches large-scale military exercise involving tanks, artillery and drones - Hiiraan Online",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQU5JcTVrcWV6YWwtS1pDb3V2VTdxQm5zMFh0X0VtUV9NWkxMMmhkM05ZazFrdmlVTE5nT2drZ3lydUxhb1dibVNQVVhsOW1oMFZQdFZ1YzVQRGlsSlVkS0Q0N09oNlRCdkFqUjJPTjhSTjYzYTZiQWxJMUxCem94ZE5qRVhTWlBUYXB2Q08xS3VjSGpjalRnVWZlaDlPcEpLcktmd09faEx6RDBWb09nakZsenZIcDhfbFh0S1EtT0lBN25jYjU3Z3hiWFd6cjdidnpCMWVIQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Undead Blocks studio Wagyu Games releases pirate artillery game Ship Busters on Steam and browser - eGamers.io",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnl2Vk95Wmd1N0t2Y09YZjlOXzdjVTM5aXlFMHltUnIyS0hKRE0tSmVHclh3eUtmU3E0eDRDc2RQMFNEVlE0LWJKd1F1b29oZnlrN1dKUkRweXEzZHZhbUkzQVpWeFBZM3pvb3k4X2N0NzBYRkNuaDZGYndCQkFpSjJodkZUdzBoN1FvZXRWWXl6ZU5NaHNPdXBja0xsWTM3OXhHdHpxcTJtc2dmYlNBOUZYTlZSczR3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "North Korea Unveils Coastal Artillery as Unification Minister Calls Landmines 'Defensive Weapons' - SBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DWTNSX1luVEZzZnhnNi1vU01KSG9GaFJPZjZXVDNyMHgzZERwelAzX09TUjZnWDhta2dlTFZ0eWJMU0hXZzh1N2RXaEdVS3I4dHc1Vm9feW9PYmRSMmM3ZzFFamVQakd1cTBTZDFn0gFmQVVfeXFMUGVfUENjd015VVFHcXphQ3pHbmlpd20zbWlIN1A4REpvaGJzaWl4cUJCaDFvQ0N1Z3hTY091enJfUGo5WktOUHRsZDFQMGJzdDMzOUx6VFM3Zkx5QXRsSk02UnVGYWpB?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -27,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

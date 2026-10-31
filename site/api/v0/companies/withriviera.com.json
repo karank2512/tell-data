@@ -1,9 +1,9 @@
 {
   "domain": "withriviera.com",
   "name": "Riviera",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.3,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Riviera Travel River Cruises Launches Vacation Guarantee - Travel Market Report",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXRMLVZrbGNuYzUxY3hGX053dmtEZG13cktwR3JoZnRaRl82SnZJRlRaeURJV2F6SV9FTlBucDZqMnQ1MERxcGlvWHl5Wl8yTnRIVG1BZVJody1IOTA4MGh1dS1Hc2p4Z0JjX3JTb1FsRk0zSzBhMThUdnh4bUhZT3ZzSWYwd0RSbWUwZFdNUUtSSFRvc3d1OW53MmZQeURaU3hXVkdEc1gtU2hzY3IzQlplOA?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

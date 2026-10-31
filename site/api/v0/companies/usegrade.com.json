@@ -1,9 +1,9 @@
 {
   "domain": "usegrade.com",
   "name": "Grade",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.4,
+  "score": 12.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-20",
       "summary": "VI-grade appoints [person] as managing director",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORER1NzhtaFBpQnBDS0tZV3R0d25hallxM1cwMU1lbzZPOUJCUkh4MkZmUUVubnl6eTFuckJFSEh2eGY5dHYwbmZlRlhPell0NDBnNk5raFlnVmdMZmRzYXh2VTQ3M2hEekYtdUgycFh5N1hwTnpSQXZDSDJ3cUxiMmtmOTdycjhlNjVaOQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkxiMlkxemNXV1VlVVpNNUdFTWlXQUc0NHRhYlJnTkdKOXF5U0NQQjJVTHNMMF9FMlNCSmlYNlVoV1lxc3B1S3VNNkFXcEpNM2E1UmNZVHpYSm5HZlg1djlTU19Tam1YTnRJdW52UEFpRDV6M3dIcURQdG1YWndDTmg2aDQ2RVZPQU13WVRYMEc1U2ZG?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "University of Cape Town Introduces Grade 12 Students to Occupational Health - Occupational Health & Safety",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQblphd01hSEZYNjRpc25FZDludXVOaWdHQk5yNDZWLVRIZG9BblF6SXdsckhWaWlVbmh5SlBQc3V4Q2tmazl4RW5qOEdhQkRyRDJKRlBPX0xoNGduaENmOEJJdk5fZXM1TnZSQmJsU1VNcVJqQ0ZtWHo4RXF6WjBJbnhBYWNaX0w3RTdKcU1VazhYLTlCZF9PajBTTFpWNGdCeldBMU5iRnU2UkFoN0xBTk44RkJlclQyRzB6allQSQ?oc=5"
     },
     {
       "type": "launch",
@@ -49,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Netrio Launches Next-Generation Cybersecurity Services to Deliver Always-On, Enterprise-Grade Protection to Mid-Market Organizations - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOLVgtQ2szRFc1cWFyWlJNaUtuUXdlY1FsTHJYemtPQWhnWkJGUU5jS3Q1aU1laFBOeHQyXzU0bFR6MmlCZHRrWnhzVlB6Vy1IelNjc0NZRGdEZTd0bWQ5UGdqQjUwQUtkQWJyNmczS1dzbjVhaThWZDE3Rm0tZFEtb2dJZUM0dGN6bHpuVnhfejhWNWg2WVc1Wm44LVYwREM5bEJWX29GUU1JbFRUZkNKbFpYWVh1N3p2YzdkcHhhVkZ1Ym5FeGxIOGJ1Vmo1UHdEQlFvYVlJV0FzY2pPRk8ySTJwMWQxYVhESU5VZUh6YWZneXNQVkxsemNNWVJjYTlJVEVuUzlJbGctSXdQTm8ya0xzTzNUUQ?oc=5"
@@ -62,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

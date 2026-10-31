@@ -1,9 +1,9 @@
 {
   "domain": "useparagon.com",
   "name": "Paragon",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 20.0,
+  "score": 19.8,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "Paragon promotes [person] to mortgages head of specialist lending",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdTRVNzRZRHd3V3hJbGhhb2NyNWVwcW1TSFJ6WlZidm5jTFdQdS1KbzVOb0NTbThaNlVBVjBoSmdUdUxFZlhVMXZETS00cnNLRW5CSHF5MlZFLUttMGU1RFV6eVNiQVQ0OTl4UVpOTEFCSnNmTGZmYW5iWXVKcXNlLXZ4QU93T1JUSmx1RDhtMHNiZEstOFJtbi1ORWVXZlJpLTRTYldMMHpDSmZ5TmV1aUgzSUJmSnBFYngxbWRFcUgtMkFlekRqUjFLYVFtcFpNck9wNkhBVzlIX3hnZnl1N2Q0QlI?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "Paragon promotes [person] to head of specialist lending",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3dkVlhsYThqT2JMaVBZZVZaaVVlbGtOVHl1T3lmMlJPZE8yNTB3aGQ2QXBueTFHdXh5ZWxHclBjSERVd04yVFlUY19MTjR6TWJNRzhjSFNyRVpGYVA2N0trRmlHSnNSR2ZfNVZ2R2lFR2toUTJrQXJqLWdMZWg4WEc1QnRBZmZOdUdzWUc3V3pXNmo1dzQ3bTJpNA?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

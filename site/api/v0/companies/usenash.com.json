@@ -1,9 +1,9 @@
 {
   "domain": "usenash.com",
   "name": "Nash",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.0,
+  "score": 5.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,6 +14,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "VIDEO: OPP releases video appeal for witnesses in death of Puslinch teen Nash Dunlop - The Record",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZFBsTVJzTWlsQUVEZVk1NTlrdHJUUGlmYm9BWkRxSVVsRENrWGRQOS1MUDNKZEdTLTdEWFQ5NW53a0xiVWlyQnRkQWNGYmNpSVJwQ3dzeFZZVjlZQmJqM1dlTU5FenBKVEpLOFliYXlxOUZjS1lLamI4QmlxX2ZmU2prVlpfakZRRmRHSDhORUZHeGN6TkZaQnpxbXJaWjY2UnowUF9sNzc4R0Y5b1UzSnVSaFR3TUluZ0dDQkVBbkFaYUZyZmVqYjNyUVh4SnYxeXI3d0ltMUZZSjBlZ1dB?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.2,
       "occurred_at": "2026-10-16",
       "summary": "Nash CC introduces female students to electric line careers - Spring Hope Enterprise",
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "News: Kate Nash Releases ‘Freedom of Me’ Off Upcoming Album - New Noise Magazine",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd1p0SkFsNHA5SUxjZkhxcThKWV8xUmg3a01tc2M3V2NmeFhmSVliVWZsYlkxRm94bFN6cWo3WnZqZjdKbVFHZHN3YzI0ZHdmLTVtbjdSTDV2dmFWRDhWWFQxSDBqNTNNOHhudFFNSktpMGJNcVNQRGNRODM3UXlEeDkzaE4zaFVTSDh4QzJKOA?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

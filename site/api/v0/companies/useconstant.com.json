@@ -1,9 +1,9 @@
 {
   "domain": "useconstant.com",
   "name": "Constant",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "NIKON RELEASES THE NIKKOR Z 120-300MM F/2.8 TC VR S, THE WORLD'S FIRST CONSTANT F/2.8 TELEPHOTO ZOOM LENS WITH A BUILT-IN 1.4× TELECONVERTER - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOa1Rsb2V6aENfRkFfMUdtcjlIZ1JKM0E5MkNMNi1JZm9PN08yZnp4Uy1MamdrblgxU054NXpZbnhidDV0Snh0aDR1bmRuZjFUd2VvdHhhdW5PME1EQnRnUDVkREhxVFJiaFBRZXVlQWZFOW5xenR2NkN4c1M4a3J4eFpsaHlDbzJ4UW50QWlNakdSaW1sZDNxdlhzTW4xb2JfNHpEVi1HWXpXT0NGVUlBcWdlSXVINU5HSXFOSEpyaDJyWll5VEZXVUhaY1BsX3J2U2drSHZhX1QwZmJETWhtQjVtd1lQb3V5VlVxTHZGcVA4VThWZ3N3SUo2bGlpX0ZELTVqcDU4ZHlRS040YXM1dkdJaVB1Yjl2NjR2bm53?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

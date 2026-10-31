@@ -1,9 +1,9 @@
 {
   "domain": "ourmaia.com",
   "name": "Maia",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 16.3,
+  "score": 16.1,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Microsoft unveils Maia 300 AI chip - Computerworld",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzJfbWI3aksxeHdFUG01a0M5LWk5UnBsVFdjLVZ3Tnh3VnQ2UTFDWlBQSHNfZ3pPT0s0WFpsV2ZCbFphdzNJeHBBbTdNalNicTJub0plQWRMdjdKeWhOdHFqLVdVNkRqX3RPRS1Cc1ltVlJ6SHZqaUhMT0hjVktlM2VmcUlfWkEtZ3g0WHlPZmhybkU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Microsoft Unveils Maia 300 AI Chip to Challenge Nvidia's Dominance - Android Headlines",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmd3U0NSVVBBWXpUMkRCYkktcExSemJsMEg4M2t2eWFDcEV6aVZCQnFzVVRYeGlUUVo1eEExT1BOZ1l0aWVPTGpjbV9BTld4OHE1MDBoOVFQQ2s5TkJja204Z0N0SjhkcXJKQy0xNE14aFZ4RVVRc3JTRlZiVXNnaTByRXN1QQ?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

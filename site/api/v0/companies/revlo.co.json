@@ -1,9 +1,9 @@
 {
   "domain": "revlo.co",
   "name": "Pursuit",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "DPS releases video of pursuit ending in four-vehicle crash in downtown San Antonio - KSAT",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUm4tcEtCcjdFNVl4TU9CbTFhQ1A4TjVRZmZyM2hkZGMyV281Vmp0NnVyZFNoWGxQLXFjUW1wUDZDZkljRG1WM1Z3TEtVaUxhUjZIWFBWdDFxWjVFM2JOWkxXS0NKaWE1OUc0MjRnUHFTYU8yQ0kwUmNfWWpQYXZ6ZUxmR1ZMblBCSHdvdXFSQS1YSmNZbzJLZDFuNWpjUkJsbmliem53V0FOOFJqSUJNZW0yVDVWcFlXQnBfZV9wYTBlbTl5?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Pursuit Spirits Releases Pursuit United XS Double Oak - Fred Minnick",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVlOMVFoek0zeFBUbzdSTmF3WnR4eC1zeExfOFd3c0NWcERPMXVySmd0NDRfaTNhQzljNVYyOENZaFR3ZkVyRGlPa0s0YVpZNllrNVdRV0RVakpoQS1rZThXb2hsUE9WVTZNR1FGSVRyNXJtbk5IYkwwT3FwTDRlM3VpZ1FENTVMRHczQVRGWHJiOWNma0c1Sw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

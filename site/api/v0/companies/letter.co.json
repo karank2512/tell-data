@@ -1,13 +1,13 @@
 {
   "domain": "letter.co",
   "name": "Letter",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.0,
+  "score": 3.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Arizona releases school letter grades - KOLD",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tLVpOdXE4dWstOFNiVTEzU3Vsc1JFS2FLdzVmdzZsQjd2b0FZMk9yMjVrcm95a3UxeDFrQmllR3pYcHNROWFkVC1FYW1HY3VRb2hRVnp6RmlXal9Ea0hjWGYyUkZrNW0wS1Vmd3h3UzF0MjYtVzNoR01n?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

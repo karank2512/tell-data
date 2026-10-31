@@ -1,9 +1,9 @@
 {
   "domain": "reachpower.com",
   "name": "Reach",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "N.C. A&T Launches Aggie Media to Advance Multimedia Education, Global Reach - North Carolina A&T State University",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqcUg5Q0RWQW1ZVUhqc0FyM0g1RDZUbEdkbWZMbnVLSThKWHc2ZGl0NjljRHlxaTJoWnQxWHdSYmFadTBKa3BvandYeW9fWkNCNTRoR3ViZXB3VTJDdmc?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "onesignal.com",
   "name": "OneSignal",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.0,
+  "score": 3.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-09",
       "summary": "[person] Joins the Personal Agent Protocol as a Design Partner",
       "url": "https://onesignal.com/blog/onesignal-joins-the-personal-agent-protocol-as-a-design-partner/"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

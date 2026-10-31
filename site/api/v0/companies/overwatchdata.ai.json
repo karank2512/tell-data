@@ -1,9 +1,9 @@
 {
   "domain": "overwatchdata.ai",
   "name": "Overwatch",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.8,
+  "score": 7.7,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Overwatch Technologies Releases Corporate Governance Statement Ahead of ASX Admission - Kalkine",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQemRYS0RJSGprUVpUVTRLdEhXdFZSZEpmeXJGbDgyM3dnck9sZU5XNjJXWm42VkZCVDVHT1E3U3BQUy13R0kzaG9TNWNmVjlLUTVySFNUcVJFSF9ORUhnblpiQmRtZzUwclhtT0ZaNE1zUHgzTWVoMVF1YVVlX0tBZ0RMQWZGS081N0Y0dlBUaWhjSXdieDl3bnR6ZG1TX2dVUlZIX0cyWEZqWG5Mc3ZVWnBVTHAxLU9zWEM3NFFQN1hyWlR1QkE?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

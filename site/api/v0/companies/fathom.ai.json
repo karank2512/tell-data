@@ -1,20 +1,20 @@
 {
   "domain": "fathom.ai",
   "name": "Fathom",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "Fathom Therapeutics Appoints [person] as Chief Scientific Officer to Translate Microcosmos Insights into a Therapeutic Portfolio",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRmk2Ml9mbUVqSDNSYkR0TWRPNnFkbTdXbmFkQTVNSDZZU3pTal8zSi1OMVNXVjJPQ2hsdXNpS0RSNVdTY1hwS01udS1KbzAxRlVxS3Rab1k3WWxNWHl5ajhqeWZHTkdPcGhqQ3R1VEtDWlhyd2V1d0c3ZmZieHp1Z0tyM3JoWGRVOV9tQ2doNWRQU2Y1V3p3Z3ptWkF1RUZhRlhRa0RGZXJvSGl1cHJwbzloWEc4TzljZVc5X1BWT05md0dkal9MODlwcmNQRHUxVmdlVlNCbDdpbHRpdFh5a1ljeTZ6S29UQThQeVhWdDU0azlKcDBXbndjWll2ZUo1MkpLd2ZrSG9GMTZWb2ttaUxGUjJKZU92?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Fathom Launches Bipartisan Group of Former Governors, National Security Leaders, and AI Experts to Advance Independent AI Oversight - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ25CWElYLTZFQ3FVWnY4T2Z4U2k2Q3lCczItdG84enJSbHNsQk5LdFdQNmc2RThQWUVzVi14NlN3bjFuXzgzZTZWVWk5SlUxVFdJOHdQVFVlRlFvN1JMdjQwdWJmRHlWWUJxaWFORmF2ZkZ1bk1uRGlrblhVR2FXUEFISW80bEpIZk0zWGUtYldORkNJREJnZ3VUNUppdFJhdFdoZUJn?oc=5"
@@ -55,13 +55,13 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0RIVzVtdmZ3VGphODZKQnByLThpd2tubzR2RlNMR3Bac3N0ZVBXWG15MVltdGxCNEtTZEVleHRXSk5EekJZUFlneG01RmRyVHduRnc4RnExR24yTjM0MTFUME91bTUwR3BCV1Q5bHpxMGx2QzB1cVBTZTFPZGRtbE5mQkJ6Z0FLSUVxYXVPaHZmdlVv?oc=5"
     }
   ],
-  "open_postings": 4,
-  "long_open_roles": 4,
+  "open_postings": 0,
+  "long_open_roles": 0,
   "sources": {
     "ats": "ashby:fathom.video",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "scale.com",
   "name": "Scale AI",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 89.7,
+  "score": 89.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.5,
+      "contribution": 14.4,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
     },
     {
       "type": "funding",
-      "contribution": 8.1,
+      "contribution": 8.0,
       "occurred_at": "2026-07-27",
       "summary": "Form D: $17,490 offering, $17,490 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000002/"
@@ -28,28 +28,28 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "Former X CEO [person] Joins Better’s Board as Independent Director to Scale AI-Native Homeownership",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc3FvTWZPMUxHOV9CSndWMk9CWHhnaVlRUXMzWDhwLTBDNDBudGVrQlRnOVByNmt2RXRmZXJQdkdKS2VsZDZIdUI5ZV84aFd2SVl4b1RnTkVjYjhaaXhYOVg4R1JDcnFfdUMyTnNMa1paZUctVm1yemtydmxZN0ppd2EwYzlBVXlWZ3Q2Rk1mOWlVbHJBeTdJaU54bm1yLWdxRnlUT2Zvcm1VOWNkcUJ4WWY4UGFzWmVraXV1YUtMSHcxM01GZXAwd0dNMDNRQWwwbUJ5Z255SUxCX3lBWURVb1J6WmhhTmxLOTZER0lpZXkzbVhm?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "Mach42 Appoints [person] VP of Engineering to Scale AI-Powered Chip Verification",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDl3bGZPWEVmMTVmMy14OFRCNlNwZlRBUFRObW5kWi0wcHItQWp0OWVjWDJDMThlVGZQNkl1QkhjSW0xZWE4akg3OGF0UXRaamJkMlF5ODdHNGJfV0RYYXhRTjhkZDVFcEhkOUxpQy1Wd3FjUmlvVHMwWUhNZWRkaGJLWUIxRHkzbndrYUVidERiZS1yT2Q5bUdoZlBLVHJ5aFZvYWZNYjNJcWdnTDdsMU9SYkNXMWlVVnpRLW4ya0k?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "Mach42 Appoints [person] as Vice President of Engineering to Scale AI-Powered Analog Verification",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ19KWWZmdVVrRWZaR19jdlQzbE9fU3F3dW5HWlE4OTAtVU84UE42Nko4Z1c3U0ZBbk5LZXBYSzBoUnpNaFVrenlIUjIxOEtNcFpneVhLZWRiUm53SVJmbVZPbmFEei1CSVhBLTBxTEUxTklSVWNtanFUTzFnTzh4N1BzR2JseWl2N2VVZVNrQTVYaFFyWkFqTXR3UVl2TFd0M3pEZFdvSzlSYVItbEhka3p4eG5TUVZJdlVEVlNtNEc1X2VaYzZjcWtCbWZDM09jeFdUWW9fUVJRV2p5WUYxWmFPN1NMVDhQNEY5UzJlVQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "Mach42 Appoints [person] as Vice President of Engineering to Scale AI-Powered Analog Verification",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjJSSVl5RmxQLXF2azBIRGV0RklCMVpOcGdXZnlDUnpfU1BpU0RwUV9EZ21jVHJLWlVfXzRtMnAwaXl3YmRGOVlJUnpHWEFsYW45MEhYWDU5VEZtWDVKX3IwdGhFMmNCRThsWW02a2tmaWFqOXJJN3pCZzgxanNNV0xaMmxoZ2xpWHlMeGNzRk5fUDB1QTdnTVpPalJQUQ?oc=5"
@@ -63,28 +63,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "HCLTech Launches AI-Powered Nano Global Capability Centers on AWS to Help Enterprises Scale AI Beyond the Pilot - CXOToday.com",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR3VzUmtHd0hMclRTM1ZhcW5uVFhYMjlaTk9oMm02M1RPLVEtSzhJUC1hTmI2d0Y4bWdvRnZVMU12M0kxTFZ1amQ4Z3ZRR1J6WFN4ZXJ3NDI2clJ3aDhGLV9FNDVjRVRudjNtMW9jdzNBS2FsaGhwaG9EY2tVN3g2SEg2QUpwQ2t4WG1Ga1Z5TDgzS0VDdDhIblhBV29jeTlZbDBEV2pQREE1ZUNUM0RJUjUybHBuZGdMZnA0T2lNVmhic1Y3N1hyX2lLcEpNVHRjWTdYS191d3NXOF9UUTVxVVRxeEs?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "HCLTech Launches AI-Powered 'Nano GCC' to Help Businesses Scale AI Adoption - Lokmat Times",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVEFwbFhZUW5FQmJEWjIzQUo3S04tb2l0N2JRdTViQWk0dVdLMnVpSjU1dnQwVHRVVm1kckFNUFJsVDFUTnNqTkV0OXg5bndqYzM4cTBaaHozTUZDT2EzQmVndlZFWXA2aEs5aTMwWmlUdjZiQkxyWDNnMHRMRlR4X0ptT2NoS1d4bzRBRVU2MWZ4UDB1ejIyTGI0QVl2WmR0QVJyLWo5X1pvekVfWERBM2FwSHk3SWxBTGd5btIBwgFBVV95cUxQTlVSeXJYcjUwQ1hkQ2s1WUwzWXQ5dWtCZi1OVWctX091SG5rOEV0MkZjaXF1RWF4RlV3LUdENVZJZnVnUWdITlNBYXpOdmNCUjhyX2VfNWc4dVRqekJ0WkVCNkZPOVp5SGZZdzdXaC1SYmJKVWpvTmxzQW5aWWZUdG9YQlZSbjNqWTB6TzA3NW5qU0RXZURJRVlVZGhoNmZ4SkM4UlBkOU1PcFZLcmJPTkJObUljS3hjNk1nY3JVYUQ5QQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "HCLTech launches AI-powered nano GCC to help enterprises scale AI beyond pilots - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTzlQbzlIUXBzVmpES2pGT1J0czdLR0ROaWtETUR2SEhIUmhOU2FpbHk5VU9yUTNHUjZwRDZYUHBDVUJWVnk1UXNNbVAtZEhkNk1qenlMbk9vWGlIdTQ0czBUdHFub05fYjRla1lXek1XNWEzdkhhWWt5S092UVBFV1ZRZll5SnIyUW1qNlg0NGNETHowcGg2S0poTHVJa0s1R3c3ME5DcXc1NlhKZUlMMHY4Wmpzb3hhMkNXaDB1NlNJZ1FLT0Vhc3E4NGY5bGhyeVBr0gHTAUFVX3lxTE9POVBvOUhRcHNWakRLakZPUnRzN0tHRE5pa0RNRHZISEhSaE5TYWlseTlVT3JRM0dSNnBENlhQcENVQlZWeTVRc01tUC1kSGQ2TWp6eUxuT29YaUh1NDRzMFR0cW5vTl9iNGVrWVd6TVc1YTN2SGFZa3lLT3ZRUEVXVlFmWXlKcjJRbWo2WDQ0Y0RMejBwaDZLSmhMdUlrSzVHdzcwTkNxdzU2WEplSUwwdjhaanNveGEyQ1doMHU2U0lnUUtPRWFzcTg0ZjlsaHJ5UGs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "HCLTech launches AI-powered nano GCC to help enterprises scale AI beyond pilots - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXRoM3lWRUpVb2VQLUZ5czVScjlMenlKbEpHbXlaT3BGNE1aV0RubmdNNFY0eTdnYVhodk5BNmVtODk3X2RPSFhmLUpsYzdaZ2g0YkFUZGQybldiZXV4YjQ2eGt2RERrQlpuYlZjdlk2dW0wRnpGUXhzSTZkTzRQM1FRYVMyWEFYMEhlT1dkd3lBalZQajdpck1Pdmc0VFdJOHJRWjZIM3pGQy1Fem54dVhMdC1FRTVNMFVDOTBPekdwdVp10gHEAUFVX3lxTE1pdGgzeVZFSlVvZVAtRnlzNVJyOUx6eUpsSkdteVpPcEY0TVpXRG5uZ000VjR5N2dhWGh2TkE2ZW04OTdfZE9IWGYtSmxjN1pnaDRiQVRkZDJuV2JldXhiNDZ4a3ZERGtCWm5iVmN2WTZ1bTBGekZReHNJNmRPNFAzUVFhUzJYQVgwSGVPV2R3eUFqVlBqN2lyTU92ZzRUV0k4clFaNkgzekZDLUV6bnh1WEx0LUVFNU0wVUM5ME96R3B1WnU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "HCLTech launches AI-powered nano GCC to help enterprises scale AI beyond pilots - ANI News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQkdJWmhmMGgyU190M1h6elluQzB2ZG5qbGlVaGU5bXdoWEpEQWVhQ2FNdlRlTkpVR2VSS2xsOWl5V3ZqUFg0NU82cERvZkp2cVBvTWgyYlhXT1Z3Y3NsZTRwNXEwU3VqdUJ4dFhWN2xXN3RWZmxsN0RMek5yV2hWSzFvQ0gyeWFvUmZ0Z2ktQk1TYVY2VHZ6QzhvZzY4ZkpCTUlLbjJfWWJHVk1XQVVZQ3pZd3dFNUUyYzhZODZhbVRheko2Z2pMY0VR?oc=5"
@@ -294,14 +301,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Marvell Unveils Six-Channel CXL 3.2 Memory Expanders to Scale AI Inference - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1pGb0d1b2VobWdnMDRBYXhVeWlwVUplcEJqRHE4UUVPZ0EyUFNGT1M3Mjd1aFExN1dzaEJMX01wVTRwY1FydDI3TUk3SUJIU2FfOFB2bUwxczVsOHdfc3BKeXhPSUtHWEN4X0FCX1RMYlpzM0tDN3RGMDRfY1JvUXJibWVMUS1ZUTQtbHZIazhzX3lmeWcybXpGTHJWdk9fYVgtNzlxeDlhUTk4a2c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Manulife Launches Enterprise AI Platform to Scale AI Solutions and Deliver Business Value Across Global Operations - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTVJ0QWVhZnNXR0IzbjEwVmQ1QV82Zkl5eHJqQnRXam50enN4ZXhBZ0Nfa0pwZHhqRE1ySWhmY0loajNITkpMUDQzcGhwamFQLTVtNlFGQ3pwUUp3S3NfQWpUYVpuaFdneldJOUtPV2VHVXdzVXhNNC1iNzNwd3BzdWFEWFI5NG9IX29ZQ2xvQ20tV2RpMi1seWVwaDR1OERlVkl1Z3Nwc2ctR1Bkckw5ZmcyUElTVi1GY1Jlcnd4aWM3ZTF2ZnU0N1pfMWt2WVpTLUVGYTBsZjAzdUJjWHdPSVZsUXZVbThyN2k4UlVpXzZaSjhXNS1zZ3VmRU04ejQ?oc=5"
@@ -398,6 +405,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

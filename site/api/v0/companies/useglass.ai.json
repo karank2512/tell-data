@@ -1,9 +1,9 @@
 {
   "domain": "useglass.ai",
   "name": "Void",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 3.8,
+  "score": 3.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Band VOID Releases Second Mini-album 'YOUTHQUAKE' Today - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT05YWERwS0FVTk0zSkNEa1RzckNQYlNJSHNnVmJ5NFZmZk5wVWFNOFVhNHFZR0lvb2RmeDN5aFBxN1BKVmhJWTA0dnhqZ2U3a0duLWRfdlhqWVZXOWVjMG5ZaVRQWlY3TlBEdXd4dGo5VEY5djRjWFc1M2tuSV84ajEwdl9JT1hTSXdTN053?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "tint.ai",
   "name": "Tint",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Window Tint Marketing Agency Launches for US Tint Shops - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0VoU2ZCbjNBRlhEMkxKNHJLanpjdHUyeV9BUkQwR2xUenNoOUJDYmJLbHBpUFhLYlZ3QzRFYXFmNm9hMlQ0cm1paVA0U0U5M3BPM1NjZkc3S2ZJTEhmaXRqTktRQW5iYkllNWlUdlBFOVliUjU1bHdQZFRKTlp3Mmtwc3MzV1oyZElOMHNvbnRqd2VUdHgwWlRyNmNXR3JBVTF4eg?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

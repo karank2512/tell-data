@@ -1,7 +1,7 @@
 {
   "domain": "nourish.com",
   "name": "Nourish",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
   "score": 2.5,
   "contributions": [
@@ -20,13 +20,13 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2t2TGxNSi1sNjFRak9HQzVQQ0xOOGlpMUstT3VST1BTVTNVc1FKOHRUcnNDTmNwRkpNaFhManU4cVhMY29oVEtMWmV1ZWlEZXpKWEE1SDdhdXpkelI1bERlX0NWSlNEUk94c2RUbDhHSk5paDh6bERZenRDMXJVWV9MaFF3NzdJVmlxNmJCaUx0Nk02Q1NnVlV4eTI4UnpKNGlvNTNOZDdiWS03enpYR29qZDR0dGVxTUtBcmR3NTlSemVialJjUEJaMVRUVExhdlkxYjFiM2dwRWZqcFV6NUdwNG9WNWc?oc=5"
     }
   ],
-  "open_postings": 87,
-  "long_open_roles": 20,
+  "open_postings": 86,
+  "long_open_roles": 19,
   "sources": {
     "ats": "greenhouse:usenourish",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

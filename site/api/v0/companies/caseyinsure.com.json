@@ -1,9 +1,9 @@
 {
   "domain": "caseyinsure.com",
   "name": "Casey",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 23.4,
+  "score": 23.1,
   "contributions": [
     {
       "type": "leadership",
@@ -21,21 +21,21 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "SMP Capital Partners Appoints [person] as Chief Marketing Officer to Scale Executive Leadership Team",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNWFIzWnJnNEl0RUVaaDBTTTF1UHN0YmR3eVUxTDNramNvVFFsdDczTHl3OGh5Qk5pYm1GSWoycFRzTXNMTmxoSE1WQTZyb2xZR2lWcldsTnYtNHlJMGFuMU9xUkhfaWViSDI0UGR0SGd4b0dub2hMYkdHaDdPRFp6d29HUV90a2tTY2VQOGJ6Rmp1SjlYX0JSOXNSeXUybXY4M3V3THNycG4tazY2UHkxWFlTYjlFVFg0enFOd2RNNE5DMFVvbWNZMXhXRUUybENzMF9lYlp3UXZEYUFMekpobXhZeDV6Rzd0U2VfWkxORkgxNldVYXA3ejFGZFd0MUxHX2kwNHpMSk9UR1MzWEEwYkdwdEMxZXJXSWwxQ0libS1Cdzhlb0VXTnFsaw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Casey’s rolls out its first pan pizza across 19 states - Mobility Plaza",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkh0N3lrem1kWmZjOVUwN0RCdDRTME1yZFBYT3ZiUHJRSE9QQnFGaEhldnltQUVJLVk0WmlUdFBZdVJiVG5ieHQ0Z1FIQWJyU2syWHVvNDZmSjlvVDBHeVdXaDlnYWhUN3l4b2x4VFozR2JlNnhfamN4OWJEa2tMODV3SjNwcVpTVVd6RnBQWHZVajQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Casey's debuts new pan pizza in the Omaha area - WOWT",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXB5S1FZc2FZRmhiQ0JTN3lWazdlLU80VXVBMWJfZjRpdDRLc21TRG5qRWMzM1hzWUQ3dXVXazF6Q0U5Q0FtNGNfUTNmNktCbzdFeks0QUduMXhCbVAycEptLUREMHRYZGRPNVFhTXN6ZVdFYmZXQU1sbWl6OU1JZjNTbw?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "trace.so",
   "name": "Trace",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "PETKIT Unveils PETKIT TRACE, an AI-Powered Pet Health Data Platform, on National Cat Day for a More Connected Future of Pet Care - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU25sdlEzbUFGYWZ5MWJ0VkxtYkRwNjh6X2tkSmNZWFZFMF90cDNJWFh1amFOM3FDczlkdWpzYTZFYjBERjVkeUlZTHV2WnFsdDdlTWNJbkROWVJkTTN5RmhjczJ5ejU0ZkpiOEpDWWdab0pwVVh3UWdaYVJiUW1qQ29pUTBLMm8xZXVHVmVtajUxamZJRGkwUHBR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "PensionHunter Launches Global Infrastructure to Trace Lost Pension Members Across Borders - FF News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUVteFVPZE80X0tGeUVxdHd5ZzhYYmRvQ3h4NTZrU1hqVko0cDV3SHhfUUE4cnFqeXdiUFpybTFIdnlRS29QZWZDc19yT2lleFFpTVJtZ1doNFN3M1l4d2VHXzRVdm9jamVfazhzd0lGNWlnVEtjaTNWZExycUROQndfcXVzdjBWUHhEc1p4bU9tQlFYVC1Cb0JrMEtzNzFTYm9JX01oZk9za1FTY3NmMFFhaw?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "nova.ai",
   "name": "Nova",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.6,
   "contributions": [
     {
       "type": "leadership",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Solace Power Launches Nova Through-Glass Wireless Power Module for Outdoor 5G - The Fast Mode",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbGc3UW53VEo5RDlLYzFocDd3djBadkFhaGVmSmJhLXZ5cXVaVDBsczVUZlRSY3BCbXVJMTh5UVNtdDNXTl8tZnZ6akM5enhpNkJ1MVBVdjQxTWM0cjN1aWNHdGhwUkRHM09RVzlFRE11S0hQSVJNY19jWXZfbjA4cnRtcGY4cVlXcmo1c2Z4N3Q3Sm1idEZGMzdEVU51NHFHaGFtd3VZUVpIaDZKYmI2Mnp0blh1QXAzTFFxbTRQdEpFS1NTcmRJQWV5elo?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "FitVille Launches Rebound Nova Walking Shoes Featuring Triple-Density Cushioning and Wide-Fit Comfort - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3VlSUVJY0RhOWxoQXJYUXZFNGRSZkZLbjhfSGVQbFp0UXkwMk83ckF0ci14TGFWT1hrel9jUnZhUlMzM202c1lVdHpkMnctMUxqaW5ZNzgzREk5TVU5SHFPSHJma3JJM2FmWXQ2b185eEJZc3pmUU90ZUpETWtsWnR1ajFabkxVS2ZhRmhFOV9iV0lrSDFrS0o0ekJHMy1x?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

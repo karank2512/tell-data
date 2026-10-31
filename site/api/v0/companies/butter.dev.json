@@ -1,9 +1,9 @@
 {
   "domain": "butter.dev",
   "name": "Butter",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 15.7,
+  "score": 15.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "McDonald’s unveils holiday menu with new cookie butter drinks - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3hwdTBQR0lheDdudWpNdGtsSHNTQ1lFWXFWY3BmcmdIN2d0S2wyU1ZUMlBPcUNFRVNfTVlibm54OUpzdHNkYnpUWW9JUVNzYnVSM1RkakpTTnh3aGg1WTgycEJWYkZuYlozU2xHQzFiaDdTN3pzb3BmOUt4c0Q3Y2RaV1U4NUtaNWNhUGROUmVjZThqVlRV?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Caribou Coffee debuts cookie butter lineup - Bake Magazine",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFdreWFSTGE3RWFqNTF5b05HU3Q0c1ZhaDhjQjFkTkpscG8tQ3lxdElGVjZjUE9SZWpMbzRFV29DTXpDTThaVFdVeWZybEY5bS1xclA5UFU3MGFFYnpCMGNldU92Qm9XMS13ZDVJektqSnIzOEpNTlV6SjdfcGFRclNSTVg1TnJE?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

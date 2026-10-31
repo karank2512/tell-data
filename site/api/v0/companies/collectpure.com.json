@@ -1,13 +1,13 @@
 {
   "domain": "collectpure.com",
   "name": "Pure",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.6,
+  "score": 14.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-19",
       "summary": "Pure Health Holding Appoints [person] As A Liquidity Provider",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ1JlRUVkYlNGYVpxeWFzcEZ2ZkZCS2ZWQi1NZ1pmY1RkOGNmOHBnQi1SWHllanVMTlRWVVhleERza3g2UDRBNHlYZzlwLUltSWlaTnZ0VnFNTWFXaFVLeVczOWtxaXRaQndoNEZqR3ZHOENBXzJHd3hmcXRKVmRBSmNGZnB2RU5JS1lQYW9IaHdMWE0yNjRvRGk5NDMzWWRvRnlnNFpiUW0xNW5FZjhwcEJ6eVpSSG1GRllBMzFvWS15aGJYRUlUQ2dxWTB3bHpnbndSUHRjT2pYaS1q?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-08",
       "summary": "Pure vs eBay for U.S. Mint Releases (2026)",
       "url": "https://collectpure.com/blog/collect-pure-vs-ebay-us-mint-releases"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

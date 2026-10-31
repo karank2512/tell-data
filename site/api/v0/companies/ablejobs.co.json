@@ -1,13 +1,13 @@
 {
   "domain": "ablejobs.co",
   "name": "Able",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.9,
+  "score": 7.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "N-able unveils AI-powered vulnerability and patch management tools - MSSP Alert",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXRQU05SY283YmJPLTlZMVhjby1BenF6b1ZURGU4SXNGZ05PeVhGUWx4VTV6Nkt0SXBtWU5ZOXgtUWhDQTNaU2NMbl96WDh3MnZiTm5oa2J3MU9HMjZvenpSTWxmb3BGc1B3Mm5iVHRoQWRHUFVZcXdXdjVmSjZBS1A5LUE0MjliOVVHTi1yVFRyNWNJNkFtMzlKRHZFNU9rMHd1WlNR?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Maui Jim Unveils Rx-able, Bio-Based Miona Performance Shield - VisionMonday.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1UzanNzeEVvZE1qbU5WRWhBeS04MlU0Mzh3V2RHTEg5elMyY3dLYVZfbnh6OUFhVTNWbFFQMExmbVF5aXkxT2ZhS2NkUlAzRjdjZFNsVllZeEV2bTBiREVVamNkM2tzRUZVNi1HTW5FZFN3TGVsZ0NONnBwOFlkNVpsa0JXcUhIUkdUdTBXUDVyc0RHenZQLVJhdlU5VmV2Y0JNYUFPdUJtbFBZSUVFMEFSUkZibFVHUWctb2tIdW55T1AyNGxF?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

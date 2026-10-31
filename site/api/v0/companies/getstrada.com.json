@@ -1,10 +1,17 @@
 {
   "domain": "getstrada.com",
   "name": "Strada",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 4.9,
+  "score": 6.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-30",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWXFNMDZVNTlVdWFxaFljR016NF9BOWJXWjNGT29jLUF0bUk2WHVOVGZGMU1sajhfMEh0ZzhOU1UyOXZlazAxLXREUEtmTlNmT3M0blltdlVfX2F3ZEZ0UUtCM1kyVmRqRjJCTUVQS3lxLXc2VTRjOXZOQkhfRDNzT0tNS3VIaDN5cTYycGVrOTVCSHhOSjg1cV9sa3NtSEE5YUNCSmtiLVp0UGNJMkh2WXFYUTZMLTF4Y01yUG9salpGT3ctQ2xhTEluTjFSbzBUM3h2cm1yWEcxOWM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Kickstarter Launches Fashion Advisory Board With Designers Behind Collina Strada, Luar and Brandon Blackwood - Net Influencer",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbkpRSHR0emxIQ0hoNTR3OGFpTEtiMlVrNDc2bjAtc1Q4aDF3QkphSjQxejV1emROdTFOWW0tTGJKdE9LN0Rhd1NvZjNycUd2TXVzdG5adjdCVWE2NVRBQ2ZxTm93LXp4Szk3eGhMb2ZiWGZxQUo0Z3ZZWUZ3OE0zNXBvWV9aN1dKb3pDM01pajRBZndNVFM0Y3VUTld5enYwUFNCb0d5UHZYM2hVdU9jNkw2YU12TEEySEljcjQ1cFdVVDRzN1Z4S1l6X3VEYklrOTFpdA?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

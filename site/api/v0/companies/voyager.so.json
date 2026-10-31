@@ -1,9 +1,9 @@
 {
   "domain": "voyager.so",
   "name": "Voyager",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 20.5,
+  "score": 20.2,
   "contributions": [
     {
       "type": "leadership",
@@ -49,14 +49,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-21",
       "summary": "Voyager Announces CEO Succession Plan, Appoints [person] President",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZUxqTk9kNmVBVElhLURZdTBHbm5HQk1KdFJSZ240YnpnSnBrcXdyaWk5R0F2bFZlTko0R1oybjhnclh6SHNWZFVKRG4xT2VBcWdxSlRMZzVYZDcxelZ3MHRXbEROSVRkYzNjejJfZ2VKMTN6N2ZGZndraGd6cHBIcmZYZTFOZjFfUDJhQXlDbktuek1NMTVaOHItNWt3VW1EQ094andyczZsaXQzSmlhYnU2VnBvaUxLLTNYRFhaTWlHOE04M0JLTnJGYS1BRzhYNl9PUGJ2NkFQSlJPdGc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Star Trek: Voyager Releases Third DLC 'Delta Chronicles 2' - 게임메카",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zM3g2d00zWkI5QXNIVDdXS2RtekJFeElCSEhGaExReGJRTlZNN28tX1RfazF2UmN6ZjQ4R2ZoUl9ERjR6bjA1bVhudmwzZm4yTzlNX1NTd1lPcWRJ?oc=5"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "CrossCountry introduces additional Voyager trains to improve capacity - London TV",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMERnMU9VdW85ZVJjZVFXSElCY0U3bDNBZ0pBMXYxbWxsa2VfZWxnTjZhcWh3ckZCaTJCRzM0OThsUVViZl85QkJFRV92OHVkdUVOWGNtRUlaOGRpVHpjVDBvQWlkNTNLUGtYOExmTlhhVkZpSmljWTY2NXZiYjZtVDZXS2RTQzZKY0JYVy1SOUZ3VUIydk1tb21n?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

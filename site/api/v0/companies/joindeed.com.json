@@ -1,13 +1,13 @@
 {
   "domain": "joindeed.com",
   "name": "Deed",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.4,
+  "score": 5.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "LMS rolls out digital mortgage deed signing with QES - The Negotiator",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekUtUUtvV1VIS1N5SVhqUktkX2R4cFl5SFBzQkhlamJWVExfekhsV1VtT09CeGlVZTRRSG9jYXFxV1pVU2dpR1FGLXF5dVZVbWlrdnctNGpweDdXQTJQZEhaY0RHMnpyYjRtS3l0aHJoMFVBYmJFZHFOMVpmX0YxU05fUEFuSFkyYUgtYmpESjRRUDNsNW43MEw0YWlqaDVWMVpCVUFXWmwzQmhWdlE?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

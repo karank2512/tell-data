@@ -1,13 +1,13 @@
 {
   "domain": "electricair.io",
   "name": "Electric Air",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.8,
+  "score": 5.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "[person] Joins Airspeeder Electric Air Racing as First U.S. Constructor",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmctb1NEUVV5UXUtX19MOV9ld21yVXFxYWlBU0NWZWhUUERtSWJ5aE9aZC1KNEZBR3k1Uld3RmVuX0MxQ1NXTkRnaWRuS180dmRDN2hrSEpqa2RGR0FVM3g2cUYwdjh1SnBDNHo3V1lodGJ2MVlZOHVUbXIzbTVZODFpN2NRdy0xbnh0cjNNcS14Sm12VE02VWNRUEh4Y0U2?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

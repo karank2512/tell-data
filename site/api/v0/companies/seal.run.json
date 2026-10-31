@@ -1,9 +1,9 @@
 {
   "domain": "seal.run",
   "name": "Seal",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 12.4,
+  "score": 12.3,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "California introduces new high school climate seal - Scot Scoop News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45ZWtnUDZkNldlTkdGWlA5cmVjZ3plSnhrZFFXLVJoZFJHVnBZN1JiTUJScE5GTGNfa0dQQlhGa3p4X3I0SmJNREQzSGZJZXZib2diX1Y4QXZwMU43bER5NUxRMmdadUZsaE53VEpsR0dqRVdzemN0aDRhX2VJUQ?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

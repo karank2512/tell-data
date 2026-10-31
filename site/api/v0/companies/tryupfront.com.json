@@ -1,9 +1,9 @@
 {
   "domain": "tryupfront.com",
   "name": "Upfront",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.1,
+  "score": 9.0,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Modi Energy launches zero-upfront solar-plus-storage offer in Denmark - pv magazine Global",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWExtSko0cmdoRC1oSW5iQ2V0UDNIWjlZdjd6VUdtempmXzFfZ3lCd01hTElKOUZIaHJBSW1CZG1mQmdMTUxnUlZhMk9sN1FVRVFjYWEySlBId2NpWkI3eW96RlRaekp0TWtQSktGZnNqd3lGdG9UN1NKNURnQTZmb1dYYVRlYkZxYmJQR2ZhTXJZTFA5VWNBNmxFOFZFTzdHeXpSOXprMFRJVlR2T1E?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

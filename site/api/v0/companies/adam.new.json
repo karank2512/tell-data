@@ -1,10 +1,17 @@
 {
   "domain": "adam.new",
   "name": "Adam",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.8,
+  "score": 16.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-29",
+      "summary": "‘The [person] Joins Channel 4’s Production Biz As Creative Director",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVk5M3FvVjNMWE5PdGI0a2syeGJ3Zy1kVjZTV3o1N01xMEtqQTdBMXdsNjlaY3dHcTVTNGxjMUhHODlnUmduSEJ0OF9iUkRRYjIybFJsTk4tZUpUV0pENDJFVmJDdUpNLWw0c0hkZUtYclJsMkk0RkxnbENWUkVMVU1kSzdYM2EyVExWYkJEaUdiUQ?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -14,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-19",
       "summary": "6abc Action News names [person] to succeed Cecily Tynan as chief meteorologist",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHpoZmVTUWt2Ui1ENFl5eWpDTXc4dXctZGQzT2tzdGNyZXFCX1pUYWJ1Z3NIZ254b3prWEQ4b1JxamQ3dlA3NFhIcEgydGF1UEZfcTRlYWxCeDZ1OWNHOEFoRjdMQmkyVWpsMm5aakVTd0JiY05NRFRKRDNzdWdSZXJKMG5DdDNzSHBFbzFoQ0hHcHZFTjdMYUpkZXBxOHMwYVJyaGFNYURKRWs?oc=5"
@@ -49,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "‘Welcome to Kansas’: Adam Hamilton releases statement ahead of Trump visit for midterm rally - KWCH",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUg2WkZLTjU3RndPQjk0LUVMVU9XX0UzeWZGcmw2VGt2U2dyLW14N1JyaTloRmRobFBvMTVYV0hPczFFTzhlRFA3SGRtWUlSV29ieWpXTC03eFFjTFFiTmJSZTBXQ1FCUVpsaktMZ2ZEUl9CRGJvTzlBRlcyLWZpNWdBZ1JjVzlfaHM2VXVaYmFTR0FDcnEtZHdHRTY0dEp6WlU2cWRPektSSDdJVDhqNWJ3?oc=5"
@@ -83,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

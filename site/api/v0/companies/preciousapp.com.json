@@ -1,9 +1,9 @@
 {
   "domain": "preciousapp.com",
   "name": "Precious",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-17",
       "summary": "Precious Charles expands into film production - Punch Newspapers",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iNk1OV3YyeUdsb0hnY1g5bk1rTFU5eDJCUy1ocDlTLXdoeWFycmw3ejNwTW1ocVdIblNiM0ZWTWYtOWxaWU1zMzIxZ3Nzai1YbVM2aUJqV2JsR3pzVE1XaEU5VUZyMWJ4WWgyaUdGV1pvLWpB?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

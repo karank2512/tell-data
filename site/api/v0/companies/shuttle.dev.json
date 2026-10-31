@@ -1,13 +1,13 @@
 {
   "domain": "shuttle.dev",
   "name": "Shuttle",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 14.7,
+  "score": 14.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "UMD rolls out electric Shuttle-UM buses - Streetcar Suburbs Publishing",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnQzMThNenZ3Z2I2T2FnME5ZMWRNRjc5TXIxYms2LVZxNXBiaFFYT25CdEx6MS15U01LTzZMcEZFVzY4TWlFQWRhWEtBTDl4UWpWZ3VyZ1QzajJoVkZGSDNqMk0wMEN6OGpub1A2WmJXX0QyM29wZU1jcnJyMjItU2RtTVZYQzZ3b01uZUpGTm9xQWs?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Daily Digest: Uber exec to depart, Straight to Gate shuttle launches from North Bay to SFO - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0hIMl9sZlZoTGpfdmY0ZUUyTUFWbU12aElXa0ZjOWs0RHZSSUNNMGJZLWRxRm8yN1V3UjlQMnhXQkhGWEk3N2R4NXg5VzFUeWwySGZCNENtb1JWM1RVLU5TaHRXQXF4UENleEVQT0thSXlfYjB5NEVwYTg2cmpJNl9yTFpnZUhTcDVYX1pUQVFEUm42MWVwN2FqTXIzX3VUR21B?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

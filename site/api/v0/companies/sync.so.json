@@ -1,9 +1,9 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 19.7,
+  "score": 19.4,
   "contributions": [
     {
       "type": "launch",
@@ -70,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "NVIDIA releases GeForce 617.70 hotfix driver to fix G-SYNC Pulsar 320 FPS bug and black flashes - VideoCardz.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWi1Kalk2ckkyQWR6aW5jazBUSmVWZVlyQmpTd2NiUGZYTTNEbXJjNHJEbVNGdVdxcG5pMFhYQVFheUlheWFUMGZCZVRybm05TTZ2TVlVdjI3SUJSaGlfSTJRWjdGU0VEZ2lpYk5MbGFDa0dnZFFYZEtJS090aDlEUjU2b0VHNFV1eXg1bTRDRjZHY2l4elV1elF2WXV2Z1pvVnlrSWM4cGtFUW04ek84MlpVTmxxZ3pUN0N2M3FHU1c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Ovii Launches Tropical-Flavored Metabolic Sync Stick Packs on Amazon for On-the-Go Metabolic Care - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUlhlX2otaS1CNHQ4VURrRTBLbjJyQ1NzQ3RpM1pqdWVaRlp5V3EtQWp6X01KTG1ycWI5Unl2czA4bzRkczhzaldJUGM5OHdyRWFNdEt3V3NtV1N4R0NxWlJrTGQ2WjYxWFRYZWxpRWxyQjc0S0dxZXRzQlo3WVBTbS11UjN2ZmxRNWIxM2VQamU4Y1Q2WEFySTJDaWprSVBkY2c4WlBYNGpVb0g4MnNTR0lMRU1hRkstNnR2Z0ZWTUIyLUVXU2VlMmFwWFdoMVlya0cweE0yaldqSnpGN0dEMnZmSXl5SUU?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Introducing ScaleLink: Sync Your Smart Scale to Garmin Connect - Garmin Rumors",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GbWc5MGhYYXZKWEdDUmRvSjF2eW1MTkNiNWpleTZsOE5xbEhESGdsQWNjaWxNSUEwY2I1MXd5dFNvMHhwX1A4akd4MElzUTZFT1NSMkZ0OHN3bnc?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

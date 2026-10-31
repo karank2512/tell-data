@@ -1,13 +1,13 @@
 {
   "domain": "outbound.io",
   "name": "Outbound",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 11.7,
+  "score": 11.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-23",
       "summary": "Roadrunner Launches Its First-Ever Outbound Canada-to-U.S. LTL Service, Connecting Key Canadian Markets to 40+ U.S. Metropolitan Areas via Its Smart Network™ - Chinook Observer",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQNVFZaWZkUW5DbUQxaTFMZDZtZFUyWGt1TWl5dktISnp5SU4tVXVZY1FSSW9UcGloN1JTOFFWTEQ2S0RERXFyWFVJR2pxMXdSdWFqb0pfakFFVTZlYWhRNk5TbC1YY3k5ODNka2Noc0U2WTdBeVV1N0RseExHMFJXYUtPZGpRcmFBZWstUVAySGYyR1JIV3BBUnNoeHlWLVAwZGlGQnFMaDVaREp6OVdhSXRCOXNmZXdINVZFRVIzWWx2ZmEwaGpWM1Rwb0tOSjlUZ0pLbWlpSjd3VnBXeVdZNmVnWG1kQWFkQzFUVVlIXzNGRm16RjJJdi1pUWhDM2p2ZzhuVmdkNGh3TWNwWnZ1S3lrVmxTU0E0eC1qYlR6YlNXUjhYTFJRenhqWTJOV3NEcHJzQ285RTBaUE9i?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

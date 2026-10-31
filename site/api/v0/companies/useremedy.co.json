@@ -1,13 +1,13 @@
 {
   "domain": "useremedy.co",
   "name": "Remedy",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.2,
+  "score": 9.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Remedy Releases Control Resonant Music Video: Be What You Want To Be - The Otaku's Study",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeG13U3ZqcjdHS1JrdGdFc0FQaGVuaTBtb2tNTnloYXNnSWhyamRQa1ljRERObmtScjh3b1lQWXpwcTBOVUdob05Ha1F0dlBXMFVSeFBud0lKX0FYSk04dXRpUk1kREtwUlFJSmp0V0FORVlfTFFoUGJEWlh3Z1d6MWVkZ1lpMl9kbHN5RTlKSDZXTXRiaW0yYVdURWQ5NTV2V0xVWllWeEdjOGdvR1czZTBENDY?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

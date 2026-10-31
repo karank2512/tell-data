@@ -1,13 +1,13 @@
 {
   "domain": "float.xyz",
   "name": "Float",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Magna Unveils Massive Stock Buyback Covering 10% of Public Float - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUEzSjVxQUlENTZUVjllWWxmWjdmRndhc0FNcjVZRUV6c0JYU3lGT3FKSVBOYkQxSVB2bXlSWEhHeWN1cGE0aEVzX1B6Ri0yYjNORG51MWI3bWZsc0VyT3FZaUt0R2hVTDRXYUd1N2liS3FQX0JvLXVDSG84Nk92dlVMTU1jR202Ml9fZkRLVjhlVHQ2bXRRb1JURjhMU1ZFZTRjbm55Y0FGWWlzRTFVZHFZbmdXZ0NjVlRPdg?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

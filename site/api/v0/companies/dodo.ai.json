@@ -1,9 +1,9 @@
 {
   "domain": "dodo.ai",
   "name": "Dodo",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.1,
+  "score": 7.0,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Dallas’ Colossal Biosciences Unveils AI Platform to Help Revive the Dodo Bird - Dallas Innovates",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1gwT3FKWjhlT01CZVhILTdxZ2JqakpkNnBpMHlCM0dUdXk1RzdQTDhpT0ZtRm5PeEdxeW9HQ3JtajFtYjFqVHZNN01YUGpqVzlKeXlhS1lHMThjTDl5U0hwWDlKN1NCc1dTdUtpSnhtMU1ZQWpJQTVlQUZudmJWU1huakNjOEcyTVhQWWJyazBVd2VLSmFjQk9YSkoyVElScExTMXNSWWI?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "aspect.app",
   "name": "Aspect",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Aspect Bullion & Refinery launches personalised gold and silver gifting offering - MediaBrief",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNW9lOW5rN1dEVGplMjZqcHNzRWF5T181NzhhdjdGeTdjTWY2S0d6Y1FUaWVjakxOUVU2ZTN5YVJYNUxKM0czZ25wckJsOTNNeHNLbUdJNzhHTXBjT19nM1hYZ3AtcTcwQXctOE5XMkw0V0p3VW1FLXhXakNWRDVyaWlWdEJURDJqQkE?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

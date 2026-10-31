@@ -1,20 +1,34 @@
 {
   "domain": "onconsul.com",
   "name": "Consul",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 10.5,
+  "score": 15.7,
   "contributions": [
     {
       "type": "leadership",
       "contribution": 2.0,
+      "occurred_at": "2026-10-30",
+      "summary": "Uzbekistan Appoints [person] in Pakistan’s Sindh Province",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1RWcjkyZEJSR2IyUlhrbjNLRDhHXzR3N1VXX2ctelFXbW9Nd1dvZnZIblVaY2NOVlFnQmdDMHAzSURBSElQSTBTWmZYamxZQ3lDOFJtQlVWcG5Md0N3UEZEdFlZYWwzOUZVTnhJbEM4ay1zSko1TG4zdmxOMXZNVmotVE5SZzQ5RENaaFNZblkzbExVM2x3dzZRR20?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-29",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbko1M3A5QmotV2RZTjVQX1BTTXRvbDVBTE5Hd3Y3OGlCZHNienNfX1p3cnlLYjdKei1VSm9hSFVWZUJKZXlSZ0RFQng3VHRzYnp3S2dDWXRhTGxUZWt3Z1p1VTRBNzNiQU9CMVo2WFltNU1xbGxWd05Bcl8tcE0yaDZGT3BLY1BEZjJQTDdJRlpCZlktYURzdko2Y0JuSFpQX05DTmpsMW9TR0E?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
       "occurred_at": "2026-10-28",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVZlYUo0WnVoMk1JRlgwRFhrMVMwOGRZdzlvZklNR1kzVjZQWVJWaGlyblBtUzdGV0pjT2MteHlINmNhVVdZU0gwaTdGU01WR0Jycld4RDJRb2Z5T0NSU0NTbl9rZmJ6WS1samdFS3Y0VzlYaE9taXNoLWxIaVB0bkk1UXlDNjI1Ti1fakJFQklObDdMZ3ZMTlpsUTJIQQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-24",
       "summary": "Fiji Appoints [person] as Honorary Consul in Hyderabad",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWVsRFBjUGdkRHJjR3ZYSkEySmN6aDVXNzFJSzUxQm1ZRDgyQXRiZTZZR1ZUQkt5QktwVDVIVlZFUTlkWXZFTFh3VzM1YlA4TTVkR1BfVlJjYlgzTE9NaVFaTE8tbGp0ZGNHNjRVZ2xIa25VNGw4NHJ5U1FiTnBzRjladEFWQ3lUOERsSWFVSHZUWkxLcHZUTG5MSm9DVmk2N0txbjFmc3Fya2dEQm1KRDVDdGpwLUVUU3lkNm5n0gG-AUFVX3lxTE5lZWxEUGNQZ2REcmNHdlhKQTJKY3poNVc3MUlLNTFCbVlEODJBdGJlNllHVlRCS3lCS3BUNUhWVkVROWRZdkVMWHdXMzViUDhNNWRHUF9WUmNiWDNMT01pUVpMTy1sanRkY0c2NFVnbEhrblU0bDg0cnlTUWJOcHNGOVp0QVZDeVQ4RGxJYVVIdlRaTEtwdlRMbkxKb0NWaTY3S3FuMWZzcXJrZ0RCbUpENUN0anAtRVRTeWQ2bmc?oc=5"
@@ -35,7 +49,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmZqVTl4OHB2dHFhZkVFbm84RjdmT2JZOHBOYmpuajlrWVM3SXVSWVRCbDhVWjM2Yzd2NUZjX2lDR1JNaVRCU2NJdkxkbWI3WWFORGlSYjdlQlU1TC1ya0RNMEFQUnlIQlBEWWVMdVgtX25QcGNJSlhUOUdyN05rZ0NEelhDcFJzWjd4cDd1WU84enBjQklR?oc=5"
@@ -46,6 +60,13 @@
       "occurred_at": "2026-10-08",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFIta2VsYjJOWEYtV1ZNTERkaGZqSm40WHJvbjdOdm5xeUozQnpHaDE3cGMxc3NjOGhMV2xTQTFoQ2JMekhCZXduazRHaEZEb3prZGZKLURhbWZDVFNiX1c2TzRsb21hSmJoSlh4LUY1MlVTS2lzWmJXcGhpcU44ZzVKVHNha0llZWhJ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Consul General of India, NY, Inaugurates US-India Collaborative Corridor in NJ and Unveils ODOP Wall - The Indian EYE",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejNHX2VSYTZlV1RnTUtrUDRMS2JHU0owcDBxbTA0YzNSaEZsOTZpSzNOanNQT3NyVEhvOVFDUzlPMWFmdElBbDlhSzNkMEl0dUQyd0xTUXEya0lraUluWkp3WUNyR0dNUVAyOG1QSHpQbUx6cl9fTFMxMVVxdzY0WTB6WkkzWl9zeVdETTI3Wjk5akdHbHYzMHBFZ0gyaS1lM01acEhDZkcxaDZCdFN6eFNac2hfbUZqT1ZSVXptMW9vYzN5ZmdUN2JjVGl5SGxY?oc=5"
     }
   ],
   "open_postings": 0,
@@ -55,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

@@ -1,27 +1,27 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 36.9,
+  "score": 39.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.9,
+      "contribution": 12.8,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "[person] Joins JPMorgan and [person] as US Settlement Hub Starts Tokenizing Stocks",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTERFcTVGT2htRXBFNmJqNGZ5YkJSbUpMZFZNZHY3R2pHT1phQXFDN3R1ZmdQWTVRZFl6LTZ2eUpCTXFudmJYMW85akJFNldsZDNJLVhiNEFKRndGUEJmQ0pmY1NpZVFSR1I4THhlb205U2pGY1I5eUxkWnFrS0VCM0ZqQXBoU21aNmh0eks3QUtsQU8tX0xIMHpnaTlVY3VXVjd4RW92SXo3UGliTEdkeEUycTRMZjdfR0tWNmlhTkhRNXpRY0VKdA?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "[person] joins the launch of the DTCC Tokenization Service as one of the first broker partners",
       "url": "https://alpaca.markets/blog/alpaca-joins-launch-of-dtcc-tokenization-service/"
@@ -30,8 +30,22 @@
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-10-30",
+      "summary": "Pakistan: Islamabad zoo introduces 'Coffee with Alpaca' attraction - Africanews",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVFFakNCVWk0VUNHckFxb0t6UHJOSTNkVnAwRHFxRkVGT0pQNVBVMC1FcXZETGdMemZnSjVhYl80YUdObkdfNHpvUkgzNVVJV1NiUXZ5M0J1OUVuMF8wbDFwTWYwcC1NQno5SkpKY2J5aXZrYlJsNnBiUDRCUEtkd0E5YWhvZ0poRUVWUXRXVTZtOF9xNHJ2ZEk3TGVHd3RpOFFFWNIBqgFBVV95cUxPV2t0cmFZU28weXJtV0xkV3BGbkFkWFhMWVRtN0xpNVZ5UEtQUUF4UFdXRFVEZUpGTzNnN19MRW1JZ2F6X0RKWmRYdEU4THdXUnJteEtObW9VMU5PcmFPbl9NdlZ6LURubVpoa080dHVmZVlZd1VqWmVXZERiX1RuWk9UZHd3eU4wS0s5cVhER0Z1SDBxMmNVYWFwek1iR04xSFBtcW9DRUtwdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
       "summary": "Video. Pakistan: Islamabad zoo introduces 'Coffee with Alpaca' attraction - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzY2ZHU2d1NiZWpsNmRGZTdLN1RrM2MwanJ3SlZXM19XbVFNMVFNMEduUk9rSjVSNDNLOFc3cDdVS3QtT29pN0lXNjFKT1BuRWZteGo5LUdqVnJ5T1VUSHFGR2xWcjU4ZW5wdG1sei1BdERzVWh6TjhSNVNaVXB4cC02S2k2cUo2TC03M3JFSkZWUTdQdkVyMHJBcklZWGZfbGVLWE1CU1U?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Pakistan: Islamabad zoo introduces 'Coffee with Alpaca' attraction - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2tfdi1kWmxMRkNpa3VtbXNheEpneHhqUEF1U3FFQ0VFNEpNdTRqdlNTckR5QkhWVWhVNjA0blJfSmRXVlBZQ3YtcGZzbFpVaklEVmlfZ1libC0xSmNIOGhFX28wc2FIaFRXNG01M1JXMVUzTFByZHduSHZiWnBMTnI3QVhnNVNva3dOSw?oc=5"
     },
     {
       "type": "launch",
@@ -63,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - Mid-Day",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMm5WckZYVkRjdGJ2blNPNlVvbGV5OGRYanpnMUpnV2NUMmpIUG43WlRLeUtIM1U3aUlZTW5SOWFrNW05czdOYTdTYV9McTRFVnI1N1FXSTVSNFE5Rll4YzVfaW5xWHFhc09CZURBc1M4bXFERWhDM0FfOTVWYk8tTUp4bUljN3ZYUVBlbUl4WUpjUUphRHJqOEI4MzNaUWdMZjhGNl9DbmNEbmxHNGlUbDlMM016VTZ5S25qZlJJc3dLV2ZKRGFKUkdTUFRranR2LUlScW1RTWNVRC0xV3hmTnRZcmrSAeoBQVVfeXFMUHVvbGk0VnBwOHR5TW92bDFDejJtUnR6dFl5b2VXVVNpMlZhWHFHSFZ6dnhfcUNFNGgxRWlpNFI3ZDJITHhfQk0xdFJNQWlIQ0lQQnBEeHZGUUtROGpHTnBBTWNNM1VKbGZqM3BVTThReDBKdVlNR09TajM2X1czMWotUEttbXl5VDREQV85SVRyUnNFdlU1Wm5XWkNvLUoyNlk1Q2VYN3U5aHNrUXI4b2QwbFBSS1lTb0gyVnRVVnFKZ2hMTHIxQmhsaDRVYm13YTJncnlTWDdKckNzT2Z0RTJud21ocy1JRC13?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - Mid-Day",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdW9saTRWcHA4dHlNb3ZsMUN6Mm1SdHp0WXlvZVdVU2kyVmFYcUdIVnp2eF9xQ0U0aDFFaWk0UjdkMkhMeF9CTTF0Uk1BaUhDSVBCcER4dkZRS1E4akdOcEFNY00zVUpsZmozcFVNOFF4MEp1WU1HT1NqMzZfVzMxai1QS21teXlUNERBXzlJVHJSc0V2VTVabldaQ28tSjI2WTVDZVg3dTloc2tRcjhvZDBsUFJLWVNvSDJWdFVWcUpnaExMcjFCaGxoNFVibXdhMmdyeVNYN0pyQ3NPZnRFMm53bWhzLUlELXfSAeoBQVVfeXFMUHVvbGk0VnBwOHR5TW92bDFDejJtUnR6dFl5b2VXVVNpMlZhWHFHSFZ6dnhfcUNFNGgxRWlpNFI3ZDJITHhfQk0xdFJNQWlIQ0lQQnBEeHZGUUtROGpHTnBBTWNNM1VKbGZqM3BVTThReDBKdVlNR09TajM2X1czMWotUEttbXl5VDREQV85SVRyUnNFdlU1Wm5XWkNvLUoyNlk1Q2VYN3U5aHNrUXI4b2QwbFBSS1lTb0gyVnRVVnFKZ2hMTHIxQmhsaDRVYm13YTJncnlTWDdKckNzT2Z0RTJud21ocy1JRC13?oc=5"
@@ -192,13 +206,13 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
     }
   ],
-  "open_postings": 71,
+  "open_postings": 70,
   "long_open_roles": 13,
   "sources": {
     "ats": "greenhouse:alpaca",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }

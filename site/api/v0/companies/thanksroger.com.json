@@ -1,9 +1,9 @@
 {
   "domain": "thanksroger.com",
   "name": "ROGER",
-  "as_of": "2026-10-30",
+  "as_of": "2026-10-31",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.2,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Phonak launches Roger On Sphere™: the first AI-powered - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaHRJSS1lQ1NGcUVVU1N0Q2hRLWhMODVnejNVZ05JZEJjZTVYOHcyb29SVWV3RXA2bEdwWk85UXI3S3ZEdFZSM2toXzF0Yl9oc1Q3OGZGSXh0WlBfcGstMHNkYkZWbHBxSWtZakJRd0NzX0pJOS16a25XZHhYTFF3U215QmxPOUZmUVlONDZOZXJ6MWRHbFBwbWdkYUZ5ZmtQRGE1Uy1tZGxRUzBTazB6cDFPVlVvOW9vMW9TY1hPdnpaVzFtcXFseEJtU1N6b0hRdUhyY2QtdFZLcUFVaGt2UlFnYllNSHpmNlZHYU41RU4zckp5UjRCeWd6UnRnT3d6QkFxZHhrN0ptMVFkRXdrRGFXUQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/ce057e895c7ca4350bf16beacb0fd258ce0282ad",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
   "why_not_higher": []
 }
