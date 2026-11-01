@@ -1,9 +1,9 @@
 {
   "domain": "proxy.com",
   "name": "Proxy",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 11.2,
+  "score": 11.1,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Ethan Allen investor launches proxy fight with five nominees By Investing.com - Investing.com Nigeria",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSW1OV3JYMDk3dFdFNk1wY2pCMDRiRGJ5NEl4MlFqRl9mbmNfRF9MYWZXZTBJaUwtMC1ubGRsUkRHWi1EYVFNWkZwQlROZkFxRmRMclBwYjFBQU5DWmM4M2dKYW9IVEotZ25nRU03MjFpT0NFS2ZKVTVySER5RnVaWkUzMzZNWGU5WkxjekhTc2NrRk1XSFpSY2RkdWdjV0FhWlBEd29mS1JJcHJpLWw5V1ctaU9hMlBrT3NOdi13?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

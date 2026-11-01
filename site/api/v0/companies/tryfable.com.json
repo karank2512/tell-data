@@ -1,9 +1,9 @@
 {
   "domain": "tryfable.com",
   "name": "Fable",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.1,
+  "score": 12.9,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Fable Launches First Bedding Collection - Home Furnishings Business",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDgtN1hGMmZ4XzlSTy0yTTd1NEZaU1JpX21OZjJIb2xWQUh5R0JYQ3hWQUxJenRwX1pXNThmRnp3TUxRUlFKOW1iX0hnS0F4VWJyR3lTSDNveW5uOTBOeUxOcTlzamRYS0ZINEhjdG1oVEthSkhiNGs5Q1dCa3ktY3R0eHZxeVV0N29kXy13?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Fable Security Launches Vishing Simulations to Prepare Organizations for AI Voice Impersonation Attacksv - VMblog",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3JZeXNSQTZsaS13aXRJMEVpbjJkNUx3bGhUN0F2V0RtYXdnZjdBOGFjSWhKUEJiRFdtME53RGZEUndhbmhacEFaVGRRRjZhai05T1p1ajcyOTJpd255akhaVjlQU0tQUHBLek9xOXFfMXl5NjFqOUlwQUwzWENkd3BQbUlCX2czcmRfb2hPTjJwT3hUVkIwNUlFNmM4VXFWZzExdUhPdEZoYU5tVW9KUUsxY2dHQmk1cFd4V01BUkRoMkdhcldz?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "onconsul.com",
   "name": "Consul",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 15.7,
+  "score": 15.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-30",
       "summary": "Uzbekistan Appoints [person] in Pakistan’s Sindh Province",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1RWcjkyZEJSR2IyUlhrbjNLRDhHXzR3N1VXX2ctelFXbW9Nd1dvZnZIblVaY2NOVlFnQmdDMHAzSURBSElQSTBTWmZYamxZQ3lDOFJtQlVWcG5Md0N3UEZEdFlZYWwzOUZVTnhJbEM4ay1zSko1TG4zdmxOMXZNVmotVE5SZzQ5RENaaFNZblkzbExVM2x3dzZRR20?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbko1M3A5QmotV2RZTjVQX1BTTXRvbDVBTE5Hd3Y3OGlCZHNienNfX1p3cnlLYjdKei1VSm9hSFVWZUJKZXlSZ0RFQng3VHRzYnp3S2dDWXRhTGxUZWt3Z1p1VTRBNzNiQU9CMVo2WFltNU1xbGxWd05Bcl8tcE0yaDZGT3BLY1BEZjJQTDdJRlpCZlktYURzdko2Y0JuSFpQX05DTmpsMW9TR0E?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

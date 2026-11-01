@@ -1,14 +1,14 @@
 {
   "domain": "relativityspace.com",
   "name": "Relativity Space",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.3,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-22",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/relativity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-22",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/relativity",
@@ -81,13 +81,13 @@
       ]
     }
   ],
-  "open_postings": 418,
-  "long_open_roles": 135,
+  "open_postings": 410,
+  "long_open_roles": 136,
   "sources": {
     "ats": "greenhouse:relativity",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

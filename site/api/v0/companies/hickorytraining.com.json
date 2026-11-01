@@ -1,9 +1,9 @@
 {
   "domain": "hickorytraining.com",
   "name": "Hickory",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "THP releases preliminary report of deadly Hickory Hill crash - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeU5xSExUQ04ydEZSWkVCTXBjN3gwRWE4UUd5UE1JdF8wemh3R3FuRkdfNVEzNTZRM19ndkViRGhqbURKNW5kTmk1aktrdmNNLXV2eEVQc2lKTFNDUHFJZS1pZmhFUGhDbG9LNmxRdkprQm12TkpFRDVUc2VTbjMtMFZwV3BqZUJlYXI1NTFMbVpoRE0?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

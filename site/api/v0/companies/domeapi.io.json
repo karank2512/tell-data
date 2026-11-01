@@ -1,9 +1,9 @@
 {
   "domain": "domeapi.io",
   "name": "Dome",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 8.6,
+  "score": 8.5,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Iron Dome architect unveils new system designed to counter drone swarms - CTech",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OODZwdi1GZU84TVAyOEJYMXBTOE1mU3Z4aGE2d2lvcS1rSGgxSV9xWUFCTHUtUF93WEpXRVBteHJzY2tkenZOVHhFdThEeWFCNnl5dkFjM3pRWVhvd3hKbU9vc09fZF9M?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

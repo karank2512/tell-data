@@ -1,9 +1,9 @@
 {
   "domain": "onsleek.com",
   "name": "Sleek",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Home Trends & Design Unveils Sleek New Website and Exclusive Designer Club Program - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeFBLdWM5bVJua1k0Nnp1d1drYTFXWFlDeEptYm56S0JCX1ZwY2JIOHFCcmxtUjMtSXVYaFRLVy1tZlZhOUV6NGlfOXJwc1RjOFc4aUYzQVRNaFAxZzlveU1pZWhZMnFqakZMMGF3RDZyOFk2ZHk2ZXRWQ2JaNEFEVUpfU0cxZHdNVjI3dzNoVk1MeG9NdE1QMU5yRkVVY2FxMWh2QlhrQTU2ZUpLS0tNcXpmODJKemZhdlFBX0pvT2YyZXVILXdkRWtrQWJNc2J1RXlF?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "fancyapp.live",
   "name": "Fancy",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.7,
+  "score": 3.6,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-29",
       "summary": "Linda McMahon wants a fancy new office at the agency she’s killing - Daily Kos",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalB4RGNRVW56Tl9UVXJ3SG5RSUdrbDFFYVRHQnJCenp1NVo2YW11UHA0aUI4b2pZdE5XNWlRYUNFTjdJODA0M2tsQjMxZmVtalhCS1V2SE9tTTNBbTdWOHB3VXdXMzZ1VU53M292TXNsVGR5YmJnd3JwZGZiSnVtNllLTnB3Y2dicXVrRERZSkF0LW9LeXp0dTRWS0pKN19GSF9aSjJibFE1c0E?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "collectpure.com",
   "name": "Pure",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.4,
+  "score": 17.0,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-19",
       "summary": "Pure Health Holding Appoints [person] As A Liquidity Provider",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ1JlRUVkYlNGYVpxeWFzcEZ2ZkZCS2ZWQi1NZ1pmY1RkOGNmOHBnQi1SWHllanVMTlRWVVhleERza3g2UDRBNHlYZzlwLUltSWlaTnZ0VnFNTWFXaFVLeVczOWtxaXRaQndoNEZqR3ZHOENBXzJHd3hmcXRKVmRBSmNGZnB2RU5JS1lQYW9IaHdMWE0yNjRvRGk5NDMzWWRvRnlnNFpiUW0xNW5FZjhwcEJ6eVpSSG1GRllBMzFvWS15aGJYRUlUQ2dxWTB3bHpnbndSUHRjT2pYaS1q?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Yoor Air Releases New Pure Filter Line for Cleaner, Fresher-Smelling Homes - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXlLa3BZWWd2M0FETmxfWmluRTJiLW43cEtrNFBjN1ZqT0Z3OTU5dndwLW9IMlNST3ZTMXJZUV9HOUZyNzR4X09xRDk3TEFONU5KbHR2eGY4ejZRSUtxN1Q3ZjNBd1hzSjNhLVJEd3JiUGlVT1lfZUtnZzFKRklrYjlmLXVKNlFRdDB6eUlCNHRXY25wcGluZUstaFh6dENuNWdTUXlfY3RMQWhxcFE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Cortney Walker of Pure Flavor® Recaps New Launches at Global Produce & Floral Show 2026 - AndNowUKnow",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ0pNN1dYbzJXaXV5b1BRSzFFdkcxbGNDZHUzQnBxYWZJVFZDVnJ2ZXZkTm03M2dtcWliY3E4R3hHZjNiZzR6THdJdWhhUUotZnFfU09BRDN1WHNxbm02UVdoeWRoT0p5QnJJb21idmsxWU9fdExaMnQtVGh3UXBxS2dmUmxIWmx0dEtBWUdkT0lLQ0N3T3JXS3hrN1c3Y2N3RW9SV0RHLXd2T0pEMnJHWVZIaXA4VFZmNXMtd0FPNUVSUHBLM0R5Y0RVeDNtQUw1R2lj?oc=5"
     },
     {
       "type": "launch",
@@ -63,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Great American Media Launches Pure Flix Familia Streaming Service for Latino Families - citybiz",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTFo0V2xSUV93S3VMbjE1ei1RbzZrYlQwT0pZbFgwNTNPc1I0VjE5c3N1alFFbGxDSGU4ZUVIeDczZzdJdkdrZnZRWnpYTnp0Tkd0cHRIZG9ub0ZodVYzNGJmS2FBVkhfdld5NGMxUjhwQkd1dG92b1pta1JISHdkMlh6TDhJZEdKdXFYUFlHQkNuMGF1UnloelhyZUhaSHBPWUI0aVBqUlFwa3A2TDJBc1hkRnR2RGZlNVMzbS1HdXkzUQ?oc=5"
@@ -77,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Christmas Silver Coins: 2026 Releases and What to Check",
       "url": "https://collectpure.com/blog/christmas-silver-coins"
@@ -97,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

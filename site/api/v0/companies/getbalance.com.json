@@ -1,9 +1,9 @@
 {
   "domain": "getbalance.com",
   "name": "Balance",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 11.2,
+  "score": 11.1,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "The New Balance 1890A Introduces A Classic “Truffle Salt” Grey - Sneaker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3EydUt1R2NqRmc5akJSTkdqS2M1c1VyazVWUVY5VUFDWFFLajkzbUptZmVFNG5ZU2FRVTNxbDU0QnM0NUlrN3BraExWZmVtWTRqdnpaX3lOVXl4dnBNZW5Zb280b3h6ak4yZ3Ntd2VUeGd3RlFBY3V4UE84QlBVQ9IBgAFBVV95cUxNZ3EydUt1R2NqRmc5akJSTkdqS2M1c1VyazVWUVY5VUFDWFFLajkzbUptZmVFNG5ZU2FRVTNxbDU0QnM0NUlrN3BraExWZmVtWTRqdnpaX3lOVXl4dnBNZW5Zb280b3h6ak4yZ3Ntd2VUeGd3RlFBY3V4UE84QlBVQw?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "withgauge.com",
   "name": "Gauge",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.9,
+  "score": 13.7,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Stadler Unveils First Narrow-Gauge Hydrogen Train || Picture 1 / 5 - All-About-Industries",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWY1bUZUenRkaFFYN0x0Ykh3c0tXbXNmcDNvNnZta3p0VVpXSDQzNWRXQmN0MFl0bjVIUXM1R1ZfaGhCY0NTa0sxY1B2UmNCTWMwbFJKeEJNN25FczU3Y0VrUXpCRzZ4akJxREpWamJaaUNSaTFFSXlqNS1kQ0xYVjc1TVhPUnkwZ3cxVnI3NTVLLWVDZ0FaeFZ0MEZRdm5XdHZMNVBvUVV5OVNvNXg4VGppUDNsNFZYYWthcl8wVHZYZw?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "MoneyOwl launches planning tool to gauge income sufficiency in retirement - The Business Times",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkZoTDFxREtIWG1HczVDM2hMemYwS29KbU9OWUxEdkVXUUtnZno3aUR3TF84T0tQbEVuQ0RoY19QX214akxGR2NtNFUydXhpaGJhXzN0N193REdCWWdSeEktMlhCcFNiUHpoRnctU2d2RnhfOENaRHpqYmZTUmlHQXRPUE9XNnY3T3cyREd1V2tsYzlRWHV1LTlvVG5zRHFvQVVHTUE0b3c3LTZ5QXNRS2FaOVo3aHplaDVkLU9DdlVNQQ?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

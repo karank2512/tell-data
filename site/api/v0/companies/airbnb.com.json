@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 24.9,
+  "score": 25.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 6.3,
+      "contribution": 6.2,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.3,
+      "contribution": 3.2,
       "occurred_at": "2026-10-23",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -88,7 +88,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.1,
+      "contribution": 2.0,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -112,7 +112,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Airbnb Launches Program to Funnel Revenue Toward Free Emergency Stays - TravelAwaits",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjBtM282RXI5RjhSZ3JTYTZ3VVFFdHlTU2lPdERVRVVKV3RJd1dJVzJxSHdCWFR3TkV1ckFNbWF6WmJIRW5aY18tTlBvanBoOEM0LXplaWFFN01hQXQ0OGR6SmVwVG80T2dGYmo5NjlaeUdULVUzZWNRYk5MbzJkOXlEazUzTUNZdEN6d013?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-25",
       "summary": "Airbnb changes checkout rules, Marriott launches luxury expeditions and other hotel news this week - The Points Guy",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DQThQMTg0WVQ0ZWlXWG8yRkc1bFVJWTBRVkpwOEljOExaaDFLYlZNaG45YXZyYjJQM3dCUGRTckZvWXZ6X0RMVmlBOE9tMElwdWpHcl9TV25BX2ZGbXVNc0xQZk1tTS1MWlpOcW9kWWdlOEstNmJ3?oc=5"
@@ -169,7 +176,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "5 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -234,13 +241,13 @@
       ]
     }
   ],
-  "open_postings": 203,
-  "long_open_roles": 57,
+  "open_postings": 202,
+  "long_open_roles": 59,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

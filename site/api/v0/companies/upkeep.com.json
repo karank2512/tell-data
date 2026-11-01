@@ -1,10 +1,31 @@
 {
   "domain": "upkeep.com",
   "name": "UpKeep",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 0.8,
+  "score": 5.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Maharashtra government releases ₹90.72 lakh for plantation upkeep amid drought in 304 talukas - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY0FpemdKUFo1d1k2NE9VejBEaEtrdnRHNHhadU5ZWXlhOFpNTWxnZnI1aGZZQ3FIdUVVV1h2NkxyNVZHM1FoQk8xT1RtNXl4Rk52OXRfYkdOcENpZkF1ZWN5MkdqVi02SWV4VkVTTEMxX3V0VXRITmdjSFlwMkNWeklybDZESk1LY0F1US02a2FBMXlpMWE1Mk9KQllWclF3LU4xTnNWbHVkZ29XaDNvc3h0OVU1Vk1ROWRqR3h2Nkx0LXZ6MHlRY1F5SUVpaV9FbndwM3IzcV84RTVSbkVoT3Fac19fZldhR3dicHJ3NWh1akdY0gH7AUFVX3lxTE1kSHlnRVNpV21FSFgtcF9ILXQtemw4eDZNTFA2QzZXOEliVlk5dElMa1dKYmxVQ2ZiRDVDa3luVGRsRmZIRVBvQUxFSDE5a2xyYkNBVk5HQl9SSUEwei1TQlBFVWl4RG01UERiRGEtRm9sUjZydUlnWFJzZ3Nwa25TUXo0NWN4YWFtdDRQdWc3RGJqUjM5QURsRU1JbFVwOHJfYWcxbjFJTEdLbjR3T2dfb092REVjNVpyMVpBOUhjbWhpa2d2VzFNTVBzNWhkY2ZFQ0pKcDVMT1R1MEJmeC1LMVJtZFlpRE5YdlFGeEh5Ry1Td05rR1lPN19N?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Maharashtra releases ₹90.72L for plantation upkeep amid drought | Tap to know more | Inshorts - Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXNXQU81aUxLd0FUZTBqNzZuWENLTkI4YjBJa2Y2c3NPYVJEdmtKd1JnTDIteUl4X2ZPTS1kV1UyNGw5ME9XamxjQXhDWnF5dExISWtWSGdfQjd2MHA1WE1kLU50THlmT0NTTGJMZHh1VDV2U0tHVnV6OE05QlMzZkZFVnpZbUVSSklWZW9TbjhpSmVLdlY5dlRaeGlsS3dWRzNOVmRGVHVsZVpud0dR0gGvAUFVX3lxTE1Bc1dBTzVpTEt3QVRlMGo3Nm5YQ0tOQjhiMElrZjZzc09hUkR2a0p3UmdMMi15SXhfZk9NLWRXVTI0bDkwT1dqbGNBeENacXl0TEhJa1ZIZ19CN3YwcDVYTWQtTnRMeWZPQ1NMYkxkeHVUNXZTS0dWdXo4TTlCUzNmRkVWelltRVJKSVZlb1NuOGlKZUt2Vjl2VFp4aWxLd1ZHM05WZEZUdWxlWm53R1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Maharashtra govt releases Rs 90.72 lakh for plantation upkeep amid drought in 304 talukas - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN2tqdHhTUzhNa2Zpc0lka3pUeHFYUmNoSVRWb3NtZHhLVGxkOFZHeEVyai0tNXVWWHR4eFY4MU84U2NwQW1GNk1GWE9OTjV3S3lTbEJETUxSaTJ3dUwzdWtxY1FnLU1fUWJhNUFtdDdwUnpybTUwdTY4MGd4LWpEd1lJRU1jOW5UUlhiNUxhamtFYUtDUnZWTWphWC1UeVZoOWpQeTNtYlJyMnFLd3lzckJCUG1fSHF5Z1ZvSWY3czRFQdIBxwFBVV95cUxQWm9zMng3VXZEOXBYTEFFa0lnaURBcGRyZ0F5NFhHR2xDeWxZdTlvWThJN0hoZ1F4X3hwMFZJSFNHN3d4elU5SkVoN1pLNU0xWFR4STlwbFA3SDFrT3c5OGFZRGFBX0RMVk5fd1BsY3NDZjhvbWRULWVYS3ZPVk95SVVMNnF5bm1XRnU3cFZGYV9EcWRsZXpZMDdvQlNyYnhSV3hWZVprOGxCVVYyZWN3R0tiR2tKNlpwTnZtcWktRjhXQzVETTB3?oc=5"
+    },
     {
       "type": "expansion",
       "contribution": 0.8,
@@ -20,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

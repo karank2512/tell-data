@@ -1,9 +1,9 @@
 {
   "domain": "at.cafe",
   "name": "Café",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.8,
+  "score": 12.6,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "A frightfully good debut: Black Cat Café unveils first theatrical production - KOKI FOX 23",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEZhRm9Hamp1RzVrRUY2NXNMSWR3eHlLQUZzcURYNnVSenlNRWkwYVFkS0JZVGdGdjQxZUR1OWY2azZfcTZEbTFET2JVMXhLaVU3bWsyaG1MalM5Mm1qLUpPVW9zay01Rjd4bEZPZmdrTHVsVzZTUW1yNGxBaUw0R0JuMzhSTEFhQ1ZhbUtlQlh0RDlvbDRnV21zbDBkNHhyVzBvQTNOOEp5cjRlQlUyUDV4T3U5UQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Taco Bell’s Live Más Café debuts in the Midwest - Nation’s Restaurant News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFF5eWhuQkVUSDJsbkZWeGRacjI5bThvdFdyY0Y3cXBuYWUxWXN0MHBwSnVVUDI0Q3pTMUdPMlByRElwdzVoakJzSnJXTmdkQVBySzNDMUFjdldxbWpPWWJKczdYd0hRVU9hb1U5cDAyd0pGZ09lTkhZUThNLXRGZG5xT09iTjhmX0E?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

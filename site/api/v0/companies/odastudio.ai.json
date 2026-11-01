@@ -1,13 +1,13 @@
 {
   "domain": "odastudio.ai",
   "name": "Oda",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 15.1,
+  "score": 14.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "One Piece Creator Oda Unveils 3 New Ancient Gods - GameRant",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84T2ZkaE50bUZod3F5T0NKRzd1Y0ZJbWhoemU3RlBsbmZwSVh3YjR5QlJ0R194U2lVTmx3MHk1S2tVTGZWYlk0a19XdGRHdWUwY0piS29WYTA4MElzbW5Xc2xqSXBZb0U4M3c?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "One Piece Creator Oda Introduces Two New God Transformations Rivaling Nika - GameRant",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0dlpHa2h0aUU4VXp6SlNRTHRNcDF6c0J2UnFrQV9zZXF5LTlBMnJGN0lzQVBRLTMzc0ZJUjVaSGhhTzFKZkJ5Qzd4OG1ZVW9tVDJydXJpVTU0VkcxZ3BwTi1FLTNLMEJPdGR4dkl4U1F1ak0?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

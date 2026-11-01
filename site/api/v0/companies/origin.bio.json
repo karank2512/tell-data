@@ -1,9 +1,9 @@
 {
   "domain": "origin.bio",
   "name": "Origin",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.7,
+  "score": 13.5,
   "contributions": [
     {
       "type": "launch",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Florida TODAY: Florida judges, early voting, Blue Origin launches - The Florida Times-Union",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUjZ0cnRsRkJ0MEh1MkIydldnd3ViaEZBLXd4S3JnTHBtcUUzRWV5N3FPbVhRU1RneThxT0NMU0FLUk9zLUdhVXdKWFB4SlFmVi11VnZwN01pOFZMb2pDdGFubzAyelRrdWxQU1EwMnIwSjlKa184dktkMU9JUmV3eV9yamk3cWp6WEd3amRlVFhrMXZkTVJwUVdZWHZHN0FVVmh5ajU5WlgyT202bzlqaGJZN0VPaU53c2F1VDlZbjJTelVFdHY3NTBjRjc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Florida judges, early voting, Blue Origin launches - Florida Today",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTVnM09yQmpKb05yTENoV3RQM295V0ZoVWUxLUpFdzFQcllQX0FhMjl3V1Rya2ZPOEMyR1ZnQW85VzlIdUFQeFJKUHdpVFFNSHBwaGNQMWNlSk92Q042bEFwYUJRcjMwbGVzNUFaQnlxbEJOeWpvU256M09lbFN3c24tUjRKa1kwNGVmcUlWbDdGRFVCYlV6bjlxY3l2bnBsY2ZueXpTamNSbWoycnZQTUhOWkVOSXNhLXJuWHJNU0U0OWtBWmZINTgtSnk?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

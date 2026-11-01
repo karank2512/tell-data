@@ -1,13 +1,13 @@
 {
   "domain": "getrileynow.com",
   "name": "Riley",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-16",
       "summary": "Hires [person]",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnZKYWZ5Q1NTRHpxMGRJTTBmWWFJSzNqX1J4b1ZmSWxQQkh2N084bERTZ3kyTnpDLUlWcWR5OEg4VmRONjBYeXdxcTVWeXMzVXg1dEpwRGtZa2ZBcnIzdUFDc2UxV1NuVzU4aW8yWXRsdzVGYUJiaE1MMmZTUU9mVklvOGRVWFYyamh6aWtNdUhXNWh1dlJBVGoxRE5sUVgwR0g0Q2dwRmNKdVk?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

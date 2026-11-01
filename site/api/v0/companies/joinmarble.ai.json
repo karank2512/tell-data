@@ -1,9 +1,9 @@
 {
   "domain": "joinmarble.ai",
   "name": "Marble",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.2,
+  "score": 9.0,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Marble Law Launches in Ohio, Offering Family Law Clients Clarity on Their Legal Path and Price Before Work Begins - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY3plUklCTjQzSUNxSkNMaGF6SHoxbmk0ODItNWxZbjhxb0trcktRZGY2RkNvWEJ1bzJvbUc0YldCR3AxYUhuR0VTV1AxZU1lUDc2Q182a3REcWlxLUFxaDJlaGdQWlZUUm5sZW53UHV1SUlibURvMzh1LTVQSU1weEtMUnI4TlctQ0hoRzZ5N0hyWk5yZVdZLUxmOFY0TXZ4bGhqVUZYX18zaUFfRUxRVWdSalc3T2dBdEdsZnVnSkZTMVJ0ai1KRWFiM29MTWk4OWg5WFFKYnRZTm1Id2tqeElPb2lRdU1pRzQyZ0xJQmRvenhWdUFUZW1vZFNWNFBtOUdNTmZPLWl0aEFKSnhEXzVyb2_SAZoCQVVfeXFMT21OX1c1TnhycHBGOEhWZVB2LWJJQU01ZGkxaVZSWEtVLW9ScHVqMUVsMHQzelNHNUZudEVqWFBsUEV2YmVKSWZjbTJydjBuMUVVYXhFem0wbjhYUTNxbWs5YXpuV2xrcnZGaTdtRUNKRWtBdUNIeXpaZUkyT01xMnRoYVBUV3JZRk5rODJhTTlOWDdfS0FERzZRM2FkbVhORVhNZnd4Q1FJbUxtN0EwYWNZa3dsR3Mya1ZXSXZkclh3RXhoazFWWWlIVnhZTUlWZUcyZ3BWNHMxbGVORVlqaktTbGcwSWt4djBYX2dfQXJNbGw4Y1dXdDVZalhyeElUOUlUT2xySDhLektrYTRnNVU0WktlNmJPWWxR?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "NYPD releases body-worn camera footage of response to Marble Hill ICE shooting - The Riverdale Press",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRlBzN0pJM2FxSmsxVUJJWWVoeDdNcUpXZWIwQjh0MjV2bVFnR2pTdWt2dktBeG5vTEM3dlVvNUFtaS1uZEhPNEVXRXN2dG56bmpGTFd2OHFyQjN6YXJ1XzBIYzJic3dia0NUQnFTQ0gtUGZTUmlJNUpCUUczaDRncHg0RXJUNzB4alpGNnhTaVhuakU0bWtxQmYzNGZLY1g1VVNtZkpzMVJEUkJnNl9MR2U1TTN3T21YN1h2dXV5cHRYZw?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "reachpower.com",
   "name": "Reach",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-28",
       "summary": "Visa Credentials Reach 5.2 Billion as Network Expands Into Agentic Commerce - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEpxNXVPSWluLUdjRUhaV193T1J2OU5wZWhiR0lRRV9vZGJOSVRmMlVUNWdONERjVVkwa3U3Rnh6VW9qTXRkSm1rTWtfcHhFUlkxaDR6bHVHa3ljRmUxNTBSbWxMYUNadExYZ0NJelNoeXJ3STM1OGxOWi1fQURDRlExcEtGZjAwSEZ6aHRaMEVSSnFxTGJ0d1JtM2l0MUQyaUxOelBaeFEwYTkwTnBFMURjSQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

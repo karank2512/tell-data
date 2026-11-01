@@ -1,9 +1,9 @@
 {
   "domain": "slash.com",
   "name": "Slash",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 11.7,
+  "score": 11.5,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Breaking News - HBO Original Documentary \"Kordell Stewart / Slash & Burn\" Debuts October 27 - The Futon Critic",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNzRIS3lTblQ2aDU0UXFlWWZubFhCLVJtYk5jaEhic2dmdWJfUzB2WnFvWlY0dHQxQ09BNlpZYVRBQnhaLW83RXFpbkZyenB3bFNCUGVRLVdoZHdUS3RWa2xxUk0tYlNfdnRULXJ0MGk4VmU1dFFYY0dGenFvOUFwbVpSRERNSW5lWTBnRmtYcXlYTWs5QXExV04xU1pJMHpQU0t4NF9DdUdWbmxia0Y2V1hFVTctUnd4Mi02bFp0WnJzckpHNUZfQThrZHpGMDNWM2I0RU0tbW8?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-17",
       "summary": "Two AI Launches, Two Different Ideas of Financial Work",
       "url": "https://www.slash.com/blog/two-ai-finance-launches"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

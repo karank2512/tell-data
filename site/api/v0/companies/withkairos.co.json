@@ -1,13 +1,13 @@
 {
   "domain": "withkairos.co",
   "name": "Kairos",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.7,
+  "score": 12.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Appoints [person] to Board of Directors, Effective 14 October 2026",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnBFcTcwMW5ZRFQtdkt4Z1JyWXNOc0pIdlM2RUtaM0xzZkVaaGFjUXBzNDR0aHd2M3R5OGt2Qk16TFpCNVFaUnMweUtfNlVvNHNNdjFIMXlmaXBHN1FtYkIta0pTY2JSSW9kZXlKemc4TGdWVUtnTDNQSjBzM2RScjFIWm1SSEVJSnhVYXRKSkJxbTl6SjBCNHB3Zk1rOEFNMVdWM2x1bHUtODBnUjFMNkRzaDYzdE1adGNYTVFsMzBjRnhvOU1pb1lraC1XZw?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Airline Fares, Rebuilt by AI: PROS Launches Kairos, a Platform for Dynamic Offers - Travelers Today",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDAySU9feEtzQlJBRGR2VURuOTRyUXByZUVHYkN3c2FwOGVhYVdWR1JYTFRNQ2l0Y1dtTVlaYm5sQjhJVWVKQ3EtaGdCOTNZeUJjTU5aS2ZZa1hjLWI5NkRmbkF4RTQ1OG5ucFRlMS12YVdOUmVOMXFtV3pVcVhSM2xSUmpUdXFaTWtGSlJfaDd3Mi1iSVRXZlc3LWV3Y2hPVFFHVzIyRDZDWUN0NFVUYzNYbGFhdlNKOVlna2dTaGRhcXRzWVd3?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "powderfi.com",
   "name": "Powder",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.4,
+  "score": 10.7,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-28",
       "summary": "Transparent Labs launches its three-source Daily Fiber powder - Stack3d",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0Rlp1UGVVZmlnWkwwUHBRbHJTR045SE11cm01ald6aUVLMFZFWElTMVhyOWVoS3F2c0JvbHVNQlRZei03ZExkNDBEaVFOOHVWWU8zVHdCSWZUMjhWNHRXaDhBVmtvSEtSZUhaanFR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Palsgaard introduces powder-based whipping emulsifier - Snack Food & Wholesale Bakery",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHhlVHNCekNVRm0xRjFTWFdjVWRvaDczb3ZRbEdNQ19GcGdaenEwZU5ha0pjeE1vaEFyOFF4TmFNUXA3dC13S2s4RGJrV2ZNbW9qbUVpYWZfcFMtUm1oZnNmRWlMQzlBZ056blg3cm5LMkR6M1VhQkI3MkttUkVCRXNpRHppSldnbS11d3IwT0xvREotMEg2V0U3NWZncHlCS1E?oc=5"
     },
     {
       "type": "launch",
@@ -49,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Forall Nutrition unveils protein water, powder - Food Business News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2ZZN3hvbTREOWdTM0ZqTmJGRWJUcW1TUHliN05sZURhOTdnQ3hSQ3c5SWxlaERZdW41UmNud2pnSVNFRDZpTlIzWlh6RnRGSGJuOHF5cVoxektRM3VWdV9FSlB1d0s4N0I0TnBUX01oX2Z2REVscFJFeExxbkVYMi1SV3VZeGdZWk1UOG5BWW5pdk1USUtTSw?oc=5"
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

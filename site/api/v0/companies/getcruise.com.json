@@ -1,9 +1,9 @@
 {
   "domain": "getcruise.com",
   "name": "Cruise",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 19.8,
+  "score": 19.5,
   "contributions": [
     {
       "type": "launch",
@@ -56,21 +56,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Carnival Cruise introduces dynamic pricing for popular onboard amenities - NBC 6 South Florida",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0lCenlqOUdOWDNRZXp1UVNIbGZnVVFfd1JxMkNOR1dXVTJnSUQyUVpOTm1PbkJBXzJ6YVFJdHpSd20xcmhSS3Z3X1gtREh2YTlIUjF6aWxZc3daS1JPWGE0NmZwSmVNanRjcGhZWDc2NVl4ZXRObVFxdFM1RVB0Y2dPdk1WQWdKamRHUjN4b1ZGejRlNTN0N3RreFhZOWxwNWZIMnhRQmVjWlJUS01zTzAzVk1Rc0HSAb8BQVVfeXFMT0pSQkx3Rk80MFBmLUxtZnFWWjhrYlR5M1ltU09scVQ4RDMzLU1CaWgxZlZ2S2JIV25LWU9PT0U3OXYwNVN6Q0lwUWh1R0xsWUd1M3pxb3dBVm4yblJuNThUMDh4ZFlWd0NaZEV3VENkcFpETGlVanZzLUhCRGNHcVJCZG9zYVIwQWdzSUVIMEZZVTM5N01idTZFOHVLZmdmd1ZWRmpNdHpiZWE2NVMxM2xCUkQ4YXBlS1ZPaklkQkU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Norwegian Cruise Line Unveils Final Prima Class Ship, Norwegian Bella - TravelPulse",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbXBpZHo5MW1tTjlzTXdFemtUTENlLUxoMWc1a3FfTWFTYVNYZjlTNHE2YUhGQWdDYmZKaG5YM0NsZVNvTkhVcU5NN1BmelJBTGw1TzdRQ2ZCTDZ2MkVLSGlFNEs4ZlZva24xMzRwY1RDRGVNQ3ViczN0X19SS3pMQlBuckE5dWptZXU0NFIxblJUMkpyQk9uU3M5WWwzSkVScmdEMXlZbVpPRUswTU1ZVl9Dbk1tV2JiVTdvNTNiMUZSNm5PNDZWUC0ycnVXSW9KMjRUMHA5UVdadlNQYWZpd2VjM2lKTGxN?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Carnival Cruise Lines Introduces Unpopular Dynamic Pricing Model - TODAY.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0ZPXzRoLUdqTWdqQjlITE85Z29JUmxic2taVEVORkVIQklDbzJNUE5JSm95NG1PQTQ2cGtxa2RCdTZDZkdWeHEwUHA2Rzg2bmQwNzRLSkFIVDROZHNZUnJCeWpDd0ozYWEtaGEtUzFQWmx3dW5IR29iMG9OWlp5clo5NTIyTUUwVEh2TFZUTlBQZi12SWJDOW5vOFZvd1ZqVUVIbmZWLVk?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

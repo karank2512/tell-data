@@ -1,9 +1,9 @@
 {
   "domain": "assemblyai.com",
   "name": "AssemblyAI",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.1,
+  "score": 6.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -31,9 +31,16 @@
       ]
     },
     {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "AssemblyAI launches Universal-3 Pro promptable speech model - Blockchain News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3RCcHZ0WTA3ZWRsYjRCQjByRmw1ZkVLUENtbE54bE5STlBBWkJNTWlRZWtaQnZjMUVyMTJQSWh1U3RMT0NJTlBpRmNqd2k5bnBxZlZ3c0FWM3ZXbzNGdVU1eUxQdzNodzdtZzVZS3VHeU1EVDNZYXJEN3JqeUlHZlN6NkFESmtRSG5XWGsyc01OUQ?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-18",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/assemblyai",
@@ -65,6 +72,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "oncactus.com",
   "name": "Cactus",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Travis Scott’s Cactus Jack x Rockstar Games x Nike Air Force 1 Low GTA 6 Pack Releases November 2026 - Sole Retriever",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1dNQUlrVEFaMXQ3QWNYRWcyTUYwLTNpNDBKSzAwelNUTFVEU25rbTNuOU9iRWx1OElYN3AxUmdDTWFLUHU1czlJWm9LLV84ZC1hR0dyLUs4Z2V1YnRXd0NyQ3FOa2EwR25iek8yQnBGa1BTal90V0NyRUt5Q1djaHI0WmZLOS1qMFlpYWNwcVBVNWVPS1BLTHlsVEFIZlo1eUprYlVHRXc4aW1nMGpZZlVkODI5ZU9oU0Mtcmx2Z212aXlOZlNYNVNJMjNaTXo4c08zaDFVUmFiZw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-24",
       "summary": "Joy Division book ‘A Cactus in a Dead Land’ launches in Macclesfield - SIDE-LINE",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40ZWprd2VNZE5XOUkyRDAtalpFR2NVa3lUc1d0MWNkSk1XaGRLeGhQdTBQeVVUSnpJcG5VdzdVYm9MYXh4YTBGNFQ2VUU3TlpuUjJmTG4xTlNCaUtTb1d2Z3B5R1FSYzc3Zm1GNS1jcExiR0Qt?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

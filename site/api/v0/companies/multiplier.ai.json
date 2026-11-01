@@ -1,9 +1,9 @@
 {
   "domain": "multiplier.ai",
   "name": "Multiplier",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Liquid I.V. unveils Hydration Multiplier Cozy Caramel Hot Chocolate blend - Drug Store News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlR5NkhNODZKdm41dGJYNzVhWk44OW1weEtyd29ub1ZhakhVR3RnQ1Y0Z24ydDhrT1NlVTB3elVBNWpoRkxzb2J1TjB5a2dNYktMb2F1a0lGLVhLUG8tTllUTWpmTXYxYjRwdXZSdEV5M1JoZGlROGw1MVlOWTVTZkYxU0duNVhxMmdkRjVaUGNoSlplSFJVdEN5YkZKZw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

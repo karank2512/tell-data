@@ -1,10 +1,38 @@
 {
   "domain": "arrowcheckout.com",
   "name": "Arrow",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 6.7,
+  "score": 12.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-31",
+      "summary": "Arrow Video Announces January Releases - Blu-ray.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLTDZudVN4UDFxbkRIVk1WNmFsR2hnS3hFbDFFc2lXRzU5WURDQ21NLUFUOUJ2ekNOV3o3aVZDOVNxbm5uOUJKLWFzdWh2Z3M?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Arrow launches managed storage services for NetApp Keystone - PCR-online.biz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2M5cVM1NmJZOEFtN3N3SnNQUmVFVUxUUUNnTFZhbUNvODBnd2JnTzRRVkQ0YUhUTTdzQndDSGhhalRPTHQ4UTZ6VHN2QjZTWXR4c1NwbWgxWXRFQ2tqM1J3ZDlWY25MTWhweF9FSWczUU9fc0E1QXl0ejdhLU5yRENzRktQNkZILUdqRUR3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Arrow Electronics introduces managed storage services for NetApp Keystone - Comms Business",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDhlN00zc1h0UFJxNDE1Y0laMFM2UHpLUF9JeFdkSUtFOWpfM25sd2xCUmF3N2NkSEhoTWwwVnRwODJxT3BncjZuby1OakpVdG93RWVIZEl5NXpCc1BQcmF3bnBuMzRnVXA2emJFV1RoVWwzNDdscGs3bmUzaVNuQUE3TUNDc2RnTi12TGJWVm5FZUprRVRnbVdobVVobHk1c01TZ0N2S25GTnBPMTJ2MW1DWnRKcjgzZUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Arrow Electronics introduces managed storage services for NetApp Keystone to help accelerate Storage-as-a-Service adoption - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRElPeF8yM213VXpwUVlJNm54RnVmb3BIRGtMc2lLWWFKSmRpN3hEY0ZXUlpEbGN0X1JOekJQblI5VlgxaFVBcF9rcXJpS2JEZmRxdHd6Y2pIQ3lTcnZJQ2w2aUtXakI3VzR6cC1RYkNBZzdYTG9HRzhZcHZ0eGpkczJEOF93RHFOck90cl94Tkxfc2tuUi1UTUhrWk9zc1VSeThwTzBSVmY?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -48,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "quill.co",
   "name": "Quill",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.6,
+  "score": 2.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "University unveils tribute to Tim Quill - The Southern News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXVSRUw0d3dwSHZQZTlOS3QxeHJSMFpaVkJyQktrUVdoTVp6Y1I5QVp2X2lJS21XczR6MXQ4eXNENW10TU1jUVNWSXV0SC0zN3JHZ1JEcXdTVFctV3hZYmhEeHRidTdiT0lIeHBDWTBnYVY0c3NpS2FLek9pYWpmQ1FmdjZQdw?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

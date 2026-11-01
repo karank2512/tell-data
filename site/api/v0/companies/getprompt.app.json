@@ -1,9 +1,9 @@
 {
   "domain": "getprompt.app",
   "name": "Prompt",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "PromptHelp launches free AI prompt and workflow directory - Lohud",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYllBSUxKXzVueTJwclZlblE2aTktQ19RWEl1ZkYtcUhma1NBLUJVc3lTZjJ3UkV2bUFXNzRsX1FFMXU0MnFaSDZPV0RQQU9EMUs0T25fM18tQm1pT0dqaUNEbW0tNXVTcmgxR3RIeWFuRXBuTW9hbGRSc18wdDl2Yk9NRkszN0Z1ZnM2Ulk4Tk9ZMDdDVE5IQmJORklxUnB5VzBKVEljU3pTd1U?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,7 +1,7 @@
 {
   "domain": "eightsleep.com",
   "name": "Eight Sleep",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
   "score": 4.3,
   "contributions": [
@@ -27,13 +27,13 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3JhUEJlWm9hNV9nWnpURHVrMmw2Nm9ZZU54NGtrd3VXUVlSRzRkcUc4cF9YbVRGVXRJRURmdF9CMmdDWm5XeFlrY3lfSXlFcXVuTTRSZjNWbTc5RnZnQlhNeWx3QmpmcUY4Qm9FZ1NWQWtlUVp1Ym1YUUdaNFdnR1A4MkFoOVhYTU54Si1tWGk3OV82NFREWVBSeXBuQQ?oc=5"
     }
   ],
-  "open_postings": 40,
+  "open_postings": 35,
   "long_open_roles": 17,
   "sources": {
     "ats": "ashby:eightsleep",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

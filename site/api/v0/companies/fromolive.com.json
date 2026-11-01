@@ -1,13 +1,20 @@
 {
   "domain": "fromolive.com",
   "name": "Olive",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.4,
+  "score": 3.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Sun City Banner Olive Branch releases menu - yourvalley.net",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGJrVktteF9oWFlCU2tpVHhOWFVMVzVObDNRYXBqQVBkQlFWX0t2VUpicFRndTVGeWNyRmZNOWJJZmNZTjR4MHJVSXRMOHRIclJpNVNDdlcyTGNXeVJta1pMTGRKbDdxM2tSMV9uQlplTVVPSkJfVV9oVmZWaThWNlY4dWt2SVJoQ0hTeWhHSklING9vN3ByYWpIUXFWRVVIZ3ZF?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "Sun City Banner Olive Branch releases menu - www.yourvalley.net",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVVYbEtHck1RVGdCaHFhTVM5UlY0cGNrRWpDMjlPVjZHa1JLMEJyNF85dFhHQ3h2OTl5ZkN1MHNUYnRkTGw4Yzk5eFRKZXhnakhCU1NxWWZNc3JaME04Nkp6ZGw0RDFrQ2ZlYmd0M21nRnZGRkszVEM5Z1I1RFN6RU93VENmVUc1a0NMNHg0dThGSFdvZjE5TEJmdTU1VHJ4bkhhR0IzbHA?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "shopgarage.com",
   "name": "Garage",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Protocol Home Services Releases 5-Point Guide to Epoxy Garage Floor Cost and Installation for Central Florida Homeowners - Kitsap Sun",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdTZaZ0ROOVJGb3dZY0RTeHV4eXdlRHFDWERmZzJSZkZYb2hIWlJHMTJvMHJfYVFKNG56dzA1Ukp1OHFVUWg1cm5CWmZHOWV6c3VyVnZZVGdkMGhNRERGblExWUE1azlHcVc2dWxiWlFCNUhFWlI2ZHotQ2N2U19ndzFpUTd4akxDYl9fX0U2aUhBSlVobld1UVNoQlFQZm00cnB4M1NlTW9zaTIyRnN3VkZNb2JLb2xkenVXX1hsbGlCME5naHVqbXEtRnlaQ0V0RnhCbHZhaVVUYl9qNURSYWl2bjJ5WUlJV1RqWkJCMmpHcmVJVTVnd3NpT1JaaTNuNjA5Yw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "onmarker.com",
   "name": "Marker",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 18.0,
+  "score": 17.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Lynbrook Public Library unveils historical marker on 97th anniversary - Herald Community Newspapers",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnUyZnF3S0F1VTlYRzdwT2xpRm1USFB5d3ZXS0xVVHFSYWVnR2s1dVh3ZUsxdkZOZFhJTEVFOGQ4U0JhNGtkOTl2MG55X1RHeHo3VjA2bXVJZ2JJdTdka2lJTDVRcnpOVG5lempBOFRad2ZUeVNQMDl3djFzUnNDeFlRN2xnTmJ3c2hmdUltRFRaRnFsb3FER3pCclNzZDVXM0lHTDBjX0dIUQ?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "‘Governors’ Park’ debuts on S-curve; planned state marker tardy - The North Platte Telegraph",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlQ4YzJPNFhqbFlVSThSNUZyNHhIOHJSRW5QanBrdnQzbDVnQVlrczg4NzZOYmN0WXBodG83SXNPM2RVR3RGZEp3Q25LN2lHVmo5RHN6NTlmRW1DRGdDOHRqSWJHc1Y2Qm05eFNpTnlfRzE1ZThfbTFiY09VR2NZOTFxV01oR3JNMFE?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

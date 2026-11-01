@@ -1,9 +1,9 @@
 {
   "domain": "aercompliance.com",
   "name": "Aer",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.8,
+  "score": 13.6,
   "contributions": [
     {
       "type": "launch",
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Aer Lingus launches flash sale with huge discounts on flights to US - but you need to be quick - Irish Mirror",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWJJTmZIM1VseE9GS3NLRjlMQXRvcVJUT0RMcnlINzg1MkZhaFlqVzI1UVE0Uy1ENHVsMGp2ZDlMakI3Nk1lYnc4b2R1NC1sd243WGN3bG9FbUZBb3BkeDhGRmd2NkpLYkMyckczT190emhUaGtER1Rud1Q4ajM1VVp0M1daSmJlNmfSAY8BQVVfeXFMTUt6SDVFM1o4MDd1UUN2R0k1OF9GLXpBblJmcjBnbjB3T2VHMnBPaHdVMFRKbTJPNVZJUnJLMk1aalZfbUtJZm9sRjV1dHBPQ1FYRmEtRldESGxOMDU5UVhnUWVsbi1zcm1zclNPUUY2SE9aQXZVLTE5ME9OdklWSzdVX0QwTEVLN1dKLXVsMFk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Aer Lingus launches flash sale with €100 off US flights - but you have to act fast - RSVP Live",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWFoVXMyaF9MNEdUbVdtV0hTY0Z2MzlpLUR4UExnNGdudHh1QW05Qmd4Q3dNUG9TU1VBRV9zV0tHZTlsYWhJWnI3aW1UUlhYOGNHWmdqODA2dm1paWE0WUF4eWtORkZsZklfSTE0alpJLXd4Rm9wZjR3N2hyQ25lLdIBhgFBVV95cUxOeEVZaUpFNDlJZUNiRnFkRXFXQkFVWmZ2VmFDaDlocG92MDRrVXBjdTVtQlFsOEJHQjJXN3NQWS1RUWI0RmxLRlpQd0VDTlpWVm9oR1VSSnpFTzJzQXdUSTk1NGJpcE91aVFCdGVIRzBSc1VrbkkxVkszcmVsckVqWFFHVHZEUQ?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

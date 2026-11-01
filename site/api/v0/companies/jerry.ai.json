@@ -1,16 +1,23 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 8.9,
+  "score": 10.2,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-25",
       "summary": "[person] Joins Jerry Harvey Audio As Director Of Sales",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnVOazBqanFSOG5sb0x1Y0lzU1J5X3FQa01jMEx0di1naGZyRVdiWDFIY01WeTRPODVMRUtiUWtJTXNxWEhqRGRqcUZDUDhseUhQMnlPS1dOajhWZnlodi1qNF84TU9jcXh1amxpWGtBamQzVXVreG5tcWdmTW5vNXNnWWhhNGFsN2lwWUxaMEZlcjk3S040?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Jerry Seinfeld Unveils His Top 4 ‘Seinfeld’ Episodes & Fans Are Divided - TV Insider",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTB4OUkyVHdRbm9uZlVhb3pvV0JjejRwcktMUVRLcGEzcmhkcGItcUhhT1VXalFNSllxQXVpMTRzNzVKNnBJWmF1Y00waHVkQ1NRSC1aaXlXOWVES0NkUEgyeC1aQlVGbkloTEFiX05EVGV2R1d1OFhFcHBoZmVsTzROUGlhekQ3UGpmaGpVREo?oc=5"
     },
     {
       "type": "launch",
@@ -83,13 +90,13 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 38,
+  "open_postings": 37,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

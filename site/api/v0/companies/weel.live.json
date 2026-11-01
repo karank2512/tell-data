@@ -1,13 +1,13 @@
 {
   "domain": "weel.live",
   "name": "Weel",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 1.7,
+  "score": 1.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "Data Applications: Group company [person] joins the Hybrid AI Promotion Committee led by Japan HP as a steering member",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHc4M3JCblBXeEVzWDlwa29VeFJFUkJTN0lmVmZEX0pBSkdMY3UzZDhxUFVYVWhEOTRqWlEzOGFGN1hzVE0tRG51NUJzMWxraWpNMXF3VGVpMHVuaE5jVnk0bzV1cktzZEQ4UmoyOWtzQmpqb25BcEtuczJBRnNhV1JhSi1saFVwZnVrSVhtOVQ4bVlMZU1BSnozcTBLcHo5NjFNSU1fdmtmSkVzanJr?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

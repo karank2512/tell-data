@@ -1,9 +1,9 @@
 {
   "domain": "getmeadow.com",
   "name": "Meadow",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.4,
+  "score": 3.3,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "East Meadow library events celebrate local authors, acclaimed novels and upcoming releases - Herald Community Newspapers",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbVpFdUptcVJFTmhBQWtVVHBOVXE2ZFdLY2l6QUNuellWVkdoeExCdi1vUDhfcjd2aFNzY2VLTG9oWEk0bGFXRWE0VGhRSGxRNVlJOFlfUnU3eVIybEUyZ3EyOTJYTXFVMTlCc1VXVVZUY3lXS3BNS3Q4Qnlpcjl2azRRcVJCaGlqQUtFN3R2TERQZDV0aWEwQjFjQWdDV09ud0dYc0FNcGxvWGJsd0RXU2VRM2gzdFZTUlVlMTA2ci1wc1c5M2R5cDIyZ000SGlWRm9aWF9Vcw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

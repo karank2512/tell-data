@@ -1,9 +1,9 @@
 {
   "domain": "clear.in",
   "name": "Clear",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 8.8,
+  "score": 8.7,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-10",
       "summary": "Famed West Palm Beach Developer Launches His Latest Luxury Offering on Clear Lake - Realtor.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWlSV1prNk1IUTY3LVNEcDFaTG8wOGNJV2YxQUdBdUFlZ3haMnNCYWFhM0xENVZ0NUhTOEZJY21DbFh1OWpid0Z5ZGtObjdtVF9QdXF6b05zY29HNWJXdnhWSk0wdDFna1V1YWgxeV92V2I0cUNyMDFvZzhGUFI5dFJFVmpYc1F1TE96UXlXU3gtYXhyeHVVXw?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

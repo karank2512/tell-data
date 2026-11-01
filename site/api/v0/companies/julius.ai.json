@@ -1,13 +1,13 @@
 {
   "domain": "julius.ai",
   "name": "Julius",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.8,
+  "score": 14.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "Julius Baer names [person] as new Chief Human Resources Officer",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXpPcmpVWVBoRGE1MG5iNWQ0ejNtUGhNUUFaWHpRamVWRmtXd3BIZlhQYVlvM01pTzd4bFRyVkNFczZ1R2UySlRWNGZzalYwLS01Nkk3aEF2N21CZXZTNHYtazJVX0Rtc0I4eGstSzZHcWhjUWtZVVhIZm1qMTduZERDTWFONUF1QzRraGp6WFBNakJsbjlFVWZkQ1RJbzEwNWd5eWxxWXBZanhYWV9UTy1jdHhOYUhtclRVcFVpWExaM3FYQ2RJZDVaUHpkaTlVVHllUVRjdFF3STRrQnJRa3Fjc1YxUQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

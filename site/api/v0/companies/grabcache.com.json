@@ -1,9 +1,9 @@
 {
   "domain": "grabcache.com",
   "name": "Cache",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.6,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Tensormesh Launches Tensormesh Platform to Cut LLM Inference Costs by Reusing KV Cache at Enterprise Scale - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmNrU1ItaFlBcUNfdzJvbTJDVGMxRFZHcGZXSFlKZ0Ewbmw4QmJ3UE9xS0pUYjRYamxlVjdzMjhYOFoyZ3pKemFjampPeXVOTkhOUmdDckdkUWpjWnpxeUpvQkFvenBYc1JzMTBiN1IyTkxMVzFPaDMyMy1ScGU4U1JtTjk5RnFQeXBQdmZva2E0Rk04a2tfRkEtdlV4dnY3RGF0TVhDRU80azQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

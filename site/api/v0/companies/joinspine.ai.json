@@ -1,10 +1,24 @@
 {
   "domain": "joinspine.ai",
   "name": "Spine",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 8.1,
+  "score": 10.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures & Three-Picture Horror Slate Read more below. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOW9lYV9fa3lXNTBCTnZDZzczX1pOeS1mS3c2TF84VDVpVktVaVNhLU5ibnlqRUxINXRmeXFCbTBSbkNuOE5SM1c0U3h4NkdueVRzLUNBbGFBZHhEYXlKR1JIRlRKYjVWemkxQ3p3QVJ3cjdyeFNRVWJKZk1oVzFRX3VCZEMzeDY3dkZfYzFWZmFsdlZtVVoyS0d3Q21fbzE2c0VOM3NzVk5WTjhUdnFzN3ZzcERZM0hJdU5Edjgydjk3aXhoMFRWT1N3Z3JNb2k5SXdhUw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures & Inaugural Horror Slate - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTWoxMi1vV2hQR3hPc3NMOVlrV0ZfejJiSlBFeFhpQXBUc2xrUkZrdmxXcU9fVFZ6ZXdwb0xUcjR4ZFJlRGNVOWgtcHNxeHJFbGl0MWpWV3VOSHZkbDhEaUw1M2tEeldOUktGLW8wLXhmZG5seTAxX3ptU1ZsY2RkSnFWTUlyMGJuOWNOV2x2bGpCT1l3aEQ4Tg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "Spine Coffee Club LLC Launches Nationwide With Freshly Roasted Single Origin Coffees and Curated Gift Sets - Times Argus",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdlVDRUFCSFQzU0JCN0V4S1B6akpnZzdSUUJTOWo5SlNBR3hDRDBGRkFEUjZSdzh4MURfWjdMVGZlZkEwaHg3bFY5XzVsR2JHSHNFZnpyT3A1eloxc1FTQUhiemxOR1FGX0dfeXhzNzNtNE92UVlsdE80djFiZy1SeXdVdVNNYWdYUlIxS1BGM0hvR1F0WTZMY1psT2VCSUtCeThFX1ZTVzNoSXZiZHJNVUJyd1pYNGdtZXRHSEQ4ZjZ2RnB3V0E2bGpUa0RmdlVpVDFDWVhNR2QyOW12R0NQX2xJNm5hMWxrdVYwT3U3MFNjWVd2bVplZVFoejlhalVYeVRHLWdLZi1EX0FZWWVBZExSMllORWVfa1BFaEJELTBrLWFRVTVVOXBkbm00M1dPMmo4?oc=5"
@@ -49,7 +63,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-18",
       "summary": "Silver spine/pain managment practice opens office in Paris - theparisnews.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMlR4ZnhyTjdSWVRHQ0hCalhtdUUtYjZjemZNb1dKZl94aUVLV2pSczVPLW9RMFhfamJWNm5CYnh3dzBhQlJDMHNocGxuUmRyUExJbDZhNUQya09HWnNPNWwwUldxeWU2LUVqeU1wZTIwUVgyMnM5d0tlMnZ6UHI4ZU9EbGdLYnRkdDhyWXdxeXFFUklnSzhMWGVsUE81UEpCOW80emdXX2JOclBkNldMU0JGQVF4QlU5QmYxNFhVaFhwUjRPNDdCWHd2R1ZFQjFXdHlxcg?oc=5"
@@ -62,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

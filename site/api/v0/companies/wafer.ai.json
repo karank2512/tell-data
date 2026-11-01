@@ -1,13 +1,13 @@
 {
   "domain": "wafer.ai",
   "name": "Wafer",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "PI Introduces A-323 Air Bearing Scanner, Built in the USA for High-Throughput Wafer Metrology - AZoNano",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Td0JHSDhZd1kwZWkyOFJoTnNNclNzajNZcjRBU2dRNVRqVHZBSm9tWXJQT1VSS2dZT2tpMlhzTldMNHRSWUNpOGhfNExDRE1qNkJBZ3VVcmNKdw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,34 +1,34 @@
 {
   "domain": "echothat.ai",
   "name": "Echo",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 46.6,
+  "score": 51.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.2,
+      "contribution": 11.1,
       "occurred_at": "2026-10-09",
       "summary": "Form D: $2,132 offering, $2,132 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1773838/000106299326005252/"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "Echo Lake Entertainment Promotes [person] & [person] To Partner",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPUUZfZzJLZy1OUUlLNmdJa19Ndkh2Szk5RklrVWJPWVFsdFlqVE1QU1JqTFdTaUJIZnNWZTJtQWxlQlRmVDNuNm9Mekt5VkxmT0Fqb1Y3bjZNUWVXb0w1bW1ab0Y?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-19",
       "summary": "Echo Lake Entertainment Promotes [person] & [person] To Partner",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJYTV0ek4taUxmYUd4LVcwSFVBc2xQWE45T2FfcFVJdDJvbC1YY1Zra2FtN3loV2NMREZ5a2dEMlhFb2lnNlJVV19QZjN3LUgzWXJNeWJwcGg3d2xpeEJpck5leEI0UjA?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-19",
       "summary": "Echo Lake Entertainment Promotes [person] & [person] To Partner",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFozQnpOMjk0Vk4yaEhtUjBGakl0X1NTWjVlb1lYcUVOb0xSR1JUbUlMQW9jclpYTV90V18ydnRQeUFpaWQ5M1pUT1BZSTRteHJfXzI5Vzc0dVJCNHdISGtUQ0ppWEl0azdLUlE4SXlrZFJ4R0ctc2NqTW5SdUNDQXVmMA?oc=5"
@@ -36,9 +36,30 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Echo Farms unveils Robin Hood-themed corn maze for Halloween - WBIR",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORHVIWlA1b2g3RGYzYjFwMEs5bGN6dTR6RnNQRVdkUXdYYzZVTEdocXZYcmE2Ung4M0FyWFhkNkJGeC1nVTVSZEI2ek9WcVZJRkxOU0wzZ1VYc3A1dDV5ZlVNSEZlX1A2ZnVodm01NFRCVGFWMnBtaXhna3lLOUl6M2ZjdElfRXBqQVBvSWZoa0ZDOG5FTExDS2lheldIbExnSXhycjRHT25hVGZlNm9wZ29VVFZKcmpsU3dNaTJtNnJPSU1WR0ZjWUYtWTQ1N2U1SXR4bk14Q3k5aUQwY1l6MDF3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Amazon launches the Echo Show 16, Echo Time, Alexa Photo Frame, and new Echo speakers - GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOenlNVFQwakRzRk9URmJzTl9rZlI2RjlaUDNSNmI0M3g3QnZuNFJsVTRSX2NvSjlDS1BjV2tkZnFqVE0wVVpVVW52ZDlCQWRSMG9sNWVLY3BSdGZ6N0ZvTjR6N2w3U21DanZlZUdGYjBqN2gxYXZza1dnakV4S1BvOG9UYzdWRURrMkdQSWVQYlVmTE1TQjhQWkpxUHByRVZXc1RiZWJxY0tqVGRud3hCdVVSelNnMjNkMWRNaEUtaw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Amazon Unveils Echo Show 16, Alexa Photo Frame and Three More Alexa Devices - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTWM4QVZGQXN2Tm15S3d4UlZoaVIxM1dNYy1FRWtXa2t2Z0hBaEdyY3pya3hEZlhPVHljM2pXWV8ybEl1N05FdGVyU2QwU0FYZTlTWEwwUVBBcktIOGNsREF4bjJWQkcwQkk3V2JDbm5fcnBCVnI3dzJfdW9Sd2hfdE9JMEwwQlVIOGhIVTdTcw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Amazon launches its \"most capable Echo Dot\" alongside the camera-toting Echo Studio smart speaker - What Hi-Fi?",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEtfTkEyeU1FQmR0U2VPZTN3NnBVTHpnWXZDam9GQ3JOb0Iyb3IyR09NdW8wUWlSTzVvM0c0enpxcjhYMF9PTHd4a3R3NGhuVnRTNG5TVE92elgtZXoxOG96dEpsX2s4eDViUGN0Y3NSTTVUazlLbEdQdkVWbUxVR05OejVsRkstdFVBX2ZYa1paeGtLZ2FQalhEZ2xkR2hHOGN1OWpTQjkySmtTU3F6LUU0TzlQMG1SaTJfb0VCdzFxQnVELVhFUTlZNTJOMmtUcnkxZWw1ai0xUGxCQzZ3Wg?oc=5"
     },
     {
       "type": "launch",
@@ -88,6 +109,13 @@
       "occurred_at": "2026-10-28",
       "summary": "Amazon introduces Echo Time, a smarter way to start and end your day - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUY05RUy1mRmo3WVcyMmp1VDVMQ0NWei1WczhDTzUyZzR3czhudWU4OGV3UUstY3c2OFdjaVJlM0J4VUtid1VnSnVNbmF6YkMxcGV5VFE1WDhhaFBHeXRINDR0d1R2dTlOTTlsUmY3cl9FLTJpbnpJ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Amazon unveils new lineup of Alexa devices including redesigned Echo Show - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWNGZUlvRHlNNjBxNE5PR2Z4OWxPS2E1ZWtJZTFFRFJTUS0wcmxMM3JOTVFVMTNpTXNBd1ljbGYydC04T042aFJkbzlpQWMxXzhkVXRycFhXUzBrNWZJM2JHX2NKeVBBUi1FTW40STdzWGNjdTk4VnZTZmUyajVxYlJ3X0dNS0JzLXhDMDFMdmpxSm9YUVhTZ2I2eDBCTE01clVCa2xKTXY3NlY1MlJtd2VDbFh4R2xm?oc=5"
     },
     {
       "type": "launch",
@@ -175,7 +203,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "You Have Minutes to Live: Introducing Echo Weaver - XBOX Wire",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1ZwTGFITGlLMjdOazlaa0dUZE5FOXdZcEkxWHg1SVdXOVNTSTVreGJkdGFpYlozamF5VnEzWkpYYWNfaG52V3BUVE02d3RuZ1NUTy1fRFB3RzlLQ0hmV0hVaXU0azN0bDFWZ3BDZEg4ZmhYa3l4YUhBbjlPUWx2SGZSVnNuaXlmeVMydVI1Yk9Td9IBlwFBVV95cUxQUUVVaUR4cWVlRmlwdWJRUHU0ZjNoUnlMVzRtbkZmNVBXbEdDd3RzWm1sSEwxZzA5ZEpDdFRROXFvU19rRW1obTlrdTVrYjRwa01hR3BhNlVhRGJ1Mk5BcENra01mUURNTW1ONEpwc0VoeWd6MTdGbUVfNHFxQ3ZaZWRxU1JxSkptVkxLUGlNX2d1T2h3NlZJ?oc=5"
@@ -195,6 +223,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

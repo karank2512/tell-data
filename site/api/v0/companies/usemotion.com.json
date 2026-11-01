@@ -1,13 +1,13 @@
 {
   "domain": "usemotion.com",
   "name": "Motion",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.6,
+  "score": 10.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "LA City Council introduces motion to create community crosswalk painting program - NBC Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1VZQWFtbG1MbzZCLVA2Vm05eUZPRDNuckJqeHM1V0VkTTVldW10bzVxOWg0RExlbzlxdjdLWHdiSU92WlQyaDc3MjJibWcxUU1vUG5INWNqZF9GWTRmS05IbU5nVWdtT0RJTkp1WkJJTDdrQUhzd2xBQXpiMGhFMUd1d0FYZWV4VU9FRFZSUXZYUEF1R2VCdzhEQl9FY1RJUDAxX2tXQkFPQVJM0gG0AUFVX3lxTE5oYUNMeERxeXNkT28yUlBjbGVvY0hON0ljMUJIYkU3aV9wNk8wUDZyY09mVzYxRzM2UmhxVTh1YzczVlFVNlppS005YjFGLXlBMHlrYy15STRKclAwMjZhZ0JEaVgySkZvdk50NWRjdXd6eU9WLTExc0F1OXQtX2F2ZEN0dzhNZ051UXZFUnhDZmhIcHh1TVE4dDFVdU9mYWtSeHNTd0Z1cVY2NkhDeUFoODBKSA?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Claude launches Dashboards and Motion in beta - TestingCatalog AI News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMGxDdE9zNUhyYnVTWjFISXI5TjdEUUw1REpSV1M4QjRycGsxRFByclJNV3pZczV2ZE9oOXVYTjRGbzA2ZzFXZVNkZjdJbVBVNXI1N20tMHlEOFNpS1N3MHBPck5rVmdJOEZuNFdjcGRiVm9BOW1tZVpIUmxNYnVPM3ZLWQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

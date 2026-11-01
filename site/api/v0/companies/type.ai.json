@@ -1,10 +1,24 @@
 {
   "domain": "type.ai",
   "name": "Type",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.7,
+  "score": 15.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "China launches GJ-21 drone from first Type 076 warship Sichuan: state media - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTG1FMTlxT2twdHk0WEVRcWhEUFpGbHFmZ0dsOGxLcDRqZ1dKMlVtaUM3b2xDNWJyQkJkdU9HS2Z3U2VoN3ZabEw2aUhMNHU2VWNXcGNJRWpEYUVfZ3FlMzFBYmlhbmNkajlYeFlPaWZOc0Vob1Y2TDIxNDNBT183dUxYUHVueExHMF9RSkxCdkE0WFBQRXRQdDAzTENZLTRtVnp0MS1UTTExbXFKaUxkcHdXUm9UVTdpN2x0ZEZiNndrcmFjYWt4SHI3VTVRUUXSAc8BQVVfeXFMTXRPRmJpOTQtOTNCRWlGSlJ2WUZzQkJUbXJSYTlTQ2NxeE91NWpjTkZReEtpeUFrU1VNUkFRcDRWZFl1bGp4V0t5NFp3TW80bDlMMEhRRGFHX2FyN2tlc0VXTnpKd2JYQU1qZjNIczJRd3MyTG5KZThxRWM1UXVVaVl0YWNibFVDMllsdnJsbVpRSHA4XzJOcFlhbGlRQW5nN1NkalBqNEU3U0wtZk9JcnUzSmF5cG80NXVTbGQydTZ3ZjRrSl9nN1FDeGpDYkNz?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Neuralink Unveils 'Telepathy': Think-to-Type Brain Interface Goes Public - BASENOR - Tesla Accessories",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHJsbEg3c212ckZQT2tYSVAtd0h1dVNIb0haTVJ1blZCR0FsbG05S3dST1Uxc0RDdDRPWUpKXzBTYmFsbTQtZ0lDR2pnRVNteUtMMy1aU1dIbWwtWWdwZHZVX3NkQVhVRXNoaEQzZk5kV0FKR0lvZkhjbFNxTmg1Ql8zTXA2UXFsM1c1TV9nanJhdWVQT3oxd3ZmMGlmZFYyekpmTUI1MA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-26",
       "summary": "Cyngn Completes Inaugural SOC 2 Type II Examination with Zero Exceptions, Launches Enterprise Trust Center - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVkZXWFdYMDdqNEN1Ym5ENVpfNzBIS0k2UW0yRmR3Q2tPd1JER28zbWprTDZ0cm5YQ0NlZlhXS0JoV2xXTXVSVXlldmtYNU84ZHVKMmZxd09KR2Q2T3BKcmFhWld5SXkwS05pY0xlNV9fQ3J1WFZ2UGdXYmQ5ZFRZY3FNWl9TSllRR2ZTVVZic1pPVXZIc25vRWdlYWMzZzZoNmRoYWZLaTA2dDhGdUhiY01JWTYtMnJnVmc4bmw3R0xDUDE5ekt2dERhWjM5c042dThFQmNuc3l2WVhZYWVBMGZPZWl3azFRelFESmtvY0Z6UVFYMjFvU2l3?oc=5"
@@ -35,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "P&WC Unveils PT9 Engine with Type Certification in Hand - Aviation International News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVThRa1RnVFBhLVpPbXF1bW9NUnJBN1VlSGd5UW4xVm5LT09ZRHhxXzBlWTZRal8zRjVVeWo4aVN2U1NuSGcyeHRtaC1QV2gtNi01eWFjd2xlcE95N3Z3WTJ3TVVBY0FjcG8tb1hWYjI1TjZUNnBUcHYtSkNobXhQQlhuQkoxVTllVWhUUmlyTHY0WHhCQ1RnQVhQUnctNHNVM0JjMVpHN3ctQQ?oc=5"
@@ -83,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

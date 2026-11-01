@@ -1,10 +1,17 @@
 {
   "domain": "genius.com",
   "name": "Genius",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.9,
+  "score": 12.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Genius: Introduces revenue-funded GENIUS buybacks and burns - 31 Oct 2026 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1BmQmlqYlM5Y0FhTERTcnRCVHY0WmVBOGV6SVZfbjlUM09FVmV0VjVlVGJobXFhaWswb295d1A5SVNvcXVtQjVXc2VLQnB3dE1yNzR1aDFoVUlFNHMzUDhIakhsa21pZ1daal8xRVY1Y1RVM3RhYXJUQzZkTEEyUXBWbXMwV1RGemJDUGw4dG93YVV3ckJ2NS10bDRaeXBFSVdfX3kyR0F1ZlBtSVprUlN2a0NqQ0JQM3RRMHZSdFE1MVZtLXlFekhjdjlWcUk?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act - The Block",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ1JRTmRxc1MxMHA3a1FkbXhXVnFIQTBPbFlaYlpMVzJ1bTJhS1VXbGctVTdGTkVJTlNxUDUtUUd2VGdlR3dESzB4LU9CWFk0b2NKdkZqVFlLM3NyX2k2d0RuZERZc2hjZU8yWkFLZTdLVENOc2pwZ2FwSjRDNDE2RlhpT2xwRVZGZi1VUVl1WHE0LURaeXM1OVp3aTJvMmFhVGJKNGo2TWRvOWtTWmc?oc=5"
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "Steno Launches Litigation Genius + Product Walk Through - Artificial Lawyer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQUp6T0dBTmQwZVlzQWpxbFNUWHY1bnNIbVk3TU9iNG94X1FkaTU1bHlxekc4OVpyZE1mSjNZb0R6dFlxeGNVdFUyeHl5Y3U2RFhCbzhnNVk0V1J3YlFMVDZTRFhPblNBSy1LTVgzYzc5SWYydUlpZ0JsSE8xaUxVX2ZCRGZHaF9zMEVhYWdZbkhYYnZ6MnE4Y1oxcmZMRDg?oc=5"
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

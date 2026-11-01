@@ -1,13 +1,13 @@
 {
   "domain": "doe.so",
   "name": "Doe",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.7,
+  "score": 7.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "DOE releases 35 Genesis Mission skills for AI coding agents - R&D World",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3U2d2VTc2tCXzhuZmVraXJ2SDd5X1pCcE9tckRNdnk0MGdpcHlfU0ZHSGFqWTNaZ3dUbjhTeURrdUVFb0paeE16S2JSTnNyalQ2MHFkNzJ2RU9oc2FXa0hpd2d1d3RmdHRwV0ppZjdRT3ZXX25oeDc2eGlpNnl2QXM5enNYVjVrSXlYbk1DNWZ6eGQ5QVZNdmkwRzJIaG1lZnAzTEU3RGh5UzY1dmw5Z05nYw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

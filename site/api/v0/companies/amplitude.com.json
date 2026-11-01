@@ -1,14 +1,14 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 16.7,
+  "score": 16.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.7,
+      "contribution": 3.6,
       "occurred_at": "2026-10-28",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/amplitude",
@@ -58,7 +58,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude Appoints [person] Founder Vijaye Raji To Board Of Directors",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3lTWkpIZWM1cDBCZHJZWFcxelhQTHhIQU9Bak03LU9KTllzUTFUY0Y0TmRjcC1JVS1OWnZ6X2tQaFdkelFwUDBaYV90QmJuS1JxeE5mUFBPNXkxZnVpaWtfcDlZNXFhSGdSalI5MFpkdkFxTGRtOE96eVA2QzE1cE8zSVBtdXFVaEhFa0lKNk9zVEVhWk9xUmtEcU1nZVctcVpzOHpzbkpSZk9QemROenFDNWFFRWNVSm5fY2N4X3h4UW5raTItWDZkZDdLalJIaTZzSA?oc=5"
@@ -99,13 +99,13 @@
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 48,
+  "open_postings": 47,
   "long_open_roles": 7,
   "sources": {
     "ats": "ashby:amplitude",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

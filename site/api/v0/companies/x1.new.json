@@ -1,9 +1,9 @@
 {
   "domain": "x1.new",
   "name": "x1",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.2,
+  "score": 15.3,
   "contributions": [
     {
       "type": "launch",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-26",
       "summary": "Xpanner Launches X1 Piling R6, Bringing One-Touch Automated Pile Driving to Solar and BESS Construction - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeVJEaGtybnF2LURhZF9kTzVuMmNXRjh6akQ1Snd2SVB0Y0tUdEVBQ01YUnNmVmdNM3JVblVuS2V1UlBoWHF4OFR5cXBfWnhackwzbFpyR0xmRE44LW9aX2ZJTS0tN2hvZzZ5b3R6SmtaanV4d2hMdVlmQ3NQWnE4Ukx3cjI0OHphZ3gtRmtUUXQxNnVOYlRQTThRTy1uQ3o5QlMtdjZHbHFxdmpmSmp2d1p5RkxONmhibzdUMWJRaE9UbFZJeDVkMUpuQjNVTGFZYmFZZ1Y2dTNzazQ3QWVjZTFRdWxRSkZuQ1VyS1hkNnlxcU96dER0QjYxVmQ3aVhSMEpFcQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-26",
+      "summary": "Gundam MOBILE SUIT ENSEMBLE x Hololive Vol. 1 Debuts RX-78-2 and Crossbone Gundam X1 Collab Colors - 玩具人 TOY PEOPLE",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FblNHWjkzbzR6Q0JwdEt2U25fVDNmZ3pzcWlYYlhmTHRFeUFKVGtYS3JYNERuYUphSDNHR1E1NWNUTDRWajZRUGZWTXFIQzhh?oc=5"
     },
     {
       "type": "launch",
@@ -42,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "ToolDance X1 Desktop CNC Mill With 9-Tool Changer Launches on Kickstarter From $2,999 - Geeky Gadgets",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3lMdlZlTVFvQUtZWDMyODNSdjVlM0NPMGdrRVlkSmlhYUdZMlBOTFAzUHZNcC1Wcm9EOUJnY1RrVzhLMDdIRHRYODN4b3l5SUdkRlpRdmNDdnZjUHFQVXNpWURrVnBPT28tTWdyekFhdEV6RU5Nb1lySW9uZmh5d3R1d1VuLXhYSnlfcA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Lee Han-gyeol, from X1 to BAE173… His solo career shines after four re-debuts [Star Scene] [Comprehensive Report] - 스타뉴스",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Cd0Nnay12RHlFaUZWU19iWXpzS1JWT0lBQ0tiNVprQ0FYRXNoWFV1aXEzYnhhd0FoWU9vdTdONmpMMlZSNWNrb2N3Q3YxYy1pRWltU3BDMFhhUlVmWnFJU1pncktwZW96S2ZJSXlnRGFFQnRiWUI5Mw?oc=5"
@@ -70,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "From Solar Generation to Smarter Home Energy: TCL PV TECH Introduces BlueArk X1 - LionhearTV",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2dxZGtkUDQtVmtQRmdKN0FIVjZzaEhaZ1U4VG1ROU9jNUtVN0JhSUtCWmdieEdVX0JKR0txcS01OE44a2syS1ZNS080emJwUHZmT3g4NmZ3Z3ZwM1ZEcHN0azVWdklIVW1VRjU5dDliLVVJZ1JKd2RXRTE4aU54cHJwR2ZuVVJoQXpTdVhPMHZIXzNnazdDc3I5NGJ4X0VXTjI3NU45eGZWLUk0S2Fyb0hnYkE?oc=5"
@@ -97,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

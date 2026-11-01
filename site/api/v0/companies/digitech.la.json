@@ -1,10 +1,24 @@
 {
   "domain": "digitech.la",
   "name": "digi",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.9,
+  "score": 6.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-01",
+      "summary": "Digi Yatra launches international passenger trials at seven airports - The News Mill",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZElXWmJXeXZadUdnN0otajd2TEVzSDlqUGJFNXc5Zl9EOUtnOHU5VDZ3TGNOamhvSXhkdHpUbWxUU0dQTmRkclNIRDRFNW1xSHhnLUhGZnJlbmxxdzQxLXJpSV83dlVCVlhqLTJ6UEpJbHZGUlZpN3dDTGRnN2F2aGdWTXVjaHZKVEw1QS1IZnZMNnJkRWlGNE9yVVJSUm85YkZn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Kempegowda International Airport launches Digi Yatra trials for international departures - Planet Biometrics",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXdTN2lyV2NZX05WYmdwc3ZMTGV1LWhrZkRUU2JZYmY0ckphS0U3TEhya3Z0ZUVveWdmckFUWTQ3U0ZuWlZOLTZfMTFBaTVOWVVIdkhla0pIMi1ESVJLY1Y2cWNSbU42WllYUkRuREJzQmViN21vdW9ibHVSb19Hd2pHMTBsNF85QTVJbklNa1FOQjNoUGczNlVSa0Y3MTFwNzZHMXRMSklPUFJER2F5LVZ0U0w?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "within.ai",
   "name": "Within",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.1,
+  "score": 12.9,
   "contributions": [
     {
       "type": "leadership",
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-21",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/within.ai",
@@ -89,7 +89,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Microsoft Launches Legal Skills Within Copilot, Furthering Move Into Legal Tech - Law.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnZhTVNQWUhNTU1INWtYdGlGLVFGVmdRNk5TaW4xeHNhR1RlbVRVMDhiUlZxaG9paXNwOGxyVUtRQXM5LXRHd2tERHVZRjlydlRiUUNqWEZHYTJDd3lJc2pSMzliNXBNakFHaUFIWnJDVDE1bWdwY0FkVkc1WUN3LTNpUFd5Z2ZYSE1MT3VuNVZlZmhlQTVIUUdjdDhfU1MyUWU1OFZYaUJIMzVubFJnWGhWRDdaU1lRdnVTQjlySE9YdWM?oc=5"
@@ -109,6 +109,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "coris.ai",
   "name": "Coris",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Burkinabe banking tycoon Idrissa Nassa's Coris Bank launches Islamic banking in Chad - Billionaires.Africa",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2tCRTF0UlQza0VaVEEzdzFFVWp3Y0FEUUtyb2NLYTBXSnh5Ymh0X2w3VWNtdTJZVm90SnlpYVItZEt2XzBmSzlIN0lWLTVhWGMtNHh5R3p3S0RPZjRoY00xUHk5MXN1VmFfZW0tYkt6dkJZZFNPb1U3bzl2VVdnRWxpZG9SMFVYSy1kRnVLLU5nSXctSVJXSXE2RHdER0FEMS1mUEZ2QUtWdkIzT214LS1IZi0xZnQ2TU4tUHY2azdmQnhrMWc?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

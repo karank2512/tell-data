@@ -1,9 +1,9 @@
 {
   "domain": "index.io",
   "name": "Index",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.5,
+  "score": 14.3,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Labrynth’s Red Tape Index Unveils “Launch Your Own Index” to Measure Barriers to Investment and Economic Growth - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUV5eVBmTElxbk5LVUFkUDMxbm5MZTVkNFBiNy1VYkZRYzdqUENzU2xwZms1ZHFBNk5vbGF5Q3MtVGFMeExTZmpMbUE1NmM0N2ppdkxQZE5Cc2xwTzZ2QmljWmhVQ3d0b21RWjY1SlZkWVNaTlE2UHdjZFE1cERNdURDQ25wTGxBcWxxQmVrMHpQMXdEVjFfZ21MUU4?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "CME Launches Emerging Crypto Index: Discover the Selected Coins - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDJCNmNoUWlleVdaOHdIaS0yWUNaaGtMWWJnRURFQUZKREV6TzNRd0k4R1pST0hpazZuOUt5eTRNYWF6ZG5kVTJKZkNwWC1CWHNnbnQxcHN4WHNteC0yUDgwVUF6YVhOMUR6UHdWczgyNkFqSnRLWjJqRUhYX3ROVS1ER0s4UlV4d05WYWhoUFRaMmV3dGxEVVE2c0RtNXhz?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

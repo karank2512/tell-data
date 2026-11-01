@@ -1,9 +1,9 @@
 {
   "domain": "vestfin.com",
   "name": "Vest",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Boyt Harness Unveils Premium Moleskin Shirt and Vest Collection for Outdoor Enthusiasts - Outdoor Wire",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOTUzdU5iNWFVQk9tSm9Ccm4zLU5nVGJvY3EtY0tiX192c0RfWUU2UGRMSlE3WEhjMjVySVdwd2w5TWlGdGY1dW4zQ2ctQV85aDRLTFQ1blRTVWw3enhvMnI0dVVxYndpLV90V0hFaUQ4YU9KeE13R1FKejBCVDdMWTFMeWZ5bjZyQjhaaThKLXZhNmpOZ2taekVvTDB4ZUZ2QXhTUFhKRF9EVGZ1N2hJOXVtSG1HS1lRTnJsbjJtbWp6bEZYOUJzWGVHdGM1NzlW?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

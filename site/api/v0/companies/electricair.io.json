@@ -1,9 +1,9 @@
 {
   "domain": "electricair.io",
   "name": "Electric Air",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.7,
+  "score": 11.5,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,34 @@
       "occurred_at": "2026-10-15",
       "summary": "[person] Joins Airspeeder Electric Air Racing as First U.S. Constructor",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmctb1NEUVV5UXUtX19MOV9ld21yVXFxYWlBU0NWZWhUUERtSWJ5aE9aZC1KNEZBR3k1Uld3RmVuX0MxQ1NXTkRnaWRuS180dmRDN2hrSEpqa2RGR0FVM3g2cUYwdjh1SnBDNHo3V1lodGJ2MVlZOHVUbXIzbTVZODFpN2NRdy0xbnh0cjNNcS14Sm12VE02VWNRUEh4Y0U2?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Florida launches first eVTOL flight trials as Joby tests its electric air taxis - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUw0VXF4M1pjYWRIdkwxNG9qTms0U2RHa25RMHNnckxmdnQ0SC1EM1pCYWI5Mkc5OW1VVkJTaWZDUU4zRl9wTnM3M2NsbjM0Y1dtUmhpT0gwdHAxbGpEZWpESzVDZ2FubDZsemNhdEQ2WlV0M0ZUNnZZWC00ZXd1LUpoUlFhR1ZtenRRa21hUE1WaXR3Wk1jRXV5VTEwQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Joby Aviation, Inc. Launches Piloted Electric Air Taxi Flights Across Florida - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEtBMHVmR3NVY3ZBWUlDOUR5Y3VhQmo2NDdFbE0xU2otUXd2ZlIwc1N5VFR5NWEzdnllenNteHFuaG1BNmdaSHo1U1BsRllISlJSdjNHejBPRXRmUi1uS3VneTFxNFptUmF6b0g2Mmw0SzE4Z1VKelpLZ1ZnRHQ2RkRGRjFSLThJVElwd3kyVWRPSVlvbzAyWkNabXRlaktzTFhidWJyUXNXSFhpUkE3SEcxejRfUldnaHdnZUYzY21PSjlQNGQ4?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Joby Aviation Launches Week of Electric Air Taxi Flights Across Florida - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3M0alZtUmREV210ckVqZC1naXljV3M1bGp6M0ZZNnRhNnZRQ0JJd251NU5GNElqVnhHRW9ORjlGX0twWWZaSGxFUXhqM3hiNDFZUmRzbjd5eTRQcmgtVnktbzl1N2lmZlNSS0phM0owTHhBY1VpUGozaE5JVXUxdGVPTl9Gcm1BVjBaa3FPQVNRczNlQnVyd3FVZ2FlUWZaTzQ4SllJWklkbzJpRTV6T0FIRjltLXd1bkhoNVRBcmZPZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Joby Aviation Launches Week of Electric Air Taxi Flights Across Florida - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzRacDA3NWZORDdMM0VraXhKN09qVHFxV0s3eXJvNjlJbnVvOU0tcFN1eGd5WjBqamI2NXBrLXBzSTZhS3hSdllwUll3elBBRUs4Mkllb2JhUHpzcGlDb2tIM3dSdWthc3RCaFppYTVPQmRSNjgxSy05SGROczRmejFHSF9icXotUFdZRF9HOTctampRUVQwQzFpTGt2UQ?oc=5"
     },
     {
       "type": "launch",
@@ -41,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

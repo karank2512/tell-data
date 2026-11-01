@@ -1,9 +1,9 @@
 {
   "domain": "abacum.ai",
   "name": "Abacum",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Abacum launches AI agent for finance model building - IT Brief UK",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeWQxTndTN2VuSkZlRHVjRHUzUFg2X0J2VG0wZ29SRE5oUGwwNHEzNkxxZVZBYXFrQlZnc1BjT3NETjVTaFNYWk9BT1FFaWhHTk1rdlphM3F0VGFoSnNvUkRfZWgzM1BQNWh6dTF0ek5uQUY3MEppS0NUdUVWMVdTM2NYRnlJUQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

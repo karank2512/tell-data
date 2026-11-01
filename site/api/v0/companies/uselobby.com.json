@@ -1,9 +1,9 @@
 {
   "domain": "uselobby.com",
   "name": "Lobby",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.3,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "SSM Health unveils renovated lobby, new self-service registration kiosks - KFIZ",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX2h0UkluT1pWbm5DNEttS1N5NG41VXRZbUZkQjFMWjNVNHFOd2VTMTNPV2puWTNabkRFdGdXbWhnRU5xSmh0OW9ZOEFXNzZBbTE2OHo4MmlGa3E2WGpFSEJMakFrY01pNjJMVTRYOF8xWjZ4c1V4c3V3YzNxQkltY3NjTXhjWG9lVkpYbWpxQlpuREU?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Amex GBT Launches Hotel Lobby, Agentic AI for Hotel Sourcing - Business Travel Executive",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdE1zenp6OEJWY0NibEM0Sy14RC1jOWgtYjF2eGxBdU5XZnNGamczQ2o3aC1FOFFNdWJ4UUJVaGwtN3NtcHFWNFQ1eTM5QmZoZng4TzJZMmJNYTRFR3RvMkhkX1R6M1JnR1BPSGRhV0ZRdEhVXzN6cUhhZXQ1T0Vxb21VQ2lwNGhUalpRbjdlaGpqMWxDNHd5ckh0a0lMZk9WNVhYT3RjWXI?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

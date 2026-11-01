@@ -1,9 +1,9 @@
 {
   "domain": "trymemoir.ai",
   "name": "Memoir",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 20.9,
+  "score": 20.6,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-25",
       "summary": "Raleigh author releases memoir “A Love Letter Written in Music” - CBS 17",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0RROC01aTFZOWZ0dGh6cElxbVhxTTB5VF9LTWZKMzRhSzNTZzFBZVYwU3ZxZjJPV1FHZl9kajVBXzRxbXB6V1RORHM0Q3ppQXJXM1pUUDhDRElSMzFUblNJSmJ6TlJoWjRwS09ISXd4LXI0OGxCX2dJUy1ZeXBuZ19PTG1RRG1BcVdrZlJtLTlhdk9GM1p1Um1UMUtkTmvSAaQBQVVfeXFMT0ZnNFUwY3Z2bmpLcFBGV05rUHdRV2tZVXBpX3ZYMmdGNC1QMm15WF9JOXpBUTZxd1BLTHo4TXdCeXBCYWZxRXRYYTZwVHE3QkQyYWJmdTVXajZTYlJQN3pob1lPZWtjcUNNWDJrRlptUmpYb21LVDNjZnhiVTlEMHdVVnI2eWdZdE5ia1JnNG5KYkQyZGxKTXFHT3ZQa0otZGdoQTc?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Last surviving member of the 'Memphis State Eight' releases memoir - Action News 5",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1kweC1TTnFLZFdaWXBsVkVxcDlHRkxDTkE5V3dWcEk5aXdMMnJpTjRGNnFkbjRlRmRocGVaMzU3bUtpeGhkSk0zbkRRMHdkNzRJN2otd04xTHNYQzBjTFJURTNjOFo5QWp2VVJLakhWU3IxYk5PbEpha1hWcFdZa3djUXQtWjE3eTBGZE1YNUl3My1DNk1RaG84RnVMcC1aem0wQTZB?oc=5"
@@ -119,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "News: Joshua Greenbaum Releases New Book ‘Exiled From Main Street: A Memoir’ - New Noise Magazine",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmxIY2kyenU4WjAzWHZCODcxU0h1aXNKNDZkMUlqcXlpekxreGpWVjJaRndnM2UwSDE1TjZBU2FuWllvcG1mc0V4SkU2ZlJYd29rclVrR2ZMMjRzV0tOdUFQaVZoUjRpcGdCbFJTemVWSmxRaVU1MzAtN0dpWjRGcmhiTmh5ajdDbWowWDZxeS03Ujg5NHNlNXFkUV8yTktPME5RLQ?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

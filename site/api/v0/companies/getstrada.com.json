@@ -1,13 +1,13 @@
 {
   "domain": "getstrada.com",
   "name": "Strada",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-30",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWXFNMDZVNTlVdWFxaFljR016NF9BOWJXWjNGT29jLUF0bUk2WHVOVGZGMU1sajhfMEh0ZzhOU1UyOXZlazAxLXREUEtmTlNmT3M0blltdlVfX2F3ZEZ0UUtCM1kyVmRqRjJCTUVQS3lxLXc2VTRjOXZOQkhfRDNzT0tNS3VIaDN5cTYycGVrOTVCSHhOSjg1cV9sa3NtSEE5YUNCSmtiLVp0UGNJMkh2WXFYUTZMLTF4Y01yUG9salpGT3ctQ2xhTEluTjFSbzBUM3h2cm1yWEcxOWM?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

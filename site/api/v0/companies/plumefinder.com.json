@@ -1,9 +1,9 @@
 {
   "domain": "plumefinder.com",
   "name": "Plume",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.8,
+  "score": 5.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Plume Launches Agentic AI Platform to Help ISPs Automate Network Operations - The Fast Mode",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVRLWXNBNDYyTVpTNHp6VHAwWjNZM1IxdUhDc2hsUUJYWTB2WE9LdzBvX2JoZ3RTWFpyWGFnMmEwZWdnZmhtZ1Y4R3FKSHdYSkdQYkFRQUY2Q2lmaWdkcUFtMFdTb3MwYU4xUnNaRmdVUmVtMUxsWk56ZDRXVUlpeWVtMWhBTVczR1ZFa3YwSnMta2hWOHRkTTBlamFCVThRdWJVN3pOVW9ucTJqcXFRZmNCaEJRZW5XS2NkaWJCSjczbG5uc3p0NGVB?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

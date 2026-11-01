@@ -1,20 +1,20 @@
 {
   "domain": "metavision.com",
   "name": "Meta",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 20.8,
+  "score": 20.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Google Launches $1,099 Aura XR Glasses in Jab at Meta - ExtremeTech",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU253blRvTWVVaXV1YVIzX004SDh0MDgyMnhZWkZtNFNzLTdTUVhvRFA0T09qVGtLYnF2WERZZXdjUlhLdm9pZHZpNW9yNEFHbnlvWmF3MDJXUTN1QkYzQ1B2MFB0T3l6LVRyaUxpZFphcVN2Q0h2aEVXZ3JicEMxYWtYNFdGQjQ1ZXVhSFpBTWJ3Vlhibnc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Meta Quietly Launches An AI Fashion App For Virtually Trying On Clothes - Engadget",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDd4RnEtVFZGd0xld1Z6V2pQNkpqTEdXbXVyYktDb1ZHQ3FVc3dobnZKdHc0RUZ1andhZFhjVWV2TUlHSkw1bHFqOHFCLW5SVUh5aWFxQVVCWGFkMmc4eHlMRTlPemJmLVoxVklybVR4LVNJLU55U1FNQ0FJazhmaDFKc3Z3UDYyd1EzbG1rWXRnblktNFo2dkd4ZXdPLUtlazNRakhvdlg?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

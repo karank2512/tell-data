@@ -1,10 +1,17 @@
 {
   "domain": "withterminal.com",
   "name": "Terminal",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 23.9,
+  "score": 25.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-01",
+      "summary": "Hollywood Burbank Airport unveils new terminal designed to enhance passenger experience - Future Travel Experience",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN3JtN2hrbnFPeWVVVk8tY3VRZ0pzbjhLbDBabkg3cmU4dk9mN29kcGk3RmY3Q1BMbDU4SG81UWVrRWF2ZjZKRHpnY0N6NUFlUXBtbUk1WDFCNUF4Y2k5NmQxQVQyaXotUWdId3phM2wtcnh0N3A4dmtNUHNkWVRuMjZZNEJDUzRGbnJ3RU80YjJ2NGhsZEFlQ25uRkhYTENnMTdlMmJfQ21rbUdObTRobW95bWtiUnBSS2tNZGpCRkJpelJiY3hoeTdrdnlCYlh0?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-25",
       "summary": "XCMG debuts new, fully autonomous electric terminal tractor [video] - Electrek",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGZqZ2dUbnc1Q3JjekxLTjhTLWlOeUlKUTZPZTBWMk0tQjVKLUt2MFhULTBuTTVkRjNGdFEyY05udC1fN1hDNHhPRlAxVWFrTGhsR2ZCNHFaZy1BWXNoMGtjSjJLM2Vpdi1rVEhFWVBEWHRHR0ZKY1Z0bkFEYUJhRWo4eWJwcTZ3dmVVOEVhMXNHVGlfZFdDQVdsTEI?oc=5"
@@ -70,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Honeywell Aerospace Launches New JetWave Satcom Terminal - Aviation Week",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcG9lUks1QjNJYmFGY2tYR290MWJqSVlzNXhKUUV5QjFfaG4wLXBwcVZIdTVrWnB5WFc2YWd6MTRZSzBTSlpWTjJLdnZPWk8yZWNSRnRucUFERkV6dXlSX3kwUUNYTk1CZUxfWVJFOUxod0c4cTlrS2tUY21fOHhpNC0zVkh5Y3ZibzdyOS1MOG1WZlktdWtrcF9sY0RabDMyRUR3cmRGTkJFTEJfeWZJRDJVcG1nNWY3eWhCTDZHQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Airports authority unveils new details, renderings of a $125M VIP terminal slated for Dulles - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORTEwbjNWTE52S0RKZVl0ajVzOHY5THB0a192b1hfN1RsNURKN1FPY1g3eUZBaDQ2ZkwzTFB3TUFnem9CUGY1cjRQZmhDYW9taVJacWJNOTV3NWJsVXFnTlJQWWM2RlM4LTVwMTJsbm9pQjJqdEtpSFEtZDdUS2NIWDEtM0RYTW54ckJTUTE3Q0QxUVJjSG45bFZoZkVxSHZp?oc=5"
@@ -119,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Hollywood Burbank Airport Debuts New Replacement Terminal - Travel Agent Central",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1lTLVJaWGk2UTJyNkl0VVlNSjZTQnJMV0R1S24xZEZqZlNBcHJIMmtZdERGY3BudEd0QkhGay1qWlhwNVRYUjUtWUpTOVVDbTdmbEJYZHpBNnhicGNxN25zU0plUE1zR284NnhIb2FBUGtld1BvN1kzSzRWSmU1Vm9TN20zYUxvRklLaGlzRF9hYUZURXNPN252MS1qbEVLWWdHeQ?oc=5"
@@ -146,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

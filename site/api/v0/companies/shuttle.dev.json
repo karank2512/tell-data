@@ -1,9 +1,9 @@
 {
   "domain": "shuttle.dev",
   "name": "Shuttle",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.5,
+  "score": 15.6,
   "contributions": [
     {
       "type": "launch",
@@ -36,13 +36,20 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "California Governor Newsom Unveils Space Shuttle Endeavour at New Air and Space Center - Forth.News",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50LWwyTjZfLWdxeHh2UW16NGl6RDlTeEJYUzB6SHJOQW81WXp0VWNCQVQ0Y2FsV1dmQkdFTWJObmpkSzc4dDlZSlF6Q0dBSEh0SUhaMms4UzZsUGxOLVlxVWNB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-25",
       "summary": "JIA introduces shuttle buses to ease passengers movement - Eye Radio",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUhPXzducjV4S01KWnZlaVc4MGlrTTEzaWlscEpvMmpsSnFEZzU5Q0VNYlJaNHVudTlwWUhTODBITllXQlNZd1FVcVQtY0cyVUNCUGhZc3U1eTVOeW43Q0ZiM2p3RmUxdXVrZnpLRlhqWFVDOXlSb01MVEJ4Wk1EWkVGSDnSAYoBQVVfeXFMTjFERkYwTUNvYV9fLVhmc2FJTkJhTTZaNUtBV3dMLXVWT3FRVFkxTTB3RllhYk1ncEJIN3hpLUtVMFpjTUg0TjJFdTRjcF9YeWVETzRrdUtRbmVpNC1xeVJmQTRKcXFxUHZpQm4yRXRKU240dmZ2d3R2ak1DelpLVXJ1aGpFV2NicWlR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-24",
       "summary": "ENC Unveils Zavir Concept Electric Shuttle at APTA Expo in Chicago - The Buzz - Electric Vehicle News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85X2MycnpZSEZnNVlaTDFibkp3allKRTZfZjg5NFUyNnZwaGMwQVhFRGhick9JQUNRM3JncjRycWxiMS1fOEgyOGhFcE5SZnV1NGdWQVRSeFJ1UzNNSjBDQ1dSOExDRkY0QVBxcEJTOEg?oc=5"
@@ -56,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "PortMiami launches free airport shuttle pilot for Carnival passengers - Pax News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQODZJSkVhRjZ4UVJ2WTVkaGUweGhfOHFPZzhUUUpaazRpem50UGtpZWFuSWt6Y0IwXzNyLXJ4SmZCc2ZhTTdSVkdPcU1kVmdJMWowVlpOZVRRR1VPZE5iT3EwNFJPcWp4d0hacTZ0My0tRVo1SFE2UWxHbmNlMWh0Zk0zYk5CZW1DNkJDNkdmdURVdVNRWVhKNFh3RU9MVUZrX2hj?oc=5"
@@ -70,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "GreenPower Motor Launches Mexico-Focused Plan for 50 EV Star All-Electric Shuttle Buses - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONmFpbG1ZVEMxS21qWHQ4OTNLMEt1OFg1ZHprRUFFSGJMeksxZHJFcUtWRWxMX0RBS3dxUHJZU2k2dGlPcHZFdjJBclIzbTJ2Y2xTVjJrZmJVekxxd1NLbmZ5NEhFandSa1M4cUprRHhtV2MtLWo1UmpmTGppdkVRVTg5SUNZbm5WLXNkQmprWnhGQXo2ZGJuZG1Wd0MxSDBBVWxldVhKUXRDZFdjSWN3NV9VWEhFNkZza19XbnVBdkMxcVBUOU9kQ0FfX3FFUkFKbDNoNDh5ZlVnYm1BVFYya2F1SDEzQlJIQWhubVZ5SDRoWjA2WmxoMUJBRnJ1WmhlT0E?oc=5"
@@ -90,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

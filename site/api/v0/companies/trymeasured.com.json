@@ -1,9 +1,9 @@
 {
   "domain": "trymeasured.com",
   "name": "Measured",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.9,
+  "score": 3.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "Heriot-Watt launches ambitious 10-year strategy: “Driven by Purpose, Measured by Impact” - Heriot-Watt University",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGNRZUVOeVEzZlFvYk4zeGxYeTU0dUw5ckhNZDhYNjgzYl9Lc1NCVHVqOUl4X3FldTg4QVZVUEdMYlBrN1hRY01yaGdpekFOZWdYSVd4NDU3ZXRrRmxCQ0tQaXp5YlZpS2tzYmR3RzMzZWd2a1pzSXZSVjM2eTQzNnJ1MTBkcklMM3FQLW51ekJVdTVwakNvQnFFaldSaEVoejQtR0JOMDREWlBRX0lxTDVHNEU2Zw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

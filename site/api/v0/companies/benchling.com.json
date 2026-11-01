@@ -1,9 +1,9 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.2,
+  "score": 10.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -53,14 +53,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Direct Data Share, Closing the Loop Between the Lab and the AI Data Cloud on Snowflake - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWXdvZkNfNl9pU0k0RGJwUk9kc1hzQ2I3akNPTkxWWG9XNzYtdXM3bloxQkJCVFBjOE1iYWZETDFPVkJWWlp3Y0dnUEU2THlqVm1KNG5QbVctVWV3UWVScE1BVXRPTl9LdWdkU08tb0VkZTZPcE1GTnVjbHNKZWhaS0lBb0hYS0o0eW9saFZQdEhyTU5qT2l4Q2NZWlQxdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Introducing Science Foundries, a new way for scientists and agents to work together",
       "url": "https://www.benchling.com/blog/introducing-science-foundries"
@@ -87,14 +87,14 @@
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
-  "open_postings": 56,
+  "open_postings": 55,
   "long_open_roles": 8,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": [
     {
       "type": "launch",

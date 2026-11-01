@@ -1,9 +1,9 @@
 {
   "domain": "pave.com",
   "name": "Pave",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "FRUIT Introduces PAVE, an Approach to Bringing Human Judgment Into AI Systems - IT Business Net",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXZFajQ1dWVqU2pHYWh5TlJHNHRSOWtOWlBZM2xHbS1jQU9EMVJsbmpfNm16anhNZ0lsQkl5aC04blg2dUVtYnlkdnZkaTltcjRaVS1XbS1NYVZZYkxsZEVBOTNyc0FNZVo2dlJ1WW0tc2tqMXp3V1B2djRuNERxME1yQXZIaHUyem8yTkd3eWlyLWFaTmdYeE52NGlNN3BYWkN5ZUJkWm5TLVJpdml0Qw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-13",
       "summary": "FRUIT launches PAVE to integrate human judgment into AI decision-making systems. - Pluang",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1ctbGU2MVpZa2ZaRjNpdDJXSGU3S1MzelJZSFVzUy1GYXdFWDVwOGpwX2dpVGFRd3d6aFhJQW81eklzN1FNN25oalR5QVczS0szUkZ5VU5oNV9nN1RRX3NHajZzV01SYkhZZnNLcW9LeVdqSTNISHFGNlA3MkszZmZyYjAySHJQdFNEZC14OHFJNHdYWHhaYUc2MXdHUQ?oc=5"
@@ -49,12 +49,12 @@
     }
   ],
   "open_postings": 19,
-  "long_open_roles": 8,
+  "long_open_roles": 9,
   "sources": {
     "ats": "greenhouse:paveakatroveinformationtechnologies",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

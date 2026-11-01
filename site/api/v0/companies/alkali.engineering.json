@@ -1,9 +1,9 @@
 {
   "domain": "alkali.engineering",
   "name": "Alkali",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Tuticorin Alkali Chemicals unveils new brand identity, sharpens focus on exports - The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVTJvZEluVzRuWU9oRjJGcnBOenJDck1KcjNGZWJIMEgyV1FkdFlXa29UZU9ocHQ3VEJhZG5ELTFpMDNHMkF3Z2QyYWxUZmJ6c0g0aGpTWmVsXzF2RWJLa2t6aEtWRWRwWFBpOE5GejRLbnJyX0VUNHhCQzFjcWlHd1JCelZqSl9BUjlJc1NVOUFadEFoM21UYktqaFZKMVhlcGVrS1AtNjFSMlJ0M2I4UmYyYk40aW1QUk9JRVN3WFNBYUxYQnJqVmln0gHQAUFVX3lxTE1ab09NTUM2TDBDR1NmNGR6N1M3Um9yYzR6RnF2c25TdS1LVlJBY1U3enR3T0RSc3IxdlZjVW11TVhjT2NsYUNJWlFIMDNSUzlLLTBENmNkbXRmNnlxUUN3Rjl0aHM0MnhEZjdlbjIxcE1ncTM5TDYzQl9Fc0YtdU5fcmJwRjlHVVkzOVhEV2VwWFpGWkZZUFdUNjdxaExLX2o5Zm1fTTdlcW52SXc1dEpRWlVBeF8zUFJlQnY3d2d1MjR0N2tLRGZETng2N1NVTlI?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

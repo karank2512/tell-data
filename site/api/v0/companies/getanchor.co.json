@@ -1,10 +1,17 @@
 {
   "domain": "getanchor.co",
   "name": "Anchor",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.2,
+  "score": 13.9,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-29",
+      "summary": "[person] joins CBS Austin as sports anchor and reporter",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnhTRXUxVzU0Z2kzN2s0MUpjb2R5b3NWdWFHS29LYjlSUzVnZXc3bXFZR2NEUnFrMzBaT2JHSWdfQ0FtYTNMSG5qa0xlZXRRUk1CcFVFOTNpN0pqemlDYVhhWml2X3FabnBzQVFBbFRXc25FZHlETWhaOUE1d0RxV1BaMzl3N0l6WktBQ0pHU3pnM01OVEpwN1M5dlFMTTlBaThjaHhLQVY5YkJGU1E?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -25,6 +32,20 @@
       "occurred_at": "2026-10-22",
       "summary": "Louisiana native [person] joins WWL as evening anchor",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONnlsdXN2djlUdlhvcHJMQlVFMUhzYThKQVBCTDJMN0VQU2hxLU1ibXZzTGx3Z042X3NrU19CN3VKS3lFSk5MV043WGdGa01SRXZqWnZ3NUtacGttVDYybTVGbUwzZzlnT01OMjBIMHVhVFY3bmpOcjRzaUtheHV0ZTZLVU9keVpfd1Vic2VEN0Nlb3RiMTdGOEZMNzAtdS1xZ0NuandOVjdsZTRKVURHLWtWLVJweFBnUjVuRGtuT1pWeDBCeVlEdDE2SDVZQ3dwWUJnYnc5OGtXQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Everest Doc And ‘Breeder’ Anchor Indie Frame With Few New Releases – Specialty Preview - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ2trVUF3Z3o2dUtyVF85NE5WQzJmTHFGd3FRbVE2TlpyNlpUR1FYSERZZ1hicFBPVFJ3OEFZWkdSUkNaNUhRODcxTXkxZHNPU2RkWXd5WnBxY0xjejctaFg0aWQ2LUd4dk1HX01zN2dVczloOFhWUkRLeF93NVVwcWxNWWlxRTdoRXFGbzJueUp4dmxDM0E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Bringing Visibility and Cost Control to Multifamily Waste: Anchor Utility Launches Anchor Waste - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXhEdDgzWXh0RWsyWWtQRW9ta0lUbVNQTHZiek90VFZsTEZoRFBuVDFETVVVTHN1N1QyMkItdmhCei13RGNqcG9sWVNmSGllU2tsRFBQMkJXVl93eE5jeGhiTm1GLXZNWkFsWUJyNWk5M1d5ZjE4SEFpM3VKaWp2Q0ZQWmp2ODFEYlByRUtKU01aX0pDWHE3R1pMbnpjRGpfZGhaOWZaWUFBNldkblE?oc=5"
     },
     {
       "type": "launch",
@@ -55,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

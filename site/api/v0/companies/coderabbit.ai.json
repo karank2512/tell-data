@@ -1,13 +1,13 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 19.6,
+  "score": 19.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.4,
+      "contribution": 17.3,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-13",
       "summary": "Introducing CodeRabbit Security",
       "url": "https://coderabbit.ai/blog/introducing-coderabbit-security"
@@ -55,7 +55,7 @@
     "edgar_cik": "0002014393",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": [
     {
       "type": "launch",

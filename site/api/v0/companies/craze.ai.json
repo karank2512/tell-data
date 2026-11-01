@@ -1,10 +1,24 @@
 {
   "domain": "craze.ai",
   "name": "Craze",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.4,
+  "score": 7.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Halloween 2026: Amid the matcha craze, Independence Brewing Company launches 'matcha beer'; know more here - Mid-Day",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTG9KVTFIbHFwLUpJY1BtYnpHTE5QNHhHV1FrbFQwSEQ1S2M3V041QXE1MFZWaXphNC1YQ1VWWnRuY1p4b1U1Yk1DZy1BSElnVVdqOW5XNHlCUjlNTGQ0R3lTNFExTHVCYTV2WG94c0lFUzN5QVhFMGthSjlwcFZVb25yR3lRb05yZk9JR0QwT2I4ZWRxYWc3LU1EM1pzQ2Y0Qnh5b3hLMTd6aEdTS3FxNjVqQnRHeVBnZVB0TVZqQWFmc3VVdTJlQkNIbWpzeXVrRk9ucFhhSEtIbFp3dDZ2Q3liNHdqOGZDUmFUWGtqb0VoNGYwRUlOTVNnaw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Halloween 2026: Amid the matcha craze, Independence Brewing Company launches `matcha beer`; know more here - Mid-Day",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVI4XzVWV1FKNDBKQ2R0dlZlbDJZOVctRERCUlczd2ZuUW1sdDRUdGVUMFlKaXliQXJVS0N6V1lQdl9ZTnhseGxKMkcyOXlST2tabnFoNUlXeWRrT3NpbjJ6M3dNc3Z2azhGSk1HMG9nVHFNb0g0eXg5bGZKWGZ3d3RaczVPVVZ1UmpnMXlRLTA0U1pBeXdsaW42RHByell2elN5VG5HaXR3eXZrcEo1UFpUZVdqZkJ5RTRDcmpRZWhpTEZ3QWVCLThaenc3YmQzVFFmYmFDRnk1aDNNUkg3SFJ4YjlOOTVhVEtR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

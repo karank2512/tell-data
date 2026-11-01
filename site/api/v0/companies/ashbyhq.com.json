@@ -1,14 +1,14 @@
 {
   "domain": "ashbyhq.com",
   "name": "Ashby",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-31",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/ashby",
@@ -54,12 +54,12 @@
     }
   ],
   "open_postings": 74,
-  "long_open_roles": 42,
+  "long_open_roles": 43,
   "sources": {
     "ats": "ashby:ashby",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,13 +1,27 @@
 {
   "domain": "onshore.com",
   "name": "Onshore",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.2,
+  "score": 5.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Dune Oil launches $8.3 million financing to advance Turkish onshore oil project - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjBRbVpmZWdMdnp6NHJCc05VeG5kZUZ5cVJFMktveTNvV3lxcjhUZGpSd1ZXcHFDVk5uZWJqbHVOX09RbEdXMkJRYlJuVGpuR2lLYjVkTGlwMXRCNHRIb05CMzNKSGJfMFlhMkhPYmhaWDl2dzRHYy1BVDZ3b04zMlBER2dYeDdvZU41RHJHZ3ZJREpnRU9lVG5KenFaS2VDZkt2R21TYU8wSWV3U2pNakVkNzVQaWNKMnVXaDVBaXFlZHZEaW11dzd3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Regen releases report on onshore renewables decommissioning - Energy Global",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNjF3VFB1QTFDdFhmX2JGTTYyellyb0VBaDU3SXhaR0Z5QnhFOEpnOFI1ak44ZF84TnBlMWd5dVh1RkkwQnVpcHVKUnJaRHcteHdKQVplUTM2aWZpSmh3a1IyVEEzdGtkd0ZFSnBFUXB3eE80b0ZjRFJQai14VU5FSDAzQnZTLTRaaHFma2VrR0hoS2RxZXBSMC1PSzlFMmVvcDlaMFBabExoWU1JTEpXbmVxU3RWUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Vedanta Launches EOR Scheme to Revive India's Key Onshore Area - Energy Intelligence",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40UW1rd2tWUkRCOGpGeTRTbnp6OFRrUW9LTzhESHV4R0ZJbzVFa25vdlZXOW9VdHRNSHk2NE5VTlcyaU9oWTM0c05LRGsxemU0YXk0cU5VNl8wN0lIaERPenBmRUJ6eVZTUE1PYmFydUIyZw?oc=5"
@@ -27,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

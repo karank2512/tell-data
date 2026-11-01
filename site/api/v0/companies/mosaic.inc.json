@@ -1,9 +1,9 @@
 {
   "domain": "mosaic.inc",
   "name": "Mosaic",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.8,
+  "score": 9.6,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Mosaic Launches Public Phase of Conners Campus Capital Campaign - MyCentralOregon.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3QzZnhqX2VBX3hqZTdUM0NPcWsxSW1OcjM2MTJDQnJ1TEl0V0t1aTBfeWhiRC1vcndNSjh1LXQ3SnpUWk9LSENpV2VxdV93ZERQd2VLdTJnM2J0QU1QS1p4a21KaS1rYnZGSE81MTVMVlNIVV9idnhwTnBOYklVZkpzU2M5UlBBYVJMZGsxN3RoUi1FZHduUnMzbmhOUzdzMkMxYVlvR0xKRGs?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Fine arts center unveils Liberty Tree Mosaic mural - Tullahoma News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzFJZjlhMTl0a1dLT3MzRUo0WW9fakt6LS1MWkJPR0l1UWtvMW9DRFQtcUM4WDQ5VHZKQ2dlTGJncmlEanlLQUlMOXRKMXh6a1NPUTJGa3dKa3pJcWhKMU5PNFItOXV0YVp5aTZoOGVuSGlmc3BBU2hHeGFnSXkyaHVmemJncVZzMTlMSXlfZjBiRDJwRTQ4Z0N1SFVIUVZO?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

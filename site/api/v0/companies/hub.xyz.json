@@ -1,13 +1,13 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 52.2,
+  "score": 57.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.9,
+      "contribution": 12.8,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
@@ -15,6 +15,34 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "AppViewX Launches Standalone Quantum Trust Hub to Automate Post-Quantum Cryptographic Posture Management and Remediation - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ2RBdDUxcFA1YjRnc3ZfM3dUNHBUY1FVaFdtOWZNcXZXZXpwZ0s4RU4zbEZ0TG1hOHF3aVJXZEgxOEVLT0hYN09MV3dVRzF3dDdDdWFvYXk2R1huNUkzOGJ0OURHTUdrZGh6c1JNSjZ6TGZ1N21PY2EzZlRJRm5sV0pWVEdWUHRjOHY5UngxZHBONl9fUjItQ2U4elQ3LXVfSVNZR0E3UUhFTkxLRUdmc0VkU2lob0R1UC16ckNRUDdURE9Hcl9UQVltSEhUeWJ1cnFwdjJQeDVGajd3RFFTdkNxY19FX1RCTnJKX9IB8gFBVV95cUxPam1iMEd5VUVQcXhLNjdfQ3g5M1FXeW5Jc2Npa2gzVjZycEV2dkg5bmQydWhkb2QtYldVMW9SeTg5WVV5X1hrbEdxbXlzZzMtYWVCZlNtMmRMel9adXptc3llVll5WF9IT0dLNjBlRzByWXBGZ0duZVFFc0lqQWVreFhyZ05NdTZQRkdwRVJHRzRDVDZNY3daZThWRm9wZVdWZjIwYnRXRHZGeUVuNW85WGtoYXZNeDU1eVlhdnp1VWxRVmVOalF6SDhsWm1zeW1zRmV3Nm5tWUZhLXU2WkhLYWhsUnY0UWFBeXBITnd0TG9zUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "X-Laser Launches Customer Hub for Training and Compliance - The Light Sound Journal",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkxsWm53Y3FWMS1qSWZlWWNlZVYwOXc5amE2c2t1LW5vS2d0cjhFd0ZLM1A5dXlaX2ZRSGpvX3U4cldlN1VwamE1OGNPdjZnbnJ5YjhqWVp0a1Y5S0h1aE9KZVZnUllEbzlfRy0yV2pNSFd2WEVWcGdMbHVKTklCN1pPd0NyZlRNMnE3Y09JS09vQlRvVjdtUWt2TmNUMGRMR0lvQ3hn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Fiserv (FISV) Launches Commerce Hub Globally - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVp3a1o2QjBDNDhPZ0pyaEZpZDdJeDVyWldLS0VRc1FPdUFQQnFsR2FLNkNWdUhPbS0wSm03cHU5WmpKNExOVFNRWmdLRFVvR0dXZ2o2M2FxdUMzb3ctQnpsa1BxUnc0UGs4dFNFMkpNYTRSRXYtNFhaYW9YeXVlUUZOUWlUZG5veF9nZ3UwWWgxOWpRUkJKUUQ5eTRIUEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Baptist Health launches central ‘OB Hub’ for delivery hospitals - - Arkadelphian",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEVJQjk4d2Y5ZWRET3VZUUFiam9mR05WQnJrR3Ftd2JpWVFpNWNNTS1YamYyWlJzVE40SkF4bDI5NVNwdjk3YTVEU1dnVG5raldJZHB6TGpsbWpWcFl1U2JWS1RMVEt2MWRaTWlSSjNTUFlwcFgtT2lUUmxjeGt4NHpZMHBCSjRtaVg4aDUtbnNyWF82NHBHeGxINmhXems?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "FOX One launches interactive election hub with real-time polling and race analysis for midterms - Fox News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDFESS01Q3d2b29nSWlpLTlhTV81OE9NR1B0N0phUzFhaTlBMmFILUxySHJkQk1UN0E1c2hReDY5WnBzUnFlNFpiMGFSS3hibnNKN04teEVkR0dNTW1YQlUtdkVZZXkzZTJxQjZZVUp4Nk9wSEgxYnkwN3ZjRkwwX0JkeDRLdUpjcEdXRnVmTDVCQzdNTXZ5WUt4bjNuRGd6MEl0ekVPYWNQYXZQV1JoVkN3?oc=5"
@@ -112,7 +140,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI' - CNBC",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PNUZZNFhFTmlua2lQZFVtcldXeHFWQmZuLTYybE1BSHZTX0FzVEhUbDhmaS0zamJtU2FUSW9iWWtoQXJPZWdhMFA3dWl6SGJBRVUzLXk3dzhxX2UzRWVUZmZ3M2tWTlZVM25UczlR0gFzQVVfeXFMTmlnbnRIRzIzbTBxdUJaWmFYS01YVGFqZDAza19RcmU2X2c4eVhTcGN5YnFKMW16c21lVmtsV1ZfSW1EbFc1Z0JpUHB3aG5NcHp3VjduQndESW9ESTJCQkJzZDM4Z0ozeTREQU9YNXlIdkFiWQ?oc=5"
@@ -126,21 +154,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Apple launches first endeavor into smart home hub - NBC News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGp4MC1iaWdVSmtTMzdWdjcxR2tFMmk4ZERTNTFNS1FmazR2eGNIWnUyWUs1Szl2TXk4YVRraUNDWS1iTEFLMmVnVzdlUTVsZmlvcXFVVHdoZnE5WXlQcWFnbU1ZUVJFX0diM1puVDJsWVkwVnJUbVp6X245M3ZucU5OQUtkTHpRQVE1X0VKT1gtLXAwQjhzSVY0M0JIUU1B?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Apple Debuts $299 HomeView Smart Hub Alongside Pricier Apple TV 4K and Pink HomePod Mini - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tcHFKTHBTZENscVdpaV9Sa0dPU1BnUGlDdks1c2xORlpuTnZ4YXlXTjVORVN0SndyOG5oUFFnUmtuVEJUbml3NkVGUlhQWGZhb014T3hVYlNrUzAxZ1Q0X01BcEpDOWdFbnpLazV5WTJMYjVyN3c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Monument Health launches second Community Heart Hub - KBHB Radio",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51MlBuUFFaOTBSUmEwZ0kyd3RaU1Q2NVhseU91WGl6a3pjVDF0R0dlbmpoWHprMUZFSklheXFEZG5KM2NQeVFFeGpKUEtiZncydVRUYkNxdWJwbUNxd0Z1amxhNFRPQjUxWWp3R0pnRlliSjJNS3NPUXZjbndzcDA?oc=5"
@@ -258,6 +286,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

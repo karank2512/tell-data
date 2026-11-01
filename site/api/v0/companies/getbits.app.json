@@ -1,9 +1,9 @@
 {
   "domain": "getbits.app",
   "name": "Bits",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.8,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Introducing Scout 1.0: A new SRE model powering Bits AI with frontier performance at a fraction of the cost - iTWire",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSm9GcGtiTTU1X3Y5aHR4bVJvM0JxYU9peUcwVmprb1didXdWX0JyaTJsQnFrR1g0QlFYZnhNNmh2NE1fZHNwZ3JGcDZfOFdDSWtyMVdkR3NxUTVfdEdJcWh3dDZaeWlsWGVhWFdqNEh4TUx5OHpPMmctekpuRUpTN0dyeUtIc2VNTGlDcVdhNmVwV05rRkIzeUpWSXZqV29tdDZDMHdJaWZ6dy00TXpSSlpoWlpLaGpiY2NEdmxwVkJLMmZqUW9FRjVvSTBobWRReWF1SnRnYTYzb0VvUHhQZw?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

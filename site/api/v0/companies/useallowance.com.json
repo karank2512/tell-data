@@ -1,10 +1,17 @@
 {
   "domain": "useallowance.com",
   "name": "Allowance",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.1,
+  "score": 3.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Tamil Nadu Sports Policy: CM Vijay Launches Athlete Allowance Scheme, Honours Para Athletes - Sportscape Magazine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDFIbE1rN0lncmRsdXpqWU9QYVBQSC1WcHM3QmhyNE8zWE1TOFAyTnNVb3pyeTFsNkdERmxDdExTZFdLdURtVV9VQ1RIcDQ4VmVoNWZ1d2xGcGl6b0p2TVpKYWdHbHhZT0FjR1ZDTWREOTE2UnlYNzlodms3S0NTWl9RYzRXNWYzMVVrMnczb0g1VDZ6N0FNVUF0aGhjZw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

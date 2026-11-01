@@ -1,13 +1,13 @@
 {
   "domain": "hirenimble.com",
   "name": "Nimble",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
   "score": 5.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Pandora Launches Zodiac-Inspired Collection in AUNZ with Jack Nimble — LBB - LBB - Little Black Book",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zWV9XM2JDYjdvelpSUzYwWFhGb3Rha3NTRU85S2p2b2doWlFfQlFUZXpvamdBX3dTM19ZNjdvRElyMXlaaHpsRTE3eVJmbWkzcnhSNWlWSEtpcUxDY3hRUUx1VjNsVG1Ob05IaTV3aC1oSTlY?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.2,
       "occurred_at": "2026-10-14",
       "summary": "Jack Nimble debuts paid internship program amid industry hiring challenges - Mi-3.com.au.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXYxMVZPOG9oa2pMR3l3ZGNIUy15QVBHZnlIeWxVV0doaUhNMGNUQ2ozbEExYTdLQmk4ZDFhUnhFcHUyclRHSGtpLWVEUGtvMktUcHJLZmNzSjV5U1VOOFNKOGdrd0hUckZqWURJaGhhWTBIQnBuV1JQazYwc0UzNXp1U0plMWM5UlRmUXczTTRUVU8tWE5kckhYeTMzQTlVdzkxTTlTbHZfSERsWUE?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

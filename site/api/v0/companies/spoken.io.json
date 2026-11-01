@@ -1,9 +1,9 @@
 {
   "domain": "spoken.io",
   "name": "Spoken",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "From Voice to Action: SpeakON Introduces SpeakON Agent, Turning Spoken Intent Into Structured Work - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWWxpY21ScTJfQ2I1Q09DRzVaWUF3dm1iSTF2cHV1LXJrUDVMOU9nS3RHUmlIZ3V4bFlSeDhfSDVUQURUNVRvSURvSEtPbzZQbFFzNkhlWHA3QmJWbzFONVY5U0VhbVhyLW1VSjJ3N3o5bVNER1pFYjVBV2JuZ0ExZ2o1dTNkWVB1UWZ0c1k5QVR3amhuaTh5SFFiaWl6NkMwN1dORktuVGRQYXpaX0E0WDg4YXFwdlpqbUNjeFl1aWVjdnViV1AzZ3YxTUI5b0NkaTJKdmVXenR5VUUwYWRGQnBrbkNYSzhGNlUxQnFvdE1hdVNQV1kwTnNrbzA?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

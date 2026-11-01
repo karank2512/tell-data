@@ -1,13 +1,13 @@
 {
   "domain": "fuseinsight.com",
   "name": "Fuse",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 17.0,
+  "score": 16.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "Fuse Appoints [person] As New Head Of Fuse Colombia, Strengthening Presence Across Latin America",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVpJRk43eC1ZNEhpLW9YZklWelUxNTRZeW1wc2J1bzZnZTdVTkUxb2V1YTVDVngwRTJkcDBoaHRua3BsSDVfOEpaSkJlcWw4OUxxdXpac2xPcmU2MGM5aEo1WW43M3lvQnRXWVJ2R0RRQm5aMXRmNHliSWlFQTZqUnZjZlV0NFQtZlM1UklscHVtN0ZaWW1UVl9JelhkN3M3a1g4dm4telo2cmJib1IwMGZ1RzFrdHlSaGhsVS01MjVyTkF0d0RZ?oc=5"
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Business: FUSE launches Uganda’s first social enterprise cer - NewVision.co.ug",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSmxKLVZkMk1yX3VfTkJhQ1dpYml2NkFlM2JWWHNyM2RjUGtjMVJxNE80cnVnNXBSbGYxUFN4MUdjdmF0U2RzNkI4RzhwNU0wbnhvdDlNdWtMZnJxbGpKVWlMUXpZNnRRdDJYWnBnVkVtUThqcHhlQzNKdThudjg5S2QxYWI3Tk1pY0dTRXViRC1wa1l1S0xLb2p4bkNzYThDb1RHbmxQaXBaUXVr?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Fuse Energy unveils plug-in solar and battery system - The Eco Experts",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tZXJ1VmdCY2hja2FMUVhpZHI0ZV8yYTZLYk5YX3dkM1JQaHVWd2dwSmFhZUttcWNXQ0Z4TEt1WWdDazFaWWQ3a1h5eHM3NVRONURkeWZwR2RKMTZIVWVnUmhzako5NHduNlM0Yk96SmxmNVp4ckdn?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

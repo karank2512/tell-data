@@ -1,16 +1,44 @@
 {
   "domain": "fathom.ai",
   "name": "Fathom",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.1,
+  "score": 15.2,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-29",
+      "summary": "Fathom Therapeutics Appoints [person] Chief Scientific Officer Following $55 Million Series A",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMUx6SHNBWXNyOTRLbFhhalYwWG1fX3dpeTl5QmtMSUIxdlNzM0lyV250cExPaXRYLXoxUFdJZVMycndSTndYUGxMUjViSUxVeHNxa3ZmSGNLcG1FUkZIR1ZQRm1SeWdaY2lWQ3dOekNYRk1lNmFoU3FoQ0d3ZTMxRmh2emFqSUxuLWIydVZLR1VISHZzTUdJdzlqUnhRYVVaMmJWTVU5UW12RnkxeDZCc1NvaXducUNlcFR4ZU9qUlFaY3pHb3l3YWpQeU5OOWVDNXc?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "Fathom Therapeutics Appoints [person] as Chief Scientific Officer to Translate Microcosmos Insights into a Therapeutic Portfolio",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRmk2Ml9mbUVqSDNSYkR0TWRPNnFkbTdXbmFkQTVNSDZZU3pTal8zSi1OMVNXVjJPQ2hsdXNpS0RSNVdTY1hwS01udS1KbzAxRlVxS3Rab1k3WWxNWHl5ajhqeWZHTkdPcGhqQ3R1VEtDWlhyd2V1d0c3ZmZieHp1Z0tyM3JoWGRVOV9tQ2doNWRQU2Y1V3p3Z3ptWkF1RUZhRlhRa0RGZXJvSGl1cHJwbzloWEc4TzljZVc5X1BWT05md0dkal9MODlwcmNQRHUxVmdlVlNCbDdpbHRpdFh5a1ljeTZ6S29UQThQeVhWdDU0azlKcDBXbndjWll2ZUo1MkpLd2ZrSG9GMTZWb2ttaUxGUjJKZU92?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Ford Fathom Pickup Officially Launches In Q4 2027 - Ford Authority",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcVNpdHA1YXdvQlBDVTZ2TlFkYll2NDRNM254SldFTVVWbEl5XzBTQkV0b1BoNW5EaDZobnhHV3RqYkdFaW5WaUJjY3JwSDA1dEdNQXFKRUxkbnhMbXhHSDhDdEoyWWdLMHpweElrMW04Ym1GeW1DU2laNTI3dDl5V0UzOW5taV9odGZIUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Ford unveils Fathom EV with built-in inverter for bidirectional home charging - EV Infrastructure News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjdzVzUwTlRCdWdleGNUSHRMZ0pDamxDQ1BLYktwbXZpV2lRZFpXNnk5UDJUV3QyNDNlN0ZFVWREV0JUUUExeVp5bUFnQmpHaFFTbWx4X1d3OFBIbUg3cnk2ZWgyTFluRjkxcV8ybnVpb2EwVXppVzNKN0hSeVVyRUJ6RVVaYWFuekI1UlduU05Ec1d6YW53eGh4WTJYQkxFM082aGd5Zlp6d3BaV093TEJfc1lubTJ3dENmTDFQYUVDMnRCVHEw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Ford unveils $28,350 electric truck Fathom as it targets affordable EV market - Asaase Radio",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3NyMnh5VnhYSURuVkY4VG5VdGZORkNBaHRvMkdPTnZhVkJQQktVZHR4d1JhYU90QVdXNmk1ZEh0aFlxdXBFNkFuYWxsa3ZjcmVJV21QMVhULUJxYVJHcXVhMGVGcTMtRldtSl9VWU1Uc1NIZWw5TExoSExzd19PNjV5UlRINVdOMUJqUThwenR3bFdJRXlDd0VLUTZ3R3dzQmc?oc=5"
     },
     {
       "type": "launch",
@@ -62,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

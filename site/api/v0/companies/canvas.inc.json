@@ -1,9 +1,9 @@
 {
   "domain": "canvas.inc",
   "name": "Canvas",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 11.4,
+  "score": 11.2,
   "contributions": [
     {
       "type": "launch",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Meta introduces multi-slide carousel canvas in Edits app for advanced Instagram post design - Adgully",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQnVPOTJxMDJPc0paZ1ZRdlhRRktfajRLcHUxM0dseXdQTmlwRmVFZ1A0cDFKMlhzcXZvOUxydjI5ZHIxUi1Va29jcW9LaHllTU4yUnpzTEo3YUpsYTI0SXRrTlNtVEF6VlV2WFNuR3h2QmlUOWhHbnlNSHFnNi1FNFg4Vlc1UDROblR5d1BOVmlIZ2kxcXZFVWgzUEVjMld5T2FKUnBPVzlWZTNlLXdZTnY0NGg1aTBkWjk0RUpsck5BQVI4?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "VIEUNITE PRO LAUNCHES 33-INCH SQUARE TEXTURA DIGITAL CANVAS FOR DESIGN-LED PROFESSIONAL ENVIRONMENTS - Bar Magazine",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZDBrdUlxcTRKSzlsM3NCTEdVN1RYTVZvZWxmcFlsYmZCdkZTa0M0dXJINERaeXRzdW5FY0hWem1YMGxvYnhNQ2ZyZDNqQVpILWpxUkpFNS1kS01rSGdFblFVUWpFT2Z4TldaLUhIcnhDRV9KMFJRMjFPaDJqVjRLX2ZWVUtsTnZ2SHEtVDhMX3hDblJDWUVGdmhxSkFnRHB6cnFmc0JkZ01Gakx0TW5UcGdEZjg5UWoxaktTR3BPY2VnakVkdVE?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

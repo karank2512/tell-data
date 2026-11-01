@@ -1,9 +1,9 @@
 {
   "domain": "expand.ai",
   "name": "expand.ai",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.8,
+  "score": 13.7,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Cal Poly Unveils NVIDIA-Powered AI Factory to Expand AI Education and Research - Cal Poly",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSWpQY3YyeFRWM3E1eUJPSmpHSzlaWlBVVHQ5NlhjS3F3OTdWOXd3VXFWZVpyMmJfeGQ0RktRTW9HazJWUHh0cGFHZVFHSFdnSTRGNHFQSFdidmg2UHlKbjR6WXYyb3d1RkNZdXB0UldadnhRRFZ6Y1hJR0puRTlZZkNsUVlXaENtb3M2M3c3RURTUF9CR3czQkxmdUI4cXNuTndhaXVNQQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "refine.dev",
   "name": "refine",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.9,
+  "score": 4.3,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-19",
       "summary": "MAB appoints [person] to refine homebuying process",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajluTkw0Qmd1SUlHb2ViMmZHOVhtdmhCRUJEVV85Q082VjFYa0E2ak1BMUF4NGMyeDE3ZXRWTThyc3RFYXZmeTlCdXVrLV9oMXY1R2lrY2ctaWljTy1VNVJrXzMybjJCOHhvRVgwbGZXUWVoZ3VPd1pTeVpBRzlRY0o1R05PM2c1NHFtN1FTUU1ka01uZW9rWEJOS3lTYjdONDA5NnNkVGxjbkliYV9FZjRB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Ballymore Resources (ASX:BMR) Launches Geophysics to Refine Mount Molloy Drill Targets - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFlRUVQtd1pDMDBQamNiRVpLOWVhRzFwOVpibkJoRmdfNkV6cEhSOXY3SHIxOWptMXZhY0hsUzdNMEFMVS1pZTFic1FjNmJ6V3pMdWRRWURTMFAxemJFbUxNMzFfVDlCLV83eWFTa25ERW1MVEtZNEZKakhMMlltTjdsRHpQQWhlUmJXWHJBOEJ6NjAyT2ZqS3B0bGVqSlNpTmZvaEZuNU1VTXNPVUhVRWRGN05mLWNwbVE?oc=5"
     },
     {
       "type": "launch",
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

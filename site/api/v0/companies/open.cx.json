@@ -1,9 +1,9 @@
 {
   "domain": "open.cx",
   "name": "Open",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.7,
+  "score": 9.0,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-29",
       "summary": "Camden Hills wildfire planning process launches with talk, open house - PenBay Pilot",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDFuNEdLa05rTExIa1FCUjZZWVUtUDZscEw4X0ktaGQ5OXhYcVc0TFFDaDF3SDJUWk1KNEtJTXEtOHhuU0NmeGdZc2RNdVc1ZWRmMkRsVks1cFhDN1h2TTg5cXZNbTl3Wkk2NXlkaDhHTjMzOTRYdnhlaXBEY054Yy1YM09ZUk1mM1BHNWVDaHUzWENwRXRfbFB0ZFMxeldSOExScF96MlNOUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Introducing Replica, an open-source AI prototyping tool - The GitHub Blog",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGF3M0hrWThMWU1RaHQ4Y3FCV1VHY2ZWUWMzVkNvcW9DZVhvQVdJS3dLRDlyWVdoLUFtMWRhbDh3cVh6cnFZNkgyMV94RV9SYVpQbm1FUVllb2F5eUMzOXBrajVhSUxjWVdmUWpuWVBSdmNVZ0pVcHNKMVExZnBCR0dCNzJ3LVVrZ19uZXpieHhpOWNQSnRVNTBDQjM?oc=5"
     },
     {
       "type": "launch",
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Nvidia debuts three new open AI models - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVW9sWFJ6TXBCVE1GNXVKV0g4MEt0WU1WUjh4WHkxMmVrOHdIajlLMXFZZ2ZZWk1uUVlxclpfVHNFYV9QT3QzRHlsTGlZZGlsZEJ6SGJWNFZ3NTFYZ2M4YUV3dm9tQXRQOGl2M0pOVDRlN1UzMU9seV9IZ095S0pBNFA4VWVMa285RDdaN1h3dzNUWnk3NXNxUUE3OXp6Sk0?oc=5"
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

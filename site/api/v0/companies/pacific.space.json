@@ -1,10 +1,17 @@
 {
   "domain": "pacific.space",
   "name": "Pacific",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 8.1,
+  "score": 11.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-29",
+      "summary": "Pacific Media Group names [person] as President of PMG’s Radio division for all islands",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2hGcmRDLUQ1WkNCRFdUdkJKS2lSTjVTTS1KSE9kM3REUEtLdjlyTVRWUWhSTllVSjVHWl81c3hXc0FuMXFmY2ZiSjdkQ1BfTDF3SGh4bUU0THpXYXRGeHVPVU03U3ZFNHJoOVlyNnBJV0hmUE5YQUQ0QllsczQ2RmxIS1pMYWpnTThubGYzRHVYTUp6UWtLam1jcU41aXpqNXVHdTNNdl9JUWt3OVpUaEZuRTRsT1NNM2txaVlHQ3c?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -21,10 +28,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "Disney Appoints [person] As Asia Pacific President Following Luke Kang’s Retirement",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWERyQlpVbjdFbFFaSGVmNXdsbE8yZTIxUks4b2E1QW5HRGE5LVlfRkxvY1NuOHBiSVlBVmNfT2xXcFdnZUg1czNEMnl4ejVaQ1dfVnNKU0xFRzlrWGxrUFcwRmJnbGNDV0dIdklqbzJfM3J4TFAwWm5EYXd0bmxrLWhFODh5VEhT?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "U.S. Pacific Command Statement on DPRK Missile Launches - PACOM (.mil)",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHNYY3Yza1BJaTFsWFZpOE9wVDNkVjY1QW01QjJtOUhfREU2SjdOLU5fSTZLa0l3UWdxb05WNEkwLUEzTmh4bmxrcDY3amFnX3VHTVNrSm5uZzlTWjBJRkVyc0ZJeWhwMXdhSG04TlVZV1B0TzVmUGY1T2RLV3BTTmVSUG9lSHFDd3NpOE84MjNKMF8xNDhfbkdta09MUmVZWVdfUE5DNU1aMGs2WTk5WU9ZQmsyUHlG?oc=5"
     },
     {
       "type": "launch",
@@ -48,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

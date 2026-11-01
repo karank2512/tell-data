@@ -1,14 +1,14 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.9,
+  "score": 8.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-28",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/docker",
@@ -27,6 +27,20 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-01",
+      "summary": "Retiring Docker launches Zippy bid as Freo resurrect Wharfie Time - The Australian",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWWRjMHA2LXJETURrSXlWTGRrSlRfRU9pSi05THcyQ3kxWmhaWkNNcWo5V1lzcUxOOGJLVWpLT2lmcWNqY042enZKeTVfLUtOeU9aNmZ0dTVsZEE0OFRXQ3FsTTVnNkwybmJNY1drMUp5RmVsLVA0Um9yeV9NRU03cDlhclJNYksyM3ZNNXBNMktsRGhPRWJCS2V3ZmZCc1UyTU5pYTZvQlVsdWlWNE9UVndCczNiWUVSa3Q5Skl1dnUxUXNvaDdOYVlJY0dpaDJkLUJ3di1hQkNvOFBkNWI2MGd0WjM4NlpYaWJ3Z0kzY0VLSzVRaEFjQ21QdEpZLVM4VGpBbWR0WnE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-01",
+      "summary": "Retiring Docker launches Zippy bid as Freo resurrect Wharfie Time - The Mercury",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSTJ4NjZUVXpTdmhFQnJISVJrRG9BV01iOHA1N3pfYUNvTGlxVEJhdGNqZFI5UDRnU3lleGh5ZTVVTVBRaGUwYjVZTjZjQjhaT3RIQ2ZJYTVwTUZVaUFNY2IxLV96SjNUZjNFNWJ4aWRSMUYyVTB6cTk3WFV3QnM1MktIZ2IxZDk1VC0tR1RWZ3hPQWdDcDk5bnRUZWEwbERqcVFTWEoyZkJpQUx3OFNmN3J1SmJmb3lwZ2tVWUgtVElNTkVFdk9pOEE0Y0VjU0NXd09GYldId2NnS2NHRDIwMkZheTFyWmRvYUJsVjNSbmlkU18xYndXY3pFVE05dnlYaDZSNw?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program",
@@ -41,7 +55,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-24",
       "summary": "Introducing Cloud Sandboxes: Start on Your Laptop, Finish in the Cloud",
       "url": "https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/"
@@ -79,6 +93,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

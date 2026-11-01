@@ -1,10 +1,17 @@
 {
   "domain": "camber.health",
   "name": "Camber",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.5,
+  "score": 3.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Camber rolls out buprenorphine and naloxone sublingual films - Chain Drug Review",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTZVRGdlQjJYQm11b3JFVUJyclhFUnBnanhuTlhEeUExOG5rYjBkRU40U2JNSzNDeGgzblNOWUV6Nng3ZzdDcmhiNzVZYTlXU2Mzb3ZuRlZxSnhGdEJtVzFlVXFGZzR3Wk1EWFh4aEZNSXR1UDRzSEVFM0JLTkJhRUhaRC1kTXpyYWE4aXhWSFh6ZGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

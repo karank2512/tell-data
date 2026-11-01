@@ -1,9 +1,9 @@
 {
   "domain": "kiko.com",
   "name": "Kiko",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.5,
+  "score": 3.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Crocs VAALS x Kiko Kostadinov Releases October 20, 2026 - JustFreshKicks",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4ydVdCWFZEM1VJak14UUFYY2Q3TF9odzk1ekxDdWRzcjhWWHg1dnM0QlBrb0puUl9PNXJKdHM2ZmpqT3NSdkZxcDZrZGk2TW9zMmRuOUtFQ3ZaZmswbWJSQzU5TDdSZw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

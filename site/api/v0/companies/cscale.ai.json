@@ -1,25 +1,25 @@
 {
   "domain": "cscale.ai",
   "name": "CScale",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 25.2,
+  "score": 25.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 25.2,
+      "contribution": 25.0,
       "occurred_at": "2026-10-01",
       "summary": "Form D: $194,999,885 offering, $144,999,891 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1975623/000197562326000005/"
     }
   ],
-  "open_postings": 25,
+  "open_postings": 24,
   "long_open_roles": 9,
   "sources": {
     "ats": "greenhouse:cscale",
     "edgar_cik": "0001975623",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

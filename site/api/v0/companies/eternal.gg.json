@@ -1,10 +1,24 @@
 {
   "domain": "eternal.gg",
   "name": "Eternal",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.0,
+  "score": 14.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "The Grab Society releases ‘Eternal (Halloween Mix)’ single - SIDE-LINE",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkQnUxcWJrVE5pU3BhSVlXWjkxVlBDR1Y3cnhtaG9fcUdWUnFVRXdBUW9wUmdYbmRONWxuWlZfYTdSa2lWcWJveGVwNXVvMXZFdERiNkF4aHdnSDU0WUhyZkNHQVFXMEl1LThiaUZB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "THE ETERNAL Unveils New Lyric Video for Album Title Track “Obscured Horizons” - Metalheads Forever Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFFBZl9jMHMxdlNHRENLME5UQ09ZaXlqTUlKTHgzZ2FoUmN1c0RQdjI2ak5kRVVZWkR0ZWFKMmpZZlZzTUhhZUlROVdhakd2d2M4UDhTemlaU1VQWVBzd3VqaHp1TGI0NWVuZTQzUXdTSGZQam80ZXlhazd1RFpjX0pQUjNTYnRsdVBNWHh2cEdLVmRpYlp1dVczaEs?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -63,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Akira Back Debuts in the Eternal City - 360 Magazine",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwM2xKcHNWNFJST0RhLXVsSXJVaXotTFJPYjJYOWVOOXowbjZyT3dmZUlObkc5bTV4WTdUbjhsYWdmVFhCeGg0RmcyanJtR1JwUnM5cEpvelpmR1hYc3dmNk04aTJPckh3NHNHeEQ1NE9yUQ?oc=5"
@@ -76,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

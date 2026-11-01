@@ -1,13 +1,13 @@
 {
   "domain": "faradaycompute.com",
   "name": "Faraday",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 22.2,
+  "score": 21.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "IET launches Faraday Challenge for STEM - Machinery Market",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm53MjhiS3RLRXdfbm1LNmdodjZ3SmQxQ2dqZFZwUDUxN3lYV0MzZ1ZEOVRpT1BYRDBaWHZKN0ZPelZTRUwzY0FENXd2bjNCcmg2YUctX3dFcGJNUExLM3JHREFVdUd0aFFFLXkydlBqaVV0YnVma1RMU2dlX3Z4aU8xOEJyU2FRN20telBn?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-26",
       "summary": "Faraday Future debuts $89,000 humanoid at Brooklyn Bridge Park - NewsBytes",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQkdiNU9kSC1XNVpiQk41T0Jpa0dyaE9CVFI4aUlMQUlCY05sdFlqYjFLVEpKQjd6VnEyZzB1SnZ2aUYzWElGYWtfQ0duRi1yRGpQcjNFeDNPdkI5LVY1OHppbUhPUGI2ZXktRUh0UGx5RWNDdzExeTdqZDRDUm5vb3pDenptTC1GOFdMOGQxX2ZJZXhET1RaRnZmRlp3MmtRSHdsSWJKaWZWUGc?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "The most powerful superconducting magnet ever flown to space, made with Faraday Factory HTS tape, launches aboard Starburst-1 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWTZ2SC1OMjFlYWFuMUZPa2FPY2otV0Znc1huYUFKZVNIbEVfZ1Z1a2twN1hJSTV1cEprcFo4QUVqYldneFNtVm1xRFNfdFZCc2h5dXVaLS1jTzFzckdCeHdSX1ZfZzhvRVJ3SWYtbWd6SkxvbVRJek5mNXpocVlJYy1fTTdXME9OcC1qZy0tODdTOTBsNnM2c0pKdjdZTFFuMmlSc0NlWjF3R3NmZUR6WmZUVlZFdzFOYng1VUxWUUxuMzlySGJXZS1yWV9xZlYxanpkTnhMSk1VOFFCbHkxMldtaEZPaEZaSkVRc05fZUhidERkWWY4RlBwMmdWSVY1UGJkVENRaFRoWU0?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Faraday Future Unveils $2,490 Nova and $299 Nova Mini Humanoid Robots - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzgxeVhoX3BqOXBHbGhBdlZ2cHA5NGMwR1ZMVXdxTl9GcUhSTi1RNnZjWUxMUjZVWVdCTU5xVFVWcWFkMHZOVWJqZm1KaUVHSW8wU3hPbmRHcmhZWmlCelVadDhOVWVNRkJWbGh4S2dNbDhueXRHdEVUejVLSjB3LTQxSXR5TTZuU1U4d2VyZmQtMGc?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

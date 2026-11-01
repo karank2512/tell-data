@@ -1,13 +1,13 @@
 {
   "domain": "mismatch.app",
   "name": "Contrast",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Lamborghini unveils Temerario Tettonero; Centro Stile comes with five contrast paints - News9live",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzlzb1hUcXloOXI4bko5ZV9Nc3JLUDRlckItVGpveGhTRW5nMTR5REw2Xzg0dTRyQ0MzeUdsOHI2OFRrbWZkTElHNEJ3S0I4c3NNUGpCTEZmOU5rMDR3TlFhYy1vSEEzaWJWWGVKZUloWVloZzhBN0dHSzZlYTRGVlZBTy1sRkYycXJnRWlwRlNYSXNxNWNyVnV1a1o5THNvZVJTM0tMTF83c1dxc01GTlpUcEktYzkzeTlQSDBPT2nSAcYBQVVfeXFMUHBYRTlfaFNMOHRwQ0k2WnFtc1BMUTB1ZC1UU2RDYWxRdmpHQXBYOXNLNy1TelFFYjZOdm1iUnk0Y1FpZ3J5bkQzTmF3LUYyTlVOb1VxOEk5LTdjb3VzOWg2SXAxd1BJZDAzXzRRbGRNdVE4MHN0LVVJNTN1OHJuOUsxVHAxNnh3aDZXMlltbFdjdHM4R0wxRFBUTHJOSVpvUThqRHluOHcwZnVfU0RDWk1xdkxGTklVOUdiQU8xYVdKY2RPYkl3?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

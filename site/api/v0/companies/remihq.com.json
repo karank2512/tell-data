@@ -1,9 +1,9 @@
 {
   "domain": "remihq.com",
   "name": "Remi",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 19.3,
+  "score": 19.0,
   "contributions": [
     {
       "type": "launch",
@@ -84,21 +84,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Remi Wolf Rolls Out 2027 North American Tour Dates - JamBase",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aUGlTNG9tYTlsMkFKaC1ZVkpPcXMyaEh6eDRsZzdTTlFOMXlTTGptUUEweTBHcUJ0TzF6em9MYWdTdm1OV2E4RlNtNWdEb1V0b1pFZEVxYTB3a2hnby1VZjRtelFvRFJpUUxZcnViaDU1Njk2TktsVXB1MA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Remi Wolf Announces 2027 Tour, Releases New Album Mud: Stream - Consequence of Sound",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02RER2ZFR6VVp6VU84NTJiWU5uX3pJYUJTSHI2elZiZ0ZTU2l5OXpkWWRhZ1k5LUY4X1AtMmJaaGRZcy1MTTlfSWR4a1Rrck9oOFpZYUN1cERVQ1V1Wkt0Uk44VVVtT2w0VDNacWN3eHhEMDJCcWE2NnJhb05GUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "REMI WOLF RELEASES NEW ALBUM MUD OUT NOW - Umusic",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUQwWDBhMEJvTmlpaEd2MV9FV0MtXzFCVVVCU0lVWlNiYnBQSXRqSUdvMzl4VXAxSllCTHZpVk5GS0FzdjVZM0N5NGhRaE1RdjlEMHU0Y3dUSGJMV05ybVRabmZ3ZUwtaG1TOFNfMm1OMTJYVUxxZ1B6V3NYRTN4YkJHSllFUDdibWc?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

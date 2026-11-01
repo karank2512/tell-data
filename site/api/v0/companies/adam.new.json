@@ -1,20 +1,20 @@
 {
   "domain": "adam.new",
   "name": "Adam",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 16.6,
+  "score": 16.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "‘The [person] Joins Channel 4’s Production Biz As Creative Director",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMVk5M3FvVjNMWE5PdGI0a2syeGJ3Zy1kVjZTV3o1N01xMEtqQTdBMXdsNjlaY3dHcTVTNGxjMUhHODlnUmduSEJ0OF9iUkRRYjIybFJsTk4tZUpUV0pENDJFVmJDdUpNLWw0c0hkZUtYclJsMkk0RkxnbENWUkVMVU1kSzdYM2EyVExWYkJEaUdiUQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-19",
       "summary": "6abc promotes [person] to Chief Meteorologist for Action News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPME1oVFRkT3ZBMFRnMjlCVE5FSUItZVJmUmZUNjBDR0ZFQmp4Qzc4cWFVUWRqbVNVTEpELXF2VFM3XzhCaHl6dUZKZEN0QUxIMTNnTEZac1RCVURwZ0M4Z1ZsLTI0WVN1OXlJYnlJbnF1SG0wV2lWWENDdDlXQm1aZEVQMjF1RVJpRlVRazRQUUxXOGfSAZgBQVVfeXFMT1Q3bXFPd2pKTmVWWTBvSWlVSWdXcDB3Z2kxdmc4V21BUmJ4SG1ETFdhd1VfU0R3VzR1ZmZ3RGROMDJYVjVWZlR6azc0c1UwRlFkVWl6azZhWDE2UkxvZEdQUUV4TWFrRmxZVTJJN2pONlo2WlhUbTVRVWt2ekJTWC1SaWRQVG1abFM3eDVscGdlTEdmcm1Cb28?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "IDX hires [person] as Chief Creative Officer to drive multi-market content and brand strategy",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeE5YN0JPVTc2VVdaR2ZyNnJxQnRwQ19TYk95MXFwcndNbm5GV0hoTmdNdTFwdjZsQ0x0UGR5WDd1Z3ZkME1qNUJGYjU2SDNCUGtGcm1td2ZiVlE2eXRYMF9Yc3RtRVdRNm5jUmpNQkRRNmZyaUE3bExiY19ZWmUzZGVUQkdaLTRlTDRBSnZrRnZXUWt3Mm1uVDBvazZkZw?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

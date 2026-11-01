@@ -1,9 +1,9 @@
 {
   "domain": "caseyinsure.com",
   "name": "Casey",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 23.1,
+  "score": 22.8,
   "contributions": [
     {
       "type": "leadership",
@@ -84,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-26",
       "summary": "Casey’s launches pan pizza - C-Store Dive",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1ajJrcHR3V0Q1T3VSU0dibEYxTWRRTkRRTDVabkl3SXItOXhHUzlBeUdPS1VubjBmUmI2WVV6VDdJa05vWFg3S0hlMnl1YXVabkNFdnRscTFBazZEUkNydEowUUhKZ0pLRkRabXVQV3Z6WDA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-26",
       "summary": "Casey's launches pan pizza after 2-year development - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONVV3ei1Xb0dKWXVOTy1zR0NmV2MzQ1R4bDFJMXJoNGoxZWxaYkVCNzEza2dfVWpxN3VqNWc3UjI1b0EtajZSdFlCMzhSRkprQ1dWZG9udDkyUDltYWp2ZlF0NFhXTkptUWcxVHBmNjdrZ3czb1RKZEFsZmdlQnpUcmJMZUl2U2JmM29sZ2htQlVGeENrOURfa2EyMW1acGxNTWc?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "DCCC launches ads aimed at Hispanic voters in CD 22 attacking Casey Askar and boosting Pia Dandiya - Florida Politics",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUDdtdmc3TnlMVUtQQTZDZDJ1WUQ5ZC1iNmhrRXFDMFRUWnVQdGJTbk0xSGFjWnBxMENHbWtuZkRuV2FqQ3dXTll1Q3VybUlKZnBhSllhRkxyeTFIamF0NkRyT1JNOVBvTjZJLTFDbmJVRGtJd2pzcjlHV0RQRzl4VGlvSVBsYmVhZkNRWTBJZVY5S3B3ZUpkQVNXU2IwRk54TUpoc1MxQUx6WXRyUlpTTTA0ZkVLdDJYeE05NmdLYS16NmJkVGZVcnZnUy1Ga2lwMzE4TW53NUlQUQ?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

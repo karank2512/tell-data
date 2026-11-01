@@ -1,9 +1,9 @@
 {
   "domain": "charm.cash",
   "name": "Charm",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.3,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Gold Fields launches charm offensive to woo Northern Star investors - FT (GFI:NYSE) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkY0SGFhNmJ1a2dlaUxoTXB4a1d1eXAwMmFXa0ZrTEJncl93Tkg5ZXhkWllfc2M1aThhQlRQNjhMNDBmM0xtUU9xdmpKbU53YlBXaG90UmVYQjE4WWNrUmlEWHdqOF9fZG13YmVQRHI5S0hsT3g2TW45NC1UVXRXQWJNNnl4S1d1VWhocXRzZmZQaU15ZGhuQ0tDaVNKLUhzeS1iUGtkOFg0ay13?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

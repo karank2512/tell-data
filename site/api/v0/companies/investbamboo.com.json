@@ -1,10 +1,17 @@
 {
   "domain": "investbamboo.com",
   "name": "Bamboo",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.5,
+  "score": 8.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Bamboo Connect Launches £25,000 Hertfordshire Charity Fund - Charity Today News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenNCOEtZNTRnR0FpbXJnMHFmaWZPS3o4OXNZRWh2aXVGcU04dmRjZjMtUGhjT2JMVGFMeGdVUGZ2QlhHWVEwZU0wRURXd1dTcDU2dlg1T2x4ZFlKTE9Rb0MtcV9MaFktWjgwRGZvMWhYWUotRS1KdXhJTE1XOGJQaDFqYlZWeDFuWUZoVVZGUXd5UQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Anwar unveils Budget 2027 outfit and folder crafted from woven steel wire, bamboo and recycled leather - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVV6ZFR2Skp0NHhKOURkT0pwd29uWXAtTmJpQVp4VVhTdjd2elF6M2xuRDlRN19EV2gxbUNSTk9HUVhYaVk5ZVJicmpZSFlBWEEySnk1eWo3NDJaOXVIZkZfV1NESVJacGZ6VDJXbjByWnFhUzJHVWd4anlyOUFkZWRyS1dxQQ?oc=5"
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "aegishealth.us",
   "name": "Aegis",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.7,
+  "score": 13.5,
   "contributions": [
     {
       "type": "leadership",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Safe Launches Safenet Aegis Security Network on Three Chains - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2NtbHZ3X0xOV1hCN3dqb2tpZzlPbnZGdGVIZGVsaHEwNlNTRy1UMWFCLWktWWtuV3NoUmw1aEFOR1EySXJmbDZIVlBFcEEyRFpoMGJ2bFRtaURoLTVLMmZsTlRJZWlDcWFFaXZjbm5DQWlEb0VTQUxYb1gxZkg1N1oxTXFCaXpxMEYzWlpBU0gzR0s2QUF0aU9qaEQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Safe: Safenet Aegis launches on Ethereum, Arbitrum and Gnosis Chain - 15 Oct 2026 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWVk0ZlZ4MDZ2eVFtMTdXRk1NZ01lblZWUGY2QWtXbXktVktjNktyc3lEd2E0cTA4cjd0NUdUUExuMmJXM1pXeF9MUnJPUWM3TVNUbzBTRTBWeGtKdUx0UjNBZFpoOE11aFVva2NBVGFuMVh5UTB6TW02ZndLeFluUk50QnduYkJtUXJKaU5rSWtpVjJ4REFydUtGcFhUNnNNWU50VERPLTFKZEV4TGNydl9rNF9jNXVsWFg0QmI1XzBiQnVuNXEtRFpnZEFOWjNPZllSbU5QWms?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,13 +1,48 @@
 {
   "domain": "gosavvy.com",
   "name": "Savvy",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.8,
+  "score": 14.8,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Prudential launches Levela to make young Malaysians financially savvy - The Sun Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUdLWVNxajhZaTJqYUdsaGIzbnNPNnEtTHBGQ0FBYy1ObzduMWZBOGRQbl9sQk5wZXUwcWxMcjJrQm5ObE95eUNaVUhzdnVfOG0tVC1HY09DOVBLS2JUUWpLamNibTRMUk1MaERnWHQ3NDZhM3hXVXBKY2VpLXBTamY1NUJQQ24wQWZHb0tCMjZwbktfTFNCRF8tVWludw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "SAVVY Collective acquires Cheshire bakery and rolls out nationwide delivery programme - TheBusinessDesk.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFhFQ0pVNEdwM3p3RkxCSXlRb1FacGw0LUJ5X29MOWw2WVE3ZGRDUDJyNm8xWDl5dmRJa2FJS3VaWEdodFNqNmNWejZySjR6NTRFSTFkeUpFOUpGeFNVbTRRWW5YY0tReXNDZUt2dGMtazZlanhFbXp5SEZSTzFwVG82czBhQ2owRkttRDZkOWJTNVNEeFo2WEdMelM0RFBJQktOY1M4LTFTcEo4YzV6d3YxbUxHZ0ZCZHRScEJQNC15RGhXY01LWjNXMzVTUksxTEVB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Savvy Wealth Launches Proprietary Private Markets Program for Independent Advisors - 01net",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOENlOVphMV9JRXhaOWE1NlpPX0pWRndMREo1bUpOSWNLdnh4OFdIU25pSUdMUkhrTHpzUndBWUtNRkNpamdJdFBxSmpiSVVlSE9GckRaOEYxdUwtRHNuTloxWDFwMmdmNjM5NG94ZFQtQm83M0VnZVZwRzl1WkE4Qi1zd2lGd1Zwb093VXpUVk05TkR4SE91Z2dpS1UyZWVFTVBpWW13bw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Savvy Wealth Launches Private Markets Program With Allocate - Wealth Management",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS1RlSnFvSzRITFJqXzRJVlFzbEphWkQyZ2M0c2RTTmY5Vm91bko0YTZJN1lFSEcyTHhMdnhtazhkeWJySWdsOWJ2Y1dNYzU1aDlnLVQyWnh2em5hamtQejB5Y29vYnhXNm0wZnJ4UVBHaFVsR3hsWkR2eW5MNG9PMW9wZEk4VmFyTmlJYkRRQ18?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Savvy Wealth Launches Private Markets Program - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDI1OVNQLXNxaF95VXdHUFF6clhka29HWHM4QVkxdEJyN0Q0eGdTa0ZlQXh4ODgxX0F3aWpGRVZjVnFrbWdTNU1YdnNwVjRld2cyLWg2ZThKYzdkZlZwYjBTb1N2MlpWdkVoM1ZyNVJlSXg2WF9tdDNnRHNvZ0w4U3hnX3BkWnNGeHltZnNsV1RUN2V5Y0s5dGVOaVZ4R1lkUHl5cw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Savvy Wealth Launches Proprietary Private Markets Program for Independent Advisors - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDlZaUcycFRYeUpSeVB0TVNMRXJKNlQ2Tlp0QVNiWjN0MWotQTVyUktIMEg3WnlTaVQ1ZV9mVGdaQUR1MHpTUEFoZWpucFEzelFYTm01S1dVaHh5aHRWVXYyU3RJNENxc01LbWlDNlBxNE0xaUx3bjhhcjc3UXFibGhUWm11ajJGaFJqdVRYMFdKZVY1VnlqQmFMWTZmajlFcWQwUUtNSGU2WWxXNVE?oc=5"
@@ -55,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

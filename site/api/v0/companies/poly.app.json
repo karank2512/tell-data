@@ -1,9 +1,9 @@
 {
   "domain": "poly.app",
   "name": "Poly",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 17.0,
+  "score": 18.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-22",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnFmUWJKWWZhandjVmJabThMbjZmTzcyWVloaVZoZXJwN1hCaW80Ny03YmM2Vk5zd1BzMzRpSXZUeEhIekFkTWlFOG1MRXNyREFEUjB2U3c0ZlRpcHhZaEFxbXNTSEtFWWZHSzJGcEFtQkFORmc1WDRGUDhlN2JXQTRmQk13WThXN1h0RlB0cWtPaUd3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Cal Poly launches teaching residency program with $33,000 stipends - Mustang News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BOUtfV0NpNkJaNk9oM3lnUnI4NnBsYlpTTTd4UFZ1VzRPUG5oLWRqNHZ1WDJMNFBXbGNJaFJzNG9kUnBJRTBoTUFiVk1kbUZCclJ4SDVVQk03Y0N6NTdvQnE2UTJHSGdqT0ZN?oc=5"
     },
     {
       "type": "launch",
@@ -56,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Florida Poly introduces flying police car 'Astro' - FOX 13 Tampa Bay",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcl9OQ1EtTTFiSThIZmc0NF90QmljWnJDYzl6Q3pCcUVUVWExX2N1cWc2QnlpeXRxTmtlam9WdGhjTnV5Wm9sQ1BWNGxFd0ZqVk9NVU9XMVZmX0FxM3dEQmFOc3dxd1U4czRBYlhFWEZ4eGdjMnpPRTZsdmdUenAwSXJvMjA5TEZEeDVHZi1aTkI0ZlFzNl95MXlHeUfSAaIBQVVfeXFMT2VxOThTckF1cWNTNmsxZzRKa2NaSE9weTNVTFRUT3JxV1RFTmJyZHQza2VleG1Pc0VNUjFyVUdJZHBSRUR3eHJPUm1QdlY5U202Y1J4Q2FkQlJLRGpWY3hxa0tQUDZFVTRZemV1MWdiaVE1clV0YzdLRUUxdnZUN2pNamlUNzZGMWVxWHJEZ2pBbWIwb1czUVk4aEc1N2k5aXlR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Florida Poly unveils flying police vehicle - wtsp.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMkJ5YlFXLXNBYzhqRVhWS1JSdVQ1emJLbTViSkkyNlVsM0xxQmJCWmJCaTFkMk1HaEs1SjVHTGdlQnRKLUJDWXA5U2pyRjJPemcyUktkQlpzVWtEY05FTHB2aVUxa1ZCS1NtQjZZSmdwVlk5YjYybjlFWVFKcUxrUWNDUHRJMFBGODJxUVFPYkxpV0RnUUE1b21OVGxsYk5IMjN4b1BUMEE5X3pEOG81Q1VkeV9jakRXOXA3X0NUcTZPMl81cUlDUUJ1SQ?oc=5"
@@ -104,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

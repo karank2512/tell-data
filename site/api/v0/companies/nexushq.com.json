@@ -1,13 +1,13 @@
 {
   "domain": "nexushq.com",
   "name": "Nexus",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.6,
+  "score": 13.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "WHI Solutions Launches Nexus AI Suite for Nexpart, Starting With AI-Assisted Phone Ordering - Billings Gazette",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGdFS2FFVmxvRFFWNXNFUkdaUmhXX1haUkFHcEFvVmhkM1FReFJqN0xleUZDanJONnBQLXEyaUlPZ0diYXBIY2E5ZXpHS1NmZENnUnYyTW5DTjJZQTI5cFdJNEdVc0RtNWhyX3NkQll2RnpVZzV6UDR4Q1NlQl9meU9wZWQtOEE3aE5JUmtxdDRSd085YmR2b2w5aGY5ek9EcXRqWlkxV0VQaTU3?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "UEH Nexus Campus Nha Trang officially launches phase 3 recruitment: Searching for next-generation faculty & managers - Đại học Kinh tế TP. Hồ Chí Minh",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZFFoNFNMTE1CWVhjNXd6UHpPeVFoaHlCbEdFNHBJQ3NldlpSQ3dRaDIzdGNGUkJ2RDV4VmtIcHROalFldE5ZSnBlQXhtS0c0RVFZaV9FX3ZZQS1OUUlGTmpUY25IR1ZBelFHbnNLdi1vZ1l3em1uZ3Q1SzBMNVppV1pfTnpvTTZWcVY0S29INE5DQjVQU3BsOGotTTdKRm53eEdXZ2FoLThXbWRSeHZqdWN0MGI5MVczOE8zMGNvVVNpODdCbXJSeTVEZ2RNSGh3a2RYdmRqQ3dXNEktR3NV?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

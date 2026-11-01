@@ -1,16 +1,23 @@
 {
   "domain": "racer.app",
   "name": "Racer",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 1.7,
+  "score": 3.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-16",
       "summary": "promotes [person]",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWt2MHo0NWpaMHgySFVuX3ZHaVg1c1czMnEyeWVTYkQ1RDdBcmhLVE45YzhrUXB4N0NoQnZXTGVPbzNQVkxzVElsQXdPUGJ1VDk3VjcwVFN0b3FNMW95eklta3FIZUQzZFF3UGtkTlJLMl8wV011ZV9RbzVXeHl3R1FVMDRVd21NZmFrQ0RRb1VVUldGRXg4ZERDank?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Murray State Athletics Unveils Upcoming Enhancements for Home of Racer Soccer - Murray State University Athletics",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1lvTF9tSXllNXROUlcwNHFhMkowS2VIUnEwc21LcWtXTEtIckpUZnpraEZfc0Z5STJRSHUyQUM1RVl2TkJtQmFwMnhXd016Qi1ybzJIQWw5NjdzWVlBWTlsVXZFaVpJeEpNWFAxLTV4dXFVeDB5dXQ4N2xMLUFVTFY1OTUwS2RaNjdlcFZvUml3S2RCcWpjWk5SSkU4QXRTU19nVTRGN1lmLTdocTJRSktZWEE1Q2hjc1JoamdwRks4T3NoY09z?oc=5"
     }
   ],
   "open_postings": 0,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "ambient.ai",
   "name": "Ambient.ai",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.2,
+  "score": 2.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-07",
       "summary": "Teladoc unveils remote monitoring, ambient AI features - Healthcare Dive",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVlRpZXNwazZOeEVtWWZ3UkM0a05LQ2xRZTlSSWpFZGFvZTRFM1BKWDlHRi1mSk1LajJLdk9OYWk1LU1tN1AzY244QVNZYnpPb2xFWlFzOXlrQkI2VnZLbTkwZXVCYUk4U2lzbDhrR3ZoRnd0X3NBQkVIWElFVi1wNHpQVGxqNWpJbHVfOFRvcDYtV2VmR3lzbDVuNTJKdw?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

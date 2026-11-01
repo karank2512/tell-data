@@ -1,13 +1,13 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.3,
+  "score": 14.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Conglomerate Chatterjee Group launches Cortex DC, targets 2GW of data center capacity in India - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbERiQ3I2UVR5RDNGUUN3RFpXWXBXTzNaZWJXMGxkbkJsUnBHakVHbHZtcnZvZ3FyZ2lNb2tSd1pKeUEwRWtOaXJLX1FaSjVxNlRGNUI3cDY2ejZUY2MxdzZHOGdQMW1rVHlpRnQ4MzBMQ0FUb0xHcUVFa3VjRnpTbXFKRV9LS0h4ODg2TEVXcE42UFJoM3NwUzY1N0x5djNNSDRnaVRMYlc2d1NhcEdtWDZTaVBza2hXbjdmR2VQZktRZldtdjE0SklHRktVenBYQ2x3?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Pervaziv AI Launches Cortex Host Protocol, Unifying Six AI Providers in One Enterprise Experience - PRLog",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTm9DMk1qYjRpdTlnUloteDBKY3JVN3R0T2hyWVJvZU15bFg3UnhLWlVuZ3lZaXpmYnE0YzlsNVVtelRfc3NwcFBZYW9BUVZ4X1ZlWHo5WjBKTVRaVGhhbWxGbUN4RzVpSF84ZklDaWpZWUN4WmViNVBoRmJFQ0xrM2gzM2d0bzNPZ0JucnZCQXZQS3dUMm5OR0VwWkJCdkNMZ1JzMXh0Vzd3MHhNd242MjJYdWdaWng0amkzNFBtdVpGdDJMX3A2OVhaOFA?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

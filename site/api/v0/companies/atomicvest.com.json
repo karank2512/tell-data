@@ -1,13 +1,13 @@
 {
   "domain": "atomicvest.com",
   "name": "Atomic",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.7,
+  "score": 13.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-30",
       "summary": "[person] Joins Rachid Bouchareb’s 'Boomerang Atomic’ As EP Ahead Of DOC NYC Screening",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVURqY3JIclh6VVlFM3o1bjU5TXlXV3BWOWllejRJT3ZxZXJQNkZVcnFWdVNvWXh6ZEZFSHRNRXRiUGxlOEpFcXM4TVFyeUxyR0lLMjVQMmppWEhUMk04Y3ZZRkhsTmYxMTZGbVRFNGlDU04yZlhaWTAzQmN0UXlEQUFoSm1VSFFwM3l0cVJZdUlQcldXcFBrUmJTX1FId0E0?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

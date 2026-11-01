@@ -1,10 +1,17 @@
 {
   "domain": "tryresponse.com",
   "name": "Response",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 9.6,
+  "score": 11.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-01",
+      "summary": "Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPazVsSFJMZGQ4V3phMk1TanBBQ3BIa29ReUxSRV9rWmlNdjl6RjBScG1pdzh3ZFpzOXZTMGl5dExyMFZhV2R1ZWxTTm95TjJxSnI3c3Jpc0w4UE5PYXpoalpheU1JdjNrajJCVGxqclFhcUNBQUZ3MmgzYU5TUVdHb3duOTVNWlgtdlB3N1pHcU4zNlRBY0VDdm1VbzJITzV3NEJlSXZuMXlQV3I1WFl2cVpvV01IQQ?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Acton Campaign Releases Response Ad: “Abuse” - Dr. Amy Acton for Governor",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NRllGTnhWN09UaWE0T3p0WFNXbUxES0x2VXhFT2dYUWlCODl1TnRKbmo2WW1SRHRBUktxVkNnYkxDTXJPcHdBTEhob3JYUF9lbW9kS3BpVGlKUDFFaFdhMFBTc3loNEM0RFF5Y0hGOUxDdk44cDVTcTN5OA?oc=5"
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

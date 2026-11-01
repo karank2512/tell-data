@@ -1,9 +1,9 @@
 {
   "domain": "usestable.com",
   "name": "Stable",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.9,
+  "score": 14.7,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Samsung releases Galaxy Z Fold 5, Z Flip 5 stable One UI 9.0 update globally - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTzFuTkk2dEZZRUVQUzg2cG9nTTA5Nk1rYTd5M1JpYlNwYm52R3RKcUw3Vm9HZVJ2Y0pEX1c1VE1ibklqcVZwN2dCeXpad0xxMmstc1NxQ0MtMlhsX2dmczJBUmJsWTQzUDJPQmVjYjVjb01RRTNlRUxCYWFvdEVqT050M1dWQ3ZTNno0a2hPOUVBTWJJSW5fZ2l5b2g2b21WMEhYVHJtY1NrUXc?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Samsung rolls out One UI 9 stable update for the Galaxy S23 series, Fold5, and Flip5 - GSMArena.com news - GSMArena.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmJZRnRYMlZvS0lEZjJoMjJQVkpKMnFIRjZyYVlTZGtlbGRpeVFCWHFTQTA0WWE2WVlCWkdxUVdUa0JhYWZWaWdxWXg0XzZRMGYxd0twa2ZTV0dVV2NlaDdpeDlvSmJCZzVFV1dDVWdHeWNaNlNENUdpWHg4aWZ0QlRpQlVfNldEMmZpXzVOZkl5b3habUk1QtIBlAFBVV95cUxOQ1d6X0NYMjZkZDhSVHB0T21GS2ZhajFUM1NvMzA4aXNJUVF2dm5SWjRaTk5saGJvT0VXc1NnTGVDdGhWMUt6UDBUaTRJQVdmQm1JdlV6SWJrYkNTWUdScFNLTW4zVUNSaERVQXZoc3o0dkRjYzgyRm9JODNYZHhXWnpXS1pLcXNLMEV0YWx1aVdFSXN5?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

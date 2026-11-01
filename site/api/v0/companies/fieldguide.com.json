@@ -1,14 +1,14 @@
 {
   "domain": "fieldguide.com",
   "name": "Fieldguide",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.2,
+  "score": 3.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-23",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/fieldguide",
@@ -46,13 +46,13 @@
       ]
     }
   ],
-  "open_postings": 45,
+  "open_postings": 44,
   "long_open_roles": 9,
   "sources": {
     "ats": "ashby:fieldguide",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

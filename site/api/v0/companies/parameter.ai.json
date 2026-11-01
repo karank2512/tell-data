@@ -1,9 +1,9 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 63.4,
+  "score": 62.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,21 +14,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Mistral releases the weights of Le Chonk, its trillion-parameter open model built for coders and cyber defenders - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS2NLQkY3WXNvRTJ0ZG5oN0Jfb1ROVUFIUURmcWhPcFVuRThnQ3dzZmdreUdla2ltN3o2NzlwU0k5TnhXNVJTRHE5aGdRVjV4c0g4aDM1anFjcHhsSTM1U21TcDc4Z2xQNHB1dTlNcG9QNk5XMm5Udk03dmdMRUxVY0p3dXVEQVFjZUpiaVpyVmVjeXZNMzFXVFB4SzlqWVlXUUZVNGJLRjg1NlpnU1JDYXVsNzBlNzNwaG81Vm1XYTNXTEs1cDFGS2t3TEFfRm9oa3EzeVZJTS10SmxpdXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGpzMXpHR1d5RE1oQ2c0NWRYWlVlTk9HM2dueEJaNldiLUtpOHJaWUdMeU14ZHJfNmFIRHg5U2REajU0eDQ5V0dpdGx2Sk9IYUhOamRTRVlUWGdMejJDbzUzbmwwdC1ZTWNxY1VvbExNN2RlVXpTbTBiX3RyLWFGUGRqbW8xWVNyZVBPTVF1YmRXZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Mistral Releases Trillion-Parameter Open-Weight Large 4 AI Model to Expand Sovereign Cybersecurity Capabilities - Tekedia",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbXNhVEJUQ0pCUWxNVXJ3dWtvRnh3VHpnSWoxZV82eDhUb3FBU18tNy1sWGVmdmRxVjRDV1dldHd2eFpBT0FtbE54eFpHcWJ6YVM3SWlKb2Z4dE53ZnlEUW45V0FzRHVrdEpEZ2hsbkYtalZveVVhb1E2UjVnLXFRUHRyMTF6bjA5RFVoR3VNWjVkX05qMXNoQUgwMkN0VlctYjNoOVVENHo4UEVwQWFUZVlnQ0ZkTDVyS084S2FBcWp3bGM3NzJrdTJiMEJiemZjamc?oc=5"
@@ -287,42 +287,42 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Meta releases Muse Spark Open, an 816B-parameter model built for agents - RuntimeWire",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zdTRtSGRsZjdJMXFIbEZsdE55TGRsSjVjaUZMSGIyUDNtT1lza245b2hTQ2lFU29tR0dPeGdZT2YxYmlCaVZtdGZybUdfWnJUNzlrWmhHRHBsVUtGcDJnWU9lTG1XWkk3SWcyTXQ1SGRmSHVJXzIya1VMZzg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Meta Releases Muse Spark Open, an Over 800 Billion Parameter Model That Can Run Locally on Multiple M5 Ultra Mac Studios - MacStories",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0tEMTYyTDJpUE55R1pfRTVUbmpWQjJwQXJqc0lFRXhqTm9ZWTZ5VkNQTmMxVlVxYmdWVS1nLWk2Wl9TSGlHVWVESFk2dktueHdiWS15OG9IbW1DRzVGeE9HVGRtQWVoRGJqSElhM3FQV2lnT3F5RjAwUnN0dElQaUtQaGV6aFVCOVpjUDVEd0hMVXJueEowZE1VNFJPclRVc29DdU83TmFPeVdGc1ZSVXl1SHBMdzEwUVBFa3lsSVdwQmhtNzRpQnNKeXcxNHc0TE9rYTdxVF8wN1BmVXA3WUY0emtXV3c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Microsoft AI unveils 2.8 trillion-parameter model, claims efficiency gains - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdm0yRzBveUpxUEdFZUJ0UWZfbTczQ2w5UEFfaWVCWGZQX0ZCTTJmNGVWWklXUlhOb0xKb2djSm5fRDRlRFYyaktvZWxyMjlBM21Qd3hvRzBFNlduclAtYjdTNFBDdWZvT1NjZGphNjhXWFFvd3ZhQUpqWVF5dms4RWpLMjdWVGxGYnQxSHZjc0dCd2haVjRLTXVpY2RGWnNvX3VHVno2SHg5TXFERHBmanU1TWJFd2k3a1kwaVNsUnN5WlBwMTRB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Microsoft AI unveils 2.8 trillion-parameter model, claims efficiency gains - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VRkh5TU1UZG41NWYwWlJIUFFkRl90eDd5dnZhcEp6VFZhOHRPR2Z0a1lYYUdSM1JMbHlmV19TX2o0bEtZVUJxb01UX2daRGJyNnhqMnFzMTAwNWFWa1dfZ2xfamlzZXhRSjdTMldYUVo1REl6bUJtS0xCQm9pQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "New 5.6B-Parameter FLUX 3 Image Klein Debuts as Open-Weights Release - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWJQZUhVZ1hUaHJWczg4ZHMxZ0N6Q3lvYzlOVGdONGhNNXlkTzlyM1pCNnRCUzQ1Ml9uTTV1eFQzTHJWZjdodHFvSFpSbDZQOW80NkVjb2ZrTUlMZ3dLR2o3U21STTdKb0FSOHd0RGlha1lWaEZzcUpZNW1rTFBGVW1RdDI0bzZpM05wSkJtcDl3NDYy?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Introducing Dissolved CO2 as a Critical Process Parameter in Bioprocessing - BioPharm International",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1Joa2RGSHp4N00tVDQ4OU1WbDVFMVFGV1pwNDdrMWtERFJ4dVo5OVAwRUxZNXdrRHBEQ092dV9xdGMybmgyMnM5cHBodFAzZGp2dG9HSFNBMHhLOGRDRmhPY00tTkNLQXJHZkJ6TFhUeDlkTFNJX0dHaTd2M1FSZHdKUzZnMFpoY292bVNJMkhQNkJkUzBOTGozUGZxSl9jY2FTc1o4d3BndnVYSkYzNk1GVWpCb0Va?oc=5"
@@ -363,6 +363,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "kernel.sh",
   "name": "KERNEL",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGR6RHB2b1hfM1Y0MTVDSHN3eGxGTXJibG5mbjRmVnVYRW9PemltaGczeTVvWmtvRmN3V1VHcUZLU3BzbTVLdzhXRF9nOUxzYy1tSGZiWG1PTndGR0xDVDJSdllNQXNaNWZrWjl0SGVBSGhpeHpUV2FJSklvckR2QWZiaVBvcThTVDU2bTAtU1htMG1HWnRBdFJQN3M0UdIBngFBVV95cUxPeGR6RHB2b1hfM1Y0MTVDSHN3eGxGTXJibG5mbjRmVnVYRW9PemltaGczeTVvWmtvRmN3V1VHcUZLU3BzbTVLdzhXRF9nOUxzYy1tSGZiWG1PTndGR0xDVDJSdllNQXNaNWZrWjl0SGVBSGhpeHpUV2FJSklvckR2QWZiaVBvcThTVDU2bTAtU1htMG1HWnRBdFJQN3M0UQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

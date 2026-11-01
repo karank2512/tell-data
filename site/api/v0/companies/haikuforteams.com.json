@@ -1,13 +1,13 @@
 {
   "domain": "haikuforteams.com",
   "name": "Haiku",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.4,
+  "score": 3.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Claude Haiku 5.5 Launches at 90% Cheaper Than 4.5 [2026] - https://tech-insider.org/",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYUlBOaHQ0bktROXRNaXZOM3l6V1YwLTh6YUV2UGk2S0NmclAwaFp0b3U1enY4cEg5ZVJHWm04TE5wX1prcGFjdDQ4R3BIM3ZBZkxSb2RpaERwWTV1NWJHUTdqUXRTeG93OG5lamtEcw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

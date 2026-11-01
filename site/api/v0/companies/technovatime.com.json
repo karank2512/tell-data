@@ -1,13 +1,13 @@
 {
   "domain": "technovatime.com",
   "name": "TechNovaTime",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 18.0,
+  "score": 17.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.7,
+      "contribution": 16.5,
       "occurred_at": "2026-09-04",
       "summary": "Form D: $3,260,000 offering, $3,260,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2153441/000215344126000001/"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.7,
       "occurred_at": "2026-09-09",
       "summary": "Archy Launches AI Insurance Payment Automation: Modernizing Dental RCM Workflows",
       "url": "https://technovatime.com/blog/archy-launches-ai-insurance-payment-automation-2026-09-09"
@@ -34,6 +34,6 @@
     "edgar_cik": "0002153441",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

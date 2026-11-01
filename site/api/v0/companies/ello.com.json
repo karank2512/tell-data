@@ -1,9 +1,9 @@
 {
   "domain": "ello.com",
   "name": "Ello",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.4,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "MTN Nigeria launches Y’ello Y’Fi to enable businesses get more from Wi-Fi - Tribune Online",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemVEWEpIbTlYeTVDRVZNNnVkZUc3amxfVThLLWtxREhoekp2TXlYZExQdFVhVDdzNkVwSFFsNlRGTzctRnNZQzhvYUJ2MlAxY3lhdUFGcnJEcWhBbWsycnhNQVl5dkxvMy1iZUctV1Bia2M4OFVoNUpOVzVFUVJmblRBOUFmTWZhTkxhYjE3WERYZGp5c1BLVFpHMW1FM2U0Qm14Ym5CUQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

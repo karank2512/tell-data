@@ -1,9 +1,9 @@
 {
   "domain": "revlo.co",
   "name": "Pursuit",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 11.7,
+  "score": 11.5,
   "contributions": [
     {
       "type": "launch",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Pursuit Spirits Launches XS Double Oak Rye - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHQ3Z0x4alhWOUxfd21LRnBnZUFHdF9ad1k4YVRDbEdIUGp3YjBXZllKZXRGeC1pbVhsZDdneFdyc2I0Y2FjLWhrWlFuUk5sNnAtR3l2eklNMFU1eVpRVVhWVENaZmNYME9xWU5BRU1KdnJXMlZ5ZUxhREtkNEt2cm1KSUo2QnJ0YkpR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "U.S. Soccer Launches Arthur M. Blank Crest Cup to Unite Women’s Soccer in Pursuit of a Singular National Champion - US Soccer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODhidGJYZFB6dTZKT3Ffa2RIa05uVnc1TmVPNE9STTNVOWVqT0NiZFU4d2V2cVNpVVRxWnV1bXViRVd3SmlXekstV3llRDlzRDlGUVZBVkpNVDFmX2VTek4xLWZ5WTBEUXFELTBGelc1b095UURhSnVCdndzN3ZYUWZydkE2RnZLV2dCSkVncnRBNHBneVRQd21GMA?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "playground.com",
   "name": "Playground",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 16.7,
+  "score": 17.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "See photos as Salem unveils renovated Riverfront Park playground - Statesman Journal",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQemR1OUhNMnIyak5qcjlDcmFZNUJUWE9ISURQUWo0a0tpOWNIVThYQ3VRQ1YwV21zVXk2S09QWDBDSmVrSGxaTmh2QXVEdGdkcGNKX1FjOUF2S2VHQVJnUG1kaWM5eW43c09FbWRXWmVEQURTOHZzZkdDUV8wZVhTOHpnbVJndkxDbGdCc0R3ZnZ1ZW1LSFZHTVE1eV85VWtMUnpxVWhHM1VpcXhNMG9PbEU4TmpTV2I1VzViLWwtMkNvd0N3dklSUjZDaw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-26",
       "summary": "EGSC unveils Little Trojans playground - Princeton Clarion",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdENyUWdySW5fU0lfLW5zVm8tQ2x5cWF6QklCdG5RWEdiejFVb1ZDalJXUTF5RXZDX2hLbFVOaVVOYU5ZLXhaeUdqajlpU2k1Q1pDeDAycEFpZnEyeDV4S1lrcmJQNThfTzBSOTkyVDYzSFhhUUw3amwwRXFhZnVBS1ZMV2ptNFZoVGZNVU5hY2hLZHF5anE5U3otVFlmRVRRcXBBQ185OHBnYWs1cVdFdm9henlWVDUxcXU4?oc=5"
@@ -63,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "Ubisoft's Extreme Sports Playground 'Riders Republic' Launches On Switch 2 This December - Nintendo Life",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0xfNVdnZHdTV0tiRnowSlh2SFh2all5c0lINzRCT1RheEtzY2pvQXoxUnMtSU5IRHRJZzVrUzJVZ2J2U2hDMUt4Z0QtSGs5RlJ6NS00NVA2czdYcVczWmVoUWJpcDNSeFdTMkZGUXVKaGpoZHdXZGJoVkZSQ3l6TVFnRWxHb2NOYnJNY0tYLUlWSlo2SjBUMUhiamVZMTA4VDR5QzJSN0F3NVE1c253MWR1ZVlSeFY0TnBIczl6NHJERjF2UXc?oc=5"
@@ -91,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Riverfront Park debuts brand-new playground to excited crowds of kids - Statesman Journal",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0Q0X19MbnRzWWNtdGZ6WG9wbE1tTkhvdDYwUERPVi1nb0dVbXVOZi1sekN3UlV2MzMwTFQxN2RwNzQyaEJEZkI4bGhFU21qWnpNWGdNdlZwRUd3Y0F6Q0JsSC13X0x0YmZaT1ZwVVVNdXozSzMyS2dtZVlTWVBHZzAtYTJqZlZvakhBT3dlRUdhT0ZnMzJxWHZVa3h2RGNtNFJGcm9FRDhGejFoNXAxM2JzYzk?oc=5"
@@ -104,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

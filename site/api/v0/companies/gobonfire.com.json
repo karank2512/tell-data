@@ -1,13 +1,13 @@
 {
   "domain": "gobonfire.com",
   "name": "Bonfire",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "Bonfire Promotes [person] to SEO Lead — LBB",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TOFAtM1BjczZQNmFyOEdNa2owSnhvaXBucXFxQnFvZXNKZDduaWdHSWxUU3RHVFhQV09ZdXdQR05lWk1ZTUlETUtUWVRhVVRaMHY5Mm0tS2pjajV3VXlac0JlLVp1NjlnVDY2N2FhckRaaHpQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

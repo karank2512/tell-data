@@ -1,9 +1,9 @@
 {
   "domain": "justflip.com",
   "name": "Flip",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 15.4,
+  "score": 16.6,
   "contributions": [
     {
       "type": "leadership",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-13",
       "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2UxX2x4Z3ZuNFlQY0UyTFN6Q1QyT0xsOWlmaGdMZndWcWVZa1E4cjFZYUlMLUpmMW93WlBNU2trbkFRQXMwSFVOaUxURkh0V3NObUgtY2p1QjFaZHJmTU81TGcxZmxNUDJTYndBSEo0RzVwQ3lkQWVlRFEya1AzaTVjSVlvVXVyUzRjNEJ2b0ZLRG1zcDRTZzVaRUx6ZXhRZ1FlazIzV0xfQ0xuWWluYXgzTjd5N0NCZHRzQk9tdURQcDhSRTVkWHlOa1V4WGU2cTFieDVBanZzbHdISmc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Nokia launches new flip phone with modern features, but there's a major catch - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalBKWTFfOG5uZHZNSW9OOG5tWmFWZktmQ25jemtRaHVfc19oYWRJUkxXRi1pdnRydWRGTHEwMl83M1YxbWlMVGRGUWNocFQtTGc2alNNTjlVZ25CZHJLWHByTXV2VHhmU19yRzkwY3V1UnNrMWVJS2g3cFVPeGtzd244cEZLeEJFVVprT1M0a09pNE5ESVE3SHAtMmpwWEEtc2pIM0ZnSzlrYU01aFV6akp1Vm5TU0RMVktLb1ln?oc=5"
     },
     {
       "type": "launch",
@@ -63,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3ROVVhxNEh1X0FGUzdIYmdwdDVNamRTYkdranQtNFl0dktoNlRGWG9zbUNJeC1MTEZHdURfcUU1YnJZWnpRWTNZRTQ0T09nbWhVTnRlTVViaXpCSnFCenFyZU9tXzhYVkowRk5FREp2WllBUmFEbzc5VnhYa2Z0c3hhM0RvS2piVUJOaEZGM1Fqd3ptcHpFRlRQNFNYb0t6bkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "BBC ICECREAM x Reebok Board Flip “Pumpkin” Releases October 2026 - Sneaker Files",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54WG04cU9fM19OU3N6THhkLWVBQ01Kem05cmNESTIxTk42SEIzVG5IWGt5ZVJhZGM0YlF2bFdHeU1aRGpObFJiVDRmdnZLTG0tS2NMYXBWd1hxbVI5QWhZUEZaMnZaS2JWUENiOXNzLWI4aTFuVjhpVQ?oc=5"
@@ -97,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

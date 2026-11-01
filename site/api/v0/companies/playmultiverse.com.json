@@ -1,10 +1,38 @@
 {
   "domain": "playmultiverse.com",
   "name": "Multiverse",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.5,
+  "score": 18.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-01",
+      "summary": "McFarlane Toys unveils new DC Multiverse Batman action figures - Flickering Myth",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaU5WWTZNam5VbjB5a2w1dTNkR2hObWs0M0dESXJSdllUNzIzb21OUERQcGRRcnVyMDFMajdOY3o1a2NTdDdZc3hIM2xjMWstVFdEbnFGZWRiYXh5cjdZRlRmUGx2Njd4aTVpQVJGOGZORWNQWXFiWWl0TmZzV0dEcS1uWFRYV3c3eUNvNl9LSVhpTWZ0c1JJYmpn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "McFarlane unveils unmasked Batman, Batgirl and Penguin in its DC Multiverse line - Foro3D",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTNoZjlTYnRnSzM0QkRPbTBNaVhlMUFjdmZlVllsUWdaeHM5MlhzaGRIa2RDRW9KV1MzMDBCY1NLNk13ajFMQUprdk01T2NaQ3Q2ZHdpd2RXcjRDWno2UzFlaTl5UVJzeTVlZUlJNWhjbDRISk1vcjUtNzNEUy1ickhlU2tzNFhwUklpY0tJWGFXeWRzMEZNQ213Sm9vUkFoR1h5a0doc0NPZ0ZyR1RZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "‘Avengers: Doomsday’ Unveils a Multiverse of Posters and Theater Merchandise - AOL.ca",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZktUc2RKc2lmcGhsRUdtNFF3VXdfSXNMRG5fS1dKLVpwOGRXdWxoeHE1c1Zyb08tMHE3QVlHdVduZ19wT0xKNUZTWFcweFZESTA3UUJMUlJ2UWRrd2trN1gxanlBUlhoNFZ3ZWxWSmxwSWVkT2NUVFp1cFRRTGoxbGphanhKSFJCS0tqcWZsa1Q?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "‘Avengers: Doomsday’ Unveils a Multiverse of Posters and Merch - ScreenCrush",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SVGtlQV9kbWxFZk9jSTFyLUE3bm5pT0ZfdWNuUWQ1Zi01YzdGMDZ3cjFlM0V5M3NSRVR4Z1BmQ3pFYi1zZVluR3BIM2o1QkVVakZfa2pfWmstdGs4WHFNWnc2T2JONURMRjR0S0R2UHo?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-25",
       "summary": "‘Avengers: Doomsday’ Unveils Haunting New Incursion Art, and It’s the Multiverse Collapse in One Image - IMDb",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aQnVFUy14TTFFZ0R1dzF0M19JR2RZY25BcThxMExGazFkNTlwekVIbFcxSldMbF84YmV5ZU51UFVFc2c2THBhOXkwY2haa2JLQ0k3YWdEV3kwTjA1dzR2WENPWWRUb2E5ZHZn?oc=5"
@@ -83,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

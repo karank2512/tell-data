@@ -1,9 +1,9 @@
 {
   "domain": "sunlightapi.com",
   "name": "Sunlight",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 8.6,
+  "score": 8.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Wyze Unveils $69.98 Wire-Free 2K Solar Cam Powered with One Hour of Daily Sunlight - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNXBBQ2tzV091d05acjFvZzhHTDdJZkpHS2wybklvWEpzMFVfS3ZuNFVSRXZld3o4ZDFFTmFMdkNHQ1JDVDZObDNHRDlMeWZiUVlIUVh0ZWxLOGtkUjVZVUtoVkVpTjJHS1Z0Smd1Mkl6NHpmNXpFRDRWUjRyTklfTzBhb3QzbUxFN3BwQkExZUwtTm9jcTR3cW1tOTF0eDB0VnpXYmFaZ1FDUThydVltS0x1T2h3djNKa2tMckk2ay02X1pYZFlzdWcxeGhBYmU3SFQzaHZiTng?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "IBASE Unveils IHPC-W101 Sunlight-Readable 10.1” Fanless HMI Panel PC - Kiosk Marketplace",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFg4RWdRUF9ITU81aTBTaEVBWmFTOXBQSE5GMEtJX1N6OUotMzRZMkN2ZVJ5WFE3YzNKV3FkM21tUWJhVnhERkZPMEVGeTNlTEtWV3B1Nk5SeGh1alZFeEdXSG9aSFg1WkVRX0RQWVlERnNRVWQwTk9pamxaTlM1cm5jeERWSUJZbmVlRDMweWhDN2MwSkxvWmRVdnFsZzBVckxBZDJLWk1zOUQ0cVp2R1ctSW5yUQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

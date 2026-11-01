@@ -1,13 +1,13 @@
 {
   "domain": "orchid.ai",
   "name": "Orchid",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
   "score": 4.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Royal Orchid Hotels launches Z by Regenta property in Vijayawada - scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHU0WHg4VDBONGpEY0RsREhwWEZwQWhDTzdxdVBlV25wS3BCYml6U2JCdWZWdEJXRXMzMXNidTlMb1JkOHFtbFFlaVVJWVNVVEpjOC03TW1BZWxqeGp2ZE1CQWpLSVlwcXY3b1hzMGRaNUZrRjhpcHJvOXNJTTg5YUViRUp3VkxLMzFEeU85ck16d0FENjJTczlEM2o2eUw3Q3l3cVA5LXI1aDVkS0RkS08tOFZpZw?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.2,
       "occurred_at": "2026-10-15",
       "summary": "Complete Grow Launches Australian-Made Orchid Fertiliser With Two-Stage Grow and Bloom System - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSW9WS3lRREhVTWJKeExOYXpBTFlqWFNTTkFXV3pibEIweGRKVVp2RmVQRVI5SVRwUjljTTNTWGNaWUNRU3ZZWUZjc1UtN1FHd2dITjVELS1NNzU5WGJINnVMUUI1OHQtY2lIeE1MVnhjMTVEUjVUNDNmQ2hiZlBiU0loVnd1ZjUyd1V3bkpEeDgtUXpLbkVJRjA5NG9uR0VfVWdqa25uNHZiZGdXa2l5WGZrTkhPajJud05JZVRRVDVrTEFpQVJhck01bzVrSG0tTVJ3cTdUUVFXNHU2cGllbzZqSksxN3c?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

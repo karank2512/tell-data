@@ -1,20 +1,20 @@
 {
   "domain": "usegrade.com",
   "name": "Grade",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.0,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "VI-grade appoints [person] as managing director",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORER1NzhtaFBpQnBDS0tZV3R0d25hallxM1cwMU1lbzZPOUJCUkh4MkZmUUVubnl6eTFuckJFSEh2eGY5dHYwbmZlRlhPell0NDBnNk5raFlnVmdMZmRzYXh2VTQ3M2hEekYtdUgycFh5N1hwTnpSQXZDSDJ3cUxiMmtmOTdycjhlNjVaOQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing - The Quantum Insider",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkxiMlkxemNXV1VlVVpNNUdFTWlXQUc0NHRhYlJnTkdKOXF5U0NQQjJVTHNMMF9FMlNCSmlYNlVoV1lxc3B1S3VNNkFXcEpNM2E1UmNZVHpYSm5HZlg1djlTU19Tam1YTnRJdW52UEFpRDV6M3dIcURQdG1YWndDTmg2aDQ2RVZPQU13WVRYMEc1U2ZG?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

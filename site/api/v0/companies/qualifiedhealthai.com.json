@@ -1,25 +1,25 @@
 {
   "domain": "qualifiedhealthai.com",
   "name": "Qualified Health",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.2,
+  "score": 14.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.2,
+      "contribution": 14.1,
       "occurred_at": "2026-07-29",
       "summary": "Form D: $24,999,987 offering, $9,999,972 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2147743/000214774326000001/"
     }
   ],
-  "open_postings": 19,
+  "open_postings": 18,
   "long_open_roles": 7,
   "sources": {
     "ats": "ashby:qualified-health-pbc",
     "edgar_cik": "0002147743",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

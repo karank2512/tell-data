@@ -1,13 +1,13 @@
 {
   "domain": "yerk.io",
   "name": "Yerk",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 18.6,
+  "score": 18.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 18.6,
+      "contribution": 18.5,
       "occurred_at": "2026-09-29",
       "summary": "Form D: indefinite offering, $25,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2157609/000215760926000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002157609",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

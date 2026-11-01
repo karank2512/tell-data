@@ -1,13 +1,13 @@
 {
   "domain": "gusto.com",
   "name": "Gusto",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.2,
+  "score": 10.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Gusto Launches \"Dream Small\" Campaign to Celebrate Small Business Success - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmVNbFNVN0VmbWpXbUp4MU5xcUFLX05UMjZBSXQ4M1V6SmNXUi01QUhZdUVIOHY3NWtkVTY4dUZ1S21RUk56eVRNeHRITHlvQV9FTTE2VVRrNmVUZjYtZU1CaS1xS2pYV0FHbEUxSldEVGFaTE9aV2Q5UHBiQkx0Y21XX2g1bU9zZUVvd0pnd2ZuN0hWMEZrWXE2S1RHVlc2?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "New Name, More Gusto! Introducing CCAF’s Project Positive - POZ",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMekVXTjJjdDhXWFFjc1BKcEJORzU0djZrVDhoUlN5WS1RajdicnhielJuZTdUM1pGRGZRRk5CT3hSR09fbU5uQ2dTcFNKaEJpSTBzMUNWbWZvbWNjd1hFMTNJem5UbU9udjM2c2Y1MUIxdUZIVnhnLTd2d0xNUzA?oc=5"
@@ -87,13 +87,13 @@
       ]
     }
   ],
-  "open_postings": 86,
-  "long_open_roles": 31,
+  "open_postings": 84,
+  "long_open_roles": 33,
   "sources": {
     "ats": "greenhouse:gusto",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

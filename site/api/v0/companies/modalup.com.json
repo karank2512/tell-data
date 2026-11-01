@@ -1,20 +1,20 @@
 {
   "domain": "modalup.com",
   "name": "Modal",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 43.6,
+  "score": 43.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.9,
+      "contribution": 19.7,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $204,999,900 offering, $204,889,993 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2088132/000208813226000002/"
     },
     {
       "type": "funding",
-      "contribution": 19.8,
+      "contribution": 19.7,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $175,365,831 offering, $175,277,185 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2088132/000208813226000003/"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-18",
       "summary": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVEJPZUU0QkdfdU9BSEZpTjVEcnlpa1ctUXY1MEJrYVJuRzVObEJlaEJyR1drR2lwdTBoYmdHOHJwRHZPYkdEVjMzNndKbjJXS1dueVFKeDQ1aVBTT1NLQWtVZWhHSDVsa1dyS3lDdnBHald5WWZfR0ZIVzJGR1lIMHhHenR5ZXlx0gGIAUFVX3lxTE9UQk9lRTRCR191T0FIRmlONURyeWlrVy1RdjUwQmthUm5HNU5sQmVoQnJHV2tHaXB1MGhiZ0c4cnBEdk9iR0RWMzM2d0puMldLV255UUp4NDVpUFNPU0tBa1VlaEdINWxrV3JLeUN2cEdqV3lZZl9HRkhXMkZHWUgweEd6dHlleXE?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

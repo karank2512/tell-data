@@ -1,16 +1,37 @@
 {
   "domain": "cueup.com",
   "name": "Cue",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.2,
+  "score": 9.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "AMC Global Media Debuts Trailer for New Series, Cue The Laughs, Premiering Saturday, November 7 on IFC, AMC+ and All Reality – AMC Global Media - AMC Global Media",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN09nd21vekFzc29LMFliazdnTnFfdHQ5dUZkbnFMUHdZQlNmMVhDLVpVdVN2QzdUakNGQTJlQmZBb2ZDelFPWVIzX09VVWRVc1hRZ2JtcjByZjNzTXh5SXhZUkNETXFLYy02Znd4UFBrSTBHQkhTc3BNZ2RGWUh6dHZSdENhbk53bGpfZDItV3VWbFpRTGNFT2JjOHJYYkVPQ1NkbUN6cS04SVZCRWpyenhFaG1SVGh4VnFoOGFVOGVoQVhQWm5NX0tNX09SXy1CNTJZMklOWmp5YkpZcm1YelJBSmZhWHVZb3U1WVFhVmREcnct?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Video: AMC Global Media Debuts Trailer for New Series, \"Cue the Laughs,\" Premiering Saturday, November 7 on IFC, AMC+ and All Reality | TheFutonCritic.com - The Futon Critic",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNU1lvNjlHd01WX3luT0xyY3AxdFhLVlkxVDB0eDNyZE1fa0NHNW1kMGtvVTB4Tm5HNm9hbDZma1dOOFFVUTdCQXEwcWhMQ2Y3eUhoZ1ZrQmRacDNTc1NNSmZuaFlTNWdGbmExU3FXRGJYaV9OMGdtUmVRMXdQbWVMdnVsUHpMMTVsdEtmQ0lsUEJXd2xEcXJhZzdsaHI0c1ZFc1JDUFJ5cGhqa3loOHJqakNsempXaktLaWJ1ak5mRW80Rm5hTmVwREljR3JXTUtfVFVvQnR0cXJnSjhiNlBRTi1BM3UxR3JyZjRxQTVxTWttNU9GWmhST3ExRHNtZlNlOUhYOXN5Q3M1bkFaNzhDaFgtVWtScmo1WkwycW5vWQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "ElevenLabs unveils Cue for character-level audio timing - Blockchain News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0FjN2tlakZBR3djOFhUSHU5VW84UFBTOWJVT2hOQmswbGpDeldzdmx4VFprWW9zc0JUby1iOUNLOTBiNV9kNjFZX0gyOXpnNUhfYXV3cmE5Skx6YlNNMDI0WkZQRjdxekdPRlFDWEZjR0FkSjRFcDVHRVRRRVV1Rm5qLUpMWUxqcHppVWh1cnpRY3M?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "IFC Launches Cue the Laughs Clip Comedy Series with Adam Ray from 7 November - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82SW9nVy1BdzJBUmhCTC02YWZDUU1EcUdUTXNGdkRveVl0MWVrNXhzWHZJOVRyUWJMY0ttOFczY2RTRVRQNGNtTWxzQlkzR1hJODF3N0JjNTA1cldtQmFWWjA3azA?oc=5"
     },
     {
       "type": "launch",
@@ -41,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

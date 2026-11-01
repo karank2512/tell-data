@@ -1,13 +1,13 @@
 {
   "domain": "wild-card.ai",
   "name": "Wildcard",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "[person] Joins Bigg Boss Kannada 13 As Wildcard Contestant",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXpsREtDR3FDazU1ZHFPb25ycElCSUNkVExVeFFJRUR4SnR5M0ItOWRVdEczcXphQjhhYjV2TVhZdV9EVEZaUWlCYTRFdGgwN3A5d0ZFajJJUHVqaGhtU0o1ZXJHT21XUjlrUmxOX1dhRC0yWVExN1BwRmhmTEpJbks4OUh2OUExem9kejMycmJiZk84WEtYQWt3eFgtWTNHV0pHd2JxMzM4dFhaeENKNE5B?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

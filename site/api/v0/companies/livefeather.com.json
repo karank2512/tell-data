@@ -1,13 +1,13 @@
 {
   "domain": "livefeather.com",
   "name": "Feather",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "OQ Hair Introduces Feather Crochet Hair Line Designed to Reduce Scalp Tension - USA Today",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeS1INVZhV216bW9CS25ZUGtDdmFyZV9mQkItaVNzeGU3c1I3X3BHZ1d0aFRldC1hQk91NTNnZXJqREdFS2VTQWs0aTMyWUE5U1pyVkxHT250LV93UFVhNE4wVDJBZDZfVUJOVm9TdjRwRWdfMUR5bWlEN3hHMzh2TDlXako0QW9wZU5uTllCbGFhSXBjcFl6d2pTcEJmMklpMlZ2VGJnOGFia2NjZHNITmtDLWhCTFNLNGM0QVdId19iTS1iWU9rUA?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

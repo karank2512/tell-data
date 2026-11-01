@@ -1,9 +1,9 @@
 {
   "domain": "units.school",
   "name": "Units",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "GMD debuts 167 affordable units at Victory Northgate - DJC",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XVmZMS3djVlhSZjJrb1AtOGE2bkJ5N1BRYmZDQ2llMU1NV2RsdlEzYXBSODZFckdycVh1bWpscUpWZG5UbHEyWnlOOE9KcWxIZFpB?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

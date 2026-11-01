@@ -1,9 +1,9 @@
 {
   "domain": "nimbus.green",
   "name": "Nimbus",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.2,
+  "score": 4.6,
   "contributions": [
     {
       "type": "leadership",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-13",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWDdCN3ZOTjFXZjVxVVN6bnRQaklfdEdOXzlldTZETGt0NXpucGVYQkdPdG1kWjJ1bnRMSlNkZnBCTWVqR0xLSmVKNTltNVpNeHAwblZ3VXFqd3pIeHR6WFV4Ny1iNVdZZW1yYlVDNGhRVFRYeDRTS0x4NkRza2hKT3VlaDEyQ3I4NGFFM2ZGUzhJRENKZUF5ODhiT0NpQy0zM1RrdHdQVDdYejZWU080Wjh3eEhpMnBFc01jQnUwVk1seWZxVDZOYnRIWkJwQUhxRW9QbGZBTEVWSnl1MHEza1Jn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Asics introduces new foam in Gel-Nimbus 29 running shoe - Fashion United",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3lTSFpxOXVVMTRIOTQ1LW9iVWt1d2N2b2JmcWFLdnZoWEgxbnFfVVNPaktVb1RERHo1OG94dTNEZk1zcmZkOGFwNmptYnNuVUdVeHY3cjVIZ0JpUmhKYnVaVDBnNkV0Rjdsb2Nhb2Y2dGZIOFFacE9WX3E5d3AtUzN3SlU0ZzN3RmhjTW9kWFE1RGx5VFhNSXlVWDJQc0ZkdUlRUGhlQWd6Vi1mUXc?oc=5"
     }
   ],
   "open_postings": 0,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

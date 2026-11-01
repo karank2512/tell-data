@@ -1,13 +1,13 @@
 {
   "domain": "corahealth.app",
   "name": "Cora",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-14",
       "summary": "Cora Cora Maldives Promotes [person] to General Manager",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmhsUVJPVVd1cjJRYWE3V09XQXRQdWtUTzk3OFloZWdrNkp1WnZpaG16RWVzYjRnRklkcUZXQTh3UV83SVgyVnlORlBFa0Yydm9lNDJ2MnlZM2NuZUxZMVVqejB4WmtvN1BlTk1FbzhFeEsyVXF2SkFqYlBONmJUejdxNGIyWGlyblBLdnFaZw?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

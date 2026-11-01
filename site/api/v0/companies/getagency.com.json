@@ -1,9 +1,9 @@
 {
   "domain": "getagency.com",
   "name": "Agency",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 15.7,
+  "score": 18.4,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-01",
+      "summary": "Kauaʻi County Agency on Elderly Affairs unveils new logo inspired by Hawaiian quilting traditions - Kauai Now",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckVxODBqVXU1OEVBWUxDVUJxejlTU2xiSnJGZjlUQ25oSVpQVTZxM01DM3VGd1E1SkgzVXpLSVhxdk01TmZUZmdlakFuZTVUZmZPUlh3OUJrdk9SZDlTYS1mT0dHeEFGWDJBckhKaTZPQ05ydWcyQjMtbko0TG9YcFdfYW9PbVlyUElJTkZPU0FoRlJXZkxvZU96Znh2N1RNMWZvYlN3SngyUzZHQV9zalZYbDdmQnY4SmxSVWU2c1pad2t5cnd0QVdsWXdkZEhsOE5LRHR3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Canva Unveils Campaign By New Agency GS&P 11/02/2026 - MediaPost",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNWEyN3FCQk5qTzlSaDBuYUh1ME1YS3EzcXk0bHRaUGY0QTFEeUpNLWVicEhJRGZqLWw1cHVPRWpwblh1c29zSXIwUVBzel9YVEhUNFExWkw5dnh6dldmQ0s0WU5wM1VUYnZEM2tLOFBrU1owTUQxaTNyNXNNaEZyb1o2U3pZVU9NeU8tdXJ5MmNscXdQdXppUjNGeThFU2ZZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-26",
       "summary": "LifeSecure’s new owner launches Dallas health insurance agency Starscape - Insurance Business",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWk5pN0VMTE5kX29pZ0RxM2x6TnRQS0RQS29BOFlGU0hXUlY5b2I1SmR0b3g1NUNrd3dTTXR6djZOQTRNR3A2dlJQWHktYnVTTWZmTW9fQlJUZ0pOeUNDRTd5Z21FVFh4VWZhSERTbVQ4SEJCc284TFM5aU9nanBHNmRlVFBETEVHbnRTREJJU2JiRUZtNkNwN2RWQ3liQkxsS2ZMN1M3aW82WWl2SjZET2o5dzlsdm9EQ3N1NXk4QWppRUlTcVBRTVRNQU5NMU5WMnN3UjRiRU5QaGs?oc=5"
@@ -56,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Kawhi Leonard launches rebranded creative agency, debuts New Balance campaign - Sports Business Journal",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFlTaTFzX1ZaZUgzNERXTE51enVBMi02TFFoZG01OXJMT2NVdWJfc05GYThoQTlnTWNzcHl0QTAyMU00VTdoNFBvclhLb0F0MFM3Sk9WT2pzekJTc3ZZWjFUYnlKTGVaVXVlZU15ci0ybU0tSi0zYW53UGt0ZjhNZFBTWGZlN2kzNnZQS2c0MzFwMXZtc0w3NGphVXRRYUZ5ZEdBVHdpaGlsWURoNFozSWl2RWVGTnk3MldCZk9sR3dXRW9UVjduNzk0T0RfWGZR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Marketing Agency Straight Up Debuts, Focuses On Long-Term Clients 10/21/2026 - MediaPost",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2xQeUNwQl9NVVVVNVE0UF9HQk1ycUpwQWV6aTA5cUhNZ1FneGpZaGpfcS03SG5pbXREOVdHenJBZDNpSWxrZlVLYzRaZUg3TDdSb1FyLXMxZXhxTk1SZlJsYWRPS1Rvd2plLThXVXJRWXJjTFdVdDJJNEFlTS1NcVdFWk1rYUwxX2JzLWZ5aVRqZ1R3QmRESUwydndnLVZyeXNja1E0UGNMbUFI?oc=5"
@@ -97,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

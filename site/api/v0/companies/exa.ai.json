@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 38.2,
+  "score": 37.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 24.6,
+      "contribution": 24.4,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -34,7 +34,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Exa: Launches Credit Card Backed by Tokenized Stocks on Base - Blockchain News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkppUFZvTlFXTXpoQmY2QWdISFd6MzdxUjhrdkhfdzdrTlNlYVRUOVpIRVB6QWZpVVhBbjZ5cHdxZ0ZORXhsV2g4bTRtTHRvMk9jNDBMdDdnU3BsZE9RZHFUMkdkckh6bV85ZDVUNTdJZHhpV1g3TERLZEdQWFlQT1ZsZURBOEVkak82NGJ4Tjk?oc=5"
@@ -97,7 +97,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-08-27",
       "summary": "EXA Infrastructure unveils new Barcelona-Bilbao route - Mobile Europe",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ldDN3Tl9ONnZ0QTZ1eENvUnJaeHotLUtnVjJGaGl4MC1oRGU4WjRfU0ozbGdwdU1wM3lCWGRGZEZfNF9qcndrX1F0ZkFCdy1HMWVhd3NqYTI3OHVwUHpFaU1EVURmU1FpMTMzTg?oc=5"
@@ -110,13 +110,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 62,
+  "open_postings": 63,
   "long_open_roles": 25,
   "sources": {
     "ats": "ashby:exa",
     "edgar_cik": "0002024864",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

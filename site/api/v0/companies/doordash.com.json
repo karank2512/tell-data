@@ -1,9 +1,9 @@
 {
   "domain": "doordash.com",
   "name": "DoorDash",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.0,
+  "score": 11.9,
   "contributions": [
     {
       "type": "leadership",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "DoorDash launches in-house drone unit — \"cleared for takeoff\" - Mashable",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUt1b21TMFZ6V0NmR1FlZ0hFcE9vVkR4dXA1blVjaUVLR25ESEpadmFkcUVKbHYwNk1HZ1pPSlBHTzBFWUkxd3RzalFWLVJMUnQ2cmd4UGdaVlFCRTd5dkYxYzV4anhMaTdOU0psTzQzbThwRXk0YmNqdEZ0eXJKMDJ0YnQtd182R3hjUS1qMA?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

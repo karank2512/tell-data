@@ -1,9 +1,9 @@
 {
   "domain": "hellorevel.com",
   "name": "Revel",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.1,
+  "score": 7.0,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Revel Bikes Introduces the Ranger Ti, Its First Production Ti Full-Suspension Model - Bikerumor",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDBfdFp0b1VTVmo4d2w3by0wT25rUk5UWkpDeE9VVzIyOXVodGxsRDVLTVVCbktpUGlPMGxST1l6RURfT0E0dWNjN25BRkZkbmF0elI1VkxtQmVMcUlqbTJqVkJHSDRINkpJdExDdnZJZDczWUYwWjYwX0J0Y1NHRXM2Zk9vOUs2bG12QlZ0cVVOUjlRYnZuQVo4dXliX08wVUI1MjVWdFU?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "cypherhq.io",
   "name": "Cypher",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
   "score": 2.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "County Releases Robbins/Cypher Complaint - Leelanau Ticker",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUF6djNXcDZQYWtzM1NxTS12NXVoWVdMeDRDUHhrZDNHRGVSNlFDNzZmQmExQnFPZXI5RXkwRkVGZU5qcG1IWU96VHo2MHY3RmR6MHh3WnRjWHdrcjRHYWZCQ2dSeXk3VmdJV2EyYjlwZTNxR1RPVkVPc0d6ZjlmcU13?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.1,
+      "contribution": 0.2,
       "occurred_at": "2026-05-27",
       "summary": "Introducing Cypher Chat Agent: Manage & Spend Your Crypto by Texting",
       "url": "https://cypherhq.io/blog/chat-agent/"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

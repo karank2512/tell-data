@@ -1,9 +1,9 @@
 {
   "domain": "radley.health",
   "name": "Radley",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 6.3,
+  "score": 6.2,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-09",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPamhkeUhhY19BeDFVdFZvTGtoaEtNeVNRVjFhV2ZFUks5eFhpeVVpcnAxTjI4LTlsYTNpTG9aWVYzUGdnT09jcHFfY0hwempucUlFWmNVbVlVb2FOVng2UVNRaDJVTmREYWh3Z3lKTTdVN2ZTc2lWd213czE2ZE51ZzRpRGV1RlhETmZQdHhwdE1Wd0xvTE5BZkdJekpmOF90dll6SmxpQmI1SnFPVGJKNnVUNFAyWk0?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

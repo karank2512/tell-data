@@ -1,9 +1,9 @@
 {
   "domain": "nestorup.com",
   "name": "Nestor",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-25",
       "summary": "😡 Neymar speaks out on red card, launches angry rant and insults Nestor - OneFootball",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa3dCNDBaUlBuS2hFZlN2dmVWNGFJcVk3VE5Va25OeGJ6YktJNDR3QkVCLUZlTHlxZ2lzNnJqdVhZSEFXTGpNNk1vWmZPaXJhN3lHRjBEMWRQRlVTYk9BQ2lTSkpVbThNaGFyeU83RFlObE91a0VzRDJKbEM4R25lWmY5TlNUb0x0NjJiQ1hOeVNNVjdQWTJFTTdYWVA5WWJFTTNBbFNVRzNzSnM4Vnc?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

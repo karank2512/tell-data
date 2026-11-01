@@ -1,13 +1,13 @@
 {
   "domain": "lucid.ai",
   "name": "Lucid",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.2,
+  "score": 6.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "New adidas AE3 “Lucid Pink” Releases Ahead Of Anthony Edwards’ Season Debut - Sneaker News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12YkQxSnFYaTJES1ZQTFNjanNuNWExNGx4T1NhQVhDekVMUm1ucXlwaEhyQUxKRUhUd0VKSnFJdFlRZm8telZnMGkxbFdObEJtOFpnMEdZQXZmdnRNQ0JBaDVJNWlPdk01akdENkhqRDdiZ9IBckFVX3lxTE12YkQxSnFYaTJES1ZQTFNjanNuNWExNGx4T1NhQVhDekVMUm1ucXlwaEhyQUxKRUhUd0VKSnFJdFlRZm8telZnMGkxbFdObEJtOFpnMEdZQXZmdnRNQ0JBaDVJNWlPdk01akdENkhqRDdiZw?oc=5"
@@ -18,6 +18,20 @@
       "occurred_at": "2026-10-16",
       "summary": "Lucid Poker Launches Cardle, Doug Polk's Free Daily Poker Quiz, on the Web - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSF92WVJNWUU2NVZoZjBzVmp0YkZhbWo3dk5jRV9VQ1VQbHM5SUY0LXpqM1c1MFprdnA4aTN6QS1VWXh0cVlGaWxiOXEyTFI2Zi13UzhYWXNWdUQ4aUw2ZVRtWEdkRmNOWEdjR01qajNnalAxUUZIcF9XMy1KaURhT1U4MUhJNG1rREw0ajFlMzlPdTlIeWZHQmhJLVlVWnc1NjFBNzJWcXRrN09lTFBKYWhhNnpVSjdfT19LR2ZpNzdBVjlxZEE?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-30",
+      "summary": "Lucid Private Offices Officially Opens in Austin Amid Growing Demand for Private, Flexible Office Space - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeXItRHFJc1dWZEZVY055WDVNbUtXZlZlb1JkMVN0Y2FHT3A1TXp2S2hQODJtTGxZbmVqMmtKUGxjNUNUZGF4aGJoM29YcmRDZlZVVTJWbmdERkdDeE45T3o1bzJQbkpZMkZjbXEzaXg2NlpnQVFLRkRDemRKdjZZNllta00xbHVrYmJZWGg4MWU5cTVMLXMydk00dk9IZ0ZiVGpPUDI5VGdmY2hmeEF3Ql9LQ1MxbFE0b3JKR1VsRmhZbUxpSTAzUTY3STkzSlluazF2RFdTSWVwdWR0UlZYZERPSUJndGhhaENVMC05bw?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-30",
+      "summary": "Lucid Private Offices Officially Opens in Austin Amid Growing Demand for Private, Flexible Office Space - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMDlUSEN1SXZOWjVxbGtiNlZWd3dtdjB5b1pzQ3BnLWNndkl3YWtTaXNMOGpkTVFEVkZaUXZESGpWc1BpdkhOVWZvTzVSckxCNkYzbzVSeWt3cGtEenR2WDdtcHVXOGdMX0U1b3hmSlNDcXQ1ZWpLUEJGemJ5Y0tYNUw2bzZnSTBiVXpSMGlQbXVtV3NDQ01haDhzZ1NXWUFDdGV0azlqdVo?oc=5"
     },
     {
       "type": "expansion",
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

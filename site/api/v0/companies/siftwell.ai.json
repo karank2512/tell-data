@@ -1,13 +1,13 @@
 {
   "domain": "siftwell.ai",
   "name": "Siftwell Analytics",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 20.3,
+  "score": 20.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.3,
+      "contribution": 20.2,
       "occurred_at": "2026-10-02",
       "summary": "Form D: $2,500,000 offering, $1,551,300 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1926185/000192618526000004/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001926185",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

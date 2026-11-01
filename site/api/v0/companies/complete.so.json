@@ -1,13 +1,13 @@
 {
   "domain": "complete.so",
   "name": "Complete",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "KOBOLD PRESS UNVEILS 'COMPLETE GUIDE TO RPG DESIGN' - ICv2",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObEs2OXlmRkdvaS1VSFVxVHZ0ZW5kdy1wa01nTmxtaVlTSVE3TXRJZ29Hd20ta1FHeWowRGRXbFVHaHNZTFBvd0tORTA3YXFoQmRjQUtrdHlLVkNGeTlXdXMyeUhvdi1LS3J3RENpbmtINmNGY2FBd1d4TXMyZ1NEYTZTd3ZxLXBKMzVTcUVHV1pFQQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

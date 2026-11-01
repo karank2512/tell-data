@@ -1,9 +1,9 @@
 {
   "domain": "minimum.com",
   "name": "Minimum",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Tesla launches new financing plan in China, halving minimum down payments - CnEVPost",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FTzNYTTFZY1NxYkNrMm90UzN0eENTOWFiNGNtNjJsbDVVQUZpUWZxYTE2ZE1MWjY1YTZYZkJ6VERrRjZCM2tHWTJRc0E5Y2hHNDNxa3J4RHFSV2lBS01tcloyVmRtMlRIR3F2bHYxY0h0S0Y1ZVo1cm4zeEE?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

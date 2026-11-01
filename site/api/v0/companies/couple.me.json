@@ -1,10 +1,24 @@
 {
   "domain": "couple.me",
   "name": "Couple",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.6,
+  "score": 5.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "From the aisle to the alley: Local couple gets married, launches burger concept that's set to grow - Boise Dev",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxQ3NhX3FNMDNRaGR6bGdmU3dTNE5CWmk5UjVra0I3RXR0Ui1rRWZXV2dwRFJzZ3R3Slk2M3ItY3RiZ0ZiYWZxNlhkdHduWVoyUDZPRmt3V2tmbFB6N254dWxoQmdMbEU3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "ACLU of Oregon releases video showing ICE agent stabbing tire of couple’s car in Hillsboro - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzl4UHIySHVIcnJzYmRNeERpYjg0MG5wN2w2bEh5ZGpfdlNHV3I5R1VWdk1tN1luT3U2cWdBaEFDaFJFeTVuWkZZcjhPdV8yeTBldFlyX0VDN1ctVlItNnR2SGd2Mkh6d0JHdDZzRVBiMUNlRlpHcnNwdXRnclhVZzRqSDdBbWVFZDJObFl4N25odHk2RjEyc29xcDh1a2h3eUZQVUdMcExhNmw5NHA1WTdpRdIBxwFBVV95cUxPaVpxYUVKVGQzSV90ckdJOFdSV3R5TzloR3hjV2p2ckpHWFl0ZTJ5emdjYmtUMFhkSUNaQ3hOQ3dlTlAxV1ZPeGtFWmdnRDdRUURVOXNpSGw0VGRzWEFodnpZTXFJbVVoSFREdG80VDgwYXIzZzdGNVVoaGVRQUlMWWtPeWIwVzl3N09uVnljT3dkVmtOLUZlbkwwVWh4UC1Bd3NJQ0swMW0zeDZFS0kyRUptcGt2QUM5M3FTTTNOdlp1VkNBMkJv?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -27,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

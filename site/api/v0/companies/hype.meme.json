@@ -1,10 +1,31 @@
 {
   "domain": "hype.meme",
   "name": "Hype",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.7,
+  "score": 8.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Mizzou releases Week 9 hype video narrated by Cody Schrader - Saturday Down South",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDV0cEZyeExyZFRkMjhXQ0JpSTl2XzNxZVFfTWUzOUc0NEN2cU91OHB6Y21oYXhvcVdYd0JONHNyTmZVY0dXUFQ1TWtON2VjOVMyVGlXT3BnMC1sUGgxY2VLWlVtQ1NGZFZ6azVzQVVkNF9Ra3lUSnVyd1FQMnBUZnFLMmFaN3RXeGRib2JIRXNSNDB4MUhNUjJZTk9kaUZMZGs5U3JQdUlaUTVHSHJNa3N5ekhYaDQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "ND releases hype video ahead of Rip Miller Trophy showdown vs. Navy - Fighting Irish Wire",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNX1p6SUJKblE1VUFfTkJIdG5KTjJKV1BjQnc0Q2xTWlBqYUhSVU40OUdocmJ2WFZrdEl0YVltaXpLaml1RXMtY0NwUGFuakdkT2FDb0JPSXJyUWRpMl9fVF9OcEFkb3JMTm9HckRzbVJENDEyb1plNW1hd055WTdrRWY0d3cxMGNCcExpd0J3S0U4R3QtQmk3T091UnNXVUZKX1VJN3RaWm4zQm9NWlJnMVpDU3htcTRXOHZPY1JTX3lid2tOUlFjUm9BYW9wak13Tzk4ZTJxWFBYMHRDM202QmxnR3JFcEJRZ3NueFNjbVMzNVJNcUMyajZCMk9TdmY0enhremFUdUZTcFVwRTdN?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "'Warriors': Ohio State releases hype video for USC game - 10TV",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWkE0UlZ6aTlaTHlIUE5RaWRRMGU2MTkyUnVHWU5aX2lSSVhGSkFSNFFWRDY0QXpYSS00ZHJ4R2hyQzZDUndvQTZJaGlubC05TDRvWlJTLXNnb2NYSFQ0cnM1SGVuQVp1TVFEU1h3d1NzUG5ja0ZuZGx1Q1ljMmc1eW4yTWpsNXlwdUlubXRxakpzUFl1ejZoZ2haU0tzUHRfSmxlWDNJdUp2WFgwVXRld2V3M1FEQklROXZzcDV3X2lSendJVEZJRXpjRWdjQnBWZ3ZZUGUwV3MxQTNW?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -41,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

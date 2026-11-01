@@ -1,9 +1,9 @@
 {
   "domain": "bumptechnologies.com",
   "name": "Bump",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 14.7,
+  "score": 14.5,
   "contributions": [
     {
       "type": "launch",
@@ -77,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Hilary Swank, 52, debuts bare baby bump after announcing third pregnancy - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfWDQ4TEN3V25qaWtaYnhGMmlYcmRkWWZ6UzNkMXNneFNpQ3hrQXlPb0NwVXNYZElESjNYVW5ZbG91QTA2ZV95Tk9vR0otdWpBNEtON3lNcEkxd2hoWkNONktreC03dDVYbFFOZFNobkgxT1VrVmRxYXpkWQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Hilary Swank, 52, debuts bare baby bump after announcing third pregnancy - Page Six",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUZzaWVZQS1rODBpdmMzaXZPWHBudm92dHFvYmtQelRWRXFKVS1Vc0FMZzZ5NnFYak1YMUdhQy1JNWxubnJINERwdDlkSGxuQ0haYTRrUGhDa09GMG9BMTFSU2V5NlNEdDF6UEN3bkRxbDlMQnBsbkh4emV3QndIWDd2RF92TXdfWkdIdklOUWZUTEp6QWV3UWJjaFZQZkFJYVdCQnV0UnBVdnh2OWotTlNCMnh6M1p2?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

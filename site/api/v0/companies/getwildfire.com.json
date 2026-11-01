@@ -1,13 +1,13 @@
 {
   "domain": "getwildfire.com",
   "name": "Wildfire",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Sisters-Camp Sherman Fire District launches new wildfire preparation AI tool - KTVZ",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNelI2eF8zQ2M4LTFPLXNkVUF6cVo0ZWFJYTQ5NnNFNVJpcGZ2dmJOSG9rdTFyQU5tUDVMQjJ6UEs5d3h5MzUxbFJlSmxjaFphcWlNR1FrYlZGSDlRUHhYbUItRjAzaXF0ZW5vVGNGQnFTQzg0UEQ4WGRzeVl2d0FlT1ZTSGl6U0hQZkVnWFNRU0NsNWo3dHJEeE5rM1dzOS1wRVluMmtkTXR6RnFDNFRNamw5ZE1WNjNMLUo2eTBR?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

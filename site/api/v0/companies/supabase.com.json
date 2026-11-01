@@ -1,9 +1,9 @@
 {
   "domain": "supabase.com",
   "name": "Supabase",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.6,
+  "score": 6.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -24,6 +24,13 @@
           "url": "https://jobs.ashbyhq.com/supabase/282d1dfb-b162-4ce4-a938-c4b2173230e0"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Introducing DBArena: open, reproducible benchmarks for hosted Postgres",
+      "url": "https://supabase.com/blog/introducing-dbarena"
     },
     {
       "type": "launch",
@@ -84,7 +91,7 @@
     "edgar_cik": "0001829334",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": [
     {
       "type": "launch",

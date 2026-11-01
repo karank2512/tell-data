@@ -1,10 +1,17 @@
 {
   "domain": "useresonance.com",
   "name": "Resonance",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.5,
+  "score": 11.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "Resonance of Fate Enhanced Remaster Launches on PS5 and Steam - MonsterVine",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHZFc3l3WXl1eFRzWGJYTVRSNXJfLS02MFlsSFpZenUyRmZQUTdIVzUwaDRoUlkyYjhkandVbHRPOGRhb2RlWkNLeFc4aEtROXlrOFNETk5NUURlR3ctZ0psLUt5QktNWTJJd21WS21HX1E5UTlqWTBOVjZVSFpqTUJBV1hHSzBxZkpQZEpB?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Blue Protocol: Star Resonance Launches Season 4 ‘Lightchase Oath’ - Final Weapon",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVXBYakpyWUM0TXVDcVlBOFJQNWdIT0tqZ3NaRlZtZUlqV0N0cFVtYzZBZjF4RG5YSnZ0d29LSWdiMXhOSmtyX2IyV21EaVVsN2FsUHNOSloxZGtfVzRDZmlPS0tGdWFWbmJmRVM2WEduUll6UVU3a195Wl9JQmw0VE9PUGQwbWFiOEYxREstb0RJZVZlTmJMRjd3Y25Sc1E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "CERN launches the Grand Prix Resonance, a special edition of the annual Resonance residency programme - Home | CERN",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUpfRmZxWUdndG1OTVN4b2RSU0dHZHBkX21sVVBqYlc4MU1aVTl2LVlZb0RPTkk3V2RwN3dSSE56RzFhejRqX2tKLWlGWUlsczlQdUk4RHFKX01CdjI2RjZZXzY2c0VjdGtaOTl2YkRONFBTb3VfX19oY0EyVUhKaHBjdmFfeEpvT29RMkhkLUZmXy1WMVdkQU9ONzhNek1BWm1aeG1HUTJINmxxRmlTYmNrZTRDSFB3bXVR?oc=5"
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,13 +1,27 @@
 {
   "domain": "tryvirtually.com",
   "name": "Virtually",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.5,
+  "score": 7.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Meta Quietly Launches An AI Fashion App For Virtually Trying On Clothes - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNVZVcmloMlFZSEpjX0NyNzVKckFiUUptT0lSUEpoN2lYTXpVdXZoM3E3QWhDdGp1Nll2Z2F5TVpNaHQ2dkg4TzJMeHVfcnowMktsSFphSnpwUjdYSlZzOEFwR1J6enhBdjl1TXZUbmwzOHNfby0tYUJPSmFvZEY1R0Q0U2w?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Meta Quietly Launches An AI Fashion App For Virtually Trying On Clothes - AOL.ca",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHFCb0FEdEEtTHdIQ3JaSlBsNzRHM3B6X2luRmpPTnNBYmg3X0wwNTlaRlhpV0Y4QnQ5bGZIbktXWGxiMGdVLV9KZE16a3VmMTNXbWZyN1RQbFNMUFRMNHlSOWxJdDl3MlN3UExxZ3FXcklOdXFjYzE5V0ZxMmFtaQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Rio virtually unveils Jubilee monolith for 25th Dr T Ao Trophy in Mokokchung - Nagaland Tribune",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHBxYWhXT1BCaklHR3lCN3h6QjRpS1dobHBpa3B0VW1SWUxMbU9rVlc5OVoyamdTZ3NubXVCMk5VOXd3a1dxUW9Qa1NmaHlpdkFyckdsQTJjMUdlRW5ubUFxLTIyaWJUZzFDWE82N25SLVdmV1VoNHRZemUyOHBFdGVJX3hLVEcwQ1lXOU95T3FMZWZNRjFMNnZUMkhHX3JhTXY5T2VFdw?oc=5"
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

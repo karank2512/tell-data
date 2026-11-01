@@ -1,13 +1,13 @@
 {
   "domain": "asktetra.com",
   "name": "Tetra",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ1N2ZktEc3lxSEc3aXN6VllJVEs4RWpZOE1tMkNsQWhkbkJ4OXZBYzk3cTN1d3FhM29iUG5LNE5YZ3ZRV1pRSF9abDNNSG5CajJVSk1ldTdBMHYxZG5KckZGeW41QUw2TWl6NFItejZtVVhUWEZTLXZHY2xDSDEyTFNKWG5kTmZweE5zRmhHN2MxRS1CakdxUkoxeGpvS2dpNmRFSVJ2ZFdPbjU3QnQ1dzBiRlpZM2FlbjBVTmFzbFNNNkpYckhxYnZSN0cyQl93UWlqWGZLQ283VmEzTmtHbFpYX2Q?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

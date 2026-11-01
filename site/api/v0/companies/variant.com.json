@@ -1,20 +1,20 @@
 {
   "domain": "variant.com",
   "name": "Variant",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 19.0,
+  "score": 18.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Teledyne Marine Launches Portable Variant of SeaBat T51 - Marine Technology News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1VjaWVZbnEyVm5xTlh4eGYzVjItcGQxcXlsOHB4MC1FQWNjbk56NjVYZXVRdXR3OXlVbk56SEQzelN3dlFNenFkUEowS2RhNm5COER5VHkwOUhTOGxHSE5MdTczbThkUmxsUy0yY3NTWjl4MkFyMTR4VExGajk5TXJWU0dJZWZZUGc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Reddit Unveils Ad Variant Testing Tool 07/03/2026 - MediaPost",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDN6WngtSXBNZXRmOW16MGwtT1E3bjVVX2Z4Vm9mWDBqT3F5SWpoYm12dmR6bTFRVjZpai1PMVYzRW9HSHZtMV94cEVBbkZIOGRuQzFkNzNjZHF5LWhoU2NydE1yR1lZRmNpanNzRVBuandLWEgzY3I1YnlLQ2dNS3AtR3Qxbm5tNUR5R1RzZWRIMTJUV2NoT21rcDVuZw?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Hanwha Unveils US Variant of K9 Mobile Howitzer for Army - ExecutiveBiz",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjlVYXNXVWpnWHF5Z0lXdldCU3NUdHNJMFFJQ0diTU5NQVRKc2xPdmNYazh4WWE0UVhrcXctaTljaGVWbGZ1YUxSVGxFTnN1T2VjSzZrTURpM0dUdC0zbkVOWDFWRHBYMFFTOWowSXZGNEpRRG4ycXZDcWk0WURuVFhTRmRMdw?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

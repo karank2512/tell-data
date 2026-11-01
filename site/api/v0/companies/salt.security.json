@@ -1,13 +1,13 @@
 {
   "domain": "salt.security",
   "name": "Salt Security",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Salt Security Launches Autonomous Defense for Its Agentic Security Platform - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQXzFWQTh5WkRCcHl3eHRqbXVrRlBFSzdPVl9VNFNwNll4bWdGZGZBTk4xSERBei1SLWJTWDZmOGtTUHJBYVlGOUk1cThxUEJtV0E0X3lSWS0xbzNCVy1idkdodmkwRms3N2ptNTZ4WThnYUhIYVYyXzlaaU1UakVKNl9ocXhiVEZNZDZIM2locGhXZUVYQUZ3M19yc1NXci01dkxmQnRCMjA?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

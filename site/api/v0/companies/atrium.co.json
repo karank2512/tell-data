@@ -1,9 +1,9 @@
 {
   "domain": "atrium.co",
   "name": "Atrium",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.9,
+  "score": 4.3,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-21",
       "summary": "Lion Copper Corp. Finalizes Convertible Debenture Restructuring and Appoints [person] for Equity Coverage Post-Nasdaq Listing",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR2NtTUFueDN4dXFiMEtCdWRNRGdOYkM1WkU5ZUh2ZGhabDByQUxCaHlTLTFReTJETW9LTUNsOEI2b2pTUGYtY3Z0RWtmZTZrUUkzdFVLZDFJNy1aRlJXamcxNzJSR0hWNHZmUW40bEpuR052SWUxa25EemtxcVF1Z2dkS1BfNGxLZGNvMFZQZlQxaGVnNjgtdjVqYUV2bkhNZHFaS2lXVDN3V0hPZ0Z2eldrQjJRclhoSS1VM0pxUGZ0aVpkbVZPei02WUVZT0hwcjZRRXlORUFiN1lhT2Z2MHBrZzIzNk5ERUI3c3ZZNXVtQVJXRUZRLVZkM1hNSGcweHM3NnJhZ3BNZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Atrium Therapeutics Launches Interventional Clinical Trial for People with PRKAG2 Syndrome - www.dicardiology.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa2xSd3ZYMHhITW9QSWdjeG5hRFZqVUI2MkU3WFE4a3BnYW1RbWlXLWtyaUxjOUMzRUp4M0ZiZC0ycUgyMGYxektPcF9MaHRza1JGLWlBa0gxYkVXVHB4bVAtLUpWbHMxWnBaelJOMFp6bm1PNVlGVHZmX3htaDFkb043Vmx0V1Z2bWZqRnlhZE9kOGtIaEpzZ1NzXzFhS0JhTVNlWVhaVjBkQmVhQ2lFb2FObnNMaUFWNUE?oc=5"
     },
     {
       "type": "launch",
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

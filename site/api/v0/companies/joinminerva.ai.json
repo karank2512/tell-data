@@ -1,13 +1,13 @@
 {
   "domain": "joinminerva.ai",
   "name": "Minerva",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 16.9,
+  "score": 16.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Open Practice Introduces Minerva, an AI Assistant Built Directly into OpenPM - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdkFsTWl3LU8xcHdjMzV0ZXd0TXYwUEwyU3JOMEIxSkhya1BhYmg0bFhrME9WX3EtZTRXOTA2OWRiZUM0NzVKam12OWhlc0xoV3N3cm5JTGdRMEQyWkY4LTJNQ09ielZpZmRNaXloN21ZUEIyalZqSjZCbkZoTnBOOWhVd1NDTWx5NTk2RzZWay01aFVQ?oc=5"
@@ -77,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-22",
       "summary": "NVIDIA Launches Minerva for End-to-End AI Factory Observability - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0JVaXJwZXdZbnlQc0NHZmZXUTI3ZVBRSXpCNUd2R2NDSFRWNlJsUGFsNFJiOFdhWkp5QTFHUWxzRDRCOW52R0R6bHlIV3BseVNrUkl2bHZoVnJOYTlYLXhqQnZib3YxUndSZ3E5eU9GN0VQdHdteWFxQjNMZ2xGVDV2OTRFQUNGUXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-22",
       "summary": "NVIDIA launches Minerva for AI factory operations - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLXViVVpyMGhGTG9Za1VsMVRucmUwTFFma2xPUlFkelp1LW1QMTQtNnAtOExCak94TGI5WDdwbHNwTW5vVnZDUVd4MVpISm42Zk91a2tRQ1dfX3ZEbnNYMUZRLVhDR3ZiS1J2dkZNcE1YaDZUVlZ5T09oTnQzc214R1FCVWVlTGFLb2tR?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

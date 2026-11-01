@@ -1,13 +1,20 @@
 {
   "domain": "checkfragment.com",
   "name": "Fragment",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 6.8,
+  "score": 8.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "San Francisco Procurement Startup Fragment Launches With $56M, Claims 90% Touchless Rate - Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWtvNmltSkVySjE0SDk4UjZ3QzMxTHZyOUZUSHYzaFFMeWctUnlhdzlwVDJNUnkzNHF5VTVvYTlVMjBoRXJBb1kteHBGcm84ZzJYV2ZyOHZwVUVTRFZSNnQtVmRNREZPWHdLNENLcjZJaWVTbXBJZ1NPRE9SMXRNeWVDUW9uNEZGbDF3ODBSZHpwZGI5b3JkV1lLdHN3WE9JNURXZk1fRS12SGFQQmNIYjJJdEZEUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Fragment launches with $56 million to move procurement AI from recommendations to authorized work - OpenTools",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2k3eXpkejVPRXF1ajN2TEVaQUtNbHhyQlI1YmNLdmxrdlpFRkZhUkVmSW4zMy00dk8xZEJfTFJfY0g1cGpNRjVvS09WaE1tZUotZUg4dExaT2hZUDRzcHd1ci13aGtvdTlJWDVtM0JhaWI3MUc4bE9SYllySlNPempKS0NaelVHVlBhb0hPdkp4bm9lb1ZOdm1CbER5b243?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

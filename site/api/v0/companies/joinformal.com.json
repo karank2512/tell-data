@@ -1,9 +1,9 @@
 {
   "domain": "joinformal.com",
   "name": "Formal",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 11.6,
+  "score": 11.4,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-27",
       "summary": "Anmako Launches SEISO Collection for Formal and Special Occasions - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMWVIMEg3TWgzd3JjSW5BcXZJRk8tdFNERm9qdTZxVGZVMVBUR3h0ZHpJNWprSVVoQnFjMlExUlhsc2swVTBydWsxMGFQTEs2V2VrRXloWEl1UlpBTE5xczRtczBLNHplN3pSZXVWZjZxUUY0WGJ6ZE0yVUVVdW51eWpYdjVKTDFNWHJkRnliN3gtUmFNUDIzVk9GV2oxbkFZdzN5UFU3RkplUnByV1ZwWXJfeEZMekgxT2EtcWRtaHhFcTUwMEFnU2llcllXZ281WEtEaDJkemRmQlhoYU5ySHR1NU94Rzlv0gHoAUFVX3lxTE8xZUgwSDdNaDN3cmNJbkFxdklGTy10U0RGb2p1NnFUZlUxUFRHeHRkekk1amtJVWhCcWMyUTFSWGxzazBVMHJ1azEwYVBMSzZXZWtFeWhYSXVSWkFMTnFzNG1zMEs0emU3elJldVZmNnFRRjRYYnpkTTJVRVV1bnV5alh2NUpMMU1YcmRGeWI3eC1SYU1QMjNWT0ZXajFuQVl3M3lQVTdGSmVScHJXVnBZcl94Rkx6SDFPYS1xZG1oeEVxNTAwQWdTaWVyWVdnbzVYS0RoMmR6ZGZCWGhhTnJIdHU1T3hHOW8?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Kazakhstan considers introducing formal vocational diploma in professional cleaning - Kursiv Media",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWVY3Z0VlNllCbndITGZVNVNJRl9vdlZjVVA2a0RlSlhNSWk4ZnN4MFBRazZGSHpiTEstdWxuZzhKVlc3T0NzLWRKWjRXRzc2QXU4RzRPVDZQTmdXMVliY1RzOU5NM29kaTR0VTFNU3hCeURsY1FBSUlmanZaeTNMQjhWQUd1SS1tNlQ4dXN1WEwyVXVsOUpNdVRqb2xkMHpjVldOQTVIenpBNjhKWW13dndOU3lTMElRWTdFc2EyWkpRX1NrZV9najdkU0g?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

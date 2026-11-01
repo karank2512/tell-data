@@ -1,13 +1,41 @@
 {
   "domain": "buildatmos.com",
   "name": "Atmos",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.0,
+  "score": 17.6,
   "contributions": [
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "Atmos Energy releases 2026 Winter Warm-Up Check List, stresses prep - Columbia Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQWxkLTRXSXBqUF9QeU5VT1ZYeG5HdVVTWG91bXpRaVVHaWt3c1AydHp3VzFCUEw1ZEp0Mkk1aVc5UUJtMnpUSk9GR1dDSjZyaVZLWUpHMjJxMm1COW55dEdlcjE3UzN3a0NiZUlxN1plWENJaFppOGRiMTN4TkJyUF94VTJONnZ0Zm9nT0tmVHExWEt0ZHMwRmRxY1A3QWE3OTBaazZQaDlnblNvTnhCSDlLOUZqOWprSHNmNElNSlR6NGk5VzVtRFNzWDRzMkZEM2c?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "atmos x Air Jordan 12 “Jade” Releases Exclusively in Japan - Sneaker Bar Detroit",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pTHhuRjV5MlZQVzR4elZ1Uk1nT19PR25RR2Z3b2w3YWluNTQ3bi1XQXRHMHdDS250Y2FHYk9hbHlRRlNZbUVqOGdDdWN2WUIwbmFaZWNMazJwMThWTU5GYW1OanFiM1ZLbW5Pc1hVUDVWOUV2elczZg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Jade is Back: atmos Debuts New Air Jordan 12 Collab for atmoscon - Sole Retriever",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWN6M0F3ODNDV2NvbVhuRFpFaE43bzQwVkpfRjYtYUxwZk5sR1ZOTTJiMHV0QXZpVlhrdXY4bXVQQjlISkpkX0M0WFNrRkJpRWI0bmQ1N3o3MTNhdGh3eGI0TVBDU25XYU1aSkd0OTRnVFlvVmRuZFNGZUdidzctUUM5NkEtMWpTdFdMLVJZMlo4TW15U2MwQW5MS2xzSUJWTUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Cooler Master Introduces the MasterFrame 400 and Atmos II Pro Gold Edition - igor´sLAB",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnVxdUlQRDduS3pMWm9ZS1lsSGlxYzYwU0lqTG42NXp5UGY4SUZUV0hORlNrX2toTU1lOUk2N3gteHlZZXdKZEIwNUJRd1FDR0RucEF3QWpMeU1PVHB1eURzRkVaU2lFR0kxZDhMYkVBdEhvWFVFS2xfTFF5aEppNVF4QUcyejZQaWYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-25",
       "summary": "Alaska launches six communities within Atmos Rewards - www.insideflyer.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORHpoeEZsekxCV3RzVXUyUjBzRXBqYThMeVo3V2dJSTlpdExBMndOdTNwTDQ2a3k1QUpwVTh5MTRkd1VUT1E5aHdyaFNJbWd5UWZ1ODVDQXh6YkIzQnZqSDRSeE1kT2pleFlSQXlueXZxNzJfcVZJa3VVemFtZC12RkFUallVRjlZay01MWRXdUk?oc=5"
@@ -83,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

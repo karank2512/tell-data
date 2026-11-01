@@ -1,16 +1,23 @@
 {
   "domain": "usetusk.ai",
   "name": "Tusk",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 3.0,
+  "score": 4.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-25",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1gxZUxFOXl3NFhDWVhIZEJPdTFtaFFxZ0NmdzFrTmM0TGdaZVdUb0tUYkxjd2ZjSEdYWDZOOWxsNGN3RUVFdG5BN0NUbGt0VWdacE9hRkV4S3dnS2ZzcG5ybHFKbUo4UEpDclluMHVUYW02UVNMaHNOTTJUeHNRMi10LUdfNlVNRXRCOXJ0TEpMOUhUMHJzMFF1b3BRbUNXUlE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-30",
+      "summary": "JoJo's Steel Ball Run Episode 7 Unveils Johnny's Tusk Stand - X",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFTlJzYkIyUEFvMlJaeHFNRlllMGo4UThERHRoUW16a0hCU2p2NzROMVZ4WjhpUERwakFIZFFyYTQ0N3U2VEttTktEVGN2ckVZMFpfZ1VfOA?oc=5"
     },
     {
       "type": "launch",
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

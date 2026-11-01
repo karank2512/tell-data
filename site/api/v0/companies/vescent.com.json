@@ -1,13 +1,13 @@
 {
   "domain": "vescent.com",
   "name": "Vescent Technologies",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 29.4,
+  "score": 29.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 29.4,
+      "contribution": 29.1,
       "occurred_at": "2026-10-30",
       "summary": "Form D: $28,616,540 offering, $16,409,455 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1995793/000199579326000003/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001995793",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

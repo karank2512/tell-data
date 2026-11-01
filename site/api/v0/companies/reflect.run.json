@@ -1,9 +1,9 @@
 {
   "domain": "reflect.run",
   "name": "Reflect",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.6,
   "contributions": [
     {
       "type": "launch",
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Reflect Orbital books two launches with India’s Skyroot Aerospace - SpaceNews",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc09FaVllZ29jdVJWZEEyNHhqN2pCOFRCZkNjNXNpZVRMcFppSHluTl9PYm9JVGVmR3Z5OGlMR3UwbHJfS2RqVHZ5U0ZfUXY4LVpwNWItalV4MnBKMTJNRmlsTmtLakhMbU9iWWdNSnc4bGgxaEZZN3A1UGRqTGVRN1BsMXp1M2VoNjQwdjlURHo?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Reflect Orbital Buys Two Skyroot Aerospace Launches - Payload Space",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOW5pS2toQkJMcTlPUGRleDl4N2FjMWlPQlVBcXd6TGgxWmhwb1RueWpNeU5OczhCQkMxNXU1WjdSbEJjckVZRU5SNHlLeDB1bzJ3U0ZGVHJzcWxOUk96bUs1amprV3Q1YnBjQk1uVnVhQTcwZFJlSE1hTHMzRUNOSlVHZw?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

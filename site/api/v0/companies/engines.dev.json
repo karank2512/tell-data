@@ -1,10 +1,24 @@
 {
   "domain": "engines.dev",
   "name": "Engines",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 2.3,
+  "score": 5.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-10-31",
+      "summary": "NVIDIA unveils next-generation CPO technology: Optical engines bypass organic substrates, with prototype samples ready. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0Y3eTQ3XzVRaG55OUYzM3owQlpyaU81NTVIMTNPU2dnYmpGQ3NyMmVVd05SczV2T0x5UGxvaXFTdlBrS1hlNzJQWEhSVHhYZVFsal85eG1SSWxDVnM0WXFpU2x4a3k1a1J4ZEJaaEIyMkpXQWFHdkY1RGhjTjh5dW8yMEVCTVBVWjl3UXJVRkZPM1RReWpQZVhkVHY3ZERyTkNnY25SeWtPaHZlcVg3RHdqblIwU0tfR1J6RQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Scento Study: AI Answer Engines Add Unlisted Perfume Notes; Free Scento Perfume API Launches - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSTBONE4xdHZ5blJWQ3h6S1BxcDZXODQ4VUNRdmxCa1B1LU1mQW92ZEtyVFVIbUJ5ME83SHhKcjNIWkdIV3M5LUdOcDBqZjZUS29IbUJBTE9SYVEzSzFFUGxBdFBpQklxTDM3UjhNMm4taURGTlp2X1hMWDFubnZILWlpOFlUeEhEREVJd3FZLU5XYW51cm5DeThDcDB5RndsbmNSWkdKbG9NTWxiV3pMQWlHcTVOa3MxMUhtbmY5TC1NU01ZWmRFMWt6XzY?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -27,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "useclick.ai",
   "name": "Click",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 15.5,
+  "score": 15.3,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Microsoft Rolls Out Windows 11 Preview Update to Customize Right-Click Menu - SSBCrack",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1JvNEY3OXJYWkxwVmlTbDA4UWt1ZkNkU3JWSDBGNlVuRVhUUksyUFBzbVVEdE91UzFwaFpqMkk4VjNQdTFJaGRoTmcwcVRsdlBLZlc3YmhJa0c0Q3hBQ2gyZFN4SHRRWEJIcjN0X09VMjA4OEJxbHh5V09NS0ZFTkg2RjNrQllyTGNuLXdkRERPeURXaExYRGU2bjZzQWY0SXBqMw?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Profile Design Launches Zwift Ride Triathlon Aerobars With Integrated Zwift Click Controls - TodoMountainBike",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEROUXQ1cVY4SG1lN3N3NWg3N1RKOGV0Qnh1TGVQLUFhLXNoQ0dBTk9WVjFLQVVZaUpFaXdVN1o1TF96bHVIZ2hqWlFqb1lOSEFkOWRXT3owNHJrQ25qbGI5ejNTbkpBekZreHJPdzJ0V29vMFpydHRySUJJYnJKVUJsYklDb0FEd3g3RjdHVG5Ec0RtRkRTMVhKd3ZmaHpKNjI5bVUzTkNoSzZUZTYySXJNZVdoam1YZ0VLNU93?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

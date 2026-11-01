@@ -1,20 +1,20 @@
 {
   "domain": "vector.co",
   "name": "Vector",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 38.2,
+  "score": 37.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "[person] joins the Agentic AI Foundation & opens Vector as live environment for agent standards",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTlNqR1c0SjloVlZFSDdqQk1PaGVNckRwdlVVXzQwekhZMlhCMTB2Y1hMb1hCYjJJUlV3MzhrcnVfalFhWVFKNFV1N0Rkd2VidEtGTXNHcVAtVGtuU2xKQ1NVVjFpQW9mdDZ6WXZSV3pPSV80S01WM2Vsc01IQzlnX1ZGcTlHNWhnVUxlVm1GMUlZVHdpM2hqWmRZVFBiblVMSWtKWDFSNmZfZ2xqZTEtZ1o3dnJGMDFPSGt6bUd2bFdCMmJLVXpNU2pVT0JHYjVWbE9nQXBqOUlDXzVnSTFNcFpEQQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-29",
       "summary": "[person] joins the Agentic AI Foundation & opens Vector as live environment for agent standards",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWVnZld1Rk9uQy1KOVh5ZlROMWd0N3lyc0lEdTFseHVmMXhfOTdQaDJFaS00Ul9SYzZZbnQzMFZ0czdLYlpMU0k0WTE4Z0xTZ0lXbWZXVmJLVEFPbm56SXEyUVlhMlhzZHpFUXgwWERZQV9aSHdLaXhlcVpJVTFkT0ttRFA1d0dJY3lTUWZOTEFERVU4MVktUk1fXy0wVi1Rc2hpcFY0RTdEMVVLYzRvQmN5VTc4Z2lfYVIwcVU5TGM3WGs4dHh1SmZ3?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-29",
       "summary": "Vera Clinic Releases First Clinical Outcome Data for Vector-10™ CVD Diamond Blade - Complex",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGNycURNWERQWDdRUmk4M0h1YUFTQWl1RERzM21rZFZJdGNJdEVFYm1FQ2xFdjBDU0NsLXYtTGpQZ281LWlqdGhrTDJVRThwS2l0cE1RN3hjemVJUkFHMW10SjVHNGY3QjJhd3R3TWhRWE9Iak1BcGZvSVVrWkkwdmNFbWxmNmt0X2tv?oc=5"
@@ -161,14 +161,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "W. Darfur launches vector control campaign amid rising mosquito numbers - Radio Tamazuj",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTk2RzExalJDQWVSYlJidURpQVQ0bjJUZHlYQngyc0xkN2xKcEdwek1xWF9LVmJoX2ZBemIxSng5UzFJVU80X0Z4czVGejV4OWNqbWVhQUZBZnNzUWtidHdyOXpFQnJONmtJdEpuay14dC1kVFlIZXhLdlJvMHJXSU1zOFEtdkNLVl9GaHoyaGwzeXlfVzJHRF9IUW16dl9QcDY3c1FsVXZVTVFMV245enAxcDZCdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-19",
       "summary": "RestaurantData Expands Restaurant Enterprise Index to 430 Companies and Introduces Restaurant Vector - RestaurantNews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUdpS1ROTTdmdWlMc0Q0QTNIVU9KM2o2Q2ctek5ZT3B2aVU3M3d5dVI0STFXYW5yaXRNZXFsLW5qUlNUNW9KYk1fOG12RWRWUWNHT2RQTWNIdFdyeG5HREU1NDB6SVhLTXU3TGNlYUtpVG5NUXJkcVBzM2tiR1EwMUVIUlpKOUFGczlCSEFXV01NeEpkcmhpVU5WUlZaT3VBU1A1SFkzZnB4TnM?oc=5"
@@ -195,6 +195,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

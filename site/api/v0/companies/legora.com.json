@@ -1,14 +1,14 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 12.8,
+  "score": 14.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.1,
+      "contribution": 3.0,
       "occurred_at": "2026-10-21",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -45,6 +45,13 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Legaltech Rundown: Legora Introduces New Research Feature, Filevine Launches AI Voice Agents, and More - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeW5CNmFVNHFuNG12MUpNUjdEQkt0MlZUc1FNTGpYNDZ1eS00cWw1UkpYSGtfVVBNQy1fY0t3UEphbm9OTXZ4aE92WE5BS2hDYTNPRzNUbTZWVmVaUk14N1JvSUt3cmJwLVdaMjFzbHRRY2tvU2ZhRncxUzRSNWpBVEFtTUgyY0dwb3lDRFlyS25RTnppZkw1MmxYeG9sSVlsMjRCaDdnSlRrUEZKelJ5Y2phemxzNWdoMm1laTVQTlpYN1dRUnF1dzFHLWFTaDlFNDVmeG5FbWtvOGpjWFQw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-28",
       "summary": "Legora Launches AI Agentic Operating System for Legal Work - The Chenab Times",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGF0S0tLUG9lRXVFd1pzeklaaTY2eFV5Q0JOZ3llZU5UMTQxVm4tOTFSQmg4M3VZUVU2d24zZFhqNnJmRzJhMFFKQ1lyUjA2eGNMWFpUb0s4UVpWVFF1Wm1hVk1nYVRoT2hkcTdibTdVSm9iQlBWT3VJUHRod202RlF0WHIxTFE2UlB0bjhHaDBlbTMwOXF3am5ycUx6NUVjT0VpUkU3ZTNSeGo1bHVBc193bnE5NDlFRTZiVHhBdFRad9IBwgFBVV95cUxNNGF0S0tLUG9lRXVFd1pzeklaaTY2eFV5Q0JOZ3llZU5UMTQxVm4tOTFSQmg4M3VZUVU2d24zZFhqNnJmRzJhMFFKQ1lyUjA2eGNMWFpUb0s4UVpWVFF1Wm1hVk1nYVRoT2hkcTdibTdVSm9iQlBWT3VJUHRod202RlF0WHIxTFE2UlB0bjhHaDBlbTMwOXF3am5ycUx6NUVjT0VpUkU3ZTNSeGo1bHVBc193bnE5NDlFRTZiVHhBdFRadw?oc=5"
@@ -72,7 +79,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Legora launches integration ecosystem spanning the enterprise legal stack - Legora",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUItUkYxQUd5Zm9qSExFZ0ZzRTlXcWdzeG5ZaVI0MEtOaVB5NjBaaW9xOWdjOTZoblJpTWRrRGlRdjdiMHBoSHMtd2ZEcHhpa2ktTnJFRkM2Z2NWeGt3Tnczc25SMkxlWndRYXUwclZOb19sR0xBcmREdDJWYmlYTjI2eU1qR09Odks4OVZaZFVjWlIzWTcyamg0LXY1UDB6bjhJ?oc=5"
@@ -110,13 +117,13 @@
       ]
     }
   ],
-  "open_postings": 306,
-  "long_open_roles": 97,
+  "open_postings": 305,
+  "long_open_roles": 99,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

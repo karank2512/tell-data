@@ -1,10 +1,17 @@
 {
   "domain": "iamexec.com",
   "name": "Exec",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 39.9,
+  "score": 43.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-10-30",
+      "summary": "Hires as New Chief Merchandising Officer",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmFLN01aVG9mRTd5Q3c2ME5YRHVHekdXcGk3ZnJmU21DaWlzb21ZNXU1Q25DQ0VzMzA1NEdPdEhYNmwteVNBX1pzcE5KSUlkRFoyQ1JSWEM2eGtpMjROcUJWTHN2MWtVWHlnUmRsY2lrVWFVaFF5SlhnWEVWRXY4dHZITzlKLVZYSHFtaTNCdklSTXJaQ2VDdWlfakRQcHY2a3gwME9NeEFYTVdkSGNnZjVVZw?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -18,6 +25,13 @@
       "occurred_at": "2026-10-28",
       "summary": "Former [person] Joins Liquid I.V. as CMO",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTRaUmo1QnByNlliMmtwUE16TGE2YkROU3YxRG9lUmZ6NUVMb3dQUUZDQlZuT3d4RENLNHdUMVRiY1k1ZUl0b3NKTGp0WjlfajlNc1NEdXNISWhqM0s4N3BhUmFWU01kRVdmUTlUYURZUzdWbnhleG13MGRoR1Zpc1dURzdTYXdJaVB5TzNDYzU?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-10-27",
+      "summary": "appoints as CFO",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkdkQUJaSU9GUHJaZTFHaGlJLWQxSlQ0cU1RTHplQVV2OEcyaDNfWmZvNkJDMmtSdGsyUlh6TkxrVmZYcW9ya3FKek9LRWtXM08yXy1VRWZDSWVic0hhcS16bF9MUmEyWjZ1UkpvUG1CVDBBLWVDRXIzUV84VFBfV1prUE8yQ1hxMlFMV3hkRlFmd2VrVmQzRTVmS25VUnU3eG1rQ1U2ZzZSZVo3X2NxSG5HWlliSkE?oc=5"
     },
     {
       "type": "leadership",
@@ -63,14 +77,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-21",
       "summary": "names as President",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2dwdGhyR01fVnFYcGYtUWVTME1LZ3lRck53Z2FVN2s0Vi1JUldxbHl1ODcyRjFncE54R2phRjhZb0paNEZjcG1nUGtnMzlqZlo2UHdfTmg2SlhnQWxtUThYWnI0cFBfSFJfZ0hDeFExOFcxZkx2eTVFOS1WQkF2a0Npd2g0WjRCeVlVbTdqQ1RqOFU3aGZCbmxQbW83MDhWVmV5bTcxRm9HeDhoMFFPdg?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-20",
       "summary": "appoints as new CEO",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXRVZFBrem0zTHExeDV1Y2ZwUVpNU0lpSmsycmVzYXpGdFZVZjZ2LTNOcEhBMWxHT3g4TkRydVZVRWlqV2I5VVY5aVJmWTlvSHh5RG5jekVNeWFEWUNheWVHUjNGbnppSVBMYk1FS21oa1pkM2ZvYmxCOHdGU1JKNmVFUVR3M2l6cnd3bFhGblhpWjAzVVVTald3?oc=5"
@@ -119,14 +133,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-16",
       "summary": "hires as chief content officer",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0hEYUFRVG81M1UzTGplcF95VUJFNnB2UTBTekREWnJmdEJoOHVxTlhRTzBfdXdjSnhRMWJJUlNaMEotYzlnZHFSc1cwWHdHQXBXRG5hWDh1ekhoeWYtdzI2bHluTFdwN3RIdzh2SWVhY3hzWks5UThsM291cWlqRDZzb1Y0Tlp5VlphdHNpS1RiN0hYcW9UMVNXdkExbXNRbGkyWQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-15",
       "summary": "hires as CFO",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdm5ZazFNazlPdk5nRkZBWmVha3lKWE5Ed0hJU1JuT25TZjhUX0lCT2hLRVhtU0w4dWp4Q1hhTmpzSGtodFl6eGJXUTJqTzVka0YxdTlzNmp6Zk9GUXBLMlNaWTh0Mko1SmNLeV9iREk5akJMVzItWDNNYWlkZmFfSWRhdHNmUVlOYm55NjJtWVdpQVE1UVFqaWhvOGtRYjJaZVE?oc=5"
@@ -161,7 +175,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Ex-OpenAI Exec Launches $1.5B AI Manufacturing Startup Arda - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3VxNDg5OWxpOE1rcUNkWE1ROXZQRUpYQXVVbzhPQlZ0UjlNdy1lX09VUTh1a0JXdFluQXdXUy1SdUwtQ2QweG5oTUpoeGhiWHhIakxGamFZbXlkMGtuemNkY243d0YzU3ZVNVNSWWpuUDY3OGJTclBEOUR4TVdMZEktc3BzNEJrN01pcUVCY093Q3dLOUE?oc=5"
@@ -181,6 +195,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

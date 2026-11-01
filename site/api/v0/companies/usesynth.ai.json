@@ -1,13 +1,13 @@
 {
   "domain": "usesynth.ai",
   "name": "Synth",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 13.0,
+  "score": 12.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Waldorf releases Crema, a compact string and pad synth - - Happy Mag",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFZnBzOE1RZDhmQmIydXdGa244N0JuTkF6LUY2SGVoTHVPbmVRRGk1YVNLNVQtQ1RlZjhVX3BtajEwWlNaQzlseUxxRDdiQXJqMWlSWmdKSlRrNk1CMmhVZFljbl94TzdVcDRnNF93MGdNemlyUXRYZkYtT3g1Qkk?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-25",
       "summary": "Arturia releases MiniFreak 49, four-octave hybrid synth · News ⟋ RA - Resident Advisor",
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFA0VkNiTWdyVG12c0Q3dTlUSnB2NWNyU3hUNnVUYjkzbndUbDdqYUNnMjRTMlktdTlWRHE0Tw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

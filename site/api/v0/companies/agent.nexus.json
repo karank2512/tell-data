@@ -1,13 +1,13 @@
 {
   "domain": "agent.nexus",
   "name": "Nexus",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 36.4,
+  "score": 35.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-21",
       "summary": "NEXUS GOLD : APPOINTS [person] TO ADVISORY BOARD AND AS COLOMBIA COUNTRY MANAGER",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWMtMkp3NXFfOFR1Ri1IQzBianlxQVZDYllpZXVVTGo1RnNaZ3FzZ1FaN2JqNkZSd2planpLYjd6dHU4UEptVTJ2YlZiUlZBaWJMSGJUWlM3VEtQOERvcDRXQTVDSzZwYWFWeVJNM1pwbFYwYk5razF1X2VfTE0taW5CMXZrYm5ibGhlRklKbnFaUkhoQmZnQm5ma0swRk9tZHNUNUk1NWtPd3JUQ3pyVDNrRmdSdU1aYldEWFFZd0E2YXl6OGV0NnJXckVTbEg2?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Taiwan AI Nexus 2026 Unveils Key Insights into Enterprise AI Governance - 天下雜誌",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jMkFKMkZ0dWEwTjJzd0JzTVpPNzlvbXk0b181SDhLb1RFQVZMRGUwaGhqNlRLQURKdllxbl94akdackZ3S2c3THl0VHNzQThxT3JlUGJmUlo1djNaZ2ZJYTJnbVI1Wlk?oc=5"
@@ -91,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Nexus Legal Group Launches Criteria-Built Case Acquisition Program to Help Mass-Tort Firms Build Settlement-Ready Inventory - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSHQ1LUpwemF6VkVrdDdXV2lFeGhhSUNSczVyUjJ3LUU3d1NpcEZQM1A4NUhjT056QUpXZUF1X05WS2VnTXZRZVh0LUItZGJVTFRUbHRnWGR3OHFXUnZYYk1zUFJUTlVmbUNpTXhORmZBNXE2NjZad1lxSmdHNmtHRDFHOFJmdW1VV0ZWUEk2enMxVGhGeHZnRkhVeThtb2s0OTl6QllhRTJOVGRUcTlVZFJNaDNVYmV5b1RBZlllYno4RGt3YXlsbzNKb1ZubWdld1JoYUd3dUhhRVVOQ2xjc216LWNheEJkR2hrejJESjkxM3Z0OGVFTkJ6eVpucE1FQkNjd19xS29QeXZTcGpMMGlrRQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Nexus Legal Group Launches Criteria-Built Case Acquisition Program to Help Mass-Tort Firms Build Settlement-Ready Inventory - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkllaWtwaW42QTlUNzVVbkVyV1RZeE1VYUxldDRBZXpNSjRJQTk5X083STkxb0luZkcweUdUSXpxZGdQTnBNeWRNOGQ3MEV0VHg5c0dHMElUTndKU2NJaDJSMEZ1ZUZxTFRKdk1xaVVpcGpXUjJnbVpXZ24wdm1teC01cGJVY25lcVRyc1piS3dtZzNYLVppU2ptaHdmcG1WMlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components Before Developers or AI Agents Pull Them Into Builds - VMblog",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkx6b1BwS1hieDhTTlBFLVIxOGRBUzZwY3RIOERKNC1DWk1aeHMtSlNibnppYmVCX0NJbG9yQXdoT0MyY3YxUUcxYUVOZ2xhcV9WeTMwbXQ4X1l0aTFDRlV3TFNpdmJ3OHI4MDZacGl4aTVDdE92dnZqMUozbzFMcXlEVmNydlRROURzSTNjbmNuT2tzZFh3bHhhWUNtQ0lobXZvNEUxTjhQdkdGNFVmcTZzS0ZLZ05NbUJzX0VzdklpeXQyb1dYZ21qZDA2TnZZcEVRaEdiV2EtYmNI?oc=5"
@@ -223,6 +223,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }

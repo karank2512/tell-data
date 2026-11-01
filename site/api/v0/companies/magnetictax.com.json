@@ -1,9 +1,9 @@
 {
   "domain": "magnetictax.com",
   "name": "Magnetic",
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "profile": "default",
-  "score": 10.4,
+  "score": 10.3,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Epomaker Launches HE60: Affordable Wireless Magnetic Gaming Keyboard With 8 kHz Polling - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbks0UXRTLWszTDN1eGYyaGVnR1ROS1FLUi1HVlhmYWdSbzRJWnZDWC1DY0hvTmZiTGs0Ujc0TDJ6S21qSUVEUHljOWNRQXlpNXRXdmVHenZEU3g0ci1IVTB3NXF1Tnd6Ni05c0RjN3ZsV184VW1ZeGRleG5vc216UTJzOW1WdS1ZVVJnN0ZxaHUtemZUVjRfb20yTUtwZWhZZ0VKb3ZxTWE2MTBHTEdQaDR3SC02MzFuQk1hSFlR0gHDAUFVX3lxTE56RHNlTzdEZ2haQ3RMOHRmblZQNUtVVzJuSTNZajlMU3lOUHRna0VRZUs5UEVqRGJNSDBNd28xOE01dkFBanpPaWdTZHRtYy1yT0lZTFhYT0NyN0RFa3VZMUM3WDg0YmU1MXg3NTh3aXpIbFZzQU9NVDRSRHlwb1l4TDNyaXUtWVVEOEVvN2JNYnJnWXhUaTZ4Rk1QbHRZMmZVN2NSdVBnWmpNYUhMZDBJZWtEWEdvRUhBdHhxWVVpYzRoOA?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/f14115f14f289f81ad90492744ab8e1d14e7b643",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []
 }
