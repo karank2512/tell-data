@@ -1,9 +1,9 @@
 {
   "domain": "ironcladapp.com",
   "name": "Ironclad",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 3.4,
+  "score": 3.3,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Legaltech Rundown: Ironclad Launches AI Contract Agent, Hotshot Introduces AI Hallucination Course, and More - Law.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUXNhN0h3V0VCaF95Zkl6ZzF1YnlzVVItdGpXb19aaEZnOWU3Z21DdHlKaEhuS3ZENmtMLUF6Y182M2JXWWY3SEdCS3Q2WVBGMWVJMjRhb09nYmJZYVcxakZrR2t3NlNXQWhTS0Z6NU1qTlVhbnNuVGdKWktxTk9YOEw2eHBLLWh6Z05HMWRMblB5amVTZ1B6UlFweDFYb1p1dWd4dnlObDJnbVU1c0UyZV9nYXlqZ1A2V1BtbERBLXEzUlhNVWZBcmlvZldoUlEzVnZNaQ?oc=5"
@@ -41,7 +41,7 @@
     }
   ],
   "open_postings": 28,
-  "long_open_roles": 4,
+  "long_open_roles": 5,
   "sources": {
     "ats": "ashby:ironcladhq",
     "edgar_cik": null,

@@ -1,10 +1,31 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 62.5,
+  "score": 66.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "Mistral Releases Weights for Trillion-Parameter Large 4 Model, Targeting Sovereign Cyber Defense - AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ3RDQ1dnMnR3XzJLZUxNLVZtRDZLOS0wRzN3bm5lRGdQRTRBNE5OY3JaREpTUFlRdUV1LXpLcWp4NGgzbXpLazB2TE1aS013dmV1TmFhN1FneEQtaE9BR19yTUE0MGdiaktQaXJrZlMyYUx6SUVja1lxSjZFNWpHc1ozcENMSENsS3pxOE1ibVJDMl9JdUhrS1BmYkwxTHVINU5fUFpsUVBFNzRCOW44OWdMcy1pN3lSRzVyX3V1ck1uU19icU9MYVBNcU9Bdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "NVIDIA Releases 9.61 Million-Parameter Noise Removal AI for Free, Clears Multilingual Audio - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBdTcteTJTbGNqQV9GNEliNkdjeTlPMW4wTmV0X1ROWS15UGVsN2Jyd1lTbldEUlFSVzdfQzZSeG90U05HLTM4SFlXYzM0WnZORkRvTGYtS19xSEVaWlV5djZBQlhsdlRKWVhkWEc2MTRMQXh1Qmc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "Meituan LongCat Releases LongCat-2.5: A 1.6-Trillion-Parameter Native Multimodal Model - AIBase",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0a21YNFdEWGNoNXFvemhjZnFOMzdQNUNYVER2N1pJN0hEMWNkNlkzVGpuMDJqQTdMVDJ4eGg4T2RiOU9GTkllVDhn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -98,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-26",
       "summary": "Microsoft introduces Decision-1, a nine-billion-parameter scoring model - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa05nLThNdS02U1JoWnRlSHh0T2hHVURtMmxKNFF3Y1ZZOEYxU0dKSnhybjBXejZwU29ZUFRScksyVXQxS3lnZHVuaXpfNi1Dci1vcjMxWWotXzYxcnhpbkxMSHJaQ1EzQlNDempJZTBaMzA2ZGI2Qi03eVgwREEwYkpNczNpcm1YUnoyb1liTWx2QjVHY18yZTd0S1ZqUjNI?oc=5"
@@ -224,63 +245,63 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open, An 816-Billion-Parameter Open-Weight AI Model For Mac Studios - Free Press Journal",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWVJOdGNpa0J1WVp6NGUxX3VkcWVQZHM2RFZZUmtNa3Q4LU5taGoxU1lzc2cyUXhVcVk5cmdLXzRkRXlxOXMwcmphUThLOENHc2VmYjJNbk5tSC15SXBYNXo1eGRUalFKRU4xSDZuWU5sTEJpQXc0UnB1eXI3Vlg5cWZrbDFrQUZPRngzZjUzUmEycm1MS2VwUXgxTnhvWmNob1Z2UDIwUVRCanQ4WV9HcmxzMnprTDN3R0Foa0RtWHhEQU5TZmRB0gHMAUFVX3lxTE9XRUJVNWx6TGp4WFkzR0p2UUE0bHNjS1FydG9oaFVuR21RMjN6alpJV2VNd2dLbzZjYWpOUFAxMlVqT3E0MkZTVlphemc0SHdKV1hnSGprVUpVa3NKM2xYaEVkVkluWVhUaGQ2TVZtOTF1bzJTTTZWSnJGUzktbnE4Um4tNVQwNDV3ZFJsdWEtVEpaTXFVZnNpdjI0VXgtYUpzdHRkNkJZZWR0azBjekNlTWtpUHUyZTVMUl8zRnh1VWxZTndwNlIxSFptdQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Microsoft Unveils 2.8 Trillion-Parameter AI Model, Claiming 4–12x Efficiency Gains Over DeepSeek - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWmdoVzlXTlRVT3BybFV4V19hQkl4b3liMDZISEJDSVhSbnJsVWtnUVZUSUhpeUMxOHF3aVRlcWRNS3FldXozd19GM3pXWXB4blJtVkVVeXUyRVBhVDQ1T1I0Z0d3cDhXSU95cWg1M2lpVzhDTlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Meta unveils 800-billion-parameter AI model for Mac — Engadget - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGt5YjN2aVJ6ZWZlSzluTkRuUHFnTlJQLXBMajRPXzJuN1IzcndRVElqQVlzNnhqblhQX0tCNHBtYlAyN1NTT0QzbkRRSDFMVE84TkJqc0tsSUI4aTdiOVU4ZHc4R09UbnowYmkxdFA3c2hoNklydGs0ckk3MGhIemlLLTNwUHBzTE9DckJjZDJEUlFTMG5qR3dpUWNuUkVh?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Meta releases 816B-parameter Muse Spark Open for coding and agent work - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNlpKTi1tWTNNYjBQd0wtN2hWU1VsUmxRalB1ZkZSY3d5a0FCdzJPVmUtRWdOV0ZXOEFWX3c1YVA5N2pVZGZjTENsVndzWW5hdHBscXJ0WWVnZVJHYWhKenBPRnByWFhyc0Y3clZfcFpta1RMeVNtbzM0R0ZqNTExZDlzcURWbl8tLVkyLTEzem1HbXhSbENsc1ptZjRsUUxOLVJCX2xNTTVsT1E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Meta Releases Muse Spark Open, an 816-Billion-Parameter AI Model Optimised for Macs - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2FZWWp6YzgyTG9GeFF6RW4wejZmWjZERjZIR2VYdUV4OHRmNDBkdG55Mk1vbFU1bWRyUGo3eW1ldWJmNUZUVExSRE5vRElxeXdQWENHajg0VjNXdzFTTnIzN085M0VBMVpKZXBqUW1SWEZiekRCb2h4UnNsaFJsTXprQ3BkUzdLTWZsaDZfS1lHekdJR0Vyd0ozVlVBMGNMa052YU5tYkVld0pmQXBCanRnZC0tMng0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Microsoft unveils MAI-Base-2, a 2.8-trillion-parameter model - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRW51akJGblNTOFdkeTdXa1ZFaF9JMlptcjFiZU8wQkdyWS1HMUcyRmhDVk14aFlDUE5YN1cyMUFTS29fSTZNQ3dRYkY3Yzd6MGVQZ3VnaE43djVDYjc4TllJSFBna3RWeGNxMVZNcHVFSDJZQnRhcVhITnV1WDMyQkV6SmRVRUJXNG82RQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Nvidia Rolls Out 120B-Parameter Nemotron Super VL and Two Compact Edge Models for AI Agents - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtLTBNYjhlRTBnYldGNnItekRyVlVqaUQteEhxa0hyR3FzU19OX3lZSFRJM1d0TnhXOTdZVGNMZHFDemJWVnplWWJ3T000Uk93Yll0U19xblNiV3hiUEFHamYzc2ZMbW1kbnpxMThSQTJiUGJ6b0E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Meta releases an 816-billion-parameter model, dubbed the \"most powerful open-weights model in the US,\" and partners with Apple to enable large models to run on Macs, while its most capable model remains closed-source. - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLW14MUJvOXhqcTQxRFlwS18xelZsZXR6MDlOUmJHaDhacEpKVFpwdGtIUTQyVFF5YWZYaEVQTk0yem5YRWF4T1p6a0w5YTltVFFxbFJwU1poN2M2Ti03NXc4cEZLM0k3UGJDYW9jV1RkbzVFeXRtOUtsOWQ0RTFVaXdlQTctTDFjVkgzUml6VXBZUE9jaHp1bThSdGNVZ0lJMkFKWkVR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Meta releases Muse Spark Open, an 816B-parameter AI model - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHhtSzBYem11WDRMV3NQeTR4dkNteWtFNWlJbFdvNjc3WnNmcjRjdUxnaHFBaHdBanpFZFN1NG9NVEhhbWFVRnQ4NEpscE0tWmhCbGczNkpiMmJfQWl2UXlLN2JvRXozT21mOWx1UFR3eFVaejNtbnNzdTFqdjM3b1pDNGdidHJ0MmlhTDExNjU2V25sTy1iMHpGaW45VkM3YTFkTEQ3ZEFEN3FfYWhxYjE5SkNvbmdNOGc?oc=5"

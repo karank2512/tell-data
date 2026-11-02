@@ -1,9 +1,9 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 9.6,
+  "score": 9.4,
   "contributions": [
     {
       "type": "launch",
@@ -43,7 +43,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-23",
       "summary": "4 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/trm-labs",
@@ -72,10 +72,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-08-27",
       "summary": "‍TRM Labs Appoints [person] veteran Ziqing Ang as Head of Policy, [person] | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/trm-labs-appoints-mas-veteran-ziqing-ang-as-head-of-policy-apac"
+    },
+    {
+      "type": "leadership",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-04",
+      "summary": "Names [person]",
+      "url": "https://www.trmlabs.com/resources/blog/trm-labs-names-former-mas-regulator-claudia-hui-as-head-of-compliance-advisory-apac"
     },
     {
       "type": "hiring_velocity",
@@ -104,13 +111,6 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.7,
-      "occurred_at": "2026-08-04",
-      "summary": "Names [person]",
-      "url": "https://www.trmlabs.com/resources/blog/trm-labs-names-former-mas-regulator-claudia-hui-as-head-of-compliance-advisory-apac"
-    },
-    {
-      "type": "leadership",
       "contribution": 0.3,
       "occurred_at": "2026-05-12",
       "summary": "Financial Crimes Veteran [person] Joins TRM Labs as Account Director for State and [person] | TRM Labs",
@@ -124,7 +124,7 @@
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 118,
+  "open_postings": 119,
   "long_open_roles": 33,
   "sources": {
     "ats": "ashby:trm-labs",

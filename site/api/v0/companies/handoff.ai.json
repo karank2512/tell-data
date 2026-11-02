@@ -1,10 +1,17 @@
 {
   "domain": "handoff.ai",
   "name": "Handoff",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 1.2,
+  "score": 2.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "Refervia Launches Referral Handoff Platform for Real Estate, Insurance and Mortgage Pros - Issuewire",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWFlVbXNYNm4tWnlySERqY0xrZUZNQ1k3MENwSlFtZlN6NUtuTjc0YnhOSy0tMmQzelJhRk9WNjR2LWdPemY2YmVTWGtjdUdaTnN3MWQ0dWJ6dW1mVV81dFhkcGthalRta1RrSmpHeGptRlduYzlqN1NGcnRISS1NbU5YN0V6aDJnR0hWQWJDY3lTRnpNU3RvM1N4NmFtQjVpOV9DdGUtd1R6bVBrdDk3enpzY1ItMFNZLWJoaEQycVoxekZlRkVONkF3?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

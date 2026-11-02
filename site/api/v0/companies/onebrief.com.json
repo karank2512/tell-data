@@ -1,16 +1,36 @@
 {
   "domain": "onebrief.com",
   "name": "Onebrief",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 28.5,
+  "score": 30.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 27.6,
+      "contribution": 27.4,
       "occurred_at": "2026-10-14",
       "summary": "Form D: $249,999,915 offering, $150,799,963 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1888809/000188880926000002/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-02",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/onebrief",
+      "postings": [
+        {
+          "title": "Customer Success Engineer, AtomEngine",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/onebrief/db63d47c-7211-4e42-a6e9-7db5a4b28533"
+        },
+        {
+          "title": "Partner Engagement Manager, Air Combat Command",
+          "posted_at": "2026-11-02",
+          "url": "https://jobs.ashbyhq.com/onebrief/5a285e35-2193-4974-b8ac-f05746f03b99"
+        }
+      ]
     },
     {
       "type": "leadership",
@@ -20,7 +40,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTVp4bHRCZFNPN1c0VWxsTWpYM1dNcTlVZEJRWDNZQ0ZjNlFhYUo2dm10WEZTeFlRVGJMdVBsTjEwanBiRHp6SmNYckk3X2hEMElQLXc0REY3ai1fVnJnVzNCeDJjR1NQaExwZ2QxUkFRYU9LdnJ0RE51NVllTVhkQkZNU21FVXNJcTBDNWQzbmNXZUFIMDlpeXZSX1ljWEhqT01lWWhTRlppT1p5Y1NTQWpFcGpWN3ZxYm9NNUhNYjB5MlYwaUFTRllvUHR4NW5aYWRKa3ltUW5nSTdzNlV2dTJGeDVhQVVSN3AzUW04TmVyZHU0SDJ4MjhlUG5QeWxkNnpsV3BnbVdNVnc?oc=5"
     }
   ],
-  "open_postings": 33,
+  "open_postings": 34,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:onebrief",

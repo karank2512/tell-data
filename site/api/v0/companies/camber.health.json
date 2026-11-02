@@ -1,9 +1,9 @@
 {
   "domain": "camber.health",
   "name": "Camber",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 3.9,
+  "score": 3.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Camber launches generic Hyzaar tablets - Chain Drug Review",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OY19DelE5Z0VjcTFIVXhpT2dZME95QUlsMGlObWpDZDFQVWEyWjN4bXY4RU5sOGV1RDh3RE45ZVU1dTA5RWYxLWpQUTdkcEt3T3BjM0RlQzJwZThDcEpCNm9RYVp5c1VaZFBTakVaa1ZLMll4WXc?oc=5"

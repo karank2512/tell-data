@@ -1,13 +1,13 @@
 {
   "domain": "getprosper.ai",
   "name": "Prosper",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-30",
       "summary": "Equity Tanzania appoints [person] as acting MD",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2ZqaFRRZzR5UXFsLTJmQVludTJBV1RiMEdnbU1WTkpjY19KMmxUeXl4UVhHLWJhX3hJM2g0M2RxR3Y0QmVsQ3ViOGJiV3R5aG1ELVMwMnlrM1ZQTWFtVVZuRnJYSG1xQU1VNVJOdDVIWTdvb09Ta3lFc0pFMkxENjNpRGQtZFBlUjVURlNIYW16NWhMVVEyRkdIcU5vbnc?oc=5"
@@ -64,7 +64,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-29",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/prosper-ai",

@@ -1,9 +1,9 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 10.2,
+  "score": 10.0,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-23",
       "summary": "John Mayer Releases New Single \"Tom and Jerry\": Stream - Consequence of Sound",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAydzhoTGJMeURmZGp5Z1JiLWpkQnR3eEo4RmpNd0tfVU4xdG1rRWdfUENpWThBem03SENIUXRkZzVVcVJwclVLRm5fVDdjX250MVVmNjhNM2czaUItWG9ueVhwYmxwcUVxUVNQRWxydUxQY1I4d0ZfQzlNXzlDa2s?oc=5"
@@ -43,7 +43,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-24",
       "summary": "5 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Jerry.ai",
@@ -90,7 +90,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 37,
+  "open_postings": 39,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",

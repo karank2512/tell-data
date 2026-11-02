@@ -1,9 +1,9 @@
 {
   "domain": "useallowance.com",
   "name": "Allowance",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 3.5,
+  "score": 3.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-29",
       "summary": "Introducing Rewards Optimization",
       "url": "https://useallowance.com/blog/introducing-rewards-optimization/"

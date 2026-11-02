@@ -1,9 +1,9 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Madison County House Buyers Releases As-Is Cash Home Sale Overview for Huntsville and North Alabama Homeowners - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHRwQjRlUVFZbUJ1MlZySWtBRXJvRG82Vkw0dDhQdnUxQUFEV1VpSzUyZFI5TDJSLWl2VXRsOTc1bzEzZXNscld5OTltVlQ4LWVSRkw5R2NSel9HaXloZnZlVUctS1pZY282dngyUmFGUklBMGcyazhFejE3Ul9ZbmNfdUFfc3BnX3lLakJ6aXpDeG5neTdNS2JlM0lPUWc?oc=5"
@@ -53,7 +53,7 @@
     }
   ],
   "open_postings": 62,
-  "long_open_roles": 28,
+  "long_open_roles": 29,
   "sources": {
     "ats": "ashby:overview",
     "edgar_cik": null,

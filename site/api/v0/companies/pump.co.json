@@ -1,9 +1,9 @@
 {
   "domain": "pump.co",
   "name": "Pump.co",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 3.7,
+  "score": 5.1,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -26,9 +26,16 @@
       ]
     },
     {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "“Pump broken? Get quotes and installation through an app”... Oasis Pump Co., Ltd. launches app - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSVpVOGg4cURMS2w3WFV2NjJKeURhSllzWDdXbU9aeC02Qk5LTDVfMDNhRXM4SFNYelVNQWk1aHh6a3lCVHB6YXJ6X2FKNWVqMzdR?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/pumpcareers",
@@ -76,7 +83,7 @@
   "sources": {
     "ats": "greenhouse:pumpcareers",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []

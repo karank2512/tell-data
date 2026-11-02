@@ -1,14 +1,14 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 12.7,
+  "score": 12.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.8,
+      "contribution": 3.7,
       "occurred_at": "2026-10-30",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/coinbase",
@@ -79,7 +79,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-09",
       "summary": "Coinbase Unveils Wrapped Bitcoin cbBTC With Solana DeFi Integrations - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVVxMGhyM1FFUElmWUc5OGk0UGljTGUxdDUzcXctMF80d01qcTB6S1AtWnlkb3QtZFFmYUkya0FRVnBUcHFBOVkwVFBQOTJyWUJQMDRBSVhzUlB4djVoZGVIVExySWhCQ0xNYVNhRE9SM19Od3o4OXJyOTZlOHM0ejZPZlhmVVAxTXBwUHN2MWtGNld1d2ZoQWwzQ21RZC10U2RwRVh2bnp5WGFIUkVB?oc=5"
@@ -110,7 +110,7 @@
       ]
     }
   ],
-  "open_postings": 254,
+  "open_postings": 270,
   "long_open_roles": 61,
   "sources": {
     "ats": "greenhouse:coinbase",

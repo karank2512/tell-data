@@ -1,10 +1,38 @@
 {
   "domain": "outbound.io",
   "name": "Outbound",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 11.4,
+  "score": 16.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-30",
+      "summary": "PayNet launches outbound DuitNow QR payments via Alipay+ - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGFndUtuRGFLUFhRTnlnWWRReWwyU0pOS2VQUWE5Tk1lYlNhMVd3aTUzcFdCcFpBeWQ0ZkdFZThFRFVDM1BlYzlhek9rVW1VYTJpc1g0V1ZhRWdZRVdnZEhVR1hWeDNFZlVpVjNqYklpbk9kSjZETndnOXFKdkp0MGNqdERUOXhXZFIydXJqbHNzbWktaXNTRzZWN2Y?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Roadrunner launches outbound Canada-U.S. LTL service, announces 5.9% rate increase - Truck News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVUowdUgxbVNvU0ZHQmZQei1vWTlhRnpocE1xQzFMMTBnWWUyR0NJT0l3Ri1yZ0NyS3NGcnFZT0ZrVnN5QUsyaDZhdnRNOWQzbDg2NzVuZkR6VkZaMWxHWlczVDRua1U1a19fbHoxYzk5LThvd1pLNl9NUXB0dUk2YS1kZlNBb3kxVnliQ21mRlI2VGFldVZrM1NSdFdnQ3p4MmZnNnhid2F1MDZ2N1ZzcGFZMVJtcEJhb3FGQ0dKNFBiZzRndDBXYjNxZGVkaE8wU3c0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-28",
+      "summary": "Treasury Releases Proposed Rule to Implement COINS Act and Broaden Outbound Investment Restrictions by including Biotechnology and Prohibiting Investments in Super Intelligence - Mayer Brown",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNcWdvRkdYOTR1cDBISDdhSVlQNUJ5WG5qelBLMDBhd29GdW02T3BHanRoYVNhTEdWRDVvV3lQS3ltci1wd2xCbHdiN3BzVFNRS0R1WjdIUWI0SnNrUmdxdkQ4Mkp1bHN4bHVCQTZmcnpSSTBhSVI5Y0RoT3NTZFhTcFRBMHVldkVKclNHRUZJMW5wWjlhZi1BMTRjY1NiZFZndHlBUFFUUUVUNHU4MThCdnpWcXM4R3hEczJWX3dQam1mQUFrakc2cUEwNEd0WjRRNjVoZ1FvT3BfV1ZDWHY0cUdFMS1jU0NKVTM1WlhESkVOMGRMN2t0MnNneWpuYm1NZUhwWTdsNVkwMVJlZWU3V0xHeHhRWGp2czl4d0lfTVhLeHpCenJJd2VZQVExcGZUVlNYVWQweU1PN2JQVGtkYWRJVWkzcE5tRGRxQzlUU0txZzZtWUJJ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-27",
+      "summary": "Floo AI Launches AI Voice Agent Platform to Automate Inbound and Outbound Business Calls Across Industries - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPekhRamd1X2wwX3pwdi1ybDMxdXBuQU44NHc5bHpGcTJBTVlMWnpWOXctd3NUbWFGNE1NR1Q2NklGQmVNU2pMYk8teG9URU1FUkp0Ymx0VEQ3SkQtQW1zSWtjem5qM3NJTEdzNkJ2cGZsWGpRTVkyQTdaYkE4RDhhTm5IN0RQalI4bll2WjBDQkktTkE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -42,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "ETOA launches Showcase: Outbound North America 2027 - Travel Daily News International",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFp3Qzk0RmctTE41VVdqRG9DNnBiYVlsVnBwZ1UxQnhGTHA3T01WSTVtdDB4Z3BBa2JDTE5fbEJieldjemxySU5TeXUtR1RWTkNKZFZFai1xb0JuSEtQOXpDOUY0VFBFQ0RpVm9VYmE5UDZaNFc2YVRVQXh1WjU3Qy1OcTFocWs3S1dxbnpjMF8?oc=5"
@@ -63,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Salesforce (CRM) Unveils Hunter For AI Powered Outbound Sales - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzVvOVMzd04yWGFTMmRoQVVoT091ajBxMWdSWEJBd3BOS2FsZGpCd1B0WnVrOEg3cmZNdmROUnIzNExmVlVkWElmNVU5RHV2VVI5TWU0cjVkaGxvU1c4N0dKRGtob25saFk5bHNaWG9takNCbE1GWVhMTkdUUEEyUEF2LTdaanlyeDZLMjlldnFPQXNCb0JIUnB1Tlc?oc=5"

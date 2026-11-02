@@ -1,10 +1,17 @@
 {
   "domain": "getprompt.app",
   "name": "Prompt",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 7.3,
+  "score": 8.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Arvad AI launches to end the ‘prompt-and-pray’ era of AI coding - TechCabal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFAxclNybUtDWEZ5c2dnTDRjUjZLNFE3UW5ZcXk0RF8yZWlVVzh4VUl0ZDVZa3RuRnpMTUMzSkMwVzJvbWJNM3BCRVVyc3NqclJFTkhya1pCRlNSWmdtS2RZZDBJMEJlZ0RUb0x4cEZnRHBBd3FYOWQwdzVEamZCX05CdVdFbi1WazZLTWsyYldEYVhTSjdpc3kyMA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Meshy Debuts New In-House AI Model with Meshy Edit, Letting Users Change Selected Parts of a 3D Model with One Prompt - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaVQ3U2ZLeTFhUXRZclM0NW1WZmZIWVVidjVhbnAtUEFkMUtNQlZra3FZajk1bVJtTXJIeU9KblpDYkEyN0t6Zk5JdEdOZFB2dl9xajFyWnlEbnVQc1JudERkb2JFZnRXU0s1MVhlb0xpbXp2TlIyeXU2SG1QdDB3Wld5RENCR1hiWjlFbzZIWnZhS3VpZmNVaHpDYTBreVlLOU0yTlFGNklWa2NnWmR2QjRHMVV0NE42WnJ2OXdFSUlYY0NvNWVaNG9HMzl2TTNsTXJjSmpKR0FNUEY4UlR1VERCc05DejFkYVhldTBqNUV2aHFsUGwyMzNwdzA0VTFHaHc?oc=5"

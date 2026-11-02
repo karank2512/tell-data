@@ -1,9 +1,9 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 14.0,
+  "score": 13.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -65,14 +65,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Hogan Lovells Cadwalader unveils firmwide AI strategy, signs with Harvey and Legora - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjFMeE4zUHVNQ2RuM01yQ3dUSzM5T3d3dUVxMVUtcDBIajZMQXptTVoya3JBWExfTjdNVzYzR1ZTaXQxNlRkSFNKTnNvdVN5N194am9BUS1vdmVkRHpyVDZJby12VlVlbVpjRFFIclFEY3VPOUxvbU8waFVyZEZSdnRLVFdZMkxDRWRkVmc5aVRkV2lkcFJReFZoMmp3bjVMWE1XUmstZHduaXM4LXowSg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Hogan Lovells Cadwalader rolls out Legora globally - Legora",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcHplTVduUkVIc3h3OXp0SS0yMDdXamNiRWl1T2lPcmVpa2Q0MDZDNS1BaWZQa2ctczFFVGptZXN3SER4bmMtTXk3ckVuYVd2SlpRLU56bmxRaXhUbnJDYXZIeHA2MjVjMnpMczRETTJ4NlpvQlFUcmFodldsdXBDUmFPc1k?oc=5"
@@ -117,8 +117,8 @@
       ]
     }
   ],
-  "open_postings": 305,
-  "long_open_roles": 99,
+  "open_postings": 308,
+  "long_open_roles": 105,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": null,

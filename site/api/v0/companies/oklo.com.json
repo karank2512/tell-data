@@ -1,7 +1,7 @@
 {
   "domain": "oklo.com",
   "name": "Oklo",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
   "score": 3.4,
   "contributions": [
@@ -28,7 +28,7 @@
     }
   ],
   "open_postings": 78,
-  "long_open_roles": 23,
+  "long_open_roles": 26,
   "sources": {
     "ats": "greenhouse:oklo",
     "edgar_cik": null,

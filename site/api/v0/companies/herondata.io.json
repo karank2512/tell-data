@@ -1,7 +1,7 @@
 {
   "domain": "herondata.io",
   "name": "Heron",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
   "score": 0.8,
   "contributions": [
@@ -14,7 +14,7 @@
     }
   ],
   "open_postings": 3,
-  "long_open_roles": 0,
+  "long_open_roles": 1,
   "sources": {
     "ats": "ashby:herondata",
     "edgar_cik": null,

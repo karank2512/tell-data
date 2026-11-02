@@ -1,14 +1,14 @@
 {
   "domain": "zerocater.com",
   "name": "Zerocater",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 1.6,
+  "score": 1.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-22",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/zerocater",

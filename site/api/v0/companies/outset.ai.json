@@ -1,14 +1,14 @@
 {
   "domain": "outset.ai",
   "name": "Outset",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-20",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/outset",
@@ -40,8 +40,8 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmlreU5NUmthVDNMV0J1TllTMUVOclNZTjdJUWxETEFoRWx2dHI3eW5KQWNEenQ1bTFzZmJnUFl1LXZhdFA1WDl0bGJfaURUako0SWl3SzlFSDZPWS13T19WaWVYT1BzckdrUnE4ZHl2eTJsN002WDdTaEZZYmZGY3VUcnlYSWFmSFZoRUNtQjRRbWxnVWxKWFR3?oc=5"
     }
   ],
-  "open_postings": 32,
-  "long_open_roles": 5,
+  "open_postings": 33,
+  "long_open_roles": 6,
   "sources": {
     "ats": "ashby:outset",
     "edgar_cik": null,

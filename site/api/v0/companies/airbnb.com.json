@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 25.9,
+  "score": 25.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 6.2,
+      "contribution": 6.0,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Airbnb Launches Program to Funnel Revenue Toward Free Emergency Stays - TravelAwaits",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjBtM282RXI5RjhSZ3JTYTZ3VVFFdHlTU2lPdERVRVVKV3RJd1dJVzJxSHdCWFR3TkV1ckFNbWF6WmJIRW5aY18tTlBvanBoOEM0LXplaWFFN01hQXQ0OGR6SmVwVG80T2dGYmo5NjlaeUdULVUzZWNRYk5MbzJkOXlEazUzTUNZdEN6d013?oc=5"
@@ -147,14 +147,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - Yahoo Lifestyle Canada",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXota0ZLTHRMZlZWeWV5aFFBX0toZDJ0ZXFIZHdpeEZNWGl4emJEZE5uT0ZJUzdJcTg5TG5DODdaUFR1QUNkNVlSd3gwTHpjejNDZTN5WDB6QkZpSzVHTy1oNktjakFvMkZKNkpLcDlVVWE3Qk5KY0ItcXRyWXhDUHVSU3hqZ0k?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - People.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0g5bDUtVWNabWhkSXlZRlhQRWI4R3d0OUVMZnFjTklsM0w4LVJ0NmM4eXNFanBSaXZRS2xMYkpLb2J6UDZ0NVRuYnQwT1VQWGFTT3RRS1VHMkNrZzM0N1ZQMzgwWE1QTmVUV2VaUGk4cG10emVoLU5jeUduSWpfdzJJazBzekY2cllyb1N3WGtuclBNVUQweElCUmpiUGtaTXpXcnk0bU5maFlqNjlv?oc=5"
@@ -241,8 +241,8 @@
       ]
     }
   ],
-  "open_postings": 202,
-  "long_open_roles": 59,
+  "open_postings": 204,
+  "long_open_roles": 60,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

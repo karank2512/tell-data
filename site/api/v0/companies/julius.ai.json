@@ -1,10 +1,17 @@
 {
   "domain": "julius.ai",
   "name": "Julius",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 14.7,
+  "score": 18.0,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-02",
+      "summary": "Jubilee Group Appoints [person] As Group CEO, [person]",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjQ2WnNlLXZxNmxidDJualM2c19KY0pIZ21DM3l4eWNoWTBzeUtSVDc5Yi1KckpHdFZid2lETUVVVzlQTTA2b3c3a3hMX3d4LUpZRmlvNVNlclJNa3UwbElvUEZJR3ZvZzdHQnA1RDByZGppQ2pLdTh0SW5aQXY1ZkR3VDR1SmZnN3ZzTlpfeWdfMzBxQU5TYy1jdU5hbzJYM1E?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
@@ -57,13 +64,20 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "Julius Baer launches new share buyback to boost shareholder return - Asset Publishing and Research",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ05BVkVyY0duNnNBNW9JVnhoUEQ3RXF0bC1jWGl3azRQYVRfOTVvdXRGVFhkUHV1XzVjM0tsRHBsZXM2TVNIWW1kWjY4eEdfeGRQVzdwZHdJaUVSOE1EeFBrTjZpc1F4V0UxQ01yQnNXSGZTOF9UTVkxdEFnMVp4QzhvdmRSclpYZVIzTmdrbTJNNFhzWFhDei0xMUZRNHBReG5qaVpyVUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Julius Baer Launches CHF 600 Mln Share Buy-Back Programme - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYTZ3RndpRDNIXzFTblJxUU9ld1NZNjdyMFFYOG5oVE5YaEJqY0c4aGxQVFJiTEVfbFdOT3V2bVhxVUN2R2NXRzcyNnlfLVZxc3BpQnhNbUlPLVBGbC14Vks2c2IwMXhBXzZ2R05yeXdJamZaaVdyeXY2SzVtcGN1eDI2Vi1ZejRhd1dvemRXdHVoN3JjZV9WcWVrUGdnSS1IdThQdHFKSElkTHV1eHRGSy03dnhndWMyWGNGTTgtdEN0VGo5Ync?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-30",
       "summary": "Julius Baer Launches New Share Buy-Back Programme - TradingView",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDktaEU1Mm9TUHZHT2trNlEtX1V4WXZuMVBfQnlLRnpacEs1RjhzUjlmaTlIWFZmbXFhR0QwNkhzVnRYaldyV0p3TGlQQW1FVU96XzVyd2h4OFg2Q29URW9ZVm1pU01MR29pMzcyZGttbXBNWDZzWWRKOFU3dGpOTFBhck8xaDVldlFUc2NXRmlWOGJ0aUdWX3RTSGpWbUJYczVHQkVR?oc=5"

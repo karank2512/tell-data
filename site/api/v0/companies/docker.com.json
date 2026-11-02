@@ -1,9 +1,9 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 8.7,
+  "score": 8.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,7 +34,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-01",
       "summary": "Retiring Docker launches Zippy bid as Freo resurrect Wharfie Time - The Mercury",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSTJ4NjZUVXpTdmhFQnJISVJrRG9BV01iOHA1N3pfYUNvTGlxVEJhdGNqZFI5UDRnU3lleGh5ZTVVTVBRaGUwYjVZTjZjQjhaT3RIQ2ZJYTVwTUZVaUFNY2IxLV96SjNUZjNFNWJ4aWRSMUYyVTB6cTk3WFV3QnM1MktIZ2IxZDk1VC0tR1RWZ3hPQWdDcDk5bnRUZWEwbERqcVFTWEoyZkJpQUx3OFNmN3J1SmJmb3lwZ2tVWUgtVElNTkVFdk9pOEE0Y0VjU0NXd09GYldId2NnS2NHRDIwMkZheTFyWmRvYUJsVjNSbmlkU18xYndXY3pFVE05dnlYaDZSNw?oc=5"
@@ -87,7 +87,7 @@
     }
   ],
   "open_postings": 54,
-  "long_open_roles": 10,
+  "long_open_roles": 11,
   "sources": {
     "ats": "ashby:docker",
     "edgar_cik": null,

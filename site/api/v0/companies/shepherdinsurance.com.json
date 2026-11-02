@@ -1,9 +1,9 @@
 {
   "domain": "shepherdinsurance.com",
   "name": "Shepherd",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 7.2,
+  "score": 8.6,
   "contributions": [
     {
       "type": "leadership",
@@ -28,6 +28,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "Independent Family Brewer and Pub Company Shepherd Neame Unveils a New Addition to Its Popular Portfolio – Bishops Finger IPA Reserve - British Guild of Beer Writers",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnAtT2p6QzhVZlpWT0ZrTG0xUTdrZkQ2NDdHaVhzMXRYdTJLaW5qR3MyUjRlZlB4dm5SV05TZzhiUlRZcjZJaUNyN1E3Ukx5VWhHUzBrSnZPTnlXWlFySlJOSUFXTWl2ZE14MFNxdzZxQUh5QWUyWEE1Z2xKanpZbGFraFp3U2F3M0Q5RTRjQzNUbnVKWEZxUzBwWDR3a2tZWktlWFRDMkFmdlV0ZlZoY3h6dlZtZW01dFZMOHAyMmxiSlZwNF91a0E5UEdzQQ?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-27",
       "summary": "OpenAI Debuts 'Shepherd' Model for AI Research Validation - The Tech Buzz",
@@ -36,7 +43,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-19",
       "summary": "3 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/shepherd",

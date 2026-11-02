@@ -1,9 +1,9 @@
 {
   "domain": "close.com",
   "name": "Close",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-06-03",
       "summary": "Introducing Chloe, Your AI Sales Teammate in Close",
       "url": "https://close.com/blog/introducing-chloe"

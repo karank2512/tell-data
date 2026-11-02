@@ -1,10 +1,17 @@
 {
   "domain": "papa.com",
   "name": "Papa",
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "profile": "default",
-  "score": 1.2,
+  "score": 2.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "Better Just Got Bigger: Papa Johns Canada Introduces New 16-Inch XL Pizza - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUGx6R0RCamw4OVRsUHc2M29YVUJuTzZ4dVhJRW00R3BCalBYQVEtMHlWU19ScFJtSlVRSGNNNXgyY3FqckFSX3JfVDhTNVVRV21YQ3ZJeFMtRG1UZXBuazg0elk3QmMwMkJ0cWNfSzFDTTlqcG5QVmd1Qm8zNU1kV0FmdlNlSHpUbjc1QmxRbU1YTHNQWk5RLTVPOEhCZFlsYVNLaVJsSE5CZXJRY2VWb2t4bGdkQzFVbUs0Wk1UUENkRlRZbWUwaTZQbG93OFdYMndIWXZtb3NlN2lz?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
