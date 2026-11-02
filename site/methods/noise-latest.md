@@ -1,11 +1,11 @@
 ---
 report: noise
 title: "Noise handling: reposts, lifetimes and long-open roles"
-as_of: 2026-10-26
-generated_at: 2026-10-26T07:04:08+00:00
-n: 12887
+as_of: 2026-11-02
+generated_at: 2026-11-02T06:42:20+00:00
+n: 13819
 quotable: true
-flagged_numbers: 1
+flagged_numbers: 0
 script: tell/backtest/noise.py
 private: false
 ---
@@ -22,58 +22,58 @@ How much of what job boards show is noise (reposted and long-open roles), and ho
 
 Repost share: postings first seen in the 90 days before the evaluation instant. Lifetime: postings closed by then that carry the provider's posted_at. Long-open share: boards with status active.
 
-Cohort N: 12887.
+Cohort N: 13819.
 
 ## Numbers
 
 ### Reposts
 
-- Share of postings that are reposts (first seen in the last 90 days), percent: 0.9% (N=12,887)
+- Share of postings that are reposts (first seen in the last 90 days), percent: 1.5% (N=13,819)
 
 | vendor | postings | reposts | repost share |
 | --- | --- | --- | --- |
-| ashby | 7,419 | 82 | 1.1% (N=7,419) |
-| greenhouse | 4,768 | 33 | 0.7% (N=4,768) |
-| lever | 612 | 2 | 0.3% (N=612) |
-| smartrecruiters | 88 | 2 | 2.3% (N=88) |
+| ashby | 7,881 | 126 | 1.6% (N=7,881) |
+| greenhouse | 5,203 | 75 | 1.4% (N=5,203) |
+| lever | 643 | 2 | 0.3% (N=643) |
+| smartrecruiters | 92 | 3 | 3.3% (N=92) |
 
 ### Reposts by role family
 
 | family | postings | reposts | repost share |
 | --- | --- | --- | --- |
-| customer | 1,104 | 2 | 0.2% (N=1,104) |
-| data | 148 | 4 | 2.7% (N=148) |
-| engineering | 2,731 | 18 | 0.7% (N=2,731) |
-| exec | 480 | 4 | 0.8% (N=480) |
-| finance_ops | 838 | 16 | 1.9% (N=838) |
-| gtm_ops | 718 | 12 | 1.7% (N=718) |
-| marketing | 627 | 8 | 1.3% (N=627) |
-| ml_ai | 312 | 6 | 1.9% (N=312) |
-| other | 3,143 | 22 | 0.7% (N=3,143) |
-| product_design | 883 | 13 | 1.5% (N=883) |
-| sales | 1,903 | 14 | 0.7% (N=1,903) |
+| customer | 1,224 | 6 | 0.5% (N=1,224) |
+| data | 159 | 7 | 4.4% (N=159) |
+| engineering | 2,904 | 35 | 1.2% (N=2,904) |
+| exec | 517 | 4 | 0.8% (N=517) |
+| finance_ops | 910 | 17 | 1.9% (N=910) |
+| gtm_ops | 781 | 23 | 2.9% (N=781) |
+| marketing | 665 | 10 | 1.5% (N=665) |
+| ml_ai | 338 | 10 | 3.0% (N=338) |
+| other | 3,335 | 32 | 1.0% (N=3,335) |
+| product_design | 941 | 22 | 2.3% (N=941) |
+| sales | 2,045 | 40 | 2.0% (N=2,045) |
 
 ### Posting lifetime
 
-- Median posting lifetime, closed_at - posted_at, days (all families): 53.9 days (N=1,300)
+- Median posting lifetime, closed_at - posted_at, days (all families): 55.1 days (N=2,242)
 
 | family | median lifetime |
 | --- | --- |
-| customer | 51.7 days (N=126) |
-| data | 36.3 days (N=17; too small to quote) |
-| engineering | 65.8 days (N=213) |
-| exec | 65.0 days (N=50) |
-| finance_ops | 50.6 days (N=121) |
-| gtm_ops | 36.8 days (N=83) |
-| marketing | 46.0 days (N=65) |
-| ml_ai | 101.7 days (N=30) |
-| other | 50.0 days (N=310) |
-| product_design | 52.8 days (N=87) |
-| sales | 66.4 days (N=198) |
+| customer | 50.4 days (N=223) |
+| data | 40.5 days (N=32) |
+| engineering | 71.3 days (N=372) |
+| exec | 64.6 days (N=91) |
+| finance_ops | 49.8 days (N=179) |
+| gtm_ops | 42.4 days (N=154) |
+| marketing | 47.6 days (N=120) |
+| ml_ai | 76.8 days (N=50) |
+| other | 45.7 days (N=519) |
+| product_design | 56.5 days (N=164) |
+| sales | 69.0 days (N=338) |
 
 ### Long-open roles
 
-- Share of boards with at least one posting open more than 180 days, percent: 61.1% (N=635)
+- Share of boards with at least one posting open more than 180 days, percent: 60.7% (N=633)
 
 ### Rated usefulness, filtered vs unfiltered (placeholder)
 
@@ -86,7 +86,7 @@ Not run yet. For the first three design partners, two CSVs go out on the same da
 
 Script: `tell/backtest/noise.py`.
 
-Repost share (bind :as_of = 2026-10-26T07:04:08.243339+00:00):
+Repost share (bind :as_of = 2026-11-02T06:42:20.036241+00:00):
 
 ```sql
 select b.vendor, p.role_family, count(*) as n, count(p.repost_of) as reposts
@@ -134,4 +134,4 @@ where b.status = 'active';
 
 ## Date
 
-As of 2026-10-26; generated 2026-10-26T07:04:08+00:00.
+As of 2026-11-02; generated 2026-11-02T06:42:20+00:00.

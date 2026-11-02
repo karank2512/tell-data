@@ -1,9 +1,9 @@
 ---
 report: speed-vs-press
 title: "Speed vs press: Form D filings against the first funding headline"
-as_of: 2026-10-26
-generated_at: 2026-10-26T07:04:08+00:00
-n: 334
+as_of: 2026-11-02
+generated_at: 2026-11-02T06:42:20+00:00
+n: 322
 quotable: true
 flagged_numbers: 9
 script: tell/backtest/speed_vs_press.py
@@ -22,30 +22,30 @@ How long after a Form D filing does the first news mention appear, and how fast 
 
 Every Form D (isAmendment = false) filed in the 90 days before the evaluation instant by an issuer linked to a monitored company by a trusted link: rules R0-R4 with no guard failure recorded, a reviewer's link, or the issuer's CIK when that CIK was set by such a link or has a trusted source. Review (R5), unlinked (R6) and guard-failed matches are excluded. Split in two and reported pooled: monitored before the filing (a YC directory company, or one that existed before the filing date) and found from the filing (created on or after the filing date by issuer-first discovery, whose alert time is the link time). Press: news_funding events of that company dated from 14 days before to 60 days after the filing date (collected first with Google News when:120d by `tell ingest --source news --cohort formd --when-days 120`); for a one-word brand not from the YC directory the headline must carry the full legal name.
 
-Cohort N: 334.
+Cohort N: 322.
 
 ## Numbers
 
 ### Press after filing
 
-- Cohort N: Form D filings (isAmendment = false) linked to a monitored company: 334
-- Share with any press within the window (filing - 14d to filing + 60d): 16.2% (N=334)
-- Filings with any press within the window (the N behind the lag numbers): 54
-- Share with no press within 60 days: 83.8% (N=334)
-- Median of first_press_at - filing_date, days: 4.5 days (N=54)
-- p75 of first_press_at - filing_date, days: 20.2 days (N=54)
+- Cohort N: Form D filings (isAmendment = false) linked to a monitored company: 322
+- Share with any press within the window (filing - 14d to filing + 60d): 14.9% (N=322)
+- Filings with any press within the window (the N behind the lag numbers): 48
+- Share with no press within 60 days: 85.1% (N=322)
+- Median of first_press_at - filing_date, days: 4.0 days (N=48)
+- p75 of first_press_at - filing_date, days: 21.0 days (N=48)
 
 ### Who came first
 
-- Filing first, among filings with press (press strictly after the filing date): 61.1% (N=54)
-- Filing first, over all filings (no press counts as filing first): 93.7% (N=334)
+- Filing first, among filings with press (press strictly after the filing date): 60.4% (N=48)
+- Filing first, over all filings (no press counts as filing first): 94.1% (N=322)
 
 ### How fast tell alerts
 
-- Median alert_at - filing_date, hours: 751.3 h (N=334)
-- Median alert_at - filing_date, hours, observed filings only: 26.6 h (N=4; too small to quote)
-- Filings whose alert_at is observed (a scheduled run within 54 h of the filing date): 4
-- Filings whose alert_at is estimated (filing date + 1 day 02:00 UTC + the 24-hour cadence, 50 h after the filing date): 15
+- Median alert_at - filing_date, hours: 583.3 h (N=322)
+- Median alert_at - filing_date, hours, observed filings only: 26.6 h (N=7; too small to quote)
+- Filings whose alert_at is observed (a scheduled run within 54 h of the filing date): 7
+- Filings whose alert_at is estimated (filing date + 1 day 02:00 UTC + the 24-hour cadence, 50 h after the filing date): 12
 
 ### By cohort
 
@@ -53,24 +53,24 @@ Monitored before the filing: a YC directory company, or one tell had before the 
 
 | Number | Monitored before the filing | Found from the filing | Pooled |
 | --- | --- | --- | --- |
-| Filings | 19 | 315 | 334 |
-| Share with any press | 26.3% (N=19; too small to quote) | 15.6% (N=315) | 16.2% (N=334) |
-| Share with no press within 60 days | 73.7% (N=19; too small to quote) | 84.4% (N=315) | 83.8% (N=334) |
-| Median lag, days | 15.0 days (N=5; too small to quote) | 3.0 days (N=49) | 4.5 days (N=54) |
-| p75 lag, days | 34.0 days (N=5; too small to quote) | 18.0 days (N=49) | 20.2 days (N=54) |
-| Filing first, among filings with press | 80.0% (N=5; too small to quote) | 59.2% (N=49) | 61.1% (N=54) |
-| Filing first, over all filings | 94.7% (N=19; too small to quote) | 93.7% (N=315) | 93.7% (N=334) |
-| Median alert_at - filing_date, hours | 50.0 h (N=19; too small to quote) | 847.3 h (N=315) | 751.3 h (N=334) |
-| Alert times observed | 4 | 0 | 4 |
-| Alert times estimated | 15 | 0 | 15 |
-| Alert times at the link | 0 | 315 | 315 |
-| Press-ambiguous filings (one-word brand) | 14 (N=19; too small to quote) | 147 (N=315) | 161 (N=334) |
+| Filings | 19 | 303 | 322 |
+| Share with any press | 26.3% (N=19; too small to quote) | 14.2% (N=303) | 14.9% (N=322) |
+| Share with no press within 60 days | 73.7% (N=19; too small to quote) | 85.8% (N=303) | 85.1% (N=322) |
+| Median lag, days | 15.0 days (N=5; too small to quote) | 3.0 days (N=43) | 4.0 days (N=48) |
+| p75 lag, days | 34.0 days (N=5; too small to quote) | 19.0 days (N=43) | 21.0 days (N=48) |
+| Filing first, among filings with press | 80.0% (N=5; too small to quote) | 58.1% (N=43) | 60.4% (N=48) |
+| Filing first, over all filings | 94.7% (N=19; too small to quote) | 94.1% (N=303) | 94.1% (N=322) |
+| Median alert_at - filing_date, hours | 50.0 h (N=19; too small to quote) | 703.3 h (N=303) | 583.3 h (N=322) |
+| Alert times observed | 7 | 0 | 7 |
+| Alert times estimated | 12 | 0 | 12 |
+| Alert times at the link | 0 | 303 | 303 |
+| Press-ambiguous filings (one-word brand) | 13 (N=19; too small to quote) | 142 (N=303) | 155 (N=322) |
 
 ## Query or script
 
 Script: `tell/backtest/speed_vs_press.py`.
 
-Implementation (bind :as_of = 2026-10-26T07:04:08.243339+00:00, :cadence_hours = 24, :observed_window_hours = 54):
+Implementation (bind :as_of = 2026-11-02T06:42:20.036241+00:00, :cadence_hours = 24, :observed_window_hours = 54):
 
 ```sql
 with links as (
@@ -188,12 +188,12 @@ group by grouping sets ((cohort), ());
 - Google News coverage is incomplete for small companies; the no-press share is reported, not hidden.
 - first_press_at is the earliest funding headline the news collector kept (name in the headline, funding regex match); a story that never names the company in its headline is invisible.
 - The press window (from 14 days before to 60 days after the filing date, as SPEC 13.1 sets it) misses same-round press published more than 14 days before the filing: such a round counts as no press, or as filing first when later press exists, so the filing-first shares lean high.
-- EDGAR publishes a day's form index at about 02:02 UTC the next day, so no scheduled run can see a filing before filing date + 26 h. alert_at is the event's observed_at only when a scheduled run (not the quarterly backfill) saw the filing within 54 h of the filing date; filings from the quarterly data sets, from a catch-up run days later, or with observed_at before the filing date get the estimate filing date + 1 day 02:00 UTC + the 24-hour cadence, 50 h after the filing date. Observed: 4; estimated: 15. The estimate adds one full 24-hour cadence after the index appears, the longest wait for the next run.
+- EDGAR publishes a day's form index at about 02:02 UTC the next day, so no scheduled run can see a filing before filing date + 26 h. alert_at is the event's observed_at only when a scheduled run (not the quarterly backfill) saw the filing within 54 h of the filing date; filings from the quarterly data sets, from a catch-up run days later, or with observed_at before the filing date get the estimate filing date + 1 day 02:00 UTC + the 24-hour cadence, 50 h after the filing date. Observed: 7; estimated: 12. The estimate adds one full 24-hour cadence after the index appears, the longest wait for the next run.
 - Links: the 2026-10-14 production audit found 20 of 41 automatic Form D links were the wrong company, so only links that are trusted after the guards are counted; a wrong link that passed every guard is still in the cohort.
 - Found-from-the-filing companies (issuer-first discovery, ADR 0035) are monitored because they filed: their alert time includes how long discovery took to link the filing, and they have no hiring history before it. Report them apart; the pooled row mixes two different questions.
-- Press-ambiguous brands: tell has no dictionary to tell a common word from a coined one, so every one-word brand is flagged (161 of 334 filings). Only for companies not from the YC directory with a longer legal name does the headline have to carry that name (4 filings); a YC one-word brand still counts any headline naming it.
+- Press-ambiguous brands: tell has no dictionary to tell a common word from a coined one, so every one-word brand is flagged (155 of 322 filings). Only for companies not from the YC directory with a longer legal name does the headline have to carry that name (4 filings); a YC one-word brand still counts any headline naming it.
 - Changes from the spec's SQL, all needed to run it as a dated report: `now()` is the bound `:as_of` instant, so a dated report can be regenerated. Filings are keyed by `event_id`, not `company_id`: the spec's `group by n.company_id` merges two filings of one company into one press date. Dates are taken in UTC (`at time zone 'UTC'`), independent of the session time zone. The cohort keeps only trusted links, as step 1 asks for linked issuers: rules R1-R4 with no `payload.match.guard_failed`, a reviewer's link (`rule = 'manual'`), or a CIK match whose CIK was set by such a link; R5, R6 and guard failures are out. `alert_at` is `observed_at` only for a scheduled observation within `:observed_window_hours` of the filing date; otherwise it is the filing date + 1 day 02:00 UTC (the daily index) + `:cadence_hours`. Added columns: p75 lag, the median alert lag (`alert_at` per step 3) over all filings and over observed ones, and the observed and estimated counts. The news type name `news_funding` is unchanged. Rule R0 (an EDGAR event linked by a CIK with a trusted `companies.cik_source`, ADR 0035) is a trusted rule, and a CIK match with no match record is in when the company's `cik_source` is set. The cohort is split, every row grouped by `grouping sets ((cohort), ())`: 'monitored' (the company is from the YC directory, `source = 'yc'`, or existed before the filing date) and 'found' (created on or after the filing date and not from the YC directory: issuer-first discovery found it from this filing). The pooled row is both. For a 'found' filing `alert_at` is the link time (`payload.match.resolved_at`, else `companies.created_at`) when that is later than the scheduled alert, so the time discovery took counts. Press-ambiguous companies: a brand of one word (after dropping a trailing legal form, PBC included) is flagged. For a company not from the YC directory whose legal name is longer, a funding headline counts only when it contains that full name.
 
 ## Date
 
-As of 2026-10-26; generated 2026-10-26T07:04:08+00:00.
+As of 2026-11-02; generated 2026-11-02T06:42:20+00:00.
