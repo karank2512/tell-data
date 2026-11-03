@@ -1,10 +1,17 @@
 {
   "domain": "pump.co",
   "name": "Pump.co",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "“Pump broken? Get quotes and installation through an app”... Oasis Pump Co., Ltd. launches app - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSVpVOGg4cURMS2w3WFV2NjJKeURhSllzWDdXbU9aeC02Qk5LTDVfMDNhRXM4SFNYelVNQWk1aHh6a3lCVHB6YXJ6X2FKNWVqMzdR?oc=5"
+    },
     {
       "type": "hiring_velocity",
       "role_family": "sales",
@@ -24,13 +31,6 @@
           "url": "https://job-boards.greenhouse.io/pumpcareers/jobs/5459127008"
         }
       ]
-    },
-    {
-      "type": "launch",
-      "contribution": 1.5,
-      "occurred_at": "2026-11-02",
-      "summary": "“Pump broken? Get quotes and installation through an app”... Oasis Pump Co., Ltd. launches app - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSVpVOGg4cURMS2w3WFV2NjJKeURhSllzWDdXbU9aeC02Qk5LTDVfMDNhRXM4SFNYelVNQWk1aHh6a3lCVHB6YXJ6X2FKNWVqMzdR?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -55,7 +55,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-20",
       "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/pumpcareers",

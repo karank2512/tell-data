@@ -1,16 +1,23 @@
 {
   "domain": "chubbygroup.com",
   "name": "Chubby Group",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 28.1,
+  "score": 29.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 28.1,
+      "contribution": 27.8,
       "occurred_at": "2026-10-22",
       "summary": "Form D: $49,999,372 offering, $49,999,372 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2085051/000208505126000002/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "NIKU X New York Unveils a New Era of Japanese Wagyu Dining in Midtown Manhattan",
+      "url": "https://www.chubbygroup.com/niku-x-new-york-unveils-a-new-era-of-japanese-wagyu-dining-in-midtown-manhattan/"
     }
   ],
   "open_postings": 0,

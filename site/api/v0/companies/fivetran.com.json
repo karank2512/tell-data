@@ -1,14 +1,14 @@
 {
   "domain": "fivetran.com",
   "name": "Fivetran",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.6,
+      "contribution": 3.5,
       "occurred_at": "2026-10-29",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -111,8 +111,8 @@
       ]
     }
   ],
-  "open_postings": 165,
-  "long_open_roles": 46,
+  "open_postings": 167,
+  "long_open_roles": 48,
   "sources": {
     "ats": "greenhouse:fivetran",
     "edgar_cik": null,

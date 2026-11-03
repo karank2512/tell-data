@@ -1,16 +1,30 @@
 {
   "domain": "payloadcms.com",
   "name": "Payload",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 37.9,
+  "score": 40.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.2,
+      "contribution": 11.1,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Türkiye’s MKE Debuts PIRANA Armed USV Variant with Drone Payload - Naval News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHh1X1k0ZGhhMzJuek1UMzBlZ2U1NkZDeElVQmtBN1V4MGVOZTRVa3E4M1ZPcW9KX2FnOGdxQ0FvU3d1OFRRNU5oSktWdmljb3k4R0ozR195WXpuOG85UEdFTXZtcFpTSEpZSVZiaC1LQy1Zd3dLV0QwcDd1RVZqbnlEVDRBamdhTTFuZFphalBTejl3WXhQcDk0WWxJM2xMNlAtSVFKYW5Dd0FDOEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Hua Eagle Aviation Rolls Out First Production HE-1A, a 4-Tonne Cargo Drone With 2-Tonne Payload - Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbTBWQTdKTEZXd0N5WmRhSnlNUjJBWWE4cFpaTS1XT0EwWTB1VnVaaHo5ZGNzcUpFdk1zZjJLN0E0WWNjYWFCWHZQSmlKd0hDZnNXU2t4akpJMTdjd0RkODgwb2tBXzdWemI2OTcwcW9CY3N5XzRYT3lhaURZeWpwNldGaFVjVnZOS0NtN0JpSEh0WWs?oc=5"
     },
     {
       "type": "launch",
@@ -42,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-22",
       "summary": "Bondada Group Unveils T1 Electric Two-Wheeler at ₹59,999; Offers 200 kg Payload and 86 km Claimed Range - Auto Punditz",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFVSVWIwYWhUbV9yemtuSy00OHpsQ1BZYlN6dUd2aDZBdEVXRDFpS0tQQWt4S0Q5b0ZVaWszQXczdXZmYmVvejhFSGlmamF6a1Mtc2tjS3FvQ1ZPeDhOMmpaY0JRd0tJLUxWaS0wemZPTGFSTEVjZmVacUtVSWxzUUN4ZVpOUGJFY1hrR2FHS0s0UHM?oc=5"
@@ -147,21 +161,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-11",
       "summary": "Micro-Con Vision Unveils MICRO-D Lightweight Electro-Optical Payload - Israel Defense",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oWXVDc2o1SmtUbl9aLWFvYXBBNl93SmQzMHp3RUJHNElESktqazNJVlZBdThzQjM3R0pTZ0JWSkhLUmJ0YVpJbFVZTTNJT3Q5V1hfZjl1S2s?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-11",
       "summary": "Microcon Vision Unveils 1.9 kg EO/IR Payload With Laser Target Designator - Israel Defense",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KS3U3ckM3aElNQXhkNTVuUzIyV1dWbXhiYWEtS0pDaTI4WWlhM2RGd0U2cGFHZ3FUaDZONUpXOWVxb1p4QlFYMjRaNzZteE9nUW0tV3NFckY?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-10",
       "summary": "Australia Unveils BladeHAUL UGV with a 10-Ton Payload Capacity While Ukraine Actively Uses 1.5-Ton Capable Protector UGV for Combat Logistic Supply - Defense Express",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQTDAxR05qYk1zNmVoS2V6S2FreWwzejhidWctNHM2SWE0OFZ6YjlfTVN3Z2pJM050UlJFSjZpNTFoU2EyTWtTMWZvUFFNbU00THcxSHZ4UF9TQndQeEZ1dmhLMGtLeFRTclk5V2VfZHo2WUR3UktRQzlOSG5pOGU4ZTZyazZQYUR1Z21aNklUdmNjUDNJLXVqV3pBUGRXZTZLcmEySnFXUGZNVGhkUkpQM0hNbG9xdlRJQ0FQVkdWdXhQalRKS1FjWms4dWRQbkNIZGxxRWhuc0tUU29jcUFPanBpeUxnZWQyekpHd2FQREJscVRBUWhFcFpuZWJkVlRyZ2cyNWRvcW9QNF96cUZvSXdGV0hNNkw4VWRzN1RsYkZBRVdxLWc?oc=5"

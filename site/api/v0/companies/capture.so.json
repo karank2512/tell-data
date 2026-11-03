@@ -1,13 +1,13 @@
 {
   "domain": "capture.so",
   "name": "Capture",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-27",
       "summary": "Introducing the Cloudflare PHP Capture the Flag challenge - Cloudflare Blog",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNRHExVkZlUF9rcUptUTFPZkkzNDk4SUwzWGxlWFJFcnNLNzZSWGNHaUNwYm5QMElaTEpLOXZsZmtRTkhjRE5CbG43M2I?oc=5"

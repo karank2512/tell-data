@@ -1,10 +1,31 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 66.0,
+  "score": 69.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "NVIDIA Releases 4-Billion-Parameter Dory Under Open MDW - Geeky Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lMmpUc2pQbnJNYlRlMU04RGtVVDNrUjQtV21GVG1ieWhXcFl0aGx4MkFKQ3FFZU9KcUdLbjhSQlpEYUhVdUkyeGE2bEpkN0JuUDgxZk1KZ3U0NXZlOGJDNGhINF93aGhacTNpc1RB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Meituan Releases New 1.6-Trillion-Parameter Multimodal Large Model LongCat-2.5: Ranks First Globally on Multiple Intelligent Agent Benchmarks - AIBase",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42VGIxVFptN012TWROVGNXQ0xxeERSTXpPSkppV0JFQjFlQXpkVmpIS2pRdmY2TGoya25OTjJjN1ZLSVBFSnl1NmJ3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "Meituan releases LongCat-2.5, a 1.6 trillion parameter multimodal model built for agentic work - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSb25QdGFwUlQzYnFOcTdja0VELXVQaDFmSWZ3U0JtdGxqbVhuLVFYN1JkcUZFb3dVdDd5enc5VDh5MTZCVENoWTFnZjEwd1EzUnpNdHd5QnZMX0lfaU5XU2JEazF3TGpxRzNnZ3VnTGw5a3NIZS1wd2xkZWd5QQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
@@ -28,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-31",
       "summary": "Microsoft Releases Mage-VL-Cowork, a 4B-Parameter Computer-Use Model That Scores 66% on OSWorld-Verified - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ0VnNzJpWHhvV1d2REx0Q2d4ZnVaX2xGOEdJak16aFpJb24yVnprdDk2UjJnNngzWGQ2SzNIemx4NFRNd2VKeHRkcTF3QTBuT0JZenc3WlQ2eVdKblZydTJrT3pxc3FNSXVWdlFFMV9QTWg1MVp3NTAyQTUxdzlnQjZ6RDhrQQ?oc=5"
@@ -154,14 +175,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-22",
       "summary": "Riemann Computing Releases 13B Parameter AI Model Demo, Aims at Disrupting Model Training Costs - Chinook Observer",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd2NONXZsaWZOOTBSZHlhQTZlVDNjZEllY3pFaGVxX2NNd3VxenYxeXpubTNLRDVXRTlWRm5mSXFMRDc5b2w1TDVLWGxWWlNTNUpjSUl0MFRYZFU4d3FhU1drbUJjUVRkT1BrSkJFbEZMYzlYWF91bzBHODZGcFdZWTNDLVhYMFV6Mnc1M3lMeWhsbHduY2xtUGdqUkxlLURvTGYxMW5pTGg3bXI2akQtWWZmZmwxaTgyVkVVYmZxWWpSaGVnYy1Kc1RWTmhMNzl2VGw5UHAxbk80ZVBCLUJNcnBTaUFEelRobUtSYUNJSQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-22",
       "summary": "Riemann Computing Releases 13B Parameter AI Model Demo, Aims at Disrupting Model Training Costs - PRWeb",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTzNmRWloQWFvRWRrU2p1cGJEYmc2ZFk0NW1mbjlWRkpLSlN0WVNaWHMyd0ZnWk54STk3bVBUQlloQjN6SHJ5cHBmZk5LMmc1RkdWUXhQLUxETjRqeTYwTkFzYUZyOEpHWEl1OWFoWmFLZmI1ekI4MGx1QWxqTDJPamphS19YeURLUHpYUmdPeTcwdGdQMFVtV09GX3F3TkdndW9wZEM1MElkMzJlYnEzakppZGdHZkFwTHBHeTNhSjBhNjRrQkxKeXBEZ1BCckQ0WW5GU0dLUQ?oc=5"
@@ -189,56 +210,56 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Microsoft AI unveils 2.8 trillion-parameter model, claims efficiency gains By Investing.com - Investing.com Australia",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2dYNFpQMXM4cG1DTjhJM05sN2p1dXZRYU1OWWFqM3FvSTVSc19qaEx2UnBZMDcwdkwtVGhjbGwzWU10TXcxWURCbVFzZkZfU1BnUWZOMXRrWksyVzB5WUdIcVBEVUllcHFtSTdsQ2FscGtVNkxDNFZFQi1CYTNITm9PbmZubHkwc0lmNkZ1dVM0eTBTc09GeTI5SFVKSlV2UVJNWGsyS2RTMXBPeGpRQldIcjBsVV9MZkZKY2xNT0U5S25wTlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight AI Model Built to Run on Macs - AI Insider",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUh1NldjcmR2b2ZQeWd2VDdEalNuMkJvQ1FxS1ZVUTBRRUFDODBvR1dUeVB2Nzg1YVh1NnkybTNJb3J5dWVfd1JFM3BhanJlaTJnelRmUDFtQ3JPRVpabzh1el9wSVJhM1lzVTI1Tk92LXZoTVNUTkNuVW1EYmg1ZnFSNy1GQWVEQUVZNkVQUzZwRjBlbUpvM2ppbGp4NWZybjhoTENTZTNQUHJzY1BfMElFaDFvSXUwT1lpQUNDTEt6U1dMYkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Meta Launches Muse Spark Open: An 800 Billion Parameter AI Model Tailored for Mac Studio with M5 Ultra - Inkorr",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmhIQTJKYzNuSm5ELVE5VU9xSDBkMFB2aFJPaUczZ3VTRnZCNW53R21BSGpndk1DeGI2RjlIM3ZGWGQzMDExbXZpQXFjVzhsRXpLU1R6bkQ1VnVScnhJeWJhZDZIV052NHRBQXI3d0RTaVJJRE9jTmxJU0VRU3BobEszbVF0ZldkREZJR1JMRU1XblVyQ3JpT0h1Q0lYZDc5YmU4b3hZZjZQdjFtaDN2d3dzd0E2d9IBuwFBVV95cUxNWmZaM0tPcEZqUUZzb0J6bVZDeG9zX184STRrTjRLMEkzaWZBS05rVjZ3UDc5WGtXeHEtSmNlVElnZF84TnJEUFd1NWR5UU5KQ0RMSkU1NTR1b0FuZENjTlhnMmFXYndKT0FOWTFlRXZKa0g2b25ZZ2dIVFRJWng4UllqZkpfTnBBMXBCQ0ZQNXpmdjF2SUQ1Q3d5ZjJManlJRWdjRjF5Y3ZKWTNzT3NOeDM2NmxRQ1RsMF8w?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Intel Unveils GPU D-Series For AI Datacenters, Featuring 480GB LPDDR5X, 32 Xe3P Cores & 300B Parameter Support - Pokde.Net",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lVlI5YXV2dFR0d05MdS1lcHFSQjV4c3hDSHZOTVUzNlk4XzRWa1dOXy1rdlg2YjJGaVVmMTREcGZZNjU0XzNYSklCNjBzWlpxVTJ4enp3dHlDSlZldmRSRF84XzM4amgwY2ZFY2VpTk5nOGs?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open, an 816B-Parameter Open-Weight Model - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmZiN09kOWdLOVMxMWtCMUF3UUxOS1kzOEFsMm9iU0stZzcxY3pnM1VZWVZZNUt2Y0VJbGd6bFFLYnVVLXBMOE5QanlIRFR0bV8tSnB5anozMU1ralFzbDA1RklzRzIzeF9aZVlWV19oOXh3N3JsTlotQnlNa3A4UWJKaGZyeWQwUzNCY2Vaemw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Meta Unveils 816B-Parameter Muse Spark Open With Apple - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3NnS29NelUxX0pnZWxFUTR5b3l4ZHQ2T2JPc3JTbTBBOHdfb0dUNTB5TGtuZTFIM1RlZ1VwU01mZmhSVjhxX3hTSEx4Z2lLdHowTkt3czVmT2xRSXNwMXZZT0pzcGVjcnZkcDJBcnNCOXE3VS1Rdm80M1pPb2EyN21jRmwwMG1z?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark, an 816B-Parameter Open-Weight - Analytics India Magazine",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEVLOWdkbFhOOGZWX1cyOXRlQzdueHJTQ2JoQkliaWxIMlc0OTVfRFpOcmxDNUdkcjFpUVF3UHFNRGtEbGRxVXVLQ25xb2gzaWhjMGJ6clhtcmFUOHZmQTI5dVVKeUtLU0E3N1U0S3FyQmRkTFluQ3hmLW1aVWdLd2pYempNLUlsdG8wTGR5ZmFEMmNDMTJsdExrYmo1TVJvYW1DMXVWblhOQ2d4LXk4aGVZTXpKREFCUm05NmR3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Meta launches 816-billion-parameter Muse Spark Open AI model that runs on Apple M5 Ultra Macs - Fortune India",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTI3ZXFvVWZuVlpwS0hOMTR0YUEyeEhub0plelk5UDVSdVZIVmdJREVqUDdQZVU2VlBrUUQySDVwNlNPRWlBeVp2UHB4czZsZkpyczVwT1hBZnBJckJSTFlwUWJxeGJPR1BzTlpSZmQ4YldGUWZyWENPYlpwdnY3WHdjeWxTendLOXBMVkM2Ym1Xdkx0REpwYi1KTzBsUzN4Z3NKRjlwYTdqbkJ2ZkVIN3VMa1lpNWo0STJDcERMdi1IY0w5dGwyN2MyY2NHQzdYUGN4LXBYWdIB5AFBVV95cUxQWl90a0dKWkdYNUEzaDlPUGItWnV1VER6azFwT2R6OFNLa1hGcWxRUnN1VFRPTkszbDVCa2ZZYWQ4d0xHZXNHaG1odEpPNmhieU1pazg4SmlpRFJvN0ZydjVzY2tZdWVYT2JQV3lFREZWZnJDX2RKY2JITTZzOGhpRXYtVGhyZnpCQVdMUGU4cnlISmNsYVNieTVLQ3hWNFd5UXo1Vjd0c2wwM19yUUdtTlhCeW52QUhKNnkzbnVCNFpuSE5VOVdQTEtGMTY4dzcwTDV1aTdjWXQ2d1JkdGlfVl8yTXY?oc=5"

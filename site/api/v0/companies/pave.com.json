@@ -1,9 +1,9 @@
 {
   "domain": "pave.com",
   "name": "Pave",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 6.7,
+  "score": 6.6,
   "contributions": [
     {
       "type": "launch",
@@ -42,13 +42,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "FRUIT Introduces PAVE, an Approach to Bringing Human Judgment Into AI Systems - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTDVQWVVoMlBOY2dkak44cHFSQjhYdmh5N0tIRzhxaU5Ea1cyWkxWcGxnT3B5R1lraXVhTG5YejExQ3dfcG9MYlZpdm50WFhic05SNE5palRES24yeVBtZDFtZ1ZwWDdZcG02bUxCYUNNWk9jODNnSGlSb0R5ajlvTDlhS201Wm1RT1lhVVNRT3NqNXdWN1lpVmQ0VDdhaUk4aUlsYnBlZFRZRGpNZnB5ZVpHa2N2V2FRZXRTX0prUXZLT0FLM3h2ZmVqWjk1S0lhc3BDdG1INFo0Z2xQRU5xUDlB?oc=5"
     }
   ],
-  "open_postings": 19,
+  "open_postings": 20,
   "long_open_roles": 9,
   "sources": {
     "ats": "greenhouse:paveakatroveinformationtechnologies",

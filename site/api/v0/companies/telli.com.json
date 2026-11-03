@@ -1,0 +1,38 @@
+{
+  "domain": "telli.com",
+  "name": "telli",
+  "as_of": "2026-11-03",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-03",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/telli",
+      "postings": [
+        {
+          "title": "Founding Enterprise BDR | France",
+          "posted_at": "2026-11-02",
+          "url": "https://jobs.ashbyhq.com/telli/e0587b34-e309-4fc3-a2c0-0c849b2d7daf"
+        },
+        {
+          "title": "Founding Enterprise AE | France",
+          "posted_at": "2026-11-02",
+          "url": "https://jobs.ashbyhq.com/telli/a71a6737-60cd-413f-b128-a998a53245d2"
+        }
+      ]
+    }
+  ],
+  "open_postings": 17,
+  "long_open_roles": 5,
+  "sources": {
+    "ats": "ashby:telli",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "why_not_higher": []
+}

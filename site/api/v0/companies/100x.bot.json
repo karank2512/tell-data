@@ -1,16 +1,23 @@
 {
   "domain": "100x.bot",
   "name": "100x",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 12.9,
+  "score": 14.2,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-23",
       "summary": "[person] Joins OpenZeppelin's Kit as Pepeto Tops $11.2M, Analysts Eye 100x",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlqX1FWRnRPVGk3MDYzdmNMZ3N3NmMyQ3ZJdFpyZjhqVE5zOFJJa2FDRzVTeXNsNW5Cemh6VkFDaGwzR29lTUczQnl2cmZ0c0pUUXZBVkhnRGx2RGJESFVWN1RuckVGVzdMTjFnS0I4RG1NcjV0eXRvZTBhRDJMZjNKQVhTSm96eGFoXzRXZEpTQzZhdjhYclJBeWlhSFFsNnZmUHQxMS16WkxNZURHVmNPZldhTGJFc2dn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Paradigm Releases Solar Solidity Compiler With More Than 100x Average Speedup - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XdEg1TmtnWlNrTy1kd2JqZU9FVzV5SDdKYlFqMVRQOFhOQWF0U1QweDZWUV8xSTFuMlNqV3BERzNTUG9qVGxmbWxpaEtaem50MVh3b0dMNUptY0U?oc=5"
     },
     {
       "type": "launch",
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Anchor Launches Action Index, Cutting Computer-Use Agent Token Costs by 100X - HPCwire",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFViNk8zYU95YWdwV3FydUpKRWE0TXZsMGhOZkVNQk1vaE9sRzlhdmVVTG1VSnN6WmI0ZDJzVlJac0QyM1hQTmdRNmp2Yl9iQzE1UWNGRzlMT0RwSUljamJDNy1lUlk3SGRTNnBTd3hhWFVld3lvLVRCN3dRZUZHY3A2a2lHTnRMMk5uYjdHNlQxLWg4WlM4VXpxMEhUMHZIazEtT0lqRS1tQjlNT09zUS1GblNpMl9weXc?oc=5"

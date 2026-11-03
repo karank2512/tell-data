@@ -1,9 +1,9 @@
 {
   "domain": "beam.cloud",
   "name": "Beam",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Reflection Releases Beam’s Open Weights Under Apache 2.0 License - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONklLYjJNN2xhMUI4S196NG9vaFdvczBXNVZKOUJHUkFJQVAtYVFKdWtkR1FocnlVVVd6Ry1KLUpidU5iNVhLNEZuTzl6YV9oVGNnN0VVY19SUjB3dHF0X1c3UzRQNWxfNEJWdFdScXhjalB2SDVxSE8wUWxVNDFZTWs4Q2JpbFVHN2dRckpn?oc=5"

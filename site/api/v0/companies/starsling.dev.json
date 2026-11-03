@@ -1,9 +1,9 @@
 {
   "domain": "starsling.dev",
   "name": "StarSling",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-30",
       "summary": "Introducing ci-score: an AI coding agent skill that grades your GitHub Actions setup",
       "url": "https://starsling.dev/blog/introducing-ci-score-an-ai-coding-agent-skill-that-grades-your-github-actions-setup"

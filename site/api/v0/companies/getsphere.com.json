@@ -1,10 +1,24 @@
 {
   "domain": "getsphere.com",
   "name": "Sphere",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 2.6,
+  "score": 5.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-01",
+      "summary": "Emily P. Wheeler Launches The Sphere Jewelry Collection - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeW9YQkZZZ0JjVDdnVFlsTFZKZDZMOXhXU1FnblFNTjZ6dVlla0ZoUUxCcHBvdGs2ZkVFYnJzLXFWcFcyYzJPQlc0cldnMkc1TW4tbTg3TFpXSVdoU0pqUUxlaXV1Zi02TUxSOGZST2FRbG1xWE9wU25Bd3Jicl91WkhNeTNEUzg0R1R4dDVWSk1hQTE3RnpYenFGZWZ2aUxIUXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-01",
+      "summary": "Emily P. Wheeler Launches The Sphere Jewelry Collection - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVZhSkcyb194QzBCNXRlVEVYOHdaQjJRODhtWmRyYzh1TVhidVRXZy1WVDR6RE5XRVFzbVlyYktmaTA3eEpUQmRITmJ5ZFIxNTQ1OWNIY3BscDJCT3FHajh0cjQtVEpLWlN3Z0I0MXhXMzkyZzM0eWZJYzduMmVWN3hiZEwyeXZ6QXFGUnZMOVJ2YXBqNDh2WllHbkNnczdKUUlnWXgySURPNHdRZ1ZV?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -20,7 +34,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnlQZ3cxOEh0NHBfWmxhWXdSN19mN3RPMkZFUFZ0andqZlNHaGJyZ1F4UXRGb2dvOVh6T2E5REhJNExpb1Z0c1QyQmRfRk5ETm1EdkthS0Nnb1NiZ2RZWGdqYWFwS3N4QzdiX1VxemxsUjBvbGxSVjQ3MWZTSFNLanZWQ3RhY2JaWEJQb2NnZXUwUnJKZjV4WkwyZ3daZkJlc2dmU1Q4WXlDQ0JRbnoxcjdZM28ycTJt?oc=5"
     }
   ],
-  "open_postings": 16,
+  "open_postings": 17,
   "long_open_roles": 13,
   "sources": {
     "ats": "ashby:Sphere",

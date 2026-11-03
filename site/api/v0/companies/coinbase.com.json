@@ -1,14 +1,14 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 12.5,
+  "score": 12.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.7,
+      "contribution": 3.6,
       "occurred_at": "2026-10-30",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/coinbase",
@@ -44,7 +44,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-21",
       "summary": "Crypto exchange Coinbase launches Singapore engineering hub in partnership with EDB - Singapore Economic Development Board (EDB)",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDBEdzVnajVwaEVqcnFiVjRsMU5lM1NOMkV1MmtvRzlXWjhTYzhiT1NOU2EzN3d5YlVGXzBOMlBnNnhIR1V6eWdDdWg5XzdIbkNCenJIRGhFOXpQeFJZRkhEY0p2TWw3amlISF9IdjRHeG50cUprY1N1Znl0NDVyQzdFN1ZfNzZtSklrMlhJdTFKZlFHYVdYTk1fdm5Jd3NhaFExMnFfNndOZW5uU2JGa2JUcXNsaERnaEdxejh0UU1rMjVYUHc?oc=5"
@@ -58,7 +58,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "Coinbase Rolls Out Prediction Markets Across U.S. via Kalshi - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2hfS2pScXhYYTN0YnVjUUxJYmdocWd5bHA2Nzcwb1dQbjVqSldjX0dvM0Q4VERkV2tfclRpVFdyM1JyZU1fRF9RS3ZBa0dJLUJmU3dJNXJURlUwNG81MXpJenN5VFdsQV9LVVZzM2dOOWplVmdNMDZiR2VqenV4VzJvRENQRHE1d0xmZE5vNDdKS0VmMVhsLW5WakN5U2lQaEE?oc=5"
@@ -110,8 +110,8 @@
       ]
     }
   ],
-  "open_postings": 270,
-  "long_open_roles": 61,
+  "open_postings": 271,
+  "long_open_roles": 62,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

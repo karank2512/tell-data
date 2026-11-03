@@ -1,0 +1,53 @@
+{
+  "domain": "billiontoone.com",
+  "name": "BillionToOne",
+  "as_of": "2026-11-03",
+  "profile": "default",
+  "score": 5.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 5.0,
+      "occurred_at": "2026-11-03",
+      "summary": "5 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/billiontoone",
+      "postings": [
+        {
+          "title": "Prenatal Account Executive",
+          "posted_at": "2026-10-30",
+          "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4749213005"
+        },
+        {
+          "title": "Prenatal Regional Sales Manager, Denver (CO)",
+          "posted_at": "2026-10-30",
+          "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4749632005"
+        },
+        {
+          "title": "Account Executive",
+          "posted_at": "2026-11-02",
+          "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4749922005"
+        },
+        {
+          "title": "Prenatal Account Executive",
+          "posted_at": "2026-11-02",
+          "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4749926005"
+        },
+        {
+          "title": "Account Executive",
+          "posted_at": "2026-11-02",
+          "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4679905005"
+        }
+      ]
+    }
+  ],
+  "open_postings": 85,
+  "long_open_roles": 23,
+  "sources": {
+    "ats": "greenhouse:billiontoone",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "why_not_higher": []
+}

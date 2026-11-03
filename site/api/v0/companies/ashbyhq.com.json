@@ -1,14 +1,14 @@
 {
   "domain": "ashbyhq.com",
   "name": "Ashby",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-31",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/ashby",
@@ -53,7 +53,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDZGYWYzR2ZieVlsUWdUTTVFR0VpU1h0bnI4MmhsbGhZM0pMSEpIbGMwVEZJclB3b2hheGd5REp2b3FqaGdNQ2RDMHY4Z3Yzd0xQZmQ1NXpsUjFYUV9CeEtEWFA0c3hLNXpqTk9FTDdRSTJ6Rk9PXzFPTGJBczRUbXJ6dVdHRUg2OUFXNnJ3?oc=5"
     }
   ],
-  "open_postings": 74,
+  "open_postings": 75,
   "long_open_roles": 43,
   "sources": {
     "ats": "ashby:ashby",

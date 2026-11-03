@@ -1,14 +1,14 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 8.6,
+  "score": 8.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-28",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/docker",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-01",
       "summary": "Retiring Docker launches Zippy bid as Freo resurrect Wharfie Time - The Australian",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWWRjMHA2LXJETURrSXlWTGRrSlRfRU9pSi05THcyQ3kxWmhaWkNNcWo5V1lzcUxOOGJLVWpLT2lmcWNqY042enZKeTVfLUtOeU9aNmZ0dTVsZEE0OFRXQ3FsTTVnNkwybmJNY1drMUp5RmVsLVA0Um9yeV9NRU03cDlhclJNYksyM3ZNNXBNMktsRGhPRWJCS2V3ZmZCc1UyTU5pYTZvQlVsdWlWNE9UVndCczNiWUVSa3Q5Skl1dnUxUXNvaDdOYVlJY0dpaDJkLUJ3di1hQkNvOFBkNWI2MGd0WjM4NlpYaWJ3Z0kzY0VLSzVRaEFjQ21QdEpZLVM4VGpBbWR0WnE?oc=5"

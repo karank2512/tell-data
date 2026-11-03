@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 7.7,
+  "score": 9.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -38,7 +38,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-27",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -107,6 +107,41 @@
     },
     {
       "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "5 new finance ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Business Recruiter",
+          "posted_at": "2026-11-03",
+          "url": "https://www.brex.com/careers/8928173002?gh_jid=8928173002"
+        },
+        {
+          "title": "Business Recruiter",
+          "posted_at": "2026-11-03",
+          "url": "https://www.brex.com/careers/8928174002?gh_jid=8928174002"
+        },
+        {
+          "title": "Business Recruiter",
+          "posted_at": "2026-11-03",
+          "url": "https://www.brex.com/careers/8928177002?gh_jid=8928177002"
+        },
+        {
+          "title": "Business Recruiter",
+          "posted_at": "2026-11-03",
+          "url": "https://www.brex.com/careers/8928181002?gh_jid=8928181002"
+        },
+        {
+          "title": "Business Recruiter",
+          "posted_at": "2026-11-03",
+          "url": "https://www.brex.com/careers/8928184002?gh_jid=8928184002"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "engineering",
       "contribution": 0.7,
       "occurred_at": "2026-10-21",
@@ -131,7 +166,7 @@
       ]
     }
   ],
-  "open_postings": 263,
+  "open_postings": 268,
   "long_open_roles": 102,
   "sources": {
     "ats": "greenhouse:brex",

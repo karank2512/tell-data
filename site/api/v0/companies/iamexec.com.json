@@ -1,10 +1,38 @@
 {
   "domain": "iamexec.com",
   "name": "Exec",
-  "as_of": "2026-11-02",
+  "as_of": "2026-11-03",
   "profile": "default",
-  "score": 42.7,
+  "score": 50.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-03",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYVNLU29zTTJ5WFNReC1FUFdNeW9sMnEtQUJsNEs0aHVMMHFMMUg4ZkROel90b2hJU0tIT0VPQVdmamhlb1lKSXNyWHJtUnRtdWVsdXUzb0NtMXdUdU1Za250eHhGVmtJNUxJYlBJYnpIMEgtU3psTmlKRi1kQkpCazVVcmhab2pmdG1LOGlSZ3ZzLU0?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-02",
+      "summary": "Hires as VP",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnJHRklvVG56b0tCWmVscGphcHh6TDQtOFFWeGl0TUxHeVRJNkpzR2VTdFVhaV9rSEJoWmhockNJeWMwODB5Nm9vRXR2SndMM2JWTWpQVUhyeVZac3pGekx4eGZRMGJZRG9HVUlveUtSbXFiVXgzcTd5UlZPcUVkT0UxTFAwZlZic0Z5RWtRa3Y4WnpqNnl3bkVGeTAyWi1n?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-02",
+      "summary": "Disney [person] Joins Utopai Studios as Chief Product Officer",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelp4ODNaNHlKSXBDT1RuQ3lRUEdkbnN1YXN5U3Rwc3pLa1JWbE4xQVpKVVRsQzgzajdqWk1SVFNEckZHMWo2TzIwQ1pNZkVQNGtEN0d2VkVoTGJuTWhIN1ZkRmYyemg4bUpVdlY3S2x0MElPOW1kaEpZNDVHVXN2ZzBqXzd2RTJ4Sy1PZEI0OWpqaU9BLUlBekdpVXBOTC13MmNvVlZ3aGlTS1I1WnhjNUlyQUlPN0JCaWNwTjBkZU4?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-01",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWc1QmhuT21QdWZkYVl6YTVoRFBTb2J3dGh6QlNWYUt1SDA0M21oMkc3LTlpNXhxd2xCZUtWNnU2SHRueUwzbm42YmticEVscE0wQmhPc2FTcWJQYU5QTzJ2Y2RuMS1DNnhQNVJXMEdud05iSVZqNDBhWEw4ZjdGY21wMXNEN25JdDV0d292SWhrN21ORjBnTmtzYS01REhIUlBZ?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -28,7 +56,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-27",
       "summary": "appoints as CFO",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkdkQUJaSU9GUHJaZTFHaGlJLWQxSlQ0cU1RTHplQVV2OEcyaDNfWmZvNkJDMmtSdGsyUlh6TkxrVmZYcW9ya3FKek9LRWtXM08yXy1VRWZDSWVic0hhcS16bF9MUmEyWjZ1UkpvUG1CVDBBLWVDRXIzUV84VFBfV1prUE8yQ1hxMlFMV3hkRlFmd2VrVmQzRTVmS25VUnU3eG1rQ1U2ZzZSZVo3X2NxSG5HWlliSkE?oc=5"
@@ -49,21 +77,21 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-23",
       "summary": "hires as COO",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTRiZWJZT3hMeTdKOXlQN1ZZdVhiRzJyLWtoOUhRYmFUOFpVd19temg3cUdFRHZJUGRRVjVpR2F6VzkwVXFZNUhFTWltVjVNY0V6N2MySUFHdENIbTdXZUJUME4xMEdpNzM4c1Q4d09ud0tITGpNQ1JHbk82eDRHRVdSdWRjNGFmWlpnNmVJdHlzYnJWOERScVBiM2tlZktaZEhsVW1BMzJMMEVlQnZLLTZzb0VtUUZza3c?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-22",
       "summary": "EXEC: Puma Appoints [person] as Chief Commercial Officer",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXpzcElMc2JGYmd4ZWRrcHJfQmhNMkk2TUxNRTZ2OW1wWV9oVVJtSldWMEs0bW96b2ZZTElGQjlnUXVseXdWODFNRUZKYzhBVHVHelkzRVhSV0dVTzdpQ2w1X19xMDNIYTVncnhqczdBLWlKR0VSeTBRa29VSXVnVQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-22",
       "summary": "Appoints COO",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByS0kyYnZUZDBHa0MzNy1tdmN4cnNvYzZtdHRTVUdpbm41QmluSkpkbVF4RDZxLU9tU0tFVVhjQjRDbnl4cGZLUjQwY2cxT0FfRWZ5ZVYzODRrUGM?oc=5"
@@ -182,7 +210,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-17",
       "summary": "Philadelphia canned water brand launches with former Liquid Death exec as investor - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1M2NmRFa1NrRTRpcUkweUtmakNZYXQwVWFyUXQ5YzRyVmlmM1FrR0w2WmhjNXh5clhBa3kzZ3lRZTR5ZGVEZ19JaWNtRDVZN1M2OExsdklFUzJPSE9UeThVSUdSaEVKeGpBeXhEMDZmanhiV1BqT3VzQ3h4V1R2LTVCcDdjR09veWpBXzRMb0JPZDhCVklkSjVYYkpIaFlwWnVR?oc=5"

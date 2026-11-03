@@ -1,0 +1,38 @@
+{
+  "domain": "gumloop.com",
+  "name": "Gumloop",
+  "as_of": "2026-11-03",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-03",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/gumloop",
+      "postings": [
+        {
+          "title": "Enterprise Account Executive",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.ashbyhq.com/gumloop/02a4e41c-ca1e-4dd7-88b6-d14fd8c8d401"
+        },
+        {
+          "title": "Founding SDR Manager",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.ashbyhq.com/gumloop/21b4f0f8-dfb8-498b-951c-1a2857d7ae0e"
+        }
+      ]
+    }
+  ],
+  "open_postings": 14,
+  "long_open_roles": 2,
+  "sources": {
+    "ats": "ashby:gumloop",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "why_not_higher": []
+}
