@@ -1,10 +1,31 @@
 {
   "domain": "boat.dev",
   "name": "Boat",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 7.3,
+  "score": 11.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Saab unveils combat boat with autocannon-based counter-drone capability - Unmanned airspace",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUtSSVJiMF9lWGNmODAyc0RWdVZWdzhrUkhib0NQdGN6WkltYlNhZXd2UXByWmVBOWoyRWhPdDhBMFZlZ2I3czRQYXRSREVKNEVaNE5kbERjQ3dSdVZXNFU4aXZvZkFweDNsNkxiN3BrMnNUVUg2MjJIN0dEckpheFJna1Myc2tocnBYVzkxWi1wSHd0SnFwdzVQdExmMl9pT00wSUlLaGg1WS1VU25MR0haR2JrcWhZWjRqMGdBbVNrYjYzdmlrQTR3YjBaaXlCXzhYcUlR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Saab unveils new speed assault boat for Swedish Navy - Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSi1TRVB6cmtKYldFbV9XT1VOOHNLZWo1TU80MXA3SzVCQlZHTk50ZTZIbC1FckctZUZ4b2ZwMGNwVDZGWE9lTkpwSkJYdzhTQ0JqZ2xUckR0blhHbjd0VU1aVVBWQkd0VXlsQlI1enZGREZueVVVUUJKOVVseXV6UThLaVpJeG05UDFOTzJsRVQzWVU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Saab Unveils New Combat Boat, Earlier Versions of Which Were Delivered to Ukraine - Оборонка",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDMyLVRhd1BjRzZpNHFNWkhid21FbnNyYk5zeGcwM1VFMHB4Z3dQQ1hSRk5tcGhKZGgtOTJ0aWFTTVl0V3p1YUtYYWlqQWlHMVpyQlNTTmpmVF9BTXEyRzZjeE1NbU1IUnc4OFl5M3VHYmtQVlZPR2RnSVBKbnNIZWFrR2NGQ3ZzR0lfdWFsVdIBlAFBVV95cUxOUktRX21qdWpjZGtmNzdmbjZyUWsxendpWWxuZ1J0eF9RVU5obHBoS1FIRlAtZDRDVWhBTUZwa2xPYnA0dG1FMy15RGpUeFJsMjRrN3k4TWx5MndncTl0SnE3LTMyWGd2YkYxaVAxbnp4R2M0VnRzb3dmSkFIRURXVmpFU2ljcVJydERyOWhTX1BBVnM3?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

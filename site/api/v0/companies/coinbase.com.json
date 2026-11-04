@@ -1,14 +1,14 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.6,
+      "contribution": 3.5,
       "occurred_at": "2026-10-30",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/coinbase",
@@ -37,7 +37,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-24",
       "summary": "Coinbase launches crypto debit card in the U.S. - Mashable",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNSmlidWZrT1VVc1BxczhiWE1EZWFFZGEyTmEwbDl1RW1oRm1IQlgyRU1NNWRMY2NLSF93ZW1YSzBxVG9TMzVGa2cxU0tRX2pvX2taZ0c2V3lYQlZ3UFVpeQ?oc=5"
@@ -110,8 +110,8 @@
       ]
     }
   ],
-  "open_postings": 271,
-  "long_open_roles": 62,
+  "open_postings": 280,
+  "long_open_roles": 61,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

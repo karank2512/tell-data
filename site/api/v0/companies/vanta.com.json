@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 20.1,
+  "score": 22.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.4,
+      "contribution": 11.3,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -39,10 +39,42 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Stark Unveils Vanta 24: An Autonomous Warship for the Baltic Sea - Militär Aktuell",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazJXeDIwUWk2Z2hSNzZ1d3U1Y0xjbGx4dHoxNlY0QXlFQXhCZ0ZsUVJ5MlgwWjRlY3ptUUZicXNrUDlWUEk0bWpXbkVFOEtIUC1TNURLbDRLMUVHNWFlZzNUX00xX09rZm9laC1WVjVOUEJoX2VudkYyUHBfTDRtc1NxakplVGY2RjNUb3QzMDBxV0hzMzZZcGRn?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 0.9,
       "occurred_at": "2026-10-02",
       "summary": "REPMUS 2026: Stark unveils Vanta 12 USV with Sea Venom anti-ship missile capability - Janes",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcmhiWmdkTF9Yd25weTJCaWVwZjBoakhrV0p4RDQyczdvNjV6VVN3cVpLSjFIX0h5U3V3M3JWNko0Zm9nV0h0Y2hWT3NULWRjZl96SUNwV19nS1VEYlZGX1Z0MElHcDQ5bWxfNUxkeGRyekpfY2JvdGxhcnFuU0R6aXZOYnFVMXMwUGZlYlhPQUJUUmp3Vnk0TnBfaU90MW5lb05qek5RaEpabDVRMnBaNTI0SHBaQVNWd0JEdkNzZExidnlTUExTYXpTRC0zYXBxMERpVXFmblNLemEwaFVua2VVWkk4UQ?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-04",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/vanta",
+      "postings": [
+        {
+          "title": "Staff Software Engineer, Vanta for Government",
+          "posted_at": "2026-11-02",
+          "url": "https://jobs.ashbyhq.com/vanta/c752a8a1-5832-4d2a-a8c5-8b8308d6a7e2"
+        },
+        {
+          "title": "Staff Software Engineer, Growth (Self Serve)",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.ashbyhq.com/vanta/e4e1f472-5113-4cd0-b8f9-dd10af087f5d"
+        },
+        {
+          "title": "Senior Software Engineer, AI Platform",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.ashbyhq.com/vanta/6d2a60a8-7daf-4482-ab9a-6b87516548d0"
+        }
+      ]
     },
     {
       "type": "launch",
@@ -113,14 +145,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-08-04",
       "summary": "Pwnage unveils Vanta wireless mouse with adjustable clicks - KitGuru",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXZaaHM0Y3ZaWmI5Z0ZtTXNwVkxraDJiejhCMG4yeHVldlp3dGpZbmhTSGJSSXJicks4R3dnSS1neHhGcWhQTVdIdFViLUdlb3I1TVEwZjAyZC01NWxLV1piakVkSC1yZDJXcllSVHF1cFp5ZUJtTDFLVDVkOGczNi0zeGRhMjN1ZFN0SUJtTHlQT3hpNkN3dnRLbklhZGYzZXNjclFEVmtfQU42VkRiYVF3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-08-03",
       "summary": "Pwnage Releases Vanta Gaming Mouse With Mechanically Adjustable Click Geometry - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeU43OGRBWXZIOXNpNHhVYkRsclNQVm4xLU9mdWJxVzM3XzM5azJTeVBUM1B3Z3B5VmszSjVrTkdFNnBvMGQ5dkFBbWNacmRoQllObnVreHRyY0hFcE5nLXZZZ2dTSU4xWU92N3ZKSGNXeXFoSkNHRTV5YXhSNHowWG56WV9xTWN2UWlBaGhYUUpMRXhXWS1VdFpiMUtCdkw2YUxlRThuNE9tdmF5NnJWSC10NNIBuAFBVV95cUxNVkF6MUozendlb293TGpNdWhhVnM2b2p3SWRtRnRhUERoZkNZS3pva1N2TVBCNjFVa0VHcEtwZ3lTQjhyaTVPZXQxNzRGcnlvc21HZF9LdTRNd0d5RUNGMURBczNuVHJVTHdnS25GX3YtMG5zU09jaGpNQ1E5THhTbVlzWVJSTl9mRHhiOUhvSE1GRUNtTjl0ZGJfV1hHQVE0Z2pqNERCUERCY09PZkZMX1dEMjl6WHda?oc=5"
@@ -133,7 +165,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 82,
+  "open_postings": 84,
   "long_open_roles": 18,
   "sources": {
     "ats": "ashby:vanta",

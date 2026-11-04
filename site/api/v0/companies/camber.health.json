@@ -1,13 +1,27 @@
 {
   "domain": "camber.health",
   "name": "Camber",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 3.8,
+  "score": 6.6,
   "contributions": [
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Camber introduces generic Suboxone - Drug Store News",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZl9UUUpOV2oyU3U0U0lQSVJGS3l3d0lGUHdCM3d5c3plN1c1QXhpd2RjQmFVekxqTzBsVk1raW5weEJGVzhLYmRyNU50cTJJeUtlN3ZZeGNCN3pUX21aMGFndUZ3TFpTSGlrRA?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Camber launches Raltegravir Tablets 400 mg - Chain Drug Review",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tZE5wWGE1cmsybFFtRk12VVo2NXdmN2ExUVgySkphZTczNlMxM3RZdnB1SVFEVE9SSlloa296UF9Ub3Fic3hfU05mOVVyaEoyTC1pOTQ4V2V3YUJicUNQWHpwNDBHQ2dSb0h3VUViOGFmT2NUWVZiR3QzSQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Camber rolls out buprenorphine and naloxone sublingual films - Chain Drug Review",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTZVRGdlQjJYQm11b3JFVUJyclhFUnBnanhuTlhEeUExOG5rYjBkRU40U2JNSzNDeGgzblNOWUV6Nng3ZzdDcmhiNzVZYTlXU2Mzb3ZuRlZxSnhGdEJtVzFlVXFGZzR3Wk1EWFh4aEZNSXR1UDRzSEVFM0JLTkJhRUhaRC1kTXpyYWE4aXhWSFh6ZGc?oc=5"

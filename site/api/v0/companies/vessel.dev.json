@@ -1,10 +1,24 @@
 {
   "domain": "vessel.dev",
   "name": "Vessel",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 14.0,
+  "score": 16.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "shownews - Euronaval 2026: Fincantieri unveils the Multi-Mission Modular Vessel for export - FW-MAG Future Warfare Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzMxeFEtZWlTZ1o5bGZqcG9YbWxRMTZrV3RCenN4ME1wTkFEdlo4TnMtZ3Jjbk9HU0RVMUNNVFRJU1Z2MDBBYlRvbXRfaHFqTVhPei05UGpyQU9vUWF2VXFPSWpOcDRQa2M0Yng0Y21CS1AyQkFTX2RCZDd0RGNjaThpeG92UXZYYjBXbF83YU9PdmQ3U3NzdnRIS0lVOFU4NHNVM3V1UUtpRF8wTFVQbUJTV3MyZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "CMA CGM launches electric inland vessel in Vietnam - electrive.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQjd3Z2QtNGxlWnlBZ2tTQ0RFX0dMSDZXSHJySmFveUtpa0tmb2kzME5KR3lKT05VUjFvM3IzRWVnRkpydlZqNnVjeGNjU1pnZ0J4Z3U1TTBMc0xOYkg3dVN3a2pQNUtZVDJfSG0yOFFhUXBiU283MUlfckllTlF5N3BodGZNR3FkLWtpM0NnVnZKUQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "'Industry’s first’ energy construction vessel launches one year after construction start - Offshore Energy",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEhiYnp1bFVpaG00S1VtWnFCYVNtMVllQmlYUXVFR2lFdEpPUHE0NDNQaGNrNFFFYVVieVg0Vm9EbUxGOHhTanBKMnV3cDNPWllfMFZNTGdaUUZ6ZHdxbjZhX200QlVjN2R6cmhfQWUxeVBFRF9DVndGd2YwdTJzdkRBaVB3V1pFc0lITXFQX2M4VEhqN3BDXzROay16QTVfX2RJanBqSjFDMHVfa0JPZ083VDA0YmlxenVfSEJXVmFyblZRUm1J?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "KISA Unveils First Dedicated Vessel for Maritime Cybersecurity Testing - THE ELEC, Korea Electronics Industry Media",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XWDNGOXItc3h6VWZQdnd5alBqMXZLWGhsdnEwMjF3SEFtVVlhSFpaeC1zMEVEcmZnWG53akJTLV9fWHdYS1RRc09WZ2JXUjRTTkZCSmhIaU56Y2pJZHA4TlAySm92WDA?oc=5"

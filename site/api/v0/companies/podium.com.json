@@ -1,14 +1,14 @@
 {
   "domain": "podium.com",
   "name": "Podium",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 5.0,
+  "score": 9.3,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.5,
+      "contribution": 3.4,
       "occurred_at": "2026-10-29",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/podium81",
@@ -36,9 +36,30 @@
       ]
     },
     {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Department of Sports Launches ‘Khelo Bharat: From Manufacturing to Podium Finish Quiz’ to Promote Awareness of India’s Sports Ecosystem on MY Bharat Portal - India Education Diary",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOV1MzdHpXRldQdFRVdlpTSGhHZHhvbWpmMm56NmZUUUtGX1pMSUUwQ3VxazY0STl6aUpvNjg1dk9rakhsQUE4aHkyNEFiTDRUVmN5S1RnenFXZ2k5ZUliN05mWDEtVW9GQjBMaGpxcXpWeTMyeTJsWTY1dW9VUWpUVW1NdTRwakdvSkNXUEF5aDh3dVJLRGtVQXNiMkFJdUo5a2YwSGJjNUZwVFdYV1E3SDhnRHk4dVRfemJuQjAwdzJBcGFtblVEbW5mTjhuMWg3WXhGODRHaTFycTl5bkwxV2U1aTJkeVFYNmZwbzQ3ZE00Sm43WVRvdlFkWktsMUt4amdrRlZhTlhZOWJ4X0JaMA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Podium Coffee Club Launches The Podium Index, The First Leaderboard To Rank America's Coffee Roasters By Competition Results Alone - Sprudge",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcm1tdUlyMGU0WW9URnFHd3lHUEdCVUhjTVhnb0dYLXVBVGNwVTBTMDJ3bWF6dXhXdDJNMDh4aDljN2pWMFVIdkFxSmczSjRoSkJ6aUZMWXI0ak5qRXFFSlFNakl0SWJtakRtMjllQi1IRWh0VnlLbHdya1NWREx6bExFYnZnVlNQM2Y2SUoyTFdWbUxiQjJxV2pXbWFGOVdnQk1ZLTdBVlhuckpFRDlZZWljdk8tQXduTG1GTHBoM2tNT2hzZXYtSDBuektZa0VSUzNhZmpWZzFpWUtSamFnZnpNdm4wX1d5SU44OURESGp6UUk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Podium Coffee Club Launches the Podium Index, the First Leaderboard to Rank America's Coffee Roasters by Competition Results Alone - Corsicana Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUjU3Nkh0Sl9YSDJ5aTNlX0I0T1g2RFRrU3U4M0hfSGhOUl9mZ200TEhhM1FuRGZPTkdHTUx3ZjMwRENhNzdOd2E1eGRVVTE1UXlteUl4c3VXVy05T3VEeUNCUVFOc0VXMjJMcHMwaFdnYTUxbHpaMkNCWnhXdlR0aTRDaHhOaERQekg2QkxSNzhiM1BSVVpob2tXMEpxOE1SYnBfZGJpTERUelFCNFd5MnhYMGluVFhYME1tMmNXT3ZUY1dCT094dUNjYmF4a05EZWNLWEhwN0txLXBQVXpYUmItX3ZRQVJzRGh6cndLWTZETEFySl9WeFY2SDhzQVZWSkpwbGhDOE5BQlZLVkhMcWIzWU9QVUtKSkJoZA?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-22",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/podium81",
@@ -56,12 +77,12 @@
       ]
     }
   ],
-  "open_postings": 68,
-  "long_open_roles": 35,
+  "open_postings": 69,
+  "long_open_roles": 36,
   "sources": {
     "ats": "greenhouse:podium81",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []

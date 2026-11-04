@@ -1,10 +1,17 @@
 {
   "domain": "waffle.ai",
   "name": "Waffle",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 6.1,
+  "score": 7.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Pro-Specs launches Dual Waffle running wear for fall and winter - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CcGlHd1R4cnZUNXBVNHNUcW5EeGxFMXdBMjZqbEJLNE9JVmFQMjNNaWZIdUZZa3lBWWo3VVhHUVZROW9SNUlPWDdBWHROM2dJbmlmUkpaMA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

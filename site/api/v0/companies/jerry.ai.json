@@ -1,9 +1,9 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.7,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-23",
       "summary": "Listen: John Mayer Debuts “Tom and Jerry,” First New Song Since 2021 - Rock Cellar Magazine",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRW9zNVpfUy03MWVPTmQ3VlVBZ2ZKNFpuQWhoTVYxVkdXaDBELURKWFhmek1LcWtoc0k5S21hSmtfazRwOGpVNC13ckt1bmsyNldUWXV0bEdjZEMtT2hQMXlnUTh0aEJ0RnRlVjZyQzZaYkoxLUxDdnYwU0stSlhvdXJ3Nkp0cjBabjNxT2VFSmZ5amNoWG03cENB?oc=5"
@@ -84,13 +84,13 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-22",
       "summary": "This year's 'Scoop University' class is the first to learn at Ben and Jerry's new headquarters - WPTZ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 64,
+  "open_postings": 38,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",

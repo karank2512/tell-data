@@ -1,16 +1,72 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 55.7,
+  "score": 67.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.6,
+      "contribution": 12.5,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-03",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iN19WUjBzNWVYazFGTVU5MEN6VzRSRm94b1h6dllONFU3WVJaSGRpa0pkR3V5M2ZFZFo0UTdudzB3eDZ0NngyM1BhYXlJeFhMQlhVRkxCWHBoSEJPbjNrZXBXSlBJT0JncmdHQ1RYbGFDdm1kbVVn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "United Way Space Coast launches online hub for Brevard County flood victims - WFTV",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3UwWldLWnRTek8zWUdXYVZ5U2FKRmxSeFA2RWEycGE2ZzQwM05RaHJ1S01uUl91aHFWekdRZUdwQjJuNXk5UFlfN1NkSlZKd3pTcmVrQ3pwY24tbEo5Mlo2WjhHRHl0c3lHZnh3bjAtazBJOW9qakhualNpaTR6czhaT29pRHF0eGdRbmIwLXZhU0Rob2lQSFk5eVlGY1QzMGFPd3ppaTFSMUJ0NmZsMjhLR3JDbXhrSnlLQUdUc25feFZ3N1dBV0ZETdIB3wFBVV95cUxPcW1VNHRvNjBfemloNnIxN2hFSUV1dHBsd2x0eFJXTzZHbDRKLU1JbDJ5c3c3QXI1a091UWlIaWpQNU5haW9TUDdHVFFzbDYyc2RETDVtZ3NrLW5qejRXdWpBRUxUVHFTel9FY0Vqd1lXMXhxMDNOSS1tSzdva1FTaDlNd096dU1GT0NyY0ozLW1XSC1hY1EzLUEtX0h1SmozVnFjOTJMRlBvSE41b29CWGNWRjhLaHgyNmxUVGZNVlZqVTB0TE85bnZpVmpsX2NJRDJjWEpTb1RNdG1SYlpN?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Compass Group launches AI-powered managed services hub - Facilities Dive",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGMxcjY3WGQxS3dEUm9HaVJZMGt3SlNJUFFWaUlGdjBKUzlPRy00alFBZGlqWk9XRDItRGlSNmQ0Rm95S24ybHFvUWpReFd6V1ZQb2RhU1ZXSEhBbFNKcHYtaGZJb3RZMk5TMXFlR3RmNFNwN2V1S3FNSm14cmRjZG1aYUJKeHhWY1hFejRRcmFhNnFPdHRpQmR4bExWbDQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "JD Power launches innovative intelligence hub to power every automotive decision - CBT News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiREw2VTZQd0JPX0d1RDM5TGF4TVVoWVF1N1pzQnVxWTU4cjZ0Mk1FNk5qZnNmcTNyUkpvR1BJRDAzOWcyWUxHOGdzdWZWbVgtTHJndXJ3eUU4Qzg1NW9R?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities - Cloudflare Blog",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FSUliNFBicFhMUmJGdUZsR3VQN0UzSm4zMkJNWERlQlVzNlJjNEc0LVpRN2RyMnhXMWZkbWRma0x1TTBvMzlMaS1MXzBiRUU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Baker Hughes launches global hub network for mature oil and gas fields - World Oil",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlA4TGprMDBvallFRmcwVF9RX3FMM1c2WUpVQ1FxcmZBYVpfbFdBNF9mMks4TjJsUC0tZ29rcUY2NVFGTjJMcmhGWXhyVzMxdlpmTDdfenYtbzE5c21RY3o0bFVfakIxNFBoUloyT3hDTTV2TTYwNzVDVGxHTktoVnRSWl9nS0xHTW4tVE9PeFg4amZRenFfSVFDbmFOdlBvdjJodUY0Vm1FbmNoVnlnWA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Baker Hughes Launches Global Mature Assets Solutions Hub Network to Help Customers Maximize Value from Existing Assets - Baker Hughes",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZEhMSUhyM1VETlBFME42WHNKcDhKYUNERlNJWlpwa1NLRGx5MDJjV21sSmhOUXBXU1JqU0xvRTBndVNnYmFqVkpmZmF1LWxQMnVienpVYXhvWVk2SXh3MjNIUTZzbC1PU21STkFxMGZkVTZEX3RyTzlKaC1YS2hRUHg0dEw5MGJtaW5COHp6LW9Vc0Q2UTZVZlN4YkhsTFFRQkVWSE0wN01fMlNKRGdZOGNCSjg0QWVHZEhsVQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Bendix Launches UniSync Hub and Rotor for Trailer Wheel-Ends - The BRAKE Report",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxNk5nMkNQTlBTQmJaRGRBWTNxeE5XSWk3WVR1SVdyYnlaQ2ZTVldSOTZaMmJHOHZsSVlqbHVDQUxLWDNvUUR2QklQVlQ2U1F0dGMzYms0TDA1anFlS3BtQXRMX3JkUEJ2Z3hHXw?oc=5"
     },
     {
       "type": "launch",
@@ -42,14 +98,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "FOX One launches interactive election hub with real-time polling and race analysis for midterms - Fox News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDFESS01Q3d2b29nSWlpLTlhTV81OE9NR1B0N0phUzFhaTlBMmFILUxySHJkQk1UN0E1c2hReDY5WnBzUnFlNFpiMGFSS3hibnNKN04teEVkR0dNTW1YQlUtdkVZZXkzZTJxQjZZVUp4Nk9wSEgxYnkwN3ZjRkwwX0JkeDRLdUpjcEdXRnVmTDVCQzdNTXZ5WUt4bjNuRGd6MEl0ekVPYWNQYXZQV1JoVkN3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "WHO Launches AI Hub to Help Clinicians Tackle Alcohol Risks - Medscape",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmRGMExUMVJUYTZqVTg0eTdXMkxXRm5XX2FacWdETW5GMkhSZ29RdTRjdWpFTENNZWVLWWpBZFVTUVhrTG5Lb1Q5R2VkQVg3c2tpOU54SG04YVRvclVBMlRRbkNCbXBtOGlHc3JKS3ZTM0RYUkhNSUR2dVBxa0k0bVJpY1JieFpjaW03QXllWnEtNThBQ1NaLUFiclhuV21BMTdkVG44cS1oUQ?oc=5"
@@ -84,7 +140,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-24",
       "summary": "World Bank launches new philanthropy hub - Alliance magazine",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREp0N2pEUW1nM2VhVzlTWWRlWC1MdDVpTFhZVTR6c2FOUXlVR3dkT09vdXVqaDlFNGNJalV2MllRdG0wd09IekJhRFpSRjBHckRRM3RZYVU0SnFsRFdOQU5QTDRPRDNGbmFlODhyRGZta2pQLXVSR3d3WTR1OG5oVA?oc=5"
@@ -224,28 +280,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Apple Unveils $299 HomeView Hub as Part of New Smart Home Push - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW8xZ2UzTWxzcVBtaDcyZVJTS3JQa0RJd2V4SzJhYjFTbEsydXZxdktNR3hhTnZ3dDhtVVFpR0xNTkhuQ19GUmJUM3RQRl9taEwwTnhFOUJGc2FraW1paV8yWXY5dTFGS011NmI1eWg3SG9wY0kzNW9hWUhEVVE5ZlhzR2RnUG1raENrY2Q3cXZyUlR0eEctTDZTSG1HTGtVS0JjaGpZZHp5dUJPc202MW42YzFYMXpSM0s2Rk5vLXM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Apple releases HomeView smart home hub with screen as showcase for Siri AI - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jSmJ6Q0FXZkNWQWUtZi0zOWVVNkVvWW5TeFNiX255bTdUNHRhbzV3aGdpTFhCci1LM203TWRCcTk3SmthT1VuUmJKemVXNGZnTzlRY1Y5VmlYQVpnbjRETTFzT1NPWGkzNlhKamFDa3VYX19GLUdWeXZn0gF_QVVfeXFMT08wdkg5bzg1V0FBc18ybEVtVlBVVlVRR01oWG5FVlBjTllGalFldkhENjdxbUIwUTdjZnZud1otYnRFYXdvTG5XY2lhM0g3WjltRWNLNHlZaHo4VXhuSUxMWV9CREdpZzIwR2VHR0x0eXNXU0tTc20zVXNqMGlFNA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Apple debuts HomeView hub as it reinvents smart home strategy - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDVuR19WQjJHeGdiUF9SeEkzb08xem5tU0tNNTUwT244eFRMemhNRFp0TkpVak5HVjBsQVp4RmFBQW9PY1hWbXd2UTh0ckJRM1BSYmV3Z2tURWJSOTNLWkt4X3d4UzRTdThCaW02dG5YSnRFZ043TDV0U2VKZ2ozMFRvNnlNZXlQaFJvSUJVa2szenh2Z3ZneXpYVzluZmhrYksxSHNqYWxlUXJ0MW1zbkZUbXY2VVVoRGN1NTN3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-12",
       "summary": "Duke launches national hub to advance trustworthy AI for aging and dementia care - Duke School of Medicine",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2hSRE1DZ2ZPVllULThXR2ZMN0JNSlN2c1ZlT2JJMGpSMENudjRiUzJqMDk4Q2hhOW11cnV2emFiUXRYanFwd0hBR3VEdExhSkdSM3gtV1hMU19iajl6VjBSLWpMWXptdFBoaU9XdFVFQk5sQkE4Mk9adzNVWkhxdldDeW5iUnpfcmNzd09lMHFpOVo1b0RMVGpldWljU25PUTVjT3djMVNLUVk?oc=5"

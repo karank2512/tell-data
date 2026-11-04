@@ -1,14 +1,14 @@
 {
   "domain": "supabase.com",
   "name": "Supabase",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 5.7,
+  "score": 5.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-30",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/supabase",
@@ -71,13 +71,13 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-07-31",
       "summary": "Introducing Supabase Evals",
       "url": "https://supabase.com/blog/introducing-supabase-evals"
     }
   ],
-  "open_postings": 69,
+  "open_postings": 70,
   "long_open_roles": 25,
   "sources": {
     "ats": "ashby:supabase",

@@ -1,10 +1,17 @@
 {
   "domain": "finic.ai",
   "name": "Finic",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Introducing Kairos: open-source fraud decisioning, tuned by your coding agent",
+      "url": "https://finic.ai/blog/introducing-kairos"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

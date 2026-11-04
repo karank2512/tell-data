@@ -1,9 +1,9 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 9.0,
+  "score": 9.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -63,7 +63,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-25",
       "summary": "7 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -142,8 +142,33 @@
     },
     {
       "type": "hiring_velocity",
+      "role_family": "exec",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-04",
+      "summary": "3 new exec roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Senior Director, Client Sales",
+          "posted_at": "2026-11-03",
+          "url": "https://www.brex.com/careers/8917093002?gh_jid=8917093002"
+        },
+        {
+          "title": "Senior Director, Client Sales",
+          "posted_at": "2026-11-03",
+          "url": "https://www.brex.com/careers/8928812002?gh_jid=8928812002"
+        },
+        {
+          "title": "Senior Director, Client Sales",
+          "posted_at": "2026-11-03",
+          "url": "https://www.brex.com/careers/8928814002?gh_jid=8928814002"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-21",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -166,8 +191,8 @@
       ]
     }
   ],
-  "open_postings": 268,
-  "long_open_roles": 102,
+  "open_postings": 270,
+  "long_open_roles": 108,
   "sources": {
     "ats": "greenhouse:brex",
     "edgar_cik": null,

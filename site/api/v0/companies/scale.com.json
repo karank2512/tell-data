@@ -1,23 +1,30 @@
 {
   "domain": "scale.com",
   "name": "Scale AI",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 88.0,
+  "score": 88.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.0,
+      "contribution": 13.9,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
     },
     {
       "type": "funding",
-      "contribution": 7.9,
+      "contribution": 7.8,
       "occurred_at": "2026-07-27",
       "summary": "Form D: $17,490 offering, $17,490 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000002/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-04",
+      "summary": "Augmodo Appoints [person] as Head of Retail Sales To Scale AI Shelf Intelligence Across the Physical Workforce",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUVZjczVuajZTMHZqRFZROHIwQjRRSERpQ0haaEZlbWt2ZHE2ZDhwWk03MGd2ZkdZWW5DVjJ0NTliY05DdDhSNTQ0eTJFOTYybU40VUpGVlFuZU1OMlAxWk55Tl94QU55N0h0NThLUmd5WmY1OVdLSHhraUJxRk81Q2dXMDcwckV3Ni02QjZNdzNFdE5Ybm5rOGtnT2pZQ1RkNHZHNm9aWDRwSGd4dzgxWllRSUxkSUJZdGxIUE11RHFWb2dqaS1GRnI3amlYcDBHdDc2WTFTZ1MtcldiOF9DNGNIb1oxM2ExaXpuVXBnN1MwUVdGTTl2TUd6LXRMbDR4MUxHVHRPV0g?oc=5"
     },
     {
       "type": "leadership",
@@ -56,14 +63,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-13",
       "summary": "Matter Machine Closes £4M Pre-Series A to Scale AI-Powered Materials Discovery, Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUozUi1MVWxDLW9VNGhFRjU0QVBDMi1hWU8taVJVcXBOWU1qa2NyalZ1QXU5QmlUZjhaUE9uaU1HVFBzLVhSX3NOaGI2VTJVU1JxbHhXNjRONkVpUG9VS09NUlZHUDJFTmNYUUdNb0psMzd1OXlqVGRabXRTWWFwa3VnMWV1QWhEOHliM0gyenVuZ0Q3RFpjZXc0emJHNl9hQTltYTNZNi1tS2VkeS1Ua2NqdDllQTQ1dF8wUzZZN2pyclRmZ3dPS2VVa1Atb21kU1lNR2lYV0RkR251c211WEpnUTd5dUhxcENiY3lB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-02",
       "summary": "iManage Launches Next-Generation Platform, Enabling Organisations to Scale AI Reliably - Tech Business News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkhiOG5rbm5KRUQ1bEVuQjlEczJ1eWV6QW9lcEVZdEZGLXQyUE10Yl9NYzFHNnZqQ0t6Q2FXV1pncmUyNWQtQ2Q4VlppY0E2TG5fQVNrRjBDQ01RMVZVa1RaWmE0amtuYzU0XzJtU054eERnVDFsbjZwNE5XelhIenl3NFVvNEZxUDlKUUd0amtUU3g2XzFSMVA0TFZjanFQOGxTNDIzQmpPRFpTRktZUzgzSGFoTDJjSWFxdXdtTnpOSjh6M2c?oc=5"
@@ -105,21 +112,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "HCLTech Launches Nano GCCs on AWS to Help Firms Scale AI - Equitypandit",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTdYNFRvYzNIdWdPMm1hbnNQV013OElKM1VyZHNQVWVmSHF6SDZlWFMzUjhIalZkNVdqOUd4c0VuV2hIcFlaV0VoaG1uWVdSbHN3Z2pCZ1Q4bnJFcmVGV0FRS2xkVEIxcXFGZG82LWdGdGdwalBNS05heDBwN1pOLTVkelJNV2RLN0FWM29Gbw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "HCLTech Launches AI-Powered Nano Global Capability Centers on AWS to Help Enterprises Scale AI Beyond the Pilot - CXOToday.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSXVYbllfR3VmXy0wU09XbVEyNGtnVUlKczRmTmZBbFBYODFmU3lrMDRzeGlpRlVGM290aE9nZ2F0bm5YcHJ2bWpqYjB5cnlReXBIdTBYMFRhV3BJVmNxRmhVNmtDbmRZLWdhTmUwMmtkOHJOSVlmVEdHUUViQXAyWXQwQVVFc2FVdnBhNEdMX0RoQUxqYUV5SHRscHVVY3ZSVEh6X0pPZVVkbU0teE9sSXNmU25DbmdBYlZMeGY1TGFhd2FIQ2dzTHJvMnFNRnFGRGdNUUFEalJtWmZoTkNBRURR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "HCLTech Launches AI-Powered Nano GCCs on AWS to Help Enterprises Scale AI Beyond Pilots - PSU Connect",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGJ2Nm5PZmxheWR0RVUxS0YzSGwxR2swSlRscDJYRFdPLURPWmhGMThBWk5WaE5OT1dZRUJpdnhTTFlyQkY1YkxOVUNzU1pBaVExWUpvUXU1Z1FTdk9JaVR6RHdBanpydDk4Z3JoWUxTNG5fZWt5SXNlMmRlcHN4TjZfY0VlMEo3YVp0bGlSdTFKQ0JLRFU1R0M1bS1kbU1pRFFtZkpoRGFMNjViX1BVWjU4VE84OTd3WXJDUjF2WldHZVlZRkFR?oc=5"
@@ -168,7 +175,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-23",
       "summary": "LTM Launches BlueVerse™ Industrial AI Lab in Chennai Helping Enterprises Scale AI Across Physical Operations and Intelligent Products - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUjRhV1ZOdVI3cHliSXVSck5VYU9LRTdwckg0b1lvVnZ1U2xqTVlEcGttY0YzdE5xOG5PLXJ5Z0ktNGdZVm81RXBsajBmZGJfQk4xcGZTZ05hNDRHWlNIU2xGdThDRHpIdlVHTHQtQ1R5bUlYLWFRcUtoQmNaYWY5c2VCdjhGUFpFVFAyYkFlVUhUSExpaDF2Zk42alZEVUN2OFVINEh0VHppbzhLSmRrREZqMFZiNkwxT1NPc1JBRU5jYS1nMUFhZ050aFVTUExKMXRBazJ2M21qWTZ1YVJKdjR3TUprS25BelB2ZEdPNmdvOGM5R2U2cGZ0YzY0a1dfYTY5a2UyazdFcEkyTGlMadIBkAJBVV95cUxNUjRhV1ZOdVI3cHliSXVSck5VYU9LRTdwckg0b1lvVnZ1U2xqTVlEcGttY0YzdE5xOG5PLXJ5Z0ktNGdZVm81RXBsajBmZGJfQk4xcGZTZ05hNDRHWlNIU2xGdThDRHpIdlVHTHQtQ1R5bUlYLWFRcUtoQmNaYWY5c2VCdjhGUFpFVFAyYkFlVUhUSExpaDF2Zk42alZEVUN2OFVINEh0VHppbzhLSmRrREZqMFZiNkwxT1NPc1JBRU5jYS1nMUFhZ050aFVTUExKMXRBazJ2M21qWTZ1YVJKdjR3TUprS25BelB2ZEdPNmdvOGM5R2U2cGZ0YzY0a1dfYTY5a2UyazdFcEkyTGlMaQ?oc=5"
@@ -343,7 +350,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-12",
       "summary": "Astera Labs launches Orion, a modular rack-scale AI inference design - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN3NMVG1OXzR5Vkc3U0dManE1OHdySmViRkpfVk4tYVBIaDZpdVRXX3VxU1VGTU5UbHQxSTV0bFVOOE1JQ29sTEkxdjdibkZxOEk5d2dGY0kzMnZacjBlS3YyRmt1M1ZTTzEzMXhOY3N4dkw2eW5WZ1FMc25SS3NSZ0lWNkY1bnIyWkpHV1hVT0FZa2tqRko2dWlVeDFpaEVFbDR4NUxRa194WkZFWUVjSThEcUtBNjZrNFByZTJKbS1YRTdIYnJFaw?oc=5"
@@ -357,21 +364,21 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-29",
       "summary": "Nasdaq Calypso Launches Agentic Capabilities to Scale AI Adoption Across the Trade Lifecycle - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmZEOVVqbXl5cTNLY0V0X1YyTDVYcUlXT01GVGwyUG9qS09OUTVKQXR4UEphV29wN2FFM0pld0JIWjVONVNQUUZ2UGNjLUtQLVluM2xtVGk0OUZiY0NreEhjMmlIcl9YLUlfTEZOR1VNYUtsUWktd2p3VFhWOWNFb09hOWpBaWk2TzVzb0VYRUZwb1JEMFh5dEtXdnE4SFVVYlVHTEtuck50UWlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-21",
       "summary": "Fastly Launches AI Firewall and AI Runtime Control to Secure and Scale AI - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaldTeVAyLVFieTVWOHpzYkRmUEY3Y2hxel80MEZmejg3OWdIei1Mc2t2QUlZUEZ0SXZVVXg1RENDSFQxdWd3RER4V2t5UmExU2RtS3RJMmJtQ0p4ZTJoR2c3QUdnakQtaFQyZktpSkN3by1GVzA2d2x5d1dJX3Zna3o5MlFrWHZNajJWRnNUQWRyVUo0Uy1RS29aeVM0WUNyekZkVTQ4MnduZ3JIR3RGNkRHT1NqMVZNdmRuSUxmaEV6VkJuR0tBYXdB?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-07-30",
       "summary": "hires as new CEO",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDZ1FxRW16aUVXOEZ2MDFEaXB2eENSZUQ1a2hlX2d3OVd1MDdJaC1KTU5CY3pjSkdmTnAzYTJzMThkMUU1UE9NeTh1UVFocUtQdG5uc0xMRGlCQjcyc3M1OU5YYjMyZGdUQUNlU2RQOWp1NFNQRjNJMld2RTR4dFE?oc=5"

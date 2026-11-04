@@ -1,14 +1,14 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 16.0,
+  "score": 17.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.5,
+      "contribution": 3.3,
       "occurred_at": "2026-10-28",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/amplitude",
@@ -32,6 +32,26 @@
           "title": "Enterprise Account Executive",
           "posted_at": "2026-10-28",
           "url": "https://jobs.ashbyhq.com/amplitude/5ffa2512-3841-497a-9404-e99f54a1f4a3"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-04",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/amplitude",
+      "postings": [
+        {
+          "title": "Senior Customer Success Manager - DACH & North",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.ashbyhq.com/amplitude/6959cf25-c9f0-4d35-abf7-8fdaedf92695"
+        },
+        {
+          "title": "Senior Technical Success Manager, Emerging Enterprise - East",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.ashbyhq.com/amplitude/ecc98882-31dc-4720-920c-ed546d27ce1c"
         }
       ]
     },
@@ -93,14 +113,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-06-11",
       "summary": "Introducing zoning insights: Web intelligence at a glance",
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 47,
-  "long_open_roles": 7,
+  "open_postings": 50,
+  "long_open_roles": 6,
   "sources": {
     "ats": "ashby:amplitude",
     "edgar_cik": null,

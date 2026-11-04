@@ -1,13 +1,13 @@
 {
   "domain": "wafer.ai",
   "name": "Wafer",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 4.9,
+  "score": 4.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-01",
       "summary": "URSO launches Cookies and Cream protein wafer with 11g - Stack3d",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xOHZoSjVQT2xGb0tzRFZfRUdCbWZDamZFSmpoSVlIODQxSDN5YzJmSjdYRHpZR2JwTzNzSVN6UWZ5NzBSb2VYLWQxemdTZVVxa3dhWi1tVUFoZ01HRVA5Xw?oc=5"
@@ -34,7 +34,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FWamhELWhhem1aZXFhSDZvZVE0V3ViWDFkdEhNcUZtQzk2Q1ZqT1oxYU9qMFZZUXF1UjZWRjd6SHNIcUxXVkNIRmoxSFY4a3ZOWldDaVRCQVg3anV6WTgtTU9neldxZlc3Rm83Z1UyejNCVVJraDNpSVJHckRPOWJETFBKMUgzczNRZDhqcXhHaVBDc0FESjZzbExsWGt5dnc?oc=5"
     }
   ],
-  "open_postings": 3,
+  "open_postings": 4,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:wafer",

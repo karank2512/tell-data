@@ -1,10 +1,17 @@
 {
   "domain": "clutch.io",
   "name": "Clutch",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 2.3,
+  "score": 3.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Clutch Launches Review Enrichment for Faster, More Detailed Client Reviews - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTRKWG1iekxEd1hMckF0cm90dllGdjh3TTdDUTN2T1g5WDBPcy1MT05ZLXdDQk9SZ29YeXNqZ0l3MHZBMTFvX2t2SGk0VVc1SEdNZ0JrN2hjLUNHY1lIZDh2d0VYRXhMRzUyZlltVDlZRXA5Qmo3b0NWY2cyMjJ1S0hzYXg1dW5vdTdwamFYUXEtZjU3TzdmZ0psYTF5Z0p0VjUxRy0yNVhOQUE2eE13Slhzbk9YOVhlRmhDVmt2b3llRVhPTURsSVo1c0lnN1E?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

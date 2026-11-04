@@ -1,16 +1,44 @@
 {
   "domain": "joinspine.ai",
   "name": "Spine",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 10.6,
+  "score": 16.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-04",
+      "summary": "VB Spine Appoints [person] as New Chief Financial Officer",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaXJFVEZ3SldVYWhVSi1nV045bVNwMnZUck9QYUVjdXpjdGRlQ1BESmdRVnNLc0hQNGdUTkRzRWRTWFZWa05fam9hdmNVWV9EdGlRQmpsa2trM0hFQWthdFU4YmVfWHdIeHFIbU14dHdnVmlyMWUwZVBmWkRqdmR6QXlvWFVSWlRYMzByUWR1RWtCcVhmSUFrdll4RS1CUWlBT3ljUA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Bozeman Health Launches First Neurosurgery Program Bringing Brain and Advanced Spine Surgery to Bozeman and Southwest Montana - Three Forks Voice",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQR1RrREpDV0hJcGVkSkJvaElvM0x6UVd3M2lOU2xfMWJyOEpUdUVCOEo3aS13Rmhzem1OTnNoSG1MTlVBNlRPWjJLVm8tQUZhMUVQQVMyclozb3VmOGQxb2s0NFl6YmdRVUVlTlEybVh5cXVvblBwU05sRllBUjI3VEZMRDZ0WXVlN2ZfMml6c0x1MjJ6dWp5S0ZudC1MLVg2MkVrM1BWSG80MVl5V085X1JUUEtIMVAxMjNib1B1SDRWcFlUTkdZdl81dm9ITU9vWTVLYmM2SGZWNTVoOURscEZGMmt6emU4Um5UT3RZT1JtN0lxTXNDU2tlOHFPbW50Y1ZkdUgxOE9uUzcyd0UzV0N3ejF6eU1Y?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "All Reality Unveils A Sneak Peek Of The New Spine-Tingling Series, Snooki: The Paranormal Rookie - AMC Global Media",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNnQzRVVNYzlwb1lqLVZtcEhSd0F4dFRrNTRmZUpNaWpVdzVwWkdTSW1lVHk3WlJKYk5LNGsydUg2Z2oxWXNWX2s2WDl0X20wRS1SbUlEX2NjZDdCVm9EZGFsMF9tV3UtMDNQTXNqVUlEUk52U19jRjQwVHZvb18zMjZUR3hYU29ZNzZ3WWxVX1VuNEcxVWNkMWlJMWNwWlJscHhkTzk5RXMtOWdXN3RDQWV3eUNYZHdXOEFtNVFUQUpWSDAtdlhmXzhmNm5acFJrYmhj?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-10-31",
       "summary": "Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures & Three-Picture Horror Slate Read more below. - Facebook",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOW9lYV9fa3lXNTBCTnZDZzczX1pOeS1mS3c2TF84VDVpVktVaVNhLU5ibnlqRUxINXRmeXFCbTBSbkNuOE5SM1c0U3h4NkdueVRzLUNBbGFBZHhEYXlKR1JIRlRKYjVWemkxQ3p3QVJ3cjdyeFNRVWJKZk1oVzFRX3VCZEMzeDY3dkZfYzFWZmFsdlZtVVoyS0d3Q21fbzE2c0VOM3NzVk5WTjhUdnFzN3ZzcERZM0hJdU5Edjgydjk3aXhoMFRWT1N3Z3JNb2k5SXdhUw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-31",
+      "summary": "Dubai-Based Director Faisal Hashmi Launches Spine Drop Pictures & Inaugural Horror Slate - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hdndKSzdiZEg2LXlrakRhUUNvR0R4SFE0UnVneTFVeXItbDI4RmRuNWVoOHJzUjlxRkNmMTJxTm9MTUZxWFRqbFpuZ1dRODZtc3N0ZENEdEpweUwwcklpVlNn?oc=5"
     },
     {
       "type": "launch",
@@ -35,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-17",
       "summary": "Globus Medical (GMED) Unveils New Spine Platforms Following A Narrative Of Undervaluation - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ2lWTHlGR1hCbzAyckE1ckxnYzlzeEpYUGtrcHZRTGNjMXBmT2dJRnRtM1ZmN2t2VkoyWHVrYXNIZ3FsSzJvRlNGZ3NpZGdrdGpLVUVBMG9vWGJlWUpNTExORGhoTnZqVUJ3V2M2VUxjbktCc1ROYW0yOUNpZHdfOE5mZlk1ZzlRWUFXU2NiQ2VTb3Vrby12TlI1LV92VEF0WkJFMnZiV0E5YWNzcUJrTU9PbTczRFFybVdONERyN09jWkdPTlJZRGNDaUfSAdIBQVVfeXFMUHF0RlA0bFdXZTAzT0Y0UW5RejFmSWFFakNYZzBqOGhqNVlIaGpvY21BZkYwSFdBUWFGVDYxUk1pUjJuWFlqLWc5Q3Z0c3RKWTVzS2hSMHA3WjJtbTVGTVByZEpnVWZfY3AzRDN6dVJBNHpmZ213UE9RT1kwWW5XWnBDN0xkZUFXdWlJbXBaQTduMlRtamgteWpqRHlHVVdwYzdpT2owRVVCRXBtLU55LTRYdTlpeXY1UlpUcmFmNnFLX0NoaFA1dkh3dF9VampUYUln?oc=5"
@@ -56,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Former spine surgeon launches app to build skills for a happier life - Pressat.co.uk",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDZLamJmdnFNM1B5R0hHanlLdkdwZXMyRWZzZHNhRnpOcHg5NFhsQTRSNTZjd3BLU1JNbFV5c2hfVFQ1ZnBCNFhWdEFLV2dxaTVsWkdYTG9lbkcybExpNms4T2hNUzdsalBnalhmamVOWVV4U3NaXy01TmVEZUotUENqTEl3d012ZklQaDdfWU96NkR2ZkUzVWxkZVFab3hkemE4UHRlRjltNERnUmRQX1ZxQThyZFg5cndvWk1iUXBVSWhqdEJhSnVXZXdsZw?oc=5"

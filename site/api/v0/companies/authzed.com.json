@@ -1,7 +1,7 @@
 {
   "domain": "authzed.com",
   "name": "authzed",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
   "score": 0.3,
   "contributions": [
@@ -21,12 +21,5 @@
     "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
-  "why_not_higher": [
-    {
-      "type": "launch",
-      "decayed_at": "2026-10-05",
-      "url": "https://authzed.com/blog/spicedb-dev-and-spicebox-add-permissions-for-ai-coding-agents",
-      "summary": "Introducing SpiceBox and spicedb-dev"
-    }
-  ]
+  "why_not_higher": []
 }

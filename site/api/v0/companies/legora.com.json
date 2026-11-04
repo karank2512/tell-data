@@ -1,14 +1,14 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 13.6,
+  "score": 14.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-21",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -51,14 +51,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Legora Launches AI Agentic Operating System for Legal Work - The Chenab Times",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGF0S0tLUG9lRXVFd1pzeklaaTY2eFV5Q0JOZ3llZU5UMTQxVm4tOTFSQmg4M3VZUVU2d24zZFhqNnJmRzJhMFFKQ1lyUjA2eGNMWFpUb0s4UVpWVFF1Wm1hVk1nYVRoT2hkcTdibTdVSm9iQlBWT3VJUHRod202RlF0WHIxTFE2UlB0bjhHaDBlbTMwOXF3am5ycUx6NUVjT0VpUkU3ZTNSeGo1bHVBc193bnE5NDlFRTZiVHhBdFRad9IBwgFBVV95cUxNNGF0S0tLUG9lRXVFd1pzeklaaTY2eFV5Q0JOZ3llZU5UMTQxVm4tOTFSQmg4M3VZUVU2d24zZFhqNnJmRzJhMFFKQ1lyUjA2eGNMWFpUb0s4UVpWVFF1Wm1hVk1nYVRoT2hkcTdibTdVSm9iQlBWT3VJUHRod202RlF0WHIxTFE2UlB0bjhHaDBlbTMwOXF3am5ycUx6NUVjT0VpUkU3ZTNSeGo1bHVBc193bnE5NDlFRTZiVHhBdFRadw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-23",
       "summary": "Legaltech Rundown: Goodwin Launches AI Governance Program, Legora Announces Integrations With iManage, Blue J and More - Law.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQkdLNVZiam03YjZZbGFOX1VYVnJheHRISmJnNlVWenpUZVFOUEo5QzJNeWZmOElTcnlsS2JwUUR2T3B6bDFTc3hEdWVIOFl6T2k0NFpCTHlhblRTRWVuVmZnS01LQnE3M01FUGdXdHY5blBOeEFRTkRPWGZNS1BuU3hzQjVtTUQxQ0Q3SHkycHNYSVJEWmNEbEJxQWZEQ1FaODFnU0xFOEJ3ZGJyb2ZvbnBkR01OdlpNRGxXakc0bTgxekJPNVNrcGoxOEpOaHZaOWlNNU5oZkpWaXFCVHhXYWlHeWJrd2JWSkU4MUFxMDNwcDA?oc=5"
@@ -93,6 +93,31 @@
     },
     {
       "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-04",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/legora",
+      "postings": [
+        {
+          "title": "Engineering Manager",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/legora/31c4ef70-35ea-487d-8dd1-a0a7db074807"
+        },
+        {
+          "title": "Engineering Manager - Product Engineering",
+          "posted_at": "2026-10-30",
+          "url": "https://jobs.ashbyhq.com/legora/8b9abbb8-4cc8-423d-bfbe-7dba8e09750b"
+        },
+        {
+          "title": "Infrastructure Engineer - Cloud Foundations",
+          "posted_at": "2026-11-04",
+          "url": "https://jobs.ashbyhq.com/legora/c489f707-237c-42bf-b0e6-2121da652251"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "finance_ops",
       "contribution": 0.7,
       "occurred_at": "2026-10-21",
@@ -117,7 +142,7 @@
       ]
     }
   ],
-  "open_postings": 310,
+  "open_postings": 313,
   "long_open_roles": 105,
   "sources": {
     "ats": "ashby:legora",

@@ -1,10 +1,24 @@
 {
   "domain": "loom.com",
   "name": "Loom",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 1.2,
+  "score": 4.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-03",
+      "summary": "hires [person]",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcG4wY3BWQUtKcDdQT1BVY0FxOVhONXd6QWktRUFnNjgwaC1hMDdSSzkzdnFaNnlJeE9kT0NScTlrR1p3Z0pmcWtMTlA1Ujg4TGRiYzhkN0hZcHVCNmZicTRqRDloY3FraTFvQlJIRG93eFJCSU5VMHZBYnNzbzdtN3RyeDFrczhzU1ViS3ItMlliOTYxVXZaZzBXRXYxakdJYVZ0ZQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "WVSSAC releases Week 10 high school football rankings as playoffs loom - WCHS",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2QyTGZMdnZpZ3hPTVRGOF9ndzRkamZRbno1Ml9fV1ZSSVB0N0xpMkNSMTdHQl9RZ2pLTjV0ZENVTFRjYmZzZDRiVVJTc3pkM2wzZTJUaUJob05udnJ2TnBNU25fOE1jN25rV3dDeTNIQ0pEa3lYaTQ0R2tQZUZOVmlWMkdMenBKb0c0Z0lkc0RxejlGNW1BSGU0OFE1SGpYRlVGeDVSZlJwSnc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

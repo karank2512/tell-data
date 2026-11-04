@@ -1,10 +1,35 @@
 {
   "domain": "ziphq.com",
   "name": "Zip",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 0.9,
+  "score": 3.9,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-11-04",
+      "summary": "3 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/zip",
+      "postings": [
+        {
+          "title": "Enterprise Account Executive",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/zip/6f55c3e1-5e6d-495c-8d7c-dcd7782067db"
+        },
+        {
+          "title": "Strategic Account Executive",
+          "posted_at": "2026-11-02",
+          "url": "https://jobs.ashbyhq.com/zip/48f4d775-b6ab-44df-8f21-6e709181a85e"
+        },
+        {
+          "title": "Senior Sales Programs Manager",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.ashbyhq.com/zip/83b90a10-2513-4239-9f70-17e980fec9ad"
+        }
+      ]
+    },
     {
       "type": "expansion",
       "contribution": 0.9,
@@ -14,7 +39,7 @@
     }
   ],
   "open_postings": 101,
-  "long_open_roles": 36,
+  "long_open_roles": 38,
   "sources": {
     "ats": "ashby:zip",
     "edgar_cik": null,

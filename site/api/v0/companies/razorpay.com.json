@@ -1,12 +1,33 @@
 {
   "domain": "razorpay.com",
   "name": "Razorpay",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 29,
-  "long_open_roles": 2,
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-04",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/razorpaysoftwareprivatelimited",
+      "postings": [
+        {
+          "title": "Associate, SME Sales",
+          "posted_at": "2026-10-29",
+          "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005"
+        },
+        {
+          "title": "Associate Manager, Startup Hunting",
+          "posted_at": "2026-11-04",
+          "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4747985005"
+        }
+      ]
+    }
+  ],
+  "open_postings": 28,
+  "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:razorpaysoftwareprivatelimited",
     "edgar_cik": null,

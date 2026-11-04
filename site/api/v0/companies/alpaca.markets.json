@@ -1,9 +1,9 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 37.9,
+  "score": 37.4,
   "contributions": [
     {
       "type": "funding",
@@ -14,14 +14,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-29",
       "summary": "[person] Joins JPMorgan and [person] as US Settlement Hub Starts Tokenizing Stocks",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTERFcTVGT2htRXBFNmJqNGZ5YkJSbUpMZFZNZHY3R2pHT1phQXFDN3R1ZmdQWTVRZFl6LTZ2eUpCTXFudmJYMW85akJFNldsZDNJLVhiNEFKRndGUEJmQ0pmY1NpZVFSR1I4THhlb205U2pGY1I5eUxkWnFrS0VCM0ZqQXBoU21aNmh0eks3QUtsQU8tX0xIMHpnaTlVY3VXVjd4RW92SXo3UGliTEdkeEUycTRMZjdfR0tWNmlhTkhRNXpRY0VKdA?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-29",
       "summary": "[person] joins the launch of the DTCC Tokenization Service as one of the first broker partners",
       "url": "https://alpaca.markets/blog/alpaca-joins-launch-of-dtcc-tokenization-service/"
@@ -112,14 +112,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdmNnN1ZPcERYODVXV1U0SmlhaHJFYXBLZVZQWFdLNzFxa2hVbXlwN2sySU51dVhLT0x0VVRBTGRiSFJfcmtMWl9tZXhpOExVdmxkVzc5bzhiUjhuOTh1WkNvUGRaRlpsSWhfa3JpdjVsc21mbHNwUVl3T1hiRTc5dm9TR1ZCM29ITmdNUHVnOWNKMFJHdnl4UlJTaGpFZksyOE5MT1RrX090SHdCOFVWTE5BRC0zdzZGVmlpbzludW1IMFR3cUFwdFk0Ymp3QmlhY2hNWnZoZHlYbVltUkR1Zy1VaVU1Mk5RV25wNDdMY0ExUnVBcnVlLTFTYk5jVFgwTmFkR3JIQzhpSlVoNmRfS3dyenFwT2M?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYmh6TC12Ujh6akRQZmNUcmVZckVMMnlJNUhvQVpJTHBZWVdNdmMxTFBlREljQVhKTjFnVGxMejhQR2JtYmNLYkQyWHdhS04tbjA4Tml1dm5SQmRKOVduYTd4Y1pqM09COGtJZVFCelg3M1lqTVdtR3FxR0gtaDVVMzFnblYzZnFmRU5SMU43TmhpY3AzYlJ6U1l4eDZOUTRQS2JQS0JmOWgxcTN3QXhxVDkzc0x0UzNENzZFZ3I5SXcyRGlLM3lLRk95bHcyMEtSNV9maVJubnJibGMydVBhSk1PdzNVT1Q2cml0c29pNA?oc=5"
@@ -179,7 +179,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-09-01",
       "summary": "Binance Launches US Options with Alpaca to Expand Multi-Asset Super App",
       "url": "https://alpaca.markets/blog/binance-launches-us-options-with-alpaca-to-expand-multi-asset-super-app/"
@@ -206,7 +206,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
     }
   ],
-  "open_postings": 73,
+  "open_postings": 72,
   "long_open_roles": 16,
   "sources": {
     "ats": "greenhouse:alpaca",

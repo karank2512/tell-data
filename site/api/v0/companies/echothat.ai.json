@@ -1,13 +1,13 @@
 {
   "domain": "echothat.ai",
   "name": "Echo",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 50.3,
+  "score": 51.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.9,
+      "contribution": 10.8,
       "occurred_at": "2026-10-09",
       "summary": "Form D: $2,132 offering, $2,132 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1773838/000106299326005252/"
@@ -46,6 +46,13 @@
       "occurred_at": "2026-10-29",
       "summary": "Amazon launches the Echo Show 16, Echo Time, Alexa Photo Frame, and new Echo speakers - GSMArena.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOenlNVFQwakRzRk9URmJzTl9rZlI2RjlaUDNSNmI0M3g3QnZuNFJsVTRSX2NvSjlDS1BjV2tkZnFqVE0wVVpVVW52ZDlCQWRSMG9sNWVLY3BSdGZ6N0ZvTjR6N2w3U21DanZlZUdGYjBqN2gxYXZza1dnakV4S1BvOG9UYzdWRURrMkdQSWVQYlVmTE1TQjhQWkpxUHByRVZXc1RiZWJxY0tqVGRud3hCdVVSelNnMjNkMWRNaEUtaw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-10-29",
+      "summary": "Amazon launches the Echo Show 16, Echo Time, Alexa Photo Frame, and new Echo speakers - GSMArena.com news - GSMArena.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOenlNVFQwakRzRk9URmJzTl9rZlI2RjlaUDNSNmI0M3g3QnZuNFJsVTRSX2NvSjlDS1BjV2tkZnFqVE0wVVpVVW52ZDlCQWRSMG9sNWVLY3BSdGZ6N0ZvTjR6N2w3U21DanZlZUdGYjBqN2gxYXZza1dnakV4S1BvOG9UYzdWRURrMkdQSWVQYlVmTE1TQjhQWkpxUHByRVZXc1RiZWJxY0tqVGRud3hCdVVSelNnMjNkMWRNaEUta9IBuwFBVV95cUxOTHlQQW9XNmZSS0pVcjJoejVzQlY5amlXZDFGbDhWT2tBMXlSMXIwLVoxWVk3cHhTNXJpQXhqR0k2dV9XUkIxSVJNWWZuVDlLaE1yTFEzYm9PZ0JfZ0x3RHU4RFczS2hydHlET3Z3RmVJVFlaNW5pTkllTUw3Q1ZMdDE2SDlEZTY1eTVVSlhSZG5TMC1sdW1JUDdPUXlfZXMzMVRpejNnRElCYktMWnd1cjREWFBmcHQxV0JJ?oc=5"
     },
     {
       "type": "launch",
@@ -91,42 +98,42 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Amazon Unveils $500 Echo Show 16 With Anti-Glare Nanomatte Screen - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRTQ0Z3NwbjBoNERkX3ZlaE5HdWhSZjV3OHdUSEJmM3RJd1p0eFlMYTlRNWdkNEZFLTc2T21fWElVMk5aOUUzVHBFdHdDbTZadkc0OWp5NmVVczdQcm9lVlAxTGZ5ODg4WmFqYXJ3R2dSWDZ3VGc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Amazon Launches Alexa Photo Frame and Four New Echo Devices - Gadget Review",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0MtTS1ETVhXc29nLW9sbWVEckViX1I3M3U4T2Zna0YwNEM3Q19VMzkyajdwQURfcGt4R0JnTm50V21ya29Ld1pyOGxCUUVRVkpjV2p3eEV5SXpxLWY1c3FZb256NWNPemladVY4MEZ5RHJsMnpYWnI4OHFMVlZUTjU1QS1TU3kzYlBNZVZkSTdZQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Amazon introduces Echo Time, a smarter way to start and end your day - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUY05RUy1mRmo3WVcyMmp1VDVMQ0NWei1WczhDTzUyZzR3czhudWU4OGV3UUstY3c2OFdjaVJlM0J4VUtid1VnSnVNbmF6YkMxcGV5VFE1WDhhaFBHeXRINDR0d1R2dTlOTTlsUmY3cl9FLTJpbnpJ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Amazon unveils new lineup of Alexa devices including redesigned Echo Show - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWNGZUlvRHlNNjBxNE5PR2Z4OWxPS2E1ZWtJZTFFRFJTUS0wcmxMM3JOTVFVMTNpTXNBd1ljbGYydC04T042aFJkbzlpQWMxXzhkVXRycFhXUzBrNWZJM2JHX2NKeVBBUi1FTW40STdzWGNjdTk4VnZTZmUyajVxYlJ3X0dNS0JzLXhDMDFMdmpxSm9YUVhTZ2I2eDBCTE01clVCa2xKTXY3NlY1MlJtd2VDbFh4R2xm?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Amazon Unveils Echo Time: A Smarter Alarm Clock - SQ Magazine",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EYk1TRmJyaFJ5Wkh1dE5xQWJEVi1ib3dYaml2RU9WY1pQem1COXVScG03NWdEWG44cThNbktGYXRvZXRoU1pBWmFvVlBpU1dLMWhfdlNwMzh3ajRYVkh1Vll5S21fU1QzbG8zTWd3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3JRTElUWVRpVHFYeURxenBkSHZDVU85NnhneFctbDJoZ3lrS1JRNlZQeWo2bE1OZ0hUbDNWaFVXbDNkRVlSVXk2LXdxZXdTbm9vdWV1VDMzT2lLdy14ZXhlbUF1OTFsUnFSNk9TVmdrYXJNWFdUdlFpN085aHV5NGVMWm5iSmRxT0dBZGdYV0RVRXRUZmU5TXZ2UDBvMEdLSlF4dnVwcllnUkk0aWY1a1lLdV8wdWZLaGI1eFpFOUZ5QQ?oc=5"

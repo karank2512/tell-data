@@ -1,16 +1,24 @@
 {
   "domain": "observe.ai",
   "name": "Observe.AI",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Observe.AI Launches Headless Companion Agent to Bring Real-Time Guidance & Automation Into CX Agent's Desktop - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeUN5bzhYSGhMU1ZIV0ZYQndPcmU1T3VVbVM0MndPNDF6b0N1cHJhWWhTU29xejNzd2hya3Y2WHpyVGRBd01Eci1FaXVQcjVMRnZIeHEwR3Z0YlFDNTVnWVdNYWt3QWpuLW8zUzNaaVphUDhPQklLNGszalRHMkRpWlRlR0xmYVBnTDlFUlQ4S1pwOUhWNWpzTldEV2pPRThnN2t6Ui1tQm44ZkZ4czQ0MmxCeVRhc2IwYkxFd3pwTWREYXVieGJWdGt4MVRLOFQxbm5xT1M4a1EwLXhXR1NaUVJGSHZfUHRjWVFvQWVnOEd2REpW?oc=5"
+    }
+  ],
   "open_postings": 10,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:observeai",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []

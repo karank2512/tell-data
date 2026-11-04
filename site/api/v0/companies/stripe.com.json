@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 22.8,
+  "score": 25.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.8,
+      "contribution": 2.7,
       "occurred_at": "2026-10-31",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -83,13 +83,27 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Stripe launches Stripe Pay for B2B transfers in USD, GBP and USDC - IBS Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnMzdXA3Rjl5ejZRMjZlM180bjk2OWFLRVBnRHN6WnNVTXJwamdkUHJHRzdLT1kxODZrNmhyZDJ6N1pJb2pOajlOOHFqNHYwaXdCWUpQckUzUy1vbl9yQWktSzJtNERHV0tHeXRLcnZQMVlTLTJ5cEhDUVpGTzV5OUxEM3k4T1dIUlZVUGVCNGhibHU2dGlyUWdlTEQxVW84SFFablVB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "ServiceNow launches AI governance alliance with Stripe and OpenAI - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNFpabFZ2c1FaVmtDTzdiMnRHQl9QRzNHMFdLQ0VhOFhjSWZEWlYzd3ROaXBoc0dFOGR0b0htOXNMQmlHZjkzS0o3N183aUJsck5WQVlnb0xsXzVOSDFUODNxODZWbkN4SklhX3dwbWg4SEc0UnYxMjFKc0FhV2JFWV9DN3owNlZyY2FRRmNPTG9ZVGZiU1hvdnFJVzdvU1RkLTRn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Stripe Pay Launches Instant Business Transfers in US and UK - FintechNews CH",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDRnUnk3cEhuVWk3eHlzNHcxckdPaTBBdjYtakhvRFRjcE5vY1cyZTNER1lNNGs4bHBLaUZudkJlVlNiWnlza3FMREpxQjlnbFIyTEZHU3VUVFhma2NyMlZuU2NpcGFNaGVGX1BSeWJXUkg5OE9Ya1lyOUpmMVk1d0p3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Stripe Unveils B2B Payments that Mirror the P2P Experience - PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2swYzg0T29KaG5GZ3dsTkZfSHl3bzN0Yjg3ZFhqMTlxdjk4emloS3FabDA3NTBra2lzRWsxZXg1OEZsQXFwRUY1NElhMGxVamVINEJQdjhia01kSjMtZU5DZzZETUhjNExtdzZ1VzcwOVN0RTZSU3ZnT1NMSElvZ0xYcXY2QVh1OG1aaXFHc2hIZG8yVkHSAZsBQVVfeXFMTjJnOEFxV3lQaTI2OWdZMlZBcjJLU3VsZm1iUWxMVjMwSDA3ZDJvMlFES3dPdVlRQmkxRDl3Wk1iZ21GQWxmUWxkUy1GdGhLOVlyZjNEc3NrLUtDVVFCVlBhQTN3LWQ5SGxyZ243ckstZFNPODhVMHU5S3VwdU1GSFNHbHBiOTIycGZqRVZnY3BWaWYyYlBpU2xoVTg?oc=5"
@@ -270,8 +284,8 @@
       ]
     }
   ],
-  "open_postings": 761,
-  "long_open_roles": 199,
+  "open_postings": 769,
+  "long_open_roles": 196,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

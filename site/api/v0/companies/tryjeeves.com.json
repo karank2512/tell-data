@@ -1,10 +1,30 @@
 {
   "domain": "tryjeeves.com",
   "name": "Jeeves",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 1.1,
+  "score": 3.1,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-04",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.lever.co/tryjeeves",
+      "postings": [
+        {
+          "title": "Cross Border Payments Sales Executive",
+          "posted_at": "2026-11-01",
+          "url": "https://jobs.lever.co/tryjeeves/f9c3e60a-ea00-499c-ab4e-0757ec2246a0"
+        },
+        {
+          "title": "Solutions Engineer",
+          "posted_at": "2026-11-04",
+          "url": "https://jobs.lever.co/tryjeeves/b878a931-e262-4648-96b0-cb09770c1c85"
+        }
+      ]
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -13,8 +33,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZmSi1nMmVZRW9qa3NESVpXUUlJaU92aE9ZSmtMNUU4TE1PMGxQbnNLT3lGYnhZSkl0SkxuMTFyLWNLeVlBQ3JWNEY0VTRDSEFnRHJzQTlQYkNWOElXbmRmbG52VnRVUzVWWlEtUFpmbV9ldGU2cDY4elBqYzMxLXRQRFplU2N0azBrbkRMeFM3Wm12aUpwWk1YZjZ3Q01m?oc=5"
     }
   ],
-  "open_postings": 72,
-  "long_open_roles": 46,
+  "open_postings": 74,
+  "long_open_roles": 47,
   "sources": {
     "ats": "lever:tryjeeves",
     "edgar_cik": null,

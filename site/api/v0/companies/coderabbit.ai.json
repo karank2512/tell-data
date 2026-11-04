@@ -1,13 +1,13 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 19.1,
+  "score": 18.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.0,
+      "contribution": 16.9,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
@@ -39,16 +39,9 @@
       "occurred_at": "2026-05-13",
       "summary": "Introducing Change Stack: The first AI-native code review interface",
       "url": "https://coderabbit.ai/blog/introducing-change-stack-the-first-ai-native-code-review-interface"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.1,
-      "occurred_at": "2026-05-08",
-      "summary": "Introducing CodeRabbit Reverse Tunnel: AI code review for private-network enterprises",
-      "url": "https://coderabbit.ai/blog/introducing-coderabbit-reverse-tunnel"
     }
   ],
-  "open_postings": 45,
+  "open_postings": 46,
   "long_open_roles": 19,
   "sources": {
     "ats": "ashby:coderabbit",
@@ -57,6 +50,12 @@
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-11-04",
+      "url": "https://coderabbit.ai/blog/introducing-coderabbit-reverse-tunnel",
+      "summary": "Introducing CodeRabbit Reverse Tunnel: AI code review for private-network enterprises"
+    },
     {
       "type": "launch",
       "decayed_at": "2026-10-12",

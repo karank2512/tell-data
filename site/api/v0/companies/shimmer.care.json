@@ -1,10 +1,17 @@
 {
   "domain": "shimmer.care",
   "name": "Shimmer",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 1.1,
+  "score": 2.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-01",
+      "summary": "Vaseline Introduces Its New Shimmer Body Oils At Lakmé Fashion Week - MissMalini",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVdoLS1aNU43SHBrN3NTMk1NaEdUcGJ2UGVtakY3TUdnaC1IenloLXpYWnBTNzdLVzUzcl9LOE5OaE9wcG5nRnhhZEVEWHU0RUpkNUJLMVk0am12eE00SjJIQmtVa0hhU2k1RXQtVldBYlpRYWZxQndjb0ptY2p3MEM2c3RwSnlzXzY0a2ZUWUJhdG5mSFZaODdn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

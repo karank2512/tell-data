@@ -1,7 +1,7 @@
 {
   "domain": "vitalize.care",
   "name": "Vitalize",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
   "score": 1.5,
   "contributions": [
@@ -26,7 +26,7 @@
       ]
     }
   ],
-  "open_postings": 20,
+  "open_postings": 22,
   "long_open_roles": 2,
   "sources": {
     "ats": "ashby:vitalize",

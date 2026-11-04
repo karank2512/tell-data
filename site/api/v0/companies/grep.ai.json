@@ -1,13 +1,13 @@
 {
   "domain": "grep.ai",
   "name": "Grep AI",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 6.4,
+  "score": 6.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Introducing Grep AI Swarms: Teams of Agents for Work",
       "url": "https://grep.ai/blog/introducing-grep-ai-swarms"

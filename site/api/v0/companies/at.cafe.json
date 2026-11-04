@@ -1,13 +1,20 @@
 {
   "domain": "at.cafe",
   "name": "Café",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 12.2,
+  "score": 13.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "SharkNinja Unveils Ninja Luxe™ Café Pro Espresso Machine by Jonathan Adler - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnJMT2paN0xUNzkzTkF2ZUpBYnZFT3lOTDM5MllWQVRYZ3ZJWFozSnd3akIyeFRIbzJ5ZTBDVXVibk9VeGtMM051ZEZSemhrNE1VcTRxVDJZSFhybDVoakVYM2RTbzBzV1FCdGNqd0FBdEZ1NFRaWUhTb3lBemhpVFVDZWtpYTdhQ3Jab290XzlzRnIxWHJKRlZDRVdYMDB5WW1nTzgwVVQzMlNXZmtISG9ja2F3Um5hZU9CN0dVdVBadHNhMEt1eA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "The Roosevelt New Orleans unveils new café concept - Boutique Hotelier USA",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdFFEdDV2bWU0RTFpaG00Vi1sODl3dENpVDlqei14M1NDV0drY1BPLUFJaTBHVV90LU5Ub3BHWGR0WG9ZU2lVd1JOandsQVpGMUpMTkw3Vll0WkZmTVNIX3E0TThGeFJIazFidHgzcHJ6Wm9XMEx6V29iRGJhWEF6bUY4YWR6dGhZNUtaYg?oc=5"
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Taco Bell’s Live Más Café debuts in the Midwest - Nation’s Restaurant News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2hhcGVKLXQzeTFEUEpzT1dRU3MwZ0hPWllFWjBlVTlVMXhUZ3p4dUoxQ1FPWGNJYzVkYWpPRnJ0UVV4UFY5SGQ5RmFCdHpfWS1ucTBhUGltUFc4blJqYUR6TEpLcEJoUXUtbkNndXh5UVRKdlQyX0k2LWlDa3FDMVo4QTBEcjQ?oc=5"

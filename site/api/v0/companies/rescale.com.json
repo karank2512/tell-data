@@ -1,14 +1,14 @@
 {
   "domain": "rescale.com",
   "name": "Rescale",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-11-03",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/rescale",
@@ -31,7 +31,7 @@
       ]
     }
   ],
-  "open_postings": 20,
+  "open_postings": 19,
   "long_open_roles": 9,
   "sources": {
     "ats": "ashby:rescale",

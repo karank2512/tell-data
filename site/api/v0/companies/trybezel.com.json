@@ -1,10 +1,17 @@
 {
   "domain": "trybezel.com",
   "name": "Bezel",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Casio launches new G-Shock GBM-2100LXB-1A2 watch with blacked-out steel bezel & solar charging - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeWg2WHUtVXRwWWdINEU3V25Kcld3TGVjX3J0a1BTYUM5dUF0bFJMZDh5bDA3VnhOUzl3b3JEVkFfNzJHWkc3bnNLX2JzTlVJRV9jaWZKdGFoNVdvc3BzQWVEeXZ1cHRUbnRENmowbTR0eExzamZWWVpOZE12clZ3aW9RM29aOWdEbGZCbGZraVF1Y2s?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

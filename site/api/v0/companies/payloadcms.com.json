@@ -1,16 +1,37 @@
 {
   "domain": "payloadcms.com",
   "name": "Payload",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 40.4,
+  "score": 44.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.1,
+      "contribution": 11.0,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "EHang Unveils EH216-EK High-Payload Firefighting eVTOL, Expanding Multi-Scenario Emergency Response Portfolio - Quantisnow",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRXlCWXNPdGJDOG93Q3lmd1lubWdvUXl5VGc3Z0FYYTdydUtaeWRhN2hNNHdrUkNKQWRlY0pSM3pDVU1EaHJld0ZtaUpBWEtQMVlWMk1UenZlM0NyOVY2dUlKaFpOTGR4c3gwbm5Cd3NVckxOdHpZMTg2azNEUXBXbkNZWV9oVWRKWlVZZnVNWkJWOXMya245OWF0MHpnT0pKRmVOMGwwdEpZSVgtUXBZaFZ6OXZ0Y08wLUV2RTZwODdKTFlzWnNBdXlzRzVsQmk4TXBB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "EHang unveils EH216-EK firefighting eVTOL with 160kg payload - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGJ4dkRJeVJFaHlnMEtSb3R0VkdMbUEzTEk0Yk1fejE1eF91QlM3WlY3V0RscnFtb3FySjNmVC0wbHZfSTBuWVp5ZlhQR29QVWotN1B4Z3p3cFJvZkZDSFptQjY4UXlObnotRk8wSElTaVhoa3FLUDNndGs4YU9WazZCYWNrVWVWc2N2OXI3UHFoWXEzQ25kX0VKMlNtTmZfU0t0R0JQd1VwR2J1WUs4OXpMNUx4SkljT3Rz?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "Türkiye’s MKE Debuts PIRANA Armed USV Variant with Drone Payload - Naval News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVZfaF9lcEdmSFFYU1NnZzRxUVlqclZnUnlJaTc5b2VCYWdwMG4yUExPNTR6RDJVTXR1V3VmVnFOODJvY0VQVl9EMy1mbkZpbldvQmRMWk13ZUltenUyTWlmX0FpUktYQ0V0dFlqTnB1ZW54aUUzeDUzM2VQQ0ZuRGtqX2l5ZUxKSWZLQ1V0aEZlclNwUEdOR2tuYmtPVVhJQ2xJWmVlTUVvSGVkQ2k5emdicFR0WmRWWktkeWV0bVM0UQ?oc=5"
     },
     {
       "type": "launch",
@@ -21,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Hua Eagle Aviation Rolls Out First Production HE-1A, a 4-Tonne Cargo Drone With 2-Tonne Payload - Pandaily",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbTBWQTdKTEZXd0N5WmRhSnlNUjJBWWE4cFpaTS1XT0EwWTB1VnVaaHo5ZGNzcUpFdk1zZjJLN0E0WWNjYWFCWHZQSmlKd0hDZnNXU2t4akpJMTdjd0RkODgwb2tBXzdWemI2OTcwcW9CY3N5XzRYT3lhaURZeWpwNldGaFVjVnZOS0NtN0JpSEh0WWs?oc=5"
@@ -84,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-18",
       "summary": "WarpAstron Launches WD-20E: 30kg Payload in a 5.7kg Mount - DIY Photography",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWEZXZ3BqdHhvekQxNzdDNjVEUVZNTjh6ZlMzc2RZeTRNUEhvTzVlVnZoWUhYa3k0R1FfN2V2U1MyVnJBenFyU2ltOC02MkxpaGpCc0VlblBLZ3JXN2NLTTFrRnJYSXpVUDZ3ZUhFR2lKbnBseDI3R1NHWEVhUDVVbjlUM19KcjdpcGZ5V0E3ajl1Zw?oc=5"
@@ -140,21 +161,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Sikorsky unveils Black Hawk Next upgrade with more range and payload - Air Data News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1RmekV3UGNyZEJQNDJIb1kzREJkX1M1Nkg3bFdycFhLSy1INFlETm9mWlVJWWFIc242UGJtVXlOd3BHZWFadXUzN1dPSW54VlcyMzhSdWNBaVE4QktCN0pzcjEwYlJsY0tsR21vNm1nM044ald0VDFDZnoxWDBUcW9EWG5BVmJURWRBYWEyUjAwY3hsZF9ZRzRRREQ4UQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-12",
       "summary": "China debuts heavy-duty wheeled humanoid and 110-pound-payload cobot - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSl8ybjcxcGs0NGNVVGt5RlYxcHIycjdNX1ltRHg0ZWFLQ2w1ckZja0FkYzJvUWVPOTFDYy1GY1A3NlVXU3BoUjB5N2VsM3Z6ZEZVV1ZneU9OV2ZOaVZDaVJDeDhrUDZ0MHdERHZrOHhWcjlBWTlpcmNqMk9Bd2dxN1NYaXZsenpTUmdMbVgzZDMyd2IxalRaMHJFSXBiU1E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-12",
       "summary": "Microcon Vision unveils MICRO-D laser-designator payload; initial orders secured - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXd2cWVqbXZqWDJTUlVzZWVTblF2dHRfcDE4V04yb0hQVEtTQ2NmYVNHZVVpaFQyME0zc1RoNjNXWVJNUFcyWnQtbzI5OGwzX3BieF9lY05IMmNiamRWN2xZdGI3VWplRTBadU50YlowMW9VZnYwWmpfTVVtVGZXTWp1dGVHeE1Id0EtdDhkVWdTQVhSLXowMzIxWm5GVHlib0ZTNUVXbmlENzJ4MDF2SVg5bw?oc=5"

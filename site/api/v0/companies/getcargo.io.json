@@ -1,10 +1,17 @@
 {
   "domain": "getcargo.io",
   "name": "Cargo",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 19.2,
+  "score": 22.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-04",
+      "summary": "Singapore Airlines appoints [person] to handle cargo at Western Sydney",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeG9VVVhzVGJFSnozeVZQTThfdWNyb0NnSmFBQWk4SzV3OUVBY1JqWGFZT2ZhYUQycWdSMklUVHNmc21FZ3puMnVCWlUtVmR5OVB0LWNXa1JPWnRTNDJfRkJKU29qY2pCTGVVaHFWa3h3Nkl6QnJBVjZOb3JER1JfeDRtQ0lPXzJTNW9CbVBPdVRvN1JDeVpQUVpRRTlobEk0SDRMaS0xclNKVlNFQmJCV3ZrUkxXcjRmOXZRUWpRbw?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
@@ -21,21 +28,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Maxwell Aircraft unveils amphibious M1 hybrid cargo concept - FlightGlobal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUt3V2F1QTRWVFctWTl2TXVOeHF6OU1RX0dmSWx6ZGZWcjlOdVIzRUlPYkNkRmlTUzE3eHRJWnh1WC01TThIUmZoLU81NGl6dHEwXzg3MGVSWVEwSXY0a2ZTMkt0Zl9PSU5IMU9sXzBwSGRFMjFVQ21GV2J6N0JQcVE0bE9wUktZUC1jOGRULW1uSXVZU0gyNDlhamtJR1E1Q2NBRHIwUmZRYVk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Miami International Airport unveils Kale Logistics Solutions' AI cargo community platform - https://www.groundhandlinginternational.com/",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbUVyN2xYa25VLWQ0djBtRkpjNHJGUzFfLV85dDBxb1hGOGJBdzU1RExtVjlWQjhoYmtEYzBTVU1rTmF6R3FYYXh0RllCWHpYUmcyLUprc0hMSHIyRTl0MHJnZVFFTEFsOHNvcGRSSjl2di1HSDFPOTJfMVQxMTB4OFhpNno0elFwOWsyWXBUZU5mNUNyT0w0T3FJb1lDYnJmTV9mZWFnbTdreTZlRzg3Q2JXbHQ4VHhpaEZwUzdtZ2dJVnBjeU5wYjd2VzNEVVdPUGJ3OWpUUW9DeVFsWUE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Miami International Airport launches AI-powered cargo platform: $250M in potential savings - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDA2RUxkU0QyUElHRFlWUU1oRjNVcGxBeGJZTThzcUF1T2duSlByam9NSzZ1bkJTMnh4REg3WmtGSkE4ajd1TFBuRFJTVEJjQ2xHTHJBNFNoWXBmS2REbEtGb0FtQjBXdlZxNmRnYjVlcXRGVTBtWl9hWkhMUjRlZW90TVdYeEFJT1o4RU93dzJtSmFtb3VLVXYzakhkc2x6cC1EcGwwM0lYR3J4azVB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Condor introduces new cargo product structure - American Journal of Transportation",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01R2tMZ2d6bTd0Tk5CQWxnN1VWdjhvY0tQemM5U0UzcWFucVRheXFNVmFYRHZnVDV2bjlqcVBXVGVkakpXTFF3elQ2RUg0OXI1QTh5YmZ2WVRMMU4yZFI0V0hIc0VCRkFMN0NOM1pwVUlESUdHN0pUaHFiYw?oc=5"

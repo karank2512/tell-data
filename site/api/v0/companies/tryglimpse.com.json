@@ -1,9 +1,9 @@
 {
   "domain": "tryglimpse.com",
   "name": "Glimpse",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 10.3,
+  "score": 10.2,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-17",
       "summary": "Elorian, Valued at $300M, Launches Visual Reasoning Model ‘Glimpse’ - Wowtale",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zQThsVl96eVBhaTE5LTI4ZTVLR2tVb2ZvQlFNcmh2dTZuMGVTZFoyTTJNcVpPZVhVMGhXR3U3bWY3RmZ4dC1MbEdaTndZSFZjbEgw?oc=5"
@@ -69,7 +69,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVZ2QzJ0blNWVXl4YThYc0c0bUVvUGVLbkNKVVhhdFl6ZGI5T3lSSGZPTVZHZGJhc2xTNGRzdzNlYlBiYXJKVW90OGprREFNOWNQclRhSk1wTUtRT1REc180MVNweG9YX3ZLcjdNSWtnNGRCRFJxWHdQNFdlTTZuYlFxNU9QQmR2ZU9vaVhHVQ?oc=5"
     }
   ],
-  "open_postings": 7,
+  "open_postings": 8,
   "long_open_roles": 3,
   "sources": {
     "ats": "ashby:glimpse",

@@ -1,13 +1,13 @@
 {
   "domain": "goradar.com",
   "name": "RADAR",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 17.7,
+  "score": 17.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-02",
       "summary": "Electron Launches iQPS Radar Satellite Monday - KeepTrack",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tYkJ6cC1mMEwxQ2R0UnB2by1fbGpSZzBLeGdxal9GcktCSUpNTVBnaGRHcUNNdXF1NzY2WVRfS09ickhWTzk1NlVHZ1VtUGV3RWF4MHF3VlpjQUh1aGJJeDJBTlFlUENGdEE?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Saab unveils new Sea Giraffe AMB D naval radar - EDR Magazine - European Defence Review",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sdGdFOWY3MEVxd1hac2Z6X1VHUFF0ejh1S29Ea3htMnpST2tMUDNpNnN4ME80aVJkbnJ0aHl4SnZXRXdPX3lLMm91NXJKdDJRVHFxS1dybnBheVVQeExhUG5GcW1nWXUwUEgzbXlMbzlBeEhpcWd5M0dBb2lHdw?oc=5"

@@ -1,10 +1,17 @@
 {
   "domain": "usecaribou.com",
   "name": "Caribou",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 1.1,
+  "score": 2.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Caribou Coffee launches its holiday menu with a new Cookie Butter White Mocha - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRFpfeUhqOVlURlUxVWNqYTdEUURIT2JLdVd4dHdlMkNlcGdHZHE1X1k2S1p1MzZxck9IVHp3dVRLTVQyM1RzekVCY3dyV3lkNThuU0NwUTNqNF9VZ0RuY1hRVzM1Sm9kUE8wdjRkbFRUYlNOY0dIdnpIWXJNeWVIRHFqZFZvMW1OUkpJT0ZxamEwVjNibjZrRlRRZmEwd3UyUTZjU2FyWGNVUkhlNml4czhHdEJ4R1dRYUE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

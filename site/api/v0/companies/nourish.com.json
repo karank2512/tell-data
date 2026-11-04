@@ -1,10 +1,24 @@
 {
   "domain": "nourish.com",
   "name": "Nourish",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 2.3,
+  "score": 5.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-02",
+      "summary": "Whitecliffe House chooses Nourish as charity of the year and launches food drive - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbHl2TWJvQWtka0lHTUs1UGUzWDhyWElveC12czRycmkyeVcxWUNFNFNnWVcxSzJCQjdIbHZvcDlGSXFvdUlIRTZ6eTVKVGhMVTZFMmFUUEU1V3JNRkVKY0JwdDRtRUtMN19wTFNLQjF0Rl93WlQ3SWN2SmZLby1ESHNtMDV1ODBnVEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Whitecliffe House chooses Nourish as charity of the year and launches food drive - Bournemouth Echo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzhocDFRZnJ5TkNNV1pGVmllSEgzYm9uYkJNZ3ZRaE1XVTNIaHowcmFKX3lUOWljQ1d5UUpzUU1DdUFLM2hYZDNVTzQxaGs5Skd3RWtySzVnaC02NDB3cFRYRXR1aklkV0lVcGJLTzl3aENHYzJPMk5IeXBDRXZOWnc3eWNMOHpmQVBoZ2dUeUV0RTRfNFB5NzNwd0RzSDN2WXZjd00xUWQ3QQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -20,8 +34,8 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2t2TGxNSi1sNjFRak9HQzVQQ0xOOGlpMUstT3VST1BTVTNVc1FKOHRUcnNDTmNwRkpNaFhManU4cVhMY29oVEtMWmV1ZWlEZXpKWEE1SDdhdXpkelI1bERlX0NWSlNEUk94c2RUbDhHSk5paDh6bERZenRDMXJVWV9MaFF3NzdJVmlxNmJCaUx0Nk02Q1NnVlV4eTI4UnpKNGlvNTNOZDdiWS03enpYR29qZDR0dGVxTUtBcmR3NTlSemVialJjUEJaMVRUVExhdlkxYjFiM2dwRWZqcFV6NUdwNG9WNWc?oc=5"
     }
   ],
-  "open_postings": 89,
-  "long_open_roles": 20,
+  "open_postings": 98,
+  "long_open_roles": 19,
   "sources": {
     "ats": "greenhouse:usenourish",
     "edgar_cik": null,

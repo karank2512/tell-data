@@ -1,10 +1,24 @@
 {
   "domain": "open.cx",
   "name": "Open",
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "profile": "default",
-  "score": 8.7,
+  "score": 11.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Tencent Launches Hy4, Joining the Ranks of the World’s Leading Open-Source AI Models - Tencent",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnNab2ZSaWM1UUQ1NUFFVEgxZzc3ZWkyWDBzQmM5ZVdSNk9xY1FCa3VUYmE1ZHFUUnoyM3ZuNHpfeWk1UUlySXlaODZUemxWU2JrS0FqTmxUUld2Ry0zNHJ3cWM3cmN0SFo4clc0OVVuSG1XTnR5dkx5UmZ2b1FxZEI2TE1UUFZXb3dmandpY2dCTEhUZGlzLWxFWmxRMnF5aDJQUUhiUVpXOG8?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Tencent launches Hy4 in bid to break into AI’s top tier of open-weight models - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjhaVmtvbDRMdDIxNUFvcFBCZFluNVk2elhjd0Z6cVlZOXhDczhEZ3JaS1NrWGtERXlVR0tsMHJWNmVHcFJoQ2JPaXY3ZkEyOVdhMEpKUEVESEl6N3pKZHE4S1VnODZjWlh0Qlo3bGZGZE1IbXlqeHhhdlUyVEt4cVNpWHdRRGVnYmk5QjRTQjhHSXFnWTZTTTBqUHZOS081NnU4S3BJanV2VVdrLTB5QklDNjJxV1RX?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-28",
       "summary": "Introducing Replica, an open-source AI prototyping tool - The GitHub Blog",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGF3M0hrWThMWU1RaHQ4Y3FCV1VHY2ZWUWMzVkNvcW9DZVhvQVdJS3dLRDlyWVdoLUFtMWRhbDh3cVh6cnFZNkgyMV94RV9SYVpQbm1FUVllb2F5eUMzOXBrajVhSUxjWVdmUWpuWVBSdmNVZ0pVcHNKMVExZnBCR0dCNzJ3LVVrZ19uZXpieHhpOWNQSnRVNTBDQjM?oc=5"
