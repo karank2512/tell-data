@@ -1,10 +1,17 @@
 {
   "domain": "getlilac.com",
   "name": "Lilac",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 1.1,
+  "score": 3.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-05",
+      "summary": "Appoints a CEO",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnA2NTc2TDBpcENfRVNBMXE5U0FKcXNUWGJLLXJKZFZacmlWX0hiMF9BQUVheUotUXg3SDdJV3JmN1ZjX0xBT2xHb21scTJZLU8tQ3NiQXVMR0NvWmpiREpPQlJOMlBrdENWQ3RrNmlibE8zU1ZpZV9PM2VuUjViT1BIbGN5U1cySGZ3VDU0d0Y0ZlBqeldiRnM1dVhISEJfNnZHZTMzUkxMalVCR1oxSmFyNmIzdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

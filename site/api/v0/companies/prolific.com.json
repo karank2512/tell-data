@@ -1,13 +1,13 @@
 {
   "domain": "prolific.com",
   "name": "Prolific",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 2.1,
+  "score": 2.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Where is the North’s next big tech opportunity? Prolific North unveils launch of new Tech Growth Summit and report - Prolific North",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV1VZQVdEbWhQMHZNRG1hZlZVVUhJWGF6dExIWlFDdWVuQlI0b0pkWUhDQnBhUzJuU2wwRjJPb2RCOFNRb0lyWHhhT2FfZnFPRWlDcDB6TGlvczVob2Zpd0FYWHN3Q0J2dlpYdWJIZW55bElpYlplVEs3YmNDSHJpWXhwNXBZdlI2bmU5bjNPMlZEbF96dkVCRHkwNUtLLVFpU0JqU2h0Q3RoX0VPZzRFekdrLWt3WWFidXRadWpudldRQmd0dHVZcl8tTzlIb08zejZQWTNQUHl6c2Jmb1A5MnRqbGc?oc=5"
@@ -21,7 +21,7 @@
     }
   ],
   "open_postings": 28,
-  "long_open_roles": 15,
+  "long_open_roles": 16,
   "sources": {
     "ats": "greenhouse:prolific",
     "edgar_cik": null,

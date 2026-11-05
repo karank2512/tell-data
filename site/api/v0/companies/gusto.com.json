@@ -1,13 +1,13 @@
 {
   "domain": "gusto.com",
   "name": "Gusto",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 9.5,
+  "score": 9.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Gusto Launches \"Dream Small\" Campaign to Celebrate Small Business Success - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmVNbFNVN0VmbWpXbUp4MU5xcUFLX05UMjZBSXQ4M1V6SmNXUi01QUhZdUVIOHY3NWtkVTY4dUZ1S21RUk56eVRNeHRITHlvQV9FTTE2VVRrNmVUZjYtZU1CaS1xS2pYV0FHbEUxSldEVGFaTE9aV2Q5UHBiQkx0Y21XX2g1bU9zZUVvd0pnd2ZuN0hWMEZrWXE2S1RHVlc2?oc=5"
@@ -88,7 +88,7 @@
     }
   ],
   "open_postings": 84,
-  "long_open_roles": 33,
+  "long_open_roles": 31,
   "sources": {
     "ats": "greenhouse:gusto",
     "edgar_cik": null,

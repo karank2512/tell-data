@@ -1,9 +1,9 @@
 {
   "domain": "ello.com",
   "name": "Ello",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.7,
   "contributions": [
     {
       "type": "launch",
@@ -63,13 +63,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "MTN Nigeria Launches Y’ello Y’Fi to Enable Businesses Get More from Wi-Fi - Innovation Village",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnRjNDRiRm5IVTBoSnV3Q0lUZ1hDdGVHYndBSUhaVzUtdVh5OUVaVXd4YnE1QTlMRHlfd244UHMxb2hRT2h0NUI4SGxtZmlfSHJMd01GSmZHNXI1N3Ftd2hqVS13d3NXY1FDQ0NYdFlPbDl1MlhGTTV1SWpqdUs3d2ROa3hqSmtrRUtRM1hxM2JiQ0ltOHlQbUlXWC1VQjBOWWJUdmhn?oc=5"
     }
   ],
-  "open_postings": 4,
+  "open_postings": 5,
   "long_open_roles": 2,
   "sources": {
     "ats": "ashby:ello",

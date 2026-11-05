@@ -1,7 +1,7 @@
 {
   "domain": "arketa.com",
   "name": "Arketa",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
   "score": 1.5,
   "contributions": [
@@ -26,8 +26,8 @@
       ]
     }
   ],
-  "open_postings": 9,
-  "long_open_roles": 1,
+  "open_postings": 8,
+  "long_open_roles": 0,
   "sources": {
     "ats": "ashby:arketa",
     "edgar_cik": null,

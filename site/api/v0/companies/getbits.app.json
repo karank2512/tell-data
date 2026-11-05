@@ -1,16 +1,37 @@
 {
   "domain": "getbits.app",
   "name": "Bits",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 11.3,
+  "score": 16.5,
   "contributions": [
     {
       "type": "leadership",
       "contribution": 2.0,
+      "occurred_at": "2026-11-03",
+      "summary": "BITS Pilani appoints [person] as CEO of WILP Programmes",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejRaVGUySmJEMENHbGc4US0zd29VdTBBWTNoc2N6alNnQnNUWFprTFY1eFl6T1I1NGV2YVFVM3kwaUNITW1PUFptalRpalpOcjJfSEF0ZEVvYTFKQUU4SUdJQWdpdVh4Q3c4Mm8tMVJMRW43Sk5ObTVBLUpLTFpQNEJxZGNNb2w0aUJDZThsSWJXUEV2aFNPeGhiUkRvLVJXSmlyMmJhTlZQM3BrRnBMbF9aLVpwTnpOd1dEWU5OX3hhWmNlcG1MVDJnYkV1M09teWxuZdIB2gFBVV95cUxNOHBacXpmZlNTTS1ZM2RFQk5jWjZqZW5nWjNrNkNUMUNORVZjZVVzc0Vfd01HNE1yY2RPUDJJS2xNaGRRSjRBbFpYeTdqd2JNQzExZlZYellhWUhOWjlUX3VESFgwSHFOMWZUNVRDVzZEZVFSS1FvbUtqRG50VVV4YjNYZlVHQnVzLXg4WnZVSmhseTM2UzFLQ3c1UHFGRkptdUxFWGc3bXg5aldJelRjRzRoeVFmcEZOeFpNcGUzTzc3VVRUQU4za1FRbkczNkZKektnbVhRMjUxQQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
       "occurred_at": "2026-11-02",
       "summary": "BITS Pilani WILP Appoints [person] as CEO",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzg3NWJuMkw1M0FyMEU1aTNnNVJYQ0VveTVsT2VDNkp4eGs4dllNdktRS0NMMnJvcll6dkt2cU5ocDNOT09RUW01Y0RONk5OQ2NIRFN4Rmd2RGFzd2NzdWh1RHBDRGN0TElYZXR3TElTVUZnek9TZGMxM2Rqd1pSS3FPQm5lR1hObTRfYm9DNEx3eEVWUDZlUDNoVmUxQXUySjljcTFrTUJxNG9meW44QjVOOGw?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-02",
+      "summary": "BITS Pilani Appoints [person] as CEO of WILP",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOelNheVF0dURxM1haWEVYSmlrRXNhY3VFMF9lSnlOU0xlaGU2aW41LVMxWXBzZXdESVVtV1A5U0Y1N3JMbjNad1FPc1dpcFFabHZXZEdLSW5xbGtYRnFfclRtLTJvR05mRVdwUWdKdzBPZWRuQ041MXRST21lOXU1aFB5RkgwR1VYX2hHbzAzZEl6Yl9ib1BxT0hFTmpuN1AzM2hDakMzZ3R2V0k0dTNF?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Kibbles ’n Bits launches heist-themed dog food campaign - PetfoodIndustry",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRmRsVXhxdjRJcDlQbkFkbmhRUnFXMEpSYTl1enVMX0d6Y1JyeTNFSmFWWTlNeW5DWEthYkVsLW9TVlJGaE56dldhSnFtSDVvYlZQVDRDMDF1Uno5T0UzLXZSb3BtRkVzaGJHQUVKbjd0R2ZzMWNtaFlJT3JqcFpqai1aSVZWT2F3eEtaRGhqMkRlMnRsWHZqSXoyaTd3bTR1dGlMR3MtbjVfWEJNa1N4bkVHeGFaTGl3X1o0Szk0Y3Bod3dQUl96UC1aZw?oc=5"
     },
     {
       "type": "launch",
@@ -63,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-12",
       "summary": "Weekly Recap: Q2 revenue +35.6% and three Bits AI feature launches - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbldyWk93YXNjRmVfUUVnc21yY2d5R1B1V2R4bWNDWEk1cjZpZEhGeFVpZTNNaTV2N2ZMVVlOVUEtNmFEOXR3YkRJaHlRUGpJU2F2X2JaVTJmZHRlaTViS0RUbHhpRm9lSnVlaEVSOExkblM3VVdYT21weDQ2UGJKRUpiSUdSN0JiaHV5WUtpdGd3cjhIcUZFNVVBajdMcnh6RUFiTWRYQmI0ZnlDdTN1RzRmSTlsOVE3UFpKVC1WVDJNTlU?oc=5"

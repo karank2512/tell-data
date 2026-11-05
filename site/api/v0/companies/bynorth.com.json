@@ -1,10 +1,17 @@
 {
   "domain": "bynorth.com",
   "name": "North",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 1.0,
+  "score": 3.0,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-05",
+      "summary": "Stellantis appoints [person] as North America COO",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNODAxZnVlX0xxd1liSFB5X1lDQk9PYUxHak1XcVNCVXp6QXM2ZnE4S2dSN2VnZzRhcFpwRmczVl94djhCZGYwajlRZjJHWEhlUFBZTXdnaGUxendsaERvYWpZanUtRHBhWWNsTzZBQmJlYXlCcFAxZ3ZOUGdUN21ESFBqS3JJUGRtUVN6ZlpiZkozMGxQai1mTUxxcVBnWC1qaXVoWkVrYUNGMkZNMFJCS294TjY?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

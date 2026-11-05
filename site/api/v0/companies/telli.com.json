@@ -1,9 +1,9 @@
 {
   "domain": "telli.com",
   "name": "telli",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 1.9,
+  "score": 4.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -24,14 +24,28 @@
           "url": "https://jobs.ashbyhq.com/telli/a71a6737-60cd-413f-b128-a998a53245d2"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Seraina Telli Releases 'Chameleon' Music Video as Former Burning Witches Singer Embraces New Musical Direction - Rockum",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdnBtM3drWjdoQXBJSFJHbG9aZGF2dlBfVlNFUUw1WUI2bUdyNDZvX2dMZ3UxYWpHc1NJVktZQmZZLTNTbmVjWnZGdWx3TTFDcC0xLXN2emdfck5nS2E2YjdiWV9Yb0dhUXpvNEF3WExIMmpFM0d3ZTdmODZINmFqbVF6a3RBU1pkcHpDeEtjcGlzbDh2MU4yNUx0VUdLbmsyeF9idTUxT1hPd1ZLZGprWmp1WHg5cE5KeGNabm5RRnlWZ0o1S3VydnFHLWZybGUySkVQMlpSVExtOHFWSkN3SkF3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Former BURNING WITCHES Vocalist SERAINA TELLI Releases New Single / Video \"Chameleon\" - BraveWords",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVNhWEZpQmJZbDM0eVppTzRHS1ZhZTEyUXV2UE4xVU9JY0syRFkxdUxsZ19ZWkFBUi1IeC1URkk2UjBWRXkxT194X05WLTdrQkptTkNCSTNTc2lBVUZsUEh4QjUzbS01OUZvbmpYeDNack1wUm1iTTdLMHBuLVVjN0pYdXlXQUlNaDZYOG5neUpJYWYzYTNLd1RqQnBVYW1NVDFySVJiNTZpUlFkZTc0?oc=5"
     }
   ],
-  "open_postings": 16,
+  "open_postings": 17,
   "long_open_roles": 5,
   "sources": {
     "ats": "ashby:telli",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
   "why_not_higher": []

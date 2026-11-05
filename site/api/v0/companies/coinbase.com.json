@@ -1,14 +1,14 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 12.0,
+  "score": 11.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.5,
+      "contribution": 3.4,
       "occurred_at": "2026-10-30",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/coinbase",
@@ -51,7 +51,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Coinbase Crypto Exchange Rolls Out Stocks and Prediction Markets - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOWl4a3hGbG4tNzIwNkRleExmaEtaRTc0T0tKcFJ3OWY2Nm9ST2RhOFJRN3oyc0IwTnJhOEpQSk5jZ21Kak5BTkgzOWMyemg5WUhncmYyZXJjc3NzZFN2TGdKUTBvMG5QQ1J5NHNWT25OTzVfMFk5Y0lfRWNBeDhIU3B3b1Q1ZElySnM5eWM3dERCTGJW?oc=5"
@@ -110,8 +110,8 @@
       ]
     }
   ],
-  "open_postings": 280,
-  "long_open_roles": 61,
+  "open_postings": 282,
+  "long_open_roles": 65,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

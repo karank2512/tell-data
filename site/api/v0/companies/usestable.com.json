@@ -1,10 +1,31 @@
 {
   "domain": "usestable.com",
   "name": "Stable",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 14.0,
+  "score": 18.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "‘No longer a stable, slow-moving discipline’: The Global Legal Post launches corporate governance guide - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUTNfY01RR2pWNmdZdm5vN0t5Z2FDZU9rQkx0dGxjUEtpSkh6Nk50eFB0elVMWlpNWWNWX0Q1QUlXMVctMUNJT19sRWJzWWZUM2VuSm9xTXQ3UlFfeUtaQ2dUS0JHN3ZkYy1JdkJ0MzdPNU1JM29nVEJrM3JteHJpSzhxNG9rOFIwUHlMbkpiRzR4TnVRQmZXNGFwelFGbzZIbXdVbHFaTElwRlpEb2ZMY1p0ajk1UmY2enlzU1lsQ0lib1NGbGhyM3lJTGIzaEpfSHlHODhDRlhNZy1JVFNr?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Garmin releases new update to flagship smartwatches with fresh stable rollout - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlFoQmNlaC1vV0RXaXQ4bEhXRURwei1TcHFwQTZVZFZDZlBUbm42cHhjRmQwMU9odXluRlhSX2sxenhtaWZKem9CcHhVTS1WbDBiSF9QS1h2Wm56U1E2bXI5QjllVUZWXzZ2VEpET2c5MjNQZ29CVXBhRHlsQ3RzNEJBZUVWVEZGb0IxOTRQTFBjY25ucXlkZzN6STRtRmY3WVRyYnRzOVRfYXpfQXEyU0M2YzlDRmtLZG52SmNNYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Packing Smart debuts as Ka Ying Rising returns to Hayes’ stable - Daily Racing Form",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWp4SnNyRUM1ZGZGUF90TkV0a05uT0taS3Z5WGpPQWdVaThJTTNYQURLRURWZC1OVWhPRkIwWkpweXJPdklTaUxfUFRhbFpVS3N5cWN0WmVMei1YWVBlTUxaSUNQMGdIRm03ZWpMeFNBTWZud05YMzVmR3g3R2JxbEJtcGc3QlZf?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -35,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Samsung releases Galaxy Z Fold 5, Z Flip 5 stable One UI 9.0 update globally - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTzFuTkk2dEZZRUVQUzg2cG9nTTA5Nk1rYTd5M1JpYlNwYm52R3RKcUw3Vm9HZVJ2Y0pEX1c1VE1ibklqcVZwN2dCeXpad0xxMmstc1NxQ0MtMlhsX2dmczJBUmJsWTQzUDJPQmVjYjVjb01RRTNlRUxCYWFvdEVqT050M1dWQ3ZTNno0a2hPOUVBTWJJSW5fZ2l5b2g2b21WMEhYVHJtY1NrUXc?oc=5"
@@ -84,13 +105,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Breaking! Samsung Rolls Out Stable One UI 9 Update for Galaxy S23 Series - SammyGuru",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBERmhNQzRkWXg1blA1cVFfNlpqTkNrRV9Sei1JRlBnazFIRUpPckRmTWVpdEdTWGRvWUpxbDJUSUx2aFNYNVlQTlNiS0Q0N3VHcjVGdEJLdmFoRnNSOTcwcWRnUkpqMms?oc=5"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 8,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:stable",

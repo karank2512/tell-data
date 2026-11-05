@@ -1,13 +1,34 @@
 {
   "domain": "getprompt.app",
   "name": "Prompt",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 8.3,
+  "score": 12.6,
   "contributions": [
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "RWA Global Inc Launches ENTER, an Autonomous AI Workforce That Ships Production-Ready Software From a Single Prompt - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTnBCMjNXNjZCWHd1NGpQT1V4YVNhWHkxTDg5YXhjUmNoWWdaZ2FLV01VTk5MMGNmYlNBU2xfc1ZPRGpGMHRuSG9PUzVRcXd4aHZxMjNvLVVVUk5SNGFxWkptbVFWNVlUaGZfTFpVQ3A4ckM3QnZmd3RiSnliX1VMbFhoNGRRdVZVRlJOUklDWDBqUkgxT3gzam8tUmlqd3ZnVC15UzNIalc2cVh1X1RmUFQ2dXp0SUNMdlpiWlQ4ZW5QdHE0RDVGZTh5clgtR2xmb1FsRUd5bjNkZXNtVW5zVXdkYlBQLWxvNGdWQWFydmR4dGU0RG1jWHpSR1IxWHlsRnBOM0wyWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-03",
+      "summary": "HIGHCOURT introduces the world’s first fully offline, prompt-free agentic AI for law firms - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVThtVXNDYmdrelNweHNyTXBxU2dscmdqTVYybHFlT2RVV01aeHJDaHhiU3p3Mkg3RTFEWE54azhUMFNKR1MzdF9sdmU1X3owQTd6TTczRXF3XzlpM0F1OEJ5aFEtWi1QaGlLZTNuYzhqZVo4S01jdDBCWmdLZE5aNFZxRUFTclBseGRGWXRINkpiMGthdGJEa0xVQWFJTjRheVh0NTlHUVRKanN2eWw4UllXV3VqQk1iRC16dEY2UVRrS0REMXZtU0E0dFo3cTdFZUE?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "DeepSeek Launches Creator Mode: Generate Plugins From a Single Sentence, All 7 Prompt Sets Made Public - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44dHBwakRrcEUyeDFIQVhUMUl0N3hTYUNYWEtWaVNpSVFySkVtNDNabkhZRDNwZThpNnh2SzhCaXh4NkdwUHdOVXh0bzV6ZGZFM2FUenFxM3BBTmtBT1JjbEFhMmdlU2U3ekVzX2VLeC1wN1E5V0E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Arvad AI launches to end the ‘prompt-and-pray’ era of AI coding - TechCabal",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFAxclNybUtDWEZ5c2dnTDRjUjZLNFE3UW5ZcXk0RF8yZWlVVzh4VUl0ZDVZa3RuRnpMTUMzSkMwVzJvbWJNM3BCRVVyc3NqclJFTkhya1pCRlNSWmdtS2RZZDBJMEJlZ0RUb0x4cEZnRHBBd3FYOWQwdzVEamZCX05CdVdFbi1WazZLTWsyYldEYVhTSjdpc3kyMA?oc=5"

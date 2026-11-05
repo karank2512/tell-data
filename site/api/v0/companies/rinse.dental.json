@@ -1,10 +1,17 @@
 {
   "domain": "rinse.dental",
   "name": "Rinse",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 2.4,
+  "score": 3.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Hard Rock Bet Launches New York-Inspired ‘Sudway’ Soap in Rival Rinse Collection - Hard Rock Bet",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEJUMTVlWWlCMDlJNHF6SzJvZHhHZm94dFVsclhIWWthVnk0aW5DVUg5b2xWbjB1ZU1tbVY1SUxJUFJ3Z0lJMWtTV1NDSDJOZ3FHNElwQVFvaV9TRnlfOElZWVEwbWIxbDNoLW1Kckt0YWVmMmRWRUMyendZRy1KNHBLaTd6VFh4LXBOeTdPWnd0cWhPLXFlZndDcmozb1o2dVBqdnp6UURmRVg4Snc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

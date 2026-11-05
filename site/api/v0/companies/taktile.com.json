@@ -1,14 +1,14 @@
 {
   "domain": "taktile.com",
   "name": "Taktile",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-03",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/taktile",
@@ -40,7 +40,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY0Vhb1dDem9uSS1xV0d4NlJueGtKNl9xSlVOdVNLcjVTQXJpWkpFellld2hzVUFLa0VBWHRNSXBJWm9McnVKd3pmdUJXckVoTW5LRFlHMUNzcXlPNGd0S3lNVHM2MmttOTVrZXU1ZzNBV24wTlJ3Mlp5eVlNa3VOYzJJWUswbmZwcWcwQngxc285VmJZWFRiQnJuOTVVX3dqWXc?oc=5"
     }
   ],
-  "open_postings": 34,
+  "open_postings": 35,
   "long_open_roles": 19,
   "sources": {
     "ats": "ashby:taktile",

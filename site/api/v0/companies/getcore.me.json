@@ -1,9 +1,9 @@
 {
   "domain": "getcore.me",
   "name": "CORE",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 18.0,
+  "score": 22.2,
   "contributions": [
     {
       "type": "leadership",
@@ -18,6 +18,27 @@
       "occurred_at": "2026-10-27",
       "summary": "CRF Appoints [person] as Director of the Cardiac CT Core Laboratory | Newswise",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXl2SG9PNjVuLV9rUktPc1dzazExVmNuOVJmeVIyNkdfNEpCUVVKTTNwMUhMaFh3Q2lZS2syMmdBaEdQa1ZTRGpsanR5ZnFxcWRqNUdielQ1MndKWnRVMUJxbHI2Z2dSSV9MZ01VOWVvZG91cHdYcEZ5UHZQdXZRZG1YckJNazJsTGZ1cXg3a0VYVHJzeHNqVVB1MFR0WVFzaWF0MmRzb2NTNVh5cmfSAa4BQVVfeXFMUC15dkhvTzY1bi1fa1JLT3NXc2sxMVZjbjlSZnlSMjZHXzRKQlFVSk0zcDFITGhYd0NpWUtrMjJnQWhHUGtWU0RqbGp0eWZxcXFkajVHYnpUNTJ3Slp0VTFCcWxyNmdnUklfTGdNVTllb2RvdXB3WHBGeVB2UHV2UWRtWHJCTWsybExmdXF4N2tFWFRyc3hzalVQdTBUdFlRc2lhdDJkc29jUzVYeXJn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "GSP Launches All-New, Core-Free Brake Caliper Line - AftermarketNews",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNERMTkRFU1JqcUJVTi1RNEpKVFBTUHNIMDU4TWRnZGFia3RyeTdWWGlzT1g5OTJXNy1vTUlNRkk4X0FjTUhTaTN5djVjSVNJUFNlREtzZ2FVSUwxV0pOR3ZXZk1wREV0V191UjJLZ3hoSHdBamQwUmNBRThlR2U4V3BXZ3pYdTRHSmc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "MSI Introduces Cubi NUC WCG with Intel Core Processor 3 Series and Tool-less 2.0 Design - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0o0MFBwNkg4Nmp6cDdQdW9DS3lBakY4dGp0cjBHcFIyNUMzYUx5SUJVX0haZXBfLXBaRW9na2VuVXdKckQyNWd0Ym9JN0dIQ1lySVNCZlIwcnE4SXNQN3dBV29CMlRmY1Rod0ljemU0V1RBMl9vSmpmTU9uaWtObTVCc043anZ2SFI0Zm1naV80QU9LYVBraGVuUC1lcTlZUGJpUUxuREFnT3RmMzhDTG5ENFNfV0k2RkpNd0NKMNIBxAFBVV95cUxNT1dmMlRfOXlqZXBxejFSeGZPbUN3LVM4aFdnVjVxYjFtcVVLTEJ5dUJldTVEc2dnVmx5bk1xMm9jV20tbG5tOTFROEt1ellEOTZnTjVRclhuMjdtTENOQ3hRRlVyZW5wVFRiSGhxcFJkYWxsZjZuM1JlUm4zcnh1aHVCNEdEaXdlOHlEN0lJN2N0Q3dMWlVuWUJpZTVFSWdMa1VxZ0JFUXBBblhKb3RGdnZpRXZrVEw0Um1QbFdIY2dqYlha?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Ericsson Introduces GitOps-Based Management for Cloud-Native Core Networks - The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdHJERWpqNXlFWEpjU3RzcnV3dVpZbmY0ejJ6T1gxX0NkQ19xTmVzVWRKVThUNGNMdDBxX09uU3MxdEpnUlBta2RORUZPLWdwNkp2U2V0NXM4LWp0Rzc1MDgtZDhFWGRkM2dGbExMV1Nkc005VFBRU1VzMEZCYndUY3RhSlJ4Vi1aTUZhQ1lVWGhhTXU1QkkxM1hOc3RlLTBrSENsTmxoU0RSamZVa2RhS2F6TzFOc2hlVmJLSnF3ZnBoUUd6b2FFaQ?oc=5"
     },
     {
       "type": "launch",
@@ -70,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Corvad releases 'Flux Core' and 'Pyrocene' for Red Rooster - Side-Line",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZmRRRVdJcnhVWnBxYkxIVmZqdGpjYjJqNlMxVHRub25qeFBqNU9keGhfWXFiX0tyWlhDSG8xaFFXV0twNTNwQkNLancyQTFjdjJkTlJCY1RHQTF1OXhkTGpoRW1UNVhaM21fQVRBVWpMZw?oc=5"
@@ -98,7 +119,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-21",
       "summary": "CORE-emt builds new headquarters as Nordic SMT demand grows - Evertiq",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbk5sRklwRFctUml5Q3FsQWdDZjRSOVJWODhzb0NfdG9ja2gzaUYwYk0zbkpTTFlsaDdHd2lzTDZ6QnNOSFpVZVFRX2o4UzN2OUdYQWxQMVk4bkVLOUVOanNpcXZDeEtiZXdQc3hKZXR0Rnd3MEdYZjZydHJFR2JidkhKOVpZc1c2THZBajBSdURDRWtCME9aMVBwTQ?oc=5"

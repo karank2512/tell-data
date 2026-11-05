@@ -1,20 +1,34 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 68.3,
+  "score": 70.2,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Moonshot AI Releases Full Weights For 2.8 Trillion Parameter Kimi K3.1 Pro - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWs1Vy1EU1F2U0Y5UWloMjl6bHNDZGc0NUk5aGE0SHdqMFhSVHZ2dHUwVkJMYTZ6TmFVbWpzOUFzdkdKTFRlaF9rai1LYVd3bXlyOW1KemxXM3BlRGhSSGx2VG9Nc1VKMkREcVBJMVhhT0RuRWJVbzNRdWR1ejhQcWFpbmZNaTQ3bzBSRXZQaW0ySGpYQVRlUXMxNXJyck03bFE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Meituan Releases LongCat-2.5, a 1.6-Trillion-Parameter Multimodal Model for AI Agents - Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdzN3MjJUaG40Rlcwc25IUG5HOWJwSzFKN0RTVGVzeDZTQmJnN1lsbHROVlVXenQwRjNULXVtZTd0Q29qZkZwTW9aTWVQMlhCS0wyN05SQnhPbWtfWDJydTQ1VDFYZ0V1NHExVGxVM3ZpUGRsQ3Nua0pscFAyOFNZdHJJb2V0Z1NneXdhWFM2M1lCWmt5aHIxSTROcEllM2c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "NVIDIA Releases 4-Billion-Parameter Dory Under Open MDW - Geeky Gadgets",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lMmpUc2pQbnJNYlRlMU04RGtVVDNrUjQtV21GVG1ieWhXcFl0aGx4MkFKQ3FFZU9KcUdLbjhSQlpEYUhVdUkyeGE2bEpkN0JuUDgxZk1KZ3U0NXZlOGJDNGhINF93aGhacTNpc1RB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Meituan Releases New 1.6-Trillion-Parameter Multimodal Large Model LongCat-2.5: Ranks First Globally on Multiple Intelligent Agent Benchmarks - AIBase",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42VGIxVFptN012TWROVGNXQ0xxeERSTXpPSkppV0JFQjFlQXpkVmpIS2pRdmY2TGoya25OTjJjN1ZLSVBFSnl1NmJ3?oc=5"
@@ -77,49 +91,49 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Mistral releases trillion-parameter AI model weights for cyber defense - TechGig",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzZOZ2RfQkZlcnhKbHp6bTFhTWpPWXZJN3F0SmxDUENEXzF6eFR5dmc1blBBb2ZnSElob184TnpKT1o3VFRSNWpFQmo5LU9yb21Hd05qNEVjSXVobWVaMEV2anFVb1pmXzVHelB4RjlublJwQUo0NGFnLWtYRF9MUFlpMmkwQlA4RlVNMFhrVkE2NVIwQUtGaGs2emt2WEZVTzNkUzU4SU82Sm540gGyAUFVX3lxTE1Qb195T3hMbUlrcElOUVQ5WU10X1ZocjRUQjVJZ3gwa1NTN3EyZ1AyTDI1S2NxQ3p4aHBOR3VRLWtZSkktSjM2dTI0WXd1UnAyaG9WdVNSZDVqbndBbUF2bTdRdnhiempUWUVOdGcxM2N2Q2hHZWtLZnVlM2c1SF9EcnpTSEh2REJmQjBKT3prYV9TQ3o2d2QwYi1Kdzc4b3lmM2pfUktHTGRWRy1MN0FDTWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Mistral AI Releases Weights for the 1T-Parameter Mistral Large 4 Model - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGlQQUFQbmp2NVJLLTd4VjdmX0ZFbzNVNE9COWhzQVI5U0pXdThHQ09Ha2pQUlR5RkwwQmZnempUWkNUenAzS0NHQUxzQXpFbTBadWQ0WUdhaktOM3FrS3ozeUlMNG5ZNC1Fak9KS2VXM3pxVDlqVEVMV1ZHSktJTHNJRUloLXdtdk40elJtVEJ4VFJ5TzdDUA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Mistral AI Releases Weights of 1-Trillion-Parameter \"Large 4\" for Free, Opening Path to On-Premises Deployment for Enterprises - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBreHN6aTdtdHJ5bkVOOXRic1JpUVpMZnRRM1pzOTlOdldCRGdQRzVTa3ZHTnJpRmFLRndybEktdXl5Qm1xRElmSTVEbnU3czNocDhJZTlhOFhOSHRwVWk2MnBpSXNhTGdRS0hFV09STFV0T0Zwcmc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Mistral releases weights for 1 trillion-parameter AI model Large 4 aimed at cybersecurity - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdU5qMEdRcDhtQkRoRF9vVXJoWC12Y0J0TVJEQ3MzajN2ajYtRzJoMzVnTm9FSzYtb1Ria0lNZjZOVTFzeHNmYTRpblVScG9IWWdIeHA0emNWVlpuQjl5dnQ0YXU2ZUxBRVFEZV9ETDFuTEFwZ3RRQUY0ZGR0Qzg0dVlpMTAtaUJEanU2dVpqckl2WnVFR2EyWmxqRU9SSHl0aklnRGwwd0NFLTVJZ0pOTE54aGR0VHpPNDRBN0FoNXp3RmdHaUpPRzdMLTVla1Nt?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjNidjZYcnoxeE9Gc3NzX05BMlFMeDVwRjF2eWNNQ0FZTWR2amRmYm9YVzFKbmJteUR1TEZpallEUXBoeFVKeDBQemNhd3ExckNJUzYxMmFIXy1NNEhqNUdHeW1OVWdyVVRMa2ItV2pxOWhEdzlXRU80NVhOd1FPRFdGSDh0VHRTLWFXamJJUlNabTQyMlVNNjBqc3FMQkg1enB3TlBQcW1ESmhJa1lrcVRpeHJWRFNjdjhB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Mistral releases open weights for its 1 trillion-parameter Large 4 model - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XcVRkZU9oekdPekFMUWNQM1pyb2JmMEtOQm81ZnVyWW9MWjhEMk5yTkpOdzYzUW9Ob0Ftd1BGNXN6WkFqZnktSnRxMzN6WkhWaHlrT0pLMDAwZjM3azNLRVNXc2VFV0s4Mnp3X2w5cVVmZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Acer Unveils Veriton RI110 Mini Workstation With Support for 120 Billion Parameter AI Models - PCMag Middle East",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWdSS0FJMXdhblM4VG1yMkEzTEFUNlJSUVZtWkRiSFJQUEw5U0xBeVJ4d0dxR2VNbjdXT3RUeVJUMEkxREF0OGtwdFJ1U2ExOERYQXNPbzlDNy1ZdTdUVGFtYUdyT3oxUXZiZ0U5SmwxX2xTRWFyS2xJVGNTbldyRDhXMU5FWnA5ODZRSkhiSnYyVl9GbXUtZV9WTm5iNzdNNlAyNFQ2dDk3LTBYV0YwazVhWlUzSDJHZmx3MDFNSzVaQW00c1Fob0xPVFFDY1dBSTZKZA?oc=5"
@@ -147,7 +161,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-25",
       "summary": "China’s Moonshot AI unveils 3-trillion-parameter Kimi K3.1 Pro - Qatar Tribune",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3BOcFZaRXo5YUttWWk5RlNxTTNWVTRxQjM0WmxPcWwzSzlsME5QeWpXMTRwWDFmUUE1S0pRX2R1RXJOc01ZN1JMLTczcmdJZ0U0WkV0eWxtc1dZVDR3aU00TGpxeHpjNEhQNnJzLVh3Z0xiZ1M5ZHZUVnFtcGZROGY4Rl9QVFlyaVNnTWZ4NVg1T0RPcEhoVlRGTjVKc05RVl9nRmpnZGs0a1BhWEIwNXlpREw?oc=5"
@@ -392,7 +406,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Liquid AI releases LFM2.5-24B-A2B, a 24B-parameter model built to run on your laptop - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYVVqZnBhdDVjbjVFRkxUQnA0cExncjJxRnFLejV2M3NZUTZ1MFBjRXFoQVREYm5sQjZzZ0wwNjZOUjFhSmJZYjh6Xzc1RVNvMmVucFpCR0FUa3hlSkFhYm42NTV5T2phdnc?oc=5"

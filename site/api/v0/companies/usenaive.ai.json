@@ -1,13 +1,13 @@
 {
   "domain": "usenaive.ai",
   "name": "Naïve",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 3.4,
+  "score": 3.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-06",
       "summary": "Introducing Social Data: Public Social Media for Every Agent",
       "url": "https://usenaive.ai/blogs/introducing-social-data"

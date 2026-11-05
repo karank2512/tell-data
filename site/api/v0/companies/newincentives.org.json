@@ -1,10 +1,17 @@
 {
   "domain": "newincentives.org",
   "name": "New Incentives",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 3.6,
+  "score": 5.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Coinbase Launches New Incentives for USDC Users with 10% APY - Coinfomania",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2hVUWxscEpYSC1OM2gtZGRSeGd2NjM4c2Juc0wtT2V4VjhWbVpsUTdWd19aR0xHcElkcHU3czBpbmtqUll0NWt6ajd3MHZIQVFPQXBsSVZwb1ZCQWJ2N1RpQXNIZ0w5TlQxSmM4eFNtZm9qVV9oMFhGUlhsb09UOFAtbUh1aEZCWkJDQw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

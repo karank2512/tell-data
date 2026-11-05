@@ -1,0 +1,43 @@
+{
+  "domain": "reacherapp.com",
+  "name": "Reacher",
+  "as_of": "2026-11-05",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 3.0,
+      "occurred_at": "2026-11-05",
+      "summary": "3 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/reacher",
+      "postings": [
+        {
+          "title": "Customer Success Manager, Pro (US/UK)",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/reacher/f5af2cda-6e91-4a18-b55c-7d18aaaa44d0"
+        },
+        {
+          "title": "Customer Success Manager, Pro (China)",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/reacher/532bf7b7-552a-46dc-ae13-b83e6114d961"
+        },
+        {
+          "title": "Customer Support Specialist",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/reacher/a94d5011-4a2f-49d1-a98c-98aa4158f150"
+        }
+      ]
+    }
+  ],
+  "open_postings": 12,
+  "long_open_roles": 8,
+  "sources": {
+    "ats": "ashby:reacher",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "why_not_higher": []
+}

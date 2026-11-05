@@ -1,10 +1,17 @@
 {
   "domain": "crew.work",
   "name": "Crew",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 2.1,
+  "score": 3.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Segway Unveils 2027 UT10 Crew Pro With Enclosed HVAC Cabin - UTV Guide",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90TUJhX3pLSmZpYU0wLWRCN2Rfb1AxOUxObFFRNTZkdXVvMjY0bjhGRnk1U3p1QXdLdVVrREQ0Z3VsX196OENRcFRBZUJHR2pJaUJrTnctMkV4bzdRSVQzTmR3?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

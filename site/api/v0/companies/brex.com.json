@@ -1,9 +1,9 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 9.7,
+  "score": 11.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -38,7 +38,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-10-27",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -107,8 +107,43 @@
     },
     {
       "type": "hiring_velocity",
-      "role_family": "finance_ops",
+      "role_family": "product_design",
       "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "5 new product design roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Senior Product Designer, T&E",
+          "posted_at": "2026-11-04",
+          "url": "https://www.brex.com/careers/8919847002?gh_jid=8919847002"
+        },
+        {
+          "title": "Senior Design Recruiter",
+          "posted_at": "2026-11-04",
+          "url": "https://www.brex.com/careers/8929244002?gh_jid=8929244002"
+        },
+        {
+          "title": "Senior Design Recruiter",
+          "posted_at": "2026-11-04",
+          "url": "https://www.brex.com/careers/8931317002?gh_jid=8931317002"
+        },
+        {
+          "title": "Senior Design Recruiter",
+          "posted_at": "2026-11-04",
+          "url": "https://www.brex.com/careers/8931333002?gh_jid=8931333002"
+        },
+        {
+          "title": "Senior Design Recruiter",
+          "posted_at": "2026-11-04",
+          "url": "https://www.brex.com/careers/8931335002?gh_jid=8931335002"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "5 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -191,7 +226,7 @@
       ]
     }
   ],
-  "open_postings": 270,
+  "open_postings": 275,
   "long_open_roles": 108,
   "sources": {
     "ats": "greenhouse:brex",

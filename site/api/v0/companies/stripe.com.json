@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 25.2,
+  "score": 24.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-31",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-15",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -137,6 +137,13 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXlWM0YyaXZEQm0zRmtUTGE1QUV4M09LZUwzSnhYWTQtWno3SkdsVFJXMUpEeGJKR3k5YVBrZHVuclJRUlY1Rk5oUkxQT0NhYS1Yc1QyZVEyaGEtZWpDS0pXWTJtaWUwaGY5eUU2VG5iUkoyX0M1N19ySU85YWxMc1MyUUZwdWZieHc2U3lBMDRIUThrSkU5Y0xKRDlpRnk3TVhGWS01TVFzS3FVVEFwMG96ZDlKQ1hrZGxWNDJR?oc=5"
     },
     {
+      "type": "launch",
+      "contribution": 1.0,
+      "occurred_at": "2026-10-10",
+      "summary": "Adidas Launches Legal Action Against White Fox Over Controversial Four-Stripe Design - freeyork",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGFJdGJpejRkUms4NWZGTm5vRHJRdWZodjB0WWhkOXBtVktGTWNSMkU3YldySVZ1ZmVGaG4zbXZwYlNsV1U0VEhhSkh3VW5mTnJhN2JIeE50cUx3bjdGTUprWDN0X0dxWGFZMnJ0dF9GeWxkc04zRE1OUUM2OEpYazVraGlpVUU?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "exec",
       "contribution": 1.0,
@@ -169,13 +176,6 @@
     {
       "type": "launch",
       "contribution": 1.0,
-      "occurred_at": "2026-10-10",
-      "summary": "Adidas Launches Legal Action Against White Fox Over Controversial Four-Stripe Design - freeyork",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGFJdGJpejRkUms4NWZGTm5vRHJRdWZodjB0WWhkOXBtVktGTWNSMkU3YldySVZ1ZmVGaG4zbXZwYlNsV1U0VEhhSkh3VW5mTnJhN2JIeE50cUx3bjdGTUprWDN0X0dxWGFZMnJ0dF9GeWxkc04zRE1OUUM2OEpYazVraGlpVUU?oc=5"
-    },
-    {
-      "type": "launch",
-      "contribution": 1.0,
       "occurred_at": "2026-10-08",
       "summary": "Meta unveils AI agent standard with Walmart, Stripe - digitimes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUtOZ2w1czQycHlOcUhOb2lTc2JxVjhRSDlMMlgyeEtuM0dZeXVGbXhBTkJ1cVRoWHBOVGRnTkVkMEpLU3BzSEpTaWFtd1djaXNGR25fMy1XdXVOMTFPTWZQV01DUy1fd3V2a3ByMl9SRXRfQ3hVZTctdVFjS2piTnNha21jaUt0ZVZXOHBQVWQzaEU?oc=5"
@@ -203,7 +203,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-23",
       "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - Delaware Business Now",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNd3R1WFZtTkZHTkIwNVk1ZWZoZVdkQzdXVlA1OGVpSVZSMUFWV3p1ZF81LTQxVVFDUVEybnltSElxQXl0bXRPZTRGSXBJd0t5Y3ZZbFJPNWR4MkFKdXlESmxReGJONmNJdVdYZ1E3UkFvLXplYW9wME5rUDY2UW9wd3JtNTZwQW40bnQxTi1LMkpVdEpIYUw2RDA2RnFMY2wxVG4zNjRyN202MnhWSktNRElhbi0wSGsxY25lLWJSa1psamwyTVI0NUdMS1RlclpmTlJ2MTBpQlBrbElsd1hFVE81cFZUbWtkTWl5QU92b1BjQ2xFdFgyOWY5b2p3OEdyY0Z2SFl3MUFCQnFiMWZaVUFuLUNQcTFmUHZiN0hxaTlIbkVYYkZWT043UGJISUU?oc=5"
@@ -261,7 +261,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-10-15",
       "summary": "3 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -284,8 +284,8 @@
       ]
     }
   ],
-  "open_postings": 769,
-  "long_open_roles": 196,
+  "open_postings": 774,
+  "long_open_roles": 197,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

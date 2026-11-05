@@ -1,16 +1,23 @@
 {
   "domain": "release.com",
   "name": "Release",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 6.5,
+  "score": 7.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-29",
       "summary": "[Press release] Global Fund Board appoints [person] as next Executive Director",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzBQTVRxUWxCdFppVFJXVzQ4d3VveW5VaHo5aHk4dzhVUFlTTlZMWnNPSHZfNjRMUGVMM1J0WFBOOXN1bEZWWE9EaGM0M2VEeFdBUi04cHMwajY5OGMtY3FreHRRUTV0SnluTXF6WTlsQmV0SnBQUWh2VmdjQjQ1NlBQTXhFamEyNi01ZkZCSEVMcWRWVk1CQXRyU3B5T01mc25uS3BpSndhdzdqVXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Press release: Chief Observer Reinhold Lopatka launches EU Election Observation Mission to The Gambia - European External Action Service (EEAS)",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTdtcElVbUJ5R201ZVd0N2pPM0JTU1Z6YjJDME9CMjJ3WVkwREk0SkJ5ZjVfTmlfLUlLRGxmdC04aU93YzJ1ekNkMUg0WVdkWk9VNjJPeWVYWmRrLVN2R1NOSXUwZFMtRlVidUlOTFk5YUlBXy1tTW1NZjFSYXJubERTZFVBbVVyZkx4ZjFxeHQzblRYQzVhN0dCYWlnSUVaekdCUE9pZk5WczdCblB2YVZvcFUtMnFFUC05RC1XUGdiZWVBZ1pXMEE2TjZjbzNGT3dFdGlR?oc=5"
     },
     {
       "type": "launch",

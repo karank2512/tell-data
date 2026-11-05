@@ -1,9 +1,9 @@
 {
   "domain": "extend.ai",
   "name": "Extend",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Extend Introduces Verify, a Document Fraud Detection API that Builds Trust into Document Pipelines - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVXRWYzBZNHg4d18wVE0zYlZ4WmlMOS1XRXQ5SF81dVZFWjlFeThZb0duZjJOUXh1MkxhUUk0TW1ORkVjc3MyckIycmQxaWwwZ25WQlZQNEZjM0l3TWswYjJ2TjV5Y0FZelg2VTJTeVRvZ3JXWEtoMUg1Wk5KUUZNa1hiZUNwNjdFSWF2WW1vRzZ6OGNCQ2pLZWVna0lxcnNLRE85dC1BUUdnWUJVSThQRTFSZjNQVUtsWEZlUk85Y1ViZ2dDWnRfczE3czZqM2x1RElkYk1wcFM3YzIxRHpJbU9MTEZRTjZuX1E?oc=5"
@@ -48,8 +48,8 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWhsaF84aFh5VjkzbmU3aEVreEhQdnJ0aHBQS25ZV1dfMmo2VS1GSkZYUlpYOEtYQllFSGo3TVhiVDlodGp1V19QT2ptel9lM2NodUhVZ0RUQzNHRkFwc2Q5d2tFNDh5V25lVlQ4QzlJS1NyNUNQWWtJM0hmaE9nZndhMUNWZXJITTJBejc0UWxSb1BQQ0x0TVQtYlBOQ1pPWUI2ZU5XSnZJQWtnT19ieFYtbjM1dw?oc=5"
     }
   ],
-  "open_postings": 9,
-  "long_open_roles": 7,
+  "open_postings": 5,
+  "long_open_roles": 4,
   "sources": {
     "ats": "ashby:extend",
     "edgar_cik": null,

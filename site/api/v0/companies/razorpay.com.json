@@ -1,14 +1,14 @@
 {
   "domain": "razorpay.com",
   "name": "Razorpay",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 2.0,
+  "score": 3.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-04",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/razorpaysoftwareprivatelimited",
@@ -24,6 +24,13 @@
           "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4747985005"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Razorpay Launches GIFT City Payments Platform After IFSCA Approval - Fintech Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGtMNm1Pd1dhQzRTWFJkal80WHpLclc0SUJTeTM0d2FVOWpDZk1tVnNHeGY3SXphYlJkcmczNFU0dDY0MXlNeXRJYWs5WGJaVFR0NHdKQ3Z2a2JGdncydjBaWldONUZfWVpOaEZPQmEyelpocW1UOW1Sc0ZnM21UT2NxaFYyLUpR?oc=5"
     }
   ],
   "open_postings": 28,

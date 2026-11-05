@@ -1,9 +1,9 @@
 {
   "domain": "apollographql.com",
   "name": "Apollo",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 32.9,
+  "score": 32.5,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-20",
       "summary": "Apollo-backed Apterra Infrastructure Capital appoints [person] to CFO",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObHIzU1liSGdwTFlKUDlvcnoxc0JxMGRkNUJ6dWlYOUdrNE9YMmhJc2ZJQzB6WXlOVU13Z2RtWmhBeXk1Q3RHclpvM09NWTg2ZU5QWWRWajdWQzYtemNFXzdNYmN0a19DaXBqNS1mTUw0ZHp4QW5lM0xld2wxSWxtWXJ4dmRtbjdSZVpiZnhLaWJTX1FvTVA1ZXhR?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "[Apollo Global Management Q3 2026 Earnings Call] Apollo Reports Record $802M Fee-Related Earnings, Launches $350M Market Structure Push to Remake Private Markets - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xOXZzcTZYazc2WVBtWHpOQlQ4TnloRExGX08yQzdpdWwwcXAxaWJZdW9QeFJJczJpUGxVQVpnel9DczV4S1NTb0xjR0lIRTVwOWNocTdFQ0drdkFG?oc=5"
@@ -161,14 +161,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Apollo’s Runtime Testing Framework",
       "url": "https://www.apollographql.com/blog/apollos-runtime-testing-framework"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-07",
       "summary": "Introducing Apollo’s Next Generation Query Planner",
       "url": "https://www.apollographql.com/blog/apollos-next-generation-query-planner"

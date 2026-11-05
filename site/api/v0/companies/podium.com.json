@@ -1,9 +1,9 @@
 {
   "domain": "podium.com",
   "name": "Podium",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.2,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -51,7 +51,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Podium Coffee Club Launches the Podium Index, the First Leaderboard to Rank America's Coffee Roasters by Competition Results Alone - Corsicana Daily Sun",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUjU3Nkh0Sl9YSDJ5aTNlX0I0T1g2RFRrU3U4M0hfSGhOUl9mZ200TEhhM1FuRGZPTkdHTUx3ZjMwRENhNzdOd2E1eGRVVTE1UXlteUl4c3VXVy05T3VEeUNCUVFOc0VXMjJMcHMwaFdnYTUxbHpaMkNCWnhXdlR0aTRDaHhOaERQekg2QkxSNzhiM1BSVVpob2tXMEpxOE1SYnBfZGJpTERUelFCNFd5MnhYMGluVFhYME1tMmNXT3ZUY1dCT094dUNjYmF4a05EZWNLWEhwN0txLXBQVXpYUmItX3ZRQVJzRGh6cndLWTZETEFySl9WeFY2SDhzQVZWSkpwbGhDOE5BQlZLVkhMcWIzWU9QVUtKSkJoZA?oc=5"
@@ -77,8 +77,8 @@
       ]
     }
   ],
-  "open_postings": 69,
-  "long_open_roles": 36,
+  "open_postings": 70,
+  "long_open_roles": 37,
   "sources": {
     "ats": "greenhouse:podium81",
     "edgar_cik": null,

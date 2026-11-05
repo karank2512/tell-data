@@ -1,10 +1,24 @@
 {
   "domain": "launchpointhq.com",
   "name": "Galaxy",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 16.0,
+  "score": 18.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users - The Block",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBwdFFkaGFUcGVhRkJDTWF6UkdveEJTa2xFaTRkZ2ZkMHVyak45ZXNJMHc2WkxNaEcwVUJLYTNFVUN1V2E2ajBubDVnT3p5ZlBQQm5rblBMMXpDX3pzUFR1NnVtcm5BTGpkdzlqNHhzVnRRLWtUcEhxYjNOdjJ0T3BoRmlCVUhtSzlpNVl0dkpwakhuR3ZqVmhwV3o3WldIcWQ2LTctQVpiZFpNellvR1lHUDduZVE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Star Wars: Fate of the Galaxy launches for free after fan game spends two decades in development - GAMINGbible",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjdsMndNWXNOMnUyZlVBQ2txYndEYVFKYjUwVjFXVnA2QjBKbjF2MUFvamFLMUdqUlNFVFcwLWM4cEVybENseERibUoyN3ltaDZQR0JjMmZscmVXckFEbVBQZllqVFhyUVBHeTZUdXJfOEtzcnZYZXhwdGk4SmwySUtLZkhJRjROUVcwNldBUXJNMlFoeUFQSg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Samsung Launches $229 Galaxy Buds On in the US With Open-Ear Clip Design - TechRepublic",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYll5N3FWRFJ4ZzhfSHRlenZ4c0d6SHEyOXhWNGlBWlhhQTZRYWZZdGVVRzNEdV9QamRqeE1EbkFSYUtlODVOQklDbEtrTndEaERjeU03WnZvOW9DV3dpX2ZULU5FNUg2NFJ0cTd1aW01TVpqcUtXUkZKdk5GNmZGYXlUczYydldvTEhIRURrNm1kZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Samsung Rolls Out One UI 9 Update to Galaxy M07 and F07 - SammyGuru",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XdlZtRENqOGZiQ25pVmlHQ3VUa3BGV0pTQk1lNmkxemU0NjBLaWtKaWNJNTZGbktnU2gtQmpXczUtSWw5WE14TXlnT08xUk9wRlpKeG9hYV9vcUlod3pBMXhuUDFWR25CNVo2ZndR?oc=5"

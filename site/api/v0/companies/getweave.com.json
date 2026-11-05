@@ -1,10 +1,17 @@
 {
   "domain": "getweave.com",
   "name": "Weave",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 6.3,
+  "score": 7.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Prospecs Launches Three 'Dual Waffle Running Fashion' Items Featuring Distinctive Weave and Color Contrast - 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTG1LRWQ4NHE2WExxLVVhNnotSUxUUWx3amhtWnRWQ2QydjhZQll1SHRYSnVaRWtwQ19KQjd6OThCYlNjbkNSNjB5MWl1bGdMT0phSXd1VWlSN3FBVU1jakpWM0xsMDBSY0NSYmd0RG9QaldqX3lkVjdEcjdsLTNVdHlNOA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Fire Emblem Fortune's Weave launches Expansion Pass, first wave available now - GosuGamers",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3JCaXdTejFCdWhxb1h0c3V5OW9pdWdFUVlBY1QyTlhtbWVQakZIM044eEpTVGg2RlBzbE9TYzdub2c1dThZM05nM2VFNTVvTUFTM2liME5ETUc1QWlRU196alJuNmE0ZkpENW8tM0M1SGdoZ2N6ZXBMN3IwRXFsdW0zVzNEdW9QVkpYelR2YVN1WGh0SDJDa3ZIdUZQWUl4LWJhVGd5Sk9qbENvQ09CWUtBR1BEZ24zRGJUTFdfUHFGMGd4QVJZ?oc=5"
@@ -66,8 +73,8 @@
       ]
     }
   ],
-  "open_postings": 27,
-  "long_open_roles": 4,
+  "open_postings": 30,
+  "long_open_roles": 5,
   "sources": {
     "ats": "ashby:weave",
     "edgar_cik": null,

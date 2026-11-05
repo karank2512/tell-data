@@ -1,9 +1,9 @@
 {
   "domain": "agent.nexus",
   "name": "Nexus",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 34.3,
+  "score": 33.8,
   "contributions": [
     {
       "type": "leadership",
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Sonatype Unveils Nexus Repository Pro+ to Stop Malicious Components - SD Times",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRzdjOEdtUlVyakVmbTF3QlRmeXFOb1hBVzh2SkJ5c2tKd2tmall5bGhBYlc5SXA3cnZDbndsMklrNU44QzZtM3BFdXV5VEp1Q2JkU25weXRoVDRoaF9vOXpHSEZwbVY5SFJvaEFtZ3dUaEZUYTZMaC1xNFg5M3VzSi1FcmhGY05UX2VPS2Z4c3dPX2tuN1gtVmFtTXI4bVE?oc=5"
@@ -140,28 +140,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Georgia Tech unveils ‘Nexus’, a $20 million supercomputer - WRDW",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVNibVZuY0thanBCRmxBTjVxb0RvX3poMlJMRkVmSVIzR3o2SlBjNWdDQjFMYTVHc3FYQXhPbVF0aUljNTNJRHNNc2xPdjlzZldjVUFZa2Jtc05td053QjYyQ1dkOE4tWnlEOVBENkNGWDl4Sl9DREh5Uks2VTQxUWtreXJzdXJVN0ZkNFR1eTJ6aUdF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-12",
       "summary": "Georgia Tech unveils ‘Nexus’, a $20 million supercomputer - Atlanta News First",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHAwQk5GdjFoRi14RW9jTHpMZnNtd1lqWTBpTGFoaExNMURPU1JWd2R4VVo1S0NHaWs0WENYeF9wLVJDMEFhSlRWSG9Za1l3VF9JbUJLLWRJVXJJaS1ZeVBTUHoxeXhjYVdnakV0bHlMZm16bW1oZ2x2bWh6akpEODRUVWtWbGcxQTk0ckFQLWlad2ZzbUZURXU3bUTSAbABQVVfeXFMUGlCSU9wakFsNXBGd0sxVThRaEQ0R0RianBNcDBmSFF2Rzc5X2N1Q1djWTJ4eGxzSTRmWnJWWllGTDhGVndHNXRZeDd0SFRDMDlXLUNKLVkxYUFxc1RxT3ZjQ1JkMkV1SFpteG9helpnSnRsRzY5VXY1LUZmSFpFU2t1X1lHVUZOUFp6TW9OamJ2QTFVbmFEeUNPY1ZEQlZRVHU1Qi01bnFRQ25tZk1NNUc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-12",
       "summary": "Nexus Legal Group Launches National Roblox Exploitation and Abuse Case Acquisition Program for Plaintiff Law Firms - ACCESS Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3BqOUoxZ2xHNXVFemlQUGN2MDFmUHVuaVRobWVST3JOQl9UU2ZYaHd5aDdfT1pQUWZ3U21MS1FxeXJiS3JaSldNel8xTXpodTUxaDZkQ05idnpKWHgtbTNKX000RUZXSG0wNk9qS2s4bmYyYThjRmlRa0FQcGh2SjJfNFRsZ0JfdkdqU0t2ZXB6QnVLVlVsMHp2NzFtUFZkcTQxOU9EdURzYmtkV2lreU9XbTYzbm9lREJiZWF4SHNnUXpLTVVvNVYtd2Fzam91Z29iV2s3LWRCb1dBWUJPZDloS0Y?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-12",
       "summary": "Nexus Legal Group Launches National Roblox Exploitation and Abuse Case Acquisition Program for Plaintiff Law Firms - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcEV2c2FNUi1QVDN6cFMwZzU3MXpPYV9jOUZreW1yWWVvc1BsU3hId0FjNmxLWHRqTFFmMkdlQWdrNmwtaDVRelJZN3RkTHFWSHNzTUItMVE3OTRQQkhFajA3d0VibFBDQmI1WnM4U0kzM0lFRVpXMUpzYllWN1ZLS2EzWDBFVFE1WjdfeFhmVXdLZXpYWHVKSmgwZWV6X3Z3TmJWSzRRclFmbk94ajNQd2xpWXUtS2pEWXRrWms4SDdWSUE1RHRFUGtNQ0Z4dWxOZ0hsQjFQRHhjRjNnTThoVVA4cWlwTm9aMkFzZUhwTHZ5UmxkM0VvQzJYYU9qNlVkbGdXNUlzOA?oc=5"

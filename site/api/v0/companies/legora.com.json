@@ -1,10 +1,17 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 14.2,
+  "score": 45.5,
   "contributions": [
+    {
+      "type": "funding",
+      "contribution": 31.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Form D: $550,000,000 offering, $220,820,026 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2071663/000207166326000002/"
+    },
     {
       "type": "hiring_velocity",
       "role_family": "sales",
@@ -86,7 +93,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Legora launches Intake: an \"agentic front door for in-house legal teams\" - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTFRYXVOZmFVZzdBeFBtUjM3aXRJMDNNYlVwNzRBQzRMOHNlbVh6RGUzZ2ZtMlZELWJnUTJhdUlVZWNoUmoxSlA2ZHJpaGdEeFJZT1NqRFZBM2RpM0xKZFZGRVVrZFNEQWlRRFhjS0JDWUtsYUt3MXJJV3FHa2JLN3ZseUhCZmFJQ1NwQlJnUWJKRlMwTms2Y3NlSkl1Zlk?oc=5"
@@ -119,7 +126,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-21",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -142,11 +149,11 @@
       ]
     }
   ],
-  "open_postings": 313,
-  "long_open_roles": 105,
+  "open_postings": 314,
+  "long_open_roles": 107,
   "sources": {
     "ats": "ashby:legora",
-    "edgar_cik": null,
+    "edgar_cik": "0002071663",
     "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",

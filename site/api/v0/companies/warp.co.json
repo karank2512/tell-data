@@ -1,9 +1,9 @@
 {
   "domain": "warp.co",
   "name": "Warp",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 8.6,
+  "score": 8.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-23",
       "summary": "Kevin Weil Launches Warp Sciences With $215M to Build AI Drug Labs - H2S Media",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbml1UG1pcDljUEVoSEc3Z1RPX1pvbE9CZGZaWEpfUm5pbkg2UTZvZk52cFBLVjJZbnZNOVVGNHMzY1NHTHA0V1E4aFNOTG1lZlc2bGVBYXZUcmJFY2FOQlJaZTd2eWFjajBBUE1BdkxQd251bk1kZXpXd0F0ODlEWmVudENLWUFNQ1FrcG9TRW5qTlRweFhXR1BvR2prelBIaWtn?oc=5"
@@ -55,7 +55,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenRzY3ppQ1RhUVE5SUs3TS14QlpHV2QyNzU4UHNBbmpoaGlJb1RTRjZZTnRDaUM1d1NjOFo1VUtJWExXRkxsRzVHdUdVRkxEN25NYnhxalRuazFCcUVkSDNXNy1oSlo0WndmQ3djNjk0QWJuMUMxQVRUU3d3NGU1ZVpCR2hpcEsyd0ZXN3ZqbmhJYS13eEduVTBvM2dNQTZveFd1c2k0eGNUYVJzSlI4cjg4WGJxTngyenlXc3dDV3BGR2VlSEFkb1VxV0RBRzFPUlhsUXFRbHRaOWJGYlE?oc=5"
     }
   ],
-  "open_postings": 19,
+  "open_postings": 18,
   "long_open_roles": 12,
   "sources": {
     "ats": "ashby:warp",

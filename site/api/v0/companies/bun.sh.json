@@ -1,10 +1,17 @@
 {
   "domain": "bun.sh",
   "name": "Bun",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 7.1,
+  "score": 8.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "KFC Launches Avengers: Doomsday-Inspired Menu Featuring New Doom Burger with a Black Sesame Seed Bun, Doom Dripped Wings, and More - The Fast Food Post",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU0NDd0N4bkJZQmtjVy1icS01RWJVUXBBSmVOVEZNUHc0QjRZb1I5ajV6NUZCWjh6ajdqQm9iX1IxSVAwNi1aZktXVGExU2RJeGgtY29DXzA1NHVpcWU2SXRDRHhUVTYzMlhSdktyX045VDl2V0N5Z3F5cjhtY2VTV2g1OHhlODhEYzY5dVdSd3QwVHFaSTJSVldHdG1INElsTG83X2otbElrT1FVZ2xVR1dVcWRsZEs2Szg2eDdsRWFOMXREa2ZSbGNtQVVpZmhwZDNhLThiVDQ2WWotWFgtbWtUODFhVnZQWS1fZ2Vn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Starbucks Launches Pink Protein Drink and Pecan Sticky Bun Latte for a Limited Time - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckgwcXE3aXc2Ulh0eE5oQWVvLUhDbzhMUGZSb1ZaTy1sa0VSNno2UHcwYzJ1SjM3SDlBa3BSazMxaW5GRGZwazdpbDl4aHVJWEd3WUExWWZlZFNhellkRlFBbURqemtHYW55RnBES3ZuRXM3S0hYVXhabUhWTVFUemVqMW5uSTRW?oc=5"

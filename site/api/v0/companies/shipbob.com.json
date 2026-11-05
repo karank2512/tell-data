@@ -1,7 +1,7 @@
 {
   "domain": "shipbob.com",
   "name": "ShipBob",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
   "score": 2.8,
   "contributions": [
@@ -36,7 +36,7 @@
       ]
     }
   ],
-  "open_postings": 67,
+  "open_postings": 69,
   "long_open_roles": 19,
   "sources": {
     "ats": "greenhouse:shipbobinc",

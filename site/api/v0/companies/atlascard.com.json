@@ -1,13 +1,27 @@
 {
   "domain": "atlascard.com",
   "name": "Atlas",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 13.2,
+  "score": 15.9,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "ATLAS OCEAN VOYAGES INTRODUCES 16 EXTENDED JOURNEYS AND NEW EXTRAORDINARY EXPEDITION FOR 2027 AND 2028 - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMFY2clBjdzRDVFRvRmN0WFZ5eFRxV0JDTG1BT0EzbWZmS0dyZmdxMVIzOGk0V20xUjROOW1aRWw3RldFZWo4WHpybFEyU2l1V3c0dXBYb2YxZ196YWJJUXNsSm1WQ3BrbzBqbHRpMFQyblRYWFR6VGZQcHdpOGRJbURDczF6NnpwN2xzRm14SWFYM0xROEFYTmt2bXZROUxRUUlhNVBEcGJqdEQ1Ym9aR29QMDNRWDFxbHdaT0o2VWNZb3JseEkwVFEyYTZxQlRpaXhQYmRsSkh6Ym5QYnhYUnJCMEtuUjcwNTJYRVRlLWtsRXVVQXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "EPFL launches spora, an open tissue atlas for cancer AI - Greater Geneva Bern area (GGBa)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmtKaVVrdldrRGJrbzBvbEpCaS1xdWIxa09aV1lCTWl3OE90a3ctRU96dXUwNFVPYUNhRFEtMnJ0Zm00d1lUTU5zcHVkRVlwenB6UXdkX3Vja0hjNjhUV0JtVlRhSHRINjkxSGVIVzZTTk1JUlp0M0JCcFE0NHN0Z0JQNVVPNTlucEx5RzV3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-02",
       "summary": "Sharjah Film Festival Takeaways: ‘Atlas of the Universe’ Takes Top Prize, Pitching Platform Doubles and Audience Award Debuts - Variety",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeko1VFJnMGVVNUJHd2RnZlFwNklqdlEtaWhOcXh1ZV9EQkxyX1BkWjFIVmQ2WVZiZTBPQTRNUHlmRzVkbEpMZFdIWjcycnZjUUJ4cUN2VF81S1BwY3JTLVZOQjEycGxaTkdVLXJNLWtmUkRzTVZPaEpxMEFMZ25RYXFvWTViRlNZb2dMbWVqOG1sTm5GZ0tud3MxN1ltQQ?oc=5"
@@ -35,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-23",
       "summary": "StorageChain Launches Atlas, Its Native Enterprise LLM – ‘Keep Your Data Out of Big AI’ - AiThority",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2RUcU11dUpvQ25ZYkxHbkF5ZG90TGowUVpXeHdQNFc3a2xZcGZLLUZzT2ljXzVST2xaVVlkblN6N0ZYQ1pGem9SUDR0TWIxaFRVZXhtbEpCdFNsb1p3MTNyX0h1WDJ3UTd0RmJWV3lrbXZGQnZFZkxBQVNjc1NXQW5sMGtRS1VmTERiZWZlYU13RlZxQlZCZDRVVkNZNTE4b1NGbkRDWVBBU294ZlFaRUtCaTNoOWlndnVVanlUQQ?oc=5"
@@ -83,7 +97,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlN3VmswZUhLNDdwLXpZSnRXMTJWbzBlU3UyT2F0Z2ppcnB1V3NMcW5RY3ZoV1gtMkpTZC1rVS1ISUtvMkpZdzcyTGg0dVZFOE80eF9jYWRnRHUyY3J1VzktTGJoWFlfN1Z6Wmk0djRaUGpNbjdHZmNSX3pBX2F5QUF1NlJuNWhGelNJQzlsWUlaWUNlRjY4ZzRPNUQ1MHFfUnR3X2QyZC1rc0JONlZrR2NpQQ?oc=5"
     }
   ],
-  "open_postings": 1,
+  "open_postings": 2,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:atlas",

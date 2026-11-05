@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 25.6,
+  "score": 25.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 5.7,
+      "contribution": 5.6,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-10-23",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -88,7 +88,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -169,7 +169,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-11-03",
       "summary": "4 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -213,7 +213,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "5 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -271,8 +271,8 @@
       ]
     }
   ],
-  "open_postings": 221,
-  "long_open_roles": 62,
+  "open_postings": 215,
+  "long_open_roles": 57,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

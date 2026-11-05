@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 22.2,
+  "score": 22.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.3,
+      "contribution": 11.2,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-16",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -78,7 +78,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-09-30",
       "summary": "STARK Unveils Vanta 12 USV With 1,200-Nautical-Mile Range and 10 Kamikaze Drones - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3pzbFFxb3drZElSOTNoWXBTcUFOb081czduTE1JclJ2cWFfcldMLUN5VkhnVW9HaXRwVV9VbktERVU5OVByREdaOGk1VU5HbTN2RC1OdzB1b203TVhHTDZ2d1plMkkzQUFTQ254blM5OUFVZi1fT2hONUZ1R19tNmx5SFp2YlVNUU0wVERDdkdHMHNSLUpzUlN4S05KUkhKNTBqWExSd25jdU0wV19xS0tB?oc=5"
@@ -145,7 +145,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.4,
       "occurred_at": "2026-08-04",
       "summary": "Pwnage unveils Vanta wireless mouse with adjustable clicks - KitGuru",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXZaaHM0Y3ZaWmI5Z0ZtTXNwVkxraDJiejhCMG4yeHVldlp3dGpZbmhTSGJSSXJicks4R3dnSS1neHhGcWhQTVdIdFViLUdlb3I1TVEwZjAyZC01NWxLV1piakVkSC1yZDJXcllSVHF1cFp5ZUJtTDFLVDVkOGczNi0zeGRhMjN1ZFN0SUJtTHlQT3hpNkN3dnRLbklhZGYzZXNjclFEVmtfQU42VkRiYVF3?oc=5"
@@ -166,7 +166,7 @@
     }
   ],
   "open_postings": 84,
-  "long_open_roles": 18,
+  "long_open_roles": 17,
   "sources": {
     "ats": "ashby:vanta",
     "edgar_cik": null,

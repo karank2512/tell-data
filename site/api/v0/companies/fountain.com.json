@@ -1,10 +1,17 @@
 {
   "domain": "fountain.com",
   "name": "Fountain",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 2.0,
+  "score": 3.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Meet Mo Odukoya: Pastor Jimmy Introduces His Wife to The Fountain of Life Church - BellaNaija",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcTRTY1ZUczR0TldYSnhhQTJSbFN3TEVHa3VaQzZvaDlXRGlBNE1rdk5LR3VFcnQ2QmExcVIxQkNUbUM0X1FfMFF5Ykk0UVpOVmFvYWJoRDlLblhlMEtyN1dZVjczVlo5YW9jdmxTbUR0UHdPeUVlaTlTSXZqNkRwYmZYZW9lT2ppbEFJ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

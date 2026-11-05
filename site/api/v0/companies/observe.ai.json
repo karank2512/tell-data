@@ -1,19 +1,19 @@
 {
   "domain": "observe.ai",
   "name": "Observe.AI",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 1.5,
+  "score": 1.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Observe.AI Launches Headless Companion Agent to Bring Real-Time Guidance & Automation Into CX Agent's Desktop - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeUN5bzhYSGhMU1ZIV0ZYQndPcmU1T3VVbVM0MndPNDF6b0N1cHJhWWhTU29xejNzd2hya3Y2WHpyVGRBd01Eci1FaXVQcjVMRnZIeHEwR3Z0YlFDNTVnWVdNYWt3QWpuLW8zUzNaaVphUDhPQklLNGszalRHMkRpWlRlR0xmYVBnTDlFUlQ4S1pwOUhWNWpzTldEV2pPRThnN2t6Ui1tQm44ZkZ4czQ0MmxCeVRhc2IwYkxFd3pwTWREYXVieGJWdGt4MVRLOFQxbm5xT1M4a1EwLXhXR1NaUVJGSHZfUHRjWVFvQWVnOEd2REpW?oc=5"
     }
   ],
-  "open_postings": 10,
+  "open_postings": 12,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:observeai",

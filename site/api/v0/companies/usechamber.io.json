@@ -1,10 +1,17 @@
 {
   "domain": "usechamber.io",
   "name": "Chamber",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 17.0,
+  "score": 23.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-04",
+      "summary": "Redding Chamber of Commerce names [person] as president and CEO, effective Jan. 1",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObE05TGlGZGd6Wi1abXVMWnR1X0FPUDB2dFpLTGFjNjZLQXE5eDF1UGtuTnNoUlM3R0RPTzRYOHFSVGpDNUtOZklBNDJyQjZ2S2JHNjF2YlhzbzRjS3BSMDZoOF9hQUoxYzY1RnlvRXdlX29iNkFxZjBMdXVPdG1jcjUweThMWXlVUE5Ld1JQbmc4RmIzbHpzRkRHTXR1Zmg2c3Bkdk8zaWhrQnRacjd5bTNR?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -14,14 +21,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Gallatin Chamber of Commerce launches leadership program at Howard Elementary - Main Street Media of Tennessee",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYnNHdnY3VFVRa2NwbUpZaWxlOTdmdmRtaGJLUVFMMlhsUVNwNlY1YzJ0QTc4UWotQ2pKdDZDeWhvQlhFQ1JJWXZLeHFxRmZkTXY5NV82NW45VDBTNlVQeVp0a1ozMEsxRUphR3Rfd2IwdU80cF8zYWZTNHlLS214d2szMG5uLVdQX29HQUdIQ1pGb2w3bkhiQVVhTm5MMXp4LVNGVTA1VTlJbDM3amo3SWo4bTBqSDVkOUNIWGtjVWN3RHFDUDJKYUNR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "St. Francis House launches chamber fundraising campaign for major expansion - Pigeon605",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ3BCcHJCWG5wdjM4LTlqbzBEa2JNbWRGV0xveEFCc2w5STRkT0p5NXZlVFZxclcwc3ZwS3k5OFlDekg3Qzh4SEd1WWZldGc3dG5XZDB5TVpFZzhIU3c4VXpva1V4bUprZkVHNHZKT21SYV9oMjZXSjA2Sk8zNlp2Q3BLQUFIWXFsbTdobkwwRTBpSGkzSmVTTkh6T3BNdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Groceries in a box: Former Brookline chamber head launches new startup - Brookline.News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanFHOUpzQVFZSzgzQlVmT1l3MjNHUWF3T2Vocjh2RGtxdnl6Yk44OS1uaHdQZU1SNk5ockd1c1loZXo3LW1tdm1LenV4UWhIR1hYcnBqcmVMMS1IZm1SQkZMX0lTZnI0MGg0d0loVnRFUldxRldrQ01EdmxRQWNiaGVCSFFta3M1V2F2VWRSMVBGYXFrRWdLMA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Fontaines D.C.'s 'Dopamine Chamber' Debuts at No. 1 on 3 Album Charts - Billboard",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVpkSjJzbTktd291UGhNVHVJakxBbktUR3BLVkc0NXk2a012dE9McXd3MkZHSGpDbnNkWnVHUFg1SWx5MUpCaXprZ2UtME5Md09kTndzX3JiRWN3MURaZTRFQ3Z4TTZfcUdlS2g5Z05Rc1U4VjNmVDZDdllyS2pjdVRjVXMxdzJEdkxjcGZ2alVzVHBEeDRPRXlYSTUyRXFSak9pX3U5OXJjdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "IOP Chamber releases statement regarding Acme Lowcountry Kitchen’s Proposal - WCBD News 2",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzV1NWdDUHVLQnViNXhZLU53TElIRkx2N3FQQ1A0THlTM0NaZFZRbUhCbTlybTdJdmFTUWdjODZyaUlOaDNFWEpaLThFNlRrSV9rMjlMczhmNlVLTWhDeEozaHRGOUNpQmZRSmVQa0Z1Wk9RYkRGUWRvTmhTaFVYSm5hblBLX3I0WC1XY2lJbUR3WjZqWTJTb2lQdXRLUFBOSGdKNnlsV1nSAa4BQVVfeXFMT3VNTlA2SUpGTHdhSVM5VktnbVA1dm5LZmQ2ZWxUWURUY2QyZUZKdlZTcHM3bmZQZ3d5Qm9ad3JMdk9KMVplRFEtMm9SWWFHVGZoWnBGSC0zWTd0VUNyM3lpdUJ5WWExaklxOVpqZ1ZXUC10TjVVNkFQSVFUVjhNOXVleUJWZk9JMUU3VjBNelVLNHhyVkRJaXd3N3EyNXhONWlRSF9aWUF0b0VLTHBn?oc=5"
@@ -56,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Duluth chamber launches national search for next president, CEO - Northern News Now",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLU1CY05PTkNFRjlTT0dGdEc4RElfMUVIVE0xRDVXb2Vza3RRRlItUzBkTk9BbEUtclZWV3BCM3VYajJwRmtyN2JYX1RCNm0xX3lZZUxJM3lvTW1ES1VEcU9DandYNmxUSGNtZmVvMnI1aHFjVDVYd0daRmRmSWU4am1YUEhfRnJuQ2JoT1F4MGtPQ3JDWkQwS2g5R1J1THQ3aVA4btIBuAFBVV95cUxPTGhfdnVjRm9lWGpfdnFkdXZ6NHJROEVJRFpyU25DdWVFY1hkLXh6X3gyWnpFcUlSTUVWbDJhYUpobE5HMUpDYWdhYktSdzRsYUl3WDg3bTJDdFNoWjBXaEZjYkpaQkxyaE0zS2J4ZlZZXzlRbG41a3BxblBuNnY1bEVPMG1OakM3Y1hPNVI3RFBCejZyX3B3b2RBc2JiOFdpbjd6WE1vMEtDR19lS2pIUHZfUjhadWRL?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Duluth chamber launches national search for next president, CEO - Northern News Now",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLU1CY05PTkNFRjlTT0dGdEc4RElfMUVIVE0xRDVXb2Vza3RRRlItUzBkTk9BbEUtclZWV3BCM3VYajJwRmtyN2JYX1RCNm0xX3lZZUxJM3lvTW1ES1VEcU9DandYNmxUSGNtZmVvMnI1aHFjVDVYd0daRmRmSWU4am1YUEhfRnJuQ2JoT1F4MGtPQ3JDWkQwS2g5R1J1THQ3aVA4bg?oc=5"

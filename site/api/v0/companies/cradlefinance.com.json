@@ -1,10 +1,17 @@
 {
   "domain": "cradlefinance.com",
   "name": "Cradle",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 3.5,
+  "score": 5.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Malaysia launches ASEAN startup digital centre at Cradle LIVE! Summit 2026 - TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlRUS0hMV2ZjTzNmT04xc3dPMjVuc0piQzJNeG94aGdMQ2FOcWltYWQ1S2plS1ZHaC1pR2diOVFsUEdKckJaVkQ3YXpCZHRsdm5rZUdmdEthNk8tSkdkNUpPVUFreEdDTG9TX3kyRTVQSlZYSUhTZElkOWR2dkFGbU5tek01cmRtRzh3ZVI0OVFUUlJXLXdNVEhxSDFpQmpyNjJUUjdURWFUQjZKb0E?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

@@ -1,9 +1,9 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 7.2,
+  "score": 8.5,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -57,6 +57,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Double Dice Launches in US Following Success with Google and Instacart — LBB - LBB - Little Black Book",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGMwRzRvbjRYQzVOWFN6U2VLb3ZQUUV4X2g5QllRdXpmWHdaV2doU0dBS1VuTGlYU2QwZEhmZmRMOWFyd3dhYUtNbEU2X0wtNUxNT1VST3VET0cweV9Dc1hMWEhwZjFIVWJMVTlZeVotdlNWQmhVNFV0ZmtKdGRmRlJSenM3ZUgySnN3WEpwN3Q4bWEzQTZxdmFONk81N2hFbUJr?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Big Y Foods rolls out in-store kiosks, online delivery with Instacart - Chain Store Age",
@@ -90,7 +97,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-22",
       "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -113,8 +120,8 @@
       ]
     }
   ],
-  "open_postings": 94,
-  "long_open_roles": 22,
+  "open_postings": 89,
+  "long_open_roles": 24,
   "sources": {
     "ats": "greenhouse:instacart",
     "edgar_cik": null,

@@ -1,14 +1,14 @@
 {
   "domain": "colabsoftware.com",
   "name": "CoLab",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 5.3,
+  "score": 5.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-24",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/colabsoftware",
@@ -60,7 +60,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmItMC1mZGpqaExCZ2JmXy0wSVFIRTZPM3FyN1RMMU12d003WUFVVnotemdQOEFlS2lXUzJ6SHlnRjRIQktWazJfOHVhQWV1NFN5cmlyaWFmVVdncGtPRUpEQndDb0YwNTh5NHhoUkRsQ0N6OVJ4akZOWU9UUjNQOVZfSGpUSi15TVprVXd1dzRBRUNDX3RnUVdRYlVfRXVyaDdLeTZ1amJVNGhSa2pJTA?oc=5"
     }
   ],
-  "open_postings": 24,
+  "open_postings": 23,
   "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:colabsoftware",

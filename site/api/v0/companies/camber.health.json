@@ -1,13 +1,13 @@
 {
   "domain": "camber.health",
   "name": "Camber",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Camber introduces generic Suboxone - Drug Store News",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fZl9UUUpOV2oyU3U0U0lQSVJGS3l3d0lGUHdCM3d5c3plN1c1QXhpd2RjQmFVekxqTzBsVk1raW5weEJGVzhLYmRyNU50cTJJeUtlN3ZZeGNCN3pUX21aMGFndUZ3TFpTSGlrRA?oc=5"
@@ -41,7 +41,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QU9kR0piR0U3Q0lKbUMwZ2xXUC0tN2NpZG1oQnRqUEFQTERkZllSU3hHZF9MYndIVmhkcnJOaWdkQ0ZUMGd3LUlGTVVwQ0tZMFVLTURFMThfSHVWWG0tOHpMRk5qZk0?oc=5"
     }
   ],
-  "open_postings": 15,
+  "open_postings": 14,
   "long_open_roles": 8,
   "sources": {
     "ats": "ashby:camber",

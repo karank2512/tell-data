@@ -1,19 +1,64 @@
 {
   "domain": "chipagents.ai",
   "name": "Alpha Design AI",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 14.5,
+  "score": 17.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.5,
+      "contribution": 14.4,
       "occurred_at": "2026-07-29",
       "summary": "Form D: $59,999,917 offering, $59,820,856 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2032488/000123191926000810/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-05",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc",
+      "postings": [
+        {
+          "title": "Country Manager, Japan",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc/c7898ede-1f5a-4be3-bf0d-57ffc0a307c4"
+        },
+        {
+          "title": "Account Manager, Startups",
+          "posted_at": "2026-11-04",
+          "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc/df55e698-1aab-49bc-8d83-4d46ddcb7ac2"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "ml_ai",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-05",
+      "summary": "3 new ml ai roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc",
+      "postings": [
+        {
+          "title": "STA/Timing Closure Lead",
+          "posted_at": "2026-10-29",
+          "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc/d821d34f-7411-4ab9-a9ba-5121309c3050"
+        },
+        {
+          "title": "ML Systems, LLM Post-Training",
+          "posted_at": "2026-11-04",
+          "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc/53bc58df-f12a-4197-b075-941dd62e41a4"
+        },
+        {
+          "title": "Research Engineer, ML for EDA",
+          "posted_at": "2026-11-04",
+          "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc/1371cf9c-3481-45c1-bfa2-7818b529e8f5"
+        }
+      ]
     }
   ],
-  "open_postings": 13,
+  "open_postings": 18,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:alpha-design-ai-inc",

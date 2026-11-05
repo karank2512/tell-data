@@ -1,10 +1,17 @@
 {
   "domain": "beepnetworks.com",
   "name": "Beep",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Sui AI Finance Expands As Beep Introduces Mosh Social Investing Platform - TronWeekly",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83MlFtWU0xTW55NmF0MFp2bTBWenpDRGxlQkdQRlM4TEYtRzh3dlRrQUthaE9YVTBvZFhRMmxqY1N3ZERybFItQTZiV0dUTDNBVDJ4dkhLWG5EVHZiNkFicjlvQ2lrY3hpOXlJeHJON2NsYzJ0THZXUHdXRzFJQzQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

@@ -1,10 +1,17 @@
 {
   "domain": "trellistech.com",
   "name": "Trellis",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Key facts: Sprout Social, Inc. Class A Reports 8.3% Revenue Growth; Introduces Trellis AI Agent - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMVU4c3JMMUJVazNId1NoMW1fMGhEYXBWU09qWV9YMS1xNnRNNnNTUEQ2RDVkN3dHdGZUUzZZZWV5WElJVHdfSkNVdFRBakowUlpMektfX3YxUFVnY29CNnhIMk81Q29qUFZTTW16SVhHR1BnN3VqN24xbnpiQTczYjJvajN6Zm1UTEppZGU2OEN2SC1TWW9sb3ZCTnR3LVZ2Nk1ycm15d0N6NTVBSEdSNUtqc1VJM3habnNyVTIxWkhTX21ST3lJT3BqeENCaFBhOGk4T3k0dkt6aDhJbTRTcElkcmM2QUU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

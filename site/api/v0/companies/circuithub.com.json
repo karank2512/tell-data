@@ -1,7 +1,7 @@
 {
   "domain": "circuithub.com",
   "name": "CircuitHub",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
   "score": 1.6,
   "contributions": [
@@ -56,7 +56,7 @@
       ]
     }
   ],
-  "open_postings": 11,
+  "open_postings": 13,
   "long_open_roles": 2,
   "sources": {
     "ats": "ashby:circuithub",

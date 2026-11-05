@@ -1,16 +1,30 @@
 {
   "domain": "ben.co",
   "name": "Ben",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 2.9,
+  "score": 6.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-04",
+      "summary": "[person] joins SSMC as area sales manager",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbnc3aGtCV1NPODZYd05JS3h3UXI2YWN0TUZMR0c5MFVJbUVRZUJLakRLUHRyektGdlZvZjNlTW50cUp0MEhzUE0yTkNxYVl5SFMtSUNIR25wM25RUUtFTnRza0I0M3lwd2ZfQ3ZNVEhmdkZXd1lId2xNRWlyN09lTGwwZjdzd1VYNkZLOUZUVkNjSkk?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
       "occurred_at": "2026-10-26",
       "summary": "[person] joins Capra Bank as Head of Commercial Banking",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmViaWFtR24wemw1cGNrZkhINXpvZzVOc0ZmRF9ObXZ5Ym5WMVFvU25rT2thVENOR1pJSlZBX29abHVJNGM1eU9lY29nSnVFd1BCREo0NzdXUmRLU3BKX0xtNlVuTGltbGRPWGZKc19wU2hJQnVUcDdTemFvR09xOHQwNXo3VWlFLVlXcjNPd0NDQlMxYjFORUQxczBKckpJUEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Numero Group releases more music from Red 40, Ben Nichols’ pre-Lucero project - Arkansas Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzh0cFppSkhjNVRtcE1UTUtWa0NPckxYZkZNd2hyUmxPT2p0SkhaVW1BU1FCelpEVWpRV1ZrM1hQNGFKQWYyVWduOTNOaTQyd2diSHhCMjJNc0dpOVhmTTN5ZHBsaTF4TGp3OHJYRFNXRUd0VlV1WmV6WnV6djlmWi1VeUhCck95NjdNc21fekVZa1lFLVNpd2Rhd1Y4LW8wQlg2SG44TEQydFdHRWI5VEgwWUVzWmc2R3k2bFlJbUFRUQ?oc=5"
     },
     {
       "type": "launch",

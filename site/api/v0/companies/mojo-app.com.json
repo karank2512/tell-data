@@ -1,10 +1,17 @@
 {
   "domain": "mojo-app.com",
   "name": "Mojo",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 3.4,
+  "score": 4.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Keto-Mojo Unveils Redesigned Homepage and New Brand Story - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTmVNeDV6THoxNm90VTlKakpLTEpqcTBWS0VqVlBBSUswRWVaQjJIekpEVXpZWS1NS2gxaEhWXzVoWWFHdnl2SzY5NVRGT1lKc3daSU5BaU9CbDNRRzh2YnpGUWVHVDEtYkt6RFZHZmloUDVSUGNKdzZ6amFzVEpTRTJfWVRmQVNmWldnT0NWd0ctM3hab2ZzdFA4aFRaRmM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

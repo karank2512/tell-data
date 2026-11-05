@@ -1,14 +1,14 @@
 {
   "domain": "sift.com",
   "name": "Sift",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-04",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/sift",
@@ -48,7 +48,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Kindo Introduces Deep Hat Sift, a Self-Improving AI Model That Gets Smarter With Every Decision to Reduce LLM Costs - VMblog",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0RvNnIxU3lmZEFzams4QXlpVl9tb0twMURrX3dCWWswM21OUUtNYUF1SXl3VjBOMmNMSmNvTkhyelZuVHlzZE13X3FidzFMQUpBbER4S2tNdF85U2xnVVVUMUxHQU82Rkw2Qko2TFRiVFlubXV6NEo4eUgxTnZPZ19jZmFBeXJlTHB3LU1TNE45b19YNHV2Q19yQldyRHFKYnAwY3VVOVdEemI5X19EZDdqazVjaEE5d1Bja2FoQUFSNGVYYWFZVXk4NVhFdG51NV9rR0Fn?oc=5"
@@ -82,7 +82,7 @@
       "url": "https://sift.com/blog/introducing-the-sift-fraud-attack-defense-suite/"
     }
   ],
-  "open_postings": 8,
+  "open_postings": 7,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:sift",

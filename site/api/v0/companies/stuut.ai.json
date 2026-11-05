@@ -1,13 +1,13 @@
 {
   "domain": "stuut.ai",
   "name": "Stuut",
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "profile": "default",
-  "score": 23.1,
+  "score": 22.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.3,
+      "contribution": 21.2,
       "occurred_at": "2026-09-16",
       "summary": "Form D: $67,597,673 offering, $67,597,673 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2045111/000204511126000003/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-30",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/stuut-ai",
@@ -33,7 +33,7 @@
       ]
     }
   ],
-  "open_postings": 21,
+  "open_postings": 20,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:stuut-ai",
