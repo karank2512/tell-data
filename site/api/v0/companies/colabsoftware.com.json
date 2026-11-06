@@ -1,9 +1,9 @@
 {
   "domain": "colabsoftware.com",
   "name": "CoLab",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -54,13 +54,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "CoLab Introduces AI Tool to Generate DFMEAs and Root Cause Analyses - Assembly Magazine",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmItMC1mZGpqaExCZ2JmXy0wSVFIRTZPM3FyN1RMMU12d003WUFVVnotemdQOEFlS2lXUzJ6SHlnRjRIQktWazJfOHVhQWV1NFN5cmlyaWFmVVdncGtPRUpEQndDb0YwNTh5NHhoUkRsQ0N6OVJ4akZOWU9UUjNQOVZfSGpUSi15TVprVXd1dzRBRUNDX3RnUVdRYlVfRXVyaDdLeTZ1amJVNGhSa2pJTA?oc=5"
     }
   ],
-  "open_postings": 23,
+  "open_postings": 28,
   "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:colabsoftware",

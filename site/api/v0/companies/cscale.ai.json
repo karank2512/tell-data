@@ -1,20 +1,20 @@
 {
   "domain": "cscale.ai",
   "name": "CScale",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 24.3,
+  "score": 24.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 24.3,
+      "contribution": 24.1,
       "occurred_at": "2026-10-01",
       "summary": "Form D: $194,999,885 offering, $144,999,891 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1975623/000197562326000005/"
     }
   ],
-  "open_postings": 25,
-  "long_open_roles": 14,
+  "open_postings": 24,
+  "long_open_roles": 12,
   "sources": {
     "ats": "greenhouse:cscale",
     "edgar_cik": "0001975623",

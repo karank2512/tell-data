@@ -1,13 +1,13 @@
 {
   "domain": "stuut.ai",
   "name": "Stuut",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 22.9,
+  "score": 22.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.2,
+      "contribution": 21.0,
       "occurred_at": "2026-09-16",
       "summary": "Form D: $67,597,673 offering, $67,597,673 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2045111/000204511126000003/"
@@ -33,7 +33,7 @@
       ]
     }
   ],
-  "open_postings": 20,
+  "open_postings": 23,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:stuut-ai",

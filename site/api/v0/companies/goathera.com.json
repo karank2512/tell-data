@@ -1,0 +1,39 @@
+{
+  "domain": "goathera.com",
+  "name": "Goa Therapeutics",
+  "as_of": "2026-11-06",
+  "profile": "default",
+  "score": 35.3,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 31.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Form D: $225,000,000 offering, $300,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2131824/000146581826000011/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-02",
+      "summary": "Appoints Chief Medical Officer",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXltZ25vTTVhM0F4UDFsaXBOenRYb2ZYS2k4V3NGSHc4NU1BSWhsOEc2cTZUREZrUXg0X0NtcjhzOVZnVVltYUs1Sl9VOXkzM0x2UkktLUZxS1pvdk9ubHQ5ZFBkd2NNalREaE0zSkxCb0Q3S0tfNzVFbVZPRlFlR0NlRjFBc1VzN25WZkdxY3AyRkFabHFsTy1KeTAtbWlmTWs0UHRTaHhxNWlicjZmYmdDdW9TamJDNUtoS3V0dDUyUQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-02",
+      "summary": "Former Gilead Head of U.S. Medical [person] Joins GOA Therapeutics as Chief Medical Officer",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3J4enNiWGhzeHlSaGR4RjdxcnVXRXhLVUtLZjNGYkZaYi1odTlwRHdiOHpXZTFoZWVPNXdxdnl0ZUVzMUlpVU56d2pBaEo1OEdMRW1PcFVaZTYyeDBiYndraFEwN19oZW1HUkpVSUV0ZkhIbE02andVcUlLWUw0RE1mRlFjLUlRcVkwSEJpM3I4YTQ?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002131824",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "why_not_higher": []
+}

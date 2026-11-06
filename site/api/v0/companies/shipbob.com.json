@@ -1,14 +1,14 @@
 {
   "domain": "shipbob.com",
   "name": "ShipBob",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.8,
+      "contribution": 2.7,
       "occurred_at": "2026-10-21",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/shipbobinc",
@@ -36,7 +36,7 @@
       ]
     }
   ],
-  "open_postings": 69,
+  "open_postings": 66,
   "long_open_roles": 19,
   "sources": {
     "ats": "greenhouse:shipbobinc",

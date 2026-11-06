@@ -1,9 +1,9 @@
 {
   "domain": "trydock.ai",
   "name": "Dock",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 42.1,
+  "score": 49.3,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-11-03",
       "summary": "Babcock appoints [person] for £600m Devonport dock project in UK",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOXFoMGxkdHRlY05vdnlOVERBMkk1Q3RBSUJZZXhkOWkwMDJoQWJfSE50cXJhaUx2QVdHU2h2dFRkRWMxWERJbF8yWWxQcGp3M01TYTRNNDVNT2E5MVBLSHhBekZhWUVrU0VUUDdaZUdsUG95dllWX1BvQ1FyU0tpVUdFMlRLS3k5dnN2Vkt1S2cxaVhJQU1TYS1HdWNuWkVyeUF6MEVKa3h6XzVUWWNRaDFjaWctTzdTZEE?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-03",
+      "summary": "Babcock appoints [person] for £600m Devonport dock project in UK",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblREVGJ4Q3lRay1kM1I2SjBnemhnQ1ZidDNQMlN2a1ZmQ2ZmNmd5UHVaV1F4dkZ1STdTbV9uZEpFb0xUZ1NKNkJWU2Y0SVdIeWkzUXh1QlJIN3FTUUszWXljSW9sdFhfRDlOVjFILXR0Q25Mdk5QdThQTTliUEhpcTRPRW43Y1JGNEs4UEo3RmVDYkFXbGdfM0JhN3F0cmJDdGdB?oc=5"
     },
     {
       "type": "leadership",
@@ -32,6 +39,34 @@
       "occurred_at": "2026-10-23",
       "summary": "Appoints as VP of Business Development",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZXdpWmZQc0tIaHNFUmkzT2NZc0ZDSU5NcHhpNFhxVnJGeWJnNG1xTnlzZXFwdW5xWnoyeW1FN0VVcVRadzNDTExsMHc0cDRuV0hWTzhfVWs1SF9zYjM4NHFFZUN5eTZwczk5UFdjbERKSXcySmJPeURFT0ZBaTZkVUVtOEJVWDZhNWZMQmhobGFTX29UY1VQOVZuQ1ppTkI5eDV3cTFrbFVYX0FuSWpXZm1UR0pjQXJ3VXUzSzlDcGUycHNYMzhNWFRqUjlSWkdOTU5wT2t4VQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "ROG XG Station 3: ASUS Launches Thunderbolt 5 eGPU Dock Without a Power Adapter - Basic Tutorials",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFN4cWlYWFgzVjhzWDduX1JhZ3BEQ3pYdzNnYVBzMXZJOTFZWUNyNGJjR05jbnZteUlUYldCUDhCWVY1a1RkVmV0cko2WnJidjZKSTRTWTFOWmdkTXcwQTQxVHhObVZWcDlHaUQ5S3FKaVdXaFpJODlVZmw3bU11S2R5WDZaaDhKQ3JTMDNyZEVrWTlOdGVtdko0SW9GakNqclpGaFJlU25YTUlld2xIWjR3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Asus launches new Thunderbolt 5 eGPU dock with open design and plenty of ports - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVE1zNW12eEZWVWFHWVFLdHBGSU9pT2ZHdTVoYmZnaTJZanpZZ09EdFdqZVhUUGQ0NU1mcnRzQXhpbzdTSEJhckhheG5FYVk2N2pISEoxUG1tb3VJTGxBOG5sYlhUYVVzVWtuQlM0bG5wd1ZMVUp3Wm1xMkd4UU1JTkU0b0FxQUtwb0U0RmtJdkVOUm1XMzZFMEdmeVR6Rmt2WGlkZkRKYjh0bHB4cHVHX2dfXzEwVW5kdnIwOU5YMjM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "ASUS Debuts ROG XG Station 3 Dock With Thunderbolt 5 Interface, Supporting Up To 80 Gbps Of Bandwidth For Modern GPUs - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEJCc0dRczJvcVNqX3hKMjZCdFFKOXVaT3BiSDNSbGlkR3hUMDJTSTRBUG1ReGZpWTRBU1VveGFjN1J0NFFuNkF2NlZuR0w0cl9VTTFtRjRDdVRCVHF2UlBoQVNCbUFyVDBWaER1U1NYUFVYVkYyb3gwVC1IYmgwU2V1cnhnaGpBMmhrSNIBkgFBVV95cUxOTERhWG9NNC1ib0lRLWpyeHk2NnU5OGxjZENQNHI5b181UmEyU0gyMy1Wa0x2ZHFmaXVDRTVoVHZBVEJXenp5X0FyU2hlRkhjeDRVUGU1UUZtLVpna3R5ckJBSHBxb3plY2V4eGdMSFh2RGcwZ0o0SlZXdzVWYS1mNEwybDFmdzRaQ012QmE1czlNdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "ASUS launches its ROG XG Station 3 GPU dock with Thunderbolt 5 - OC3D",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2pjeU8yMk9ZNWN2TVNYcEZUNF9MNzFaaE1uRS1hcmJTcmFJU0JQN1BUTGtPV2tQU0VlOWV6RGJsV3lRVjdRRURTMFVvcXFuZHB2SURJMWRrV2d6VmRUWmdhSTVPX0JlYTBBb3hvUEllUkxfLUpzVUVBZk9pVkNhcnVUZWdlY0ZUSXZkM2t2UEl4TkhVcy01VTNMVlJUS0YzQVh3LTZfUm4?oc=5"
     },
     {
       "type": "launch",
@@ -126,7 +161,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "DJI launches Dock 4 drone station, faces US market restrictions - digitimes",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEFsYXJoTFlOeHlMNEV3WWNSdkUxY0F3WHc0NndnNnVHN25xRzFuTDlUbFU4ZXZGOTJwel9xSjA0N1Y4OTQwR2QyUURJZ1Jyc2YwQ2RQLVVOSmRNWE5oNDZ3VUlKQVI0ZTVDbHlzUmtZY0dtRlBOd1dId2pacFUxeWtrbWE?oc=5"
@@ -210,21 +245,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "StarTech Releases Dual-Monitor USB-C Dock, Its First With Smart Management and Dedicated Software - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkl2djJRQ2pCMWdEXy1vRDVzcXdsVmxzcF8xalNBczNBcG5rS2hOLXFlRFhRNlVsZUxCM3JfZDdiYzl6ckNkc1ZPMDlvN1NfUmRBUmQ3aGwyZF9Gd3NWcWVrTTRyOGZsdE1uSjZHM3piWngybUlNdzdTdWFSWGozZ3dhaXRGSUh2aGM5SUZfR1NNdHdYREk4TWpCRnFJS010dWp3RHhzM2lSNzQwMkdJM3dXcHZYMERzUE9wdkpCMTlaUnJjbm5RMjZHY9IB0AFBVV95cUxPNS1KVlhvUzNIclRsTGVweFhncktELTVuVk9OdDBUNjUyNXpRSnd4R0MxTmpxeEMzY056TmRkZ2NnYWh0VElOcUxoSzZQX1ZDNEdvcWU4VzZRNVFxamdyMFFtaXpkeHFCTGRHTVY5S2l6RkxiZVd0bEdVV2VsS2lucDJUYmt4ZVplcDVneEFBWjBYSThSMXI3QzRPcllCTVdrWUt5ZkpvQ3hlMEpwRmszLTQxdndseV9pWU1ETUtxQlBLa3E4cVBUUHdfeTAxTDlJ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "DJI Launches Dock 4 With 25-Second Automated Battery Swaps - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0JoQVVqOWtJaEN3aEdodkVRTndEeFdvN2tSUmxtUHpyZGJpRjhMTm43VkI5MFFHR3pfU0xXdElJbVZiN2VnZnhkbU9wMzdBaU5qakpPdWFHaFZabGlBYXRGaXJxOXc4bXJ0U29NbWFmN3VTcUNaNUZFYzZoVXNsaXM0ZmhfQ00?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Jiangnan Shipyard Launches Sixth Batch of Vessels from Dry Dock No. 4 - iMarine",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oQXlYYzVyTEg2UGZsb2E5SDZOZ3RtMjhYUERFaXFnaG9wU1ZkYlJPcWZ0UDBfNzdJQ1Eza3Z2UF9pOExLMlh5QXNNTWRfME0?oc=5"

@@ -1,27 +1,97 @@
 {
   "domain": "tryprism.com",
   "name": "Prism",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 37.3,
+  "score": 51.7,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-06",
+      "summary": "Prism Johnson appoints [person] as Senior Management Personnel",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjZyVG85eVRvOGZkdGtQa1RfaDRkV3U4T2tpWEZBX0EyODVLZ2xrRkJ4Y3M1WlpRcF8zcGpGamZnUTdFVlhIMWpnMDl4bHVqeGFtNTh2cnp0QmFSbXFHSDhZUUJIUEJHUU5WakFoZkpYODFULWdSanNxZUE3dzE0dU5meVRnN0k?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Sarvam Launches Prism AI Model to Cut Response Latency - APAC Media",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0hFU2pQd1BpLUZwSktxY1JUalppUW9wQVRTTnRaWkFNeGxtNUh3UFR2MDNKQk0tRUpDWjdzaVQ3NllsdnVxSGg3dk5HcTNLTlJ2blpyTE9ZbkVxMDVUVG9HQzdySmpaNEJJckJqUnFnNXJBZl9HUnF6VnRKQ0ZOb083Z3VxOG15ZFlMX1h6X080eHdZRkE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Sarvam AI Releases Open-Weight Prism Decision Model - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fUEVsY2ZiMlRpaDhyME1YZE9aMGVqVi1lYUZNQk11WVl3cFVCc3gyNmE1QjFWRThzanMtYi1FU0NBejJaa3RUMXplZ0xzbEg5VFhBNXNfVnpTSmIwb1BfaVVNQlE0RXhuMEZOVTZacEw5TXVNS2NHQ1JnVkphdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Sarvam launches Prism AI model with 44 milli second response time | Tap to know more | Inshorts - Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXh1U2ZTSFJDR2thZDZlbTdfcTNjZ2tlX05aQnF5SHg2dVlZV05rN3ZlWTVvQ2pnekNGUDROLUh2ekpZU043MFhTSEh1WWNnQlpTWXY2eTZxQlJoMDAwcDgzYkNYbHJORHdaOTY3Mll6VTJtdHR0VzB4aFZkRXQtWDZ3X2RpSGZfbHgtYmtaWnYtTGVKcjE5YUl6OXJIQdIBowFBVV95cUxOd2NGWFdxY19wQTlHNzA4aXpNajcxeHVrWXhOQ09GbEZiNU1Lb3B6TkhxTzhlbk83RDdkcUFWUWw2ZzFtY1h4UDI2LUdZV3BXQVVaQVQwNElqbGZGUHpjTTNhemwyd3JuUUp5Zk1yMUVpV3ptNlkzM1I1LWxpWmEyWFNmTGRJVFRiczcxanhEUm8zOXVfVktfdC1YQkxtSkFSZnRv?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-04",
+      "summary": "Sarvam AI Launches Prism Model for Enterprise Decision-making - CXOToday.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkZpZ25jdFU3ekMxTUgtNzNHMHpvTjlkTWdPVVpKVXRqY0s2WFBlQWFKSDZWbEpDQTFGM09VVW93bGNqMDdaVWVCZloyYkhOOGxIOVBNMzZ3OVRGcDYzWDh5Uzg1STliNDdtdUxiMWlwYTRrajJhYXBBN3RVeVEzUlZybWhhenRKT19GMFhPcw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Sarvam AI Introduces Prism Model for Millisecond-Level Enterprise Decisions - CXO Digitalpulse",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPay05SHIzR0pfMDVKci1EUFpaenpIRXR2Ul96YVpVMUk3MjJJMTFoZzRvT29hYl9BY2M4TFJmMEhJQ3plaUR3WmtqbVFKNmZ3NUNwSzNqZG5NVkpjVXQ5eWtGQnZEbko0M0xDVUNfa05UV25wOFJSOE5naHpGQWFZTHZFU2tpeDVQYzI2NnFfOTBHRkFUd0xHbUlma3Q0UmI2b2F1bkhJZ0pfNlhz?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Sarvam launches new decision-making model 'Prism' - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1pOTldQVVZyeEVBT1p1Q09rb0JXQllvRkxWbzd1U1Zqek8xUF9YdENWWEF3Um9XaEZ4blZTbG9TcjdJR2U3YkU2VlBBQm51UktrRlFObi1GZjhxQncwcEt3WVlyUUotM0FBWEVmTEcwdzFmT2g2VjFJMjF2dlBPM2g1YWxEcERfdUYwWk9nVU1OWm5RNC1vcVVn0gGnAUFVX3lxTFBNRTAxYmtoa2wzU2w2dUI5dVhhaFExLVJkaHRnV3pobUs5b2YtU2Q3cTFrdVdJV0NnVlFpNjZwUVpyUllVNTZOaTNwSWpQOGg4YlkyNlg2bU9CMlVsYS1wbl9nRG5kckxMeUJVdkNkNGd3OGZtUEpyZ0VYSksxbEhpN2wyWWlXSHJPVUFyeGc4TC1WU3RTRDBmNUhDLVQxQmItY0dsV2Yw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Sarvam AI releases Prism, a fast decision model for enterprises: Here’s how it works - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTkw3QkZ2bVlUWUFVal9ZQXA1NWFUSXJSYUYwMTI3TFdGZjRMc29xSkE0ZWFJZlFXSnd5TWUtSVN4aU82VDBmYXhGLXNZOG5xdFVXa2xlbnVUWXBOcVo4NHZNTVRoNGtROEdMQkkzWnhOM0NVMExsRlEtbVNyTzliT29kNENrSkVUSndBd3JPMnZDZFZRY2ZpU0NDU1dXU1dlZFIyTFlQUHNCVjIxaDh1NGtERjJDdWdpcEpuZE1sSTZUZGlZRWx5aUVxeUNGbHVsUGxNb0RqdS16bEFEVWhxUTN1RkdpYWYydkVoZlNIZG5wMXN5SWZz0gH8AUFVX3lxTE5oRTU4OFBURDdlTFJZeENXeWVzZVFGOVMtSC11Y1JNRjlUa3pIQWZvOWFrVDhyWVpCb2ZCd1BrSjB3SUN0bEJkQ0RlTjV3U3ZVX0toYkc1SkJnZ0otLWliYlB5MUxNZnFvUmtZczFIM0hMWFAyQ2g1UDVaaWZmTGVieWROemNfamF1Z1NwY3BGT2JRRjJiVUsyczhoTHFFaDRCRU44ZjVUX3VBQWN1VlBUZ1M2V0JmU0owS0lhSG5xVkZFMHpscG90RFBiN1NzU3FWUl9RTDdQR1ZDeS04Um5OcjVPd3JKZDRfanBYNXR3ODdkdGlXSnktTUlNYQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Sarvam AI Launches Prism, a Jev-Like Decision Model Built on Sarvam 105B - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3plcm9xcmJ5Q0ZyOElDNnF1T0ZnTXk0Rk9uOVc2cURMQVRmSEZhZUU1TW5jSnpmM29nVnZRNzRwSVRWblBqQ2NFSUR3YmwtazdsX19GeWtNZE5mM0tyVXFlUTZqWWlmSVpna1hINHhIekhFYV9RS1RYSFNsWEt4ekttdUhkV1lsMzBCb2JSV3hXSjJXN216cVUxNkR0YzZ6NXAxdVJuTm5MWl9NR3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Sarvam AI launches Prism, enterprise AI for automating company decisions - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX1UwNTVhRFljLXlhNEt5OFBiWFpWQjIwY2g5YWlKNTFRcFJxckZWNlZvUWQzV1IwcTNBa3c1WXlobFFiQ0t2RkltNHJZOVpBMC1LeGZnTWNCMmpsOFprLWFYcnI1SUQ5S0VSeDlZNzlrS3cya1ZVVlhxTTB4RkpMNmJmZU5fOVFmZEJ2OEdDX1d4UE5ZczM2aGxKbGlwS2FGc2paWmhiMFY5dklUN2NYSTVBd0RqcW9jRnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Amped.Bio Launches Prism 2.2, a Full Redesign of the Creator Platform, With Fan Follows, Person Discovery and Rebuilt Analytics - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSTMxOTRCRklTUlIzV2RrdUFya2p6VTVqcFpmc1d5bVFfektWVmdiQktBckpuMXJ3Y21IUXdRT0VFX1RuZW1mX1ROSmRCVHBMYy1YVG42SG1zNllhVk9GdnpybzRvQXU1bEZ0SEpRay1ibkZMM0N5MnlYdUkydWcwMF80SjJ6UkY4UXVmWlJ1WWw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Sony Unveils Transparent PS5 Prism Collection, Preorders Nov. 10 - JournalArta",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjJKREtZRkxKOG5Eb1MtMmtBb0p3Z0p6WHowaG15clIzUmw2VkpsX1ZaNmRlRDAzQkYyQ3BzS2NrSlNwV3UyUHlkQkJmSzNCOXE0c3ZJUk5YaGR0aFNubEd4ZlZBVU9kdUpNaVVSWFFOQU5Rd3V4cXNzd3BEcUJTVW1nNzQ4S1Zx?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Sony unveils Prism Collection accessories, featuring transparent PS5 controllers and cover plates - The Star",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUUNiSE9MUUtyVTVFZUVRZjhxZi1SVjhwOXFpQmNPaVZxYVRkbE1HTGwwQ0xXNlh5RGMtSmFKMUZ0QUV3UlBiNlA5aVVqLUFKYS16TTJyZ2s3NVJYdHdmVVBQZVFwcW5iLW1wb2d3ZEhDanYtb3pIYlZ3bDlmVUpaS2VEUVU1eFhhbExQLUYxd2JLcnpYeGdMWmdTRFFsYXVGREEtTzlhNl9KRjJSSDBSeF8ybWZvVGhvVENWQ2Rmd0stSEl0Rm52Vmd3R0tTMlVud3ZIN2V0WEZ4N29OeVB1RFp4MA?oc=5"
@@ -126,7 +196,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Prism launches UK’s first fully integrated concept-to-shelf drinks development service - UK News Group",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkNHWXhPczJZRzgzUlRBZVgyWUNTd2dXWVpwMFgwbDlWVVlGTmdJU0oxUENKNkF1dmRObDlzYU12X2pjUGRFZl9rU2djUTNIT2RydjA1R0RXMk12QktocWdCQkI3RzdtMzVhdER3WW5nV1lxSnd3Nl9MRWVHSXFtLTF1NDRRLUladEluSmFjdmlfM2R0emNZMVBNRThTUndzaUdvWDZQaW1LMGg5ZG9FQ2FjOFdOQ1E?oc=5"
@@ -168,14 +238,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "IGC Pharma Unveils PRISM AI Platform for Alzheimer’s Care - ACCESS Newswire",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN0UtVTl4ZnRSQ01VXzFWeUExSEZNUksyN3dKQTM1NW1HZHY5UFEtdU9MR0VGTURNZGJrUk5KZjU0bTZWcmNLVVN3WWVJYW5tTnM1ZmREb3BfZTdvWTA4Yl9GNWo3b0pLRGlqbEJSdkN1T3JOTnNPRUJUaVV1bGN4QVgzT21lQlVNcVY4Y3JWV3pfQU15UHBuTFlFN20yb2k4R2hFLWpWRWxHZk5TQXA1UERlRmd5bldoR3daLTdDeXdWenRRNlAwTVNrbFpRckdnYzhzTkgxbnpQdEdCLWZWWUVUQjA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "IGC Pharma Unveils PRISM AI Platform to Move Alzheimer's Risk Prediction to Brain-Health Action and Commercial Deployment - News-Press NOW",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQTZQWGs2akMwbnRSVGZjaXdzSFdKb2YwUGJFRWJoVnVuNjNmWXJabzF6aXh3QjFCTHF5TlNDdmkzVTVDb3dtbXJ5ZlczYWRmRHJrUllzVjJWVUpVTkN4OEw5NmFtSXVXZUJjeHFEMExLaEkta0gxVjhzaFBJX2VQMWlxVW04VU4wUEkzNWVJWGVucVNoT0FCbmVqWGN6eHQ0blFxTnAxampwLVFqRFVlWVpuZmdqY1hLOVJQWXJOejh5bTJnQXNSWjJWQzFJOTVVYWJuVUF5MVpETUl4bWhHd3p3dVBfM01LWHVvalJobFZGTlVwSkZ1a21FRlluZVI3aXl0RF9qODd4ZFJVejNXUVJjQk9zQQ?oc=5"

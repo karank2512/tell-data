@@ -1,9 +1,9 @@
 {
   "domain": "bernardhq.com",
   "name": "Bernard",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 3.2,
+  "score": 6.1,
   "contributions": [
     {
       "type": "leadership",
@@ -14,14 +14,28 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Bernard Magrez launches range of non-traditional limited edition Bordeaux blends - Decanter",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNlpEVDRSV2ZWZUdCT0xVbWowZWk4eS1Md2xCaEF3X1NOWDZhTWxEWEV0bzN3U2daQ2dXRDBSQnUyeUJGMlRmY2tpZEpwd29sM1pNcENkSkZyVTBMZzVFUVNpWlRKSWx2TTNhTDltLVlJTElUeEhTSG93cG5nYWpqOHFUWVh4dDVBVWVwd2gxdE5kWlRSVlZJZzdwcnItNkYxS3hUMzJKYWF2UWNCeExjRDZpa01BTDZvZUtybA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "St. Bernard Prep launches podcast: ‘The Benedictine Beat’ - The Cullman Tribune",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzAzcnl5ZEloRjVhYUNGM3VaZ1FqU0VkNVNTeE8xeEhDM0NVb0IzZzFGcGZtcUFtODVLdWNmRTBGck5hOW42b0xKSEVvNDh5X0d0N0tYZ3dIQ3dmVWE1S05GTEFMeWtBaUtIazNTdThibFFOTFgzZ2lqMk1qQVFXR2xVZE9xVldCUWlOWjZKX1c5M2ZfUWlqY1dWbUs?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-02",
       "summary": "St. Bernard Church in Wamego launches ambitious prayer initiative - The Leaven Catholic Newspaper",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlZBdTh4V2tKWFpYSTAyWXF4SUo0TUFkdUQyaTVEdjJ0QXMzcFRlZTJJRVNwa2VzTlRsakR0VWFZTXZMTFZscUhYNFphSmxZVC12QUdwZVBFMl9yd3pUNUZZZHF2Q2JvTHF3ZVFGNGhMVDdUdzNMcXllVXBkVFctTEtpRERrWHZwYmItZk9fT2o?oc=5"
     }
   ],
-  "open_postings": 6,
-  "long_open_roles": 3,
+  "open_postings": 2,
+  "long_open_roles": 1,
   "sources": {
     "ats": "ashby:bernard",
     "edgar_cik": null,

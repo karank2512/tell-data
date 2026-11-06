@@ -1,10 +1,17 @@
 {
   "domain": "caution.co",
   "name": "Caution",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 1.1,
+  "score": 2.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "TSB releases shocking fraud data to urge caution as Black Friday and Christmas near - Computer Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV2M0djVQWFhaNnNIcy1peHZ0blZFRG5DUTdseVFqUlJLNGd4Nk0xVnRTREdxa1Z0WXh5Qk43LWEzNmNvSHdnWUVwaHBEdVpvN1VMRjZIcTNnSlU2SWJGdFBSYWViZWluREFsb2pWUUZVRVI3Unp4YnBqeUgzVk90UElRSWlGT0R4OUhIYjcyY3gwTXl0a3RRa3ZfMEh6Z0NlZ0dVd3g3ejl4YTNUdHpFLWNMQjZDeEZva003SzdxSHBKOWoxdmJOQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

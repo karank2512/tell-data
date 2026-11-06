@@ -1,13 +1,13 @@
 {
   "domain": "onebrief.com",
   "name": "Onebrief",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 29.5,
+  "score": 29.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 26.8,
+      "contribution": 26.6,
       "occurred_at": "2026-10-14",
       "summary": "Form D: $249,999,915 offering, $150,799,963 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1888809/000188880926000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-02",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/onebrief",

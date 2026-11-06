@@ -1,9 +1,9 @@
 {
   "domain": "kernel.sh",
   "name": "KERNEL",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 9.1,
+  "score": 8.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Chimera Linux Releases New ISOs with Kernel 7.3, GNOME 51, and Plasma 6.8 - Linuxiac",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObU1TOTZxdEhBajFSLXNWMEFHSUpJU2Fnel9BZlZseTZObUNOdEl2WkFhMzFNaUNuNWstcGNUMGk1eWUwbDJkUUlGMTVUWTAxZUpTTnhrdXVwM3dOUGN6bFM4N1U3d01nZWd1TFN3ZWpqMGRmdVFIZS1zbFQtcWZfY1Z4SElBbC1iLUtRaW9NR2djNW8?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Nvidia launches USD BRep geometry kernel for solid modelling - develop3d",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEo0UkpkX21EV051Mmk1QXg5b3p1RERCeDJlaGhyX2Z0MVQ4TEhYRGNpa3pvLUdOdENGaTZfZUYyQzNOU1JzVWlIVDFxTlpXRXV6UnlhY2s5STNYai1MRVZRRkk5eVo1ZHZIdmpmRkJfQlFleXV2R2lPa2ljR1U5OG1uckJDTHN3SERhdVZ1M1E?oc=5"
@@ -55,7 +55,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemR2QlVlTUZOTlFiSUV4dExtbFZidV85ZGFYMzd5YTE2bzZFRjBmYm1FRmZiZHlHVWVIX2Q4MGVHVFRMWHRJS0xubkFYbFIxUHcwU1hSSmVTaC1EckQzaS1jbmZJUWMtZlhIU3dmSXd6NVN2TnIyZEFVWmlPTVJvZ01VMXJLNFh6T2RlSlY1OC1GdmM3UHpoWHB3UTczRFJfN0tnQUVVSjBoY19kOFJZZTNNYjc0RWRsdWdlem9R?oc=5"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 10,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:usekernel",

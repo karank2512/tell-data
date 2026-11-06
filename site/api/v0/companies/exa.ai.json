@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 36.2,
+  "score": 35.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.7,
+      "contribution": 23.5,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -76,7 +76,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "EXA Infrastructure launches two European fibre routes - Mobile Europe",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DVHJwWDdfZGhuYXAwM0xYamNaNDUtV3hGdWprMDZZODNhbE9BUjdsT3R6MUVXNElVNXRCR0NtVkxNTm5mUlpXS1VPajd4VkVBSjIwc1l6Y1hHaFM5MWJ2QnpoUXdTQW5CeHFTZUhwbHRFRkE?oc=5"
@@ -90,7 +90,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-08-01",
       "summary": "[person] Joins Exa as Vice President of Marketing",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXFxNzNEdjVKNERQNWUxZmswcHJxb3VkazBLV2ZhQU1LTGJrSTdxd2VpUkxuc2dKa2VmS2VGSWNjU1BwSFRKbDJHaF95cHZNR09pUTdSWmJONTJuWlZKU3RsbkY2WjBZMXZweTktY3EzTjFYY0VIVDM3bm1XZDBZZzhNMk9jeXpjbmhwZ0JuaHBsN2VRclRTNklQaEhEQ2Rydm9r?oc=5"
@@ -110,7 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 63,
+  "open_postings": 64,
   "long_open_roles": 27,
   "sources": {
     "ats": "ashby:exa",

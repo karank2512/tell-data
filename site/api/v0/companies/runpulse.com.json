@@ -1,0 +1,32 @@
+{
+  "domain": "runpulse.com",
+  "name": "Pulse",
+  "as_of": "2026-11-06",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Pulse launches Colorado’s first 20 gigabit residential internet service - Broadband Communities",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGY4UkgwcVNxQnlZd0Y0UG5aeFdwM0s1MHFybWVrSUh6d1A0djZHNExzOWxqdXBPZWZFVFBBbWdrSFB2V0NycC1kcl82VHJfNHRwclZCbUhNaFJRX1hJcGdBUEtWN3JpbERxczU4bEwzVXBtYWIxcG1PbjYwT3NzV1Z5NURzZXBDdWNRZWh6bTU5NzhZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Pacific Pulse: Legendary surfer Rusty Keaulana launches new Makaha Point Challenge - Hawaii News Now",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd01JanpaZG9OWFRxb3ptTEUzQ3dwRl9Gd1dXSndqdU1aNEZhNEkxXzgybW1POXNoaUJ4NVhOQ1FWRXY4QlNuQXBtUnA1VnZ0NW9KaXpBNzduR0VxbEQyUXZ4OWY3SVI4X29xRTc5YWYwNVBob2NjZ2JKN1pWYVZiNFI1cDFTZFlkbjAxSEtVQ2xMMlBibGxkaTFZZGJoaFV3dzVnZlN1VFVzQ1d3ODROcGoySUVmaVN2VUFTUFFzaWFiTnZ2OGpxaw?oc=5"
+    }
+  ],
+  "open_postings": 11,
+  "long_open_roles": 9,
+  "sources": {
+    "ats": "ashby:pulse",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "why_not_higher": []
+}

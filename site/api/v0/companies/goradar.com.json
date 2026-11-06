@@ -1,9 +1,9 @@
 {
   "domain": "goradar.com",
   "name": "RADAR",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 23.0,
+  "score": 22.6,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "The New Footwear Releases That Should Be on Your Radar - InsideHook",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhUWFuQWh2dmNrS2ZoYnE0bkJFT05xQ3d3SFg2MHlfVUpSMEN2MEN2VWdiTW03WDJzQkVYV25sdVY1WlJybXJ1UXhRbXRIdDUtdUQxNGRLYXJnQXZRdWlUZkp1M0d1VU9tWUZHV0tYdWFLMWc1Vkc4Tw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Mazebolt launches radar validation for Akamai DDoS protection - SC Media",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVhoS1pFZnV4bzBqeFlIVGEyRldjZlJKMGxVNTh5QkRyX3hNWGY0anFCTVZUN3hiUEtGQVB2ZG5keXVXcEI2QS0yM3ZaWjBfZHIyRlFka3hTd2NxNzh4bDMwOG5YYkdkeTZrQU9lVllhTU5mYUhPN2E2SDFqV0lwaUxKVE9kRzVHUWxqckIzQnVvclBDQXc?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Arbe Introduces the Gryphon Radar System, Bringing Reliable Perception to Unmanned Ground Vehicles on Rough Terrain - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOLUtuSVdSbC1jM00tR2JCUTBWNUFITWxpa081bWxnRUdTMmdoT3RkdjRyT0g4M1BUaFFKLXpjenJmWWJ6WVliOEFvbFc3eENfNGNFcmh1bGN5THpoeldleG1IZUNxSzFNR3F3WXRhVjVuYk5BTnVqM3cyY1Yzc2JDWDUtNmF0M05RNWxkZXhyREp5Z3VTbUpESkxOWnR3MW5pMVZFb1dCRjc2N29Pd1hSOGI4R0E0UThPTE1XYk05S25kN2pKQl83Wk5TOFE5elF1anFDeDVjWWQwRHRVTWJyMDhVMklDMDNMVjNtZlFyWTF2ellQWUFpQXhwMXF6OE0?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "CPG Radar Launches AI-Powered Market Intelligence and Sales Platforms for Food, Beverage and Supplement Industries - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzNjVjkzT1lEbmpCY25LemVYRFZoUHB2RGJWVmM4c2xGNnFlYjcwUlpCd3V5Y3BNZnphOTVtQzRoZHRURGhEUjBqYzllbXg4UmlXVm5FeHNmRnk2WHg2c18weC1tUXpvNzk3NVFtUW5HVzlFbS1aRnY0NnBnMlJMUUtHdV8yNGdQZ2lzZkkyaUd2Vmo4YTVLcw?oc=5"
@@ -139,7 +139,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zNFQtWURfSmFDMFoydFNnODBJSVRueFBibjd4QkVfeTBsTlloektXR3RLclpiNDI3anZkZlA4X0U2dzFTVXBrUmFZY0p2R25qY25hajBYRmhnYVE4VUFLLTE3WXY0OXUyZDNidXFrVdIBb0FVX3lxTE9zNFQtWURfSmFDMFoydFNnODBJSVRueFBibjd4QkVfeTBsTlloektXR3RLclpiNDI3anZkZlA4X0U2dzFTVXBrUmFZY0p2R25qY25hajBYRmhnYVE4VUFLLTE3WXY0OXUyZDNidXFrVQ?oc=5"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 8,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:radar",

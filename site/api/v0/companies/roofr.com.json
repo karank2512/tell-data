@@ -1,9 +1,9 @@
 {
   "domain": "roofr.com",
   "name": "Roofr",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 2.6,
+  "score": 2.5,
   "contributions": [
     {
       "type": "launch",
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-17",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/roofr",
@@ -33,7 +33,7 @@
       ]
     }
   ],
-  "open_postings": 10,
+  "open_postings": 9,
   "long_open_roles": 0,
   "sources": {
     "ats": "greenhouse:roofr",

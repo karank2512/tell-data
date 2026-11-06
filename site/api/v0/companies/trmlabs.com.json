@@ -1,13 +1,13 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - riauone.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFFSSTRZT2RvVTF0QzYzM2hXWDNzRk5xZ283OHpjdGNrblhBcnpObkRrelBxajQyQVBtWG5NOC1ucEFrRFNUWVJuN2JXb1A3QXhwcEI0RnhhRURWY2hCeWxodTNOUEFtOFAtTWpuZUp0QzFxdTFuLTRndDBoV053U3pLTWlWZUhYYm1BbWxTLVJwaC1VVXJjX2xBNWpnbF9rRzNmWDdSVXJSZktrYjhxOEZXVnVBMUhXZ3A3VWpzZzI2TTU0NGxLbEZKVTh0aGpadUlF?oc=5"
@@ -87,7 +87,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-23",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/trm-labs",
@@ -124,8 +124,8 @@
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 122,
-  "long_open_roles": 33,
+  "open_postings": 119,
+  "long_open_roles": 31,
   "sources": {
     "ats": "ashby:trm-labs",
     "edgar_cik": null,

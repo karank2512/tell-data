@@ -1,9 +1,9 @@
 {
   "domain": "gusto.com",
   "name": "Gusto",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.2,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-07",
       "summary": "Gusto Unveils Redesigned Gusto Pro, New Multi-Client Model Context Protocol, and Expanded Partner Program for Accountants - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWUttaHRpRWRHVHhPQmJVS09yU2pFY1drbTRoZ1lpeE9ncV9SNXZLNmNiZGIwM2F5anpEbjBQZmNjaWZ0a1NzTzljUGZxLVBIQjhFV05fNGdpZy1USjFwZWJoMWVyTEtOVVo2cG16M015ZklnSHMtalQ2QUprRTFwcVhZRU1LODQ4MGNhZUM1MnFkenB0bUlSQ1BYcTNfOWVyR2dNMWw1dUdneElNTHNjNVNUSmx0c3ZrY2VxVnpQcE9WdjNncW0ycVhSd1RadVNyVzFuVF9ya2V2LWdyZ0RJWVpUWU9FeTlWZlZqejhPN0JBc042WWNheWE0SzdpWTlwOU9YY0RB?oc=5"
@@ -64,7 +64,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-10-17",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/gusto",
@@ -87,8 +87,8 @@
       ]
     }
   ],
-  "open_postings": 84,
-  "long_open_roles": 31,
+  "open_postings": 85,
+  "long_open_roles": 28,
   "sources": {
     "ats": "greenhouse:gusto",
     "edgar_cik": null,

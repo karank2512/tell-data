@@ -1,14 +1,14 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 17.5,
+  "score": 18.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.3,
+      "contribution": 3.2,
       "occurred_at": "2026-10-28",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/amplitude",
@@ -78,21 +78,21 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude Appoints [person] Founder Vijaye Raji To Board Of Directors",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa3lTWkpIZWM1cDBCZHJZWFcxelhQTHhIQU9Bak03LU9KTllzUTFUY0Y0TmRjcC1JVS1OWnZ6X2tQaFdkelFwUDBaYV90QmJuS1JxeE5mUFBPNXkxZnVpaWtfcDlZNXFhSGdSalI5MFpkdkFxTGRtOE96eVA2QzE1cE8zSVBtdXFVaEhFa0lKNk9zVEVhWk9xUmtEcU1nZVctcVpzOHpzbkpSZk9QemROenFDNWFFRWNVSm5fY2N4X3h4UW5raTItWDZkZDdLalJIaTZzSA?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude appoints [person] to board after stock ends session up 3.6%",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzFwR0IxQ194MUVqdXA2NVNtenhOVExydHd0VFdyUkxjNFAxQko1U1JnUkpsZDlaeHo2QVZob3RvcHRGTFd4S2NIaHpYeU04bUxQaVl4RjFhMVNsSEtoVndIV1hCeWpVc0owYVE2NW9DaWNyamRNSWpzLXI0ZGFzWkZRVW1PLUp0OWcwVFZPR01OTGNNWEtz?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude appoints [person] as Class III director, joins Cybersecurity Committee",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHJaVUUwLXF5OW5RZVVEamIxVUZjbXFIY2JYNHVOM0F5YldCY0NHSWhBT2RkbDluWUpxaWxvd1pCX0haVmlRVHc3SXFVZFBXRzJabEc5U2tzRnZaRndVUnRHN1VqeE5GMmctYUdGVjlmZC0tQTFNYzRWSkpCOFlVYndCbUlZYkNpdlF5c3hrWWJmSjN5eE9mS2ctRlFJdmZVZlhQcGFrSWZGUzg1c2MyWnFJd21URHVwblhCSmFralM2aTBzTDRDaGY5Q1hUNDcxZmQ4alpXYUNxWlZp?oc=5"
@@ -106,6 +106,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Amplitude (NASDAQ:AMPL) Releases Quarterly Earnings Results, Beats Expectations By $0.01 EPS - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUpKc1NaajdWckNMbmp3RE9oSzQwd3NWbW5rM1dLOVE2V2g5cnJ2MDR4U1ZMVDRoUzNxbERORnFCQS1CdDRyTVdQX0NjQlkzQVBHNndiM0E5MWZia0hsM3Vvd2hfZng4QXpCdGdsZGZCNVlRdW1CcjJUbnRCQnh1V1NUbkpMX2d3aGotUUlIc25nQm5MemZtZG45Nl9xRXJ1SmxiS3llRDI3eXAzZk81VlpRbm15UlIwSUQzQ243RkE3MVhXMjZZTWozbEpPOURNdXlDbUVjeEIydGVNX2ZDdldfMnc?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Humankind 2: Amplitude Studios unveils its new strategy game, due in 2027 on PC - Sortir à Paris",
@@ -113,13 +120,13 @@
     },
     {
       "type": "launch",
-      "contribution": 0.1,
+      "contribution": 0.2,
       "occurred_at": "2026-06-11",
       "summary": "Introducing zoning insights: Web intelligence at a glance",
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 50,
+  "open_postings": 52,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:amplitude",

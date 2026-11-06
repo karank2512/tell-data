@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -108,7 +108,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "5 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -178,7 +178,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-11-04",
       "summary": "3 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -226,7 +226,7 @@
       ]
     }
   ],
-  "open_postings": 275,
+  "open_postings": 274,
   "long_open_roles": 108,
   "sources": {
     "ats": "greenhouse:brex",

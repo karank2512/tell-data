@@ -1,9 +1,9 @@
 {
   "domain": "vector.co",
   "name": "Vector",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 53.1,
+  "score": 56.8,
   "contributions": [
     {
       "type": "leadership",
@@ -35,14 +35,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-14",
       "summary": "names as president",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaGdYNFdsUmlISk1aRG9zVENWaWNuT3gyR0FlNkRvZ1JwMnY0Y1FPdXhGVGJSTjhSakJqZW1uYWo2U0RSU2RvT2xUTHBZemZUZEZTa0pBOENFOTc1WTBwNnVxZzQ0R2h3RmZVSDhUcEg4Q01RMTRPVGdFRmgyUmVFNWduRzRVYzBwaUJNSGtONndTNXpmSzEtYVRFT0tIWWc0TVpIZlZ0WXRCcXI4N1RmYUduSVhtNUhaZlQwbTFqWjZmNlVybWJEUThMbHIxRjJEcThZRVBldHl3LWJwNTV2ZEZxSk4ySGJ3bFA1RmpPOVY?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-14",
       "summary": "Vector Science appoints [person] as president",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckp1b0V0SFR2dV9QNEpoM2xLcVd3QTNjclhUZmhxbC0tQWpXZ2lIMkQwTHVQcEJQWDR1NlhycXhOZTJoZHdrRjY4emxQX2xCLTZQR21LajFHdEsyZVlvYkF5Q3RGRWF6Vjh0Q3ZOUWRFV3EzQ3Z5SE1sSXlNZllKemFBSGZ3R19Uajljem5LMktXUHo3Wm1CVDdfVGs0THREWWxMbDNWMXBsaVk?oc=5"
@@ -85,20 +85,41 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Vector Unveils Warfighter’s Stack, an Integrated One-Way Attack Drone System - SSBCrack",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0ZuRFRVb3dpMzdUSDc0V3VqYy1UNUpWcDZFRldicW9PNHRLcUJHeTFRSjA4dlBNNFc3YklQUHhDcS1TLVpCUXNxTGdBRXp1YmxoY0xtMlBfRHB0SFlLMDk0dy1XVlliWUZvYW5PWEFfTmxwc0pYbHpBS21sdHloc25FeC04RGp6aTJ0bUdmSWs4MVdrS2xNNEtnYTVUZWlMVjlr?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Vector introduces ready-to-go one-way attack drone - Military Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXlTcms5bmxTeXJNUFVHQTctLUluOU5LTlVHNGtnSWw1XzM3RF9lSm9uVU5BdFZzWTIxeGc0VFZvQW1OYWhyODIxcnhQRkduU3JoWEdSc1E1RVdRUzdjSWlFenR1X1ZRd0dJOVZsVlRoM19UMDg2YkRmUlpHemRJREJMbTM5dDVQQWlURW9OM3dkaHBfbjdkaEFDNjNYU1FZZlhNOVdXd1lqLXlSbGx1QQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Vector launches skills intelligence for manufacturers - IT Brief Asia",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcERBc0o4REUxU0pPMGRyVEtnX0QwQjduU1VMTkdsY1laOGNIcE5Yc01JMXVSSlpYTlozRVdyOUhvVHA5QmJIYUdvWjlKWDZCUlcwSFp2OXVOaEpDbTd0NE1ZaDVRejUzcXlCMG9VcklRdXJNOTcyTE94Q2VJbWFpZU9GVkJjN1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
       "occurred_at": "2026-11-04",
       "summary": "Vector introduces EV charging emulation tool for interoperability testing - New Electronics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2ZmNkRIR2MyMG5pLW51VHVKMGZUTjlCSU94WHBRVElWQlBFSThsUEtubnp1ejhENnJLTXh2dXZaaEZTOGpVZzVBNUN4QmhiTGlrdGJDTkxTVkJJV1JKUFNQVkVSSVI3eDdmWmdLSE85SEZicTRyRW9sdndTSmpCOUItZWM4Wnh4azhLaTJxN0x5azlTUDZsY1pYUzkxUW15UmV3Y21hZ1ZIS3FVNVNjOGxXZDVXX1V2ZnF3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Vera Clinic Releases Clinical Outcome Data for Vector-10™ CVD Diamond Blade - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaDY2eTcwelJHcTJKV011NFJzU3F1TWJqUW83TnhNVjZ3WDlNYWhXSXZ6ZHRBZ0F1NDRJT2lUMTkwQWJ5UVowNzBwMEpENXV5d2ZRM0JhelJuUHJRbnVEZG1PTk1hQ1Z0SU52QzNoRC0wVWdhbnRTMlBVTmRJLVhpa2kzRDExbWdWeHNVLWFUMERFQVJ6VGVpUVVXdFc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Affinity for iPad Launches With Free Photo Editing, Vector Design, and Layout Tools - Imaging Resource",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDQwYzQzYnVRamlmemEtRjIzRXc3dm9rT2tzaWFLaWRJMTRROWU3TmZmd3pzbTB0T1VSM2I3bnZjSXYtUnVJVlBOWk02d3E0S1N6QzhtX0w1TmxBdGFRT3ZkdzV5a2djWFk0blZtWFRwVy1ZT3EyVHB5Uk0xS2RBNUlVOE1BQU1LU1Q4R1k4eElNLXJNM2NJeExwand5emVCc0tYU3VHSnZPeERlY3hhcXVWcHR6b2tIUEFDVA?oc=5"
@@ -154,14 +175,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Synthflow Launches Vector: The AI Lending Agent Delivering 40% Higher Reach and $1M in Commitments - FF News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnpscHdqQjdGQ1pDQzhtaXluOVE5NktsNl9tcGs2XzFvRVdtRnhBaHhBbWMyZXpaY2JvT0xScnVrYnQzX0daVVlFTnlvMTVHYk5hUjUxOXN2S25mMDRhWEx4OE1Pa2MwTUhTRk55UnVlWmhsbmhOcHNNR2Y3WHN5U1RRUXZPS2JMSi1pckFvVzFKNGo2cVp0S0xkRlJYdjl3M1ZmSE1HRXg0QXN2aGpYaml6Yw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-29",
       "summary": "Vera Clinic Releases First Clinical Outcome Data for Vector-10™ CVD Diamond Blade - Complex",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMGNycURNWERQWDdRUmk4M0h1YUFTQWl1RERzM21rZFZJdGNJdEVFYm1FQ2xFdjBDU0NsLXYtTGpQZ281LWlqdGhrTDJVRThwS2l0cE1RN3hjemVJUkFHMW10SjVHNGY3QjJhd3R3TWhRWE9Iak1BcGZvSVVrWkkwdmNFbWxmNmt0X2tv?oc=5"
@@ -252,14 +273,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "RestaurantData Expands Restaurant Enterprise Index to 430 Companies and Introduces Restaurant Vector - RestaurantNews.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaUdpS1ROTTdmdWlMc0Q0QTNIVU9KM2o2Q2ctek5ZT3B2aVU3M3d5dVI0STFXYW5yaXRNZXFsLW5qUlNUNW9KYk1fOG12RWRWUWNHT2RQTWNIdFdyeG5HREU1NDB6SVhLTXU3TGNlYUtpVG5NUXJkcVBzM2tiR1EwMUVIUlpKOUFGczlCSEFXV01NeEpkcmhpVU5WUlZaT3VBU1A1SFkzZnB4TnM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Vector Solutions Introduces AI-Powered Scenario Simulator to Turn Training Into Real-World Practice and Skills - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUGdSbWFLY01ScXF6YUV3alVwTkJsQmJXNGRmRGF2ZDZhMDF6LTExeUQ3ek1kT1diQzhieHFKSk9QSFp3Y1QwZVgyRVo4dk16YXNyRGZGNTBWUThOQ0VKRE4tWV9yRV81ZGktbG90VEhUOWl6aVlzZWw1R0Rmbm13cmZQRHM3aDFqTkVMMWd4TUk2RkVhaEN1U2tqRVRKUUpwM2daTHRhRFRMNGRJVHNhT2dOb01EdGdCNzNCNWpua3Y1YUJvVzNxRFdhMGloa2JrZVNmWjI3Ylk5ekFHYUxsb0h1aDA1aTR6LXNuZE5zN0gzMTk1Z2lfcS1R?oc=5"

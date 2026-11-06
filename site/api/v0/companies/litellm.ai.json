@@ -1,12 +1,38 @@
 {
   "domain": "litellm.ai",
   "name": "LiteLLM",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 10,
-  "long_open_roles": 6,
+  "score": 0.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-06",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/litellm",
+      "postings": [
+        {
+          "title": "Senior Security Engineer",
+          "posted_at": "2026-10-31",
+          "url": "https://jobs.ashbyhq.com/litellm/93705fde-0daa-49ce-94be-4551d3ac662d"
+        },
+        {
+          "title": "Senior Security Engineer, Product & Platform",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/litellm/27d65520-70ac-49c3-9224-66e2965259c0"
+        },
+        {
+          "title": "Senior Security Operations / Detection Engineer",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/litellm/d1adbb67-7b1f-4daf-9863-d1c72069ba47"
+        }
+      ]
+    }
+  ],
+  "open_postings": 12,
+  "long_open_roles": 7,
   "sources": {
     "ats": "ashby:litellm",
     "edgar_cik": null,

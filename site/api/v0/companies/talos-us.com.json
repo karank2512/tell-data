@@ -1,9 +1,9 @@
 {
   "domain": "talos-us.com",
   "name": "Talos",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.4,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Talos Launches Kalshi Event-Contract Trading for Institutions - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yOHZ0eXBHbVU4UUZsUG9PWmJiRWI4SzlfTVNQWWc4OUwyUU9MakEzT3M1Si1ZdV9YVmpadGx4MTliYUNTZVFZUHpHRXlyS0JReGtFMmJmVXE?oc=5"

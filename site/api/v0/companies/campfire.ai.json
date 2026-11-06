@@ -1,9 +1,9 @@
 {
   "domain": "campfire.ai",
   "name": "Campfire",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Expensify launches native integration with Campfire - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckJmY0M4SUQ0RWhvREY5RV9yazlQWUgzTnZrZU5YeEpsaXBUajFyTnZ0b0txcmJpczVRZ1IySGpRODZ6ckpfWkRZaFV3a0Jjczl3ZWE0SXBIRl9yLXlqZVZidG9xeWNFblVPZWxjT1FKczhMWUxiMWtZSDFnaHNtRnNHajcyR1drVXNlQmhwZ2R6MkRfcU9obS0tS3g4OURmWTJlNlBXNlhtRV9rTGwwRWhkYmsyVW5kOFFF?oc=5"
@@ -55,7 +55,7 @@
       "url": "https://campfire.ai/blog/introducing-askember-in-slack"
     }
   ],
-  "open_postings": 52,
+  "open_postings": 51,
   "long_open_roles": 24,
   "sources": {
     "ats": "ashby:campfire",

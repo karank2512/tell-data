@@ -1,9 +1,9 @@
 {
   "domain": "tilt.com",
   "name": "Tilt",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 7.2,
+  "score": 10.1,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-22",
       "summary": "TILT Story Appoints [person] Chief Growth Officer to Expand Healthcare Marketing Platform",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmVxZi05dUFOOW5mUjBrcEI0VjZzcDlnVlBQby10YkpENEV5STFidmp5UlJyeFJ3YzhjZHAzbUdtQURZOW1CVFR1RTJLRzk0aGdwdldZLVdCNElSb2NFVDY5WmNNVHVOdGFObDZSZkItSjVNNFFXNF9qazB4MkpFa0l1bTNvd2lxa01VQVhDUzF1TzdmbFpScDhMLUJ2ellTS0dtcWd6SWJBMTNLOHFoRzViWnNOUEluUlNCaHpZMC1Ma1BYV21rRlpzZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Who said tilt-shift lenses had to be slow? Laowa debuts Zero-D 24mm f/2 for full-frame and medium format cameras - Amateur Photographer",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY0p6Y0taQ2ZGZnYtdk13b2d0NzR3UHpuU2FSUkh2MGlaTkNxd3JTRENkdE1leXJMTC1rRExWdlNqVllxbHBxRUM5eEZKbHkxM1NySGVaRk02OUNmTENzVlZkVEl5QVdWVHJUUGN2OUJEU0RaME9zWEZXSXdpeFRiVXE4X2xIZDlpZF9obU1TX1J0NHhKQzhwSGRGWlhwaS1KUmlyVkExbXJ3bVN0VEhsQjNlUUhEU0xLMTJ0bk0zQmVHV1hqWnBtZEFDel9WSTc4aHdmUHkwSXFzbm03VjV0b19WaHJ0eThRR1ZMYWstRlRGaW1q?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Laowa launches 24mm f/2 tilt-shift lens with medium-format support - What Digital Camera",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXFzYkpDNVNkZDFocTV5WEo3NjdObk5DdzBDcWVsLS05MVphM1k4YU01alJ6dzNzN214d0pSTk5hVS1vbmlScmZCVFNEY3JmTzdlRnp5VTRncTFUUF8tTWhSQlQ3bWlndXdrd0thV3lTQ3NJVXBFR3NadzJNVGlmajh3WFhoeUotSW9iOGJPMFVtU0R6MU5QbXA0MUdjWW9Qa3cyQjFDelI1a2ttd01vdlBzS29RU1lI?oc=5"
     },
     {
       "type": "launch",
@@ -28,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Anker launches new window-mounted camera with 25-degree tilt and local AI detection - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVnR4bUQ2VGQwQVRDdG8yR0dnLUVpUEUxNGs5S1hwS2NFN2ZCU0kzeEQ4YUNwNWlBMWwyaWhjU3NjLVJHMFQ0RkVpejlocnhPUHJIWlB4YzBEanQyQVBJMXJ0ZW1yZnU4ZzY1aGJyR1VhU0NmXzRBTlV5RF9rT2l4N2E3UUhkY1hrby1iUVJ0Ml9vUkswRktQMU1zUDVCRW1nMTdCVkFYdlctLWpTMjZCMjFLWjFIbEdDMlV2ZDhvSkQwZXhOa0E4?oc=5"
@@ -48,7 +62,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTd5UHNfcFhsaGRaMXhGRkN0SVh0NjlYNmJZY1RFb29GWFZZd0dxVHBqSTdUX2dRdzU3ajN0dFYzdnJrREs5NDdZVE55WHBUWXk2bTJxUWE0ZUJMM0dHSTVKbjFCMU9YUlhQUThQWllvbEZDbjUxVm1QUVJTeWUtMXBvTkh5N0lfby0xQU9ibzNSN3JqRW5VaVppaG1UTnhQOXNMV29RYU0yaVpILW83ZU9RZExyTmQ2c0dwcEs1SjdseWc0Q3hqdi1RVnJqdHU4WDdnUw?oc=5"
     }
   ],
-  "open_postings": 20,
+  "open_postings": 21,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:tilthq",

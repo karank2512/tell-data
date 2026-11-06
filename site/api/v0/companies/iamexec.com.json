@@ -1,10 +1,24 @@
 {
   "domain": "iamexec.com",
   "name": "Exec",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 48.9,
+  "score": 55.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-05",
+      "summary": "promotes [person]",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHVkNnJUM09Xb0xSTmRCeUxoZXFSdUJwZXNaVF92N0Q1MjNVRW5kX29wU2ZWUVFKYnRwR1JiMGJENXk5TGdfaHgxRkFVQktkTzZ5a1kyVGFIZ2hSSDkwZ2pwc3ZOQTlUWHlSRU9rSnJ3SDhlWFljQkVjLVNyY1paV3M5QW44QjczeER3Q1NfeU4wc2FpOE9rVktaNGtaQUtEOV9YelhRWVY?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-04",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kdWhkSmdkR0Z6LXhDOThXQmtrQTF6QWxidDRtRkZjaUlCQXdsSDdpaGhvWGxuU0x2YXk1Zmk2Z3BtQVpVRU1tQ0ZvNnE1SUdaeHJRMGZkaXd2RmF0TTBNY290bGE0YWYxRGJzSXdRc0p4a0dGakJNaQ?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -35,7 +49,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-30",
       "summary": "Hires as New Chief Merchandising Officer",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmFLN01aVG9mRTd5Q3c2ME5YRHVHekdXcGk3ZnJmU21DaWlzb21ZNXU1Q25DQ0VzMzA1NEdPdEhYNmwteVNBX1pzcE5KSUlkRFoyQ1JSWEM2eGtpMjROcUJWTHN2MWtVWHlnUmRsY2lrVWFVaFF5SlhnWEVWRXY4dHZITzlKLVZYSHFtaTNCdklSTXJaQ2VDdWlfakRQcHY2a3gwME9NeEFYTVdkSGNnZjVVZw?oc=5"
@@ -63,7 +77,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-26",
       "summary": "Appoints as COO",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTVlZ0dxZTBnbXBnSjVkaGR3WHVwREJIdlFxUzFNTGV6MlhRWkNOMThKbXdDa0FoRGFqcWt1U3BCMjFGYnRRUlIzTVE3RVZnNl9zWlZUaE9Dazd1NGc0T1ZaYlNGSUxmbzZCV2szam9QX3FUSzFxdlcyNjJqYVZ3QmR4aUdvd1VLaklvbUdVY0w5WkIyeFNjV0FKZmRmZUpSVTBWVEt1eUc5Unc?oc=5"
@@ -112,14 +126,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-20",
       "summary": "appoints as new CEO",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTXRVZFBrem0zTHExeDV1Y2ZwUVpNU0lpSmsycmVzYXpGdFZVZjZ2LTNOcEhBMWxHT3g4TkRydVZVRWlqV2I5VVY5aVJmWTlvSHh5RG5jekVNeWFEWUNheWVHUjNGbnppSVBMYk1FS21oa1pkM2ZvYmxCOHdGU1JKNmVFUVR3M2l6cnd3bFhGblhpWjAzVVVTald3?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-20",
       "summary": "Hires as President",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NbGl2ZkVqM3A5cnlId25KMWx1OW9YUm1HdElPRGlEWjJjTTZ2eXJaVlFBSndnZmJwbUdEeTNtQlhGazFjUkhMeW4wRE10UjdxQVhZbzNIYWVTVjJVdHNSNEpnNkhLQjQ?oc=5"
@@ -168,7 +182,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "hires as CFO",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdm5ZazFNazlPdk5nRkZBWmVha3lKWE5Ed0hJU1JuT25TZjhUX0lCT2hLRVhtU0w4dWp4Q1hhTmpzSGtodFl6eGJXUTJqTzVka0YxdTlzNmp6Zk9GUXBLMlNaWTh0Mko1SmNLeV9iREk5akJMVzItWDNNYWlkZmFfSWRhdHNmUVlOYm55NjJtWVdpQVE1UVFqaWhvOGtRYjJaZVE?oc=5"
@@ -179,6 +193,20 @@
       "occurred_at": "2026-10-13",
       "summary": "hires [person]",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHNES1p4RUNKWXA0NzUtLWE1QVZwUkUwT19UY09oQXJsUUFHODdpdFBnUEM1Z2stRk5Td3VDOFlhRVNpU0txOFhFZE9kOWtBaGRQenNyMFZyN0NiWmtiYnF3NkxKQ0dQOWRRbXVrYVBQd3h1anJndDJhTXlleG5iUy03d3dVUXJuSWc1MURaQVJKMjI4djFFLUxLSjUzVU1VNGl2Z3d1MERyZWs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "EXEC: Tecnica Group Rolls Out New E-Commerce Model for Moon Boot - SGB Media Online",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3pTeUNnZE9jRDJmVUlQWDVkNTVKYWFpMkJiQVllTVo0QTJGckxQLUNxRzYtMkxOVVl5Z3MwNE5PWkpMa2hhOVEwTHltZnBhMFlYNF9JX2hYcFZEcDR2RU9pdEFiZWhESTNWaExlY1d3YmVDdlJvdE1DVGtSNlF0dDRaZVd4ZGd4bE5BeTg2QQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Former The Searchers exec launches Benelux distributor WatchWatchers - Screen Daily",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHJpQUZkcU9DbnBDaFNaaUdET2FRVnJGLUNsaUNwVWN4QWhJTGRWWHdCNFllTUlaT2xjeWhwYnliSVdKTV80a0dHM3dacVdZSTJYNUlKdXBVU1JndC1ta2VUbW9VQ2NEbDFJa2RHdXNMSVd5SEJmR2wzcG9pTE9yRGRlbmtvQi0wRVVQcUFMQ0lHdzhPRjdBQ0xJNHNWdDhTUlVqY014RjloRHZkNEtFdWJwM1NOd2RZ?oc=5"
     },
     {
       "type": "launch",
@@ -203,7 +231,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Ex-OpenAI Exec Launches $1.5B AI Manufacturing Startup Arda - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3VxNDg5OWxpOE1rcUNkWE1ROXZQRUpYQXVVbzhPQlZ0UjlNdy1lX09VUTh1a0JXdFluQXdXUy1SdUwtQ2QweG5oTUpoeGhiWHhIakxGamFZbXlkMGtuemNkY243d0YzU3ZVNVNSWWpuUDY3OGJTclBEOUR4TVdMZEktc3BzNEJrN01pcUVCY093Q3dLOUE?oc=5"

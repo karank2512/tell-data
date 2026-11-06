@@ -1,16 +1,36 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 18.7,
+  "score": 20.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.8,
+      "contribution": 16.6,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-06",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/coderabbit",
+      "postings": [
+        {
+          "title": "Community Support Engineer",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/coderabbit/af28736c-068f-41ec-a318-0e50a7a5ccf1"
+        },
+        {
+          "title": "AI Operations Engineer, Americas",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/coderabbit/f6b018f4-5090-451b-83c7-111ba2884e55"
+        }
+      ]
     },
     {
       "type": "launch",
@@ -41,7 +61,7 @@
       "url": "https://coderabbit.ai/blog/introducing-change-stack-the-first-ai-native-code-review-interface"
     }
   ],
-  "open_postings": 47,
+  "open_postings": 49,
   "long_open_roles": 18,
   "sources": {
     "ats": "ashby:coderabbit",

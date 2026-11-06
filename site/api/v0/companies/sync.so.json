@@ -1,10 +1,31 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 20.7,
+  "score": 24.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Notta Introduces Memo Pro in the U.S. With a Color Display, USB-C and Automatic Wi-Fi Sync - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmxoUVhMTnNjTXBBZ01JaEhNMzc0MllzWC1JSGx0ZVRqckEyQmVlOG9zNWZIVk5qM0Z5ZWt2Sm5vQUxwYVJfVlYxdWdsNnhGd3ZxSGVZMFY1UXRzcFJIaHpwd0l1emRoS3dGdm9WdXRwSXJlbHVzbXNFTXpYZENTVHdmQm02Wk1FazlRTnIzQkpsN0Nnb19LWTdZNUp6RkU3ODNJMVJYejNsLS1yalRLdnJPY1Nyb2k5ZmNHY0IxMm1JUjh1Z0FkTWVOTUFkQUlCMGFUS2s1VTkxMkU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Calibre 9.18 E-Book Manager Introduces KOReader Sync, OPDS 2.0 Support - Linuxiac",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMG5FLS03Mi1ZSXZabEhWMzlObmJlZW1QRFk0aUQ3U2FldEN0S21Bc3pqX01rczUzaG14cWZyRHhMcURzVkludVZQVWtxbTVSTVc4Y2g0enJzbEp3UnhxUDloQmVENGtNd0F2TEQ3QVBfZERGSjRRUS1CUmxSd3VlQzZuY1NyQWRMZ1VzQjRuN2Jrd1RLMXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Feel the sync: Casio launches keyboard that keeps beginners in key - Telegraph India",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMk8yQ204UkxKRndIRmc5dU0xYll3QjdTTWlneUdMNG9UeFBVVXBOYTI4X2g1WEduUzBLTjM4VjBqd0h1WUJCejE3bWttRWpSWUJwYXkyMlJLWkVlNXV0bU5jRWhEZGtZSEQxWUpnVUZfTlRjUzdnLTVHblgwU2l1NlNHdkdVOG04LWgteUxpVnhXRlI5YWlBNFZvdFNMVkU3bFhYQXpoWnJSUF9IUXNRUjUweE1mVnBlN2JzaENZRFZYcl9S0gHKAUFVX3lxTFBUa1J3NU5pdVh4bi1Uc0lPaUE3VzZqYTVPaG9ZMjVKT3BaWVZSOXdYWFhDclZtUlI4X1p1bEIyTENyVWd5aFV3MUxQbmRnR3pON2ZyVnpwV0hNNV9CdmdJUmVRVWxfZ0h4ZXg4N0x6bWg1WEJUM25sZFAxRnc4NlNuY0Z1X1RZR1pzWDNHNjV1cC0ydC0yWGhhcHRzcGlyVEFZQmtqZnZ5dS1MeVk5SVRtY0dUVU12cTJrdmY1YTdobFBORUNSMVNBdGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Music-tech startup Hoopr unveils macro-sync licensing tool Smash Plus - Adgully",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2Z5RFlDM3ZCUklheXhmWU5XaTE5Z0pRcW9NX2NVVkNzby12aWRIc2UzYjBHS21OTHVlYjRmenE3Mk16bkN0ckw0MEd5bFNHM2FzY1NvQk03ZkdhN0lKNHVaQTVZQ3JBQ3VQeU8zUnVHX19qUjNNanljQWhxWWJYVDJRbXdfd21iejlzWVZTVGE1LWM2UlBmeEh6UFBNWFNWTG14bFFxVQ?oc=5"
@@ -70,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Microsoft Unveils New OneDrive Command-Line Tool to Manage Sync Deployments - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80RGxza21oYm9rbndDSUFvbGYtVnFMZHVFRFkyUzNvcHJlZ0hUU09ZYUFwNENzdFFrVzBoUm9hMVF5Ynl0ZHBKTHdRVGpGWXI1dFZ6clpEcTFIQWJ1VGFOdzRvWmFJSFY4a0VqeTFn0gFuQVVfeXFMTzREbHNrbWhib2tud0NJQW9sZi1WcUxkdUVEWTJTM29wcmVnSFRTT1lhQXA0Q3N0UWtXMGhSb2ExUXlieXRkcEpMd1FUakZZcjV0VnpyWkRxMUhBYnVUYU53NG9aYUlIVjhrRWp5MWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Microsoft Introduces OneDrive Sync CLI for IT Admins - Windows Report",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUEpmV3dKbnFfaHF0ZjZCM1cyc3REcHZrVWhvUWZxUFZJWmNXc0F3NnM1akNXRkQ4UTVab2VjNENZckd4SUcwNmFISGFDcUl3WE1yT0Q2Z1RmTWw1am9WS0NDXzdGWFlRNGpmcldwaFJFTzlGOTl2RGRLeGVmbzFDUXR2aTVPUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "NVIDIA releases GeForce 617.70 hotfix driver to fix G-SYNC Pulsar 320 FPS bug and black flashes - VideoCardz.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWi1Kalk2ckkyQWR6aW5jazBUSmVWZVlyQmpTd2NiUGZYTTNEbXJjNHJEbVNGdVdxcG5pMFhYQVFheUlheWFUMGZCZVRybm05TTZ2TVlVdjI3SUJSaGlfSTJRWjdGU0VEZ2lpYk5MbGFDa0dnZFFYZEtJS090aDlEUjU2b0VHNFV1eXg1bTRDRjZHY2l4elV1elF2WXV2Z1pvVnlrSWM4cGtFUW04ek84MlpVTmxxZ3pUN0N2M3FHU1c?oc=5"

@@ -1,14 +1,14 @@
 {
   "domain": "fivetran.com",
   "name": "Fivetran",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 7.0,
+  "score": 8.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.4,
+      "contribution": 3.3,
       "occurred_at": "2026-10-29",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -57,6 +57,41 @@
           "title": "Sales Development Representative - Italian and Spanish Speaker",
           "posted_at": "2026-10-22",
           "url": "https://www.fivetran.com/careers/job?gh_jid=8040028003"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "exec",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "5 new exec roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/fivetran",
+      "postings": [
+        {
+          "title": "Director, SOX Compliance & Internal Controls",
+          "posted_at": "2026-11-04",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8075743003"
+        },
+        {
+          "title": "Global Head of Deal Strategy and Operations",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8196773003"
+        },
+        {
+          "title": "Global Head of Deal Strategy and Operations",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8197314003"
+        },
+        {
+          "title": "Global Head of Deal Strategy and Operations",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8197319003"
+        },
+        {
+          "title": "Global Head of Deal Strategy and Operations",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8197321003"
         }
       ]
     },
@@ -111,8 +146,8 @@
       ]
     }
   ],
-  "open_postings": 164,
-  "long_open_roles": 45,
+  "open_postings": 172,
+  "long_open_roles": 44,
   "sources": {
     "ats": "greenhouse:fivetran",
     "edgar_cik": null,

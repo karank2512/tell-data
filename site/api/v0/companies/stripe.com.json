@@ -1,9 +1,9 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 24.8,
+  "score": 24.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -182,21 +182,21 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-23",
       "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSl8tdXcyS0FkN2lKb3BTTWNldEh5aUoyckFyR3pNWDhMTmdvX2UwMnNYRzFMRXdmMlJfSEVKbmUwaUpXd1JFZ2docEtTM1ZyQlhsWHptRnI2ZmE1U05RM0o2a0lRbWYxSUsza0ZYY3o0Ym9Bd001b2MxNHBSM0FObG81cXp5TlhLTGROWFlvNEt3RHFPby1xaWlrRlpWOXdzR2RVaDU3X3hka2dfWTkwNDg3d1V0YVo0YzhKY05meURYRlA4OUZJRkh2VjVVb1VGbkZrYTVUbE4?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-23",
       "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRG5rLThDdEt6eDE0NnRqbGNtdC1UU2drYWV3UEp6OFpJT0tNM09RQjUtNWRjYUtXWENiSFlQa2syb1RnSm02ajM0SUE4dUpYM09QeUNJbDNHQ09vT3RQS1JzQUF5SExaX0RnaTBRbHoxUjltWllwREZJU0NwdnlBMUtLQmNROVpMaUNLN2MwZklQSEhwZTRsRXJ3NA?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-23",
       "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - KTBS 3",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOY0tnT0Y0SDhSV05VdmhoSUVmVWlBOHRQQXNudHRrbGMxZGJMYnJTbFlXVWY3cTR4NFlxZnp5T2tCT0NoM3NwcGdzSThkTjRKaDJMMV9aLVFrSHpGN1UxblhNTlJyQTFCTHJpeGlNTndLaUoxTzhiaXVBeUgwaXFtQXRiZGkxbGYxdFBMY3l5d0V4aU5NRVAyYTNVeHFvcmxTRWJPNkdja2NUWHdjeTU4Vmd3OU5rek9TXzFIZkpoNzcweS1WVWM0OTRwdHlnYXVPRjlQNUlaVFNHVXlJZGlCQ1c3bjFvR1FJb3hlMmVzR0ZaNmdwQXZrQlZjemF4LVN5TWNLNHRlRm5hSjlwa20wdktYblB3SlkwOGhJ?oc=5"
@@ -284,8 +284,8 @@
       ]
     }
   ],
-  "open_postings": 774,
-  "long_open_roles": 197,
+  "open_postings": 778,
+  "long_open_roles": 194,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

@@ -1,9 +1,9 @@
 {
   "domain": "camber.health",
   "name": "Camber",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 6.5,
+  "score": 6.4,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Camber launches generic Hyzaar - Drug Store News",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QU9kR0piR0U3Q0lKbUMwZ2xXUC0tN2NpZG1oQnRqUEFQTERkZllSU3hHZF9MYndIVmhkcnJOaWdkQ0ZUMGd3LUlGTVVwQ0tZMFVLTURFMThfSHVWWG0tOHpMRk5qZk0?oc=5"

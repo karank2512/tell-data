@@ -1,13 +1,13 @@
 {
   "domain": "chipagents.ai",
   "name": "Alpha Design AI",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 17.3,
+  "score": 17.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.4,
+      "contribution": 14.3,
       "occurred_at": "2026-07-29",
       "summary": "Form D: $59,999,917 offering, $59,820,856 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2032488/000123191926000810/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-05",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc",
@@ -58,8 +58,8 @@
       ]
     }
   ],
-  "open_postings": 18,
-  "long_open_roles": 6,
+  "open_postings": 16,
+  "long_open_roles": 5,
   "sources": {
     "ats": "ashby:alpha-design-ai-inc",
     "edgar_cik": "0002032488",

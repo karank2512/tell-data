@@ -2,7 +2,7 @@
   "week": "2026-W44",
   "filed_from": "2026-10-19",
   "filed_to": "2026-11-01",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "filings": [
     {
       "domain": "betvisors.com",
@@ -401,6 +401,6 @@
       "url": "https://www.sec.gov/Archives/edgar/data/2138218/000213821826000002/"
     }
   ],
-  "method": "Every original Form D (no amendments, no pooled funds) filed 2026-10-19 to 2026-11-01 by a company with a tell account page and a trusted link to the issuer (an exact CIK, a name match that passed the Form D guards, or a reviewer's link), newest first, as of 2026-11-05.",
+  "method": "Every original Form D (no amendments, no pooled funds) filed 2026-10-19 to 2026-11-01 by a company with a tell account page and a trusted link to the issuer (an exact CIK, a name match that passed the Form D guards, or a reviewer's link), newest first, as of 2026-11-06.",
   "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f"
 }

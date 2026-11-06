@@ -1,13 +1,13 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 37.0,
+  "score": 36.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.3,
+      "contribution": 12.2,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
@@ -28,21 +28,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Pakistan: Islamabad zoo introduces 'Coffee with Alpaca' attraction - Africanews",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVFFakNCVWk0VUNHckFxb0t6UHJOSTNkVnAwRHFxRkVGT0pQNVBVMC1FcXZETGdMemZnSjVhYl80YUdObkdfNHpvUkgzNVVJV1NiUXZ5M0J1OUVuMF8wbDFwTWYwcC1NQno5SkpKY2J5aXZrYlJsNnBiUDRCUEtkd0E5YWhvZ0poRUVWUXRXVTZtOF9xNHJ2ZEk3TGVHd3RpOFFFWNIBqgFBVV95cUxPV2t0cmFZU28weXJtV0xkV3BGbkFkWFhMWVRtN0xpNVZ5UEtQUUF4UFdXRFVEZUpGTzNnN19MRW1JZ2F6X0RKWmRYdEU4THdXUnJteEtObW9VMU5PcmFPbl9NdlZ6LURubVpoa080dHVmZVlZd1VqWmVXZERiX1RuWk9UZHd3eU4wS0s5cVhER0Z1SDBxMmNVYWFwek1iR04xSFBtcW9DRUtwdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Video. Pakistan: Islamabad zoo introduces 'Coffee with Alpaca' attraction - Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzY2ZHU2d1NiZWpsNmRGZTdLN1RrM2MwanJ3SlZXM19XbVFNMVFNMEduUk9rSjVSNDNLOFc3cDdVS3QtT29pN0lXNjFKT1BuRWZteGo5LUdqVnJ5T1VUSHFGR2xWcjU4ZW5wdG1sei1BdERzVWh6TjhSNVNaVXB4cC02S2k2cUo2TC03M3JFSkZWUTdQdkVyMHJBcklZWGZfbGVLWE1CU1U?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Pakistan: Islamabad zoo introduces 'Coffee with Alpaca' attraction - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2tfdi1kWmxMRkNpa3VtbXNheEpneHhqUEF1U3FFQ0VFNEpNdTRqdlNTckR5QkhWVWhVNjA0blJfSmRXVlBZQ3YtcGZzbFpVaklEVmlfZ1libC0xSmNIOGhFX28wc2FIaFRXNG01M1JXMVUzTFByZHduSHZiWnBMTnI3QVhnNVNva3dOSw?oc=5"
@@ -179,7 +179,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-09-01",
       "summary": "Binance Launches US Options with Alpaca to Expand Multi-Asset Super App",
       "url": "https://alpaca.markets/blog/binance-launches-us-options-with-alpaca-to-expand-multi-asset-super-app/"
@@ -206,8 +206,8 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
     }
   ],
-  "open_postings": 70,
-  "long_open_roles": 15,
+  "open_postings": 69,
+  "long_open_roles": 14,
   "sources": {
     "ats": "greenhouse:alpaca",
     "edgar_cik": null,

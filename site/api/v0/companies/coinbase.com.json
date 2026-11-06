@@ -1,9 +1,9 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
-  "score": 11.8,
+  "score": 12.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -43,6 +43,36 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNSmlidWZrT1VVc1BxczhiWE1EZWFFZGEyTmEwbDl1RW1oRm1IQlgyRU1NNWRMY2NLSF93ZW1YSzBxVG9TMzVGa2cxU0tRX2pvX2taZ0c2V3lYQlZ3UFVpeQ?oc=5"
     },
     {
+      "type": "hiring_velocity",
+      "role_family": "product_design",
+      "contribution": 1.2,
+      "occurred_at": "2026-11-06",
+      "summary": "4 new product design roles in 7 days vs 0.75 baseline",
+      "url": "https://boards.greenhouse.io/coinbase",
+      "postings": [
+        {
+          "title": "Senior Product Manager, Risk",
+          "posted_at": "2026-11-03",
+          "url": "https://www.coinbase.com/careers/positions/8348406?gh_jid=8348406"
+        },
+        {
+          "title": "Senior Product Manager, Payments",
+          "posted_at": "2026-11-04",
+          "url": "https://www.coinbase.com/careers/positions/8351170?gh_jid=8351170"
+        },
+        {
+          "title": "Group Product Manager, AI Foundations",
+          "posted_at": "2026-11-06",
+          "url": "https://www.coinbase.com/careers/positions/8351165?gh_jid=8351165"
+        },
+        {
+          "title": "Product Manager II",
+          "posted_at": "2026-11-06",
+          "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842"
+        }
+      ]
+    },
+    {
       "type": "launch",
       "contribution": 1.2,
       "occurred_at": "2026-10-21",
@@ -72,7 +102,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Coinbase Launches Agent Payment Stack on 1-Year Business Unit Anniversary - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzNzQ1Y0QkVLbGx0QXpEQUlXMHBkRUZhNkxPS09hTW42dWtaRk1CWE1wNXhqeGp3bmtXVllPVjdYM3hLenY4c3oxU1UtQkx6aEdqa0NmSkJadTVRVHZPNXNYUUQ4OXZYQkVVQzlDLUQ1VjBsUzV6dm1GR1pfTDN3RmlvcHM5bnlSSWMzeDhkeTdvS21MUWxxRlU3ZDNEbmdqT1hOOC1VMTJOV3VyRHZCMDc1M3N1dw?oc=5"
@@ -87,7 +117,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-10-17",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/coinbase",
@@ -110,8 +140,8 @@
       ]
     }
   ],
-  "open_postings": 282,
-  "long_open_roles": 65,
+  "open_postings": 283,
+  "long_open_roles": 64,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

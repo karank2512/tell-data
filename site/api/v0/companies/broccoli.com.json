@@ -1,7 +1,7 @@
 {
   "domain": "broccoli.com",
   "name": "Broccoli AI",
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "profile": "default",
   "score": 2.9,
   "contributions": [
@@ -40,8 +40,8 @@
       "url": "https://www.broccoli.com/blog/expressive-voices"
     }
   ],
-  "open_postings": 31,
-  "long_open_roles": 20,
+  "open_postings": 28,
+  "long_open_roles": 19,
   "sources": {
     "ats": "ashby:broccoli",
     "edgar_cik": null,
