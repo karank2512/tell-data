@@ -1,9 +1,9 @@
 {
   "domain": "charm.cash",
   "name": "Charm",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Petco Love Launches Plush Mystery Charm Adoptable Pet Collection to Celebrate Shelter Pets - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaWR2T3JEaHo0bXNzQkQtWDcyMFl2eFh3SXBwRDdhRkZ0RnltdDBQR0VyUGxnS0RQYWw4U0lQOEVYd1FNQkh0OVJBdzhOU3FHb0hkQ1dIRGExanZGdmhiaVkxRFlNeEI5Rm1vR0VUdFNnNVAwZWFQb1B0Tjdwc1FMOGd1emdtY3JNRmctSk1iZDlFRXFMcm1UcVJWMkZlbVV5S2NXZTdzd0lxVUFXU2VURklIakhHZjJoUHJyd1d1dzYzQjRtbS1oYTVjQ2loT3RtYm9RcENZZ21HSXVTSF93?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Gold Fields launches charm offensive to woo Northern Star investors - FT (GFI:NYSE) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkY0SGFhNmJ1a2dlaUxoTXB4a1d1eXAwMmFXa0ZrTEJncl93Tkg5ZXhkWllfc2M1aThhQlRQNjhMNDBmM0xtUU9xdmpKbU53YlBXaG90UmVYQjE4WWNrUmlEWHdqOF9fZG13YmVQRHI5S0hsT3g2TW45NC1UVXRXQWJNNnl4S1d1VWhocXRzZmZQaU15ZGhuQ0tDaVNKLUhzeS1iUGtkOFg0ay13?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

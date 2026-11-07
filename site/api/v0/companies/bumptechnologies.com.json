@@ -1,10 +1,17 @@
 {
   "domain": "bumptechnologies.com",
   "name": "Bump",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 14.8,
+  "score": 17.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Yang Jiwon debuts short bob and reveals baby bump during pregnancy - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjlZRFBKVVJrZlhza3gwdUZWanJ3N0RTdkVNanR5QnBlY19sUU5NckdOb0VVMTY1bG5zVzVEcVc4WWVFRnZKYTBxcldjUXZVZmh1dzU2WER2c3FnMUxqNFd6UWUzRHVKYlVGRkNVUUlRNkxBaW1UTjg4NTlYdnRQanVxQWs0QzBB0gGcAUFVX3lxTE9uang0S3pZTmtXOEVDSVZ1M1VQYU9sYnBWT212X3hrc1N6MzQyNFNlbzhqTlhKQ1RtNFBVSzVXS0lZX2x3WFRxSmRxdVpYSTBTVTRELUNldlVzN2pyWExWZXlrY0pWc3RPTzFwLXBFR2FBZHZQTkJtcFpxdjhDYlppNDlacmFaNEhNYU9ESktkRUJzV2dWTU90X0Fjbw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,14 +21,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Razer Debuts Raiju V3 Pro Signature Edition With Laser-Etched Glass and Magnesium Shell, but No Spec Bump - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNUdOcGdtNG5tZ3ZNeEtXcVJKZXdFcmp5RlYydDh1SXVXb09HZ0UyMEtXem9xM2FsR2pRa3E0VEFIcWJ6R0lKa1BGaGlPWG9pS0Rvd3U1TXZUTHFHS3p1VEh3QWJvVk9DeVNScTVSYVlCMUwybVE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Zazie Beetz Debuts Her Baby Bump in a Fresh-off-the-Runway Set - W Magazine",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONDdqaWx2aUZxMmFPTExab0pTZ3NfcklubTAwN0tYRGFPN25STVpuZmNhVGlpZElvRWdKRVBhX0ZvU25sUzFobUdXdktBS2stdlZGUjZQVENqVUpiMlVxbnpwLUdpTE15cUNncGR1ODVaTTR4RFhlMm1DRUpZWHB0WGFZZkpjLXVO?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Zazie Beetz Debuts Baby Bump in Lacy Christian Louboutin Boots - WWD",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdE1Wa09McGpQOXJsUXBrWFoxZkxRQmhEa3hPLVcwWWNpTlNKX3JLZXRIRzhnRkN0RmxvY3ZTRTNOX1cyWjFQZVVRcFVEaVdhMW5iT2pmUnZjWExXWUV2QzR5SEtFT21rS0tEYlZ1S1NJRWZHd3IzOHlGdWxia1Bzb1lMbHRKLTFKR3hqcVBGWEJrZ0pJWFhoZ0w5QS1Vd3I4dEQyUENUbkFnekNaTVE?oc=5"
@@ -104,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

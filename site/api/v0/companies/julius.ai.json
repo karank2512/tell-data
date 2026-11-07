@@ -1,9 +1,9 @@
 {
   "domain": "julius.ai",
   "name": "Julius",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 19.0,
+  "score": 18.8,
   "contributions": [
     {
       "type": "leadership",
@@ -77,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Julius Baer Launches CHF 600 Mln Share Buy-Back Programme - TradingView",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYTZ3RndpRDNIXzFTblJxUU9ld1NZNjdyMFFYOG5oVE5YaEJqY0c4aGxQVFJiTEVfbFdOT3V2bVhxVUN2R2NXRzcyNnlfLVZxc3BpQnhNbUlPLVBGbC14Vks2c2IwMXhBXzZ2R05yeXdJamZaaVdyeXY2SzVtcGN1eDI2Vi1ZejRhd1dvemRXdHVoN3JjZV9WcWVrUGdnSS1IdThQdHFKSElkTHV1eHRGSy03dnhndWMyWGNGTTgtdEN0VGo5Ync?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Julius Baer Launches New Share Buy-Back Programme - TradingView",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDktaEU1Mm9TUHZHT2trNlEtX1V4WXZuMVBfQnlLRnpacEs1RjhzUjlmaTlIWFZmbXFhR0QwNkhzVnRYaldyV0p3TGlQQW1FVU96XzVyd2h4OFg2Q29URW9ZVm1pU01MR29pMzcyZGttbXBNWDZzWWRKOFU3dGpOTFBhck8xaDVldlFUc2NXRmlWOGJ0aUdWX3RTSGpWbUJYczVHQkVR?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "getlilac.com",
   "name": "Lilac",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
   "score": 3.0,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-05",
       "summary": "Appoints a CEO",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnA2NTc2TDBpcENfRVNBMXE5U0FKcXNUWGJLLXJKZFZacmlWX0hiMF9BQUVheUotUXg3SDdJV3JmN1ZjX0xBT2xHb21scTJZLU8tQ3NiQXVMR0NvWmpiREpPQlJOMlBrdENWQ3RrNmlibE8zU1ZpZV9PM2VuUjViT1BIbGN5U1cySGZ3VDU0d0Y0ZlBqeldiRnM1dVhISEJfNnZHZTMzUkxMalVCR1oxSmFyNmIzdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Claremore unveils new medallions as Lilac District beautification continues - News On 6",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNDNHU1lST3RQenhIbVJmTTlSV2hzTTdOVlFsVlRBaDdxc2lUNThNc1gtZ1hGNXFjcWRvU2xEMXdBZ0ViNUF3N1Y3cDkxQnNMc21LS1lGeFhHQ1NOZEd6dFBiZ2szdzlTRzBrTE9GOTJVR0pmY3RsTnVmX0VmYkJVYm5RMUJMWWExYUI4?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

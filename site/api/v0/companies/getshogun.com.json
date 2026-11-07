@@ -1,9 +1,9 @@
 {
   "domain": "getshogun.com",
   "name": "Shogun",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 7.3,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Total War: SHOGUN 2 Complete Edition Finally Launches! Series First to Support Full Japanese Voice and Text Localization - Saiga NAK",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yQS1LNzE1T25zeHI1N1VMbjVQOWJaNS02M285ODBqRlRpMlpfYWV5YzRLTHo4Y2x2cl9BbXN0VXVxX1BvYVNYUl84Q3JVZ1g4VzhWWjdEdzVKQjB50gFiQVVfeXFMTndQMFlrbUVDTk9CSDNJT3lSLUFUbXZpZ1BVLXN4MzhEOXJGbzlmT2J2QnlueXVEUG1zSUc5U3g0SGZOX2lMVTRYSFltejljMVZ3emhNQ3liTlJxVTB1RllMWmc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Shogun 2 Complete Edition Launches on Steam to Mostly Negative Reviews - Happy Gamer",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX2g3NDFJSmltbktQWjEzTVkxQmN5NVNYLTVzQkhqak5ucmN0VThUNXpJOGZ6NHNNV2NlQmNTaHhha1ZJV2ZaRWxjR0VCaVBtbDFEMHJUSkdOWVU0WGMwYWEwUzg0RndJX3dWdDlFX1JPdGFhZWxwcFhVSDZBVTNuLWxaR3R1bEpVazBUOVBOYk1TVU0?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

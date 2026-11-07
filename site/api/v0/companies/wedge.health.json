@@ -1,9 +1,9 @@
 {
   "domain": "wedge.health",
   "name": "Wedge",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 19.9,
+  "score": 19.6,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Little Links Golf: Launches the Big Swing Wedge - The First Call Golf",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFZVS2hCM1F0aHMtd3BCeWNhMGhiYUhwcEFPU2FtU3Q5V1dsbGM3am02cmoxTVNpZnlmUmtBV3k3aTRELU8zcmhsd2tzMGU4ajZpYWhucmttaU9Bem5wMHJJakdKcTc0MUg5bW9EM2lqMnIyWnVsb3VSNlhpWDZwaGFFeEs3SVJ4SXdwYno1UXhweHRLbU1xQ0dISlB0NGZSODVoT280RVlGcFg4RFE?oc=5"
@@ -84,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Flying Wedge Defence Unveils AI-Piloted Fighter Aircraft Prototype - BW Auto World",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1NnbVYxdzlMVnh3TmZXWXlycG9wckI5c1NnQ3hodGtiQ2hDbVZ1Zkk3RF9DSmcyTF9PdXVaekhDbU1MUjROaUxnamxkaU9TZEZvZlNpZ3JCb3FzWFBhdXJ6S08xellQQ2F0WWh0VDFWeU1jSVZVTGRoLWhwUVlEeHV6TTIxR1lYRjhYaXZ0STJfMkFuUXFiYVExSVlZdU52Y0FkS3dRQ08?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Cleveland unveils new RTX 6 ZipCore wedge - GolfWRX",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lSFhBTGh0RDJaM1VDNmRnUzFyUzZpTEh6bEdsc0F5aXlxa0x2a3JPaEZ2NnJrTTJkdHVXMFNVZmV3Szc4SGd1SnVHY19DNzRCSkVNNklhV3Zsakx2aGZOazk5cTJWRzFINGllTUR1M1BlVFQxazNz?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

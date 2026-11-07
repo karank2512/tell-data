@@ -1,9 +1,9 @@
 {
   "domain": "realm.io",
   "name": "Realm",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.5,
+  "score": 12.3,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "La Tale Releases 'Realm of Taste' Update and Hosts Halloween Event - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUNhRTBNRFFVQ2ZaU0N6cE5vZWdfdnN6UG1zeUgxUnlxSWY0QktKUVJsZmtaWWxYeU1DNkw2R21RLUNIYjMtSFpXRngxYnNkeTBNcUxCTnVDR1BlVEdMbEktNUFVRUZENkhkOVpBUzQ1OTk0UTFtM1ZOMTZXVlpmSE9BbTgxc0ZNMUtkTUhFc1J5c0lKdi1VQl9wZDIzbUpCRF9pLUpwLVlWeFk?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Realm of Taiwu Launches in PC Early Access With Co-op Combat - Invision Game Community",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDl3YWdDcTlBTWZ5ZTlIeVFsbExRU1M3dnM1WWpnbVg4REVjSGN2d0Q4aGFZVVF2azR4WjB3V1k0ZlU4anRPOE1rd2FERkFSVndWUVlSUE9PZ01fYllTbXlMZGdwY2ViZzhwdldHWmdqb0M5dFY2UGgtSVlFSDE1UzZlNkFpcVVrX01BVjdEWDFqUHRNRHJrbw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

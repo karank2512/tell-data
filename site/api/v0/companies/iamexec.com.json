@@ -1,13 +1,13 @@
 {
   "domain": "iamexec.com",
   "name": "Exec",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 55.1,
+  "score": 54.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-05",
       "summary": "promotes [person]",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHVkNnJUM09Xb0xSTmRCeUxoZXFSdUJwZXNaVF92N0Q1MjNVRW5kX29wU2ZWUVFKYnRwR1JiMGJENXk5TGdfaHgxRkFVQktkTzZ5a1kyVGFIZ2hSSDkwZ2pwc3ZOQTlUWHlSRU9rSnJ3SDhlWFljQkVjLVNyY1paV3M5QW44QjczeER3Q1NfeU4wc2FpOE9rVktaNGtaQUtEOV9YelhRWVY?oc=5"
@@ -112,14 +112,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-21",
       "summary": "appoints as Chief Operating Officer",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0RnJzTFdHVTlHc0pCMTZqNVNuVC11bFJGeWdGd3BtME9aUEltQUF2MmtPMFJTT2l1OVQzaHpsamRPenh1d1VHcTF4TUpoNlpBbkFHVjhidnhWR1Z1ekJFWTU4UWRkaXFj?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-21",
       "summary": "names as President",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2dwdGhyR01fVnFYcGYtUWVTME1LZ3lRck53Z2FVN2s0Vi1JUldxbHl1ODcyRjFncE54R2phRjhZb0paNEZjcG1nUGtnMzlqZlo2UHdfTmg2SlhnQWxtUThYWnI0cFBfSFJfZ0hDeFExOFcxZkx2eTVFOS1WQkF2a0Npd2g0WjRCeVlVbTdqQ1RqOFU3aGZCbmxQbW83MDhWVmV5bTcxRm9HeDhoMFFPdg?oc=5"
@@ -168,14 +168,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "Warriors exec [person] joins Hawks as assistant GM",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcW5GZmV5VkdEckJRTHByUkZ4ZnlLYThrNWpIQ0FYZ2p4NnRSVm02R3l4R1lvSTRLdkkyOGdidmpiMkQtVmdOUkFUZVFoc3JmZmlId1JudGNBZUVJSVFPWEVvcE1pLVVyeGRiSjNvQmJ1UDlZOFhWbkw4d3Q4NjRfWVNYTXVpTlRRb3c?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "hires as chief content officer",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0hEYUFRVG81M1UzTGplcF95VUJFNnB2UTBTekREWnJmdEJoOHVxTlhRTzBfdXdjSnhRMWJJUlNaMEotYzlnZHFSc1cwWHdHQXBXRG5hWDh1ekhoeWYtdzI2bHluTFdwN3RIdzh2SWVhY3hzWks5UThsM291cWlqRDZzb1Y0Tlp5VlphdHNpS1RiN0hYcW9UMVNXdkExbXNRbGkyWQ?oc=5"
@@ -196,7 +196,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "EXEC: Tecnica Group Rolls Out New E-Commerce Model for Moon Boot - SGB Media Online",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3pTeUNnZE9jRDJmVUlQWDVkNTVKYWFpMkJiQVllTVo0QTJGckxQLUNxRzYtMkxOVVl5Z3MwNE5PWkpMa2hhOVEwTHltZnBhMFlYNF9JX2hYcFZEcDR2RU9pdEFiZWhESTNWaExlY1d3YmVDdlJvdE1DVGtSNlF0dDRaZVd4ZGd4bE5BeTg2QQ?oc=5"
@@ -251,6 +251,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

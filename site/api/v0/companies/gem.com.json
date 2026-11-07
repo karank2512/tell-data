@@ -1,9 +1,9 @@
 {
   "domain": "gem.com",
   "name": "Gem",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Goldman Sachs ActiveBeta EMkts Eq ETF (GEM) latest press releases and corporate news - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QMDJ4VFJycTUyTm1QdGdmTTVaNGhBSVptTUpRb1lja1VQT3dpeVNXemF5SUExZV81MDlrV2Y3VzlDTEF1YmR5OXZiczZkRHQ3UUE5b0Z1Yk9nb3VtZmpCMXJQNTE?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

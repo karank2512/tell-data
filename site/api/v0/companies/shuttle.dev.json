@@ -1,9 +1,9 @@
 {
   "domain": "shuttle.dev",
   "name": "Shuttle",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 14.5,
+  "score": 14.2,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-27",
       "summary": "California Governor Newsom Unveils Space Shuttle Endeavour at New Air and Space Center - Forth.News",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50LWwyTjZfLWdxeHh2UW16NGl6RDlTeEJYUzB6SHJOQW81WXp0VWNCQVQ0Y2FsV1dmQkdFTWJObmpkSzc4dDlZSlF6Q0dBSEh0SUhaMms4UzZsUGxOLVlxVWNB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-25",
       "summary": "JIA introduces shuttle buses to ease passengers movement - Eye Radio",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUhPXzducjV4S01KWnZlaVc4MGlrTTEzaWlscEpvMmpsSnFEZzU5Q0VNYlJaNHVudTlwWUhTODBITllXQlNZd1FVcVQtY0cyVUNCUGhZc3U1eTVOeW43Q0ZiM2p3RmUxdXVrZnpLRlhqWFVDOXlSb01MVEJ4Wk1EWkVGSDnSAYoBQVVfeXFMTjFERkYwTUNvYV9fLVhmc2FJTkJhTTZaNUtBV3dMLXVWT3FRVFkxTTB3RllhYk1ncEJIN3hpLUtVMFpjTUg0TjJFdTRjcF9YeWVETzRrdUtRbmVpNC1xeVJmQTRKcXFxUHZpQm4yRXRKU240dmZ2d3R2ak1DelpLVXJ1aGpFV2NicWlR?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "GreenPower Motor Launches Mexico-Focused Plan for 50 EV Star All-Electric Shuttle Buses - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONmFpbG1ZVEMxS21qWHQ4OTNLMEt1OFg1ZHprRUFFSGJMeksxZHJFcUtWRWxMX0RBS3dxUHJZU2k2dGlPcHZFdjJBclIzbTJ2Y2xTVjJrZmJVekxxd1NLbmZ5NEhFandSa1M4cUprRHhtV2MtLWo1UmpmTGppdkVRVTg5SUNZbm5WLXNkQmprWnhGQXo2ZGJuZG1Wd0MxSDBBVWxldVhKUXRDZFdjSWN3NV9VWEhFNkZza19XbnVBdkMxcVBUOU9kQ0FfX3FFUkFKbDNoNDh5ZlVnYm1BVFYya2F1SDEzQlJIQWhubVZ5SDRoWjA2WmxoMUJBRnJ1WmhlT0E?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

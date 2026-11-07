@@ -1,10 +1,31 @@
 {
   "domain": "promise-pay.com",
   "name": "Promise",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.9,
+  "score": 16.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Bluefield University introduces Bluefield Promise - WVVA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkZHaGt4RnJzZHVsc2t5aFNlMTJiR05Sa2JOZ1c5MTVSQTdhdUVRVnNrbXpZZ0sxSlNfLWJkTFNuRHpQSXdlSS0zM1NES2Z6S1FBNEx2UnJZajBKbEdKVHNydUN3eDJ6cF9YajFVOHJKcGJqQUJQdVdpMmxfMHU4TFE1WDhoTHp6SlHSAZ4BQVVfeXFMTjlWSndMVEFOc3UzUk55a0FrQ3czX2JKck5MVnNLX1BCYjBpSkFrVXdjcmI0dWIyNzd0NHRhQ3BxeHZQUmNCc2k4QnRORnM5RHNxTjhJNTJxOE9LaUJpSHNMXzdFclM4VFNoMlFXZ0RkYjJ4ejhNMGcxMmpkNm0xRVpvQmZRdWhIMFlLZWM1Ty1VcnZJYVl6UVV3eXVLMEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "'Our promise:' Juniata College launches largest fundraising campaign in school's history - WJAC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWtUdWxlX0txQXVFaFF6TkgwT3lrQTVxMHBmTkNjYWc5MDhkSUlQTVNwTmR2bUdBVExrQ082emFRcVhxUy1KbFcwbEQ2MGlRdlVpZnNsbW13NVdiZG4wVFoxakZZdUx6NjlPRDYzeVhaS3NTcVN4bTBzd2VRLVZWallEd2VkeExoQ3pYRkdVdzh0UUlOYks5b2pLblFOS0RMX25fSw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "HLGU launches the ‘Missouri Baptist Promise’: $0 Tuition Within Reach for Many Families - The Pathway",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdkdpMzRWVUhRbXdLMkEyd1JidE1DSWVhMWUxOVpka0ExamQtMEJWbHFIRFZNRHNhX2FPV3NtVzJnMGVia2JCaHVKNzRrY3c4NVBRNk5PZGctOHZPMTJFQVFBd3YwZXlPQzhJVEw3bU96elR6OVZPMHpHVU9CN19nUkN2THA1Q3RhTFdvZERHRUJLX01Ic2VwMlQzdUgzOVljVXZYYkxDN2tyUXFScHQta0MzRDhKU2NkNWc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -56,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "House of Promise launches $1 million campaign - WILX",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3kwR0lTQXFfZHViZXlGMU9zMF90b1BlUHlYb09aeHJEQm9WVkVjaGhwQ3lBM0pzVXFGejQ0V2xibnpLM1Z6MnNNVHdrcXA2ZjRYNXZaRFRON19ZLWJhOWZPdmpWZlV0MnVwV01vNk1sLTM4NjNHYWdBZW5lU05wdks0d3JIWTQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "House of Promise launches $1 million campaign - WILX",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkdFRXJpWlVEVHQwTFA1Z2lOMFZWVFlGUHp4NUo3OTJINHQyaExjYTlVanpubWpKSk1ZZlJBT3Q3b0Z6RC1STzJQakhNaGNnWVdZUjlDaEg5MjZ1RENLMk1hZHRiTmRYM1hSYnd1a3VIblpEVmNQdUhQZWlTMXdFdkdmdU1WVG14a1dIbFJnSjlPWTjSAZMBQVVfeXFMUFpHRUVyaVpVRFR0MExQNWdpTjBWVlRZRlB6eDVKNzkySDR0MmhMY2E5VWp6bm1qSkpNWWZSQU90N29GekQtUk8yUGpITWhjZ1lXWVI5Q2hIOTI2dURDSzJNYWR0Yk5kWDNYUmJ3dWt1SG5aRFZjUHVIUGVpUzF3RXZHZnVNVlRteGtXSGxSZ0o5T1k4?oc=5"
@@ -83,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

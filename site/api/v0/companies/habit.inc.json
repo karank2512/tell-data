@@ -1,20 +1,20 @@
 {
   "domain": "habit.inc",
   "name": "HABIT",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.1,
+  "score": 8.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Cycurion launches AI security operations product called Habit - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0dzSGNlTmlRV2Y3RkVtLS1JVGgyUEZ2ZGcwel9MeWpmOUJBQUJ3bXBVZ1lreS1rMk0tSl9HbnlseWVTSm5pRUptM0VLRmtWWjdTT3NmaUZjaFZfSHl3U3NzYmJLbnJmeXF1bE54cTVxY2FSZ0FPa281QWwzd3lRR0VzX000QS1pbFZ4XzRGTkRkNlByam9iaHNRQWZwZkNIYmpmb1otdjNuOHJBSW0tc3FtRnd5bFVyV1U4MQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Cycurion Launches Habit, an AI Security Operations Center That Learns What Normal Looks Like and Hunts Whatever Breaks It - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3R1ck1UcFJIRWVXNXJReElkQW9rUjM3UzhWS1Q1Zl9fNnF6dU00M2Y3MmlQbHZDb18tek1yQV9ZakdNdEpjYld3ZEZ0T2ZoUFctamplMXdaS1kybnRQSmU2MjZybDhVTzhEVDN5QXh3NzZpeWIzWTduZTlKNVRELUlWNGlMT0Fib1VMZmp1WUJBZlVkX2d5cVQ2MUNNdGVS?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "outbound.io",
   "name": "Outbound",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 17.2,
+  "score": 17.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "OpenAI launches GPT-Live outbound phone calls API at $0.05 per minute - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlI2REE2TUpwNFN5LWs3bUw3SHlpdEV2N2lQdDBMWXZZdGhLX3dCSzExdTBWVzRtY2N0WWZtQUFaWHR5eU1zdUI1UGF4NTN2NWVabGF3Wk14Qzd4QVlxSjFqWE9nOFZUTGR2U0luamhHSHVtbEE1c3B1OHRHMjJ2MUZENEFtck0?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "ETOA launches Showcase: Outbound North America 2027 - Travel Daily News International",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFp3Qzk0RmctTE41VVdqRG9DNnBiYVlsVnBwZ1UxQnhGTHA3T01WSTVtdDB4Z3BBa2JDTE5fbEJieldjemxySU5TeXUtR1RWTkNKZFZFai1xb0JuSEtQOXpDOUY0VFBFQ0RpVm9VYmE5UDZaNFc2YVRVQXh1WjU3Qy1OcTFocWs3S1dxbnpjMF8?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

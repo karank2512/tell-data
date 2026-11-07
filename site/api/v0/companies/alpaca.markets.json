@@ -1,13 +1,13 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 36.5,
+  "score": 36.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.2,
+      "contribution": 12.1,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
@@ -56,21 +56,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Irish alpaca knitwear brand, CAYO, launches at multi-brand boutique destination Square Bath - Retail Times",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGhTRzRzNzhyNF84UFRYYXVrY3Q3LTc2UTNJeElRbWRuU0d6ZkxKUlVhOS1Jd2RGeTF2ZkViRlc1R3hTZTNlVURrWC1HVnc0SkZRM01Gak44Z3k1UFJKa1lRS2FuRTZBRnNVanpuSnl2OGpTRUZ3OXV0U1hMM0Q5aHd1cWM3alJudzZNSHFqejdXTndaTGhnWVVFakZ1Q24yWkJsM1VCRjBoT2FMWmcwNFdnZ0p4MmM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "BingX launches US stocks, expanding their Multi-Asset Ecosystem with Alpaca",
       "url": "https://alpaca.markets/blog/bingx-launches-us-stocks-expanding-their-multi-asset-ecosystem-with-alpaca/"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "BingX Launches U.S. Stock Trading Through Alpaca, Offering Multi-Asset Access to 7,000+ U.S. Stocks and ETFs - Al-Bawaba",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnJySzZhLXo0bGdUSnNYY2poSlUtVEJxSF9FUFREY0FtSVBSRTUxV0hDU2ZERkM4NGY3OXdieXgyNUVVNGdmSFR2YUdrMHJkdlQ2cW8wZXd6TkI1WXU2WWdNaFFKMHBUNUZSSW1uSnprTFlnTEZSUFBuNUJaU2dJSXA5OWh2Y2RIOTZmNA?oc=5"
@@ -193,7 +193,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-19",
       "summary": "Tradesk Launches Multi-Asset Trading for US Investors, Powered by Alpaca",
       "url": "https://alpaca.markets/blog/tradesk-launches-multi-asset-trading-for-us-investors-powered-by-alpaca/"
@@ -206,13 +206,13 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
     }
   ],
-  "open_postings": 69,
+  "open_postings": 68,
   "long_open_roles": 14,
   "sources": {
     "ats": "greenhouse:alpaca",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,10 +1,31 @@
 {
   "domain": "million.dev",
   "name": "Million",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 1.3,
+  "score": 5.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "La Salle University Launches $125 Million Comprehensive Capital Campaign: \"More Than Imagined - La Salle University",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOakIxWXdBX0FLcHhzT3BjVU9ETGZMdHkyYUdER29KdHBjdUdTRmtqaFMxdnJMckhobzlQZzJmZ0FFeXlyNHU0YXhCZWZOTkY4dk1zcEFJOGo5cnp1OElOcVNkQ3BIM05pN3NackVaZklHeFFuTk9yRVJfY0pqaTVSRzQwZDZhLUpwTjRVS2pNbmhVNGN3N2tyVVFrbEdXWDlDT0RmdFV5QzFiVkVfVXN3eTRJZlRBcXVGOTlHVzZaVFpYR295YkdEOE1hTmZhVzdISmFYbnVudnMxTTFQdWJPRDFPWGxiWV9CYjBtSUFn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Berkeley Sheriff’s Office unveils $1.25 million mobile command unit - Post and Courier",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUTAydVd1dEVJbEljbnI3SlFwRHQ2YUtpWk8wUjhoaXFNYWFnLWZJUHdQeTBqZEthZnFfY0IzX0tsMjFYTWZLZUxOQUwtLVJzTHpWcXpST3FsdVpYWDZ3YW8zblhHYkVfWFVpaTVPQ3hZQzZ0MUs3QmpuSnRWTkNmaXYxc0hIOFZJZXVoTXNJRGl6bF9sdFRaTmdCNlhFR3pVU0xYYTFZV1ZsempQS29xSm1oYVNrZk4wT1FoRHA5RklzYjI5OW9UUHRrbElOV2l6N015bG9WSGdCVWtMV0hxS3A2Z205X1ZmM0NoYnQtNF9WSEZkMldHUERDdHJoaE0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Frasers launches $135 million directed buyback from founder Mike Ashley's investment vehicle - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaXdnTEpyNG9Xdl93aVotOWpscXVpYlRtWElQOF9HcWY4RUl6V2hMbkctZHlhMFE5ODJrQkNkY29hNGtLb3J2dG54d3Y3bm9UcDNMbDZFRFJMV0ZpMV9HazQtYmVUV3Z5TTJ1bmYtQllqRGJNLWxZcWU5R0ZoVEhJYm9SZ3I2ZzFGU0d6b3RVRkYybVZyb3kxMlBlR0NKRW1KTHpaNEJYMG9wRFdmWTh5THpEUUpDMTB3UjFCVjJ3bGgzMzRHTGwwbEtaV2dlQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -20,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

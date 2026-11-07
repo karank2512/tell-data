@@ -1,13 +1,13 @@
 {
   "domain": "sendmemo.app",
   "name": "Memo",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "SBA Releases Memo on 2026 Midterm Election Results - SBA Pro-Life America",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOW5la0pHT19DQWthOFlGUVVSR3M2bWcxb2xkVVllejQ1Um90ZVk3bVZhaUpzcUZYcUhhTHdqSEFtdE51VnVPQjNLV3pjY2s2V0Rna1lKcXA2bllyRDUzTFVmY04tNHFFXzQtc2NPbkVkN1NsWlhGY0hMT0FrR1MwUHFUQnBLYlZxWERueDRmSXg4dWlVLV85QXRKRHVIdw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

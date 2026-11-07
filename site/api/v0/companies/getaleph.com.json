@@ -1,9 +1,9 @@
 {
   "domain": "getaleph.com",
   "name": "Aleph",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 16.2,
+  "score": 16.0,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-27",
       "summary": "Aleph appoints [person] as country head for India",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1NVSy0yLUlIbnNocGlsb0FfTmltSUhhdGRoWnJxa29meUN0X25rQjhiV3VUWXozdXVMME5GdHhtcEpXSjdzeGdpTW1MVVViaF9vV1U2QUFUU0xCZ2p2QVRhNDZ2aUFFS0E2ejFBMmZvY2NUV19ZUG1YRmRybFQ5a1p0Z2hDZkI2Y3gxb19CSHNmZGdUdERiZXBzRTRmS3NsMlIw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-27",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdDFsMENKUV83R0NMQW9nMnA3ZkYwZFFoVVo0VC1LS3d1UDlfRFd0RkJpV1VwRGowUGV4OFNIMl80MmI3bGw1ajJzTzljRnZjR2dIYnlkYlB2cXNxLXdzQXFOeGVfcURRMENsSG5YMGJvelZXdFJJcWtpREw5dkl0QzRkQ19wRVRGUkJsOW1SMG91SnBFLUNMN2IyUWFhNU5KYUl4Z1FTc3FIQnVZSUJ5MUN2LW1wU3FjQmdHLTg3VHZfY1Z3ZzkwUdIByAFBVV95cUxQdDFsMENKUV83R0NMQW9nMnA3ZkYwZFFoVVo0VC1LS3d1UDlfRFd0RkJpV1VwRGowUGV4OFNIMl80MmI3bGw1ajJzTzljRnZjR2dIYnlkYlB2cXNxLXdzQXFOeGVfcURRMENsSG5YMGJvelZXdFJJcWtpREw5dkl0QzRkQ19wRVRGUkJsOW1SMG91SnBFLUNMN2IyUWFhNU5KYUl4Z1FTc3FIQnVZSUJ5MUN2LW1wU3FjQmdHLTg3VHZfY1Z3ZzkwUQ?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

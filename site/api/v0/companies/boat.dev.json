@@ -1,13 +1,20 @@
 {
   "domain": "boat.dev",
   "name": "Boat",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.3,
+  "score": 12.6,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Brown County boat launches to close for the season - WLUK",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZUlRMk1ZQjQ0eE5xb0lzcjlrcGZPeXRPV1drVlhad1QydFVobURlQ1dGdlFZd0YyTDZxMF93ZUE4MFlFVmpacHFMam9BOFJPcnJqZkktWGJXeG1aX1FZeldfMEk3TXZvM2hueFllZVpTakxXRHJCVE5NMDA4Tkh3b3BzWGR5aEtjM1dpajg0ZktFM3JvNHo2aGtqc092eXk5cXc0TjJDS2NGVW9ZUWhjN21JWi1sQnVablN3M29fQ3FoalVBZmtyYmFNZlNWbExPV3B5VUNEWml4V3FXVWlBNUVYUE5PU0hEZXJOTGZJMDJ6dHJJaW9NaGZUejh5ekdxejNj?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Saab unveils combat boat with autocannon-based counter-drone capability - Unmanned airspace",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbUtSSVJiMF9lWGNmODAyc0RWdVZWdzhrUkhib0NQdGN6WkltYlNhZXd2UXByWmVBOWoyRWhPdDhBMFZlZ2I3czRQYXRSREVKNEVaNE5kbERjQ3dSdVZXNFU4aXZvZkFweDNsNkxiN3BrMnNUVUg2MjJIN0dEckpheFJna1Myc2tocnBYVzkxWi1wSHd0SnFwdzVQdExmMl9pT00wSUlLaGg1WS1VU25MR0haR2JrcWhZWjRqMGdBbVNrYjYzdmlrQTR3YjBaaXlCXzhYcUlR?oc=5"
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Bella Roma Italian Restaurant in Broward introduces a unique boat-shaped pizza - WSVN",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWliTEE5WkZNVUVEdkNGV2lEX3NnTmd4dWlMTUtmVmNBaWdXZjdCT2xnQXpHRXpqN3VETVIzQUpKZDNYZjJkd1pNd2FhMHozVENac0JZQVJTM0hBS2lIRkZGTmhybWQ1RjA3Z1hsNXA4b3pmalloeldsZ1JzQnRCSDgwYmFjeFBBS0JaUzYwTlE5Ty1pVDlYUFViS3VBcHBaWThNYWRRUW1EbU1aQ0FxY2YzQ2cyRzJ5RXRJcGlB?oc=5"
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

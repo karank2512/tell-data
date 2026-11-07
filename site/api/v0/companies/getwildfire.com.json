@@ -1,9 +1,9 @@
 {
   "domain": "getwildfire.com",
   "name": "Wildfire",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "ABC launches an updated wildfire tracker - ABC7 New York",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03M1pTME9ldEVIakVhc18wMGlLVVptWllCZ3lzd1pjUVh4bThKYVBMd0xhSjMtdkFSUHZpT0hSQUkxc3hHc1U0U09hS3l5Tk52WWl5MUYwNjB4b3JRczViUUhpU1c1LVllRGtIZkxWQXFoVV8zaWIwM0l6RHA?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

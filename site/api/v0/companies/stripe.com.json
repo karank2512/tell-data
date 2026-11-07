@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 24.4,
+  "score": 24.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-31",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -131,7 +131,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Payoneer (PAYO) Launches Stripe-Powered Checkout in Singapore - TradingView",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXlWM0YyaXZEQm0zRmtUTGE1QUV4M09LZUwzSnhYWTQtWno3SkdsVFJXMUpEeGJKR3k5YVBrZHVuclJRUlY1Rk5oUkxQT0NhYS1Yc1QyZVEyaGEtZWpDS0pXWTJtaWUwaGY5eUU2VG5iUkoyX0M1N19ySU85YWxMc1MyUUZwdWZieHc2U3lBMDRIUThrSkU5Y0xKRDlpRnk3TVhGWS01TVFzS3FVVEFwMG96ZDlKQ1hrZGxWNDJR?oc=5"
@@ -146,7 +146,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-28",
       "summary": "4 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -175,10 +175,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Meta unveils AI agent standard with Walmart, Stripe - digitimes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUtOZ2w1czQycHlOcUhOb2lTc2JxVjhRSDlMMlgyeEtuM0dZeXVGbXhBTkJ1cVRoWHBOVGRnTkVkMEpLU3BzSEpTaWFtd1djaXNGR25fMy1XdXVOMTFPTWZQV01DUy1fd3V2a3ByMl9SRXRfQ3hVZTctdVFjS2piTnNha21jaUt0ZVZXOHBQVWQzaEU?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "exec",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-07",
+      "summary": "3 new exec roles in 7 days vs 1.0 baseline",
+      "url": "https://boards.greenhouse.io/stripe",
+      "postings": [
+        {
+          "title": "Head of Commercial Solutions",
+          "posted_at": "2026-11-04",
+          "url": "https://stripe.com/jobs/search?gh_jid=8279850"
+        },
+        {
+          "title": "Head of Renewals, EMEA & APAC",
+          "posted_at": "2026-11-06",
+          "url": "https://stripe.com/jobs/search?gh_jid=8357043"
+        },
+        {
+          "title": "Head of Southern Europe, SMB & Commercial",
+          "posted_at": "2026-11-06",
+          "url": "https://stripe.com/jobs/search?gh_jid=8325023"
+        }
+      ]
     },
     {
       "type": "expansion",
@@ -236,7 +261,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-10-16",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -284,13 +309,13 @@
       ]
     }
   ],
-  "open_postings": 778,
-  "long_open_roles": 194,
+  "open_postings": 774,
+  "long_open_roles": 190,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

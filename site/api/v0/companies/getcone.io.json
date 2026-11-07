@@ -1,9 +1,9 @@
 {
   "domain": "getcone.io",
   "name": "Cone",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.1,
+  "score": 7.4,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Chinese space firm builds wooden rocket nose cone for cheaper, regular launches - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTmU4aHVFRDRvVjMtdFNKSFRtWlE0OFhaMTc3QzFSeHdLSWpsV1ZaSG5HcGR3NnBaOUt5cm5KTTZfNFZILTFpZFNodklRM0praVVyME1scGdLOGhRNXdrS3Z6U2cySkhiLWNlc2YwVjJIcDBpTXlwZzRHQUpVakhvZmxWWkpzbzdUMWpwdl9yVEtySnQ1R2NQODg5azdBRktJbHBFeHFLZHA3OEFmSmR3dEhRSHI5UmxUVTFkbUNHcGUtVGkzTzlNdldSMNIBywFBVV95cUxQdHRBcDZzZ1N5cUhXaTdaYm9Xc2hGOFRfWG9LQXhxY181d3ZvNm5KZlRZYU1FOTNXMjlaSTR2WTN2REhFTEcwNHlOUFNCWTBXQUlBUnJwblZMLWNMeGtZa09MbTBfQWtuT0o3MEF5cFVaVThwanlTVzZEd08wUGFDeXZpYnE5em5YbFRaM3Vya09RWjdYLVo4OUtnU0s5VFVWTGtMYm9BMUJnWTZKNnM2TEY3bDdEcTNTdTNCc1QwOGFPSy1STTVnVWtDTQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "CoNE launches 'My Data, Our Health' campaign : 04th nov26 - E-Pao.net",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50SVl3cm9pTGpJZExKaEdKcnRTeXQwdW5CN3FyUFVLQmk3cUpybE9nSTBpU2UxY21JQlhNS195SkpHX19qb2lZam9SWS03U2JqVnNpNlNYSmg?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

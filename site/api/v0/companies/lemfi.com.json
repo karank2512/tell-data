@@ -1,9 +1,9 @@
 {
   "domain": "lemfi.com",
   "name": "LemFi",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 17.2,
+  "score": 16.9,
   "contributions": [
     {
       "type": "launch",
@@ -70,21 +70,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "LemFi Unveils New Global Brand Platform, Expands Services Beyond Money Transfers - Brand Icon Image",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVlYemdhZWNrdW5YbC1CTThlMG9MMzlJQ25haWczY0tSMmtpa0hvck1FMDhjaHRoSVItNF9PNFktSVYtcE1GYnNIZEtmdGgtajVQcGRLclB4aEJTNUhjYW1zbm1QMVRtYnVtZ2sxemFlRGREM0hTdGxVU0tCdkE4Sko3NVVlTVZVMnZB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "LemFi launches UK savings & credit in bold expansion - IT Brief UK",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcVhqdFZFa0NhempmNVBWaE41S2NxRzhXREpYTHdPcmJuMExmbzNJaF94cjZEbFpIVmpDS0Mzc3YzbXl5bENkRTBQVkY5WjU4T0ZJaEtSdjZLcTh0ekRiYVF3d0d1OGxoTy1fbWpVMHJndzdaa3pES1VWWVVoS3FPSl94Qng?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "LemFi Launches Its Biggest Product Expansion Yet Alongside a New Global Brand, ‘Ambition Has No Passport’ - Financial IT",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmF6aE1WSFYwN3Y3LXNrRHNSQWFVX2tiSDJiSEJFLXFqSWZIc2FDcWR6OEVKVm9hRlFEMXZKbXJMMTVRbW1tVVVQU3ItaHhpZ0ROSXNrUU9oM1VmOU1GWk9OMno0YnBWUlRNTEhZTkdkcFZVRmNISVUyQ2FhZHU0LWJIWF8yTU8yZHVQVnp5dkZmWUhIazA3YVA4YzZyOXNoVERGd05nVTZaXzNpLXhRUVYybkdpd3RqZU9SNkRHMA?oc=5"
@@ -104,13 +104,13 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JSVVEbGpHVFVELWtaM0VONVA3SnBkdTVxdEFYWmdLNENVVWNCcnd1Vk14SDVTU3doOVR5bWx5MXFGdDJfMjBSZ0w1Mm1lMzEtREhVUUNyeU1VRXNURUNqUWxSS2FtUG9uSWV2R2tSM3piLXRMUXNKVDBB?oc=5"
     }
   ],
-  "open_postings": 22,
+  "open_postings": 21,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:lemfi",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

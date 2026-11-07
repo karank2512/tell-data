@@ -1,9 +1,9 @@
 {
   "domain": "getcoach.com",
   "name": "COACH",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 14.9,
+  "score": 16.2,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-27",
       "summary": "hires [person]",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQazBXN0l6elBBQzFKNUQ2SzVVWFJnYWpHb2hSM0pGTDNzbW1BWWRPa1FnZ1FMd3lwX2NJUzBWajJ2Um80dS0zZDB6WkM3ZEFVbEZhRUtobFVoVXZGOWZOc29mMUpfeUZUSEw1NldqOEQzNjdzZ2pPVlRHOVBIa1lTRDhvZU1kd3lqTHlIQlpTT1RscDNSQUZaWkVMRmxmblJZY2FGUmdNSEVZaTlvbVpwWmZNdThrR0JmR3dvVVVwZFVXVFNMaV9FcC1vRW14b0QtWlQ0MWljRWh3YlNsNGRfa01pQkI5UQ?oc=5"
@@ -49,10 +49,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "Former Providence football coach [person] joins Mount Carmel as a volunteer assistant",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWx3ZzVMc05jcW5HZTVVbzJxTHZXSVlnd251ZGJQWWN5ZFNSVVMzS0dIV3VldU5sWEVPYnNrbnFlOENiTnBna1FFLXdWbXowXzh1WGlBYlJfMmlqOWtEZDNVRUowQVhlamQ5NGwtYkgxMEx3cFh2a2duODRNSEFjM3F3U1lnbWFsTlBYNk9NS3RZRkhJQ3FhWmphaVRITy00OVpMNU5NVWtVUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Blount County Schools releases report from investigation into former high school football coach Joseph Osovet - WBIR",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSXNKQ05nR0pZUzQ2dzhoQ0FUbS1ET0lSOHBoazFUbUI3VkdOLVMxTVBxSF9feENheTBXZVRKeUtIV2diUklWVWcwUmRsVTlPTlVCd2VKV2pvVWpwYm04UENtRUVobXcxOUs0MGNxY2t6akhkX242Zm4wNXBLa3NnTVVIbS1RMEhpR040TlhoMl84OU54d3V3ZUlDQmZMNWw5b0tKdjZKX0dlNXdxWlJ6Y2ZMTjF4bWMwTDR0bHNmVTM0UGhCQlZoN2ViVm9PYzhLT2UzXzNSaEJKZUhjVlo3Rm9BNVRuaTZrWTUwVldDd1ZHNkVkYnFwdTg2Tl90NFpNQ1pBT25uby04czJnVEpJdjZwSjZwUkFVZm9IRy1sbU1ucF9GLVE?oc=5"
     },
     {
       "type": "launch",
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

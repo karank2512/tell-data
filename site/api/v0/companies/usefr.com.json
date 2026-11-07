@@ -1,13 +1,13 @@
 {
   "domain": "usefr.com",
   "name": "Frontrunner",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 2.1,
+  "score": 2.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Frontrunner Bus Group Introduces XF Low-Floor Bus with Enhanced Accessibility - Metro Magazine",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2Y4cHQwTXVSWHZseS1FcGd3T3dacTN6dTdtemwtTHhrNHdZUzVuWDJvNzh1VWZZVkpySnB4WERhUkVRSG8zYTR1bmQ2eGw5RF9nc3BrZjVKSWMzQU1lQUlQZnBlclcxVHdES05aYjJzSUVTTy1ONGxncHFGd0RyRjhrMGZ5UnUzTWxKX241MjFwWnZVR3ViVWdxNHZNalZyRDhlMXdkRVZna0hyNENWcjV4NA?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

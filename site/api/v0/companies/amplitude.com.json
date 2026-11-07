@@ -1,9 +1,9 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 18.7,
+  "score": 18.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -64,14 +64,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "Amplitude Appoints [person] Founder to Board",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkFMcWxMZVFYeUcwY0VvNUYzWVFGNmtYaXI5VFRwakMzTXRBLW1FcENERGY4c0xRRjlyeXRKUkRkdmRlazZTQmdsVGRIYkRKTlVLeUV4Yy1WaG9JNXQzYzJ4N0Z6QmdsbFhqdWRsSFNUXzI5bHRhTTg1YkdVY0JTV3Bsbk1DdExfQV9ERnRSOA?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude Appoints [person] Founder Vijaye Raji to Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0lnX3Q1NkVBRDJtYWl0OXc1djR4VnhReDYza0NIbUVEWXBETzVOX1ZHdkxNeVRDaEFPYjNJaVhxSE1fQnpUZ2RScFBHUmZUU1NKUEZnMXNFeWtnOTQ3bGlIT2t6bmRFS3l3WjVwM3pGX1pOQVRPdFFlTnhLQk9yZV8ySFRwU2dzU3dZdDNhX1MtOEhs?oc=5"
@@ -106,7 +106,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Amplitude (NASDAQ:AMPL) Releases Quarterly Earnings Results, Beats Expectations By $0.01 EPS - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUpKc1NaajdWckNMbmp3RE9oSzQwd3NWbW5rM1dLOVE2V2g5cnJ2MDR4U1ZMVDRoUzNxbERORnFCQS1CdDRyTVdQX0NjQlkzQVBHNndiM0E5MWZia0hsM3Vvd2hfZng4QXpCdGdsZGZCNVlRdW1CcjJUbnRCQnh1V1NUbkpMX2d3aGotUUlIc25nQm5MemZtZG45Nl9xRXJ1SmxiS3llRDI3eXAzZk81VlpRbm15UlIwSUQzQ243RkE3MVhXMjZZTWozbEpPOURNdXlDbUVjeEIydGVNX2ZDdldfMnc?oc=5"
@@ -133,6 +133,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

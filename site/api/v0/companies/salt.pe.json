@@ -1,9 +1,9 @@
 {
   "domain": "salt.pe",
   "name": "SALT",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.9,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "SEG releases plans for Downtown entertainment district, Salt Palace overhaul - Building Salt Lake",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUldDR1RpWkhnQXpsMEo5UnNWLWdWa2k4YklxWDlvc0dFV0NSRFduRS1MMWtYZmluUEotVHJlRm53Q3c1Q1JvaEQza2NCYjRjYzktRHV5eDAyWFlwSmowdkdONXVwRDZsZjlrSUZDZzJ6QUhSSEdROFYxQTF2NS05bEQ1aVVPOWNPREpqZWJ1bTJPdkFKSlIzb1RsbzJtV1ZiSUx3S0sxQy0?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

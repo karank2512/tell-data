@@ -1,9 +1,9 @@
 {
   "domain": "finic.ai",
   "name": "Finic",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 2.4,
+  "score": 2.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Introducing Finic Grayson",
       "url": "https://finic.ai/blog/introducing-grayson"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

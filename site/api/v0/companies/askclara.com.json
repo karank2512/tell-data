@@ -1,9 +1,9 @@
 {
   "domain": "askclara.com",
   "name": "Clara",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 8.2,
+  "score": 8.0,
   "contributions": [
     {
       "type": "leadership",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Silicon Valley's Hilton Santa Clara Unveils Multimillion-Dollar Renovation - Hospitality Net",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbHVpX1FGNkNpb2hxVEpOZ2NpNHF5X2NvNlJvUU1BX3hkZ2dUbkJFRk5BcF9Gam9Od2lhVTdVN284TGU1NHlQWWRSVFBLTjVZd2JHZ1RESHVJSDlvWU1XaTlCNnZXZDNwZVBxVkg3dExPQURuVUZobTNadWNvWU45SXpRcG9aSTBlOGhjVml3Q1IzOGNZdE81eWkza0pZeWNqUDl5X0t2aDZzbmt3aV9vQzNFTjZod0diQXBQeXVQWjRucFdk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Clara Mann releases new single \"Oblivion\" - Northern Transmissions",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NS0zb3pqdGJtd29YMEpfeF9pVm9pcWQtd2xxRkFMQkh1R2UyLTE2SzhJb201cHI4Sk04bHg4VzdLaEFjQ1ZZckNWNkl3eDFQRFVqZ05zUUxQUHpYYl9hWXhWQmdvX1dqTnJyZnRHRE5yVGtjVVAwX25HSlJlbW8?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

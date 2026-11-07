@@ -1,13 +1,13 @@
 {
   "domain": "harvey.ai",
   "name": "Harvey AI",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 20.6,
+  "score": 20.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.5,
+      "contribution": 15.4,
       "occurred_at": "2026-09-11",
       "summary": "Form D: indefinite offering, $550,299,446 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1974654/000197465426000003/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.1,
+      "contribution": 2.0,
       "occurred_at": "2026-10-22",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/harvey",
@@ -148,13 +148,13 @@
       ]
     }
   ],
-  "open_postings": 376,
-  "long_open_roles": 110,
+  "open_postings": 373,
+  "long_open_roles": 104,
   "sources": {
     "ats": "ashby:harvey",
     "edgar_cik": "0001974654",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

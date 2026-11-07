@@ -1,9 +1,9 @@
 {
   "domain": "cyclops.io",
   "name": "Cyclops",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 20.2,
+  "score": 19.9,
   "contributions": [
     {
       "type": "funding",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "OpenFX launches venture arm; has invested in Miami’s Jeeves and Cyclops - Refresh Miami",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMlBlTkRpWmtEZlJIMXZGdFlIWUtLRXZwLTBSWGlSejVkbDJaS08zbWtrLS01aTMteXM1dW8tMmlUQmNwRnBjb0RDNURiSE1LMFd2cGdkMjdtdUlFZklTNURYRXhhZzZodGc3NWJhQzFtcE5WakhXVTltS21YNmVMVmtxSmtiTF9xNlYxSjNpRXkxQWJ0YmJlUFZrYWttdmdadXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Astonishing X-Men Marvel Legends Wolverine & Cyclops 2-Pack Debuts - Bleeding Cool News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjdNT01sS1dkdDJFLWx4QllaZm85ZkxhbFdLQWxLSTBoYXFETTJXOV8ydi1XdVBGZzUxdGRmTFctYlMwZWVGVjcwbnlMeGs2cUlFNlBEcmR0dkJmRFdYNlVkSW5fMVlJdmZwMXZDQS03MUNKcTI0TzJSTV9mZElkd3NRYU5udWtLM0NYSnIzZkVDYlRDakxhd2d2UlhrYkozajdqaklR?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "X-Men Officially Debuts New Cyclops Design, More Cold-Blooded Than Wolverine - ScreenRant",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wYWt2Q3BjZkRsTUVnb3ppWkdtS1FQdWg3bGpNUEZTTDNDVFp6M2NkWVMxY2NIYk1iR0hac2s5amRpelVWQTFCdWhiWVYxQkxKcXR5T1dleC1KcHdDbkFvdkloYkhWUDMtR3pFeEVUZW8?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": "0002097965",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

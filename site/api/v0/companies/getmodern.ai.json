@@ -1,13 +1,13 @@
 {
   "domain": "getmodern.ai",
   "name": "Modern",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "GoldInxs Launches First Modern Drill Test at Fishpot, 2000 Meters to Probe Gold-Silver & Copper-Gold Targets - Crux Investor",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVHNrRFh4UDNJdUdNZkxCN0ZaOXVfZ3JxLTVTX3JxV1d5OU1lM0QzQWNBRnp0VVhWLWxwNkhxa3Q0Y3JxYTBpS2pWLWRCV05sVGJBVXdSdTNDZDdfTlhuMFkxZTVDbmE4eDZETVJpSklMci13M2stVEttS2pOa29jV0JzMHZ6emY4T3ZsUkJHRGpRUDlaOHpSRUQzZTdMc0tIYXNXSmZXMm1VaHh5eTlQNTQ2VmdJMHdCOVNkZXhlMUhrb1hmWG1xVkN3UUhrWTljblVCZHdqOA?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

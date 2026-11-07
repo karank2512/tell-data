@@ -1,10 +1,17 @@
 {
   "domain": "index.io",
   "name": "Index",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 19.0,
+  "score": 20.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Introducing The S&P 500 And HKEX Tech 100 Index: A Complementary Tech-Focused Blend - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHVrclRVUTRMbnNGeFpmY2M0RVVacGRvRkpzbjhJcDktbl9WMGlFcS1QNzVHUGJvUVhHZm93WG9iWjdjTktGMTVDMzVCeS1acnprdXR2OTFQZnI4UUx2d0dsZmpxSDZyeHhSdWoyeDQ2eTlac1hrLUo5NmlqU1Nqc3FiV0RKVmMzV1ZxRzNBZm9YMXZyZFFBUGFCcFJBOFZKaGRmQ1Fnc0h4VkhXUGNnSUNn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Jackson Launches Suite of Fixed Index Annuities Focused on Accumulation - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0VrckU5RlpINm9NSUNscVBSTm5GRUZ5Wm1kQ1BhOXBBX3dkdjVxb2RBRUYwOWd5clg5N3M4Q0xYQ0dxdFRlSmZ5UlRVaG9sb2Zkd0NFOExMbHJiRmM2c19oOGwtMHpLUF96YUxvSnpzcHNuVjlCcjZvTXlfdXJEZHN6NFRicWgwMHNDYVlaMTRIR2RITmkzQjNkUEdIOUJpeFE?oc=5"
@@ -77,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Labrynth’s Red Tape Index Unveils “Launch Your Own Index” to Measure Barriers to Investment and Economic Growth - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUV5eVBmTElxbk5LVUFkUDMxbm5MZTVkNFBiNy1VYkZRYzdqUENzU2xwZms1ZHFBNk5vbGF5Q3MtVGFMeExTZmpMbUE1NmM0N2ppdkxQZE5Cc2xwTzZ2QmljWmhVQ3d0b21RWjY1SlZkWVNaTlE2UHdjZFE1cERNdURDQ25wTGxBcWxxQmVrMHpQMXdEVjFfZ21MUU4?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "GridCARE Unveils AI Power Index to Unlock $350B in Grid Value from Existing Utility Capacity - TD World",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXE5TlhsWDIybnl5LUxuNFBldURIU3dxR2VBdkRpMklsRllmNHhlZmY3aDJTdjcxQlltckg5MGpsNldPZ1Fsc0dtSXhwaGoyc2Z0SHB6TGtnX1dZYUlYV2NTNVFsekNaWmtqSmR4NnBHRzc5bjVwblA3Znk4U1VhelVVYzZPODhzczYxd1ltVTd0ZWZ5TkJzOVRScndPN3ZqdEJVM3ZHMU5nQkoxekgzT2psSUlLeWxmcEEtZmNub25HNm1pWXVtZi1yY0hhZ1NmMUVoUVNjWXJCakE?oc=5"
@@ -125,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

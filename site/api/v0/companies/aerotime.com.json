@@ -1,9 +1,9 @@
 {
   "domain": "aerotime.com",
   "name": "Aerotime",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 2.2,
+  "score": 2.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Switzerland releases jet fuel reserves for Zurich Airport — AeroTime - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR09wUlhUbDl6aElTN2xOenBmZ096UVpnQmNSMm0zSTNPYThzb0tZTXFmbnp4eWV3d3l1ck9la0dBaGh1aTVIclo0cHpXNHZ2bno3THBuU1JlNzNyTGN5ZmRoWkhtZzh1SXdyNWdKU2MyZ1c4dlBMdWN1TWFKTXBSTUtSSmxVWW9aUGw5Y0pUYVQwZkU5eVdZbzZZQ0lhRWVJUnc?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

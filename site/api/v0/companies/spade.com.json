@@ -1,10 +1,17 @@
 {
   "domain": "spade.com",
   "name": "Spade",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.3,
+  "score": 4.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "KATE SPADE NEW YORK UNVEILS HOLIDAY 2026 CAMPAIGN FEATURING CREATORS BRETMAN ROCK, SALLY CARDEN, 4INTHE5 AND MICKY GORDON - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNM3oyNm1lMFlLVGJMNDhCR1FNcGl5WGdOLXZOcFQ1TFNxNXNneFU4WWlSTGczYnBCcGIzcVBic1FmNnRTc05iaW9QVHNXTzJGaEQtVld6VjlGYWtCT01yM0U0M3ZqbUVHRTRtaEhYazBERTRSMm9yOWg0YTJndkZmQW9lTzEzZm0yaWd5UXlMU2ZvZi1hMm9Ud0JmeG1BVFFDZ19VWHd1cW9LeGFEOTdmRDItbUZ1N2Z6em04c1JiV1ZacEVNYlh4NDNXSW5YYjFyOHVYRjBqX2xtQVR6Q0FHbkVsMFNFVU5VRmx3WjVJVlRWb2JSWnZ2dmh5NFJCVldycXNMc3MyeEUzdS01?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Spade Trains a Transaction Foundation Model and Launches Predictions, Making It Available Across Financial Services - citybiz",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRGdWWW1sZWJDeXZCbWg3eFZIUjRpSDB0ZEpqWjlPbXFGY2FvT0JVWE5TaS1fZzR5Zks1cHdTQl9XTFVzbkpFV3JOaW1jVl83NDc1SWx2cTlldTFmQVhzQkJkYkUyY0VIVnNSZHB4eUkxWENvSEJOX1NLWGZnRVhueUZRUHBaWUpQUXN1dGhiWjVvTlpLY2k4VndhLVN4RW9nWUFEa0EtRnB0ZFVzQWx3RGJCZ2dBSWc3WEF2WlVmMm9kdU8zZElacV9YYUNvbjdTZXdTNnJ6eTFvZmVLSmlESm0zNEFpVWZB?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

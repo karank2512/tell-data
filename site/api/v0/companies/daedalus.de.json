@@ -1,9 +1,9 @@
 {
   "domain": "daedalus.de",
   "name": "Daedalus",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Greece unveils 58.9 million euros 'Daedalus' supercomputer to lead into AI ambitions - Voria",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjRxaldVRjNMOERDSlBKblhPdTFXTjMtQlBMQnNyOEI5bzJVa0tSTFFveEVLR3lSd3pjX3VIM1BTOWczaWt4UmZfY0RNMTY3Y2F4RGlJc0JMejZuYU55UVByUkNuOGRIYWVpZ085ckU3QnIzMllvVk9la2hJaWxwNlFOR3JJbDgwYk45cHgyZUY5LXA2ZjFTdUlkOUZGRklZSVR4OEpzYTdBLTNHcXZDcmt3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "Greece unveils 58.9 million euros 'Daedalus' supercomputer to lead into AI ambitions - Voria",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUpWVDlDLVFHVWEzelM4eG53T2pYUVlmYkwzSHZZd052cVZ2UG13Z0ZMMERzMWItUkxTeGdjMDU4a3JMYVM3VmFYZ1dzVldoX2M3ZlQ3enZGaWs1bk9HMDNuZGVfQ2dnWGFBN3A0LWRiU3FJNjYtTnU1RWhWbWdsU0hSZlNxRGZNeUxjUVlaOVRWc3NxeEZsQ0dkbDhEcEV4aVhGVA?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

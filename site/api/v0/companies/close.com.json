@@ -1,10 +1,17 @@
 {
   "domain": "close.com",
   "name": "Close",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 5.2,
+  "score": 7.0,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-05",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFAyYnVoVWgwSEFqRzluTDBlZzFVamdDRzFPdkpQdFJ1ZENGc0VaYTZuOUNHVjJkb01YYTBuT1N3MHFZdFJZQkkzRFZWOWNjcXFYLWZ6Q2ZTQm43XzlvVXAzcDh5bGV2UXphNGF6WUExOEpXa0xiNG1lTnNpSGpWb1pNMjA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -28,7 +35,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-23",
       "summary": "Qualia expands into payments with earnest money, cash to close - HousingWire",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlk3R0xEbTFxNkpQbW4wMFdiaVdOZ3djSzJtWkhEdTUydFFQTjZCeVl1TlRxTDMxXzM0SEs4MzFKY1lBeFpHaTRhNVgtZHJkM29uNzJjVUxyb2xPUkNULXBoeEdYX0lnUmNESGl4bzZpWGY3elRfajJ5TmR3M3gtcTVyR3RQN09xT19menc1UnU0al9mV0JQcUU3dW1HbElf?oc=5"
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

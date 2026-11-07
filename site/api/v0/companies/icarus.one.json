@@ -1,9 +1,9 @@
 {
   "domain": "icarus.one",
   "name": "Icarus",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 5.0,
+  "score": 4.9,
   "contributions": [
     {
       "type": "leadership",
@@ -21,19 +21,19 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "VALOFE Launches Global Official Service for Icarus Online on October 22 - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjVPWkY4d3BkaGJmSlpRcV9TWVJfTlMxNjBmdnc2Z1N4SXM4Z2JWQi1KUEJTS2lrcGdqUHYta0xPdGIxVUVvYkt5WGlaNXlYQjBwRV8wcWwwYjdRWjBBWVUyVlU1eU9HS0paWjEwaWY0ZUlZMzlyLXcwQXZzOUxCQ3Vaa1ZSUkp2bEc1Y0d1dzJKSzN0SUZmQnNuODRMVWR1UG5VNFV2enRXaVBzM3NVam05UW8?oc=5"
     }
   ],
-  "open_postings": 22,
-  "long_open_roles": 18,
+  "open_postings": 31,
+  "long_open_roles": 19,
   "sources": {
     "ats": "greenhouse:icarus",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

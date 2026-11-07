@@ -1,20 +1,20 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 20.2,
+  "score": 19.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Pervaziv AI Launches Cortex 6.3 for Private Intelligence and Connected Work - PR Underground",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDRwOFFGRFNVNlMyOWMxdTFwbnhKQ1BwQ0gta0hXejE0emVpdTctd3k3NFBfNTBvVlhRbFBMVXVJLXRabS13UndzM3ViN0hxZElDUUF4MjdWSm1VbVotNGx0alJSb1BJbjdyaGpYLXgxT1A5NXVXUmR2c2NiRzhXdl9fZGRKWTQ5eng2dzhzb1lfMmVrYjVGblJ6ajdBRWJTcnpRc0p5Zkw0WVlJN3NpamdPZlZsc3FGU2lSNWZmaHpHdURFQkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Snowflake launches Business Ontology, Cortex AI Gateway for agents - TechGig",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVZBTzFYaWY5eFZ3c0g0LUY0ZWZ6VUllSVAxRTZwU1Z0NER4U0VsMEUzZFBvUTJYT3Z2Wk5pRFRUeG1QNjFxdWpxaHFqS3hqdVBCdlA4Rl9CV19LWUpLQzQtWVltT09oYVMzRS0yMmN3R1Rld2NLOWUtdng4VHFoZlZwcTZGVVMySlBzRW10RlRjWTZ6ZDJBM0Q1YUYzWDQ5aXJuem9n0gGrAUFVX3lxTE1tQ3BTV0lqVUJfa2ViM2x3YmRrXzl3eG5ZMGs3Z2YzNU1JWFJab0hDRHBNOUlxUEFTX3dHNkJKenZ3amN4Ym1sQUZZRzIxeUN5bUFDWVRUeVducGN2SDdNa2UyWk5HOHVzZGdtRDdrTmlpdC05UFIxNWJaNkpEdFZqdWZXVDAyUVFHSVYxZjdRaHVMLXBvR3pkWmxWZHdudFRWclY0QmNpMl9OTQ?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa1FvaGU4eVliSGVySHpRSzVyUnhDeFpKaE9iZzh4MV9ubnBxXzlXLWphTm90aDBuME1OZkJtOXk0TzJlSkdOSWNxeXE2SDdhREVlblc3WU1oWjcycVFweWxXV0dWMzFnbGNySV9oRlVaa3dpbWxnZV93Vzk3bWxFLXFYZlJTdl9tX21KemUyVjBsZ2lqVmZ4UXg5aHhRNEFkM3NQRFlMQ25HVnQzLTNwWVFFT0hTbmd3T1VXYTFLWVBRUjRrYXVIQk5aaWwtM3RDNTMtSnBCOU9JWm5kX0lv?oc=5"
@@ -118,13 +118,13 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZm52OWVpSndSd0d0blN4RERvSmhWd1JFVDluSk1SWnlJc0IyWE1JNmFhQkgwWmJrS3hlQ1hrQ3o2SDBrLTR6SzdGYnczT2FJSmI3YWFSaTM1OXZjejBnT1VibXlJem0wdFpxSnpBWllCeURTdDBQYmh1cmJJNm93T0w3SGVSbUJ2cWNzdmxPX191aGJXVzBXOHlQeTU3bGE0NlpXS1JpcjZ0dXBlV09WSl94Yk5UTjk3VFN4QnJWZkpWSGl2Sl82cUpXQTk?oc=5"
     }
   ],
-  "open_postings": 6,
+  "open_postings": 4,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:cortex",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

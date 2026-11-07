@@ -1,9 +1,9 @@
 {
   "domain": "concourse.ai",
   "name": "Concourse",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "United Airlines Unveils New Terminal B North Concourse at Houston Bush Intercontinental Airport - Aviación al Día",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWoySlFDdWJqTXMzQUo5WXV1QTBZcjl4Zm1oNkV2akNaMjlkWWNzbE43bHZnWVdmemJOQzVEUUVRamY4cEFTTVBwbmhJdy1qMXhkUXo3Q2VJc2dQUXF5eTNCTC1rZHhlVUl2U2VLaXBaeFd0Qmt1MXAzT1paNWV6ZGFTQW9RMEhRbzNBMVByRGFLWmV6bGpUeVppVTBnZGsta2dlYXVRYkJ4NkJLQTc2RExxZ3Utcm1qbE5DcWd4d04zU2lyclFDb2JnZEJuWFAtV29j0gHYAUFVX3lxTE44NngyY1lUejRCSHRrX0VHSTQyWU51MXVteG8zdFJGRVN1aTczQWhjRXNjaktiNUZCM2FTRWJZWXVqNkFBdGxsSmcwNjZ3SHNKQjlhSEJFNkU2TG5EZXZkRmVUMHJwel9IalZTV0lYbm5fUk1ZWGJjaFZOQXVhUF9VWDZJRk53UzBfNWVHQW1ONjhFVlUwLXoxRWNsbVNWdWNhcDhLQ0YxQ2dySElyQmlaMUkxbk9Vd0lqelV4U01mbHJpbVdvMTBfa0E3NEFKSVZOVFdUdnBlLQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

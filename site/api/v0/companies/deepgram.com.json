@@ -1,9 +1,9 @@
 {
   "domain": "deepgram.com",
   "name": "Deepgram",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-19",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Deepgram",
@@ -65,7 +65,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-24",
       "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Deepgram",
@@ -88,13 +88,13 @@
       ]
     }
   ],
-  "open_postings": 71,
-  "long_open_roles": 28,
+  "open_postings": 69,
+  "long_open_roles": 26,
   "sources": {
     "ats": "ashby:Deepgram",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

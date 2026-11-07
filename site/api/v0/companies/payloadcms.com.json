@@ -1,16 +1,30 @@
 {
   "domain": "payloadcms.com",
   "name": "Payload",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 47.5,
+  "score": 49.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.9,
+      "contribution": 10.8,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "DEEP Robotics Launches X50 Quadruped With a Claimed 50-Kilogram Working Payload - Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0xzVlBwcmJtS3hqYmJibzIyOFQ5VWcyV0x4ZXVBTkxQVU05YTJFVnV4RXBLMTBvaUROUFVPOHJxSkc0NlBnVHFxT0o3QzduWHZTRDF3RHBpc2tOMWNEVUNMdzFoRk5kaktFUTFRM294Z3lSWHhhRFNsdWdLX3YzREFackpDVVJUY1Zrb3Q4UEJpTFlEaVZiZm00cXI?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "SpaceX Falcon 9 launches secret payload for the US Space Force - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHdUcEFuVmRSdVY4dDRQTlBZd1VyU2dMVlQ5bXJOZEhsLWphNENTNWREMEhTODhrWFF3YjlxOVZzeXRxNEtZRGk4TmE2RUVZUDJiZ0xBdXFSNXJLVFRMYUpTX0lnUDdZb0VWUU04SmtQR0Qxbm5uTTB2eGR3d3A4ZG94QXRtYWJTYW02YQ?oc=5"
     },
     {
       "type": "launch",
@@ -21,21 +35,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "EHang Unveils EH216-EK High-Payload Firefighting eVTOL, Expanding Multi-Scenario Emergency Response Portfolio - Quantisnow",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRXlCWXNPdGJDOG93Q3lmd1lubWdvUXl5VGc3Z0FYYTdydUtaeWRhN2hNNHdrUkNKQWRlY0pSM3pDVU1EaHJld0ZtaUpBWEtQMVlWMk1UenZlM0NyOVY2dUlKaFpOTGR4c3gwbm5Cd3NVckxOdHpZMTg2azNEUXBXbkNZWV9oVWRKWlVZZnVNWkJWOXMya245OWF0MHpnT0pKRmVOMGwwdEpZSVgtUXBZaFZ6OXZ0Y08wLUV2RTZwODdKTFlzWnNBdXlzRzVsQmk4TXBB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "EHang unveils EH216-EK firefighting eVTOL with 160kg payload - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGJ4dkRJeVJFaHlnMEtSb3R0VkdMbUEzTEk0Yk1fejE1eF91QlM3WlY3V0RscnFtb3FySjNmVC0wbHZfSTBuWVp5ZlhQR29QVWotN1B4Z3p3cFJvZkZDSFptQjY4UXlObnotRk8wSElTaVhoa3FLUDNndGs4YU9WazZCYWNrVWVWc2N2OXI3UHFoWXEzQ25kX0VKMlNtTmZfU0t0R0JQd1VwR2J1WUs4OXpMNUx4SkljT3Rz?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "EHang Unveils EH216-EK High-Payload Firefighting eVTOL, Expanding Multi-Scenario Emergency Response Portfolio - Nasdaq",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTFLZ2c2RVlIZUs2Yll5T1FWZEJlRDBGdVNKc05jLWRQUy1ZWjg5S2lscENScHVYeDUyem5mUl8waHVKYU1WbVFpajFTN2JJT0tYZXl3dGFPV1dBTlFSVDlXdUJJd0txSl96RjM5bXBDRHlJdy1sUXlhSEtkLWhtV0UyckVkcmIzYXoxUk9sdGtqYkFNeUhMU0RBOU9FZ1l3SnVzSnRuLTU5elRRaXo5LUtFOXNMRTg?oc=5"
@@ -105,21 +119,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "SES Space & Defense Launches NASA Communications Services Project Payload - The Fast Mode",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVy1aMmFtVlN4c2J6WklEenJueDVUV2RZbG5kcmZZZzhRU2FDZ0V3cTd5UUpPaWQ1QVpOcG5xRV81UzBmVjZhODBSdFRSNUFFR25QU2VBWXMzTkdQZHFoMy1MQVdiODhXZmNBdVdhMTRlUU9mUjlucy1OWGJRUjltXzNvYnFfbEpHNXNqM3ZCQnItTVFyWHlaNjdEUGNoNHNXTDdCSkhOakhRb1hXMzRhOFM1T09QMU9uOWVVN0g0T1lramtl?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "SES Space & Defense launches demo payload aboard Pelican-12 - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemF1NFNza3ZlYURwTUVxRmdWNl9jMmxrdEtXdGFFZFFUUFlndDE4YTEwaUpqa1pUd00wdUV0TWYxR1dKSDJPRVlEd1QxZjMwbWpjeElhVTFVcjRBeXlZMjJkYzh6Tlk3MGFnVi1RM2F2RzhEd3k5ekE2SnhBdk5NM09OLW0zMFk5UzlibXZRTXh0TFhaaGxpOFdpV3dHT2hCZDdhbGc1UjIydms?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "SES launches payload for final test of its commercial space relay service for NASA - Idéal Investisseur",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGZMVkRUTFM2S1BmSmNlZDlaZklhNGppNXdoMEZMbmE3VjhzN2REZTRUT29YTklwdDdMNE4yajdjRE40MkpTOVhGZ093aVRuOXM5WUJDNVN1MmtqcklaQnBzeUU4ZnVtSGFYaE5ieXZiSXlmdFNjLXBPV3NGamRLUVdzUWJON0JFMkFESExNMV9tdDNoVThHUEVld00zYmMwbnhiZUxJWVV6QVdfV1hQeDFHeHl6eEV5ck5wNURGTjVpbENNWUp1YmdvYkhPaFhYOFR3MnB1cGE?oc=5"
@@ -237,6 +251,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "elitehq.ai",
   "name": "Elite",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 7.6,
+  "score": 9.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Hyperice Launches Normatec Elite Heat Compression Boots - Men's Fitness",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelNRamVyYjRMdi1zSW95SndrRXFBc0RaQkJOdTlqN2lHa01xdmFfaWxUYVlGemJiSm9NQWJEaVVLZ2FpXzQwX1p4cGlhMTkzM3c3WTlKdmtNWmtfaVBaOUM0QVM5d2diVVoyWDdBdmx5OHp1MjBWXzhlTkFlNTdCSGsxYXdEWWhpcU1OR3dDRHp2QQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "British Cycling launches action plan as elite riders call environment 'toxic' - ESPN",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQjJGa3g3MzA3bXl1Qi0tYVJRSHk0aEhhZDlfSW1HUlktbmdIdG1iU1pUdHhMc05ESnJFNFdoSkVFMXU3UVpRRk00SE5GUXdGRE9HeWFnUWJPbDRPYkVRRDZQcjIzNGtOUDN5LWJUMGlFZ1dMdzdmeXlMblNZano5LW9MTHhKdGVnVUx3eXlSeDRIaFpWbVo5MFQ0TTVFb3FBXzk0?oc=5"
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

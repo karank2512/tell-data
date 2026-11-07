@@ -1,9 +1,9 @@
 {
   "domain": "nourish.com",
   "name": "Nourish",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 5.0,
+  "score": 6.3,
   "contributions": [
     {
       "type": "launch",
@@ -21,6 +21,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Whitecliffe House chooses Nourish as charity of the year and launches food drive - Bournemouth Echo",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVliU3pabDlsSktJZ29SSV9BaFh3Mm1neGN0bm42azVMWjdKTk16T1RTbXVlLW85T1BMTTd1TmZqOTJQbnV6SkQzcXRtb1QxNFdlUE9pOVZVb2puMjVBMEhkejRiYkQ2TWFPMzFLTDcwZ3VBVGJDZ3M2Q2pfVmZPWkQwQjVDMUt3Mm5NT28xWEo2RHN5Ry1rTzdkTQ?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Martin High School launches canned food drive with Nourish Laredo - Laredo Morning Times",
@@ -28,19 +35,19 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Morris Township Police Department Launches Grocery Drive to Benefit nourish.NJ - TAPinto",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2t2TGxNSi1sNjFRak9HQzVQQ0xOOGlpMUstT3VST1BTVTNVc1FKOHRUcnNDTmNwRkpNaFhManU4cVhMY29oVEtMWmV1ZWlEZXpKWEE1SDdhdXpkelI1bERlX0NWSlNEUk94c2RUbDhHSk5paDh6bERZenRDMXJVWV9MaFF3NzdJVmlxNmJCaUx0Nk02Q1NnVlV4eTI4UnpKNGlvNTNOZDdiWS03enpYR29qZDR0dGVxTUtBcmR3NTlSemVialJjUEJaMVRUVExhdlkxYjFiM2dwRWZqcFV6NUdwNG9WNWc?oc=5"
     }
   ],
-  "open_postings": 101,
-  "long_open_roles": 18,
+  "open_postings": 99,
+  "long_open_roles": 17,
   "sources": {
     "ats": "greenhouse:usenourish",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "orchid.health",
   "name": "Orchid",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 17.8,
+  "score": 17.5,
   "contributions": [
     {
       "type": "leadership",
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Royal Orchid Hotels launches Regenta Place in Kota with 57 rooms - scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZldXWGVQR1hzWnBDa2UtdFp6MjVJMjFmcllqZWFyX0xpSU5ZaGlweDFWVFlNSVdBVU1BN0ZlV1R4WGxXaEZpaUowLUJnVE51MmZIY0NRcEg1RFE4WDdfLUQ4WEdCb2otQUE5Y1FZcm5CXzVOenRwMzF5ZFFPZDlZa3hkUXZ3TEJUanoxWWl3eHdzQ3ZHTmZNSW5KV1VqWTVvd3ZsTE1DQ0lYODRGVFZubFJIQQ?oc=5"
@@ -84,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "GMC Launches 'Swachh Durga Puja' Contest: Kopou Orchid Theme Takes Center Stage - The Sentinel - of this Land, for its People",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc240TEpGLUFCXzBGRGpnM0JPVDlPcUhYODFYdGRDRzJrdndReHR3SG1NeG1jTkdRWm9zQkFkcGtQblR6TnZqOGMyTVVKVjRoWGU0WmlzbHZITDNlMVRTSWNrY1loelpBYXdkNklWS2d5cXQ5aW1IZ21FUVlaT25rS1R6eEJMZThQMnItVER3THpqRjhoNFRGSS1OMUw4bnZwUkp6X0loRzJmRDFQXzJ3dU9jSURXMVlyNzVsOHBnblk4dEdpUFhpMk42YnlrbGM0NkhqbU1R0gHjAUFVX3lxTE9DaUwyWERtbFR3LW8wSFVKZm9JcHplcVMtM0xpZjJTb0xkcUJSTTRQVEF5Y0FzUjBydE41Sk4yallwTkkzQmFYd1kxUHZyZHFIZHJ2VGI0c29SRXVEdzYwNFBMQUtIZVB4TF9xVzAta1VOVUlBVUxCMzR2WTRGZVYyRkNhNUdmXzlHTHZpOFVCUnFlYU9JVHVOaVl6TXZCT19Nd3JRODE0Z1psQ2xYakFqZkEzc3FiS1U2eURacXZCdWJMS2Q4Sk13OTNMMTNQV2NjYWZ0MU5nTzZDRF9kY3RjbFdF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Complete Grow Launches Australian-Made Orchid Fertiliser With Two-Stage Grow and Bloom System - Chinook Observer",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVER0NEhoekdfUDVHRTFUcXp2WkpVUmlrWWtOeGJjOE9HbzJ3Z1NtdkVMWUNUdHVBdkx2UExmaVNpN2hXYUJVVG5EbmtCWVptSmdPRGpqME9QYXlBc3Jfb0xoQjFnaEd6aTJIM0F6UkRMN09HZ2lrcGlTNzc4cVJRMmdyQ0dnalAwTHNqMlJnVXlXX0tyUGpTLWNRVE9ac3BBaWE5bEVhenZKaDJiYXUxNGJCb2o1Qk5TRzdHN3RSVHp3QXVmeWtIeXBybEF4OS1aajZaVHhvNUpDRW9aekpJMGt5TEp6U011OVhLdFRR?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

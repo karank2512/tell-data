@@ -1,13 +1,13 @@
 {
   "domain": "trace.so",
   "name": "Trace",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.4,
+  "score": 11.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Govt unveils plan to trace over 557,000 Kenyans over uncollected IDs - People Daily",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0pNQkh3clQ1T2w5WXdVcGlzY01nQlAwRGdTb041RW9lc1JWSTZWMy1sdTNROF9zMXQ4Z0VfbVJ5ZzdSY0RMYW96U3U1aUhadi1SWmpSMlN0VXRYWW5KWGh2TzlaZDlKc2VDRkJQaHpWMFBWN0pGN0RzaGJtdUhYcW5Cc2dJZnVmeWdPa1prR0ZEUG5JUGo4UlR4QUQwN0xFeWc?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "CTGT releases open source tool Concordance to trace why AI agents make inconsistent decisions - VentureBeat",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEVWaDlzRlhCcGZzeFhOaVRRbG53amdFOWw2M2h5UXpacC1vUkZEdEtVbzBockV3SkpneDR1bU8yMHBvVTBVeGNVdkkxR3Zpd29DdXkyU0Utamc1REFaeHJzTDJ3Wm8wbGg5ZHRRREk0WXZPdWZBdnhEaVM2VWsxN0FTbXBhQk5oV1haaFNOcldnTnRFcE1JWWZENktVOHh0ekM3YTBfcjBPd3FOMjhnMXBfTXI2UmhIUlpNRkRHZw?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

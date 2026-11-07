@@ -1,10 +1,17 @@
 {
   "domain": "tryforerunner.com",
   "name": "Forerunner",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 2.2,
+  "score": 3.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Garmin releases beta update for five Forerunner watches - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUtmekl2a2lSSXdSRndSYVh1c1RoeEd2cTBFZm11NXg5U1FMRzNiSmgyZUtxN3NnTzlGVXd3M1cxRmFSSkFUS2hEZ2YtYXZIQzdlOEZQUTB4Ny1NOFRtQTZYOUhOVE51dGwzSXBYdlR0clFwWkVWSTMtcVRJa2ZPS0hvcHRzNWxVajY3VQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

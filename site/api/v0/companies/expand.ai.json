@@ -1,13 +1,13 @@
 {
   "domain": "expand.ai",
   "name": "expand.ai",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 20.5,
+  "score": 20.2,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-04",
       "summary": "Augmodo Appoints [person] Head of Retail Sales to Expand AI-Powered Shelf Intelligence",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOXhMN1E5WUVRbDVRT3VoaXlTb2ROdDFzcGRMck9DSlp4ekpRTFFrdUgyei1zb1NOdEFmaGRadjQtMEJrOGZhRjU0MjlJa3AxT1dwdXkzdTlFaTRXcHdRRG01TkhpOTlfTnN6WlpjX1VzemNPSGxaVjhSQmc1el9yZ2QwZWg2c3VLSzNLYXJVZDRuUVRCaXFfS1JfdVpyZFpfSmJ3WW4ya2FvM1VjN2Q5eldpWVBVTF9mQlQ3Q1J1VVJHNlhScUN5Tw?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-26",
       "summary": "Qualtrics Appoints [person] CTO to Expand AI Capabilities Beyond Surveys and [person]",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEQ3X2ZrNjN3Nk15M2FsMWtrbUxreVNOb0I2U25NdVVTVW9IZzlKbWVUTmVwOFhsOWViU0VGZkhRTGZTWEVDRDlPVnFaRGxkYi1XZU9PVHVwcTd1c3BpeEV3QkdOVGRScjNySWNLbmVjVmlETU5JX0FzZmU1QkYzMk9Ic2N3LUN5T3FMd1RNdGhZM25PV045bHM3cWx4MFdCRUZCVFYyV2FFOGZhUjdlSFYzUzZNbmNVRkRfX0hn?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "Appoints CEO",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc01QemZYV0VTeXNuRThQQzI4RUdjTHc4RmJPcGtzMEdWNkdJQVFPWnQxYm9FNlVwVkNjLTN1bTQ5bWE3QXZNbnItUHE0NTJDcF9wWEIyc2V2QjFHXzF0MlF0a2QyaTc5Rkw0NHBBRnpQOUtTUlhNRGtzZ3h4U01GMVA3WUhmR1pVeENXTElTZTc2Q0hJV1g2MjF0dkY4NW8xZjl6TkpEZWRoSnNLNEZpQWFINDl0RzRyZHIzdGxzN0RVRVU?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

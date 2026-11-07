@@ -1,10 +1,24 @@
 {
   "domain": "hud.ai",
   "name": "HUD",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.4,
+  "score": 14.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "HUD Launches Nationwide Accountability Dashboard for Public Housing - The Presidential Prayer Team",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHNtSkVVUGlxc3pzcGc3N1lKR0JWUDJrakFDSlJlamhSeHUwT3BVeGhlb1diQmhqRklhNHpaekhlMHltb3J1dHhOOUhyT1JmdzFiUzVjUEJfQ19Fc2MyZ2JxOThRRlJ6dmpJRGIzX0d4SjhuM3F1TXVUMkVORjhMM1ZNRGxBQ0o3aVk3aUllR2RxcGc4WjQydjJSajM4RXhsN1VDZUZsSGFWUXp2R1ZnbnFHdmVKYUNTVWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "HUD launches accountability dashboard for public housing - Madison Courier",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUFhDOEVNS0hjbHlfbHVHdWZxVW1wdE5jS1pOTDRIS3ZGWDdTWUVGTlF4SFV1VDlGemhva3A2M1loSFBidU5rZ1I3VWlLNlZxN3NJS2tkT0tCeDZwRVRiNDFGMWFZNFRnWDZ2VXhRTVEwRUdZcWpHbDZZeWppRWxRem8yLS1iUHk5WFRYMThTYUswUlh2cDhWd01DVTJyRThFX1JkYnNhTlJUYm45alpoRmZDdVdna2lCTUdZTUd1SFh4QUxNRlJxV3dFWHNyeVpFeW1WMWFydmpDUkNUeC01bFlQX0tMM3hwQno3Q0RpV0o?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -18,6 +32,13 @@
       "occurred_at": "2026-11-03",
       "summary": "HUD launches ‘express lane’ for LIHTC multifamily construction loans - Multifamily Dive",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGxiSnpFSzE3YVk5M3dPRmdyU2RDd2JuTC1pdEFBQ3YwMUg4UFZfS0lvd2tQSEFUSlNLeGhndlNFNHNoV1NOWEx3MFFqY1lLdHAxM2k1YTdaLVZoQl8wTTdQQUlleG83MUo0SHMzcXBMUll3cWVpeEVNUWh2WXZqT2Y4Z0Q2YjNkSmRPcFhHZWlhZy1SSDJkcWdPTWdkZUU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "HUD launches ‘express lane’ for LIHTC multifamily construction loans - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclpMUVBMUWwteWtzSUkzQm1iTkhwVHk3MUhKMEdBVmJKN05NcTk4SFptQnhlZU00Tk51QzB4cG82U01USFlEQnRZZ05QNDFrSDkwTFI4c2dyTFRheFJpTS1TbFc1TWhzY3RpdE8tRU5LakRSOTB5UTlQbUdCenlhRGF1dkVKNWVVaXNBZ3ZSN0thWGRUV25Ndw?oc=5"
     },
     {
       "type": "launch",
@@ -56,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "HUD proposes work requirements for housing assistance, launches coalition in Champaign - WIXY.com |",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkh2UktVWVhnOEktTWlwYWZSaFFqYmV3a254QVNSQjVRRmxEQ3NZSUc3ZG9wc29Mc3h4Qm5HNFNONERTalJPVm9tejRUQS1QOTF2SnEzUkNyZlBxcnJzT0VwUmxhMUZteVJWMGJKdENxUmliYTVLZTJqY3doQUtMQjNvSFJ2MEJ4dzZmSXJFTXhyUkxXT3JMNThGZWxya2REZ0tJZWhBdG1aU1FfOHZ2cUxLYVEtUQ?oc=5"
@@ -69,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

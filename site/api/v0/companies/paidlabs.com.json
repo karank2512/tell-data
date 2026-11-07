@@ -1,13 +1,13 @@
 {
   "domain": "paidlabs.com",
   "name": "Paid",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.7,
+  "score": 13.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-04",
       "summary": "Rival Appoints [person] as Principal, [person] to Lead U.S. Growth",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkszQzEzRlVrcEpyS19HNVhMSkExOEFpbkwxcllQVTV2WlVFV2FhNV9OV205d3RRd2JRMk1Oa3daXzNwOExvSlhOTm14dEJ3UVZLWkVNeDZUOWxJT1NFSHZkWlpOSGJFcEVobWs2Q21xSnJXd1g2Z1pJdS11elhwN2pUZGxsOFp1cmtIczl5bFFJV3NDUlFQbA?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Spotify Launches Paid Fan Memberships for Podcast Creators - CNET",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTlWYTVjWWpETjZMYVN5aGE2Y1JYc0hfZDdfNGM5RnhRNzVhRjVudWxZdlZmNzVpSGhkMXBHSXRTd1NsYUQ0d2g0Q2htcDN1UHg2NzdaclVsM1NhNF83X2tSMFB3UmhEUnpVeEtjZThLNERLZ0RwWWc2MUE3NktDV3J5VWZMRGlaNDN0UGR6MnU2N003dTJJ?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

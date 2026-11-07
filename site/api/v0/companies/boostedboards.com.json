@@ -1,16 +1,30 @@
 {
   "domain": "boostedboards.com",
   "name": "Boosted",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.6,
+  "score": 6.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Motorola introduces Polar-powered Moto Watch 2 Fit and Bose-boosted Moto Buds 2 Ultra - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYkROc3E4bEdhZGRTRHNzS3Bld2hja3JmOVVhUWpmM3ZIdGdQN3FQNXdsN1NsdzJ0dW5oRGk4VEdUMXFOS013eFoxcjAtekh6WkJISDlRMGJMMXNlUjZVMXNPanVkUE41cEZmQzA5UWIzMGFZRDBwb2dSVjdQWVJjbENMZFJzTlE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Blue Buffalo™ Launches New Wilderness Bone Broth Boosted Cat Food with Two Ways to Serve: Wet or Dry - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHdlVXRRd09kYU5sVkVBdXItOTk1UmdHLXFiVUROdWdXMS1Cdk1fUTFGbkwxLXhkX01HdDQxTndnbERZMW9Ec29TLW13eUlHVVVkZWVqdGltUHBjczRfa3l5Q2Fkdk05Vk82S1dpUmhWVFh0RmstUElZTnYwNzhhTkVnNUJBWkRtQjhpY1c3b2ZxVGY0OVFXU296bUpVendJckNqakU2bUpvVGk1MnQ2NGtOZnVkY1hJUlc2blFidGYyN0pJSlU3THQ4R1ZrdGwxanJBa2tTT1VBMlM0WGUwNkNwRjZ1X01SZlZB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Blue Buffalo™ Launches New Wilderness Bone Broth Boosted Cat Food with Two Ways to Serve: Wet or Dry - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWEx5UExUTTBBdEd6NGxSTVNWZDZscVpSTmE1Ri05TjNTY2FOVWlqSDJoNmRUVkdDallsdG5FWHJrdS1qNWxjeFRFaXBYVTNfbGlvQ1FZWWRwR0dmNEVkMWlPT3RjV3NFbUR6OHdxanpyTzJvXzB3VTF5RXp2Q25tSHhIREJkU0pwTUhocklzMnJYcEJTdE5fWUJyclJCR09LdndOZQ?oc=5"
     },
     {
       "type": "launch",
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

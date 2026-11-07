@@ -1,9 +1,9 @@
 {
   "domain": "sid.ai",
   "name": "SID",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "SID appoints [person] as chair amidst leadership shift",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2daVlJydDM5RUFnU08xNUlpYjJwR3J1RTAyVmIzQ3NaY1FQR3VQVkRpVHdkQzc5OEtBeHNOSTJNWFltTGp4LW9ZZzNZZElyT25tajNucTF4NERLVXYwYlpnSF84MXFTQkFOVzU4ZThpWE5IdDF3cW9ybVVjd1ZuWDhPaGN1TXdkbkRUV1pmOFg?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

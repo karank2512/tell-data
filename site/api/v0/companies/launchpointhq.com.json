@@ -1,13 +1,13 @@
 {
   "domain": "launchpointhq.com",
   "name": "Galaxy",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 18.4,
+  "score": 18.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users - The Block",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBwdFFkaGFUcGVhRkJDTWF6UkdveEJTa2xFaTRkZ2ZkMHVyak45ZXNJMHc2WkxNaEcwVUJLYTNFVUN1V2E2ajBubDVnT3p5ZlBQQm5rblBMMXpDX3pzUFR1NnVtcm5BTGpkdzlqNHhzVnRRLWtUcEhxYjNOdjJ0T3BoRmlCVUhtSzlpNVl0dkpwakhuR3ZqVmhwV3o3WldIcWQ2LTctQVpiZFpNellvR1lHUDduZVE?oc=5"
@@ -70,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases Galaxy A07 stable One UI 9.0 update - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUp5QTQ2QzVHWktpV212UWFtLU1NaGVWSjkwTm9PNjJMS0phRHVsc0l3dElDT3VyLUZHcUZuNmthSjNfbVlkY2g3ZEpaRHBfRmVCSEtmNDNQbWNGbFRmSGdrN3ZVZW4wa0dRVWR6WlhxdlZocEtxenkxNEVCTlpCUlQ3N2NwQkIwMHJIMw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases Galaxy A16 One UI 9.0 (Android 17) stable update - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU81OUY4RUZseXp4V1kwRHBXcFlZc1lTTDJlSUZWbDVzUlNZS0hHRFBJd0xwT3Q2RGZFTlpkMkJQMjAyQ1pqTlFEYlo3YU0wYzNoakw3cUlfVGxWeUF5VWpEcW5YVkE0bHZIb1o2RGJITktHWHJpeU9qTzBLazhuY0Zad2llZEgtZk1MeTRqcU5XbTJLUmVjNW45VQ?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

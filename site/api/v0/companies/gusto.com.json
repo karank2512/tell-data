@@ -1,9 +1,9 @@
 {
   "domain": "gusto.com",
   "name": "Gusto",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.2,
+  "score": 9.1,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "New Name, More Gusto! Introducing CCAF’s Project Positive - POZ",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMekVXTjJjdDhXWFFjc1BKcEJORzU0djZrVDhoUlN5WS1RajdicnhielJuZTdUM1pGRGZRRk5CT3hSR09fbU5uQ2dTcFNKaEJpSTBzMUNWbWZvbWNjd1hFMTNJem5UbU9udjM2c2Y1MUIxdUZIVnhnLTd2d0xNUzA?oc=5"
@@ -87,13 +87,13 @@
       ]
     }
   ],
-  "open_postings": 85,
+  "open_postings": 88,
   "long_open_roles": 28,
   "sources": {
     "ats": "greenhouse:gusto",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

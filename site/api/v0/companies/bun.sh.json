@@ -1,9 +1,9 @@
 {
   "domain": "bun.sh",
   "name": "Bun",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.2,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Campion College student Alliana Freeman launches CPR initiative after bun-eating contest tragedy - Jamaica Observer",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGRkRnlNOGsxQWhvaHFZNlNSTDBNVWkxQ0lyRktVYWhXZHhlS0FzS2lMQ1gzOUdMdEtteU5VbHRvVFd6NWdIcU1nNnI5UkZUVnJLclJfZVFxRFdUTkU3LXNuSVIwckIteGRDX3NVLUZuTzdSNXVXSk5JTTNDalFhdXVsMk5TQTJZY1N2dmMtNkhHUFRHUjFIUnZPVFdQUE9XWmlkSzlLb0ZPTUx5eTM5cXNxejhWZ3JHTWJXSDFpb3RsX0xqSm5kNTg1emY5Ums?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Starbucks Introduces Pecan Sticky Bun Latte and Pink Protein Drink: Get the Details - AOL.ca",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVdxcXEwUlhjYXQwXy1GZmRCRno3aHhrV0l4MzRYOTd5cXJhdmZEV2VrTDk2UFl1OVR4RVZWY19EdWEyUFZQMkZyYzN1ZHNqcnpvb24wQUZVb2ZWNVgzV2ZKWUhwMmg5M1VqNHlyNm5kdjIzY0pubXVfZENDYk5TREtIN1FScU0?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

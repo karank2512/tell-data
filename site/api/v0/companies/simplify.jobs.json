@@ -1,10 +1,52 @@
 {
   "domain": "simplify.jobs",
   "name": "Simplify",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 93.4,
+  "score": 100.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "10x Genomics Launches Sentira AI Tool to Simplify Cell Analysis - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1RZZ0ppRU5zbEVDZVpQaDJ1cldZUXhkRGthbERBOFMwaGJIWkNUcDZweHRqNkZKa0x1ZEhPVjZTQ1l3OHM4Wk9va015aW50cWU1SWdOR0ZNeTJUMjZUNFJPeWRnRzYzM3J2Y1RER0FtbjVERFNya0JpU0I0bWNrX3JxMmxqYUpOaHZDaXRvUi02ci1JdnpaMWdVZlN5Q0hwcUZucFJVYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "10x Genomics Launches Sentira AI Tool to Simplify Cell Analysis - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1l5b2NDWFBDWWdfZXRBLXFnNEZyM2tIei1CcE9RX1ZISjNyS19oUFhqTE9Ma29Xa3MyMThVNlFicEF2Q1JDcVNOWVF4S0JMVFloVVpVRlNzV3M0bXBObnFPbDdFZUJHWHlmTVE5eGdxdkpZVFZ1OHg3UWRmQlh4M2ZSc2IxQmM1SGR6cmFCYnlabXFITy04R3VpcVozUXo1MnRhLTd4OUhRLW5jZDRJQWVKUEdERERKa1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Prudential Claims Insight Assistant™ Launches to Help Simplify Claim Management - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3kzdnFocTlKaEMycFZ3LUZtelBXNDVzYzVxVzROZkdOY05nZWs2c2xSdHU2UlJMS3FHQ1RsOGpmQV9Wa0R6ZWpjWVdOcF9OTF9ZcFRWMFBBMEFvQnlKMEYzQjhhaDFvcGY3dmJnSGFxcjRNcHFVZk0zWVhkZ3JQNjlGLUhpMUNOdnVOTzdSZ3R2XzhMakd4VFRtTWw4VlZNQzVBUUhrZG9OUk9U?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Texas Instruments Launches Multiprotocol Ethernet Module to Simplify Industrial Connectivity - ELE Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDVQbXJFc25RZVg2VnFaVFdwUm04QW5YUjNtTFN0ZmtZQTNlakxZaXhzeGhPZV9abWdKUjE1OEYxbkVBX1k0amE5NFNYVWdicE1FNTVuWjdoSFhqc0VpeTRkR200OThSQ1hQZkZlblphUVJvQzFINW9aTkhYYXN5bzBQV0FIRk9ZNGVyck9kd25lWlBscnlwTkIwRlJQSTdvQW9Mc1FlTTFnb3F4WmkxU2I3WElnVEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "TI launches new industrial communications devices to simplify factory networking - New Electronics",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd21yN0JXZUg0dktla0FyR09lZW5qeXlFNk5TSmxrVW43Uk1VMWV6d0hWY29CcDUweS11Y3BtMWFtTTlrYmRnU3VUV3pXTWEzcTFwWm1KQWlSRF9ZOUthMWowMFMyVVVKSmwzRk9seVMwclNTT0FEaXFFRDFIblNnUlJWT0NyaGdudkRUX3E2djRFRTNiQ2ltMS1xOGV5VnhWRDk0ejdVc0xDN19hRXF3QUNRQ1dDekswQUlJcVRCeW15NncxX3F1YlVzWGJjR01xd2VtWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "TI Launches Industrial Ethernet and IO-Link Products to Simplify Factory Integration - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUQxY01tN3E2dldLUFRQdmJVYXNlWGFwWUwyUnJ3MzV2QktEaF9jU2hzSDVtUnlfai1sNkRwcVJ1ZnB2VlhmX1REdTJfdDBPTEZJZi1wdGF1YUdlano3NkZJNGFsS1dCZUJBSC1tamxkbzltSjRuLTh4RE5LNWRSelZ4MDU1dUlLMERKNkdlVlFsbXBmN2xXTnFxUGZYWFB5UmVoRG41Y3pVUkFZbzhXUjc1dW5Kdkl3TkE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -168,35 +210,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Vertiv Holdings Co. Introduces Vertiv SmartIT Solution To Simplify High-Density AI Deployments - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQnZlU2RIQWxNR0ZyWXl1OUg1NmhKS0xjRmw0X2FQZlZ5d0dEUW9Bdl8wTHVDOHRkR1BiZ19Fd1p3ZWo5RmZwdVUyLXFtUkJiWjlTaXd5R2t4azJheTRfclJ4OFl2LW1wZzhnNGdPa3JXUS1uMlFycnM3QTduM1Iyekh3UURodmtTdi1vZHRHcGJuMk43M3d1b1padV9FVjBsenhNcTdHaXFOY0Z1aGtkSDJQU2Q3dlhhdmRwY3g2UnpxM002N0JjMk80ZXppMFZpdVBJREltZUgtLVMzZE1N?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Fukuda Denshi USA Introduces the BDS-2100: Designed to Simplify Bedside Monitoring - Cincinnati Enquirer",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFV4NzU4QlJYREtXRTJJcXFjVEdxamlkV0dUdUo0R0RBNHpLdUU2Z3NLODBiR3A1UVcwTVJxQ0czVktYc2RsejlPN1JkOHR2QUd1Qk5SbWIyQzFuMHlfa0hnVXozckFGeHgxT3RtZkpPUVpxU0pXZDVuSGxxWmNCMVNJVjVjVGRXalg4QmJZeG1aRmJyWEh1T1ozOFpxUlVWNUcwWm1XaHN5RlQ0VjRNUnNlQUhydzVwZ0JwaVloVDluM2FJZU5pVFJqTlVibmt5bFE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Fukuda Denshi USA Introduces the BDS-2100: Designed to Simplify Bedside Monitoring - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY3Z2VzZNU2FtcFlVcHZnVmJzdEJvRGg0R1pwWlF1c3FGbzNCdUt6NkNuVi1ibFE5b0JqM0swUnlkZjBaM0JQenpOY1pVR1RkMnc5SnhuWVZ2UlNabDkxLTM2SXkxR0h1SjBjMnJFRE8yU3YyVFVSbG9oWFQ3d0VNRkswcFZuQ2ZBWXBESDF6Z0x2a3daaW5ZMEF3cHF1UXJWdWd1OU5NR2NXWkpoSXBfa1NkZEhLZTB6bm1wbUtKamgwMV81M21pc2NWRDgyckdwbWFUcUFmd1JxTW8?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Reflect Launches Create to Simplify Branded Token Issuance on Solana - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMi1pbk5jeFhTS1JPRzY5eXJhQ2hEdHUyUUlIOUFfUktXbTdab1dUOVN3MWR0N3hGS0pTQXRLQlI4QVVCQklFemYxMHR0MjRDMnhxVXVGek9hLVh4LVVnSWhndWdCOE9PTU43TG9jbGxoWVJoOU9lZ0RPWmhjRU9FUXJCMGx6YnJza1R2YWxYdnpmWHdMa0RzU0lFc3hrWXRJNDdLQw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Circularo Launches Hospitality Support Initiative to Help Hotels Simplify Operations and Reduce Costs - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb0I4QVV2bVZHaGt4d3VZZjN4UFJMR1ljeFlWaWNuZElOZEdxNVVBV2tydHFvODJwQlNBMzk1VjhGM0lPU1BwRktfZzQyVWVvWE9NU2gtZl9OVUphdS1vem9jeEJsT0FLMHNNRzRqc2FuUkdyUzNuZFItVUVqTlR1ZFVNZXhkcDhFb1laY0hfSmpKcVNrYWNjNl96bHc5aVFBdU9scThRQVJrQTJPbGYzUnNxcVZyMlEzcnJsdHBtQ2w3Mmd5azJoMnFpcEd0ZzQ1bm9UWmpMMDNTQjA?oc=5"
@@ -294,56 +336,56 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Waladi Launches Customisable 24-Nappy Package to Simplify Full-Time Cloth Use - WBOC TV",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbENlZjdhZVZiTW5Cb0tlbGtNSFRJMmVhdDRuZ0JlSGFpVWxidk1HLTc0YkFpdEJLdU9QSFVnM29MOWItbGVJNGhocHhBNkFsOHMybzdKdi1odkZiZmR3akNHWVdvdnl2aGdNcTMyd1NtS1hfY1Fobjh1VlM3XzVlSHJhZzR6NUl3YlNTR0JQcHFsYTRqQUFuN1dPWVZGek9rb2JnU2NGOXdGQkhtQkRjNW50aktYX3BGOUxVZmZneFg4MWNaX2xWanQxd2xUQlktTlQ3OXVENmI2U3RZeVVacVpyQ0lTTXJPbVhzNjNiNU16NEVaWnFkNV9vWmNmSmFEbzZEc055V1JmczA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Prudent Unveils Nine Digital Features This Navratri to Empower MFDs and Simplify Investing - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUHBrNWNIbVVXeC1RQWRzQzE4cEtIbmM5S1NUd3ZUSHZGc3NEN3JNMUx1RTBfbmEtdXp2bW91aTVMTWotaXpTU1duakU2RFpCWktlOE05cmRQRktKUUJxMFcyV09yMnlDN2FseTlmR3EzQnJ3cGtmcU8zazUzcUh2dFIzbG9OSVNIdEhxMVJEZDlNOVlhMF9jdUNNMFVuUTVYT3o0Ynp3TnZMdHJLX1NCSFk3bkExQXNnUzNQVTFHR1BxbENxVkRad2NzdGVqd1RYR2Y5cng1N255QkkzazBPdjJNRmNZd3FxR3dyVG1sSjd1N2Yw0gH0AUFVX3lxTFBQcGs1Y0htVVd4LVFBZHNDMThwS0huYzlLU1R3dlRIdkZzc0Q3ck0xTHVFMF9uYS11enZtb3VpNUxNai1pelNTV25qRTZEWkJaS2U4TTlyZFBGS0pRQnEwVzJXT3IyeUM3YWx5OWZHcTNCcndwa2ZxTzNrNTNxSHZ0UjNsb05JU0h0SHExUkRkOU05WWEwX2N1Q00wVW5RNVhPejRiendOdkx0cktfU0JIWTduQTFBc2dTM1BVMUdHUHFsQ3FWRFp3Y3N0ZWp3VFhHZjlyeDU3bnlCSTNrME92Mk1GY1l3cXFHd3JUbWxKN3U3ZjA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Coastal Source launches PowerSource to simplify outdoor power systems - Landscape Management",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM19mREZMbGF4R3lzcWRac2lORFBfckU2UkZRaThXUjFZZUlKTHltM3hrd1otVkNsZkFlV1JUakFlOGZ1MjNoNGoxdlZMYUNQV2x0d2JzVlVFMldXYzRjSlVXbnFfV1ZvbVVyZ21JZ3lmdENkazlKMU56eXZReXRiMGNuNkRtU0ZRSG51RGcwUXR5N01rZXA3MGh4TkRaREtLNFo3bG9tWjI2dw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Firm launches app to simplify payments without account numbers - Vanguard News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXI4bVZGZ1lTa3dGQTQ3c2VKYTNOV2xnS3FnVlM0dUE4QW4tUlpydG5KUVJtamdGNlZzZDNyQkx4NTRGcFdiUkVmdXVGeUxtY082d0prN0czTGN3YWxCVjF2bXhzZC1HNVZxVzNXZWN0dGFPa3g1ZUItbk5USTVsTmhlaVpzeXpiTmxVREV0QnMyOVFmSXBVVi1LellySGM1NDZJ0gGoAUFVX3lxTE85c2tDU04xeG5kTzNOSTUtUk5mNk9SVjJIMGJ3Qi1heHBxbWFpc1Q3clhwTTMyRWpVLUxndm1KMDRqQ2xnaG1XTjBoNWs3dVFGTElhN2dVZU5FSlB3LTJPbEtoV2JNRDZuak92WFAxU0dtTGdnYVpaa2QzdHhaQWFVNlFKdUUzdERPd1FkcFFjNjlfMmMtREdubU1UN0RFRTZVNzRndmhWaQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "John Deere Launches AI Assistant to Simplify Farm Data - Farms.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ3JJYkp0MURpYTFSTGs3aXVyOEd2V0l2a0h2LW9DaVZ3bmpHMXBSMW1TQUliSkk1UEFGSG5RX2RPdm5WZ3BGNmxWcUtteDUydnNKY1lGQjJwWi1YWXhERTJOZkh0U2ZVRWdIYWlIbXdVNUtiQ1Bad3lIbWx1QU00a09lVktuLUlidDhqWTN2RnpTWkxnTVBZdHY3cGRQYWFsblE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "John Deere Launches AI Assistant to Simplify Farm Data - Farms.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUdJOUMweEluQUQwaVhjVXk3Yjd2Q2pIbUt0RWwzVWJlWWNoVUNQRFNMVUVoRktOODBMTGdRQVF0ZGxxRHRidmZzMXJpaTVTVWhJc29uVXdMMnhOcGFwV1gwMTVaVXVfTWphcGhwS1VrMENrTGxwRWVOcS1BbV95VG9EZzMzY3RtXzI1dWwtOTZadHdYeEljQ3Rvd1BiYkVDOXphcA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "FICS® Introduces LoanLogix IQ™ Intelligence Software to Simplify the Mortgage Loan Approval Process in Loan Producer® - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOcDZBNXZRNjVLTG80YVk2dFZ3YllYSWM3Zy15TlliMkxBclJoRXktZFdXVktWOGx1ZmVfVWxKekJlaWUtNGRuZnM5WDNHZTcxZ3NHVHREV1VqYW12TGd4NnNETTB6Rjd5M0NTZWJISmpZeFgzVDRlMUtuZTRpeW9nTzZrdHFLQkkxbFA4QzBlbXlpVFBvWDVvVVRiaEl4ZEQ1VER1Qm1kN2ZpV0NzLWs1YW9wVVhqZEJtMC1HODhzSDhlRTY4SE9IazhEUS1tQWdMUDREdjA3NEI4WUdBOUNmcTZ3SzNVblN2Ul9GZXhneGRzM3FCbTBMWHRhMVQxY1ZJeDIxTjRzSTNmcEJuSVVxbHFKUWdNYmhTUTZweTNYOA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "FICS Introduces LoanLogix IQ™ Intelligence Software to Simplify the Mortgage Loan Approval Process in Loan Producer - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNU9LYWdyNWF2cFJtYW42OVpIazRKaU45RDZYSjR2NXRYS1dXQ19DTU5TR2ItbjZCdHNadFl3eERqSkdGblFkLW1tOW1JOVZ6dDJvLW90RFZGZWpRcm1HMjFTSnNkUzlxMVQyT3g1Q3ZWTDVqLUh4cHpfY29CX2o5REZYLTgtV2xFcGJQRWZMZHZaN0xLMmszZS1NNFhNNTFUSkZpNXQwZWhXc3BsSnV5YnJxaWtDTmM4WTNVNFRGbFd1YTFveUctcUJjYlZMajlvTWZReUU5RWw1Ukt4cDFoRGNTODQ1QVY5UkhlUGJqemNkd0U3cjktNEtLMkxrZHJL?oc=5"
@@ -559,6 +601,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

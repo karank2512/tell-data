@@ -1,13 +1,13 @@
 {
   "domain": "coderabbit.ai",
   "name": "CodeRabbit",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 20.5,
+  "score": 20.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 16.6,
+      "contribution": 16.5,
       "occurred_at": "2026-08-14",
       "summary": "Form D: $142,998,877 offering, $142,998,760 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2014393/000201439326000004/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-06",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/coderabbit",
@@ -68,7 +68,7 @@
     "edgar_cik": "0002014393",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": [
     {
       "type": "launch",

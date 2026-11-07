@@ -1,9 +1,9 @@
 {
   "domain": "statusai.com",
   "name": "Status",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 5.8,
+  "score": 5.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Richmond rolls out Trust Policy to protect residents' privacy regardless of immigration status - WTVR.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16SEVhNFZYNHprSjViYTRtdm5fYUpyM1lELWhWVm1JYjhqOXNEcTRGT1NzVDJPMk9PMW04a2hZdDdGbTJSMTY3SjduX3UyTUxLcXU5OF93eUxzTXBIMDFhV2dpNzVWOThQNDVEQXdxOU9Pb3MybDItMngwOTRtYzQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

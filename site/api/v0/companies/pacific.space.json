@@ -1,9 +1,9 @@
 {
   "domain": "pacific.space",
   "name": "Pacific",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 14.0,
+  "score": 15.3,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-25",
       "summary": "Pacific Union College Appoints [person] as MBA Program Director",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOThjMHY0bURqZVM2bzFEeHgyZ2V0MW8xbFdUaW94OUl2cUhFN1N0SmczeEJUWGlTYmRoM3BEZENkVmhJc2xBX1RjZlA1RDd3MTRua1ZYajJKZ1p5NDVZRGRfUnhJX2doallYeU5lX2gtdXpSRjZYbHgwalhyUmNPYWF3bFFibGl5Ul9iQ3VOdlY0VEVISzluekdyVmJBWWtnbjJjY0xpR1U?oc=5"
@@ -43,6 +43,13 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Union Pacific releases CEO video after federal regulators order it made public - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEh6ckpZVXJfSC1vOHZQTVIxdjdwQkppUllLOWlOb050eXpnWFhRRHBpSmdVRWswRElxR0xDVDN5aEo2RVVfUXdFczBxZmd5LTJjM2UxcDhRMEVDbWlGd0xITmd1TW1oYVhtRkFua1E3dXBUTkVPSENyZmlhTzJsa1FJbHhBRmJwbm1tRm1nTXJsdFZWTVZJM2dNZ3FITHkxNnEtcmRicDJvRU5XRU9DWtIBxAFBVV95cUxPZXNVQVNnSzdzQlk5d0hBVEY3WkZ3QWV0enBXX0dRcHpzLTh3MV96a3BUdTJsV3RUWWM2YWVPVGV6RVZZa2tQZi14Tjh5a2pFZnZmcnVrbWV2SWVTRlR4V0Jva0RScVFGSGhJNWNYZkxjQl9NRnJ6Zll0dmoyRnU1SDl2MFBLQ0ZEWVhfYjM5cV9yN1NKWXBtaDlWSWY3c01MdTVObmF6V0o5YWJEbk9pOXVIUC1wMjdKd2FxRjdNek1LWDFk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "U.S. Pacific Command Statement on DPRK Missile Launches - PACOM (.mil)",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTZPYzFGYlAzRkVMWlZzcllmejY5TndTSFVqYnAxcGRBQ29FbjVLMUNmd01GaGlON1BUXzVVdmI4VXNKNkdpVzZfQmtEWERVTXBPdDdTc24xU2Nfa3d0aGJqbkhlWDVxdFdseGEwbTFIeDhOd2dWcmtzWVljZk91Yk8yOGZiX0IybVF5eG5DWU0tZ3lhLUwtNkxlMGFaTjluNUNxX09WLVpNbDNWR1JvbHppRmlsaDhm?oc=5"
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

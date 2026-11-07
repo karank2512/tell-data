@@ -1,9 +1,9 @@
 {
   "domain": "getagency.com",
   "name": "Agency",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 22.8,
+  "score": 22.5,
   "contributions": [
     {
       "type": "leadership",
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "LifeSecure’s new owner launches Dallas health insurance agency Starscape - Insurance Business",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWk5pN0VMTE5kX29pZ0RxM2x6TnRQS0RQS29BOFlGU0hXUlY5b2I1SmR0b3g1NUNrd3dTTXR6djZOQTRNR3A2dlJQWHktYnVTTWZmTW9fQlJUZ0pOeUNDRTd5Z21FVFh4VWZhSERTbVQ4SEJCc284TFM5aU9nanBHNmRlVFBETEVHbnRTREJJU2JiRUZtNkNwN2RWQ3liQkxsS2ZMN1M3aW82WWl2SjZET2o5dzlsdm9EQ3N1NXk4QWppRUlTcVBRTVRNQU5NMU5WMnN3UjRiRU5QaGs?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Kawhi Leonard launches rebranded creative agency, debuts New Balance campaign - Sports Business Journal",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMFlTaTFzX1ZaZUgzNERXTE51enVBMi02TFFoZG01OXJMT2NVdWJfc05GYThoQTlnTWNzcHl0QTAyMU00VTdoNFBvclhLb0F0MFM3Sk9WT2pzekJTc3ZZWjFUYnlKTGVaVXVlZU15ci0ybU0tSi0zYW53UGt0ZjhNZFBTWGZlN2kzNnZQS2c0MzFwMXZtc0w3NGphVXRRYUZ5ZEdBVHdpaGlsWURoNFozSWl2RWVGTnk3MldCZk9sR3dXRW9UVjduNzk0T0RfWGZR?oc=5"
@@ -119,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Introducing the US Agency for Foreign Strategic Assistance - Devex",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSnFHdDBvZnhUTkFidDFFVGN0WnRGQnVwd19kR0NheDk5Yi1FWV9nb0hlMmtXS2pIU0R2Nm5kWF9VamRkUGlGOHBJN3ZOX3lfcno0ME10YmFST04wNnBVWXlPNFE5c3czYWNOeks2NVdFRVVCbXFIS2IxY05BTjdscWpiQWZMQlVWeGw4VXhnUkZfSnNGUkg0?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

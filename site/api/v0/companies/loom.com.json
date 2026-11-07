@@ -1,9 +1,9 @@
 {
   "domain": "loom.com",
   "name": "Loom",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Annie Selke launches new Loom and Legacy collection - Home Textiles Today",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdk5VQU9JMXozZWMyZU5VZ3VVN2doOGVNZTZHM0VGcDFPTXpJU3Y5aG5mcG56SjZNTGtPYS0tRDJRdVR6RmpfUjRMNTltaUJEMnc1bnpQSEFlcHBRN3V4QjNVdnBSVWJNYjlpWFFuOUNYaElDTXBVNmU2aU12aWxlTXE3eTg3d3JqQWt6S2NpSk15VllreVp2OTdYd2Qwb3NWREE?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

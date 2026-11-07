@@ -1,10 +1,17 @@
 {
   "domain": "usehelios.ai",
   "name": "Helios",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.5,
+  "score": 4.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Helios Technologies (NYSE:HLIO) Releases Q4 2026 Earnings Guidance - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS2ZsUndsMHcycE1hZHlWNGtoM0Y1Y2tCSEN0RjZ2NTdieGcyLXRxYWZRWlpGREN3WWZ6VHpKMUczMlIwTWtiSXRBT0tIWC1qMkRGeFdXOE9VYnpoVFpYTElBbEtTSmRWX000TXFyQzBxQ1ozc1ozbkRlZGZkQWY5U0VuV2NJX3JGM2xray1SQmh4blpPQzMxLTlVYVdRUUtPTjhhbzl3eFY4bzV4dzFHN2xDY1hiMUZpT25Rc05fWmdvdllBd0E?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Kratos Defense Launches $35M Helios and AN/SPY-1 Facilities in I - GuruFocus",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTE5KT1ZiYl90TUg1TFU4OVo5dFVUdFVGbzdUSkl4YkEwMUN4eGxhSks1dXZobmp4aWt1ZFYwdjlsU2FScGRhem1tLXJfdkQ5RjQ0Q2VFY3pZSnh2RmZVSVEyRXhuRV85LV82LTEwQ1AyZ0M5SHhPbHdFU2N1azVIU2p3MUFWRmFvTnRGaXpwQ213SDFMLV9PUTBPV2tLYUZuV0dWTFdvWl9JRXF6bDdZXw?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

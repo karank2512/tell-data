@@ -1,9 +1,9 @@
 {
   "domain": "usenarrative.ai",
   "name": "Narrative",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 14.9,
+  "score": 16.1,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-11-01",
       "summary": "[person] Joins S&P SmallCap 600 As Undervalued Narrative Faces A Fresh Test",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQlhqM3BzTTR3MC1iYlZ1dHhQVU9tRDFFWTdyLXlHSjNlQzdxUUhrVmlPNFBOM01mLWNldktHM0pCZXA2TU8ycUxIVWF3OEppMkpNQWxoUUp2YmpESU9WWVNBSnR5NWZVcl8tMDd1VFZZVWZMM21pa19MemRGTzAwSTQtc1hyeXVtVTI1VWFpNU1wenExeTYzOE16MWhHYkVoTXVMWG9PbXMwQWExWUlSSmstSzVjUVgtT3JDTERpSDlMM0Q1dG13NUYyeGhrZFdG0gHWAUFVX3lxTE4zbzlOWjhlM3luLURfZ0RQOWNVZ2FqcUR6QllmSk56VEs3QkdudFByc1dZOEk2LUZkZHlJNUVLYlRJVXNURHBkSjNVV3lMY2lmTGNLRjJQbXBHb1BrQUFLWU5wUDhrb1pveFg2RVBkSDA2eHFsSkdkcjBSdWUwNjlUOWRLcWhLb253SUc3M1B1djVYX21zZkNiaU1vejNjWFZxTXVkQ2FUdnd3dFdReks1N2laVENFWGdaOGg1MDcxWnpKV0xYT1ZjaDZaYVF2bHg5ajJ3UkE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Brazilian University Lab Launches Narrative Podcast Map - Podnews",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sLU9lUkJ2X0QxNV9jNkJ5bmRfVlRuS3pqS2dicHltMk83TXl3NWgzN0lFZzNBV3FpYnVzc004Z1ZVMTNweWtQTlZqRHQ3aFVDci1TMTFCV0NJT1ZmZ05FUEJJbXhqLWFqSnE5WEY1NA?oc=5"
     },
     {
       "type": "launch",
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Will AI Data Center Launches Change Marvell Stock Narrative - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOalN5Mm5tTzFpakFaY040cEUzRzkxYzE5c0Z3NUtmRUx1RGVmcnFLV0p4dk5aWm81X0s0OVdUSmVQOVlCT2pheEF6OTFLRl9JbHJabXRZLUV2MHRZbktwN2t2dC1BT0g5N0hMM3U3akZWX0ZVbk40Mm9mMkR2RDJVUVdybjZpYklDT0pVMU1TeUhRQnVsQlMteFJB?oc=5"
@@ -63,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Ren Genevieve Releases Narrative-Driven Sophomore EP - NYS Music",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0R5dDZkZi00RU84blpScmlIQ2pGa3p2WUdsQ1NOc0FpUElaNWhLSU01MFAtRmhEX2ZlLTBScG1veFk1d0hTZjFxbkZJWExPMFg5TzRxTUM0Ylc5aVNrSmF0aVVQdzN6TjMyaThheUlLbjFzV1NkN21tYThtbzlIX3d6ck1JRDE3dFpfUmJn?oc=5"
@@ -97,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

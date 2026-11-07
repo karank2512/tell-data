@@ -1,9 +1,9 @@
 {
   "domain": "nowcircular.com",
   "name": "Circular",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 5.7,
+  "score": 5.6,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Asia-Pacific Circular Cities Forum debuts in Yokohama - The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0xKZHhqc2Z6TVFGTGFYME15YVZJclZIb2xKZ0RiV2ViN21jdzdKbFVYR2dwM1BOSXBvblB5SEJOVTFjQTV4LTB3anlLMEVBTm55b05nWkVqTUFzZnY2ejFkTzV0LTZwRzc5dWg4V1dWU0o2T2dLS2VYejk0VzVWdmJQZWVCZGNBZ2Z4ZFRsTkZPNFd6ZGhPck56d3JmU1Vlc2tpdjl5ekRMcU9zbkpydQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

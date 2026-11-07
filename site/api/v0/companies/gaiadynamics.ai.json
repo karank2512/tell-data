@@ -1,13 +1,13 @@
 {
   "domain": "gaiadynamics.ai",
   "name": "Gaia Dynamics",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 18.6,
+  "score": 18.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 18.6,
+      "contribution": 18.4,
       "occurred_at": "2026-09-16",
       "summary": "Form D: $8,585,054 offering, $8,585,054 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2155141/000215514126000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002155141",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

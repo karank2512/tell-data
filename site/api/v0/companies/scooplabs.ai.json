@@ -1,13 +1,13 @@
 {
   "domain": "scooplabs.ai",
   "name": "Scoop",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 1.1,
+  "score": 1.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "SCOOP: Mike Pompeo launches advisory firm with roster of national security veterans - Washington Reporter",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2lrNVZzd3R3ZjJGSlVqdGI2MjdOV0xETldXN1lQUEtTQU9qSkNsMDF6YnE5a1EwUnF6VXl2Q29BRVpZNUdEallUaU0xZk53YmJKbmpIVkRsR2FyeXBmWVR3ZnlzUVd4LVFMSnJYdGpkZkFQWGxlZ0ZNY3lUYmxTX29ReUJGXzdRdWF4bEFDc3VTUFc3dUFETzRqWDRvMFJyemlqOUZWelpGaWRGUWRzaUJ2M2FVdw?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

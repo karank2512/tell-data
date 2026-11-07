@@ -1,13 +1,13 @@
 {
   "domain": "heypocket.com",
   "name": "Pocket",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 25.4,
+  "score": 25.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Dreame Pocket Cake Hair Dryer Launches in Australia for $299 - Digital Reviews Network",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2Iwckh2X2hHVHpiZ1F6c2dlbVlZM3c0eXp2SkEzVHp0Yk44WFh1MWc4ZUV4RkhkM1lXcmpEMll0RUhFNl8yakxXZzVSM3BMTU9MZ3pYdTNCdDlnbFVuTEtUS3pMXzF6WnJfbUZoZDRUZmFFSE5NdDd1dm1VSnRIMUhPejN5UUZQS1E5a3lB?oc=5"
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "DJI releases the Osmo Pocket 4P - Capture Magazine",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iWFpPRWgtd3NmTmFKbHZRcTFvQTRjSXdPYzRLZ203R3FvYkEwZ3p1MUlwQklTVm85SnZUMFZrRjVtQ1RjLWFUdjBfak9hcWxtQ2l3VENWVkM4cGRjUnlzUlpHcE9KS3VycXJxQ04ycUJDcDZ1?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Pokémon TCG Pocket Debuts New Typing, Special Promos in New Dual Fusion Set - Crunchyroll",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUFPcWNjbnd6VjgxWDhmdUU3UjlsS1QwS3VPMHlzS3lUeHZCRkhrSmhyenl2cmxOVE9fOGZyVWYybkphMWtsX2JOb2lWdGl1NmdxT1VXQ2lPNXh0SEQwdmwtcFpMcGhtd1lpNVNIblp5aEVheTNXTHZhOHJpWnhyR2t5OVBoRHlwMVI4bFhWTW5nbVFycXQtMmtIYw?oc=5"
@@ -126,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "DJI Osmo Pocket 4P In Pearl White Launches October 20, US Gets A 404 - DroneXL",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRJVnJ0ZXl6RE1SYkdqbEgyd1A1OWpSTndiY19qMDg3MkhmMTVKUC1mazAwRjZuYlI3V2lyR3RQOFpWcVN3Q2FlRkZlOUZQR09IcmRzVHFzaDNIS2t3QlRXR04waHc5Q1ZzV1FSN3c5QzBvTEgtTlFFMTFudy0tSG9EVTFmdw?oc=5"
@@ -167,6 +167,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

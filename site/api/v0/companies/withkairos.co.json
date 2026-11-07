@@ -1,9 +1,9 @@
 {
   "domain": "withkairos.co",
   "name": "Kairos",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.7,
+  "score": 11.5,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Airline Fares, Rebuilt by AI: PROS Launches Kairos, a Platform for Dynamic Offers - Travelers Today",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcDAySU9feEtzQlJBRGR2VURuOTRyUXByZUVHYkN3c2FwOGVhYVdWR1JYTFRNQ2l0Y1dtTVlaYm5sQjhJVWVKQ3EtaGdCOTNZeUJjTU5aS2ZZa1hjLWI5NkRmbkF4RTQ1OG5ucFRlMS12YVdOUmVOMXFtV3pVcVhSM2xSUmpUdXFaTWtGSlJfaDd3Mi1iSVRXZlc3LWV3Y2hPVFFHVzIyRDZDWUN0NFVUYzNYbGFhdlNKOVlna2dTaGRhcXRzWVd3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "PROS launches Kairos to advance modern airline retailing - laranews.net",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GMkVkSGs3OTFqVVNaTUIwdkptM0xFSUFVTUpETlRzWHhiOE9LcmgyY3ZsNk5rY2dKdEgwa0xUVjkxdVp3a05mUXlPdEpUenRDdVF2VTFTVzlvNzhUTEdQcUlPUHNBRy1IUjZyMzR2QkVPcExBZ2t2Wks3Y0c4dw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

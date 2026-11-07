@@ -1,13 +1,13 @@
 {
   "domain": "westwinelements.com",
   "name": "Westwin Elements",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 23.7,
+  "score": 23.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.1,
+      "contribution": 20.0,
       "occurred_at": "2026-09-22",
       "summary": "Form D: $15,000,000 offering, $1,000,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1952008/000195200826000001/"
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-26",
       "summary": "Westwin Elements Appoints [person] as Chief Legal Officer",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObUNXTnkyeWh1QW5mNXllNl90cHk2RTdOc1RKZmFrUG5Ncld5RTVzMGJlemxocV9MMHpHV0FIZTVXRklScUhMaE9zNnp0MzBLSTRIMUtMUlBKRXVQcU41LUljaVpQNzNab0QzSlZzdVdRcHpWakQ1TGRRNkRZV2JkNnhGOER3ckJrcVkyVGFlZjJJVmotVDFTcHN0V1hJdzBt?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": "0001952008",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

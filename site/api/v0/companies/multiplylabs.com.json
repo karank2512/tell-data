@@ -1,13 +1,13 @@
 {
   "domain": "multiplylabs.com",
   "name": "Multiply Labs",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 30.4,
+  "score": 30.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 30.4,
+      "contribution": 30.2,
       "occurred_at": "2026-11-05",
       "summary": "Form D: $52,250,260 offering, $52,250,260 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1690573/000092963826004235/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001690573",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

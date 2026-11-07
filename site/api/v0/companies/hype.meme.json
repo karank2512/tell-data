@@ -1,10 +1,31 @@
 {
   "domain": "hype.meme",
   "name": "Hype",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.7,
+  "score": 14.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Kentucky Football Releases Pregame Hype Video for Tennessee - Nation of Blue",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGdGTFNLRVZZMTEwYmxpY25qRGVQTjl5Y3hOT0hNNVFqX0U4V2VFNEtValNoTnU4V29LOUZLSlEwYTRzZURScDRxd1pnTzhJa044d1dyUy16b2JqejNPVHFPUDlJSEYwTVBLZEdBMVBwUTBnczRhQXJoMUdnbG52UmwtLUVNUHJ6SkVENHVGNmZvZFE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Notre Dame Releases ‘Faith and Belief’ Hype Video Before Prime-Time Miami Showdown - UHND.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEFDUVZUczRpbXhlcWV6bnRwb01xd1JldUJjZDhid0FGdVJ3em1rbzRUZnNUVV9hZjdHMmhuRkJwRDNxdGxvS0FhelZxRVJfdFNHa0FwMS0xRWwya3NOYlllMU5LZ1RIRHhlWUxqSmdrSExvXzVUUmJIUW5BOXdfN0tTOXVtcWVDTHcxRGMwdHBSRzU5bDJvZU5yZGlVZGFCek9uemxHemc5M0hhUU5vZUxfWGJDVGUzOXgw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Notre Dame releases hype video ahead of big showdown versus Miami - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWwxMjJGclVRY2ExVkpQQ05ObWxhZUUtQXRCai1GcEg0b19aZ1NrWC1qN19JTjEyOXR0eTk3R29rLVpuU3lKamxYZnJxbEZwcFpJRDdmWjJTLVRGRXVPR001OEhxb1BIUVc2UDZTTUpOZm12NUs3R3hwZ0NqVUpxdWpibllaQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "'11 as One': Ohio State releases hype video for Indiana game - WKYC",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFR2WEt4ZXUxVGlubUw2RUtFWVlRZ1N1TzM2NFdBZFhIMk5xbWh3a1FQZWRsa1JkQkdpcFlmZ2xsV0xQTW13Ni1yYXFrbDBqQnBfTmRYMUZONlpra1Fia0NyQTFHbmlKU2ZJTmZNcmtEZS1fdHhKMlVsZl9rYWJPZ2NjSi1sSGVxT1BmdmtrcVNKTGJrZkdnUXlPbWxCZUxmaFhxNDdjUHZQYUJ3TVpnQzMyTENaN3FtTTRBN19tcTI2X0E4c0ww?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "The best video game releases of fall 2026 — and what's worth the hype - qz.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kTUoxUVN5Y2ZsNFc0VGhfdzhPZjk0bmZMR2JkNmhEWFVTOFY3dzJwQ1p6ekMxZVdYRE96ZnRhWEx5WTE2blhleGxtd3pRMXYyODdha0FNbUxRR0s4aHc?oc=5"
@@ -69,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

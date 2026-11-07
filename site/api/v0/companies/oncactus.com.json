@@ -1,10 +1,24 @@
 {
   "domain": "oncactus.com",
   "name": "Cactus",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 5.3,
+  "score": 8.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Air Jordan 4 Purple Cactus Jack - Air India unveils new brand identity aircraft livery Company Business News - auroradesio.it",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iMFlYc1FOSEtxV281SExZWUlRbUM5ZHB1dDJzS0hJRERPVURvbDE3TlZRaG9wa1NTd0JFdktYUDBmZEVkeV85ZGJ3XzRsYkdBZWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Travis Scott's Cactus Jack Debuts Vice City Uniforms With Nike Ahead of 'Grand Theft Auto VI' - Complex",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWZYWVFBMlcxYmlDZkFSVElFR1pXMWlPSGZBOEE2QnlPNnFxVW94SUp3dXZDb21wZExwZVprRXBwWGdGS0pRLXZzY1dfelVNc0x4dGdRSlRNNjR3SXl3cG84MWdUUVk0UDlSQ2tMRVFsMWllellkX0M4Mk9oVW05bkpJWjlHZjRSUFVVQ2FuVXUzQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Travis Scott’s Cactus Jack x Rockstar Games x Nike Air Force 1 Low GTA 6 Pack Releases November 2026 - Sole Retriever",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV1dNQUlrVEFaMXQ3QWNYRWcyTUYwLTNpNDBKSzAwelNUTFVEU25rbTNuOU9iRWx1OElYN3AxUmdDTWFLUHU1czlJWm9LLV84ZC1hR0dyLUs4Z2V1YnRXd0NyQ3FOa2EwR25iek8yQnBGa1BTal90V0NyRUt5Q1djaHI0WmZLOS1qMFlpYWNwcVBVNWVPS1BLTHlsVEFIZlo1eUprYlVHRXc4aW1nMGpZZlVkODI5ZU9oU0Mtcmx2Z212aXlOZlNYNVNJMjNaTXo4c08zaDFVUmFiZw?oc=5"
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

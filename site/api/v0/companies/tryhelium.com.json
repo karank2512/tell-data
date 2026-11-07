@@ -1,20 +1,20 @@
 {
   "domain": "tryhelium.com",
   "name": "Helium",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 8.7,
+  "score": 8.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-05",
       "summary": "NRED Adds Almost 100,000 Helium Gas Analyses to MetalCore Following DOE Critical Material Listing, Appoints [person] as Director",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWUF1WjBGRElXb3lrQWJBSjdGbS1oWko5VG9mNTVNTTZaamVHRllJWl9heDlleWxoZS1XR09ESkFybFViRTJFRWVOWm9iQl9WdlVnSDg0LW1HM2loM3NkcjdEX3pwN3Vvcm1mSEM5QWE3bTU5d0tjNUdTa2s4M0FGOEtrVzhYLW5kWUhBUUJUWTR3TjZzYXRMbEljZDZMdlduZ0lCNE5ObVctVXpiUGRDQmpVYnE5czNhb3p5aUIzRXZyQjFLMkpHX0lkRkF2bXhTOFNVMEpLLTFBRFZ3SHFxNnJIYllVWkp1NnVIbVllQV95MjBfRU14VDRyeWNiYVl5dlNGWll1YWlkMkVh?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "Noble Helium Appoints [person] as Director, Holds 8,265,077 Ordinary Shares",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQem5RWnBKdUh6cjNkam1lVWVLdHVCLVpUZkdvakJhZTZuYU1tZV9ZWmJOTTJiYmNjWjRKR0RpUUI5cGJKLWU3MzFiN2tRS1JFRTNMS3NlZ2JmX2FrVnBvWmwxZVVfUUZ1WFNPekZFNXVaSWFYTzU5VnRtSHFkQkVpYU1jZzZIaXh2REdUMnhmTkdoX0N2VVBqemM2QUpobXpsVUdYeldFTlc2WTFNcUUtYzRiSl9rdDhL?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "spoken.io",
   "name": "Spoken",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 8.2,
+  "score": 9.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "'Voters have spoken': Tim O'Hare releases statement after Alisa Simmons claims victory in Tarrant County judge race - WFAA",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZlpkX0V0dU9aUmpjMmxuNERlX3g5T0xwamQ2dnhaeWl5bjBrWDhUcnhYbFYtVFpJX1ZSY2JjdlZxN0lQYTJlVE9FOHYwREkzZFI5WmRpREVXS0NNcXJBVlNRYW8zLXhZUEkxNGhBOUZrbU5taENCSkltdnJPaWNjdVdMdlY4a2hvU29NNExkRlhmMW1BY0ZkZlIzbDljVXROVENfdHZDeWthdjVFNkh3MGF2a2V5WlVLaHlzZ0wtX25TUzRXclU2NGhKZTdCS0xLNXZoa3oxZUg2Yi1MX0dmbUlUek0yTFhUM0NJUTByMjNiRGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -56,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Palmetto Publishing Releases Anne Elder's Small-Town Mystery Novel The Silence Has Spoken - Lelezard",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNG1nRUVFSTNVaXFWVER5Njd6UEtESDYyRVlQeEhEOUFTbTltc25icHRudzI1N0xQWFFKZW5BXzluNElMUFJxMGo3RnN5djZLYzZoRkdHQ3NkRXlfbUgwYlFGTXJvQVZ1OE9JbHc2YXJXTlN3eDdQRFlpU1oycmlZMENJRnR3eUFoSmZhZzY2cEFlWVFKOHJJSWpBVG9CZUNYYklKckFScWdRLTRMdUwtZTJnbnZpazhybFBwLXlLV0JITEdlRTk4b3RhUUxzbklGeGc?oc=5"
@@ -69,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "powerus.de",
   "name": "PowerUs",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 14.6,
+  "score": 14.4,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Powerus (Nasdaq: PUSA) Unveils Fully Autonomous Drone Interceptors at AUSA 2026 - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0ZIV05CZUd3WmVmdERkZ05XN1VUVmZfYy1CTjU2eFN1bTJzdTNrY29YTTRVUTZBa1h1TGI1d3d4Wk9fMGFqMDFlV2J5b1ZhcklHNFlxRy01bHlGN3d0QXVQRnJqRzU5UXBKMGZVckRGOGNDbWtDSXJ5UWN1OWlOVE5XQjFaU0dydnZDbDhnMzlKYi0yU0pGODY1bEFXcm9sZ1NJdkp6TzNhQ0ZXTEFONjFUN3dHdXFqOWJNTU1vanJJX3pCZjdTX09qUmx4UkszdGx6bk5TWFJrVE0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Powerus unveils Guardian-3 fully autonomous drone interceptor - DroneDJ",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hZVdZVUEyTV9VVERfRGZVNjFNS1N0aGhLWEhXVnM5bnZiQW1xU3JUUDBPalUzMVZacXlkanh1bzB6YVg3LXBPUGZaZzBHaVVnQmluVXhMRzhDeTVLRDBHS0prMTg1czVRQWR0b3hfeTgwdw?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

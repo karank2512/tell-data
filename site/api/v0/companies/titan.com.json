@@ -1,10 +1,17 @@
 {
   "domain": "titan.com",
   "name": "Titan",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 16.9,
+  "score": 18.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "5 Titan Manga Launches For Summer: Gods, Heroes & High Spec Marriages - Bleeding Cool News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU19WQkdHa0FlMFVpeE5sdTVHemZQbmFOdXZtSkdNdWFJdlo3OGpUWDFEUUxvZWItZDJRODRxY29lOTZEcHBvUzY1MnFnelNqR0pJY3FXRmhvTnhwQXZVZnRrVTBSa1I3WUh0SUFnUFRNLTZ5X3o4enBtVjR4RVlRUEJ2WUMtaFR5V1c3WXpEaV9WSzJyZzVDbnh6eWhCVjQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Introducing Titan Royalty: Meet the 2026 Homecoming King and Queen - wcn247.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVEtCZ09HSjhscXJ3M0lxanBHQVczVFRVSHdvaktmWTItUVNRT1BKQTNsQWh5NXhQdjR6aVlsOW80dzBqU0RkeVNBQ1NPcHVTWnpqeEcyVWZLTlZ3WGp2cUpSUTM4R0NpVUZ4ZzdhcEU5ZGdGMGNKUkFxcHJXWVBlNzFreDFuNDNxa0k1allkaXBkRlNyY3RsSTFSXzluRkk5c0o2S0hKQVhhVXpSNm85aGRmbWxVUjdxWnkza0czaklMYVBVVzJIeDhSV0VSRG1CTGtpbWdtdnR5M2RMZC1r?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Titan Wealth launches financial planner academy to promote diversity - International Adviser",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOREpGckxSb2VHaTNNSFlTLThtTDhGX0FZWnFabXNwZF90U0p1Vy1YZjFwNnE3RWYtbHFCR0RZYlczRFRzUWlxVVNNLWZISWdraWlGaDJqdVA3a0o0MklQeEJmWXpBRjVsbnRCaXozbk1rWm16T3QyNmZVT3FnV3RiOFBqZHJXdTZZWHBmRnAxWmx6U2d1V1NRODNkYk1RcUktbkxGdG1oMTlULWc?oc=5"
@@ -84,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "EXCLUSIVE: Titan Manga Debuts 1st Volume of Revenge of the Rock 'n' Roll Sisters Manga in August 2027 - Anime Trending",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemtrYjkxTFBHTk5WMURXd0lkZVVhbVZJQjJjS1BRT1Bob0F6R2FJMWdOSFVGTTdybWk2SmNMR2RralFXN3RDelNoMWs4TkxuWEFublhYVFlKc2l1NkZla0R0TlpzNXU5TVNHX3VWUHhaTl83WEJjeHY3bGpGQnNsNGtnbGh4d2w4ZHdHdkYtUnRCbVZNXzZQRy1KVmdoR19FQThLQmtlRWhFTmJLT2pPMUdwNE56ZGlIbnNBOE9XcFhKeGxWTE9JR25uY08yQWNZQXo4?oc=5"
@@ -111,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

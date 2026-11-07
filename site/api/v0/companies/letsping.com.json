@@ -1,13 +1,13 @@
 {
   "domain": "letsping.com",
   "name": "Ping",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 15.4,
+  "score": 15.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-26",
       "summary": "Capstone Energy+ Appoints [person] to Board of Directors, [person]",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekhpZjh0SjJ4Z0NkV3UxaUVYemtidU5tR3RSSHNFdUZiUkRCeUFYbVVqUnZ3MUppa0Jla1ZJbUtlYlpwMTZyWU1JNWU5LWR5WEo2dlliVGlsRVIyYUVXaTJad3Y5T0txMlV5aS1OVHE3OFBXdDViRDdrUE1YaUFQdDV4RWt3dEx6SHdET1VkSFg0YjlSMWViN2NOd2dsNEdZRjVjbDRoVElHejBlNkZpanUyQl9JdlZIWlhGNVlteFk?oc=5"
@@ -77,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Ping G10 Debuts on Tour - GolfWRX",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DWmZaZVN5bVQtZjdXUlhRbFpyQmwwR215MXdvWGptbXF3YmVJV1Vfc05MNmZwbE5UbGhvQjdmMWtsaHpZU1hNVnk1SWx6TFAtZFdlemwtdjB5bVZm?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Ping An Insurance (Group) Co. of China Ltd (PZX.HM) Latest Press Releases & Corporate News - Yahoo Finance - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vSDR3SUtWeTh1MHZPa0FxRXVKN0ZXXzhjU05MS0VEUFN1OE5US1BiRE1XWW5JV0VSemUtVkgyQ1hIMmFCUnJCME5kY1VGSUVrWjhjYXBUeFRvNzR2LTJLNWtfaXdTeWhD?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

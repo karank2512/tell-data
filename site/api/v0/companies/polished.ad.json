@@ -1,13 +1,13 @@
 {
   "domain": "polished.ad",
   "name": "Polished",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Polished Not Perfect Podcast Launches as a Resource for Professional Women - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHpTamJ4bHh3MDM2RUw3MnFVbmJ1Wl9jU2RObDJvbVhvc0JiVVhTcEpETk1xbVNxV3QwUk5Yb3hBZzU1QTB5Zm9KSmh0aW5jb3Z0cV9RZ0lrRWcyWDM0WUFJQUNZN19BTXB6NWozU0d4MVZ5SmdlZnByTjFSTUJNVVlxTFZzM3lWSlpaSFc4LW1hMHJWc0gyanRXeG5xN1BGeHlTWUtGZ1Q?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

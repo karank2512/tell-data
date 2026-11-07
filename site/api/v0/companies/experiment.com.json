@@ -1,9 +1,9 @@
 {
   "domain": "experiment.com",
   "name": "Experiment",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Student-built SCAMPI experiment launches to the International Space Station - European Space Agency",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVJaOUlmTTJDVklQUmtxYWl1cktqWS10YVJaZGtYcmtFWmhZSEpJM0VhR0ZKalpWbXdpOHZCbVF1ckpUOWlfOWx2ZEs2ZmdFVk1YX2pRUWZETV9WazQ0V2J6UVhuZklKUGxwNHk2ekFwZ1hfQlhnYjNmdjlhVTRtbFVFQnBrY2I5cXlZSHE4MkJzZnhFTF83cFNUZEFSb3RKSHE0WndzX1QzQUNiaUlsOGE0T2JfZE5iMUdPOVZ5R0pJLUMtcFFGeUp4MEJTTGRRVVNXWUpR?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

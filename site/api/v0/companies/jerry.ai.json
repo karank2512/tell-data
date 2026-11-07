@@ -1,9 +1,9 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.3,
   "contributions": [
     {
       "type": "leadership",
@@ -77,7 +77,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-25",
       "summary": "Jerry Jones Opens Up on Possible Troy Aikman Role in Cowboys Front Office Amid ESPN Uncertainty - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNEktcmhGZkVETTI5QkRuWkY0ZXIydjlsa2REb2tsTGVKTEJnT0dsOG8zZ2IxcFdObjJnM2FIU3pNSEU5NFpxUUJ4LVZDV1VCdEtST0pQWTR4eTdKaDVUQTJpQW04TEZjU2JRNVlzc3hrbzlrRE01MVhXcjNiZjNVQmJrZkVWWlU?oc=5"
@@ -90,13 +90,13 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 34,
+  "open_postings": 30,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

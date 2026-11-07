@@ -1,10 +1,24 @@
 {
   "domain": "cloverapp.co",
   "name": "Clover",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 18.3,
+  "score": 20.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Black Clover Creator Tabata Unveils Asta's New Strongest Weapon - GameRant",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEbHFYazV3UnVhTVpOOU5BUEN4YV9DTWhCX3Joa0d6aDY2RGo1cVUydENHVDJmVTNBVWN0Y0hLREhWSUozRXRLd1czWmNPTi13a0NuUEV4VzJTaVZmeEFnZjRmRG5QTTg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Clover Health Investments (NASDAQ:CLOV) Releases Quarterly Earnings Results - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDRJNlZwWjgtdWFCUFdiZW5DLXdIZVJQSEhSUFJscjlDVGRwUGxlclpRMUFLMW5GcFNCSU51UHoyamptVzhCOW9PdXhOU2xxd1J2RTRhZGY0bDgtbkR2Q2dDb1QyMUFSVVY1bWp0QnVrUUNwWFF2NjFNMy1qU2ROblRGZTNrUFlIRV9ZSVJBbUs4U0ZxNU1BSHR0dUlfcnBrMks5T2ZlM3NTeExNZmQ5RVQ1eFY4b1I0OUVTaHRkVzMzcWZpdEVpUmI4aTFnZVpOSHc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-27",
       "summary": "Black Clover Creator Tabata Unveils Asta's New Devil Power - GameRant",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16WncwWUw5YTdzbUZaeE1Vd2FZaU9nZGt4ODBQWmN4TEhLSllYbTFTM1FLRWxBWEppeThxTmpIRk1yOU1XZGpoNXUxQjdlRXE5by1SNnRuS3R5VVRHSVl2dEZR?oc=5"
@@ -84,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Zitro introduces new Clover Paddy slot - InterGame Online",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVzVKd25jYWMyUzNxcXdOaXUzR1RxTzBxc0Exc0hOZmFUT2xwUDk2aFVHcDFhSzBZaEVlZ1NRa25zalBHYWFIUzMxaEJzOTJXRFZ3RHliVTFtRzl4emdoWHZTaTBFNXVTc2NmVjZRX3p4UDdUbWlMeU5FR0tEZENfZTJibjFQZ2xlVXJtSTk2RHRhWFg2bW14VXUtTWtudw?oc=5"
@@ -112,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Clover Health Investments (CLOV) Unveils 2027 Medicare Advantage Plans, Is The Stock Still A Bargain? - Simply Wall Street",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWVVxWWxYbU40MFNrbFBTRFB4MzAxTlRyZFV0ZEVINHRSMU1IREpWS1dRLW5zY2JaT1NDQmg4N3c4Smt6YW8weENCNlR4R2FfbTZEQUJIdmN6alJKczRoU0l2RzZwM3FPWk9CcEp0QmFIQW4xSVJMQW9DWjFLSDRUTmRzLUdscmlrbUQyMnVVVEJ5TlJybXA2U0prekxtVFViTTZfSHdMbzJCQk1HSl9wWE9kYTFaMFBCYlJFbE85dVRWdXkwcFdaTGhiTkNIR25CWVlPVnlXckg5Z00zMmtV0gHkAUFVX3lxTE9uMkZWQm9LNW9PVWo1RFVnS0dvWWMzaUhERTRSVWNNY3lPLTd4aExvclgzdkZqMWM3aUpwR0hrc1FHQVFaUzg2T2Q0N2VjdGZKbGc3X3V4Q2ZZTVJUOW5RM1F5c2R6MGhxUlROcHJJUHBFN0NQSkg1MGxqLXItOUFCVHZXd2p4OWlELTJYTmJ4aFpxcDBaQU5SNmprMjRhUHNmOXAzd3RoZk5vczhXUEYtR2dwUncwdTZpMGYxWVZndUZNaktSOWVmNUhEcWU1Z1NmanNIUDFHLXlLdnRRa25hNmdWWQ?oc=5"
@@ -125,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

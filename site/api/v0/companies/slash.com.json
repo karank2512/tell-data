@@ -1,9 +1,9 @@
 {
   "domain": "slash.com",
   "name": "Slash",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.6,
+  "score": 10.5,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "FIS Launches AI-Powered AML Investigations Agent to Slash Bank Compliance Costs - FF News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQzd4WV9YaXdRclFrNUZrbzllbXhrTmRrTjNzMi1pZ0Y1NWZTd3dVeFh6YXFZQmlLQzYwM2d3WkRjQVFuTUE4VWt1SmFnNnBzVDNqeEUwNklMQ0tPMEV2VndpN2pMQlNoZEQzOC1seC00amJGTUMtM3lfb1M1cTV5OU1VS1I2c2FBXzI3TTRWVXhYWmNtZktFWFU0c3JHNzVrX2sxckhCa2g?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

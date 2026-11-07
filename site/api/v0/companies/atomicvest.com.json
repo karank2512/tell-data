@@ -1,9 +1,9 @@
 {
   "domain": "atomicvest.com",
   "name": "Atomic",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 18.3,
+  "score": 18.1,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Seoul National University Spinoff MSI Unveils Multi-Head Atomic Force Microscope for Chip Lines - Seoul Economic Daily",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXlwRENGUF9rR05rcHNYbTRPOWE0Ni0tb1VGbExRWTFaaWxWbjR3X3lZS0VVcGdhVThuVVBkTXg3U242TlhxcGFRbXA0TmdtRGNRMXZpSVgyM0NLNFRqWE9wWGZhMG9mY1ZNd0R2TlZHRElTa2t2dHcybW5UWnhnZGRPdklqbjZoMzNBSWFOMEVSZDJINGVEUTdYU2RZSm8?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Atomic launches 2026/27 skiwear layering collection - Sporting Goods Intelligence Europe",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1hRSmRpdXU3Mk11aXZJRU9CSFVnUmJ6N0E2M1pjbXhGdnNCdlZtdXFlUmRTUjFOblhlSnpXRmd3OWJ6cExWYzVPcVVIYTZvSW9kcmowM1VHQW5zRDh5a0oyRGZKZURQaml3NWZDaVcyN2YyT2plalhkSEYtR2swUGU1NGlwWHpyR1VYNmhjYXNwenlMTFNnaG02TllzTmN0WEE?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

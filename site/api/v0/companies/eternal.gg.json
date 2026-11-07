@@ -1,10 +1,31 @@
 {
   "domain": "eternal.gg",
   "name": "Eternal",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 16.4,
+  "score": 20.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "\"Harties! Thank you\" HEART OF WOMAN releases first mini-album 'ETERNAL FADE' today (the 5th) [Q&A] - 스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02Vl9OZHZWLTFOQkJySUZ6dmNrTERYR0RmcFo0aERKMGR6YnhqVnpBWHowMENCSGZBRXZ3Tkl2TURUeFhlOVBfc2RIRWx5UEFMVkxNQmdGbUJyNkZKMmdnWmxHeUFYeHNJdHFfLU1nczBmMlZZMUFFdg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "NVIDIA Releases Game Ready Driver 621.14 for World of Warcraft: Eternal - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDB5RXE2THlPTEFYNlBnX2l5TXRLYjVySTJJcEw3cXJ2VDlGempuUW9Nbi1TLTFsTTN0dG1QY2swMDFhSnRLT1B1RE50VDlFa2pRcFZkYTdNVVd2ZDNPT21xcWJtT2J5ZUlDcURma29jbTFXQVRIV0dYRnNuR3ozeG1lVVRKbC1WSnJmeFFOcVJXY3RDQmlud081X1FpZGdpcDZ4c0ZESQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Egypt's Grand Egyptian Museum launches immersive \"Eternal Sun\" light experience - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XNHRiTE1rMlU1ZHlncFRqNUNXcFRod3kwdjdQa1l6aXNLZHEyaHpfeDJINExVSUh4Zk1oLU5kQWRGLXZYY0lYRFlXMWJuZlpaWG92TmxESWxNaEw4VDVDQkdR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -84,14 +105,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Eternal Unveils Privacy-Focused AI Platform Dark, Eyes Global Launch In 2026 - Inc42",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEZpUm9QYl9ockpkbnE3VU4xeW9XenFjZG1tZU1fdmFKNkE3YmMtY2VtWklKUGdNaEVyakRUSkZwc0xnQ3dHQ2tVX3RFdmpaN0dWWHJIS1hraTBla2dCcFJrYnF3bndVSUVwcmZqMU9HbEhrWUN0emlKUElwS3hScFo5V0QwQ3FkWnl1b2tiQnBVLWpmOEhKOFNPM3NyMHhZ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Akira Back Debuts in the Eternal City - 360 Magazine",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwM2xKcHNWNFJST0RhLXVsSXJVaXotTFJPYjJYOWVOOXowbjZyT3dmZUlObkc5bTV4WTdUbjhsYWdmVFhCeGg0RmcyanJtR1JwUnM5cEpvelpmR1hYc3dmNk04aTJPckh3NHNHeEQ1NE9yUQ?oc=5"
@@ -104,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

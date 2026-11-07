@@ -1,13 +1,13 @@
 {
   "domain": "radicalaero.com",
   "name": "Radical",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
   "score": 3.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Radical Numerics Launches Omnii-1, a New Generation of Biological - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZy0tQWdjbjAtRGFOOVphRXJwS3dES1hvTVJlSVpHNnhXVUROVy1jVzdHckFBX1hlekVfVmdUTl9tRDM1bmpmbUNwY0lDUG5XWEJodzN6emJLSFMwT2FOZGN2MHNIQVZlWTF3bzcxY0kxbzYzc09HYmwydW5JUFQ4U0tQcEdHRVhuaHlaMWJaSHlFUm93WVZhVkpReUhNbTNaTXNkUjFZUV9SYTBPN2NTTg?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 1.1,
       "occurred_at": "2026-10-14",
       "summary": "Alfa Romeo Unveils Radical Cuorerosso Concept During the Paris Motor Show - Hypebeast",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVTBPRVU5eURfSXYyeXNrcy1IT2pLMFp3VldvLWE2ZEkwMy1MdnIyMWJna2trVjdmemNnV1Q2TWRBbzIwUmtNbl9yQ1VnXzZNUHNiTlZuSGhjNXNHZmhDaTB1Q0dXVkRicldybG4tWV90UTJqRV9saFoxa2doNDdQQUl2bGJua1k?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

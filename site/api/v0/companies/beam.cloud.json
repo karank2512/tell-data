@@ -1,9 +1,9 @@
 {
   "domain": "beam.cloud",
   "name": "Beam",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.8,
+  "score": 9.6,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Newark audiovisual company Diversified launches Google Beam demo centers across the U.S. - ROI-NJ",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEZvUHJsMHZneHE1Z2FfcGZjTG94SkR0aW9NTjJ5MnNGSHZFUHg3alY2bWJKR0RsX2xPTFEwYzd6MHNVc05WbU9JQW51NlVXb19DMWd2Tm9fX1FzWGtSc3dIQUxtWXhyY2pEZHdYWkVDaGZqZ05ycEVGRVhxb2E5TG1UYmNSejhSVDE1c0Jza2E0UzF4MHBMd2lUWFczalNlWFhJVENIUnlteFdBeHZzS1dIMHFQeGdxNlpwN2s0V2dRWGxncnc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Diversified Launches Google Beam Demo Centers Across the U.S., Showing What’s Possible When Collaboration and Immersive Technology Come Together at Enterprise Scale - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjVwMmVfaGR0cnlJM2lJZlZEMDlpS1RMVXlubVc1RzFnMHBoakk3S0RMaWpDMzdiOVJBaDNBblhuajJ2RnRkdkZ2bldXOVdGV1h0UzlKbXJaNTBsS3VDQTVzU3pHalNBT2pPOGg2VTFjYXVzY1UtdklBU1AxU0NZNWpzUlhQcHk3M0VZVWM4MGpXYV9xU1dtUjA3RjcyWUU?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

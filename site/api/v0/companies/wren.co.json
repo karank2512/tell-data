@@ -1,7 +1,7 @@
 {
   "domain": "wren.co",
   "name": "Wren",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
   "score": 3.7,
   "contributions": [
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Wren Introduces the Vessel, a New Integrated Bracelet Sports Watch - Worn & Wound",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFNJczVtalVaTTRaOFdZelZhRjVlQUhISUtIZm51ejlhU0hqRlUyVHdwRklzZFp5YXc2VGxLaFcyS0p6VHIzd2hxc1ItY0ZRalJhMUg0MlZZMkZMTHJHbmRpb19KMzJWb01wTWdkbjRGRXc1VlR0TGhXNkc4bWw4TDBOS1B5R0wwRE1xYWFfM1JpbXA4MWc?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.7,
+      "contribution": 0.8,
       "occurred_at": "2026-10-13",
       "summary": "Wren expands into new home interiors categories beyond kitchens and bedrooms - KBBFocus",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDNOTHRUX1l1WVh4M2I4ZkZhVF8tMG5OZHJjYW5WN2o4SFNUMFdLZWNxRVd2UXFHb1JXb0ZseG5YdFpMVDNyVkJoQlpXQ29rNlBYWl9aQUFoN1pPaHpNWTVnV1lyWGpZcnFyZjVHVmM2eDkzYnhaMUhXTloxX21vd0dRWmVsUjVlTHZaUVJ5ZmFoRS1MbDUyNklBOTdYUFFPRlk2bzVtTVpTODQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

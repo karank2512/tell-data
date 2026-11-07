@@ -1,9 +1,9 @@
 {
   "domain": "atlas.kitchen",
   "name": "Atlas",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 26.8,
+  "score": 28.8,
   "contributions": [
     {
       "type": "leadership",
@@ -15,13 +15,20 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "The Vatican launches a digital atlas of the Church's ecological initiatives and presents the fifth report of the Laudato si' Platform - infovaticana",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcU1IWWxmZlJjeWNlTThId0QyXy1RUklfOFIzZHYwUG91aGt5dDVuaHF3X25nd01EUl9lTU5VYjNjdkdhNUtEWjh4dHRIWjlreUhFdXZQU3V0cjRzcjFpZ1JXYzNRN1VoYkNXb0RycWZLVVFxV2R1c1pXS3h3cE1LTDh0T1B1d2R1S0FkZHM5ZkFQUHFXVVJCM1N0RW5Db2pLZi1RbWd1V0UzTjZKRjlFVG9CbDc4LXpvWFNENVZqLW9oNXdlSS1kSGI2cDJKQkpRc2Y2eWdIMUhzSlo5QVVNUTRuQWRFWnRuSWF6UTJDOWZzTk9YMDVHQUl5RG0wWmQ3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Laudato Si’ Platform launches Digital Atlas to map Catholic ecological action - Vatican News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdng5bWxOY1ZaOHZFOWRhcTd6NG5adl9JUDRWblp2dnV0S2dHcVFuVEhRMjdneGR1Rlhzc05ZV1gxOVFoQ1pISXVSLXFVZWVmNXZlVnBEaTkwU2ZUaE9TZzZxdEU5YzVoeDBGa3lfRnQxVUdXQmRUVUloa0xzcXM0bkJPbTMzcjhaaEJ2MWxNdGRRdkFqSEI0MENoa3VLMDFjNU5yWDlCVDUweXlUQUZENnhYd0I4UkNxQlU2X3dUY0pwM0k?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Acer Predator Atlas 8 Debuts With Intel Arc G3 Extreme Starting at $1,299.99 - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlZPZTRVNW95bGZlSDNUV3E2Wk03Wk5CWTFiZlZQcERJMFItQm9rWUU5Mm9iMFFQYndHZy1IbzBkSURxRV9TSk14a0tZbkFoWXpDZUJJOVR0TExsWUUtOFdKSDVrUDIxVzMxR1dCdXktNWNEZmZDUGJCWEJWTEVRdk1kQWNWMlVxT2JXRl9KbUlSMEhZSzk3RG9lOXZLQzlxWlNITzRQM2txRkZrczR4UFRjbWnSAboBQVVfeXFMT19NdEZEV25BejVHU3hWRWZJcFQ3UF9qc1hMUDY0V1loOVlfSWd1cnVyamdLTVFoVWFheTBiSnZfSUFWaGV5QVR5VGtZZW9EdXdrN0NZWlZyUmJWNEo3UnNMZHoxMjRpd2s5OEhQckVMTERkeExNT29rU09oLW1BU0J5Z29RWnNkUTM2aF82UVY2OWlpWmMtLWg0Wmt6ZWNUXzV2UDU0SDBuZDY2NDhHOHBnLWxZQUYwenVn?oc=5"
@@ -70,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Conow Launches Award-Winning Atlas 6000 AC in Germany, Advancing AI-Driven Home Energy Management - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0M5NWN3a2hLWnJObEIzT2N4NzFOLWxVcE5xbFowaTVlc2dZYTZGTlZpclU3c1NYdF9hZFlvYVJxc1ZSTWZwUWhTYXhxcmluWHlBbWNwcDJIUXdYMkhIa3E5X2ZnNFFwVDhiN1ZuVzZpS3pGNDg0M1R2NHU4RnJlaUQ5ZmNrZHZIUDJXSXJoSWVsc2hJWVE?oc=5"
@@ -133,14 +140,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Virginia Launches Treatment Atlas to Help Individuals and Families Find High-Quality Addiction Treatment - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMVY5dHFkWmVTak1CNVVFd2taMHgyQWluR3AxT3VaQXZ3WjBvWEdOOEZIbENSUXB6azhuc3ZScGlXRXZWRE5pZXMtUUZjR2ZPWGRDclhWcHRwUTU2c3hjeTNKX2NSVjFOREF0VU1IRERIV2U3SUVFREU2Y0NldDhjeGZnMVNHNkZEdW96SW9xaU5nVkxtdVk1M1pyTzIyby0t?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Nectar Launches Customer Atlas, Extending Amazon Marketing Cloud Audience Targeting From Display Into Search Bidding - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWhsSndJZzZZcFE1VkxHRVZjUHRyQ1VDMjdkbW1RemJuRllhVVN6NXFETU9nTE9qNk5kcVRPT0s0NXdBb3IwLVo2UG5HSmcyTmNHb0tUNTdRZE41ZHR3X085WkxYV013bmNySzd4ODZEOHZvX0JKemp6cldwc2N1b1NEZk1JTXZDVW12ejc0c29hNjduY3lOcG9FOVN6WFBES3hwU0JTeGNCckxn?oc=5"
@@ -158,6 +165,13 @@
       "occurred_at": "2026-10-12",
       "summary": "Atlas unveils 25 Antarctica expeditions for 2028/29 - Seatrade Cruise News",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVpPaEVGRDZTdExhVW5GTjJMVmRIS09YZk9FTFhiU3hEWkxyR2Z3NXo5aENOOWZDVHFYVTlvTjFZV21VRmpCOGNTVGQtMmZiQnVnSkVNOVQ2OGtoQng0ZUJoMlllbi1RZnhRcnNrWVZDdnVHSXhUR1hzeDJQU2oyNHlUdUprMV84aUZOWllQYTJvQUM0QlJZbVF4c0NlQjlGd3o3X2E0SnpOUGZiSDRCZ3F0NFJtM3lPT1c4MzJHWnpXckl0?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-05",
+      "summary": "Intercity Bus Atlas Expands into Fall - Bureau of Transportation Statistics (BTS) (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LcmUzMjFKN0FCdEdoOE1NNW9XdUdkSWZBZ0pYWDFTSTlNd2RaYllSWDV3SnlIWTZJQ0x6eHFUV25LMU1URm5vWG15azB3dVNZckttM0RjM2ktM0hRaVpWbjAtcE81Tl9PT3dRWHZB?oc=5"
     }
   ],
   "open_postings": 0,
@@ -167,6 +181,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

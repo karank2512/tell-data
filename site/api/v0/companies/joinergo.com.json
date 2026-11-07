@@ -1,13 +1,13 @@
 {
   "domain": "joinergo.com",
   "name": "Ergo",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.6,
+  "score": 12.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-21",
       "summary": "ERGO Thailand names [person] as chief distribution officer",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeExlQkpSelFOamh6bDRuRUx0M2ppZVJXSTVjMUhNVkZVNnZPMTBkSnZ4V29aSWlOeXV2QTh5anpDdkRfZTRScFlJbWdxNGlmNlNiZ3dxYXZsbXRHWXp0ZlRHT21SZ2twblhpc3ZDaF92ZllOY3pESlNacXlWSmdiaXRYZkQybkNnMC0xNmd1US1ZYm91RVZXQlhn?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "ERGO NEXT Insurance Launches AI-Powered Property Inspection Tool for Commercial Property Insurance - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORUh2el9xSjJqRUtKaXh4QjQ0UlNDU0ozZDRWSnp3VjhTd1FFREk2R3hDNXRYUzV4eXIyS0FEUGZJZzhNWGU0Zm5ib28wN1hzOUpjMFVaRmUyeDloNzh5UkdiajhNbm85Z0VHNFlBWDN2YXJabzNJRWlIanJ6anByY3lNWHVRcDRiZVl5cDZPcHZOamRyVl9pUm1LUXNNNmhRN1dpZlYxQTdWck1kMEdsZ0ZNRGh5dDBwOTRZU1BESzQ4ZFpQNHlYUm5JSlpRMTBCbktsV2o5amdsN3ZWblV6N0ZMcEJRc1ZzRGRHNjF1ZmVnX20yYW9OeklJWm51SVRXa2JaazhHUdIBhwJBVV95cUxORUh2el9xSjJqRUtKaXh4QjQ0UlNDU0ozZDRWSnp3VjhTd1FFREk2R3hDNXRYUzV4eXIyS0FEUGZJZzhNWGU0Zm5ib28wN1hzOUpjMFVaRmUyeDloNzh5UkdiajhNbm85Z0VHNFlBWDN2YXJabzNJRWlIanJ6anByY3lNWHVRcDRiZVl5cDZPcHZOamRyVl9pUm1LUXNNNmhRN1dpZlYxQTdWck1kMEdsZ0ZNRGh5dDBwOTRZU1BESzQ4ZFpQNHlYUm5JSlpRMTBCbktsV2o5amdsN3ZWblV6N0ZMcEJRc1ZzRGRHNjF1ZmVnX20yYW9OeklJWm51SVRXa2JaazhHUQ?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

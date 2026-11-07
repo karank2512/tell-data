@@ -1,9 +1,9 @@
 {
   "domain": "joinblair.com",
   "name": "Blair",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.4,
+  "score": 13.2,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Blair County Courthouse unveils judge’s portrait - Altoona Mirror",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlhXV0NJVm5PV3FjSFBzaGVsVlNjZTdYZ2E1bzJma3dHRXp5eFBGSThQakYxeE1ONjR2Wm14NGhhakZncFVsWjBBT3BIYzJhbldoMjJqTVVYTVNpM1VnMFJlTllyU1BBajhNd3RBQmcxcGFFM2pYQlFPYWoyVE80N2FHVmo1MmtOdEh4V1dFTTY1UV9zdkVKXzI0NUJvZEFNcUVvcw?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-11-04",
       "summary": "William Blair Private Wealth Management Opens Dallas Office - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeEhMTWNqZE1FcnZ1SVo5WldyY20xVm52bjZpWWJzd2lfbndtV09lZFZ3aU50MmpBeXM1aG5ObXU5RVhMeHkxT21hUFpDVjFkX00teU1RdVZoVE9NVVlUWHZJdWJ2Z1IxaG42WGhpRGZPOWstWDIxaGQwekZ3S3dzZ0oySTJxQQ?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

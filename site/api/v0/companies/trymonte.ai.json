@@ -1,27 +1,27 @@
 {
   "domain": "trymonte.ai",
   "name": "Monte",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 18.4,
+  "score": 18.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-21",
       "summary": "[person] joins packed house as Rampoldi celebrates 80 years in Monte-Carlo",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGZzZ2dYSExscTNfakd6LVYwSDNTQlBldEhRWEJMMmhuQU1lUldITXhlNER0NndCc2JRUzB4cDdXdkd2UE5Fd29FT2k2TENreWZ2ekUyNkJIQnFiaWxMYlYzOUJCaGdkNGVwdjd5OU5oeDJSZWdCRUIyTTFDZzF0US1ZRVNxbEozclBUNkFmdUUzeHFiVnpnZ2daYjVSVmY4ekhCaWJlbmRvUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "MONTE ROSA THERAPEUTICS ($GLUE) Releases Q3 2026 Earnings - Quiver Quantitative",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX056ajlsVHMyZjBNWUNuS25ZbHdMODhVMkhzX3llX3VSMHJEMnNveWxaMDQtWXppVFhsLTlHeG9ELXpIZWhkWVNYazF1aXNtZW9NdXQ1Y2IyOEFSX0NwaFJublY5OGRfaDVOTW5ld3FDSm9INlFYbnYtdXppVHVDVVJlc3h1SnhTTzA1RTJSaG9IWXJuLVVaUEkzUTc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Monte-Carlo Film Festival de la Comédie Unveils 2026 Lineup with Eight International Films - FormatBiz",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tTUFXeDdrUnFLeXZKOVhnOTlBVWJabmlGWE9jQkxFQ1YtSXlnWnZBWFlZNko0UmRNNXZIN0UyeVFFMHZva3Rya3c0c1kwU3BRYU5oVkpmaW4zTU0?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

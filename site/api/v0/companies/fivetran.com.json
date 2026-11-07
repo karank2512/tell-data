@@ -1,14 +1,74 @@
 {
   "domain": "fivetran.com",
   "name": "Fivetran",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 8.4,
+  "score": 18.1,
   "contributions": [
     {
       "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 9.9,
+      "occurred_at": "2026-11-07",
+      "summary": "10 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/fivetran",
+      "postings": [
+        {
+          "title": "Junior Deal Desk Analyst, EMEA",
+          "posted_at": "2026-11-03",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8158666003"
+        },
+        {
+          "title": "Revenue Operations Manager",
+          "posted_at": "2026-11-05",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8176924003"
+        },
+        {
+          "title": "Enterprise Demand Generation Lead — North America",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8105142003"
+        },
+        {
+          "title": "Enterprise Demand Generation Lead — North America",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8198242003"
+        },
+        {
+          "title": "Enterprise Demand Generation Lead — North America",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8198244003"
+        },
+        {
+          "title": "Lifecycle Marketing Manager",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8075947003"
+        },
+        {
+          "title": "Lifecycle Marketing Manager",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8198254003"
+        },
+        {
+          "title": "Lifecycle Marketing Manager",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8198258003"
+        },
+        {
+          "title": "Lifecycle Marketing Manager",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8198260003"
+        },
+        {
+          "title": "Lifecycle Marketing Manager",
+          "posted_at": "2026-11-06",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8198264003"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.3,
+      "contribution": 3.2,
       "occurred_at": "2026-10-29",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -98,7 +158,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-30",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -146,13 +206,13 @@
       ]
     }
   ],
-  "open_postings": 172,
-  "long_open_roles": 44,
+  "open_postings": 173,
+  "long_open_roles": 42,
   "sources": {
     "ats": "greenhouse:fivetran",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

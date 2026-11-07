@@ -1,9 +1,9 @@
 {
   "domain": "engines.dev",
   "name": "Engines",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 7.6,
+  "score": 7.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "NVIDIA unveils next-generation CPO technology: Optical engines bypass organic substrates, with prototype samples ready. - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd0Y3eTQ3XzVRaG55OUYzM3owQlpyaU81NTVIMTNPU2dnYmpGQ3NyMmVVd05SczV2T0x5UGxvaXFTdlBrS1hlNzJQWEhSVHhYZVFsal85eG1SSWxDVnM0WXFpU2x4a3k1a1J4ZEJaaEIyMkpXQWFHdkY1RGhjTjh5dW8yMEVCTVBVWjl3UXJVRkZPM1RReWpQZVhkVHY3ZERyTkNnY25SeWtPaHZlcVg3RHdqblIwU0tfR1J6RQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "hirenimble.com",
   "name": "Nimble",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.9,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Jack Nimble debuts paid internship program amid industry hiring challenges - Mi-3.com.au.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXYxMVZPOG9oa2pMR3l3ZGNIUy15QVBHZnlIeWxVV0doaUhNMGNUQ2ozbEExYTdLQmk4ZDFhUnhFcHUyclRHSGtpLWVEUGtvMktUcHJLZmNzSjV5U1VOOFNKOGdrd0hUckZqWURJaGhhWTBIQnBuV1JQazYwc0UzNXp1U0plMWM5UlRmUXczTTRUVU8tWE5kckhYeTMzQTlVdzkxTTlTbHZfSERsWUE?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "usesynth.ai",
   "name": "Synth",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 16.2,
+  "score": 15.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Meat Beats releases Sublime, a FREE bass synth with 125 presets - Bedroom Producers Blog",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LZkJFeHB3Sjl1MGZMWFhnakFicFdDUVRjcDVFdXRRaWxXaWFvNjB4em1JMlhKWFdWRk9aV2dNRmdxdlRpQ3Nlc2U2TWF2NmFRNm5vX2pOdzY2YWNTUXM1WW13U3ZkbWxxaF9lclJ3MWg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Introducing Synthworks by Ian Dixon – A New Home for My Synth Sound Design - The Digital Lifestyle.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0NKR183RnQwUGpMN2ZSN2Vrajh2VjFVMExjTVgxMkxtZ1Q5R1dNZ1pLWkQ3cGhpa0V5WGtwT1VVU2ZISXdPX0hxTkNDN2JydWV1WEs0c09Vb09tcVRwMFlRV3B6TkhBMWw1anYxcTZRU05BS1JBTXJoZmhZb1hoWW1jYXFKNGt6LXRqZzlwQkdIcE9wWlVHeC1jNTJ0MS1vZjlTQjVlMFBrb3pMRDJOVm0yS19McFR0bldB0gG7AUFVX3lxTE9zQ0pHXzdGdDBQakw3ZlI3ZWtqOHZWMVUwTGNNWDEyTG1nVDlHV01nWktaRDdwaGlrRXlYa3BPVVVTZkhJd09fSHFOQ0M3YnJ1ZXVYSzRzT1VvT21xVHAwWVFXcHpOSEExbDVqdjFxNlFTTkFLUkFNcmhmaFlvWGhZbWNhcUo0a3otdGpnOXBCR0hwT3BaVUd4LWM1MnQxLW9mOVNCNWUwUGtvekxEMk5WbTJLX0xwVHRuV0E?oc=5"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Push and Groove releases MICRONIX, a FREE Plaits-based synth plugin - Bedroom Producers Blog",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTREdoQXpEUmNSWFpVSGN2bTlzNWxFYm5PQW9BN3MtQUluQndsaG56MGJ6OVhIQ3BBbXRCamQybFhSQzNqZVZlb245ZHM4aWRXdmF3ekRqUUNIZ1lYVDNRZ0JYbkVEaE1LNUlsWGJ4cE5kUXJHQVdWWQ?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

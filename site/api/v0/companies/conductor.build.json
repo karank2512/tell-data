@@ -1,9 +1,9 @@
 {
   "domain": "conductor.build",
   "name": "Conductor",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 28.7,
+  "score": 28.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,14 +14,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-05",
       "summary": "BBC Philharmonic Orchestra appoints [person] as next Chief Conductor",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDk5QTJ3Z3pYaHdJd3VaRVhPUzE1SnZtMnNTM25BeTZSVzhEckFpdFM4cjRnTXpNUnhjUENFN2ZfUWxyYTVMTkYyNkRva3EwQU5naFlkN3NjYzhFRDBEWTkwVFNFdmtmbjZkQV9la1JIY3c0UVdtNmNYSVRnazFrNEFubERibjZkVnBCOERtT3QzNlFWQXBPYVNyaGY2dHRrbjJ6VDdyYlVpUkt6U0dDU1dTVFhHMEZFcVhaMw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-05",
       "summary": "BBC Philharmonic Orchestra appoints [person] as next Chief Conductor",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzRHdXo2TzZiaWZHdDJ6UDY1OS04VDNWQk1ROVdCcmg4cGstNFRqUmQwZ2tyOHlNVHJxVEUxSlZhMHVHaHFyNFhLNEczSkVhWmRLU3hZWDZ5cURacTctc1ljU3VvcFYzV2UycTdxWDdzOU9WcmcybEQtU1FCV3l6aDlKeHNOanlUM1dCcjIybHdIRkE0TWZ0bWJvTHhOZ00?oc=5"
@@ -91,14 +91,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation (ROK) Unveils AI-Native FactoryTalk Conductor, Targeting Q1 2027 Launch - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd1o5MEhOeVhxd0xBQ2VWTEVoRjg5TkNVeDVaRXhTQVRvRkgwQzRYbzhOS3NJWEFlSHdSV2FPaDhQWXhiWFFIeGQwRXJWUDRJdDNRZEpWa3VTT0FUZ3RPU1VXN2VSdVZaNW1DV2EtalFHaVdWOFFNTzk0bjNBNTJkVnpxX1ZEMjFoMC1nc0hia1ZlRTVycW9jZWJQcUxNVmFIVHNQTEVxUE5sTWtLYUoyRTc2Wk1EeE14M0JlbnhqcEs2MlJuRUYwcFFlVG1kZmFvSWN1SU9McnhXQkJnbXQ2THpmVUo?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation - TradingView",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMzYxRWhVX1Jib0ZKd3ViR3RFTDdiWjllY2UxMDVyUlAyU2FkZHBmQW8xU3R5cmxLcDJrcGJfMlJneTNpWmk5MWZqa0tRbGtYVDluQl9neEtoZ0R5TV8wZGxSTmJPVzE1bXZOT0tXTU5HSE5Cd1ZLOXhIV2dpY25KR1J6akRRNWY2cFE4TTNlR21kVEl4eW1BQ0lpRkEwTmo3MHZjRTBhUElyZ05TRk95TG15aVBLYUw4cVN2U2NIYlNCblNSejAyVU1oOXlBenpBc1ZvRVJPV3JPT3ExNlJMLXpYUXh0WC10NXplY2ZMcHlLdE55Ul9xUjRnYkViNGlGN1BrbmFR?oc=5"
@@ -174,6 +174,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

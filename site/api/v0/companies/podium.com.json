@@ -1,14 +1,14 @@
 {
   "domain": "podium.com",
   "name": "Podium",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.3,
+      "contribution": 3.2,
       "occurred_at": "2026-10-29",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/podium81",
@@ -37,7 +37,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Department of Sports Launches ‘Khelo Bharat: From Manufacturing to Podium Finish Quiz’ to Promote Awareness of India’s Sports Ecosystem on MY Bharat Portal - India Education Diary",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOV1MzdHpXRldQdFRVdlpTSGhHZHhvbWpmMm56NmZUUUtGX1pMSUUwQ3VxazY0STl6aUpvNjg1dk9rakhsQUE4aHkyNEFiTDRUVmN5S1RnenFXZ2k5ZUliN05mWDEtVW9GQjBMaGpxcXpWeTMyeTJsWTY1dW9VUWpUVW1NdTRwakdvSkNXUEF5aDh3dVJLRGtVQXNiMkFJdUo5a2YwSGJjNUZwVFdYV1E3SDhnRHk4dVRfemJuQjAwdzJBcGFtblVEbW5mTjhuMWg3WXhGODRHaTFycTl5bkwxV2U1aTJkeVFYNmZwbzQ3ZE00Sm43WVRvdlFkWktsMUt4amdrRlZhTlhZOWJ4X0JaMA?oc=5"
@@ -84,6 +84,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

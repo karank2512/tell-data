@@ -1,13 +1,13 @@
 {
   "domain": "chipagents.ai",
   "name": "Alpha Design AI",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 17.1,
+  "score": 16.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.3,
+      "contribution": 14.2,
       "occurred_at": "2026-07-29",
       "summary": "Form D: $59,999,917 offering, $59,820,856 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2032488/000123191926000810/"
@@ -35,7 +35,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "ml_ai",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-11-05",
       "summary": "3 new ml ai roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/alpha-design-ai-inc",
@@ -65,6 +65,6 @@
     "edgar_cik": "0002032488",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

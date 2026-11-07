@@ -1,9 +1,9 @@
 {
   "domain": "dittowords.com",
   "name": "Ditto",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.8,
+  "score": 9.7,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-21",
       "summary": "Ditto Appoints [person] Chief Commercial Officer to Expand Enterprise and [person]",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYlB6SEktT1drNGVEXzctYkVBak5HLTBHMHVLbVdKQnhFV1BSY05nTTFmcnNDMklNZk9FNnJqd1dmUllvX0hFcUx5WTRLeXV4ai1uNGVXazliUHpGWnItaV9xWFRaTXhwZ0FrLVJKT2wya3RrbVJ4WVRuNEZqMGhyOVNTTkFIaE9sX190ZV9lN3VDeTNGM1Z5QWtmUmtPd3YxSU91b0dOSVVobkViZk9PYzEtRzFjaE1ST1FMd0p2c2dnR2dnZk45TEhYZDZfczZEWUE?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

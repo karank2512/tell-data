@@ -1,9 +1,9 @@
 {
   "domain": "ablejobs.co",
   "name": "Able",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 8.5,
+  "score": 8.4,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Maui Jim Unveils Rx-able, Bio-Based Miona Performance Shield - VisionMonday.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOekRFSmM1c0wwUmdqd1Z3MjVoT0VvR0RyNlFKRjZCQ01JcFlDeGNWclFkTGpkaUNUNm51NE5ySFZMM0xoQTNvUXg1MVlDUUwySGgwRVZsb2xIOWlBNVJ2MzgxUWFlT0JhTElpMWVIVFZjMDZJejl5dkxLOGRkRm0wc25ad3RFck9KSnlDbS1RcjZ6dkZiZUJNNkQtVW9zeEh1WlpScjhJSzRjVjU4emZtdmt6NU9Od3l1aDNwS1FVYk9CdklfeTQ1Sg?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

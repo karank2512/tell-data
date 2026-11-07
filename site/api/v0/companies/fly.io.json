@@ -1,13 +1,13 @@
 {
   "domain": "fly.io",
   "name": "Fly.io",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.6,
+  "score": 13.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.9,
+      "contribution": 12.8,
       "occurred_at": "2026-07-22",
       "summary": "Form D: $24,999,937 offering, $24,999,937 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2144091/000214409126000001/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002144091",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

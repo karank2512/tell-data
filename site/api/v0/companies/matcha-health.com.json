@@ -1,10 +1,17 @@
 {
   "domain": "matcha-health.com",
   "name": "Matcha",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 15.5,
+  "score": 16.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Holiday-Inspired Matcha Beverages: Peet's Coffee Debuts Peppermint Bark Matcha - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wZldNZVJnTTREcW9sa1hEa242c3VkNFNPOEIyRkdKakhxaU4yMmxFbGNFWV9vZE9CcktWNnVHal9sNjEtOWVIV3FsenlNTVNvRklhajN3ejhJaGxHdC1XUzN2UHdNallQV3dPcEMxbmZHY0lzaUVJ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Ethical Naturals debuts new joint health ingredient and matcha L-theanine blend at SupplySide Global - Nutraceutical Business Review",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGc5ak1UTjN5aC1DV0NZQS1ieTNsUHdQNG1iMlBZbEljYXU5dXBOa1Jsc2NPeEI4a1dya05yY0RJQzB0cVBBSmhOb2dXSHhJNTBLMFVjMWhHRF9IZ2tGbUxHWG5QcmFSTXdmalJGQ2lUQnduVUFhdlZoRnRMU3c3dk5xZWxEX1hWMTVRUU9sVGdDX09RSmtwemV0YnhUbFVibzl0QQ?oc=5"
@@ -49,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Voxberg introduces Protein Matcha Latte with 22g protein - Stack3d",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZZW5RbWJIU3JRNllIbTdVS01IaGNjaUlDRUFPQlJaQVI1RExuQnFtZTJzZWdrVWRybllDTmFIQVctT29XbmRrNl9zZVBVY1hZWlQ2c3l1VGJHYk9iWURmRGJKUDl3b2JudVJndEFB?oc=5"
@@ -98,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Robeks Launches New Matcha Platform - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEwwZXNMSVduc3JRMk5KVW4xbUdTU0VPOEhCa3U3bnFSMDJZOVZtNWRaWGUxU2NMTkR3TGp4bGRVbEZMZDdqbjdPT1ZrS3lHczJSX0NjRjNkeXMwNXNEQ09BMUVYbF81MmRsTDdNaFRkNWRDN0t4aE1wRTI2by1XRGlrRzdSSk1uZkpOem1mSU4?oc=5"
@@ -111,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

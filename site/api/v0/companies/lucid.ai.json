@@ -1,20 +1,27 @@
 {
   "domain": "lucid.ai",
   "name": "Lucid",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 7.2,
+  "score": 8.5,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Lucid Releases New Teaser of Upcoming Cosmos SUV - Electric Vehicles",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ29mZTJzcW8wWTBSVUlLZ1JXYVRDVEZEdFRDY09sdHdYNFZPY0taTWdYY3JYYXVLNDRQd0hBMTdZVWZrTW1yd0dZLWtGYWM3WjFNTXF1RnpvYy11NGtuZmVDd1VYdUU4dGlnS0JMWWlmQXRCZm4wbDc5amQ2akZsY2dZcUxrYkdneVpMRg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Lucid Labs Launches Award-Winning Puzzle Game Possessions on Xbox and PC - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1VxY21jTVBMWUhJck1JcXh4eHhTZkN2MThpZVFHNmNNU0RuLTQzejJZSmZyNUU0VVdsbnNSam5BVDF4X0plZTkzV3F4UHBqOXVGSzRZYnk2bGZhNjBqcUxDQ29BbmdmQmtZd1JmSTBCWEdEUS1TN0l0Q19BU0VNVC1GZEpHYmJSa0l2d3hKaS0tSm5PWXNqMWtoQnBrUnlxOWF5UGxaaThobjluSXBpWnBiTkpWbHJxOVdZ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "New adidas AE3 “Lucid Pink” Releases Ahead Of Anthony Edwards’ Season Debut - Sneaker News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12YkQxSnFYaTJES1ZQTFNjanNuNWExNGx4T1NhQVhDekVMUm1ucXlwaEhyQUxKRUhUd0VKSnFJdFlRZm8telZnMGkxbFdObEJtOFpnMEdZQXZmdnRNQ0JBaDVJNWlPdk01akdENkhqRDdiZ9IBckFVX3lxTE12YkQxSnFYaTJES1ZQTFNjanNuNWExNGx4T1NhQVhDekVMUm1ucXlwaEhyQUxKRUhUd0VKSnFJdFlRZm8telZnMGkxbFdObEJtOFpnMEdZQXZmdnRNQ0JBaDVJNWlPdk01akdENkhqRDdiZw?oc=5"
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

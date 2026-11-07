@@ -1,10 +1,17 @@
 {
   "domain": "andtiny.com",
   "name": "Tiny",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 2.6,
+  "score": 4.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Tiny Trumpy Rep Launches Vile Attack on Young Woman - The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUERETGhPcVdPVHpBb1A1YlpPWkZCQmZob2hKQTlxUWthWHdsak5BQlQ0TUpyT3hrY29yaDBwZEoyMnpyT1hsSVhiQV9fZUFyR1E5bEhvUzRESUpieW1rNllUUmZBWmZ1MXpMWmh4a0JQb0ZmY2ptb3hHaFBsSUwzYklHLUstN1dwdGZtQWhYTGV1Sk5Ea1BzTUVmQ3JmN2xjYTBrNHd3bEVxUVQ2S3VYcnpyU1ZKUQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

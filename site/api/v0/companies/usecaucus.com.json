@@ -1,9 +1,9 @@
 {
   "domain": "usecaucus.com",
   "name": "Caucus",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 16.0,
+  "score": 15.7,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-01",
       "summary": "Elizabeth May launches Parliament’s first all-party peace caucus - Canadian Affairs",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2dxQVc4MTB2MERWWl91TmZKWjU1OHhWMk1FeWxIaWMtX1JkWGVJb0drVmREVWczSTFScjEtX1hEM3o5Snl5M3NNN2V4SE1uVmZ3X0ZjQkN5R0pjZG9lcVlrcm04NVZwRW1JTnJraXZ3d2lsS000UWt1ZkJIV3lFekVmU2tsbXJ0MlNPaTVBWDZVWlRWNG9wYWExNFkyVVN3YjRZT2hudjZwdVVu?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "2027: Ughelli North APC Unveils Election Committees, Majemite Leads, Emerhor Heads Caucus - Independent Newspaper Nigeria",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0owa1hQOE5WTHJrRjZnbUJ1UTBjUjNjVFNDTHg3cWgxaEZydnlMX0V3Rkl4cE9GRGZyUzJLaVY0eF9EMG85TWNZU2NVZ1hoTWFiQTBtcWdGa0lNaWpGbnZaZnV6NmxhRGlEdWI3aHVEQ3dNMzJpSWNydkNndU5xalE2eW45ZFVaRGRRcWh4UWJVdGx4dVlmYl9DU21ZYjkxVzJSRXpnVmNURldIN3hF?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Bipartisan Build America Congressional caucus releases new housing policy proposal - Building Design + Construction",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdjZZYjE2My1EbFJObkFYTHU5QTE0VlUxLVlMZFF1SERMVXYyUlAwM2c2ald4SlZJcTBHNXYwcFJKdnJFQk5jakFQbHFETk9UUUtPN2dsSENBd0RxYW5ETV91c3VwbUhwYW14c09sWmplbktPdzJMcEZTS2VkdDd6a3otMFdVbkoyMXhMWXJRcHFLa1ZQNDRrR2dJX0QtQ3VWVklScGlOZWVhcklIMUppQy1NMDFHZmhkUnp1dUdDX1doekdmdVFtZ201YVNRVUZyWmxZS3hvZ2NGVlozaFhqa1dScXZFSlFWTFdMVURuTTZmTGl2UHJYUGYyV2ZKaE0?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

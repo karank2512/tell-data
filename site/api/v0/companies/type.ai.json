@@ -1,9 +1,9 @@
 {
   "domain": "type.ai",
   "name": "Type",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 15.6,
+  "score": 15.4,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Takeda’s ORZEYFUL Launches Simultaneously in Japan, China for Narcolepsy Type 1 - Sleep Review",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2NzRnRPS2xYUVBqd1pVZUpJVWc3Rk1BN0I0Wkp6emtlZWVRMWpXdXZtcE1xc1Fuc0tKSU1sUUQ5dUQyRUc2eUg2aGk2YmpMTjZ5NVN6RlAzeUF1ajZjNndSRl9WaUwxVmxjRm1RSXFmMEZPTi1PQ0M5US1EWnYxVWZXNlA0LUxVa3NIc2liaXl3NlEwZ2JLSFpxSWszamlyTFRPVmhxRGZyYXVDblJ2ODVkRjhnN2pHdlQxcGtQVFU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "P&WC Unveils PT9 Engine with Type Certification in Hand - Aviation International News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVThRa1RnVFBhLVpPbXF1bW9NUnJBN1VlSGd5UW4xVm5LT09ZRHhxXzBlWTZRal8zRjVVeWo4aVN2U1NuSGcyeHRtaC1QV2gtNi01eWFjd2xlcE95N3Z3WTJ3TVVBY0FjcG8tb1hWYjI1TjZUNnBUcHYtSkNobXhQQlhuQkoxVTllVWhUUmlyTHY0WHhCQ1RnQVhQUnctNHNVM0JjMVpHN3ctQQ?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

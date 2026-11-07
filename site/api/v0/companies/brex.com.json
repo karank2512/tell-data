@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -38,7 +38,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-27",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -226,13 +226,13 @@
       ]
     }
   ],
-  "open_postings": 274,
+  "open_postings": 273,
   "long_open_roles": 108,
   "sources": {
     "ats": "greenhouse:brex",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

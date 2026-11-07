@@ -1,13 +1,27 @@
 {
   "domain": "itsaffinity.com",
   "name": "Affinity",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 15.5,
+  "score": 18.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Affinity for iPad Launches, Unifying Professional Design Tools in One App - Small Business Trends",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkFUakFpVEtBd2t1Ym5XdXd3U1BFOUhQdWxOVnBqRl9KNXhnc2JYYTBVQXBVWXdUV2xXVVBmSk9qVGlCR2xtM0hBbzJKTXdYdll3NXFCdE1GakZ4aDE3SllUVU1XMnFFZzE0MzkzMy1ubVBoeFl0VldZWjlZLVBSVWd4cWdtOTZSc3phS2ZOZHktU0J2bWdiOWtiOS01LVF3Ymc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Canva Launches Free Pro Design Tools for iPad Users, Affinity Insight - RS Web Solutions",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1JBUTNwRWs0d1BjNFFPX2o4SWNzR0F0TUl1a25CdUZOZDRzZUtIaVVUR25lWWVEUVA2MFdPUkRyRzBLcWhLUVFWZ2lJNUNPeHN3VGQ1VE42dE5XcnhUMm41c1RkYkxFSURrSFM1WWdjam1CQ3ppdUJObGotM0ZxeHh3R2k4b2ZObW83T0ZaZFA1bjd4ejJBZEhsOXowMXlOZDVSR05hZ1pEMDRiVVdmNmhCajZxaUNHcTdiWmVnSQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "Affinity for iPad Launches: What Mac Users Should Verify First - Gadget Hacks",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOVh6dGlPUGliN01SX2NON3FlcjVfbVVKdlkwVnRlTjRlZXI4OW5raWVLbWYtZVZTanNnMTJwdXpxcjRpTDFyNmxsS25ySjBZWnI4N2tpWGdQd0tOTWRPNkFacGQwZmFiODRBQ1VPblQ3OU80MWFIS1JuSU5abmg3VDJvbDl5NnFXLVZfd1pjWVR5cHdKbFluU08yR296UQ?oc=5"
@@ -77,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "Affinity Federal Credit Union Launches the Affinity Wellbeing Institute on National Wellbeing Day - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUllvVlh6SS1TSTVldi14UkNyRGR3czlDMV9mNUszZ2hyb1FMSGdYam5HYU5EX2t4emdDc1gwMFdsMWxiSW1sWHRMdGhHblowdjFpWTRiRG51TWJLNGRQLWxBMU1ld0FRZXM3Wmk4MjRGX3dhVno1cVpLd2lZLTFsVkxNU3dFV0hzMEdNYVQ1WXc1ZkFuNnZ4a0RHRkFtMFpmRnRyb3JqeldtX202OTd5ajYyLUNuYnIzcmtuVEFSbTgzSjJnVm9reDRMMjQ0T2xiUjNtQjYtX25kVFIyX3ZhcEczTUd3UHNnT1E?oc=5"
@@ -90,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

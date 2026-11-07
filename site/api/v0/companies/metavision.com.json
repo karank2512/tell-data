@@ -1,9 +1,9 @@
 {
   "domain": "metavision.com",
   "name": "Meta",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 20.4,
+  "score": 20.0,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Meta launches $35 billion stock offering to fund AI expansion - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0V3QzVreFZ5N0ZYTWdzVGExN1lxeWpSVG43T3JHUXNtUVdmRElUVEhqXzJVWnMwWEt2eW0ydmJ2MGw5Ri03aVoxTE93VkJtZ3RtS0ozWllHOW5EVEUtRmtna3NONVdNdXNUU2lpa3hrSkdZbkM4Ym5yNEtqRWJUYkliR1NfT1XSAYwBQVVfeXFMTnA0RG0wLV9zYmd4c0pMUXlEMjJkMENJWGdkVDIwVlFkTG9lQThqTGpIczlFaTdvVGtnTmh2anhyazZfV1BmdTJxTDItazZlMDNBZ0VqOHJEVUVfM0I3RGgxWUh2aDc2Tkx1NFV2MVNSRGNVZWJLcHBtRGxIaDc5anN4WTZMNjd4UUhzamo?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Meta unveils Muse, a personal AI assistant - Fox 10 News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXZfTllRN0kyd3dPTVd0Q3VxNHhRRlp3OFlpbHo5U3g3RmFzbXpuSEE1aDl4VDc3MG5PaGZlZlBfVjBCVU12NHZ6ZkJoeE5HeVE4VEo1eUxPRXJ0enpLSFcwS1gyTWsxUkNCVzBmT0hqSUNvMl9SbkNEdVVpaE11QtIBlAFBVV95cUxQcWx3XzdvS3FVbXp2TkhKNUpSWVRTeks1NXE1MkZZVjY3S3AzaG5BSXZ0b3NsOWNrTDVqS3B6VlhIVEhmSWZ0Y1dKbk1QeUdjVHN3eGZiLUpRc1p6Q3ZCREp4MWh1RUVXMDZ5aG9xdEtua2RnM25XQjhmTWp6eG5tWUMydUVOMXdJRXgtLTBzeDgzbTZr?oc=5"
@@ -77,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Meta Releases Open AI Model While Keeping Its Best Tech Closed - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUNfUDdyZzFhRTRYMEdCdEVIejYta2JTbVFmc2xDRTV0SE9MTUgwS05Vb1Nlajhlel9kbG52WFlSY3VDcDExaE01TzRCMHBhcFRnM2FBdnRWZlprT2xrVU9iMFdWYjV6Y1FLMTZndXQ1SHFBdDI3bW5PSklBaEg3cmV0SElVdVhGNlFmSk44NmQ1VE14N1E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

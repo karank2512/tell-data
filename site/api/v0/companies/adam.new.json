@@ -1,9 +1,9 @@
 {
   "domain": "adam.new",
   "name": "Adam",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 17.3,
+  "score": 17.0,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "IDX hires [person] as Chief Creative Officer to drive multi-market content and brand strategy",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeE5YN0JPVTc2VVdaR2ZyNnJxQnRwQ19TYk95MXFwcndNbm5GV0hoTmdNdTFwdjZsQ0x0UGR5WDd1Z3ZkME1qNUJGYjU2SDNCUGtGcm1td2ZiVlE2eXRYMF9Yc3RtRVdRNm5jUmpNQkRRNmZyaUE3bExiY19ZWmUzZGVUQkdaLTRlTDRBSnZrRnZXUWt3Mm1uVDBvazZkZw?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-19",
       "summary": "‘Welcome to Kansas’: Adam Hamilton releases statement ahead of Trump visit for midterm rally - KWCH",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWUg2WkZLTjU3RndPQjk0LUVMVU9XX0UzeWZGcmw2VGt2U2dyLW14N1JyaTloRmRobFBvMTVYV0hPczFFTzhlRFA3SGRtWUlSV29ieWpXTC03eFFjTFFiTmJSZTBXQ1FCUVpsaktMZ2ZEUl9CRGJvTzlBRlcyLWZpNWdBZ1JjVzlfaHM2VXVaYmFTR0FDcnEtZHdHRTY0dEp6WlU2cWRPektSSDdJVDhqNWJ3?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Awards Radar Podcast #311: Joey and Adam Run Down the Big Debut for 'Artificial' and Talk New Releases Like 'The Social Reckoning' - Awards Radar",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMjNoNTY2eUFxRWlSZ0ZROWFud1N4bENOb1hpWTFjUnJQR2VMdy1pOHNCRFFqRGM3bnEtOW5OYVpNS2trM0E4cmR6UThVdGMxWV9RUjREX1RXOC1vdGFBV3VCS0FJMGJleTR1eS1DUVZ1MHRnZXFIdTNrMk1UN1RjcGxtOWRLVURrYXE4LVIwa2kwYWxKclNPMFFTMWQ0cXRod3lEM0ZZQ3FpWktNUHJkM2ZKMWFLSDRiTzc0cmU3R29jWE5OZzVBLXUtZjNCcUFNYk9EWUg4d3MtTXhhRUR3cWgyenlzU1p1cVNEWXAxeDFZdw?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

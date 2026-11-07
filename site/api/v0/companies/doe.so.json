@@ -1,13 +1,13 @@
 {
   "domain": "doe.so",
   "name": "Doe",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 15.3,
+  "score": 15.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "DOE introduces more local menu options to bring students closer to the ʻāina - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmRpV2NaTkZ4LTNDRnBnNHA1R2t5RGtDdklMZzV5MGhZaTBUWm1vNk9oeEJGanRGNkVCY1FzSG1OSkVVYXlTQkR3SkM1bWswS0x4REpiUWxYdnNqaC1PN3pZRndfMHZDNnd4bWNZSlJPQjROY3NSZUhKMXdqS1N4dFlLckxvQWh2?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "DOE ARPA-E Launches $37 Million QC3 Program Across Ten Quantum Chemistry Performers - Quantum Computing Report",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ25rNThxN09fMnVLQTFKVHVaQ2RFWHZieTNvYTRaM0tzMndORU5fOXBJdlFjU29oUEZZZG1VZklHNVlkTGhIUk1pYzRRVFFHeHdjV0w2SFR5YUItdThaS3lGb3QycXlrMTJjR3RsUlR2NVFKMHg3UXA3VGN5RXRnYm9COVluOE16SE5wTHBLejl2c1JmVTliQjM4TjE3LUpRaFcybzdiWml5WUVkZEttNG9XVFRqWngtZlHSAb8BQVVfeXFMTU01MFEtVi1uVlpRVXFMdG9nX2ZTUERnazFjSVctbXNFN2NmbWR2TlNrUFU5dGkxOU9nSGZOMzEyZE40dkdXbnFWYmZHU1prbXBnZG01N2hSOFVUMG9qWTJraEdscU9yWmtRczZFaXZObnpZVndSQXJBZzlhLUNRdmg5VHB4bXRHQ2NCS056RWVmYTgzSFhVUXBVYkU4cXNRMEItZzhKS040cDNiNXBMbHJ3VWNZLUZ0S01Ma05YZVk?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

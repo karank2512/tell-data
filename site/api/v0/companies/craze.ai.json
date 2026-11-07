@@ -1,13 +1,13 @@
 {
   "domain": "craze.ai",
   "name": "Craze",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.7,
+  "score": 6.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Halloween 2026: Amid the matcha craze, Independence Brewing Company launches 'matcha beer'; know more here - Mid-Day",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTG9KVTFIbHFwLUpJY1BtYnpHTE5QNHhHV1FrbFQwSEQ1S2M3V041QXE1MFZWaXphNC1YQ1VWWnRuY1p4b1U1Yk1DZy1BSElnVVdqOW5XNHlCUjlNTGQ0R3lTNFExTHVCYTV2WG94c0lFUzN5QVhFMGthSjlwcFZVb25yR3lRb05yZk9JR0QwT2I4ZWRxYWc3LU1EM1pzQ2Y0Qnh5b3hLMTd6aEdTS3FxNjVqQnRHeVBnZVB0TVZqQWFmc3VVdTJlQkNIbWpzeXVrRk9ucFhhSEtIbFp3dDZ2Q3liNHdqOGZDUmFUWGtqb0VoNGYwRUlOTVNnaw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

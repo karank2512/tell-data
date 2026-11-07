@@ -1,9 +1,9 @@
 {
   "domain": "fractional.app",
   "name": "Fractional",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 21.7,
+  "score": 21.4,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Honda Aircraft Takes Minority Stake in Thrive Aviation as Las Vegas Operator Launches Fractional Program with Refurbished HondaJets and Challenger 3500s - Avi-Go",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RbWY3QzRWQi1VcVNKczhCMm5lSDVOeFFwaVBlVlUwWnlDZ3IyWUZ0alltQWh3WDJocTVhYVZHdlNzUVJfaHJMN3QtdVFaZFVlQzBUbTRpbUxmSFFMV1JqSEF3Yno1QTh3dTdlM0ZEajBjbWc?oc=5"
@@ -112,14 +112,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Thrive Aviation Unveils First Look at New Fractional Fleet Ahead of NBAA-BACE 2026 - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDJHeXczMkNDNV9WS19hYUkzUDBfVWJzbnhCYVh3b1FIdDNqQjJJTEZCeVQzaXlWUEJscW1sLU5jR2NOV3d4dWdaSkxsSFcxeUJKcldXZUtIZzBMb0ZFb19YcW1LeDAyTGp3VjdWNXRZN2tJNWM0ZjRYcm5QOTBwaERTbE5JQlNqVnl2UVk0ZC1WcERIQ29UOG9OSTZka3NDUU5MeXZjWVpPZ0ZPSzBkTGFob3VkQUYtSnVPNm56ejBwaFZDUHVtZG5lRXNuY0RGWUxtTw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Zesty Launches Automated Fractional GPUs, Bringing Automation to NVIDIA CUDA-Native GPU Fractioning - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHpRazNiUV9LelZaTThNZ0VBVWhMZXB2SDFmc2V5c1NrOVVYQTZmRU91djNHMmNJWEpOaGpRTnE1eU5SUlhrSnRHNEEtZ1pBX0o3RThiWmFwbkVwcE83dGVxVjRsTzc4R1I4cU96ZEx3V2EzbUNSemROM1kxVUV5bzNHMXFzYmM2RndJbC1ORzNfQzNyZ3d6SkdtVWdHRndOU2U3UVJtSQ?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

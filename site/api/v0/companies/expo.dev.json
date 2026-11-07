@@ -1,27 +1,27 @@
 {
   "domain": "expo.dev",
   "name": "Expo",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 25.4,
+  "score": 25.0,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-01",
       "summary": "[person] joins Expo 2030 Riyadh as official participant under new agreement",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmI4SXk4bkdQUTN3akZKWXJqbGhiRjN2X2Fqd0Q3UHU1VDNJc0pSVWk2TmlMUUZ4QUstTzlzc3drN3pnMGtaUVNabUdZbEo2WUlHLVEwY3lMeW93bjBHWHZhOHJUR0lpeWdsQnpOUXFTbDJVRU5ZMmRoQzVlY3cwY2pmeGpmeEo2R0dla3NzZXI4b2NBZTJIOXp0VUR2d3ZYX3VaUkl2R21VbkFxb2RUSnZyUWpXQQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-31",
       "summary": "[person] joins Expo 2030 Riyadh as official participant under new agreement",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYV95T2Y1cl9yQVg0ejN2OHhPZXB1LWh4dzFDT0xvLTM1LWhaY01VN1ozOG5GYTJmNnVTbzBzQTcxdXJlVXhqWGtBcks4S3ZtelBnT2ozNXZrcnB1anRqWGZyRDFqRzB4WEdJMUtManQ1UUkwVHoxSnR2dlViaHJzMk5EOWVzcnhIYzZCbEdtQ2huQVBYMVhpZjcyMEp2OU1nYkJ6bVJpYnNTZXBweGMyeldEUEZpNWtq?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Wisconsin Corn•Soy Expo Introduces New Youth Programming Sessions - Morning Ag Clips",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd05lRDJidm5lX0d5amZocExGenRIc1RCemI4RVdfQTJqOF9HR0ZEZXRIeGpxR3ZsVTNUQmFTVkRmQkhjbWFjdHRtalA0T0ZtSnVLV3kybGwxOE5KU2hSaXhIdXJ5WXViVWJwSnkybk5IYW9ZV1BBUDRLUUNSM0pUVy01RWdubEJnOXhBT3htSHU3NFlvcFU4bmFQWHo?oc=5"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "John Deere Launches New Equipment, Complete Fleet Program at Equip Expo - Construction Equipment Guide",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzI0VFhhMFk0RzRUbUlKSXRCaUtWalZLVDBGUms2RXZBTEpXNU1xYlQ0VUJKY09DeG9LcWphM0tOS1I0OVVGY3E2bkFpcnBQS2F2Rk9uSjc5SER4eHhrUWkzTURwbi1ObWpKa1NRWGlLSmlBTmlQSzBQMThDeVRZbU5IdG1XWWFsMEhjdjJkUFppbGpTeHgwa3dLQktzeHNwNldMcHNzN3V1SHFEUmZZeHhjSURoZTZvQmM4?oc=5"
@@ -160,6 +160,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

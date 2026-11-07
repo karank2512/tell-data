@@ -1,9 +1,9 @@
 {
   "domain": "bernardhq.com",
   "name": "Bernard",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.1,
+  "score": 6.0,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Bernard Magrez launches range of non-traditional limited edition Bordeaux blends - Decanter",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNlpEVDRSV2ZWZUdCT0xVbWowZWk4eS1Md2xCaEF3X1NOWDZhTWxEWEV0bzN3U2daQ2dXRDBSQnUyeUJGMlRmY2tpZEpwd29sM1pNcENkSkZyVTBMZzVFUVNpWlRKSWx2TTNhTDltLVlJTElUeEhTSG93cG5nYWpqOHFUWVh4dDVBVWVwd2gxdE5kWlRSVlZJZzdwcnItNkYxS3hUMzJKYWF2UWNCeExjRDZpa01BTDZvZUtybA?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

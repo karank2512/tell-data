@@ -1,9 +1,9 @@
 {
   "domain": "shopgarage.com",
   "name": "Garage",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.4,
+  "score": 6.3,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "McAllen unveils South Texas’ ‘largest mural’ on downtown parking garage - MyRGV.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDBYOW40YTZncUZ3Q0oyZmNjeFBDcGJxenptT2p2a3lGZ2hoZGMxTmNIMlRNMkZjei1laTd3anpMTWxLazZVbnZ0aXpkU21DS2FCWGo0N093NWFaLXNoeTJGWVl6amJ5UjRpaktqdUFObHBIU1dNUDFnS0NpdXd6MmdZbWFWYnh0NmNMdk12WkJENWg1czUxRVlOd0xrS1V5ajdQRktZbzJVdkhtLWZvU2hUSU1qbWZ4U3pBTFNFVVo?oc=5"
@@ -41,13 +41,13 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEVBUkROc3hrV3Ywc09paDBiYmFUWTRyeUVpU2pMRFhGajhIY2VkYkZteDd6QjQ4UVNEeVRuaFM2VW01SC1zdmZmaWlEcWl6MHJMWFZwejhmZFVnMlFjMWRHMXRKZEVNaGl1M09nVXpJQWZVSVVlZEFTdy00UjlnZG5nNXVjU2d6dlMzZUpzRG9DYnZ3MUVTX0didWFrTWhxWVgwWUNYRUFIYkEtS2c?oc=5"
     }
   ],
-  "open_postings": 17,
+  "open_postings": 18,
   "long_open_roles": 11,
   "sources": {
     "ats": "ashby:garage",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

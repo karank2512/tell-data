@@ -1,9 +1,9 @@
 {
   "domain": "singularityus.com",
   "name": "Singularity",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "SentinelOne Launches Singularity Agentic Detection and Response to Stop Rogue and Malicious AI Agents at Machine Speed - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNbmt6MUFWUU5JRmR2SnMwWjd2UEtvNEgtTzd4bS1SQWxYSnZYbmhMZ0pmRzhQV203NE1QRzJ0MTlnZVdoWFBCckdoMkZBSFMyRzRHWUZSOUN2MlYzLVZOSXUzME5CZGVMSFpjXzhscDBwQmhvaUNyTWdlVjdMaTlPSDNQRHVfQWNIQW5KczZqWGlZMXlyUW5OWkxQXzNTN2xUaVJLNGhqZGJuTHpQb0NNWTViYmNzT2FtS1BCMUNtdmpieXdGb3c4MGR2cnNzMDluMm1SbHRyeF96WEgzOEFfbmRDMl9McmIwVlo4ZE9xdi1wOXo5MnNudTB2T0RZUGQ5ci16NndB?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

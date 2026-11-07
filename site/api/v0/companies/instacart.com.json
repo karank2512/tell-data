@@ -1,14 +1,14 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.2,
+  "score": 11.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-31",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-17",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -59,12 +59,26 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-03",
+      "summary": "Instacart Introduces Sponsored Listings with Promotions to Help Retailers Stand Out - Instacart",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTRVYlE3QUhEWmEtVFdkS3NYN0VHUllmZVdCRGlnU092N09CTVN3MHRxcjRhUzBOQXR5clM5VHhRbkhZNW1YbjVFSVh5elVfRTNVXy1kUWY0SHF5ZEZZaHF6Tk1jNjRrNnQzWWdjVDFWYlZrbGpUMjJXdlo5ckFhX1FRS0dwTGdGaGlUTFE5VzBCQUc5aTE5VVNxaDlGMjhnaWNOSjY1U29tODFObTZhZ0VrdFFHeUhBRDkxQmhCdlFJVTlzMWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "Walgreens rolls out new same-day delivery through Instacart - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYl9DQmhTSnVhaTdYNW9qaWVoQ1N6akZVRHlUNHhsSkphQnJneTVvS1RMb25vSWpNQ3dIY1AwSnNia2g0RVlIMzJUU1ZOTG5OLVlnVHR3RkZIRV9KeWYzQnNxUUFwV2psN3JGS3ZpVGplanRyQVFuSEpXTVBURUt5SmdyYm1DTnZjZEHSAZMBQVVfeXFMTi14SnFyRC1xbU1KR3pla2o4ZUdyQm5uYVVKUldVWVBZem1PbFFNZW1RUVE0ekdBamhGc0k1VXNfRUh1WEpsYktLdFhSVVlRSjBab0JTY1BORlBRODY1YnBVR0ptbHduWDl3VVhmbWU2VVBsTE10Q1d0YWc2MGlicnA0S2Z1Z2c5Wjd6Q2tCdXRZaG1n?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
       "summary": "Double Dice Launches in US Following Success with Google and Instacart — LBB - LBB - Little Black Book",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGMwRzRvbjRYQzVOWFN6U2VLb3ZQUUV4X2g5QllRdXpmWHdaV2doU0dBS1VuTGlYU2QwZEhmZmRMOWFyd3dhYUtNbEU2X0wtNUxNT1VST3VET0cweV9Dc1hMWEhwZjFIVWJMVTlZeVotdlNWQmhVNFV0ZmtKdGRmRlJSenM3ZUgySnN3WEpwN3Q4bWEzQTZxdmFONk81N2hFbUJr?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.2,
       "occurred_at": "2026-10-20",
       "summary": "Big Y Foods rolls out in-store kiosks, online delivery with Instacart - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnpEcVJIeS1VdlVQVEZmc0xrb2VZcFI2LVc0amQ4TUQzRUpvY0hYUnY4Slpvd0hFT3dfdTBIbk5BaThtY2VqU01KWTA1cFZMWWJQVVJiSG1SUFhSZ1k1UEpNaU5TNzRxRXd5MmRmRHlmaGh3cVUxelJRdWs1VHRXZm5OUjNqUUszZ3NlZ0RuYw?oc=5"
@@ -145,13 +159,13 @@
       ]
     }
   ],
-  "open_postings": 93,
+  "open_postings": 92,
   "long_open_roles": 24,
   "sources": {
     "ats": "greenhouse:instacart",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

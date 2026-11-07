@@ -1,0 +1,32 @@
+{
+  "domain": "lance.live",
+  "name": "Lance",
+  "as_of": "2026-11-07",
+  "profile": "default",
+  "score": 3.4,
+  "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-06",
+      "summary": "[person] Joins Arkansas State Chamber as Communications Director",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTN2pyYVh0WmtpT3lUWkwyZkJabWhaWGVNTzUxVzJwWnNUbmE2a3g3bGo2R0FDX2d0WUFsaEE4Q3NoNnZFSmp6clgya3dQdWE2SDI3cDNyQXpTYTcxbF93aTZGNWg5aWg3Z1k2OU1B?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Governor-elect Keisha Lance Bottoms launches her transition team - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNclJiT1lwRVJTbTRJVmdoci1CQXhZZ0k1QjlraUdfVzZPVWxNdEFpWnM5YUY2QXZieGZ6NHhFaWJ6Rl8zUk45NF9UdWV5ZC1BYU5WR0szRDFDZWlEMFNjWldUamdaOGZmcUZ1eUgzc0QtMmFmbldWSlRJUGxzSDN5S0F0NFhRTUFuN25UeWFkMHBiN0VTRmpDSG9RTy1vWHlHQ1RPS1lZOS1mdndyY2lBZWtZeEw0NmpwbkxxdG15aGRHUVXSAdcBQVVfeXFMUExIMldmVVVXM21sZkRacklYTnM3Z3lFc3pQN3I2dlJRUi1tMFRrRWxSdG1NTm93eFdxankyeXI0SjktX1JhN0tpaGo0RVVDWnNveERxLUJrZHVPTVRIYjBTdXVWZjR0YVpoaXpmcGhLY3NnOVY0eXNnM2lwT3MtUW16TFlkc251a0ZIak1xN1F0NWwtekVQSXRtODlFZ1R6Mk9LenJWNWxsMTJxQnJBajRUNGtPVENvTy1WNXc1cVBJcHBUYjc5MWtFclR3MUJxV3N5V2o2UlE?oc=5"
+    }
+  ],
+  "open_postings": 7,
+  "long_open_roles": 3,
+  "sources": {
+    "ats": "ashby:lance",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

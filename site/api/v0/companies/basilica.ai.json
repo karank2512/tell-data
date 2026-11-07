@@ -1,9 +1,9 @@
 {
   "domain": "basilica.ai",
   "name": "Basilica",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.6,
+  "score": 11.5,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Notre-Dame Basilica unveils restored facade on 25 October - ad-hoc-news.de",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVJiald4OUZraWkyd1lUeVY3Y0Y2WWZQeEhZYnVrMHdGaXlkdDZQTkRzTWlYWnFIWjlmRHJ0YS03UTJVVTlsWlNidlp4Z1pOejhKR3Qxc1ZzZnZRYTVabHNmQjVlSXQ1TG5URDlQZFlTZjZBdHlKazlvSnIwZGtyMHlLMDN3R045TXBYV2xqR3pIb01LcEdzZkQyWVhWUF9NekE3QW1XR19kQ2ozNnVqeVhabw?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

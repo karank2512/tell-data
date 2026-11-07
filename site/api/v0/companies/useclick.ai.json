@@ -1,13 +1,13 @@
 {
   "domain": "useclick.ai",
   "name": "Click",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 19.9,
+  "score": 19.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Tencent launches Hunyuan Hy4 with vision and the ability to click through apps - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMThIRmN3M0FpVnl1dWdEWjJ0ZGNNMkZYMzc4Sk5SaVhLMEJSQzdxS0U2SzBRb2xvNXpxaDd1dkR2d3RzR0xFYTA2QlhmbWcxRmhoVVA1cHpxOElWN0JPYWxOOHFiTGk2VXo2MGFNRkVWbmhQUHJfVnVKYVNiZVBNLXg4MFF2MUdkajV1Ty0yalpoYkNhbTRsaG5ibllGY0x1d28xVXdpZGM1Zw?oc=5"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Mammootty becomes Kerala Police’s Cyber Security Captain as Kerala launches CLICK initiative - Telangana Today",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWEJ2NDJaa2lHQ1Q2dDgxM0hsRm9YamRpMU8xOGhXdE1CWnJ3ZHJkMGpWaHZhMFFPM3gtTGg1Vko2RWhRWTRQNFNvaDFDb2NtRDkxTFdYdkIxcUpJQ2V4eElBMHdPYl9SLVpLa3BvM1Y3YkZaY3ZkYTk3aE9yNlhpbFNFV29xUkIxSDMzZS00TUYzOUFZUFBUdml4U1RrbUFNMlJ4OHIyeXJ0SEpCZmpRaXBIM3dsOWZKb1E?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Introducing CCIP Vault Adapters: Enabling 1-Click Deposits From Any Chain - Chainlink",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EdzhfWGh0Y05RTXVKcE1RS0J5Wl9pdnRZZWk0SXp2NmpWb04tS3U0RHVjQm1CSWV6cUdwRWozUDQ0RndrbHUwV3B2cWR3dEdCWTFaaXkyTjRBSWZPRWFsVVNKUURKQQ?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

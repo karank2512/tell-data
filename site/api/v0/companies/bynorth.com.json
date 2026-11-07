@@ -1,13 +1,13 @@
 {
   "domain": "bynorth.com",
   "name": "North",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-05",
       "summary": "Stellantis appoints [person] as North America COO",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNODAxZnVlX0xxd1liSFB5X1lDQk9PYUxHak1XcVNCVXp6QXM2ZnE4S2dSN2VnZzRhcFpwRmczVl94djhCZGYwajlRZjJHWEhlUFBZTXdnaGUxendsaERvYWpZanUtRHBhWWNsTzZBQmJlYXlCcFAxZ3ZOUGdUN21ESFBqS3JJUGRtUVN6ZlpiZkozMGxQai1mTUxxcVBnWC1qaXVoWkVrYUNGMkZNMFJCS294TjY?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

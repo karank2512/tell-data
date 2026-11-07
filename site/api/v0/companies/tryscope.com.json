@@ -1,9 +1,9 @@
 {
   "domain": "tryscope.com",
   "name": "Scope",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Shot Scope: Unveils personalized in-depth data reports - The First Call Golf",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVl0QlhGNTl3a19SOV9TNFNsOU5WV29zUWZtQkFGRXlES0lTblhKeW84ZXdGQXh1VWxoVmVMYVJ5QjZEZVpYcGxzMndWV0FENldMaVpLV25hTEtxaVdlWVItM19NcGtNLXJKdGJRZV91V1RINUtORDZ4M05VbTZfUUVlaFZOV0VXa3N5QzNHYl9ROTVCdm9wMFdHcGR1c2s5WDlNWmhDRktrVGZFcTFnQ28xZ2ZyYUNyLXI2UWNFbUdJelNkQ3hZdEhXU3FZOTF0ZWZoYTAxbVhvUlhrWUgzUzB5UkdEcE5Iak5MWQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

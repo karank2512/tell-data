@@ -1,9 +1,9 @@
 {
   "domain": "junction.com",
   "name": "Junction",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.6,
+  "score": 12.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -62,7 +62,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "New Albino Wallaby Debuts at Disney’s Animal Kingdom’s Jumping Junction - Daps Magic",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWp4X0szUnh2UWlkN3V3ZTVFaUZJekRla2xFclc0d0g2aUhKV0tadi01cUdPcjg5MW5EYURXZmhpMGFWamdzZ01TcVhlOURSenVJamhJcXkwUGtLemVJZWY0bFJ0cE5FdUZaRGVESHZKUnZNa0RuWUVmOXNGS09mc1VFZzNISXlLWE80M0V0Qkd4NS15dEtJclpDbXNnR2hNMVE?oc=5"
@@ -76,7 +76,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Sheriff’s office releases update in crash that killed two on I-70 in Junction City - KSNT 27 News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnRsaXNoVWMtVFhCTUgwQUU1TDZRaXhFYkY1bFJWV3pLZGl3d1F6YWtmWnZ0ZURaTHVkNVk1TEE3RmEzajN2dngwRGtXTElVa1lGeVZSVWdldjdaeGVhbWhSZ1ZucDBXamhRcGpjX0F5emhZNnlkc2JydUhMclRQYXhDSU9GOGxaVW50U2MxOEVhX2ZZMUtQVVR1T095ZDhhNXVGWm9HZFlRUDRJTFlCWlM5NzltekFfbElZ0gHAAUFVX3lxTE5WcXhabFVVYnRZVXQyZUV1SEY4djI3RHBsSC1MZlBIbFE2V2FxOTVSTUdoaE1BTmJKa1VhakloaFlyUUt6TVBySGo2YldDZldaNVRzMFJsYmZqVjByOFhhMHQwanRuTHNWTFBXTWNadVpDNlc0TXgxYzFsSlNwQmZjVzFhLXc4NDlWRDN3a3F3Skd4bEZ0YW1xemRFRzZzaFVDakRXZEdBQUhaREhmNF9xRWpfTHVaQ21WRmM0alJlQg?oc=5"
@@ -89,13 +89,13 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzZzQlIwc3JMVDctSkhkSUFoeDZCcEE1Q0FOWUpEdGNfNnVpa1JYWnpuNjhaYlh2c190aWpWVE9laTVlQm9naTc3eXpjcmpuMWFZSGtjbjQ3OFlyeHlaVDFwN1JtZjhCS3h4dkdZZzA2RTEtcFhSVDFLLUoxM29HcHZfcWhDaUpNdXFRNm1TTzBKdXQwMHFIN2ZEM3FMdlFvQjAzVWxoU1N1WFNkbUstUNIBtgFBVV95cUxONTJFdE1hb0hZNnZET2hpbEs4WnpCTmtsWUJhaW9UWERGNE1mTmdwd1VjX0R5UUhzb2NodndPRm1vNXFIYjJac0VrLUdoVVl3aVVQU2xNMnJJcWpQbnpsRTJEMUVjTDk1QlJSamNDc0VnRG92QXB6Sy1tcFBDSjlzQVBtbDhUQ2o3TTFOWXB4a1ZKWU9FTG51dzUxc2dHdHNHaTVHdG9TNzFqQTludkt3MlpKZnVuQQ?oc=5"
     }
   ],
-  "open_postings": 14,
+  "open_postings": 16,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:junction",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

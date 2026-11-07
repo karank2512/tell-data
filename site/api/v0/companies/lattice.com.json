@@ -1,9 +1,9 @@
 {
   "domain": "lattice.com",
   "name": "Lattice",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.9,
+  "score": 12.7,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-22",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0h0WG01OW5zV09IMk5naElFeHhjYjJCd0VaN2Y1dC1WcVFHWUY2dzdYcUJSQlJ3RDRlVURQRGdybDZoaWFaUXdLMEM0LTV0MWFDVl9pem1aS01nNktIWThVR3BfXzVGZ0UyeGZMdFVseEFaRGlFcDQ2QjlLaTFTNV8wR3FnTGdEUldoeDVTeWdyUS1UdlhCaENwYmpSeDYtOU1HdDFsMERYQXd3QVdQbmhTTnJQQQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-22",
       "summary": "Lattice Semiconductor Appoints [person] and [person] to Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFRBOXkxZ3ZRTWFVbjNMdmJubUh6ZTljNm1hNE40QzhRZWhCZ2hmUGMtcFczYkp2Y3ZnY2x6WmNlUzkxYmZ1TlJsZDJ1elQzYUt2ck1JR3o4dDk3bnFnTm9FS244M0UwMkw2YVFuTm91V0JZZS05cWE1c1ZHOExvTUJxN2FvdndhOTA3TEo5RnJKb2R4cFdDdGoyNV81cDhkcEVEcnJn?oc=5"
@@ -76,13 +76,13 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWThUeUZYYkY3X1U1MHpneDV2Z0duckY5NkR6dm81T1IzNjd5em9STWZIbW51a0JHVVBWRkFfaVEwU01oMEc5eklpaGFUYXR0T1JNLTAtZW5wTDNpVlNxbWtfTmZ4WEVTNEt5X3JwaVVqdVRjdG1PN0s2NzVzeTQxcWh2WndIQ1B4Z2R0NXByVGFFVm5YNndWYjU3M3dmM1RuRW9ORE42VDZOWU0xd1FhZXVmZi1rWlEzdnJMQjRCZXptTkRS?oc=5"
     }
   ],
-  "open_postings": 7,
-  "long_open_roles": 2,
+  "open_postings": 6,
+  "long_open_roles": 1,
   "sources": {
     "ats": "greenhouse:lattice",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

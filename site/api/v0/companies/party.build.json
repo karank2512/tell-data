@@ -1,9 +1,9 @@
 {
   "domain": "party.build",
   "name": "Party",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.9,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Epic launches Connectors to link its AI tools with third-party apps - Fierce Healthcare",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFhaNU9xU0NZM0NUZ0NIbVRoRHk3Y2c2YUpxUkl0QzVtZTVScmdjdGt5Y2pJTUF4eF9RTE1fQk1QbmxNQ0lYTU9XOHdCd3I1UnZZODdLZkg0S04yREVqM09FY084YU1NVjhzU01BUmp1aWs2dV8zS1NMaEVack41QTlrblBPZjJzWUl0U2FFM1lwaFN2RkNLU1Y4SWlsNTNCWHZ4cEJ4Rk0ya0FqWVVNWVViMXRaMk0?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

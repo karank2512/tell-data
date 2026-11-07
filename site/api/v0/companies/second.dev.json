@@ -1,10 +1,17 @@
 {
   "domain": "second.dev",
   "name": "Second",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.7,
+  "score": 5.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Commission launches second Annual Migration Management Cycle - Migration and Home Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTJJQ3p5dndBN0xEbU0yN0dIRUZXZ2JwdzB1OVhGU2FaaXpFdTVBT1Z1TTNyZzFPVXZQeU9zLTN0RVBZOUZjYzZjYk82ZlVlR1lVVGp0eFBNU2J6ekV6T2lQU1pqNE9la0k0NGZPSGRjeXhBZGF3SVlvbEVXYkpkX00zR0taRGREdmpfYWsxazVTdnlIRFZsTGZKekhmMzFKRUN2OFRoOEU0b2FKdkQwNmRUbw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "BYD launches larger second-gen Seagull from $9,810, adds flash charging - CnEVPost",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLalBoV3FpNEpBc3dPUWxlVWQxV1J1MW1EVHdmLTEyOV9lWE1kcDdRS3A4d2FXR25zZUlQbG4tTVlULVZ1dE14YkFxeFAzd1BKanhHX3FBV1BhMmNwRFFfRnBPWWo5UThxbVpRX29qeW9oUQ?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

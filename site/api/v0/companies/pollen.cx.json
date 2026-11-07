@@ -1,9 +1,9 @@
 {
   "domain": "pollen.cx",
   "name": "Pollen",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-21",
       "summary": "Pollen Street : OrderYOYO appoints [person] as Chairman",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFRqWEUycUFUWnNremM3VlRpTFJzZ05aeXdQN05sX1JrbmRwRm5mQi1VWm85VU13Qndyd0VrYlI1WHVPaUNFdVM0djNQWGV1VEdiMnZVOTl2QkhCVkJqazVvc0tvZlRYb1MwNkdzWTBmT3B5X3NTdS1ROHJYWE9GblhnSmlNb28zWmM2ZTY3NEFTUlpaN3VUek90Z3Bxbm9SZE81RmIySFdncXhUZmc?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

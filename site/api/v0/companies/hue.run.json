@@ -1,13 +1,13 @@
 {
   "domain": "hue.run",
   "name": "Hue",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.9,
+  "score": 6.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Philips Hue Dual Slim Downlight Launches in North America - Hueblog.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0s3WlVMQ0x6cG5BODJEVzNaTEpoNzA4UWtNYmpjMmxMXzZsaW1tMThVcEkxZ0taVk9NYXVVQXBsTzZ0bDBJZ3RxakkxeGhmc3ZrRzAzR3Nabm5OUEh4RkV6N1lETHktV0JIVjgwdkhfcWlydFRYYkNFWTQ1cENkU3Q2QUJVWlJ0ZGtkWmltMk5Ga2c?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

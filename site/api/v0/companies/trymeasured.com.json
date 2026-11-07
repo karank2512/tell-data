@@ -1,10 +1,24 @@
 {
   "domain": "trymeasured.com",
   "name": "Measured",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.5,
+  "score": 6.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "WTTC Launches New Power, Efficiency & Opportunity Indices Expanding How Travel & Tourism Success is Measured - Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQamNhOS1YWkdVOExWR2FOUDJMWm9iRGdRalJHMmpKczlnMXhtR3JJQUhpTk8wb1JqSVZwaG4zTjBJVkloMmE4Q1JEbHc0ZHlQZlVvUXlkaUF3bEF6d2NQZUxTV2hGSHp6YzR5a2Jfbm1UM1N0SGQxTUQtV082eGVDNlFBOS1jTk5DT2lRY0EyYVM1QVJnWkQ0UGxxSVZqY0FiOWdxOEhVS0d2ODRvLTUwMldzQ3BCajNEMGNsVVp6Snk4R3ZLeWdSelFhZmtKOW92NnAtS0YzUUUyTElTRkxuOA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "NFP stress test: Six payrolls releases, measured in daily-loss limits - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjlmUWRpT2lOMmVzSXhWc3NpWkNaNS1RSVExM09JQXFXVTZRUnN4UEY3Vmc2VWJFLXZJWTJVV0t6eVBjbWUzc0paajZXdDgyblE5ZW9iU2tEWlgwejQ4WmtPUEQxMVA1b3R4YURDcUxJM0dqSlNiT0ZQV0EyMUNMYXV1cVZYN3pQVkdGZzR2Rk9mRlZOaUhXX2c2NXNSTXRxdTlNbGxzZExIYnRTaW9reWNyLTc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

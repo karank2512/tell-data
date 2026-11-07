@@ -1,9 +1,9 @@
 {
   "domain": "bud.app",
   "name": "Bud",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Bud Ecosystem Launches Bud GPU Foundry, an Open-Source Control Plane That Turns GPU Fleets Into Cloud Services - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ0lPWmtweV9FSUJ5angzdXpGeGUzUFRNSko5aG5sOVpyRFBqellJX1F4dDFnalhsTmdHUktfUjd2RUFmNW15Zl94TTVWTTJnWXdGcl9VNWhiU2Z0MDhraGgwTFN5RjhUTnFGRVRzVGJOd2FSQ3BiU25RTkl6WVYxb3hsQmhOckp0bUVaM2RwcXFuWjZnX3VWYThLVEVMVUNFNU1JVUNHSDEtOWpvcGtUTUtvUmppLXpkVnhBRzJNWFphdXFDWGIwNDVkWGItaU90N3lSOTJ4M3VKLVB5WmdHcS0weVpVUQ?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

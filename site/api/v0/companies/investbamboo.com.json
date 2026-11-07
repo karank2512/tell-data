@@ -1,13 +1,34 @@
 {
   "domain": "investbamboo.com",
   "name": "Bamboo",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.1,
+  "score": 15.3,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Lovable bamboo-binging bears are back! Zoo Atlanta debuts new giant panda duo in upgraded habitats - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamVsRTdFUW1PVDlIXzFBc25SWm5RYkVFd2tmTEpoUUMwZHY1VGxLTXpWdkw0bVZWd2FKWjBkVkdjMFFtVGJwZ3ZNTEFTbHcydExZdEpxSEM2SnVMalBiaGFaM3ZPYlE2NkUtNGg4SVNhSFl0OTA3M09kbTczUC04ZWoxcDU2SUxmRGZjQ0picmN2ck5RUDNZY05YWHdmT0hhU3lUcmpwSzg5VFZObE1ONjhPcTV0QQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Edison Unveils New Bamboo Ordinance After Months Of Debate - Patch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1V0TkNMR0RiM1FjVWtHYXppOFh3WjlNOElZaHpDME5OeGlwS2RILTVkY0ppY0pPcHNwVk9FRlJUV29YTWcwMHF3MWkycnYxdS1QWEtVTFhxMUYzekV3d1lPSnl4SGxxSW5INlM1V01jdnQ0c2Y0WHZjejI2UFhBeXlib2Nva1pNRlpDaktDTmVZcmd4UHA5cURVNmN6VEFnUlHSAbcBQVVfeXFMT05mNWlFdUU2ajhEUVJIWEZKU3Z1Y1BSOWo4dWc5b3RGdWFidWI2dEUwem1CX2xwcFV3RUJtclAyQ0VQNzZHNmxHaVRqdFBRaUFaQnM2RDVGZHNQcWpKbk1QamRja3E5ZWV3MWdBMTZFbXJ0LXJzTU55aVFzejNxMXA4Y0JmSmZHQWh2WHpLTHVwMnJKVEE0NHZsMjY5UGVQUFByNEN2X0ZEbXBSWjVVU1pFQkxidDI0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Aowanda forest park unveils 12-meter bamboo pangolin sculpture - Taiwan News",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53Sjg1UlBUTUpUUjRCeFJmRXh2TmxZdEZCWWkxc1dEWkpKck1aM0xoaFlvOGNseHhYTmVxOW5VY0U4V0Y0UjZtYkpTd1JTbklidlpOUTIyOUY?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Craft-Bamboo Racing Unveils \"Yanineko\" Livery for Japan’s Super Taikyu Series, and Fans Have Questions About That Rainbow Design - 玩具人 TOY PEOPLE",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFbHpQcmZRNk9TaHFGUmc3RnF1c1k3ZkZaMnEyZlladmlqamNhUzdMbDh3UUYwYVRfZjUtVF9QYVA3bzdmMERKcUZqc1hHdDNM?oc=5"
@@ -76,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

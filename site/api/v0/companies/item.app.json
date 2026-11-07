@@ -1,9 +1,9 @@
 {
   "domain": "item.app",
   "name": "item",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 15.1,
+  "score": 14.9,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Virgin unveils 'Aussie first' for onboard menu item after 'months of testing' - Yahoo Lifestyle Australia",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmo1Vjg5NDVUbWM4TmhnUkRUYUVtSGN1ZG1MME1nUkx1NEo3eGtSRzdrazBYZ1BoZ01VNFBJUVlXQUFFOVIzcV9sdjFRODNLdXoyVGhYY1dhNExCd2g4a3lwZWRzblVmZnR5cktqRndrQ0J1MWxhRGROZTl3Unp2dWZHTG5fLVp4bDN1T1p2NnJIY1VzOUZVU3pEV2JHTEFWajNIaUdpWkExa29Ba1J6VnBvVXQ4bWpjaFBB?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Taco Bell rolls out $2 item as McDonald’s wrestles with pricing - TheStreet",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzZfb1BqRWd3MWR0Y1JqdjRXS01ielViTDlpeWxBNzcyREtHSFRwbVBzdzRienE1MFVaT053N1NuZzFmaThhdTBjUjdSRGZMRG9IeDNYazdjLUpOV3J1VVlTeWlRaXNYR1Iwb3lyR0JLTWRwQk8zZi1fR1FXNEdZdTU0OURNaWtiTklRYk5fOVRreHU0Yi1FNkp2SGhiaEg3?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

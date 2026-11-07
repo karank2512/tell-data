@@ -1,10 +1,17 @@
 {
   "domain": "forum.market",
   "name": "Forum",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 1.1,
+  "score": 3.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-05",
+      "summary": "joins as chief development officer",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXZ5c3d0c3I4aGQ3WWhJdDJwa0szckdFNGtVLVVkSXNKYmY1Yzlmd0t5Zk53X0dFc1piSXRUbmlValRPNDFuQXZvQkpXUkhXdVloa2U0Qmd6YWtjTEUxUTFoTTVPZU9CaFEwUTZKU2dtQTlZZlpoNGNWMWtNSVBKeF9qZXR2bW1rOVRQcUNycFFrNDRiejRJeHI0am5BQkN5ZWtCeXR1UmNjSHU2U2h0QmY3NW9fWE1hdm9hZGFR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

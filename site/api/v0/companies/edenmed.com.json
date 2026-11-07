@@ -1,9 +1,9 @@
 {
   "domain": "edenmed.com",
   "name": "Eden",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "leadership",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Eden Mill Launches Brunch at The Lookout - The Whiskey Wash",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVF4dm4xMUp3NU5iWkVPX2NsWEZ3TlZ0RV9faUtEblktMG5kUjhldk13SHpSUVI1bnRKMzRtVEgycHVEek5xdHNpYXNFaWMyaVlFUk02RDV2RzRBVnpkLThuVmFHNHEzb05scURRblFVM3dFa3JjdlQtUHhRckE2NjkzYk5HNUl6?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "KatLynne Garcia Releases 'Echoes from Eden,' Inviting Readers to Rediscover Their God-Given Identity - Knoxville News Sentinel",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzcxWWplaUFwWEpJS0IwT2pSTkh2UURYbGZMeU9jQVRxbTJkT3VqZXdVa0dBVkllVUI5aTJYYjhOWExtQjJWYnVUUGZnMXpDVDduN0pIY0dGanF2a2VSeVFUNEdtbWVyTkRURFNjdjFFUkpidDdmVHV1cTNhR2prZUJpUzRGSTRpd0hKN3RSNE9pM3BObTBLd0NEaTZlVGJwZHlrSWNhSGZJaDYwSl8xR0xmRkk5QlZickpxTDZKOEdNWi16d25kVElxbjJNa3otQk5ManJlMm5XeVQxX0FBejZEdkc?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

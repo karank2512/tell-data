@@ -1,10 +1,17 @@
 {
   "domain": "givechariot.com",
   "name": "Chariot",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.3,
+  "score": 5.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "IRCTC Unveils Revamped Golden Chariot Luxury Train for 2026-27 - DD News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzRORnhwV2Fpczl0MDBtTURmRzVRY3pkd3c1Q2duR081WUs1dGZ6LXZ6dEMxNDhKQjB6ejFDTXhkMXMtSHoxWmpyT3JKNHluUXlmZ1dhYnBoQ0Uyc3hWd3FJVXlhU2p5YXhzTHFONXNTdHRVdVZlLW9XdnBLMER6S0JUb0RuQkZOU3NuMVhIcEt6Zw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Chariot launches Chariot-1-ASR realtime model transcribing 10 major Indian languages - NewsBytes",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0FvZmNpYlFfTU1aUFJEWVV2ZWhGMUZBazZpVGcyeXlHWWYyejY2WEYzcVR6TTVUMzBObHZnZ2tMbEtpY0hnNnBEQXMtLVRzZEx3X2hEY045UEtOb0dtTUlGM2t6M3lfdklRMWQ5UVlXb25VWDZPay1aajBFazF4OUdFNlJvc045WmpzazlFMGNBSG5SSWdLcXA4WWNSWEFMVEN6OWtZaXVMTkhLbTZxNnhGMEdsejJUVktZbTR4QkpHdXBaWjJpUWhHVQ?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

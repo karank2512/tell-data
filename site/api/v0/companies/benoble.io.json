@@ -1,20 +1,20 @@
 {
   "domain": "benoble.io",
   "name": "Noble",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-04",
       "summary": "Noble Corp promotes [person] to chief operating officer By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONUZydDdGZGs4NE05NElKN29LYi1IOWViWHBzNW5xajZxeEFrMUZGNlM4dVZZZU1Da2E3cjlyNHRxc3lob0NNVlJUenpka3ozVzRtM2hmVmhISS1pRG9QY1VhQXhtdVdoZHEtUURKaWpRQnJLSGVHVWFSTmVRMS0wUWhiNllXbXJ3eHZseEJlRHdUSkRMY2t2Q3NtMUFBd0JPdVhFZlo3WFc3dF8xOS1FdEl1U1A5ZFZaSU43bzRR?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-04",
       "summary": "Noble Corp promotes [person] to EVP and chief operating officer",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEZiQTdSN1JpLWJpekV6eXhqQ2dDSVNjd2hPcnpoSFo4dzlhNmp3YVY0Vzd3eEhScnp6SzcwZTczdDB3Y29NT0FpZDd5V2hfX1RCQjJOYUpfa25Ld0hEM3RaNjlNRTNBNzd3ODZmUk1OcG43dXVPQzViamlVX0NKb3VIbFRJdFkzTWU5Yi1lcmpNbjgzcXpDd2plUGJpN2MxZ3NQRV91bnlCWUYxNGxBdXpHYmtLOHhhLXlhTW9GVVlBeVk?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

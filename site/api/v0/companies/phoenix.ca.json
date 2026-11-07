@@ -1,9 +1,9 @@
 {
   "domain": "phoenix.ca",
   "name": "Phoenix",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 7.3,
+  "score": 7.2,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Phoenix Launches PHXLink Microtransit to Expand Public Transit Options - City of Phoenix (.gov)",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVdWOVBvMkZuYnFxNkpfb1g0clpaX29LeWNzU0RRNUhsLWVOeFE4WDFkazBCYUpUMUt3YkpiWDVEV1N4aXQxVFVKTC10TmlhQmJrTFpseWlOX0lUTjRHNjRfc2lzQlJjX3B2SHJuM1pSWFg5eFRzRUNFczdVNi02ZDc1V0NzaVllMHFUbEhpMzlUUDNuR1RoenBNV29PZmxWQ3RnVm9uQVJEbW5xdFEzZkdRN19ianAwU3hmT0RMNA?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

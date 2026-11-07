@@ -1,10 +1,17 @@
 {
   "domain": "fulcrumresearch.ai",
   "name": "Fulcrum",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 7.9,
+  "score": 9.7,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-06",
+      "summary": "Fulcrum Digital Appoints [person] To Lead India Delivery Operations",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmg5NGtaZy1RTGtuUGJBNUN0TU40VTFoT3BkVGxsWk00cWxSRG9JVU8yXzR2ZXFqZTNHbE1JN3NVQmJYdXdBOG1TNHVuT0Qwc2xvdzZSTFEwdkpQZDdtOXM0dm9UOE5LTVJuMmVpTlJpeGY1RHh3NVFDVnZCVUs4ajdTNjlWOUJEUHN1MEhnMlZybnBIblItTFotNmlDNFVtV2xsSDNzVXdKVzdl?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -28,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Fulcrum Lithium Launches Interactive Investor Hub - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLVQ1Y3pfMkJGa3ZFWkQ2eUdZV0xQam12WF9YWjNiS2kwZW5ia3hCR1FYWVFtODNuSVd1dkV6RHFjZE1rTm5kQXJRR3F5OFVNVVViOWtnYTBNRHl2SDkyVko4cms2YmctVnFHTGpJN0szQmZXX2w3bXNwM3A3UUxmVkVfZkdyUVVhYkx2NUNYNkFvZjE3TDRLNExEdlI0YmRDQWt3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-27",
       "summary": "Fulcrum Lithium Releases FY2026 Annual Report and Notice of AGM Scheduled for 27 November 2026 - Kalkine",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmhwR2cwM0VTUkdlazk0MkFHYnRSdVBvTV80TzN5LWlRLWJ3RFNURjkxdGFnbndxR0thQVoycnZOYkNiYk5NM0ZUaHhOdGc5ZGROU3JtTGxJSFJWakdHeWZXcnpfNTR3SjFqYmNvUGhIc2tqWkhfZ1JhWldfSlJNTGNRS1VXNVBOcHBEY2Vfa1MwMFdlZTNYcGlSZE0weS1MSFJJNGpDRlJJXzRsM3hKUENxTGF6TWFPdnltRUFKYjluX3Z4Ti1IdVZQcVFseUxRV0E?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

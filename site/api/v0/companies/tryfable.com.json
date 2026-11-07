@@ -1,13 +1,13 @@
 {
   "domain": "tryfable.com",
   "name": "Fable",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.3,
+  "score": 13.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Ava Liv Mabry Releases CRYING WOLF, Reimagining Classic Fable - BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLU9FZXhaUWJNTEY1b1NrdUhXeEhpNERQNkNURVllRmR6WFlJeTczdVdSbTZ1S2pIM0tPUkxnYzc1WXlpM1VFa0RyYTVTbkRaWmliSU93dXVSRVBVdDJSOHo1dGZ2V2VrQy1aMXVXT19iQTM0S2M1YXBXRjhpRTVKLVVlSzZlWXJHdm55cnNtRnpPSkloaXgyQ183Z2s1cmVoZ1FwWTNOVExEV3NGTkhhZkc4TzBpOTA?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Google officially releases 'Gemini 4 Argon,' offering performance comparable to Claude Fable 5.1 and GPT-6 Astra, allowing Google to finally catch up in the AI top competition. - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzJ1V2l6OGI0aG53aWtKS1pTUWREZy1jSlB2ZTJPQWNQVWsyRUxXR3g3bEN1cV9waEFVQWM1eklkVkRISUJ0dk9vcHp0ejBneEVfTXFUcjE5OXlDSkZqRUxkQi1ybW84WlBZLXZVeDVQX2JkNWE1RkNSVzlxLV9BVTdJLW5wVnM?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

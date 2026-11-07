@@ -1,9 +1,9 @@
 {
   "domain": "blink.new",
   "name": "Blink",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Blink Launches Its First 4K Camera, Trail Cam With 7,000-Foot Range, More - PCMag",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2lfVmY0UlR5dXQ3NTlwWEdIOEhKa2t0MTRqUnJ0OW9DbVU4YUlEQlFvTGdpenh1U2MwMk5pUjFXR2tpcnJyUDIwb0xHN0J0YWlORHN5WU92aW9GbWZSeWljZnFsdVB1aTZOZVNIY3gyM0J1cFVCRTN5bVVnNzZqQlFqa0FiV2dzZEJsd3JDc3B3aU5FcGtBdW1OdElCQQ?oc=5"
@@ -76,7 +76,7 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": [
     {
       "type": "launch",

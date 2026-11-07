@@ -1,9 +1,9 @@
 {
   "domain": "trygrain.com",
   "name": "Grain",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Illinois launches new grain storage loan program - Brownfield Ag News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZnV4c2Fpb1lWNXM3Z3pVNnlHWkhET3ZKaW5NeVh6Qlp2NmhDdEFzLUo4d21abllXWndRMFZ0TkU4dkNJaGZlZWR5RHhiZ29qd0VVcGdielE1NDdMczhOZ2NPNzlZMGY5WFJCVzFDS0RzQWNSQ1BremZ3M01BMDVlOThWQ0lGUGxDUkZV?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

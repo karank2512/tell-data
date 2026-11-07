@@ -1,10 +1,24 @@
 {
   "domain": "powderfi.com",
   "name": "Powder",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.8,
+  "score": 16.0,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-05",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFpDX0tRbFBmbFFtaGU4ZlBOQWM2bU5Vcl9vOUNYLXVvTzY2MlhhcGdRZDE0LUlPdlNyejRwelJrSThMc214a2hQZEpCREE1dzdYWUkxZ0ZmdGtBRU9VRmRJV2N0OUhOODNHVEI4SVpOdXR2YkRGTEJhc0IxMkFFRTgzRjMyWHI2amp6RjNyLXNmLTlYdmFTd1lGdXBXbW90d2RvM1VnVDRpbXFvSEpqclJsQW4yUDZMeG5WdVRUUHB1YTloV2c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Puori Launches Electrolytes+, a Clean Electrolyte Powder for Everyday Hydration - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkNOTS1ibXQ2dlBqUjBGZkVXd1NUeWdhVm1GLUxNcWh1RGVOVXlYRElnZThDZGxDV203d2hzSmstWDFWTGdjS3BVeFFrVkdKY0wyQW85cGM2c2xVWlI2SlpGWXZoVDlPaHJPUjZPZmpPRkk5N0kyUjc0Z3BZaFFfTzRHRllKTV9rbXloZXJoaE9jNUM3RWRXR1R6b0ZvRWlLcG0wS0N1MVFkeElmR1hIaDJhSzkwRTNNSlk2OWV1dkd3dHgyd3dOcHVMTVVYUQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Planet A Foods Unveils One-Ingredient Cocoa Powder Alternative to Cut Costs & Capture GLP-1 Market - Green Queen Media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUNJdURVcE1iN2VzTXNRMEVJcWgxcGZjSWxid3BseUpvOXBfX0ZidFM5eUY2R1E0aEd2RlphWkpqcjRKa05jNm5qZnV4STAweWxXMU1JMDYwQjhFRG9FR2drOVhCQmhKNkd2OVJ6M1lSTlRObV8tVEhsNnpTb0Y0RDdtTkE1UDVmZjdmNGUwLWJFRl9wWVBOcExqQlA2Y3QwYW5GNmt2TWxrUQ?oc=5"
@@ -70,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Forall Nutrition unveils protein water, powder - Food Business News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2ZZN3hvbTREOWdTM0ZqTmJGRWJUcW1TUHliN05sZURhOTdnQ3hSQ3c5SWxlaERZdW41UmNud2pnSVNFRDZpTlIzWlh6RnRGSGJuOHF5cVoxektRM3VWdV9FSlB1d0s4N0I0TnBUX01oX2Z2REVscFJFeExxbkVYMi1SV3VZeGdZWk1UOG5BWW5pdk1USUtTSw?oc=5"
@@ -83,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

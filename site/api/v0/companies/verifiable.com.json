@@ -1,9 +1,9 @@
 {
   "domain": "verifiable.com",
   "name": "Verifiable",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.3,
+  "score": 10.1,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Verifiable AI Agents: TraceLink Introduces Optimized Plans for Supply Chain Automation - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qbDR1a1NleVhFQXphc0xzNzdfTUswRDRXbzNkcXF4eGctcnZCQS1zdVBEVWxnNHBWUGVETUR4YmFXZTNXaEJmeU4tcDNIbTBVREtFM0JQMGhwM0FKLXRlSTRiaHBNZw?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "MEXC Releases October 2026 Proof of Reserves, Reinforcing User Trust Through Verifiable Transparency - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQY2gwUnlkMV9NUTNRaHhYSDhvRnd6X2NKQ0dGeUNwdDVNR0FENTFTVTJDQUxRc2x4YmgzZEFXRTFYMDF1YkdET2QxeUMyUkFHODRsN1JqdGczVE5yT29KSnh0aFcyWlZ0UnFfQzhyWjBTZEZ0R2g0cm1QS3V4VTZjdDg0NXdnYkpVVXFsRU1RbWV5V01ZWWYtUGkwRFNjZVJYb0dvZG1KelJ1d0tsYkZka1VFeEF4U1FsQkJ6TE5DdC1fbmZTNWFsV2w2Ul9VLTk5QUxNbmJNcUVPeXBOYkhsVWlvZlBzOXhtdzk4aWFXVGJiZmc2UUJyN0hoX2FGSEFJdE5DTXpkU0_SAYgCQVVfeXFMUGNoMFJ5ZDFfTVEzUWh4WEg4b0Z3el9jSkNHRnlDcHQ1TUdBRDUxU1UyQ0FMUXNseGJoM2RBV0UxWDAxdWJHRE9kMXlDMlJBRzg0bDdSanRnM1ROck9vSkp4dGhXMlpWdFJxX0M4clowU2RGdEdoNHJtUEt1eFU2Y3Q4NDV3Z2JKVVVxbEVNUW1leVdNWVlmLVBpMERTY2VSWG9Hb2RtSnpSdXdLbGJGZGtVRXhBeFNRbEJCekxOQ3QtX25mUzVhbFdsNlJfVS05OUFMTW5iTXFFT3lwTmJIbFVpb2ZQczl4bXc5OGlhV1RiYmZnNlFCcjdIaF9hRkhBSXROQ016ZFNP?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

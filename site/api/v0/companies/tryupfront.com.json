@@ -1,10 +1,17 @@
 {
   "domain": "tryupfront.com",
   "name": "Upfront",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.8,
+  "score": 15.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Count Limited to Acquire 75% Stake in Skybridge Financial for $29.6 Million Upfront, Launches $25 Million Placement - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX3VRMlFJeTlNWFlILWZuWUxlR0cyYTQyek4zRXZ3QVJkNXJldkZ4R3JIX3h2WFFrRGRUZXpBNUVkSV9GakZTdlpTbjhha1pSMWdrUzk5N1Q2Vm9FMEZKSmp6YmVUVlY3MFFWazFsMDg1SVgtTTJXeDlOYzR5MWpScTRGeVFId1hBdXVzSWgxNkhLbmxnTmp3MEtYblNwVHNZd3hWZnd4NndhQlF6TmdqUmw4R2hzdFV5eXF2WWUtRld0c3U5VkZVSUY3Q01QSWk0R1VDZWtiVXVkSDNLVVhfcUFDaXlxZW8?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -56,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "DossDocs Launches New MyPortal Early Disclosures with Built-In Docusign® eSignature and Lower Upfront Doc Costs - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNTdHRGNrMEpYOC1RTy1LVy1pYWIydEZHeU93OERmVE1qNFBqbXJraFlYV2N5cW8tQVZBdEJmaHNoLTY4b1RvZGY0VW5wTmQ1azlqTG1KalV4V19QWjFacm9uTFJkUXdxNy1NRlZPYWVlZmIyWFptWWJEWXh3MUFCV0dJZDVKQ0haRTlaSk1fMXRYOEdjMEwyNHRiR0RCekU5ZUZvOGw3ZmRCakkxTWZLbkdqR0R1aWhzOUcwdkpIREYzdGVrMDREM093ZVVjdVZGOGFUYUlDSndYb3Z3TFlMVTgtYWlnTGlHWkszYlZibnRmSHZRV1B3ZmRsMnRxZ0RP?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "DossDocs Launches New MyPortal Early Disclosures with Built-In Docusign® eSignature and Lower Upfront Doc Costs - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSW54YnQ2RGhLMHlwUzBfZWtoaEc2TWpIRDBJbzh0T29GMEtkbTVzNl9CNUswNEsyOFJFdDRuZzc5U2tVaTgzYUpsckxDTWtLUGJmWWRVTWwwUXhuTGhlWGtGSXAxUzAwS3AwZkVMZVZueExKYjNyUS0tdUhrYk8zV3Z5ckFXclpuQWlPV2dNell4SnBuMElfaTNZQmZId3c2YmVXc3VuXzlhb2xwQ19hLU5SbDA2a01DRGZZZ05pUnp1ZkxaczBlMElZSGNqbXBBeU5TTndFaklOTTYxcUJHUWp4SHo0VlhzMThTbHRrT3kzVDk4cVZOY0V3?oc=5"
@@ -90,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

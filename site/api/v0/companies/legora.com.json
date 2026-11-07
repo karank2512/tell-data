@@ -1,13 +1,13 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 45.0,
+  "score": 46.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 31.3,
+      "contribution": 31.0,
       "occurred_at": "2026-11-04",
       "summary": "Form D: $550,000,000 offering, $220,820,026 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2071663/000207166326000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-21",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -48,6 +48,13 @@
       "occurred_at": "2026-10-13",
       "summary": "[person] joins Legora as lead legal engineer",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGdvamFfUHpBNThaZnFhTnFqcUZ0MDJSdi1VRmlieEVGTHM5aXFjNGcxRk9ReHlKSk1fTzktRzM1cGpFRlBPTktxUW1QTGxRakVGQTlQTXlvRWZNMGR0UzB0OWEtRnJOSmRjRFhHNUIwWFBHNUZMN0NfRGgyLXRQZEkzbw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Fieldfisher rolls out Legora AI across network - Iberian Lawyer",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sV3RzZ2hRNzZvbmZ6b2RDaVp5eGZxNThPZG5JUTE4azJBYkE5R3pUUm5feWY5WW1sWnlvS3BmZ2dYSlFMa2EtM2g0R01KTXhnUTBwSF8xSFg3QVZ0THFtQ19UVE0wUmNvaVZnNlFHVHcwNWFwbGRtU18yQ19zdw?oc=5"
     },
     {
       "type": "launch",
@@ -101,7 +108,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-11-04",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -156,6 +163,6 @@
     "edgar_cik": "0002071663",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

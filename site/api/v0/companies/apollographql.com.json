@@ -1,13 +1,13 @@
 {
   "domain": "apollographql.com",
   "name": "Apollo",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 34.9,
+  "score": 34.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-20",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGZJVUJ6ZE92ZG9mX19TYnJVTVBWMWtORzRHSUxRcmlpZFhvYnlaaklVaUZRUEN5anNjcnI3VDFoQ25xeHk4ZEFLQmhYdVp4aEZ4NG5vWTBPdHlWOUhnc19EQUlJS2dia3c4MGlmUFlLckRHSkp2TXZQQS1XalNCMi1ySENaWWtOdDV0TXR6Y0QxU1p6a3BpdXZLRXhWcXdrMnJZVzZqZG1HUmJxZ0RZdk0ydmxCTFVNZUhQVXVzcmw0Sll0UVQzUA?oc=5"
@@ -56,28 +56,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Baidu Unveils Apollo World, a World Model Designed to Let AI Train AI - Gasgoo",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdEFIaUIwcG1Ob0FYakowNHVIeE11Q0o5WEgxVkxTSlFwUTFSVVozX1NBZWZfcUVkMVRudVVpdWZOTS0xQzhGT1YyREJrTEJkQ3h4RzhHWlRYNGxDLVczTjNGcUk0RmxPOUhZQkxydUtKTGVtOE5OLXc3c2wzSzhlNmsxeGpZa0Q1SmkyaWhpVVItb0w2UTJoZVhuUEJjWFBnUU4zOTVTZ1FaX1VtcUhaeXRjNHAzMXRsb1N2azY5bjVRcG1uMU41Mnl3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Baidu unveils Apollo World model to let AI teach AI to drive - CnEVPost",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdU9RdDlCTGd4c1haaWZZbDhNQVI1ZkpleXpPczN4cThCQlhzMDZWQVAwZ3FPRDBzMmtudWJBMjFpQm45N2pIS3pvdGlxdVd2RklqY1NhVVBEMVRkcWdrWHh2Q0lrWGhFWi1VWklScWM2bG9PRHNPa3dJVF9uSkdUVW9XaFQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Apollo Wellness Centers Releases Primer Video - Rutland Herald",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXRQQWxMc3l5bXNYTTFLMGhiWk1aMGxLNjNWM2pKZnVzcExOUXFEc0xOVFI5MGpRMmdBSG1SSzh2QV8zMlNHUC1NRFRGY3hTN2RmaU5lQnJGWURibFk2aExuMzNiLWF4cGRuSFlQMVNwb2otZGxsSE44S1REUTNsd1FtbHRZcXJkcGNmOG1tT3F5TnZXY2NURDMtM0hVQ0swQkItNklOdUwtYWJwY0wyLUFGbXQ3WGlOVHlsc2xzQ2stY0ZHcGZLUXJFRXJPNWs?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Apollo Wellness Centers Releases Primer Video - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzRON0ZqbzZMeWZidkRJbExkNTYzYlZXanRwVGJSLThVRFRLb1lTd2VNbEoxcThRQlJRd3REUnctYzZMTWprRXNyYUFnekZXZzEwWGdUTm93WGEyUklNc0pjOWdPX3VTNW5MSTRFd1BuSEl4T1VGaVhUX25Edk9hcnZKYXQ1YVRWclBzQXJrMlJmWU9RVHZ5WnJuRkxfMEpfSUE?oc=5"
@@ -195,6 +195,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

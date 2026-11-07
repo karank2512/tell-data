@@ -1,13 +1,13 @@
 {
   "domain": "campfire.ai",
   "name": "Campfire",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "Appoints CMO",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTnhEMVZGejdYc2ptbWluQjVCM0JMbmc4bTloNldGbVZLeHF1SnlXelZkZG9rb19sOGxOVlVBSFlmSFlnbmdZR3ZxVk9pd2xpZkxJM09qeC00eHhhM2xjZDdxU29reFRwVXRnZlYtdmxPbGc0RXpscElMSEs0aWtzbDM5VHY5MjF6TDE3ZUlQeXY0OU5Id3JTbDd2MVRIU0lHdWRqU1dobUxYbnZGS0kzSXFuZnRlcnpyQkpJNGtTQm9RSHBUeW9WT0x0cjJfbGJaX2k4ZFFXeXh5VDV1WkZxSHBBU1VJdjV4eDJJOTU4aTlYTm5PR3R5QmlRaGc0U2VlLU9Ud0lvOVlaZTVveW9Uc2JHVFV2RTJhdjQ2OFdwOGNVaHZlWVcyY1Vn?oc=5"
@@ -55,14 +55,14 @@
       "url": "https://campfire.ai/blog/introducing-askember-in-slack"
     }
   ],
-  "open_postings": 51,
+  "open_postings": 52,
   "long_open_roles": 24,
   "sources": {
     "ats": "ashby:campfire",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": [
     {
       "type": "launch",

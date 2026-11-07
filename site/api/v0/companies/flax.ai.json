@@ -1,0 +1,25 @@
+{
+  "domain": "flax.ai",
+  "name": "Flax Technologies",
+  "as_of": "2026-11-07",
+  "profile": "default",
+  "score": 28.0,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 28.0,
+      "occurred_at": "2026-11-06",
+      "summary": "Form D: $12,595,000 offering, $7,894,996 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2162905/000216290526000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002162905",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

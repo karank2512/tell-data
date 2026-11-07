@@ -1,9 +1,9 @@
 {
   "domain": "clarionhealth.com",
   "name": "Clarion",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Integrated Research launches Clarion to close the gap between what employees experience and what IT can see - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUFRwV2NFT2dVQTBobUs1VTRZZ2U5dHVxLUdsLWxjNl9FTW1SNUdxa0daeXZRekhJdUlyeHE4Ti1wY2g0bE5wcHNhZTU0ak1kTm10TmRyNnlOemNiQTV2VUEtbUZRR1d4TlJDUWFXQWZJVWpaS09NZlhBMGdiNGY0cmNsRDdRRmtfemxIU3VwUWtfejFZOWtkSF9jdnFZTXJkdHNjZjJZbG9ybUd4eERSREI1OE1QMVU1dS12LWUzS0lKYnAySV9td2xtVzRHRHdZNUxtTFQ4Zm9TR3FNQnBMWm1FbFhnYXY2ZU50WkZKbF9yUUxLbkF4NzRVUQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

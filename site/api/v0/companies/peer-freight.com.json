@@ -1,10 +1,17 @@
 {
   "domain": "peer-freight.com",
   "name": "Peer",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 23.6,
+  "score": 24.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Will County Sheriff’s Office launches Peer Support Team - NCTV17",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnZYaTJqZ3RGQjFReEZZbVRSdE96dTEzQjBlYnR3R29zOFZwQzdsUDh5U0M4aWxHX0lxVmdvUWI1cTItU0N1QjRwLUFZZmtpT19ic09adl9IMlF6Vm1rZmU5ZUxpRlpxdk1JS2xQUl9XTWdkcDFUWjBNYk1yWkdwN2NONmJzUmxEY29j0gGQAUFVX3lxTE43cGlJOFk4elA1UkxkVFRhSC16OV9hRll1emJ3a05OaUtwR3BnQnpPZGstdXA2Qm1XYVRQVDctSVlYMTVXd1pOZDEyMURmeGJaSzFwYk9GQkJPWTlaZFBrSUdKUHV0ZC1kMzBpQU1BRVlJd3BQVHJsU0c2U1NQcGE2bUhwVzc0V3RiQVh0VlJ4ag?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-01",
       "summary": "Qrrier Launches Peer-to-Peer Delivery Marketplace That Pays Travelers to Carry Packages Abroad - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFRUR1NJSl9WWHVpTnNfTDhUNkl5aUdRQU90VEZ2bElWUG43S1NndlM2bC1wbUJDaXhzaUV6SDd2QXY0SG1MSGFacWMxVHFLa2Z1QktmX3VzaVV3S0ZBUEFsTzhzWllhemJkV1AzWVViWkdrcmxwUHJaVEYwZjg3WVRZd25ZNzZxNGVMc0NlbTlxR09ZVS1hTDZPcw?oc=5"
@@ -91,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-27",
       "summary": "Leading Digital Wallet for Travelers and Expats, Moreta, Introduces Peer-to-Peer Transfers via Moreta Tags and QR Codes - mykxlg.com",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOYXU3a2s4aVhXay1LRlYtbktKMGt1QXA2dkZQSEdjVkIxTjFJREhVVWFhMHFFNjAydVNDdzFobnl1TVJjWVZ1YkhKYlYwSkJxSldTYTgwWjJKOHdfWklyTko1TS1DUW5CRG9qcllteXh0cXBmU2hZbWg4Q0ZDNUZFTFNMVWZDelZMLWMwQzBtQmVyYUNxNjVQeEpGTjYzNnViTWpwZzFoXy11SmxtWk1nZXN5UGpydm81MU5fSUFHT1gzOXVLa0FGb2Jhb2ZySU5YaFQ2MllfeHA1MGctZWdTRVJabVdNX3hMbGZ3UjZZWC0tTDJBd0k3ZnFYSWFxWmkxUkdtd2VheDhTX2Z2Y3l2VFhqYzJTSGtzTXplZF9XMHJXZkJTbExSVWRWTQ?oc=5"
@@ -105,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Youth Era Introduces PeerSidekick, an AI Tool That Backs Up Youth Peer Support Workers and Knows When to Pass to a Human - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbDFoT2g2eXZXN0ZhalJJWkd1dXBnRUpMT3FDTUVDNWRRam5kSWJDY3RMZ21xZkJQRjVMU0hSb3phYTYzem9way1kLUE3b1o5MlJRRXVaNmROVWtqNFpyem9iaDZFejM4UGFhLVlBR3Y5R1VJQ1hMUDFvYWJnRmFKSVY4N2tYTUJKdVFGWGY2X19naE5jVlFBVmJyZklVcldCOVQ1NWtzM1pFT0VES2szVFkzSzJnc0dDNUxzbWQ2Z0FyQ1cxZlFtQ1BMU0QxNXc5eTEwdVRFc3ctUUtsR0FPbzgxcGZxQlY0ODJYVW1QdDhrWGM?oc=5"
@@ -146,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

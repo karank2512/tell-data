@@ -1,9 +1,9 @@
 {
   "domain": "gosavvy.com",
   "name": "Savvy",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 20.1,
+  "score": 19.8,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Prudential launches Levela to make young Malaysians financially savvy - The Sun Malaysia",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUdLWVNxajhZaTJqYUdsaGIzbnNPNnEtTHBGQ0FBYy1ObzduMWZBOGRQbl9sQk5wZXUwcWxMcjJrQm5ObE95eUNaVUhzdnVfOG0tVC1HY09DOVBLS2JUUWpLamNibTRMUk1MaERnWHQ3NDZhM3hXVXBKY2VpLXBTamY1NUJQQ24wQWZHb0tCMjZwbktfTFNCRF8tVWludw?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-27",
       "summary": "SAVVY Collective acquires Cheshire Bakes and rolls out nationwide delivery programme - Retail Times",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlNXWm1RQV9EZ3IydHpOSWIzdXF4RWx0dnJJc2JrUmR0dHl2QVp2TC1qWldnbFNyaHRFNHNGODc2d0N4WVB4b3I3UWVUdVdPS05zTFlpNHZWc1pUb3lCM2h1Tl9TR3NpS2hncFF6ekxSazA5NUJ0MC1KUEhNLVFfTXFvTnhBRWJaaWlldnlGSFptclU1Uml4QnJfZlo4QWxicnJvTVMzYnY4R3BMcE1yeA?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-11-03",
       "summary": "Savvy Sliders Expands into Oregon, Its First Restaurant in the Pacific Northwest - Franchising.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWTh0clZBQmtwSWxFNE0tVlEyVUhKLVpuWVFjczVxQ0xmNGQ2ZVE4d3B0TkpQWHFTeF9URDdqbmgzRkpEbVFPanI2R2NUUzRJeHRKWUV1WTlhdlB1OFlFS2xxTDVXSHBZVGNQOVYyMnFzVkphZ2gzLTZDQk41SUhka2M5TU45cXRZNl9ZMlZqenJkYlROcUpRd2Q1d3NJb0xaZVRKWU1iNkpROUNRZ1RWeVBXOV9rOGhIcXpmWGZBQdIBxAFBVV95cUxNblF3WWFiRHk1WnRyd1V2em5rcWJfOTktekFYYWlFenJxZHVnS3M4WkZGd0pnaVNTU2c1dldsTEk4cUtXeVVrNjBMYWRkeHdLQk81X2QxamotZ2RVS1BFSGItSC1faVVNenlSWmxGbjVaQ040eVRjcjV6S2xkSFZzRzRHVWtxLVJudmtiOGZrUnByenMtMm5nRnV3MVRJOEZ3S1liOTRFN0ZndHFjUTJyWlFEVnZLWTBBOHpybjBXTHhFRUNB?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

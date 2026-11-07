@@ -1,13 +1,13 @@
 {
   "domain": "djamo.com",
   "name": "Djamo",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.8,
+  "score": 13.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.8,
+      "contribution": 13.7,
       "occurred_at": "2026-08-10",
       "summary": "Form D: $7,000,000 offering, $1,500,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1952394/000195239426000002/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001952394",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

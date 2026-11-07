@@ -1,9 +1,9 @@
 {
   "domain": "getfixed.me",
   "name": "Fixed",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.3,
+  "score": 13.1,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Trapeze MPS introduces fixed-route scheduling platform at APTA EXPO 2026 - Mass Transit",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTXlYVWw0bWZlcDdBTkxxaVBldE9QZnJXbDNvQk5Ed01OWE8xRHVTUWJuVTZLWnBIT3RmbERCNldNbjFhVWJnZUpIVlFyeWo0akpZSmt0aVc2b0ZubGc2Vkh6bW1DMkpCNXJYT0hMbEQ3XzI0TFNLWG84dVpSU09BYV9hYVNhTjNzRWRNZmROZWhadk1ZVWxTUFMweTd1c2NXeElLOXcyVXpLV1lCSExlY0MyXzl3a2IxSFdfMS11alpSZlN0eDl3LW5pc1o2S1hfbHpnRDI4VHA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Quickie Divorce Online UK Launches to Offer Fast, Fixed-Fee Online Divorce and Consent Orders - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOC16V3dBT21vcnhJZ05RakMxQW1QSEw3ZFRlYVBnbDExbm1jVzBVZ1M0clhVZzJNWVR5ZmRJSzc0Ykk1SUkwYkRPclptUkFNNzZNMjhuN3J3Tlo5VTNmM0d3X1EzZEZzaHVnVXk5MHBBeE1aS3JDbWhXSHdrcHc3ZUpCU3d0dHZoMF9fS2poV0Q0OGdMakdTQUpUajlTeVg5MWo4d2pIejB3Y2RsckdPY3VzYThaYkpUcHpVMUJUaXVOTU9NU2ZNRXc0dnY5dVdJMzhaa2ZFelBsU0FHdVRHaWotcUxwRGY4UkE?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

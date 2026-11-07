@@ -1,9 +1,9 @@
 {
   "domain": "trystudio.ai",
   "name": "Studio",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 34.7,
+  "score": 34.2,
   "contributions": [
     {
       "type": "leadership",
@@ -84,21 +84,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "McFarlane Marketing launches Social Studio OS - Quad Cities Business Journal",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN0toU1IyUklLeDVDZk5rZ21uLVNmNEJ2VHkwbGlMcUVTUkg0V2k3WDV1dUFBcjdTdVkzQ3NyZl9GTmhXQkswNVFOZnhiUklJWVo1V0FOR2ticmhsdXRKQ3JvM19ibERPckNOQVhUb3lXS2laaHNxdWtlc1FEcGxxQ2pkMA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Matthews Studio Equipment Unveils 33 Sliding Leg C-Stand - TVTechnology",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2h5YmxyTWdmZU50ajdndGJ6T0JVaXJwWktpU1dvVWtXVXpEWWRLYTFpRGFjdDF6ZllTdjE3SGUzTXEyc3lxd1NxVTd2UE1LTFQwUmVQV2ZIdkJZYlB3RXRtTm4yd0dwZklQRWNzQzFzR3NUdTBpaHZqaGlzOVIydmpyWUtNZ21xcVVtaHZPVjd2Wjg3TXl4Sm9kWEU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Cristina Moreno of Ōmbia Studio Debuts El Dorado - www.surfacemag.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0JSWXNjLWlhMk5ndHBfZk5KSVhZVUQyXzFHOEk3RU1VQW10Zi1Pd3BKQXVMcVJOd2ZGTjU2TWJjM3ZYTGE5ZENsUktXVG5BY1VHVTZWQW5ZUE9LcWxjRlRDeEdPWVExZjdudEZ4UE5tMDd1cTlJQzJaN3A2b3RkdUo5Rkx3QXNwbzF3M25n?oc=5"
@@ -175,14 +175,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Cerberus Tech Introduces Livelink Studio for On-Demand Live Production - Sports Video Group",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmpNWHRaVkl4eW1UV0xTOE1TY0c3WjF4aGJGWjFaeUdBbDE2YjVlT3NYQWtuWkQyNHJOUVhQWVFzX245d1RPUE1jTzNSMjRQVF9UY2NGN0NRLUVPSllpeC00T1M3aTQ3QkhYbElfM0pxcHhDeHhWNm1pWEtqTlZkYXQ3ZTRlNGxkX2ZkSjhiZGVwNGhNSGFoQUJ4N3JXX0ZEQ0ZUVjA3UHVGREFhVHZ3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Formlabs launches Form Studio 1 resin 3D printer at TCT Shenzhen - VoxelMatters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVB0bnI0aVBmeW1pSHdmSzB5dEozYlFhU1lNZ0NBU29faVY1MFIzVXV6RnpWYVBxV0Z4eUtMWFF5OVdPR09hSENvV0R0X1lUdFN3d3JxM2gzTUVMbWl3eTFWZHU2aEJLeHBOVThWams5M0xBR2ZNMU11NEdFNERKR0Q0SEhxb2Etd3NjSnJ4WHo3UVRsQ1VDUnRB0gGfAUFVX3lxTFBzRFhFeFR1SFYySVZ5dWJuSGV4OVNILU5BVmhpTXM1b2VEYWlKZ1A0NFVXVUdmT0ktTjVoZUE3QjJyTzdqcFgwbXZVaXB5WUw2ajV5WUg3NDJkYTROUG93ZUNLX3VRWmQ5RS1FckxpVldkMFFuTWFib0FmeTVfWHFtYXY3TVlMd0IzUW5IZHVNSDRWcGMyZ0hNa3Jlb1VaRQ?oc=5"
@@ -209,6 +209,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

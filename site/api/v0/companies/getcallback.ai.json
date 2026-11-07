@@ -1,9 +1,9 @@
 {
   "domain": "getcallback.ai",
   "name": "Callback",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.7,
+  "score": 3.6,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Telphin launches callback feature on Whatcrm widget - Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ0hZaDd3WTVmOHYzTzFaY3NJRWVFX2ltMGRWbWdpMWVCNjRHRjdFRWYzeWxEdmt0N3U5UjEtR1E2VEt6ZW9BeHZWRHQ1aXdkTjZjZ0podzlNSlRObWppcTN1RXJMN0xMYXdDZjBxdUtGRm9pZFNOVzZnamFRRWttTzJuMEYtNGttN3NqZE9MMURJX09uQURUTnZn?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

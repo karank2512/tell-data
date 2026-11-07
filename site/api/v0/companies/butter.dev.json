@@ -1,9 +1,9 @@
 {
   "domain": "butter.dev",
   "name": "Butter",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 18.4,
+  "score": 18.1,
   "contributions": [
     {
       "type": "launch",
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Shake Shack Unveils New Butter Chicken Menu, but U.S. Fans Miss Out - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVBDZHVPN3h0b05rdlhOSzg2RFdUcTlFNllQLXowVHY0S2JVVnU5dzlVT01ibHNGbWhzNjNUOXpTVjhVTy1wamlUVGYtQlE2ZE5BenBhM1M3YzhOdE5yNUg3LUdzclJQVFZ2SUtBREVINGF3QjJCNVVDcXJObmpOSzdITFQ4X2xtOHZCeDFadGVid1FW?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Barebells launches Speculoos Cookie Butter in the US - Stack3d",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGM1aVcxVUlFaVltdTVJbS1EMDQteGEtWEt0cHlMV1JrREtNS0lCcWY4M3lBODVwRVlLeldGVHdwZ3h5cFN2RmJHMG1TYTBIaUNXNENoM1hGYnRrZ1hJT3J6YUNUR2Z1RUEyd05jbERkaGFHSThoNU5rWmwwWklOWHZhR2s?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Caribou Coffee debuts cookie butter lineup - Bake Magazine",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFdreWFSTGE3RWFqNTF5b05HU3Q0c1ZhaDhjQjFkTkpscG8tQ3lxdElGVjZjUE9SZWpMbzRFV29DTXpDTThaVFdVeWZybEY5bS1xclA5UFU3MGFFYnpCMGNldU92Qm9XMS13ZDVJektqSnIzOEpNTlV6SjdfcGFRclNSTVg1TnJE?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

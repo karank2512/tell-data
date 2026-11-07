@@ -1,9 +1,9 @@
 {
   "domain": "backpackbang.com",
   "name": "Backpack",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.5,
+  "score": 13.2,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-27",
       "summary": "Makita debuts new chainsaws, backpack blower - Lawn & Landscape",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT2lRNXRHV193eXFZd3lWdG9FMU9WU3lCNGtkMEFEa3Ytbm50THk5NnVYMmFBSXZ6U3N2eWtKZ3BuYUY2NC1oMXVaMkhuQ2EwNUNSMTFGX1MyejRMUjNtWG8xcngwNHhubUZSQTZocnNMVmJ4dlF0cjJ3NEx2NkE2MG95UUM3aWF5S1E?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "LEGO launches new Wednesday Addams Backpack building set - AL.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWGN3WmlRZ3d5bmxMd1FWV19FajBIa1p2aDRleEMtZ0FfOHd2M1c2RktSRERrSmJkMkRBQnRWYlYtZ3BPenJsUWpWR3ViUkdjNlBYYUtmY2t2c3M2SU9lQThvMFJyY0lRa3JLN0ljTDNocUVCSTZNZ1N4eGRtYjM3QTBIQ1JFem1wamo2MGUtX29fVzJHVmdIMU5uQ2JHME8xTUdxeUhjX3lyZDDSAb8BQVVfeXFMTU1SYk92NnZqM1YtaVZqN0s0VGdJbTZUaFE1Y09UVjk2d3F2NmpzbVpyQ1JqTmVUam5fMEVwb0pZQXAxTnVDQjRjSWlXWjRFb0FfNzEtbDdLNldGcGNtLVVpTEw5UUUyZjNUazZvOExYZmxPNHZ1Tzg3REUxMGlVVTB1cXBqbjFfY0JUTFl1QnFUUU5jVlQ3UGVvSzMtclJQZ203cFdPMHY2WkF3RTluSTdXZXppaWlQZGp1UlkwWmM?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Backpack Exchange Unveils Tokenomics Plan - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUE5YnNPbGxsTXMxbThnc1djeS04Z3d3blBvYlNsZU5mbUVYWVQyblFjQlRCS3I1YUtDZno0NkVScjBjLVF0dTc5UEtRelp6Rnhkb0tNLW5iaUMxRUpoTGdNZk1OWEh4R0E0X3lyVGxKRGlMbXgyeXdiNDFEOWZ4ckFLQ3lZTWZvaGVB?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

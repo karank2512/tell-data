@@ -1,9 +1,9 @@
 {
   "domain": "numeral.com",
   "name": "Numeral",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.8,
+  "score": 3.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Numeral Launches New Partnership Program to Help Partners Accelerate Growth and Deliver Sales Tax Compliance - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzN2aEpQcExYWTJBeXVNWjJnckdqSnQtMmFoNmRWeXFTV3JfdlpwTDBERGRxMlhJM051Ni1IRzZ6d3Znb0NFc2xYXzJwaTJReHRhRjNoWUUyTlRMYTRnMjVsaWNXdHBlblRBUFkwRU1Oa3AwZFlaYlhSNTZDMjNtcWQxQ3AyaWkySWZmc0hoaGJiTmdMRWp0SHUzMTVieEk3VXVDRkJsOEJKUQ?oc=5"
@@ -27,13 +27,13 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVzJwNUJNcWVTb1paRDFMNFczTGRZcXh0SHRVd1ZNNm0zZUlsMS1VR3NfSUozUG41LV92Z2NYMzUxYkxDam1wQ0JPMEdBUmtFOERtRklWZzk0Z0dlYjNia3F5eFFIbHZ5QlB3aFl6V2ZsTVpUZnh6dW94SlZGc1E5NXp0Y3hBT0NNWng0X3FOX2FqNm4zRXV1SUVacFhTTThpQ0JpX1RHWHBpbTdZZVRZTGNuN0k0MS03SjdCamp4YVVtQXd5cDhSTTZadGdEdmFRWm1maHRJa19sQkYwS19HZ1hLMmtoMG0yNUJ4Vy10QjhvdGJVTjFsYg?oc=5"
     }
   ],
-  "open_postings": 22,
+  "open_postings": 21,
   "long_open_roles": 8,
   "sources": {
     "ats": "ashby:numeral",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

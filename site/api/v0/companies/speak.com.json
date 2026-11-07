@@ -1,10 +1,18 @@
 {
   "domain": "speak.com",
   "name": "Speak",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
+  "score": 1.0,
+  "contributions": [
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-06",
+      "summary": "Lebanon police speak out after referendum to fund new headquarters fails - WTHR",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX3hUMEhsc0d0STF3OWdFbVlodHVlcTl2aC1EN0JoN21JdXQ0QWdzNDRSY0tOeGF4YV9HQzFZOUUxdG1WTks1MnVLSmZXQXVDblRZVHpkQ1RSZmdLMmRVMmZCYzJuM0dSZV85eVdOc2MwSHBXR0lFcmpYTmdBaTlEbFJ6azJRU2ZzLUxrYjNsYjBvakxQeHY4VE9odkk5SG9MNF80U3JzWWg5bkhGNktMZi1VVm9TY2tuTWJhb0NLZW1MaklvVW52U1ViZkhLVmpsd2NSMjZsU2U2UjRQZUtnYnFXajc5R1VwcGl4TXZKa0s4R2dGbzhPVDQ5UWY5MURVSkw5bQ?oc=5"
+    }
+  ],
   "open_postings": 32,
   "long_open_roles": 19,
   "sources": {
@@ -12,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

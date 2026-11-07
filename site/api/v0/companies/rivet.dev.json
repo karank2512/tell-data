@@ -1,10 +1,17 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.1,
+  "score": 11.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Rep. McDonald Rivet Launches Bid for House Democrats’ Battleground Leadership Post - NOTUS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNUVGbzJEWnA2Si1pSEU0SmF2LUIxaTQyX3FHTXNuWHZ6Ql9hbmFuN1puVkhIWUVkS19pYVZvclV6TFNNa0FBSi1wbW14Y3lwMGlGcXh0dnBKTDRvdmx4azdVbldDVmpVN2s2cVlmOUY3X0cwekU0bTgyTW1UU3dsOVhnVm13QmtaYzFKVThsOWhFeld6VW5XZi1FbDc4aEU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Xiaomi launches premium Mijia Metal Suitcase with rivet-free design and silent wheels - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVV6a3BHak5iZmprazdYVU95Uy1BSkoxS2pRLTZuOVBnWDlSRWJBelBxQ04wLXZhb3pYcDJ2S25VWFR3MlA1QTNsRWpaX1FsMEQ2ZVRDd09IeUNFWHBka3RVZF96TlBxeFp1aE42OEktNUQ5QzczUTBoVm8wdVJOS2VvcFhvOC00SUlNVG5qa0g?oc=5"
@@ -139,6 +146,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

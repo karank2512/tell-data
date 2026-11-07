@@ -1,13 +1,13 @@
 {
   "domain": "reflex.dev",
   "name": "Reflex",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.3,
+  "score": 11.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Reflex Advanced Materials Corp. (U0P.F) latest press releases and corporate news - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LeWg0X29kbVZZdlhBb1lsTTFCLVNPOVpPNlRrYV9fTjVfRTRCYWJ0QlBhWThtaTBhRENhZ2Z1VWJyR0V6eFJkN19ETm5famxNUV9nZW9iVmpxY1paR3FEYXktSXBpT3M?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "CRITICAL REFLEX UNVEILS NEW GAMES - DLH.net",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53TElvNUktUGZHQkE1RWFQSmc1Y0x6S2JZQTZCNkxMQnZ2MklBN1UtRjF5NjRoTFJPSWhQSnpERlpLeVFONHRXcFdUYVVCVE5mY2VZamN0UGMwWGxPWVRJZ0lPM2FjM1B5ZkprRG9NSFd3Z1NDWC1hdDc4bVE?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

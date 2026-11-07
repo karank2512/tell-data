@@ -1,9 +1,9 @@
 {
   "domain": "zeusliving.com",
   "name": "Zeus",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 16.8,
+  "score": 16.6,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-22",
       "summary": "H-Power appoints [person] as nominated adviser By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1lmZ2RWNDNpaU5LekFyN3NhUlRFdEFsVTNCRVVLdnFLcndfZWRyRzh2S25wQnBETTc2QUpvcTRYVjR2Mjg5THFjU012dTZqYWNoNl9Dcm10cnFVMWZMMmhyaVRoV09DbXhoM1RqT2xOWW5YTTlvNTFseHJySEJsN2w4SFJGRlNPcEZKZVZmMDZiSkRSeDFMWXBYVjZyeUhaaWl4eWlsbjNJQllQWnl3?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-22",
       "summary": "H-Power appoints [person] as nominated adviser By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGEtQnJpOWhTVmVkMkdzQnloOFdieUo4U0hsSVZMZ1M3UWtEc05zY1BIdkJ2VDlYZVh3aXViRXJzNXJ5X3VVVVpDMGNhY0JDLVRQMjF1WENNMm83SjByR3VOYS1fcFVJd1FlbE12Ul9mYTNQQTc5YVh4S1U4VURpU2VzcGpXYXZtenI2SzU2RVY4M2VoMTRETktpR3RSdUI5aVBaampadmF5WkJiRUI0?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

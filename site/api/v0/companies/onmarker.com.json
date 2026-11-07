@@ -1,9 +1,9 @@
 {
   "domain": "onmarker.com",
   "name": "Marker",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 19.1,
+  "score": 18.9,
   "contributions": [
     {
       "type": "launch",
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Brothertown Indian Nation unveils new state historical marker - Fond du Lac Reporter",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS3pZXzF4UU52VmJLWTR5eWJ5RVVBTE5waHFFRGZ4Y1U1dUU2OWtoWmJZbnNNVVVldkRtcFV1NjZUcHFyN3RJaGFMUW96M1p1MjhXQ0pqVERULW1EZ1oxZTJxRlBKdjR2N1YzQ3d1LVhRVS1uTnFGeTFMYko1N2x5UWQ5d0RGQUIwb2VYUVdTWEtuMWt3OTJLTVp6OWxneDdlN0ZqVm9POHFtS2JqbGVZNnp3ZC00SF9sYWl2OVFEOVpXM1hyNG1reG9kWWl0ZVBIR3duWlBwNkRWc2E0VmNwTnZPdG5Mdw?oc=5"
@@ -105,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "‘Governors’ Park’ debuts on S-curve; planned state marker tardy - The North Platte Telegraph",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFhTSWlVVnRGTmxPdkFjamhPLUxOSVNMNk54bXpnYVdQMnl0ZExpbXg1S3dMR2VSRVN1alluQ3JXRHpZRUdtNlVON25fWlZqNV9hbXlxejltNEJ2eHdGLVVVTzFYQzdLZmxucHk4TUI5OXhjUWRCeE1nMmtUZ2VzRDBHakdsM0pnTWV6UTRsRWg3WFcwLTJv?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

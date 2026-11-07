@@ -1,9 +1,9 @@
 {
   "domain": "happyrobot.ai",
   "name": "HappyRobot",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.2,
+  "score": 3.1,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -32,7 +32,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "HappyRobot, AI agents unicorn, launches operations in Brazil and office in São Paulo - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamlPbWxvc3ZFRThxWVBIenp2b0plQXppMU9UUkJzNHRGRmo1ZlpsR3RHNF9pbUd0MlNnUHlYd2djek9reEpLY21wWEpOVWFqc3ZJbUtna2xUMUpIVXFfRTNIc2F1eXJFTmFBY3ZQUEp4Wm5QTHVGdXJDT0stVHZVSGo5V2FqbzZTS1hmTWtUeGRYd3lxZlp1VGRiM2xyeFV6R3BucUVDUmkyT0gzdWlKaHZhNkk5Nnk1?oc=5"
@@ -45,6 +45,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

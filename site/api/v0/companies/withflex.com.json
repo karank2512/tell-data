@@ -1,9 +1,9 @@
 {
   "domain": "withflex.com",
   "name": "Flex",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "KC HiLiTES Introduces Compact FLEX ERA 4 Mini LED Light - Overland Expo",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHBreDVVQzItOWlhQXh5LW03UVR2TlpWb0JfbnN0Um1MT0t1bjAxOTRjMUl4a292Q2tFMVZTRmtYcDlvOGlMVTFNdnBMSXF5TVlDM3Q4Yk90ZVNPS2xBTWdiV3M0WF9OaGFsSTBzUFV6ZlJDa0gzYVc0eGtMemcwbG9aam5yeVFFOHUxVm1n?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

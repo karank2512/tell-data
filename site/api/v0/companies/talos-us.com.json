@@ -1,9 +1,9 @@
 {
   "domain": "talos-us.com",
   "name": "Talos",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.4,
+  "score": 11.2,
   "contributions": [
     {
       "type": "leadership",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-10",
       "summary": "The Talos Principle 3 unveils first gameplay trailer - Rocket Chainsaw",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbzdRNGhzbE0zcTBQTnU5M3dfTFdPNE9KdFRVbzF2dUJ6ZUNDcEdSREp0TFh0UXVWRTY4OTZhRGdCQ0djTC1naVdha3hvVHhuc1Y4RTd3d0E1clFyY3UyVVktbi10Xy1LOWprcVhKa0dnS1lZeDA5S3ljSmVJSjU2ZVByc0Zxc1FLQXotSi1ZN2I?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "The Talos Principle 3 Reveals First Gameplay, Launches in 2027 - MonsterVine",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2bU1YbDVTWEI0NDdkc0NxbzBGaDhCeXNhRzBBbWVwaTl5ZDBQanlXeGNsSGQ2WG94OWdpMkViYnAyRTBQLXJVYXVfc2F0c01LeGloZ3I5M2dySFZwckdhLV9jbkVPbV9TS0Jsb0Z4am1yM2Q3OTJBYVVqbThDSjQ?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

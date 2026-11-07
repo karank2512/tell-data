@@ -1,9 +1,9 @@
 {
   "domain": "torch.io",
   "name": "Torch",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Avengers: Doomsday Photo Unveils Redesign For Joseph Quinn's Human Torch - The Direct",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fMEtxeDN1UW1JTjZHQkM5RVFvTVVmNlVYbGNUZzhLaDJMSi1XSXRqVTdFcUlDeDFMcXQ5TTlBYlVrdnRxV0dua2Y2Yzg1aEtRVGJWejZWZjlhMEc3TnNvNHNvT1l1VVE1YzdibkxrYTBNWnB0VDlMZ2Rua1o?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

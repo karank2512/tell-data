@@ -1,9 +1,9 @@
 {
   "domain": "usehatch.ai",
   "name": "Hatch",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.7,
+  "score": 13.5,
   "contributions": [
     {
       "type": "leadership",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Ditch the Apple Watch: Hatch launches a contactless sleep-tracking alarm clock - Mashable",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EdVpubXFIVEVGR2dEVFpBR19FTUE3SWQ0QnBoSjJrWGMyQmdDSmNjbUVHX2toRjQxVVh4bHhPYVJFenBwbnB1ZVUwNDR5S0xaQlluMFdtNEkyeHdGZjNGZjdTWU1BV3U5VEkzRjhBdDJucmVLQnNZ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-25",
       "summary": "The viral Hatch Smart Alarm Clock finally introduces sleep tracking, but is it worth it? - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAza2NOenp0VEEtNnhaNXVSN1M4d0pyTzM4T2Z6WlpLX2N2UkdJNFZlWkE5UGFVRzBXandDcE91cXAtbldzbXRodW9Mamg3YkxpeXdvS2dqcFVrTkVtY0lUd0dBNWh0WE9BTWc2bjEzY2U2VWs4S2Jj?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

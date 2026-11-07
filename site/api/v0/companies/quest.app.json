@@ -1,9 +1,9 @@
 {
   "domain": "quest.app",
   "name": "Quest",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.3,
+  "score": 13.1,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "DRAGON QUEST Smash/Grow Launches DQ IV Event + Half Anniversary Celebration - KLab.Inc",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RcDlOUF9xQXZpQW5tMk5GaXIxdlp2THdHeXY1cHlEdlllRld4ZFgyQ0htT2ZIY3V2Rkhwd1VqcF8zMmpCZE9yTXhlR2dJM250VTZaV1ZuUE1RXy16aVAxeUFSdXk?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Daumier: Lila & Ghost Launches On Quest With A Free Second Copy For Early Buyers - UploadVR",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkswVHlvMlQzeVhYaEo1MTltTDcwS2pxdzdjRVc5QTN3dzBrUmEtUTMwSlJRYWlTZFNnVnl0cXJ4MWJaSE1obnJVMVRxaGdObEF3cnd5UmlXMlRyckNMLVYzV3BjczYzWHZEdXMzdEk5VnQ3eUIyZy1HaVpvZGp2eTBueC1fWm5RWFhXSlpRVk9SRDB3Snd4ZU1BYmdrbkdlQjFRZWlB?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

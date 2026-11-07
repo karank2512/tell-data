@@ -1,9 +1,9 @@
 {
   "domain": "vibe.codes",
   "name": "Vibe",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Epic Releases Vibe-Coded Launcher Preview, Claims Faster Startup Than Steam With Linux Support - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcjBva1JsYl9jY3Q3bTR5MkZkWl9ZckhQV1BEUTZwNURCYlZCUnVsWU1WSVlxSVFwa2NfU1hkZDdzZlNwbVJCUmhWbk9CQVhKNGd0UjFyV2ZOd3hTaFJkemFzM1RVQURSTHp3dTVaeFBIa19tN1VPZTA5RFl4c1gzQzhIVzZacnExNEptS05tbndCR3VWV1Y0Q2JIek1wbkk2RXNSQmx1ZjFibDI1WXl6ZmJkN0M0TDRNeUN6UFVVbWxQX1E4YWt6TjVYZHRFbGNHekJKV0g4V0hHRnNoX1ZhdFdyTWNsX0l0?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

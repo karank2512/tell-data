@@ -1,9 +1,9 @@
 {
   "domain": "uselotus.io",
   "name": "Lotus",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.0,
+  "score": 11.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Dream Lotus Launches Corporate Sound Bath Sessions for Florida Companies - TechFinancials",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEFZazJxN2NkUHFVb3U3NWRNV3NXSHNLajFDMkZQS28zRDU0YU1JejJkSzU2SUFCTzBEcDNPLW1mc01QSEhNNkF6ODQyZlNzWnlFZ0pSYXYwSEQ3cVFnNXZYYWZhV3B2ekVYd01oNjBnOTg4TkZVN1h1M3YxRXc0QlR2ZTZJLTRJakpCaGVfTHFsakhZRXVxTWVJSWc4c2c3V0lSWFcyRlA5NC1kQ0htb1J0ONIBuwFBVV95cUxQaWlKYVUwanZ2bnVSWlFHQlJ0bFFZZnpzZ2FEcWh0TzRFZkJnU2tYX1d5Y2thLWdpeFZoVlFxbFVUeGdyOERlb2s4OElWZFR4VFhMNkZFeU9SV1Nza0VIWkM5blJzV0lEaUlhSnctQ2ktQm1JTXdKRkhmdVNBZW14clVSV2ZBUGprTVU2M08zWmFvcGVlRzhUYTZZNmMzbW1sNk5yREh6WVlkNlN4Z0NOOUlBWkNoQWVackFJ?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Asian Egg Bank Launches Lotus Donor Bank, Expanding Access to Diverse Donor Eggs for Families Worldwide - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORjFtWUJiSjVnREV5dUQxbld1bGpDejk3RXQyWElVOWNQeDlpVno2V2p6MmxKbHVSaVlTZWdFOHVZTkN3YnFiUXI1ZFhQQ1QyTm9oRzVFaVEzcUU0cGYxcEVNZi1MRURka3IwLVlFNUV1cURyaEpIRlBUd2NlUlRDSmJ3RjN3d05jUVJoa3VRanJvMFVET0dNQ2N1cTlfdUxadGRPbmo4elpHQUw5T3NYcFBLcGRhVXM?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

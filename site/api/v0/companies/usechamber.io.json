@@ -1,9 +1,9 @@
 {
   "domain": "usechamber.io",
   "name": "Chamber",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 22.8,
+  "score": 22.4,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-26",
       "summary": "joins [person]",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcnRoUnBDLW1CYWdmRUIyU3dnbWFrVGlyM2NnVFNWY2V5OFFtSjQ0TTlmazEtNnNTdzN5OFZjby05TG9Ub2F3VFBuVTZJR1U1R1hyTm9xanVqVUZSbjRvNzhoaVVzRmp6R09aRFNwc0o5QUFjT2ozQ1p3RE5QcjczUXlwRlNZTGVxQWpn0gGQAUFVX3lxTFBsczhlaml4enprWG0zdFVZMWMyVHYzbnNJaThiZVRoN0hOb1d2NVhaTGpuTi1GNGhCaGpNcWhEXzZkTHg2TThRY0wxVkxQRU5SbmNfM3dYdmJlZlVPZF93TENHc3BqZER6dHRvSW9nYjNnVzZjTEYxTFVPanZydF9ONEVsMTN6UENQRkNldG80Uw?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "St. Francis House launches chamber fundraising campaign for major expansion - Pigeon605",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ3BCcHJCWG5wdjM4LTlqbzBEa2JNbWRGV0xveEFCc2w5STRkT0p5NXZlVFZxclcwc3ZwS3k5OFlDekg3Qzh4SEd1WWZldGc3dG5XZDB5TVpFZzhIU3c4VXpva1V4bUprZkVHNHZKT21SYV9oMjZXSjA2Sk8zNlp2Q3BLQUFIWXFsbTdobkwwRTBpSGkzSmVTTkh6T3BNdw?oc=5"
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Little Rock Regional Chamber launches \"Life in Little Rock\" worker-attraction campaign - KATV",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT2FzYjhIVFdTUUlyTUk3Qms3TXpzR2pCM3pxOFdlS195ODhKMnNrTHl5b1VoTXFab204cXVieE1yeGtSZC1VWnNNLUoza2tXajlIMEZZY011ampHZDRxZ1cyVUxhTUJvVnRfeWVNZzh1Z1EtZUVKQUlQS2VWdDNOVHVyNWcwM0x4MG5qajJBbDYxY1VGc3Q1VHBadHUwTWhCdHI1NVdxOHYzd3RfYUVlMWVraEFXYXhBa2hCVnc5bnA4eVVzODNNMEIzTzNMaWxiaHhBV3dUVk5LanUtOWFEamJVOUVlbGdQRUoxYVU4OUJjeFNN?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Little Rock Regional Chamber launches new initiative for prospective state residents - KARK",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclU5MUdtaC1VSlJtMDFkWHJfRVROelplZ3RDa2Z6dkJCNHZsaHBucG5zT010Z1dLV1hIUS1jQlRTQUxqWUlDR3FoUTZwbUdPdUduUlp0cjg4d1hUQkJLUWdBUzAyN2pDMTZSb0lpWUVrNHRERFpHNjZWSnBUQWhiY1dUZ0szTDgyVEVLdTVOcW05N3F3emxZQzIyR1JmVGdVVTBDeHd5VzZvN0JoQWJSLS1sLXp5Z1ZDZlNIdGZBaw?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

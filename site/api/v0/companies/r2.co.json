@@ -1,10 +1,17 @@
 {
   "domain": "r2.co",
   "name": "R2",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.3,
+  "score": 10.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "New Holiday R2-H16 Droid Debuts at Disney's Hollywood Studios - WDW News Today",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzh1OUdsbWlyRWoxdlBEaHBhZlNxd0Q0X2J4ZkMyTXhDT00wUTR2VnBUR1lyeUJiaGU4b2JHRm5DTHdPaWRsTWFqR253YjVzVzZsYklmVHU5MU9GcUNfdXZmYk10TjRRM3VWSnZOZ1NaUHh4MFhUQUNyWWpFZF9nUnlWMkR6czdqYk93OUhEOXA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -56,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "Cloudflare Launches K2 Event Streaming Service Built on R2 Object Storage - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa19Fcl9NWGU3M0djWHhfQTFUem02TzE4R2ljSmxYSUJKa3Y4SWRwa3Y3OXFLeG9iaGNIZW1kZ1RhZ1BOVHVlNWZ5Q2toUS04czMyTEV5blQxeGNmUHR5V2N4ZDNUYy1jc2plcUozb2lxZ2hDcXdIdDl2NXRLOWU2cGd6NFBNTEhvZmRSRU5lUFBnMElCUHQ5V2JpY0wwVWRxMEhBMw?oc=5"
@@ -69,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

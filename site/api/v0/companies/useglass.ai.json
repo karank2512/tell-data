@@ -1,9 +1,9 @@
 {
   "domain": "useglass.ai",
   "name": "Void",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Marvel Releases New Video Focused on the Complicated History of The Sentry and The Void - LaughingPlace.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnlNMnFFRkVXVFhEMkRMdUtsYkI3Q2dFSjN2U2JHd3hYWVVReXd4djIyQU5QSmR0NzhYN0VKYUE5NWs4aHowS0FhWm50UUJfTU5uWWRQbm9HQ2VVQnZSTVRKZmhyc1VPSUxQWWJQdjZobnhYWC1aWXlNVjBqTHUzT3dSVUl4MWNMUFF4SlJyb0I?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

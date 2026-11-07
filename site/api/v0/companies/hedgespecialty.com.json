@@ -1,9 +1,9 @@
 {
   "domain": "hedgespecialty.com",
   "name": "Hedge",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.0,
+  "score": 9.9,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Hedge fund launches drop 40% in Q2 as liquidations nearly halve - Hedgeweek",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaUQxYU54VnJydUI1b0g0dFdLVllULUhKY3hCQVpLTlYtSkdNVjFDZFVQa3ZfdU10eDNUWTFBQ1Z4REkwT040a0lXOVowWVdheVYwNmpNWTlrX1pfQi1NajNfc1JQdlRXcEMzSkJzeWt4NFRXSVAtRG9mWlhSTVhKZ2l2QjU2RUpBSGh0TmZMTExOUGM?oc=5"
@@ -60,6 +60,13 @@
       "occurred_at": "2026-10-14",
       "summary": "Hedge fund launches and liquidations fall sharply as interest rates spike - Funds Europe",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXYtUjZVbzREV1N0UGNhZDhWM21sNFdQTmVMWWhCd0hvWTFuSnktQUhfX0NRV29rWW1weS1hTGpiVC02UlVZNnR6TnlKMUppSDMtdWVaZ3VfRElNR09QUEFkSklsNUFjOUdhaTBpSk4zQXVnZWc0UmNhWjN6UHpmZldoc1pBdlE0Z3NjM25oSW84SU1NVjhnMDJkRklmWTZs?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-05",
+      "summary": "36-year-old hedge fund manager's big new office comes at the wrong moment - eFinancialCareers",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lVmFkM3VmTTZuZG9UeFROTENQSkxiZTZIRkktdU15dUQ2WmRKTGRzY3RMci1hVExwa3NncllIdVpZazdQWXlPMlhvZkR1V1RZbDFVblNQenkwSV9pakFDY095eUNsZjQ4eF8w?oc=5"
     }
   ],
   "open_postings": 16,
@@ -69,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "contor.ai",
   "name": "Contor",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 30.2,
+  "score": 29.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 19.6,
+      "contribution": 19.4,
       "occurred_at": "2026-10-13",
       "summary": "Form D: $850,000 offering, $600,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2139601/000213960126000003/"
     },
     {
       "type": "funding",
-      "contribution": 10.6,
+      "contribution": 10.5,
       "occurred_at": "2026-08-12",
       "summary": "Form D: $150,000 offering, $45,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2139601/000213960126000001/"
@@ -27,6 +27,6 @@
     "edgar_cik": "0002139601",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

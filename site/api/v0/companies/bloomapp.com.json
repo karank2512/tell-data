@@ -1,9 +1,9 @@
 {
   "domain": "bloomapp.com",
   "name": "Bloom",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Bold and in bloom: introducing Philly Made artist Deborah Smith - WRTI",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjBUQ3Y0bjAtMXp2Vy1nNGU5RmFoNE51M3NvQ0RJTjhDejM0WUR5anVXQWhoeDI1bENQaUg2QUhoSFdyWjVmNlUyTi1jMGkwZmgtUmRZUkFDZzVOZF9hMVcyY2JWTmJOU2lVc1c5N2F5ZGpkY2d6WXdkUnNNNnNCUmFncy1HUQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

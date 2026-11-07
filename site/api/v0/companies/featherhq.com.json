@@ -1,16 +1,23 @@
 {
   "domain": "featherhq.com",
   "name": "Feather",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.6,
+  "score": 12.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-30",
       "summary": "Feather River Land Trust Appoints [person] to Lead Fund Development and [person]",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYjE5MlNXZGpIZHdPcTNMa003SXZobF9jWFQ1dHN5ODJlSkd5WDJYOFNJZGx0cTlRY3lOckxSUjVkZkZXaHpJeUNTNVI5ak9kajgyWDRRbEdNTU1SSDJwRkJ1MzFrbGRnaDZvQzkzMWlLaXo5Tkk1OHFQMTRlYmkybGNZeU5kNVZHRlRHRzJaYVdTMnhLUXVoU1hwdmhvU3B3WjRhMmxZQWF0MGpaV2lNOFRFUGhRYzNnU3JQRl9GbktSUVk5dTdZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Ducks of a Feather releases DOAF x Godzilla apparel collection - Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZGQ0a2RPeXlIS3R3SndlN1U2Sjk3Z1N6VTRaRG9TUXFqWDJFajRfVFZzZnF2TjlSQV9ZTFI2bldIMEplSmUtWFNGOTFXakJfbC1lRzhwRzY2Z0VyVUNfQ200M1o3R2pmMDV6WEVfbnJtWHp4MkJKMElkM1FuUHh3bTB6SXZYUkw3bElVTFlQMW1MdHJfc19iQlh2NnoyWGtqMHhfSlF2OUZFT0VMcENuOVdaTHlPbV9LQ1JVVk56a21DLVRRMUN4d2dOdng1VkNSYV9rN3JLMTk3UjJRMGNJY3dVQUVHbmNrQi1IdXRRdDEzVGYtazl4TVVkTQ?oc=5"
     },
     {
       "type": "launch",
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "frey.com",
   "name": "FREY",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.8,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Chef Greg Frey Jr. debuts new cookbook ‘The Golden Table’ - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCMzF4LV8yVlJQcGtacS14Z1hvYlJwYWJMV3NFRUFLWWhFSWZ0OHpsUjB1cHVLaWt3RnJGT3pwaGhSaEE0OGozaUZTS0FVNXM3a3hQSFhTU25LLWtjUG9HZUZocUhQSF9vckFwaUpRSXZNVUxLV1RGYnZGSTBOQQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

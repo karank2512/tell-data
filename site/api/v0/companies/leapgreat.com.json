@@ -1,0 +1,25 @@
+{
+  "domain": "leapgreat.com",
+  "name": "LeapGreat",
+  "as_of": "2026-11-07",
+  "profile": "default",
+  "score": 22.7,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 22.7,
+      "occurred_at": "2026-11-06",
+      "summary": "Form D: $563,200 offering, $563,200 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1979896/000197989626000004/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001979896",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

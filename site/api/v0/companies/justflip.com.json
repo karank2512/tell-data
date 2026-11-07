@@ -1,9 +1,9 @@
 {
   "domain": "justflip.com",
   "name": "Flip",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 15.4,
+  "score": 16.1,
   "contributions": [
     {
       "type": "leadership",
@@ -63,21 +63,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Tesla Finally Unveils the Roadster: It Does the Kick Flip Mid-Air, Goes From 0 to 60 in 0.81 Seconds - autoevolution",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYW5abG1sVnlseTRFY1hFQzFJT2RDYWVPX053NTk2ZWRuN2pqZEJCbk5uaE1MQXZ5M0NCTDFYT3gxMHd3M3dHUWRTM2dYYmFNYTE1QmlBZW1JU3N6aE95RVZGSGxNdXFHT1BoOVdkcHI2V0pLTEo2SkZzNXJjbFpIRmJud3EzaE8yUGhUemNkclA2ODBTSVZueHNCWFFhX1E5bU9Uemd6MEIya2hCWnBaeXFoeE4tSW93QnVEVVhNMEJqZlJwRWk5dmRHRGZxc084NGxGUzM0TzNwSjRW?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3ROVVhxNEh1X0FGUzdIYmdwdDVNamRTYkdranQtNFl0dktoNlRGWG9zbUNJeC1MTEZHdURfcUU1YnJZWnpRWTNZRTQ0T09nbWhVTnRlTVViaXpCSnFCenFyZU9tXzhYVkowRk5FREp2WllBUmFEbzc5VnhYa2Z0c3hhM0RvS2piVUJOaEZGM1Fqd3ptcHpFRlRQNFNYb0t6bkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "BBC ICECREAM x Reebok Board Flip “Pumpkin” Releases October 2026 - Sneaker Files",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54WG04cU9fM19OU3N6THhkLWVBQ01Kem05cmNESTIxTk42SEIzVG5IWGt5ZVJhZGM0YlF2bFdHeU1aRGpObFJiVDRmdnZLTG0tS2NMYXBWd1hxbVI5QWhZUEZaMnZaS2JWUENiOXNzLWI4aTFuVjhpVQ?oc=5"
@@ -88,6 +88,13 @@
       "occurred_at": "2026-10-13",
       "summary": "Reebok Board Flip “Pumpkin” Releases October 22 - JustFreshKicks",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UNGxudlBBWkZ0TVROMU1IS005VG0wWHBqM0J1WXZoOGY4WGw1QllLcTZhLV9YSk9QZ1N3eUoyX0s0UHY5Tms3ZVFZdUNOT2E3Y2sxTUc1YWowZWh4XzdqYVpiYXZEaUJfVHhvZHIwdnc?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-06",
+      "summary": "Radio Notes: An Early Christmas Flip in Lansing and WKZO Expands to Battle Creek - Michigan Association of Broadcasters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHFkMUxhWjVhb3ZoRDZsRDdCek16a1pqdW5UMGE5akNOR1Z6ZU1hT18zTVRFcXVBX2JyLXJubEstUjVSbFU4eDhkNG5pRklqNWtlTHd5SWdWQ3QtNkhKc0NJVGZ1TWdzNEd1X0o0ZlBfTF9oSUhuOVlGbE1QUzg3bXhPWnFrSlV6OEtzQjQzZERUd09LVmRITmtnQXRfaWpKNUVIWmRMeWpVUFUxbzhpSFBTMTFCekxDTDY4M213?oc=5"
     },
     {
       "type": "launch",
@@ -104,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

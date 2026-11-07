@@ -1,9 +1,9 @@
 {
   "domain": "usenash.com",
   "name": "Nash",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.9,
+  "score": 4.8,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Nash CC introduces female students to electric line careers - Spring Hope Enterprise",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa05MOHZBMkktZzlsR1hGLXBOM1p0bjFHbEl3YXlmWXlvb1NWam9WdjUzOWpJRUpQU0hSNFQ5WXlXNGNvNks4WkRBOW1aRmlNdTNOMHE2UFRxR29fQ1MxRGpHUld5ZS04SDRONGg4MHE1WG1TNGxkR1puSHlUNmkyNFdURkJkbk81NE9rQ2F5YXVzV0p3cG9FRHV4cEZCX3ZBNFAtcTJ5aVpULWhkZ2NF?oc=5"
@@ -35,12 +35,12 @@
     }
   ],
   "open_postings": 23,
-  "long_open_roles": 12,
+  "long_open_roles": 13,
   "sources": {
     "ats": "ashby:Nash",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,10 +1,24 @@
 {
   "domain": "pickle.com",
   "name": "Pickle",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.3,
+  "score": 15.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "GRILLO'S LAUNCHES UNHINGED NATIONAL PICKLE DAY MERCH COLLECTION, INCLUDING VIRAL PICKLE SNOW GLOBE – CELEBRATE IN STYLE AND SURPRISE A FELLOW PICKLE LOVER WITH A GIFT - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPd2hUcFgyTFJINnN3YjFSaEM1cTZua2dqMW5FcE9jSVlzeFhtTlAtQ0Q1NnppMWd5d0s4X2RZdWpTTkNlV3hZQVRPM2h4bmRrWnNZTDZCT1lkbGVCejQ5MEJDSy1WNWNlaDhLY0Vlbk5hNWlVUWNwR0xoOEVvemdNN1ZrZ1pHcFdDYWIyWGMxOE9saHRvbUdIUGVBRVljRGdCbG8xamRYRzFkTFFyaXFuREswOGlBQXphM2JhOGptZjlkQk5PNERsY29zUVd3ZHJGaWFEMV9UeG1ZRlEyMVJnQUFQV0NYWEhZdWlmb1IyWVJqWDFRZ1FPanNPTk9VOThZcHlnaXZrXy1MTGoxRlEzcjEyMDVTUFNnN0lTbTA2TVpNR1hVNjJNUHNWZEFnVUF1M19iZEJJUmJjR093bWNzMw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Grillo’s Unveils New Lineup of Green Apparel, Including a Knit Sweater and Satin PJs, for National Pickle Day - People.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMU9sZnFOT3dKMzFoWk85bUd2enNZZV90MDROeHJZTWZza2hKYzNYYll5M0tPU2U4ZUxTV1dxYUZ6Y1NxT2hWcXpXUllMVlFqVjdUSGlfb2E3YXNMNmJ5VVNxaXZhQ1pleXlTZThVQW52ckJwSmtvT2Y5OFZpY0JmbUhLWVR5RHBDejVGMkNuNHJOZw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -21,21 +35,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Jimmy John’s® Debuts Limited-Edition Pickle Pals Collectibles, Available Exclusively with the Return of the Picklewich® - Inspire Stories",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlAyUkJIMzM2eWlDa1V2S2tMNkFPbThSTFpXX1FqbDFoSDZjeEtsdGcxeGNocmJnbXhPLTctOXZmRWJNUG1FZ1R5VWJpTkVBZ0hFSzE3WFp3TW9abHlXUURGMmNXdFVQTmtpS0k0dUZWcmJJVVgzTThiQmJ2WDlJQ2FR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "WEETONS LAUNCHES UK’S FIRST PICKLE CHRISTMAS HAMPER! | THE ULTIMATE FESTIVE GIFT FOR PICKLE LOVERS! - Verge Magazine",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0JOU0JYT2VVUzgybWROLTE1VENmWnFQdzYwV0RrS0JjR0lxM0dlSXRBVGNLZHJJVGhoMEZwa3Fta216ZERVS1Q0VlR3S0syaXY5R09HY3JlaHpDNDlFRGdzdDJmM2ZFT19RdWU3bVd0VGt3bnh3XzhuNVdKQmkyRXIxeUNqSnJCMFB4d3l4VUdZUncwRWZRZVBIa1k2MnV0QmVCd0JBZlJJWmZuSVljSUVvcWJwR2wwWXZGX2xZU2o?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Weetons launches the UK’s first pickle-filled hamper - Retail Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWdhNlY5QjVJUUVBeTZpZUp3WlFJRlV3Yy1Md3NxWjF6OEdoa081Uk1tU1RIUi1xTkdQbXY1SHFIeENyb1BTcEdLa182bWpKOXRfMjE4cTFRZ2d3eTZxZDRmVDZfSzFfU2YxcmNKRVlpVkRFeTFRZE1WSnUzZTk0OUhHQnI?oc=5"
@@ -90,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

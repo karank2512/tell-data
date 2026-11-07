@@ -1,9 +1,9 @@
 {
   "domain": "opensea.io",
   "name": "OpenSea",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "OpenSea Mobile Launches 10% Discount Permanent Fees to 25+ Blockchains - CryptoNinjas",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLWlUaDJSVWo0TXdkdG1WeklQQTdsby0wVzk0c19VVFJHeVJLaWNQWmpiV1hValJBZXQ0YW1TT21SdF9KQUN6NTdXVDN3Tjl5Mjlpb1JVNE9BTXFZLVp5MHFnbW9aMmZGelNMNTl4ODVKUG54WDIxMkt5Y3Z3X0tGMkhBM1EwQXJzRm5vQ2RJUHNsN2RYNGtuU0NtY1JDV2o0eG1RMEtB0gGrAUFVX3lxTFBtczNEUHQxVFdMTFJsdUlJU1ZwRldDVUxOTXRhb3FkM3BaNVgyZGxWdTB2cy1nX3AzN3NZNnEzRERpcFhYUmlZWjljT3haVU5WVUJVV1N6WDg5R3B4dWY0bGlOaEZZSnM0OTI4TXRSbHBnZTVWSXMzSkk4MjRHOHhmNWJEVXFIRzhBT3J0NENYMnp2Mml5U1czbmNrdFNfMFhoWkNnVEk3cjJ4NA?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

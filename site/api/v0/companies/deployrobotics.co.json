@@ -1,9 +1,9 @@
 {
   "domain": "deployrobotics.co",
   "name": "Deploy",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.1,
+  "score": 10.9,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Yourco® Introduces Frontline Agents to Instantly Deploy AI to the Frontline Workforce Through SMS - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNm9mOGticGlabGVEZGNseHg0NGpraVZfSEV2bU03M0lHbVk4aE9zaDRBeFVNSWdwYVdkUTA5Nkhnakloa0huWFhaQS0zME0xbWRSMHV0b2ZrbWJFR3c4T1R1QnphMnlOYnZiYmFpSW83bHJRWmx1dlJ0TzFna3BiN05pM2xobmpvWVBEWjduTFV6X3J4bmJjRnNxX1BOaUNWeW1aSS1QQXgxMThyRGc2YUpUbzVoZ3R5R091VEdpTXo0elgwSklZd0xSUjdXX09kSURzWG5GVWZVMnJpbE1FVHpZd1VHVndr?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Reflect Orbital Books Two Skyroot Launches to Deploy Sunlight-Reflecting Satellite Network - SpaceWatch.GLOBAL",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2NSVzU2YzdQVVFkTi1TQ0hKNUlUVUtybTRUNVg3UHBnTWR3Z3ZhV29DODZYRlN6c2MyWk5aNUxKLVBYZmdJZ0hOWDF3MEFBWjVFeXUyQmtWTlBFRVlZRHVuX3BSbVhDVDdteEYwMzM3Um9XMG9HdXR6ZWFDSHhnVm91OVl4dTgyN3BSRUlqZTc2TjBVM0R1XzFTREpqOHZiandfdVJxbDJLbEVITlB1bHdtMWlva1lTSnZ4MGoxTFRLOTQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

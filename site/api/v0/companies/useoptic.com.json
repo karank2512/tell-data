@@ -1,9 +1,9 @@
 {
   "domain": "useoptic.com",
   "name": "Optic",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "SIG SAUER launches C-UAS electro-optic system at AUSA 2026 - Unmanned airspace",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUF5NVRJdkdOdTVQbXp4TkItSDRnR1hIamJ6U0pTYXZqUTVFODdEZnU0TGE0Uk1KYmRGSzY1SzRITERtMVo3azBfNm1FbUl5TG9MZDJFa0dBYk11VHczUUQ1U1pxcTkyc3lxNkZnanNKNENoYzE1Wm9YbmdqVGJYRG5Gb3Bxd0ZsZmlmWTRIWU1qdzJmQWVvdmNUcmtETVp5QXVvUVJqd21IMFJBTVRXQVhjQU5XWG9YUUQxeXdKSGNtTzgt?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

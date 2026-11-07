@@ -1,9 +1,9 @@
 {
   "domain": "getconvoy.io",
   "name": "Convoy",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.8,
+  "score": 8.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,6 +14,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-02",
+      "summary": "Egypt launches 307th Gaza convoy, carrying 3,667 tonnes of food, winter aid - War on Gaza - War on Gaza - Ahram Online",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSXJmOERFTkM4dFhLdWN2eXVQMGdZdTVIUmV2WTVvYWdOYk1Bbjk5bFp4TTk2UE9uR2I2VWdGTWNTeFYtQUp2TmU1aTJ1TjNLajgwbjRrZkpiaG1teGt2Yy1wOFB4Y3U2ZmhLTnkxdVVaMjNxR0xwNU41cVY1UVE2T09Ca185Qk9XZVp5eFJYekhFZDNwZncwUzQxUXhMVVB1U2U1SzZrNlV6R0xKYmkyQVBGRGdfLTBWY0s4MjF4blpyVkRzaWhjejBmb0Z2NTVo?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.2,
       "occurred_at": "2026-10-22",
       "summary": "MP launches petition to fight four-year Rest and Be Thankful convoy plans - Dunoon Observer and Isle of Bute News",
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Egypt launches 300th convoy to Gaza carrying 3,439 tons of aid - War on Gaza - War on Gaza - Ahram Online",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2p2Z1BpVlhoUjd1NGp3S0JpQk9xUUNGZjEyb1RnNVNWYkJuTzRCTlVUcHlPYUlqdE1KRFdXYjdTeEhmOTloVkxDX2Fkd09tZ2dIUFg0bzljZTZkcUNBMFRFMnNETklzai1tbG9EUmU1SVVrSjB0LUVrclVaN0J2MEc0TUVES3dfSFRNRkRpbUJBeHNMZU1ESXVkU3AxOTBIWmVwNUJQd2wxYmp6UlNFMDZxdDVDamdQZDBn?oc=5"
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

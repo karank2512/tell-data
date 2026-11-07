@@ -1,9 +1,9 @@
 {
   "domain": "minimum.com",
   "name": "Minimum",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.4,
+  "score": 6.3,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "From a $17.40 minimum wage to a ban on disposable vapes: California is introducing 10 new laws that will take effect statewide in 2027 - Secret Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85cHFHMGNtTnF4Z1hwNGUtNVFFMUI4cWZIRTBQZXI2TkxZQjhPazR6N1ZtSkVncFFlS2tJclRJdUpYYlkwN3FBYlc1aFVMN0VFcDVXY1gtWWQ4RnRwakRjLVMwSzFPXzZj?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

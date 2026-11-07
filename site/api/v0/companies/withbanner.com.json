@@ -1,13 +1,13 @@
 {
   "domain": "withbanner.com",
   "name": "Banner",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.6,
+  "score": 9.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDlQRHRUMGc3SmZqTUpwcEY0UWRDQ2k4aTRYd1R4bWRySVlXWjRSTjREUno3bzdlWDNqanhyeHQ5cjc2dHdDR0JfWmNSYXZxeGV6YUZrQzVfNHNmemZkZHFoUWxDbnE2N1BCWUlMMnVlMm91R2FXTHIzbmlvNHR1dVp5cExuYjNDZEdRNWhkME9QbEJxaGEybUxn?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "DDA Launches Downtown Business Banner Program - Discover Dade",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzJMRDU4ZUJtcGVYN29hNUhPZVBEVWctZzZuNkRQMEE5RUFpNDY5bVRzMEdTMU9xcjhYNGRPcGlDbXhvRXpsVlJGVWI1SklaenFIOGEzdGh3MW1sdy1kWmFSdnNlVU5UY1FrSGd3TWxNdVB0eGlvTk9HZGRLQ1hTaFVDZzNLZ2Zh?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

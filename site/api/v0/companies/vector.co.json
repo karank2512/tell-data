@@ -1,9 +1,9 @@
 {
   "domain": "vector.co",
   "name": "Vector",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 56.8,
+  "score": 59.0,
   "contributions": [
     {
       "type": "leadership",
@@ -85,6 +85,13 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Tiger Data Releases Open Source pg_vectorsearch Extension for Vector Search in PostgreSQL - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3hUZVR4T3RISThROVpMYVZHSy1aZzVHbzZ2d2FJTGhmVUU2QjFOU3NUckt2RkgxaGdzX1BlOHZCb3JuUzJGZi1OT2R6d1JNWTRONFZ2Wi1EeEdzNkZDbE4xeTdVUnZjQXB1c0VTTXZpZFhGeGxYUHVtbzVEVkE5TXllS3h5UGZXZm50eGxEN09rY21wRGN1SHU2NVFJMGlxZU9TUzBvdEpFLXZ2M1N2RFltZUU4eExjRFE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
       "occurred_at": "2026-11-05",
       "summary": "Vector Unveils Warfighter’s Stack, an Integrated One-Way Attack Drone System - SSBCrack",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0ZuRFRVb3dpMzdUSDc0V3VqYy1UNUpWcDZFRldicW9PNHRLcUJHeTFRSjA4dlBNNFc3YklQUHhDcS1TLVpCUXNxTGdBRXp1YmxoY0xtMlBfRHB0SFlLMDk0dy1XVlliWUZvYW5PWEFfTmxwc0pYbHpBS21sdHloc25FeC04RGp6aTJ0bUdmSWs4MVdrS2xNNEtnYTVUZWlMVjlr?oc=5"
@@ -100,12 +107,19 @@
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-11-05",
+      "summary": "Vector introduces ready-to-go one-way attack drone - Defense News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmdzd1gxUTRBOUZGX29xMVdWNlh2cV91ekJsTFBhQmxLdHZ4UzJWYU15aDJUQmtqdHVxR3B5TTVsenJ4RTBNTG9TMGlzRmxwM2tSU1pValB4STg4QngxWlZDQ2Z0czZ5cGFuQjhOM2Ruakd0RS0xSklLc0h0MnNhLWVrQklDR2FZU0dTbS05ZzU4R190SFluRFFzVFNIN2hLVjBsVEl6MWJHbkd1Y1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
       "summary": "Vector launches skills intelligence for manufacturers - IT Brief Asia",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcERBc0o4REUxU0pPMGRyVEtnX0QwQjduU1VMTkdsY1laOGNIcE5Yc01JMXVSSlpYTlozRVdyOUhvVHA5QmJIYUdvWjlKWDZCUlcwSFp2OXVOaEpDbTd0NE1ZaDVRejUzcXlCMG9VcklRdXJNOTcyTE94Q2VJbWFpZU9GVkJjN1E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Vector introduces EV charging emulation tool for interoperability testing - New Electronics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2ZmNkRIR2MyMG5pLW51VHVKMGZUTjlCSU94WHBRVElWQlBFSThsUEtubnp1ejhENnJLTXh2dXZaaEZTOGpVZzVBNUN4QmhiTGlrdGJDTkxTVkJJV1JKUFNQVkVSSVI3eDdmWmdLSE85SEZicTRyRW9sdndTSmpCOUItZWM4Wnh4azhLaTJxN0x5azlTUDZsY1pYUzkxUW15UmV3Y21hZ1ZIS3FVNVNjOGxXZDVXX1V2ZnF3?oc=5"
@@ -168,7 +182,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "Synthflow Launches Vector: The AI Lending Agent Delivering 40% Higher Reach and $1M in Commitments - FF News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmhBaWVwVk9yWVRDcmtVbm85cDRNYndXQWlHelFhY3FSMl9QeWhINlhRN3VTdWhZeUt4RFhtMHB0RTZtb1FJb3UxZHFaUDRLWVZmMmVsd1JkcHQxdmhTWFRhRzlhOFNRNmdwX2xZMUotYVlsZXBpbVIxeC1zM0JOWjJFRWNZRXk2aDNWRUVSYTEtdTd2endCWQ?oc=5"
@@ -210,21 +224,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Vector launches AI scenario simulator for workplace training - IT Brief UK",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkNWU3JzM0JjOTVjd2dCUVJxNXVnNE5SdW9qNmdDYVpDTndlVVlDTkc0Q1ZxM0J5cWljTmRYTHRzcnRGSkprVmdXM3gwNGF0ZGNjRHpvT0xmT1hSLWNqaFVfNTBHalJOakViZHN5SnA3ZlROR2FHdEFLMWpTSnFhQmNMVVBnbXByamdQOFNETTdZQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Vector launches AI scenario simulator for workplace training - IT Brief Australia",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeU9iX2ttTDJwS1l0aTdTWWZvbmRCM2dkMFhBRFdBLUY1RWhkc3VLSTUtX1ZnQ1pOLU9wNjFKTWdnRzd5MldkZGtkNHBWLVVyVkxPMVludWNLbGFwRGVMRG1iQmNSU1VESDZ2TTRlZGw2aklaRGwwaC1uS0RDeWdZWUZOd1J0S01pNURLX0hfdGh4bnc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Vector launches Rust-based IEEE 11073 SDC stack for medical device connectivity - New Electronics",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaG1sc1lYazVqbWxSNkdBOTNCOTVUV2NBM00zSG9kS0RFUm1fdjZoa3NmaVYyNGxBN2xwSVNIcGNodVlpZFZSNGl0LU9tUTN4N1JYUmtVSTIzNUlTMTJ6M21WMHVrQ3ROZ3RVNjI5MTRDUEhpcEJ5TGw3Nk5nT1FhQURQTUR6MF9Cd0oxMVdZaVBNUEpNVnA1RW9FYllLSVBsNUVnM0x5NU5fRUdoYmVhMDB6VUxlSGpmazFUVVUxYjdJTWc?oc=5"
@@ -259,14 +273,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Vector Solutions Launches Skills Intelligence to Give Manufacturers a Real-Time View of Workforce Readiness - HRTech Series",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdWxCQlZ1dGRxR3YtLUFLQl9TT2FoTXVEaU53NkFsOERLQlpLckdZc3NfQW9JM0NPREZPeGwwaDVoQXRlRUtWUkN4QmtaX1V4OVp5WHBrb2QzdEtodEJDUGxsdk53bjNpbnpFZS1Cd0FxSzhvNFA3SmUtSUhrWEJLWWlhdjFqS2FKV1AtQW5ZN015cnphMXlLTWJOMkhRZTJka1NZRC1yM2xCZ2hhWVQ2QlpnUjRBVVYzNzBlUlZ3Q1FlX1EzSDJ0LTVkMG9jMzh4azIxWU5ZX1lKRnNiUGVob1phSjRqU0JDX2c1SQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "W. Darfur launches vector control campaign amid rising mosquito numbers - Radio Tamazuj",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYTk2RzExalJDQWVSYlJidURpQVQ0bjJUZHlYQngyc0xkN2xKcEdwek1xWF9LVmJoX2ZBemIxSng5UzFJVU80X0Z4czVGejV4OWNqbWVhQUZBZnNzUWtidHdyOXpFQnJONmtJdEpuay14dC1kVFlIZXhLdlJvMHJXSU1zOFEtdkNLVl9GaHoyaGwzeXlfVzJHRF9IUW16dl9QcDY3c1FsVXZVTVFMV245enAxcDZCdw?oc=5"
@@ -300,6 +314,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

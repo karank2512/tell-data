@@ -1,9 +1,9 @@
 {
   "domain": "corahealth.app",
   "name": "Cora",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.0,
+  "score": 3.9,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Ascend Introduces Cora, an AI Coworker Designed to Enhance Automation, Starting with Commissions Reconciliation - Coverager",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcDBLamYySkY2MWpJVEVSVU5EWjRNalJmT0JBRTQ5ZXRGVUdSNXFaQWZKV01YdldkRFFuVm81NVc3OWNRUTVwVFltYlhLTk5QNGxWb0ZoX0xVMmtrdGkzTG90eHp3STM1VmpRdHBsS0NYbHd5M25JZzdBcG5NMlZaRlQ3MmJaZThQV0NueUxyY1lfUkVmcFN4MU9BREVfb3k0bjY5RTc2bHpXc2Z0aU5qX19JQ2R0VmFjZnh5VGdaTWxRUTVxcldOMDRlNkQ?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "retrofit.shop",
   "name": "Retrofit",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.6,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "LR launches new guidance to help shipowners navigate the growing complexity of retrofit projects - Lloyd's Register",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOamRrWGhtaEk3WUdsVVR3WWMxX0czakhpcVhTZHJscUJzOFAxXzlOOHNiWks2QW14OG1ybmI0SFNydHpxVF9maHpqdElkZk9sY0tza3Q4VWwwSHp3cHEzRDgzSEFQYVp4dF9pUE1UZzROWDhiNjVmaE9mdE5fdVlvOUhsNU5Ud1R6c1NsMkNsTExLRUdfX3hseE02U3ZRYThtZXhISmpqZG85OEhKWElBTm55VVJCNEZZdElNWUZqV1lSSjNxZWEzWmZ6b3pVSFRHaWliRHVfdnA5SDA3UU1mMjhxMXBINTFzRWZjMDFhTmU3ajh4c3RFN1J0VnhNbFZpYUxN?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Ottawa unveils $2-billion home retrofit plan - Canadian Mortgage Trends",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjlrZzBYU0Nab3l1LW5GeVhBQ04wcllHWHV1S2IxcDRhQmFzbmExRml5bk1nWjZCdWo4WlVCZzRENmdtaFNYaUMxVnJaX1pIbmptTjF1aG9YNzF5bzJrYlNvYU11QlRIczZvcDluWWZJamlrbmlfZ04wclNxUHpMMVY2bmVkTmx0VS1SRlp1aU9qNng3Mnc?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

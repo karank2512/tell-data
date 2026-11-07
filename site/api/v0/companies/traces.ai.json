@@ -1,13 +1,27 @@
 {
   "domain": "traces.ai",
   "name": "Traces",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.5,
+  "score": 6.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Writesonic Traces What AI Says About a Brand to Its Source and Launches Outreach Agent to Fix It - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU1drWFNJQk1NUk5yRVYxUXBicTQ0V3dFbUN2am4zWGdCV2hqbDdWOU41Nm12UTR0X3FReUtxeDBReVhLUzVTQll0UDJNOVlPcERBTS1Ka2dkM3BvVjYxR0FteWJ5YTM5dEFFRVFhdEo2ZElDVXpsNUhjNnJfYnEyNWNQbFJrRlRjeVo2VWFWRkhsbTJDcDRtejE5SzJwWGVhd2gtNFlCa0VDQjJqZUYzaWE5NjQ0bUt0dGIxX1N3N1c1eklIN05WakZQSE1PeHpIMDRLVVdCdWRGRWRXSGxKUGZFMXJOc2ROaHlVZFhB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Historic duck DNA traces wild mallard genetic changes to more than a century of releases - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTdkduSHZObVhJc3FLMlc4V1dLb0lNeVp0d3NDMjEtcnpxZ2FUZWR6SXFDengybTBETGZKZ0pyZkVqMEQ2elpuZUoxaHRFaXBJenhtclNlUHVnRGFyMjU1WHNUWGg0cEh0TGJhbHU4ZUpUYTQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Abbott launches whole-genome sequencing Oncodetect® molecular residual disease (MRD) test to detect traces of cancer during and after treatment - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVNBc1dkSlYtVExXNkFxZWUtaFJnX2NheEc3UFNhaHNUOVowY3RMcC1ydlNrcTNHZTVxekZWOUo5dmI1UWNFbE1xVmtqYmZ6N2tKem1ybktURGZPWlNSSGZiLXRzdWptV0Z6V3AwRUNzd2RJS3B5aUlNMHMxZVlJdHV0ZUc2VDYzUThZUFIzVjZSVllMSEpFRVktN3NBaDd0ZkE?oc=5"
@@ -34,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

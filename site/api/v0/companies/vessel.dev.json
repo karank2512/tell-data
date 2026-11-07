@@ -1,13 +1,41 @@
 {
   "domain": "vessel.dev",
   "name": "Vessel",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 16.3,
+  "score": 21.9,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Euronaval 2026 - Fincantieri unveils the multi-mission modular vessel (MMMV): one hull, many missions - EDR Magazine - European Defence Review",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1J1dmI1dmVNWkpvR01XcUx0TnhyM0VkSGRjb1Y4QndLc2dJNFJHMkxhR1JqamxHZHJuNDFvWTV4VUFXTmZuQ2E3c29Uc2RiaGVrdEhvaXRreUFnclFlZzFDVTBLRGxtdEg4Y09jdllINDYyYWZlLTVQTldhRjF2eEVDNUJzaXk0bWg2cVdBMzdHRGtNNl9vbjFTT051eWxNdEU3VEhkVE5Jb1BiTjd3enI4MUFNOW9RQ0NRcklNUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Fincantieri unveils Multi-Mission Modular Vessel at Euronaval - Naval Technology",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12Q1diQlBrckk3RlJPb1pmUkswdHUxMzB4Q2FKNkpIN2VoVFJfdzliaGRhMnZ6eWJmM1A1Yzd4VFI3UTh2Y0U3S3hsYi0wQW1pVE4wQWVFUDZSVHg5bVFJQ25GMEFUejRKaVhWOXRaQ28tTFNaTDMxRnNneEd0dw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Fincantieri unveils new Multi-Mission Modular Vessel at Euronaval 2026 - Naval News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZmVxczdDRGtjZ2dnQmw4eHNWOGJnZGtCd01wUTlXeTIyb1VNLWg1TDNzT1Q2R21WM2FKWV8xTUVZenJPSE5TY1RQVzdVc0g3SE5UZExldTcyck4xM0hUWDJnNmwtMzh6Yk5OTjNRQk9ad2ExNTdWZ1R0LUN6NmUwVHpUMnhmZHNEbW82dU5uV1lTMTFCbk5LSXdtdC1BanMwT3YtclN5SThNOHF3a0s2emxaN2dkMGhBcGl3bno5NUVEVFp4V3FseFlVOA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Fincantieri unveils new Multi-Mission Modular Vessel at Euronaval 2026 - Fincantieri",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNklfR2tBcVNWWUhtanlhQ0dMVnNpdVZrek1wLWdOZVZiVy1EUzZFZ01ZYXRzRXRBRVJqa2hpUWJBRmZpYUVrZnhNSTBRX3ZXQlA5VEwtZjlIMlJCZTJUREhDMHJEbkRIZ21jSHJiTHltVS1YU2J1UjJWeEhGeWwyTWFzUkM0Ri1US3otWFhtN200RmxZMU1uYVVqWG80ZHdrVjlIeDN6OThVMDc4NVlhaHhGRUtSanI0czRDT2NSa3MtczJ2QmU0cGNR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "shownews - Euronaval 2026: Fincantieri unveils the Multi-Mission Modular Vessel for export - FW-MAG Future Warfare Magazine",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzMxeFEtZWlTZ1o5bGZqcG9YbWxRMTZrV3RCenN4ME1wTkFEdlo4TnMtZ3Jjbk9HU0RVMUNNVFRJU1Z2MDBBYlRvbXRfaHFqTVhPei05UGpyQU9vUWF2VXFPSWpOcDRQa2M0Yng0Y21CS1AyQkFTX2RCZDd0RGNjaThpeG92UXZYYjBXbF83YU9PdmQ3U3NzdnRIS0lVOFU4NHNVM3V1UUtpRF8wTFVQbUJTV3MyZw?oc=5"
@@ -70,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "AVS launches platform to centralise vessel procurement - Smart Maritime Network",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0tYMVlwaVh1VThBdXBXYmZ0TFZoR3lpWTJHNmN1Vi1TNUdjdENFeDYtVlY3ekhiWHdBOEtzVjEtamdvZEhtNjhLcjFvemwzRFBkYW1pV1RwRWc5ZWhneEpqZlp5UDBSOXU4WE12bU9GU18zNHc5dFBYQ3h1SFh3VHhwbGduZUhJNzI5SFlydnk1RVUzWXZKYzBxZm5IQ28x?oc=5"
@@ -91,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "All American Marine launches second tour vessel for Phillips Cruises - WorkBoat",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeFVBeGlvNVpBbEd0RWJlWG9MY3FaWW55QzVwVUE1ZkQzWjIwLWtkVEVadUxzSHZ4cFQ3QV8xbGNOQVVjZVJzRW45bE1zcVpSdk9taW55Z3VUQk8xVTlCaEh0cFlKWVNDb1dKNF85QWhtUnR4TEM0YVY3UkNESHNIWjJMemxYaTlURm41WDhKY21VcDhYckZpcA?oc=5"
@@ -104,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

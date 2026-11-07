@@ -1,13 +1,13 @@
 {
   "domain": "spoil.co",
   "name": "Spoil",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 4.4,
+  "score": 4.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "James, Brown make Philly debuts as 76ers spoil Knicks' title celebration - Sportsnet.ca",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFh3OVk2dlprMHVOTDljOVNRMkl6UWVNWXV5d3JqZk9iamNqeVBLY2JnaGJyR2szNTlDak44aWdRM0FLbk1jTEpFZDVjSTVJLUpya3E0ODBlaTRLdnNrWm11QmdNaWVyYmJ5eUczLVBKUXcwaHdTUEFGNzZYT0RyRkg2TzV0LWFqa2hlcVdrbWcyaTRha1FJYy10dURtVEVVcW9VelB5UlotQW9RMVE?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

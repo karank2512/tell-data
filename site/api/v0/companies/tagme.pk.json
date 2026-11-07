@@ -1,10 +1,24 @@
 {
   "domain": "tagme.pk",
   "name": "TAG",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.9,
+  "score": 13.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-05",
+      "summary": "Eat’n Park unveils new ‘Smiley Cookie Key Tag’ granting free treats after initial donation - WTAJ",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHYtWGFHME1YNTE4TG0wWm5KV2RXMG5xWWY5UE1NZjFuZGRYQ3hfOGczLU4wRzF4amYxRVRzeUhtTUUzdENQR2NrY0JNV1BKd05ueF9xNmM2VTJySzRjSUVXblZZX2hGSE80MXBwYklmNU1IN0RMaXJEaWZNMmFYVHAyR1pMRFVpcnhIYzd3YzVzNl9COEJyVFpKNFZ6TkhjQmo3dmhvOEVNTWFoWjJROUZ2T2syd1BzMTMyZUozLXNLY09KWlc00gHMAUFVX3lxTE5KOUlIdXpSRm53UXVHdGpEMzhnWFhhY3h5bVlRMVZMV0x4ckc4eW9RUEpOLVJjNS1MWlZRWm5jMENoMHpabWtGODdiLTNwSHJfQzh1M2h5a3dDYk5HQ0ZzeHREYlA5Tjh6NkRIUUs5RE1ZTTI2emNCQ0lreVFJNk9UQ0pad0lZbHJ4emxFWVBWMnRQODdkeWNkVnE2bWpsUlhqeGoxQWxzZDFqU1Z4V1ctR0NJSDZVTkhtR25GakRUeUpsczZPUmc1Mkk5bQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "NJPW Unveils Teams For 2026 World Tag League Tournament - Fightful",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORnVfOHRKR1ViT0kwVHU2MUdWaGNEUnA3dGg3WGpqU2xiVXhtTjlQRjEzNGh6NzZKMDg2bG9Ham1yeWE4eHlmRmVsaVB4Y1AwNW1lNENpMnhOM3VMQi1pd0NQUWNFejlYTS1JY1k5UG1ER2VqdS04c3dIMFFwOVFMNmgzNWtVT29TY25pZnFlbl9oRGx1Tnc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Sony unveils a new Walkman music player with a $5,900 price tag - Chaoszine",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmNoQlJBV3NHMlc4N1I1Y0hGT19ibldyQ2tfTzJyTjgxaHdRRmxFalcyYWoteWkwbk9oRE5MWURTMF9yUDVIRGRDd2Y1T1Y3a2h4a1VkYnlOcU5ESkhsWkJKWDc4NFIxMDZLLVFFR1VXeFNRc0Y2R0dtX2ozcDRhN21HZkltSnBWTVA0QQ?oc=5"
@@ -76,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

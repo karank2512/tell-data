@@ -1,9 +1,9 @@
 {
   "domain": "getcargo.io",
   "name": "Cargo",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 21.8,
+  "score": 24.3,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Maxwell unveils hybrid amphibious aircraft concept for cargo flights - AeroTime",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0J1WEJlT0FFenFCMXVmR2I5ZGZGMTlnTWN0MDBxYVJWVDltMkdUb1lXZFZoTWlGLXFPREdsUndva01fRTNkdkZocDJDX0txM3JEQUQzYzJmdEtnb1RkZVBiTkNGVUNIRHEyNVhXQmhoc0cybnFMTzZHQzJaa0Mxa2Y0S0HSAYoBQVVfeXFMUG03X0ljalpOdl9LaUJRVi1YS0FvM3N2RENwMmpLZHBKVC1TRjBLYnZIQzNzQ0hmN1ZBLVE4SnpZa3NpWTEyaGdESlgtOUtBYTZJRG12cmJMUHpLRmhiRHpwMy14eWlKSHUwVzJYVjFlbWxTQUR4b0J6U1hrbkpONndNUHNWSDFxdHFB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "Emirates rolls out enhanced air cargo service for data center operators - FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUXhtUGRiSnNZaFpwcGZ3WTk1YzJob0RYTEw0dEx6NWtZcW5WbzZUdWR0MW53ci11TVdublRxcERiQUU1MHg2QkVCeEQ1T0o4ekQ3aW15S25sNE0zaEdVbHRiQkVMeTZiOVBiMGJqcUhzUmh6QWlEMkxwSExXTmdYM2VCWGx5RE0tWkc3VlFxdHhGTGxxME1TNVVTZHhXdXlIeERWa0VfZ0Q?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Maxwell Aircraft unveils amphibious M1 hybrid cargo concept - FlightGlobal",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUt3V2F1QTRWVFctWTl2TXVOeHF6OU1RX0dmSWx6ZGZWcjlOdVIzRUlPYkNkRmlTUzE3eHRJWnh1WC01TThIUmZoLU81NGl6dHEwXzg3MGVSWVEwSXY0a2ZTMkt0Zl9PSU5IMU9sXzBwSGRFMjFVQ21GV2J6N0JQcVE0bE9wUktZUC1jOGRULW1uSXVZU0gyNDlhamtJR1E1Q2NBRHIwUmZRYVk?oc=5"
@@ -84,14 +98,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "CargoAi launches CargoMART Strategic Hub for air cargo rate management and AI workflows - American Journal of Transportation",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY29OT0ZOTFVmUGh0V3ZLREUyNVotdXpuQm5Ic01wRUJZTnMwMnZPemcxRk01WjB2cDJRTFhYQ2xPcm4xNzc3VWM3WkRBN2ozQnZBLXBTVzRZU0RkWEFxaEM5b3hmQk9GTTVyTEc2eXhxbnZuWHZQV3ktWk9nbF9sXy1BZEplMUVfbnFQUTFTQlZGQUhvaUc1MkpjUzk5dEQ2dFBxd0lMY1NvSTl6bi1vOGo3cw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "LNG cargo monitoring tool launches amid shipping disruption - gasworld",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnVmNkJnSXRYaFJMdC03SlpiVDE0VnBpeDBHWC1RTW9PWkdSVm5HeUdTLXZUcEVjdUtPU09kQjRsMHBZcjJTMUhtSEoyTUl3QjRxNlZldnVXcWxkblZrS1ExX0pBeGZRX0ZIMDBsa3N2T0RtN21SYmJEeXEwQ19HOC1CTFNEdTdUV2tyZkxKcjZ0QmlNN2NxMlRFSU12WVptREoxdEs1ZHZELVE?oc=5"
@@ -132,6 +146,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

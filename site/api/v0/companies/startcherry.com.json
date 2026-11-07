@@ -1,9 +1,9 @@
 {
   "domain": "startcherry.com",
   "name": "Cherry",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.1,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Trü Frü launches premium line with Cherry Truffles - Snack Food & Wholesale Bakery",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemhXdnlrTTc4MTkwdk14Y2duYjA1UTNSaXhuUjN1bFFXVXFlY3JYb1VkM2JnZmxfQmNpRldyWV92dlJzZ0JWNy1NNzVPVVNTQzFTTVByamF5WDl0UExLYXRFR0U0cVJXdUgzY1ZGTzFHNHlWN0d6OUdmcTNQcS0tSlZoYWdsREdDYUNTOVlSNmRDSElUbVh6UkJ3UFg4dw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

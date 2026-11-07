@@ -1,9 +1,9 @@
 {
   "domain": "bymason.com",
   "name": "Mason",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 3.5,
+  "score": 3.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Treasurer's Office Releases Analysis Of Potential Tax Revenue From Mason County Data Centers - West Virginia Public Broadcasting",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHJMOUZSNXJmNFBIU2x3bFJTMDc2SnFmcGprbUFZWWVZYklsYkxnZmVaeWt6NmdRZUk1Zi14c1hSbjIyOXpobGljVkM5Y0llUlpzc01MMDkzVlY2QUp6cDBVbXZLSlR4RzZ0OGRYa2x1QWtBd2hIX0xGU040a1N2bE9EVkZjMGl0OVZpMDJVZzI4Vm5TcmRrTm45UGxwbVNHby0tandzYlM4SHJrU1B3MV9FREVxZjRsM01hejhYVHZfOUNmYWo0eWN3?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "seed.co",
   "name": "Seed",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.4,
+  "score": 6.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Seed Your Future launches 'Careers In Bloom,' digital series on floral industry careers - Nursery Management",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYW81YlFPOGF5UWxzU3FNQkJqUEM2RmRMUFEtdzZBajk3bTBHNmhRSEVxVFVSblpjU2tOQWVoZzFnNjZaaHBFeF8tOHllVUxCS0JPWEt1TVBXSDVSbEFwS0pya09faVhIcHRNb1NaSmE0M0poeUlTNkJUc1RMaHRSREFOUWhURUR3TnU3cU5Nd19Wb19qSk5YM3MwNVREdw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

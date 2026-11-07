@@ -1,9 +1,9 @@
 {
   "domain": "mosaic.inc",
   "name": "Mosaic",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.4,
+  "score": 10.3,
   "contributions": [
     {
       "type": "leadership",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-08",
       "summary": "Fine arts center unveils Liberty Tree Mosaic mural - Tullahoma News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzFJZjlhMTl0a1dLT3MzRUo0WW9fakt6LS1MWkJPR0l1UWtvMW9DRFQtcUM4WDQ5VHZKQ2dlTGJncmlEanlLQUlMOXRKMXh6a1NPUTJGa3dKa3pJcWhKMU5PNFItOXV0YVp5aTZoOGVuSGlmc3BBU2hHeGFnSXkyaHVmemJncVZzMTlMSXlfZjBiRDJwRTQ4Z0N1SFVIUVZO?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

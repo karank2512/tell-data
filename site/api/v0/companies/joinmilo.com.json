@@ -1,9 +1,9 @@
 {
   "domain": "joinmilo.com",
   "name": "Milo",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.9,
+  "score": 8.2,
   "contributions": [
     {
       "type": "leadership",
@@ -21,6 +21,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "TackleAI Launches Milo, the #1 Frontier AI for Medical Records, Outranking OpenAI, Anthropic, and Zhipu Models - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUFZSdHdvQkxIbnZHNTJPNm12MGxEY1BFbkV0VEFHajQwQ1VhVEF0c3JOdHJEVUZ2R3psLXVJekMtemlkNmlJRlprdmNpV2lLTERzYllxanRDS3ZUSkpUV1diYkFEd0dPd0FsVmxCNUlKT1drU3hVclFwaXFYbURscWFHN3B5ZkRGbFpYZURKMFNyTzJfUUFMU0lnZkZxUmM1LWtKNVNLdmhhUnd5S1JYbGxDRjlSVTJ0NXVWT3JoM0w0Vi1INmVMVUZEb2FSaUY4cXB5ek5WczVNQzlUMlp1bm82OEJTME1obkl4RWEwTDdhQTg?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.1,
       "occurred_at": "2026-10-17",
       "summary": "BABY MILO® Debuts \"12 Zodiac Blind Box Series\" for FW26 - Hypebeast",
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Round of 128: Milo Faure launches himself to a decisive heat win at La Marginal - World Surf League",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdFdKRXYzNlctdWM2NGFkUW52LU5DWVRVRy1YeGtsZ3l5blJvMDNxZDJNTEEwLUJqN1ltLUpOZFRUV3JmZnoxaTlwanRaLUllTXpIN2NmWXYwN2stUEtIMmJnNGdlWTFUZkZHcmZRSVIydGdtUDltUFg1TmhNQ25oMUNVSVo2ZkFvNzdGdHlNcDE1dGR1dkdhQjRPejY0T2RxY2lIZURxRHY4ZEg2Vjd5cEU5M3ViLThXM1JkWmRTaw?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

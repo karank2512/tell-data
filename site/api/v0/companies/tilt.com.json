@@ -1,9 +1,9 @@
 {
   "domain": "tilt.com",
   "name": "Tilt",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.1,
+  "score": 9.9,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Amazon Says Blink Launches Five New Cameras—Its First 4K, Spotlight, And Pan-Tilt Models - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUlVfNjBsa2JoSkpuS0xKMHNDR3Nuek1hYkVWZXZLbGtvZ2JTczIweFkzSU9ONGo2dFNyUExnaW5KZmpaeTI2ZnRkTGM0TVYwdjBmVklPdGhBOWVxSGNmVnlfcWpYdUM3NVRZRXdXbS1jczhQX1pHNVlzMTY4Zkw4TVZoT3VKY00zbWFiWVgwRWk3S0x0RHhBMmZ3blNfa3JfaVJuVjVOeFNZUzl6TVNOX21qc1o3cmZuckFWNFJMNGs4eVhsWmlrY1pnUnUxTlBzZ2FvQzZhQ3gyOWZMUnNRSERqaklKRG9faUxxaw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Blink debuts its first 4K, spotlight, and pan-tilt cameras, plus an expanded XR lineup - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2ZxUkE2S3JRWWJrQ3pmeG1iU1hNSUFjcTFjRUlIajVfVzcwdnVEdHJyLVJzeVZCY0w0UGpRa1U5MlBxMk5PNi16VHV2U1BJeGZmckRCRmZGck16bnN4cWRwUzBfRTBpVkM0SnZlRzIyR1Q4czdCQlBUUmxKTHhWUWJ3MA?oc=5"
@@ -62,13 +62,13 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTd5UHNfcFhsaGRaMXhGRkN0SVh0NjlYNmJZY1RFb29GWFZZd0dxVHBqSTdUX2dRdzU3ajN0dFYzdnJrREs5NDdZVE55WHBUWXk2bTJxUWE0ZUJMM0dHSTVKbjFCMU9YUlhQUThQWllvbEZDbjUxVm1QUVJTeWUtMXBvTkh5N0lfby0xQU9ibzNSN3JqRW5VaVppaG1UTnhQOXNMV29RYU0yaVpILW83ZU9RZExyTmQ2c0dwcEs1SjdseWc0Q3hqdi1RVnJqdHU4WDdnUw?oc=5"
     }
   ],
-  "open_postings": 21,
+  "open_postings": 22,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:tilthq",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

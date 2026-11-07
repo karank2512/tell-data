@@ -1,7 +1,7 @@
 {
   "domain": "usepylon.com",
   "name": "Pylon",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
   "score": 1.3,
   "contributions": [
@@ -13,13 +13,13 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZG5aNHhVUGlqTUdwMFpZb21WLWhFVTd5OWNyenVmZ2pKVjdybFRSMVJCa3FWaFZOeXZZYlkxRTVXSXR0dmo5MzVocjVXUHZzYV8weURjY2p2VHBhVUw4UlFvQ3Z6VjJ1X2ZlNXRGd1RXQ0RWczJ3T2xOQWNpYWRxU0JyNEQ4WlRWNUNoRkJVelJwSE1DYXhJX243ejVoTGlxdkE?oc=5"
     }
   ],
-  "open_postings": 15,
+  "open_postings": 16,
   "long_open_roles": 12,
   "sources": {
     "ats": "ashby:pylon-labs",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

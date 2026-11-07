@@ -1,9 +1,9 @@
 {
   "domain": "foster.co",
   "name": "Foster",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 9.2,
+  "score": 10.6,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-29",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3dLaVBUYW53QVNfZWFXTURnNUE2Ujg1LXcxTUZjY1d1c01WbDllT3YtbXhyVTViZXlmV0JhZjVjVGZsZGQzVnlZUWxrakZmaUtianE3STRYR2tyampDNDlKWDdmS3VJS2poTGlQVnhDOUdycVhWSmc1SEV5V3luWFoyUWtrc1ZDcjJYVEw3Qzh5UTN3QVVIUmY0MDR3MmR5aUlOaGZvUENXYjg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "District 65 releases another boundary proposal, shrinking Foster back to current area - Evanston RoundTable",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazhtdlE4SzcxcF81bGZxVm82bEwyTWxtMHppaU5DbEtvNU9IN0lxZlA0cTdnUm1ReU9zOXFUN3k0ekRlMl9XaW05ZXRjcnFaX0o2cnoyY3JYb0dHQkRFT1FfdDRwVEtPTGNJVk10ZTlQSmpfamVNU01FLU0td0xBOUZibTB1ZXplaTROczV5SVBaYWV6NWFubC1GVXM2aF90dlJfWEY4YmhRSXJOb1JPUi1SS2lrWXVXWW1SajM5MHlXZHBsM3c?oc=5"
     },
     {
       "type": "launch",
@@ -42,7 +49,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-23",
       "summary": "Oklahoma City tiny home project expands to support youth leaving foster care - KOCO",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHpsRnVVaDl1QW9qTkNkSXlWS1BGRk5qNzB3cXhOY2VNYkhQd0pEOVpUejdqcWs3elpXQmtiUExMaERjSFppQ2VKdTAtRW5NYk9kdXJ3SWR4TXRHNkhEWE5tZ1FsdmVQenJtdVpFOGNuaDJCQWlWT2trd09DcnVHQURmQ2J2cmxMdy1yLTM1THhaTmJtdnQ4Y0RLaGQ?oc=5"
@@ -69,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

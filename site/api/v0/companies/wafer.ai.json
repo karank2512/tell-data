@@ -1,9 +1,9 @@
 {
   "domain": "wafer.ai",
   "name": "Wafer",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,7 +34,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "PI Introduces A-323 Air Bearing Scanner, Built in the USA for High-Throughput Wafer Metrology - AZoNano",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Td0JHSDhZd1kwZWkyOFJoTnNNclNzajNZcjRBU2dRNVRqVHZBSm9tWXJQT1VSS2dZT2tpMlhzTldMNHRSWUNpOGhfNExDRE1qNkJBZ3VVcmNKdw?oc=5"
@@ -54,13 +54,13 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FWamhELWhhem1aZXFhSDZvZVE0V3ViWDFkdEhNcUZtQzk2Q1ZqT1oxYU9qMFZZUXF1UjZWRjd6SHNIcUxXVkNIRmoxSFY4a3ZOWldDaVRCQVg3anV6WTgtTU9neldxZlc3Rm83Z1UyejNCVVJraDNpSVJHckRPOWJETFBKMUgzczNRZDhqcXhHaVBDc0FESjZzbExsWGt5dnc?oc=5"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 8,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:wafer",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "avocadopos.com",
   "name": "Avocado",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 11.8,
+  "score": 11.7,
   "contributions": [
     {
       "type": "leadership",
@@ -13,18 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS01OUDNibmVVMGVUcDYyTmlOelBISzZxRFJnSDNhTkFUeF9IRlJOeTBXUjdHSDlmNXNYYXlmd1hsM2JvZkQ5dElnMGhCSHBlZXhVTlM4U1JCSEk1bFBjMXFFdnNpSzk4cWxFNmZOY2ZuN0pyc0VRTG5DbTQyWl9yX3dlZXRCNE9WR3NIMUJFYzYxcm8?oc=5"
     },
     {
-      "type": "launch",
-      "contribution": 1.5,
-      "occurred_at": "2026-11-05",
-      "summary": "Jagdish Farshan introduces avocado oil-based sev range - NuFFooDS Spectrum",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1JSbFotSE0wMjFDZzBSOFlEemoybkRGemZMa1BhZ0Y2T3pHbnNydV9jckN1MjRLbUVtQ3FDR216ZzFzNUVpdFBCTGV3TE90MnRub1FVTzRHZ2oyU1MtZWxKQThoSUJRRDFSVkZ3a3h6S0E1eFBac2lKQ1B3bjlyTjJvMWVIbkI2WHZ0TEJSUFJzU3FVUW9qMU1sRWdOZEloZnJj?oc=5"
-    },
-    {
       "type": "leadership",
       "contribution": 1.4,
       "occurred_at": "2026-10-10",
       "summary": "Del Rey Avocado Hires [person] as Sales Manager",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1QzZ3B1WUd2aDVvOEtndDZBQzcxR1VrV1k4eWQ1U09wLXpWbnh6cUtHT3dWSFByLWlLV2dPMl80ZWJZdFJ6alFfWUVzVmllQldIMWZOdzYzaFIyVGtaWFl2Sjh5SmVERjNwTFdHWWJyQV9ubWhPcnNES2ZTenFobjdjXzByWmlnVmc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Jagdish Farshan introduces avocado oil-based sev range - NuFFooDS Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1JSbFotSE0wMjFDZzBSOFlEemoybkRGemZMa1BhZ0Y2T3pHbnNydV9jckN1MjRLbUVtQ3FDR216ZzFzNUVpdFBCTGV3TE90MnRub1FVTzRHZ2oyU1MtZWxKQThoSUJRRDFSVkZ3a3h6S0E1eFBac2lKQ1B3bjlyTjJvMWVIbkI2WHZ0TEJSUFJzU3FVUW9qMU1sRWdOZEloZnJj?oc=5"
     },
     {
       "type": "launch",
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

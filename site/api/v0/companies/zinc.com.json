@@ -1,13 +1,13 @@
 {
   "domain": "zinc.com",
   "name": "Zinc",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Hindustan Zinc Launches VedAZ and VedAyush Zinc Alloys for Galvanising Industry - Machine Maker",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWtyaVY1TkF6NlhfZ1FESlU1NTRQeGFDQTBFdHBXMDJmWjNDMXI0dWxDUXFuenJpd3k5M1dYZGNjWVUwblk5NnB1azdNYjZ2dXpybFFiWDBPc0R1NVYyMmJpSFhVS3g4azFDZXk4S3hFVTA3cTFhRlNrcWNMaFptdWpuWXNzbUxoVjQyRDRXdGUzZlRobkVNNnpZWTBtVW9kMnQ0b2xWblZONG1QeFV5Zmx1VQ?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

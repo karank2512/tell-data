@@ -1,9 +1,9 @@
 {
   "domain": "pierre.co",
   "name": "Pierre",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.9,
+  "score": 13.7,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "AIB Data Centers Appoints [person] Vice President of Public Affairs",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEc4bnJ2TU44WEZpYXY0cEdDVnphbUxiUE42eWVjekE0TmUxMTUyUloyQXVpWHlBRXRhOHUtUHhkN3RrLWR6VkNmWWh3ZGNtbjVjVnI5R2V1cnVWTjlsajBjRHpJVTNIWFZNZGZwVi1mWWpiOGphbVQtTXZ5OTVvWkFkWFJoMmVKNmN1UE5Ga3paQnFkVXVuRFFvU2xUa21SekY0cHFDSEVXa0I4MWF3WA?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Switzerland: Zoë Me releases new single 'Dis-moi Pierre' - ESCToday.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjAtOUVtbUs4d2FhcmR1WkhGbnpDeUJlLTZVRWxJVDRQTlV6alVlTHppQXRNcjl0T1JhRFQ0TmlSdXVFRkZjQS1zYkN1X2d0RlBGbDhQOHI4SVZOZERUOFhEekpsWnQxLUdxVmpsVmNWbkFIc3U4ZEd0RXBibWZKeXlYenN1UmhFZ3c?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

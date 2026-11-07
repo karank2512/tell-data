@@ -1,20 +1,20 @@
 {
   "domain": "automatic.com",
   "name": "Automatic",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 31.6,
+  "score": 31.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Knis launches 100-piece automatic watch with a genuine meteorite dial - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUkVnY0xtVDRCeUZtUnZiY2dzTzNRZ0c2Y2dMbHVWLS03RngxSnNwNzZZTVFMRDJJYXZvbU82dlZPdHVBT1pkVFN2QVlQLWNvbzBubjY3NEptZEM4V2FFTjhrdDlybVpTeGpoS0RuRDRpLWdCVU5mTlg0Mlc3dUl5UnIwdzhVNjBWbFE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "The MeatStick Launches Blow, an Automatic BBQ Temperature Control Fan for Kamado, Kettle, Bullet and Drum Smokers - EIN News",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNFRoUFY1N1o1MFhKbHFlOHphUU1haG5way1vczB4U29saGxNR2Z6bUszeUpfT29DeGhOMGZnSlN3NGRLcklGa25JUHg4NkhPS2ZndzJzYnZ5dmdLRmcwbUNrNkdldDhneEFlNjVEbFY0X0NWaTVqV3dheERpNnR4UVRJUm4tMkc2NFpwNnB2a3dSLVJvWHJxRHQyeXVXaDFIaW5CVWVFRHExTGhiYUNFdy1ZWHdjSGZVZWhhc2dGanBCRUVtVDNvd0pJTU9udzViZnlVakstT0xzTFJZWUVGaGZIb1RLOWM?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Henkel Introduces Somat Smartwash Automatic Dishwasher Dosing System - ESM Magazine",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkp0OXdHWndNZXBJd3JpXzFvY0ZONFRma2ZLVTN6cDVqOFgxTnRiYXF2WThxeEFsU3FjYzFiYmNmM3hMWERVNmkxd1dHY2Y4UzRQQmlUelJHR09tbmsyTFhuWXNEWFEwZkRvXzdpby1EWDBEd1poODJrUUtwV2tZZjNyZ0lIT3d0NUVKaGJkbTFqTmtVbXBGenA3emxjdGhYM0o0cFI3NlVubU5faUxyWnJXajc?oc=5"
@@ -119,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "IK Multimedia Releases ARC Studio+ with Standalone Calibration, Digital I/O, and Automatic Subwoofer Integration - audioXpress",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb25qVkJqaFQwRUUtT1BGcGd2NXBuY3oxYVFueENxdGh1VHpmRUJfZmFWMVhicXBkbjliZTR1bmdNYXZvVDE0RkFtR0hkUFR6VzYxWjJOWXRpUjMzclJJZGRYUkNMelpyM1Y4UERGTWtuRDQ5Nnl5TVhlSTE2ZnZjNXY1eE83V2xyNThIdzZ2WU5JU2hONENKSnNneTk0YUJJNkhMWFM5OUZjZU9IV195Wm02YWM2N2d0Yms3Rl9fanEtNFF2QVdLY2VOZUdTVU9UdnY0UA?oc=5"
@@ -182,7 +182,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "Introducing: Timex Goes Surprisinhly Classic and Elegant with the New, Affordable Marlin Chatham Automatic - Monochrome Watches",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYW12dVh4VThLN0ttRFMzd29tRTJYZ3JDcWVFNG4zOGZ5S3hsNXllNWFIYmQtLW1BRUNQeHNjTzl4RFNjNTl6S0JhUDJUMm0tMnRfeXljRm9vVC0zaXhsVWY1WE1GaVkyYlpESFlOR0c5R2pjTmY1ZTI0TUZLZUV1bEdzMFZuZzRENHhNMFpCUnRJbkFfS0JMeWpUQ1MtRENndWNycVE1V21yMWJkVTdJZ1Z0UmhBOE5BXzR5TzI2aEpoQQ?oc=5"
@@ -195,6 +195,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

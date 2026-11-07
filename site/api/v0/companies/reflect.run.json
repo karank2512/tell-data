@@ -1,10 +1,17 @@
 {
   "domain": "reflect.run",
   "name": "Reflect",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 12.6,
+  "score": 13.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Focus on Konami: New releases reflect in-house brand building trend - CDC Gaming",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVBxOElqWWF0dTFLbUtWUzFMcWRlNEhmZi1LVGxNRTRzZjNLOFVfMjViUlJnVDdkeTNweHdYMDltUnF2b1hGeS1DN3NrN0gtM1ZVeUg4U29NX0gwdUVISmdvNzFxQlREdVo2WnpCR2RQLVhvNXd5eTdETzFweWJON2FfRl9EdGU1bnJMaWx5NW5ETW8?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "US-Based Reflect Orbital Books 2 Skyroot Launches for Its Spacecraft - Analytics India Magazine",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX1kzYjgtb1VLZXEzeGdrLXJneENYZThhYk1jRVdhNFBYUk1WUVhGYmJzX1IwVmpZUTlCQUJBZ0FrbmhOLUh2djNWVlhwZUNfRHRMcWl1VXlDMjlydHh4cU96YnlEeWtIcWF2ME1GR0dLeG5Wb2VIOXFGU05TbWZsUWFldGZJdDN0eVRCdzZUWFBHb3RINnJsUnNRQi10ME5WLTFGWjVidERtZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Reflect Orbital books two launches with India’s Skyroot Aerospace - SpaceNews",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc09FaVllZ29jdVJWZEEyNHhqN2pCOFRCZkNjNXNpZVRMcFppSHluTl9PYm9JVGVmR3Z5OGlMR3UwbHJfS2RqVHZ5U0ZfUXY4LVpwNWItalV4MnBKMTJNRmlsTmtLakhMbU9iWWdNSnc4bGgxaEZZN3A1UGRqTGVRN1BsMXp1M2VoNjQwdjlURHo?oc=5"
@@ -90,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

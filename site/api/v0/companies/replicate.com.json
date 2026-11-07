@@ -1,20 +1,20 @@
 {
   "domain": "replicate.com",
   "name": "Replicate",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
   "score": 2.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-26",
       "summary": "Hyundai launches Bayon at Rs 9.9 lakh, hopes to replicate Creta’s success - Forbes India",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ0V3b3ZtTzJnTzhwZFJyX3o1M3gyTFQ1UTljX3IwVHU4QWdocGxRc2pMSE1LUS03eFNXT0dybm4zay1HMGRQeUUyU2E4MXp5WU55MHFETXEtX3VuZDZ1a0VENGlKY1hDSzBNT2hjRnhtakQxVVZkeXcwN1dOUHFBalIxc2h0TzhvOFgzLVIyWE13MDV4T1I3cWZJT0tMbC00VWZvcDgzU2N4UF91ajdkZklpbThkX2NLZEZDNTU0OUNLcmtYSEpNcDc4NVV1TlBTY1Z30gHYAUFVX3lxTE84NjdmTlhNcU5zRXRUYVhodkV6Wk5Qa2toOVlvRHRGdXQtOHBSODVlWkJpLWMzYVlFWGVNQXVZQUd5cFhlRFUyenJBZHpYak1leHh5R0dkOWY1MFJKM0F2em5yWUpEd0xZUUlJNEppX0hpRnJfa08xVTh0M01pLW1iUXFqQUhjNTZidlpPLW1KSTdFWVNYNTJSNm9OZHJ5UHFhM1RNVDNsV1ZCRzFzQnlpRjlRQXVhTVJlUHJxR0swYTlPcEM2ZHBwOVc1S09CNWhZdmYzUFpkVA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 1.1,
       "occurred_at": "2026-10-15",
       "summary": "Dongkuk Coated Metal unveils new color steel designs using AI to replicate wood, rock textures - 헤럴드경제",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uZGw5a0FyLUVBdTNJWVk4d1V0Q2JmR2Z5ZWM2QlRtZ01jYjRreFRKR0xzRnZkcWpuZVdvUWw5ZEExQ3prWmsxV0ZoOG0taGNNSHNYckl2bw?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "astor.app",
   "name": "Astor",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 2.6,
+  "score": 4.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-07",
+      "summary": "The Astor Goa appoints [person] as front office manager",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOTBGTE1OS1hxYm9Fd19uQi1VSDItbmNOVmsyNHNSajRDRzJJYnBPczZ3eTFOdnRZUFJqNXZOWDVBdS1GVWlsUV8wb0I4R250VU1xa25haEhrSjZBRW1yRDZueC1QRE12WGtHaGJtYWdVMmhhUmdFYjgtenU3V3lpZWNEWVNDdjhsVWtvSXF0RFRRNUdoTU4tSUh1ME1FWGgtNVFXc1JCWEFWdE1WSXRscFUxcGcyb2FXOFpDRHlsanpmbXJTVnE0ZElEZGt3ckpxT2RQVldyVVhVZFFsTXAxQThRZ1p0dzljTHh0UmZKV2dzZXhIbzJqZno2MU14RkJaM3VaQtIBzAFBVV95cUxPM3R6bG04MDF2clJ6Rzc1Ni0wdldOR0g2dE02QUNvbU1uYjJTV241aEtMZFduTmNoSm1mMjFkQ3NCZ3NtN0JhVUZkanRIcXBzUnoyN1kxUWhKdV90R0dQVVZLZjlZZEZ1Zm5ZeFRuVHIyOVI3UURmRHBTOFQ2WjY2cU85d3RNUGh4c0F4Z2p4VDlFSFNWemNUem1oQlFQYTdya0RDN1VtbUhtWUpFUmoxU0FmMUQzRFF5d2lkQnJhWlpJZG9vcEQxUEFBWU8?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.5,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "The St. Regis Jakarta Unveils The House of Astor Afternoon Tea - Indonesia Expat",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFRneHY3UUxzcmhBS3VQelUwQUtUYUlFMWp6Zk1LSmc3a0tzelZ0MWNrcFU1SkZvYzNaMmJvenR6RTd4ZEg5N3UxVE1Kb3FaVDZQWG50S0pLNWtBVi1CWW1DNmxMRWR2RG1ncFlDcGZOMTVDRmRSUjJVMHBxMWo2bHVtdVdCOFRLOEEwOG9iMHdPbGxlajlWdHJRTVJTTjFRM1NjeUYzWE5fQ2pHUkE?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

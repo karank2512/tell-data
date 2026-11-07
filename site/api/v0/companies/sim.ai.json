@@ -1,10 +1,38 @@
 {
   "domain": "sim.ai",
   "name": "Sim",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 32.1,
+  "score": 40.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-03",
+      "summary": "District by [person] joins F1 Sim Racing India Open as ticketing partner",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTm9KdjNOLTJqRllxOXhOMWtBcFl1czZjZHRNZkltQUhpRVRGRWlOMkNGSjZsZU1SV1YxblI1ZGdMUy14X0JnMHhvN1RUZG9TcFlLeXhzX2Y3VHVfSnhmM0k4eE5PcVdRR2VMMlUwdHF2R2hOSkM2OWJIQlJxSHZVNFVQMS1XVWJKU1J3RHhfTmY4SWRiYm0xTVU1eVlmZHJuVVdzWEhCcw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Seafarer: The Ship Sim Version 1.2 Beta Introduces Sandbox Mode, Job Customization, & New Vessel Handling Options - Simulation Daily",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QajNLSVhDN3ZHOTNlMThGYU9CclFhM1k4YWd4SE5tb1BRYl9qSTNURGxpeW11ZzlqeTNwSjBGd0t6ZDRCRTRyTHduZmZXR0FlZ202WTA3dV84QnhnLUxOVURFRzh5cjJYMlo2a0lONHg4S0VjaWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Microsoft Releases Sim Update 7.2 for MSFS 2024 - ThresholdX",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1aenUyX0pCRG5Ydlc2U0pXVXJ2Z3dQMTVvaTZVWkV5ZGVXckljTHBFQ1BfT29qUUVsUWJJYjdLOWJIREtjMzVzVmVJalF0VWRmUkVRWVlEUHZNWU9GODJjdHF5YmlyVDFZU0ZxS1ltUG8tNmg0bE5hVTBxMA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-04",
+      "summary": "GTPlanet Rig Builder Launches to Help You Plan Your Sim-Racing Setup - GTPlanet",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVE3MEtrN1F5djdockpVcGdldHpwSE1aREhaeVA1WVR2VjYzeGFVT015cVRKY1Qxb08yYjY4MXRVcDdyV182c0NPVVROT3Nzams2MU82cFIzVkJqclpEY194U3JIMjltN0lLUlYxamNrLU1VRWJvRlpCZHlGS0h5QnU5OWQ2RFBhOUVZaHhIZEJGRmFEMEtCQnROekNabThSbGtRLUVn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -23,8 +51,22 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-03",
+      "summary": "UBTECH Launches Thinker-Sim Embodied AI Simulation Platform - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjJYdTNSd0dpbDc3MXQ2b3FPY0NuUmVFLWxpSHo4ZDJ4Um04Zy1RcC05NEJQNFBnNzR0d0NJVjE5WmRGUzRENjNVUENfeWFwUGF1QVFVLXVVQ3V4TlhEU0dEY0p2UnVpVWFsOEVyTEZGbzZyN2pQX0pHcU4wTmUxUXFXSlZ6UnpoZEdmUGNVNUFna01jOXN0XzlIQW90dXR0M0FfLV9ZU1gxb2xSb1QxUlF4NTZUTVVQWTl6cVhWWlFTMXRUUDk2aTFuUU8?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
       "summary": "(UPD) Petit Planet, HoYoverse's new galactic life sim, launches on December 4 - Instant Gaming News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWNtYnVIMzRZYTBTSEF1cmh6ZmM4dEJJaTltc1pNY1NWeHN6bkRnb1ZLdGF3LVRWbEc1RVNNUnB1QmNjb3o5Y0o2N183aExucDFkd2FwMVc3Q1JFTGxTVkRsQTRNdWowaFBRcU8tVEVEMkN2bU0ySVBsY1U3OG5IZHhVRW1DUmFfc3BYZUlqTkVLOXJ0RXVoMWZSZVBvNDJlU0FrdmhxbVkteFV5NXBJSzRpLWYxMWdWaHJCVzBrNTY?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "SIM Academy releases enterprise guide for Singapore cybersecurity training - Vietnam Investment Review - VIR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUGlBUWd2d09vbUNfUjZrbHF0LUd5RHRKQUwtMDZMdWl5WkpYVVRzRm84M1N5UVhhTDM3QnlwbGxjMVRCaS1Wc2VIOXJsWWdGMTYtN0JjVDBxRWFRa0NCSGh1YUpqWm5nMWMwQ2YwTWNlTDVtNFFCVzhCZVpyTVhNS2lLVlMtZEhOVXhWYVVkZFFQYUtRc3Y5a2MtOXhoMVRPNlBVVWt5Njk?oc=5"
     },
     {
       "type": "launch",
@@ -35,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Anti-Pokémon: Brutal factory sim slaughters cute monsters, debuts 99% positive - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaVdabjB0NnhoRnV2cXZpdmVWeXBVWmdYcG4xVTFUbFRPU2dvd0NZZFRqRTZiVWFSZEJxZ2dDamF4d20zVHhPN3lxbk1nbVBiX1AtblY3ZzBYdzlDbGZXYTZpNEhIdEJ6dHdrZTRHQlBpVzRfLWVVVkFRUzdPVmp6cEtwazIyNy1qLUhnZEFmOGE5bTFmcm8yNElxMXVmTXhvNjdZQ25KS1ZZUm9IaEF1a1kwSW1tczh4U0wtaQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "Sim-Lab Launches One-Day Halloween Sale With 10% Off Sim Racing Hardware - BoxThisLap",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBId1BubnFURUJfV0lUdldzbmNNc0R1anBCa1NUMGFrdGZfNFY1U2t5YldRZW1vVklHYjhGZl80cGg2em5zeTFBQlo2ckdqUVB6NUNFb3NoUWU3TmlyT2l6ZA?oc=5"
@@ -140,7 +182,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "Cozy Life-Sim RPG ‘Moonfrost’ Launches in Steam Early Access - THE MAGIC RAIN",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM25KSUVNOTVlLUxxVUpuZnpSalotNThJRzdRai1EcUhLclNXNEdJVDViN0FrSldITThtNldOMHdYX3V1UXZMdGxGa1pJYkw3bm8tc3gwQkRzbnUwYXZnbFUxeFRwakZYbS1iM2Y4aVdZbXFvREpCMXhKT0Y2ZmhOU25LQV83c3k5aXNIbmtWWGNvS3FDYmxF?oc=5"
@@ -154,14 +196,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Cosy Sim ‘Warehouse Catastrophe’ Launches 27 Oct. on Steam - PlayDayOne",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3NaMk5YcG9CLUFvamh4amJtRmliNWF4MkhTWWh4a0VacWJsVUJBaER3Z1Q3NkF0alBZTlctbm5hc0pMN0toRnhhU0xqV0hBTGU4YWNUbVpCNGJTM283bDYyZFRVakYxWmhxY3VFRnpWVnNFN2RCNFVHOHUwVWFuUUdjQ3NkaHVkZEFWVjlBTU8?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-14",
       "summary": "Microsoft Releases Sim Update 7, National Championship Air Races for MSFS 2024 - ThresholdX",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0VPV25kZEUteVdUMkQ5NWtGUTZLWEp2RkpnT3NxYks5OWt4YkVUdVV4M3M2VXRlNXRQVGk2aFdRQ01KUUx1WW9kUXlRMDBrdVFFY2h4YTlhRkF0REJrdTl0ckU4ajJ4QUx1c250X2tyTDl2bHowQlBqamlWYV9jUk84YzJadzBheEQyMzU0dEszeG5rNWlMdFIzWGhsckJvbTB3?oc=5"
@@ -182,7 +224,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "Race Sim Studio releases 2026-spec Formula 1-style mod for Assetto Corsa - Traxion.GG",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRF9pY3N6a056eVNEYk9kTHU5eUZuQ0N5LV9QWmNQMHV6ZFZWUWhWVFUtVnRuanhSTm9kdkFNZG9qZjJERlcyRk9xTTl5MnlEVlkyb1FQLWZKZ1ZrVFc5Qi1lYWFoZkg1UVpxc2I5NUw0MWlQb1ZsLTJTWWctSWgzcVVTZjF2Z0FTVkVhX3BlcDRMaUhWYUww?oc=5"
@@ -195,6 +237,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

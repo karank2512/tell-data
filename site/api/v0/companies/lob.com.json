@@ -1,9 +1,9 @@
 {
   "domain": "lob.com",
   "name": "Lob",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 2.5,
+  "score": 2.4,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Live Oak Bancshares (NYSE:LOB) Releases Quarterly Earnings Results, Misses Estimates By $0.12 EPS - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQVNFYWhfSGhZS3gxZ0Z1c19MRWJRaWtuY3U3YkJodEcxRWJQNmNUck5mWDViNG1HQ292VTFVb3lKWm9rZ2Fyam9zdW04NjdUenlVVVBfT3BydEpvWXNMWmlLWkpYY1NuSjl5bjVMOGlNekVOd2NnWHNXSnlHSkZWSEJuY1RJWlZfdllxRjR0bjU5RE9vaVo1WG90U0hkTTNXM2kyMmllVXhMSHpKaU9lLXRZM0IxZHRGRXBEdHRodzFYVGpaV1BMNFJXTV9WYlJXaFZkcU4yYmg5TllNdlpoTlRNdTFVS0JucnZ3?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

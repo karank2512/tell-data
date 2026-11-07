@@ -1,9 +1,9 @@
 {
   "domain": "remihq.com",
   "name": "Remi",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 19.0,
+  "score": 18.8,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Remi Tinubu launches ₦1bn empowerment programme for 5,000 Edo residents, unveils 50 CNG buses - The Streetjournal",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVg5X3JLRFdVMlREbXBKcTJ5SG5qVE1ZX2x2S0Vja3BnTjJ5cUlHaVpJU25QejM3bXZrS3ptSmhEWGg3ejBrVGFFT0lSbzJXOUszdTgxMDRLT1dYRktzUnBzUmNnb1RzbzdsT2xoREpYcFdoUkF2cUlmUzZ5cWZTTGZHZHg1WXgtTm1YUGtjczBvOFNUQVB1TFRPaDVNUnNMY2xQVEtLZzJIWnRwMFE5UXdxemVWMjJvYWRMNGZITGhQQ0RzRV83MA?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "This Week's New Releases: Troye Sivan, Cameron Winter, Remi Wolf and More! - Stereoboard.com",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tVy10MlZVNEpzaW9vU2JteFN6Yjg1REN1ekpzN0MtSUhiLW9PLXlFbXZWY3VIaExjZk1FSllMdFlwZ09PX3lmb1JiWDNYanZUUUxpODl1UWdDc2JvNEE?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

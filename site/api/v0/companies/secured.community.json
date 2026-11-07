@@ -1,9 +1,9 @@
 {
   "domain": "secured.community",
   "name": "Secured",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 14.3,
+  "score": 14.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "TKO Group launches $1 billion senior secured notes offering - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTF3X0F3N3N0ZFF6UlJoVHFBSF90Zkw3WDc1ODhkbWJVSDJvQ2tyNVBTdFAtY3V0dzBrMXRrVGp1RW5OUmpVQ0dmNGk4QWlHanFwT25xTXNad21EMldiQVpSdm0wVUVDWldlRERDUmtvNWhIeE4tV2cwVEI1dDhHSlUwdFNzWl9HV0tnMkQ2QWdZOFNKdlhKUUdISkZZZ2stNVNBYzhIMjJkOXVaTExXeVdQMDFwZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "TKO Group launches $1 billion senior secured notes offering - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVRXdVZjajJBQUx2S0Y2RDZlWC10dl95eXZqOU9OVkxibmRYWTQyQWdXZDZxRWNBSEdNcExYaUUxSUFLQWY5b01KQmpTOG9jcEM0R2pzbXc1WU02b3dBTW1VMFphM291NGpRekVIMUlXZ1ZGS1p3TzE3X0dpczR2dC01STllRzBkRVBTSF9kWmQyNVV5RmdGTTNhdTRpY2xwOGZlWF9VRTVxY0VyMU9yNEctTWt2aHJuSjJHXw?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

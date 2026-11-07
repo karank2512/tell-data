@@ -1,10 +1,17 @@
 {
   "domain": "at.cafe",
   "name": "Café",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.1,
+  "score": 14.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Recent™ Launches Dedicated F&B and Café Branding Practice Across Dubai and Amsterdam - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXZOWkVhRzdWV09ONmNBeWRRTFVUSUU5dUdLT2ZxSHIwX05EcmV4TW5rNnhJLUpTVnZZSWNMN2RNOVoxUEFWdC05MFJiR2M4NGpwRDd3d2JMZ0lrY2pETWtMV2JJbU1JN1owcVNRaVJhelo3R2RsVG55aFUzZHVZTVZjWkR1ZC02VjJldXJJUlNkUHIzODkzc3QtQ1YzLWRnbHlqQVBPbDdKV054ZzJiZGUwTnJ4ekIzcmxiWTZMNElTZw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "A frightfully good debut: Black Cat Café unveils first theatrical production - KOKI FOX 23",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEZhRm9Hamp1RzVrRUY2NXNMSWR3eHlLQUZzcURYNnVSenlNRWkwYVFkS0JZVGdGdjQxZUR1OWY2azZfcTZEbTFET2JVMXhLaVU3bWsyaG1MalM5Mm1qLUpPVW9zay01Rjd4bEZPZmdrTHVsVzZTUW1yNGxBaUw0R0JuMzhSTEFhQ1ZhbUtlQlh0RDlvbDRnV21zbDBkNHhyVzBvQTNOOEp5cjRlQlUyUDV4T3U5UQ?oc=5"
@@ -97,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

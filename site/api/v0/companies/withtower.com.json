@@ -1,9 +1,9 @@
 {
   "domain": "withtower.com",
   "name": "Tower",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 13.0,
+  "score": 12.8,
   "contributions": [
     {
       "type": "launch",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "RTX's Collins Aerospace launches Tower MicroELITE surveillance solution at San Bernardino International Airport - RTX",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmFqYXUzcGFkUDVfWVJiQWs1RkRDTXpGOEdNWXBpQ2VXN0VsZG9uNTFweEVpMzFHLXctbW1tV05TU1Mwb3dQVHNSNk5SVG01NUxfVFVXZVZHcmR4aFhHbDd5Qmp1d2RPUy1VamhyQkxWUTFVS0ttV3RpeDZEN2tkd3FJNXUycExEVkdRME9TSU9EZHg4VGVxd2tqVG9ESjNhLVdmVWZLbjRBdW5fM2NMWXZYMUZzejRPN0ZyTV9NU3hGSjFTbzNn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Parquet Plays : Boston Debuts New Twin Tower Lineup - CelticsBlog",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0ptQmYwYnlIRmpWVHpDY2VOOGw4UXJ6M09nVks0aXl5czRVRENrejd1N2JUbHM2NllWczBLU1pGcHRIQkFuVWF2emxzbnU3VXRJcW1vZTZ1Q1lQOGJ4d2dpYUVlSHNDZ0ZMSnA4NUlmb2l5MXl1YzcwMEQwU1BDSG9EV19TWmlPSzV5M1pkbjdhVHd1RmxqdGVaaHFzc1c2RE5B?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

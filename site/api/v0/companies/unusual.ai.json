@@ -1,9 +1,9 @@
 {
   "domain": "unusual.ai",
   "name": "Unusual",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 6.8,
+  "score": 8.2,
   "contributions": [
     {
       "type": "leadership",
@@ -28,6 +28,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Unusual Group co-founds and launches Heading, the AI search platform built for agencies - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZTN1YkxmMk5ZOWF6cDJZTEFrSFFSLVplamhtdS1vY3lHQWlBMWR1U2lMa3g4ajdSMG1Za01fLVJMTGtxUFBDX3lrWUdqYmFfOXBjQmNxWDdtVmZCMGFCY3EtQXdHZ1gyTTN4ZHFzTG5UdVluZUZkbmhMWlk2bGxaeTQwOXYxT0NTMWVtLTVfN0R6Q1hWaXBaZTM0Z0JJcl9uSG94Z2JyQU5mb2E3WmxXQmtWQWxzLUdFUy1lblZ0aFhYSEMyY09Ick5vR0F2WXBaLXpKbWN3?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.2,
       "occurred_at": "2026-10-22",
       "summary": "Trump admin launches 'unusual' investigation into one of their own - AlterNet",
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "Wingstop unveils unusual new wing flavor featuring Sour Patch Kids candy - Fox Business",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzY0bWVRdWtCZ0c3aFhyZ2hqS0dOZ1NyWkstcVJQQmN1cVFhZUliNjVhQm5waXZIMDZtYWdLQ2E3bjVweDFsS2ZTeXUtMWI3cEQ1YkxRVndwM2RQUk5sMzd4UjNzcDhnRl9KUmh3bnVSVjNYaGluOG1COUQtcTVxN1hFRDIxMTFxWmdjUDdOcVpjQlczWGk5a1pIMzRVWUhWQzkzN3lwT0RaaklnRUJj0gG0AUFVX3lxTE5KdTNiX2VIbVZFZU9rc0d0ektZdXZ6eWFncjFyeW40NVZRTnhaRXJOeXhIS0p1T3pTbUt2cWx1X0Zyay1BM1lJZTJGS1d4bkU2U0pCOHBnVndEU1YtZWs4T0NpRnJNRlE3eERlTzhjQjl4aUdXR3NkN2VUdkNkTWp6Y1FHc1JJamJONTIyeVg1NVRjeENXUHhHd0J6c0loX2pFU05velljNjQ2RmZfbWR5OUdzTg?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

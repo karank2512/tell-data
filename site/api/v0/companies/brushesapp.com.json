@@ -1,13 +1,20 @@
 {
   "domain": "brushesapp.com",
   "name": "Brushes",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 2.2,
+  "score": 3.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Original Heir Debuts Luxe & Portable Brushes - Beauty Packaging",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVhxOExyV2lCd004NEp2UWRyZjFVWU5fQ2M1ZDBXejdmX0RZRndIZlpKSTg1eDMtYmxSVVRDVXpZRUR6N2d5S2xqZm9uVHpKdUU2NEdDODZxOGd4VmxWMmpBQWpIRTlaa0dJa1QzbzUtT0lOb3U3UGd1MHViYm13bWlPWC12cFNwdy1GSkJRNW9JREE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Kleanr Cosmetics Launches First Ever Machine Washable Makeup Brushes - Retail Insider",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUWcxdHZtbE5YOHdyeWhJMFl1WjFYNE15WXdVaXJpRG56RWhtSjhtNEFWWEw0RzBCcGlJNmNBVEFMTjk1SFdKdHJnRnpDZzlFVFJuZUlSV19fQTM0TEozaTRKUUstSFNMQ2RiQ3k4ME16TVdLYmhwWWtLVGJHajFSN2MzenVVRkNEU0c3VnVjTGI3ZWQ2WTFJazQtcEE3WUtJajZ2ZzNhZEZDTHJNQU5IWWluTFJsYWotQ2Vj?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

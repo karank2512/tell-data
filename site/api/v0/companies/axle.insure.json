@@ -1,13 +1,13 @@
 {
   "domain": "axle.insure",
   "name": "Axle",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 30.4,
+  "score": 30.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.8,
+      "contribution": 21.6,
       "occurred_at": "2026-10-01",
       "summary": "Form D: $17,260,363 offering, $17,260,363 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1951844/000195184426000005/"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Oshkosh S-Series Introduces New Axle Configurations - Construction Equipment Guide",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWlWM05IZHFiZkRjRDFuOXh1NTJzbjRwUDk0MmwyYlk3OGZhbnIyQmpEdE9jUmlOV3JZQWdyMS1OekI1V1gwWjQxd2g0M2pfYXpod1dxb0JRNndzVzAtUmQwaDVlLVVaeThPMkhZRHVlNE9WV3RGZXNjZ19BZjFDRUFnOW51OEZxODRkeDRuSWNZeVUzWWtFcnRIblh4ZS1s?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": "0001951844",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

@@ -1,10 +1,24 @@
 {
   "domain": "prequel.co",
   "name": "Prequel",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 15.0,
+  "score": 17.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Stranger Things Prequel 'Other Worlds' Ordered at Netflix: 1955 Series Unveils Vecna's Origin - Murphy's Multiverse",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFpRRDJWcXNhRTViMGJHYkZTbm9Ha2Jnb0p6YnlkZFlrLW04RkZYZ2wxUjE3VVBVMkkxclFKZUZhSlZIeUVxdExqaGZIdFd4NkZJYlYxM3dFclZ2eUxhYkRZUDY2QWp3WkJUZ2V3dUg4d3NNaW44ZXhOOVhDLVlsemd1LUhnUG9XNUdZaUVaenRtQzd2TE5RQ3dJbnR3OWhpTGF6RjBTWkpWZGFlWXgxRQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Netflix unveils Stranger Things prequel series set decades before events of hit show - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdU9NYlJ2N083amhibjl3WTJPN0RFYjNBZjAwRFFNOFVkRGlPWkdnVTg4bUY2cDdRQVVmUkp4eHdWNnFZNDJTY1JOaWpEdUI3c1gzV1ozbTlDOUlOOWNZVEpyTjJlbDl2OUMxalkwWEtwRTFCUHhXa0wzVERETzh3TVhQaXlhejhMeS1sLXhtRGxDNFdJVzR6TkZmdWRUVXNScmhUVUZWSXFuWTA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-31",
       "summary": "HBO’s It Prequel Introduces Stephen King’s Never-Before-Seen Character With Surprising New Episode - ScreenRant",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTVvbldWNktLTjVfc2pPZC0yd3FMUWtCblZlX29GM2dETG84X2RRNkFSTTJDU0xrS0FJdzNIZURNdXJMaWZ3aUJKMlE4YVFIZHBGTlVXb2NiTXFEdTlXVUg1d3hsRHdGQ2V1aFFLZWpJVThKRk44X2lPUkQ3ZlVLdHY1cURHUS1aTHFORA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-10-30",
       "summary": "MGM+ unveils first look at Bosch prequel series - The Killing Times",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZUxlRnNBVmJmWVgtcGtsalBSWDJxMmVnekt1bl9tdzF0ZmJHUHdIUXByMnN2YTJ1UWQ3NFhuZnNzV0NsYURmdnRVR1lBMm5DNDdwUWNfUkV4OTU4cjBxeElOX1pWY0RPcExRS3RpSGhtY2pHXzBRY3IwT0gwWFVyQXNFY3lmdHBNR3ZTYXBuMy1uQ2VvaTFVdVVLR2xUbjQ?oc=5"
@@ -97,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

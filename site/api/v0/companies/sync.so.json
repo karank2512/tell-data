@@ -1,9 +1,9 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 24.8,
+  "score": 24.4,
   "contributions": [
     {
       "type": "launch",
@@ -77,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Warner Music Unveils Sync Reorganization, Elevates Ron Broitman - Digital Music News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVI0bEFQVUp1RGN0cWdVTFQ3b0h1a1FMNno3cVBoaEIycm9IVS1jZmVDVUxpOWpTWkk5VjB3cTJFXzIxVWpodjk1a2ZsTzNIcTJNZWc3cmx4QkU0ZDdlcEdzYWtlM21GOXBkaWd4SlV2NzVQaTVGVk1EUndpTDE5LTRIVFRZT193YW9J?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Microsoft Unveils New OneDrive Command-Line Tool to Manage Sync Deployments - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUHFIdWppRHp1dml4MkJRQjlCY2lVLWJlLVZKRnMtWFNJTXd1Wk9rVGUwajgxMTFIek5kTUFicEZzSGZybklJSHJPYlYzb1RKMUJHVTZCZGxlSnU1RUhKamlkVzNERGwz0gFuQVVfeXFMTzREbHNrbWhib2tud0NJQW9sZi1WcUxkdUVEWTJTM29wcmVnSFRTT1lhQXA0Q3N0UWtXMGhSb2ExUXlieXRkcEpMd1FUakZZcjV0VnpyWkRxMUhBYnVUYU53NG9aYUlIVjhrRWp5MWc?oc=5"
@@ -140,14 +140,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "Presentations.AI, a Beautiful.ai Alternative, Launches Unlimited-Seat Team Plan to Challenge Per-User Pricing, Adding Automatic Brand Sync and Document-to-Presentation Conversion - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPN0Q5dmhyd2xJc2FneXdtTzF2c2RnZUZrSzdPaWRrNWMxbTh5U2RjTE5SbS1Dc1d3XzBUVzh1LVc3N1ViZXhIUWlwT1gyZ21mRHVuX091RDNpS1N4QnpBdzdlYkowQVNKYUVFVUMtWm1Za3BWckRINEZTcUVwRXNnUnFHemVIWG9janlaVGRoanpHNjY3TkZ4OUlxdWJNTjZtSkR2aUdaTl94WVZ3VFo4U0NzRzM3aXh5WVg0b1hEMnhvZlRzUWQzNXJqUzcwZkVndXlUWHJHTGloTGRwMmQwZkd6VnN1S3lIZkNaLWIxUlBSaWdYNEl5ZnBuWl85amlDZWdlc3lMX1kzWExDTGlpQzBlTXlNUmxuZHhFc3UyT1kyekVJdzcxUTNTVGl6YWpxTkt2V1BkRC1ZOU9MR0pIbDNFejQ1Z2tBTGdJVXNoOW9wMElkVHRrUHd0TElzTG5pSDVQN2hB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "Introducing ScaleLink: Sync Your Smart Scale to Garmin Connect - Garmin Rumors",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GbWc5MGhYYXZKWEdDUmRvSjF2eW1MTkNiNWpleTZsOE5xbEhESGdsQWNjaWxNSUEwY2I1MXd5dFNvMHhwX1A4akd4MElzUTZFT1NSMkZ0OHN3bnc?oc=5"
@@ -160,6 +160,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }

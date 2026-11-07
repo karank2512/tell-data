@@ -1,9 +1,9 @@
 {
   "domain": "emergent.sh",
   "name": "Emergent",
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "profile": "default",
-  "score": 10.1,
+  "score": 11.4,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Introducing Emergent: The Founder-Generated Startup List - Newcomer | Substack",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00TlJBVHR0eWJVa0NZM2RqODNzUlJSY3BRREdvRkROZmhtV1lLM2N0czllaUktMEhtMFQwWDF2RTJwSDN4V2JaczFSdW5WQWtE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Emergent Order Foundation Releases 'The Experts,' a New Comedy Pilot from Kurt Metzger and Bryan Callen - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmY4U0dwVkZTY0NfamVJT3dibmtPY1ZDVW5GbFFmVEMtQldMMU9qSWtXd2VXc3l2QWkxNUdHSlpTMGM5NzItRmcybzRsSXdHQjdIVHpEVUNvT0dVY2pRUzNKMTFob0MxRUJsOFVwYTdEaWx2a0g2REM0T1ZSVkpCYjQzMUViTk1ENW9mbHJEdmtTakVOZTVKRTh6Qm1zRlVwV1VrVXZBcTJEQVBOMS1DbThxNlNkamM?oc=5"
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/3d87b077bfa74d612ac5842b814141f0a44a2d7f",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []
 }
