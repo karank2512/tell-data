@@ -1,7 +1,7 @@
 {
   "domain": "flexport.com",
   "name": "Flexport",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
   "score": 2.4,
   "contributions": [
@@ -31,7 +31,7 @@
       ]
     }
   ],
-  "open_postings": 192,
+  "open_postings": 190,
   "long_open_roles": 79,
   "sources": {
     "ats": "greenhouse:flexport",

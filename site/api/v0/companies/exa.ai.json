@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 35.4,
+  "score": 35.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.3,
+      "contribution": 23.1,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -69,7 +69,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "ZoomInfo Launches Native Integration With Exa Through GTM.AI - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGNNQ1RnYUNiNWcyQ3B3bk5RRmhLQy1pemZnWk1vS2Rnblh0YlRtVkhKNGFycVJMY1JWREZhNGgxZHlZUm1XRXFKb19xcDVmbjJEVzIzR0VzZ0JERnB0eExaTnRDWFhDTjVrSXl0TXA1eVhsd0g3cUFiRXRMaElFVmR0cjdkY2dhRG40ZEJTYmZscEViQ082amRrOW9mcURmM3hld05iTnNfZTNVR09nQWlsOFgzOG5x?oc=5"
@@ -110,7 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 65,
+  "open_postings": 66,
   "long_open_roles": 27,
   "sources": {
     "ats": "ashby:exa",

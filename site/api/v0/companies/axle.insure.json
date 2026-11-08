@@ -1,13 +1,13 @@
 {
   "domain": "axle.insure",
   "name": "Axle",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 30.1,
+  "score": 29.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.6,
+      "contribution": 21.4,
       "occurred_at": "2026-10-01",
       "summary": "Form D: $17,260,363 offering, $17,260,363 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1951844/000195184426000005/"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Com2uS Platform introduces 'Hive Axle' at GGDC 2026 - 게임메카",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdXRDWDJWVVNyNkRpcUhlbmxHZWVKbENsMmNqZmhqRG9haHVYc2NwLUFkLXlUaUVuNy1US080Z2RpZ3hiNjBvNDRBMHpLek9KbkRBSkZHNFhrckp6?oc=5"
@@ -70,7 +70,7 @@
     }
   ],
   "open_postings": 15,
-  "long_open_roles": 4,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:axleinsure",
     "edgar_cik": "0001951844",

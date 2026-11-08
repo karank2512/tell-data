@@ -1,9 +1,9 @@
 {
   "domain": "doordash.com",
   "name": "DoorDash",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 16.5,
+  "score": 24.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Lyft launches Lyft Go in partnership with DoorDash - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXBPckNickhaOUh5Zm5QQjZlaFdVa3ZwTmlnVEhTX0ZQR0twYXozNXplcGtleU5OSkFsajl2MmdZMU9hbjdPSzNSd19CU0kxaFRvZmN5NTFuQ0tnV1Ffc3k0bG91bVNIY09mR1o2OHlGbGZsV1B2NXVtVWxjZTFxNzZKQmdUUWpjaGhFNkVZUVFRQ3RvREpsUTVZVTBCTGJPbkpreUdUYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Lyft Debuts Joint Membership Program With DoorDash - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWZNVHlhTkJUZnpUeWVaakgxeldfMW41TElHaHFwejRPSFRfSmg4d2MwbHJsRkRKX0tZV29oQXQxNS0xWjhqRHM1NS1ucExfWTI4dW00MXRiNkxiS0g3QVE3eGw4Wlk3V0s1aVBhSFNXR25JajJoTWFTWHh3YUt6U1c0VzBtLXUwVEdYcWxxVmdVSlhDcG9B?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "Lyft launches new membership program with DoorDash to rival Uber One (LYFT:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaXB1eUFkVkdEVDRpUXdEaFVqMVJObTUyakpKWW9oUGUyNjFiUlYzbFZhMDhDMTRMZ0ZBSEJ1ZHg5TGhSbWNJOWZ4WkI3TW0zT2c0MUN3dU80YTRRRUsyZnQzeVZNOThkZktxZGZDeGJNYVBNQ2Q2V3JKU1I2REpLV1AyYmplNWYydXpkUUE0a0lJZkQyUjRxSFZuU3RmRGN1VjJyVXdqdmlxZw?oc=5"
@@ -23,8 +37,36 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-05",
+      "summary": "Lyft launches new membership program with DoorDash to rival Uber One - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQendTQnA3TXhTeExvT2NkSmwwWGJPd1ZaTUl4X05mUENkQjAycG5USlJFR01HQ3VQRU9KWjlTcFR4TDJTYXRfUzg2YjJCLUY0Ym5kMVJhcGNPWkxTbDNFc0ZpYWl1TlVuVkNaWU9nWkMxSzRxWXUtZWdaM0lmdE5WTnFzNVRqMlpYck01WHBLemZaZF9mem8yenk2bzFjWFd5SEgwVEdVVC01U1JyNV9GQnhrUkNKcmZqcGh2MHU3Y2l3ajdvRFJnYzhzdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Lyft launches membership program with DoorDash benefits - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzI3N1AwV0dnS2JETWFldm9xeXhXeEpMTzZvMFk5V2FJbk9DTGNKM1ZLeVN4Z3JYQWRzYVlRZDBKR253b2ZZYzRnNmVVODJlRy1FRnl5VlZ0cVZneFloYXRRVUtKYzNZckNYT1RDVHBfTHhGLTJKMDcxckNkOHZKZzRuSkdZTTRNUnJJYms5elc4RTJOWXhESzV1SWRCaGJaeDVFV1RuSDA5dnd3bVFSa1BB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Lyft launches rideshare membership with DoorDash benefits - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZDBhTmlsRHBqZWcycVo0UENJazdhcUZPblNyeXBhNE5ZMXp0M09mN2hYNUxldHdrV3VvaENWS2V1VllveDktb1hoeW5DazNzVlRTdUlzMTJmNi16dnZLX3IzTkZ2Sm1Yd1lhUHRhQnluY3NhWGVJc2w1cDNRV0Q5WXhLbFRESzRXZmt5bkNucEF4TjliQW91a2pMZDRRY1NaMkUyN1F5ZEUwN3lBYkozSFpneFlFRGs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
       "summary": "Lyft Launches Lyft Go, a Best-in-Class Rideshare and Delivery Membership Program in Partnership With DoorDash - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQkxMWldSQnd0R0NnZ0JXOVNNaFBPVnJsY2gyOWhBTHdFYzJ6bUtGQmN2RzJCY2dnUFFnQklvS1N0M1dydUstUTFaeU9icU95TkFvRUhId2lFWFAzeC1tSGVORmxZRGVhTGhLN1lYOU9QdGJGUEJFUTVQLUh5Y0ZYSG9WckdRTnR5aVZySklWU3pBLXRtZ3hhWVpZMElfaXlLNUVsalJyV0hndnhCR2J3blFtcHJpcThtS2VELWgxcTRDTVo5ZVcwcEVMTzEwYXBSdFQ1RGF0TlVuZy01MEk1ZTlLQkltSUVIb0E2d0FfeGZZUXdqVmlpODhxZzBKZXM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Lyft Launches $9.99-a-Month Program With DoorDash Membership - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWUxMEs5SlV6cmdJN2NtSlQydlZ4ZUV4dzNUVzh2VWhTN05ydVI3UmJ0bGd4cmtFZVBZc0FLNEhhcmp6eVJWUlVDd1RxaHhxRWZvZF9vVm5nbWg2VjRfNWtyVkxDS1VpdEgxUkF3SzZpRUM2S25tSWw2U1FYaFdrdV8yTC0ya0NrOFZSaXBnQjlicDVrQXc3OTRQUFdCNmNWOWowQW1IMld2Wks2Ql9oTEVUTWZzYWs?oc=5"
     },
     {
       "type": "launch",

@@ -1,10 +1,17 @@
 {
   "domain": "getunbound.ai",
   "name": "Unbound",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 3.7,
+  "score": 5.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Life Time Introduces New Pro Eligibility Rules for UNBOUND Gravel, Leadville and Other Major US Races - TodoMountainBike",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOemxzYjdfMTI2NnNFbE1rZUUyWkNLZWZWV1NBTEVJMGR2WVpEWDlUZWFuaUFZelpUc2VpUXVuNVB4NWYwQWw3b0xtYXNCbDg1VUQ1WXphT0Y2NHFydUdHY3h2NFJpbEF6VjZoNF9TRG5TRDBsWHJocU84clZ0eWlTN3BLRVExbFlncE5xN2V2NWhwZUxMYld3?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

@@ -1,10 +1,17 @@
 {
   "domain": "producthunt.com",
   "name": "Product Hunt",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "TheInfluence Inc. Launches Prelulu, a Real-Time AI Video Stories App with Live AI Video Calls, Following Product Hunt Debut - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3BoQUhjODU0M3RQblhXN1pIRnQ1VVc4aEhNUmdtcFRxWEozVXVlUEFycVRfN19jTTNCd2pJMHE1OE94VjVxdzFSTVdrYTluVDc5aUR1cTU5VnVLUDhiRXBidFNaUzU1RU4tc2FrdGVob3V6VzJ2YjJXOFhDZE9jLWk5QWo5SFlQaU5oMGJSaGxjY2hEanViSnNUQzVidnZsRGpBOA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

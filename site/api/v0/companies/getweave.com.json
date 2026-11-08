@@ -1,9 +1,9 @@
 {
   "domain": "getweave.com",
   "name": "Weave",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Natural Diamond Council launches ‘For The RealMe’ series to weave stories around diamonds - The Retail Jeweller India",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmpxbkoxbllKMkVlX0VwWU5WMC1ZVDRyNVpBSG5USFlZNUVteTFpdFdKZHpZdFdzdmxiWjg2ZmlxWTRMVDFMb2pNelgwVWF2MXZ0czRxVEtVVklxTnpEcjRyZlRjbTNsaDFmbUw1RDlsSjNTUC1jd3BrUm1heHVIN3lnNm5hQUJxMGdkQlhOVlRjcVY0cG5vSDhPLUlhd3NkbmxZcVluck4xVzNzOVFkcXhLaFNhcEY4UloyMQ?oc=5"
@@ -73,8 +73,8 @@
       ]
     }
   ],
-  "open_postings": 31,
-  "long_open_roles": 5,
+  "open_postings": 29,
+  "long_open_roles": 4,
   "sources": {
     "ats": "ashby:weave",
     "edgar_cik": null,

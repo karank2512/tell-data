@@ -1,14 +1,14 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 18.4,
+  "score": 18.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.2,
+      "contribution": 3.1,
       "occurred_at": "2026-10-28",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/amplitude",
@@ -38,7 +38,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-04",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/amplitude",
@@ -113,7 +113,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Humankind 2: Amplitude Studios unveils its new strategy game, due in 2027 on PC - Sortir à Paris",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaU1mY0xMTEowa19KemQyaFlaSGlqN2VGQW84dmJua2JZdjQxdGlvbWgtSURSd09SRkN3NloxeEpoTFhDc0ZzbjFSTW1hNTNxQmpBSU9POUxVbVBaZ3hMbFB5SDMzX3ZUTVhGaW1PdDk0bjdQbWU1ZzhZck1McW1iN2dNck5SV2o5V0VzdWRfemFtLUVoRFNNOW0tcGhKTHVid0thZmliREZFYTJCZ2JzRVJiQ0lkRGpXcXREeGxpNTd6Vk9sSmd1UkhMLWFDWXliTElzbWR6Wmdiakhtem1vVkZRR1RvQQ?oc=5"
@@ -126,7 +126,7 @@
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 52,
+  "open_postings": 51,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:amplitude",

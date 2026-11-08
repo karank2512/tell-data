@@ -1,10 +1,24 @@
 {
   "domain": "mayhem.gg",
   "name": "Mayhem",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 5.9,
+  "score": 8.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Kabam Unveils New Idle RPG 'WB All-Star Mayhem' - Inven Global",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObDcwa3ZHSUJ3c0pMNFF1WTA2S3Q4YmhQVVZPVWJjX1l2bnZldk45M1FtWWNOakpYMHpEVElpSzhqb3NFOGJLbW1lbW81WTJKZmUtTE55Vm9BNWlZNXNLTXFkM0dnR3B5elg1RmcyVGVnWHBfaVNFY1dVMjJaWlQybEFNYXVQbm50UEg5UEdkT09QQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Kabam unveils mobile game WB All-Star Mayhem - GamesBeat",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Qmx3Q2hBNHcwNlAtWjVmNGNxbzhJNVpKLUNhN0Zzb1daMW1EQURNZ29YTHJ5NDhzZURqMENKTmVtd0szUnhES3RHTmt4cnpBRWh1LXp0Wl9sQTN0N2N2dW9TUjdnWVdnUFUybUNBdFlwNzJGZGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

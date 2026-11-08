@@ -1,10 +1,17 @@
 {
   "domain": "eightsleep.com",
   "name": "Eight Sleep",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 5.2,
+  "score": 6.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-11-02",
+      "summary": "Eight Sleep Introduces Menopause Mode To Help Women Stay Asleep As Their Bodies Change - Menafn",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPREd6OF9GX1hpNWwtNHlJeUZ2WGFwWXlvdzkwYXJLbXJKdll5WG9Va1pIRjVJdHMyTTZqWTZrdmc4YldMNjZYa255RWQ5djIybURmUVg1dmU2dXZ0ejBJQnJDdG1WRXQ2MFFkNGdRSW9HckhhTXNtNDNYWmh2SVprRmE4My04N29JSzJ0bm1pR2V6ck9CYVhHZm94Q19raVFzeFdqOFFYMkQtRW1jZ0JxUUtWMlYyLUU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -34,7 +41,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3JhUEJlWm9hNV9nWnpURHVrMmw2Nm9ZZU54NGtrd3VXUVlSRzRkcUc4cF9YbVRGVXRJRURmdF9CMmdDWm5XeFlrY3lfSXlFcXVuTTRSZjNWbTc5RnZnQlhNeWx3QmpmcUY4Qm9FZ1NWQWtlUVp1Ym1YUUdaNFdnR1A4MkFoOVhYTU54Si1tWGk3OV82NFREWVBSeXBuQQ?oc=5"
     }
   ],
-  "open_postings": 34,
+  "open_postings": 33,
   "long_open_roles": 16,
   "sources": {
     "ats": "ashby:eightsleep",

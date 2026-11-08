@@ -1,9 +1,9 @@
 {
   "domain": "trystudio.ai",
   "name": "Studio",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 34.2,
+  "score": 35.1,
   "contributions": [
     {
       "type": "leadership",
@@ -14,10 +14,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-27",
       "summary": "TNT Sports hires [person] as college basketball studio, game analyst",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkFVcTVSZHFieHo3SHZEX0RaU1pvdGIxYUF0dGJPLXFRMkZaZ05UQ1ZIRS1wMWtYUURRTUxzWEFzLWdyLVNsQUNWZHJMREh6UFl6akNXRjB0ODk3SmVKY3BIZGhBdFkta0czLUJMalY3UVg4UXNkWmx0M19qRzEwWVM1ZVA3Snl6U0o2WGI5RjFFY0cycWtkQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Inspire360 Launches Content Creation Studio to Help Fitness and Wellness Organizations Build Courses and Accredited Certifications - Fitt Insider",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObHlIcEdFaXJRNEdGTEdJdmZfY1RSRGI2UjJXQU9MeFFKdEw5WGpRY0NFdXB0Wk5Zd2pjc2Y0c29JZl9OOUgtN0VpVjNMNVZyNXU3N0trcENTc2FTMnRsMHNnc2JaYVVLLTRBNEowZ3BXOUV3Y2V6MXB2UXVCOE0zcGx0Umd2UTBJR2NJOFhyNk1oOThLVUtnSzJ1NVhLNnMzc2xVZmE1MGdibU1RaDVscWMtdTUzUEN6MUZ0eVo0LUNjRFliWUEyNVd2VDg2SW1XaWpVeGJvSGV4SHJnbE5IMHJ1UU5Fci00VVJUUGU1RGxROGxmamFkLTlodkFUZw?oc=5"
     },
     {
       "type": "launch",
@@ -147,28 +154,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open With 816B Parameters for Local Mac Studio Execution: 21 outlets compared - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdEQ1NDFEOFR3b0R3RmhRckN4VW51aERsVUdCMFprYmJPTlBuajA1Zm1zdUF1ZTRqajRENEdVTEF4LWMyaU9Jd2VoeTVCN05Xb2dwVEZWUG5WWmRwWEhJZ3BLakJmdkY4Y0ZVWUpPTjhKME9lc1hXRkRab2lmUGdKQ0xtUy1NUlZaV2lBenV2RnVDaU5PNUR0OExpRUdlQVIxUFZUQ1VMVnJPb3JzbEtXdjVSODhFeTFJbmx1Tnh3Y042T3ZXem5UbTFWVk1IZG9pZ0hUT1VHU3VTZ1VJXzQxRUxralRFTHh0TXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Axtell High School launches first student broadcast and media production studio - KWTX",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXpRYTB3R3FHdU9EMWFXZ0ZSRTNLTl9PcVNBVDhGVDZvRmMyc0RkdXJzRWQtWEw1RTZmeWxYTXRCd2NjNWlYNmNjS294YVA4WFBHaHR6Q2JzNVNpUDNtYVczWlJEQ2hDMHN2NWtlUWpoenc0U0FQNUxoaXM3OE1xckE2Sm9Yb3dfMVdidnB0dHlUWVlaMFhUWFpxWlAxRUctV1pfMWZDS19kY09z0gHAAUFVX3lxTFA5R0c4WmpGX243LW5IbklaVktLcmp1LV9UZk1pVW5lYkFOOHJ5UGd1dEYyQnc4aUhKYloxM2M1TkozaG9kbDhPNnhjbHdHdGdCWWswWmNlUEVrQ0lqeWlycjdyaW9VVE5EZTFFLWtzUDVUam9Bc0pwVVRLa281bXM4VVFDWjlmNzloVFZnTzhlUEJJTDVnMnZ5Nm9ORWlxSlRnMFpwT09WcUY4a0VpbTg3OURGOFZkRGpYQzV4bDJTWA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Meta launches new Muse Spark Open model, optimized to run on Mac Studio - 9to5Mac",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0loOFJ3ZVpFVXlLOTVaZGZxV09Scy1PTzllRzJMdFZiMFRVMmFlSUFsNHdNMXRjaThKZlQ3eEFNS3BsZXhrSE9yRmhZeHd2VXc0ZWxBV2pXQ1lENm5EcVE0RW9pVU1rYnM5ZlVFS2V6eDJ3M0FKaVZwYTc0TDk5M2lBYTJIaGR0allGZnVMSTJEY0lYSzRiNWROT3Y1ZFV2NmJCbA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Formlabs introduces Form Studio 1 resin 3D printer - Engineering.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3AtTlhTVzZtVFJBNDJkdEdqT3NZZ1BWMk9HSWVxSHRUWjNDdS1xSlhDcm12c2Y1ZlRvLXhTbzJsLWZWR2dZWlNIem5XbDhUQW9UeUVfM2lOSjRINktqeVpvQ1Z2ZVlJLUMxcEdKT0x5eE04dVFhYXMwVWtlVWt2OXp6NGZ0UQ?oc=5"

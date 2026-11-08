@@ -1,20 +1,20 @@
 {
   "domain": "appwizzy.com",
   "name": "AppWizzy",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
   "score": 10.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 9.8,
+      "contribution": 9.7,
       "occurred_at": "2026-08-03",
       "summary": "Form D: $150,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146998/000214699826000001/"
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.4,
       "occurred_at": "2026-08-03",
       "summary": "AppWizzy Launches Projects MCP for AI Coding Agents",
       "url": "https://appwizzy.com/blog/appwizzy-mcp-for-ai-coding-agents/"

@@ -1,10 +1,17 @@
 {
   "domain": "iamexec.com",
   "name": "Exec",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 54.5,
+  "score": 55.8,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-07",
+      "summary": "Appoints Chief Brand Officer",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVRuUVZzTVp2UWt0OFY1dXNCc0JKUXZpb2wtb2pLQWw1TnI4NHBNUnBmM0VCdUl0YS02cjhjZXBBMXJKZkJ5d01veTFTQXlBdkVqWEVJUjYwYWxPU3ZRN0VZcmxRVnpRTmQ5RkR0Q0Q3b0RkYWJOcVhLT3dtWVNJQVhIa3c3RGtQaHd0SUhET19CUE9MNVJPSQ?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -42,7 +49,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-01",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWc1QmhuT21QdWZkYVl6YTVoRFBTb2J3dGh6QlNWYUt1SDA0M21oMkc3LTlpNXhxd2xCZUtWNnU2SHRueUwzbm42YmticEVscE0wQmhPc2FTcWJQYU5QTzJ2Y2RuMS1DNnhQNVJXMEdud05iSVZqNDBhWEw4ZjdGY21wMXNEN25JdDV0d292SWhrN21ORjBnTmtzYS01REhIUlBZ?oc=5"
@@ -63,14 +70,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-28",
       "summary": "Former [person] Joins Liquid I.V. as CMO",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTRaUmo1QnByNlliMmtwUE16TGE2YkROU3YxRG9lUmZ6NUVMb3dQUUZDQlZuT3d4RENLNHdUMVRiY1k1ZUl0b3NKTGp0WjlfajlNc1NEdXNISWhqM0s4N3BhUmFWU01kRVdmUTlUYURZUzdWbnhleG13MGRoR1Zpc1dURzdTYXdJaVB5TzNDYzU?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-27",
       "summary": "appoints as CFO",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkdkQUJaSU9GUHJaZTFHaGlJLWQxSlQ0cU1RTHplQVV2OEcyaDNfWmZvNkJDMmtSdGsyUlh6TkxrVmZYcW9ya3FKek9LRWtXM08yXy1VRWZDSWVic0hhcS16bF9MUmEyWjZ1UkpvUG1CVDBBLWVDRXIzUV84VFBfV1prUE8yQ1hxMlFMV3hkRlFmd2VrVmQzRTVmS25VUnU3eG1rQ1U2ZzZSZVo3X2NxSG5HWlliSkE?oc=5"
@@ -98,14 +105,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-22",
       "summary": "EXEC: Puma Appoints [person] as Chief Commercial Officer",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSXpzcElMc2JGYmd4ZWRrcHJfQmhNMkk2TUxNRTZ2OW1wWV9oVVJtSldWMEs0bW96b2ZZTElGQjlnUXVseXdWODFNRUZKYzhBVHVHelkzRVhSV0dVTzdpQ2w1X19xMDNIYTVncnhqczdBLWlKR0VSeTBRa29VSXVnVQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-22",
       "summary": "Appoints COO",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByS0kyYnZUZDBHa0MzNy1tdmN4cnNvYzZtdHRTVUdpbm41QmluSkpkbVF4RDZxLU9tU0tFVVhjQjRDbnl4cGZLUjQwY2cxT0FfRWZ5ZVYzODRrUGM?oc=5"
@@ -217,14 +224,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Sowell Management Launches OCIO Unit, Taps Exec as CIO - https://www.connectmoney.com/",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQlVsa0ViUnhfdThURnI1TWFMUFVON1JWRHdUbTk1UklSQXJmV1lVTlRjbWs2MEZoUVA3a3RaX1BxR3E3ZXBmMHp0d1V0MzJaOXFsdVFydklBbEJTYWJEOUtULXlINkgtY3FwNGlDMm1oLVpveFJCR2dsLUhhY2MxbE9UYnptYnNRRHIzNjhIRnZqMVdBUEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Interscope Unveils Exec Promotions Following Shake Up - The Hollywood Reporter",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXlTZ182Q1BhU1NJRFdvVkQ1VExPSGRGYVZ3Q3Z2NzF6SWNnVXB1U1NSa3NFZWJhMXNkdktpSldhTkxmcVNFOTg5WUhCTEpnU3NoeHYzWTFBOUlab2RYSG9lR2c3Mk9LRWNRdFh5V2pncFFsTDljWnA2aG1OYWRlSnFBeVRhNUhWUW05WURDaEF3RFJTWWpWQ28xYzk0LXZ1ejEwWXBMVndnQWl6SXFhXzBrTzViWHVBN2FhQ21B?oc=5"

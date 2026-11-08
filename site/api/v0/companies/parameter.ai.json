@@ -1,27 +1,34 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 72.5,
+  "score": 72.8,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Thinking Machines releases Inkling 2 Small, a 594-billion-parameter model built to run AI training jobs - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUmZGNU44UHdDUVVmOThwVzB0bFdNVjVPb1FmRl9wQmRNaWtOckE1X3NjUFlYbWZ0NG43S0dKYjRDZzU3OEtxY3NnU3FyeURzUGtnLVhramlzczdQdTR3Zk9PUkR4MXh5cjZXSzlSQU9BOHBCc0ljdm9rTVBQTzBpODk0QTNuYzlRUkE3eDJsdm5qRjFSSFVKX3hYczBOcEF5OWh2NWpIZE1ZalljMlVma05vT1FOeFVaLXoyXzM1TEY?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Thinking Machines Unveils 594B-parameter Inkling 2 Small AI Model - Dataconomy",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFRfLWhIT09OWUhsQU5oS0c2Rzg2U1JDZVJzSnRjeG9aVWR2a29kb2N5MUFjblYtV1l0MC0yR2RSQ0FwRXpZYnJfU2pibkE1TEdhQjU3bk1NTGpGS3N4Z2Y0cXpfM1NTblNIZjN1VUtKNklLdmRaMGNXYVBEQ0JpMEZNRGt5YmpPU3Nmd0xaRXdRTlNLelE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Moonshot AI Releases Kimi K3.1 Pro Weights: A 2.8-Trillion-Parameter Model Shipping at About 1.56TB - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90NUFoVVJpd2tVUWY1TjJ3dDNlVnE5dzlkcEtRc3hISXhzN2p4M0NnM3FXS3lQeTNzamg0bGF0ZEVsdTBCOEJ6T29EYjRkMENlQkF6NUdFc3FfaUJZYVVnYlYzZ2tFcUdieTRPUFZPOUF3UVE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Thinking Machines Lab releases Inkling 2 Small, a 17B-parameter MoE model with open weights coming next week - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWW9SckFJNkhVeDUwYUo1MXhDaENQeXZiR0pfN19oVk40a1dlTjRyOWV3Rk5URDZtR2I2dzRKVTdwVzU3SkRnMjZraE9Rb2paWTdYazFuZm01SmhvOWtDM09tQlJHM2hmQ1ZHeXB5UXlzakp1M0s4d3E2OW5YVGQ4c0Z1U0hLR2VtdzlxT2RXX0FSdmR0akhxMUU4bHBFbEFKbWVBRTBQbFNlUi1UYWtuX0VmS01LTWpkOVpTbW8yNWVqeG9yMWlBWXpIY3RQWU82Y0E?oc=5"
@@ -210,14 +217,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Riemann Computing Releases 13B Parameter AI Model Demo, Aims at Disrupting Model Training Costs - Chinook Observer",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd2NONXZsaWZOOTBSZHlhQTZlVDNjZEllY3pFaGVxX2NNd3VxenYxeXpubTNLRDVXRTlWRm5mSXFMRDc5b2w1TDVLWGxWWlNTNUpjSUl0MFRYZFU4d3FhU1drbUJjUVRkT1BrSkJFbEZMYzlYWF91bzBHODZGcFdZWTNDLVhYMFV6Mnc1M3lMeWhsbHduY2xtUGdqUkxlLURvTGYxMW5pTGg3bXI2akQtWWZmZmwxaTgyVkVVYmZxWWpSaGVnYy1Kc1RWTmhMNzl2VGw5UHAxbk80ZVBCLUJNcnBTaUFEelRobUtSYUNJSQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Riemann Computing Releases 13B Parameter AI Model Demo, Aims at Disrupting Model Training Costs - PRWeb",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTzNmRWloQWFvRWRrU2p1cGJEYmc2ZFk0NW1mbjlWRkpLSlN0WVNaWHMyd0ZnWk54STk3bVBUQlloQjN6SHJ5cHBmZk5LMmc1RkdWUXhQLUxETjRqeTYwTkFzYUZyOEpHWEl1OWFoWmFLZmI1ekI4MGx1QWxqTDJPamphS19YeURLUHpYUmdPeTcwdGdQMFVtV09GX3F3TkdndW9wZEM1MElkMzJlYnEzakppZGdHZkFwTHBHeTNhSjBhNjRrQkxKeXBEZ1BCckQ0WW5GU0dLUQ?oc=5"
@@ -280,49 +287,49 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Meta Unveils 816B-Parameter Muse Spark Open With Apple - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3NnS29NelUxX0pnZWxFUTR5b3l4ZHQ2T2JPc3JTbTBBOHdfb0dUNTB5TGtuZTFIM1RlZ1VwU01mZmhSVjhxX3hTSEx4Z2lLdHowTkt3czVmT2xRSXNwMXZZT0pzcGVjcnZkcDJBcnNCOXE3VS1Rdm80M1pPb2EyN21jRmwwMG1z?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark, an 816B-Parameter Open-Weight - Analytics India Magazine",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEVLOWdkbFhOOGZWX1cyOXRlQzdueHJTQ2JoQkliaWxIMlc0OTVfRFpOcmxDNUdkcjFpUVF3UHFNRGtEbGRxVXVLQ25xb2gzaWhjMGJ6clhtcmFUOHZmQTI5dVVKeUtLU0E3N1U0S3FyQmRkTFluQ3hmLW1aVWdLd2pYempNLUlsdG8wTGR5ZmFEMmNDMTJsdExrYmo1TVJvYW1DMXVWblhOQ2d4LXk4aGVZTXpKREFCUm05NmR3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Meta launches 816-billion-parameter Muse Spark Open AI model that runs on Apple M5 Ultra Macs - Fortune India",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTI3ZXFvVWZuVlpwS0hOMTR0YUEyeEhub0plelk5UDVSdVZIVmdJREVqUDdQZVU2VlBrUUQySDVwNlNPRWlBeVp2UHB4czZsZkpyczVwT1hBZnBJckJSTFlwUWJxeGJPR1BzTlpSZmQ4YldGUWZyWENPYlpwdnY3WHdjeWxTendLOXBMVkM2Ym1Xdkx0REpwYi1KTzBsUzN4Z3NKRjlwYTdqbkJ2ZkVIN3VMa1lpNWo0STJDcERMdi1IY0w5dGwyN2MyY2NHQzdYUGN4LXBYWdIB5AFBVV95cUxQWl90a0dKWkdYNUEzaDlPUGItWnV1VER6azFwT2R6OFNLa1hGcWxRUnN1VFRPTkszbDVCa2ZZYWQ4d0xHZXNHaG1odEpPNmhieU1pazg4SmlpRFJvN0ZydjVzY2tZdWVYT2JQV3lFREZWZnJDX2RKY2JITTZzOGhpRXYtVGhyZnpCQVdMUGU4cnlISmNsYVNieTVLQ3hWNFd5UXo1Vjd0c2wwM19yUUdtTlhCeW52QUhKNnkzbnVCNFpuSE5VOVdQTEtGMTY4dzcwTDV1aTdjWXQ2d1JkdGlfVl8yTXY?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Meta Releases Muse Spark Open, An 816-Billion-Parameter Open-Weight AI Model For Mac Studios - Free Press Journal",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWVJOdGNpa0J1WVp6NGUxX3VkcWVQZHM2RFZZUmtNa3Q4LU5taGoxU1lzc2cyUXhVcVk5cmdLXzRkRXlxOXMwcmphUThLOENHc2VmYjJNbk5tSC15SXBYNXo1eGRUalFKRU4xSDZuWU5sTEJpQXc0UnB1eXI3Vlg5cWZrbDFrQUZPRngzZjUzUmEycm1MS2VwUXgxTnhvWmNob1Z2UDIwUVRCanQ4WV9HcmxzMnprTDN3R0Foa0RtWHhEQU5TZmRB0gHMAUFVX3lxTE9XRUJVNWx6TGp4WFkzR0p2UUE0bHNjS1FydG9oaFVuR21RMjN6alpJV2VNd2dLbzZjYWpOUFAxMlVqT3E0MkZTVlphemc0SHdKV1hnSGprVUpVa3NKM2xYaEVkVkluWVhUaGQ2TVZtOTF1bzJTTTZWSnJGUzktbnE4Um4tNVQwNDV3ZFJsdWEtVEpaTXFVZnNpdjI0VXgtYUpzdHRkNkJZZWR0azBjekNlTWtpUHUyZTVMUl8zRnh1VWxZTndwNlIxSFptdQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Microsoft Unveils 2.8 Trillion-Parameter AI Model, Claiming 4–12x Efficiency Gains Over DeepSeek - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWmdoVzlXTlRVT3BybFV4V19hQkl4b3liMDZISEJDSVhSbnJsVWtnUVZUSUhpeUMxOHF3aVRlcWRNS3FldXozd19GM3pXWXB4blJtVkVVeXUyRVBhVDQ1T1I0Z0d3cDhXSU95cWg1M2lpVzhDTlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Meta unveils 800-billion-parameter AI model for Mac — Engadget - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGt5YjN2aVJ6ZWZlSzluTkRuUHFnTlJQLXBMajRPXzJuN1IzcndRVElqQVlzNnhqblhQX0tCNHBtYlAyN1NTT0QzbkRRSDFMVE84TkJqc0tsSUI4aTdiOVU4ZHc4R09UbnowYmkxdFA3c2hoNklydGs0ckk3MGhIemlLLTNwUHBzTE9DckJjZDJEUlFTMG5qR3dpUWNuUkVh?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Meta releases 816B-parameter Muse Spark Open for coding and agent work - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNlpKTi1tWTNNYjBQd0wtN2hWU1VsUmxRalB1ZkZSY3d5a0FCdzJPVmUtRWdOV0ZXOEFWX3c1YVA5N2pVZGZjTENsVndzWW5hdHBscXJ0WWVnZVJHYWhKenBPRnByWFhyc0Y3clZfcFpta1RMeVNtbzM0R0ZqNTExZDlzcURWbl8tLVkyLTEzem1HbXhSbENsc1ptZjRsUUxOLVJCX2xNTTVsT1E?oc=5"

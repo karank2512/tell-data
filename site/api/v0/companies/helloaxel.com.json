@@ -1,9 +1,9 @@
 {
   "domain": "helloaxel.com",
   "name": "Axel Travel",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 0.9,
+  "score": 0.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-08-03",
       "summary": "Introducing Axel Updates",
       "url": "https://helloaxel.com/en/blog/introducing-axel-updates"

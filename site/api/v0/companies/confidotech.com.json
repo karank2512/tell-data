@@ -1,9 +1,9 @@
 {
   "domain": "confidotech.com",
   "name": "Confido",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,14 +27,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-27",
       "summary": "Confido Launches the First AI-Powered Foodservice Trade and Deductions Automation Platform - The Food Institute",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWs5MzcwX2ppQlp0N3NlMFJFZDBaWGJLSXNpSzJFcEoyN2xrUmxFWjVXWjNmVnZkVTJvbHpvWDd4T09PcUhmbnNLcm9mTEdUd0JsU2RTZmdlZHpOWmVCVDViV2RFNE9JekQwa3hiZlZaX2JtWEZjTzdSUWwxa0N0dC0tdGEwUFJwcHVpVzJ6X1FJbkFIRjgwZjFJOVhMZWVqQm1Sa3ZRbHJ3eW5jMTY3RDRjY3pacHFGcnA4ZnNoQ3g?oc=5"
     }
   ],
-  "open_postings": 39,
-  "long_open_roles": 14,
+  "open_postings": 38,
+  "long_open_roles": 13,
   "sources": {
     "ats": "ashby:confido",
     "edgar_cik": null,

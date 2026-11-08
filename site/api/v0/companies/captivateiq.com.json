@@ -1,7 +1,7 @@
 {
   "domain": "captivateiq.com",
   "name": "CaptivateIQ",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
   "score": 1.2,
   "contributions": [
@@ -14,7 +14,7 @@
     }
   ],
   "open_postings": 22,
-  "long_open_roles": 10,
+  "long_open_roles": 11,
   "sources": {
     "ats": "lever:captivateiq",
     "edgar_cik": null,

@@ -1,9 +1,9 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 11.4,
+  "score": 11.2,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-24",
       "summary": "Introducing JWT Authentication for Rivet Actors",
       "url": "https://rivet.dev/changelog/2026-09-29-introducing-jwt-authentication-for-rivet-actors/"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-15",
       "summary": "Introducing Rivet BYOC",
       "url": "https://rivet.dev/changelog/2026-09-15-introducing-rivet-byoc/"

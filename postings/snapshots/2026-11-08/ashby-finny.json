@@ -1,0 +1,25 @@
+{
+ "vendor": "ashby",
+ "identifier": "finny",
+ "domain": "finny.com",
+ "as_of": "2026-11-08",
+ "last_polled_at": "2026-11-08T15:22:27.486794+00:00",
+ "open_postings": [
+  {
+   "external_id": "338f8e1b-57f4-4170-80f1-dab76947a197",
+   "title": "Senior Product Engineer",
+   "role_family": "engineering",
+   "location": "New York City",
+   "posted_at": "2026-03-19T15:20:02.924000+00:00",
+   "url": "https://jobs.ashbyhq.com/FINNY/338f8e1b-57f4-4170-80f1-dab76947a197"
+  },
+  {
+   "external_id": "f6a5117d-343d-4fcb-95fd-25aa29ff0e2a",
+   "title": "Senior Product Manager",
+   "role_family": "product_design",
+   "location": "New York City",
+   "posted_at": "2026-10-02T11:38:14.488000+00:00",
+   "url": "https://jobs.ashbyhq.com/FINNY/f6a5117d-343d-4fcb-95fd-25aa29ff0e2a"
+  }
+ ]
+}

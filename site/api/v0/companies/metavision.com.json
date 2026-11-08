@@ -1,10 +1,17 @@
 {
   "domain": "metavision.com",
   "name": "Meta",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 20.0,
+  "score": 21.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWThXdnB2TE9RM3M4SUQ2NTZhc1Y0SVBveGpsQm9ySU54VFFRTWJmVjdodEJYLWlmemwzeWlfdnlUcUdfU2JmUm1EdGFXRzdVZzNPcUpEV0dmVDhPRDVidzRZVzVkM1NnWi02NTMwekRRN01YLXZ4RmNYekpvSW54cUlPR2VIX2hJTW1kOGd5ZV9pUldRMExwTjE1dE5Ea0hYT0FhdnFR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -56,21 +63,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0RHc3czZERxSklFc0VnWGlpTDV4VUpjVDJONmd2Mm9XYlRKUE5TUWUyNG1BVFJ0c044WGtINDBuR3VnUEdXV1puNkhveWx6QXdWT2tyc2RpUm9qS2M5eFI4ZVlnM3VaRE9mdVgtZDVOS1NwdGJMVTVJWkNVWHFiaHVfVnZQLVRQaU5JcF9nVi1aT0loWUltUnRKaThnVmdqaVV5UjdVMkxoR1E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Meta releases open-weight Muse Spark model for coding, agentic tasks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDgySGFsc1IyeDdOaXR4di1nZWVqa3BrR3hhN3g2S2dHMkoyUUxGS3ZRdG12SlRwY08tWE1EUjRSVjlLTGVuTE5icXhYYjM4Qnd3VGFwc0pnb1FVUFQ2UWlVTk5XTERoYkNYNXZZYldISnJiR0FCVmNJTF94bUp4Y0R3Q2Q1UWg4dHdJdVpWQWRXMEJjcTR3WThFYzFaTmFHcm5tMVVyZVdndFRp?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Meta launches an open-weight AI model that runs on Macs - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQlZfb0U3cFViMUxwX19EejMxOTNmczEyTzU1YzZqZGhaTnR6dVFrVnVURUVqbGpENzRRWnViS2RrV0pLUkZxcVd6R01DRUhENmZ0azlMTmhNMEh1VnYwNzZndF9qN29GSHZDWXZQSmFrd19lS3E5STJTekhTaW9ETjhHLTg1R0tMTERPTUpNN1M?oc=5"

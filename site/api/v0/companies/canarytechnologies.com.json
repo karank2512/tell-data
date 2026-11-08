@@ -1,14 +1,14 @@
 {
   "domain": "canarytechnologies.com",
   "name": "Canary Technologies",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 1.6,
+  "score": 1.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-16",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/canarytechnologies",

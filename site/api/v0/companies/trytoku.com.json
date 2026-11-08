@@ -1,9 +1,9 @@
 {
   "domain": "trytoku.com",
   "name": "Toku",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 4.8,
+  "score": 4.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,7 +34,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Toku Ltd. (TKU) Launches Makimoto Flows for Speech AI Pipelines - TradingView",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVdnXzhwMjVOTldEd0hLZ3VBX0Z1eHpEOTQtSDh2enRIZFZtbGw4anl3NmF5VnNBeTVXVHc3YjBNWHdjQUtqWFQtT3VmUFZSS3NVNTAwSXQ0eHYzNGV1Z1VDTFpWQy1lR1JCb1JBZUdsXzNtMEVQMngxZ1FpVUlGSG1qdFItV053dWRmRnVZQzNtMjNuaVAxajNTdmJNV1lKSW1KTldya3lSMVVVZkxqVnE5Tlp1NmpHZnpKbjhXOA?oc=5"
@@ -48,7 +48,7 @@
     }
   ],
   "open_postings": 25,
-  "long_open_roles": 8,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:Toku",
     "edgar_cik": null,

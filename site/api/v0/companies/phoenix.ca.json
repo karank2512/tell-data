@@ -1,9 +1,9 @@
 {
   "domain": "phoenix.ca",
   "name": "Phoenix",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "City of Phoenix Launches SNAP Navigation Support - City of Phoenix (.gov)",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2h3NWhlTzhGdkVpeGtINW41ZE9ZaHAwVjZTdzJGbVJfR1g0TjVmR3VJOGk3Nk0wSzU4ZVZSQWE1dDhmckpZbkRhdEw3cXVIY2NsRm1Sb2xoT1lpallJeURMbHJkVjM2UEJRNkNVMk52eW83bzgtWHRwcFZySUlKQi1WeXV3d25UQ1EtMURwV1lDWlB1?oc=5"
@@ -48,8 +48,8 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVdWOVBvMkZuYnFxNkpfb1g0clpaX29LeWNzU0RRNUhsLWVOeFE4WDFkazBCYUpUMUt3YkpiWDVEV1N4aXQxVFVKTC10TmlhQmJrTFpseWlOX0lUTjRHNjRfc2lzQlJjX3B2SHJuM1pSWFg5eFRzRUNFczdVNi02ZDc1V0NzaVllMHFUbEhpMzlUUDNuR1RoenBNV29PZmxWQ3RnVm9uQVJEbW5xdFEzZkdRN19ianAwU3hmT0RMNA?oc=5"
     }
   ],
-  "open_postings": 10,
-  "long_open_roles": 2,
+  "open_postings": 9,
+  "long_open_roles": 3,
   "sources": {
     "ats": "ashby:phoenix",
     "edgar_cik": null,

@@ -1,9 +1,9 @@
 {
   "domain": "mux.com",
   "name": "Mux",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 2.4,
+  "score": 2.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-01",
       "summary": "Tune AI workflows before you build: Introducing Mux Robots playground",
       "url": "https://www.mux.com/blog/tune-ai-workflows-before-you-build-introducing-mux-robots-playground"

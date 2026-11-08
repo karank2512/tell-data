@@ -1,14 +1,14 @@
 {
   "domain": "fivetran.com",
   "name": "Fivetran",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 18.1,
+  "score": 17.7,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 9.9,
+      "contribution": 9.7,
       "occurred_at": "2026-11-07",
       "summary": "10 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -98,7 +98,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.1,
+      "contribution": 2.0,
       "occurred_at": "2026-10-22",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -123,7 +123,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "5 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -206,8 +206,8 @@
       ]
     }
   ],
-  "open_postings": 173,
-  "long_open_roles": 42,
+  "open_postings": 167,
+  "long_open_roles": 43,
   "sources": {
     "ats": "greenhouse:fivetran",
     "edgar_cik": null,

@@ -1,9 +1,9 @@
 {
   "domain": "usequeue.com",
   "name": "Queue",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 16.2,
+  "score": 18.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,10 +14,24 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-08",
+      "summary": "Celairis launches with plan to end the region's place at the rear of the launch queue - PharmaDispatch",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEFEOV9UeFc4VHJVMEZKSDRJVVR3dV9fM1VxQVBwQlF1SWpSa1hmbGc4T3ZVVWJKR1dZMXFhaEdoY3Q0RmdKOUp6U2wwNGZJLVY1R0k2UVM5R282S2FTM1hUOHVIZzM4R2pUNVVadVJjUHF2THRieVJEYlV6cFNoTEk4WTBMMHY1d3JyVkg5V1VBbVVXRC1oS1Y4RS02SmprLTdSV2w5S3M1Vld1MWtweGRQZ0tPc1U?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-03",
       "summary": "PHOTOS: Virtual Queue Debuts for Kingdom Hearts Pin Release at Disneyland Resort - WDW News Today",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnZBLWhHY0FNYV9yRWhlWE5QNVFzMGRqYjFPQzF3V1pFelE2akR1TUlpRlc5YTVoWS1Ja1JmWnpOQXlOeWxwaDZuaXJZUkJLNE9rSkxrX095Q0JNMDNCSHhzeUpyaktZSXlUMURrWm1mS0JJOW5lVVV3enNSb2cwSTB3T1ZkbEFBM19iYlpwekNLQ3ZlVUkwbFF6TFZlQS0tR3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-03",
+      "summary": "8X8 launches Engage to give mobile service teams real time queue visibility - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGluVGktTDdoMkdyRGZFVEtwYnhHYXEtY2ZSend2cmE4czRIMFFrOTJqXzhzb2xjOTlVNlFNZzVxV0MxZnVCX3RiVTJMbU9wd1V0WG5Id210eVZrUEw1d2dLNTAxckpjWk9XVDExY1RaZ0pYYzVWaUFOTGVjNWZHZVlNbHZxUDh1?oc=5"
     },
     {
       "type": "launch",
@@ -56,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "Queue introduces robotic pharmacy kiosk with expanded medication capacity - Kiosk Marketplace",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdHBHRGtTaDJJOW0wYjhDcWgxRnNrM0VxdktPTm1QVlJZR3QzUWNXVkIxRVFlaTYtTk9pRDZoMVV5b25TRWt1Smt1UVg5eW55a24ydGxwbFFxdDJMbm5iVzM1eEpOTkVNWHROQWZoNE10TFBtdGktdkhmRk5GU0RzdGdUNmNXUVBUak1ESkJVcmx6cmxhdWRZeERVVUNLaW1UZkM0UXBpZi11RnNUb000c09B?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Queue unveils robotic pharmacy kiosk filling prescriptions in 30 seconds - Chain Drug Review",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDFqTFY5NDBsM3NuQVNFX3hBVE9NQTdXekxGMjRBSEkxY0QyaWQ5VHRkNTJud2lvQWozbE9HdGpWZWJrelp6aERSR0hTbVBXQVFmQ2hOZEMxVVcwbjBONnU5Q0JIWGYwTlB5cXBnc1ZyRTF6LUZOWUhMOFlwc3NWdXg5Vng0ajNWc2NNTUhTc281TVJIRTNMdnM3c0FPMFREZFVv?oc=5"
@@ -84,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Hundreds Queue in Hong Kong as Sotheby’s Unveils Van Gogh’s ‘Chestnut Trees in Blossom’: 5 outlets compared - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcHRRVkVmRTgxTnF0dzU5UDhSQXAxY0hUVGFvZDBuSXl0OWVSN1NTOVR6ZTZxS0FIeUE2TnNjeThLckJ1bDhJZWxKTlJRdlB6Z3pNeF9qazVGUE5VVmNfaGxlVjc2Um1iR2RxQWVrRDNBTVdkMm5wdU5uTmZMc29WSlpOU2JkV181QlgxdUpQZjJqTGtORE9rLTh3NDBubkotbC0ta0ZSNGR3ODFlVlN2WmhLWi1nTmUzaXRSTkhGcHp0OV9jVE9hcUdDRzhjUlE5ZDhIUmxjRmJlQVJiX2oyLTNuajJIUWZKN0E?oc=5"

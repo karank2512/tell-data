@@ -1,10 +1,17 @@
 {
   "domain": "lemfi.com",
   "name": "LemFi",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 16.9,
+  "score": 18.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "LemFi launches its biggest product expansion yet alongside a new global brand - Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQak9vZG5TSnp3SFhscG5adEpCTVM3Qlh2Sm9xdzNjaWpLOGhVR2V0bWQ4VWdhenlQOGIyRmFyeVdna2FncFl0TFBsV1NqZ1A0Vk91d21IQUxlOFcxVDFzNEFTVkxDMzdUTlZlUXQ3Qng2c00tRzhDWHpmdGtpWHRHb2FSVHlDY2h1WTNscVY1UTJWb0JIcDBSMm9YWjliY2tyck9JQzBrNHZXY1pkSHE4dTRSR3JnY0hLX195NHlCdzZOZw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -56,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "LemFi expands financial services, launches new global brand - Hamro Patro",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzVmODZweVFab3RFdWdFRy0wSG5YX19fWmhndXBLbHo1elZxd0h0Nk1fbFlka0w2Yk9TM3VKejlUOVpoUzRYdDk4Q1V0ZkY3S3VkUkRIVEZzQ1hIWXZjVW1LNDdOUGppb3VmM0hWU2hGSmIwV21WYnlUVVJhWWNxbVhqNGprQ3lCMUV1SmNaVnMxbzVJWERwYjUyWlQzeHhHZmFhMUZfd3dpaGhDSFVSbmt6a09qTHE0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "LemFi expands financial services, launches new global brand - myRepublica",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNThqMHo2YWJFV1BxcEhNNGg3VFdpWVFFeEZtWVl2Y0pPNmdBNERJdk50dVFHNW9TMlpSa1AtSFJ5MFIxRG1qdDZPNDBwVmphRjFpZl9RTUdNaFkybmp0cGk1M3VaQTh4OE1sa2EyVFgyYndpRUtaN0dCT1ZOLU91dU1acF9ZX25qOWlMTWhWUWwxUkl3NFNHbEYxbzN1eFhLYTFrYWdkUEE4NkVDWTRUNTFfUQ?oc=5"
@@ -104,7 +111,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JSVVEbGpHVFVELWtaM0VONVA3SnBkdTVxdEFYWmdLNENVVWNCcnd1Vk14SDVTU3doOVR5bWx5MXFGdDJfMjBSZ0w1Mm1lMzEtREhVUUNyeU1VRXNURUNqUWxSS2FtUG9uSWV2R2tSM3piLXRMUXNKVDBB?oc=5"
     }
   ],
-  "open_postings": 21,
+  "open_postings": 20,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:lemfi",

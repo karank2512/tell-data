@@ -1,7 +1,7 @@
 {
   "domain": "oklo.com",
   "name": "Oklo",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
   "score": 4.5,
   "contributions": [
@@ -34,8 +34,8 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGxBMkRHX3lMbmtDbzdYSXNfVzFjamFkeXhndGRrZ2JhaDBFbUpJXzRFSVdldVFCaVlpanFpcnAyRlFlQjZ6T0paWkFtMG5UdnJVb1drOHNLcUhBRVNOVlZMd205NHk0Mi1wRnRhUWdNUnZrbXluaFFBQzNpby1CUDZVOHp0MXpFY3plWVcwQ1hmZVBRakRHLVNQc1g2bzVhMmVweHl5S3l5d0lmTmdZVmtXQQ?oc=5"
     }
   ],
-  "open_postings": 58,
-  "long_open_roles": 16,
+  "open_postings": 53,
+  "long_open_roles": 15,
   "sources": {
     "ats": "greenhouse:oklo",
     "edgar_cik": null,

@@ -1,9 +1,9 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 8.7,
+  "score": 8.6,
   "contributions": [
     {
       "type": "launch",
@@ -111,7 +111,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-05-12",
       "summary": "Financial Crimes Veteran [person] Joins TRM Labs as Account Director for State and [person] | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/financial-crimes-veteran-carlos-verdoni-joins-trm-labs-as-account-director-for-state-and-local-law-enforcement"
@@ -124,7 +124,7 @@
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 116,
+  "open_postings": 115,
   "long_open_roles": 31,
   "sources": {
     "ats": "ashby:trm-labs",

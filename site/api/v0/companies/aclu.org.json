@@ -1,13 +1,13 @@
 {
   "domain": "aclu.org",
   "name": "ACLU",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 10.3,
+  "score": 10.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-01",
       "summary": "ACLU Releases Video of ICE Agent Slashing Observers’ Tire; ICE Agents Tailed, Boxed In, and Then Slashed the Tire Before Driving Away - Sierra Sun Times",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQUHZSREhSMjhYZlUydHN5VTQ3TEdQSEtSZnF2WFpQZ0F1bGRGMEpwVnBCSFRtZ0d1dW9nUTJyNUptaE1WRUNPNFdCRUVpNC1FT0ZtNlVNNWFObzdHVkJVRV8xcjduTC0wMjNRT2J2LVlTUmh5MFdlMU1kSGpwdF9hVkI3cGZwVU1UNjRLWkRNbnZyM3REaWxiNHNSRG1XQ3k1Q3BYX2hIRWZJUS1PWlBwcDVOSE5WVTBzZFZlcGdCUXhGNDRhejUtbG1KSzNQWlNmaWJKN3ozTDRRTTZvckxtQWcwSTRsLVF2Sl9XM2t1MXFabXBHZU9FS3JrakFzeGJWRm1TR293RDdMcmktUVY5TmJlblgybmdNS3BGLXp4aWVUdmlIOElN?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-28",
       "summary": "ACLU of Indiana pauses new director’s start date, launches external review - Mirror Indy",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlJtZHZHS3pSNUVyckJweS0zanJ3OFZNeWMza283VFZUSHoyYmJKY3hNOVNKMlk4bTNOOG1xR29uLVhPVWN1Tkw1MkNudlVCaTlNYVFTRGlGVWgyWk5kcHBUODROZXRkRTJpaU45LWVUaF82Zm9IdlVsaHlhLWpQVVJUWTEtSVg0T0hFdmdTWXlwLTZBZkE3UHBsdmY?oc=5"
@@ -63,7 +63,7 @@
     }
   ],
   "open_postings": 18,
-  "long_open_roles": 5,
+  "long_open_roles": 6,
   "sources": {
     "ats": "greenhouse:aclu",
     "edgar_cik": null,

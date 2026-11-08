@@ -1,10 +1,17 @@
 {
   "domain": "poshenergy.com",
   "name": "Posh",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 1.1,
+  "score": 2.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Singapore Airlines Unveils Posh New First Class Suites With Double Beds For 777-9 And A350ULR - Live and Let's Fly",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TcnVnVzFTeS0wUnZ3c2w5UEJkMVpkRGlfLXpqb3h1Y3R0cFBPR0ZPOGg0Z25lMkM0bkpvYjE1dmNzd19jbFZlYjUwb3dBMzlpbzdmRXFxMU16cU03VHVHa2VVOHlfVkJrQTloUXVJZlUzaGZuSDk4YQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 28.5,
+  "score": 27.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 5.4,
+      "contribution": 5.2,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -113,7 +113,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -137,7 +137,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Airbnb Unveils AI Travel Agent for First Half of 2027 - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3RyYjlIWXVPUTVlQVlEUGVyRUpKZlNQTTh2YzluLXlEbmVEbHN3WElEREVIeFQ5aTZuYWMtTkVsVG5aVk9lWU1aZXdjUFdZQVFENGhwUExKYWw0R0dCbF9ta2M1TkNjeDBsU3dYaTZiUkZRcXJ5MjVlcWxkNU00WG00anBnOUFyT25VQzNfNA?oc=5"
@@ -165,14 +165,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb introducing new rules for hosts - 95.5 WSB",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjZDcGN1eEhycmJVX2ZpLWhta2NkLVJXSnk1OHlXVkFncmdhMWJUNkxqZ3k2TTNCUzBNVWVyTkMzOWpLZTVzekxRcGVpVlVLSFhINFBGM0pYZHZCZjg5VEVfSUlyNEdYYXNYODVlTUdYSnl5Y1RTY3FXbnFLaXU0dUhPNUc2NXBhRTRyZ1JVR05mZXREdFBHOURxd1RjWGPSAbMBQVVfeXFMUHhOalBTY1JMZFViR2dYblJaTVFZRGk0OXl1bjNWYzd0YUpLR0ZKYmVPdWI0dHZLcDcycFNyTDFKbE9fZjVGdmlXZUhsRVNiQWRCVWJGQVZCaTZjZEFsZzhOMkVoYmJlT2Q0OXBXNVNIVElJT0xwS0dfNVM5enk1N1M0c3dTUXEycHdCSjFwSHdmUWNjM2pEdDVZOTkxZ0trLXJad1gyZXdmTndEa2xPN1JoRzg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWQyVEpibDNwdHpLLUhpZGtQQ0VqOGpPNkd5X2RVQ1ZYUWhsU0o4QzFrendYMzBuQktXRnp2R0dyT2NRejF5SFVldlhKNnA2X3Y4Tk0xQzFMWTBzR0RIQ3BBbVhNRnBSSDhpaGZGLU9uZ0lJZ3Q0R3V3cDRDMTUtbE9BUkZ3OTduWlE?oc=5"
@@ -197,6 +197,13 @@
       "occurred_at": "2026-10-20",
       "summary": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3l4d1o1a3h0Rkdpeng1T2VHTnZ6WkQwNWZSSUY2THNrR1pTZW5mc1RCUGZMRmpiWmZsc285YXp6TEVkYW5GbFdLZmxvRTUzeXhScjRBTHNsZUdpRHRKVlM0U3pDeExZZkRZVkwwOGpDU0d6bDJTczhHS2dlbGFUZHZueXBMRThWZFU4OA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-10-17",
+      "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjN3akxCanRDTl9LTDNfYUE1UWdNbVJvZFkzVkZmckNrOWk2c1FkR2p5VldZRzRVR1dXOU1xbXA5MjNZQ0FoOTdOdzVKcTF3UlBwZ3BYcmdCNDdSM2Z3OVppLUtzLV9DcTZvU1A0V1ZaVi1YYnFRZzJ4aXdUWW9mc1NmTTRPUWlNYlZ1NXgyeGc5aUt3cmxlQQ?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -227,13 +234,6 @@
           "url": "https://careers.airbnb.com/positions/8347087?gh_jid=8347087"
         }
       ]
-    },
-    {
-      "type": "launch",
-      "contribution": 1.1,
-      "occurred_at": "2026-10-17",
-      "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjN3akxCanRDTl9LTDNfYUE1UWdNbVJvZFkzVkZmckNrOWk2c1FkR2p5VldZRzRVR1dXOU1xbXA5MjNZQ0FoOTdOdzVKcTF3UlBwZ3BYcmdCNDdSM2Z3OVppLUtzLV9DcTZvU1A0V1ZaVi1YYnFRZzJ4aXdUWW9mc1NmTTRPUWlNYlZ1NXgyeGc5aUt3cmxlQQ?oc=5"
     },
     {
       "type": "launch",
@@ -303,8 +303,8 @@
       ]
     }
   ],
-  "open_postings": 207,
-  "long_open_roles": 58,
+  "open_postings": 205,
+  "long_open_roles": 57,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

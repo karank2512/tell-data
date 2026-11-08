@@ -1,13 +1,20 @@
 {
   "domain": "pave.com",
   "name": "Pave",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 6.2,
+  "score": 7.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-06",
+      "summary": "Tampa Bay's Power Design launches Build the Nation to pave a path to careers in skilled trades - That's So Tampa",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2SUZ2aTFTSUp6SmlwQURRUU5WbWI0YzhYWEpYQkYzSUpnX3pKSUpDWGdRdW5SUGlKUGRZOVNjSmw5QXJuVkNMMHJkOHZGOWxwRmJ2YWt4TlZKdThvQ3lqTURWQzgwZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "NASA launches a fleet of rovers to pave the way for conquering the Moon's south pole. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkR2T3c4MlpfM0prLUZSeEhrNGdQM1FaZnJmd0lTX3huQ2hJMmV3R3lqelNXeGQxZlNTUmVRTjI1Wks3WUt1cHNVSkREV09NeUtWa3NjTEVMTWFkZ1YxbThzb3NaQ21PczVmRXRkcUsyR3duZEVrOGZ1SC1mQk95bHFpcFFGQTZjbkUtRkJUblUzT1Fo?oc=5"
@@ -48,8 +55,8 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTDVQWVVoMlBOY2dkak44cHFSQjhYdmh5N0tIRzhxaU5Ea1cyWkxWcGxnT3B5R1lraXVhTG5YejExQ3dfcG9MYlZpdm50WFhic05SNE5palRES24yeVBtZDFtZ1ZwWDdZcG02bUxCYUNNWk9jODNnSGlSb0R5ajlvTDlhS201Wm1RT1lhVVNRT3NqNXdWN1lpVmQ0VDdhaUk4aUlsYnBlZFRZRGpNZnB5ZVpHa2N2V2FRZXRTX0prUXZLT0FLM3h2ZmVqWjk1S0lhc3BDdG1INFo0Z2xQRU5xUDlB?oc=5"
     }
   ],
-  "open_postings": 18,
-  "long_open_roles": 9,
+  "open_postings": 17,
+  "long_open_roles": 8,
   "sources": {
     "ats": "greenhouse:paveakatroveinformationtechnologies",
     "edgar_cik": null,

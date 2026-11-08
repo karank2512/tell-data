@@ -1,13 +1,13 @@
 {
   "domain": "useallowance.com",
   "name": "Allowance",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
   "score": 4.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "KB Kookmin Bank launches child-allowance parking account with up to 3.1% annual rate - 헤럴드경제",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UQ09FLU9udGQyT1B1YjhFaUNxX3RyMGZWcHlkZTl4YnJuVXF2SEtiNGJCNThkMDl2RTRfSFNvNVJvWTV6dFVCUUN3Skk0T2hIMF91S0NZOA?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-07-16",
       "summary": "Allowance plugin launches on ChatGPT",
       "url": "https://useallowance.com/blog/allowance-plugin-launches-on-chatgpt/"

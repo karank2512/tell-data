@@ -1,9 +1,9 @@
 {
   "domain": "gitlab.com",
   "name": "GitLab",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 11.6,
+  "score": 11.4,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "GitLab Fixes Critical Unauthenticated Code-Execution Flaw Affecting Releases Since 2014 · cyber.hendryadrian.com - Howl.link",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBrcnIzNEVfSGstYTlpZVloUy1VX2E5QzBCQWJKNHBiREJkbHFfT1E2c19ERjVRekJGdkMw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "GitLab CVE-2026-110264 vulnerability, CVSS 10 in 12 years of releases - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUFtS01SUUVTRlVhdnlJUWR1U2xjeG83UDBpRmI0bG84REpUZGJSRW1yLTNGQ1BkSGxmOERWUkdTUkF3bDQ5SU1uY2F2MnNJNXY4ZHlBWndaMk9MMzBvVzllVzVzNHliSTZxdC1RNXZhV0NJRXl5d2JRSVBhcGJCR2ltRE1acHZaUnc2R3dpMTZvQQ?oc=5"

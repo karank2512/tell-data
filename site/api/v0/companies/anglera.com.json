@@ -1,13 +1,13 @@
 {
   "domain": "anglera.com",
   "name": "Anglera",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 0.2,
+  "score": 0.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-06-12",
       "summary": "Core-heavy catalogs: enrich once, then keep pace with releases",
       "url": "https://www.anglera.com/blog/carryover-catalog-enrichment-cadence"

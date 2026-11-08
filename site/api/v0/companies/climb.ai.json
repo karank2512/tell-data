@@ -1,27 +1,27 @@
 {
   "domain": "climb.ai",
   "name": "Climb Group",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 26.5,
+  "score": 26.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 17.0,
+      "contribution": 16.9,
       "occurred_at": "2026-09-09",
       "summary": "Form D: $5,675,000 offering, $5,675,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2140560/000214056026000002/"
     },
     {
       "type": "funding",
-      "contribution": 9.5,
+      "contribution": 9.3,
       "occurred_at": "2026-07-06",
       "summary": "Form D: $1,500,000 offering, $1,400,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2140560/000214056026000001/"
     }
   ],
-  "open_postings": 11,
-  "long_open_roles": 9,
+  "open_postings": 8,
+  "long_open_roles": 6,
   "sources": {
     "ats": "ashby:climb-ai",
     "edgar_cik": "0002140560",

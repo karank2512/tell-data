@@ -1,13 +1,20 @@
 {
   "domain": "kernel.sh",
   "name": "KERNEL",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 8.8,
+  "score": 10.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-07",
+      "summary": "​OpenAI Unveils GPT-6 Cyber Model Capable of Exploiting 948 Linux Kernel Flaws - The 420.in",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzNEa3gweHRxU0xscVIwTnBXc3VLMzRtTHdnMnNUckItaTNZMnFpSUNBRW8tR1dCT0o3VjdWRkZWN0lERzFKQ08xZjRLdm5WbnVaUWs5QzQ3VmpNTlBUcVU5ck5CbTZtZHQzYzNIbWE0dk9EVEw3ZksyNkV3enFkejRITDBrY2c2UHQxQjdWX1BTUzhCN0JIUWR6SDY?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-05",
       "summary": "OpenAI unveils 948 Linux kernel root flaws found for $1.2 million in API costs - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU052NHcteGtGQXN6VXRhdEVlV2gwZEZoOXFWa2JqdHFtWUp3cWI4cnl6SmE2LTluLTNBd2dYay1wYmFXb0QwRDVXT1czYUx1TENvaS11aklzXzg2SHItZUNBMllaZnNUUzRmU1RtY0hUaVRTeDUwalBjUEdaQURUbk1FaWhuRGJMNjZnd1F5anhRRDNk?oc=5"

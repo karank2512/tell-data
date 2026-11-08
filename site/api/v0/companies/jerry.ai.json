@@ -1,9 +1,9 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 9.3,
+  "score": 9.2,
   "contributions": [
     {
       "type": "leadership",
@@ -43,7 +43,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-24",
       "summary": "5 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Jerry.ai",

@@ -1,7 +1,7 @@
 {
   "domain": "givecampus.com",
   "name": "GiveCampus",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
   "score": 1.6,
   "contributions": [
@@ -26,7 +26,7 @@
       ]
     }
   ],
-  "open_postings": 14,
+  "open_postings": 12,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:givecampus",

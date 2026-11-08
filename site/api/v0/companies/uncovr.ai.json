@@ -1,22 +1,22 @@
 {
   "domain": "uncovr.ai",
   "name": "Uncovr",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 26.4,
+  "score": 26.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 26.4,
+      "contribution": 26.2,
       "occurred_at": "2026-11-06",
       "summary": "Form D: $5,144,983 offering, $5,144,983 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2142358/000123191926001546/"
     }
   ],
-  "open_postings": 0,
+  "open_postings": 7,
   "long_open_roles": 0,
   "sources": {
-    "ats": "no_board",
+    "ats": "ashby:uncovr",
     "edgar_cik": "0002142358",
     "news": false
   },

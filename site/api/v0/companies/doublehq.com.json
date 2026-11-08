@@ -1,10 +1,17 @@
 {
   "domain": "doublehq.com",
   "name": "Double",
-  "as_of": "2026-11-07",
+  "as_of": "2026-11-08",
   "profile": "default",
-  "score": 3.4,
+  "score": 4.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Singapore Airlines unveils biggest double bed in the sky in premium fightback - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb2RsbTVXVlV1dUFTSGVzaTRyTFY5b3ZsUm9XZXVwWXZYVnNIOURJX1NDbnA3R1h5a0lFV193aGtrMGV5SjlLZEJWWFJHVExWZU1KMU9lOXFCbWI4cmdvSlB5VVBDeEQzeDRjYmtRcFo3WUUwSDM5eDNzTU9DWGxkZ2ViM1E?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
