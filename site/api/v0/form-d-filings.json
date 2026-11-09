@@ -1,9 +1,297 @@
 {
-  "week": "2026-W44",
-  "filed_from": "2026-10-19",
-  "filed_to": "2026-11-01",
-  "as_of": "2026-11-08",
+  "week": "2026-W45",
+  "filed_from": "2026-10-26",
+  "filed_to": "2026-11-08",
+  "as_of": "2026-11-09",
   "filings": [
+    {
+      "domain": "agencytool.com",
+      "name": "Agency Tool Company",
+      "date_filed": "2026-11-06",
+      "amount_usd": 4000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 3619990,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162824/000216282426000001/"
+    },
+    {
+      "domain": "agencytool.com",
+      "name": "Agency Tool Company",
+      "date_filed": "2026-11-06",
+      "amount_usd": 8869953,
+      "amount_indefinite": false,
+      "amount_sold_usd": 8736117,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162824/000216282426000002/"
+    },
+    {
+      "domain": "boringrad.com",
+      "name": "Boring Radiology",
+      "date_filed": "2026-11-06",
+      "amount_usd": 2000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 350000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2163900/000216390026000001/"
+    },
+    {
+      "domain": "commandleaders.com",
+      "name": "Command Leaders",
+      "date_filed": "2026-11-06",
+      "amount_usd": 200000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 13500,
+      "url": "https://www.sec.gov/Archives/edgar/data/2163165/000216316526000001/"
+    },
+    {
+      "domain": "flax.ai",
+      "name": "Flax Technologies",
+      "date_filed": "2026-11-06",
+      "amount_usd": 12595000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 7894996,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162905/000216290526000001/"
+    },
+    {
+      "domain": "instanthydration.com",
+      "name": "Instant Hydration",
+      "date_filed": "2026-11-06",
+      "amount_usd": 350324,
+      "amount_indefinite": false,
+      "amount_sold_usd": 0,
+      "url": "https://www.sec.gov/Archives/edgar/data/2096937/000089843226000774/"
+    },
+    {
+      "domain": "leapgreat.com",
+      "name": "LeapGreat",
+      "date_filed": "2026-11-06",
+      "amount_usd": 563200,
+      "amount_indefinite": false,
+      "amount_sold_usd": 563200,
+      "url": "https://www.sec.gov/Archives/edgar/data/1979896/000197989626000004/"
+    },
+    {
+      "domain": "squawker.ai",
+      "name": "Squawker",
+      "date_filed": "2026-11-06",
+      "amount_usd": 85000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 55000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2164159/000216415926000001/"
+    },
+    {
+      "domain": "sunshinebuns.com",
+      "name": "sunshine-buns",
+      "date_filed": "2026-11-06",
+      "amount_usd": 7000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 7000000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2163918/000216391826000001/"
+    },
+    {
+      "domain": "tapready.io",
+      "name": "TapReady",
+      "date_filed": "2026-11-06",
+      "amount_usd": 200000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 200000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2050711/000205071126000001/"
+    },
+    {
+      "domain": "txse.com",
+      "name": "TXSE Group",
+      "date_filed": "2026-11-06",
+      "amount_usd": 10000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 10000000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2017031/000201703126000009/"
+    },
+    {
+      "domain": "uncovr.ai",
+      "name": "Uncovr",
+      "date_filed": "2026-11-06",
+      "amount_usd": 5144983,
+      "amount_indefinite": false,
+      "amount_sold_usd": 5144983,
+      "url": "https://www.sec.gov/Archives/edgar/data/2142358/000123191926001546/"
+    },
+    {
+      "domain": "goathera.com",
+      "name": "Goa Therapeutics",
+      "date_filed": "2026-11-05",
+      "amount_usd": 225000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 300000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2131824/000146581826000011/"
+    },
+    {
+      "domain": "harmonee.ai",
+      "name": "Harmonee AI",
+      "date_filed": "2026-11-05",
+      "amount_usd": 400000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 390000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2163653/000216365326000001/"
+    },
+    {
+      "domain": "heartstamp.com",
+      "name": "HeartStamp",
+      "date_filed": "2026-11-05",
+      "amount_usd": 2500000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 80000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162662/000216266226000001/"
+    },
+    {
+      "domain": "innergrandma.com",
+      "name": "Inner Grandma",
+      "date_filed": "2026-11-05",
+      "amount_usd": 500000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 250000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2159282/000215928226000001/"
+    },
+    {
+      "domain": "locaitionmatters.com",
+      "name": "Locaition Matters",
+      "date_filed": "2026-11-05",
+      "amount_usd": 1050000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 1050000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2163840/000216384026000001/"
+    },
+    {
+      "domain": "multiplylabs.com",
+      "name": "Multiply Labs",
+      "date_filed": "2026-11-05",
+      "amount_usd": 52250260,
+      "amount_indefinite": false,
+      "amount_sold_usd": 52250260,
+      "url": "https://www.sec.gov/Archives/edgar/data/1690573/000092963826004235/"
+    },
+    {
+      "domain": "parallaxspace.com",
+      "name": "Parallax Space",
+      "date_filed": "2026-11-05",
+      "amount_usd": 7500000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 250000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162140/000121390026116255/"
+    },
+    {
+      "domain": "sunnydata.ai",
+      "name": "SunnyData",
+      "date_filed": "2026-11-05",
+      "amount_usd": 4995000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 4995000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2117148/000211714826000001/"
+    },
+    {
+      "domain": "betterfleet.com",
+      "name": "EVenergi",
+      "date_filed": "2026-11-04",
+      "amount_usd": 5000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 4010000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2001507/000200150726000001/"
+    },
+    {
+      "domain": "bluehealer.co",
+      "name": "BlueHealer",
+      "date_filed": "2026-11-04",
+      "amount_usd": 1,
+      "amount_indefinite": false,
+      "amount_sold_usd": 1,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162934/000216293426000001/"
+    },
+    {
+      "domain": "legora.com",
+      "name": "Legora",
+      "date_filed": "2026-11-04",
+      "amount_usd": 550000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 220820026,
+      "url": "https://www.sec.gov/Archives/edgar/data/2071663/000207166326000002/"
+    },
+    {
+      "domain": "tremont.ai",
+      "name": "Tremont AI",
+      "date_filed": "2026-11-04",
+      "amount_usd": 2000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 2000000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2115573/000211557326000002/"
+    },
+    {
+      "domain": "whelix.com",
+      "name": "MitoAI",
+      "date_filed": "2026-11-04",
+      "amount_usd": 8099997,
+      "amount_indefinite": false,
+      "amount_sold_usd": 5449996,
+      "url": "https://www.sec.gov/Archives/edgar/data/2049511/000204951126000006/"
+    },
+    {
+      "domain": "frontlinebioenergy.com",
+      "name": "Frontline BioEnergy",
+      "date_filed": "2026-11-03",
+      "amount_usd": 10000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 0,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162928/000216292826000001/"
+    },
+    {
+      "domain": "serval.com",
+      "name": "Serval",
+      "date_filed": "2026-11-03",
+      "amount_usd": 150000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 149212926,
+      "url": "https://www.sec.gov/Archives/edgar/data/2103406/000210340626000004/"
+    },
+    {
+      "domain": "varrd.com",
+      "name": "VARRD",
+      "date_filed": "2026-11-03",
+      "amount_usd": 1750000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 250000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162800/000216280026000001/"
+    },
+    {
+      "domain": "hdata.com",
+      "name": "HData",
+      "date_filed": "2026-11-02",
+      "amount_usd": 8000701,
+      "amount_indefinite": false,
+      "amount_sold_usd": 4100011,
+      "url": "https://www.sec.gov/Archives/edgar/data/1810252/000181025226000002/"
+    },
+    {
+      "domain": "logosfi.com",
+      "name": "LOGOSFI",
+      "date_filed": "2026-11-02",
+      "amount_usd": 3425000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 3425000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2161032/000216103226000001/"
+    },
+    {
+      "domain": "panaceafinancial.com",
+      "name": "Panacea Financial Holdings",
+      "date_filed": "2026-11-02",
+      "amount_usd": 15000000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 7999975,
+      "url": "https://www.sec.gov/Archives/edgar/data/2161913/000095017226000240/"
+    },
+    {
+      "domain": "sarah247.ai",
+      "name": "Sarah247",
+      "date_filed": "2026-11-02",
+      "amount_usd": 102000,
+      "amount_indefinite": false,
+      "amount_sold_usd": 102000,
+      "url": "https://www.sec.gov/Archives/edgar/data/2162814/000216281426000001/"
+    },
     {
       "domain": "betvisors.com",
       "name": "Betvisors",
@@ -183,224 +471,8 @@
       "amount_indefinite": false,
       "amount_sold_usd": 956598,
       "url": "https://www.sec.gov/Archives/edgar/data/2161358/000216135826000001/"
-    },
-    {
-      "domain": "entirelywell.com",
-      "name": "Entirely Well",
-      "date_filed": "2026-10-23",
-      "amount_usd": null,
-      "amount_indefinite": true,
-      "amount_sold_usd": 230000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2147800/000214780026000001/"
-    },
-    {
-      "domain": "revreply.com",
-      "name": "RevReply",
-      "date_filed": "2026-10-23",
-      "amount_usd": 12000000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 845000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2157048/000215704826000001/"
-    },
-    {
-      "domain": "rsynq.ai",
-      "name": "RSYNQ",
-      "date_filed": "2026-10-23",
-      "amount_usd": 6000000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 2000000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2161899/000216189926000001/"
-    },
-    {
-      "domain": "aheadcomputing.com",
-      "name": "AheadComputing",
-      "date_filed": "2026-10-22",
-      "amount_usd": 79999913,
-      "amount_indefinite": false,
-      "amount_sold_usd": 63499913,
-      "url": "https://www.sec.gov/Archives/edgar/data/2035028/000203502826000002/"
-    },
-    {
-      "domain": "boltz.com",
-      "name": "Boltz",
-      "date_filed": "2026-10-22",
-      "amount_usd": 119999991,
-      "amount_indefinite": false,
-      "amount_sold_usd": 97359830,
-      "url": "https://www.sec.gov/Archives/edgar/data/2161288/000216128826000001/"
-    },
-    {
-      "domain": "chubbygroup.com",
-      "name": "Chubby Group",
-      "date_filed": "2026-10-22",
-      "amount_usd": 49999372,
-      "amount_indefinite": false,
-      "amount_sold_usd": 49999372,
-      "url": "https://www.sec.gov/Archives/edgar/data/2085051/000208505126000002/"
-    },
-    {
-      "domain": "ezbombs.com",
-      "name": "EZ Bombs",
-      "date_filed": "2026-10-22",
-      "amount_usd": 14999996,
-      "amount_indefinite": false,
-      "amount_sold_usd": 14999996,
-      "url": "https://www.sec.gov/Archives/edgar/data/2153061/000215306126000001/"
-    },
-    {
-      "domain": "galeforceaesthetics.com",
-      "name": "Gale Force Aesthetics",
-      "date_filed": "2026-10-22",
-      "amount_usd": 1000000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 800000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2159264/000215926426000001/"
-    },
-    {
-      "domain": "melangespace.com",
-      "name": "Melange Space Technologies",
-      "date_filed": "2026-10-22",
-      "amount_usd": 1000000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 15000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2161189/000216118926000001/"
-    },
-    {
-      "domain": "spartanx.ai",
-      "name": "SpartanX Technologies",
-      "date_filed": "2026-10-22",
-      "amount_usd": 4999998,
-      "amount_indefinite": false,
-      "amount_sold_usd": 4999998,
-      "url": "https://www.sec.gov/Archives/edgar/data/2161171/000216117126000001/"
-    },
-    {
-      "domain": "candoriq.com",
-      "name": "CandorIQ",
-      "date_filed": "2026-10-21",
-      "amount_usd": 13543208,
-      "amount_indefinite": false,
-      "amount_sold_usd": 13543208,
-      "url": "https://www.sec.gov/Archives/edgar/data/2160850/000216085026000001/"
-    },
-    {
-      "domain": "mavria.com",
-      "name": "Mavria",
-      "date_filed": "2026-10-21",
-      "amount_usd": 100000000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 75000000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2159979/000215997926000002/"
-    },
-    {
-      "domain": "naytra.co",
-      "name": "Naytra",
-      "date_filed": "2026-10-21",
-      "amount_usd": null,
-      "amount_indefinite": true,
-      "amount_sold_usd": 125000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2160812/000216081226000001/"
-    },
-    {
-      "domain": "omnibuds.tech",
-      "name": "OmniBuds",
-      "date_filed": "2026-10-21",
-      "amount_usd": 14618053,
-      "amount_indefinite": false,
-      "amount_sold_usd": 2999991,
-      "url": "https://www.sec.gov/Archives/edgar/data/2158873/000215887326000002/"
-    },
-    {
-      "domain": "stelmo.ai",
-      "name": "Stelmo AI",
-      "date_filed": "2026-10-21",
-      "amount_usd": 550000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 225000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2160349/000216034926000001/"
-    },
-    {
-      "domain": "swatechnology.com",
-      "name": "Swa Technology",
-      "date_filed": "2026-10-21",
-      "amount_usd": 1000000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 25000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2161267/000216126726000001/"
-    },
-    {
-      "domain": "ascertain.com",
-      "name": "Ascertain Systems",
-      "date_filed": "2026-10-20",
-      "amount_usd": 24000000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 19999998,
-      "url": "https://www.sec.gov/Archives/edgar/data/2017592/000201759226000002/"
-    },
-    {
-      "domain": "bracely.ai",
-      "name": "Bracely",
-      "date_filed": "2026-10-20",
-      "amount_usd": 700000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 700000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2155238/000215523826000001/"
-    },
-    {
-      "domain": "sigilhealth.com",
-      "name": "Sigil Health",
-      "date_filed": "2026-10-20",
-      "amount_usd": 2100000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 35000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2160716/000216071626000001/"
-    },
-    {
-      "domain": "ladderuphousing.com",
-      "name": "LadderUp Housing",
-      "date_filed": "2026-10-19",
-      "amount_usd": 1300000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 750000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2077927/000110465926116908/"
-    },
-    {
-      "domain": "mattur.com",
-      "name": "Mattur Holdings",
-      "date_filed": "2026-10-19",
-      "amount_usd": 24999999,
-      "amount_indefinite": false,
-      "amount_sold_usd": 974867,
-      "url": "https://www.sec.gov/Archives/edgar/data/2115233/000211523326000002/"
-    },
-    {
-      "domain": "mikri.ai",
-      "name": "Mikri",
-      "date_filed": "2026-10-19",
-      "amount_usd": 2000000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 1350000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2115414/000211541426000002/"
-    },
-    {
-      "domain": "omnishot.ai",
-      "name": "Omnishot.ai",
-      "date_filed": "2026-10-19",
-      "amount_usd": 22500,
-      "amount_indefinite": false,
-      "amount_sold_usd": 22500,
-      "url": "https://www.sec.gov/Archives/edgar/data/2159682/000215968226000001/"
-    },
-    {
-      "domain": "solfera.co",
-      "name": "Solfera",
-      "date_filed": "2026-10-19",
-      "amount_usd": 900000,
-      "amount_indefinite": false,
-      "amount_sold_usd": 68000,
-      "url": "https://www.sec.gov/Archives/edgar/data/2138218/000213821826000002/"
     }
   ],
-  "method": "Every original Form D (no amendments, no pooled funds) filed 2026-10-19 to 2026-11-01 by a company with a tell account page and a trusted link to the issuer (an exact CIK, a name match that passed the Form D guards, or a reviewer's link), newest first, as of 2026-11-08.",
+  "method": "Every original Form D (no amendments, no pooled funds) filed 2026-10-26 to 2026-11-08 by a company with a tell account page and a trusted link to the issuer (an exact CIK, a name match that passed the Form D guards, or a reviewer's link), newest first, as of 2026-11-09.",
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1"
 }

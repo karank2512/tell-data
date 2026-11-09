@@ -1,9 +1,9 @@
 ---
 report: noise
 title: "Noise handling: reposts, lifetimes and long-open roles"
-as_of: 2026-11-02
-generated_at: 2026-11-02T06:42:20+00:00
-n: 13819
+as_of: 2026-11-09
+generated_at: 2026-11-09T06:43:20+00:00
+n: 14923
 quotable: true
 flagged_numbers: 0
 script: tell/backtest/noise.py
@@ -22,58 +22,58 @@ How much of what job boards show is noise (reposted and long-open roles), and ho
 
 Repost share: postings first seen in the 90 days before the evaluation instant. Lifetime: postings closed by then that carry the provider's posted_at. Long-open share: boards with status active.
 
-Cohort N: 13819.
+Cohort N: 14923.
 
 ## Numbers
 
 ### Reposts
 
-- Share of postings that are reposts (first seen in the last 90 days), percent: 1.5% (N=13,819)
+- Share of postings that are reposts (first seen in the last 90 days), percent: 2.0% (N=14,923)
 
 | vendor | postings | reposts | repost share |
 | --- | --- | --- | --- |
-| ashby | 7,881 | 126 | 1.6% (N=7,881) |
-| greenhouse | 5,203 | 75 | 1.4% (N=5,203) |
-| lever | 643 | 2 | 0.3% (N=643) |
-| smartrecruiters | 92 | 3 | 3.3% (N=92) |
+| ashby | 8,508 | 187 | 2.2% (N=8,508) |
+| greenhouse | 5,656 | 97 | 1.7% (N=5,656) |
+| lever | 665 | 3 | 0.5% (N=665) |
+| smartrecruiters | 94 | 4 | 4.3% (N=94) |
 
 ### Reposts by role family
 
 | family | postings | reposts | repost share |
 | --- | --- | --- | --- |
-| customer | 1,224 | 6 | 0.5% (N=1,224) |
-| data | 159 | 7 | 4.4% (N=159) |
-| engineering | 2,904 | 35 | 1.2% (N=2,904) |
-| exec | 517 | 4 | 0.8% (N=517) |
-| finance_ops | 910 | 17 | 1.9% (N=910) |
-| gtm_ops | 781 | 23 | 2.9% (N=781) |
-| marketing | 665 | 10 | 1.5% (N=665) |
-| ml_ai | 338 | 10 | 3.0% (N=338) |
-| other | 3,335 | 32 | 1.0% (N=3,335) |
-| product_design | 941 | 22 | 2.3% (N=941) |
-| sales | 2,045 | 40 | 2.0% (N=2,045) |
+| customer | 1,365 | 12 | 0.9% (N=1,365) |
+| data | 179 | 9 | 5.0% (N=179) |
+| engineering | 3,063 | 53 | 1.7% (N=3,063) |
+| exec | 570 | 7 | 1.2% (N=570) |
+| finance_ops | 1,023 | 31 | 3.0% (N=1,023) |
+| gtm_ops | 848 | 28 | 3.3% (N=848) |
+| marketing | 737 | 16 | 2.2% (N=737) |
+| ml_ai | 367 | 12 | 3.3% (N=367) |
+| other | 3,576 | 46 | 1.3% (N=3,576) |
+| product_design | 995 | 29 | 2.9% (N=995) |
+| sales | 2,200 | 48 | 2.2% (N=2,200) |
 
 ### Posting lifetime
 
-- Median posting lifetime, closed_at - posted_at, days (all families): 55.1 days (N=2,242)
+- Median posting lifetime, closed_at - posted_at, days (all families): 53.1 days (N=3,281)
 
 | family | median lifetime |
 | --- | --- |
-| customer | 50.4 days (N=223) |
-| data | 40.5 days (N=32) |
-| engineering | 71.3 days (N=372) |
-| exec | 64.6 days (N=91) |
-| finance_ops | 49.8 days (N=179) |
-| gtm_ops | 42.4 days (N=154) |
-| marketing | 47.6 days (N=120) |
-| ml_ai | 76.8 days (N=50) |
-| other | 45.7 days (N=519) |
-| product_design | 56.5 days (N=164) |
-| sales | 69.0 days (N=338) |
+| customer | 54.7 days (N=328) |
+| data | 37.9 days (N=45) |
+| engineering | 70.8 days (N=567) |
+| exec | 61.0 days (N=126) |
+| finance_ops | 49.3 days (N=279) |
+| gtm_ops | 43.9 days (N=215) |
+| marketing | 44.8 days (N=193) |
+| ml_ai | 73.2 days (N=69) |
+| other | 45.2 days (N=774) |
+| product_design | 60.9 days (N=232) |
+| sales | 64.8 days (N=453) |
 
 ### Long-open roles
 
-- Share of boards with at least one posting open more than 180 days, percent: 60.7% (N=633)
+- Share of boards with at least one posting open more than 180 days, percent: 60.8% (N=636)
 
 ### Rated usefulness, filtered vs unfiltered (placeholder)
 
@@ -86,7 +86,7 @@ Not run yet. For the first three design partners, two CSVs go out on the same da
 
 Script: `tell/backtest/noise.py`.
 
-Repost share (bind :as_of = 2026-11-02T06:42:20.036241+00:00):
+Repost share (bind :as_of = 2026-11-09T06:43:20.981552+00:00):
 
 ```sql
 select b.vendor, p.role_family, count(*) as n, count(p.repost_of) as reposts
@@ -134,4 +134,4 @@ where b.status = 'active';
 
 ## Date
 
-As of 2026-11-02; generated 2026-11-02T06:42:20+00:00.
+As of 2026-11-09; generated 2026-11-09T06:43:20+00:00.

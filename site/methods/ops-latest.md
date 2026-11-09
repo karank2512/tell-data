@@ -1,11 +1,11 @@
 ---
 report: ops
 title: "Operations and resolution"
-as_of: 2026-11-02
-generated_at: 2026-11-02T06:42:20+00:00
-n: 716
+as_of: 2026-11-09
+generated_at: 2026-11-09T06:43:20+00:00
+n: 814
 quotable: true
-flagged_numbers: 6
+flagged_numbers: 5
 script: tell/backtest/ops.py
 private: false
 ---
@@ -24,7 +24,7 @@ Does tell run unattended, reliably and fresh, at what coverage, and how well doe
 
 Every pipeline runs row up to the evaluation instant (the nightly intake reader's runs are left out); success rate and review-queue rate over the trailing 28 days; freshness over the collector events observed in the 24 hours ending at the evaluation instant, as tell's lag, with first looks, first-seen-only events and backfills left out and counted (ADR 0043). Cohort N is the number of finished runs in the period.
 
-Cohort N: 716.
+Cohort N: 814.
 
 ## Numbers
 
@@ -32,35 +32,35 @@ Cohort N: 716.
 
 The unattended period starts at the last run marked manual (2026-10-21T01:25:43.069721+00:00).
 
-- Weeks unattended (days since the last manual intervention needed to keep ingest green, divided by 7): 1.7 weeks
-- Weeks since collection started (period covered by the report): 2.7 weeks
+- Weeks unattended (days since the last manual intervention needed to keep ingest green, divided by 7): 2.7 weeks
+- Weeks since collection started (period covered by the report): 3.7 weeks
 - Dead-man proxy (tell runlog --week): weeks since the last 24-hour gap: 0.1 weeks
 
 ### Reliability and freshness
 
-- Success rate ok / (ok + failed), percent, overall: 96.9% (N=716)
-- Freshness p95, hours (lag from the earliest moment tell could have seen the event to the moment it was recorded; first looks, first-seen-only events and backfills excluded): 71.9 h (N=379)
-- Collector events observed in the 24-hour freshness window: 513
-- Left out of freshness, first looks (tell was not yet watching the board, company feed, Google News query or source): 0
-- Left out of freshness, first-seen-only (no source timestamp: tell dated the event when it saw it): 134
+- Success rate ok / (ok + failed), percent, overall: 97.1% (N=814)
+- Freshness p95, hours (lag from the earliest moment tell could have seen the event to the moment it was recorded; first looks, first-seen-only events and backfills excluded): 71.9 h (N=337)
+- Collector events observed in the 24-hour freshness window: 514
+- Left out of freshness, first looks (tell was not yet watching the board, company feed, Google News query or source): 17
+- Left out of freshness, first-seen-only (no source timestamp: tell dated the event when it saw it): 160
 - Left out of freshness, backfills (archive loads and widened Google News windows): 0
 
 | source | finished runs | ok | success rate |
 | --- | --- | --- | --- |
-| ashby | 52 | 52 | 100.0% (N=52) |
-| discovery | 51 | 51 | 100.0% (N=51) |
-| edgar | 57 | 52 | 91.2% (N=57) |
-| greenhouse | 52 | 52 | 100.0% (N=52) |
-| issuer_discovery | 51 | 51 | 100.0% (N=51) |
-| lever | 52 | 52 | 100.0% (N=52) |
-| news | 56 | 39 | 69.6% (N=56) |
-| prune | 54 | 54 | 100.0% (N=54) |
-| publish | 108 | 108 | 100.0% (N=108) |
-| resolve | 57 | 57 | 100.0% (N=57) |
-| score | 56 | 56 | 100.0% (N=56) |
-| slack_digest | 17 | 17 | 100.0% (N=17; too small to quote) |
+| ashby | 59 | 59 | 100.0% (N=59) |
+| discovery | 58 | 58 | 100.0% (N=58) |
+| edgar | 64 | 59 | 92.2% (N=64) |
+| greenhouse | 59 | 59 | 100.0% (N=59) |
+| issuer_discovery | 58 | 58 | 100.0% (N=58) |
+| lever | 59 | 59 | 100.0% (N=59) |
+| news | 63 | 44 | 69.8% (N=63) |
+| prune | 61 | 61 | 100.0% (N=61) |
+| publish | 122 | 122 | 100.0% (N=122) |
+| resolve | 64 | 64 | 100.0% (N=64) |
+| score | 63 | 63 | 100.0% (N=63) |
+| slack_digest | 24 | 24 | 100.0% (N=24; too small to quote) |
 | slack_nudge | 1 | 1 | 100.0% (N=1; too small to quote) |
-| smartrecruiters | 52 | 52 | 100.0% (N=52) |
+| smartrecruiters | 59 | 59 | 100.0% (N=59) |
 
 ### Freshness by source
 
@@ -68,23 +68,22 @@ The same 24 hours, per source: events observed, events counted, events left out 
 
 | source | events observed | counted | first looks | first-seen-only | backfills | freshness p95 |
 | --- | --- | --- | --- | --- | --- | --- |
-| ashby | 80 | 11 | 0 | 69 | 0 | 22.8 h (N=11; too small to quote) |
-| greenhouse | 64 | 6 | 0 | 58 | 0 | 21.4 h (N=6; too small to quote) |
-| lever | 8 | 2 | 0 | 6 | 0 | 23.0 h (N=2; too small to quote) |
-| news | 360 | 360 | 0 | 0 | 0 | 71.9 h (N=360) |
-| smartrecruiters | 1 | 0 | 0 | 1 | 0 | n/a (N=0; too small to quote) |
+| ashby | 111 | 11 | 15 | 85 | 0 | 22.2 h (N=11; too small to quote) |
+| greenhouse | 69 | 1 | 0 | 68 | 0 | 21.6 h (N=1; too small to quote) |
+| lever | 7 | 0 | 0 | 7 | 0 | n/a (N=0; too small to quote) |
+| news | 327 | 325 | 2 | 0 | 0 | 71.9 h (N=325) |
 
 ### Coverage
 
-- Companies monitored (active board or a CIK): 980
-- Postings tracked (closed_at is null): 11,577
+- Companies monitored (active board or a CIK): 1,008
+- Postings tracked (closed_at is null): 11,642
 
 ### Resolution
 
 Gold set measured 2026-10-05, from docs/methods/entity-resolution.md.
 
-- Review-queue items per 1,000 events, trailing 28 days: 24.42 (N=57,533)
-- Review-queue items created in the period: 1,405
+- Review-queue items per 1,000 events, trailing 28 days: 21.82 (N=65,395)
+- Review-queue items created in the period: 1,427
 
 | gold set, names | precision | recall |
 | --- | --- | --- |
@@ -108,4 +107,4 @@ Script: `tell/backtest/ops.py`.
 
 ## Date
 
-As of 2026-11-02; generated 2026-11-02T06:42:20+00:00.
+As of 2026-11-09; generated 2026-11-09T06:43:20+00:00.
