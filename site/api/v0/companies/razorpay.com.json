@@ -1,9 +1,9 @@
 {
   "domain": "razorpay.com",
   "name": "Razorpay",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Razorpay launches AI-powered payments foundation model ‘Vulcan’ for more reliable, secure transactions - DD News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNC1DT09OVVdmYkpBRUtfMXp5MTFUZDZMcmd3NTAySkNBakVCeU41OW0tcUpvU2tiYjBkZVhnbVJwM2hxUXZ6N09PTGhNalNZbjU2Q2hET0tVbkhiTTQtM0hJRV9PX01ZeFNUVFl6WG1nZXdBeEJaYzVsS1ZpZjh2VVZqMXY3eU1GSmFaclpUX2Q4ODJBdkQ0QXozR2N2dmhtbjhjbVVvYVh1Z09ZNWwwQlN2bnU3NXg5U1lQaklYWFdlZUU?oc=5"
@@ -40,8 +40,8 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGtMNm1Pd1dhQzRTWFJkal80WHpLclc0SUJTeTM0d2FVOWpDZk1tVnNHeGY3SXphYlJkcmczNFU0dDY0MXlNeXRJYWs5WGJaVFR0NHdKQ3Z2a2JGdncydjBaWldONUZfWVpOaEZPQmEyelpocW1UOW1Sc0ZnM21UT2NxaFYyLUpR?oc=5"
     }
   ],
-  "open_postings": 22,
-  "long_open_roles": 1,
+  "open_postings": 23,
+  "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:razorpaysoftwareprivatelimited",
     "edgar_cik": null,

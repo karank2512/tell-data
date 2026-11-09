@@ -1,7 +1,7 @@
 {
   "domain": "noxmetals.co",
   "name": "Nox Metals",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
   "score": 2.1,
   "contributions": [
@@ -31,8 +31,8 @@
       ]
     }
   ],
-  "open_postings": 40,
-  "long_open_roles": 0,
+  "open_postings": 36,
+  "long_open_roles": 1,
   "sources": {
     "ats": "ashby:nox-metals",
     "edgar_cik": null,

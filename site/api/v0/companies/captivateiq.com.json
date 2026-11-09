@@ -1,20 +1,20 @@
 {
   "domain": "captivateiq.com",
   "name": "CaptivateIQ",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 1.2,
+  "score": 1.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "CaptivateIQ Introduces Trusted AI Agents for Sales Incentive Planning - MarTech Cube",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1dkcnlxdFNQcUlpMzNEWTBqZkZlQUxYV3BHdUlvQnI4cV9JSUdPMWNscnFjcjBXeGFBLWxIbzlXa2VpTDE4bzJiNHNVWVV1N1NSQVR2RXl6VDZmQ0NvUW1ZV2FwSk9QN3hJb2s4ZlpJaThLaUh4UUR1MnJJNEFSY2xyc252eUJPWW1iSzFmeVhmQnl1ZUU4cEM5VjB6Q0U?oc=5"
     }
   ],
   "open_postings": 22,
-  "long_open_roles": 11,
+  "long_open_roles": 13,
   "sources": {
     "ats": "lever:captivateiq",
     "edgar_cik": null,

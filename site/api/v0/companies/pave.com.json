@@ -1,13 +1,13 @@
 {
   "domain": "pave.com",
   "name": "Pave",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 7.6,
+  "score": 7.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Tampa Bay's Power Design launches Build the Nation to pave a path to careers in skilled trades - That's So Tampa",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2SUZ2aTFTSUp6SmlwQURRUU5WbWI0YzhYWEpYQkYzSUpnX3pKSUpDWGdRdW5SUGlKUGRZOVNjSmw5QXJuVkNMMHJkOHZGOWxwRmJ2YWt4TlZKdThvQ3lqTURWQzgwZw?oc=5"
@@ -56,7 +56,7 @@
     }
   ],
   "open_postings": 17,
-  "long_open_roles": 8,
+  "long_open_roles": 9,
   "sources": {
     "ats": "greenhouse:paveakatroveinformationtechnologies",
     "edgar_cik": null,

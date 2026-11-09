@@ -1,10 +1,30 @@
 {
   "domain": "front.com",
   "name": "Front",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 3.7,
+  "score": 5.6,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-09",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/frontcareers",
+      "postings": [
+        {
+          "title": "Account Executive, SMB",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/frontcareers/91e4b4ad-9ce3-4bc7-896e-f36ff234eca1"
+        },
+        {
+          "title": "Account Manager",
+          "posted_at": "2026-11-08",
+          "url": "https://jobs.ashbyhq.com/frontcareers/625c97e4-2f4f-4109-82c2-4c5fa6ac837b"
+        }
+      ]
+    },
     {
       "type": "launch",
       "contribution": 1.0,
@@ -14,7 +34,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "Congo’s former President Kabila launches an anti-government front including M23 rebels - AP News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc19GYU1FOTRFdS15QkpsUmlibEZXQkhrSkZUbDdjWXpxdWdmdENsa1gtY2ZOMW1ISTA0T2VKc0RmMnNFX0djZzNJZ3FBWGxKa1BRNjNyRDFqOERFZV9UQmtueks2WXc0NDhzN0FQVXZEUDV1YnV3X0Q3M1RqNFd2SlJYYkhDSTI5SG1zajZtNHpOdHVQSWYxRFJuNTZOaFhf?oc=5"
@@ -34,7 +54,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVBDVmgtUUo1U1dib3BGQUVNLVJxWHEydUpkRzlpbDdlYVAwOUtjVHpGYm5OTGl1bDRjRFNFYXJqanRwZXJiZ0NBOTRHdHkxX01aRVJLY0JKQTRwcDZXQWhLZG8tUDU4R21BeWVVaXVmRVVaUTQ2Rmt0Q1MwTXlpV19JRmVjV2dwdWNZWDdVVUdhelpxdHRZcmpibXU2S2hiNjRrbmUwN2NBREts0gG0AUFVX3lxTE1RSXZxdXQzR2pVU1ZQZnFGM1l1UVg2blRSaFBoVmFfbHRZZ3BlSzdJQXdYc3lNRllPQnNkbGZwS1ZvREJkMTZSdkZXdTd4a0thbTduU2VtU01mVVd1S2hYYlc1YTZxTGEzTDFmRVFvSmJlcGRDOUoyd0liNGZHcDRHNGVwZzdXVDVlQWM0NFI2Q0JIVUNENUN4NkhlMG5hLUt5OWlnSjFVcWt0T2N3X0VfLU41aw?oc=5"
     }
   ],
-  "open_postings": 2,
+  "open_postings": 3,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:frontcareers",

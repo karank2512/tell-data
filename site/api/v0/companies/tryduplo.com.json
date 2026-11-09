@@ -1,9 +1,9 @@
 {
   "domain": "tryduplo.com",
   "name": "Duplo",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 3.5,
+  "score": 3.4,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-23",
       "summary": "Introducing Duplo Treasury Management: Enterprise Cash Control Built for African Businesses",
       "url": "https://tryduplo.com/blog/duplo-treasury-management-enterprise-africa/"

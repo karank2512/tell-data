@@ -1,9 +1,9 @@
 {
   "domain": "maritime.sh",
   "name": "Maritime",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 12.6,
+  "score": 16.8,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,27 @@
       "occurred_at": "2026-11-05",
       "summary": "Navy appoints [person] as new PAE Maritime lead",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN19ZejBIS09kYVVHblFqWkZ6T0s3YkdpNjU3TElFXzhmeUt4Zk4wcjEzejhkaF9fZVF4M1lRMlFlc1Y2U3IwdU5xUU9fUFEtZTBCT1A4WVZfZXZxSmhqeERZYXVQUEp1eGVLUnBKekVsZ3poeGJCVEV4bmhvQUNLcHVuQ0Z5NVR5SkE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Kongsberg Maritime Unveils Arctic Hunter USV - MarineLink",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjA5Q0lYQnFqU1NoZHNoUjFGVEt0cUF6U203d3lTV0M1bHFlRmdTQnM1X2t6QjlFMnpuX2E4X1c2dGxqWjM3cmJYenY2QmtOQ2dQT0dxOHNvb1M1NW5WOXNJNlFzalBqT3pRcThjZktFajI1YlFQakVtUV9xR09Pem45TzBOUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Kongsberg Maritime launches Arctic Hunter USV for the Hybrid Navy - Naval News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXZhaFJsQjFDaHcxTk40SG1HSHl1eHk4M2F1NGFDRFJVZzJKcU1GaHFEdDJLZmYzVk4xVmN2djZQN3BIcWdVNzFDVUIxdS0xRkRpN0VfNjNrUWtPR2wxY2loYUhrd00ybVVkU2JOaEhydmJqSjdab3FiYjBVb2E2dTJlNl8yT2FZSngwNFEtUXpoVGkzbVJhNVNPak5IMGI4VEh5dTdwM0k3REhHWGJZNQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Maritime governance task force launches accountability playbook - Global Maritime Forum",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakxBX3hGc1ZFVGRPN2N4VS1ObTVwQ0dZbGQ1MUx5ODk3REVmWDlDX2syMnZ4dXNFT3ZnY1hldHVhLUJpcDE3X1l0VEJ3YUpuSnlIUnhOY0lkZjNDcUpfS2UzSDQ0TXI3SVhpUDM2S1BTdDlvZWE2aGNRcExtM0xuSXlNRk9hVUl4Uks2U2NxWU9QRHRFM2oyM25VUnlmemp3cGdr?oc=5"
     },
     {
       "type": "launch",
@@ -42,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "US Coast Guard releases NVIC 02-26 to guide maritime operators on cybersecurity plans, IT and OT risk assessments - Industrial Cyber",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUkp3TlhzT21tVU1tbm1mZlg5Z0lGMWlDaXhYd1pTN1FTT0dQWV9BaTZuLW1KYmRxV0d4d3dJOXo5NlZrRlFEUWQ5dV94MXZqVFFNM1BzXy12QzZHbnNOblM4bUcyWERsX0lMMWY0SkQzRWt1aTJyU1lsdGRIdDlIMm5ZMWphNkpDWjRqa3NLMDUtRW8xT295dllNTUN3eE9sRXRQNlpMT1J5R3o4RnpUQ0pzbl9mQUwtcXY0YU5keWJIMDkzN3lhSUxIVmNHNnVhejh2NTlrTWFScXFLM0UwcGl6STU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Governor Moore launches maritime task force to boost Maryland’s economy - WBFF",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHhCR0RXcFFiZkxoSkhPcDIzVHFzQkJxNVpFRU1HM1dZc0tQNmFHcHhfTF9yS3p3cm1hM3ExeEtaR1JsMHdLRWFtd18zTEJ1VmRnYkZfOVdMX3diN0hYeUdrUE93U3dQcm5aVk03WUFZM1FLOE9UV0VfSUJNRzFGNDFkYzZ5LTMxeXVrUTBDVW8?oc=5"
@@ -70,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Trillium Engineering Launches Edge AI Modules for Overland & Maritime Reconnaissance - Unmanned Systems Technology",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMHF2VXhvWVhBMGdCV1R3Q0dYS3RfRk05Wlc2UjZYM2ozLU1heE83eWU2RVhySGl5UjFaRnZNM0NOeXBLTXJxWGRMMWt2eVMxNWhLY3FVS2pfUXV4VTltSGxMSy04aVFoTzd5NUZmZWhfX0NYblpSb0pmNzRKN1M3V20yZTBPSWpiMjR4VGlOUzQ2Z2U1OWdMdWNUYmpKUHNnQjBwbmNDOFZibExpdkFrRjAzTWRoQWNGdDJ3ZnpXQU11YWsxQ202cFJFbzNyQQ?oc=5"

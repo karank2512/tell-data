@@ -1,10 +1,24 @@
 {
   "domain": "canvas.inc",
   "name": "Canvas",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 26.7,
+  "score": 30.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "MuseSpark AI Launches to Cut AI Model Costs by 40%, Combining One Unified API With an Infinite Canvas - Akron Beacon Journal",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRi1mZVZTWlRSQWhYdjNGOU45d2hXYWVRUUV0MXBWTUVHZFZ1WExkazBDbmpjWXkwSFZ5bFJWUWJKOXJGMnZHOXZNSW5XbTlCc1Z4OHdxdDhJMjBRLVlDdkFqc0dkRnplZzVPaHUxUVozNFhTZXhqVndrbW9NajhDdzBrenl0c3BVSHVmd181OHBsV1FMTDlRVjJicEhCaWdoVVBBVUJ5YThaeC1DOXIwZWsxTWlMMExrRWZhaGFnUlZMVnhkTlIta0g0Y2F0ZF9wcGRRWnpKZXpLaHpkRXFwazg1RGhLblFEQnhVZFhn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Koozee Launches Freeform Canvas and MCP to Make AI Apparel Visual Production Repeatable - Send2Press",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHlCZ2R0N3I3dGVZOUpmZy1UcGV2NHRnczlDaGpYeWZMbGdQSkdEQW9pMExvUWpuVi1uTEhkTUFWRVVyYjVPLVR3Sk1DOUVlUHJUOEhyTHlnTlJWanRCUmNzOGIxelZaYTQtZkVrdmVVMHRVMExKNGtRMWtpSWk5OU82MkstZngwRVNVX0tPdm1zZFJnb0hRM3JxVTlnQ2d0YVZwX3BCckNLa2dobXJfOUxGT2hQODgtaXpCSg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -37,6 +51,13 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-05",
+      "summary": "Koozee Launches Freeform Canvas and MCP to Make AI Apparel Visual Production Repeatable - Oskaloosa Herald",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPc0huOFpkN0ZUak90TkF5d3EydjBGT25fNXpLbS1GSVdfa0ptU1FaT3JOYWJyVkxDYnFtalRFM3AtZmd3WGRwMzJyWWJ5S2NFREdFN1d1eHdyRjBlcTRKd19TU1lXeWE2U2ZtdWtwUTgxaEZsaGpjTzh0cFlIdDZpMU5IQTY1VjJpSnR1bnNuZmM2NVFhY29DWjFNVGlwZVlGWnljTml2UUxKVzZfeVRESFo3Rk1RT2FPSFVqTnFvbGIxTUxQcGhDMHF2TXFXeDRzQ1l3dTAwbi1XNTRPUHg1N0wwVV83MDVRQ0hCaW1Ba01weXBYVmIwQzJ4b1dfTEo2NjBYRnFuNm9zZzk2UElN?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-05",
       "summary": "Tripo AI Launches Agentic Canvas, an AI Agent That Builds Reusable 3D Model Workflows for 3D Printing and Games - 3D Printing Industry",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZDJRSUV0WEpYTEdRY3J4bGtGREFtOEpoMkMyMW1rVlZqZmZrMWIzUWRnaVdCdE0zcl9DeEdkSE5FeFBqdDhWcjZ2VnJQY21HdG5RUk51dGpTSXJBUGFid2pmdE1hTHlSWnBxWDV3UE0yQ04yMjJvUUxOUFpMbk03OTBvWllkQ20xSXc3WmZNc2luNVpETzBUSUFER2JIMVlBMm9ZbmVsSWdiakhRejNZLTJnOHJZaVZWU1hDMV9QTDQ3RFlEMVZDVXhERDNrWUdtR1lGNW1ILUZVbXJYaVBTM3Ryc3A0ZmppZUE?oc=5"
     },
@@ -63,21 +84,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "Tripo AI Unveils Agentic Canvas to Make AI 3D More Accessible and Scalable - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVWtaSVNiSnhtdi0zQzNvSUxpemZGQW5YNkdZc2dzbWdQVUplOHZWZ2x4YVpyMTFZcWk0Z3NFZk9EYlhYU01ILVBCVTI0M1gtX1NSRDVrUzF6ckRDRTkyUnFpV2lYUTN0aUJkOW1YQWN3QzhCUU9ONGQ3eF9nT05SZnRZNGhQcUJpNU9OZE02RVNQM3BpM0pQTjB5UGpzbGRuQTJ6Nnk0NnlwN2JjQ1RsVWRSa2ZoVjBnajhQdkJDdi1BTFNKWVN5bHRR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "Tripo AI Unveils Agentic Canvas to Make AI 3D More Accessible and Scalable - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGpQc21EU1RtZzhfZFVZbFZCYXVPVmptdUFib1Byamdmaml4Q294a09EY01KbWVScWhRVDlGMkRUQ2pkUXBlOFBaLWRJZjh5YUdMWUR3VXBhcXJHV0RWaUxhc0tLTWJvaWdjNFFrVVR2Umh1VUFwUnpwZERMUThkRnhwanV5dU4zLVBCTDhpZXZWaEVqR18wOHRZNA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "TUCA launches skill development platform ‘Canvas’ - www.daily-sun.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVzlQX0Z0eEJuNVJudlR1ZWZ6aXZZVEhWQWZoTHhzRGE4b18zT0dxUTctbFQxU3ZLTkZXb3pkQTQybzJnQ2dkVE1wdi1jc1o4eVRBblZRTC1EU0JMM0ZIblFiQVFDYjlycWRkTS1iQzJ5U2o0QXZEZ0swbWZUQm9mWkg0bENpRzFhVm5JVDRsWUtYVm5lTUI4b3VDV0ZlQ0tBenNR?oc=5"
@@ -98,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Cogya Releases the AI Canvas Framework to Help Small and Mid-Sized Businesses Plan AI Projects - AiThority",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFNNSS11cFV0Y2VxUXFkNXlIV0hjbkJFcDdaZDdZdUVraTBIN1BiNUZvOW9Jcm02MXM0ZWFPUlcydEJjanpCU0hidlRHb1gwR2YwaFdkRDdDM2d4cFd3ZGd3RHV6dHZNNE9XM2xZYzU5VUF1TjBWeUJtWE5hV2c1NXpESnI2Y19tSmJKNGdCM25tTDRuNGpaN3N2RERCckFlQ05SWmJoaHRZSE1MMEcwWHdCNE81ZVZtdEJBbllXVGk4ajV3M2wxWWM2RFZwZEk?oc=5"

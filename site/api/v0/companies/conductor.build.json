@@ -1,10 +1,17 @@
 {
   "domain": "conductor.build",
   "name": "Conductor",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 27.9,
+  "score": 32.2,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-06",
+      "summary": "Appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWU52SGNyZ0I1NGJQVE5zV0Qtb0VpeUtWNHBYYndMcmdWS05qYkZiTzN0NGZKNmc4N0Rid0gxaFZ6alNrT3R5SDBMeFNGOEhtYWt2amN6ZWI2TkZ3M3lGX25KVkZucTUyU0U4Q2d4VVRFLVJHV0dINl9jT3hpWVFrbG5wcnhrM3ZUbmFwMldmSDhJSXlOR3dFNWJn?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,
@@ -34,11 +41,25 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vaG1Va2MwWTBzcXZpQ3ZFbE1fS3FMWkhlcU5pTk4xR2lVSkl3VHBFcTRReUVuUm1PZDlIenpNOW5vQWRZdXpqRE02Nl9nRVNjUDNCREJzR21CMW41SFVsb0tTeE0?oc=5"
     },
     {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-08",
+      "summary": "LineWise Introduces Folding Guard Arm for Conductor Work - For Construction Pros",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0dlMHBSWGNpdm5lOV9ocXNIcFRsMjlSVXpucDhMdmF3ZEVNQi1PSGFrMWtpU3lMbjl3T0FjajlQbHFOVTJpSTV5ODJnVlREa2RBNDY2aDJRa3U5Qm1uQzlGUE9ETDNVdUlJUmlxNHd4UV9ySHNZcVhNNFpRNWZlY1JQankwN3k0M0tjcVR4Y0JCa1JiYzY4dG5nY0VsRVRJQzdGVTdqc0tLZGpaeHhuQjVmXzN4YUNvdnZnaDJnWVJ4VUxKaDBuTWNGZElFRWM?oc=5"
+    },
+    {
       "type": "leadership",
       "contribution": 1.5,
       "occurred_at": "2026-10-13",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzBxUjgzNXdWdmRBVDczU3ZRY3I4RW9vWlBqZ3IxdEFwc29oUUFsYlJRc0RkYWhPajRmQWVub1RoOHY3aFRVUmxoUy1xd0c4aDlqUEp5ank1QjZBcWhhdVFmYUpzUnRKRVFMS25ZNTEySHplQ2ZfZDF4UHB6cHRmYXppQ2xLLW5XU0FtNEZscWo1UzQwRzI5TWxjWWt0Nm8wTmIwZ0dIZF9fc0FIUHowS2NWQ2hCZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-11-03",
+      "summary": "Conductor Launches New AEO Product Suite, Empowering Brands to Win AI Recommendations - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTVLejNQUWJ3a29WYTJKYkowYjVsaWdJTTNfMl9SWEFmSnI3S2E3ZWtrTjBSZ2o4ZHRBUVIxcEVfRUoxT0xmSW5GMlFFbUk2MU93ZTVNNm5aQ2dTeDZfWTBiaFFJZFZ4Nkk0VXpwNVFqZkJBcHdyS0hEQkxrMjFDOGxXSmNLUjIyT1I0RkJ4dHhrR2JXaEcwUi1MWDFGcnZvakE?oc=5"
     },
     {
       "type": "launch",
@@ -49,21 +70,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Is Rockwell Automation (ROK) Fairly Valued As Its FactoryTalk Conductor AI Platform Rolls Out? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVlTaks5cmpRTXAtV3Q3TE1QNEd1ZzVHcnJ6VU0zRmRXbFdDQ2pEUkF4ZW1USUFrQ0trSmE2OEhDN3gwVjctNEZ3cUNacE1wNzNzSEZKY1lqbTN2UEVwZ2xCd2sxU21SdUdQX29jMGZMS1JTQ1FGR0pic0tzbXJiU0ktdDJfSkl1SHZXSFJ3VEdpcm9ZLVZpeWY1dVRzZ3QyTElhaQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation - KIPOST",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RY1FyMGg0MFZuUnR1Z19JZGpKOE04RmpFOFBlT3I4TFRIOXlHRjVjQXZxcVVpTzBDMTdHSEVCaHY1RVQ3dEJETlh4bHdfelBfeWJZOEVrQTR0MU4zajZ2SEFKSXlIajRrMVRvMA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Rockwell Automation Introduces FactoryTalk Conductor, an AI-Native Orchestration Platform for Industrial Automation - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcUpFN3V2QXpXNVlRWE9WSDFyZkJmQUZSN0F6cDdDTXY3YWd0SDVfd0tRZ19LWVBHODU2S3BaeW4wVWpXVGo1M1NNcEFSUEdTenVybHg5Qk9FRDZfNExLTmg5emdNRWZUOVV1UGtPS1M0MzRoMXI2X1pwQ2IzYTVfNk9GQy1pcWJ3a3NOOTVneHZKdnBNYWYyVm02OXhxZjFwaGhRcjZtRmNEUXFCZWk5UVJDOXVpOVhJZkpZdDZtS0R6bGtrUHU0Ujc2TDNjajJXSTA5anREd3NSNU9PWHRtZlpqbnZzY1IwSkRWUE54TWc1Q1RjaWhKNnVSVUQ3OE5uWEVyWUhNeTdBM2QwSEtPX2pkX0diQkU5LWfSAZoCQVVfeXFMT3FKRTd1dkF6VzVZUVhPVkgxcmZCZkFGUjdBenA3Q012N2FndEg1X3dLUWdfS1lQRzg1NktwWnluMFVqV1RqNTNTTXBBUlBHU3p1cmx4OUJPRUQ2XzRMS05oOXpnTUVmVDlVdVBrT0tTNDM0aDFyNl9acENiM2E1XzZPRkMtaXFid2tzTjk1Z3h2SnZwTWFmMlZtNjl4cWYxcGhoUXI2bUZjRFFxQmVpOVFSQzl1aTlYSWZKWXQ2bUtEemxra1B1NFI3NkwzY2oyV0kwOWp0RHdzUjVPT1h0bWZaam52c2NSMEpEVlBOeE1nNUNUY2loSjZ1UlVENzhOblhFcllITXk3QTNkMEhLT19qZF9HYkJFOS1n?oc=5"
@@ -154,7 +175,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-09",
       "summary": "NTSB releases final report on fatal accident involving BNSF conductor in Montana - Trains Magazine",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pxY09JWHlEOW9hYmpycUVRV1NuUkoyaWk5a1pSaXczVE1KTTA5ZE9rSldMMFk5cU5XbXVEejFYdUtVTXRBUkNYVGJvVUZpbnd1WExNXzBjbHo3TFZaeDhXR2JMSnI1ZENWV1FCXzR4QXhiSEc4cWQ4dEUwOWI4N2Zfb0s0MDNWMGRmSVdvYVpabkFYSmk3dzdHNE9aMjN6Q2lZa0NBT0FiVFBEbEdYYUNzclJjUXhTWXdrTW1LdHpFQQ?oc=5"

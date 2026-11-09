@@ -1,9 +1,9 @@
 {
   "domain": "trytoku.com",
   "name": "Toku",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-21",
       "summary": "Toku launches visual tool to build speech AI - Tech in Asia",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKWmRfbWxtTElIMjA5MlN4RC11cjhtRENsRXJGRkJIbHpzeDhZZi1VSmVRXy03SFhoNUJMRS1OMGVzUjQybkRfaTNmZFhMemZ2RFg0MHBtZmNGZ0FBM3FlY2l3MjE5cDhFS3ZjOXFIdzBZUDRSc2NSVktnbHh1Zw?oc=5"
@@ -47,8 +47,8 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSEV6X3M1UV9DZ2hFemV0MFUyTnRsWWRYbWVwYTM4TVl3ZzhTQmhvYWJUUWswdnpoQlNYSmtUS0xBYnMwMmg4a0x1NEtiNEhlV2I3WXpQUUtELWdHeHBQOUYzQk1nU1lfVy13OGNBQTJlSVJzWjZHVUhGaHNSakIzOVpPbDUzMG8zeGtRbGRfemxPbVViYWFiTmR6S0NYNk9PWjNsNWJ6cXoxZnZoSE11d3VGOTBCR0NIVlRnUlFXM3p2R2tvMVo5ZkpyVjZwbXdldXpTOFJqd3Q4dFVDblVrX1R1bnY3VHBObDdSdnhkemR4UTNMenM1UzlRY2dIYUk1NzUyWkUteG1BTGxKZnBMbXlRNA?oc=5"
     }
   ],
-  "open_postings": 25,
-  "long_open_roles": 10,
+  "open_postings": 26,
+  "long_open_roles": 11,
   "sources": {
     "ats": "ashby:Toku",
     "edgar_cik": null,

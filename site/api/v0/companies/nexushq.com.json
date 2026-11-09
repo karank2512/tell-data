@@ -1,9 +1,9 @@
 {
   "domain": "nexushq.com",
   "name": "Nexus",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 40.4,
+  "score": 47.0,
   "contributions": [
     {
       "type": "leadership",
@@ -15,9 +15,37 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Nexus Communication launches Fleet Intelligence Platform 'FLIP' - Fleet Europe",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMi1QRVV2eWpGUUhMZFhiMmZQLU5SY1htLXpRMlZXQnM4Ti1nejMyYXRmV1pQV0dWck1meDZkeVl4VVNHUzVRUjRia285bXBUeWJRcmtEUVNMTldhbGJOZG5DVWwyZXgxSFBaRklrV2N2ZnE4cnItNEozczFUTzIyazRsb2owSWJqenpuWkFkTjg1OVFjZHJ4eDVLd3FVUlZrVk9JdERaSmx6UEk1UUZfVFJ2R1hoeG51Smc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-07",
+      "summary": "Shinobi Nexus: Senran Kagura Releases Tensho Arc Opening Featuring “RISING FLOWER ~Inori Ver.~” - Noisy Pixel",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYlE3THpwUmxkSi10RU9EUjdjUG5UbnNkZXp3eVA0RFI1VHZONWh6bktPREk3bGI0ekxVUmxPaU9CN2YxdzBWTk9xbTkwN2J0UEgxYUFOS2RHd0pjZll6aDJ1ZlFjT2ZjQ0VmRmFkeENUQUNpQ1M2V3NKVnJITERvUUlR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "QORAI CORP Introduces Q4 Nexus, a Patent-Pending Computing Platform for Adaptive Intelligence - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOE9qQnlSNXVFdU9MRkNxZ3FwRC05TEc1aFJWNW9FU05kNHhZWHdMV0ZIWVgxNnA1RUhPblRmTWtlNFFmcHduSVJSNmpXeTd0SWVXR1JOamk1LWdBd2N1Z1BDMkd3ZUluUXAxNWVJYXhpcVYya3Njc25xdV94azdiM05hZ25YODNqUGtta1JRNzJRcnRubTVZMUt3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Nexus Legal Group Launches AI WebTracker(R) Subscription, Giving Law Firms a Daily Feed of Prospects Researching Their Competitors - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMnVTTXgzNkw3c2hxeEl4MHI2X3dEb2IwenBUUHVFRFZuUXMtVGtQR2RaVGVaY1Q1U2FiaWJrTU9RdGlmRGl5MzJNejRkUTFZVHpaUk1Tc3pDdjJoMVdqMWdCVDkxRlFvR3JqQXJ5b3NOelBVa2Uwd2FSTUR1WThkTDYzUFZFMW1yUDFWZkZ2ZG5CaC1nNlo3R0dOODhLdXZRNnozUXd5dm43OVRpa1BHRHhCTWNPZmNfUEM4N2hJSTVPeUpjSFF3NF9jUm9oQzNQa2Z5RXZ4bkU2bEVyMWpiNXVmZ0ZUNWJEalByUkdrSGdWbTNiRWhBaEZhUzJPMHREV2VTTGdpVjhWM1kteW80?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Nexus Legal Group Launches AI WebTracker(R) Subscription, Giving Law Firms a Daily Feed of Prospects Researching Their Competitors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0FWSVp4VXRNRGE2azdBMF9MZTJIMlZyQWFXa2tZbEF4eEFQYVE3d3h1b05BdUFncktHdnNqaHJzMUx5cGxpX1YzMi0wcGhWNjdrM2hnd2tVUmtZcEVfNUlRNnlXVjFob256NHRpVXJ3cE5BSEVvX294RDBzblphbE1VVVZlVjdRbWVYbnNJNjBPNkdvY18zbg?oc=5"
     },
     {
       "type": "launch",
@@ -39,6 +67,13 @@
       "occurred_at": "2026-11-06",
       "summary": "Honkai: Nexus Anima Launches Spring 2027, Final Closed Beta Test Starts November 25; Sign-ups Open Now - mxdwn Games",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWE9LeF9Rck1JWko2bVR3Vkw3VzZud3FDVl83c0pmNl9fLUFHVXV1T2g3S3owOGVXUWd4cFpCZHZOa3duVlFTQ2Q3Z3E3Ql9YbU45TERPMmRTZFFfQXNNb3QxY0JmZXpER0pUWlY0Y1EyVnhNa1FjcW1TWC1IckZFaUlMcEkxV2YyaGN5cDNRYVhtQ1hqVWNfdVp3d2I3TUVocm94djMzNzlEamluYTNzOVp4NGlReDhpTzRHeDNoUWh5Y2JkLVBRetIBzgFBVV95cUxOM281TjhxSGczeG52MHZyY2FWU01rdExua2pRNkpmVHg4ejNXZXprX0RyTHB3MkZYVDFfdGswR0tLV090LTZkOUN2b0FXOGRLVWpJZ25kYmdMUVVUMVpRcHFOVW5GUjJoVFV5clNtV3R3VFA0Sm5sVjlRZHNCODFibEQxS3V4WlR3UW01aWRGV2pqZTN4d2dUVTF6YV9zZ2VoTnBBR2l0U3Z4MDBUd3J3bE0yZ2Q1Uk1uQ0tnTUM0SEM5aFdyUjhfU2Y5b2pCUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Honkai: Nexus Anima Launches Spring 2027, Final Closed Beta Test Starts November 25; Sign-ups Open Now - mxdwn Games",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWE9LeF9Rck1JWko2bVR3Vkw3VzZud3FDVl83c0pmNl9fLUFHVXV1T2g3S3owOGVXUWd4cFpCZHZOa3duVlFTQ2Q3Z3E3Ql9YbU45TERPMmRTZFFfQXNNb3QxY0JmZXpER0pUWlY0Y1EyVnhNa1FjcW1TWC1IckZFaUlMcEkxV2YyaGN5cDNRYVhtQ1hqVWNfdVp3d2I3TUVocm94djMzNzlEamluYTNzOVp4NGlReDhpTzRHeDNoUWh5Y2JkLVBReg?oc=5"
     },
     {
       "type": "launch",
@@ -112,21 +147,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "Max Styler’s Nu Moda Releases Third Compilation Series “Nexus 003” - Rave Jungle",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFlqemNjZTZLRXFGNHBzRVNUWHhkQVl1VEExWkxOVEVXMU9RSDJkN1k4ZDI1RVpLR1M4RE1WcTNxWE1LSlBtV3NwNEhSWmRSZXZDaEhZVDBrd0hYZFJQSm5jVVZFbzBtZk14ZW9BWVNtS18xU1RUOTh4dUczOHR2dl90UVhKZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "Kresge launches Culture of Justice 2.0: A $6M initiative investing at the nexus of culture, creativity and justice - Kresge Foundation",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRGF5YmN1LVBMczFRQmhocUVSMDNLWmpXVldIZnJEa05uSURpYWtMSTRxbUNPa2kwc1Y2bU02RmZZXzFLYUM0cFRCYWdZM0c5LVp2V0V2dXRwSkZ2ekJYTGtabmtJQ2ZxTU1XY29EMXQxcG9xNUJVUTRCdGdIUDAtQXktSWFObTQ4NFRhVDM5YXc4TnhDQTZTMzRwQ2h0LVRMVjNiSTJ6bVNUMUhzYWp1b0ZDeVh4RHVVS1YxQUEzN183VEc1SFRsYnNqOElqdG56QmNkQXdXN0NXZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "Nexus Legal Group Launches Wrongful Death Program Delivering Signed Files to Plaintiff Firms - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTDZ0OW1rcjJLUzBmczI4ek1iT2JUTlZBb2hXRnp2UnhTc09WU3dkRGc2Wnd2SkhpZ0o1SkFuUUdiZ0dHQ0xvRDdFeVhvOXRuMy1fTWFqcnExdGhmc3NXTzhlX0haWXd4czlxeWxYdVhBdzlGdGFSRGh1WHlHcnpVYnk4UnJnb0gweDBtMDZQN19QWW1Gc2ZZXzktTFFuLWZTakRoeTgwZFNDelBwd1pIUmU2bm5mWVlvdEpaUXI5VGZpSF80QkJmdmwxRmxQc21LTl9xLTdFV3VnZEtoYzJfTXBFd1JOQ1Qz?oc=5"
@@ -189,14 +224,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Cognizant launches AI Nexus to help enterprises measure and optimize AI investments for faster business value. - Pluang",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX28tNWY0bUhtUWMyX3RkckFSOEZ6Q3FtbWF1QnppeFZnOG1iQmVBOFdlSklXeW1mZ3RRb1lPT3ZPeHk0QkI3RXVFNkU1THJUNnEydlpnU0tjZkRZSUdaQXJEN2h4bHAxSEM5UUFNZ1NMZzFUWXNjM3F1T3dzQ21rN3g3aEdQVGtwTU9TTndvQktCYndOTVpBUkxQeFFfcHhERWV4X1h3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Introducing Cognizant AI Nexus: helping enterprises govern the cost, quality and results of AI - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVmNvcUZyNWpINTYwd2xWdldUa3hFWjVyM09RRFNYaE5uVkJpWi1ua3BEZTdFOGxsTU01WEtTamFQMTJvZzRCalRrZG1VV19TdWdSelNaZkRiV3BKaGtWcldHTVg5M1owMnJPdzlvWDIzRHhycEN4cmlLNGhkUHJ0eVkwT0R2TmF3U055cTVodC1ST2ticVJlR2Y4blUwdnRFb0FiWDBuVG9NN0lFN3VXUWJ2Ylp6el9yTHJFcjZrcDNjNXVBNU55b1hBamZ2SnpPTGdWYUhfUXZJaDN2OFVHMVdR?oc=5"

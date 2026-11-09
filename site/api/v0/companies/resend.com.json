@@ -1,7 +1,7 @@
 {
   "domain": "resend.com",
   "name": "Resend",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
   "score": 1.2,
   "contributions": [
@@ -21,12 +21,5 @@
     "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
-  "why_not_higher": [
-    {
-      "type": "launch",
-      "decayed_at": "2026-10-10",
-      "url": "https://resend.com/blog/introducing-automations",
-      "summary": "Introducing Automations"
-    }
-  ]
+  "why_not_higher": []
 }

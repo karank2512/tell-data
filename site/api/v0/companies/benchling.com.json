@@ -1,14 +1,14 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 8.9,
+  "score": 8.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.1,
+      "contribution": 2.0,
       "occurred_at": "2026-10-23",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/benchling",
@@ -39,7 +39,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Science Foundries, a new way for scientists and agents to work together - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcFZPcC12amgzdFc2dW1BaHdjaUk5MnA0aGVMOVZlT0JiaTNoLVNSMUZIUnJpMUNTcmN4TmdLekpySkE2dC05akEydHFjS3pfTTNDNFdCUkRhWGtmeG1mQllNR0lqamo3cjJQd0ZxTTNPV1NGVWREWFRlT3BRVklwM2tRdkV1bndmanlreGFxT0drUjJSTVF5bm12OVpYOWZIbFFIZVdRY2l6TUNXQjdfY3JQcndWaXpHbzhWMDhqNnY5dXV1WWtSeWZoM19xcGx0aGRaOEoyakhheHFJcHc?oc=5"
@@ -78,17 +78,10 @@
       "occurred_at": "2026-08-27",
       "summary": "Introducing Benchling Agents, your infinite program team",
       "url": "https://www.benchling.com/blog/introducing-benchling-agents-your-infinite-program-team"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.1,
-      "occurred_at": "2026-05-13",
-      "summary": "Introducing Benchling Model Hub: The infrastructure layer for scientific AI",
-      "url": "https://www.benchling.com/blog/introducing-benchling-model-hub"
     }
   ],
   "open_postings": 51,
-  "long_open_roles": 9,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,
@@ -96,6 +89,12 @@
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-11-09",
+      "url": "https://www.benchling.com/blog/introducing-benchling-model-hub",
+      "summary": "Introducing Benchling Model Hub: The infrastructure layer for scientific AI"
+    },
     {
       "type": "launch",
       "decayed_at": "2026-10-13",

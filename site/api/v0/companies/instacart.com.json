@@ -1,14 +1,14 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 11.6,
+  "score": 11.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-10-31",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -71,7 +71,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Double Dice Launches in US Following Success with Google and Instacart — LBB - LBB - Little Black Book",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGMwRzRvbjRYQzVOWFN6U2VLb3ZQUUV4X2g5QllRdXpmWHdaV2doU0dBS1VuTGlYU2QwZEhmZmRMOWFyd3dhYUtNbEU2X0wtNUxNT1VST3VET0cweV9Dc1hMWEhwZjFIVWJMVTlZeVotdlNWQmhVNFV0ZmtKdGRmRlJSenM3ZUgySnN3WEpwN3Q4bWEzQTZxdmFONk81N2hFbUJr?oc=5"

@@ -1,9 +1,9 @@
 {
   "domain": "appwizzy.com",
   "name": "AppWizzy",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 10.1,
+  "score": 10.0,
   "contributions": [
     {
       "type": "funding",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-08-03",
       "summary": "AppWizzy Launches Projects MCP for AI Coding Agents",
       "url": "https://appwizzy.com/blog/appwizzy-mcp-for-ai-coding-agents/"

@@ -1,13 +1,20 @@
 {
   "domain": "deployrobotics.co",
   "name": "Deploy",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 10.7,
+  "score": 12.0,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNakJ4TnFILXIySC1ObjJ5Y1oxZnpEVUNvVkh5cm9ROFhkWU5DM2EzN0NCVTZuUGp4Nk9aVXUwb29QMUxQYUtVWGdhaHRxYm94N1hOekNYaU15bmN6cDVFb3E2V0lXMGF1Q0F1WWlfNUIzSlNLeDZhWVRCd3NhbW1aempJVjg3S09FLTA4Sl9GSHAtQzhrZFg2SFVEUnpna092Wm1LTTUxbjdHV2pQUHJSVnVXVTQ0Zw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "AT&T says it won’t wait for 6G to deploy ISAC, as Ericsson debuts its sensing solution - Telco Titans",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPakE4WFl3OFVPZjlRUTBSNmFwUHZBcnVGWndDeDJEeHI0Z3lQbWM0WFAtLUxuOG5qY2pNTVR3azRIVy12OEJWaHQwNzhaRjF1WlBtdXVkOC11XzhtbWszNTRZR0RxbTBIalRVOVZVNm1IdTBsazByS3JLQjkwUDVlSGU0TTg3TXZZSGdVclV2WGtnQ296YTVjMm1iMGJGY2RWTUhHWDcxeDJ4a29aM0pBUnhVczU1UTFsTElSa3EwQXNXM1ZBUkNLYmxGR0RmTVJUZWVpc0Zn?oc=5"
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "ZTE Launches M8000 Micro-Module Data Center for AIDC Deploy - Data Center Knowledge",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWJsUHVKREsta2dEeHU2QjhUaGhWWkMwMDV2WDBFTW5JMzBJTXBXTmR3ZmdxXzYtSWdiSGQ2N3JjemZKbWNSTzR2cU9QbUN2b3ZySlpyQ0lqVndNeFRkR3NpLXYxd292LWRPM1hKaGJZQ1B5YmJ4QXFLNTVTYjUxWklwZHhzUkZwWC1nLVlPeldSNjZrNEdoN0VpblEwT1AtaXFuRzBETzA3aXRvbWg5RmRfQm5mWS16?oc=5"

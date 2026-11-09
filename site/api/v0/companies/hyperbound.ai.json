@@ -1,9 +1,9 @@
 {
   "domain": "hyperbound.ai",
   "name": "Hyperbound",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 1.6,
+  "score": 1.5,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-09-03",
       "summary": "Introducing the Hyperbound Deal Debrief Agent",
       "url": "https://www.hyperbound.ai/blog/introducing-the-hyperbound-deal-debrief-agent"

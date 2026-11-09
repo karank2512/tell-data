@@ -1,9 +1,9 @@
 {
   "domain": "goradar.com",
   "name": "RADAR",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 23.4,
+  "score": 23.0,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "MazeBolt launches native RADAR deployment for Akamai DDoS protection customers - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTNTSTBJMlRYXzdyWUFvb25hb3FrUENLbkdHYWFLMUJydHhBZ2ZVYVFsME1iUS1OMjJhYnpwdFhDNkwtZjlUdHZ6RkJWSlZma1pFckgyUldYN01QblBfYno5MWR4LTBoZHdVN210NGtBT3ZnVEt5MGpnS2M1MDI5M3N4TUgyTGpOYUl1TzN4dGZSWU5TdE05VkNQX05rbnJJZTFPX1dnR1lJLUthUGlnOGpYcDJnUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "Electron Launches iQPS Radar Satellite Monday - KeepTrack",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tYkJ6cC1mMEwxQ2R0UnB2by1fbGpSZzBLeGdxal9GcktCSUpNTVBnaGRHcUNNdXF1NzY2WVRfS09ickhWTzk1NlVHZ1VtUGV3RWF4MHF3VlpjQUh1aGJJeDJBTlFlUENGdEE?oc=5"
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-28",
       "summary": "Introducing HR Radar: Need-to-know employment law developments right at your fingertips - Employment Law Worldview",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZYLU5WR3dvdHFMT2Z1bGJjUTA2NlZydW5VaVg1YlJDZnVjNVNYalVmQjE4SUZpNGNmNjhuRDJZV3JhdHF1eldoSXFJdG11blVxSkNQeC1wV2VJQ29fVjRVU1lKcXhxNkVtSVhHV3FIR0QyUWM5UUlNOVk5T3VVN0JFdXREZUpWbnJUeDVSeGdEMWo2ai1NOHpSSjFIWUt0aWRpVExtTmxMT2tKZXpERl9Rc3RTQVVyeDBvbGxpRzlFaTg2?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-28",
       "summary": "Saab unveils new Sea Giraffe AMB D naval radar - EDR Magazine - European Defence Review",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sdGdFOWY3MEVxd1hac2Z6X1VHUFF0ejh1S29Ea3htMnpST2tMUDNpNnN4ME80aVJkbnJ0aHl4SnZXRXdPX3lLMm91NXJKdDJRVHFxS1dybnBheVVQeExhUG5GcW1nWXUwUEgzbXlMbzlBeEhpcWd5M0dBb2lHdw?oc=5"
@@ -147,7 +147,7 @@
     }
   ],
   "open_postings": 7,
-  "long_open_roles": 2,
+  "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:radar",
     "edgar_cik": null,

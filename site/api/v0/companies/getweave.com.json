@@ -1,9 +1,9 @@
 {
   "domain": "getweave.com",
   "name": "Weave",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 7.3,
+  "score": 7.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-15",
       "summary": "'Fire Emblem: Fortune's Weave' releases part 1 of expansion pass - upi",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVRoR3Z3dlluMl9IQUZGTGJWQjR5QVd4TW1ybml3MnVtdEJjUkpQdzBuUmRHZkhuOE5vUlZRaF90LU9oQXBqdHpvajBPMkFtNExCb2xfd3l2c2xzV3lublV0d0tEUW5QYnpjR1JJS1hTR3JKT3Ezdk1qVHR6R0d4SEFoQW1ZZ2VFSVBNWjNBeGZPT0JjbWFiNFNfRTllY0NLeUxB0gGoAUFVX3lxTE5nNG42NUVGTmsyQS1TWXByQ0tsUnBKaDQ5YTBIWFgxbGs5cDN0VlpLM2NyTmJ4aDFhVkNmZG5RWGNXYjZTZDNkSmhQSi1kQmdjSHhwcTFKcXpGa3BsSjMwcldLNEo1dWRneHNHVjF2eXVlQk1meHhjcDh2MFVwbnROWW94Z3lKdllnSFZoUUs0UFpZN2lfWDIwdUtxNFNFSkRzNkp5SXVOQQ?oc=5"
@@ -74,7 +74,7 @@
     }
   ],
   "open_postings": 29,
-  "long_open_roles": 4,
+  "long_open_roles": 5,
   "sources": {
     "ats": "ashby:weave",
     "edgar_cik": null,

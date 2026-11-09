@@ -1,10 +1,17 @@
 {
   "domain": "warp.co",
   "name": "Warp",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 12.4,
+  "score": 13.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-08",
+      "summary": "Time Warp 2027 Unveils Stellar Lineup for Mannheim Edition - Rave Jungle",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42SDB5MFBCdlVLMWwzTkNjX1FFWDlGVm1jMjZtZFhEZzFCbElfUzJEeFpoSEtpeEFBMG9JQUlRX01lVkdwQTA0UmVvVU82U3JfQzNDMUpIc1Izb0duS01RSFZTc0VWd1RrSklJU1FVM1MtNHlXckMxcA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Ex-OpenAI science chief Kevin Weil launches Warp Sciences with $215M for drug chemistry - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbDNINzBlVV9wLWs1a0Zvd1dSMGtvRXRZU09ybnV2cVZFZGN6LU82UkdKZVVFbm5oNS1MN0E0MGxPWnVqX0ZXUUFDUFFnZGZqOWxqemtpZGRWWVlUQ1BfS0hVaTFSR3NkSXc1dEtDbzFRcFc4Y2psSjlxZ1pSdzAxRF9MYjNnRDVTZzdzOVZjUTVwS1NvNzM0NDgzc2pUU3VQLW1rWFEyWkFSdVN5SEdiaUdHc0Q4NWhHdXhWdkFETS0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Former OpenAI science lead Kevin Weil launches Warp Sciences to automate drug-discovery labs - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbExZVDhlVVRjTEtXSkhuY19OaTlOV3dYY1d1Nk14SllhR0Nlbml4TjRwaFlaTmU2T1JVOGQ5b3o5LW9tOG1tUFFkdXlyZTRGc3ZQQlZaa1RMZjNjb2lHcGZuTHFaSE9DeGp5R0FWanlyNjlaYUZBR1V6NVlXUDhmQlRjMS0tNGM?oc=5"
@@ -76,8 +83,8 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenRzY3ppQ1RhUVE5SUs3TS14QlpHV2QyNzU4UHNBbmpoaGlJb1RTRjZZTnRDaUM1d1NjOFo1VUtJWExXRkxsRzVHdUdVRkxEN25NYnhxalRuazFCcUVkSDNXNy1oSlo0WndmQ3djNjk0QWJuMUMxQVRUU3d3NGU1ZVpCR2hpcEsyd0ZXN3ZqbmhJYS13eEduVTBvM2dNQTZveFd1c2k0eGNUYVJzSlI4cjg4WGJxTngyenlXc3dDV3BGR2VlSEFkb1VxV0RBRzFPUlhsUXFRbHRaOWJGYlE?oc=5"
     }
   ],
-  "open_postings": 16,
-  "long_open_roles": 11,
+  "open_postings": 17,
+  "long_open_roles": 12,
   "sources": {
     "ats": "ashby:warp",
     "edgar_cik": null,

@@ -1,10 +1,24 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 24.1,
+  "score": 26.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Shahein Ockersz Releases Open-Source Fixes for ZKTeco ADMS Time Sync and Retransmission Bugs - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXy00LUcyRWpSQ1gtc2liV0F4bFlZdnh3aUZqdGpvZzk5bjRSX185NkEya0FkNWhjQVQ1OGQ0RUlxLTFFci1FMXdRWjFZU2Vkb1FJbHFrMUh0QjR3RkVBbkhvVzRnckt3S2NCaFFWbm1JUDAtR0FvY2taTEMtWXNCMTBNbElxdE84ZFVLSldsMGs0V0Nrd0NROERWeGNONXBNT0hnMXVWNDRGYlZyLUF0b3VUdk9JRUI5UEMzVjBn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Kobo unveils Stack subscription to sync e-books and documents - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2k1YjR1NVVZLTVsUmdDZmI2N29RU0VoYWtnUUphMmMzZTItQWFhdWZWbklGdDk2Y3M0OUljWkJ5TTlESmQ2d1Y5WTZ6WGJ3b1NpYlZJOFhoODFTWlBtRG5yV01zZHF6QjBhZzEzMGVoczhqTFFNTE5QV3k5V3hYdjd4RVhuZ2hNZG1IYlNpbGZWS21SdU9salNnVnhZVWNScEZBWEZ2NGFBaWlP?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -56,21 +70,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "MiniTool ShadowMaker 5.0 Introduces Cloud Sync for Google Drive and OneDrive - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTnkxdWJOdkNhRlB1dXA0RElScWJLNWdwdmk1UkxwYU02aW1ZUHJncW16Rml6ajBLMUxUMUtxTk1aZjFFamhKVzdHell2QTdOd1pqV0tFWTVwS2puOXAxemktTjc3R09YSUxqclAtc0RWQzFET216MzFubVFieUZEbjBkYVR2TUNhVXFCOEo4UTVqYmpCbFVNS2R3UjIwZWxYeTZkby1WQ0tQa3dpQ1NETFFZLTZCT2lSd3gydXQwSkVGd1JtZnEyakl6U3BNemhZRWZLNlZ2SnE5RzNsd05meVBzNTNsQdIB5gFBVV95cUxPTnkxdWJOdkNhRlB1dXA0RElScWJLNWdwdmk1UkxwYU02aW1ZUHJncW16Rml6ajBLMUxUMUtxTk1aZjFFamhKVzdHell2QTdOd1pqV0tFWTVwS2puOXAxemktTjc3R09YSUxqclAtc0RWQzFET216MzFubVFieUZEbjBkYVR2TUNhVXFCOEo4UTVqYmpCbFVNS2R3UjIwZWxYeTZkby1WQ0tQa3dpQ1NETFFZLTZCT2lSd3gydXQwSkVGd1JtZnEyakl6U3BNemhZRWZLNlZ2SnE5RzNsd05meVBzNTNsQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "MiniTool ShadowMaker 5.0 Introduces Cloud Sync for Google Drive and OneDrive - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXM0YllfM1ZkRmhKVGRzNmZqdzBRZVVHME0wc2JYdEhxZ3pxTnh3Wnc4WnF2bFY5MnlLb01QZzd5VTlCMUxtYVR4UmVveU9icGtxbWdRQVlwSGgtRlRvS2htUU1pWTlqV1R2ZWRmRWU3Y1BqT2hTX0hIRW42VERNanhvbnhaRzd6VzRjVi05VVBIYzRzSy1OTEpGX3Q1WDl3b1ZoMTM3TUpWUzhIbThWUGNZeE1lSXBlZGdQdzd1cjFrODRhMVhUeGJIc3A?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "Sync or Storm: UN launches Roblox game to prevent violence - Unric",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1LU1YTU5yZ2loaUU3TjNtam1CNDhkZ3JUS0lpdFJhcEZ0dzc0RDNDNGItVHNLaDZSQW8yakdsS1pzTEcxbnBaM0dQbUk3WklLT1BUUHlyRTlIdXZCLXFyb2RCXzFZa3FCSkVpWXpOU1pzeFFOWXc?oc=5"
@@ -133,7 +147,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-10",
       "summary": "Mobile educational planetarium introduces SYNC’26 visitors to space and astronomy - سانا",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Sb2tqQV9NMmV1NldlNXNFcXREWWdBWGlNTm4zT0ZqMGJ0aElhazBQU0h0R1lQVjlUZXE5YjU1THFiNFZ1RTBraw?oc=5"

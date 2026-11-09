@@ -1,13 +1,13 @@
 {
   "domain": "dropbox.com",
   "name": "Dropbox",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 14.9,
+  "score": 14.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-06",
       "summary": "Dropbox acquires Tigris Data for $350M, releases new AI productivity features - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnpYOEpmTjhIX256UVVUeDFDYV8xbmZyYTZmVGZBdHlRbnJhZTZtNTFMaWppMFFWcXRTdzJrYXlPSFVvV2VaZlUtMjFRM2FxRURIRTYxY3hNd3RNb3A5a3liWGY3bmtYejlpSndvajc3cXFiclBEV0pJMjdUZHE1d0lBUUlSV2NNMlBQZG5RNko5UllzUHRjUkJSTTZzRnZPS3ZlazdZcjQwZmV2VzVlUFB3?oc=5"
@@ -90,7 +90,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-11",
       "summary": "Dropbox Launches Data Access Governance Tool for Singapore Businesses - Asia Business Outlook",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREhxNmpfclZsNGF4SFppMnNvNTZhNi1TMmIzU0VaZ2VrRFJaZUV0cGI4VVVoRjd6Q0liSmJFRTQzSWtxSGQ4Y2YybTNBQV9jYWh2X3FmcnpwZ0JhU3ZfRjhNcUo1eWoyQW9VTWRTZlgza3RwU2RjaEppZmNOaVpZQ3ZxTGtpdVFtbHJMOG5YcnBKWjdDMmlqZXNlVm1pUDJQVmM2c1Ziam9iQlFlb0Vncm4xRDQ1QWY2WEdOSllxQlFmd24y?oc=5"
@@ -98,7 +98,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-11-06",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/dropbox",

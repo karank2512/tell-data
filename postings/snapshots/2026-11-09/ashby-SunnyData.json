@@ -1,0 +1,217 @@
+{
+ "vendor": "ashby",
+ "identifier": "SunnyData",
+ "domain": "sunnydata.ai",
+ "as_of": "2026-11-09",
+ "last_polled_at": "2026-11-09T15:22:06.813666+00:00",
+ "open_postings": [
+  {
+   "external_id": "040340ff-7d1c-4e60-b750-60c66bd87e04",
+   "title": "Analytics (BI) Engineer",
+   "role_family": "data",
+   "location": "Nepal",
+   "posted_at": "2026-10-23T18:43:53.875000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/040340ff-7d1c-4e60-b750-60c66bd87e04"
+  },
+  {
+   "external_id": "086fe69b-e41c-4c71-b686-0ae538f3d7df",
+   "title": "Technical Project Manager",
+   "role_family": "other",
+   "location": "Mexico",
+   "posted_at": "2026-09-23T19:55:57.810000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/086fe69b-e41c-4c71-b686-0ae538f3d7df"
+  },
+  {
+   "external_id": "214c4626-70a9-48ec-a7c2-27c692d7554a",
+   "title": "Senior Business Analyst | CABA – On-Site 2 Days/Week",
+   "role_family": "other",
+   "location": "Argentina",
+   "posted_at": "2026-11-05T13:17:13.707000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/214c4626-70a9-48ec-a7c2-27c692d7554a"
+  },
+  {
+   "external_id": "2e54b406-1b98-4752-a9fc-06444384a7b1",
+   "title": "Senior Data Engineer",
+   "role_family": "data",
+   "location": "Argentina",
+   "posted_at": "2026-09-30T17:54:28.872000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/2e54b406-1b98-4752-a9fc-06444384a7b1"
+  },
+  {
+   "external_id": "3b34bab8-fb96-455f-abfe-68145758e334",
+   "title": "Sr. Data Engineer | Databricks Experience",
+   "role_family": "data",
+   "location": "Nepal",
+   "posted_at": "2026-10-23T18:00:02.677000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/3b34bab8-fb96-455f-abfe-68145758e334"
+  },
+  {
+   "external_id": "3d0a181c-0836-4459-afb9-6a372ecfda26",
+   "title": "Sr Data Engineer | Databricks Experience",
+   "role_family": "data",
+   "location": "Uruguay",
+   "posted_at": "2026-09-11T13:20:22.517000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/3d0a181c-0836-4459-afb9-6a372ecfda26"
+  },
+  {
+   "external_id": "487d6b2e-3db4-4c99-94f4-6699e8226d18",
+   "title": "Sr Data Engineer | Databricks Experience",
+   "role_family": "data",
+   "location": "Mexico",
+   "posted_at": "2026-09-11T13:20:41.615000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/487d6b2e-3db4-4c99-94f4-6699e8226d18"
+  },
+  {
+   "external_id": "4cc4d4ee-357d-4cae-a78a-6412a0e8bd7c",
+   "title": "Solutions Architect",
+   "role_family": "customer",
+   "location": "Uruguay",
+   "posted_at": "2026-07-29T15:17:39.489000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/4cc4d4ee-357d-4cae-a78a-6412a0e8bd7c"
+  },
+  {
+   "external_id": "52ca553c-3897-494d-8251-8b979b974d50",
+   "title": "Analytics (BI) Engineer",
+   "role_family": "data",
+   "location": "Uruguay",
+   "posted_at": "2026-10-02T19:39:51.872000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/52ca553c-3897-494d-8251-8b979b974d50"
+  },
+  {
+   "external_id": "613f670d-ce01-4b77-b6a5-272b7ef7936f",
+   "title": "Mid-level Data Engineer",
+   "role_family": "data",
+   "location": "Uruguay",
+   "posted_at": "2026-07-27T21:26:02.876000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/613f670d-ce01-4b77-b6a5-272b7ef7936f"
+  },
+  {
+   "external_id": "8e5087d6-1ef3-4f5e-bab6-93f2d99d1e57",
+   "title": "Senior Data Engineer",
+   "role_family": "data",
+   "location": "United States",
+   "posted_at": "2026-08-24T18:29:13.085000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/8e5087d6-1ef3-4f5e-bab6-93f2d99d1e57"
+  },
+  {
+   "external_id": "91fadfa0-29d7-45d8-98a7-01ff9989ad71",
+   "title": "Senior Data Engineer",
+   "role_family": "data",
+   "location": "Mexico",
+   "posted_at": "2026-07-29T13:22:48.823000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/91fadfa0-29d7-45d8-98a7-01ff9989ad71"
+  },
+  {
+   "external_id": "9434c0a4-01ff-4257-be11-c291283d7df7",
+   "title": "Senior Data Engineer",
+   "role_family": "data",
+   "location": "Uruguay",
+   "posted_at": "2026-07-29T13:24:00.994000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/9434c0a4-01ff-4257-be11-c291283d7df7"
+  },
+  {
+   "external_id": "9de0e3b5-e600-475c-bd51-f7b42f6b60f5",
+   "title": "Solutions Architect",
+   "role_family": "customer",
+   "location": "Argentina",
+   "posted_at": "2026-10-21T18:30:52.681000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/9de0e3b5-e600-475c-bd51-f7b42f6b60f5"
+  },
+  {
+   "external_id": "a0244cd3-7882-445a-a6de-ba8ba19713c2",
+   "title": "Mid-level Data Engineer",
+   "role_family": "data",
+   "location": "Argentina",
+   "posted_at": "2026-07-29T15:13:17.156000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/a0244cd3-7882-445a-a6de-ba8ba19713c2"
+  },
+  {
+   "external_id": "a0b2127e-000d-4114-98a1-9cadb9719dfc",
+   "title": "Technical Project Manager",
+   "role_family": "other",
+   "location": "Argentina",
+   "posted_at": "2026-09-23T19:57:57.393000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/a0b2127e-000d-4114-98a1-9cadb9719dfc"
+  },
+  {
+   "external_id": "aa21adce-fc31-410c-86a1-2ed83b9a596f",
+   "title": "Data Solutions Architect (Financial Services)",
+   "role_family": "customer",
+   "location": "United States",
+   "posted_at": "2026-10-02T14:43:20.939000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/aa21adce-fc31-410c-86a1-2ed83b9a596f"
+  },
+  {
+   "external_id": "af69b376-3e79-443f-9169-7df58b999c93",
+   "title": "Technical Project Manager",
+   "role_family": "other",
+   "location": "Uruguay",
+   "posted_at": "2026-09-23T19:55:11.533000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/af69b376-3e79-443f-9169-7df58b999c93"
+  },
+  {
+   "external_id": "b2e1883c-1134-42c4-ac8f-5f8fc43683d4",
+   "title": "Solutions Architect",
+   "role_family": "customer",
+   "location": "Mexico",
+   "posted_at": "2026-01-30T20:17:45.985000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/b2e1883c-1134-42c4-ac8f-5f8fc43683d4"
+  },
+  {
+   "external_id": "c0162c6c-97df-44f1-8cb6-cc626a2cee05",
+   "title": "Mid-level Data Engineer",
+   "role_family": "data",
+   "location": "Mexico",
+   "posted_at": "2026-07-27T17:50:21.314000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/c0162c6c-97df-44f1-8cb6-cc626a2cee05"
+  },
+  {
+   "external_id": "d4ba9607-8790-450d-96df-eae3f9430c42",
+   "title": "Analytics (BI) Engineer",
+   "role_family": "data",
+   "location": "LATAM",
+   "posted_at": "2026-10-02T19:38:44.739000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/d4ba9607-8790-450d-96df-eae3f9430c42"
+  },
+  {
+   "external_id": "d81ce62f-5dd7-439e-9d0b-adffde1616fe",
+   "title": "Principal Solutions Architect (Financial Services)",
+   "role_family": "customer",
+   "location": "United States",
+   "posted_at": "2026-10-01T20:19:10.498000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/d81ce62f-5dd7-439e-9d0b-adffde1616fe"
+  },
+  {
+   "external_id": "dd6b6ec1-52dc-4837-9672-3cc905b05c81",
+   "title": "Senior Data Engineer",
+   "role_family": "data",
+   "location": "Nepal",
+   "posted_at": "2026-08-12T17:20:20.035000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/dd6b6ec1-52dc-4837-9672-3cc905b05c81"
+  },
+  {
+   "external_id": "e777b5aa-0097-4659-9d6f-20f3e0b21b29",
+   "title": "Client Principal (Financial Services)",
+   "role_family": "sales",
+   "location": "United States",
+   "posted_at": "2026-10-02T14:41:19.404000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/e777b5aa-0097-4659-9d6f-20f3e0b21b29"
+  },
+  {
+   "external_id": "ecba3f44-4a60-4e40-bf4f-7122dfeb5f56",
+   "title": "Global Controller",
+   "role_family": "finance_ops",
+   "location": "Uruguay",
+   "posted_at": "2026-10-19T19:32:14.741000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/ecba3f44-4a60-4e40-bf4f-7122dfeb5f56"
+  },
+  {
+   "external_id": "ed83339b-14c9-4542-82d7-a9fd69656a35",
+   "title": "Sr Data Engineer | Databricks Experience",
+   "role_family": "data",
+   "location": "Argentina",
+   "posted_at": "2026-09-11T13:19:31.611000+00:00",
+   "url": "https://jobs.ashbyhq.com/SunnyData/ed83339b-14c9-4542-82d7-a9fd69656a35"
+  }
+ ]
+}

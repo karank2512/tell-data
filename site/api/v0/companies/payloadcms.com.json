@@ -1,13 +1,13 @@
 {
   "domain": "payloadcms.com",
   "name": "Payload",
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "profile": "default",
-  "score": 49.1,
+  "score": 49.9,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.7,
+      "contribution": 10.6,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
@@ -15,13 +15,20 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Skyways Launches Skyreach: Begins Customer Flights with its New Long-Range, High-Payload Autonomous Cargo Platform Built to Scale - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcjVLUWRFNDB1T2NMaEZlY2g3RmptbWwxTXQwcTlIYmhoT1pTd3VXTzA0MzhsdnhISXJhRlJCeGk2bnFhdDdHYXFPNDRpODlOQkVoV2lTaEp6UVBTZTRWck5pck9ZTDVfVmNFaC1qT1M2emJCN2ZFTjNCWmRvbVFSZGxqemRfVHdRODRtQXBUb0VxdVVUeGY4UmZFNUVzZ0FDQ2ZGSHFENGhEWFJMNS1ibDNTR2VGMlFvV1lwdHQ1ZFdYY0taMnk0NEF6X1BMdjdiTFRUZUFHaW4yRDd2OU9jVFg3Qy1JX3pNY1U1c3Nlekp2XzFnZ1J5akZyRjVCZmdETzRjdFBPSURJeUNyNW81LQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-07",
       "summary": "DEEP Robotics Launches X50 Quadruped With a Claimed 50-Kilogram Working Payload - Pandaily",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0xzVlBwcmJtS3hqYmJibzIyOFQ5VWcyV0x4ZXVBTkxQVU05YTJFVnV4RXBLMTBvaUROUFVPOHJxSkc0NlBnVHFxT0o3QzduWHZTRDF3RHBpc2tOMWNEVUNMdzFoRk5kaktFUTFRM294Z3lSWHhhRFNsdWdLX3YzREFackpDVVJUY1Zrb3Q4UEJpTFlEaVZiZm00cXI?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-07",
       "summary": "SpaceX Falcon 9 launches secret payload for the US Space Force - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHdUcEFuVmRSdVY4dDRQTlBZd1VyU2dMVlQ5bXJOZEhsLWphNENTNWREMEhTODhrWFF3YjlxOVZzeXRxNEtZRGk4TmE2RUVZUDJiZ0xBdXFSNXJLVFRMYUpTX0lnUDdZb0VWUU04SmtQR0Qxbm5uTTB2eGR3d3A4ZG94QXRtYWJTYW02YQ?oc=5"
@@ -70,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Türkiye’s MKE Debuts PIRANA Armed USV Variant with Drone Payload - Naval News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOHh1X1k0ZGhhMzJuek1UMzBlZ2U1NkZDeElVQmtBN1V4MGVOZTRVa3E4M1ZPcW9KX2FnOGdxQ0FvU3d1OFRRNU5oSktWdmljb3k4R0ozR195WXpuOG85UEdFTXZtcFpTSEpZSVZiaC1LQy1Zd3dLV0QwcDd1RVZqbnlEVDRBamdhTTFuZFphalBTejl3WXhQcDk0WWxJM2xMNlAtSVFKYW5Dd0FDOEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Hua Eagle Aviation Rolls Out First Production HE-1A, a 4-Tonne Cargo Drone With 2-Tonne Payload - Pandaily",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbTBWQTdKTEZXd0N5WmRhSnlNUjJBWWE4cFpaTS1XT0EwWTB1VnVaaHo5ZGNzcUpFdk1zZjJLN0E0WWNjYWFCWHZQSmlKd0hDZnNXU2t4akpJMTdjd0RkODgwb2tBXzdWemI2OTcwcW9CY3N5XzRYT3lhaURZeWpwNldGaFVjVnZOS0NtN0JpSEh0WWs?oc=5"
@@ -217,14 +224,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-11",
       "summary": "Micro-Con Vision Unveils MICRO-D Lightweight Electro-Optical Payload - Israel Defense",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oWXVDc2o1SmtUbl9aLWFvYXBBNl93SmQzMHp3RUJHNElESktqazNJVlZBdThzQjM3R0pTZ0JWSkhLUmJ0YVpJbFVZTTNJT3Q5V1hfZjl1S2s?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-11",
       "summary": "Microcon Vision Unveils 1.9 kg EO/IR Payload With Laser Target Designator - Israel Defense",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KS3U3ckM3aElNQXhkNTVuUzIyV1dWbXhiYWEtS0pDaTI4WWlhM2RGd0U2cGFHZ3FUaDZONUpXOWVxb1p4QlFYMjRaNzZteE9nUW0tV3NFckY?oc=5"
