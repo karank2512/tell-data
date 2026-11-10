@@ -1,9 +1,9 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.3,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - TRM Labs",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXRiMUd0NFA1YWgtNkMtdk9ORkd6VVN3ZlllWkcyU3YwWTVXYlg2dDZJRmliNXRfa2tyRWhDcjJFRDVMMjJBcFNHRW92Q255Ynk3ZkQtSDlrV2RIS3NTdjBGd3F0T2J0d19hT1V6eVRXRnNMUEpJOHJGdGJ2LU42MDNPUlJ6cFNoQjNhcWFn?oc=5"
@@ -125,7 +125,7 @@
     }
   ],
   "open_postings": 115,
-  "long_open_roles": 31,
+  "long_open_roles": 38,
   "sources": {
     "ats": "ashby:trm-labs",
     "edgar_cik": null,

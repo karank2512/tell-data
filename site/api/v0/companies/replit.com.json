@@ -1,9 +1,9 @@
 {
   "domain": "replit.com",
   "name": "Replit",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 5.0,
+  "score": 5.8,
   "contributions": [
     {
       "type": "leadership",
@@ -28,13 +28,38 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-11-05",
       "summary": "Replit Opens First Asia Office in Tokyo Expanding Global Footprint - Japan Wire by Kyodo News",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYnhmeS1QRGswZTNFQWVESXl6QUV0VWJ1SFVpMjR6R2F0QVV4TWlKYk1NMFhFaFpEelNGa0JMbWtDSXVydWlqM0pVUG1JUVk1c3JUYkVuNVk2dw?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-10",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/replit",
+      "postings": [
+        {
+          "title": "Staff Software Engineer, Financial Infrastructure",
+          "posted_at": "2026-11-09",
+          "url": "https://jobs.ashbyhq.com/replit/298db311-7d58-46f5-a6ec-8a10edcb43c2"
+        },
+        {
+          "title": "SOC Engineer",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/replit/563751ea-cb0b-412e-ae07-c5638b87f81a"
+        },
+        {
+          "title": "Engineering Manager, Security (Cloud, Infrastructure & Application Security)",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/replit/2b296184-4ef9-4587-98ec-cd20f39e003e"
+        }
+      ]
     }
   ],
-  "open_postings": 28,
+  "open_postings": 31,
   "long_open_roles": 10,
   "sources": {
     "ats": "ashby:replit",

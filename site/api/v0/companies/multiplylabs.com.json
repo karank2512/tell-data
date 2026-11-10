@@ -1,19 +1,19 @@
 {
   "domain": "multiplylabs.com",
   "name": "Multiply Labs",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 29.7,
+  "score": 29.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 29.7,
+      "contribution": 29.5,
       "occurred_at": "2026-11-05",
       "summary": "Form D: $52,250,260 offering, $52,250,260 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1690573/000092963826004235/"
     }
   ],
-  "open_postings": 13,
+  "open_postings": 14,
   "long_open_roles": 7,
   "sources": {
     "ats": "lever:multiplylabs",

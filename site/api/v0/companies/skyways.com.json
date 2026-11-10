@@ -1,10 +1,32 @@
 {
   "domain": "skyways.com",
   "name": "Skyways",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
+  "score": 4.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Skyways Launches New Long-Range Autonomous Cargo Platform - Defense Daily",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlN6OVF1RjBOUTNVSGpfNEYwWVRRWUlOdFh2Q3dPMnVpeUJsbklwUFN4WjgyNDJEWFoyQmVuall6ZWsyV1pvcWh1NVM2MXZZdVhUOGxPNVVweHpkWnVDeEtGMHlTWEVNa1lHWjkxQjFKeDc4SjZCUnEzN0Z0MmlVT3VzY2xPMU1YQTRhTVJsTEhzZTMzVVpKMXZ3Z0duM1hyb0J2WW4xRQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Skyways Gets OK For Offshore Ops, Launches Heavy Cargo Drone - Aviation Week",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1xbVJvMzNzTG5rVHdKN2JMMUE4YWEwcjBHR0JUMy1aNTZfeU1rTWhzU2Z3MGVDdFhTTXRTT0tpTlBud0swUDh4X1hyOF9YWmNucDh4bktRR283a0ttZ0k2Z2xSd1FXWXZubGgzTjRubklnUFZ2dFlLaVhiOUpHRlhHcFMwcWJjak1PSmlucHBBd2RyMml3VERSRzByQmphUDRhU2tiaU9VQWNsa0xtTGdWTDVWZ3Z2cUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Skyways Launches Skyreach: Begins Customer Flights with its New Long-Range, High-Payload Autonomous Cargo Platform Built to Scale - Star Local Media",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPWWM5WmttNGk1SmNHaDVWV0hfdmx6UlI5SHRTNDM2UTQ3b2kwNkRXV3o3cnhJNWZVZTRXRUVLVlFwalFvVzROZWQ5Y2tqeWpndUNHRjV6TjFxY1Nqd2lKd1Z4QkVVLVpSb25kNU96U0tnSzg0ZFFZX2tVWWU5LWItUVZoTGtZME85VUZFZFVjbk1FSkhIVFJXYjZhQUR3ZTJUY2tUX1NIM1Y2Mi1lM3JPNU9rSVlTYWtPNUd5UFNrbEEwZm1BeURTdTJoZWlXdGxLTlRvSW5UeDBKTFRhMjY0eWxzaUtWSkFIMnhwLWVkM2NYY1RLMVBhbnVEcnZEdkFoVnZ2RkhoSnUtNjNjd0w0QjFOUjY5ZWNTeTRMWF9KSGFXZ1VSNlJtUUN3ejBmenFO?oc=5"
+    }
+  ],
   "open_postings": 20,
   "long_open_roles": 12,
   "sources": {

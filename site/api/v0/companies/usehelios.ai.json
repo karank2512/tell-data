@@ -1,10 +1,17 @@
 {
   "domain": "usehelios.ai",
   "name": "Helios",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 4.8,
+  "score": 6.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Google Unveils New TPUs, AMD Pushes Helios Into Nvidia's Gap - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0Jld3dEY25zaVFsUkd0RVVVbjJkNXpZLXVzMkZFRDR3WGpFOHZtQ3RrZElwTUZHTWF2cFdteTNEa1lYcDg1ajFBVldKUy1FZElhN0ExU1VwbWpvXzZvT0RoOThGWG9HWmJueFNnc1pZTk9Rc09RcXdBalhwWEtqQzhraFhQWV9lS2pza0YwczdkdXZBMi1qNUdjc2NoVkU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "HELIOS Launches in Sweden, Backed by Zetterberg, Kronwall, Bäckström and Hagelin - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXU1cENwclVHQ1lMejlNM1QtcExoMldiNGNIOUFib0FkZWVtTnlGcmJlQXRtTkNmTkdWLWt6eWk1MVZqTUZqLWJZQ3k1V1AzLW5pc0ViaDA2MTBTaF90cDlpMzFpVXh6MEFJQWhIUDFBbU1sTUZGazhQRG44ZTR3Qmdid3ItNkxCQ3JfY052cU0zOW1ySEdjalNYa2RFU3pOb2NybXBJVQ?oc=5"

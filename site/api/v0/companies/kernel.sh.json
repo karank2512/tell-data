@@ -1,9 +1,9 @@
 {
   "domain": "kernel.sh",
   "name": "KERNEL",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 10.0,
+  "score": 9.8,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Chimera Linux Releases New ISOs with Kernel 7.3, GNOME 51, and Plasma 6.8 - Linuxiac",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObU1TOTZxdEhBajFSLXNWMEFHSUpJU2Fnel9BZlZseTZObUNOdEl2WkFhMzFNaUNuNWstcGNUMGk1eWUwbDJkUUlGMTVUWTAxZUpTTnhrdXVwM3dOUGN6bFM4N1U3d01nZWd1TFN3ZWpqMGRmdVFIZS1zbFQtcWZfY1Z4SElBbC1iLUtRaW9NR2djNW8?oc=5"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGR6RHB2b1hfM1Y0MTVDSHN3eGxGTXJibG5mbjRmVnVYRW9PemltaGczeTVvWmtvRmN3V1VHcUZLU3BzbTVLdzhXRF9nOUxzYy1tSGZiWG1PTndGR0xDVDJSdllNQXNaNWZrWjl0SGVBSGhpeHpUV2FJSklvckR2QWZiaVBvcThTVDU2bTAtU1htMG1HWnRBdFJQN3M0UdIBngFBVV95cUxPeGR6RHB2b1hfM1Y0MTVDSHN3eGxGTXJibG5mbjRmVnVYRW9PemltaGczeTVvWmtvRmN3V1VHcUZLU3BzbTVLdzhXRF9nOUxzYy1tSGZiWG1PTndGR0xDVDJSdllNQXNaNWZrWjl0SGVBSGhpeHpUV2FJSklvckR2QWZiaVBvcThTVDU2bTAtU1htMG1HWnRBdFJQN3M0UQ?oc=5"

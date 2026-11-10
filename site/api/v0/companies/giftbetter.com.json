@@ -1,0 +1,25 @@
+{
+  "domain": "giftbetter.com",
+  "name": "GiftBetter",
+  "as_of": "2026-11-10",
+  "profile": "default",
+  "score": 24.0,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 24.0,
+      "occurred_at": "2026-11-09",
+      "summary": "Form D: $1,250,000 offering, $500,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2164056/000216405626000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002164056",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

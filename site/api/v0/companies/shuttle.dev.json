@@ -1,10 +1,17 @@
 {
   "domain": "shuttle.dev",
   "name": "Shuttle",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 13.8,
+  "score": 15.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Brightline introduces new shuttle booking service for passengers - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVUtc3l4RFVNMFRTdDNOQVI1VEtxRHB5ZzNkR0ZWamhSWHp1RkhnYWNyaF9aUFRIX09jdHVzU1prTmRGakZJb1hicVJaMTBNdnJneWRESlFCTG5GZWdyVGJIekpId3c0LTdKZUNTV1JIaGpNaDQ3azVoY2J0OGVObmZUQ1h2RlNQUC1KeDVjM3RMeU4yYXRCSWlFVGhfazM1RUVLdVh5ZU00QktWYlpVMw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -49,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-24",
       "summary": "ENC Unveils Zavir Concept Electric Shuttle at APTA Expo in Chicago - The Buzz - Electric Vehicle News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85X2MycnpZSEZnNVlaTDFibkp3allKRTZfZjg5NFUyNnZwaGMwQVhFRGhick9JQUNRM3JncjRycWxiMS1fOEgyOGhFcE5SZnV1NGdWQVRSeFJ1UzNNSjBDQ1dSOExDRkY0QVBxcEJTOEg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "On this day in space! Oct. 23, 2007: NASA launches Harmony module to ISS on STS-120 space shuttle mission - Space",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbS14M2t2YjQ4SC1LUXJvUlUzSlAxUDJXWXRzYlZ3RFBoLXVJak1qdVFlNnRHQ0UyNkMzamhtRkJiUmJ5a2F6eUEyVVNTYll1NWZoRXhQaUFXbUNqaXpXR2c2aTBQZno2c2NadnNJR2VQbFpPNHF1ZGMzWlV0cFB2NUx3?oc=5"

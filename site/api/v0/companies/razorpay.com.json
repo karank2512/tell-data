@@ -1,14 +1,14 @@
 {
   "domain": "razorpay.com",
   "name": "Razorpay",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-04",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/razorpaysoftwareprivatelimited",
@@ -40,7 +40,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGtMNm1Pd1dhQzRTWFJkal80WHpLclc0SUJTeTM0d2FVOWpDZk1tVnNHeGY3SXphYlJkcmczNFU0dDY0MXlNeXRJYWs5WGJaVFR0NHdKQ3Z2a2JGdncydjBaWldONUZfWVpOaEZPQmEyelpocW1UOW1Sc0ZnM21UT2NxaFYyLUpR?oc=5"
     }
   ],
-  "open_postings": 23,
+  "open_postings": 27,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:razorpaysoftwareprivatelimited",

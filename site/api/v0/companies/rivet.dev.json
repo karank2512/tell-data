@@ -1,9 +1,9 @@
 {
   "domain": "rivet.dev",
   "name": "Rivet",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "Introducing agentOS 0.4 & Hosted VMs",
       "url": "https://rivet.dev/changelog/2026-10-12-introducing-agentos-0-4-and-hosted-vms/"
@@ -119,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.1,
       "occurred_at": "2026-06-17",
       "summary": "Introducing the Rust SDK for Rivet Actors",
       "url": "https://rivet.dev/changelog/2026-06-17-introducing-the-rust-sdk/"

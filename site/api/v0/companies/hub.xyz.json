@@ -1,23 +1,58 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 71.2,
+  "score": 78.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.0,
+      "contribution": 11.9,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 2.0,
+      "occurred_at": "2026-11-09",
+      "summary": "Joins [person]",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTl9nQUR0OEFycVdfUkFHTE1UcjlBQ3JObURNbEtCQnBuSnpZeFVtc080QzJ0VWM5Y0JUNVd1cDhMNWdWbmZtMlRlcnlqb3lBc0Vhekx1RFFBWDZnMG1vUXVua04zemtheDZtTm1kZ2NNSEN6OU5BN2dabm9MeUZoMmhFQ29RM0pCWUh3aFVOVdIBXkFVX3lxTE9yQWVRM3ZOT3hGNkNVbFZTU1RscUZPTGNNbjRsN1gzUEhPRkt2ckEyVzlkcmg5c2k2RTEzSWFWWmNTLWQ0RndoeW96dXVITy1oSzRpZks3bmctc2RIR2c?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.8,
       "occurred_at": "2026-11-03",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iN19WUjBzNWVYazFGTVU5MEN6VzRSRm94b1h6dllONFU3WVJaSGRpa0pkR3V5M2ZFZFo0UTdudzB3eDZ0NngyM1BhYXlJeFhMQlhVRkxCWHBoSEJPbjNrZXBXSlBJT0JncmdHQ1RYbGFDdm1kbVVn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "UCLA Center Launches Racial Equity Hub to Address Persistent Disparities - The Imprint",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjBaNzFfdnduY0tpdFhXN3FpU2ZINk5oUGtYZUFSdC1FMGxWdTNrcVpRcmc3ZWhvMHUzSVgyLVJHZmZ0ZVp4bmZmTU91TWUxMmtaa0pOTzhLYU9Ec0phX2VtY3B3U0RsOEtiUGw1TXVXeXFHWXFGMUkxZnZLUTF3dW4xbFZzNlpNdEdQRlJ6dUwyNFRsZ3JYaWVHclFBSnM4NW1BbC1NTkhRNlE2VzA4VGpuOTBmUGFsU2pZ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Coffee Hub launches curbside service, unveils new holiday menu options - WKEF",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlI1NjhsRlhpVUFrTk1aMlB5S3BDaWN4cTZ6ZGxWVTRqYkE4NVcwdHdQa2xJMlZkV28xTjhOYWMyUDJuVllhZC00bzUwRHFIYTBfYkljTkc3LWI4aGQtcUFJSlBqa2FuMWJTUkVWbjFfY2FQYWVDbTJlN0NZYmgzd0RDZGd2VzhpaWhjckNmamFrc2JlSThUMEJrMXFtN056c0h0UC1sOHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "New national center launches to measure the economic and workforce impact of cybersecurity education; UCCS to lead West Hub – UCCS News - University of Colorado Colorado Springs",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYWQwVGNmUUxCN1Y4enFHMnJaYy0xWFdyaXhwNzlSRHNEbXlVbFd0OTJBak51YUN0eDNhNm1kWDNvdUhPSG9WcEwwVVZ5dmt6SDd1Vlk5VjQtaV9vUnRmem1sc1pvb2FCbXhYd1ZXQTZnekZobzljMVFTRFE3ZXhMQ3dMUHY2aWxTWmptRVBIUWV2VDNtdDRBckRONG9ILUIxYmxMRTRuYXJmeFRUOHA5SUM2WmtKaldEeXU3YWFQdWVibWZ1bjdXa2JRaEFOdTJGZUxSenZyNVZBQWQ1UGIwTDFvTFNQMXV0MHFqVw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Amazon unveils new STEM Innovation Hub at Berwick Area Middle School - WNEP",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPZ01PREk0MDJMM2loazQtVHZ1aUk3bjBqb2pnMG5zeVBwY2xFTElGMDV4UmlXMVVJMHBVZWVJWXVPSFFTOHkxaDZBS0ZMajZWOTNMVXZoSVZqSFpjcktqenZQU2VqNXdGc3hDa0l1M3VRSEpXVkZIWlNoOWFHYzVNVmJKUmNwQnM2SVo1eHlmMjlHZVNJT3pydTdTOVpWbm1fUEtyZ3JSRE9ld1h0UHJORTBWdVh5UnRacHI1ZHFhMWxWazNZdWlGYmoteFU3WllNVjUtdlpadFVfQjk2WlNYdE5UYzhLdUh2aHdIVmdrODFUMkVSdkN2VWFiOUstUm01R1NwYVZjbXhhT1hFZ3VxdU51YkM4Zk9wd19kYjlwQjY1TEF0VmU2RE9FY2d5b09rbmRj?oc=5"
     },
     {
       "type": "launch",
@@ -70,21 +105,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Compass Group launches AI-powered managed services hub - Facilities Dive",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGMxcjY3WGQxS3dEUm9HaVJZMGt3SlNJUFFWaUlGdjBKUzlPRy00alFBZGlqWk9XRDItRGlSNmQ0Rm95S24ybHFvUWpReFd6V1ZQb2RhU1ZXSEhBbFNKcHYtaGZJb3RZMk5TMXFlR3RmNFNwN2V1S3FNSm14cmRjZG1aYUJKeHhWY1hFejRRcmFhNnFPdHRpQmR4bExWbDQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "JD Power launches innovative intelligence hub to power every automotive decision - CBT News",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiREw2VTZQd0JPX0d1RDM5TGF4TVVoWVF1N1pzQnVxWTU4cjZ0Mk1FNk5qZnNmcTNyUkpvR1BJRDAzOWcyWUxHOGdzdWZWbVgtTHJndXJ3eUU4Qzg1NW9R?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities - Cloudflare Blog",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FSUliNFBicFhMUmJGdUZsR3VQN0UzSm4zMkJNWERlQlVzNlJjNEc0LVpRN2RyMnhXMWZkbWRma0x1TTBvMzlMaS1MXzBiRUU?oc=5"
@@ -119,21 +154,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-30",
       "summary": "X-Laser Launches Customer Hub for Training and Compliance - The Light Sound Journal",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVkxsWm53Y3FWMS1qSWZlWWNlZVYwOXc5amE2c2t1LW5vS2d0cjhFd0ZLM1A5dXlaX2ZRSGpvX3U4cldlN1VwamE1OGNPdjZnbnJ5YjhqWVp0a1Y5S0h1aE9KZVZnUllEbzlfRy0yV2pNSFd2WEVWcGdMbHVKTklCN1pPd0NyZlRNMnE3Y09JS09vQlRvVjdtUWt2TmNUMGRMR0lvQ3hn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-30",
       "summary": "Fiserv (FISV) Launches Commerce Hub Globally - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVp3a1o2QjBDNDhPZ0pyaEZpZDdJeDVyWldLS0VRc1FPdUFQQnFsR2FLNkNWdUhPbS0wSm03cHU5WmpKNExOVFNRWmdLRFVvR0dXZ2o2M2FxdUMzb3ctQnpsa1BxUnc0UGs4dFNFMkpNYTRSRXYtNFhaYW9YeXVlUUZOUWlUZG5veF9nZ3UwWWgxOWpRUkJKUUQ5eTRIUEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Baptist Health launches central ‘OB Hub’ for delivery hospitals - - Arkadelphian",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeEVJQjk4d2Y5ZWRET3VZUUFiam9mR05WQnJrR3Ftd2JpWVFpNWNNTS1YamYyWlJzVE40SkF4bDI5NVNwdjk3YTVEU1dnVG5raldJZHB6TGpsbWpWcFl1U2JWS1RMVEt2MWRaTWlSSjNTUFlwcFgtT2lUUmxjeGt4NHpZMHBCSjRtaVg4aDUtbnNyWF82NHBHeGxINmhXems?oc=5"
@@ -182,7 +217,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-24",
       "summary": "World Bank launches new philanthropy hub - Alliance magazine",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPREp0N2pEUW1nM2VhVzlTWWRlWC1MdDVpTFhZVTR6c2FOUXlVR3dkT09vdXVqaDlFNGNJalV2MllRdG0wd09IekJhRFpSRjBHckRRM3RZYVU0SnFsRFdOQU5QTDRPRDNGbmFlODhyRGZta2pQLXVSR3d3WTR1OG5oVA?oc=5"
@@ -343,7 +378,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "Duke launches national hub to advance trustworthy AI for aging and dementia care - Duke School of Medicine",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2hSRE1DZ2ZPVllULThXR2ZMN0JNSlN2c1ZlT2JJMGpSMENudjRiUzJqMDk4Q2hhOW11cnV2emFiUXRYanFwd0hBR3VEdExhSkdSM3gtV1hMU19iajl6VjBSLWpMWXptdFBoaU9XdFVFQk5sQkE4Mk9adzNVWkhxdldDeW5iUnpfcmNzd09lMHFpOVo1b0RMVGpldWljU25PUTVjT3djMVNLUVk?oc=5"
@@ -364,7 +399,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-25",
       "summary": "NYCEDC Launches First-Ever Pilot of a Circular Construction Hub at MADE Bush Terminal - NYC Economic Development Corporation (NYCEDC)",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYW43STRqMGxUX0JfQkNnQWFTX0VZeG9xME14N2M5cDlIOUYyb0lzQTEwd0UwSmRQXzVKLU1JeWlxYkNCRUJNdDI0Z00wUGkxdThOUGNVVGpqLWt0TDA0bWYzRjh4QTVBeFI4US0zV0diamdwYk5ER3pHWWFjOW8tMFBHNER1aUFOZi1qX1RNQUlRWlRVM0REdFVUaDl2OHU5eURKZjNFUmJzcWc?oc=5"

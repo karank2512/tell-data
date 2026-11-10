@@ -1,16 +1,23 @@
 {
   "domain": "10xdental.com",
   "name": "10x",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 43.2,
+  "score": 45.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-02",
       "summary": "10x Genomics Appoints [person] New Directors to Board",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTFjUXdjS3pzYU9nWXpIeEs4bkZHM2RIXzFTYnRBckt6RGNYd0tRQ3IxMUhWR0RwYXZWeTc0ak1IQkctbUg4a0UzTUo4dUxpdkJVUjZZZm1EblFVU1pBV0NzZUhmbnd2cHNZbllHMVBhVzM5YTFuOHk4MUZsUm5nMEFwQ2tyLVgyQVJ6bDNRR1NpcVdrWDFYOUhuZnFSRzZzREE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "AI promised 10x. Most companies got 1.2x. Wrike founder Andrew Filev launches Hops to close the gap - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcFo3VTdqOXlfMVVMVjl0VDlvN29JZWdyclZDVDNZUzFOLWZheVhyZTcweHV6WXltS1RjUm93TV96Zm8zMXVmMFFEanhRNnNKZC1XMFdmdjA0X3ZtNGd4c2xDa2FYaEYyY3EzRmt0T2JmemN6UjhkNlZ4by1xTWlJV0E2S2ZHQ2x2enFlQXpsSUJRYUYtT1lwRUxzV2E4aklCeGhOelV4blNwYzcxZDF5Vms3R09ISC0wUVAxSUdtblZibjF2NjZSR3V2LU1rd1ZMaW1PQjJFZVVZOWRjaVBtdXVCNmEtTWh2?oc=5"
     },
     {
       "type": "launch",
@@ -29,27 +36,34 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Minty Launches Its 10x Cashback Sale, With Up to 10 Times - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNc3UxQjBBNmxsQ0NVN0pxbU9LR1hCQ2xaMXBHRVBBOEpYM0NsYUNKMC1kMWUzcVhHRm84R2VKUmVsaTJyRWNtMk5IcFF3am1kT1lqTVc3RkJ4LU9hTEE1TGVzRERTOFFXSjI2WWZOelBsYTNWaVBwZk5pZ3phb0pYbGlxMGc4aC1Zb2pnQXZSaldmX3BVMzM5X2sxc3l4Y3JKQ1VNVTc0ZHdiMzdtS0x2aVZBNl8zbk9zRE5ZM3k2cmtwVWFGVlNNSVFfXzF4ZlNQTC1PZjlyRldORlcwZ3RkMGZHS0hzMTRTeGRlLVRNcWYtMVRyTDAtUm1jSXBiOUFfSzNqdm9zMTBES0ZSbE9zeGJUQTRILUtfWGxsWno3QWhENEdwODB6T3N4WUtrZkxwNERBV2s0em9MU2hnaHZKblBn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Polymarket Launches 24/7 Anthropic Perpetual Futures Trading With Up to 10x Leverage - FinanceFeeds",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYXQwTzRpZTFHYjdyNVF2YVllOWdHRmpINFFVZFZsYWVEU0ZfYlBzMXR0enFPVnZybVN4UjZSdXhFQXpVS2dramFYNVpJdVZtUENici1abE8wY2RVYl9ZXzNDN2NRRmhHQnpUWGg3UndNcjJaZlFIdnQ2eDdsLUc5alY0Q2l3eHdSMXZqRi1ldGZIY1d2blM4M0tUT2F2VnZ3Z3ZoRmtZR1NGWUhlRGdJ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "10x Genomics Launches AI Tool for Single-Cell Data Analysis - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmZkR1ZxT1FCMDl4UHczYWpQemJja0Z3Y3pYaUdDS3pfYUtsQkItcVVxa1dMWk0ybFFlME1jaGxnSmllcHFOTURmem1PMEtsVmE2aE9HM19heFNPRlBXNDZjX1RJdVpkVjMzeS1mbUZXei1UQkYxaEtveElfQ3NDWXo2QlFteDFzd25MSURBRTRwdmJBbzBweTkyLU1VcUthVFBHbUVhRldjN0RCQVlfVjdn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "10x Genomics Launches AI Tool for Single-Cell Data Analysis - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdlk4UkRZNGxSSWtZd29JSUx3aHpmT0Y5UDJIVGEycTFnSUtYZVNUaUk5Y3pMb3VldG4waW4wSnlhcDhPNjl5V0h5S2ZYRFF0MlNDNnVuVXRQQ2tPWjNZLUFhby1GTXp3Z24yNzRWTHBDcFpQMzJQa3I0amxzUUJYemVkVkxtcUdHUEZZVGJuc2VIRFA2amo3QQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-02",
       "summary": "10x Genomics launches AI-powered single cell analysis tool - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUFReDQ5RnV6TVUtYjh6cHZQUVNrNUtzNEkzenhXcmdWNFNXU1JBa0ZGdm1XbzZGM1laUXNpejFMTXJrR1AxcmQ5YmdnRFUwa2k4OWtXemVTS2RmeWlqbVdBWXZ1OGlJc0xaTEJCNUFqOTBQRUxZOHpJTVUzQmZPUTQtTVdiU0JnRkQ1TVZPbTMtLXd0MGhDSkJRRi05Yy1iT1piRmJNTjc4TVZDSWtHWEZMVUc?oc=5"
@@ -112,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-28",
       "summary": "Anthropic Launches ROI Reports, Jellyfish Sees 10x Spending - Brief IA",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVnUwSThHcHdmZVRvTVFENEFQcjU1QmdBSHNLWXRuVWdLT0drcW02QXZPUVJaTXdJbHZkb2FjaWJMZ3lEMVRTeFE2RXVjY2cyMW84OEpZZ3pQQkY2b3FzenM3ZEFQeTUzckVHZEJrTy1kVEFnSWlXRVNUc2dodnBkamNxOUg5MFFiNU9vVzYwaG9HU2JhdWZv?oc=5"
@@ -168,7 +182,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "OpenAI Launches Decisions API With Up to 10x Faster Processing for Routine AI Tasks - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT3RqUnVteTBoTThTUXZRQWNJYm1aamRLbGs2SEF3b1RnaW5IM0hyTEJDZnowcU5oYS1rajdNNFlRN0xjM3pBODI3a3gwZm1qcXNzdnRua1JtaDBSRDh5cWY0TEVKbTgtZkhvUkVUY3FuQ3E1aVFLSjlnY2NhYnJweTJpME5PcTRXMUdOUUV4YzJHR0k3UEhTUFotUWlUU2JRbWJvRnhwYjBDVUdfeHBBdzRQRC12b1lYYXc?oc=5"

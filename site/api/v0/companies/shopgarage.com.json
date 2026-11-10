@@ -1,9 +1,9 @@
 {
   "domain": "shopgarage.com",
   "name": "Garage",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 6.1,
+  "score": 6.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Protocol Home Services Releases 5-Point Guide to Epoxy Garage Floor Cost and Installation for Central Florida Homeowners - Kitsap Sun",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdTZaZ0ROOVJGb3dZY0RTeHV4eXdlRHFDWERmZzJSZkZYb2hIWlJHMTJvMHJfYVFKNG56dzA1Ukp1OHFVUWg1cm5CWmZHOWV6c3VyVnZZVGdkMGhNRERGblExWUE1azlHcVc2dWxiWlFCNUhFWlI2ZHotQ2N2U19ndzFpUTd4akxDYl9fX0U2aUhBSlVobld1UVNoQlFQZm00cnB4M1NlTW9zaTIyRnN3VkZNb2JLb2xkenVXX1hsbGlCME5naHVqbXEtRnlaQ0V0RnhCbHZhaVVUYl9qNURSYWl2bjJ5WUlJV1RqWkJCMmpHcmVJVTVnd3NpT1JaaTNuNjA5Yw?oc=5"
@@ -39,10 +39,35 @@
       "occurred_at": "2026-10-13",
       "summary": "McAllen unveils South Texas’ ‘largest mural’ on downtown parking garage - MyRGV.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEVBUkROc3hrV3Ywc09paDBiYmFUWTRyeUVpU2pMRFhGajhIY2VkYkZteDd6QjQ4UVNEeVRuaFM2VW01SC1zdmZmaWlEcWl6MHJMWFZwejhmZFVnMlFjMWRHMXRKZEVNaGl1M09nVXpJQWZVSVVlZEFTdy00UjlnZG5nNXVjU2d6dlMzZUpzRG9DYnZ3MUVTX0didWFrTWhxWVgwWUNYRUFIYkEtS2c?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "marketing",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-10",
+      "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/garage",
+      "postings": [
+        {
+          "title": "Growth Marketing Lead",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/garage/d83d02fd-ca1a-438d-b618-ba38de6f608a"
+        },
+        {
+          "title": "Performance Marketer",
+          "posted_at": "2026-11-09",
+          "url": "https://jobs.ashbyhq.com/garage/b96d3524-b7a7-46ee-89b8-367f3ed9683d"
+        },
+        {
+          "title": "Growth Marketer",
+          "posted_at": "2026-11-09",
+          "url": "https://jobs.ashbyhq.com/garage/8802af7e-b601-4bf3-91a0-8a038f4cfd6b"
+        }
+      ]
     }
   ],
   "open_postings": 20,
-  "long_open_roles": 11,
+  "long_open_roles": 9,
   "sources": {
     "ats": "ashby:garage",
     "edgar_cik": null,

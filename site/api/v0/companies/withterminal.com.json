@@ -1,10 +1,24 @@
 {
   "domain": "withterminal.com",
   "name": "Terminal",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 24.9,
+  "score": 27.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Taos Regional Airport unveils $16.2 million terminal - KOAT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUQ0ZlczV0Z5NTJVQVVxcUlzQUdVM1luOUlFTHJ1OWpONzJiVTBLamROYjdQOFp6NC1zMEJQT3VWNWpuV3VYSGdiLTVYcVd4X0lQN2tKckZKN0ZxdUVEelhOVUhxTEdHd3ktVUVWTHRnbFNob2hpNU1Ib2tlMHpVeURB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Logan Airport Terminal C Introduces New Passenger Amenities - Boston's ROCK 92.9",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVFCaVVJRlBzZlBYaTdtTmpfZG56WG8zZmRidkhZS0piWlYwV2FzR2lwVUtUNS14RUZOV19xQ0xma0lrWTJnMjlyWTBNZ0hPcERDemU5a1doUjRCQ0JyM2NIQmwyZ1pnWUl3cjI4RTVXX04zdG9JNXJiS1h2eU1ZR3d6b2xlcjBXNExMLWJzM3hmTEVoWkJjZG5hV04?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -42,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-24",
       "summary": "United Airlines Debuts its New Major Terminal but Faces a Practical Complication - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMlZpV19lM2k3NDNrVXFBb28wSUhMSGtKYzlkX25UTUFNTWFkSU4ySUIyYVRIQTNSZmUzVzVYX2Z1VVJGRkxaalRmaE91bG9IWjZ0d0YxZnkxd0Q5T0JkZUFQVDdZTUtYdFB3ZUVlS1hCTXpsUVBFN0lFMXo3bnlRcmw2LUltNUtmazNJZ01TOExLVTNlVEE?oc=5"
@@ -119,14 +133,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Ukraine Launches More Than 1,000 Drones, Igniting St. Petersburg Oil Terminal and Ruchi Depot: 26 outlets compared - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSTVXZGF4Mkt5TXdaYlNaTkNRdS1ScHJKRmxsVllyMDlRU2haRmZFVm9tZHNhc3Rtd2FVdzhqTlBLT3QtVGVDVU5IUXhCVUhLUEhUaHFnRXZaYW8zdnFJWHpmZ2hvdDhpRDIxdGU5UEZQd1VBb2VTdEltOVVuczNKYWtRWVE1VkdGRUZmUHdHdkpsOW1IdUgzNTdFcThtSFkwTnUzRXhPN0NTTjlSbnNkdXNmb3N2OWNKejRLV0YzVkNMRWQwOWR3dGRHR1RvRFhka3E4RnJRUWdpYmF6dDZvdEJnQzFVNWtxWGc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-17",
       "summary": "Starling Releases Free Linux Desktop, Office Apps, Terminal, and SDK - Thurrott.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmVZR1pmbGZpVnAwYnk3dWlzZnpfOV96UmFDUmRhSmhvTU1XSERNRU9vU0EwRVdJMnJ2YlNCeDZkUFNRUTZ4ZU5BbWlBTVh6TUJnRVZLWjQ4WmN1OUtnc250d1lJdmQzRnhzQWVFTHc2ZlExb05rNGk4ZGJpMUR4Qk1tTEJoUDlqRUFhWm9XRElxTktyTFZwd1NUMDBQSUlkQjVR?oc=5"
@@ -154,7 +168,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and Development - blog.google",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa1lVckF6SldSWGl4QXg4LXU4X21BNzVwVTdYYVhFWWN0Q0pJNGlETmxfQXJCZHd4LVkxZUVndDlGbklsLXdocGkwbmVINy1jRUpJTWFkVjFmZnRPUkRIMUQ2aE9nRlJXa05hWnZnMGlDbm1TazBKczU5NUR2a2NqTXJyQ1Zhb0s1T3YtejdEUU9vWXNDREE?oc=5"

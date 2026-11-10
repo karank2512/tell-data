@@ -1,16 +1,43 @@
 {
   "domain": "tremendous.com",
   "name": "Tremendous",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 4.1,
+  "score": 7.5,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-10",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/Tremendous",
+      "postings": [
+        {
+          "title": "Senior Customer Success Manager",
+          "posted_at": "2026-11-09",
+          "url": "https://jobs.ashbyhq.com/Tremendous/ebe4abd9-b6e8-4c9b-a571-0ecd3540134e"
+        },
+        {
+          "title": "Senior Customer Success Manager, International",
+          "posted_at": "2026-11-09",
+          "url": "https://jobs.ashbyhq.com/Tremendous/3de2d063-4828-4537-848c-9f2c3bf50657"
+        }
+      ]
+    },
     {
       "type": "leadership",
       "contribution": 1.6,
       "occurred_at": "2026-10-23",
       "summary": "promotes [person]",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ21PY3I3STZ5eVF5V0JLSHlXQTM4V3JLV1BnNlA4ZjVYMXE1Y1o2Z1NCMUVfTld4cTQ3SnNSdi1QUXAtV21rRzYzNi0zcC02UWExR0F1THZ1VlFCMW5obFptRVZBOFY5Mk11NGktM256RFQtTnJJS2VIT2RGdVlSMGFNZUN1dDZpbG4yVzR2dXRUcExaWlhKT2wwUVVaZFNKM3JFN3ItLUJzcTlRTUN1WHVSWWRwUnFBWW1ORQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Popular fast food chain unveils ‘tremendous’ Christmas menu with boozy Baileys milkshake - Metro.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMW4zRmlSVVZ0MUpxRjZJclFvYnltV252b2hjTGt1ZFZOclhqdl90SG91LXJ2ZnlnNTMyXzdGRG9BQzZ0N1ZYdHplNDRlMEVrV29kZ2w0VGhHTjduVFRORE9TNDFWc0xlc3phUjV0SGZ4UTRwRWp6RFhPQVM1NG1MV09mUUJmUUpkeUhlc1NKTV8zRXBMTERyWTZaU1V0SnlyMHRWbmtDRG9GdDZWZEJOeEpSTWxsTFdQUHI0RFhHMNIBxAFBVV95cUxQZmJnLTItWW1qRTdTWF9ESVRRZ21qZkVZdm9Oa0NlVUd2TmV3UkZ1VzRPbVlPeGw3ZUZjT0gzUkpLVVpFbFdxeVU2ejdmbHBJd1U5WTM3Zlh0MW9LcVNKWlFqa2gzT05JenM3SmE0OXRvRWZNMUdjMFRscFVMU0tTMnlLMEc0QmhEa0NicmlOWm1lTW9hT2hjS2toSmxSaHc3ckJBd2IxNk9rUG1wcFl2WWVudV94N25TbjdYQXZyMnFnOEV5?oc=5"
     },
     {
       "type": "launch",
@@ -22,7 +49,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-17",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Tremendous",
@@ -40,7 +67,7 @@
       ]
     }
   ],
-  "open_postings": 24,
+  "open_postings": 26,
   "long_open_roles": 14,
   "sources": {
     "ats": "ashby:Tremendous",

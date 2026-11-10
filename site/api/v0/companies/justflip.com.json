@@ -1,27 +1,62 @@
 {
   "domain": "justflip.com",
   "name": "Flip",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 15.7,
+  "score": 22.8,
   "contributions": [
     {
-      "type": "leadership",
+      "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Commodore Officially Launches The Callback 8020 Flip Phone - Bleeding Cool News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdXBpTndpcVZxV3JzTGZ3VGdtNkJfQ25xRnRub3lqc1ZDNjdDU1dvWDBsYVdLenlHTG9pS3QtUzBIVC10QUdyVXlyeWlCUURoMlJwUExOVFBFY0g4SERHNkNDclBNcmlXcEx2VmJQelV1cGxrRkYwdFQ4S2w4eTdZbHVJaWl6R0JIek8yVkp5X214dy1VcFYzZ21zU3M?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Power Hydration unveils new 1-liter alkaline water bottle offering CSI's Twist & Flip tethered closure - Mass Market Retailers",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYlotbmcwWlVWWkx1c19Xa3lQTmdXU3gwajRoM3Q1RDZsUFlZc0M3SUNERHR5ekRWVWdMb1RwQmV5VTU2a2lGeFEtX1V5d0FObzFubHBueUpZeTk0VHg2V3JBbTVtZU5VWThpWVJWUzVEV0JzQWMySTJSdlJwSWxxV3BzaUpJNTdac05CaV9ESTdKZWJCT2w2WUJjZnBxaVBUMUxjNVRDdEFFZFQ5TkNqbHJEREs3T0R4Z1l1UU41NXM2RHJCVHRpY1ZwdXI?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Georgia Secretary of State launches investigation after unreported votes flip lead in state house - WRBL",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbTRRcmxldjU0akI3ZzVMX2wzOUVkVzZCNmc4TW53MmNaOUhfaEVCLXBVcllfclBQNGg1UC1FUnpCNGhlOXRxY0k3QlNQTHNmSURaREdqWWJibGxVOWJha2FZbm1Cc2tNS0R4Uk80ZjBGZ05OcW04UlVOeDY3djY2dVl0bDVBR3lpbXdvRlUtZXVIbmhPal9hOGdNM2twcHBNS3BMX1lmalNGc1pHQ3ZQS1VBQksxQllxSlRPU3R5S1g3QdIBxwFBVV95cUxQeHBRT0hHNGg4TVBnTmhVZmMtckY1cnhTRHFLQnNYZldtTkRJTGNvcEY1amsxZ3MxVi1YMXF2R1RNZUpORm1PZ0Vnb0tHY085MkVvYWFyOWhEaVFTaDVwS3EyV1MzaDV4T1NmYjVmNmJLZC1vXzhjbzZGWkFpY0QxQ0Vla1VfbTRmUUR0d1Z1Z1hveWI4d2hSN0J1UHRCVy1HaW5Fdms1NDU5enJGUVBLVnlhOHRicW9nc3JsOHFYZk5PRVY0TkNn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Samsung Releases Second October Update for Galaxy S24, Fold 6 and Flip 6 - SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMWRpbFNhUlhQUC1vXzVtZ3dfNUFBN1BITGdiV0dibGFQbVo2bVZpNjFkTHRHNGItNGNNVEV4by1kcGpVZ3pQZF9RVXFFQk40NHdPeEppUFFKdV9NdW9KeUg5cEdKQUw5aDR5ZHd3eUl3SlFsa1RaWA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Samsung releases new updates for Galaxy Z Fold 6, Z Flip 6 - SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTE1nNFlDc1lpU0RqeDMxbHB0YnZLMmxUak5CeFZ4dWlMR19LV0Voa3ZMMDlaZFY3OXgzbGl0enh2MW5PSjRHdk5hNVRCVUgtdjlBZ21wVmZadXNGc0tDQ1JqUmFNYzBmUXp2MTJ5blpyV2N2eE8wS3VteWlDc1dQQXg2R2pQWHItWWdMdWdn?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMW9KM0Q2YzlVbWhKU1Z6OTNCdnlPRW1SMDA4ZGVtcE1raXAyWDlBRmJ1aGQ4SGpNVE5ESmRIRlREb05YQ29FRVlhWUpEWV9pc3oxS2x3WWpOc19wa3U4UkZZYVZCSmdJYWo3cTdWYzZWOHVwYXUyQWxfZ0pUZEI4eUlyTklNUDhpLW1VZHNrZGVyQko0WlNBMkRoSkhwbGJIa0dIZ1ozY3djQlhzdHprblV4NXRnbHpzckhXVmYydjV0WjhoZ1pIWGlkYzBlN2JybDk1S2FVM0p0QQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "High Roller Technologies Appoints [person] as Chief Business Officer",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2UxX2x4Z3ZuNFlQY0UyTFN6Q1QyT0xsOWlmaGdMZndWcWVZa1E4cjFZYUlMLUpmMW93WlBNU2trbkFRQXMwSFVOaUxURkh0V3NObUgtY2p1QjFaZHJmTU81TGcxZmxNUDJTYndBSEo0RzVwQ3lkQWVlRFEya1AzaTVjSVlvVXVyUzRjNEJ2b0ZLRG1zcDRTZzVaRUx6ZXhRZ1FlazIzV0xfQ0xuWWluYXgzTjd5N0NCZHRzQk9tdURQcDhSRTVkWHlOa1V4WGU2cTFieDVBanZzbHdISmc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Nokia launches new flip phone with modern features, but there's a major catch - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalBKWTFfOG5uZHZNSW9OOG5tWmFWZktmQ25jemtRaHVfc19oYWRJUkxXRi1pdnRydWRGTHEwMl83M1YxbWlMVGRGUWNocFQtTGc2alNNTjlVZ25CZHJLWHByTXV2VHhmU19yRzkwY3V1UnNrMWVJS2g3cFVPeGtzd244cEZLeEJFVVprT1M0a09pNE5ESVE3SHAtMmpwWEEtc2pIM0ZnSzlrYU01aFV6akp1Vm5TU0RMVktLb1ln?oc=5"
@@ -91,7 +126,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-11-06",
       "summary": "Radio Notes: An Early Christmas Flip in Lansing and WKZO Expands to Battle Creek - Michigan Association of Broadcasters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVHFkMUxhWjVhb3ZoRDZsRDdCek16a1pqdW5UMGE5akNOR1Z6ZU1hT18zTVRFcXVBX2JyLXJubEstUjVSbFU4eDhkNG5pRklqNWtlTHd5SWdWQ3QtNkhKc0NJVGZ1TWdzNEd1X0o0ZlBfTF9oSUhuOVlGbE1QUzg3bXhPWnFrSlV6OEtzQjQzZERUd09LVmRITmtnQXRfaWpKNUVIWmRMeWpVUFUxbzhpSFBTMTFCekxDTDY4M213?oc=5"

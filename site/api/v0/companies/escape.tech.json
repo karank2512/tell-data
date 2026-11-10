@@ -1,9 +1,9 @@
 {
   "domain": "escape.tech",
   "name": "Escape",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "JCSO staff thwart detainee escape efforts (10/18/2026) - Press Releases - Jefferson County Sheriff's Office",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISFJTdERZeUgxdmFSRWlRbUZfTW8ycjNaT0lDMzNDOXhCZWJHeTFlWFVISEx3OExEa2dLdUVfczdaN25GZ3BwQ1RCNnlkMEZ1SlJXX1ItTEw2VXM?oc=5"
@@ -41,7 +41,7 @@
       "url": "https://escape.tech/blog/introducing-escape-channel-partners/"
     }
   ],
-  "open_postings": 7,
+  "open_postings": 8,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:escape",

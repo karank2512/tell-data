@@ -1,14 +1,14 @@
 {
   "domain": "noxmetals.co",
   "name": "Nox Metals",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 2.1,
+  "score": 4.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.1,
+      "contribution": 2.0,
       "occurred_at": "2026-10-24",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/nox-metals",
@@ -29,9 +29,29 @@
           "url": "https://jobs.ashbyhq.com/nox-metals/3848f081-a256-452d-8d2e-310cdda54515"
         }
       ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-10",
+      "summary": "2 new gtm ops roles in 7 days vs 0.75 baseline",
+      "url": "https://jobs.ashbyhq.com/nox-metals",
+      "postings": [
+        {
+          "title": "Factory Technician - Weekday First Shift",
+          "posted_at": "2026-11-07",
+          "url": "https://jobs.ashbyhq.com/nox-metals/20dae0c2-6129-4200-951f-a8a28dd0bbb0"
+        },
+        {
+          "title": "Maintenance Manager",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/nox-metals/9925104b-6b1e-4619-9d0c-52f47a8d5428"
+        }
+      ]
     }
   ],
-  "open_postings": 36,
+  "open_postings": 37,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:nox-metals",

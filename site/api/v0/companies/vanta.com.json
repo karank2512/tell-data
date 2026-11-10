@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 20.9,
+  "score": 20.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.9,
+      "contribution": 10.8,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-16",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -145,7 +145,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-08-04",
       "summary": "Pwnage unveils Vanta wireless mouse with adjustable clicks - KitGuru",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXZaaHM0Y3ZaWmI5Z0ZtTXNwVkxraDJiejhCMG4yeHVldlp3dGpZbmhTSGJSSXJicks4R3dnSS1neHhGcWhQTVdIdFViLUdlb3I1TVEwZjAyZC01NWxLV1piakVkSC1yZDJXcllSVHF1cFp5ZUJtTDFLVDVkOGczNi0zeGRhMjN1ZFN0SUJtTHlQT3hpNkN3dnRLbklhZGYzZXNjclFEVmtfQU42VkRiYVF3?oc=5"
@@ -165,7 +165,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 85,
+  "open_postings": 83,
   "long_open_roles": 20,
   "sources": {
     "ats": "ashby:vanta",

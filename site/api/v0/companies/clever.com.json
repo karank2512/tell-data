@@ -1,10 +1,47 @@
 {
   "domain": "clever.com",
   "name": "Clever",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 12.6,
+  "score": 17.9,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 4.0,
+      "occurred_at": "2026-11-10",
+      "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/clever",
+      "postings": [
+        {
+          "title": "Sales Engineer (Mid or Senior)",
+          "posted_at": "2026-11-06",
+          "url": "https://www.clever.com/about/careers?gh_jid=8356910"
+        },
+        {
+          "title": "Sales Development Representative",
+          "posted_at": "2026-11-09",
+          "url": "https://www.clever.com/about/careers?gh_jid=8360220"
+        },
+        {
+          "title": "Account Executive, International Private Schools",
+          "posted_at": "2026-11-09",
+          "url": "https://www.clever.com/about/careers?gh_jid=8366326"
+        },
+        {
+          "title": "Sales Development Representative",
+          "posted_at": "2026-11-09",
+          "url": "https://www.clever.com/about/careers?gh_jid=8366237"
+        }
+      ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Cold sores have met their beauty match: Aussie brand launches clever new lip care range at Priceline - 7NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY1FKZ05MMl9GTUltOGkxMl93QjAxRzlzVENYT1o0UU43UjBuX045WDY0cEtydC1kY1hpSEFWaTA5UmJnNnZ6VTVtbEVIeUtwcnBZbzFaS21QNUtxYlZsWHgxRVdvVnhtclVETGItdW95TTZtdlUzeUhLcTBmWjk4N0EwdjFhTmVJZTR1Tld1Wk83X1RSZ29mNC1pQm9xbFdBNWRTV1hzYlVfMTZXTW1TR3VJMWpjZXViOGJRZk5pdmpDWDUtVFhUVVhJYklRZmQzV1Z0REEzcnk4bmfSAeABQVVfeXFMUGxaS2R5NHMyVWlRNWxxeG9YWXhLVE1iN19VM2tHOW85SGp5OTRSS1l2ZjdwMEliYlVja1JhaW9yUzBBSVZKT1llSEZRZS1KVDR1Q0dUdXkwajRBMGVCWmhjQ1JCVjJTY1RUQ1dwVFRDclBXM1RlTGk5QmJTTGxIcEtQeUh1RG9PRC1nTzktSnUycWZVTUtxTFg0MkNDdE4zRGlid2tPOHl4bVJJcDRLV3FWMXNhTHRQemV4VjQ4bUVFcUVXanBaeFFRUWJBblpWcXVrckVSUDJHUmJlUDZXeHg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -77,13 +114,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "TEMO launches clever new electric boat motor in the US - Electrek",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTl1Z2lYbmtESkxnZVdFTjNMeHBuWko3SktNOTNEbmhTdlgzUVZCUWg2dmF2aWExN0VjSWlrRnJhcVI3U2l3MGdYOVlWMFprOVh1MWh6REZsRldLNmhLdFVsTnNIWmJpZmNHbjE3Z0h2Qk9zZko3aTVPeEhzNmdDczlsLXV3SkFhRElMT2h2NA?oc=5"
     }
   ],
-  "open_postings": 3,
+  "open_postings": 7,
   "long_open_roles": 0,
   "sources": {
     "ats": "greenhouse:clever",

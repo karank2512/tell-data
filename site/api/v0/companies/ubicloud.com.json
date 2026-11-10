@@ -1,0 +1,25 @@
+{
+  "domain": "ubicloud.com",
+  "name": "Ubicloud",
+  "as_of": "2026-11-10",
+  "profile": "default",
+  "score": 30.3,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 30.3,
+      "occurred_at": "2026-11-09",
+      "summary": "Form D: $49,649,761 offering, $49,649,761 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2161980/000216198026000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002161980",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

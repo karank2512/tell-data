@@ -1,10 +1,24 @@
 {
   "domain": "squid.energy",
   "name": "Squid",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 2.1,
+  "score": 5.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Squid releases live album CROWDS - Paste Magazine",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TNFhqbzFiOEJDX25EZkQ3MldfYmdvTFNPcXh0RGNGWW5wMEJ1eDNDSG0tR19lZGVsVDNlT2l1SVdVV0hNUUJ4UktzdEtnTm1JQndRU2RGY1ZnbU5iY0doaFB3ZHJWcmpZLW9BV1FwVThLM2p1c0hr?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Squid releases live album CROWDS - Treble",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4dmgtRmlnc3EzZFF4XzAySVRKVFBpcnUxOE52Yno0Qm9oNURfOUdycGlWRWlnMXROcnZTb1Iyc0tBZ2xudnVWZllCcUxTTkFhaWl4SzJ5U2VGd0V6WGdmTmVnazNubWRnVDNrSA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

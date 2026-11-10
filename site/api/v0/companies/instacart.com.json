@@ -1,9 +1,9 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 11.4,
+  "score": 11.2,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -57,14 +57,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Instacart Introduces Sponsored Listings with Promotions to Help Retailers Stand Out - Instacart",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTRVYlE3QUhEWmEtVFdkS3NYN0VHUllmZVdCRGlnU092N09CTVN3MHRxcjRhUzBOQXR5clM5VHhRbkhZNW1YbjVFSVh5elVfRTNVXy1kUWY0SHF5ZEZZaHF6Tk1jNjRrNnQzWWdjVDFWYlZrbGpUMjJXdlo5ckFhX1FRS0dwTGdGaGlUTFE5VzBCQUc5aTE5VVNxaDlGMjhnaWNOSjY1U29tODFObTZhZ0VrdFFHeUhBRDkxQmhCdlFJVTlzMWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Walgreens rolls out new same-day delivery through Instacart - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYl9DQmhTSnVhaTdYNW9qaWVoQ1N6akZVRHlUNHhsSkphQnJneTVvS1RMb25vSWpNQ3dIY1AwSnNia2g0RVlIMzJUU1ZOTG5OLVlnVHR3RkZIRV9KeWYzQnNxUUFwV2psN3JGS3ZpVGplanRyQVFuSEpXTVBURUt5SmdyYm1DTnZjZEHSAZMBQVVfeXFMTi14SnFyRC1xbU1KR3pla2o4ZUdyQm5uYVVKUldVWVBZem1PbFFNZW1RUVE0ekdBamhGc0k1VXNfRUh1WEpsYktLdFhSVVlRSjBab0JTY1BORlBRODY1YnBVR0ptbHduWDl3VVhmbWU2VVBsTE10Q1d0YWc2MGlicnA0S2Z1Z2c5Wjd6Q2tCdXRZaG1n?oc=5"
@@ -159,7 +159,7 @@
       ]
     }
   ],
-  "open_postings": 90,
+  "open_postings": 93,
   "long_open_roles": 25,
   "sources": {
     "ats": "greenhouse:instacart",

@@ -1,10 +1,17 @@
 {
   "domain": "hydra.so",
   "name": "Hydra",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 0.9,
+  "score": 2.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-08",
+      "summary": "SMT Expects Q4 Hydra TAVI and AVDC Launches for European Growth - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDJXa1pyRXQ0N19GcFlHWUJQZFN5anB6ZHdGQm5JY3RQS1RsQm5lUWl2Zl9uamRLemJRVHdSR1k4MUo5RDJVSFc1VlU1cTV3ejlyZlNpcnFudFR4X3NhZnBDY0hLbm5yZEp6RWpvOC1xaWx6NDF2VllJdkxmLVZZaU5xS3RwUTY4czd2WTFOQUpvcEdWTlM3alY4ZUNrcWVtTWtscnZvVjh1NnM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 0.9,

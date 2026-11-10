@@ -1,10 +1,17 @@
 {
   "domain": "letter.co",
   "name": "Letter",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 3.4,
+  "score": 4.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Editor's Letter: Introducing Our Winter Travel Issue - Condé Nast Traveler",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FSkg4T29HdHRhTXljcmY2eGN4T21pdVRodjFqcWpxZ3UxNDBMaVVxdWtZVlNUcVRuZXlIb0laLVlBS3BtT2JNVDVhY282d3E3UGZmcjZValVuanVjZ3I2c2RMQ3RvSmMyMXdiRjF3?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

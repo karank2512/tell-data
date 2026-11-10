@@ -1,10 +1,17 @@
 {
   "domain": "centralhq.com",
   "name": "Central",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 4.8,
+  "score": 6.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Singapore Central Bank Rolls Out Gold-Vaulting Services to Boost Trading Hub - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeXJQTmVQMFVuWV82THhmdjRMLUpwZmpwS1NhZnJZZk50LVJzVElOTE1rMnhLNTQtWVptT2xreFowX1hnd1FRclN1YndWLWN4MEpFRG1uSU9RMDVudWJFdGxXbDdqM2N4bjR5M2R3aGZIWnBmNHVYejhNNk1wU0hoNXB4bzV4RHNvN2wzbnFrTi16V2pKSllR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "USF launches national security hub, expanding partnership with U.S. Central Command - University of South Florida",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXZjbUM1azFIS29FSldNekhlNlZ6UmNpTE51eFpUT0pHek50UHcxV2N4aW5RMVVnMk8yY1pyc1NuYTZSTnE5bUw3MVdneXd3M1B0Nm55a2QwbGQ2YW9EMGx4WUhndlN3bHdkOG1wbzhUeHR0TDc0RDAxY2xLcWdvTmMtV1N4QmljUU8xN3h4SVpFcjNVZlkxQnpLZFRxdE9TX18tbjlTaGhULTRhcXc3NHpmdms4b1VzOUVUUTBBQkdTLTQ?oc=5"

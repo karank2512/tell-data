@@ -1,10 +1,45 @@
 {
   "domain": "traces.ai",
   "name": "Traces",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 6.1,
+  "score": 13.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "VictoriaMetrics Introduces VictoriaStack, an Open-Source Observability Stack for Metrics, Logs and Traces - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVTZ4TEQwanZlekx4clliQ09EU01sbXZuS1l5MFA1SmVkeHJIVDFldmVmb21pamlOak9CTVhjT1Q0MmdQbWJncWstWjNHSUhGRDAtNFZWZHJlWnMzZXlNVTBaQXdpSmc4S1BzQ3U5Z0NSQllxUTJoSG5SXzlLS21fZ0dsQU1wZzFQN1NZcmNtZk9adlhHMEpLaTk3eEF4WmxBdlpYNy1kMmxBX1hjY2loOW1Sbmw2MGhLSkFDSEdGeWN0MVNhemRZaEsyTW5uYVByZENGN2Z2ckVZdzhRS1lINVA0WTFQdWpVYXFjR3VxUVM0QQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "ControlTheory Launches Dstl8 2.0 AI SRE With Metrics, Traces and GPU Visibility - Cloud Native Now",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLXpjekJZRzdFV0gwVkFoYU9RXzk0UDJXUXVjT2RHQnJFdEozei1CZ1psQXFvT2YwRC1yRjNFbnJHRzh1T28xckNxLTZldW5xcXB1TVFSNmU1OXAzRHUxV3NJUUtrb3pJa3Vwd3RGenhRTXFCQVhTSk14TDB5MGJVNnBleE53TnpVOXNUdVdObGxoMlA0X0VicVlFT1BWUjNMcmM5dnZyOGlfR3g1eUwxX3k3dkMtM2ZqVjBWRkRBWnNWUXlvdFVBRm94SHo2VWxIWDRJVVVaNXJERnJzcG9faWl3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Spacelift Launches Run Observability, Turning OpenTofu Traces Into Valuable Insights for Platform Teams - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXBWSzItN3BpMXNTYW5hMzhWOVdCWVBINWNaRERra1B6T0RHMzU3N0dwNS1UWlNKS1BXOWFVc1NGbzZjTllmUlMtdTBMY0tHLXNadWJlUnBHMlQxOGZyNU5ieEptVElmcnlXQjZGNkt1SHd3UEFkbVYwY0twdVEzRjYxMDJsY0FOTjBGNkxPdnhicjlERkl5eTdwdTFjdmRpZ3FSbVlUOHJibFAtdGVLMjVzRFFqa0ktZHh6RllBM0VLaVFJUmtUQ1lSeGMzSEc3aml5d0swZW04SVJkSUgyaW5aaVdLT2tFQ0c4NW9Obw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "China Box Office: ‘Traces of Justice’ Reclaims Top Spot as Local Debuts ‘Embers’ and ‘The Coffin Swap’ Arrive - IMDb",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ha0tacG5ySlZ4SHNGdlU4Wi1wa3ZSVDZEVDBhSWxLZndPTEhfWmhaZmhiT0FRZUIwU0dpNkxmVkNDRVpaZmJId01FQUE1bUFnMmpIOWpFNm5RZC1wREVfQ1pCTjdJcGs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "China Box Office: ‘Traces of Justice’ Reclaims Top Spot as Local Debuts ‘Embers’ and ‘The Coffin Swap’ Arrive - Variety",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW1RLVBFa3dwbnhueVVZRC1wN0dhZ1A2empVUzc1R3RCd3FZY0t1dGRoTnhfb1BvYmZ0eGMtY2FRa1NPelBNbDdMSWlxcVV5SUd4Vm1lZjVNQkRwRlVQNGptZFl1aUIxOXg4ODZXR1RHMkhXWTVPTnJ1WjdGZ0VHblpVN0JEWkUtTUV2TlpieVRlNTMzZnh2elN3VVRiQ2MwN0JseDAtVUI?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

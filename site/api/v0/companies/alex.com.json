@@ -1,10 +1,17 @@
 {
   "domain": "alex.com",
   "name": "Alex",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.7,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-09",
+      "summary": "Carrick names [person] as Chief Operating Officer, succeeding [person]",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0x2WEtma0lkS0xqTkRtaV85RGFGcDI1WjhMelBoN1F4aUZaeWRGVHJoZ3c0SVNKV1BfNlctM040R25yQUF5SlhYN0NrdVZkcy1RaHZVNTBpUzdHUGF4c1FEUGNBWjUxMDJQSEE2d0xORGt4bExwUlhWQmhDTURBYzBidTMyTmRFdnFTWERaVWFtUkxjM3JNYzhMcUFPc1lsMnhzVU5UQQ?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.9,

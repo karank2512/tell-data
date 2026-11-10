@@ -1,7 +1,7 @@
 {
   "domain": "ziphq.com",
   "name": "Zip",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
   "score": 4.9,
   "contributions": [
@@ -46,7 +46,7 @@
     }
   ],
   "open_postings": 96,
-  "long_open_roles": 41,
+  "long_open_roles": 42,
   "sources": {
     "ats": "ashby:zip",
     "edgar_cik": null,

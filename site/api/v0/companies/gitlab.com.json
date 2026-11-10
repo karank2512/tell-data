@@ -1,9 +1,9 @@
 {
   "domain": "gitlab.com",
   "name": "GitLab",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 11.2,
+  "score": 11.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "GitLab Patches Maximum-Severity Flaw Affecting More Than A Decade of Releases - LinkedIn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1ZRbWxHaUtIX2dNaDZVV1dJYl9fUU40aUhKbzktelFFczNsai1MeFlXRzZZLTVKNEh3cUVYMnY5MmRmT0VvS2c5Ynp5UmVLemJLdFk4R2JWWlRoT0pSUXRjbExXM2xpYkctY2NaNmdNZ3Z6OXViYVZrd0dJWlFpSEVZc0xhejdPVjZj?oc=5"

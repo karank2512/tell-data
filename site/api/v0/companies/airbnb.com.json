@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 27.4,
+  "score": 31.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 5.1,
+      "contribution": 5.0,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -57,8 +57,43 @@
     },
     {
       "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 5.0,
+      "occurred_at": "2026-11-10",
+      "summary": "5 new sales roles in 7 days vs 2.25 baseline",
+      "url": "https://boards.greenhouse.io/airbnb",
+      "postings": [
+        {
+          "title": "Senior Market Manager, Luxe",
+          "posted_at": "2026-11-04",
+          "url": "https://careers.airbnb.com/positions/8351488?gh_jid=8351488"
+        },
+        {
+          "title": "Market Manager, Spain & Portugal",
+          "posted_at": "2026-11-04",
+          "url": "https://careers.airbnb.com/positions/8350117?gh_jid=8350117"
+        },
+        {
+          "title": "Senior Account Executive, Hotels",
+          "posted_at": "2026-11-05",
+          "url": "https://careers.airbnb.com/positions/8349065?gh_jid=8349065"
+        },
+        {
+          "title": "Senior Enablement Manager - API",
+          "posted_at": "2026-11-09",
+          "url": "https://careers.airbnb.com/positions/8325761?gh_jid=8325761"
+        },
+        {
+          "title": "Account Executive (Hotels)",
+          "posted_at": "2026-11-10",
+          "url": "https://careers.airbnb.com/positions/8365363?gh_jid=8365363"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.8,
+      "contribution": 2.7,
       "occurred_at": "2026-11-06",
       "summary": "3 new gtm ops roles in 7 days vs 1.25 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -83,7 +118,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-23",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -113,7 +148,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -200,7 +235,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-17",
       "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjN3akxCanRDTl9LTDNfYUE1UWdNbVJvZFkzVkZmckNrOWk2c1FkR2p5VldZRzRVR1dXOU1xbXA5MjNZQ0FoOTdOdzVKcTF3UlBwZ3BYcmdCNDdSM2Z3OVppLUtzLV9DcTZvU1A0V1ZaVi1YYnFRZzJ4aXdUWW9mc1NmTTRPUWlNYlZ1NXgyeGc5aUt3cmxlQQ?oc=5"
@@ -245,7 +280,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-21",
       "summary": "5 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -303,8 +338,8 @@
       ]
     }
   ],
-  "open_postings": 206,
-  "long_open_roles": 60,
+  "open_postings": 209,
+  "long_open_roles": 61,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

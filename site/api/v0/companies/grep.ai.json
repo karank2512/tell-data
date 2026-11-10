@@ -1,9 +1,9 @@
 {
   "domain": "grep.ai",
   "name": "Grep AI",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 5.8,
+  "score": 5.7,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-09-08",
       "summary": "Introducing Batches: Run Your Agents in Bulk",
       "url": "https://grep.ai/blog/introducing-batches"

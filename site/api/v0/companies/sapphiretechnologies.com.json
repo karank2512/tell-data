@@ -1,16 +1,23 @@
 {
   "domain": "sapphiretechnologies.com",
   "name": "Sapphire Technologies",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 23.3,
+  "score": 24.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.3,
+      "contribution": 23.1,
       "occurred_at": "2026-10-15",
       "summary": "Form D: $12,841,337 offering, $8,941,337 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1887783/000188778326000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Sapphire Technologies Launches High Lift Compressor Platform to Relieve the Data Center Chiller Bottleneck - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQXhzeE5DMEhtSjNZX2hZdlpPYmwtRkd6MUJwbUpaRXkxclFGMnRsTWduLUI3UWt2ZTBJZ0p5QnVIeC01MjQ0eVhoZVB2bUx3eDlhc24yN3F2cWU2UGQta2RQMXE4UjQ5dGwxRmxsNGhobExpM1hPVzd6NFE4UklkWk53S2pMVndtdElSc0gwN1Q0NHlMSHppUXJnbTNiSTRxVVNENVQ5UHRDWU1QY05UVkhUMkIwemdNS29BVU5jM0xWQ3FiR0k4Z00wUHlCYWN6TkZVMG9NbFRhb1JFMTBrQlNBaExHVUNpdWNCeHNDU1laN1BvV1E?oc=5"
     }
   ],
   "open_postings": 0,
@@ -18,7 +25,7 @@
   "sources": {
     "ats": "no_board",
     "edgar_cik": "0001887783",
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []

@@ -1,10 +1,18 @@
 {
   "domain": "substack.com",
   "name": "Substack",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
+  "score": 1.4,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Walt Disney Imagineering President & Chief Creative Officer Bruce Vaughn Launches Substack 'The Curious Mind' - WDW News Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTFNGU3QyV19rWV9ndVpTek5MUEVTOC1oajNlLXFfSGpreDg5bXhoektvamlWV2xjYTFxS3UwNVJCSVZhVDJHN2hnZkV1NXQ0SUUxSllnTEtNX0wxZVJ3UnlMaDZkLS02ZU14LW5HU283a3JLel92VUpOaENPbTZIOUhYZXpMSW0zVjdZN2NRRmhlVS1nOHlTR09BVFpxSG02R0l3d2Y5Uk1VV1lTV1llQkZJMU96VVhzUjFqMU5HRDlpMTFnNDg5TmZhYWU?oc=5"
+    }
+  ],
   "open_postings": 20,
   "long_open_roles": 3,
   "sources": {

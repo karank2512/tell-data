@@ -1,14 +1,14 @@
 {
   "domain": "billiontoone.com",
   "name": "BillionToOne",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 4.3,
+      "contribution": 4.2,
       "occurred_at": "2026-11-03",
       "summary": "5 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/billiontoone",
@@ -41,7 +41,7 @@
       ]
     }
   ],
-  "open_postings": 84,
+  "open_postings": 85,
   "long_open_roles": 23,
   "sources": {
     "ats": "greenhouse:billiontoone",

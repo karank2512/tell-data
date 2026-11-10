@@ -1,16 +1,23 @@
 {
   "domain": "seagatespace.com",
   "name": "Seagate Space",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 11.0,
+  "score": 12.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.0,
+      "contribution": 10.9,
       "occurred_at": "2026-08-04",
       "summary": "Form D: $750,000 offering, $330,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2140369/000214036926000003/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Aurex Introduces LaunchReady, Announces Strategic Partnership with Seagate Space - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORnlLdlVseEFBVm85YlJSRmE4S29uMGRCS3RnQmtWYWJZcVQ3OTZmcXctS29nTGhUMHc5Z0tfTkp3Wkg3RTg5WjJlUHJXQmlWTHhHYzhhNWg4X08tSWNQVEVtOGVZbjRYZTFJSDhKSXk3MkJkUmRLcF9oZHZaUV9pWE85UVlfYWdXNnF6Qmx4cXdvQVNCWmtXMGQ2NC0zUVpCc3BMNUQtZ3R1M041YUlZLWd1bDU3TlJGUW9YTDBkU0hKZ0V5?oc=5"
     }
   ],
   "open_postings": 0,
@@ -18,7 +25,7 @@
   "sources": {
     "ats": "no_board",
     "edgar_cik": "0002140369",
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []

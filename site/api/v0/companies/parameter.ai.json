@@ -1,10 +1,24 @@
 {
   "domain": "parameter.ai",
   "name": "Parameter",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 71.7,
+  "score": 73.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Meituan releases open weights for its trillion-parameter LongCat multimodal model under the MIT license - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXp5SUFQdDdYa1IxTzEyZkp6UEpnR004WmdlbWg1ejUwMkdNYW4tdFVKaVRlU0JPOGQ5QWVpOHI2UG1uTHZVYllZWmpCYTd0czhOX0FQdGR2V1k3MnJkQXdZTjkxUlBIbHZ0ZTQtUW9xNF9qSDZwcTZDZzNkbW5ObGxrbndKQVdWXzEyV2VWTVpnUUt5QzdCcjg1RGxKUEF2Q0cydDVTNmVwTGlXSkFwYjVXbV9mNFlncXc5X1ZjUDFBQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Nature Will launches 50-billion-parameter AI model for dexterous robot hands - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmNqRGE3ZUtDcEV2d3N4M2FrMGlQU2JsZ3llX2xoTmtTdUhrTEt1U2xlaUlmbEtJMzlvMm1SRnRIZlJrYldLcXVRb2trUEtEbTVWanA2c3MwUllvNHdmR3ZkMmZWQ3RaZnBMWGkzMmRlMmRvUnV2bGhyUXZLTUU3STYwUmJqQ0JoTnVGblRRVU83T3V3VGM5WHFOeGV6SGc4bE0wUGdlbFdTVDhqeS1mZGRDb0MzN21FR25LSElsQlpwMElGY2NXRWE5Umx2UQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -49,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "NVIDIA Releases 4-Billion-Parameter Dory Under Open MDW - Geeky Gadgets",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lMmpUc2pQbnJNYlRlMU04RGtVVDNrUjQtV21GVG1ieWhXcFl0aGx4MkFKQ3FFZU9KcUdLbjhSQlpEYUhVdUkyeGE2bEpkN0JuUDgxZk1KZ3U0NXZlOGJDNGhINF93aGhacTNpc1RB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Meituan Releases New 1.6-Trillion-Parameter Multimodal Large Model LongCat-2.5: Ranks First Globally on Multiple Intelligent Agent Benchmarks - AIBase",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42VGIxVFptN012TWROVGNXQ0xxeERSTXpPSkppV0JFQjFlQXpkVmpIS2pRdmY2TGoya25OTjJjN1ZLSVBFSnl1NmJ3?oc=5"
@@ -147,35 +161,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMjNidjZYcnoxeE9Gc3NzX05BMlFMeDVwRjF2eWNNQ0FZTWR2amRmYm9YVzFKbmJteUR1TEZpallEUXBoeFVKeDBQemNhd3ExckNJUzYxMmFIXy1NNEhqNUdHeW1OVWdyVVRMa2ItV2pxOWhEdzlXRU80NVhOd1FPRFdGSDh0VHRTLWFXamJJUlNabTQyMlVNNjBqc3FMQkg1enB3TlBQcW1ESmhJa1lrcVRpeHJWRFNjdjhB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Mistral releases open weights for its 1 trillion-parameter Large 4 model - The Next Web",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XcVRkZU9oekdPekFMUWNQM1pyb2JmMEtOQm81ZnVyWW9MWjhEMk5yTkpOdzYzUW9Ob0Ftd1BGNXN6WkFqZnktSnRxMzN6WkhWaHlrT0pLMDAwZjM3azNLRVNXc2VFV0s4Mnp3X2w5cVVmZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Acer Unveils Veriton RI110 Mini Workstation With Support for 120 Billion Parameter AI Models - PCMag Middle East",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSWdSS0FJMXdhblM4VG1yMkEzTEFUNlJSUVZtWkRiSFJQUEw5U0xBeVJ4d0dxR2VNbjdXT3RUeVJUMEkxREF0OGtwdFJ1U2ExOERYQXNPbzlDNy1ZdTdUVGFtYUdyT3oxUXZiZ0U5SmwxX2xTRWFyS2xJVGNTbldyRDhXMU5FWnA5ODZRSkhiSnYyVl9GbXUtZV9WTm5iNzdNNlAyNFQ2dDk3LTBYV0YwazVhWlUzSDJHZmx3MDFNSzVaQW00c1Fob0xPVFFDY1dBSTZKZA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Nvidia releases Nemotron 3.5 Transcribe, a free 30 billion parameter speech model - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalpGTmlBalJxQmNKUF96WjFoQ2ZhQng5QkdSVEpxWHZYNVhsbVlVNkFmTFk4bTRIZDdVX2NtRkNKR3hNTTl0Wmk0OEVpdUttTmtHRlNId3ZsOVoxTDF0QnVxbmxhY0FOZWpjQnRlbFBuQWZKWWtnSjN1OGEtaXk5MzAyWGYwdjItOUxYdDg5RlhPS05WOFo5U1NNbWQtdGtIVDdwRXFCWEwwT00?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Liquid AI Unveils LFM3: A 1.7B-Parameter On-Device Model That Beats Qwen3.5-9B on Some Agent Benchmarks - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Y3VYS0N5NFRkOTJlbzJTX0g0YmRFbVA5RVNjUFFqU2M1RDR4a08xb2RDWFM1VU1wYmFXNDhUV3h1V0RqQkFXZmhkU3pIYTV5NjIxeXM3V2wzNVZ5cV9WakJkaWM2N1cyWnNRSjUxbGRjN1AwTWJET3ZR?oc=5"
@@ -196,21 +210,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-24",
       "summary": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model - Menafn",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMmh6TFktNlpuUzY5X0xSdFZSeDR3ZjR0Mi1TcnRmd091Nm41aXg1NW5zNk5VQkNhRm9IVlJsOHFleVRITGNkSExSMF9hWGt3VFlPUGhTR2FQNnNXUTZ5VFZvckN1TG1fNWw1dDhwMWJNNDB1akFSaGpqeVktMGYtcmNWUHlzb0ZNeE9vVG9sVGZ5TlhrSjBj?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-24",
       "summary": "Moonshot AI Unveils Kimi K3.1 Pro 3-Trillion-Parameter AI Model - Asianet Newsable",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVBWaWVJM0FDb20tbG9jcWdFaXRuRlhoTmV5LVBpZldaZWRsUC0xS0xuV2wzY01QNFVNeFk4cXduN1pWWUpJN2NDcXp1STlYVGxqMnJreUFMREF4NUV3eDVKVVNibmRjcE1DY1hTWFFoMG1LcWlaa2R0Z2xUVmxuOFhqMkFLWkhTZV9UREFVRGJhMVdqZkN0dFpMVmJBUklxVE9jbURiTnhjeTlaWlpVdHRkYTUzVkZtSDhIaXlBTUF2dWvSAcgBQVVfeXFMT3lrVE9QLVBMMnV6YzZPUXVOekNFMy1nbV94dk5WalI3MUw0WnpYM055RkRBMm50ZGhtbkR6TlE3RlNvZzFmS05Sc0liNXZENjRjS0M5MVVOSnBVUl85ZWdKOTZyZkRKNzhiQlE0V2wyY0dZUjJuVWFDZzVCb0Y2QWU5a3VJUWhPWUJlN0xGMDRKUkEyeDR3Ql9iV1dyTGM1akdwNFM0c0tZQzkzY2Y1cmVYQmJ4MDFVZ25ndm0zRU4tSXYwNENIVTg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "MiniMax releases open weights for 428-billion-parameter M3.1 Flash model - TechNode",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGlLdDl6SUZJcGxJUUdBbDNUaXg3akpBZmlkWFBSSWFFQ29CTW9VeTNVWV9RU2hLdzdSY3VMV1MydnNLNGN2XzN6RUM5amMteDdZeHg0eXRrbGZYS1o2a1hhTFB6cVZlWlA4VGx0TG03NVlUb0k1RllRTnJ1bjVFSTRwRXp0ZWVyc0VMZFM3M0RCVFU1ZFRacE5RMk56MTFCTXJubTNzaGg?oc=5"
@@ -238,7 +252,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-17",
       "summary": "Reflection Releases Open-Weight Beam, a 501B-Parameter AI Model Built to Reason With Fewer Tokens - XenoSpectrum",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16UW9SVFhEM0JBLXdtTGFZWlFQaHBOS3ZwLTI0RU5YZ0ZCaF85ckNLZF9DOEoxMVNBWjZLbnVBamlrOVRYaDBWQ3E1dkFoY0NDNC1GcGpEUzRKWEZxSkFQcFlKZXNEREtJVHZTRno1cElCQ0dk?oc=5"

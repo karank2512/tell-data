@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 34.7,
+  "score": 34.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 23.0,
+      "contribution": 22.8,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -34,14 +34,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Exa: Launches Credit Card Backed by Tokenized Stocks on Base - Blockchain News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkppUFZvTlFXTXpoQmY2QWdISFd6MzdxUjhrdkhfdzdrTlNlYVRUOVpIRVB6QWZpVVhBbjZ5cHdxZ0ZORXhsV2g4bTRtTHRvMk9jNDBMdDdnU3BsZE9RZHFUMkdkckh6bV85ZDVUNTdJZHhpV1g3TERLZEdQWFlQT1ZsZURBOEVkak82NGJ4Tjk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-23",
       "summary": "Zoominfo Launches Native Integration with Exa Through GTM.AI - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV1o5eFpiTmxnd01sUXJ2SEo3Uk1WeWg2QV9HVVEwaDFla00yTGVXV3BRRHB3WVRMdFp6bzJaTGkwU1U0Y0YtLUxVRWVkakR2YmU0UGUzXzk3YkJQbTBJZXhzclFBTWpLSzBsXzVuLUdDMlEzZkFuU0lfek1hYnkwS3Y4Z1J5X29QRDlHSDRoRTRFWTF4MkhFR3ozQVRDMWtTRGdYbVo4Zmw0ZkJOQU9zUVcxQQ?oc=5"
@@ -110,7 +110,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 66,
+  "open_postings": 67,
   "long_open_roles": 27,
   "sources": {
     "ats": "ashby:exa",

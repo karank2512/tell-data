@@ -1,10 +1,59 @@
 {
   "domain": "withbenchmark.com",
   "name": "Benchmark",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 41.6,
+  "score": 52.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Night Of Thunder To Set €450,000 Benchmark As Darley Unveils 2027 Fees - Thoroughbred Daily News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVjZTQTVQTFJfLXdHaFBITGdTS3JCa3BsMExfckF4MFZwN2w2WWFRbThEUU4zVS03ZUp0OEtTdXBaa3F2YTdOa1dVdXJUUXZFWXN5RW5OSWllLUE3R081SkY4dVFnSGx1RWNYdEtBaERrSHlwQ0JBYS1GdnlIT2dMZWRHZEhwZWl1TEhrdXB1eXVuQXVXN1ZKS3VsRk5GeUxDby1Hd2xFRUVKQnVR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Anthropic Launches Claude Mythos 5.2, Scoring 76.3% on Cybersecurity Benchmark to Identify 0-Day Flaws - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfZTdTM3BiOG5SeVVvc3duUGhkd2Fxb0s0Qkxfa0FoUmF5YUVPNWZjTkQycDB5Mzd1WWozQm9zalg0M2JpTUZBTkpJOWFSWllCUkdsRm0xNmNOQ1o0OUlEQUpFemd4ZlBW0gFuQVVfeXFMUEtrYllZaE9JN0JnSmxlYWNNSk9kOUs3LTdIODd1SW5yaHhrb0tTUUpFZmdJS1RsV3A1T09uX2RKUi1jS0d6N3p5NllVdVpsbG1oMjF0RExKbG04UzJ3bVplV3RHcnJ3RDQ4eWhpU2c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "DentScribe Launches Perio Charting Benchmark and Reports 100% Across All Eight Levels - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcm1YMnBld0NobTRqQVRSZkt0LTRyLUNoeUZoUjZQc3ZWQlRzZnN4RmlkaUw3bFhUMUhFLWpqV3FraS1YWjcwNnRtOGdoa18xSXFOdEhuaXpuckRQWWlzZmdaek5ERm9GV1lBakpCR0l4YmJNQnBOcVgzc3ZVU0cyWTdmYW1FaUJNaDNoRm5jVUxyeTZjNFRXVnFsb3pucUV1TUJ1OEJsOHh3Y2liUk9RcjMtUC1ROTRWMzJMdUtNZ29yMGVSWExLaG1NeExYOUYyOVBHd2Rscw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Introducing GIFT-Eval-CTX: An Open-Source Benchmark for Contextual Forecasting - Salesforce",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iRkNDMUYyZkViYUF2azhjX0hNZVZhRXlUQ0UxZFgzRkh4a2tXSnZMMzdIbzlEb1I2bml1Uk9xTk05S3VEVE9TZG5CV19vR0JTaURYWmY2VUhDUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Moores Lab AI Launches New Platform to Benchmark Semiconductor Verification Performance - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc3lKZUs4Z2xlUDhuT0VpOEZxY2kzZTdqMHRyclBrMFF3UFY3OU1DcU11QkFuZ0JOQ1NnQ0xWWTFQZ1YyZ3hWbElSOWoxNU1oQmhMY2dzbEpkT2hVZmZzMjJjZ1NyVEprX1ZXRm53RGZyR1M2WXlVR0Z6NE9QMTZUeXRXWG0wQ2o1dVVjdE5vMGpsWGN1OFdrNTJkc0xSNEVJeXE4ZDNranhTdmNrdUdKa3hUQ1lYTUFJUGxxRVJyRU5VcW1Dbk40R2c2d2xIaFk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "DeepVest Releases New White Paper Establishing Practical AI Evaluation Benchmark for Financial Advisors - 01net",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSElpaVNCMmxlY1BEekpIY3hyQ2N5QU1aTFBJbDJDSWROMFFBLTBPa01TMms3YTBnU295bmtzY05mMjNsUVBMV3RXRkpkNUx4bDlONng3bXVtTjNIV2dHUjNKOWt4ZURpSEZBUHNXSjRNTjctaFFWRjlHc05tNms0Z1NPdVdYVms3RURsMnY4V2cxN2ZlN1RVbzZuQ3laMV9vV2hLMzFmaDlWODRmdmpzVVdSNWRhM2h6Wk9veElydHFLYzQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Physical AI Startup RLWRLD Releases DexBench, a Benchmark for Humanoid Dexterous Manipulation - Wowtale",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTlZaWDB0eGFzZmZZX0pDc1QxLVZ5Nk1TMmZVb3ZpRG54RFI1WFVYQ09RXzluY2x4QVVuZnlCeXBONDZUc29hQV9BcEVVdEo2U1VR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -43,34 +92,41 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-05",
+      "summary": "Visa Releases First-of-Its-Kind Industry Benchmark for AI Shopping; Almost Half of Test Runs Fail - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjl0TDlUNS1ITnZNcXN4SUVyRWdnc1k5azVaVFRRb1ZScjVkdTctblg0X2dUeWd0Y3liV19yQWoyMW41TGpqV1dlNTFqa0U4a3Aya0xlcU1lNE52dFRyYUgwc0Y1b3hYdFU1TGw1MW4tbXFaWGlJQzZpN010NEtQcVNiaWRnaXdlOGdDMmQ1WlBlX20xdGI4VDRwVklUdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-04",
       "summary": "Cookiebot by Usercentrics Launches Consent Rate Benchmark Add-On Ahead of BFCM - Barchart.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZm1xTkZmVkY3a21fTGNiZ0FvOU5jZVk0dmZ4R3hTMDdxbkp3ZDI3T1ZHOVAwMWtpNWJvNWsyYkJ4TGZsU255V1dRWWl0M2NrY1owZTg2dG5ST0R1Mk9uRWdSemVrN1JROTR6a29QSjdscm00ZkxWWUFHbUxvTExaaVJkWE1UVEZySm5EU0dCdjZjSWlUSHd2NEV0UXZDTVU5V0FTOHR6cHg3UDY0T0d2V2NfaWxic3hrazRoOHI0SFVndkRR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Mandarin Oriental launches new sustainability benchmark MO•RE - Boutique Hotelier USA",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlJSdFVCX1VxLVl5LU1CVUhMdFM0UXI4VDc3QVh4MWJxWnp6ei10bnY3Y2stWEhzOTdmajNoeTBXSXJsSmJaeHdUM0o5WXlIT0dRbElYaE9NSWRsZy1KeDlHZko2V2Qtb3dFV3M0Y1p6bDhJdWYybDA0Q1Y4VnhyVUowdXdPOHFmTW83TTFPMmpMMDlDLVZlU1hn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "OpenAI Unveils New AGI Benchmark \"LifeVal\" Measuring Performance on Everyday Tasks; GPT-6 Astra Scores 80.6% - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpNGthUnZObnFuN3UxZEhNSDB4dUItejBWMDN3U0VvbXNLYXl5aE5RYUtMU2gzUnhRNmZvTDdQU1VDVnFuVkVEZVBTZ2FrelNvRTVwaHU1VVFJNkFTWjRzcG9VbEtiTFN6YWlOMGhNaGRwdF9CU3c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Benchmark Senior Living Introduces Innovative New Approach to Dementia Care - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFZIT1NiZW11eWwzd3lnVjhqSFFnbjRCb3JHX0F0YVdFUXVFb3BmQUJMSGZjRzNjb3RnVVU3Q2dUWldzX05kVjVhZVRiZDVSUnRYWXg1bElJa1ZlSGtzTzhqWThVdGsycEtodnJ4b0FibnNsMTZQSVhLSHZyUXdmbFBMOEwzWHNFSlFZMkpZUGRpejFNWlE5ckRFTGZaNlhQWG5NQkJJd2t5VGdybDl0MEN6TDMzQWo2SVFnbUJ5SDNBTWRZVlFNcWVMWlJaWWs?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Benchmark launches uranium price assessments - Benchmark Mineral Intelligence",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0xmcUdkRExvM2hBTVotZFhkWW9rYlNQVjBCR3lUT2hDSF9qQTVKd2tXbFdkMm5XdkFORTZRdDVFLWhKWmI2SkVYbFFOXzZUVG5JR3Z2UXZwbnYtWWlFX1AxeTdlVHZTWjFBeElXMk9UQ0hxaGRwNlZaQ2l2bmtxOVBaUThLaTFiZTRqaXI0NVBJem8?oc=5"
@@ -105,28 +161,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Celestia Unveils Voyager for AI Payments, Citing 21 Million TPS Benchmark - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tMC0xTTFNMjNldG9rVzNXYmZCYWM4bm1MRTdoODJzMHRlaWpudEtOX1NNZXpLVFpGZ0FfNUlUWGIydEJvUF9ZdHgtRWZPakM5ajdDUlZ4SEVLZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Celestia Unveils Voyager for AI Payments, Citing 21 Million TPS Benchmark - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1pab3ZHM0d3Tmw4N1h5OWJxOUJsbG1yeVdnOThnLTM3LXltZ3o4akRjOVF3VmNtMVI0cy1fVW0wZFoxUmwwdHNaYXp0cmhuWUV4RTQxY1p0UUphTlRPb3RmN0FtbzVIUDB2RnBvc1cyR19xSWlELUdpcERFeU5hSE9Pa0lfV29zTG9kSmktUFRuVHprRjBaRHY1SVAzMWh2Vi1ocGhDZWE5OUc2b2Zjajdwc1k?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "SecurityScorecard Launches the World’s First TPRM Benchmark to Test Whether AI Can Defend the Supply Chain and Withstand an Attack - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQUFc3SWlIRlk4ekRscU0tS255QmNIdnVNdDBHUm5jZUJabkZfZzFISXBxb3dBd2d4WFRRdGk5T01tTC04NnFJZHJ5OU5aWXVOdHBNOXZ3bE9TbFNBZEZSekZyMDI2Qmo1YWxJVGEtbGsyTl9OdElnU0pyQnZ1TG5vSmVzUTJiUURXaFotYmV4TjVhM3pKOTBIeWRjM21PWTcxXzdkclFyYkFBSzJFSVpUYW1qUmZHZHYySWJXcmtxRmJEbmt1dkhxU3d6dldpNV94eU1XaTU1TkNOSXp6c0dvdEt0QXhuQVdJRHpmcXRwcVlxVTRkaXVkdzdGc0RXQ2FobUVuekRmclUtTEM3TUZNMnBoWElTUk1HbW8w?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "SecurityScorecard Launches the World’s First TPRM Benchmark to Test Whether AI Can Defend the Supply Chain and Withstand an Attack - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMEZzWThmZjZqUnpYNFY0eVdlU2UtS092U253RlphenhRazc3RjJsMnRHbGVGYlZQTHlsOFFTaGRPMU8zZE1pSUdWQkpvS0FrSDZ1QnZzTG5FNzF6V1dNNGFiNXIwNm9MZU9XbzZpMFJoQXctS0dacm4wa2ZSQVFxbGU1R1dqdTROekZlOXRhTW1GVmFpQkhnU3VsOFhXQ0hsb01nMlNNSi1nWUdBbERJdDIzbWNiYXNrSnMta29RaTRFUTE2NThlR3ZiWFFXS3Z0NjRHUUc5MWdNNzJkSUZFbzd5X2MxZkZubDBNY3Z5VzNYYUhkbENDeHFuYzNmQXNDM3BBUkNzc2o2SzlNd1ZTR3hpS1c?oc=5"

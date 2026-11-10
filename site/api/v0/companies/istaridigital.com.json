@@ -1,19 +1,39 @@
 {
   "domain": "istaridigital.com",
   "name": "Istari Digital",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 13.1,
+  "score": 15.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.1,
+      "contribution": 13.0,
       "occurred_at": "2026-07-24",
       "summary": "Form D: $40,000,001 offering, $22,649,970 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2051439/000205143926000003/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-10",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.lever.co/istaridigital.ai",
+      "postings": [
+        {
+          "title": "Public Policy Manager",
+          "posted_at": "2026-11-03",
+          "url": "https://jobs.lever.co/istaridigital.ai/b0709871-76ef-4088-9ba1-6afaac74fceb"
+        },
+        {
+          "title": "Federal Account Executive (AE)",
+          "posted_at": "2026-11-09",
+          "url": "https://jobs.lever.co/istaridigital.ai/9c1bc75d-fa5e-4265-9c13-99529585b460"
+        }
+      ]
     }
   ],
-  "open_postings": 7,
+  "open_postings": 8,
   "long_open_roles": 3,
   "sources": {
     "ats": "lever:istaridigital.ai",

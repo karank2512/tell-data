@@ -1,14 +1,14 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 12.1,
+  "score": 16.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.2,
+      "contribution": 3.1,
       "occurred_at": "2026-10-30",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/coinbase",
@@ -36,11 +36,39 @@
       ]
     },
     {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-09",
+      "summary": "[person] Joins Ripple as OCC Gives Green Light to Trust Bank Charter",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3cwc25fOUhhTmR4S25fX1FRUFVuVHlWSDdrR243VnJyM0RyQ1VwTkdRNXJXX3VOVVJ6NE5ueTd2R0oyUjdHb1dVNmxtTWRDeWNwczdUNWUyblBMemlKSUx6YjZQXzlIYmRyazhmUUhoRTVCTUphX0cxbG91QkRXSVRPTmhfYXFaaTM3LWk0VXZDbFluWmZtVEF3?oc=5"
+    },
+    {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Coinbase launches National Trust Company with federally regulated, institutional-grade custody offering - Coinbase",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbE1xSXMwbUhzd0FMbmJSRHZpTDMxTTFYOWFidC1wRENBWEdPYTMyei1xQ3RLNzVwVnNLOEV6RlZNVmswem1qaV9XQ3Y1UldUcDR5X1BFaEJBOVE0enBkUGdfY096Q3RkeXp5YmdzZ3VucEUxYzNTT3lwd284RW4zWDBFeWVOSXRzbl9VaWVEQVliSlJKSXQ0S2kzWUJ4akFNUnRvcjllQjJWTlc5ajB3RENoNEYxSi1ETUlmc3V2aWJtMk9qYlhuRkNBN1Q?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Coinbase Launches National Trust Company With Federally Regulated, Institutional-Grade Custody Offering - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdFVUU1JDQWdVUTNrMDg5b0pPNlFCV29ZSk50Sk93bU9aMGpjdmlZNHlUQlY5Sk5WdGRIcFVjVnE1enF1QU9MOE9GOEtNbmd3SVFQY0RrUXZTQlRCU09HdEh2dFRpNElHTXhiZ2NJREc2S3FXOHA4eTBMdzRrNjBFQ2JPbUZoMGxLOUU3VlpXY2tuOTNPTmswZll4WUVXM25JQ3hpRGw5dHR4d1NscUJoRVYwYmRUbkNteEZFQTViWkdIWnFpX0hYRi1JYmN0ZFkzUjNkT0JRYjFDRjR4bk83ZDIxM0J0eGMya0JtTkxWRU1hX01oVEtIWVBqMXVhbElDdFE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-24",
       "summary": "Coinbase launches crypto debit card in the U.S. - Mashable",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNSmlidWZrT1VVc1BxczhiWE1EZWFFZGEyTmEwbDl1RW1oRm1IQlgyRU1NNWRMY2NLSF93ZW1YSzBxVG9TMzVGa2cxU0tRX2pvX2taZ0c2V3lYQlZ3UFVpeQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
+      "occurred_at": "2026-10-21",
+      "summary": "Crypto exchange Coinbase launches Singapore engineering hub in partnership with EDB - Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDBEdzVnajVwaEVqcnFiVjRsMU5lM1NOMkV1MmtvRzlXWjhTYzhiT1NOU2EzN3d5YlVGXzBOMlBnNnhIR1V6eWdDdWg5XzdIbkNCenJIRGhFOXpQeFJZRkhEY0p2TWw3amlISF9IdjRHeG50cUprY1N1Znl0NDVyQzdFN1ZfNzZtSklrMlhJdTFKZlFHYVdYTk1fdm5Jd3NhaFExMnFfNndOZW5uU2JGa2JUcXNsaERnaEdxejh0UU1rMjVYUHc?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -71,13 +99,6 @@
           "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842"
         }
       ]
-    },
-    {
-      "type": "launch",
-      "contribution": 1.1,
-      "occurred_at": "2026-10-21",
-      "summary": "Crypto exchange Coinbase launches Singapore engineering hub in partnership with EDB - Singapore Economic Development Board (EDB)",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDBEdzVnajVwaEVqcnFiVjRsMU5lM1NOMkV1MmtvRzlXWjhTYzhiT1NOU2EzN3d5YlVGXzBOMlBnNnhIR1V6eWdDdWg5XzdIbkNCenJIRGhFOXpQeFJZRkhEY0p2TWw3amlISF9IdjRHeG50cUprY1N1Znl0NDVyQzdFN1ZfNzZtSklrMlhJdTFKZlFHYVdYTk1fdm5Jd3NhaFExMnFfNndOZW5uU2JGa2JUcXNsaERnaEdxejh0UU1rMjVYUHc?oc=5"
     },
     {
       "type": "launch",
@@ -140,8 +161,8 @@
       ]
     }
   ],
-  "open_postings": 283,
-  "long_open_roles": 61,
+  "open_postings": 288,
+  "long_open_roles": 62,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

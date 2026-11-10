@@ -1,13 +1,13 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-11-09",
+  "as_of": "2026-11-10",
   "profile": "default",
-  "score": 45.0,
+  "score": 44.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 30.6,
+      "contribution": 30.3,
       "occurred_at": "2026-11-04",
       "summary": "Form D: $550,000,000 offering, $220,820,026 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2071663/000207166326000002/"
@@ -44,7 +44,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-13",
       "summary": "[person] joins Legora as lead legal engineer",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSGdvamFfUHpBNThaZnFhTnFqcUZ0MDJSdi1VRmlieEVGTHM5aXFjNGcxRk9ReHlKSk1fTzktRzM1cGpFRlBPTktxUW1QTGxRakVGQTlQTXlvRWZNMGR0UzB0OWEtRnJOSmRjRFhHNUIwWFBHNUZMN0NfRGgyLXRQZEkzbw?oc=5"
@@ -58,7 +58,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-30",
       "summary": "Legaltech Rundown: Legora Introduces New Research Feature, Filevine Launches AI Voice Agents, and More - Law.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeW5CNmFVNHFuNG12MUpNUjdEQkt0MlZUc1FNTGpYNDZ1eS00cWw1UkpYSGtfVVBNQy1fY0t3UEphbm9OTXZ4aE92WE5BS2hDYTNPRzNUbTZWVmVaUk14N1JvSUt3cmJwLVdaMjFzbHRRY2tvU2ZhRncxUzRSNWpBVEFtTUgyY0dwb3lDRFlyS25RTnppZkw1MmxYeG9sSVlsMjRCaDdnSlRrUEZKelJ5Y2phemxzNWdoMm1laTVQTlpYN1dRUnF1dzFHLWFTaDlFNDVmeG5FbWtvOGpjWFQw?oc=5"
@@ -156,7 +156,7 @@
       ]
     }
   ],
-  "open_postings": 319,
+  "open_postings": 327,
   "long_open_roles": 106,
   "sources": {
     "ats": "ashby:legora",
