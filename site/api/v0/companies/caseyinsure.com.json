@@ -1,10 +1,17 @@
 {
   "domain": "caseyinsure.com",
   "name": "Casey",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 22.6,
+  "score": 25.7,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-11",
+      "summary": "Allen Lund Company Promotes [person] to General Manager of ALC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTljT1Jxa1ZDLXZlMDF1X0FQd0xNbkNjak04NVRycTE1ZURPSEVacDN0OUR5c1FESU5aRnQ1WE5qQmJneUVPdlRRdWl3RWFSN1BSVVhRSFhlWDVYczNONzBPQlRBUFhMLW1JTmphNmc0T3o0dDc5aDcwZVZJN0c4X0JZT0JNNE44T0prTTZhMUNRaGN4NEZsek0wYjdqTVFSQVQ5eU5zVHlmV193Q2twSFZWSjA?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
@@ -21,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "SMP Capital Partners Appoints [person] as Chief Marketing Officer to Scale Executive Leadership Team",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNWFIzWnJnNEl0RUVaaDBTTTF1UHN0YmR3eVUxTDNramNvVFFsdDczTHl3OGh5Qk5pYm1GSWoycFRzTXNMTmxoSE1WQTZyb2xZR2lWcldsTnYtNHlJMGFuMU9xUkhfaWViSDI0UGR0SGd4b0dub2hMYkdHaDdPRFp6d29HUV90a2tTY2VQOGJ6Rmp1SjlYX0JSOXNSeXUybXY4M3V3THNycG4tazY2UHkxWFlTYjlFVFg0enFOd2RNNE5DMFVvbWNZMXhXRUUybENzMF9lYlp3UXZEYUFMekpobXhZeDV6Rzd0U2VfWkxORkgxNldVYXA3ejFGZFd0MUxHX2kwNHpMSk9UR1MzWEEwYkdwdEMxZXJXSWwxQ0libS1Cdzhlb0VXTnFsaw?oc=5"
@@ -29,6 +36,13 @@
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-08",
+      "summary": "Casey's General Stores (CASY) Launches Pan Pizza, Is The Stock Getting Expensive? - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1Q4TUxjWDE4bjhZS0lDMUxTMHYzQ19ZbVhkNjB3M3AzMG1Iand0TUpLVE9KRzc0MFdKRkJMWjBaNDFPUXVLckpzZHRiOUlKRGpfTUdVVlI4ZTdQbmU1TzcwSTl2Nm1wSHpkOGN5TGNjQ0lxa0xLa0RpaHVXMzM4X1J0VXN0MkhrWERXR0hFOEIybUZIRkNKUS00clZuRG5MNXBXbnBMUjgwazZUdUhzNHBuLWZ6M3cydTBIM0VNaldqOHVULXJkRGJ1dkhGcGJOQzRzWGpjNmMzWFQ2VXk5cXhGWnnSAeoBQVVfeXFMUEo5d2RTclprNlhyZlJBUXRpV0M2cy1QV0dtMjlsWUl6MjZkYTcxX1FMOHN1T05ldnYwOTg5REZNdGJtSm0tbzV2Z0tsUGpGeEw1NmxSVjRsS2d0WFpYOHc0eEhhdFl3NHhXWklNbXBJRVNTbTRMbmx6anZNQzY1eXJKbjFCeDlqNEhlTXdEdzlvQWFKMlFhR3hfWkdZVWltbnNWNlZlclMyQ3NEWWRKcmpldkVXTzhWMHEwY0RlM0lEWnZUTzNpaUE2LUU5Q0g3dmxzU203MmtSc3EzWmowWEduQVF4b0JYWHNR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Cat Chat with Casey Alexander Debuts Thursday Night - Kansas State University Athletics",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFBoTHhpUTVwMzFqV2tjZWdzRTF1VHJRVDY4clJodDVzcXB1REdHaVBsN0tyNHNWNHBONkk1eVFXa2tkUVVlcFBhazJQcHlmV0ZUbUVHY0hYYmxRX200eWQ1QlJMTjRnbVFObGJaWnBsaUU3WjMtWUJxdTNvYWxjVi0tT1FKMVR4ZlZ6LVZrVUJ5MzV1TW5qZVBvTml3UVF4NVhyZnZZbnVoTFFva0Vwcw?oc=5"
@@ -105,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Casey's launches pan pizza after 2-year development - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONVV3ei1Xb0dKWXVOTy1zR0NmV2MzQ1R4bDFJMXJoNGoxZWxaYkVCNzEza2dfVWpxN3VqNWc3UjI1b0EtajZSdFlCMzhSRkprQ1dWZG9udDkyUDltYWp2ZlF0NFhXTkptUWcxVHBmNjdrZ3czb1RKZEFsZmdlQnpUcmJMZUl2U2JmM29sZ2htQlVGeENrOURfa2EyMW1acGxNTWc?oc=5"

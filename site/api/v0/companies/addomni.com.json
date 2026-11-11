@@ -1,9 +1,9 @@
 {
   "domain": "addomni.com",
   "name": "Omni",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 72.4,
+  "score": 72.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,10 +14,17 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-20",
       "summary": "Loyal Source Government Services Appoints [person] Vice President, [person]",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbkkycG54U0J3QnJLWUN0WXJuYW9maXdWLVFiOUc0Nm9xWUx2aVljLXJKd290bXdnTVZvcklwcjd6dlJiYWZ0RXFXQUFCOERBbTRFWER4WjQ5ODlKcjY0ejlQUzVINWdCRTJVeF9vbWh1emZEUERBSnN0V00taXh1SkFyd3Q3bmFtODBNQmQ2S2FObEhULVIwOGlMeVAwY1NuRU9OZHR3WmR5eDJaVnkxTFZwV2Y4bnNDclRkZFk5ckhLRWVWRlNGcUViMHlWQlNJQnhvbWREcndiZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Landbase Launches GTM-3 Omni: New Benchmark Shows AI Agents Beat Clay, Apollo and ZoomInfo on List Precision - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUVpJbU9CdVpzdGQ5LUxFRndwd3FDZzhpU0N5aHduMEpSQm1jdlJUaTN5a0JXSTFKaG44VmQ2cUcybWRBTmwxcEM2eTBSc01IVlhXenVDQThLUnRLWUNOeEtCamRoa1A2Nlp2TzlBNkxFM3pOMVhDZUJYV1lyLWpaZDVrZC1ybElzS18tOW9mMTdzMEJ1VmNDbV9lZnRubUp4VENzYTFaY1BrTUZ6YkxmOTVXN01idw?oc=5"
     },
     {
       "type": "launch",
@@ -147,35 +154,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Google Launches Gemini Omni 1.2 Flash with 15-Second Video Generation - Blockchain News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jUDNVc1FZM09xaThxanc1bmtTa1k0LW1aTnJHczdMUTdKOUdCUThfNDNWYlEtQUFoakNQcXAtUHpkRlZPMWUwa2xWMVpPTDRRWDBfelBtVUhOcXVWaFU0azRmM3NKV1RpR3dDLTFwV0Njdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Google launches Gemini Omni 1.2 Flash with longer clips and lower cost - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcXhzWFVkbkVDYTJYVm1HZDkyOUVDSVpzdWFIUWdDMjZtT1JNYjdzVEZ1MndRWjVPVDZUR1plLWZGalhOUVdPNEd1TlljUnF2QjZlbzRwWUp1NlM2b3p3ZlpZR1JDVW5DanNKSFlPSFVMbDVQaTNrak5HRUZmdkhGbURPSU00WEsxNkVZUTRnQnNtd3FYdXlGbFBOdGRvM1dFLTZNRnM1djdPM3VkcDM3anh4eThuOTZEYmhlTHRzM3NLZ0hSV3F4ZE9jNA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Google unveils new Gemini Omni 1.2 Flash AI video model (GOOG:NASDAQ) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3JNaXNCa1FWYzctck1VUTg3aUNMMDlfcDZBU0EyV2l3TUk2RmRHUnFTMlNfODhuU3lKTUNBSlBNQkFlVUU2cjJWckZURjJHRmVDcVhEem5tVDJPNTduTlhkeDRfU0hnX3VzV2YwT1JXVENlUmFtOVJkeUFmSWJ3eWxDVEtPTmNuMG9rakN1TFRvQ2xrSXROZA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Google rolls out Gemini Omni 1.2 Flash with 15-second AI video generation - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43Y3RUT0RPb2pwZnR3Rk5yUWNwRTh0T1E5SVhyaS1VaUtxcHJDTVhpbERmRE81MmJPTXMtd1A1MkNadGhRRUJLem1NYnJ1bUZzSGkyZi04eDBydGdiUFJYSkczbXlSYm5VTmFBeUdR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Eufy Launches Omni S2 Pro Robot Vacuum with UV-C Floor Disinfection - Vacuum Wars",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GaGpUZGEwNVFzNEw0UkVxWjFDa0tfTUxuNjlBWjRIMklMQWpjS1JHcU5iaTZqODhsRy1zOFNPdmxtcVlvTE9UZGdjbTV6XzZmenVoYmdsUnMtcWM?oc=5"
@@ -357,14 +364,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Navi MF introduces Multi Asset Omni FoF - Investment Guru India",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTljd2NTWDVOeGhoU29wZG50ZzFDLXBkUS0yaGJHOVd0Zkl2TjBEclg1MDYyY3NVcWpjcEFBZGpDdlNTU3pkVXFFRU9VWUVTMXpVSXpnYjZxS3N4OV9USndGTGZLa2NmYkF2cTFGbmNSS3ZMMW9YYWgzZVpCUzRSenFtaXdvNGhzQ0NpVzdITXd3S28yWUJ3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Navi MF introduces Multi Asset Omni FoF - Investment Guru",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWlpYZFU5UVpEMW1vS1dlaWdmWnR6Nkw2TmFHN2h1MUJtaDdMQTZqMS04SDRMV3JZSm1KbjZHdFZRUnlSUGdZRmJrUmtydkhOTHRneFRGMVlrdnh3dFVsb2xQVE8weWpxYl9GLUY0R0dPNDlxY20xVFAtNWpQOWxFaGJCOWdMemhlT2Z0ZFI5TGk5UQ?oc=5"
@@ -378,14 +385,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Cowbell Launches OMNI-Powered AI Risk Advisors to Help Policyholders Reduce Cyber Risk - Cybersecurity Insiders",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlVzNU5tTnZhQXVKMHZibTdrWnAyaElNRERaRUZOdEhOOUVvOVlBLU5MUWVDVWdZYnRUVDFucnBWdWw4TGM3RGlrWHhTbzFxX3JkWlVmcGVTTkNGMFlxZFpMdlJFZW1LUGpHVldjUHgtazRHaUFuT3ZjR284RklpNFgzUnFTQkdUdzY0Qjc4SThpZGJ5QmtlUHhoYXdVYzFjdDNUbndmcXE2X29YWldGZ2NQeml3Q01NaE95T01IQU1NQU5x?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "OMNI launches joint, skin, calming functional dog foods - PetfoodIndustry",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR1h2M2JBM0xPZElhTGw5VmhQQU5UZjFvcE9IcUpnS2JiVXlRWUs0ZVZUMmh0S3ZEQVEtTzJPT3p1OUFHTlRiYjJYN3N0TmRSUDlZU1FKYk5wWWRTbE9MZU9RajhLZlRLUldiWk9McHUyR0VieDFJNy1sTk83eHBqb2hoR3dTNU5oYWhlbEhJSzJtWFpSR2N4bGJEUU4xNl9HYlA3SXhoZ2J2aTBsYnh3dlV5aVgxSmh3N0lMa0hDMDFsdDJiMlBvN1Utd24?oc=5"
@@ -399,7 +406,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-29",
       "summary": "Kaze Living by KSKT expands into omni-channel retail: Bringing healthy food closer to consumers - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3ZYMGpXZ0o5VTJseHVvMEJURmYzdkROdnU2UnZtdDhkblptTUtySDAtVm5JSFI5dkVKbFJxb0R6ck82TVF2QU0zYXkwTExhU29wZFlUbHE0YWV5WDI3VnFvbGRTaHJPeXBxdEhPbi1YZlA0STk1ZUFmV3QtbGxjeXFXWWMtZHpkS1dGT0ZKc0U0OF9hM1J6Z1c2eXlYSUR3R29vQ0tELVFhZTdIZldaTkNwc2F6cTdrTHJONXZkMjhsWWJMNl9wTXIyQzJXUTZXZFRTUkM0QWJ0S0xU?oc=5"

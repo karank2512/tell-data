@@ -1,20 +1,20 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 8.3,
+  "score": 8.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - riauone.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVFFSSTRZT2RvVTF0QzYzM2hXWDNzRk5xZ283OHpjdGNrblhBcnpObkRrelBxajQyQVBtWG5NOC1ucEFrRFNUWVJuN2JXb1A3QXhwcEI0RnhhRURWY2hCeWxodTNOUEFtOFAtTWpuZUp0QzFxdTFuLTRndDBoV053U3pLTWlWZUhYYm1BbWxTLVJwaC1VVXJjX2xBNWpnbF9rRzNmWDdSVXJSZktrYjhxOEZXVnVBMUhXZ3A3VWpzZzI2TTU0NGxLbEZKVTh0aGpadUlF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "TRM Labs Unveils Ardence AI Investigation Tool for Law Enforcement & Defense Users - ExecutiveBiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaV9iMnRHRHYwT2g0R0lIUkJVX0I3MG1wRDJfZ2pxV2ZaX3huTmJ2QWgxTjI1QjhodTE0Smo2YmFrMXMxRmtmWmdWUGlIVEg5WTdZVGRuejFrOGNTOXlhV0lUa3N3amVzSldVandBX2xWcWZJcFhaYVpxZV9UWFVqbGt3?oc=5"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 1.0,
       "occurred_at": "2026-10-13",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - TRM Labs",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXRiMUd0NFA1YWgtNkMtdk9ORkd6VVN3ZlllWkcyU3YwWTVXYlg2dDZJRmliNXRfa2tyRWhDcjJFRDVMMjJBcFNHRW92Q255Ynk3ZkQtSDlrV2RIS3NTdjBGd3F0T2J0d19hT1V6eVRXRnNMUEpJOHJGdGJ2LU42MDNPUlJ6cFNoQjNhcWFn?oc=5"
@@ -125,7 +125,7 @@
     }
   ],
   "open_postings": 115,
-  "long_open_roles": 38,
+  "long_open_roles": 37,
   "sources": {
     "ats": "ashby:trm-labs",
     "edgar_cik": null,

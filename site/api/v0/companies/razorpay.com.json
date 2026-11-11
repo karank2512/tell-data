@@ -1,9 +1,9 @@
 {
   "domain": "razorpay.com",
   "name": "Razorpay",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,13 +34,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Razorpay Launches GIFT City Payments Platform After IFSCA Approval - Fintech Singapore",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaGtMNm1Pd1dhQzRTWFJkal80WHpLclc0SUJTeTM0d2FVOWpDZk1tVnNHeGY3SXphYlJkcmczNFU0dDY0MXlNeXRJYWs5WGJaVFR0NHdKQ3Z2a2JGdncydjBaWldONUZfWVpOaEZPQmEyelpocW1UOW1Sc0ZnM21UT2NxaFYyLUpR?oc=5"
     }
   ],
-  "open_postings": 27,
+  "open_postings": 26,
   "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:razorpaysoftwareprivatelimited",

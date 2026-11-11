@@ -1,9 +1,9 @@
 {
   "domain": "getaleph.com",
   "name": "Aleph",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 15.5,
+  "score": 15.3,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "[person] joins Aleph as Country Head for India",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdG9LUU5CVFZpd3M2Q1YycXBlRURNM2FfYnlIWGhial9iVGRrZTZpOGNtMTBoemR5aWVhWHdSRDhETDBuNFpwb2RtYzVCVWRyMDZyZ0wweU9meTJIYVNscVNLMm9rMXFhSU11M2k3R3ZMY2xUN2JUbXF1cm0zV3V6SmVNX0JDY1ZYMkQwZUlRTDFQR0FObHpjVG1wbDZDWF9oTkJBVDNNSUlneWo1WTJLLTZudFdkZw?oc=5"
@@ -70,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "Aleph Alpha Launches Kolibri to Bring Sovereign, Open-Weight AI to European Enterprises - Techiexpert.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmdoWVRWT0RxajgwLUw0Q0NwZEdJWjNMY0FUMndwSmJKeFN5bXoxQW1vaVdNei1rNllFaFh2Xy10MEhtUF9PWUc4YmFBWlNqWGhsQm9KdDZNZmNPT2doX2RiWW5SLVNPUzAzQ2hhbFBsZmRZWjVxVEs0UVpucTJpMkRQUG1XUTFaVThMQ2h6YnVSclNYelFvS0w2aVU2WThuTHpucDg5UzA1Tm5zUGhOdA?oc=5"
     }
   ],
   "open_postings": 15,
-  "long_open_roles": 6,
+  "long_open_roles": 7,
   "sources": {
     "ats": "ashby:aleph",
     "edgar_cik": null,

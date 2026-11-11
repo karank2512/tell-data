@@ -1,14 +1,14 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 11.2,
+  "score": 12.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-31",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -77,6 +77,36 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGMwRzRvbjRYQzVOWFN6U2VLb3ZQUUV4X2g5QllRdXpmWHdaV2doU0dBS1VuTGlYU2QwZEhmZmRMOWFyd3dhYUtNbEU2X0wtNUxNT1VST3VET0cweV9Dc1hMWEhwZjFIVWJMVTlZeVotdlNWQmhVNFV0ZmtKdGRmRlJSenM3ZUgySnN3WEpwN3Q4bWEzQTZxdmFONk81N2hFbUJr?oc=5"
     },
     {
+      "type": "hiring_velocity",
+      "role_family": "product_design",
+      "contribution": 1.2,
+      "occurred_at": "2026-11-11",
+      "summary": "4 new product design roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/instacart",
+      "postings": [
+        {
+          "title": "Principal Product Manager, Ads Quality",
+          "posted_at": "2026-11-05",
+          "url": "https://instacart.careers/job/?gh_jid=8356128"
+        },
+        {
+          "title": "Principal Product Manager, Ads Quality",
+          "posted_at": "2026-11-05",
+          "url": "https://instacart.careers/job/?gh_jid=8356130"
+        },
+        {
+          "title": "Senior Product Manager, Instacart Business - Growth",
+          "posted_at": "2026-11-10",
+          "url": "https://instacart.careers/job/?gh_jid=8373034"
+        },
+        {
+          "title": "Senior Product Manager, Instacart Business - Growth",
+          "posted_at": "2026-11-10",
+          "url": "https://instacart.careers/job/?gh_jid=8373036"
+        }
+      ]
+    },
+    {
       "type": "launch",
       "contribution": 1.1,
       "occurred_at": "2026-10-20",
@@ -111,7 +141,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-27",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -159,7 +189,7 @@
       ]
     }
   ],
-  "open_postings": 93,
+  "open_postings": 96,
   "long_open_roles": 25,
   "sources": {
     "ats": "greenhouse:instacart",

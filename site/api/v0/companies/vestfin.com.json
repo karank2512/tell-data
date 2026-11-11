@@ -1,10 +1,24 @@
 {
   "domain": "vestfin.com",
   "name": "Vest",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 17.0,
+  "score": 21.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Lululemon launches Ventscape cold-weather run vest - Sporting Goods Intelligence Europe",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEVhMDctUjRYeW0tRjhkd0VjSlNreFEwbGZEMnBQZWxObVFkZDZGd19ESHlnX09NVWFWcXRXMHEyZkJLMFhKR1kwTFFRYmZUa3ZiWGdnT3dXVkdLVFhralBHV29PTkNfeS14c0Nvc0xqOVAtbWcyZ0Z5aU9ZNDlCWHlCQVhGWGZJWnJHeXJLWjhyV0ZmWVFSODdhLUN4dFIx?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Lululemon unveils thermoregulating running vest - Knitting Industry",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1QzTE1kQ0dLbUhodlVWdFI1NGNHWkVyMXRzVWFmVWp1emdyYXRDQmdRM1g3a0d0Y01DNEYwQko1bmx0a0JWby1LbVA0OElhbm91NzNDVzJCNEQtOGtHNkZUMklWMG9IT1o3MHhDOFZobVhhN3ZUdm5KRFppNkdUa0tPWQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -25,6 +39,13 @@
       "occurred_at": "2026-11-06",
       "summary": "lululemon unveils cold-weather running vest with adaptive tech - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXhEaTRtRUFVZ1BaLVRTcEYza3pjcVVialFWLThpQ0hGbW92Ynh4aXNoNENZczA5bzd3V1VuNXBzVmszR0wxVnN4LUhwNkgzZGJjVGI3SUNmUDhNT2VNOEM3cjJOYkZkVDkyN01iMFJ6Zmp4YUsyZVhoTW9QbER5UE1xdXFYSlIzWnhuaHY5dkNRbzVONFc4RThkdE9JRDFueHhTLWlFM2MxZnFsa2VIaHlDVjJaS3E5SVE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "lululemon Introduces the Ventscape™ Run Vest – A Product Innovation that Simplifies Cold-Weather Running - Lululemon",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0RhYVhuU1V0LUJLRWNCUlVyTlhITnQwcVdudEJpY3VDdGlZNnFtRXV3SGh1VHhXSUpQaGlKaHQ4SENQY29YblZjbjVybFBreG1jdzdHR0wxRzFWazRrVEZFdVpTR2dtYld4XzhPNHlXMm83ZURNaEFDeGJDeG93eUdQVnVpTXJ3?oc=5"
     },
     {
       "type": "launch",
@@ -70,28 +91,28 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-16",
       "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - lincolnjournal.com",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZTNDYnZwWHpJUXJseFh3Vy1DMHRXelZXRjhmQzNEbkxJdW1LaWZQb2VwN0JzV2VzSF9IeldPNjU0MGJyRkxibThzS0ctOUhmeS12Smk2cFRSOEgxWWx6TWFzeEVuNWF6ckZNZkxObzYwOEJWaVU1MkhHQzEwY3l1bkZrbHVhZVM1dDhiRkpCMVgxUTd1SjlBNnNrWV9iY1VJUDVVR1MtT2RNQ2JTYTlGMm00SllFaEhmRzNSeUtIQkpSdndFNjh4SXZEM0lMb3dyUFFGcU1kTmwyOFp6T3F2UkQwdl9iZ3VtWk44NWRJR0ZWbXZkQkkwWC1PN0ZsVWNOb2tpNWZoZkxwOS1JeWViNHlXUUtEWUpxY1NfXzhTcmJubWM?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-16",
       "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - mykxlg.com",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQckN4M0hCa0NLNkxELVU3eThoQWliOTNtVTVLcXVJbHdRSVF3WURNZ2ZGdTlGT2VFZjVjaFpJOXdtVDNzekZUVjkwQ3JiOWRwdkN1a3FlNEVuY3JLS1czMDd0WkRwOTE0ajM0LXNjTmcxeU5VWWZWcDN3N1duZGw3RTJ6U2VlODk0YWw5eXJ5RWpKYThmcEM5Vmc2eVR3YVpVeWwyUEg4M3oxV25kLWR5d241UUQzRkVNUnZJcE1sLU4tQzEtNm9KaVJTdzV1OVQzOW5SeUZJYjlzRXcxMU5vQjB3bl90SXlnLU42RlJkOXlGRkpKMXg4bGFmX1I2Zk1VZ2RPVEs1VkV1ekF0MTRnYlcwQ243ei1W?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-16",
       "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - The Transylvania Times",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRjFhOHEtenlUbEcwWXlMcXRlMEFXcVlqdTljT0RMRlJ2VmZLd2szcU9YbzhvVVVFMEU3bGRxb29UNXNQLXYzN0txQmRCdTczWUdQNU1CcU9XZFBVQjZDZmxZb0R2Z3h3QkJoYzEzSWZra29VaTJmbVZyTll5R01Ra3E1X2wwWWhEalNYT1lOMXh3RTZpY2Q0emlISEpZMGFSd2xPODdJZGFlNHhXSFJEd0RtUVZlV05yck1sZnVFWDNQVy1fa2M0QWJxa1dSVU1nUHR0NGdnVHFxY250Zm4zUWk1Zk91bkd5QWU5YTNUVnZOeHhMeHJqQkU1OGU4TDA4bTRhYzNPRjFXeDlEUjBIZ0lVa0FSRmFkM2pQSTVyWDQ5U2Fqc29r?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-16",
       "summary": "Zelus Fitness Expands into U.S. Specialty Retail with Weighted Vest Launch at 23 Fleet Feet Stores - The Killeen Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQSnRIX194SEN0V0lNOUxHV0ZXUGVFVFZ4NnNZdkVYRW1mNm9VNWZocmM3T08zQ3lIcHZmamdqTEpMYk16bzJtLUpJQTdQdmwxanB6WEZWRmxWeWJxUU4zNDFaN3JQYXhVMHZjQ0w0VXJUZlZSYkpQRndkX0QxTUVlRWtLRWhkTzRqZURVZ0ZfaGlNQ3V0U1YyRUJjV0VmWUdvaFlnUEFkbDRwaTVJX3JUS1lYNVNwdC04QWY2YTVNMVoyN0E0VE8xd19vOWZOc0ZsR05LWXJMdDlxckJvbGZOMUpiR1Jjajd2d3hxVGlrZGxDeF93X3E4YVBXRmM5VXdfYXVUeGdOTUZ3TFY5WHUyaXlfYmM?oc=5"

@@ -1,9 +1,9 @@
 {
   "domain": "harperinsure.com",
   "name": "Harper",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 14.0,
+  "score": 13.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-26",
       "summary": "Appoints as CEO",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDRLTVNLbkF4SE5UQWRkeTRpeHg1dUkzWUgxYWtuRHA3Y08zTEgzcTdTSFVZaW85RlZfdVFfWDIyMjAzc0h1NGRjY3pmTE02SlhzSXFvVHotQUVyZ2VLVFVLamFldnNMTkR2Mm5QREZINFhEUmxXc04wNDBlTzk5cEpIa2hldE1zR3hadGY3OFVHV3JxcnpONTF4STQ?oc=5"
@@ -77,13 +77,13 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-28",
       "summary": "Harper’s Hawks Care Pantry expands to better serve students in need - Harper College",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHNHdnZnQ0tUd0NvWVNqOVhTb3ZURTJmU3JKZGFSUFVhU0swRVZRMHQ2b1hDbjY4OVEycjlRNU1Rci1RS054VVNzQ3Y3elVjZW5VUzN1aTA3dkdCQmFrT0g4c2tUWGtsclB5MFhPWkw5REV3clkzaVVIR1E5QkdabnZ3?oc=5"
     }
   ],
-  "open_postings": 38,
+  "open_postings": 37,
   "long_open_roles": 21,
   "sources": {
     "ats": "ashby:harperinsure",

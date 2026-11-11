@@ -1,10 +1,17 @@
 {
   "domain": "doppler.com",
   "name": "Doppler",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 1.4,
+  "score": 3.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-07",
+      "summary": "[person] Joins XRP Seoul 2026 as Platinum Sponsor",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3RJUWljREp0UU9FdnZzX3ZUazFmRnpWRnVSTW9hdzFVdGdDVXA4QUU1SjNCTEthTjg2M1FnOFktYWxyTEt4a3Y0XzRvYzlSclJFVVhZQ1NlYWwxZ0E5bjcyVlFjMXFBSk14dnNzTmxsZFRXNTRackd4emJWMUNnNThackZ2LVFTYXFaakdRTDVSWUs4?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

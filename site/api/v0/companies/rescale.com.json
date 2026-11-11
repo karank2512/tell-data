@@ -1,9 +1,9 @@
 {
   "domain": "rescale.com",
   "name": "Rescale",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 2.5,
+  "score": 4.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -29,6 +29,13 @@
           "url": "https://jobs.ashbyhq.com/rescale/5c035308-cc3b-4cd4-bd9d-9fb4624f1bfd"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Rescale Launches Customizable AI Agents; Kairos Power's Threefold Gain Is Forecast, Not Measured - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGFnbzJBQk55RkUyZS1rZ3A2NU9Gd1dSS3pwaG1sWkhvLTdnbkNSc1F0M1ZaUjJJOEJwZHpDVWZqU1pLSkp1c0VUdF9QelE0YWpyLUFIQlNWMXdNbGtfUHdSdDQybGFYbF9WeGkzR0k2NlhQeWdlcE1KRFhYTFlNcTJZTS1QUlhOYUhHV1NqRy16Zkphby1yWWhqelpuMF9JdmxOZy1PeDZlUXNDemFSWW8xNjZVUVVDTWZRYkY0a2xZVHJEb1lOQ09HejBFaHozcFV0WG9Pb0dtdzZVMmc?oc=5"
     }
   ],
   "open_postings": 18,

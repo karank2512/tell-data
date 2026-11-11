@@ -1,19 +1,49 @@
 {
   "domain": "serval.com",
   "name": "Serval",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 30.1,
+  "score": 31.0,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 30.1,
+      "contribution": 29.8,
       "occurred_at": "2026-11-03",
       "summary": "Form D: $150,000,000 offering, $149,212,926 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2103406/000210340626000004/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "marketing",
+      "contribution": 1.2,
+      "occurred_at": "2026-11-11",
+      "summary": "4 new marketing roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/serval",
+      "postings": [
+        {
+          "title": "Head of Global Events",
+          "posted_at": "2026-11-06",
+          "url": "https://jobs.ashbyhq.com/Serval/ce9fd975-957b-42e2-9837-75fd87b4333a"
+        },
+        {
+          "title": "Content Marketing Manager",
+          "posted_at": "2026-11-09",
+          "url": "https://jobs.ashbyhq.com/Serval/7b78f6c1-d4f5-46c2-84e0-4133ba355690"
+        },
+        {
+          "title": "Senior Field Marketing Manager, Public Sector",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/Serval/7f3abeef-2fef-4682-9bf3-2da13fd25710"
+        },
+        {
+          "title": "Product Marketing Manager- Customer Advocacy",
+          "posted_at": "2026-11-11",
+          "url": "https://jobs.ashbyhq.com/Serval/38a71bba-679b-4239-b16d-7c76c58653bb"
+        }
+      ]
     }
   ],
-  "open_postings": 67,
+  "open_postings": 68,
   "long_open_roles": 26,
   "sources": {
     "ats": "ashby:serval",

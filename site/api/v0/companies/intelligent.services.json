@@ -1,13 +1,13 @@
 {
   "domain": "intelligent.services",
   "name": "Intelligent",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 62.8,
+  "score": 72.1,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-05",
       "summary": "Appoints a Director",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZnFNT3BPc2ZZczFneFJnNlFyVkdQVUFudlBGemI4bENwcDcxMmFSaDlZNThsbDBPX0NUYkhkel9Oc3pGb05pS0MtclpWOTVtRk5jRjNqSDdfaEFacmpIMm04ZklaUmt1WUhESVFLMHkwTUFmRGxUUTlKRDh6Q09vMVZHSENxZU5FbjNiRUdlTk16b0M5b3dkWnRNVFA5VW90cTRFZEFrOHlKbDQ5RGdvNk0weFI5Mkp3SmxWNWxrblJzMVllMzZNTUpxTQ?oc=5"
@@ -18,6 +18,55 @@
       "occurred_at": "2026-11-02",
       "summary": "OpenX Appoints [person] as Chief Executive Officer to Lead The Intelligent SSP’s Next Phase of Growth",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbEFadkk0RWFPUnlJTTRiRkdycnVTZkFGTXdIMGM5MGU4OG1tZDd1N1AxZkw2SklqMnFVek85R1hBQWc1NHIyRTVmQ3Ftb1ZUanJ0YUktQ2pDdlIxaXJqb2dxNTVESEN6dWgxUEFMaVptak14cFBxNW9xMVF5N2Zqd3ZDX1htdG0tZExKMmxMRlJlV0F3c1UxYzJiZHkwS0poSEFfMkxuMXRPelllWXhwX3AtZHFoaXZUa1ZZdW5HQUluUUZBY0ZCV0FSYi1yUGFfWVlBcWN6TjBnQjNoVVpQYzU2N2RlN0xpSkZTc2FfenBJZ0xO?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Signify launches intelligent Signify Interact features designed to make connected lighting smarter and simpler to deploy, operate and manage - BDC Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlVFTGNsaDhpRmxmOHpheDFLVm11bTJEb0ZheFlsck0xM1FrYUhaS2ZTQUtHMkEzVDVyY1hCRERrY1VmQ3ZwSndwU3I4d1lEeGpVZUVBYTlsbW5pNnhNVm1JLWJrVUdsU2Ewb0lxd29lSEEzLWJORHJfeGtlX00xLWNrVXB2ZnV6eXlGNnlmUVdaSlZ6V3RVcGMtZUhXS3hZUHJhRzEtbF9GajUtMVVJZF92VzhOekJXcVpqZkdIQzk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Honeywell unveils intelligent fire and life safety solutions - Engineering.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRm9DZEZmeFh1OUVhTW5fRjc1anF6VzN1dFRGSFRHVGxQQUhVRXB6UDI3eHZrel9QdHU1aDN5ei1TNDBxSTlIS0p1VEtPaDVmS1BuMUVBdjF0b0pnVHVCZ3lUVnJraHA0NkhOWDVQRzhWdGNLMXVtQUwyOHE2dEJjUE1Sd2VrSFhsTHZRY2pFT0oycnM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Tencent Cloud Enterprise Unveils Full-Stack Intelligent Private Cloud for Sovereign Agentic AI - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3lKOWVZZkl1SHJnXzlsTm9iYVFQVl85eUc4NC10bEZPdXpucHVYM0xaeGZrbEd1bWs3TVpxWTRvM0dxNXZRWWljcFJacTlmLWpIN0xwOW5xc3Q1dGl2S3JIX3RJYjJGMEVHNkhYM3dRZ0c4SFJYTHFacGlPUGZielZVNTZrczJNcDROYkYyWWZtM1B0Q0duSm1MeHhqcEtldkxZRHlLV2NldGRiTFFWNGtJZFhvb29yS0ZCcFFlcG1KOFRjbWJ6dWNMbm56TGJqYUZB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "MSI Introduces MEG X, the Flagship Intelligent QD-OLED Gaming Monitor - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZWlfRnFRUUg5dlVtWk5CN0xZZ3pvMW5fTl85Nm9RS1JFOHdKczB5dUg1UFJ0Z2dOUGhLUGdqaXhldmFFdWVtSlM0SkpTMVpiYnFhZ0J5Nk9UWTFRWF9oWW1udjNkNDVWcmNTS2pUZFQ0OW5qaXlwOGFtT3dObmwxN1RqeV9Kemo4UDFDOUo5QU9Pc1l6U1hDN1ZRWENiblpMX3Itdmh30gGrAUFVX3lxTE9EbTZUbDlQR1pnM0xmWkFza0l5LVJpajBObTFOaVlnVS1mamh5d3dFTFJFRU15VDUtOVdUTk03ZktUZ3BqbFN6aFh3Q1hBNGQ1THh0X3VBeDRhOEdrTE0wV3hORTFUT29FdU1EUmRoRlFBSFdxT3Y2ZWVaVmJDdk85TElvbHpidVBRanJIMjJSdzQ4V3loUWFLMnhySDVWSUQ2RTVUSFhlNnVNSQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Seagate Launches the FireCuda Forge Powered by the New Alkemi Intelligent Platform - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVlFQk9weTJzclJSemFDX2wzLXNIT3BuWFROWXBTMElHZVMxNDNmNXlGX0pfM2twZzk4UzktYk1FTjJBU1FLUFQzNlp3OVFTSmtaQ1V1QXR4amd1OXBqaVJ5UWdqVXNUQ3JaaWdHdnpwODRScGtSMEJmRHlUV1pYVzhrVl8xajVvelRUbGdhZEMwUWlTdkxrcldtY2lTWEZKT3pSVUVuODRFZGdwOEFDRS1SRUdCV2ZM0gG-AUFVX3lxTE1TcDl5OTBVZVZsM1IybzlmbTR1YXB0Rm55NVJTOXpYN19vRmhIVmZMVWoyM3UzZUZJSHBESEVZYWNub0xKX0duNngzcHBmakV5bGw2VlR6YWlCV0RHb3ZjU2llOHJ6bmFKY0hYZmpHcDdCRGIxV1RMb1dsN1dRLUFMb3lPaHRRX21Oem1ZMkp6TzYxaUFuTHo0TUpTX2VTU2MzWUJib05ENldua2ozUUk0ZmRjYzM5LTZOdFJ1c1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Seagate launches FireCuda Forge - a hard drive with intelligent storage that taps SSD speeds - GamesBeat",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWF3dGlyMHUyZnR1dmRJT1hJQ3lyQTlyR2xwV1NLLXMzcXB3cmZxZUt4RHd3TFY2dVV3QnRnYmI0Y0lodHRTc1dXdlVsb0VpSk9jeUVWWmNnTkZCUTJ3TWs3SEpvZXVwd3BuZkllb3dPeWgzODNnRlZuQzJuMmpFejdzdzl1a205WktvckJpbnh3dkgyaTVaVlNRd01CSlE4MGNmVVBEOVRidEV0VkMxVXZBRQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "SEEWAY.AI Unveils Mobile Intelligent Agent Strategy - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGZDV0cwYXFRQk9DTC1JcHVRaGZKQjBQbEJyVXFFdXNhOXN0eHdST2FPVXFXNk9QNE1nRXJXSmxMb0kwNWFaY3lnNjV0d09yN2thN2JmeXU0cFg1aGVpNm4tWUxwS2ktTjlld1BfR21mSUV0WTIzUWJGeVg3Nk4wNEJIdFFxSVo0LUNMZThlVWlTaldSUDg0NkQ4VWRDM1JSVHphZjFkcEZWUS1tQlNZdWxR?oc=5"
     },
     {
       "type": "launch",
@@ -56,21 +105,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "LONGi unveils intelligent manufacturing base in Suzhou to advance solar-storage integration - Global Times",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SMU1ic0otcEU1UmJHWlMzNW9NWmJlRkxUeW5HYUpYbFROVWFvRUJSeGVXcHNmUDhUSWlURV9KQmc2bVBpMGxLZXhBNjZKNDZ2bE1YODFyMTFtSWxjQjRILUR3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Microsoft releases major Intelligent Terminal update to improve multitasking - Neowin",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEU5cURRUGkyNW9LZVpRUlhEVGFuZUR6Y0pOc1ZrTmdTbk53WXBVVkJnZVk1MmFSXzZEMmRGU1JFWkphS3BTODVFNVJFSWlmUUFsOEY4ZHIta01CNHlueWp0Yk5veDc1MUpzTUpudHR6T3B3NHlLVWlkZS1rRTk2OGwtVnFPTFF6QlZSOElrM0dXZGJraG4weFNpLXNaYUlmQlhaVnl4cHE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Kardex Launches Intelligent Bin Induction Solution - Supply & Demand Chain Executive",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVlKLUtYQzRsbUEwLVRVNHVxX3VZS0hDTWl2b3o0SHlqSERBMGhPTjVIVTlEdHZ4blNrQlBvQjZVYU53TzNXbHhMckdCR096SXVKdHJnVGM2UEVEUGJwSDdkY0VxZldGMzNEZUFIXzNWUUV0ZVdMTnJ3dlVUelR0S3pUUVVZRzQ2RDZUUzFUay1OMHdSWHZaQ3Y2SGp6ZUhWYzFZeFZzZUlhZWlBZUNIVlpzWDRISFA2Q3g0QmNKaTRNRk0?oc=5"
@@ -84,7 +133,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-30",
       "summary": "Komatsu D175AX-10 intelligent dozer debuts with 3D-MG control kit - News and Statistics - IndexBox",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHRDWlZUYXVsbUVnS3ZTZktTWlk5RkpMdmVlaVJsLUIzNUJsdV9RVnk0TV9tX09feG1JMVdsUHJ4ZnRMQVdkWV9oT0hvS3oyV2FZNG50VXRjYXpSa0QteXdGT0JVTFhmVkpZY1E3UjJ6NUpYc0hOU1lYYXBPNHpxazJ6emdYRlZfRng5dWpwbUlWaFpvUVoxUWdQS2x5VmFfNXVGZDJCNmktM0hDUEg3b2JtUDFhUDJoY3Rxd193?oc=5"
@@ -140,14 +189,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Rutronik launches robotics initiative to support intelligent automation development - New Electronics",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeXVaTzFLTFVBWVJ0cWc2T2otRVJYTEZvVVJTT3o4eUVpOGhubVNuTXA3X252Z0cwaU11cGZwU3duQVJvdDZJeEZvM3VnRXpCQWtvdlpORVJsQmhSWVNVWVppRUNaY0d1cjl5cjJ1VU93RUd3dXdVUlExQ0NYclFnaW43OUo4c1paMjM3REh1bkh0WFk2dDhmOTNwVTZhUXZtYWQ0MDJCNzJJRFJIcHByTWNxV2NaM2YwTWhmV2V0TkxSMEI0cGNZVw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Zhongke Tongliang Unveils Full-Stack Domestic RISC-V Data-Flow Intelligent Computing Products at 2026 CNCC China National Computer Conference - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pRnExbC01Z3p5TkN5VXpGd3dVZHg4bnhPZGF0Sno0T3hlUWlMWFU2ZzFJdlI1enBfd0VLWWVrZ2tTMGlUZ3JnUVlkSGNDLWw3dWlZ?oc=5"
@@ -280,7 +329,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "ABBYY Introduces PHOENIX Plus, Advanced AI Models Optimized for Intelligent Document Processing - Carroll County Mirror-Democrat",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORFF3ajFITXlRVUxoVTcxUnBVT1BQczZ0bGVtZllhbFNWSHBMVUlZb3hNVnM1UFhGNV9JOWJsOHh3NHY4Xy1rU2J5WEk3UkNVaWh5VGg4ZmxKdmJYbTVmOXlBMDBZYURYamMxQndjUGsteEs0dC0xQ2V3Q29jMHlVWFJOMTJoRlRsUV9SQm1YelRudHU3Z0p5VHFMS0FBYXJkemJ2cTBpTTg2cFBMa2lxX0U0dV9hNWM?oc=5"
@@ -343,14 +392,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "TRI Launches TRIAL.OS: A New Operating System for Intelligent Clinical Trials - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNERsbGJGUXBxVktMM0p2dEphUHRfc3doaG1iUnRkalgzaXM3eGhmcDJPc0Y2QVNwanBFSVlUMnZoRUUyU01LbFg0akhnQUYzajBwRTRKWXYta3lCLXF4RTRjdkZiYlNjcXNqVmVpakZENHVwRVU1ek5lWU5MMFBQTVNlcVE2RWUzZE1JZEoyaTczSlAxdzFaUXBwdzdWalF5a2d2Tm54NXlFTmROZGUwOHQ5QWN6dWVtMGJ2ZDJKbGZNZHhWNm1xaHE1VQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Inseego Launches Intelligent Multi-WAN Control for Resilient Broadband Connectivity - The Fast Mode",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX3Zwdmtrel9DcFc0eUdQVzBaVVloU1IwV2RMUTRqWFJXLTNlNk45TlE4WEx4SXMwalZLYXNlbE5DaTRMa0ppU0RRN2NhWS0zOUpnTXRfMno3bF9MWVNqQndhV0lUd1kwMEp6RXItcUdySWROUlhvYkdfcjNEN2otSW9qU1lITUNCSjk5MG1aNVBZZEhzVmJJZFJscGtBYklIZzZpelpuOFROMkFtZ0Q5ZkYwTWFJblVtcjkySXloN2h1T3JEMlE4d2dKWFM5endmdDFiSg?oc=5"
@@ -378,7 +427,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-29",
       "summary": "Ondo Intelligent Portfolios Lineup Expands to Solana - Yellow.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamRRT3VLbWZlUWxTUHFRU3hTZDRDenlKSlF2ajFJemJ1eHlfY3JGUy1oUmpYTFhkbWxUcGlBVjlIU0lTS0ZzZzVZUktnN2l0dEtyX1ZqMzQzQk0wZE1uNDBpSTh3ajh5dGtSMkkweFdaemMtTnBIM1RYNEw5d1h6V1g4VzBMTldSTTVOdzZVcw?oc=5"

@@ -1,10 +1,17 @@
 {
   "domain": "equipmentshare.com",
   "name": "EquipmentShare",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 0.7,
+  "score": 2.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "EquipmentShare.com Releases Q3 2026 Financial Results - AlphaStreet",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR29tYjBMQXVSRV9mNkZ2SVQteU9qZ1prZVA5Z19CanFMdGRlcE1fVWE5N2tqQmtHd2NUazJxM2pubmx0VjdULXctTTF2MENDZGItWUdIekVCc2duRDV1VnJpeERkeFNsSTd0cHVWNlhWS3BSY1pzeHRCM0djY3pxem5tMEZwNzg4clRoay1NSGvSAZABQVVfeXFMT0dvbWIwTEF1UkVfZjZGdklULXlPamdaa2VQOWdfQmpxTHRkZXBNX1VhOTdrakJrR3djVGsycTNqbm5sdFY3VC13LU0xdjBDQ2RiLVlHSHpFQnNnbkQ1dVZyaXhEZHhTbEk3dHB1VjZYVktwUmNac3h0QjNHY2N6cXpubTBGcDc4OHJUaGstTUhr?oc=5"
+    },
     {
       "type": "expansion",
       "contribution": 0.7,

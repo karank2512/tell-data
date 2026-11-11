@@ -1,10 +1,24 @@
 {
   "domain": "doe.so",
   "name": "Doe",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 18.7,
+  "score": 22.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "SC DOE unveils 2027 African American History Calendar amid curriculum fight - Post and Courier",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlNGSDRQSjdUdTVCRTA4cEJFNGRUVUNZdWxVcjZBakx2VjVTMWdGOXE3NmJVRUtFZHRRZmtaNVlSOGEzSHJfcjFwSzNqUnkzZmVNYUlDU1Z5NnBPd1JubzdLaW9feU9mdFVhckNYXy0wS2lRbGsxanJLc01VOGU1MVA0YU40eUZxaEVxQ3NKOUhBT0xuN0tuNkR5aThsVUVxMkxfU2pfcGtBZXVMalUtbmlRZkxQYjV3Y0dTbnRucFpCb0ZzSmJUUnV0b3AtYlJidl9XZXJGQXE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-07",
+      "summary": "Designing Energy Storage for Real-World Production: DOE Launches the Storage Design STEP Prize - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWhlUVdPeGYtRWdvelVVcGhMR0t5RVoyNDRkclBISWNHT19jVm1nbXN6RXJld3RsM3RkZDBvMjIwRDU1U05FYUZEcnZ0aHJOWGZfZVl5eFBUb0ZHVEpRRjNWeThidXdHZWRzcnNLWnJTci03Z1FvNTF3b2F2aF9KRk1NbGtOYmRpQ0poZWQyVk1MYTUwVXg4T2YwZzV5aXZYRzBnYTl4X050d0tWVm85Szd4NUVQeko0WDdfXw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -18,6 +32,13 @@
       "occurred_at": "2026-11-07",
       "summary": "Maine DOE Launches Accessible Educational Materials (AEM) Toolkit to Support Inclusive Classrooms - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcUNDNWtTY282U2ZxMjFZRHE2bEZNM1M2S05wUGZBQklKRUh5OE9HX09IdUNyQzBMamx2Zm9zQmlEaDJPR1YtWExFTDVVempjUWg4Y0ZOdVVCX0NzNGdiNVBib09wdHpZOEs4X0h5NktaVWdyQ1Q5MlZSX09kZkNKY2hSaENaME1VMFAzc2ZTS0dMaUtOUkxjSkVjS2NrRWRZUXFYU2JsUWhsaktFemdPS2JqUHdjcjJCWm9ydmNQc1RCQWxITUNmQlMxQXlOUzVpU251bGVvcUpHdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "DOE Releases Emissions Value Request Process for 45Z Fuel Production Credit - Bergeson & Campbell",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTTdxTVoxalZlVUtha2FrNzVJdW9PRU1hTExtVGk1R0R4MDlnclJMSjZBMHlVNDdaLUJRMngybnFLbWp3VFVXbjBWZFYwb3NBY3o5TjV4ZG54VnhqeDFQSHpINVd6WGF0ck90UGZMZ0I0anNXdS1SVG9aV2o3UWlVXzJLdWlHOXdkZnJfUFdFLU9ZY2ljamVVUHBzQ2dFUGc?oc=5"
     },
     {
       "type": "launch",
@@ -56,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-30",
       "summary": "DOE Launches $237M Grid SCALED Initiative to Boost Domestic Supply Chains, Lower Power Costs - TD World",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUTIyMXpOMVh1ZkRCclFUU0MxYU14Y1BZUG9pcnQyU19MemlYcW9vVXktSnVNSkJMZDAwYURoUTdON1IwczZRMVJObk10eHRvTkI4cE1selVBcDdfYzJpcThUOGNnUXNRaERUbzJzSUVzVzFneElUbUFHWXpjeDhQMTRtT0hvSkNfa2pPWVNPSlRUZUVEVlJrSkpHbmZiNVRiVDRlMTFLLV9rMG53YTZxR1NhV1lsMjV6aDd6YmNONVJxeWZqbW5mUEdtc3B5TUZEM0NBTEZJeC1EZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-30",
       "summary": "DOE releases 35 Genesis Mission skills for AI coding agents - R&D World",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3U2d2VTc2tCXzhuZmVraXJ2SDd5X1pCcE9tckRNdnk0MGdpcHlfU0ZHSGFqWTNaZ3dUbjhTeURrdUVFb0paeE16S2JSTnNyalQ2MHFkNzJ2RU9oc2FXa0hpd2d1d3RmdHRwV0ppZjdRT3ZXX25oeDc2eGlpNnl2QXM5enNYVjVrSXlYbk1DNWZ6eGQ5QVZNdmkwRzJIaG1lZnAzTEU3RGh5UzY1dmw5Z05nYw?oc=5"
@@ -84,14 +105,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-18",
       "summary": "DOE launches tribal energy research training program at national labs - Tribal Business News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPanVHVFZXczlSSElDZ2s4aTdqWlJKOTNkYmw1UzVUZm1tYXpXRVVqTTNSSTBPbEE5ZmtseldrV3NuLTllRzlIUUg5cFhSNDFJRTlxUTRFTkFPR2FaWVZhLXdnamhhakJmOXZfeWdoUGtlX2hHbURPeDNUYzJyRm00SWFmSGhtTkd6RGdYU2pSenlKcVJES3JMWmNqVkRJcE0wTF9lRjNQM3JuV3VNbzdWbEJOcExETFFPdUZJNU0wSQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-18",
       "summary": "DOE launches tribal energy research training program at national labs - Tribal Business News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWVWVmwwSkNNS2hGbFVXeERWS0pLTERmR2xUOXk0dnBtc1hqUHdJOGVGTXlyME5FWWpNV2o4LWVsMU5TbVdSbVdCUVlOWkQ0di1mc2NLSmE3SkdmLTN0RGRFVlo1Y3FOMTlfWkloLVBNZS16YlB2T041OHpjVERvSXdPcmMwQTVXdWkxeUNwdmdXMi1MU3hocnAyenRGWWloeHZSck9NZDB2R3ZW?oc=5"

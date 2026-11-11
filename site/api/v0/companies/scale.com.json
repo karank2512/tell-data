@@ -1,13 +1,13 @@
 {
   "domain": "scale.com",
   "name": "Scale AI",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 88.5,
+  "score": 87.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.3,
+      "contribution": 13.2,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
@@ -41,13 +41,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFVSQlp2LUwtU0h1T3diMkxxR3NvSTZqX2pINUNNZXlISjBnQ3VsdjNnS0Mzcm0wejNYZW12bHc5WFlMUTFHZ1RwM2R2NjlTVzB0akd0aFVzb2x3LWNRTlBWNkh6VWNpcVVRV1FpdGNNQUIwcldZQUtWMWQzRml3NmVRcXBBQWlKcWpVZlhfYkJrcklYMWFWUENiLW04ZGF3T056MWZHTDJ5SFV1cFZZdGVFdw?oc=5"
     },
     {
-      "type": "launch",
-      "contribution": 1.5,
-      "occurred_at": "2026-11-09",
-      "summary": "Google Cloud Releases Pathways Runtime for Large-Scale AI Training and Inference - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmI1ZHA4Nnp3VDNENEVGaTI5Mkd6N09Sc1dMRExaWU5SUXp4dVFTV3ZKN29meEVoeC12ejRaMF8tc3c1MEJqcVJMajJDVVVUSmM3ZHBreUVhN0g3dEtaTjFkTUREWmV6RkhwTTZWdnEwR3BvZGhVMnpONnVtSVdHY0w1VDlTRDFqMlZfR2ttRjUtUkpTeVdqN3FhaG8wWi1aVV9vd1h4clpTdkF4SWlSMzFCeF84bm5zMUt0LUg0QTg?oc=5"
-    },
-    {
       "type": "leadership",
       "contribution": 1.5,
       "occurred_at": "2026-10-15",
@@ -62,29 +55,36 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDl3bGZPWEVmMTVmMy14OFRCNlNwZlRBUFRObW5kWi0wcHItQWp0OWVjWDJDMThlVGZQNkl1QkhjSW0xZWE4akg3OGF0UXRaamJkMlF5ODdHNGJfV0RYYXhRTjhkZDVFcEhkOUxpQy1Wd3FjUmlvVHMwWUhNZWRkaGJLWUIxRHkzbndrYUVidERiZS1yT2Q5bUdoZlBLVHJ5aFZvYWZNYjNJcWdnTDdsMU9SYkNXMWlVVnpRLW4ya0k?oc=5"
     },
     {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Google Cloud Releases Pathways Runtime for Large-Scale AI Training and Inference - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmI1ZHA4Nnp3VDNENEVGaTI5Mkd6N09Sc1dMRExaWU5SUXp4dVFTV3ZKN29meEVoeC12ejRaMF8tc3c1MEJqcVJMajJDVVVUSmM3ZHBreUVhN0g3dEtaTjFkTUREWmV6RkhwTTZWdnEwR3BvZGhVMnpONnVtSVdHY0w1VDlTRDFqMlZfR2ttRjUtUkpTeVdqN3FhaG8wWi1aVV9vd1h4clpTdkF4SWlSMzFCeF84bm5zMUt0LUg0QTg?oc=5"
+    },
+    {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Mach42 Appoints [person] as Vice President of Engineering to Scale AI-Powered Analog Verification",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ19KWWZmdVVrRWZaR19jdlQzbE9fU3F3dW5HWlE4OTAtVU84UE42Nko4Z1c3U0ZBbk5LZXBYSzBoUnpNaFVrenlIUjIxOEtNcFpneVhLZWRiUm53SVJmbVZPbmFEei1CSVhBLTBxTEUxTklSVWNtanFUTzFnTzh4N1BzR2JseWl2N2VVZVNrQTVYaFFyWkFqTXR3UVl2TFd0M3pEZFdvSzlSYVItbEhka3p4eG5TUVZJdlVEVlNtNEc1X2VaYzZjcWtCbWZDM09jeFdUWW9fUVJRV2p5WUYxWmFPN1NMVDhQNEY5UzJlVQ?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Mach42 Appoints [person] as Vice President of Engineering to Scale AI-Powered Analog Verification",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjJSSVl5RmxQLXF2azBIRGV0RklCMVpOcGdXZnlDUnpfU1BpU0RwUV9EZ21jVHJLWlVfXzRtMnAwaXl3YmRGOVlJUnpHWEFsYW45MEhYWDU5VEZtWDVKX3IwdGhFMmNCRThsWW02a2tmaWFqOXJJN3pCZzgxanNNV0xaMmxoZ2xpWHlMeGNzRk5fUDB1QTdnTVpPalJQUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "NSE rolls out direct-to-chip liquid cooling to scale AI computing capabilities; plans to scale GPU capacit - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQ3Q0OXF5dEdEUUtGdFFtZ3ZQMEEtbDFma0stYkNuVVNrWHViZGZsb0pGeEpWQndzQjljd2hMckZXMEdzZVRhdDRIaWZhOGxhQndGNmFheVBfS2c5TjUtQnhHbVU0UEVfMGw0cHdPRWF4Zk91NVVjYTFqUHhNdFdwemdacHNuQ2p2UEhGM1Brd0xrdC04d1daRFZkcWdSaGJOVjVEbXBYLWZ0emU1dnJZT3Iyb2NtSGZ6N3ZEX1JZbXRiSkVvLXRGZXY5T2d4TERaRjU2ZmN0ZHpPM1FLMlZvQWJJcUtjM3Y2N3Rra3lwYm93Y3hfeEtFd1R2QWhBRVhjVGpxODRDVTBzdHZSUGlsaUc5V0I5XzhpQzZPVGNNdFNlRVpTeFA3NDU0d9IBsAJBVV95cUxNd1F2OGNoc0M1akM5bTZocFdxbjdLZHliSzV3MFVGakxmcE40UXJXRHdhUHJqckp2MjhkS2hIZmRqeC1XUmhvVG5GUy1GWnBMNU1DaHZGMzI0eTlaclhPR1NmNVRMRFBDYU44TG5Nbi1icUJMeFZmdWRkdDdtYVZaYlZVT0EzbnJVYVdfMGQwc1V6a1hXUmROaFN1aGxic0F1Tlc3Q0d4a25zYW8yNTZXQ3BiTEp1Slh5Yzl2VU5kb3lFYU9TZWJDU2wwaXk2SEMxeFU5cmYta1JRQUJXRF9MMFdxbFM4VUU5U2JaUlBHY3JXZXBpaVRGRWViQWpNckpzWHNNNDc0X2VHSmxBcjFOQmJRc3VqWEwxLUx1S3FrNEF4NnV4bVA2aEJQYUt1T1hQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "NSE rolls out direct-to-chip liquid cooling to scale AI computing capabilities; plans to scale GPU capacity beyond 80 this quarter - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNemhBODhRMDhicGN2akNRWlluam5qcW5RWUk5QUwyeTVMUVlpcnFNTGpQaVdjWW1FVUt3dGZjcUs5amRnZnNYWC1rUmpJMERhN0dMTW1SU29sZkFDbXA2N09mUF8wSVhfSnhyeFN2Nkp0cEU0TXR5UEgzNzE0TzNfOEg0OUlxVWdWMVYxOVFNODRGRTRfTVN2dWRhQTRaaElJSGtmaVdKVlZ4SXdSeDFpTUJ0UWdwbUlxS0d6OHkzOFFpWDlvLWI5SXBubFVqaWZmVVpBTG1GSHE5M1VJRjY4bGVMdy1sZVZaYkFEQzdlT3pGUmpXbkpXYWdVMjJtZGE3aVU4d05LcFFiZHJlMk1ac3BkaTBDNVE5MnN3b1FOSnRnZjBObU1hTkd1UVVkcnc4RGwyU1FxZw?oc=5"
@@ -343,35 +343,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Marvell Unveils Six-Channel CXL 3.2 Memory Expanders to Scale AI Inference - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1pGb0d1b2VobWdnMDRBYXhVeWlwVUplcEJqRHE4UUVPZ0EyUFNGT1M3Mjd1aFExN1dzaEJMX01wVTRwY1FydDI3TUk3SUJIU2FfOFB2bUwxczVsOHdfc3BKeXhPSUtHWEN4X0FCX1RMYlpzM0tDN3RGMDRfY1JvUXJibWVMUS1ZUTQtbHZIazhzX3lmeWcybXpGTHJWdk9fYVgtNzlxeDlhUTk4a2c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Manulife Launches Enterprise AI Platform to Scale AI Solutions and Deliver Business Value Across Global Operations - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTVJ0QWVhZnNXR0IzbjEwVmQ1QV82Zkl5eHJqQnRXam50enN4ZXhBZ0Nfa0pwZHhqRE1ySWhmY0loajNITkpMUDQzcGhwamFQLTVtNlFGQ3pwUUp3S3NfQWpUYVpuaFdneldJOUtPV2VHVXdzVXhNNC1iNzNwd3BzdWFEWFI5NG9IX29ZQ2xvQ20tV2RpMi1seWVwaDR1OERlVkl1Z3Nwc2ctR1Bkckw5ZmcyUElTVi1GY1Jlcnd4aWM3ZTF2ZnU0N1pfMWt2WVpTLUVGYTBsZjAzdUJjWHdPSVZsUXZVbThyN2k4UlVpXzZaSjhXNS1zZ3VmRU04ejQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Manulife Launches Enterprise AI Platform to Scale AI Solutions and Deliver Business Value Across Global Operations - TradingView",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSDlSbm9HTXFIUnZhS1FOUktocXY0WkpqYl9XeW1hQ1YyVEQ2M1kyV2pkMm1MUjdaNE9fZ0FOT003YU9GMlJ6ZUZ1UlNzYUU1SHdrRXZjZlhSREVkbTFmak55TnI4UXpVQ18yNU1oUDdMNDJUTFhVZVVLTjVOd2NHSkxiWTNXajhpQlV4ZncteHFIRGxnd0xERHRlb1lvV1pHR1c2cTNUZG5JSFhtcG5qNTRPc0lJYUM0MmM4V0JIUl9pTVozZnE5VHdhQjZLajVtMjBnVmpsWUw0UnFpTW5UclJWbWRpVm1NakZrQ2NXMm1kSnJMdFVIcmRjMUMxUTVIOVliREtB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Manulife Financial Corporation Launches Proprietary Enterprise Ai Platform to Scale Ai Solutions Across Global Operations - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSVdqWVFHREJIWk9uRmFONk9UQk9WcFdabXhXN2JvaFFla0lraWpwRmtvLTdqSVRrMUk2N1g0MGZ0amJRQjFkZ05GOF84XzNYS1FORGtBejgya0FYQVFOSmpZYXp5VXlkWkJlWVZyOC1jaVBQOUxybzBSanMtWUJmdWNwT3lYSFZUYlZPekVlSHM5eHptVjNtZ3cyZFdjbXo3b2hUWklhWjY2YnpEYlRKLTZHV0tjMDViRF9iRVFHa3dLUEh6Tk9zamxST21idTBrczZuYUxYZUNLODloWGFDUkNMZlZ5T21j?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Microsoft Unveils Maia 300 to Scale AI Inference and Improve Data Centre Efficiency - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0d0Q2Y3cU9md0JjVl9Cak43RnVmcWpRS1EwM1FZamo3X0ppcFl6VjZaNHkxWlEzc0otSEFmMDhQNzFQMjlhZXFHcW1xd0JsMlJ3Mmo4SWxqUGFNZlVjSEhRMndnd1VtYzFPcWY4T0JWLXpmOHZQR1d1Z3FYOVY4M3RyTWFRWDFNNzdDYmtpVjBjZWJYdFlPYzh4TFVJQmNNQkhISXZVZ2kzQ1V1SzV3NGVHenU3amxFM1E?oc=5"

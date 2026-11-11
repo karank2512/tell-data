@@ -1,10 +1,17 @@
 {
   "domain": "slash.com",
   "name": "Slash",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 11.4,
+  "score": 12.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "[MARA Holdings Q3 2026 Earnings Call] MARA Posts $632M Net Income Despite 35% Revenue Drop, Unveils $500M Buyback and $1.1B Bitcoin Sale to Slash Debt 37% - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fbklWc25NWGFYTDBETlIyOUpmcjlPZ19KQXd6Z3NQMWpXc05hVlRpR2tFSTNrUzVkQlhyM0NqS0d5RkFscTFTX1B6SUQ1Z0V2Q2RqOW1Rc0lla2FKVnc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Tavant Launches Mortgage Data Foundry to Slash Loan Origination Costs by 25% - FF News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRUJKelhIZXcwNVo0MGJrUm1NcXVIbHV2aW5Vc1UybEtJdkF4aWphdElaX216b21YdTNBVm5fNFR1dmRGa3dWakx3ckc3ZFB6Rno1RVRNT1I5UjByM0FNWVo0Nnd3b1hYTUt2WXIzVDFHdFEwMTA3cHBXb2VYeldMdGVVQXJHLWxNZEJZSTdNeURsYXFlN2VTd2xyZ25RdVhrZlpHd3ZUWjJSdWpTZGNlYkhZcw?oc=5"
@@ -77,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-17",
       "summary": "Two AI Launches, Two Different Ideas of Financial Work",
       "url": "https://www.slash.com/blog/two-ai-finance-launches"

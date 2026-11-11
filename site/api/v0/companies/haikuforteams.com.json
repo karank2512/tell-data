@@ -1,10 +1,38 @@
 {
   "domain": "haikuforteams.com",
   "name": "Haiku",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 5.5,
+  "score": 11.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Meta launches Muse Ember model: it competes with GPT-6 Luna and Claude Haiku 5.5 at a much lower price - dev.ua",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OSkZIMW1RUURzeTh0eGU3ZldUa0JicGdtOEJkNXhfSWxPNUNEa3hoc2pHM0otYU5TVnVWeUZWVkJ4VEQ2dWljVUluQ2N5bXROdWFGMWZFMEZrZTFfRnlKTUNHOTdpYlB3S2xvejNvUEpDNzQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Meta introduces Muse Ember AI model, says it performs better than Claude Haiku 5.5 and GPT 6 Luna - Digit",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjNtbndCR1BwNnVteWw5MUk5X0lhdThESG9tdUdoNGV1RkpXaVVzRmdUVVMwbmhZS2VISlBHdm5oWGVtRl9QMTR6QUdXcEdMclpyeUpUWTVWYXBnblpfZTFUOTN6Y2U4MGxmaDcydlJQUjB6REE5cmZJZkJmeWFFRGpzSTdwMlRTU1hqY2RuYk1TU1BJWXZMN0Z2enRnSGdRcXRveVZwcUI5ZzF5ZWxhRV9sQWhVWGxteGMza2N4MzVPRThxZFd2SnQxSFNTYTjSAdYBQVVfeXFMTUNyS0YxcTQyTVpyUWdlcXplR1ZKTk9xZGctNk1UWURRS0QtajNOZm55Z1RWWDQxSE5sZmJBYXJFRHZBVFd0NzJKVFh0VlhRMVQ0R05rb0dvbVBJVTN4Tk12ekd1Y0VKbEV6Sl93TklXWTRvVk9saHNBT1JsUTlOa0UyVGFNenoyV1JZaF91U2dEeU5SbXVvZlN1THYzSWVfYnQ0SUs2dXpDX2RwRl81RUxHa2c2ME03bml4NmwtLXE0bG9lekV6c2h2QnRDcjBiRHl6WGZEUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Anthropic releases Claude Haiku 5.5 - BotHub",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DZ1VlTGhFTG5LZGpjS3V4eEQ2U09DdktuWUZtNWIxMGNDUVEwV1VEQUhEbE9EdFhTMnlJaXFua1p2R0NWdjl1WHFaYlBsZUxNa1NzWndWa0VIcWlWOU9IYU90X1lKWG9YQ2Mwc1FQUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Meta Launches Muse Ember, a Lightweight AI Model That Matches Claude Haiku's Index Score at About a Third of the Cost per Task - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TM3IyTUtnTnZjWUlFQ1Y2Y0FxWENra0I2eEUtSzFKbHhwSTZCd2QzZ0x0bDFSeE9zZGJjUWg3c3VoRmJDUGFfZzE3aldKX2lFSjlBbHpYX1dyY1dDYy1lVGRLYVVCNVdKaVE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -28,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Anthropic launches fastest and affordable Claude Haiku model yet - My Startup World",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2NKLW5NdjdqVFZVZVptTWg0MVNhYlFucFE2WXlybUw2RE9hMUVvV0R6aUlyRGtxN3NQS1lPd2JxRW5ERGF6a0x1dVBtRzZOeHpTQ3pOSU40Tk55SXRBa2VlN20xRmdtOWFZOWoxZjBPa2YyNm1salpuMjFLSVhqTGVsWUhWUWdfR3N5RHNjT1JsOGF5UEV3dg?oc=5"

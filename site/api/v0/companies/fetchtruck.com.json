@@ -1,10 +1,17 @@
 {
   "domain": "fetchtruck.com",
   "name": "Fetch",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 9.5,
+  "score": 10.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "RKLB Stock Sinks After-Hours On Q3 Earnings Miss, But Neutron Launches Now Fetch $70M – And New Buyers Face A 2030s Wait - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDFoaEhfdVNqT1ZvMG9MNG16N3lUbC1RYmd3NVR2b3lvb1V2VTFicDhKQUItdkpTZWZtM1ZMZGhDcXVCZTVZdXc1OUNNMWVrVW9vS3ViOXZpM3VfNWFOSWhhTktJSlUwYnhWcE51R0J1YWl2QnBuTE1vZDFYZGJDM1M4bHZESnYtZFM5NVFheDdlVkdUR1ExbkcweTd4elpXeHBMN1lRN1JTSkdWaWRJZ3NqcU1WR3dXZHFZbThzNG5UaTNxaVlhcmttQzdkcE8ycjBoUWRqNVRxdWIxQ1VJb05JRkhrUFR6ZXhhX1A2NFllaEt2OEdUQWlkVjBBVE1aUDdhT1ZnQ1g?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "DeepSeek launches Search, Fetch APIs at $0.75 per 1,000 successful requests - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHVOYjRicWtHVUV5WXNYWlA2bk13OEFxWlM3VHBTWEhNaDluZVJacmNDQ2x3Nmo1T0dTejZ2djZxZ3VPU1NBcDYwU3dEVWFBSGtyWjBfRC1fcmVZSng4dGFNQVlONkRXVGQwZ09OOFMzcnBGUDZuOWN1VzRBbzdlR3BRM3c1bjY4Vl9BTHk3ekxzNmEwZGdIWWxPZi02UUwtQWc5SlkyaG5uSy10emhXXzdOX0M4bHVtNEpv?oc=5"
@@ -63,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Fetch.ai Launches Fetch Compute After Securing $100M In Investments - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkdNNmVERE1aNHo2VkNjSkFNMU1OOW13YTdiT0hqYWVMbjJoeGY5YTRsbUtDLVBLX1VDZEpKZlRFSXQwcGY0OUpWTDFOdFhDdVgtS0ZQcWgtSkVOTnR0N0o4OTdjS0RkOTc4bVBTYjBFZGdjZFlxTXhlWHRrdzlUSmtaNUZsTTVKdmN1MjBCT0hicEEwbm5qRkVkQWpHdFhlcWdnZTV1eVN0ZTA4bGZzQ0Rtcw?oc=5"

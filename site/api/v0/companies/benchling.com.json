@@ -1,10 +1,30 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 8.5,
+  "score": 10.3,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-11",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/benchling",
+      "postings": [
+        {
+          "title": "CX Learning & Development Manager",
+          "posted_at": "2026-11-04",
+          "url": "https://jobs.ashbyhq.com/benchling/abe73c19-9dd9-46b9-8e6b-e0d5331f76ff"
+        },
+        {
+          "title": "Enterprise Solutions Architect",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/benchling/1233cc92-4c7f-4624-a920-b0799cbb283a"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "sales",
@@ -32,7 +52,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Benchling Launches Direct Data Share with Snowflake for Biotech R&D - HPCwire",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObW9CNVp2V05CRFdoVThhNzZYVnVQemhBLTUwNlJhdnJoV05IcnNtSjhIelJUd05yU192WmUzQTdiX2kzU3RYQ3VIWnVFbml1SngyWWdHY1diTDZYRlF5Ykw3TTZ3ekxBT0xfTy04S3JEdEl0cEFjSDBuN0lfazY0NUZITlVURFZsa2JvT1EzUTcza2lxSV9zcFE3SGdtWnRTdDhoSXRlWUYtYmJqZ0JHeWozZG1jb0U?oc=5"
@@ -74,14 +94,14 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-27",
       "summary": "Introducing Benchling Agents, your infinite program team",
       "url": "https://www.benchling.com/blog/introducing-benchling-agents-your-infinite-program-team"
     }
   ],
-  "open_postings": 51,
-  "long_open_roles": 10,
+  "open_postings": 52,
+  "long_open_roles": 9,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,

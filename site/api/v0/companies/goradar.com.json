@@ -1,10 +1,31 @@
 {
   "domain": "goradar.com",
   "name": "RADAR",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 22.7,
+  "score": 26.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Shield’s X-BAT full size prototype rolls out ahead of testing; RTX to provide radar and electronic warfare fit - FW-MAG Future Warfare Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTm1rU1p3ZU11Q25kSi1tTWxHRHEtZ091NTNlMmRDY3ByVlZsUXFvTUVFUG9pQVctcTM2TW9YTVkxbEVyVGFmVUtJcnN3aTVNRnNib05INGF4d29ucjJUWk14R3NYZ0dVTnhtYWV1bzROaEduV3ZuTG03c1JDUjFNZmxodGdZa1dWalY5RlpjSGVCRy02cGM3N3ZqVVpQM0tuRWo3ZUhXdnZZOU5nWUtvc0l3MFJTTVhTX1RYSmRNZ3ltQ0JwZEJaQ1BBNFpBUkhCMVJpUndTSXVrUV9zZ3RQdEJJRVdQQjQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Iran Unveils Underground 'Missile City' as Expert Notes Radar-Evasion Efforts - Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTXU2Y0FaeURWSERaTTU3dlg2Z3YwUl9UM3RMajc3bk1YQ2hqeEJETk0wTWNUTkdDNGZINF9HSndENW13YmdzQXJKeFhvZWJnWUw2NThxaHJsYmNCSmJ0N2E5NjFjMFAycVlyNGpkdklfR2o3Q0F2R0NKUk8xQVJGTEktREtRMGtkNlpEZDZuUU1IeTFiN2xURk1zSjZKWlVrWDd2cEZJSXd4d1A5MGZBQkQ1V1c4dkQ0S1VxX05OY0ptZnFiY0g1dEdua1ZTd3VVTFBOUDU2bjB5ZWpZXy1qNWxkeWs2ZExzbVdSbXVEY0JJbGFXN2Q3SGhSUFo2eFpfY3JTajdVeG1ZdFFJ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Fleetworthy debuts RADAR for fleet toll analysis - Transport Topics",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84LVZVMGhURDdjcm1idDNSTklicVJ6Z3FxOEZVSkV6WmphOUxMZTdEZVpwU01fWUJhUC1EREZITHZvMnpqcTAxSWRyTjBOZjRlTGZrZVZ2SWtLdkxlUGZ0WlVnMmd3MU1ZZzJta0Jn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "The New Footwear Releases That Should Be on Your Radar - InsideHook",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhUWFuQWh2dmNrS2ZoYnE0bkJFT05xQ3d3SFg2MHlfVUpSMEN2MEN2VWdiTW03WDJzQkVYV25sdVY1WlJybXJ1UXhRbXRIdDUtdUQxNGRLYXJnQXZRdWlUZkp1M0d1VU9tWUZHV0tYdWFLMWc1Vkc4Tw?oc=5"
@@ -77,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Arbe Introduces the Gryphon Radar System, Bringing Reliable Perception to Unmanned Ground Vehicles on Rough Terrain - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOLUtuSVdSbC1jM00tR2JCUTBWNUFITWxpa081bWxnRUdTMmdoT3RkdjRyT0g4M1BUaFFKLXpjenJmWWJ6WVliOEFvbFc3eENfNGNFcmh1bGN5THpoeldleG1IZUNxSzFNR3F3WXRhVjVuYk5BTnVqM3cyY1Yzc2JDWDUtNmF0M05RNWxkZXhyREp5Z3VTbUpESkxOWnR3MW5pMVZFb1dCRjc2N29Pd1hSOGI4R0E0UThPTE1XYk05S25kN2pKQl83Wk5TOFE5elF1anFDeDVjWWQwRHRVTWJyMDhVMklDMDNMVjNtZlFyWTF2ellQWUFpQXhwMXF6OE0?oc=5"
@@ -105,14 +126,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Nike Ja 4 “Radar” (Heat Check) Releases October 2026 - Sneaker Files",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5TUFTdHNKM1l5QmhWb01qME1xV1dVSEF4LXYyb0tDT2VmRDZaLVRzeFh5ZmVCcGNfUndnTmRMNjlCTzI3XzRzWDRrb0FsY0E5QmdKYmJGejY?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "Leonardo DRS Launches cxMHR, a Fully Digital C-Band Radar for Integrated Air and Missile Defense - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWW44b2d3X1p6RUE0dVpndlVXZWRva1JWN2ZaQWo1RXpVZ1hMNHEyVmxEclpKYlpZaEJSaGh6VTlRRmlEVEVKUnBuc3RwYjFGRkdZdUwxQU1PMV9FYkhoUlhsbnctQTN0d2ZQU0t1VUlLdVNrMnlyaV9fMzZsNW1GTktuTW14MkpFMkUwNXFBY25zZEhkTi1pdm1n?oc=5"

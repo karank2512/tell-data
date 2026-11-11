@@ -1,10 +1,17 @@
 {
   "domain": "jitsu.com",
   "name": "Jitsu",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 4.4,
+  "score": 6.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-09",
+      "summary": "Jiu-jitsu legend Renzo Gracie takes equity stake in [person] joins as global ambassador",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY01VdDhqcWwyNjBkSmg0MXlHeTVyUHFXZVNLbTExZFF0MUFJa0wzcVNldDRiNkw4OGdNMzhTR1FfOERlOE5vV291bFBYcnl2RTdEOFN0Q3Z5NEdlbnU5dVZnVE9qb2MzaFlrTVJ5ZDJ3eHp3WG1maUJkdjVDVGJzNE4yOHcwc19KUkJ2MzgtVklUbXZ3RHVxQXFGUmlaamswVThTSjdWVk52cnAyYmx6UlJmdmlBWVVDNkotOHpOclU5d0lkcWhtOURn0gHKAUFVX3lxTFBjTVV0OGpxbDI2MGRKaDQxeUd5NXJQcVdlU0ttMTFkUXQxQUlrTDNxU2V0NGI2TDg4Z00zOFNHUV84RGU4Tm9Xb3VsUFhyeXZFN0Q4U3RDdnk0R2VudTl1VmdUT2pvYzNoWWtNUnlkMnd4endYbWZpQmR2NUNUYnM0TjI4dzBzX0pSQnYzOC1WSVRtdndEdXFBcUZSaVpqazBVOFNKN1ZWTnZycDJibHpSUmZ2aUFZVUM2Si04ek5yVTl3SWRxaG05RGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

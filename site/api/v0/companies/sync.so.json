@@ -1,13 +1,13 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 26.2,
+  "score": 25.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "Shahein Ockersz Releases Open-Source Fixes for ZKTeco ADMS Time Sync and Retransmission Bugs - news.lavx.hu",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXy00LUcyRWpSQ1gtc2liV0F4bFlZdnh3aUZqdGpvZzk5bjRSX185NkEya0FkNWhjQVQ1OGQ0RUlxLTFFci1FMXdRWjFZU2Vkb1FJbHFrMUh0QjR3RkVBbkhvVzRnckt3S2NCaFFWbm1JUDAtR0FvY2taTEMtWXNCMTBNbElxdE84ZFVLSldsMGs0V0Nrd0NROERWeGNONXBNT0hnMXVWNDRGYlZyLUF0b3VUdk9JRUI5UEMzVjBn?oc=5"
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "sync. debuts studio-grade visual dubbing at ibc",
       "url": "https://sync.so/blog/sync-labs-at-ibc"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Music-tech startup Hoopr unveils macro-sync licensing tool Smash Plus - Adgully",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2Z5RFlDM3ZCUklheXhmWU5XaTE5Z0pRcW9NX2NVVkNzby12aWRIc2UzYjBHS21OTHVlYjRmenE3Mk16bkN0ckw0MEd5bFNHM2FzY1NvQk03ZkdhN0lKNHVaQTVZQ3JBQ3VQeU8zUnVHX19qUjNNanljQWhxWWJYVDJRbXdfd21iejlzWVZTVGE1LWM2UlBmeEh6UFBNWFNWTG14bFFxVQ?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Microsoft Introduces OneDrive Sync CLI for IT Admins - Windows Report",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUEpmV3dKbnFfaHF0ZjZCM1cyc3REcHZrVWhvUWZxUFZJWmNXc0F3NnM1akNXRkQ4UTVab2VjNENZckd4SUcwNmFISGFDcUl3WE1yT0Q2Z1RmTWw1am9WS0NDXzdGWFlRNGpmcldwaFJFTzlGOTl2RGRLeGVmbzFDUXR2aTVPUQ?oc=5"

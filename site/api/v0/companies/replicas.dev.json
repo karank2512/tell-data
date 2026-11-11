@@ -1,7 +1,7 @@
 {
   "domain": "replicas.dev",
   "name": "Replicas",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
   "score": 4.9,
   "contributions": [
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Introducing GPU sandboxes for agents",
       "url": "https://replicas.dev/blog/gpu-sandboxes"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.6,
       "occurred_at": "2026-09-07",
       "summary": "Introducing code intelligence in every workspace",
       "url": "https://replicas.dev/blog/code-intelligence-in-every-workspace"

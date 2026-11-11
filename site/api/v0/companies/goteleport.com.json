@@ -1,0 +1,52 @@
+{
+  "domain": "goteleport.com",
+  "name": "Teleport",
+  "as_of": "2026-11-11",
+  "profile": "default",
+  "score": 4.9,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-11",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/goteleport",
+      "postings": [
+        {
+          "title": "Staff Solutions Engineer - West Coast",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/goteleport/5171aacf-602c-4059-8503-62c2afcc5e53"
+        },
+        {
+          "title": "Solutions Engineer",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/goteleport/7872218d-8c1e-40f7-9b79-0076c2fa1564"
+        }
+      ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Teleport releases beams to secure artificial intelligence agents in production - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDJNdXJTNDkyT0xBcl9oNm1rTjFFSlpGSXBveU5oeTY4WmFvZlpjNW10VUtaVVJqMEgwSGp4V05TckV0WDV4WUpFYlR2MXF0SXc0eTk5LVRIaTU0cWNXeV96NWZLb08tYnNrV0FPQl9nWTVJcVVqb1F5TWZIYU0talhCSU80Wk1mMU00c1Z5UlJ0MC10QlNXbW03eW1xOUl2NFhvb2Z1THlKQUx3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Introducing Teleport Beams: A Trusted Runtime for Securing Agents in Production Infrastructure",
+      "url": "https://goteleport.com/blog/teleport-beams-secure-ai-agents-production/"
+    }
+  ],
+  "open_postings": 25,
+  "long_open_roles": 5,
+  "sources": {
+    "ats": "ashby:goteleport",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

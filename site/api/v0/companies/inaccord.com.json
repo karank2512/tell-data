@@ -1,13 +1,13 @@
 {
   "domain": "inaccord.com",
   "name": "Accord",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Janusnet launches Accord for defence metadata security - SecurityBrief Australia",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGlvTE5remNyVnB0ckNCa3UxZGZtX2d1OHIzVE5DRnJWNHpRVEh2WGd0VVpQODhoZ1RhZ2NlcjU3bGl6d2JfUHYyVE1mNGR2SHQxZ29mb0FJTnE2dVJqSTU0TjR2VjB3V0hhYUo0RmVJMnh5YWdPeC1EZy1JSmh1bzhpTFd6cGZoR2lUcGgwUzhvSm8?oc=5"
@@ -27,7 +27,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWIybVVHN2pYTXI2VDVhRDJ3bDFtelY4UGE1Wi1ZWmtzd1RRS0NySmJ6dFF5a3pQMk5PSGNCb1Y3dEIyMFE3RmJ6YWREY2tpdzRQU2VucTNPNzRYeFVZSFBWM0JXTTFfTkgzVmQwTkxvMjVfSFdwVkNNRHg3LVdRSWVwcHEyMXRwbmlGdURnb29VUjkyQVlGdnlFcnNSUUhET25HNEo1VlNkNU8xOGR3UDBoemJXMGdFODY1eGtRZTdlcWd4bV9ySjNZUEp2Wm1vNUJQbEpVSHE3S2FiYXBSV2xQNnJMYl9BYVFJZ2VB?oc=5"
     }
   ],
-  "open_postings": 5,
+  "open_postings": 4,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:Accord",

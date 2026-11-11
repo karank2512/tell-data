@@ -1,13 +1,62 @@
 {
   "domain": "lnkd.in",
   "name": "Zen",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 9.4,
+  "score": 19.6,
   "contributions": [
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "AMD Releases AOCC 6.0 Optimized for Zen 6, Debuts Fortran Compiler 'aof' - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xT0o5V0tYblJtSC15YzdqcXVDeFFvYkQyUFpZaFdMRUs1S3NGRlZQTzlWcFlCZUNJUjA0YWo2Vjk4WXV6TW9FMlpFb0tfUUROSjFBeW1pZ012TnhhM1hBblhzUmZ4ajhXdWc0MlZDUGxMVUd0X2c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "AMD launches Zen 6 Epyc 9006 series with up to 256 cores, 512 threads, and TSMC N2 - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHZlUVE5cjNGYlFtYVp4N1VjdzJMVTVzajR0MDBtTVlKX1FfRFl4aVZ3TklHbXhHWWczWGM2LW81UWdlb1gzb08tWUF6UGx2ZW9GcEU2Z1haX3k2MUdlMDV1UFNtVkRNMDhQdllKNlQ1aXdBdXBrcnhUZnE4YlZCUGFZU3JER1k?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "AMD Releases Zen 6 EPYC Chips for Denser AI Agent Deployments - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEhfMmdfbnBVVkZuNkRDbmlDRjdpRWdLWTg0Z1JaYThoSGJMMW1hRXJuZEFUdlpYWktaZlIxdmpkWmgzYTlIbm9BanE0REFxRnRXeURRMG5hUnpybTB5eFF1VWdDdGVQWkdEQXUtYVVNLXNHVGltLW55eUI5dGZ6emptTmtscllCQmdr?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "AMD Launches Zen 6-Based 6th Gen EPYC, Claiming Up to 2.2x Performance Over Intel Xeon - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MT0ZCcEhqS2Zrb0VEcmxBWWlsVjIzWmVsci1KeGd1ck1BWlZ5YmdNWjZSZ3Fzc3RMWUFhcFZLOE0wbVZsVXlwdC1NVDY0UHA5dGtkVkFvTVp5dE1JMU9ZRGhHQWlyVy16aE9zeQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "AMD Unveils EPYC Venice-X: 96 Zen 6 Cores, 1,152MB Cache, 5.3GHz Boost for 2027 - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnOUpQWllvelg4a0EyaC1LQUZSTm1IU3ZHSURRQURoZDNXWmpFV2pOR0RlQkJmN3R6eWh4NF9oWFVrXy10R1p2MEpqSzFkckk0TlNOLVVidGV0NXNibzJFNHVhTVVkeW5vallUWWdmbk55bTA3S1E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "AMD launches Zen 6 EPYC 'Venice' server CPUs pitched at agentic AI as Nvidia's Vera gets its first full reviews - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ1VwSDBXaEdJT3hVOGs0NkstcHhzZFBmQktUckhCalBNZ1VaMzJUeUZMbi1FeDBKelg0bm91MHRKaGpwdjAxZDcxbmhsdVNlTTdkdUVzMmhWV1l2a3NZZl9FalZMakZ1TXRwdk94VEJ6LWhOMGp4Rm9idDNPRGl4Rml3dVlvbWhzc210OFZjT0w0NWNqNHE3TldZNVgxcFQzQ0llNmE1RHlQdlJfbGJ6MU9iV3R0Z1RuZHl6R1RGWERhbkRkSlZmUw?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Poland's ZEN.COM eyes 100K Hungarian users as it rolls out full suite - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHZXRFNqbVpSYTJGcEQxMnc1NTkxTzF4bHRYZ0xqMm5yM19uOWlWR0hQS2s3cWVhS0JyVTNSVHFVRnRFdUYxaVpQSzg1dDVQUmQxUC1sRS1NVDZ6OXMxSm80WVk3c3hQajBGN2hfZmRxQzdjV2JOeG56REMwU1hHOUg3NWpBLUxtUkhySnFjQVY1ZmxFdDZwT1hlR1JpRWRBQ21RZVh3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Martinique’s Club Med Les Boucaniers Unveils New Zen Oasis Space - Open Jaw",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVV6dThYOThraVd1VEdXT1lCQmRvTjhaTEVVMW1BWDBDd01iWkVmOVpvaUtUUkNXbjZqV0RyOEtzMk1jS3lTS3VoZEhBWEJoano0czJ3Q19rUUdSY1JPQkt4bUNGOXJHY2xHeGc5RUpqRVh1OXNTOFpIaHVCUEo2T0V3cDdGYTZZbFhzaTFDU3ExWGY0ZWE4YThKVEJWbngtWUZvS1RTMTRsQQ?oc=5"
@@ -49,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Fintech company ZEN launches in Romania - The Romania Journal",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHpxVmo2QWYxdUJGMnFQQ195Q1hhTlF0dndvWDlhUGhDQzd1dXMyaWhKaXRXWU5UalFFZndpZzNqYmpiUWdvVkJ0WkIyRWFLbHF4TTd3R1hlM2dRQlVmOTJCcHlCUHotanlsZTExN1JaRmdVUTEtQ0RPY1c3MC1seDJHQ0RrLUE5ZVhj0gGLAUFVX3lxTE5MenFWajZBZjF1QkYycVBDX3lDWGFOUXR2d29YOWFQaENDN3V1czJpaEppdFdZTlRqUUVmd2lnM2piamJRZ29WQnRaQjJFYUtscXhNN3dHWGUzZ1FCVWY5MkJweUJQei1qeWxlMTE3UlpGZ1VRMS1DRE9jVzcwLWx4MkdDRGstQTllWGM?oc=5"

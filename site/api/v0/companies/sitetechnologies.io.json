@@ -1,0 +1,32 @@
+{
+  "domain": "sitetechnologies.io",
+  "name": "Site Technologies",
+  "as_of": "2026-11-11",
+  "profile": "default",
+  "score": 25.0,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 24.8,
+      "occurred_at": "2026-11-10",
+      "summary": "Form D: $2,000,000 offering, $1,904,054 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1986769/000198676926000001/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.2,
+      "occurred_at": "2026-06-18",
+      "summary": "SITE Technologies Releases Industry Research Report Exposing the CapEx Intelligence Gap in Commercial Real Estate",
+      "url": "https://sitetechnologies.io/news/site-technologies-capex-intelligence-gap-report/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001986769",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

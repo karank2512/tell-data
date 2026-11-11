@@ -1,13 +1,62 @@
 {
   "domain": "superapp.id",
   "name": "Super",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 7.0,
+  "score": 17.2,
   "contributions": [
     {
-      "type": "leadership",
+      "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Rafael unveils SUPER ICE, new long-range cruise missile capable of launching from air, land and sea - i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaUNFcW9PTXJKX0RsbjNZVlFJd2taZG1GdndfMVJoZmpfa182RE8yLVk4dUFVZEh1VTNFTm9WS25HZk1RVjdxUE5aMzF0V01DcTZSa0IyQWxyRGVrSjB0dUJjMHVpZml4QTVHdncyQXZ4QVZmcXFYcU9Sam9ZajlxcHVkcWczejRWSHhYQzBJWGJLbWpzWFgyejZUcVdPdXhONVpJLXBlOTNYY1NfMzVST1Jld2NsbjVQZWt3SGxIQjU4ZFZIMGRwUzJDbF9zOG5NYVhqQ3ptNXpyNFQtZVNHRFV3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Rafael unveils SUPER ICE cruise missile - www.israelhayom.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDJHSXhCTDN5VjBOWnYyYnpXRzRSQnFQcmZlUmctb0pDR09uU3R0X2lLZmVHV0xTR3dEZ1BZcXJDUGQydXFKTGp5RHc2TnJ3aDhCSjI4YW8wTWJYMXpjNHppZkNmMWJ0TWhTN0YwbFFsUXk0UjcxYzE5ZGhwXzRVckdhd0Q0V1U?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Rafael unveils SUPER ICE cruise missile with warhead 4 times heavier - Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nZGI3M0FxLTRqeUlsM0Zuckg1S3pSTVNDbHVqVFhBbWtzUmZIYzRzWDFkOEhuYVhpdlMtam5IeXNOeER2Ql9iZkV1RUlHMGxCWGxQd1dn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Microsoft Officially Rolls Out Auto Super Resolution for ROG Xbox Ally X and X20 - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0FYSVBCLXI0NGE5M1dTbjBBLXk0TGUxd3VnSHYwdGpwWVNiLS00djN5OWZ5eUdhdHM2Nkd0bzJ3Xzlmam40S2hvRHl3N01TNHJWb1JFbEk3Y2w0OXZtQTd2bjNzbHpzbE42R0xzWDRSUm1yTHA1dXJHbVhTeWRTM09HbFBaMmg2TU5nLTZrYzI2bjQwNGtab2xUSHlERll4NTNOTUREeWVmNUdleHBaaQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Rafael Unveils Super Ice Cruise Missile Featuring Larger Warhead - Aviation Week",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3RhOUF0V095N0g0ejllUFZNb1plRUVfdHJYaFVZdmNYY21CeGR5Rk1BVjhwLWgyTTRMWGI4RGhOMWN6cEtWc0JHbVpCTmJfeGpOOEFpbU83Ukd5ZXFQTC11anVwZjNPVnhwaGxwbWZrUGhxdUw2a0tqRGZNaVlFLUpvTERTOXBQQ0dfUFlnaXBWV0Y2OFU2TkRJYXoyNXBpemZac3BSQWJzUlo5ckZrbjd5QXRvRGo3N0RnNDZ3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "RAFAEL Unveils a Heavier Cruise Missile in the ICE Family – SUPER ICE - Defense Update",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WTVo2Nm9FUUszMTk3a1A2XzU1OXJrVEdWd0xWYUN4enEwcXhSTFdLRmF3aWtwckFpcEhBYV9FNDg1Y3BqUWpweUxaazM5cUZDRHRBcUtTei00dmhJbFlj?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Introducing Google Fi’s new super network - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXhicGFmanFTaFNaTHFOWmNseUpVUHVhYjlxVHYycjd0bjhsdjJIN0NzUk5YblF1X3VFZ2VwaEJtT3M4SU00cHloNmY4ODNaOG8tUUhNTmxyNTZGRlZlMGhaZ21TVzZnSFY3SEo5blNJTWZBZmJNaXN3LVRkUXRSS0UwSVVvR2FiZ0t2YzN3?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Super Micro Computer, Inc. - Supermicro Appoints [person] as Chief Financial Officer",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbmtPdHpPbDhWUkxvVW80UzFKa0w3OVBSbnI4SFlQazBZRndrQWR1WnlRdF9PbnNidVVQcGlWVjg3VmxsTkg3RkExQk9uVXZoUkF3WXVrMkJYajdDejlJVTFqMl9QbTJlWVV1S2xzZzFFbW5oTzBQYlM0QTNmMS1FTFR3U3QtZGtLSEdrX3VVWW1OdDM4QkpOUUkxVGp4dzc2Y2Z5T2xOcVBqX1NNeVh0eEFZN1FXRnNOTlE?oc=5"
@@ -28,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "Pro-Phil Scott super PAC launches ad blitz targeting Amanda Janoo - Vermont Public",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0NzY1llVnc2N3ZaUUoxSDl0SjBVNUZIWU1pZnpCLXN1RWhQS2txZ2stQVVOS2Z6VUx3YzVHMkU2aWRfNmRNOUxULTdqQlVlU2M0S01qQURBZzRoUzZDbnEwQWhvcnVjLXlZUmJudXNhSjB6bkFIcHBEX3lqaERBT1RlWTdMYjlTd1FuNWNzUGd4cFRXQ0JxYUJ3UklQZUdLX0dEQi0wVTIxU05UTHR1eS0xSmhYaC1L?oc=5"
@@ -42,7 +91,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-30",
       "summary": "'Super Ninja World' expands into old Cuyahoga Falls roller rink - Akron Beacon Journal",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGNEN0hVdENoUWtaYzJlOVp4WVJKQVhjX2JDdzV6aWVaOWRmSWRPMVR4bWdac1FXODlGX1VUdkNza1dPeUUxeXgzTWRLVWthNktMYmhlRFktd3lycGljd1JHby11bmZHR3Z2LW1JSDhfd2E2cFJUSXN4cll5Njk2UHBvVGtqaGZOYjcyZ3lsZUNYaGc2TXk3Q3ozdU4zWlM4Y1k3OVNNb3N4cW5YMWxFTV9vRQ?oc=5"

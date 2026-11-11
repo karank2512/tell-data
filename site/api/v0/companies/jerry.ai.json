@@ -1,9 +1,9 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 8.9,
+  "score": 8.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Jerry Seinfeld Unveils His Top 4 ‘Seinfeld’ Episodes & Fans Are Divided - TV Insider",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTB4OUkyVHdRbm9uZlVhb3pvV0JjejRwcktMUVRLcGEzcmhkcGItcUhhT1VXalFNSllxQXVpMTRzNzVKNnBJWmF1Y00waHVkQ1NRSC1aaXlXOWVES0NkUEgyeC1aQlVGbkloTEFiX05EVGV2R1d1OFhFcHBoZmVsTzROUGlhekQ3UGpmaGpVREo?oc=5"
@@ -90,7 +90,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 39,
+  "open_postings": 31,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",

@@ -1,10 +1,24 @@
 {
   "domain": "singularityus.com",
   "name": "Singularity",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 6.4,
+  "score": 9.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Humanity Fights Back: Ashes of the Singularity II Launches Today on Steam - Eastern Progress",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdXo4Z3YyV184QThfd3dJNm1CVk1EczRTcEt4bXZHMXoyRDRldFAtMVNqYWxSSjQ2TVNrMjI2V2E3UFpqd1BCUV93cTFkTkVsZVJGWG5US1E5SlFuaXlLWW5IUWNLUWxTSUZEV1dGckxfbFZTRDA5QzRIdTJrMWxDNW1hVHEybS1hUGtmSDZPMEdTd2M4TGUtLTJyNEV6RHl1b1JnMFBwYTZHNWVTSXNEM1dkTHh0UkI5RDFXZDlnMGRDd2poWU1KSmhWNUFfM0RMZjlvSklBV2g4SGFkTjNaTmJnTUR2WG1sRUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Ashes of the Singularity II launches with 20% discount - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR1lJelpnbl9wamx5VFBhSzZuazc3X0gxYm1ieUloUWs2RU5odEJqeFFEM3ptSDF6eGVKdlNaQ3U0UkxPNGEzQmRCVHFwd3IzQ1FUWWt0bG1WTDdZcHJhSVgxaUJKV3B4V3o0R2tBek4wWjlxTHk1LWNYT3ktRmxQNUU4YlJwWjdHWGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 24.4,
+  "score": 24.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.4,
+      "contribution": 2.3,
       "occurred_at": "2026-10-31",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -96,7 +96,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "Stripe Pay Launches Instant Business Transfers in US and UK - FintechNews CH",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDRnUnk3cEhuVWk3eHlzNHcxckdPaTBBdjYtakhvRFRjcE5vY1cyZTNER1lNNGs4bHBLaUZudkJlVlNiWnlza3FMREpxQjlnbFIyTEZHU3VUVFhma2NyMlZuU2NpcGFNaGVGX1BSeWJXUkg5OE9Ya1lyOUpmMVk1d0p3?oc=5"
@@ -183,7 +183,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-11-09",
       "summary": "3 new finance ops roles in 7 days vs 0.75 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -334,8 +334,8 @@
       ]
     }
   ],
-  "open_postings": 787,
-  "long_open_roles": 201,
+  "open_postings": 793,
+  "long_open_roles": 202,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

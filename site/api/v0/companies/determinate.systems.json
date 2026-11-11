@@ -1,0 +1,60 @@
+{
+  "domain": "determinate.systems",
+  "name": "Determinate Systems",
+  "as_of": "2026-11-11",
+  "profile": "default",
+  "score": 30.2,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 28.3,
+      "occurred_at": "2026-11-10",
+      "summary": "Form D: $15,329,993 offering, $15,329,993 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1929988/000123191926001554/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-07",
+      "summary": "Introducing Determinate Secure Packages LTS",
+      "url": "https://determinate.systems/blog/determinate-secure-packages-lts/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.5,
+      "occurred_at": "2026-08-27",
+      "summary": "A window into our security processes: introducing the Determinate Secure Packages CVE Remediation Dashboard",
+      "url": "https://determinate.systems/blog/secure-packages-cve-dashboard/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.3,
+      "occurred_at": "2026-08-03",
+      "summary": "Introducing FlakeAudit, a CLI for evaluating CycloneDX SBOMs against custom policies",
+      "url": "https://determinate.systems/blog/introducing-flakeaudit/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-06-15",
+      "summary": "Introducing Nixpkgs cooldowns",
+      "url": "https://determinate.systems/blog/nixpkgs-cooldown/"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.1,
+      "occurred_at": "2026-06-11",
+      "summary": "Introducing FlakeBOM, a CLI for generating SBOMs from Nix flakes",
+      "url": "https://determinate.systems/blog/introducing-flakebom/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001929988",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

@@ -1,9 +1,9 @@
 {
   "domain": "traces.ai",
   "name": "Traces",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 13.4,
+  "score": 13.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "ControlTheory Launches Dstl8 2.0 AI SRE With Metrics, Traces and GPU Visibility - Cloud Native Now",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLXpjekJZRzdFV0gwVkFoYU9RXzk0UDJXUXVjT2RHQnJFdEozei1CZ1psQXFvT2YwRC1yRjNFbnJHRzh1T28xckNxLTZldW5xcXB1TVFSNmU1OXAzRHUxV3NJUUtrb3pJa3Vwd3RGenhRTXFCQVhTSk14TDB5MGJVNnBleE53TnpVOXNUdVdObGxoMlA0X0VicVlFT1BWUjNMcmM5dnZyOGlfR3g1eUwxX3k3dkMtM2ZqVjBWRkRBWnNWUXlvdFVBRm94SHo2VWxIWDRJVVVaNXJERnJzcG9faWl3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "Spacelift Launches Run Observability, Turning OpenTofu Traces Into Valuable Insights for Platform Teams - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXBWSzItN3BpMXNTYW5hMzhWOVdCWVBINWNaRERra1B6T0RHMzU3N0dwNS1UWlNKS1BXOWFVc1NGbzZjTllmUlMtdTBMY0tHLXNadWJlUnBHMlQxOGZyNU5ieEptVElmcnlXQjZGNkt1SHd3UEFkbVYwY0twdVEzRjYxMDJsY0FOTjBGNkxPdnhicjlERkl5eTdwdTFjdmRpZ3FSbVlUOHJibFAtdGVLMjVzRFFqa0ktZHh6RllBM0VLaVFJUmtUQ1lSeGMzSEc3aml5d0swZW04SVJkSUgyaW5aaVdLT2tFQ0c4NW9Obw?oc=5"

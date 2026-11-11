@@ -1,9 +1,9 @@
 {
   "domain": "wafer.ai",
   "name": "Wafer",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 7.5,
+  "score": 12.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -24,6 +24,27 @@
           "url": "https://jobs.ashbyhq.com/wafer/67d6b128-2c51-477c-a8bb-ea53b27dcac8"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Infineon Unveils World's First 12-Inch SiC Power Semiconductor Wafer; Mass Production Timing Undisclosed - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SS3BoMTZpS3BINHppdG84YUliZmt3MnIxbEwyQlM2aFJGUFF2ZTZRV2g5S1dad1FEbzhnaG5hRUI5UTFvZ3NTdFRsUXBVUHlNV1JjWGZyeUQxdjhqb3ozdG05QWFCQzdxbU5jQ3A5Ung0V2g1UGc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Infineon Unveils First 300mm SiC Wafer as Chip Stocks Regain Footing - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjg4MGl4WENxa2QtT0Rzc0JJdHRoNWI1S1B1aUdHaFVNMzdfdUhMVlFwNHhGWkpmdTdzUzRkTEJqQUw5UTlSemRpalJKal9McHVkQVNreHQ2UlNhbWtXOVBEd1pYeHlBWUZiQXpTT0RhWTRKblEyNmltQllNc3ViMHBIdkNxVlVVYXYyS0pnLThCTHhqdDBNQjJ5Y2tLMXNSTUFGVklvMG5yaVNySWhuUWVRb0lsR0hxbUo4elJOQ2tpQzJERjJqWFgydVRnSC1mbDJvX2x1aw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-08",
+      "summary": "Diamond Foundry unveils world’s first 200mm single-crystal diamond wafer - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcW5pcEdGX1dhWWxWSUI3ZXEzVUJBQzFhdkdxTUdYUjA4eGxReEhmZzNXLXhYaTAzSFRTU2kzS0Q0RjhDM2JNQWxtWnE0UWpGME1XYnY5V2wyUFhWYlUtb2ludjBzeFBISmFoR1VYUzh4a3ZsZC1GNTRiR1pnblFuODJSOWg?oc=5"
     },
     {
       "type": "launch",
@@ -59,9 +80,34 @@
       "occurred_at": "2026-10-14",
       "summary": "Advanced Energy launches Centra Smart Hub for wafer temperature control - Engineering.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FWamhELWhhem1aZXFhSDZvZVE0V3ViWDFkdEhNcUZtQzk2Q1ZqT1oxYU9qMFZZUXF1UjZWRjd6SHNIcUxXVkNIRmoxSFY4a3ZOWldDaVRCQVg3anV6WTgtTU9neldxZlc3Rm83Z1UyejNCVVJraDNpSVJHckRPOWJETFBKMUgzczNRZDhqcXhHaVBDc0FESjZzbExsWGt5dnc?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-11",
+      "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/wafer",
+      "postings": [
+        {
+          "title": "Member of Technical Staff, Security",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/wafer/5ca1e5e7-7cae-4038-8b50-ecfc36b9223a"
+        },
+        {
+          "title": "DevOps Engineer",
+          "posted_at": "2026-11-05",
+          "url": "https://jobs.ashbyhq.com/wafer/eb0cc872-8e6e-4367-88ed-a1fc249ac642"
+        },
+        {
+          "title": "Member of Technical Staff, Platform",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/wafer/f748b09e-09a9-4839-a022-70c3dcee6558"
+        }
+      ]
     }
   ],
-  "open_postings": 8,
+  "open_postings": 9,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:wafer",

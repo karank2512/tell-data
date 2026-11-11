@@ -1,9 +1,9 @@
 {
   "domain": "kernel.sh",
   "name": "KERNEL",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 9.8,
+  "score": 9.7,
   "contributions": [
     {
       "type": "launch",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Nvidia Releases CAD Kernel SMLib as Open Source Under the Apache 2.0 License - 3Druck.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemR2QlVlTUZOTlFiSUV4dExtbFZidV85ZGFYMzd5YTE2bzZFRjBmYm1FRmZiZHlHVWVIX2Q4MGVHVFRMWHRJS0xubkFYbFIxUHcwU1hSSmVTaC1EckQzaS1jbmZJUWMtZlhIU3dmSXd6NVN2TnIyZEFVWmlPTVJvZ01VMXJLNFh6T2RlSlY1OC1GdmM3UHpoWHB3UTczRFJfN0tnQUVVSjBoY19kOFJZZTNNYjc0RWRsdWdlem9R?oc=5"
     }
   ],
   "open_postings": 10,
-  "long_open_roles": 4,
+  "long_open_roles": 5,
   "sources": {
     "ats": "ashby:usekernel",
     "edgar_cik": null,

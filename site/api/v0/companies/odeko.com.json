@@ -1,7 +1,7 @@
 {
   "domain": "odeko.com",
   "name": "Odeko",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
   "score": 1.9,
   "contributions": [
@@ -32,7 +32,7 @@
     }
   ],
   "open_postings": 25,
-  "long_open_roles": 2,
+  "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:odeko",
     "edgar_cik": null,

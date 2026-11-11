@@ -1,10 +1,24 @@
 {
   "domain": "nautilus.co",
   "name": "Nautilus",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 3.1,
+  "score": 6.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Diaphragm Liquid Pump Simulation Software – KNF Launches Nautilus - Electronics Media",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbHNJLXhpd0tlMUI3QnFwbDhwTXFmcEZoaElNSXBuZlp6X3hBYVl1cTQ5R25uMTN6WDRJT0tpRzZfR1ZJa25TQWFvMy10S3A3cFhLRTJGM2lwNTI4SzVDa0FCTjBqYnZGZFpYcmQyNWU3VEhBOENVemdUX09kWHhzZTZKWmR5OTV2dUFJYk5laUc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "KNF launches Nautilus software for fluidics simulation - Manufacturing Today India",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5na081T1BRSmNPajI3UFpkT25PS2l6cUJYcXVlUzBiWGhXanFyT1BLX2RHUC1mNW56TlFYN216RzByMm1XejV3RlZiM25td2pUUUREb2VOc1VmR3NhZjZfVnlNYXp6VXFGZkJua2dwYUFLRHc5ckRCazNB?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

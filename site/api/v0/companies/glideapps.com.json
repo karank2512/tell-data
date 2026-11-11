@@ -1,10 +1,17 @@
 {
   "domain": "glideapps.com",
   "name": "Glide",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 6.9,
+  "score": 8.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "General Atomics Unveils Concept for AIM-174B Packed with Glide Munitions - Israel Defense",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42aXpFUGl4UFpQYzZmV000UHFNOEhTb0lLTi1acnJ5WUZTX19NUnI2TUpsdW5HRWU3OC1UUkhNbDQ5YTBGS2UzT3NSbHpoVnZfQXB0MjNHLXM?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-29",
       "summary": "North Korea Now Launches Tactical Cruise-Glide Munitions from Drones - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5objVJa2RrWnMzZjE2RHEwOVFVYWZXUTJOcG83dkotS2VQUUoyMkJPU1FvencwdGhfcm9ReFZ6TDlUb0ZKRG1hak1HOTEtN0hYdWF6V2xqLUJRcXJhQVo0TXVJVkU?oc=5"

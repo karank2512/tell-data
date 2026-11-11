@@ -1,9 +1,9 @@
 {
   "domain": "slopepay.com",
   "name": "Slope",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 9.9,
+  "score": 10.6,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "USGS releases assessment of undiscovered natural gas resources in Alaska’s North Slope - https://megaproject.com/",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDRscmk4ZVpNZVAxOFFMMGdXaWRaWlhOUGJpNGNuRTRoUkJfN1BiVzZiMWVWUGhZWTV6Y0Y2QXAtWExzVXJUQU9qUWhRTlBrQ2RJQlJJN2ZHZ01NVklaNjNRd2tfbjdjNG5CQVZla0NldXEwWkhzTllHa2tfUGU5NkY0c3Npb3EwMEN4SXFEZGhlM3h4alFaRUdzNTg0NGFmN1liUHpfR0dUZFZ5dXdzdzlydjVqVjdWN1V0akhvWm8wZw?oc=5"
@@ -63,13 +63,20 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Brooklyn Conservatory Of Music Unveils New State Of The Art Park Slope Facility - News12 | Brooklyn",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNck1QeXpuTXNTQTNZWkZGLWhzNS1JTzhEVmNRODluZWt6WmxBV3duYk9ndXFoalRmV0xNYlczVFVZRHc1Z2VDckVfTVMtdkttZ1Atc1lnd2dFMTRtMVFTMndQSGg1M0gtaE5rZUJuVThVSk5EZW9OeGdURkxydHFoZjRUSlByaVd0Ty1sOUV6RWFWUlRkQ212MnFJYmp1RVpnWXpuaUN0M2tnWkpFcjZTZXN6Zm1MaU44LTlBNDRHSnFNTngzY0l1MDJPX1d3YVNaNXRyUDQ5V3k?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-06",
+      "summary": "Dark Slope Expands to Vancouver's North Shore with New LED Stage - Animation World Network",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMGFlU05qQmp0WmhYSXZzdV9aS3RiXzN6THF3YW84eHg5b3JRX2tvOVhkcjFPNmppNkQwUlFQTkF1X1VxaFR3Q1kxOWdKN2pra1VqSGNCRFg0RktMckpyN21BcXprUloxb0xkMHBaX1AtQm52ZmFDWUEtZDd6eUdJVlEyYTBYaHc?oc=5"
     }
   ],
-  "open_postings": 2,
+  "open_postings": 1,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:slope",

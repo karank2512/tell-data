@@ -1,10 +1,24 @@
 {
   "domain": "42technologies.com",
   "name": "42",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 1.0,
+  "score": 3.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Kenya releases last Ebola patient, starts 42-day countdown to disease-free status - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb0JFd2U5WjhCeFZQTlRBQTBpQng0Mkh4YV95T1FXTDVsNVJVZGdHSEx3Sk1tWlM3akQ3bG41TkVtN05YNlB2WHFrQ3FCcjEwVVJubHhtTEFfckZ3RHMzMTBsTU90S0ZUWExuY1l5V3dwNHUySWk4eUlvWGMxSXVjR3pZWTgtQk92Yl84NFl0aEpnSDFDZjBKT0xzN0ZKbXJyb2dVeTBVOXZRb0Vlb2V2TWFVeUM2V0dQemtjQ0VvckkwbGhSaVZrUmx5SDczNWZ6QVFKdWhpM1N6V0ttZTUxRTlPWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "California voters leaning towards 'Yes' on Prop. 42, introducing new tax restrictions - KALW",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0kxSVJPdTVhR3IyV1hBVVJFbHZBWkJ5Zi1PRHdQaUNCTVF6SFk3T0xWUXltZFFGRnNjbW1PdUR1QmFZTGZHdHZHcU0xMFRxTEZzSUJ4RkhnNU5QdUozcnZBVWJRa0lTOWNTRDBveHBnbUxYc2l3T3ZnaU54VWxMb080eXJrU0FPVVF5dUtwRTB6ejR6X2dpRUNvVjh0eXRtU0hDRGQ1cXFlWG1Yc19lbmRRcUVUSHg2SGtzWkJBdmdNSXFldUE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

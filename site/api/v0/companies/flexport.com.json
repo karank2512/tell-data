@@ -1,14 +1,39 @@
 {
   "domain": "flexport.com",
   "name": "Flexport",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 2.3,
+  "score": 5.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.3,
+      "contribution": 3.0,
+      "occurred_at": "2026-11-11",
+      "summary": "3 new gtm ops roles in 7 days vs 1.25 baseline",
+      "url": "https://boards.greenhouse.io/flexport",
+      "postings": [
+        {
+          "title": "Global Operations Associate, Ocean",
+          "posted_at": "2026-11-05",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8355885"
+        },
+        {
+          "title": "Global Operations Associate",
+          "posted_at": "2026-11-11",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8378837"
+        },
+        {
+          "title": "Speditionskaufmann Luftfracht Export (m/w/d)",
+          "posted_at": "2026-11-11",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8378967"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.2,
       "occurred_at": "2026-10-29",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/flexport",
@@ -31,12 +56,12 @@
       ]
     }
   ],
-  "open_postings": 188,
-  "long_open_roles": 80,
+  "open_postings": 197,
+  "long_open_roles": 81,
   "sources": {
     "ats": "greenhouse:flexport",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": []

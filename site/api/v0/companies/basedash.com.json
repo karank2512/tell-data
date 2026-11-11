@@ -1,9 +1,9 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 10.9,
+  "score": 10.7,
   "contributions": [
     {
       "type": "launch",
@@ -105,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-17",
       "summary": "Introducing Basedash Suggestions",
       "url": "https://www.basedash.com/blog/introducing-basedash-suggestions/"
@@ -165,13 +165,6 @@
       "occurred_at": "2026-05-21",
       "summary": "Introducing Basedash Skills",
       "url": "https://www.basedash.com/blog/introducing-basedash-skills/"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.1,
-      "occurred_at": "2026-05-15",
-      "summary": "Introducing Basedash MCP connectors",
-      "url": "https://www.basedash.com/blog/introducing-basedash-mcp-connectors/"
     }
   ],
   "open_postings": 0,
@@ -183,6 +176,12 @@
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
   "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-11-11",
+      "url": "https://www.basedash.com/blog/introducing-basedash-mcp-connectors/",
+      "summary": "Introducing Basedash MCP connectors"
+    },
     {
       "type": "launch",
       "decayed_at": "2026-11-03",

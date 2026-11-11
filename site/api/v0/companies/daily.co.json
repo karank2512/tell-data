@@ -1,16 +1,30 @@
 {
   "domain": "daily.co",
   "name": "Daily",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 4.7,
+  "score": 7.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "To our readers: Daily Citizen introduces playlist feature, allowing users to listen to the day’s top stories - Springfield Daily Citizen",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa01GcklYdTJ1RWt4VzJiUTNzamRlLVVqSXI4UW1NVE13ekZrcHcyR2VVdHZVUkFYVUdqdmJEel9Ga2tibjlCQWdyMkFDMGxzcDV2RzNXRjZXWTJ0M0ZoQ2JTMEE0Skp5ZFIzb2R2WDhDc3lURVV2QzR6c1liMXpFTjRnQjh2OHdWUFp3UkpYYzU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-07",
       "summary": "NWS restores twice-daily weather balloon launches at 92 sites nationwide - ClickOnDetroit | WDIV Local 4",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanVzTDMzRGFnWW9hQjRGZEhZVmoxRmUxRV9zS242NC02NG94N080VTNHWkl6dkZfaHpZdWdsNW8ycU8xdUFycUM0R2YtUXBFUWs1c1ZTZ1VxeFUxcWFibXM3dTlQWkk4Z3FHeVpCRVNvVGZVWEhRcmpZeGViMkdyWEZhcTNJcklzelJhVGNmRndlMlFoM0tRYzNtQXU4dGtVcG9oREVjZjUyY3RSVWRWWWVYZWVxbjFKQVU4SzhaV0I?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
+      "occurred_at": "2026-11-05",
+      "summary": "National Weather Service ordered to resume twice-daily weather balloon launches, \"an important step\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1RlZkY3MUViWU5YNHB1UC00THFTanhtSFZwbGo5Rjdjb3VvSVhNeVdjZnVaTkpSdVNkUkdUM1lHTnU2d2ZXVnJ0cWJfSHhHRWNDZ1prY1BvcVVaTWNmcUJXdHlDOWdNR09rRm5tME5DeWUzYkNoM0pnY09wb1B2cmk3YVhFNVpKVWcwVmdCQkVDN0ozMkxrUg?oc=5"
     },
     {
       "type": "launch",

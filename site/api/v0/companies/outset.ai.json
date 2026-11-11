@@ -1,10 +1,17 @@
 {
   "domain": "outset.ai",
   "name": "Outset",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.2,
+      "occurred_at": "2026-10-27",
+      "summary": "Hilton debuts Outset Collection in Europe with Casa Verbena Madrid opening - Hotel Management Network",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0loZUhFcWVCWmlDeDlRX1VlX3lrRzZSWWd4RFN5aklKWl9SMFpKWmpEYUgzcmFRV19rNXV5bUVyQ2tubTNubjIxRldoTlNwMmVSc1lMZkR6TDhnRmZTTzZBNzFTNkZYNWoySERYbXRQSVM4czNKWEJ0VHktRzFSekZuLWZ6RmU0Q3J2Qw?oc=5"
+    },
     {
       "type": "hiring_velocity",
       "role_family": "sales",
@@ -27,21 +34,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
-      "occurred_at": "2026-10-27",
-      "summary": "Hilton debuts Outset Collection in Europe with Casa Verbena Madrid opening - Hotel Management Network",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU0loZUhFcWVCWmlDeDlRX1VlX3lrRzZSWWd4RFN5aklKWl9SMFpKWmpEYUgzcmFRV19rNXV5bUVyQ2tubTNubjIxRldoTlNwMmVSc1lMZkR6TDhnRmZTTzZBNzFTNkZYNWoySERYbXRQSVM4czNKWEJ0VHktRzFSekZuLWZ6RmU0Q3J2Qw?oc=5"
-    },
-    {
-      "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Hilton debuts Outset Collection in Europe with Casa Verbena Madrid opening - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSmlreU5NUmthVDNMV0J1TllTMUVOclNZTjdJUWxETEFoRWx2dHI3eW5KQWNEenQ1bTFzZmJnUFl1LXZhdFA1WDl0bGJfaURUako0SWl3SzlFSDZPWS13T19WaWVYT1BzckdrUnE4ZHl2eTJsN002WDdTaEZZYmZGY3VUcnlYSWFmSFZoRUNtQjRRbWxnVWxKWFR3?oc=5"
     }
   ],
-  "open_postings": 34,
-  "long_open_roles": 6,
+  "open_postings": 33,
+  "long_open_roles": 5,
   "sources": {
     "ats": "ashby:outset",
     "edgar_cik": null,

@@ -1,10 +1,17 @@
 {
   "domain": "multifactor.com",
   "name": "Multifactor",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-06",
+      "summary": "Fidelity International Multifactor ETF (FDEV) latest press releases and corporate news - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jQUVabzJfUExFUTZHWHREb1lTd2FtMm16OFFDYUFyb2xSUTBaVDZJbVMyZVNERURVZUdsdkg4M2tDRG1aYlhkdGdyVnZSclZVMVFfdXpBRXk1T2VncXNuQ3B0YVZkZw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

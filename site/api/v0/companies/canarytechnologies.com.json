@@ -1,9 +1,9 @@
 {
   "domain": "canarytechnologies.com",
   "name": "Canary Technologies",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 1.5,
+  "score": 1.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.3,
       "occurred_at": "2026-08-13",
       "summary": "Introducing Smart Language Translations | Canary",
       "url": "https://webflow.canarytechnologies.com/post/introducing-smart-language-translations-for-contactless-check-in"

@@ -1,7 +1,7 @@
 {
   "domain": "mixpanel.com",
   "name": "Mixpanel",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
   "score": 1.2,
   "contributions": [
@@ -13,8 +13,8 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqOWJuZURSOEdSTzNfckx3QWxiZmxVTXlYN3pxandTa3F6VkxHVmNwa2xfdnJRQUlUR01sOG9VdlhwSE95dDZ3MmpoMUx1eVVzWU1vZDItN1NOdHh6bzBiOTBrSTlCTklRci1tV0k2TTUzdEhSYU9FZFFObHY?oc=5"
     }
   ],
-  "open_postings": 44,
-  "long_open_roles": 9,
+  "open_postings": 41,
+  "long_open_roles": 8,
   "sources": {
     "ats": "greenhouse:mixpanel",
     "edgar_cik": null,

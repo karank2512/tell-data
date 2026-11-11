@@ -1,10 +1,17 @@
 {
   "domain": "getmeadow.com",
   "name": "Meadow",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 2.9,
+  "score": 4.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Mower County releases more information on Grand Meadow fire - Post Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlpIOW5pQVFrT2ZLRUg3T2dRRVQ5LTN5WGVpS0pBUE1yUW1uSE44TDZ5MWlWeWE3NGdiSDJOaDRJejFQMXFxZ05XSTVIM2N6a0RnSHNmNWVIbmVRZHMwTlA2cmItVEJQZlFORXdqMUozaHp5Wk9md0VpYmhFeWsxQ2xfSzVmTjN4d2E3cXBlOU50OGdtR3B4T1dqck9id3p5?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

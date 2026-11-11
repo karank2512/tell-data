@@ -1,12 +1,12 @@
 {
   "domain": "permitflow.com",
   "name": "PermitFlow",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
   "score": 0.0,
   "contributions": [],
-  "open_postings": 35,
-  "long_open_roles": 14,
+  "open_postings": 33,
+  "long_open_roles": 13,
   "sources": {
     "ats": "ashby:permitflow",
     "edgar_cik": null,

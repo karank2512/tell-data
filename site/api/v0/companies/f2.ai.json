@@ -1,13 +1,20 @@
 {
   "domain": "f2.ai",
   "name": "F2",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 2.0,
+      "occurred_at": "2026-11-11",
+      "summary": "Chris Young Hires [person] As His Manager.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbG05MDlBVnBzLVVrQk1NTFBydVBsdGdLZnIwVHFqeGRsUXI2dUJna2o1N3Bxc2hVclZMZ0FXN3R3LXdPYWVQamxHVU84T1FlZGhtaUItOUFadWctTEVOczJ0UU44cnVzVHEzaXI5aE83MFZ4VGU2T1ozVVFwd3pKX3VDbEhjTkpCYmV6eVF4bmV3R05aXzhNU19tOHdlNFh1TXlrY3pYWXNrZFB6N1QxOGIzUTJRNVdWQWUta05YN3VzakF2TG01UGFOaFJ0OTRFUDdPdVJn?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.5,
       "occurred_at": "2026-10-19",
       "summary": "Joins [person]",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XSkRMSFlXMFZneDY4aVc0SVJDN3dyX1J4SFhBcVhiSm9DZFhicUdpbmpwVkozcDNZWEZwN1N1a203RmZyN0o2SV9CLW1SZzNrWW1WTHBmSnJ5aVdlNDNrX0NSYw?oc=5"

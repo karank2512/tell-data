@@ -1,10 +1,17 @@
 {
   "domain": "apollographql.com",
   "name": "Apollo",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 33.0,
+  "score": 36.0,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-11",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalhjMER6UGhON3o2bzROQno5MDNBU29JUEd6aldRV19hUTlYbkJOeEpHYVJRalZUVVpRRVNILTZjdlNzWTFZanJ2MmNzTjVFbU5BYTUwTWw5d0kwa2hUSDhqS0hYRDZGbzVUdzRmM1RrTXB4bXI4aElpaUkxNVpETGNiU2RjdTdGRjJPQlBOZVE4cjhDNGlLTWRLZjBQa3dpamdsVU5sYlB1SXd6WVprTDl3RFJNdE14TzNpMmV3YVk5ZW9pcVdnWQ?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.6,
@@ -48,36 +55,43 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSEttbi1hYlltaW5CWEFsVVpLYXdQNm9JUk5la1VOVWx5Y3VYUV9IU25XaHBLV1hmbTNuM05VQmwwczNKdjc5WUhqYlY5alI3aEZQZ0pRZGx5VG1lTllKNV9PSUtONXpSS2h5SmowOHV2cEtRMkRhc1FPS1RpS0FVRl9oZHlKN1E1NERQcnQ4Sm9acUtkeW5zVVJ1dWRza1ZFTGJOSFlTRE1tRGthUFB0Wlg3X2E?oc=5"
     },
     {
-      "type": "leadership",
+      "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "On this day in space! Nov. 9, 1967: NASA launches the Saturn V moon rocket for the first time on Apollo 4, but no astronauts were aboard - Space",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQenVERVFYbHBoeWF3cWs0bWx5MVp3N1ZHazRHTE5DNmRGUDJmclhpWE9aVmx1cUJEQlNuMm41N1NRczg0SnJxQmFUemhSc3l2bVh6aHFONEJ4eVdDLUFncDN0V2YtYzF4Z3BJclJLcWpaelVlM1J2ZjBEdGpuMDNTVkZn?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Apollo Sprayers Promotes [person] to Boost Shop Transfer Efficiency",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzBiRkEtSEZHWGNZUzdkYU90YzNCOHhxYWktY1FGVFZPdFJMTXFSSHR2dlRzbm9jRUc5anRJTnB0bmhNaXlBUFBLb3YweTNHUmkwMGxsNlltZjZnOE9NaFJkUzBwQmZwaHNpSzl6TDdRajJvS1NHV1haeUFFRWhrZjhxWnNvV0ZCTzljU2ZtSUJQQ0YzSS1SY204d1lZV2dMcEFWVW5MTWJ6TE9seUdUOVFn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Baidu Unveils Apollo World, a World Model Designed to Let AI Train AI - Gasgoo",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdEFIaUIwcG1Ob0FYakowNHVIeE11Q0o5WEgxVkxTSlFwUTFSVVozX1NBZWZfcUVkMVRudVVpdWZOTS0xQzhGT1YyREJrTEJkQ3h4RzhHWlRYNGxDLVczTjNGcUk0RmxPOUhZQkxydUtKTGVtOE5OLXc3c2wzSzhlNmsxeGpZa0Q1SmkyaWhpVVItb0w2UTJoZVhuUEJjWFBnUU4zOTVTZ1FaX1VtcUhaeXRjNHAzMXRsb1N2azY5bjVRcG1uMU41Mnl3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Baidu unveils Apollo World model to let AI teach AI to drive - CnEVPost",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdU9RdDlCTGd4c1haaWZZbDhNQVI1ZkpleXpPczN4cThCQlhzMDZWQVAwZ3FPRDBzMmtudWJBMjFpQm45N2pIS3pvdGlxdVd2RklqY1NhVVBEMVRkcWdrWHh2Q0lrWGhFWi1VWklScWM2bG9PRHNPa3dJVF9uSkdUVW9XaFQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Apollo Wellness Centers Releases Primer Video - Rutland Herald",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXRQQWxMc3l5bXNYTTFLMGhiWk1aMGxLNjNWM2pKZnVzcExOUXFEc0xOVFI5MGpRMmdBSG1SSzh2QV8zMlNHUC1NRFRGY3hTN2RmaU5lQnJGWURibFk2aExuMzNiLWF4cGRuSFlQMVNwb2otZGxsSE44S1REUTNsd1FtbHRZcXJkcGNmOG1tT3F5TnZXY2NURDMtM0hVQ0swQkItNklOdUwtYWJwY0wyLUFGbXQ3WGlOVHlsc2xzQ2stY0ZHcGZLUXJFRXJPNWs?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Apollo Wellness Centers Releases Primer Video - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzRON0ZqbzZMeWZidkRJbExkNTYzYlZXanRwVGJSLThVRFRLb1lTd2VNbEoxcThRQlJRd3REUnctYzZMTWprRXNyYUFnekZXZzEwWGdUTm93WGEyUklNc0pjOWdPX3VTNW5MSTRFd1BuSEl4T1VGaVhUX25Edk9hcnZKYXQ1YVRWclBzQXJrMlJmWU9RVHZ5WnJuRkxfMEpfSUE?oc=5"
@@ -188,7 +202,7 @@
       "url": "https://www.apollographql.com/blog/apollos-next-generation-query-planner"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 8,
   "long_open_roles": 3,
   "sources": {
     "ats": "ashby:apollo-graphql",

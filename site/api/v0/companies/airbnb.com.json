@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 31.8,
+  "score": 31.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 5.0,
+      "contribution": 4.9,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 5.0,
+      "contribution": 4.8,
       "occurred_at": "2026-11-10",
       "summary": "5 new sales roles in 7 days vs 2.25 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -93,7 +93,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-11-06",
       "summary": "3 new gtm ops roles in 7 days vs 1.25 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -179,14 +179,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-30",
       "summary": "Airbnb Launches Program to Funnel Revenue Toward Free Emergency Stays - TravelAwaits",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjBtM282RXI5RjhSZ3JTYTZ3VVFFdHlTU2lPdERVRVVKV3RJd1dJVzJxSHdCWFR3TkV1ckFNbWF6WmJIRW5aY18tTlBvanBoOEM0LXplaWFFN01hQXQ0OGR6SmVwVG80T2dGYmo5NjlaeUdULVUzZWNRYk5MbzJkOXlEazUzTUNZdEN6d013?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-25",
       "summary": "Airbnb changes checkout rules, Marriott launches luxury expeditions and other hotel news this week - The Points Guy",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DQThQMTg0WVQ0ZWlXWG8yRkc1bFVJWTBRVkpwOEljOExaaDFLYlZNaG45YXZyYjJQM3dCUGRTckZvWXZ6X0RMVmlBOE9tMElwdWpHcl9TV25BX2ZGbXVNc0xQZk1tTS1MWlpOcW9kWWdlOEstNmJ3?oc=5"
@@ -338,7 +338,7 @@
       ]
     }
   ],
-  "open_postings": 209,
+  "open_postings": 215,
   "long_open_roles": 61,
   "sources": {
     "ats": "greenhouse:airbnb",

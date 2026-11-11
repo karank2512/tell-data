@@ -1,7 +1,7 @@
 {
   "domain": "conveo.ai",
   "name": "Conveo",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
   "score": 0.9,
   "contributions": [
@@ -31,7 +31,7 @@
       ]
     }
   ],
-  "open_postings": 17,
+  "open_postings": 20,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:conveo",

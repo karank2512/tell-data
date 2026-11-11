@@ -1,14 +1,14 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 16.8,
+  "score": 16.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.1,
+      "contribution": 3.0,
       "occurred_at": "2026-10-30",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/coinbase",
@@ -37,14 +37,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-09",
       "summary": "[person] Joins Ripple as OCC Gives Green Light to Trust Bank Charter",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3cwc25fOUhhTmR4S25fX1FRUFVuVHlWSDdrR243VnJyM0RyQ1VwTkdRNXJXX3VOVVJ6NE5ueTd2R0oyUjdHb1dVNmxtTWRDeWNwczdUNWUyblBMemlKSUx6YjZQXzlIYmRyazhmUUhoRTVCTUphX0cxbG91QkRXSVRPTmhfYXFaaTM3LWk0VXZDbFluWmZtVEF3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "Coinbase launches National Trust Company with federally regulated, institutional-grade custody offering - Coinbase",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbE1xSXMwbUhzd0FMbmJSRHZpTDMxTTFYOWFidC1wRENBWEdPYTMyei1xQ3RLNzVwVnNLOEV6RlZNVmswem1qaV9XQ3Y1UldUcDR5X1BFaEJBOVE0enBkUGdfY096Q3RkeXp5YmdzZ3VucEUxYzNTT3lwd284RW4zWDBFeWVOSXRzbl9VaWVEQVliSlJKSXQ0S2kzWUJ4akFNUnRvcjllQjJWTlc5ajB3RENoNEYxSi1ETUlmc3V2aWJtMk9qYlhuRkNBN1Q?oc=5"
@@ -161,8 +161,8 @@
       ]
     }
   ],
-  "open_postings": 288,
-  "long_open_roles": 62,
+  "open_postings": 289,
+  "long_open_roles": 60,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,

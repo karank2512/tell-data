@@ -1,10 +1,24 @@
 {
   "domain": "verifiable.com",
   "name": "Verifiable",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 9.7,
+  "score": 12.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Linux Foundation Launches Agent Name Service to Give AI Agents Verifiable Identities - Cloud Native Now",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdXBPZlB5b2NkZ3hVaU5VUFJQdEFGc21wcy1jMkFFUndaSWpzSll1Z0lZMEFCLVV5U0IxR19jalZjeFFlOWpyeFRnenRpR3NZNXZaZldZV3hRR0hQajU2SUV5em05bzBoczYyNmFqY3ZfMktNOXl0NmxxQ1Y1aUlyYllVMTRaWGxHdlpWNGRYQXJncktvaWJBY1A3elRKTnl4cjlTVFZpZmlaWHNTS2FzUHFLYzl4RjlVU3AyQWlRaGxid01iVFdfcFR6WUhfeGZINFdodFZ4V2h1dmdDb0EyWlpmNE42d0FoYWc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Leapter launches ChatGPT plugin to make decision rules visible, verifiable and auditable - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS21wOGQwX3lJbFZOZXFoS3RHUVF0MlR6U2cxcW43MmUzTVV6TEI1Z2lNTnJXWVB1UG9KeWxLOGRxT3RGYmxKLW9nWkdXeVBud09sYWdLV3lVcUZLeU5aUmtnRDgyc05VVGhCTmktci1aajZEai1Ua1ZIQUYtN1hZV3dNTHJYTkhVWGwyUGw4eHBHb3U4UXJoaWFLOGVUdUlFQ0pwcGVtaUM3TUFlWWt2RzdublNKYzJCVXBqUUFSb0xoeGc1dFRpdnB0NVVGTUtDTkxUMHFmVmFkVUk?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -63,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-10",
       "summary": "Orion Backgammon Launches on iOS With Verifiable Fair Dice - COGconnected",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFo2QkRUTmpmOFAzS0NSTnlmMW5pV3YzWHZoajBCSGFpdHpqZEJNQ1Y3LWRHXy1GRXpUaEd4ODM5UmRGMjlQSElkcy1peFczOF96OUw3UktoYlZXdEdLWUk5b0xRSTV0YmhEMWtGbnR4YTBJMUFUdy1pUGk5WkIyNUpsM1VEdVlWT0NRMGNLWEJaWW42ZTRj?oc=5"

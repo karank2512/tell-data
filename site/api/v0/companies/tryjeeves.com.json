@@ -1,9 +1,9 @@
 {
   "domain": "tryjeeves.com",
   "name": "Jeeves",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,14 +27,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-17",
       "summary": "OpenFX Ventures Launches From Miami, Backs Jeeves, Cyclops - Hoodline",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZmSi1nMmVZRW9qa3NESVpXUUlJaU92aE9ZSmtMNUU4TE1PMGxQbnNLT3lGYnhZSkl0SkxuMTFyLWNLeVlBQ3JWNEY0VTRDSEFnRHJzQTlQYkNWOElXbmRmbG52VnRVUzVWWlEtUFpmbV9ldGU2cDY4elBqYzMxLXRQRFplU2N0azBrbkRMeFM3Wm12aUpwWk1YZjZ3Q01m?oc=5"
     }
   ],
-  "open_postings": 71,
-  "long_open_roles": 46,
+  "open_postings": 76,
+  "long_open_roles": 49,
   "sources": {
     "ats": "lever:tryjeeves",
     "edgar_cik": null,

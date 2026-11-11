@@ -1,10 +1,35 @@
 {
   "domain": "clipboardworks.com",
   "name": "Clipboard",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 3.1,
+  "score": 6.0,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 3.0,
+      "occurred_at": "2026-11-11",
+      "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/clipboard",
+      "postings": [
+        {
+          "title": "WFM Central - Real Time Analyst",
+          "posted_at": "2026-11-09",
+          "url": "https://jobs.ashbyhq.com/clipboard/56f271b8-25c9-4070-9c8a-5e9dad0294a1"
+        },
+        {
+          "title": "Workforce Management - Real Time Analyst",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/clipboard/2dfae75c-66e8-4243-aa46-2f1c7238d942"
+        },
+        {
+          "title": "Workforce Management - Real Time Analyst",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/clipboard/b33b6c51-ea36-479f-bd35-595844f1951f"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "customer",
@@ -28,7 +53,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-22",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/clipboard",
@@ -46,8 +71,8 @@
       ]
     }
   ],
-  "open_postings": 38,
-  "long_open_roles": 11,
+  "open_postings": 39,
+  "long_open_roles": 13,
   "sources": {
     "ats": "ashby:clipboard",
     "edgar_cik": null,

@@ -1,10 +1,24 @@
 {
   "domain": "handle.com",
   "name": "Handle",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 3.5,
+  "score": 7.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-11",
+      "summary": "hires as chief financial officer",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPamJWVWpPZjViSUJQMkQwcjdQWk01VjE5Wi1uOUktQTNzOE4zYlBfUjJ0NDNWUXhBaWdkbUdMTzRmWUd6Y1pmM1U4ZWJhVFRVczVjQndwYmRBVmg2MTNqTGF2dlY2VEtIdXhvRlB4MWlIVjhEbGhNVnlOX2szMmF3bnpwQzJUa1RvT1VJby1IRkdxWkQxc2RBbXVsRmctUVRXbkFPNGpxSlVtSWlIMnF6TDBzNXBBM1NfNXZsOF94UQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-08",
+      "summary": "Gov. Kemp appoints new superior court judge to handle cases in Washington, Toombs, Emanuel and [person]",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2ZGeElhcXZ3T21xMFk4NnZjcjZkc2Z0b0Y4VnpkQWNZdTNnWTEzQmlYbnNpeVg0dEpNbG8wOS02ZVdJbGo0Y1dWZ2J5dXpHZjE2NE5fNlRtenFPdVNIQ2prRzZ6OTg4WHNGM3hPaXpPRW9wNFlCVFFLVndXSzlpY2pTOVVjOXdlT0E5cHJfQjJ1N3RjQmpv?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

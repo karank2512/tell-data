@@ -1,9 +1,9 @@
 {
   "domain": "second.dev",
   "name": "Second",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 4.9,
+  "score": 4.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "SpaceX launches second Starfall reentry vehicle - SpaceNews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxMmxodE9uOXgwM1N4Q1ZaVEpvWUhyZUFDRVVRU2gteVRHVk9yZl9scWswa3VDQks0MDJRa3liT0tGLVlOS0szSWJ1VjVlSVFXYWEzdmVYUVRtS3pzNFVkZC1rNTlacl9UUnlRa3JRQUlSdENGMW5FZFZn?oc=5"

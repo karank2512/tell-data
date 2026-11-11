@@ -1,9 +1,9 @@
 {
   "domain": "release.com",
   "name": "Release",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 7.3,
+  "score": 10.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-29",
       "summary": "[Press release] Global Fund Board appoints [person] as next Executive Director",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzBQTVRxUWxCdFppVFJXVzQ4d3VveW5VaHo5aHk4dzhVUFlTTlZMWnNPSHZfNjRMUGVMM1J0WFBOOXN1bEZWWE9EaGM0M2VEeFdBUi04cHMwajY5OGMtY3FreHRRUTV0SnluTXF6WTlsQmV0SnBQUWh2VmdjQjQ1NlBQTXhFamEyNi01ZkZCSEVMcWRWVk1CQXRyU3B5T01mc25uS3BpSndhdzdqVXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "RELEASE: Congressman Cloud Introduces Bill to Rename Department of Veterans Affairs Clinic in Honor of Master Sergeant Roy P. Benavidez. - House.gov",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX0h0dTZqTDlRdmcyb0g1MTBBRnF2MTI3djQ2dC1DZGlIY1lQaU9GTFFXZlJXY3JGd191T0E5SUJJc0NYNFVqeXNKQV9kV1JtS2Rwc1kwMjYzbUoydEV1TGdKWW9mdWtzUjZoVEtSQ3RJS0lxZ05uWE9pOTlpTWs0Tk1LMVp0c2kybUstVTNXRC14RE4xVUNXVHhKRHNJWUJmdkt1NENIMGZQcThPRjNNTVQta3h6U2NfSmRuM3Y4TWlVanQ0YTN4OUJfNUlxOTF0RjBTWk1jc21DOTlERmhpUng1YTNzelBoT1NEbWU5d29sY205ZHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Local band releases debut album, prepares for record release show - The Reminder",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGw2ZmVGamQtWmVOLWh6R0FkbVNWRXBoRTRrWGFFMmdKNThhR1FOd1BnX1AwVjRsMElfQU9yaWtraGo2U01Fa1lrUEhXbW5yOXZxNklkMkFUYzFmRmFkeHR6R3VIMEJXc0prdFRjZUJhelBiMk5PS3A1OHN6NU02a1ktbWdMZ0plOGdCSnlRZGJ5Nl9KMnpENk8wZFAxYjNjbGc?oc=5"
     },
     {
       "type": "launch",
@@ -28,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Apple Releases iOS 27.2 Release Candidate - MacRumors",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5WHoxM2dIemhqLTJvd3ktT01keXFBa0IyWExWNzBJQk9YaDUtYkxWekIxOEVTZ1g5eEVnU2lwQXdWZTlYeFplTGNxR0plaUdDXy1oWlhuR3A2cTJpQVp4OG1aRnFxV3A1WDVuYWRkcVNUQQ?oc=5"

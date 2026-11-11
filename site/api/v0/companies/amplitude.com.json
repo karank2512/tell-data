@@ -1,9 +1,9 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 17.6,
+  "score": 19.2,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,6 +34,13 @@
           "url": "https://jobs.ashbyhq.com/amplitude/5ffa2512-3841-497a-9404-e99f54a1f4a3"
         }
       ]
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-08",
+      "summary": "Amplitude Appoints [person] Founder Vijaye Raji to Board of Directors",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSldGWHBUbHcwTXBldDRRNjNKRjdRSUVYODZVaVJKQjhUVmYyRUdtRWQ5YWFrSC1UUDZVVFJmaUFwZE10UklhMlRCVUZMaVY2NmlIV1diZGJrbnlwU2Nfd3ctZldUS3hNQ1RhRF90TjNaX3RSbjhPZDh2TWhrdUlsNUdrdDJaVDZMdC15YTJXdElvT0lxWFcyS01IZkk2OTE1RE1BWQ?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -92,21 +99,21 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude appoints [person] as Class III director, joins Cybersecurity Committee",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaHJaVUUwLXF5OW5RZVVEamIxVUZjbXFIY2JYNHVOM0F5YldCY0NHSWhBT2RkbDluWUpxaWxvd1pCX0haVmlRVHc3SXFVZFBXRzJabEc5U2tzRnZaRndVUnRHN1VqeE5GMmctYUdGVjlmZC0tQTFNYzRWSkpCOFlVYndCbUlZYkNpdlF5c3hrWWJmSjN5eE9mS2ctRlFJdmZVZlhQcGFrSWZGUzg1c2MyWnFJd21URHVwblhCSmFralM2aTBzTDRDaGY5Q1hUNDcxZmQ4alpXYUNxWlZp?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "Amplitude Appoints [person] Founder Vijaye Raji to Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWVIZV9FNWJQbTd3R2tUR1Q2U2JKbDJPbFQzVzEzTkpEdWdlMko0b1pfWERVMDJtMXBlZ0p4NWRkVkFoVGhOOVBSdzF6QzFkR3JqOTdlYjk2ZWRNQXJMVlVXRVN0TWRuV2tvNWlyaGVXOHE3Z0dLbEpaS2lSdmRobVNJbUwxcXZhX05pZzhhbnhMQzl6NmZQOE5JQUpGZFo4YlBtMUFLS00?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Amplitude (NASDAQ:AMPL) Releases Quarterly Earnings Results, Beats Expectations By $0.01 EPS - MarketBeat",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUpKc1NaajdWckNMbmp3RE9oSzQwd3NWbW5rM1dLOVE2V2g5cnJ2MDR4U1ZMVDRoUzNxbERORnFCQS1CdDRyTVdQX0NjQlkzQVBHNndiM0E5MWZia0hsM3Vvd2hfZng4QXpCdGdsZGZCNVlRdW1CcjJUbnRCQnh1V1NUbkpMX2d3aGotUUlIc25nQm5MemZtZG45Nl9xRXJ1SmxiS3llRDI3eXAzZk81VlpRbm15UlIwSUQzQ243RkE3MVhXMjZZTWozbEpPOURNdXlDbUVjeEIydGVNX2ZDdldfMnc?oc=5"
@@ -126,8 +133,8 @@
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 52,
-  "long_open_roles": 6,
+  "open_postings": 55,
+  "long_open_roles": 7,
   "sources": {
     "ats": "ashby:amplitude",
     "edgar_cik": null,

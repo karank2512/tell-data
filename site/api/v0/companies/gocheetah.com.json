@@ -1,10 +1,17 @@
 {
   "domain": "gocheetah.com",
   "name": "Cheetah",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Etion Create debuts Cheetah Compact - defenceWeb",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZEdfTjF1RWZ6VXFJdFVROVRoZm5MSlFTbDlNcGYwUWlaMUNqQmNfbWVEamYwcjlJanozRzhFUUZKaFBXVXJQZGdGX1FTRGhaVTNub3RURGViZUFvWnFTdExlSXFITmVERjZ0ZWJPa0N4MzZJZWdvT18zQzg5d1ZmN29n?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

@@ -1,7 +1,7 @@
 {
   "domain": "starsling.dev",
   "name": "StarSling",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
   "score": 3.6,
   "contributions": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-27",
       "summary": "Introducing sling: an agent-first CLI for your CI",
       "url": "https://starsling.dev/blog/introducing-sling-an-agent-first-cli-for-your-ci"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.2,
+      "contribution": 0.3,
       "occurred_at": "2026-07-21",
       "summary": "Introducing ci-speedup: an AI coding agent skill that analyzes and fixes your slow GitHub Actions",
       "url": "https://starsling.dev/blog/introducing-ci-speedup-an-ai-coding-agent-skill-that-analyzes-and-fixes-your-slow-github-actions"

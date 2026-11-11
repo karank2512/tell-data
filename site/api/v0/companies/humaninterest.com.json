@@ -1,0 +1,48 @@
+{
+  "domain": "humaninterest.com",
+  "name": "Human Interest",
+  "as_of": "2026-11-11",
+  "profile": "default",
+  "score": 4.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 4.0,
+      "occurred_at": "2026-11-11",
+      "summary": "4 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/humaninterest",
+      "postings": [
+        {
+          "title": "Partner Account Manager - Phoenix",
+          "posted_at": "2026-11-05",
+          "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8356381"
+        },
+        {
+          "title": "Partner Account Manager - Cleveland",
+          "posted_at": "2026-11-09",
+          "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8360410"
+        },
+        {
+          "title": "Payroll Connections Specialist",
+          "posted_at": "2026-11-10",
+          "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8368705"
+        },
+        {
+          "title": "Partner Account Manager - Spokane",
+          "posted_at": "2026-11-10",
+          "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8373766"
+        }
+      ]
+    }
+  ],
+  "open_postings": 63,
+  "long_open_roles": 6,
+  "sources": {
+    "ats": "greenhouse:humaninterest",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

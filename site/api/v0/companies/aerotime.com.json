@@ -1,10 +1,17 @@
 {
   "domain": "aerotime.com",
   "name": "Aerotime",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 3.4,
+  "score": 4.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "British Navy launches strike drones from aircraft carrier for the first time — AeroTime - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblZfcFgwM0RPNTNaTTNkT1h0aUhoU1o4cnJHc1R1TktDZ3VZOEI1RkJFOThNSG9la2JMU2ZxRnNEVjNBSHh3MGdoY0VjclVDdGxBaXo1cTR2ejlnT2IyYWN2YVN1Nnk3QjZwdHJ2X1lHQ1JzUUFaYlJmeFpzVFVqSWJIYTZkQlpBR0wyUVQ3VExqRGpMN3I2b2xVRm51dFFueGZF?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,

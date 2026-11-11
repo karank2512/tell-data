@@ -1,10 +1,17 @@
 {
   "domain": "lob.com",
   "name": "Lob",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 2.3,
+  "score": 3.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way - Rock Paper Shotgun",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNRXJ0TGVjRkZqY1g0MENWSHR5djVxa2JUMWI1MmN4dnlYTDFMNVlLcXZVbVlOQkNiejlsekJfUktmVmlXOUFZUVEyenNLWWZGdTRoc2xkOG9id25FN2xQSDhVX25uMVZPanl6LUNIcU90bXlLSHNkZGs5U1Nyb2QxS0tJdk5VZGZRRWJWUEtFd2ZmeUVLbl9sc3QteWg3VjdUZ2g2OUxEVjRMdGlfUEt3NF96LWdOYWlGVmVJZ3JueHY3eUFZc0xYR1JJcWFBSWN2ZkQ2NVlGVlgxVWV0ejh0aEN0elV4d0x3YTUzVlJjZERsMEZudG80NzZDbWJTNUVMTERpajROOGd0NDNN?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

@@ -1,9 +1,9 @@
 {
   "domain": "campfire.ai",
   "name": "Campfire",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 6.4,
+  "score": 6.3,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Campfire Interactive Launches New AI Capabilities to Help Automotive Suppliers Protect Profitability - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajc3ckNSZlBtYkZoVUNTemNiUGZDX2lJdEtpdGdzWkpORGc4eHRaSUtoNy1vZGJCM3pvaktUdXRORW00RHlEVTNpeVJsWHlJWTRiYklsNVRMcmFPY01xQjFZYm0zUUZ2Uy03R3NGdnVUYVVYUl9HYW9JeTBZLXpwS1dsU3B2QnBmd3picVV6UXFKbjNuSnZuMkFPNG5nd2toM2N3SXpaMDlQRlJDM05tTnNCTUN2NjZPQVlXQjNBUVkwekwzSjhob3kxaG5NWkZxYnZYTnRhMDNSM3d5cWE3Zw?oc=5"
@@ -55,7 +55,7 @@
       "url": "https://campfire.ai/blog/introducing-askember-in-slack"
     }
   ],
-  "open_postings": 52,
+  "open_postings": 53,
   "long_open_roles": 25,
   "sources": {
     "ats": "ashby:campfire",

@@ -1,9 +1,9 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 7.1,
+  "score": 12.9,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Behavioral Finance: Victor Ricciardi introduces overview chapter on investor behavior - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmh6UWJQdjM1Vkt5bC1wMVBrTUI2Q1VqS05sS19hUmcwN1hTUVhoTDBZZkRfYXFQV1RRSFFOUU1MYWVQM0g3UFg2aGI3TElrUUN4N01lZXA2aEhudUZjVFpIOGNXN0JGTFF0X3FoSndEVVFuclJGZEtOSVcwS1p5azlQaWZHYjNBb1hBR3hoUkNPOEk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Core Peptides Releases Research Peptides Overview Focused on Experimental Design - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDhERVF1cGVfcUVrZlZQbkwtN3YxSzV2elVUdENBLTAxOTZlOWY0WWRPUmdkcWtyQ05TcnlIcmtIT1ExODJ2Z2dITVdURHdRWm9FemdDLXFaOFNOdF95NUVEUlNFajh5RkNtWHhWZVN4bHAyMThmYXVDd1pYYnlxbVNqS1Y1Q0dJeDRBUTVYblEzY01PcC1CcktDckJmNUR6dkJTaVktWWFZd25pcG16MFdKM3V4dzNTNWFEVFFDTXRJUXN0WXpyWjdHdktxRmpNMnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Core Peptides Releases Research Peptides Overview Focused on Experimental Design - lincolnjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxON052alJYU3UzQnFUejNPa0s2aktvWUtkX2FJb2lzYUJpTVFwMHZNSV9uTS1USk4wdnpUWUtzZHFDaG95bUVyc25vOHYxblZIOGlyV3ZBTExxbERxaTdOSnVHSDdmQ0Y5VWEtUzNFSHZiajR6Q3daRVA2TGhkXzMtc0wzNElwYjRIeWhHeVJBU2NfRExFRWlncm03amFOekNXNXNKa25aQ1RLdHZaeXptQWJyV3QwTkFldXNWWmZzazNZV3I2dlFzTVVRbXRLRDdUakZSUmdQQUMtV0E2MEN6QndBR3ByZHZVVkdqSlJMdVFpS3JORmhXQlU1eVFlQmNuT2JTbThjdE44NUJBNFF6OHdtLWVoMmdHeVcyRw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-09",
+      "summary": "Euro Bus Expo 2026 overview: BYD unveils electric coach, Custom Denning enters UK market, Higer launches diesel city bus (and more) - Sustainable Bus",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVJvZGk4bXFKWnltam9uT1RDUjAtaFBia1VHSWxrdzgtNkpfMUNGeUhiRlVFbEdoeHl0aEVudjN1dDcxRTZSeG1HYnpWckJYOFplaTBTb0RIZ2l0Ukt3OXh4NlF6Q3YxXzk4dmVYeURSTHFoeGpzWExhdW9lLUNqVTFR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "World of Warcraft Forever launches today, here’s an overview, some guidance, and release times - Massively Overpowered",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX2Q1RE50NUZTSFNncENueFdsQk5CZzljZm9UWWxxRXZFYU83XzlxRF93TFlwUExtOFdCVmZWakF1SS1LbjNaU1pLZEI2c01vMnpiWENsS2NlYVFvZHIwV1d5b3V0YVVMSC1aT01qbUJ5QnZ3WFFid3JLelBxTkJ3X0xSQmZJT2RzWkk4eXZBSW9oVE5QaVlwSHZCakJfTzFYWm9mSzY0Z0M2ZVBvVW01cnptd08xTVZvNFh5bzJETkpMVzlP?oc=5"
@@ -56,7 +84,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-28",
       "summary": "3 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/overview",

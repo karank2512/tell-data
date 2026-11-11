@@ -1,10 +1,17 @@
 {
   "domain": "usesynth.ai",
   "name": "Synth",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 16.6,
+  "score": 17.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Live 13 Introduces Step Sequencer, Drum Synth, ARA 2 & New Racks - Attack Magazine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNWxpWVdJQzdqS19UMW95d2tpNm80SlpPM0xXcVlpX05LSFBJUUtDazQ2VnRlSEVFZjJ0Uk1TbnFQT0NmejRDMG14S2tSanpueVF3VXdYWkFULVozbDZkYThUeEEyczVHeE5Wcy1kanl4VUctLWdVNDg1dnlMdTBDV1l0VWFlNDhPRFJnYzRvdHhLa0pPZXlBQXlXVktNQQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Introducing Synthworks by Ian Dixon – A New Home for My Synth Sound Design - The Digital Lifestyle.com",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0NKR183RnQwUGpMN2ZSN2Vrajh2VjFVMExjTVgxMkxtZ1Q5R1dNZ1pLWkQ3cGhpa0V5WGtwT1VVU2ZISXdPX0hxTkNDN2JydWV1WEs0c09Vb09tcVRwMFlRV3B6TkhBMWw1anYxcTZRU05BS1JBTXJoZmhZb1hoWW1jYXFKNGt6LXRqZzlwQkdIcE9wWlVHeC1jNTJ0MS1vZjlTQjVlMFBrb3pMRDJOVm0yS19McFR0bldB0gG7AUFVX3lxTE9zQ0pHXzdGdDBQakw3ZlI3ZWtqOHZWMVUwTGNNWDEyTG1nVDlHV01nWktaRDdwaGlrRXlYa3BPVVVTZkhJd09fSHFOQ0M3YnJ1ZXVYSzRzT1VvT21xVHAwWVFXcHpOSEExbDVqdjFxNlFTTkFLUkFNcmhmaFlvWGhZbWNhcUo0a3otdGpnOXBCR0hwT3BaVUd4LWM1MnQxLW9mOVNCNWUwUGtvekxEMk5WbTJLX0xwVHRuV0E?oc=5"
@@ -56,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-25",
       "summary": "Arturia releases MiniFreak 49, four-octave hybrid synth · News ⟋ RA - Resident Advisor",
       "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFA0VkNiTWdyVG12c0Q3dTlUSnB2NWNyU3hUNnVUYjkzbndUbDdqYUNnMjRTMlktdTlWRHE0Tw?oc=5"
@@ -77,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Roland unveils two new Boutiques: a Jupiter-8 tribute and an all-new wavetable synth - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd3ktbWpncHN1OHJhdFQ1d3NUZEtSTFJQeG1HVUhtaXpwV3ZRUE1IcnA1bVVRSlZHMjRZRFg5Zm1LVmFqb01aaUZnX190dlVhY2VsNm5hUXlONFBvR25NZklaMk9SRU9uN1FKRDQxb3FaN1E5d2FUUl95T2VpZURnbG5kWDg0Ylc5cWotUFBtb1N3ZHc?oc=5"

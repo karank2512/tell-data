@@ -1,13 +1,13 @@
 {
   "domain": "warp.co",
   "name": "Warp",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 13.4,
+  "score": 13.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-08",
       "summary": "Time Warp 2027 Unveils Stellar Lineup for Mannheim Edition - Rave Jungle",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42SDB5MFBCdlVLMWwzTkNjX1FFWDlGVm1jMjZtZFhEZzFCbElfUzJEeFpoSEtpeEFBMG9JQUlRX01lVkdwQTA0UmVvVU82U3JfQzNDMUpIc1Izb0duS01RSFZTc0VWd1RrSklJU1FVM1MtNHlXckMxcA?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-04",
       "summary": "Karl Mayer launches new biaxial warp knitting machine - Knitting Trade Journal",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY3pRUDBIMjM3WVBRbVlyVllTdkNJb1VMSnZQM3laWEFEZ19CcnEwTTBtYUJUN09SS2VxTlR2OEU3dG00d3pnUFI4SXBoRERHNEE1cHQyaElQRDZrczBMemJsZENNWGN3Y3E2R3hET096cTNzUnJabk82S1d5OGhRSmtMWWZJLUNTWnlucHYzZ0VWb0RIYjZ1Zlc1ZkVlSzBLS1VGWg?oc=5"
@@ -84,7 +84,7 @@
     }
   ],
   "open_postings": 17,
-  "long_open_roles": 12,
+  "long_open_roles": 13,
   "sources": {
     "ats": "ashby:warp",
     "edgar_cik": null,

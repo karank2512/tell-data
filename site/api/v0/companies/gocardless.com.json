@@ -1,9 +1,9 @@
 {
   "domain": "gocardless.com",
   "name": "GoCardless",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 2.1,
+  "score": 2.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-22",
       "summary": "Connect AI to GoCardless: Introducing our MCP",
       "url": "https://gocardless.com/blog/connect-ai-to-gocardless-mcp"

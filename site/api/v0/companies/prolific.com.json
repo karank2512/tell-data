@@ -1,10 +1,54 @@
 {
   "domain": "prolific.com",
   "name": "Prolific",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 1.9,
+  "score": 6.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "HOME SECRETARY LAUNCHES INTENSIVE EFFORT TO TACKLE PROLIFIC SHOP THEFT - C-Talk",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwU092Zl82bUphY2JwcmowTmVlYXg0bWtjTFZCczRtX0ZwcE9aYk93bXZlcVhaS1JBcHRXWHFIUUhfNWtMSnQxZFBHSHVNcERsa0FTVFlYOA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Prolific Banking Launches Bank-Branded Developer Portal and APIs to Help Banks Win the Era of Client-Built Software - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPT3hodE5uc0VWRlduV05FbTdhMXBub3ZrbmhlTEVBclBMNTYzUXF0YmQxLWhtSWs0em9TYnVXR1RuRUZxQjJvTDhwYkYyZ2tiM3IwVVdySzY0dFZyVTU2ekhNTWNpOXZhRkZMNXQ4WE1NM1NXLVZ6UUZIanVxRHdTVy1ueFVQQXJjZlZzTk11ZVAtSnZvMzFoWkR5dTRFMUhIdDhVRndiZjZZVm5iQVNIbm5MaW13VmZQVzJGUVpmREw2TzQ0NkV1X1V6UXJNQ191NEd5Y0dhbUJqdm9UQVY4XzJtN0dXMkFBX2pEWEVrX09NTXhTb29seVNMWmhVYTRTOFE?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "marketing",
+      "contribution": 1.2,
+      "occurred_at": "2026-11-11",
+      "summary": "4 new marketing roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/prolific",
+      "postings": [
+        {
+          "title": "Senior Product Marketing Manager, Sales Enablement (AI & Research)",
+          "posted_at": "2026-11-11",
+          "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5033054101"
+        },
+        {
+          "title": "Senior Product Marketing Manager, Sales Enablement (AI & Research)",
+          "posted_at": "2026-11-11",
+          "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5033083101"
+        },
+        {
+          "title": "Senior Product Marketing Manager, AI (Frontier Labs & Enterprise)",
+          "posted_at": "2026-11-11",
+          "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5033483101"
+        },
+        {
+          "title": "Senior Product Marketing Manager, AI (Frontier Labs & Enterprise)",
+          "posted_at": "2026-11-11",
+          "url": "https://job-boards.eu.greenhouse.io/prolific/jobs/5033481101"
+        }
+      ]
+    },
     {
       "type": "launch",
       "contribution": 1.0,
@@ -20,8 +64,8 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHZIY2pQYlhJMTV2MVNpQVp3RDRmcnZZOWJTWG9ySU5pd2U2RkRIa0xuQTkzQmFWQTlDUXpaTnBveFlSVUp3WWFvVk9iZGR1M0E4R3hHc3h3ZS1DaHcyOG5aNm96T3ZOTl9oU1htUm5kaVc3bVA0NHNPc0t1UnRsMUYtV3ZDYlBYRUpJS3Y0R1hUdXM0VlE?oc=5"
     }
   ],
-  "open_postings": 29,
-  "long_open_roles": 16,
+  "open_postings": 31,
+  "long_open_roles": 15,
   "sources": {
     "ats": "greenhouse:prolific",
     "edgar_cik": null,

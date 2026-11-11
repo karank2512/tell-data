@@ -1,13 +1,13 @@
 {
   "domain": "harvey.ai",
   "name": "Harvey AI",
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "profile": "default",
-  "score": 19.7,
+  "score": 19.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 15.0,
+      "contribution": 14.9,
       "occurred_at": "2026-09-11",
       "summary": "Form D: indefinite offering, $550,299,446 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1974654/000197465426000003/"
@@ -70,7 +70,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-22",
       "summary": "4 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/harvey",
@@ -148,8 +148,8 @@
       ]
     }
   ],
-  "open_postings": 379,
-  "long_open_roles": 107,
+  "open_postings": 386,
+  "long_open_roles": 108,
   "sources": {
     "ats": "ashby:harvey",
     "edgar_cik": "0001974654",
