@@ -1,14 +1,14 @@
 {
   "domain": "carbonchain.com",
   "name": "CarbonChain",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 0.9,
+  "score": 0.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-11-09",
       "summary": "3 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/carbonchain",

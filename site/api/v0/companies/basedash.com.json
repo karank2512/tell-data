@@ -1,9 +1,9 @@
 {
   "domain": "basedash.com",
   "name": "Basedash",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.5,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-09-19",
       "summary": "Introducing Basedash Models",
       "url": "https://www.basedash.com/blog/introducing-basedash-models/"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-26",
       "summary": "Introducing Basedash for Grok Bot",
       "url": "https://www.basedash.com/blog/introducing-basedash-for-grok-bot/"

@@ -1,13 +1,13 @@
 {
   "domain": "slash.com",
   "name": "Slash",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 12.7,
+  "score": 12.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "[MARA Holdings Q3 2026 Earnings Call] MARA Posts $632M Net Income Despite 35% Revenue Drop, Unveils $500M Buyback and $1.1B Bitcoin Sale to Slash Debt 37% - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fbklWc25NWGFYTDBETlIyOUpmcjlPZ19KQXd6Z3NQMWpXc05hVlRpR2tFSTNrUzVkQlhyM0NqS0d5RkFscTFTX1B6SUQ1Z0V2Q2RqOW1Rc0lla2FKVnc?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "HBO Original Documentary KORDELL STEWART / SLASH & BURN Debuts October 27 - WebWire",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IX0RRZ1RQdkdoWUlZbEZ1Q05rSEo2SkQtRVhJNzZJQmt3RWpYWFB6M0tlNUZXbUNzREJjaWx6RXdfUWQydGFOak8zVjFzTVhQTno2eU1XMEZDRlVFc3ZWZUFUQjEzRWh4?oc=5"
@@ -90,8 +90,8 @@
       "url": "https://www.slash.com/blog/two-ai-finance-launches"
     }
   ],
-  "open_postings": 16,
-  "long_open_roles": 11,
+  "open_postings": 15,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:slash-financial",
     "edgar_cik": null,

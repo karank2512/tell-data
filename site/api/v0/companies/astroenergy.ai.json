@@ -1,16 +1,30 @@
 {
   "domain": "astroenergy.ai",
   "name": "Astro",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 19.3,
+  "score": 21.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Frammer AI launches platform for live sports, signs Malaysia's Premier League broadcaster Astro as first - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMXVtdnlXenNPVktuenZBWEt3T2RQYy1qOW8xME1XMmZjTk1tSjFwTmdqenpFTzdDLXA2UjRWT3RSd0pCRVNSWnhhSF9pZlA3M0JnTU9Zd0RSUmRob2djWEhqN3lsSnh5eXNhcnhfRzhkNnZRQllmT2Y4S2VFSnZ5TWF3cTFucUdsUndONDhCOHJtNlFRWHFPTjVBQ1lINEpRSGNnN3BNVFRicGJZYzBhUUstRldjSGtlSDA5T0UtSnVFYUQ1Ri1GOXRHWlBFTW5vMEk2WURYcVFDU01PUTJJZzBiTWZyS2NEYm9Rd0hwSlY3bzUwdHEzT2x2UmRRMmFMN3RRbzNkZ2xPRmRkWnVLZ0FkZmVtVmVOZEFwYjFMQWM1SDjSAagCQVVfeXFMTmRrUzR1YS10NDdMS2Y3YkRfTktWNWlvOFJQaERnNHU1clVHZHZaZDc2dGRmemxtZXNEWmVmbDBaT205elgyZXN2TDJUU2dLSWFEQjk2TFg3MzRrU2dMZFk0YzJZM1czdzc1ZGdqZjVFVjl4eEEwdDR2c05mQkRqNDlqYmVwQzkzRlRBaU5QRV80RXZmRlB4OTY2RTNZS2h1NjlpWEs0RTZCUkpPeUpMZTZUNnhuS2tiVVhOczE5QmdubnNkVHNzVU15aEJuTk9na0NhN29KMUUxRzRzZWpkcEpCNzdHaDdEQWVneHZfYTJLRWtzcU5rZE5XelFQY3Q4N2JyLTZhM05PX09RbkNPY1NreG93eERSTnZHR2tONVgwOTRpXzEtQjM?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "Astro Appoints [person] to Newly Formed Advisory Board",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMTl3X1RrSEwxN2dTOGZ4X241TkNwNUJrS1NndzVKd1V1eU5ZVTZNY01uMy1uZkUzY0ZxMmRkMEJoeU9INUROZ250Q3hySFEzdFRuRW9oZ2pLR1lUR3huMkRnUk9wNW5KenY0OENseFM2cXdwT09VdTF5ZDVjd1BqZXpfTm83N3otaFFaVURXdTVqUC1sOE5ENUhBbEc0U2QzcW5WNGt4VHY5SExB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Amazon's Ring launches a $250 indoor security drone and a $1,000 patrol robot built from Astro - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFdQUHR4dUhKRU9ZVzNHQlg5cDdINTF3d3FfbXBfdFJWS29RbHRtc2VDWTAzMFV0S1d6VUY0cUhmdW1hbnlNeUc1TC1NaWtvelJ3SnJUYzYwTXpnd0VGQVNhUkFlM190Wmt3ME5oY0RxX0V5UE9BU3VBcm1uWEcyb0Nkd01BZktWWVV4TEt4THZUME9yY0d6dThVbVVrcmFWMUtiMkxyd3NBdG9felBxSQ?oc=5"
     },
     {
       "type": "launch",
@@ -77,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Astro launches new Tamil channel Sony Vizha ahead of Deepavali, unveils exclusive line-up at open house - Malay Mail",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPc2hnbkRqck01MEVOT1VXcWZUN1NEVm9JdE1oMkFaUlh1d3ItTUkzVjZiLUE4SzBFaFVXQTBNem13VUMyQWc4NE5NTEZ2cTF1UXBmX1VNMGl4QVdVYURpSXpGQXlFMmZtdW5kUkhZOE8zdDBBWFZJeXpxYVBXTVpCWFdQTmQzbEJsQkkzSW15WWNpV2o2LTRPY3dSTVBlem9rNEhraTRoSXBiRVBmZFN0ZHNTWWlKVGplS2w4UkdlODlHY1haUTJhWWI5amFtdXNqaDhLbzcwMm1Gd0h4WFZ5Qlp5eldhOUNlRG9jdFRRaEnSAfYBQVVfeXFMTVlSNV9lWFhISGV5Q0NJVFQ4dGxKRlpiTHRiWTdkTTQzd01EX0xtVENwQXVUbkJfZkw0ZFR1UldwNDd1MEN2ZENEZndyajl5bXJvVjhOU1J4RFJ6ZS13RjFqV2JkeF93SVhXZEhtZk1KbXd3RXhaTHJ1dzhBODNLMHNvU1p6d0tSeEtVV1JTa1hGR2l1cVJIeldsSkpobWMyVjc2YkNXUXc5Y20wNFlpUXhySWpXQ3V3YXN5X0FDT0toYXdIMFR0czhCVWFsaTlESFAyb2ZzRWlFZjRRaDVDd1F4VnpGVC1ldC03ZFFQNmkyaTlrdXJ3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Astro launches new Tamil channel Sony Vizha ahead of Deepavali, unveils exclusive line-up at open house - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdVhua2YtWEw3UUZDYnFsd0ttd3ZDR0xBSTFnQ0lReHE5THp5RHRVR2ZxeVA4UTN3YlVHbURXWi10VkJhZ1pHSTNIZ0JVb0IyMl9GUnlhbnY5NWZCTER3N2F3dnFfcjF6TkN2WmNXNm5LcVphVUM2d0dkdVdSSWM5RENYNDVTbjg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Florida Poly introduces flying police car 'Astro' - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQi1WbThMeHc2ckFteThVN0ZJNmkxREh0Ny11TUlObUZPbkF5aF8ydWNtTER2dkVaZERpM3k1YnFhUElpWjZlOG9QOVVYZWtCYzBKci13aG9TenppWmZxZFdiZGgyMEFjenAwdEVHQXZKZWFpX29uTVdDR1pIN0RUeFZzSDhHUVhRUjI5emp5UQ?oc=5"

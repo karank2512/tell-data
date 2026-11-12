@@ -1,9 +1,9 @@
 {
   "domain": "lemfi.com",
   "name": "LemFi",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 17.3,
+  "score": 17.1,
   "contributions": [
     {
       "type": "launch",
@@ -91,14 +91,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LemFi Launches Its Biggest Product Expansion Yet Alongside a New Global Brand, ‘Ambition Has No Passport’ - Financial IT",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmF6aE1WSFYwN3Y3LXNrRHNSQWFVX2tiSDJiSEJFLXFqSWZIc2FDcWR6OEVKVm9hRlFEMXZKbXJMMTVRbW1tVVVQU3ItaHhpZ0ROSXNrUU9oM1VmOU1GWk9OMno0YnBWUlRNTEhZTkdkcFZVRmNISVUyQ2FhZHU0LWJIWF8yTU8yZHVQVnp5dkZmWUhIazA3YVA4YzZyOXNoVERGd05nVTZaXzNpLXhRUVYybkdpd3RqZU9SNkRHMA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LemFi Launches Credit, Savings and eSIM Services - Innovation Village",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVQ2aTNNLVFHV3VxZ1hzYm9fcWJOXzMwZzh4enZfd2dJYkx6cTVqd05yX2F3R0VVaS1qUWxTTnhJRElGOVBhcmxLdDFDbDJuQ0xGbTh0RWFMRlRFMU9LakJBWDVIaGpOaFNSekFjSTVvTmpEb1ktR1BOTm8xbEE3Wm9sazlkZw?oc=5"
@@ -111,7 +111,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JSVVEbGpHVFVELWtaM0VONVA3SnBkdTVxdEFYWmdLNENVVWNCcnd1Vk14SDVTU3doOVR5bWx5MXFGdDJfMjBSZ0w1Mm1lMzEtREhVUUNyeU1VRXNURUNqUWxSS2FtUG9uSWV2R2tSM3piLXRMUXNKVDBB?oc=5"
     }
   ],
-  "open_postings": 19,
+  "open_postings": 21,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:lemfi",

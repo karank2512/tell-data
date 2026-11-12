@@ -1,0 +1,25 @@
+{
+  "domain": "idler.ai",
+  "name": "idler",
+  "as_of": "2026-11-12",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "THE IDLER AT THE JULY VICTORIA UNVEILS NEW SEASONAL MENU CELEBRATING BRITISH PRODUCE - Verge Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX05qUGZOaHpreWUyd2xYWHNUMHFzbk95ZTlya0tuS2NpR2s4TVRraFV3MEZLTk9fWlBHN0lUNFRnVEk1bjBEY1ZzSFM1eU1rTkVXZkIyajI5YlZ1S05qSW5tYzYzR0ozTHN3OTF1UFBiRFFKWHNhZDZjU09ET1N6aVlEUV8zUjR2UzAybGE0d0g5ek42MjVBTUlNaXhyZUlqdjhEMlRleEsxdGxqQUIybFk0OA?oc=5"
+    }
+  ],
+  "open_postings": 3,
+  "long_open_roles": 1,
+  "sources": {
+    "ats": "ashby:idler",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "why_not_higher": []
+}

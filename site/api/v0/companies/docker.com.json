@@ -1,9 +1,9 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 8.6,
+  "score": 8.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -34,14 +34,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Retiring Docker launches Zippy bid as Freo resurrect Wharfie Time - The Mercury",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSTJ4NjZUVXpTdmhFQnJISVJrRG9BV01iOHA1N3pfYUNvTGlxVEJhdGNqZFI5UDRnU3lleGh5ZTVVTVBRaGUwYjVZTjZjQjhaT3RIQ2ZJYTVwTUZVaUFNY2IxLV96SjNUZjNFNWJ4aWRSMUYyVTB6cTk3WFV3QnM1MktIZ2IxZDk1VC0tR1RWZ3hPQWdDcDk5bnRUZWEwbERqcVFTWEoyZkJpQUx3OFNmN3J1SmJmb3lwZ2tVWUgtVElNTkVFdk9pOEE0Y0VjU0NXd09GYldId2NnS2NHRDIwMkZheTFyWmRvYUJsVjNSbmlkU18xYndXY3pFVE05dnlYaDZSNw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Retiring Docker launches Zippy bid as Freo resurrect Wharfie Time - CODE Sports",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbTBkNkxQMTROUWpnNHFvTTNmUXh4NDFGVUMzdFJaV0F1cEs5NmN0bFZWQjZVTXRCU004WFFITTZsTnUyUWd0X0k2Sl9uaW9DWExVNlJMX3BGOFlzU1JRTnRfUWZFVDJoU0ZrNkFlaHVFSHUwa3R6amVESXhWb2JWd3pKamxsRE5zbjR0ZE1DVTRRUU1PRHpkMDR5TVRPWDJJLUVUZEpPVkxlX2lhNUdiVFhab1VFTVZxOHdFRzZ6UGF0TDhsMGpvOUQxcWlzUE9xM1V2Tmd3RTFlZ19RWmEtTzhLSkNQWmc5Q0VxYmszcmtlTmw1ZDBmVHlWX0JxcEdhUDJj?oc=5"
@@ -93,8 +93,8 @@
       ]
     }
   ],
-  "open_postings": 53,
-  "long_open_roles": 11,
+  "open_postings": 54,
+  "long_open_roles": 13,
   "sources": {
     "ats": "ashby:docker",
     "edgar_cik": null,

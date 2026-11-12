@@ -1,27 +1,34 @@
 {
   "domain": "crusoe.ai",
   "name": "Crusoe",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 48.3,
+  "score": 49.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.8,
+      "contribution": 20.6,
       "occurred_at": "2026-09-17",
       "summary": "Form D: $3,901,017,922 offering, $3,108,543,889 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1924674/000192467426000002/"
     },
     {
       "type": "funding",
-      "contribution": 20.8,
+      "contribution": 20.6,
       "occurred_at": "2026-09-17",
       "summary": "Form D: $595,943,098 offering, $595,943,098 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1924674/000192467426000001/"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
+      "occurred_at": "2026-11-05",
+      "summary": "Crusoe unveils 3.5 MW modular data centre for Nvidia AI racks - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQk91RnVscm04TjNiOVdfSVNVV2g4V0JBWFJPUWgtYXAzT3NfakpuZ1FzN3YzOWNvajg3OFBKRGxTTnVwZEVhR1VjdmJBbWNlUkNLNDVtUG5PQUNBclA0d2ctdFJYMkZhNkRiSVBUTnNUTTNNdDd0bHdvaklNWU1mTGpIQ3NHT1NuSnY3NW5vYTRVbTNaal83ZTZ3UkJGeU1sQ1BRMTlsRWZVY1dZcFgxQ25GYV9zY24tOHVFWUpqSzlEMVIwclotcVQ3c0ZfWktxU0ZWTW9WMDdSUTdsNWFHTUFMcmdpZ9IB6gFBVV95cUxPOHBJMzItSThJMGRadGRZMWkxMEZQSGNDNVBIZnRkN2xRS0dpSFVXZjc2WnZOa1hWUVRfQk1MUE9zUERCUWRxUVV4azFmWlVFdzhVdm54QWl0dzgxaUV2R0pFWFF1TW16ZjhUMmNkMGdNWUREMlFCQ3JTSlFvRUprNDR5eEtfM3VBWWtkLTdWSGVnTkFoWS1CbHdTeXYydzNhaHhPYUFwNk9QM3h2N3U1TnViZlUtQ29ueDVMeFJCblhtWEc2XzE2YWE1b2d5cjN2bFdnODlTd1RCRHJ0dnhfeHZTT2JDN1Bta3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Crusoe unveils 3.5 MW modular data centre for Nvidia AI racks - ET Datacenters",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbFp2blJRRlV1b3lRUk9LR3p4cTNRYzBkSmJNRnN3UUgzM0JZUXl3blNNbDhTMHVLSG5XZjdUaGhGaS02M1JoQkh4SWNiNzN1eERhRm5TMmRZZE1fbHhaaWZiQl94LWpkN1pDMVZXem1tUHhmbDZkR2V5OHJMdEo2WE1mejZiTzhpcDBQOExLX2ZncUtRcE44WFl5XzVXSnp1eWZ5bl8zSVpSek1tN29Ec1VWb1Y0al90ZXBnOENURnhTVGsyRFJwa1FFRTlrNWhBc0Vvb3ZXVk5HRG4zUjdiUjN3RjctQS1MNjVXNFUtRWdBZTBWUk8yZUdyTlRnQlVVWHBnY2xwcVNVM0xmYnE2dGszNWlNcHdsamNz0gHqAUFVX3lxTE84cEkzMi1JOEkwZFp0ZFkxaTEwRlBIY0M1UEhmdGQ3bFFLR2lIVVdmNzZadk5rWFZRVF9CTUxQT3NQREJRZHFRVXhrMWZaVUV3OFV2bnhBaXR3ODFpRXZHSkVYUXVNbXpmOFQyY2QwZ01ZREQyUUJDclNKUW9FSms0NHl4S18zdUFZa2QtN1ZIZWdOQWhZLUJsd1N5djJ3M2FoeE9hQXA2T1AzeHY3dTVOdWJmVS1Db254NUx4UkJuWG1YRzZfMTZhYTVvZ3lyM3ZsV2c4OVN3VEJEcnR2eF94dlNPYkM3UG1rdw?oc=5"
@@ -94,6 +101,13 @@
       ]
     },
     {
+      "type": "leadership",
+      "contribution": 0.7,
+      "occurred_at": "2026-08-07",
+      "summary": "appoints new director",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnlSR0d1MnhibUdRTTViZ1EwUWEtVVJBdGtwM3N0NU5BTVBJM3Q2Z0JlWXRCX0ZtZ1ZxVVJsQTFPMDJ5eUotaWJYSlMzWU1PLXVDZ3JJY3VsOFo4UFFia3VrTUdGaXNlR3lKWVRVMWExVmFGdTJ4eXlwM25WYnkwOEtoeWZrYnk1TlpFUTFPN0NCWmlQYklWSnU1ZnU2RVBFMXc?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "product_design",
       "contribution": 0.7,
@@ -117,13 +131,6 @@
           "url": "https://jobs.ashbyhq.com/Crusoe/7db491a6-5adc-443c-8513-f4c0743178c7"
         }
       ]
-    },
-    {
-      "type": "leadership",
-      "contribution": 0.6,
-      "occurred_at": "2026-08-07",
-      "summary": "appoints new director",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnlSR0d1MnhibUdRTTViZ1EwUWEtVVJBdGtwM3N0NU5BTVBJM3Q2Z0JlWXRCX0ZtZ1ZxVVJsQTFPMDJ5eUotaWJYSlMzWU1PLXVDZ3JJY3VsOFo4UFFia3VrTUdGaXNlR3lKWVRVMWExVmFGdTJ4eXlwM25WYnkwOEtoeWZrYnk1TlpFUTFPN0NCWmlQYklWSnU1ZnU2RVBFMXc?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -158,8 +165,8 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakZUQmI3TE5wU0hSa1BwR1o4b0p3MExzVUllZWRGNzVEVlo4bEVwbUpkYUNFaXU5emRHcUVoZ0RNUDFaVk5Pbkg5djMwY0FaNjA5Q0pENWt1TWhrb1pNelpmUkkwa3VkWmh2WlhxSGlpa2E4aUlobm1JakdyS2hLdkdFaUxrQVc3cGNXOVVsZEthdVhQbXhldXJxamNlX0M2MjZzWWhSdG5VODBIRzlqWnhUUkxiZmM?oc=5"
     }
   ],
-  "open_postings": 330,
-  "long_open_roles": 81,
+  "open_postings": 325,
+  "long_open_roles": 80,
   "sources": {
     "ats": "ashby:Crusoe",
     "edgar_cik": "0001924674",

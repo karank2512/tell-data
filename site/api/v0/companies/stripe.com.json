@@ -1,14 +1,39 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 24.0,
+  "score": 26.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.3,
+      "contribution": 3.0,
+      "occurred_at": "2026-11-12",
+      "summary": "3 new gtm ops roles in 7 days vs 0.75 baseline",
+      "url": "https://boards.greenhouse.io/stripe",
+      "postings": [
+        {
+          "title": "Fraud Operations Associate SDC",
+          "posted_at": "2026-11-10",
+          "url": "https://stripe.com/jobs/search?gh_jid=8158943"
+        },
+        {
+          "title": "Risk Team Lead, User Policy Operations",
+          "posted_at": "2026-11-10",
+          "url": "https://stripe.com/jobs/search?gh_jid=8315956"
+        },
+        {
+          "title": "Credit Operations Analyst",
+          "posted_at": "2026-11-11",
+          "url": "https://stripe.com/jobs/search?gh_jid=8354560"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.2,
       "occurred_at": "2026-10-31",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -58,7 +83,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -131,7 +156,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Payoneer (PAYO) Launches Stripe-Powered Checkout in Singapore - TradingView",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXlWM0YyaXZEQm0zRmtUTGE1QUV4M09LZUwzSnhYWTQtWno3SkdsVFJXMUpEeGJKR3k5YVBrZHVuclJRUlY1Rk5oUkxQT0NhYS1Yc1QyZVEyaGEtZWpDS0pXWTJtaWUwaGY5eUU2VG5iUkoyX0M1N19ySU85YWxMc1MyUUZwdWZieHc2U3lBMDRIUThrSkU5Y0xKRDlpRnk3TVhGWS01TVFzS3FVVEFwMG96ZDlKQ1hrZGxWNDJR?oc=5"
@@ -153,7 +178,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-28",
       "summary": "4 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -311,7 +336,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-10-15",
       "summary": "3 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -334,8 +359,8 @@
       ]
     }
   ],
-  "open_postings": 793,
-  "long_open_roles": 202,
+  "open_postings": 797,
+  "long_open_roles": 201,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

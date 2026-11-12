@@ -1,9 +1,9 @@
 {
   "domain": "signoz.io",
   "name": "SigNoz",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 3.3,
+  "score": 3.2,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Introducing JSON-native logs for faster and wider log search",
       "url": "https://signoz.io/blog/introducing-json-native-logs"
@@ -42,12 +42,5 @@
     "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
-  "why_not_higher": [
-    {
-      "type": "launch",
-      "decayed_at": "2026-10-13",
-      "url": "https://signoz.io/blog/introducing-signoz-foundry",
-      "summary": "Introducing SigNoz Foundry for your One Config, One Command Deployment"
-    }
-  ]
+  "why_not_higher": []
 }

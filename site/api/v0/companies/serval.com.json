@@ -1,16 +1,36 @@
 {
   "domain": "serval.com",
   "name": "Serval",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 31.0,
+  "score": 32.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 29.8,
+      "contribution": 29.6,
       "occurred_at": "2026-11-03",
       "summary": "Form D: $150,000,000 offering, $149,212,926 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2103406/000210340626000004/"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/serval",
+      "postings": [
+        {
+          "title": "Account Executive, Federal",
+          "posted_at": "2026-11-11",
+          "url": "https://jobs.ashbyhq.com/Serval/3026d395-c663-4674-a702-d5730f8514f5"
+        },
+        {
+          "title": "Account Executive, SLED",
+          "posted_at": "2026-11-11",
+          "url": "https://jobs.ashbyhq.com/Serval/1c849948-33bc-428a-ac4c-ef9e3e0ae418"
+        }
+      ]
     },
     {
       "type": "hiring_velocity",
@@ -43,7 +63,7 @@
       ]
     }
   ],
-  "open_postings": 68,
+  "open_postings": 70,
   "long_open_roles": 26,
   "sources": {
     "ats": "ashby:serval",

@@ -1,14 +1,14 @@
 {
   "domain": "noxmetals.co",
   "name": "Nox Metals",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 3.9,
+  "score": 3.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-10-24",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/nox-metals",
@@ -51,7 +51,7 @@
       ]
     }
   ],
-  "open_postings": 40,
+  "open_postings": 35,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:nox-metals",

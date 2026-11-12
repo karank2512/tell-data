@@ -1,10 +1,17 @@
 {
   "domain": "decent.com",
   "name": "Decent",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 3.3,
+  "score": 4.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "ASEAN Launches ASEAN Guidelines to Support Decent Work in Fishing and Informal Sectors - ASEAN Main Portal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVB3Rmc2NE5PYkZid2lVQjdCc1dpY3ZGNmtlX0o5bUN4TXh3MnFyQUxXM2NMMFduc1Z2TjM2M2QzMDFWbWM3YWJkLUZLZ1duOUJDeTV5dUR4eWVQS3I2WjlWMzZVbEZnN2RndkdOM0RmUTBtOXN6c1E1b2ttbllacDZMcVRIdUw4VTdzUVh5N3ZCaVZIYnRSb21NRzZSM1pOYzVQR1RkRjk?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

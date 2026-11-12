@@ -1,14 +1,14 @@
 {
   "domain": "supabase.com",
   "name": "Supabase",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 7.8,
+  "score": 8.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-11-10",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/supabase",
@@ -67,7 +67,32 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.9,
+      "occurred_at": "2026-11-12",
+      "summary": "3 new engineering roles in 7 days vs 2.0 baseline",
+      "url": "https://jobs.ashbyhq.com/supabase",
+      "postings": [
+        {
+          "title": "Software Engineer - AI Tooling",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d"
+        },
+        {
+          "title": "Engineering Manager - Pipelines",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/supabase/51da9786-43c9-446e-bb84-653b17b5d6ac"
+        },
+        {
+          "title": "Engineering Manager - Realtime",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/supabase/33caf92a-986f-4695-a84c-792720ff832d"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.7,
       "occurred_at": "2026-10-22",
       "summary": "4 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/supabase",
@@ -102,8 +127,8 @@
       "url": "https://supabase.com/blog/introducing-supabase-evals"
     }
   ],
-  "open_postings": 77,
-  "long_open_roles": 23,
+  "open_postings": 78,
+  "long_open_roles": 22,
   "sources": {
     "ats": "ashby:supabase",
     "edgar_cik": "0001829334",

@@ -1,16 +1,23 @@
 {
   "domain": "axle.insure",
   "name": "Axle",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 28.9,
+  "score": 32.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 21.0,
+      "contribution": 20.8,
       "occurred_at": "2026-10-01",
       "summary": "Form D: $17,260,363 offering, $17,260,363 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1951844/000195184426000005/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-10",
+      "summary": "Oshkosh unveils Federal Bridge High-Lift Tag Axle configurations - Concrete Products",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGVqZ0NoZGFhVVIyZ3VvNU5MNFNBaUNnMExmWXBaLWxWc0k0OWM5emZCODNBQnpjMnQxLUJFWG05Y2ljd0x3SFJ3QUlqUDc4TEpiZjF6N0d3U1VldkFzZVNzaHc5Q1ZVbHlzWWZScW95ZDVQNU5kUl90eVVIVm5fUU5PQVVWaXBSVkktNHJYZE5HbTNzdDdERmpTRkRiNmloZ0NiMzF1cjY1eGhmTGJNdU83eGEwQQ?oc=5"
     },
     {
       "type": "launch",
@@ -35,10 +42,24 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Lightweight Mat, Heavyweight Performance: PFS Europe Introduces Pro-Track with 5-Tons Axle Load - Event Industry News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnRNVkltVVh6NmFvVHJaOW5ITmRCSUdKR2dhN05WeWVpYjhOQklFc1JPUlNZaU03SW5menFvSHZGLUhXRGtTbTJwZThxRUtsSDNweWdjSlNCeDI2WnNTSFRoeEtaU2tFMVlNNWhmaU90eHlPTWw4RW1kRUdxZHo5RnVEdVlrRWczMUNsdzgyQktsSHZab1AzUnpOcHZzcjFXMkNkdko3b3JiWHdVUUhOc0ZJdkpHbHRwb2xnckJLbTllc2U5dXJLVlJEb2k?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-12",
+      "summary": "Chery Omoda 5 rear axle recall expands to China, Indonesia, Australia and South Africa - Paul Tan's Automotive News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2JrVFZGdHFkSVAyRlN0WTR4RTZVUnhWMmJaSDV5dUp6NTFwTTFfLV9WeFNKdUlxeElJNjctZk9XTzlrWjVjZE5MTHBSSTFnOTluTlJQaGtYQzZPTkFzY1BqVUl4a2dldkttSkJLWWFETHVWSU44RU40ZFhpdUhZbGM5MjQzTzc1OGNKMWdtcnRWZ1BpWGtlaUtJYll0bWZvazN1RGNkRHZOc19QV1VQVXFJcG43UGM?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-11",
+      "summary": "Chery Omoda 5 recall to fix detaching rear axle expands to Australia - CarExpert",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlF5R3JlMkVOaThSMkUzY0JKQ0x5VXR6ZTlVTnR2WWk4M0ZYelRYX3h1c1dHckpBTUhnQ21vVzV6b0dSalpQNkUwbVJFZ01SRnZhYlpfX3AxRFNlZTg2cWsxblVIdUFfbXFXV01sUnR6SjE2RGx1QzlUWlhkSEFObnBFYVNYc0ljUm9yMm03Qk1XYnFiQTVmaVAyTDd6ZGpmZlZiNzAxUW5xQQ?oc=5"
     },
     {
       "type": "launch",
@@ -69,7 +90,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYjBDVWxPN2FtcXoxTU1tVXpORXdyUHpXRUtWMjI0YXNSX2NLZzcxdWdTY0hlRHZncVlFVEJJTlRCWHBqdlpXdXdVUDBFTTNfSUFEMnZHTldaRmNBYVpsTmZjZ1hSTUVXWWxXQktGbERPTTJGWTZUNGYxR19QNXFhcnVXblQ2ZXVFN29sUWkza3E1LVdKUDdLdkdTckdqZEZ3OEpqZFpHUm5WNHNwNjc0N3N4R0VyRk16ZE1YMVNVd3BrNUZVZnBFUXFSOTFKVHpYMmJxOTZCLVJVVWx3clFfa3pVRQ?oc=5"
     }
   ],
-  "open_postings": 15,
+  "open_postings": 14,
   "long_open_roles": 13,
   "sources": {
     "ats": "ashby:axleinsure",

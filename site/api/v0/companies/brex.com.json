@@ -1,14 +1,49 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 9.5,
+  "score": 14.3,
   "contributions": [
     {
       "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 5.0,
+      "occurred_at": "2026-11-12",
+      "summary": "5 new sales roles in 7 days vs 0.75 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Startup & VC Partnerships Manager",
+          "posted_at": "2026-11-06",
+          "url": "https://www.brex.com/careers/8934022002?gh_jid=8934022002"
+        },
+        {
+          "title": "Director, Enterprise Sales",
+          "posted_at": "2026-11-12",
+          "url": "https://www.brex.com/careers/8935952002?gh_jid=8935952002"
+        },
+        {
+          "title": "Director, Enterprise Sales",
+          "posted_at": "2026-11-12",
+          "url": "https://www.brex.com/careers/8938894002?gh_jid=8938894002"
+        },
+        {
+          "title": "Director, Enterprise Sales",
+          "posted_at": "2026-11-12",
+          "url": "https://www.brex.com/careers/8938895002?gh_jid=8938895002"
+        },
+        {
+          "title": "Director, Enterprise Sales",
+          "posted_at": "2026-11-12",
+          "url": "https://www.brex.com/careers/8938896002?gh_jid=8938896002"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.2,
+      "contribution": 2.1,
       "occurred_at": "2026-10-17",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -178,7 +213,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "exec",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-11-04",
       "summary": "3 new exec roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -226,8 +261,8 @@
       ]
     }
   ],
-  "open_postings": 283,
-  "long_open_roles": 112,
+  "open_postings": 284,
+  "long_open_roles": 114,
   "sources": {
     "ats": "greenhouse:brex",
     "edgar_cik": null,

@@ -1,10 +1,17 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 8.2,
+  "score": 9.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "TRM Labs Launches Disruption Awards, Celebrating the People and Partnerships Disrupting Crime Together | TRM Labs",
+      "url": "https://www.trmlabs.com/resources/blog/trm-labs-launches-disruption-awards-celebrating-the-people-and-partnerships-disrupting-crime-together"
+    },
     {
       "type": "launch",
       "contribution": 1.0,
@@ -28,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Introducing Ardence: The OS for fighting crime | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/introducing-ardence"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "TRM Labs Launches Ardence, the AI Investigation Platform that Helps Crimefighters Disrupt AI-Enabled Crime - TRM Labs",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXRiMUd0NFA1YWgtNkMtdk9ORkd6VVN3ZlllWkcyU3YwWTVXYlg2dDZJRmliNXRfa2tyRWhDcjJFRDVMMjJBcFNHRW92Q255Ynk3ZkQtSDlrV2RIS3NTdjBGd3F0T2J0d19hT1V6eVRXRnNMUEpJOHJGdGJ2LU42MDNPUlJ6cFNoQjNhcWFn?oc=5"
@@ -124,8 +131,8 @@
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 115,
-  "long_open_roles": 37,
+  "open_postings": 117,
+  "long_open_roles": 38,
   "sources": {
     "ats": "ashby:trm-labs",
     "edgar_cik": null,

@@ -1,13 +1,13 @@
 {
   "domain": "roofr.com",
   "name": "Roofr",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 2.3,
+  "score": 2.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Roofr Launches AI Receptionist, Expands Roofing CRM - Roofing Contractor",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdEptSVdZWER1RWJNbUkyN3NPbmZOcl9nN1p1NXA1cjVLVnpkdjlxZ2tzUE41WUxBUG9CUlNmWlkzOXJHTUdGb2FYN1JUaG5FZzB0MkdjcWFyX0tMdTZXbXVrTC0xTTZOM2hubXVjZXExeXh0X3NSUU1qck05dW96Z3FWWjFnMnZuQk1ZbFltY0hkcWI1WjQyLTgzZndDaGlPdWc?oc=5"
@@ -33,7 +33,7 @@
       ]
     }
   ],
-  "open_postings": 8,
+  "open_postings": 7,
   "long_open_roles": 0,
   "sources": {
     "ats": "greenhouse:roofr",

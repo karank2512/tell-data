@@ -1,13 +1,13 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 8.8,
+  "score": 8.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-25",
       "summary": "[person] Joins Jerry Harvey Audio As Director Of Sales",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnVOazBqanFSOG5sb0x1Y0lzU1J5X3FQa01jMEx0di1naGZyRVdiWDFIY01WeTRPODVMRUtiUWtJTXNxWEhqRGRqcUZDUDhseUhQMnlPS1dOajhWZnlodi1qNF84TU9jcXh1amxpWGtBamQzVXVreG5tcWdmTW5vNXNnWWhhNGFsN2lwWUxaMEZlcjk3S040?oc=5"
@@ -43,7 +43,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-24",
       "summary": "5 new finance ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Jerry.ai",
@@ -90,7 +90,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 31,
+  "open_postings": 32,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",

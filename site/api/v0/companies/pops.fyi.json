@@ -1,16 +1,23 @@
 {
   "domain": "pops.fyi",
   "name": "Pops",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 9.6,
+  "score": 10.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-26",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQam44RmV2b2JEQktfNW54ZDdKMGNTeXY2NHBJdnVOUlNaaXFQN2ZwanFmdzU4ODhHSDY1OVBHQ3JPY2RMXzI4blY5NE13d2k1YlpNc3NTTXdwOG05emoycHVicEY3OEhDS1ZGRTU3NjZjcWpnS3lJSkJ5ei1iSHFfbHhPT1RETHpfdi1kQlVTTkk0ZmNnS1A2VmNKUUY?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "MemryX AI Unveils MX3+, Scaling AI Inference Beyond 1 POPS - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkd6Y2RuUlZCQzIwM0dfN3hHOFdhaWtoQkdESkR4Z2pjS3daTmFWVVVnaTNidVlzNk9yVlZDczZxMmdBUklSSHN2NG5SbW9PWDAxWXU4V2JHNTVDNy0tcVpQM0VmZXI2c1QwaXlsZGgzNnNSSUdpLTd6Mk9JVTF3SjBhVmpTdlEyZTdVQ242UW92dlc3aG05Slh3RHBvakpQNWJaUks4U1RXREhTOUl0Q29B?oc=5"
     },
     {
       "type": "launch",

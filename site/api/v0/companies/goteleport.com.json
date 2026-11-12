@@ -1,14 +1,14 @@
 {
   "domain": "goteleport.com",
   "name": "Teleport",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 4.9,
+  "score": 4.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-11",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/goteleport",
@@ -40,7 +40,7 @@
       "url": "https://goteleport.com/blog/teleport-beams-secure-ai-agents-production/"
     }
   ],
-  "open_postings": 25,
+  "open_postings": 26,
   "long_open_roles": 5,
   "sources": {
     "ats": "ashby:goteleport",

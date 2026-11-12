@@ -1,13 +1,13 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 44.1,
+  "score": 43.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 30.1,
+      "contribution": 29.9,
       "occurred_at": "2026-11-04",
       "summary": "Form D: $550,000,000 offering, $220,820,026 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2071663/000207166326000002/"
@@ -93,14 +93,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Legora launches integration ecosystem spanning the enterprise legal stack - Legora",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUItUkYxQUd5Zm9qSExFZ0ZzRTlXcWdzeG5ZaVI0MEtOaVB5NjBaaW9xOWdjOTZoblJpTWRrRGlRdjdiMHBoSHMtd2ZEcHhpa2ktTnJFRkM2Z2NWeGt3Tnczc25SMkxlWndRYXUwclZOb19sR0xBcmREdDJWYmlYTjI2eU1qR09Odks4OVZaZFVjWlIzWTcyamg0LXY1UDB6bjhJ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Legora launches Intake: an \"agentic front door for in-house legal teams\" - Legal IT Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTFRYXVOZmFVZzdBeFBtUjM3aXRJMDNNYlVwNzRBQzRMOHNlbVh6RGUzZ2ZtMlZELWJnUTJhdUlVZWNoUmoxSlA2ZHJpaGdEeFJZT1NqRFZBM2RpM0xKZFZGRVVrZFNEQWlRRFhjS0JDWUtsYUt3MXJJV3FHa2JLN3ZseUhCZmFJQ1NwQlJnUWJKRlMwTms2Y3NlSkl1Zlk?oc=5"
@@ -108,7 +108,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-11-04",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -156,7 +156,7 @@
       ]
     }
   ],
-  "open_postings": 331,
+  "open_postings": 333,
   "long_open_roles": 112,
   "sources": {
     "ats": "ashby:legora",

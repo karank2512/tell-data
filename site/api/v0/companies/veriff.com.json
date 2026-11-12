@@ -1,13 +1,13 @@
 {
   "domain": "veriff.com",
   "name": "Veriff",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Veriff launches Presence Verification tool - The Paypers",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc090RWZRTUZMTTdIVHd3SEVpaGVRaHRTRE82QzRSSU5WSEEycXg1bzNoeTFTbXg0Nm96c1B1RXhqQURoZGtsRWpzNnpwT0s3UXhfTkpIZHIzczl4SjRnZzR0RkxGM0g1TWxqVXNQdF90bXRfT2lFSlN2NndrNGhRaGJzQjVKN2d5UEhGOGw2Y3l5ek52em9wQnBmTlB5eWFmei11Wi0xZ2d0S3dUdmV0ajVaVnExNUhQ?oc=5"
@@ -55,7 +55,7 @@
     }
   ],
   "open_postings": 12,
-  "long_open_roles": 3,
+  "long_open_roles": 2,
   "sources": {
     "ats": "greenhouse:veriff",
     "edgar_cik": null,

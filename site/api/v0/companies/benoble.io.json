@@ -1,9 +1,9 @@
 {
   "domain": "benoble.io",
   "name": "Noble",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 21.8,
+  "score": 21.5,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-10",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUFpobEs5YjdEMW5xTGI3eXVTWG9jYnludGV4T1NwaHotYzgxTG90N0I3N2lraHpNc28wRmNqV1dxeDN3RHRKaEpXWWVTTUhhUWNjQlgtZ1dSQ0FwcWpDWTQ2LW9lcU1mWF9Jb1V1bHVkU21aV2xEM0g4TS1raUpJOHNrUjZRQW1UdFhtOFd4ZGpBR3lsRzF5ckg1bWhvcUVUcXVVc2IwS3VxZUI5RGEzakNUeTdEeHV2REFFVWRmbF9qdnF2MlUtMHFpTGlXcko3ZG9jWnh6dkxBZw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-05",
       "summary": "Noble Corporation Promotes [person] to Chief Operating Officer",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcWYyQzJZY2JNS1Atc1hpQnlTR015VUxiNkU2RUgzajZqUWwyUmVGYU1pa2VBc1B4Z0tfTmllRllvVVBjSWhhOXNoWFV2Z3NyZURFYXQ2NnNlQV9vUVRXOG1uUmFGM0dURVRaWmR5MGJ1UGt5OWdRd1FPc2FfZkN2WWRkU0xHYVBSR0RLV25EYVdkN0hJM20yZFRSSUZ3a29lX0VObHRlWTJ0QlpYRGl0cnFtbWN2MjFHN2hIWEpKaTZESVdkUUxaUkFqeDVPZFlEUERSMlFpakk5N3o5WVRPMU9aWXQ?oc=5"
@@ -55,18 +55,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEZiQTdSN1JpLWJpekV6eXhqQ2dDSVNjd2hPcnpoSFo4dzlhNmp3YVY0Vzd3eEhScnp6SzcwZTczdDB3Y29NT0FpZDd5V2hfX1RCQjJOYUpfa25Ld0hEM3RaNjlNRTNBNzd3ODZmUk1OcG43dXVPQzViamlVX0NKb3VIbFRJdFkzTWU5Yi1lcmpNbjgzcXpDd2plUGJpN2MxZ3NQRV91bnlCWUYxNGxBdXpHYmtLOHhhLXlhTW9GVVlBeVk?oc=5"
     },
     {
-      "type": "launch",
-      "contribution": 1.5,
-      "occurred_at": "2026-11-10",
-      "summary": "Noble Audio Astrid Debuts With Hybrid Drivers, LDAC, and Personalized Sound - Major HiFi",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZWnVDN0pjaEwxZEp6OVpNWTdTN0FZbXhYM1Fna3ZkZlJMVHFBNU1EMFBXQ0ltelNCLVRBQk1RdGtfaTdSWVctNnVlOUFPTl9kd3lyOW83NjYyVE1SYUxGTlpCZkFzWjB2NVpuVnp5NlE5UWJsaTZxdXhR?oc=5"
-    },
-    {
       "type": "leadership",
       "contribution": 1.5,
       "occurred_at": "2026-10-15",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQd2o2N2JMVHBFRDl3WmhBcTdXY0trckszOU1CT055N1B4a0tSMHdRYzctVVBud0lmVUNfUEE3VVg0OVhMb2xCX2ZJZFhqRVB0M21VYXJhRDBkN0pOUTQ4SGR5dEJIbW55RDNKS1hKczhEdUdUbXpuZ243WXZsQ0NURmQ2MWo3bVFldVJ6eTVwZGg5UVlWQ2lhdmNBNHdZOGFFWFAyNVlhank2MDNZRVpQTFhIdWFWdGZUWFpoRDhKbFpvRXpRVExjWTZaMjZoR0xHY2VmMUNnbFE5SGhjTWVEdnhtN3lUb21qRHVlN2w2NUVhOUtCcVhvbk5zQUVuUEtaZFln?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Noble Audio Astrid Debuts With Hybrid Drivers, LDAC, and Personalized Sound - Major HiFi",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZWnVDN0pjaEwxZEp6OVpNWTdTN0FZbXhYM1Fna3ZkZlJMVHFBNU1EMFBXQ0ltelNCLVRBQk1RdGtfaTdSWVctNnVlOUFPTl9kd3lyOW83NjYyVE1SYUxGTlpCZkFzWjB2NVpuVnp5NlE5UWJsaTZxdXhR?oc=5"
     },
     {
       "type": "launch",

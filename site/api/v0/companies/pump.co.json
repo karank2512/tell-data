@@ -1,9 +1,9 @@
 {
   "domain": "pump.co",
   "name": "Pump.co",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 4.2,
+  "score": 4.1,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-20",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/pumpcareers",

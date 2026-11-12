@@ -1,9 +1,9 @@
 {
   "domain": "wafer.ai",
   "name": "Wafer",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 12.7,
+  "score": 12.5,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -62,7 +62,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "PI Introduces A-323 Air Bearing Scanner, Built in the USA for High-Throughput Wafer Metrology - AZoNano",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Td0JHSDhZd1kwZWkyOFJoTnNNclNzajNZcjRBU2dRNVRqVHZBSm9tWXJQT1VSS2dZT2tpMlhzTldMNHRSWUNpOGhfNExDRE1qNkJBZ3VVcmNKdw?oc=5"
@@ -76,7 +76,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Advanced Energy launches Centra Smart Hub for wafer temperature control - Engineering.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0FWamhELWhhem1aZXFhSDZvZVE0V3ViWDFkdEhNcUZtQzk2Q1ZqT1oxYU9qMFZZUXF1UjZWRjd6SHNIcUxXVkNIRmoxSFY4a3ZOWldDaVRCQVg3anV6WTgtTU9neldxZlc3Rm83Z1UyejNCVVJraDNpSVJHckRPOWJETFBKMUgzczNRZDhqcXhHaVBDc0FESjZzbExsWGt5dnc?oc=5"
@@ -107,7 +107,7 @@
       ]
     }
   ],
-  "open_postings": 9,
+  "open_postings": 10,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:wafer",

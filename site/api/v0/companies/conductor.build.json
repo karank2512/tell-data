@@ -1,9 +1,9 @@
 {
   "domain": "conductor.build",
   "name": "Conductor",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 31.3,
+  "score": 33.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,14 +14,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-05",
       "summary": "BBC Philharmonic Orchestra appoints [person] as Chief Conductor",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmxjZHcwY2VzNnd5TEhwMThUN0FLN283ZGFUX2FHR0M4WnhyMkk3U0ZEalR2c2lXckE5b2pjY2JBZWtkdHBiQ29TeXRhak5yT0pFTThtYkFUMV9pelI0V0ZBMUotblNFNzJjTDdJMGlQeV9qRGl4aV9ScEJiWUIzWHlRS3Y4YWdxQ2pOaXVnNVFLa2I4Sm1aaVZaUy1xb184?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-05",
       "summary": "BBC Philharmonic Orchestra appoints [person] as next Chief Conductor",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDk5QTJ3Z3pYaHdJd3VaRVhPUzE1SnZtMnNTM25BeTZSVzhEckFpdFM4cjRnTXpNUnhjUENFN2ZfUWxyYTVMTkYyNkRva3EwQU5naFlkN3NjYzhFRDBEWTkwVFNFdmtmbjZkQV9la1JIY3c0UVdtNmNYSVRnazFrNEFubERibjZkVnBCOERtT3QzNlFWQXBPYVNyaGY2dHRrbjJ6VDdyYlVpUkt6U0dDU1dTVFhHMEZFcVhaMw?oc=5"
@@ -32,6 +32,20 @@
       "occurred_at": "2026-11-05",
       "summary": "BBC Philharmonic Orchestra appoints [person] as next Chief Conductor",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRzRHdXo2TzZiaWZHdDJ6UDY1OS04VDNWQk1ROVdCcmg4cGstNFRqUmQwZ2tyOHlNVHJxVEUxSlZhMHVHaHFyNFhLNEczSkVhWmRLU3hZWDZ5cURacTctc1ljU3VvcFYzV2UycTdxWDdzOU9WcmcybEQtU1FCV3l6aDlKeHNOanlUM1dCcjIybHdIRkE0TWZ0bWJvTHhOZ00?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "LOCAL CELEBRITY CONDUCTOR PIANIST LINDA GENTILLE RELEASES CH... - Cape May County Herald",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUNWUFd6YzNiYkVIaFllZ3Nyd2djVk12TEdTMS1oal9PNEdqSV9jem9vY3JrT3FEdTNITXRpb0IwS080R1hOVExmZTVPTlZvWUwtTXlnUUIzcDBjcW0zUE1hQVgxeFk0YWNEYUUteWVWV21yQjlocFRsXzdlMVdfNmFzRkxyRjBJeG1Fc2tKdnlaT3VWeTVBc3JIaTBqNzY0aWxIT2RTN1BnQjA3T1lDUHdEQTc3YjNqVW56MnBtczRMaGlKODEtTHdIRQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Introducing AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVG5fOHlDU04wMmJjOGZSc052ZWpqSDhIcmNqeG8tSUZXY0xOallLS0hzT25sSkZWdjVkTlU3QzhtSkN4cE5fdFRGRlFJbUpTaHdQdnRQMDhPN19MR1lTejRqQTMxRG9xVWw2eG1CQmNWc1lGUHVpQUgteHFnOUxyRUZHUXNrZ3VvTEhPcUJvQ01QczRNdXIwSXBXcHZUNDdWbUpBYTZjQjg3RXdwTTh3Qm8wQ21VQkRtdllwd04wTmdEeDBXOS1BVFE3OGVsYVBCaHYzd1p6MFlMMkwtcUk2akVkdlNkdlgyWldqakZVYnFTcGtwM0NWd2FB?oc=5"
     },
     {
       "type": "leadership",
@@ -63,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Rockwell Automation Introduces FactoryTalk Conductor to Orchestrate AI Across Industrial Automation - Machine Maker",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFFORGRoNVJodV9QdVZTbU1HUGNqWFhTRnBkR1poSTZDSW5Cb0l0WmpneDA5MXFmbldFRVpaM0JsaXVYZDQ0eC1DR0UyNWVOS291RFZicWRoN19xa0VpUEhFd0xtVVNCZEVEMjlZdzlGN0FPNWxmeGVJWlZyVnhfUmkzVVhVTDBQcnBnSERyQkFvV0ZIOS1HazFxdEJITVJsMVp2bUtsZ1c4QjB5WXViRjZ4cURjcXg2aDJjZVBHMFpMUWMyVU1KVG1QcXVrdw?oc=5"
@@ -133,7 +147,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Orchestra of the Eastern Shore debuts for the season with Mozart and a new conductor - WHRO",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGoyTlh3RU1oYU4xNXZUMEVtYkRSd29jVWstY1ZSZ18ta25scXQxODBOOVJOT0xUWjI3Rk1GRUFrNEtlTDlCb2xsd0JhaXNlRG1sLTVjVHB6YU45dkxCS1doYVc2R2t3NG9HVzFsendtYlM1ZWlzM2xiM1BWckZOMlhUczNURmg5dWdjbDV1V04wMlVyZk55X2lwaTJQOGU5TklFNzZTMHoxUjFTSWNGdEdsdUwzVS1LOW16REJtV0FXc1N1eXlrVw?oc=5"

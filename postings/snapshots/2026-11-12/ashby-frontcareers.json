@@ -1,0 +1,41 @@
+{
+ "vendor": "ashby",
+ "identifier": "frontcareers",
+ "domain": "front.com",
+ "as_of": "2026-11-12",
+ "last_polled_at": "2026-11-12T15:23:02.068249+00:00",
+ "open_postings": [
+  {
+   "external_id": "22e1f989-12d6-4c59-86a7-77335831e313",
+   "title": "Account Manager",
+   "role_family": "sales",
+   "location": "Chicago, IL",
+   "posted_at": "2026-11-10T16:39:18.974000+00:00",
+   "url": "https://jobs.ashbyhq.com/frontcareers/22e1f989-12d6-4c59-86a7-77335831e313"
+  },
+  {
+   "external_id": "625c97e4-2f4f-4109-82c2-4c5fa6ac837b",
+   "title": "Account Manager",
+   "role_family": "sales",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-11-08T16:38:13.843000+00:00",
+   "url": "https://jobs.ashbyhq.com/frontcareers/625c97e4-2f4f-4109-82c2-4c5fa6ac837b"
+  },
+  {
+   "external_id": "91e4b4ad-9ce3-4bc7-896e-f36ff234eca1",
+   "title": "Account Executive, SMB",
+   "role_family": "sales",
+   "location": "Santiago, Chile",
+   "posted_at": "2026-11-05T16:45:36.469000+00:00",
+   "url": "https://jobs.ashbyhq.com/frontcareers/91e4b4ad-9ce3-4bc7-896e-f36ff234eca1"
+  },
+  {
+   "external_id": "cbcfb59d-506f-426d-8446-c13cfba928ac",
+   "title": "Director of IT, Corporate Security & Infrastructure",
+   "role_family": "engineering",
+   "location": "San Francisco, CA",
+   "posted_at": "2026-10-07T19:31:55.814000+00:00",
+   "url": "https://jobs.ashbyhq.com/frontcareers/cbcfb59d-506f-426d-8446-c13cfba928ac"
+  }
+ ]
+}

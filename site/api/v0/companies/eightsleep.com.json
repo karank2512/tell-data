@@ -1,9 +1,9 @@
 {
   "domain": "eightsleep.com",
   "name": "Eight Sleep",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 6.2,
+  "score": 6.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-30",
       "summary": "Eight Sleep introduces menopause mode to help women with hot flashes - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlZHSUlMLU1YYkE0cUhLWGQwNDJkcFZhVlpza0llWTRhU2FicUpXczBwd3g2a291bnpJRXppdGZYd0VJaXZnNjVoV19MWXFVMmZCU2c0VklYbGU5Q2hRckdDYUw2TTlWQXNMSnVLMEUzbVdJRTJkRUwwT2pUY3FiSUdHWkFYeGs1bzBpOTliajNXMlk?oc=5"
@@ -41,8 +41,8 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3JhUEJlWm9hNV9nWnpURHVrMmw2Nm9ZZU54NGtrd3VXUVlSRzRkcUc4cF9YbVRGVXRJRURmdF9CMmdDWm5XeFlrY3lfSXlFcXVuTTRSZjNWbTc5RnZnQlhNeWx3QmpmcUY4Qm9FZ1NWQWtlUVp1Ym1YUUdaNFdnR1A4MkFoOVhYTU54Si1tWGk3OV82NFREWVBSeXBuQQ?oc=5"
     }
   ],
-  "open_postings": 32,
-  "long_open_roles": 15,
+  "open_postings": 36,
+  "long_open_roles": 16,
   "sources": {
     "ats": "ashby:eightsleep",
     "edgar_cik": null,

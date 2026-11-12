@@ -1,14 +1,14 @@
 {
   "domain": "podium.com",
   "name": "Podium",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 8.1,
+  "score": 8.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-10-29",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/podium81",
@@ -77,7 +77,7 @@
       ]
     }
   ],
-  "open_postings": 71,
+  "open_postings": 72,
   "long_open_roles": 38,
   "sources": {
     "ats": "greenhouse:podium81",

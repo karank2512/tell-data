@@ -1,14 +1,14 @@
 {
   "domain": "gusto.com",
   "name": "Gusto",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 13.8,
+  "score": 15.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-11-11",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/gusto",
@@ -29,6 +29,13 @@
           "url": "https://job-boards.greenhouse.io/gusto/jobs/8373808"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "GiGi Gusto Griglia launches Roasts al Forno Sunday menu in Manchester - FeastMagazine",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWM4ZDRyOXVLS1BHZzZiWGtsd3RDbUxnME1YME9taWdqQVJIZF9NUWdLUjZqWVhUcXBwSG1oWUFPd2g3WTh2WjJhbVk0SmVEYjAwMkpocW4wU3RLWWRLVTdPMDZJUVg2Z3ZnNkNtSGRFeG1BU25FZ1NlU2owQzFUallsUW1IUWpoYU9KTmVmaWV2akowbld5alRqQk9qc1VKNVp4TmZwMk9KSVlwYnJ0WWE3dFFZc1AwalZjSGVWcWJIS01TUmtQTldGNA?oc=5"
     },
     {
       "type": "launch",
@@ -80,6 +87,13 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkLTgwZ0l0cHpaMWpWa0dodUYxYkRFd1gtOGt5NXZNWTFYNVdwQ1hZUGhXZnhQQUViMEhPYWQ0Y05iaW04QzM2Z3Q5ODZKQXR0ZmlwQlA4Tl8ydVhKcDBaMklzUWtIYnFzazJ3?oc=5"
     },
     {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-08",
+      "summary": "New Name, More Gusto! Introducing CCAF’s Project Positive - POZ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMekVXTjJjdDhXWFFjc1BKcEJORzU0djZrVDhoUlN5WS1RajdicnhielJuZTdUM1pGRGZRRk5CT3hSR09fbU5uQ2dTcFNKaEJpSTBzMUNWbWZvbWNjd1hFMTNJem5UbU9udjM2c2Y1MUIxdUZIVnhnLTd2d0xNUzA?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "finance_ops",
       "contribution": 0.9,
@@ -106,14 +120,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
-      "occurred_at": "2026-10-08",
-      "summary": "New Name, More Gusto! Introducing CCAF’s Project Positive - POZ",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMekVXTjJjdDhXWFFjc1BKcEJORzU0djZrVDhoUlN5WS1RajdicnhielJuZTdUM1pGRGZRRk5CT3hSR09fbU5uQ2dTcFNKaEJpSTBzMUNWbWZvbWNjd1hFMTNJem5UbU9udjM2c2Y1MUIxdUZIVnhnLTd2d0xNUzA?oc=5"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-07",
       "summary": "Gusto Unveils Redesigned Gusto Pro, New Multi-Client Model Context Protocol, and Expanded Partner Program for Accountants - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWUttaHRpRWRHVHhPQmJVS09yU2pFY1drbTRoZ1lpeE9ncV9SNXZLNmNiZGIwM2F5anpEbjBQZmNjaWZ0a1NzTzljUGZxLVBIQjhFV05fNGdpZy1USjFwZWJoMWVyTEtOVVo2cG16M015ZklnSHMtalQ2QUprRTFwcVhZRU1LODQ4MGNhZUM1MnFkenB0bUlSQ1BYcTNfOWVyR2dNMWw1dUdneElNTHNjNVNUSmx0c3ZrY2VxVnpQcE9WdjNncW0ycVhSd1RadVNyVzFuVF9ya2V2LWdyZ0RJWVpUWU9FeTlWZlZqejhPN0JBc042WWNheWE0SzdpWTlwOU9YY0RB?oc=5"
@@ -144,8 +151,8 @@
       ]
     }
   ],
-  "open_postings": 84,
-  "long_open_roles": 27,
+  "open_postings": 81,
+  "long_open_roles": 26,
   "sources": {
     "ats": "greenhouse:gusto",
     "edgar_cik": null,

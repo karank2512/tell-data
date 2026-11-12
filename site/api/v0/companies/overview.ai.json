@@ -1,14 +1,14 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 12.9,
+  "score": 12.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-11-03",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/overview",
@@ -41,14 +41,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Core Peptides Releases Research Peptides Overview Focused on Experimental Design - lincolnjournal.com",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxON052alJYU3UzQnFUejNPa0s2aktvWUtkX2FJb2lzYUJpTVFwMHZNSV9uTS1USk4wdnpUWUtzZHFDaG95bUVyc25vOHYxblZIOGlyV3ZBTExxbERxaTdOSnVHSDdmQ0Y5VWEtUzNFSHZiajR6Q3daRVA2TGhkXzMtc0wzNElwYjRIeWhHeVJBU2NfRExFRWlncm03amFOekNXNXNKa25aQ1RLdHZaeXptQWJyV3QwTkFldXNWWmZzazNZV3I2dlFzTVVRbXRLRDdUakZSUmdQQUMtV0E2MEN6QndBR3ByZHZVVkdqSlJMdVFpS3JORmhXQlU1eVFlQmNuT2JTbThjdE44NUJBNFF6OHdtLWVoMmdHeVcyRw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "Euro Bus Expo 2026 overview: BYD unveils electric coach, Custom Denning enters UK market, Higer launches diesel city bus (and more) - Sustainable Bus",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVJvZGk4bXFKWnltam9uT1RDUjAtaFBia1VHSWxrdzgtNkpfMUNGeUhiRlVFbEdoeHl0aEVudjN1dDcxRTZSeG1HYnpWckJYOFplaTBTb0RIZ2l0Ukt3OXh4NlF6Q3YxXzk4dmVYeURSTHFoeGpzWExhdW9lLUNqVTFR?oc=5"
@@ -107,7 +107,7 @@
       ]
     }
   ],
-  "open_postings": 64,
+  "open_postings": 63,
   "long_open_roles": 29,
   "sources": {
     "ats": "ashby:overview",

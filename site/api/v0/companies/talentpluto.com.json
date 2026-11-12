@@ -1,10 +1,17 @@
 {
   "domain": "talentpluto.com",
   "name": "Pluto",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 2.0,
+  "score": 3.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Gustaf Westman unveils full Disney collection featuring Donald Duck bookstand and Pluto mirror - Dezeen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaVBHMDVhY2pTWkp6MWJIQXF2SUIzbVdUMzVvb3d3RVRLdHJiVndUN1JLUTJ2cXdGSm5SYjlVZXBZb1dCb2NXTUNQQXgycUFtU3Q2MmVVMG8wYTRSMVVmRDZuVUwybC1RX1hHU2RsVVpVTGgyUjdUbC0tQ04zZnhxM0VUdWxXUkhpNk1pR0dSN2pLX1A1cU1rZmRn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,

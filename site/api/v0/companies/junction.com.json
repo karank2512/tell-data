@@ -1,14 +1,14 @@
 {
   "domain": "junction.com",
   "name": "Junction",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 11.6,
+  "score": 11.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-11-04",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/junction",
@@ -83,14 +83,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Liberty Junction launches statewide courthouse ad campaign - WWLP",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzZzQlIwc3JMVDctSkhkSUFoeDZCcEE1Q0FOWUpEdGNfNnVpa1JYWnpuNjhaYlh2c190aWpWVE9laTVlQm9naTc3eXpjcmpuMWFZSGtjbjQ3OFlyeHlaVDFwN1JtZjhCS3h4dkdZZzA2RTEtcFhSVDFLLUoxM29HcHZfcWhDaUpNdXFRNm1TTzBKdXQwMHFIN2ZEM3FMdlFvQjAzVWxoU1N1WFNkbUstUNIBtgFBVV95cUxONTJFdE1hb0hZNnZET2hpbEs4WnpCTmtsWUJhaW9UWERGNE1mTmdwd1VjX0R5UUhzb2NodndPRm1vNXFIYjJac0VrLUdoVVl3aVVQU2xNMnJJcWpQbnpsRTJEMUVjTDk1QlJSamNDc0VnRG92QXB6Sy1tcFBDSjlzQVBtbDhUQ2o3TTFOWXB4a1ZKWU9FTG51dzUxc2dHdHNHaTVHdG9TNzFqQTludkt3MlpKZnVuQQ?oc=5"
     }
   ],
   "open_postings": 16,
-  "long_open_roles": 4,
+  "long_open_roles": 5,
   "sources": {
     "ats": "ashby:junction",
     "edgar_cik": null,

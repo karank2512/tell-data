@@ -1,9 +1,9 @@
 {
   "domain": "trydock.ai",
   "name": "Dock",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 50.0,
+  "score": 53.6,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-26",
       "summary": "Bidease appoints [person] to lead go-to-market across EMEA, North America and [person]",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMGtNQ2hUNUR4QmR2VGZYOWhjcjM2TUNhNEhkRGpqMzRVTlRxdDJrXzY2cG1lZkJHdjhjbXNVMHpPaTZteElWOU9tUklBandSTk5DTVhzRGRUTHRYSldoZ2F3Q1cwb3ByZGw4RUJGYjhfUjBOQ0VfejZWNXZVaHFvS0gxeTlrYjZGV1U2YUlERHNMZmdCa3JSOWRMLUMwdTFBcXFlMms5Wl9FUQ?oc=5"
@@ -42,6 +42,27 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Sungrow launches PowerStack 3.0 C&I storage with modular scenario dock and full SiC PCS - ESS News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORU0yMEp4N1haRnMwal9UdDNDYzFLc2hMd3dvVy1vdGZnNjZhbko1MWpQWEtmUTdIVHNTbjhrWDNoekoxSWdtNzI0OWE3ZGNSWnVvb1c4bGZzZzZPcU9Velk2ZHVJbkNxZmFQd2E1VVdGVmVDVGJJMVlUbGNMSXc0SEJBN3pTOWxrcnhhRzBId3hTS0xsZWV6ZVlUa3VKdm5LaG1aZWdUMzRlMVI1TWdGemtYMkUxbTNVWVZGa25lSUw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Mediterranean Spirit, Pacific Soul: Four Seasons Explorer Palau Unveils New Waterfront Hub, M-Dock in Koror - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdjQ4c1BsQ1llT3pjM1BILW5jek5OZnMzemtpTmZUV3RhNHYwaHJ0ZXBsVlBpdERuTmhDTkdVbUpTRmlxSlM2eVNwNzJHaGVBR3ZOcGhFOWIzcUNwd1dvVmJHbXpiX3c5U3Y5Z19qM0laMHY3Qy1ZYmdaamctQmVsSHgwUE5FVVIwZWZOcHEwYWJfT3Z0c3BLUnRUTi1kUEZoOWsxOTdlWjRJczZ6amxNVi1iN2w2X0VsUFU5c1dOdzlsQ1lPU3dmRklQdUYyMlBpck5XcktuY1BXdHZVS1c0dVdMZmlUVzVQTTRaS2t0Y3lnQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "SteelSeries Introduces The AEON PRO: The World's First Quickswitch Dock System & Controller For Xbox & PC - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2I1RHpMeGR0NERzaS1CNG9ESTNzOEFPaWxPa3FTcFFrUXFKX3k3NzhPa3dCbkNiTVo3Zks1bmVKSDNfRXpBVUc1cFE4M1R0SHRDNGRlRlhXWlZic3VSV21IZ3FnbGVEelJHSWhpR083Rl9td0tfcGNOSTdCeHpCc2Z1SkJnbTZ1TU84b3h4RUJRejRpb3BXRFFvRExaeWtrSUpOY1pXWXRWMXhQcGFJTmNNS3BJMEdBTGUtdjdxZ0xRQWZVOUE?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "Rapoo Introduces VT2 RT V2 Gaming Mice With Customizable Clicks and Wireless Charging Dock - xiaomitoday.com",
@@ -56,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Narwal Launches V50 Cube Cordless Vacuum with Compact Auto-Empty Dock in the U.S. - Vacuum Wars",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Iazc3UVlTVnkxNDhfN2JwTklnVWdCV2RabVY2S3QwYzAtRkRUNF9lTmRZYmlZZGo4eU80NHFjdm5tT0M2NkhaZXR6M0gxVHRoVTFTWUoyNTdXZw?oc=5"
@@ -175,14 +196,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "8BitDo Launches its Officially-Licensed Xbox Wireless Charging Dock for $30 - Phandroid",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWg5clIzNUJVWFpSX1RaUUkyTDdoaWVCZmhFdThTOGpRcTVNcmZzN094T2tQeUxvT3owMkFhRFVOelB0Q01uUkZyQnlwR3d0MDFLV09idHFULXZOVDFwQ3dReGJLLS1uSS1HQ0xSLUxIWFZzVlJfeFhQbEt1RXJtUllMRk55dXVxMVc0ajJ0UGhRX2JfV1JqdnhKb2lkSXkwZGNhWUEyWktGUG8y0gGyAUFVX3lxTE5TdldvdUFBVGpXWTB1Q3BWT050WFVFanpneGZFR0t5UjFuRDdBckg4dm5Cc25KSnhOY1diMk9FYUc4VWswSDY5VWpHeEZZb3BRTnp5eXNHYnNJSjhybko5OWxRM2RxcFNjdXBRXzFYRktDbVZmS2J6dHBwOVM5VmVUWWd5WDJKd1FNcnE1VU1UajBmcEFySmJOOF9lWFA4M1ZsRkRrbXVIMjAxU3I0VG03eWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "DJI launches Dock 4 drone station, faces US market restrictions - digitimes",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEFsYXJoTFlOeHlMNEV3WWNSdkUxY0F3WHc0NndnNnVHN25xRzFuTDlUbFU4ZXZGOTJwel9xSjA0N1Y4OTQwR2QyUURJZ1Jyc2YwQ2RQLVVOSmRNWE5oNDZ3VUlKQVI0ZTVDbHlzUmtZY0dtRlBOd1dId2pacFUxeWtrbWE?oc=5"
@@ -266,28 +287,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "StarTech Releases Dual-Monitor USB-C Dock, Its First With Smart Management and Dedicated Software - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUkl2djJRQ2pCMWdEXy1vRDVzcXdsVmxzcF8xalNBczNBcG5rS2hOLXFlRFhRNlVsZUxCM3JfZDdiYzl6ckNkc1ZPMDlvN1NfUmRBUmQ3aGwyZF9Gd3NWcWVrTTRyOGZsdE1uSjZHM3piWngybUlNdzdTdWFSWGozZ3dhaXRGSUh2aGM5SUZfR1NNdHdYREk4TWpCRnFJS010dWp3RHhzM2lSNzQwMkdJM3dXcHZYMERzUE9wdkpCMTlaUnJjbm5RMjZHY9IB0AFBVV95cUxPNS1KVlhvUzNIclRsTGVweFhncktELTVuVk9OdDBUNjUyNXpRSnd4R0MxTmpxeEMzY056TmRkZ2NnYWh0VElOcUxoSzZQX1ZDNEdvcWU4VzZRNVFxamdyMFFtaXpkeHFCTGRHTVY5S2l6RkxiZVd0bEdVV2VsS2lucDJUYmt4ZVplcDVneEFBWjBYSThSMXI3QzRPcllCTVdrWUt5ZkpvQ3hlMEpwRmszLTQxdndseV9pWU1ETUtxQlBLa3E4cVBUUHdfeTAxTDlJ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "DJI Launches Dock 4 With 25-Second Automated Battery Swaps - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0JoQVVqOWtJaEN3aEdodkVRTndEeFdvN2tSUmxtUHpyZGJpRjhMTm43VkI5MFFHR3pfU0xXdElJbVZiN2VnZnhkbU9wMzdBaU5qakpPdWFHaFZabGlBYXRGaXJxOXc4bXJ0U29NbWFmN3VTcUNaNUZFYzZoVXNsaXM0ZmhfQ00?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Jiangnan Shipyard Launches Sixth Batch of Vessels from Dry Dock No. 4 - iMarine",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oQXlYYzVyTEg2UGZsb2E5SDZOZ3RtMjhYUERFaXFnaG9wU1ZkYlJPcWZ0UDBfNzdJQ1Eza3Z2UF9pOExLMlh5QXNNTWRfME0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "OneXPlayer Super X Pro Debuts with Liquid Cooling Dock and Ryzen AI Max+ PRO 495 - Technetbook",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0l5Mm9iU2JXTS1jUGg4WVZPcUtTMC1VbVR5VXduS0JzUjVJRENXSlRZbTF4dl80ZVhDbGFJWk5DTWlkM2QzMmN0bnFJa2JucVh3cmN1V3A5MDdMVGV1dkgycXBDemU1MWxqMkFBdE9mRkJLNUdVSGVxZkNfSktlb3lB?oc=5"

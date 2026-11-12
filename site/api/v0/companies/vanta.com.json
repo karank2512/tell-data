@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 20.4,
+  "score": 20.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.7,
+      "contribution": 10.6,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -59,9 +59,16 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3pzbFFxb3drZElSOTNoWXBTcUFOb081czduTE1JclJ2cWFfcldMLUN5VkhnVW9HaXRwVV9VbktERVU5OVByREdaOGk1VU5HbTN2RC1OdzB1b203TVhHTDZ2d1plMkkzQUFTQ254blM5OUFVZi1fT2hONUZ1R19tNmx5SFp2YlVNUU0wVERDdkdHMHNSLUpzUlN4S05KUkhKNTBqWExSd25jdU0wV19xS0tB?oc=5"
     },
     {
+      "type": "launch",
+      "contribution": 0.7,
+      "occurred_at": "2026-09-28",
+      "summary": "STARK launches Vanta 12 to strengthen maritime security in the Baltic Sea and across NATO's northern flank - Arctic Today",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3B3R2VwQ1RPSWh0ZjRReWlVU3JIUDdNLUFwbzVVWEw2cDJULW9pakpXVkVCYm9iUm9wR3pfd0dpemQ0b0JOZmlpenFBZkN5bV84NzdIT05rc19IeVV0RFAwLTVQTHZEYUstbDVCNnJXRndRcTBNMkpfQW5zNmdfbkZNQkJjcGdhdU90WDVnMnFZM0RqbU1oUmt5QWhkWWUxNlJQSjJsc3N4RnByMXBCTjBQcVR2V3ZOMHNrQ1RHaGRSU2VvdGktUDFkeEVnMVZCVHdiaGlkQmhPUUV0SktnUk1OcC1MSWFvamJrOTd3QVM?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-11-04",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -82,13 +89,6 @@
           "url": "https://jobs.ashbyhq.com/vanta/6d2a60a8-7daf-4482-ab9a-6b87516548d0"
         }
       ]
-    },
-    {
-      "type": "launch",
-      "contribution": 0.8,
-      "occurred_at": "2026-09-28",
-      "summary": "STARK launches Vanta 12 to strengthen maritime security in the Baltic Sea and across NATO's northern flank - Arctic Today",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3B3R2VwQ1RPSWh0ZjRReWlVU3JIUDdNLUFwbzVVWEw2cDJULW9pakpXVkVCYm9iUm9wR3pfd0dpemQ0b0JOZmlpenFBZkN5bV84NzdIT05rc19IeVV0RFAwLTVQTHZEYUstbDVCNnJXRndRcTBNMkpfQW5zNmdfbkZNQkJjcGdhdU90WDVnMnFZM0RqbU1oUmt5QWhkWWUxNlJQSjJsc3N4RnByMXBCTjBQcVR2V3ZOMHNrQ1RHaGRSU2VvdGktUDFkeEVnMVZCVHdiaGlkQmhPUUV0SktnUk1OcC1MSWFvamJrOTd3QVM?oc=5"
     },
     {
       "type": "hiring_velocity",

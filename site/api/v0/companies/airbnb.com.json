@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 31.2,
+  "score": 30.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 4.9,
+      "contribution": 4.8,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 4.8,
+      "contribution": 4.7,
       "occurred_at": "2026-11-10",
       "summary": "5 new sales roles in 7 days vs 2.25 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -118,7 +118,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-10-23",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -172,7 +172,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Airbnb Unveils AI Travel Agent for First Half of 2027 - The Tech Buzz",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc3RyYjlIWXVPUTVlQVlEUGVyRUpKZlNQTTh2YzluLXlEbmVEbHN3WElEREVIeFQ5aTZuYWMtTkVsVG5aVk9lWU1aZXdjUFdZQVFENGhwUExKYWw0R0dCbF9ta2M1TkNjeDBsU3dYaTZiUkZRcXJ5MjVlcWxkNU00WG00anBnOUFyT25VQzNfNA?oc=5"
@@ -228,7 +228,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Airbnb introduces weather protection that will pay out if it rains too much on your holiday - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3l4d1o1a3h0Rkdpeng1T2VHTnZ6WkQwNWZSSUY2THNrR1pTZW5mc1RCUGZMRmpiWmZsc285YXp6TEVkYW5GbFdLZmxvRTUzeXhScjRBTHNsZUdpRHRKVlM0U3pDeExZZkRZVkwwOGpDU0d6bDJTczhHS2dlbGFUZHZueXBMRThWZFU4OA?oc=5"
@@ -272,7 +272,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Airbnb launches weather protection - Coverager",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMjhXeGIzcXl1VE9jZDJzUHBSN2Y0Q1FUblluS0lqeFBVaF8tMDZJa2c0QV9xejVWbDJGY0szakY4NVV3WHRDdzJ6RUZxZ1J4V1hsQjJmSE1BVXhJSV9OWnFZRWYwSjhs?oc=5"
@@ -338,8 +338,8 @@
       ]
     }
   ],
-  "open_postings": 215,
-  "long_open_roles": 61,
+  "open_postings": 218,
+  "long_open_roles": 58,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

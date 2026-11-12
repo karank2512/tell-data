@@ -1,9 +1,9 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-17",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -108,10 +108,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Big Y Foods rolls out in-store kiosks, online delivery with Instacart - Chain Store Age",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnpEcVJIeS1VdlVQVEZmc0xrb2VZcFI2LVc0amQ4TUQzRUpvY0hYUnY4Slpvd0hFT3dfdTBIbk5BaThtY2VqU01KWTA1cFZMWWJQVVJiSG1SUFhSZ1k1UEpNaU5TNzRxRXd5MmRmRHlmaGh3cVUxelJRdWs1VHRXZm5OUjNqUUszZ3NlZ0RuYw?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-12",
+      "summary": "3 new engineering roles in 7 days vs 1.25 baseline",
+      "url": "https://boards.greenhouse.io/instacart",
+      "postings": [
+        {
+          "title": "Staff Software Engineer, Ads Data Platform",
+          "posted_at": "2026-11-10",
+          "url": "https://instacart.careers/job/?gh_jid=8372846"
+        },
+        {
+          "title": "Staff Software Engineer, Ads Data Platform",
+          "posted_at": "2026-11-10",
+          "url": "https://instacart.careers/job/?gh_jid=8372848"
+        },
+        {
+          "title": "Senior Software Engineer, Catalog Store",
+          "posted_at": "2026-11-11",
+          "url": "https://instacart.careers/job/?gh_jid=8379682"
+        }
+      ]
     },
     {
       "type": "hiring_velocity",
@@ -166,7 +191,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-10-22",
       "summary": "3 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -189,8 +214,8 @@
       ]
     }
   ],
-  "open_postings": 96,
-  "long_open_roles": 25,
+  "open_postings": 92,
+  "long_open_roles": 26,
   "sources": {
     "ats": "greenhouse:instacart",
     "edgar_cik": null,

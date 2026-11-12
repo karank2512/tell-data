@@ -1,14 +1,14 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 10.3,
+  "score": 10.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-11",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/benchling",
@@ -28,7 +28,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-10-23",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/benchling",
@@ -100,8 +100,8 @@
       "url": "https://www.benchling.com/blog/introducing-benchling-agents-your-infinite-program-team"
     }
   ],
-  "open_postings": 52,
-  "long_open_roles": 9,
+  "open_postings": 53,
+  "long_open_roles": 10,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,
@@ -114,12 +114,6 @@
       "decayed_at": "2026-11-09",
       "url": "https://www.benchling.com/blog/introducing-benchling-model-hub",
       "summary": "Introducing Benchling Model Hub: The infrastructure layer for scientific AI"
-    },
-    {
-      "type": "launch",
-      "decayed_at": "2026-10-13",
-      "url": "https://www.benchling.com/blog/benchling-launches-ai-connectors-to-power-data-ecosystem",
-      "summary": "Benchling Launches AI Connectors to Power the Data Ecosystem for R&D"
     }
   ]
 }

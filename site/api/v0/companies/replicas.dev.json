@@ -1,9 +1,9 @@
 {
   "domain": "replicas.dev",
   "name": "Replicas",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 4.9,
+  "score": 4.8,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-09-07",
       "summary": "Introducing code intelligence in every workspace",
       "url": "https://replicas.dev/blog/code-intelligence-in-every-workspace"

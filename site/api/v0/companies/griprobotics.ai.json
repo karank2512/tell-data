@@ -1,10 +1,17 @@
 {
   "domain": "griprobotics.ai",
   "name": "Grip",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 13.2,
+  "score": 14.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Microchip Unveils ATFCD52 for Real-Time Robotic Grip Control and Slip Detection - ELE Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNm81TFJndmlqZk5XVWI2bDNKM2ZtX0FxZkxpTV9oZGxXT2lqOG9FazlYemJQbVpDSV9MMktvX0xWLW5HUUM4dnE2UzdCNDJEUTV0dldJSVJ1YkNCZDdLdXBEQ24zZXhsaFR3ay1RMGxXY2U3TEhwb1Y1YWluamhGZkdxV0dTMEVvb0NnYWJ2dF9zdC13b1NNOVNDeTlHaEhudVY3X3Rn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -63,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "JumboMax introduces JMX UltraLong grip - Golf Business News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNF8td2NCaDRob19yWFdyY2pSRG5ZTjNyMXpHQU14YnpHc19QWmYxNktnODN0ZGliWDBZUzJoV1VobGZkUHJFNU80cV9lLXVBTktpd3VwSVp4S1I2SEFPUS1DTlBtNjhVWEdhR0h4V29EaURkWFd4TVMyV1hQV1U1SEZsbVNXb2JEbWZrQmhCUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "JumboMax Golf Grips Introduces JMX UltraLong to Innovative Grip Portfolio - The Golf Wire",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhdDJYS3FLeEE4X3Z2Tzc2VkIySE9lN2JHS2dSRHlwcXN4SkZUT3RJOHROVEdLS1F6X3NsRmUwU21jZmdsT3lSYnRkaXd4Y3BUWDJCNGJ6cE90dm5vWi1CM0x3?oc=5"

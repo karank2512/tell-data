@@ -1,14 +1,14 @@
 {
   "domain": "tryjeeves.com",
   "name": "Jeeves",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 2.7,
+  "score": 2.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-11-04",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/tryjeeves",
@@ -33,8 +33,8 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZmSi1nMmVZRW9qa3NESVpXUUlJaU92aE9ZSmtMNUU4TE1PMGxQbnNLT3lGYnhZSkl0SkxuMTFyLWNLeVlBQ3JWNEY0VTRDSEFnRHJzQTlQYkNWOElXbmRmbG52VnRVUzVWWlEtUFpmbV9ldGU2cDY4elBqYzMxLXRQRFplU2N0azBrbkRMeFM3Wm12aUpwWk1YZjZ3Q01m?oc=5"
     }
   ],
-  "open_postings": 76,
-  "long_open_roles": 49,
+  "open_postings": 77,
+  "long_open_roles": 51,
   "sources": {
     "ats": "lever:tryjeeves",
     "edgar_cik": null,

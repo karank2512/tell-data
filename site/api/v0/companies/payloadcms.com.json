@@ -1,13 +1,13 @@
 {
   "domain": "payloadcms.com",
   "name": "Payload",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 51.3,
+  "score": 53.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.5,
+      "contribution": 10.4,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $9,075,001 offering, $9,075,001 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1921687/000192168726000005/"
@@ -15,6 +15,20 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "SpaceX launches Falcon 9 rocket with classified payload for US Space Force | Booster was earlier used for 3 Starlink launches | Inshorts - Inshorts",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVHBwVVJON244R01YeWctb1VOd0ZKQUNNZ0xLNFFTY2x0eTZubl9HOGd1X2RwTjNld0duQTBjTWw3Yk5rN1pZWkU3ejVFcWFUdjdLeDZKNnBHR3owcEVRM2Zra0tsZmUtVWNFcFZYTUxOX09ST3JlV3gxcUNLcHFEbnBQd19yRW1KaTRWd1NFMjBWdEhtUXdjN3N5cmFtWWhEVlkxam1fWUhKVHpoN1lNZ3dwNkhTQ28xb1Z0TDVjMNIBvwFBVV95cUxQVHBwVVJON244R01YeWctb1VOd0ZKQUNNZ0xLNFFTY2x0eTZubl9HOGd1X2RwTjNld0duQTBjTWw3Yk5rN1pZWkU3ejVFcWFUdjdLeDZKNnBHR3owcEVRM2Zra0tsZmUtVWNFcFZYTUxOX09ST3JlV3gxcUNLcHFEbnBQd19yRW1KaTRWd1NFMjBWdEhtUXdjN3N5cmFtWWhEVlkxam1fWUhKVHpoN1lNZ3dwNkhTQ28xb1Z0TDVjMA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "SpaceX launches classified US Space Force payload from California — Anadolu Agency - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHhCUWxPQ1ZkaklmQzdIRlp3YkhJbG1YLXA0MENGUU5XeU1ldjVVVHp4ellFUHFncmszVnZLM0JQRnhtcjV0aUp0ZmpoaGIzNllYRE53UlkwcEdyRDdkcm51YzNMa0h3N1MzVVd4d1EydjBVbGdwMGQtOTl1alRCdDdIRW9rQXNkSjBGNGVXOHJkZVVMeThWWGFnOXYtMGxIaW1uMDQxaTFRWk13MW5uMjlyZnk3NXN5Z3B0Qlln?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "Skyways Launches Skyreach: Begins Customer Flights with its New Long-Range, High-Payload Autonomous Cargo Platform Built to Scale - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcjVLUWRFNDB1T2NMaEZlY2g3RmptbWwxTXQwcTlIYmhoT1pTd3VXTzA0MzhsdnhISXJhRlJCeGk2bnFhdDdHYXFPNDRpODlOQkVoV2lTaEp6UVBTZTRWck5pck9ZTDVfVmNFaC1qT1M2emJCN2ZFTjNCWmRvbVFSZGxqemRfVHdRODRtQXBUb0VxdVVUeGY4UmZFNUVzZ0FDQ2ZGSHFENGhEWFJMNS1ibDNTR2VGMlFvV1lwdHQ1ZFdYY0taMnk0NEF6X1BMdjdiTFRUZUFHaW4yRDd2OU9jVFg3Qy1JX3pNY1U1c3Nlekp2XzFnZ1J5akZyRjVCZmdETzRjdFBPSURJeUNyNW81LQ?oc=5"
@@ -189,35 +203,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "HLB Panagene Unveils 'PNA Payload Optimization' Findings at 'OTS 2026' - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iV2ZPeGRJZXY0REdObjRId2ZaLVo2eVRKNENlMkpFMUZQQ0dqdC1NbWhIdWp1TnFPcGtqeUt4MXFHZDRzbUhrcFBKdUVYS01tUktvaWxzNkN2eHZjOWdaQ0JIY1c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "HLB Panagene Unveils 'PNA Payload Optimization' Findings at 'OTS 2026' - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xNWdOOElzSUlMamdRcTV6Skwwdkhtbll0cl85R0FiXzdUNEpZYTFoQnNZVWx3d09fWVdJdnc3d0NmWUdLeUhNUGpYVmhtbXNqZXdxUFJ2SXNRLXI2eWh3c3Z0MFl4VkN5UlktSlVIZTF1azByVmpXZHY1SQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "IAI Launches POP 1000 Compact Electro-Optical Payload For Maritime And Airborne ISTAR - Ocean News & Technology",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOEkyNldyYjczcU9KcFJXVjgtZ0hGUFVSRVkyT1pNcmgzY1lTTUdmUTYxUVdJcVRSVFhMSkhGTGd6NTJFMnotY2VLUHJITm9wM1ZMLUI0ZHJkTS1KRGEyeGJvcDVYY3ZpcjNrQjBpdUQ3bFhzMFhIQloxeUZyQWVCTGRXX2pPcjNfa3NWWjI0MVA1a21ZWnBCVFBjQVlyTnFiZlBQWEhOQU1pXzg0RDFROXZBYmlWR2ZYUktxblV3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "China’s five-ton-payload robot debuts at Shanghai’s CIIF, but real-world performance is what counts - TechNode",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT29Ca3BDcUZXTUJTQW9jOUtlbWdNTzVZMFZ4MnFOdUFNYkJSdy01YUpuTHFQNlFWYW5WOGN5RzhTUFBfejVTNlJBUnp1SWEtT2tSS0VRbEFLNG5UaGlSUV9kdmhKbnJ1SHBOTnJ0Z05KWjlialFNQTJfZjR3MGJQSFVnVzhqZjVrLVVmT1dVaWJhSzVtR0cyUDJteEVSdUlPMFVyTlJPUW5FU3NnNk4zR240Y1ZHODBuQ3NDMVRxNmRLQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Sikorsky unveils Black Hawk Next upgrade with more range and payload - Air Data News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa1RmekV3UGNyZEJQNDJIb1kzREJkX1M1Nkg3bFdycFhLSy1INFlETm9mWlVJWWFIc242UGJtVXlOd3BHZWFadXUzN1dPSW54VlcyMzhSdWNBaVE4QktCN0pzcjEwYlJsY0tsR21vNm1nM044ald0VDFDZnoxWDBUcW9EWG5BVmJURWRBYWEyUjAwY3hsZF9ZRzRRREQ4UQ?oc=5"

@@ -1,9 +1,9 @@
 {
   "domain": "campfire.ai",
   "name": "Campfire",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 6.3,
+  "score": 7.7,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-16",
       "summary": "Appoints CMO",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTnhEMVZGejdYc2ptbWluQjVCM0JMbmc4bTloNldGbVZLeHF1SnlXelZkZG9rb19sOGxOVlVBSFlmSFlnbmdZR3ZxVk9pd2xpZkxJM09qeC00eHhhM2xjZDdxU29reFRwVXRnZlYtdmxPbGc0RXpscElMSEs0aWtzbDM5VHY5MjF6TDE3ZUlQeXY0OU5Id3JTbDd2MVRIU0lHdWRqU1dobUxYbnZGS0kzSXFuZnRlcnpyQkpJNGtTQm9RSHBUeW9WT0x0cjJfbGJaX2k4ZFFXeXh5VDV1WkZxSHBBU1VJdjV4eDJJOTU4aTlYTm5PR3R5QmlRaGc0U2VlLU9Ud0lvOVlaZTVveW9Uc2JHVFV2RTJhdjQ2OFdwOGNVaHZlWVcyY1Vn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Your Campfire’s Going Camo: HOWL Releases Duck Camo HaulBags - GearJunkie",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52S0oxNDFiX2haUm13d2hsbERUMTJBajlpaWpJX3c1b1FQLUZwa1VtMzNyTTBaWXFXbmItOUVxenNISVlMVlZ0TVpOQmlmeEpNQlMxZU9YT3h1QWhDRWc?oc=5"
     },
     {
       "type": "launch",
@@ -55,8 +62,8 @@
       "url": "https://campfire.ai/blog/introducing-askember-in-slack"
     }
   ],
-  "open_postings": 53,
-  "long_open_roles": 25,
+  "open_postings": 52,
+  "long_open_roles": 24,
   "sources": {
     "ats": "ashby:campfire",
     "edgar_cik": null,

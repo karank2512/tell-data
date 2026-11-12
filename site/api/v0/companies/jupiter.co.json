@@ -1,9 +1,9 @@
 {
   "domain": "jupiter.co",
   "name": "Jupiter",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 21.2,
+  "score": 20.9,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Jupiter launches four products to expand beyond trading - grafa.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2VXQ2JEWVBQc3FxTk1GQzV6TXNHbGVXSGx6eXdVNko4YVl3TDdzSkFtYVRvNVViejZfUlhILUZoTWFVb3ZSdUk2Q0Jkb0owZkV5ckNvR0M4QTJjWHN3R0lMNlRIaUgyaGNicTh5MktFTzk5NVhwMWRiVUxOalNrYU14M18tRll0QWI0X1Z5bnFrQQ?oc=5"
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Jupiter Launches Combos for Jupiter Predict, Bringing Multi-Outcome Trading Onchain Amid Record Market Growth - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTFI4czRoN3JVaThaam9QREFsc1dDS3BuVVZ1bW5Rc2NtME9oeFpxVmkwQm42SC1KZ2ZaVDRJblR2b3VDVThrNmpvUUpzT1BJNWU5b0QtV1BJN1kyRkxTM1FtdG5OalZXQVBDRHlsRE9TVU1rNEF1VXYwc3hQN1ZtcHBqc3d4UGoySk4tRklXWTlzZ1BPZGo3T1RkX1g0YmpGWHlXU1ZwblhyOGZFem9rRGVlQ2JKSkVOOHpoQ2ZwTlhJN3J0M3ZrTUFja1RXMFRHdkJmbWxDdU1odw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Jupiter Launches Combos for Jupiter Predict, Bringing Multi-Outcome Trading Onchain Amid Record Market Growth - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQempDdjEwa09pU3FoVnR5dWRpa3hFdURJNjlnYXNtYk84Ym8tOHN5Z0h3Tk9jQmpRdEt2Q21jOXVndzduUHlUX2xKOGU4S1BYelhfY0JFTmp0Y01idVJQbFdGMDktUldlVWJqUE5EUXJmY25pc0JnWmR6a0h2TGVtMXNGVDZfNDE1VURUSFk3VXRFdjkxVG1TX1czLVJWM2xvVmJ5cHBKZTNxc2U0aWk1UGhDUF9WVUVLT19HSUd0aTFMMU5UV0xJem1UUVFPRk1qbHp5SHE0dThsZzB4ZVNReW5SYVVVY1FKUWxmTWFvSU04aFhzRnhtMDR4ZEc?oc=5"
@@ -104,6 +104,13 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNay1aUkZnMmRGSGpZb2FrVkN2bm1BWUdjZW94Q0dvZzhZLU1OWUtZN0NBUGY3VVd4VDByTEctVVFGMnp6dC1jaTNhWUp4aWxwTW1WU0xqd2t0MXRrM245dDdUaDd6S0dRTTJjZ3V0YmJtc3FNRmpaVVhrV0NhZ1h4MGZrZkxCWHoxZk5pRTJ3VTRCcWpYN2x0b1Y5Nk1ZeEZqQzFpdHVMMUdTNEhsQ21MQ0dkakNVRzkweUxsWGQ4TXROUQ?oc=5"
     },
     {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-10",
+      "summary": "Jupiter expands into aggregation & vaults - The Block",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0RlWURGUC1OZUtIZENkdi1tQkgyRk56TzVzek1jREFFQzB1cWx6RkRXVFljRFN6N1cyanA0dkpvc0R0R1Ztd0sxYVI4NkFfUG1heE9EV2pwMFprZkl3T1lVZnFzQm9XNFZuWFZ4UUw5RHZFOE5Bc05JTUhQbV9QYw?oc=5"
+    },
+    {
       "type": "launch",
       "contribution": 1.0,
       "occurred_at": "2026-10-15",
@@ -116,13 +123,6 @@
       "occurred_at": "2026-10-15",
       "summary": "Jupiter Launches Unaudited YOLO Beta With Up to 1,000x Leverage - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG1SdHdmck94OVNSZ2Y1NUJibE1YUkJxdnVVaTl0ZGdnM3c0SUdibmRhZm1GWEt3V2tWMjZRaGlPREE3QjNNZUltODlYSEthSmRYbzNvY0NNbVZrNmxLWEtramJkVDU5c1B0V2hmcEdvVEMzVjlxOGVHcC10dVYtUWNtM1hUX1ZpYl9RLXdoN05DQ3BCeWhpYXI3RQ?oc=5"
-    },
-    {
-      "type": "expansion",
-      "contribution": 1.0,
-      "occurred_at": "2026-11-10",
-      "summary": "Jupiter expands into aggregation & vaults - The Block",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0RlWURGUC1OZUtIZENkdi1tQkgyRk56TzVzek1jREFFQzB1cWx6RkRXVFljRFN6N1cyanA0dkpvc0R0R1Ztd0sxYVI4NkFfUG1heE9EV2pwMFprZkl3T1lVZnFzQm9XNFZuWFZ4UUw5RHZFOE5Bc05JTUhQbV9QYw?oc=5"
     }
   ],
   "open_postings": 0,

@@ -1,10 +1,38 @@
 {
   "domain": "trellistech.com",
   "name": "Trellis",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 3.7,
+  "score": 10.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Trellis Data launches near-foundation AI model - Technology Decisions",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1pzS0NNQk40ZEQzZGdETUV3NTUwU01TQ1VvbGNSX1U2a0Y2emkwQVp2YXFfMDBvYzVJcTJKcEpGWFlBOWlUbWo1cVdvTmMxZHRrRXNrSXRMd1F5NUd2SnFVUm5PcUdJUkE5SDA4RENZZDdMWmtDRHNFVFVlZ0F2S1RUdnhXaEd1S0F0SlJhT01ZWG9kQ1ZreXRyaXN1bjdZUFNhY3hOc2tvdjNpT0JVWmR0d2hFQXNfM2Y4NXVuaWE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Trellis Data launches near-frontier model Agentaus 1 - Australian Cyber Security Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeU5FNkx6d1NWUXlKY2xER1lWd0c1c2prSk1MOXg5YlNBbFJCYlJFQU1Hdlpyby1XNEpweGxRTWZQN1REalpUTkhfMHp5bVZHRjJRdXZweXl4R0xfNmJKNm93SkdqeElwbzRCYTBWVTZJcjBmRV85bWxyTzBHQ2U0VmtIMl9aSWpFQkVBVWE2NEJabHFqajVySU05enkxdU1xWXc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Canberra's Trellis Data Unveils Agentaus 1 AI Model, Taking Aim at US Giants - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90akhzZjVMVzhqcDRQTWxPRV85OGxiZGU5Qmw2MWpWa3ZkR2lQVlBFaDd6M092V3drR0NzcnZONzRwd21IT0VQanFISVpXcXdvWnlpNG41U1A5SDE0VnlGeEdITDZuV29KQWhDbXhIdkpBZlFUdFE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Weekly Recap: Q3 revenue tops estimates and paid Trellis+ launches - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlFMWGdVenpXYUloUjJOeEUyaEtna1E0UFRhNy10dTF4NjBPZV9LUC1xWXQxdkJ2OXZ6MXBjUEt2cnQ4X3NSVldaV2tUeW9VSktVTklxNkZvUWZ3SmNWNlV2MjRqazNyWDJBR3Fpc0JhZUZucGVOU0xsZnRPZWhVajFCTGZMX0JBbW5QU0ViZ1pGZHYtNTdNYXI3MVFFSjJmT3dzT1ROZnd6NWkyU2s3UDFFNm9IWTlsVFgtSklhX3RyUHRa?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
+      "occurred_at": "2026-11-05",
+      "summary": "Trellis Marketing Unveils Stitch Buffalo Rebrand, Positioning Nonprofit for Long-Term Growth and Greater Visibility - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRF9MYmxSNWtIakg2UlprT1dTcTJWb1QxblpWM1hLc2JvQnZlSGR5ZWxLYXNDYXUxMHZ6NGVkOTRLQ0RJNi1OV0hSYnBoTm4ycDRKOWhaOGVqeEoycGtSV0FNb0ZYRUxVSm5Ba0h1OFRqb21keUNjQU53Ql9Ea3JiOTA4a2lNSjJ0N3lieFdTa2JBV084YjZ2V3lRUHJxTFI3SW9MMmdVcUhXMExQNHJRazA2WUZPbDVSQVFJVzh1em5xdTlZdU01YnY4ZThNMzQ3X2NGclFmSjRnamxjNEg1OUY0TVA5VmJsbnMtQTJoZUlGbkNMRlNR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Key facts: Sprout Social, Inc. Class A Reports 8.3% Revenue Growth; Introduces Trellis AI Agent - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMVU4c3JMMUJVazNId1NoMW1fMGhEYXBWU09qWV9YMS1xNnRNNnNTUEQ2RDVkN3dHdGZUUzZZZWV5WElJVHdfSkNVdFRBakowUlpMektfX3YxUFVnY29CNnhIMk81Q29qUFZTTW16SVhHR1BnN3VqN24xbnpiQTczYjJvajN6Zm1UTEppZGU2OEN2SC1TWW9sb3ZCTnR3LVZ2Nk1ycm15d0N6NTVBSEdSNUtqc1VJM3habnNyVTIxWkhTX21ST3lJT3BqeENCaFBhOGk4T3k0dkt6aDhJbTRTcElkcmM2QUU?oc=5"

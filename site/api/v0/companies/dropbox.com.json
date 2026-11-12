@@ -1,14 +1,14 @@
 {
   "domain": "dropbox.com",
   "name": "Dropbox",
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "profile": "default",
-  "score": 20.5,
+  "score": 20.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-11",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/dropbox",
@@ -97,21 +97,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Dropbox Plans to Acquire Tigris Data, Launches AI Infrastructure Platform and New Agentic Features - citybiz",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjRYczN4V1R2aGdJMFRzOTVhWXJXck8tLXVST3hyUGtqRlNlTm90dEJpMUhsYThPTXNkelBvckY5VWNNbDd2d1o1T3NadjAxT2owOHZsVmVUMUpqRllmODVVTDhqWnlPbWlpS29KT0MxMUxxN0ViLXpkZ19vRk1ENEhaRkhsNXMxUkdaUnFDVmREb01oamk3R25tMVBZVm9iOF8tYktxZFpzTHNDYmxXcDBiRzJyakgxcjZPLVZIekZaSUtkX0NGSnAwY095bmRaQkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Dropbox to acquire Tigris Data, launches AI infrastructure service - Investing.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDFzdTZValVBRHpueENLelU5OUd1aGpSdXVvbFBxdDRRYTZOSTJ0ZWhubGVINzMxcFB1Vlp2dldDLUdTNjZwQTF2elJxTmlhWHd3NWpnYlBJWlp4YUhFRU44Wm4yUzdkUURpMmNlaFcyR0dyYmI0b1hQeXBHcTRlc2ZrWWV6QTRuaFViNWRtcThQbUVzbUtpX1FGNkhyMjYxWWI3R0RwMldYYnh4Tm1TS25sNlBIY1BiTFhDMm1kOA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Dropbox Announces Plans to Acquire Tigris Data Inc. and Unveils DBX Agent Cloud as Part of AI-Powered Product Evolution - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGV5ZDF6dGxIYkpGcWhDYkhseDQ3VjY1eVZfbkk2SHppenBRbnJiSjkwLWhvVkdxcjU3amlwMEpWalZIU29NcDZEcDk2TmZYWk5uekFGZHM1OWhDY2piRmk3b3RWRk1ickNJUWZCc0ctY0dMN2hMRFNJa3FOZ2pqaFlxYkthUTh1bWJBMmJrdkwzMmd3SWRIeDhjNGdKRHc1Mk92UA?oc=5"
@@ -190,7 +190,7 @@
       ]
     }
   ],
-  "open_postings": 39,
+  "open_postings": 38,
   "long_open_roles": 5,
   "sources": {
     "ats": "greenhouse:dropbox",
