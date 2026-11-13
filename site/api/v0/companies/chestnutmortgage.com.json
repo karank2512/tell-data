@@ -1,9 +1,9 @@
 {
   "domain": "chestnutmortgage.com",
   "name": "Chestnut",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Midleton unveils world-first Irish Chestnut Edition whiskey - DFNI",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSC0tSnlzcXVscnFOS0NmRlRsWTdRdTdwUEl3dldWM2Jxa0Frb2NVZjd4QWNVZVo3eWxOY1dyeEZCZmdYb01hVENIVGRPTVhHN2wtc0p5SUZpc3B2QnBzZ1FKalljZFU0clVvT3dxTDhweGxSY0lwM25ELXhRa2VHdGx1UHBrSHlNUFVlYl93eFZ6VXA5MXptbjZYTU9GRktfc05fanVGZTJqTTZLOXc?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

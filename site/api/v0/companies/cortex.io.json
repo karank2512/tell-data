@@ -1,13 +1,13 @@
 {
   "domain": "cortex.io",
   "name": "Cortex",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 24.0,
+  "score": 23.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Introducing the Cortex Cloud Sensor: Best-in-class Protection Purpose-Built for Cloud Workloads - Palo Alto Networks",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWk1SE44VS05YzUzbi15ZGFqSzIwUWw1bUxHY0tHN05KeW0yYkllMGgxZndfQ2UyUFFRUUNLUlM0ZmdRc2dscm1SY3pJRmhZeVhvbFlDdUtlYkVHSnl3YWxNeW5kYndGZ2lZNFZOa3hGQk5CZmRvV1FxeHhxMktfeTBHdzloU256RjJGbmsycFFHYkFOVHlfMTBtSTlmOEJBU3ZTOWN1MEV0cmxHaUdBNEc3QVl4c0JGa0JJMVRCOU8tX0oyY3ctNGY5QXRLQ3U5RUFzRTVBbEE3VW9Bek53Ukdn?oc=5"
@@ -119,21 +119,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - PR Underground",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQTVmMkxQTl8xX3lIdXVpSkRrcVNMOExHbnhNVE8zSDFQY1ZuZG9PZzRDcThoT0RJZkdYdWUycXhqdmhvcnFfamt1MmtHbTF2RDdQb2VaZEtRTVpLNC1ZcXl5NFlwVHU5MzdJZ1BQU3czMUR4MEdHTUhDREY1aWtuZmFtZTQ1MGJncWV3dWM1TlA5ZmhYMXc3Ty05UlktMTlMaWYzd2lUOXpWUHlUQ1F3MkU0dW9veTFreE5iWVhwbVZSQUdYV3c4bHNMSlU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Pervaziv AI Introduces Cortex Confidential Computing for Protected Enterprise AI - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa1FvaGU4eVliSGVySHpRSzVyUnhDeFpKaE9iZzh4MV9ubnBxXzlXLWphTm90aDBuME1OZkJtOXk0TzJlSkdOSWNxeXE2SDdhREVlblc3WU1oWjcycVFweWxXV0dWMzFnbGNySV9oRlVaa3dpbWxnZV93Vzk3bWxFLXFYZlJTdl9tX21KemUyVjBsZ2lqVmZ4UXg5aHhRNEFkM3NQRFlMQ25HVnQzLTNwWVFFT0hTbmd3T1VXYTFLWVBRUjRrYXVIQk5aaWwtM3RDNTMtSnBCOU9JWm5kX0lv?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Pervaziv AI Launches Cortex Host Protocol, Unifying Six AI Providers in One Enterprise Experience - PRLog",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTm9DMk1qYjRpdTlnUloteDBKY3JVN3R0T2hyWVJvZU15bFg3UnhLWlVuZ3lZaXpmYnE0YzlsNVVtelRfc3NwcFBZYW9BUVZ4X1ZlWHo5WjBKTVRaVGhhbWxGbUN4RzVpSF84ZklDaWpZWUN4WmViNVBoRmJFQ0xrM2gzM2d0bzNPZ0JucnZCQXZQS3dUMm5OR0VwWkJCdkNMZ1JzMXh0Vzd3MHhNd242MjJYdWdaWng0amkzNFBtdVpGdDJMX3A2OVhaOFA?oc=5"
@@ -153,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

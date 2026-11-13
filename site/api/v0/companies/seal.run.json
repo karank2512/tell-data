@@ -1,9 +1,9 @@
 {
   "domain": "seal.run",
   "name": "Seal",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 24.3,
+  "score": 24.0,
   "contributions": [
     {
       "type": "leadership",
@@ -35,21 +35,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Park Tool releases new fork seal kit - Bicycle Retailer & Industry News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkJpV0dHS0NIOUplbTFibjRvNzdrMU1ySmZwWWNsZlNrdWFPbWY0bGp2VkdSXzNlcWFrUXI2MnZoVU13eHNtTFVOTWp6QkQtUUE4N3BOTDVlT0dEam9WTHctNHNkb1dLRmQ1aU12MzlyeUxPZ04zVWV3OUtyZTNKeVp0TnBseUJMTGJxY1JiYmRqT0UxZnBj?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Park Tool Releases FSK-1 – Fork Seal Kit for the Removal and Installation of Suspension Fork Dust Wipers - Mountain Bike Action Magazine",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWJOa0tVT0h6NW96dEswbTlQem5paGg5ODFydnN5M1pfTkJwTmdKdUpKZmFQQ2kwclA2LXVBMklfTDJmS3pWLWpJOEIxRnVhMkxYZVBRcm93cmkwanFhUnF0X05Fc0V2d09xMXE0SVotNFpYWENHeTIwRHo3V21BQlh0aFc3NWFSdDF6S01OOC1hTHFPb3pWOWVMQUZ1bUhBSEFpYmZpdWFzejJ0bWtyWVZXazZlYldTQldQWWxSOGZtZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Gasgoo Daily: FAW-VW Signs MoU for 2027 Audi Import; BYD Launches Second-gen Seal 07 ; BYD Teams Up With vivo on AI Mobility Ecosystem - Gasgoo",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSTRlSDJlQW1YcWlYMlRqVE9qcF9yR2tXVGczdjZyMmxxNWZlbTZUZjc5MHdMbWt3SU1iMF9pQnlyQnNMU0toMG9qd2JvYVFhYVMyNFI0UFN4a29KNUpGUkpDNkNWZm5nNDBUYTZKa1hMTFY0S1BwclR4bzduTmtqM1RhcW9vQk52Y2N4a3Mxc3BTWDh4ZllEaFM3ZFZBckJmMzhicjE2STN1QXk4Mkd3YWp4dm5HZkJuN1Q4T3pPZzdlNWtCYW12ZFRnblBLLWd4Ry04VEdGbFlweFN3LTBaV040VHJ5OE8wVW1yTEJ4WGdSYW1TME5BQ3pHN0lJdnpYX0lQXzJ3SHlPRWhfaExuQWVHUUdHWW9TXzBEZg?oc=5"
@@ -153,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,14 +1,14 @@
 {
   "domain": "icarus.one",
   "name": "Icarus",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-12",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/icarus",
@@ -34,21 +34,21 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Icarus Capital Corp. Appoints [person] as Strategic Advisor And [person]",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVdFcDhNYlF4ZmpUYy1vTlJrQUJqdHRvNG1mWE1RR1lMUUFaRmdTdlB5ajhTLXZ5cFVvVGdOR3BGdGxwX3FBQllJdGtvNDh5N09lbjNGVktYQnJqSEJzbmZfOUFXMTVEUEZEMFl2SjkwTGl5TXBRZDY4UmcxSHJ4Rzh1UzY0X18xcEhXZFUwUElOTWxuSWVJWEdGdnJ1X0Zaa1B3cWlOU2hIMUxwZ2VCV3BpdHg5VUV0S0NrSUJKcHNDc1JMc3FzNGRSYW5kNzFnemYwbm9BWlhXVFBSeGktWkZxdmxuZjNCQldpQS1ydUdOdTM3MDROdkdKY2tHZw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Icarus Capital Corp. (ICRS) Grants 1.1M Options and Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXFQZF83S0xBVUFhbGlsUUFLZlBYZzZWQWJqUlp3YWtoQ0txTXVWWFJKZWNpVm0wUG5OSHVUbFR2WDlzbGF4NWtqV3ZpMlJHYVFzMlR5STU1YVdCZlo2SzM4cFFLV1Nwd20xNFZybmZqTnpqZWNfMVBlMVBUdFNNNkJsbll6eFpuZ2lEUDY0dDJTV0h1ZkJJS0hSZ0pyVG8yVy1icWEwd0h5MHBqUmM0eGc5eWdBOWZwVlJWLUVxbUNhRTBkeDh4eWo1MTl5cWxEZ1Vz?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "VALOFE Launches Global Official Service for Icarus Online on October 22 - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjVPWkY4d3BkaGJmSlpRcV9TWVJfTlMxNjBmdnc2Z1N4SXM4Z2JWQi1KUEJTS2lrcGdqUHYta0xPdGIxVUVvYkt5WGlaNXlYQjBwRV8wcWwwYjdRWjBBWVUyVlU1eU9HS0paWjEwaWY0ZUlZMzlyLXcwQXZzOUxCQ3Vaa1ZSUkp2bEc1Y0d1dzJKSzN0SUZmQnNuODRMVWR1UG5VNFV2enRXaVBzM3NVam05UW8?oc=5"
@@ -61,6 +61,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

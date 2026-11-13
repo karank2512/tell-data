@@ -1,9 +1,9 @@
 {
   "domain": "giveaway.mobi",
   "name": "GiveAway",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 11.7,
+  "score": 11.5,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "“Hanner’s Hope for the Holidays” Hanner Chevrolet GMC launches holiday vehicle giveaway - BigCountryHomepage.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdV9ONnNJb1A0U2RUMUlyeGdvZmdZMzBGX3pDNUxWbUtreURMdEFQVTczdFg0c0lmOHRWRmpWRXk3QW9EcGlaQ1BpMVNRNHdPUkI0MDNzOXpfMVhkOTVsUlJVQ0lOOUwyOTBnSHhyVEJseEFHZzdPWVVJek1UemhtMWdpMm5NX1VaWmNPdUZ3Y01qcFFqeFFJZW5nX3dKLTMyU04wSnMyUE1sbkY5Q2JxU2Jtb0RwVmRXSHNHc2JyYVFDTjDSAcgBQVVfeXFMT05Yb2NCS1JwcGl0V2VBVUF1dW5pUEljZUo2OXN1TW9uM1ppUVBET1VPU3BXUWFZeUdqSnVybEJIVkJBaXZqUHdqS01sR1VQMzlEdTZGOGFUcEhYX1BSaDl0dndYNFQ5Y0FGblVpN0M4dE5BN0drNVlkZ1NtZUFadGRHbEhNcEpGLWFNRVZVT2Y3QTZaVXBPWnF0RzZ1dW41UnctdEw2cGppN1RDdjVMY0MyYndxb3FmR1JpWGZyQ1puRUdvLXJtZ1Q?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "South Texas Blood & Tissue launches NYC Thanksgiving giveaway for donors through Nov. 8 - WOAI",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOekxxa0dKU2c3aWdWU1loLWhIclpUUmk4Y3ZuNEgwRTJxQjhkLV8xcHYzVlZjYWYtWDdqSC14bUdJbU43d3lPZFRaaXR1M2ozb0gzUDdGTm5nRUdQOHJKdlVGVWI3UWNQM21feVZyZ3JCRlBHYVhtblN4YVFoMHdxREpOcUxIX0lfamJQMTFTcUdxYTdSb3AwOG1iNERUSW5TcjRPSldkY29iMkVaNmthLVBpdFlXNUVKMzFaS3N3S3Q?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

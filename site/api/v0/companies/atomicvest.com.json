@@ -1,20 +1,20 @@
 {
   "domain": "atomicvest.com",
   "name": "Atomic",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 23.6,
+  "score": 23.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-10",
       "summary": "Omnicom Media Hires [person] As Chief Strategy Officer",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXQ4ZTdTTWs3bHlvRWN6TlF1a0F2b0lQOUx6dURocF9kejVDd0NDR1Z3SE1MV1ZKZnpYeDB5elQ2OElMRS13QVVpNk5heE5zVDMxZHYwazVoUDExdmRta3BCMnJEaFdRQnhSM0ZkNGtFU3ZLS1JoNlVWZ0VncTdDdjFrX2d1S2t0ODZiZHhkLTFiRnJQU3M4?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-10",
       "summary": "Omnicom Media Australia appoints [person] from Atomic 212° as first chief strategy officer",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1lSd3VJeUl2OEN5OS1mQVhydVhSM0FuY3VCSldvNVVJbjRkelQ1VHFWVkMwV1IyYUhnNVJkNEx5VXA3QXBZVlN2TmZtOUxhVTBEUDZaT0czc19zWlRoSWUxcTR6Mk1aaWZ1VmtqTS0tVE9aQzA4YTR2SVBXbjE1YWhiZ2V6akJIdVdlcmRXWWNSZjlqRjM5Ym1vTlpZcVBBNUd6WUxLTnVhc3VRdnZEVkotN1JoeVFVM3lNMw?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Atomic Blonde Sam Hart’s 10 Lost Days Debuts At Thought Bubble - Bleeding Cool News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT3lTUlVNd21RdUZvZ1R2aFlsLTVkZWExNGZJWUdIdnE1b0kwc3dpbXJqZ2U2cThEYllPVURrYm1sM01wdURLUUtwTkxDNkszZzUwSEc3WHNPcnJtbzBWV1UteW1XM1lYY3RjZDdvaXFraF9hWFVVVmQ2blhtczFlczJoVXRLb2VkYjNRLTBZSUw4ZVJSY181TG5R?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

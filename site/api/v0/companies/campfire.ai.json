@@ -1,13 +1,13 @@
 {
   "domain": "campfire.ai",
   "name": "Campfire",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.7,
+  "score": 7.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Appoints CMO",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTnhEMVZGejdYc2ptbWluQjVCM0JMbmc4bTloNldGbVZLeHF1SnlXelZkZG9rb19sOGxOVlVBSFlmSFlnbmdZR3ZxVk9pd2xpZkxJM09qeC00eHhhM2xjZDdxU29reFRwVXRnZlYtdmxPbGc0RXpscElMSEs0aWtzbDM5VHY5MjF6TDE3ZUlQeXY0OU5Id3JTbDd2MVRIU0lHdWRqU1dobUxYbnZGS0kzSXFuZnRlcnpyQkpJNGtTQm9RSHBUeW9WT0x0cjJfbGJaX2k4ZFFXeXh5VDV1WkZxSHBBU1VJdjV4eDJJOTU4aTlYTm5PR3R5QmlRaGc0U2VlLU9Ud0lvOVlaZTVveW9Uc2JHVFV2RTJhdjQ2OFdwOGNVaHZlWVcyY1Vn?oc=5"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Expensify launches native integration with Campfire - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckJmY0M4SUQ0RWhvREY5RV9yazlQWUgzTnZrZU5YeEpsaXBUajFyTnZ0b0txcmJpczVRZ1IySGpRODZ6ckpfWkRZaFV3a0Jjczl3ZWE0SXBIRl9yLXlqZVZidG9xeWNFblVPZWxjT1FKczhMWUxiMWtZSDFnaHNtRnNHajcyR1drVXNlQmhwZ2R6MkRfcU9obS0tS3g4OURmWTJlNlBXNlhtRV9rTGwwRWhkYmsyVW5kOFFF?oc=5"
@@ -69,7 +69,7 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": [
     {
       "type": "launch",

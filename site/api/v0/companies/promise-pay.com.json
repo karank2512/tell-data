@@ -1,10 +1,17 @@
 {
   "domain": "promise-pay.com",
   "name": "Promise",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.4,
+  "score": 17.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Syntax Launches Business AI Practice to Help Organizations Move from Promise to Proven, Production-Grade AI - VMblog",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHRteGxQTkYtcDdCYTVFR3ZXeXhSeUIxQW92OTJla2gtLVkzRDVpU2NxdzA2TnA1eUplN2NOaWZRLVUwVlNoU1puOXdfbnNsZXc2cER3WXZxVDl4SE9kVTRwQUFzajJDaTFFRnJlNVEtb0N6WGk3c296OE5MOTNOZkRIVl9lbmtyMWhaNXhNemxSSW84VDFtS0xVYS1KRDJaNDlVbTM1OXNJcUlvVGZBWlRhaXZSYl8xZDhKc0lPcWF2VmhyZTdpRERqdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Bluefield University introduces Bluefield Promise - WVVA",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkZHaGt4RnJzZHVsc2t5aFNlMTJiR05Sa2JOZ1c5MTVSQTdhdUVRVnNrbXpZZ0sxSlNfLWJkTFNuRHpQSXdlSS0zM1NES2Z6S1FBNEx2UnJZajBKbEdKVHNydUN3eDJ6cF9YajFVOHJKcGJqQUJQdVdpMmxfMHU4TFE1WDhoTHp6SlHSAZ4BQVVfeXFMTjlWSndMVEFOc3UzUk55a0FrQ3czX2JKck5MVnNLX1BCYjBpSkFrVXdjcmI0dWIyNzd0NHRhQ3BxeHZQUmNCc2k4QnRORnM5RHNxTjhJNTJxOE9LaUJpSHNMXzdFclM4VFNoMlFXZ0RkYjJ4ejhNMGcxMmpkNm0xRVpvQmZRdWhIMFlLZWM1Ty1VcnZJYVl6UVV3eXVLMEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "'Our promise:' Juniata College launches largest fundraising campaign in school's history - WJAC",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWtUdWxlX0txQXVFaFF6TkgwT3lrQTVxMHBmTkNjYWc5MDhkSUlQTVNwTmR2bUdBVExrQ082emFRcVhxUy1KbFcwbEQ2MGlRdlVpZnNsbW13NVdiZG4wVFoxakZZdUx6NjlPRDYzeVhaS3NTcVN4bTBzd2VRLVZWallEd2VkeExoQ3pYRkdVdzh0UUlOYks5b2pLblFOS0RMX25fSw?oc=5"
@@ -104,13 +111,13 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnd5NUlUVE9oWnc2eENidnpUMFNidF81Zll1SVRjRnlxUTJhV2NVdElWMmJ6RVBrbXZiN1EwOTFrNW95V05SNEVpRVpYMlJtRm5UWXFJa0xoSkZvMHNtN2k0ZjhFRW9HM3hKRUc3RHozRElzMmE2NnFUckxUOU45djNyd25zdVJxb3NBTm9yZFE0NGppeGc0b3hWNzdhUdIBowFBVV95cUxPdkt3U1hseE85cFZKcGpWVi1HWnRibk44MzlLZW5CQzd4RlNRcFg5dnFGeUlHdjJiY1M0dGRpSTRRamFCM3oteDlxQXdVZ09McHFjWHdXWERkelA5bUxGLUpVeDFBRWc3MGVjVGZBYzNrLU9JeDV1UGRYSWRaYnVSVVZ6R2RtSHh2b2NsaFZrSVVXSWI4ZnNSaHphSnl4ak9pR0hj?oc=5"
     }
   ],
-  "open_postings": 12,
+  "open_postings": 13,
   "long_open_roles": 5,
   "sources": {
     "ats": "ashby:Promise",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

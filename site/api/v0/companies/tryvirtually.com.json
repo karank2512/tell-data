@@ -1,9 +1,9 @@
 {
   "domain": "tryvirtually.com",
   "name": "Virtually",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.4,
+  "score": 7.3,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Rio virtually unveils Jubilee monolith for 25th Dr T Ao Trophy in Mokokchung - Nagaland Tribune",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeHBxYWhXT1BCaklHR3lCN3h6QjRpS1dobHBpa3B0VW1SWUxMbU9rVlc5OVoyamdTZ3NubXVCMk5VOXd3a1dxUW9Qa1NmaHlpdkFyckdsQTJjMUdlRW5ubUFxLTIyaWJUZzFDWE82N25SLVdmV1VoNHRZemUyOHBFdGVJX3hLVEcwQ1lXOU95T3FMZWZNRjFMNnZUMkhHX3JhTXY5T2VFdw?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

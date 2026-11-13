@@ -1,9 +1,9 @@
 {
   "domain": "powderfi.com",
   "name": "Powder",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.3,
+  "score": 17.4,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-11-05",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFpDX0tRbFBmbFFtaGU4ZlBOQWM2bU5Vcl9vOUNYLXVvTzY2MlhhcGdRZDE0LUlPdlNyejRwelJrSThMc214a2hQZEpCREE1dzdYWUkxZ0ZmdGtBRU9VRmRJV2N0OUhOODNHVEI4SVpOdXR2YkRGTEJhc0IxMkFFRTgzRjMyWHI2amp6RjNyLXNmLTlYdmFTd1lGdXBXbW90d2RvM1VnVDRpbXFvSEpqclJsQW4yUDZMeG5WdVRUUHB1YTloV2c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Clean Simple Eats Introduces New Candy Cane Cookie Protein Powder for the Holiday Season - Fitt Insider",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaUFBZlRPMmF3SXhFWWI1Rm0xejE2TlZsUDBWOFM5QWhXZW5pa3l1cmVIemhscFVsTUpvcjJjenNQbTFCSkVYMEpDTHBVVDk2RE9wZDVvNjVGbHRpN1NOamxaZWtwaTc5eXpkYmFhTWxKVm1wOHQwTEpCWnhReW45cFVUdmo1TlVYYzh3UTctNjQwZm9sVU9UUV9UYzV0bzZ6cHk3NUE4bTEyZldLc015c082Z0dZb1JXMy1UdThib05aWWM2T1E?oc=5"
     },
     {
       "type": "launch",
@@ -63,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Phase 3D launches purpose-built inspection hardware for laser powder bed fusion - TCT Magazine",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2tGM1hhdFBPbW1iSE1DNkxacTNCMmpsMjVqOWVqMDFuR3VSdGZXX0NYQnA3N3MxelNiVWhEaFhYdkdSNERITi01a005NTluRG9HZFU1MzFJRS01NjhTSGluS09fX2s1WDA1MU5jU0prUndFSTNIdVFEb0gyLTZBRFhIc1NwMW5ZS2JJTnVkUHZHVDMtdVFHVG5JNWRGdC1Mb3U3N1AzcmFjeXIt?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Planet A Foods Unveils One-Ingredient Cocoa Powder Alternative to Cut Costs & Capture GLP-1 Market - Green Queen Media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUNJdURVcE1iN2VzTXNRMEVJcWgxcGZjSWxid3BseUpvOXBfX0ZidFM5eUY2R1E0aEd2RlphWkpqcjRKa05jNm5qZnV4STAweWxXMU1JMDYwQjhFRG9FR2drOVhCQmhKNkd2OVJ6M1lSTlRObV8tVEhsNnpTb0Y0RDdtTkE1UDVmZjdmNGUwLWJFRl9wWVBOcExqQlA2Y3QwYW5GNmt2TWxrUQ?oc=5"
@@ -91,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Forall Nutrition unveils protein water, powder - Food Business News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2ZZN3hvbTREOWdTM0ZqTmJGRWJUcW1TUHliN05sZURhOTdnQ3hSQ3c5SWxlaERZdW41UmNud2pnSVNFRDZpTlIzWlh6RnRGSGJuOHF5cVoxektRM3VWdV9FSlB1d0s4N0I0TnBUX01oX2Z2REVscFJFeExxbkVYMi1SV3VZeGdZWk1UOG5BWW5pdk1USUtTSw?oc=5"
@@ -104,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

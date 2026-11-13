@@ -1,9 +1,9 @@
 {
   "domain": "checkfragment.com",
   "name": "Fragment",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Fragment Launches With $56 Million to Automate the Work Enterprise Software Leaves Behind - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc2pxTXIwNHlZUHlVYWhLUVRTNVVVSmdtWVRfRHVTRHZpcHlScDEzYTFSWG1yZFdlb1Y3dTl3czdzYTBGdVgzOUppOVdXZy1ZTzFickFWR2tVbHdoQ09QSDlDeklKS090aGtGektORWRsMUlocWp3RGtnYUFrSFlmLXRBY3RQX2FzTk55V1lpSllxbEk3dXNPR0tVbVRrU2Y1cjBoYzdfMGhRZVljOElSLXhQSU9JWXZVV1l0d0VMNVFSdTlTZkdJSktOdzRCVmhRSXZxWnFDX2kwMXBaYzhtT0FURTdxWkRKY21VRlJJdmx1QQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

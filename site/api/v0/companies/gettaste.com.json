@@ -1,9 +1,9 @@
 {
   "domain": "gettaste.com",
   "name": "Taste",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 1.1,
+  "score": 2.1,
   "contributions": [
     {
       "type": "launch",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-24",
       "summary": "'Taste of Israel' free food truck launches tour in US - The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KWV9DZ25vYzhUUEFHVDhDZGJLaUhjZXdzSTFhVy1LOG01WElxODh1dFdLZlIyZzdTa3JQTVpVRy1kcVBPN2VQZG00RGRuUU96TGt2dnNn?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-13",
+      "summary": "A taste of Japan, part one — MUJI expands to Westchester County - Westfair Communications",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTFVTWYtVEhVUUdYVWF3Q2dtR2tIeHBKRnVTc2NHRmNGa1JlSEQ1LTF4Mm1rdXNOZE9rNUg1NjNkSnBWSm4tNTZyREFwQmF2NUpxWFBmOFljdl9BMGJMdHhpTzdhWUhCMTN0YTZEaW5yZzg0LTN5TEhzbG1LWDhaa05EOWJWVlZVVWZIOXVMdjdjZVN4V2E5M3dOQ21hdw?oc=5"
     }
   ],
   "open_postings": 0,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

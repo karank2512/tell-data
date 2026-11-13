@@ -1,9 +1,9 @@
 {
   "domain": "prolific.com",
   "name": "Prolific",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -22,7 +22,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-11-11",
       "summary": "4 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/prolific",
@@ -65,12 +65,12 @@
     }
   ],
   "open_postings": 30,
-  "long_open_roles": 14,
+  "long_open_roles": 15,
   "sources": {
     "ats": "greenhouse:prolific",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

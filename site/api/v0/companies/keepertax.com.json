@@ -1,13 +1,13 @@
 {
   "domain": "keepertax.com",
   "name": "Keeper",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.3,
+  "score": 15.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Keeper Family, Shaped Around You: Introducing Sungrow’s Comprehensive C&I Energy Storage Solutions - Renewables Now",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVEx2UVVqamwzMUptM09lSnJidHlMYllKbHZQNUV1NzB0Y1B4NXlBTmZBRm1hLU4xUU9CeTJubTduTVJDUWNSWUJEdkRWbGh6SXB2dG9oZzhYMDZ5UWVXVHRJeTFVOWJ5UVFTX1lrQ0gxS2hraUJXM3FzUTB3QnhWaVFNaGhSRlc3bExzR2x0czl1VGtYY1Zsc0xKT1JXOVFiUE0zb3FVV3Y0Q19TT0ZwRFZ2bXpkRXd6NzhWYk44X1JDOXdpUDE3MGNfUGh4Vzg?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "The Lantern Keeper Is Just One Of The Bosses You'll Face When Fable Launches In February - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG1CaWd6UzR5UHE0NWMyY2JEWXM5Vk9uMEdCRGZXbkMta0hTZV9PbmJHN3owUmg0bGJWUmJXNE5xUmlJeVFnUl9qMmJRVTJGeG5Ic0FEaEdhTnpIRVVGTkQxT2VZRUMwQzlkZjZnb29uS3JYbEk4TTVPYjdVekYtdXA1cWp4bDVTRDFZTm9FMWZjQQ?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

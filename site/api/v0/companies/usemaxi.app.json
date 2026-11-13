@@ -1,9 +1,9 @@
 {
   "domain": "usemaxi.app",
   "name": "Maxi",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Maxi launches “Fresh Guarantee” with new campaign - Canadian Grocer",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vSHVOUERsYXVyV05nZjAxd0s1R3JtZFl2cm9mTGdsdk92WmtrRFBqUjJIM1ZMQ1ctSnBIaDRJaEd1YlVyMHh3anEwQ2xjTmV1Q0dSVnM4UFJOOXliYUw2N3VXUzJ1bnhfTHE2Ymg1Wk5xeFZXX0dFNw?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

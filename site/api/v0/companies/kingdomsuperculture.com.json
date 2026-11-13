@@ -1,13 +1,13 @@
 {
   "domain": "kingdomsuperculture.com",
   "name": "Kingdom",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 13.7,
+  "score": 13.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Kingdom Bank Launches New Cloud-Based Digital Banking Suite with Sandstone Technology - FF News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT25WVG04T1FBd2E4WnRXLXJsSXJPTDZBTVFMbml6UjI4VHE3dzZhYTlBbURyX3FoeS00bkpOanhYUXNyT3d1c0JSM3ZyV3J2ODNRLW1BeGVHY2lDc1RRS0xuX2FXenZ0ME1sdmszWjV5cEZISmE4OG9HTmxiSEd1NXVpUFNBS3VZWHFhQmJISXNUbmQ5NUVHOFV6QzdlOTVXYmV2eXJPZ3Byem1LMkFxX0lUZw?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-11-09",
       "summary": "Barclays opens new office in Riyadh to drive growth in Kingdom of Saudi Arabia - Home.Barclays",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNFRYbzJyZzREQXVRb0Rna09WZWJuaUZZQmZxcXh5VkRmWkhnNEhDQVJiRXJFYWN3Z2lYS3lOX0VYVTE5dmJDWXByT25fa3RyTFJHakpvMm9FX3prQ3E0eUNSNW4xZm9pUGdYekhOcFdnLVFJU2xDOGxZbUVrbk9KaVllRkxzTGh5eUgxaEJNLWZkbktVbUotN0tRNno1WVA1LXZKd1pXY2o3Uk01dW1Gek9MeW1zVlA4?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

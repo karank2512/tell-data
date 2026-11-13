@@ -1,10 +1,17 @@
 {
   "domain": "salt.pe",
   "name": "SALT",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.2,
+  "score": 10.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Real Salt Lake Unveils 2026 Team Award Winners - Real Salt Lake",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3c2R4cEpseTVyUFlPWmV1UTA4Y1V1WVB5d3V4VDVVZnZxRmpvZ3NtbnlFUmZobXFiY1VFVFdqLVEycmlxMExUMmZuU29oMWxhU1A5c3hIbkd3YzRfV3JxdzJDbkdxTUNJZzhGaDF1OWJnSHJoYWU3WHpHbw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Salt & Straw releases Thanksgiving-themed ice cream - KIRO 7 News Seattle",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUpqUWFDbVc5Q1d2VXQwR3MwUms1MUNiaVFwRGJYZE4zU2VXZ05RVmROMjJORUhBQms4MmxvaEhvNnpsU0U5VzB6QjZVYnlBVmt4MDY4NzRoY01EcFpneXl6bHVyamwybDlNY25JUF9OMEV1dl85eVdEZHMycDBMVGhwTlZkTlBwVGFaaUpYdmc0SVVWemc1bjRLM05aY0ZHdU4xaDNKZ0NvVmc4VTVr0gHDAUFVX3lxTE0wR05ZMGFzcHQyc1NRa09wTk1FWmFEOEtIeFd3RDdwN0t1RVlIdEFRSEhKX0JqRzF2bWpkSkhpbDJoWXRZcnhCS0lxeEM5RTR4clBHRU1mSTFCZnJHODdMbVlZOUNIQjk5VVR0ZlRySFFKS0pXY01rTzNJYzFqajE4ZG9mNEdxZGp5S0NBVjJrTlQ4T2VJOFI3dkFnZ1hxTnROVjF2b190bWdWNEM4QVVlWGQwZm9KU05ncDVWM2VBRkFCOA?oc=5"
@@ -48,6 +55,13 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGxlckJMR1NXN1ByeGhfQlJRSHZ5Yk84cWVEd0JrU2NPQll1QW1NYk1MWU52VjBOWXQ3RTZ3Tm12aWdZR2hvMXB4bF96UVZBcmdWbk43RDJ1MFZqenJlYUNGLW5lcTc4b0RhemlpSkZGdEhIdDBOQXhvVWtvLVdvbjhoY3hjeFE3Zk4ybl9LT2hIYll2M3k0YTYzUUItUkxj?oc=5"
     },
     {
+      "type": "expansion",
+      "contribution": 0.9,
+      "occurred_at": "2026-11-10",
+      "summary": "SERHANT. Expands to Utah, Launching in Park City and Salt Lake City - RISMedia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGp1MEVBdUQ0NUlkb3lfZkFnX2NfUUNfX1pyWG9tTHgyNzRRZ21Mc0N6TnBYYklRLUZ3N1NKWndYLW9ERldoejFIcmVXS0dIN3VQVlM5ekpLSGoybnhyVUREandySmliSERGeDNEX0RmNHdIbWk3TXgzNHZkaUJSM29WMWo2cXRaTW0xQ0lwU0Z0V0VMSUQw?oc=5"
+    },
+    {
       "type": "launch",
       "contribution": 0.9,
       "occurred_at": "2026-10-14",
@@ -62,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "ablejobs.co",
   "name": "Able",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.2,
+  "score": 9.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "N-able releases security hotfixes for zero-day vulnerabilities - BleepingComputer",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb2VOQVN5Z1lyV1RKZ3Y0Uk15V3o1cjdxMnM2ZW94bS1nLWNUSjJiSlFqVEpkU09OSEZZRVh5ajJGUmlXOXpJSVRnYmFzZmFBS2NTYkFVclg4REltQVA1MDhCS00zVF9pOFdHYWhkcU9RRFNGVDRuSkFfdWo4Z3cwLWVQVmlETFpnY0p6N1NldW4zamZDa1VKdFk4WlpSZm1nb0F3Y0dHM3lmX2ExY3Rr0gG0AUFVX3lxTE5oVmVZZFVJN09KYUFtbDVWSXVyd2hQcjExVHp1dTFhcHkwQ0JTM1Y2a0JLaU9wV1FzYVd0N05EWjNWOTYyajR2WUFTbUZuTHFjTUJybGlITEhjVUg4MkRUU19ONEhWZ3FGM3c4c0l6ZHViR093bFltOERON19Sd0s2azNOT1VySHk5c01MbE5McXJ3OU11a0d1Tkh5cHFrLWRCd1JiNV9yRXozNVZrR0VIalhhbQ?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

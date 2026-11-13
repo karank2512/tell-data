@@ -1,10 +1,17 @@
 {
   "domain": "withtai.com",
   "name": "TAI",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.2,
+  "score": 17.9,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "CSI Properties Appoints [person] as Independent Non-Executive Director",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWjU1TWdJa3pleEhYWWkxZUs1S0RiMkFLYTJPTTZJellPV245R3hHZXFXRi1Qd21UYUQtcGlIY2hhRnFEQzZvYTVVa3NFelZDVVREcUZEdTVFVzR3MXlSV2psYng5ei1zaW5MdkdVTVZGWTRFdEw0a1JDQWdjcnByTkVsOFh2Q2lxUjVvRWtmbm5IdE45Y3p3TjlhbXJYaFRXQ1ZYcXU4TTh2Z0pYc2ZBRXM3cjBucU12WFY1NHR5WXpYQ25RWFdZ?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
@@ -70,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Nezasa Launches Tai Guard, an AI Agent for Managing Trip Risk, Powered by OAG Flight Data - OAG Aviation",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWk5DR3hlTUtvSmlmSjh4YkhnSGxwNlZ2ZnRVc2U1Zkw3c0JvSndBRUtoYVczT3NZbjM5OGdhb2ZGVEVMa253UElLUFctSGZkM3lEQVBTZmY0QVVHYUdPNG1hUUhzOW9PSmMwN2ZKa3c5QWtBSzVrX0RnNzRnQ2hOSXFLMGY1U19tQmfSAZoBQVVfeXFMUG5DZkxlOVVJTWxLLWF4azZucXpZaFlyaXAtNE8yVWROQnA5N3dhN0c1LUtTMTFZUnpaNzJIOWxsem83eEpLLWwyM2hEai1qMHN2Xzg0bGlNVmJzM3dsUjNyNksyeXpzNnRsclNJUERsaFdESk1JZXY5MEJaZXNaZWFoNEhPdkZjUUQ4cHVZS3hxT2FPLWhiR0VNQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Nezasa launches Tai Guard, the AI agent that anticipates disruption - Travolution",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGZnVUtTNV9zMVpkNnNsMmQwbmhjUmdKY3NqU0M3NFpBSlE1UUpKeG1ILWtEMHZrY1kzOC0wN1o3aDZvdzZFc3pOa055UlNoS0xtLXpOY21NYjAySDVNUXhKUGMyd3d1ZkN5YmtFMFl6RFBOa2kxd29RYWFXbGhsLXBnVGdwWjdkWDZNUzVDanVPUGpIZ3YtaERFMkQ3bHFTTnhF?oc=5"
@@ -91,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-07",
       "summary": "Introducing: The World’s Smallest & Lightest Triple-Axis Tourbillon, The Peacock Tai Chi Curved Guilloche - Monochrome Watches",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbHhhWTgwNHMwRzRJUTBuUFlMWC1aX0otRHk4WEtJQTNSMlJ1WHA5S0ppTlhFS0J3TTg2NGZiQVVVNi10Z2ctT2Z3OThsLVhtYWtxSmNhRzZmVm9WZEpZX2NjOGhVQkNxMVpMM1oxRTZXU3pMRXNMNkFha0E1a20tRXZtd3gyUS1Td2gtTTM1UG9OQ2puYzgwMmNsODczeUd2NFoyNURfWS1kX0pET0RGT2lOS0ZuZnAtT0NtcUdkcklrVVdDOG1IYWln?oc=5"
@@ -104,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

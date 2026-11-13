@@ -1,9 +1,9 @@
 {
   "domain": "sid.ai",
   "name": "SID",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.6,
+  "score": 7.0,
   "contributions": [
     {
       "type": "leadership",
@@ -13,8 +13,15 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xdVA3ZTFkazdaUEN4NzNCY19QRU5KSzdGelBIV0xSTzJZbzZ1ODk2Wk8tYnNtRDdhTHg4ZEp4bnlKSTdxc285SW9SZVdBNU52OFplb1Z0eWFXR3doNVhwcXZQMA?oc=5"
     },
     {
-      "type": "leadership",
+      "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Companhia Siderúrgica Nacional (SID) Releases Q3 2026 Earnings: Revenue Down 8.7%, Net Loss Widens - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVW1fZjdDMmU0UVBfSVRkeTlBbjhhTHpnU3dpbThBVW5sMVlmNjhMckRKazZCcnNiaGd2LUpMc3NkeHFDNkJOVHhhOWpScXNlY2pNT2pMN0FGaDViQ2F0T0t5aWlnd3VmUy1sMzdta1A0dXdFcnRUTjI5a0pOS2M1dDFYUktMYVdqSVJhT09qeVdfVmRjbmJGazVZYUM3SUk0NW81Q2JSWU9iVHlXbzlSSWRObTBEQmxvQjh2aTBwOC0ydkpCM0tjdDNCU1RfemktN3hXdVpfZ09SN1VyZHlr?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "SID appoints [person] as chair amidst leadership shift",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2daVlJydDM5RUFnU08xNUlpYjJwR3J1RTAyVmIzQ3NaY1FQR3VQVkRpVHdkQzc5OEtBeHNOSTJNWFltTGp4LW9ZZzNZZElyT25tajNucTF4NERLVXYwYlpnSF84MXFTQkFOVzU4ZThpWE5IdDF3cW9ybVVjd1ZuWDhPaGN1TXdkbkRUV1pmOFg?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,14 +1,34 @@
 {
   "domain": "arketa.com",
   "name": "Arketa",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 1.3,
+  "score": 3.2,
   "contributions": [
     {
       "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "2 new sales roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/arketa",
+      "postings": [
+        {
+          "title": "Sales Development Representative",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/arketa/6a9ce6db-2a21-42bd-b074-8461a695aa65"
+        },
+        {
+          "title": "Account Executive - SMB",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/arketa/e6d7bfec-dc85-44a3-b836-d598d9b6d7b6"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-24",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/arketa",
@@ -26,13 +46,13 @@
       ]
     }
   ],
-  "open_postings": 7,
-  "long_open_roles": 1,
+  "open_postings": 10,
+  "long_open_roles": 2,
   "sources": {
     "ats": "ashby:arketa",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

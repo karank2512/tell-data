@@ -1,0 +1,38 @@
+{
+  "domain": "adaptyvbio.com",
+  "name": "Adaptyv",
+  "as_of": "2026-11-13",
+  "profile": "default",
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/adaptyv",
+      "postings": [
+        {
+          "title": "Startup Operations Generalist",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/adaptyv/3bbec1c4-4a9b-424d-8ec4-122010f7edb2"
+        },
+        {
+          "title": "Special Projects, Ops Generalist",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/adaptyv/e8cb2299-19d4-4a0f-892a-c976d39bc3c7"
+        }
+      ]
+    }
+  ],
+  "open_postings": 41,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "ashby:adaptyv",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

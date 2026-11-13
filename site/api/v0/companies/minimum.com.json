@@ -1,9 +1,9 @@
 {
   "domain": "minimum.com",
   "name": "Minimum",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.2,
+  "score": 10.1,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Tinubu launches N52,500 minimum pension guarantee for retirees, PenCare scheme - Peoples Gazette Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeExJWG9iWkpLdnQ3ZUJaaGcwSktNTm5QOGtYS0h0Nl9MTG00OXNBUWFpUTZFZGp6OW1ZSjhaOXRGdE9HM056TnV6LVp4aEtmTXFmanRDYXZzMm45OHJwR2p3YThLU0UtN0g1SFhXZWZfbE1sLVBTdDVuNmxPZGU1aVozNFJ0Q1FsVU1OU3JtTWs1RlZRMDRNbFNPQk52cFpKU2c?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

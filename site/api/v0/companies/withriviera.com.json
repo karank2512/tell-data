@@ -1,9 +1,9 @@
 {
   "domain": "withriviera.com",
   "name": "Riviera",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.5,
+  "score": 17.3,
   "contributions": [
     {
       "type": "leadership",
@@ -28,14 +28,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Oceania Cruises unveils 2027 Alaska programme aboard Oceania Riviera - CruiseMapper",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGU3c1ZvaHlQNHIxVHBVMWZHaFhtVEZ0NXRuS3NNSklGWTJ6N3RwMlpfcnEwcjNfV3dTVkpIblpjcmZOMHZUcVMxLVhGSnluSkJxV1hPamw2RDVkZUZ0YmVNX3N5cjNMQkpPaDM4RkhIWlEtbjh4eGlIRG11UDhsU1J1dDBqbXlBWmRCczZn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Oceania Cruises unveils 2027 Alaska season aboard Riviera - travelweekly.com.au",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUtVTWx4d0VkV2pOaGlzWS1zaUc4Mkp5ZjVqb3FWb252bmUwc1FBQ25YZjhOWFlQSmdOLWF5LTRhTTJ0Y29KZldCdDhaek82Z3dnS2NaQmN1S2Q2NWlZc1dydmNxVEdRWXg3SFR6c3RGamwweWFIOGVzVWlwYTdkNTRBMEV2SGw5TGNfbDNVSQ?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

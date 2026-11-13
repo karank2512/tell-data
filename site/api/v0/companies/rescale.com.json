@@ -1,9 +1,9 @@
 {
   "domain": "rescale.com",
   "name": "Rescale",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.9,
+  "score": 3.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -32,7 +32,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Rescale Launches Customizable AI Agents; Kairos Power's Threefold Gain Is Forecast, Not Measured - Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGFnbzJBQk55RkUyZS1rZ3A2NU9Gd1dSS3pwaG1sWkhvLTdnbkNSc1F0M1ZaUjJJOEJwZHpDVWZqU1pLSkp1c0VUdF9QelE0YWpyLUFIQlNWMXdNbGtfUHdSdDQybGFYbF9WeGkzR0k2NlhQeWdlcE1KRFhYTFlNcTJZTS1QUlhOYUhHV1NqRy16Zkphby1yWWhqelpuMF9JdmxOZy1PeDZlUXNDemFSWW8xNjZVUVVDTWZRYkY0a2xZVHJEb1lOQ09HejBFaHozcFV0WG9Pb0dtdzZVMmc?oc=5"
@@ -45,6 +45,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

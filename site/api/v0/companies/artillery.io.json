@@ -1,20 +1,20 @@
 {
   "domain": "artillery.io",
   "name": "Artillery",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.0,
+  "score": 9.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "IRGC launches artillery, drone attacks near Marivan - Kurdistan Human Rights Network",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmk4SVhZYWpGMW1nWmhtUy1mY0ZKN2M4OW0tTXhQQ3k4ZFA2SHJBWGJIc19UOGxuUjlMT0RVcmIzY00wUFc4alBXdk9oVm5RR1VjMDYtd1FOeXF0YkZKemZ3dG9kaFlIWmN5NzlWb3F0WlZ2cGxPME50RFVpTk91Zi14YzJsN3NBNHNKMUFQMUk2MzVRbnlrN3dSTjlTRW9HTXNWQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "IRGC launches artillery, drone attacks on mountains near Mariwan: Rights group - Rudaw",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uUmNTRU1lb1VQTGdYMFNOZ2VGQm0wTVRERjhZTjU3cDN1V1R0Sjh5WDk0elVyU2ZEY0g3ZTRicDNqZmNNQUJfSkNfbVFKejRwekQ5LXpKQWxrVlRaeTB3Z3hETQ?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,20 +1,20 @@
 {
   "domain": "atlascard.com",
   "name": "Atlas",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 20.1,
+  "score": 19.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "The Human Protein Atlas Launches Version 26 - Technology Networks",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR1lySTA1TDZMUnpCejZsMGhrRjREd2huYVBLUGVJZUx0RzJsV0lBMnpOZm9GSjNNV3RYejRaYzZtS3VXZXFzNDVwRlR3eVZXX29sWmF6RFltcHAzMk1MYWI1WFRlZXdpVXhLWlQ1VUFNWkZXNEZpT2FNOUpiandTOUM2djdaelBBbGJwTjVPcVY5WVlVbV9pcw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Chieftec Launches ATLAS BA-30B-OP Workstation Case - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaS1QR0dtd3JlbkhWTGRpUUYzbDhvR2hfMmlwOWl1RFNIbWQtRzF1a2hldHVKVXIyamZTWEo3eEsyV0ZRVFpWUTg0WUdNQ01vLVBNd29IelJNM3hDOFFJVWpvaWo1WWg0azFETEQ0MUhuanB6OUNNTG1OYm5xaVU3RUtITmw4bGtyelROSG9B0gGTAUFVX3lxTE9adDV2VUIzUTB0T3V4NHhvU1lVT0cyMjItTEdKWVN3dUcwSW52dVlVc2ZkeGFWb2tsV1J3bGZfODBxOWJ0aGJWWDNyZ0FyVlVXTXpLU3FCM3RRZ1AwTjlxNkFFczh2R3ZYWGE5eGlmcTdmYkxiTUZ5VlE0SHdLQ3lickl5YWpWbEZBLWstbHpMSjJNbw?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Atlas Bio launches with $12.5M to eliminate animal testing and simulate Phase 2 trials - European Biotechnology Magazine",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaG9HSEF1Q3NhdS1FYzBLazhUbk9KTDZFeDFGVzRjME9XZDVBc0tYYzR0WHVJOWtkMjREcEM3SkMzQzZ6OEVGOU5xc0tZQkNFZnEtNWF6cXFONHpNT1k0NjFPZGlvejR6b3NNR0c3SHBKOEtHd0xFYS1hQWFrVVJwaE41SHVqVTZlUlNZQ0w3SzVEUXFxM3F1d0w1Q2RPQnFTckExbnVFdTVsVUVzNUF2MmV5M2ZZVmZkd2FwcnRoOENYSjRHeXl3eWQzazBCUQ?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

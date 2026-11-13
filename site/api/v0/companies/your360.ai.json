@@ -1,13 +1,13 @@
 {
   "domain": "your360.ai",
   "name": "Your360 AI",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.3,
+  "score": 10.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.3,
+      "contribution": 10.2,
       "occurred_at": "2026-07-20",
       "summary": "Form D: $2,000,000 offering, $1,400,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2145956/000214595626000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002145956",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

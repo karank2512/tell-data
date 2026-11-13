@@ -1,13 +1,13 @@
 {
   "domain": "startcherry.com",
   "name": "Cherry",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.6,
+  "score": 14.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-11",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNktqMWZ4cThwUVpDdXRrZ0t5Y2NKS0tTSEU3b2ZJUkJJb1h1UGhlODRRU084LTRaZDVkazNEdnRBSlUtX3A5N2pDZVJJTnc4aktyTlU0S3REMjNpN19oMDYyb2pMeGtLUVFiX1I3TjBvUXBTSnJWbU0yWElUbko4VXdDRUw0ZmxlX2xLb0VfNXlVTHhNX2x0bmczZVlxeTFTM0t2My1lbG1tRlhSc1lQc21IR1BOYXpaXzYwVFlZdTFTQ201N0doREpVVEVjSUNxQVZNaDNyeXE1MElUSkE?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-08",
       "summary": "Introducing: Glashütte Original's “Cherry Blossom” Senator Meissen Is In Full Bloom This Fall - Hodinkee",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMklWYzBwb0RsWENqWmdpb3lUMTZPZWk2V3dwMUxYYVFxcmdCWmE4ejk0TVVzQjBXRjJPQ0ZCZjM5RUVaeVBVbGkzWXRWQzhyMEFnVV9SMmZMazZrVEpWQ0JEZ2xfT1I4a25jc1FjRzVvZlpnWWtQcFdzMWkxNjVRVDVRRElJN1JmYnZUaHZCVHROSUFJU1FkeWpzOW9ZaDc4NDllTHA0Uk9zc29KQ2c2MA?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

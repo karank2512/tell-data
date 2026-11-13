@@ -1,10 +1,17 @@
 {
   "domain": "getcoach.com",
   "name": "COACH",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.2,
+  "score": 17.0,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "Manchester United hires [person] as its new head coach, US set to begin search for replacement",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEN3VWczMjZyTV91eVBFNmdmb1Z5djN0TndQNUR2aEhpNFpUeUt3Q3BfVHVlTko4TjdIemJUN0JTY240dkhUbndyQlZqRDJZZ3d2Q3hPLUEzU09mY0p5SFpTTHNPb3hRU04tMk14ZFNPdmNSVnByazdhelpvSHJBaDNycHN6WkZ1V0Y4SGhB?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
@@ -28,7 +35,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "Rowing hires [person] as assistant coach",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUW11WnFsbEUyN1pTb3EwOTFmNDhFdjNaSEhFWnpab1MwWHExcjN0b0tveV95bmRIeVBPMFBOd05fZGE5Vko4Z05UOVdxaHpZYmlYZTNIMXltcDhob2lMblVBNENTVmJsSWN4bDFPemd0TXBfempMWlJkRDhvLTFfbzNZNFV6ZDg2Z21nT3EtX1ZRZw?oc=5"
@@ -42,7 +49,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-22",
       "summary": "[person] Joins Track and [person] as Assistant Coach - University of California, [person]",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0tSTHhUbDczLWJwVEVjMHRsU3ZwcjFBLVJHOU1QN1Y4SWVyUnlCcWRQU1c4NUhmTGRYMjJqN19IMG9KN01obzhDaXJ5Q3AyWkFDOGJ4XzBSRXU5dldvWDNudEtTUWpvcmZMYmxOWTlnMVBaWDVSb2cxRloyYlpYdFY0aldoTUwycWlqTDFLZEd5MjY0cHlNZTFVdkVzQ2xmajVwd0V0RTZvTXo5QjNZNFE0WlR2UG4xc3lsNHlR?oc=5"
@@ -83,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

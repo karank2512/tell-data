@@ -1,13 +1,20 @@
 {
   "domain": "laminar.sh",
   "name": "Laminar",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 2.0,
+  "score": 3.9,
   "contributions": [
     {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "[person] joins Rockwell Automation PartnerNetwork as technology partner",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSy1iazV5T2FNaFU3OGhGSXROcHhOVkhuU3BDQWJCdE1wX0JuaWswUWVnSXU4Y0dqVXNmZ3VaclRUY1g1SVg0Sl9QSGdXWUlHYko0a1hqcC1NaWR5cUdZcTVOMkE5UGk5alREVEFwSk1xaGdEa1hKU1lVOFI4bko4Rm5JbWNCenpVNkdWakhrUm5XWk9DM0U4OGdoSFF6WloyYTRzc2ZjNXFIMGlZNTRTeWJOMEdCdjV0MjBIcUJQNDhobVFsaENfYQ?oc=5"
+    },
+    {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Laminar Research Releases X-Plane 12.4.4 Beta 5 - ThresholdX",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6N1JMQmJKYWJZOGRGNG04S3FFOUFnU2w5ejg2M2tTTkdMSzl1UmtWTWRLbkJkV1I2X1dPcjNzbEdqTTNYMEM1Vlk5S2dlUzM2UmVUbWRFYllOSFgxRXplbDMxNkJkLTVTeXM1QmZtME0xX2k1bkFEQnQ4MA?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

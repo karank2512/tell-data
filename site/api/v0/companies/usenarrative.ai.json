@@ -1,13 +1,13 @@
 {
   "domain": "usenarrative.ai",
   "name": "Narrative",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.9,
+  "score": 14.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-01",
       "summary": "[person] Joins S&P SmallCap 600 As Undervalued Narrative Faces A Fresh Test",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQlhqM3BzTTR3MC1iYlZ1dHhQVU9tRDFFWTdyLXlHSjNlQzdxUUhrVmlPNFBOM01mLWNldktHM0pCZXA2TU8ycUxIVWF3OEppMkpNQWxoUUp2YmpESU9WWVNBSnR5NWZVcl8tMDd1VFZZVWZMM21pa19MemRGTzAwSTQtc1hyeXVtVTI1VWFpNU1wenExeTYzOE16MWhHYkVoTXVMWG9PbXMwQWExWUlSSmstSzVjUVgtT3JDTERpSDlMM0Q1dG13NUYyeGhrZFdG0gHWAUFVX3lxTE4zbzlOWjhlM3luLURfZ0RQOWNVZ2FqcUR6QllmSk56VEs3QkdudFByc1dZOEk2LUZkZHlJNUVLYlRJVXNURHBkSjNVV3lMY2lmTGNLRjJQbXBHb1BrQUFLWU5wUDhrb1pveFg2RVBkSDA2eHFsSkdkcjBSdWUwNjlUOWRLcWhLb253SUc3M1B1djVYX21zZkNiaU1vejNjWFZxTXVkQ2FUdnd3dFdReks1N2laVENFWGdaOGg1MDcxWnpKV0xYT1ZjaDZaYVF2bHg5ajJ3UkE?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Blackbird.AI Launches 'RAV3N Radar,' Bringing Agentic Narrative Intelligence to Slack to Protect Organizations and Executives from Narrative Attacks - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZ0JDRWpQN3Jza25mc0xhSjM3bU1laTVUb3VmMGJXVGIzcGxHb3VpTFV1V0N0ejJ2cEM3dUdKZENnaHFCSFFkdlNDc0RZV2ZUYU5hMlYxTUlhdTBTc1lDWWV6bk82ajlvOVBWXzNKanpjUUQ1dXFxd3dlb1JwX0ZhS09iSzNpcXpXYUxyWTBHRWVxbllnNHhVaVYydV9QM2VwbF92eklCMWRDT2tJcWZtNWRuUW01elY3a1lGOXJDb1AwbVFtTVIyVzVoUHBKMm9uTkZ3UTdvcEdIQkxpOGVMclp2U1NycVI2VnVOdWcxeDF1ejY1V1hWZ2t2ZU40VlRMM0FreUI3dmVidjI4R3owREs3WlFqeUxyMVFpMzd4X1A5UzFKX3ow?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "uselotus.io",
   "name": "Lotus",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 19.6,
+  "score": 19.3,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Horse Powertrain unveils W40 V8 engine for next-gen Lotus supercar - Carmag South Africa",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRzIxNzNuaC1IQ0UwZ0pSa2lGNkw5NnVSMldrakFQaDJES0NfbG5Jd2JUWHJSb0xubkNiR1Y1MEoxVXlIc3NxR21pNEotSUJ0ZlhJV09pRVYzakNvY3ZUSEhab3dMTEZhTEM5c0lQMmMyVVlsRkVscGw0WFRrMV9vSkw4ck9iZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Renault-Geely’s Horse unveils V-8 for Lotus supercar aimed at Ferrari, Lamborghini - Automotive News",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSbHNFY3RLRVZmenVKT0tEal8yaHBBbWtHMlE4Uy1jeU1jS1JWaHBkSTRnbXk3SzVhcVpnaFZQSjg5ZlVZam5PTk0xRWo5dGhzQlZBOHYtaF84VTFaWjV3TDhQV215VG1FWXh5NG1Wa1ZtRVhW?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Lotus Unveils 2027 Winter Tour With Michael Wilbur Of Moon Hooch - Live For Live Music",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZHNXUzlTOHZtTFppUjJicVRtRmthaFdaRWpuWktJZlZEeERDZWlQVXdnYk8wZmJ2eFBuNElIQTFsM2tVeXVWckQ3NVdqWTlBVDc5djFyVW5oNE5kTzZreFBfNk14OWM0d29La084UkdrR3JnaDMyWnRVb1VhSHJmMmJDT0FwTmFjcjZpWl9CNWZDZ0hodUFScVJjWEJ0QThB?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

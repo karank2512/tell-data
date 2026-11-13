@@ -1,0 +1,25 @@
+{
+  "domain": "constellation.space",
+  "name": "Constellation Space",
+  "as_of": "2026-11-13",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Constellation Space launches its platform for managing fleets of satellites with AI tools - GeekWire",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORTV0QUIzNUdGaHFxYWZyYXdWZHF1bG9MbUNTbS1HZWl6TXRqWGdXZkFXbUFZQVhodlpPdEtxeWRHYjluNjl2UEVGbjVaRDNDLThfaGNja2FQVnpWRldrakoyNld0WFkyYnZ4T004a2lrc0ZVVFVvZkhndmNnX3p3Umt3ajFrS2x0YUE?oc=5"
+    }
+  ],
+  "open_postings": 4,
+  "long_open_roles": 3,
+  "sources": {
+    "ats": "ashby:constellationspace",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

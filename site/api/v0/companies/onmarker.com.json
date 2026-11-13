@@ -1,9 +1,9 @@
 {
   "domain": "onmarker.com",
   "name": "Marker",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 20.1,
+  "score": 19.8,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Tribal leadership unveils new City of Cambridge historic marker - 47abc - WMDT",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDNqeWwzekt2ZHh4dElvSE5zMEx2REc0VDk4RERtZVAxRkVEckIyb1V5Y3c1dUR4ZmhTalRyeTR3Qmk0MnNfR3RkVFJKamJCdzRVOHZKV3prS1VncTlibmZvUU91UUNjZUVNS3hMaTlMaFk5MzMxVWl4Z1BOTnJER1J6QU95RXhxdnRCaHBfSDBxVVdvOFUyTg?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Brothertown Indian Nation unveils new state historical marker - Fond du Lac Reporter",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS3pZXzF4UU52VmJLWTR5eWJ5RVVBTE5waHFFRGZ4Y1U1dUU2OWtoWmJZbnNNVVVldkRtcFV1NjZUcHFyN3RJaGFMUW96M1p1MjhXQ0pqVERULW1EZ1oxZTJxRlBKdjR2N1YzQ3d1LVhRVS1uTnFGeTFMYko1N2x5UWQ5d0RGQUIwb2VYUVdTWEtuMWt3OTJLTVp6OWxneDdlN0ZqVm9POHFtS2JqbGVZNnp3ZC00SF9sYWl2OVFEOVpXM1hyNG1reG9kWWl0ZVBIR3duWlBwNkRWc2E0VmNwTnZPdG5Mdw?oc=5"
@@ -126,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "‘Governors’ Park’ debuts on S-curve; planned state marker tardy - The North Platte Telegraph",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMlQ4YzJPNFhqbFlVSThSNUZyNHhIOHJSRW5QanBrdnQzbDVnQVlrczg4NzZOYmN0WXBodG83SXNPM2RVR3RGZEp3Q25LN2lHVmo5RHN6NTlmRW1DRGdDOHRqSWJHc1Y2Qm05eFNpTnlfRzE1ZThfbTFiY09VR2NZOTFxV01oR3JNMFE?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

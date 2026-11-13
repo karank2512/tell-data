@@ -1,9 +1,9 @@
 {
   "domain": "capture.so",
   "name": "Capture",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.4,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Pig Brig® Trap Systems Introduces New Pro Trap System for Whole-Sounder Capture - Kitsap Sun",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZXZHZU4zeW1IVzVIY29zT01lb19HanJEblpybnBSdmNFaGh3b09xZkVDOVgyb21PRGZVc0RmUkRqU3dzaS1DME5EcG5IYW5udjdIaEh3ZFJwQTZkNkZnTG5JYVZSVlVpUUFPeE5HTFM3c2h5clg0VmF5WnpVdE9UZ1VMR3BPOXJhZFZ3bWRXUGpfMnItOWsxbG53RENiVXJpekZzcklkbTRNTjc5NHJic25FRXZ5cjIwNEJJNzBOb2toVU94cGVrckJiZDI?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,10 +1,24 @@
 {
   "domain": "type.ai",
   "name": "Type",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.3,
+  "score": 17.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Takeda Launches First Orexin Agonist for Narcolepsy Type 1 in U.S. - Contract Pharma",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1RrWWVJRzB1Y3J1Y2lYb21vTTZsT2x3NllTa1ZTazF3ckJRTEdDbzFvWEtzWTVYb1NSVkM3NGQzQXhKWE5wUWdjczYwQ2hMeDIwUDN6cVNCRzltSzZPY0dlWUFaQmxuTklyY0FDRU5idnp6cWNRUkZjRnEyRFoxczE5RXdnMThBQkFqZDVIbnVwUlBOUFloSThjcjVLMU9EQkhaaFM4QjM2ZnZ1azdjeQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Confluent unveils new type of data architecture to keep business context current for AI agents - FutureCIO",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHd3UTNuOVRBM0psZlVSM0IxOW92SlRfeGFoVG1LSzJsOHZDRmFHOXBMaWJZU3RBcVVmRUh3MElHYms1LXc1NmZ2WEliR0p4UllEZkJuMGVQdUR2ZGhDbmY4ZEZwVFkxalUtZUhlMnoyNUFVUm5kQV9ZWVYzQXE5cmxjWEJTaTI4dG5WMlRqbHNsbV9JNWFhTFdQUm8wN09QV0IwdjZjSS1rQ0dTR0Q1RUxEcHkwXzZ0emc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -28,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "CELSET Launches SOLTOX, a Korean Botulinum Toxin Type A Brand, for International Markets - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGN1cjJiLWtrTUEwQTNabFBVMS1FYnh4V3hQQlVVanVVRE95bUpsc3hickxieklRaWg3WU9ZOTRJMzk3ZGpWR0F2LVMzVnloYmJkT052NTRPcDdpRFBuSU5nS0x2OF9RZ2JKa09VZHk2U211cjJocTd0RXZNLUViZHFtdi1VclRrWC00WDE5VzdWMnBvOTRxTmFIZm1ZT2dDZEE?oc=5"
@@ -49,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Takeda’s ORZEYFUL Launches Simultaneously in Japan, China for Narcolepsy Type 1 - Sleep Review",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa2NzRnRPS2xYUVBqd1pVZUpJVWc3Rk1BN0I0Wkp6emtlZWVRMWpXdXZtcE1xc1Fuc0tKSU1sUUQ5dUQyRUc2eUg2aGk2YmpMTjZ5NVN6RlAzeUF1ajZjNndSRl9WaUwxVmxjRm1RSXFmMEZPTi1PQ0M5US1EWnYxVWZXNlA0LUxVa3NIc2liaXl3NlEwZ2JLSFpxSWszamlyTFRPVmhxRGZyYXVDblJ2ODVkRjhnN2pHdlQxcGtQVFU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "P&WC Unveils PT9 Engine with Type Certification in Hand - Aviation International News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVThRa1RnVFBhLVpPbXF1bW9NUnJBN1VlSGd5UW4xVm5LT09ZRHhxXzBlWTZRal8zRjVVeWo4aVN2U1NuSGcyeHRtaC1QV2gtNi01eWFjd2xlcE95N3Z3WTJ3TVVBY0FjcG8tb1hWYjI1TjZUNnBUcHYtSkNobXhQQlhuQkoxVTllVWhUUmlyTHY0WHhCQ1RnQVhQUnctNHNVM0JjMVpHN3ctQQ?oc=5"
@@ -104,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

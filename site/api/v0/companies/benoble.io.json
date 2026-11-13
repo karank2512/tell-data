@@ -1,20 +1,20 @@
 {
   "domain": "benoble.io",
   "name": "Noble",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 21.5,
+  "score": 21.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-10",
       "summary": "Manasquan Bank Appoints [person] Director of Board",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnVkamRxNXd3VjJ4UTkwR0U0Y1d2SE1oUHVDSGxPeXlxWXdQa3Y5Z09SWE8wWEFhVWR1dnBlaG5uQWtnM1d5LU5OVUtEUDAyRkZsTUxkQllDVXB2UlZYYng0bi1TdUZETjNPcktCeGU5VGt5QXJIczBTNGhMNU81S1JqQ3Y4bzkwS0l0cE5kVDY0TlVUMjB1N1JRZw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-10",
       "summary": "Manasquan Bank Appoints [person] as Lead Director",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZW9YVm1VZ1JXU0lUZE5GdnRXWmp4VHNURGRjYUU5VnJvOWlfMGVGYnN0M2hiSWJrTTN2ZXlNNnlpZjdkOFRDSVhXdEhBZTBjTkxZQXV1ZExGZE9uUnJibzFmeE95VUhBbGtidUZWcDhpWWFfWWJwdVhxdDN1SzV1QUhZdmgtcWFkbTBz?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

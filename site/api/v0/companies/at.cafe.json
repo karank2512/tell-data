@@ -1,10 +1,17 @@
 {
   "domain": "at.cafe",
   "name": "Café",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.2,
+  "score": 17.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Museum at UT Austin unveils French café from acclaimed restaurant team - CultureMap Dallas",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTNnTXpKeEFDWFJDd0d6NVFkcUJ1Z1dwblZlSTY5dWs2MVVXaFBUOHI0UExiQm5kbkZjVzFPeFh6ZUhsY2R5NFBaRkhrX2Q2Mzhxa0RwUmRCY2xFLVZnM3h0X1RPYnJqNUNJTEZpcFlzdnYzWE4zUWRVVTRFTXdLcXJB?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -84,21 +91,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Cat café in Gardiner launches nonprofit rescue, seeks donations - WABI",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVAyTy1HSVo1U2ZERUNuSmdubEVQemZPejhkU0NyQVZKLXIwSnVMYVVUME5HaXRYZnFJNHAtVF9wNUxjb0VyYkpwc1QzWWZhQjJRV2lycDdBeThLSGJfc0xxNEZILXJ4VC1KaUp2TmNEVG53SlJqRFRWbjk3VXQ5REFfRXNLZHAyOW9NNjhhT1BUeVhw0gGoAUFVX3lxTE1UV2tPVVpBaHQyNmZlYzhPalNDRTlmZlBRa2VwWTdlYkVFQklUUGs1dzJhMmNjdE5XallEcFdMTno3WVZzOEhWbHpsLWQ5TjZGRHVjWm5Vc0JlNHhmX0hlQUdqandTS2p1OFpTeDVNajdxRFNSdmZaVXRfVXNKVTZrVDdLSmwyaG4yZElndXk5eUZXd3VacmpNdXZkUzF4emhuWFdJTjZ5bg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Cat café in Gardiner launches nonprofit rescue, seeks donations - WABI",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ2hNeGFEX2k0Uk54QlRWRUo0RGlqSk5Ca3pkd0dZRnNnVl80NXh6bVB1ZnQ5RjFKZE0xVW9NM3RoZDNCM1pEUXpvY3UxMEp5b09tUVozVVdSQllDSWxOS0lKbEJlQ3FILUxBNWhpWlNMMVBMaFJEaWRwLUk4MzFnWTZzVjEyUll0Qy1wT25GRWR6cjlMeGNMLXJwZGo?oc=5"
     },
     {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-20",
       "summary": "Santos Café & Grill Expands to Capitol Hill With Second Denver Location - WhatNow",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHFudUZPemEtSElzMF9mS1JDNE5WSnU4VmljdWFabWJrc25TU1RuV1J6UGR3UWhNMU1hdFI0MVhfRGVrQ3NLR1FFZlppcktuM25fYXBveDZsakxSTnRpUG5kd2lLcjVwMnpKQ3l5a0h2WVhBSnJPV0Q3MkFNelVQQzF3VlNWYVlmdmNwRVF6VzEtMGl3TVVQZmpWYXdGam4xcV8zY3g3YnZ4UlAyd1E?oc=5"
@@ -118,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

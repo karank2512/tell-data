@@ -1,9 +1,9 @@
 {
   "domain": "vapi.ai",
   "name": "Vapi",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.1,
+  "score": 3.0,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Safexpress Launches Ultra-Modern Logistics Park in Vapi, Gujarat - Motorindia",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3RNYml1bDdqbEp4R0JRaEJOcnAzZkYtOGtHMkZkSnhscEMzRndXNTRQY3A4QUdHZnUxcEVxV3Y0YzZyeWlFMXlUSGd2OEFpNHVGQTlzdm1MeGstWHphcG9rM3AzZk1Ra18yUXhUSTltUXZfSk0wRUo2NVJueFZTdldwWGlBTFg0WUdFV0twRzJMR0ltM3ltV0N6MVE?oc=5"
@@ -47,6 +47,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

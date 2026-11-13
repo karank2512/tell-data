@@ -1,9 +1,9 @@
 {
   "domain": "atrium.co",
   "name": "Atrium",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.3,
+  "score": 9.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-21",
       "summary": "Lion Copper Corp. Finalizes Convertible Debenture Restructuring and Appoints [person] for Equity Coverage Post-Nasdaq Listing",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR2NtTUFueDN4dXFiMEtCdWRNRGdOYkM1WkU5ZUh2ZGhabDByQUxCaHlTLTFReTJETW9LTUNsOEI2b2pTUGYtY3Z0RWtmZTZrUUkzdFVLZDFJNy1aRlJXamcxNzJSR0hWNHZmUW40bEpuR052SWUxa25EemtxcVF1Z2dkS1BfNGxLZGNvMFZQZlQxaGVnNjgtdjVqYUV2bkhNZHFaS2lXVDN3V0hPZ0Z2eldrQjJRclhoSS1VM0pxUGZ0aVpkbVZPei02WUVZT0hwcjZRRXlORUFiN1lhT2Z2MHBrZzIzNk5ERUI3c3ZZNXVtQVJXRUZRLVZkM1hNSGcweHM3NnJhZ3BNZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Speedway Children's Charities Launches Fourth Annual Trees of Hope Campaign at Speedway Christmas Presented by Atrium Health - Charlotte Motor Speedway",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaEZxZHdBV2s4Q1BSYVFsUjU5aWNPcC1peG5VTXgxUnZmbUVVSjJMdFNpWldhOFQwdHByMW1nR1RnUmhhOXZKcWpVWDhORUpnMTBNTVZFNlk3cktBSmlBUmFsd3FfRzVMckpXdzlrdHVocmJJQUlwTVVsVVZIRWFYODBuLW5LeU9naEt0MHRIakppT01lS09QTzFfTW85b3d1Rm1LQ01DZ0NtdHFMSVIzNW0xbG81NkpYMTZObDRTNzlzMDI2V1NHYVNOY3VUM0J0SVJHV3VreFVUaDZDMU9XZ3FJUnFJekFOT1BNcHdELWdKVjZaYzZkUGlWdjE3Zw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "A2D Sound releases Atrium, a 3D mixing plugin for stereo, at $69 - Bedroom Producers Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ibmwwcTA5VjZGRU1sNE9jNWZwMFZ4QUp5YmpjUms5cmRPMVpsbEVDQjNXakhJZnRnMDZFdEY2UlVlVlg3Unk1Q0RBdDl3U0hOMjkzYzV6SEYtZHhqdEN5aFZuTEF2dw?oc=5"
     },
     {
       "type": "launch",
@@ -35,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Disney Stays on the Orlando Magic Jerseys as the Team Unveils a Reimagined Disney Atrium - The Main Street Mouse",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNajl2SVRYRy1tLVJ2ekRNUTh0b2c1TUpWTlB2cHhSZ1M3dVNnalQ3LUMzZEZ2cjJqMUQ5bkhQLUV2TjhCYmFJYmhPRjNwWVBTc1BEQ3puODlzWnlKLUI0bS1FVDdBNDdWTmJ0SUY3cEl4aUV6OHZZVklBOS10LVNnd0ZKbjYtWEFjQkZ1Qlo5Q2U0eFBhQjNDUUJwSlQyOWk2MHh6N1ZwME44cHRsakZaSmpBUG4zQ09Wd2c4WG9id1JmT1pmVVVCcXYxRGJTT3lzdHRic0R5Uk1VM2MxNFo2Nnl6VQ?oc=5"
@@ -48,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

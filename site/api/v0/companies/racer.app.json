@@ -1,13 +1,20 @@
 {
   "domain": "racer.app",
   "name": "Racer",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.1,
   "contributions": [
     {
-      "type": "leadership",
+      "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Jaguar unveils 600 kW Formula E racer with F1-beating acceleration - The Driven",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazY1eTk5VG9wOGpzTDVjRjJrX0RWd2htTkhnQVZUOWd3TmpqYTBBczlmeU1uUDNZT2otMU5CLVZjS1BrQTFYajhzMVZ3VmpRQThHdFQ2TXdpbVJPVU1XZm9YZ2lubThoeVlEMmVreTNBT1ZKN0tQTGRqTmZ6MWt3TVJpR3hSOU5wdS1lMHhzc1gtbVk5RzVrcmVRUkhkLURL?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "promotes [person]",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWt2MHo0NWpaMHgySFVuX3ZHaVg1c1czMnEyeWVTYkQ1RDdBcmhLVE45YzhrUXB4N0NoQnZXTGVPbzNQVkxzVElsQXdPUGJ1VDk3VjcwVFN0b3FNMW95eklta3FIZUQzZFF3UGtkTlJLMl8wV011ZV9RbzVXeHl3R1FVMDRVd21NZmFrQ0RRb1VVUldGRXg4ZERDank?oc=5"
@@ -27,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

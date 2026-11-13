@@ -1,9 +1,9 @@
 {
   "domain": "phoenix.ca",
   "name": "Phoenix",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Phoenix launches new $2 rideshare service in limited areas of the city - KJZZ",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1c2d3ctWDRoZnpsTWM5d1lHYnNDZER1a1JlRTJBRGJoT1UtN0syODM4WG5uYWlmek1lTUpLdzdibWpNcXdVY1pHQm5ZNXNybVI4V3NtUTM1bnRETHBUM1FRN1l4NE54ZTdRVzNYdVNQN19ucVB0OWxHTnNWYkh0T0xCVWExc0ZJaVpTVERYVlVINTh2Mm1GSFJqSFpoN28wUW55MzJLTjFaakhIaDJN?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

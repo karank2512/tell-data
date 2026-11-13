@@ -1,9 +1,9 @@
 {
   "domain": "insightbrowser.com",
   "name": "Insight",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 33.3,
+  "score": 32.9,
   "contributions": [
     {
       "type": "leadership",
@@ -21,21 +21,21 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlBEWDB3YVhzaWxvNnR6MDlmVHRtSHMyRWxQWTBpNnUxZEk2MUFaRTdzRC1YbmdjM0xXYzY4VC1fMGd3QlQ4MHNsZzE2UjdtQk5Sb2JUNmw1UTZ3WHJjNlRocXlMTjRIYklZTW1XWElKWlpnM09oVUF4U1FsVFBMb2hrekpNa3lndFZwX25DYkJQMVJFenJoNE5VbUJaWGFjYjFGNGg5TWhmNFE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "LA Phil Unveils 2026-27 Insight Projects - BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmdSZWFGRVN1Vmkyd1ltMmwza3IzUnhhMnhISWw3LXJ0SWl0ZVRrbTZ6djJYMldIS2ozZGtxbVA1MlphLU12cXp0NHQ3WlE2UDcyUUMxOUd0TExXdUhFSVh0ZEFVdVR5MU42SU9haC1NVlI2VF9KX2UwNWN1T2VYYTVMTnQ4SzdNZjNjYll6ZWRJN1kwYmxKaHR4TDJjaGst?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "MCP Insight launches updated MCP SHIELD anti-fraud tool - The Paypers",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSjJoRTFpSFRMcGZrbXgxR0RJTDNVbTlMS3dLNzYzcWdlTDZmVVVpWjVCZWtNMmgzTlB2WnFEQVh1MnlfbWZSWlVBQWJ0dkJmZFhPZTlISTNHeGNUZ05HZzZhbTV3NzRZRTYtUTR0M1FzalNIOTZpZXVJSlNFdHNJZEZsYjNPWFBBNXdhQk1JZ3R6eHdIOXl2MWtoRkJFYWQ2YmozaXo4R2Q?oc=5"
@@ -119,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "AFPI Releases Expert Insight on Updating the Home Sale Tax Exclusion to Unlock Housing Supply - americafirstpolicy.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVktvRVhNQ0o5ekl0NDhka0J5aEJWSGRlYVlPaVZjT280dTJhRnJ2X2taVUxfSm1LNU4xQWNKR1kyMmNNTWplemtQN3BzVUNSa2NhX19LQTRrYnpQeVh5X1RjS1VYS25sdGNFVzFQU0RkeVhwV25LcDRGNmZPS2pBQW9abWZNSXpyMlptVlp5OC1aYjVoM0RqclpzdVRBLXp2U3B6N1NhT1JadlZMVW1lQ0ZobzB1TUJRRGRzUUZ5TUpwVkxBdzZjb2RXX0c?oc=5"
@@ -209,6 +209,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

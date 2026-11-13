@@ -1,13 +1,13 @@
 {
   "domain": "hedgespecialty.com",
   "name": "Hedge",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.1,
+  "score": 9.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Cambridge endowment launches sustainability principles for hedge fund managers - Responsible Investor",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ0dEblZwWU9MbjdoTHRxcEFIRDhKaVdsMjhFem5YdWg4RzBKY2preWtUem0xQ1BBX0cxYlp2dGw2N1dmWUZ4Q2FLQ1BnV1pJYWJlZUE1Z3ZCZi1KOWJEQkR1cXpicl91WnhXcjRjR1FSd003MUtMbzA4SUJvT1VFb1BlZW1sVjloR090N1A4cnhTbGllZ0t4eGpXYUFtMUtjdG5fTHUyMU1pbEF4SEJSa0FBU0lqeTg?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

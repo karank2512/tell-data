@@ -1,10 +1,45 @@
 {
   "domain": "andtiny.com",
   "name": "Tiny",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.7,
+  "score": 11.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Tiny Airport, Big Impact: Dane County airport launches first master plan update since 1993 - WKOW",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNTR4Z29ueDhmZHo1UEM5S2VnQ2IxTnRGZmMwT3VkR3dWbEtHaTd4Mk05ZmhKQVdkNXF2SERSdnR6djJGY2RiNmtKY191V3Aya2pxaEhUeUV0VUs2WWxTRTA3Ym5uSHBabWV3ZlZ6a0d4b2JPVGFUWVl5V1gzYWUzMmhlOHRVQ3hOekM1MzR2VW82SGtlMWNfek4wOW45TUxtTThDM2pkLXI3VkQ1LXVyWVhIXzFRTHdodkdvN0ZyR2Yya2hpMllYSGNuMURKRGxmeGU3VXVZQUZDUmNRNmdhWkZ4M2QzRnlfQVBhbWVRMmVjdnQxVFJB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Tiny Health launches a biological age score for the gut - Longevity.Technology",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0w5NmktcEdWTEpKOUlsUEVtaGYwYjc3eEd4SnVtLTQxWHdsSzVhWlNhaURKd2Q1RnBNR3V0NU9RcmhnWDBvdnJ3cTJEM0djM21XLS0yamZKZkdUUDVyM3dsOG43X2tGRzd4eVRFQk1WU1Z6Nl9XWE5nUENJak8xR2hzZnVIMThUREZWYWRnbUlXeFho?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "THURSDAY AT 10: Tiny Airport, Big Impact: Dane County airport launches first master plan update since 1993 - WKOW",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSmFCM1JkUldXVjFYQzR3MmMwb2dlbUozb3lySWxqbkVQVHhPdm9STS1mbmhXX1RQcGpPZHFZcFN3MWszckZvam5tcEtQTFhMSjZVeXRhNzFOcEoxWmI2NE5nNV9rY0tuZndhWWdoZDdMTzFrdW83SWgxdDRORVdGR0tWX2d1dXlkNXdYVHdLYVN4WHl5Zy1MbmM0ZHl0OWtkd2tpSTJlLS1TR1kxa2xLaE9zdndDNHpzdmtzdWp5eHp6MVJTS2lGX21IVmJudnRTN2ZuQ29zVjBqNldpZjJHNDBuTVM3TWhMejBDWFJiZFM4ZVRKMjVzNFNtNEVPNXp2SlhwQVY1Mkdva3h5?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Tiny Onion Launches Publishing Imprint - Publishers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1c5N3BlWXhqM05tbkRSRVU3TXV0SzRnakFUNGRDNWszT2haMW9Zc183MDI5bHRaM3B5clh5a3VvMXJKeFg5dXdvci02MXUxVElIXzBubDBFanhGYVpsRHhKNDU2bjNTZ2FZOGgwZ2NjZ2ZwdzBrOXRxZ2pDYWpNbVJkeW1aUFVka3gyX1JoMWJNTzdfbDF3Uzc0SUZCeGh5QnhzRTFJVVRGYkc2RV9Ea0RXVjNKc0tULURUMUxhbVZlQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "James Tynion IV's Tiny Onion Launches Own Publisher, Crying Eye Press - Bleeding Cool News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR2pFYjNGdDdYVkVOS2xmMEczRkhwS2xTaEpBTV8tXzdET05CWmc2MV81UWxIeUUxMzI1UUZRa3lYdlNGNUtxdjltbTZEZGwxUUthMTBmVUFZbTJKTmpUQVRsRVlkdFFPWW1HSDB4LVRvVFJaVzNtcjUwMmc3UnNrLVVYS2dyZWVaYlRNUEY1c29SMjVTUVdUb05tRmlsNFFOaVE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -34,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

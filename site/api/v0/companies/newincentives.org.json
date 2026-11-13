@@ -1,9 +1,9 @@
 {
   "domain": "newincentives.org",
   "name": "New Incentives",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.9,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Queensland Rail rolls out new incentives for freight operators - Rail Express",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNElWZWxkczVIN3E0eE9pUF9uTWQteGk3MzFBY3Rab3Bnd1ZZbno5Z0s3ZDNPbnEyY3FmcmxuSS10Mm5wX3NtWHNGTE9JbjNqRkNWWnA4STZ4akJ5RFU5ckFlbFhmVTVzbC1LU2ZGVjREc3Q3czE4VFlydDhYLWlTVXowcmJraGVTSmhkY0FaXzZuLVhSenExSXFB?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

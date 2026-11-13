@@ -1,9 +1,9 @@
 {
   "domain": "thanksroger.com",
   "name": "ROGER",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.7,
+  "score": 9.5,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Navantia Launches Second F110 Frigate ‘Roger de Lauria’ Four Months Ahead of Schedule - Naval News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYVl3SGpYNGJGcTZmMXVGSUFrSzFMNW9ZdktrQnkzT0dLTVMyNjNjS3RzazhTeU5nLWdGQU5VVWdHNUhfcENBWWpmV1owVkg5V2VxNTczMTE0UTNWd3h5MjhtLUFPaF9xMDgtRHRUS1YtcEVWS3B4MlU3QkxRcHdlTFZmRTNhdzZUaGNjWVFkNGt0ZEc1R0ZSU1hOeU0wOTItM2ExZzQyQVZwOGd4OFAwTEtaQlRVU21ZSVRKWXQ0ZlNBd0ZqNmNuTg?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Phonak Launches Roger On Sphere, an AI-Powered Remote Microphone with Real-Time Speech Separation - The Hearing Review",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOX0JkNDFReXJaMWdkTi0yZ3pCOW0xU2V2bGZiRGppXzhyQncyOG5LYVVMNXg2a2tIeW9QdFAtR0owODBxWHlCZk05WFVSOXhlZ1NmY0lTOUpXdXZGV1pvNU9JaGJHaEZkWHhDTkZtbGdkRDg5OTRrUlE3UDVRQ21WLWs4Nk5NM0EzZ0owdW5tZjdxX3Zxd28xUV9laFlkOU1PQWlpZ1lnb2VkS2VTOEEyVWJRZVJIZTdNbkNUR1NBWTVId3VweVRvdEp5M2kwekdtX3lnTHloNjBobERfLUM2RDE5RDFMZlRnQXg2ZDNfTWF6N1ZEV0drWU5qNjR4ZTFM?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "cashmere.finance",
   "name": "Cashmere",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 13.1,
+  "score": 12.9,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Cashmere Unveils Mountain and CSM Token Roadmap as Goat LP Expands - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNzJrckFOTGN2M1g0NDJMQ0VEcjJRNXNpWWk2bWZaLUd3N2dWc0FyZHBVT1dwV0FyOEllNVFCNTZIQ3F1RU5uenE4a29MeHFYb3NWYkNWekhaZ3k0S3ZUYVA0Q25Tb2xDaWdfaTdBM3E2cm9HeFBGbUYxdTZyYnhqczJn?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-08",
       "summary": "Prada Introduces Re-Cashmere and Re-Wool as Its Next Step in Circular Fashion - Hypebeast",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXZZNXlOVEF1ZnBodjg2eFEzODNMLXFWWjRCUEgxNmN3blJ6ZHU3OXVMVm9VRGVRUEVHYVhmS0dBdEM1dG95V0I0YWtTT0NPQ1RwaWdnVFZzaWtNZ2NreWJfUlN6QUtLaUVDZXFOTVFVeks4ZmdZNW9xOGs2cExkRC1rV2tWdGdPSTBsZ3JNV2FILUVB?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,76 +1,132 @@
 {
   "domain": "embercopilot.ai",
   "name": "Ember",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 76.3,
+  "score": 88.1,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Meta Releases Muse Ember 1.0, a Low-Cost Hosted Model: What Researchers Should Know - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53ZHpKQmdsbmZIVEJlbmFCUGhuMlAwaWlZLXp4dTktOGthTHcxaVcyR1Q1QUJ3d2Ywa2ZyNU9WTlE0Z0pXLWF2UU1Ha0JyUzFIYXg1RVdMWkxtMDRVSWRXbkZXb1pLN3BiYmc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Zuckerberg launches Muse Ember, Meta’s smallest AI model, at Haiku’s price per token - Martin Cid Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPall2X3diSjRjLUZrZWMyX3IxS081cG1PSHZvZWF1RkVHLU1TeUpKdjJYaXpCbm1RcHZFT05wcC1WSGRfZjJUT0JFaDM0ZTJral9KVXpmUEF1ZkZBS256UHh4dlNMTXA1MnpBRTRSdWhJTjNIVGY3Q0hvd3JpWm9NQzdHV1pFTXh1UkVB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Meta Launches Muse Ember: Its Cheapest AI Model Could Transform AI Agents - Kingy AI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiWjRBeVBJc0lvX1hkYkNEV3dqaWkwaHhJcTNwRjh2d3RYRHdROC1NR053Rk54Wk5rZWFYZVhHdElxd0U4RVR1TTBZcWtXeklRUS1nYkYtN0ZvcWQ1emgyRG1GNm43N2RwN2lNTDl5UW0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Meta launches Muse Ember for repetitive AI workloads - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdVZaZThnUjAxQWEyTTdUSjA0d1F1bmZNNUZvRDVjUmhoY3kwNkoxMnlaeHJFQU9fOVo3N2pFQWJ5LXZXSlpBUUVYNzRkWEt1NHJqSU9TaEtrRkZFczNGc3NjQXVxNldiZkZFTHBGcUl0UWxkUkJGWmpmVExZRUw3RFB3eUhqQjA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Meta Launches Muse Ember as Nvidia-Backed Fireworks AI Faces Another Security Breach - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNazM3cUo0dkhpTHA4ZzdFYWRyRS14RlRiSkRST1p5NWdURllYVks0S3o2eDZhaG8yZXFPZGZqNU1LLWVjM2hwM0RrWnRFbkJ2YlNUYU9tRTJFS2RBSUNFZWZhNGhGRjhNbW9zVTdLNTlmeFN2N3UtNGoxVWdjMlZCOHhESTAwemxINDdmeFhTazFodTd3ZnN4azJIdThMVDBhRDhUa1JjYldEektUTlE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Lightweight Reasoning Models: Meta Debuts Muse Ember for Agent Workflows - Trend Hunter",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zRkR4cVVSVGZvX1R5SmN6T3BEaFB6Xy11cGhGSE93TEFObHhvT3hWNV95amU4b3lRTEJaYmVUN1pzUXdpamNJWXl0WGxGY0w4b1cxcVo1QXprS203aUlSVU1ldUZOMWxvbzBYUjB5czM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Meta Launches Muse Ember for Lower-Cost AI Agent Workloads - Channel Insider",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oME8xeTQwdnRPSzVXU1dNblg0eWlMbVhIY29TendJYXN4U1d6UlJPRTRkQnM3di1sdTB0azdCcmk2UEQ3NElGMXpjT19ZUHpISUxySjVFcEZOMGpfak1rVjc2SExoSTJ0THFmcGtLNzM2ZnhYRmt1LUFMZmM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta Unveils Muse Ember, a Lightweight Model Built for High-Frequency AI Agent Execution and Tool Calls - oodaloop.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQVlsQnl2ejh2bHVaYXZ6UEVhQzVxcWYzTFNhZ3RpbGR0UDFZR2UtaTZDYl8tWjBzUEFaQ0lnZWRqRTJaOXkxbVlFTkUyM01rTDJKQkdoX2t3WE5Jd0hnWFcwR3liOFlHbWtDREhWU3J1Qjd1QmprM3dSQkoxN3NHMU41clVfd1JoUGdTRG1KaGlZT185Mnp1UXR0UzJuS0R2NEpEZVBrajJUTl9LOVRwUE9RNno2d2Z6QmpPSUt0TlNKYTREQ0drMnItNXF3d3hGQmp0NkhJUzNvZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Meta Releases Muse Ember, a Low-Cost AI Model Designed to Handle High-Volume Agent Tasks - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmFhUl9nMDBBOHBrOGNaemNIWUtQVFhaLTZ1dVZkY2pqUmxVVC1UYUJoR0hJMFpVb2RrUjJjMjFnWVFrMjA1N0dNOGlXeVJIM3NvMWxqSWdzWndMbFpEX202RHllbURTSHNnMkJJT18tZ1AyTWx4U01EUkk3OHhkb2pEekpuRlAzdVlYSjJQdS1HakJOcEd1SENRN2NVYXExWWtmR1JSMEZ5cWxYTVhIMmlB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta Launches Muse Ember, a Low-Cost AI Model Priced Like Claude Haiku 5.5 - Technology Org",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbkpwaEpaZGJiRWZfVDJRWWZfRmR3RndQVHNOTG9DakZWendrTVZQUGRTSTY0a2RPMjlpTlFBb3FmZDJtZ1lHbzN5Tms2cWRvcF9jeHJZUHV1WnRSVno5dUZNSTVROTV1eUluWnFKeERwWllyQXlvS1hTUWg0SXVzSkpwV3JwalU5NXBOR3A4c0dYMDd1eFE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta Launches Muse Ember AI Model for Coding and Automated Tasks - Gadgets 360",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb1NDV1lJVXN0NGhITnBUSFVmaVVTRkUtVTl2THkyTWZSZEFmOXZYOUtFeXVKMHFIQjFvTlVSdUJnQ0V1Yk5zWDRGZWlBSGd6MWdKRFFFdFl6SXI2b0ZEYkpKNDJ0M21LbmdKa2xNUlFiemtuaU9XeHR6MzRuSjJERTRpbWR4dkE5NkYwYV9hSGhSd9IBlwFBVV95cUxNRF8xdGZTOGQtS0Z4MXA1Z3hQUnVEVGh3MXpxd0l0a3JsWFYyX3p5aWhRRnpLamxzcl85NS1sLVEwSkhvQmRBeDNzOW5OMmdPSzlEOUxVY1VMMndkTXV2NDJMdUdYTHphME41b1JRRkRoX0RPOTZ5MzJ3M1loM0RxM2NobFZ5bmlyZy1KbFdSRE1mY2RyTnd3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta unveils Muse Ember, a budget-friendly competitor to Claude Haiku - Techzine Global",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnZVLTVPckdXckZEcmxGYjNUVmxFYnZ3UDAwdjA1dk52SUNkU3hncGZ3R1ZWZ3NqSm44QTZHbWNxOU5vRmlPRGdfeEJjblJIMFJOTE9Hb3JKVVNrSThFVTdtVjZ3TktRZ2l1c2cxbzBEQVZZTkY1enAxbDgwT3o3SUlNSDgxMjJldXVTZ2tFSGZNMmZuckMtRGlnTkhxb0UyWThYSUc3UTloWHZTaEU4UGpJUll4ak9jcXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta Launches New AI Model Muse Ember, Cheaper Than OpenAI And Anthropic Rivals: Here's What It Can Do - Times Now",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOemE1OU9FYm5pempJZUVvSnpmd2h1b1d1LUtIRTVkWERJcFFTbll1dE9vLWZfXzgtbmdzOVZ0d1VuNkgzeTRoajVxMXU5VUthczYyanFuSTlNcUt1dzYzaWZNMEZaRWUzOU5oMHplbmtXTGkzV09hRllVYmh1RHZSNHJKdk1jMDVwU3U4TzNFNzFvQk5Vb3ZKZEY0anJSMW9RVHVkeGRZc3IwRlFEeUI3NlFoUmp1TFlQS3lWNWsxOVg5WDZvNklzeTNXTmJHeFdaV0hYV2kzekdycUVLdkc1ajh1YUVqSDNPN0VrZ0ZURjV3djVad3lUM9IB_gFBVV95cUxPeEgtQjM2Z0Fjd0w5ZWRzczUxa2lUb3JVald1ZHM1MGNQdXBWUlptX194ZmJpeFFlSU56YU43MGRRMzE1X3RCTkUtc21xU0xCZjkybnh5MnpELXp1eFlaaDdKei1HVGc1T09Ob01hY3htUm9YYTQ3Sk92WWJIaVhPZ1BoUkM2V2JwNy10UFFfcnBFSkFfSlQtOUpJNS1nTVBWUlA2WERoa2VzYnlVNzkyV2Y5WnByU2t1dnhrR3J0VUZlbWsxVGNTUW1zdmlIV0VEckpuOUF4LVczRnRQSWJwSmVYSmIxVngzb0dDeE9EWnVCRHRuazFFWkNjRGVvZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta Unveils Muse Ember: Lightweight AI That Matches Claude Haiku 5.5 at One-Third the Cost - H2S Media",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTURDRmd2cng5VklGR1MzQjdib1BFUkw1NklsYldhelFHLTNDS25FRTBoZXBiN2lfQndzZTdOSHp6RHNJLVlVVjZGRlpLWm1BREVSeTk5dHFlRV9za2xyRml2ZHJ3dS1uOHh5M3p5WG1JU1dSZnI3SThSTXhzbW85VkFXQ3ZlNHNqcFhUQkVQeF9sNUJqYTNrR2thV3dpTFh2RFU0WQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work - MarkTechPost",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNDlXSk50TnYyZUx0c1l6TVUwQlVCM1JXbkVJdzBTODVsVG1Nd0dLYUJqVXMxVVBFQjFsczJyZHVBOV9PQnlETGdpSU9FREw5Ti1kdGFGbFlPTjRQX1k1UWVXMm4tVHNfMk9XSVhyMVEybUR0RUdMRkdpRUkwOVXSAX9BVV95cUxPWTQ5V0pOdE52MmVMdHNZek1VMEJVQjNSV25FSXcwUzg1bFRtTXdHS2FCalVzMVVQRUIxbHMycmR1QTlfT0J5RExnaUlPRURMOU4tZHRhRmxZT040UF9ZNVFlVzJuLVRzXzJPV0lYcjFRMm1EdEVHTEZHaUVJMDlV?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta rolls out Muse Ember as a cost-efficient AI model for agentic tasks - FoneArena.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zY3YtM3VWQVRmT0xYWThZNGEySlVpbTk5eDRadGFlLUl2UmJPbFZ6NHRoRUw3NUU2VXhDYzdmT05tTU0xQmF5M1VJRWtFelpKTElBdHl5aWEzdHZRYXNDajBYQm5wMVJSZ0dFaWdvdjItQmZBU2fSAXtBVV95cUxNLU9CeUVSUkJDUkhzcUlBaS1ueVNjRHdNSkVJMl9FaTJLMlRKV3l5T0RVQVpoYko4a05KUDFNQ2d2Rk1UcVFxVUJpR0hTNGtaS2VEWi1hclRPeFZiX2tJcm5JOHVWMTNsZGFqT0N5NC1qNFo4enBRSHpNZ0k?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta launches Muse Ember, a cheaper AI model built for repetitive tasks - Digital Trends",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWdQYy1RSlZSUVdEakhKcm9LaGZ2R3hjQlZGVXpJWjhPRFBoeFJhaE1BZ1BLN2ltN3ZneVU4UWJCSDhoVUhyWU40cDJFZXF4NzlpaEJCcUY3Z0dDLVl6MXJ5SmZ4ZXBab3BweVNCOTcyUFJLTV9vRi1mbHg5ZDE5OEVMeHBMYmxQX3JjazdpSlpHLXFLU0xOM1VXRy1YNS1nazRybHprS1hONmM0M19UNw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Meta Launches Muse Ember AI Model: How it challenges OpenAI's GPT-6 Luna and Anthropic's Claude Haiku 5.5 - Zee Business",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRktnVFZPdlV5bjAwVVZ6b3FCTGN2OGhQblpTem01M193cXlEdENabnk4V21LTF9vdEgtXzZwdTF0ZWYzel9GLU9nT3ROeks4SFZVbUdiQzVGb3Zqbkk1RkRSenlmS1RSZG05Y2JuT2VjcGpzaUZlOUFYcW0zalk3al9GN2pWLTREeWNrMEp0d2pLbnA4dG9Gd2lyemZ2aGtraE1PQ1kxT29FOFBBaHdZVWk5R3A0NGswNzd2bUszVUlLbEhCckRtZmVIc1dNVkhDdEJldXk3Q0NHU2tZcDdIek5Id2xTd25DaFJnSW5FX3BqM3c?oc=5"
@@ -184,6 +240,13 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-09",
+      "summary": "Meta introduces Muse Ember to automate repetitive tasks - Brief IA",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjVOcVVVejBwNk04aENkT2dnNE1ieldGSFV0NFV6LUJ0blA3WG9BVDJTNlYzY3A3cjZDcmk5VkVKLWpnblFHb3kyZHlRQnYzck81M3NlYV81cWE0Z2Nvck5Zd3EtcWFhdnNyMjFsenBWb1JKVzl3MlN4RENPRjBYNy1ZalJiTlhScUo4S2Vjbnd6M2s?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
       "summary": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do - The Decoder",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWp4eXdBcTNCbmdnSzF3S2xuYnVnMkxkWmltMVpoNldWR01kVFgxc2gyRzdzNS1mM1ZleHN1em5LZm1DRHJnYVJxRlB6NDdyWFU3bkkyV0Rwc2pMUkV5eTZ0SVFGX0Y0Ukp6QmM3M0llNmpjaTZqZl9jU2hkUC1GWUxlNVk1bTVKTjlOcl9QWnJlUmNkZi1ud2tmVE1WUFlSaVNCaFUwMkN0ZEdZSVAyNVVlNHB6dw?oc=5"
     },
@@ -280,21 +343,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Keeping the Fire Alive: NSL’s Newest Team, Winnipeg Ember FC, Unveils Name and Logo - SportsLogos.Net News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVThScnV1R1NWOTRUUFlpaVQtcWFXem5tdHdoWGpBcXZZcjRLMnZDZE5GZEd2Y0dyMWVNUUMyTklENW13TWJNek9NQzAySHMzSmMtVWhKbmFZQnpBbUFvUEZvTEJDaXdDUWF3c0pVeG9XejEzdmpmTkNNcGg3N1FVTW5XZDdZamJCVW1EMWxZZ2V0VWNnUUh5V3MtMzkyVHFDdUR4YXdRZzlzdENlOEo5SVY2ejBtdktmRU5wQmVheXZCNXAwcEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Nicobar and Ember Come Together In a Collaboration Introducing the Ceylon Forest Stack - Local Samosa",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KN0k1T0RIUGU3elpoTjVPNHdiWjNkaEdzeF9oTUdQN3huUDZxTUNBcGl5a2lKYThzZ0VyWkd3NHZCdVFBeGtMbkJuU1RELXBrV09vMXYtS0RPQ053ejBrODU3LTR5ZlB3d0tPWjQ5LVhhSlZCcW5lTFRwWdIBe0FVX3lxTE1KN0k1T0RIUGU3elpoTjVPNHdiWjNkaEdzeF9oTUdQN3huUDZxTUNBcGl5a2lKYThzZ0VyWkd3NHZCdVFBeGtMbkJuU1RELXBrV09vMXYtS0RPQ053ejBrODU3LTR5ZlB3d0tPWjQ5LVhhSlZCcW5lTFRwWQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Winnipeg Ember FC unveils name, crest ahead of 2027 debut - Winnipeg Sun",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX3dmYVJkQzQwdXZFdkFjTEl2bS1LM2RRYUF1aVhHZ3Rtc3IzZmwyTzF4emw0QUZPZVN2T0toSldNSHVqLUhvbE55cW9UQnZPbFhlVkF1WVdseVAxbWFUMlphUmVNaFBrZE1LWTUtRm9Oa0xQQk51TXdaSk5NOWZqT1pzMDlOOUV3YWNhRjBlaWc2X01fSjdUT2RKMjlLRjBBUG9ON3lMb2JPM0IzS1p5em9XVDNzcjJfSFJIRllPbEJmdjdobUI4dnM0ZzlKaUg3ZE1hWTk4eTk?oc=5"
@@ -412,6 +475,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

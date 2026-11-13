@@ -1,13 +1,13 @@
 {
   "domain": "launchpointhq.com",
   "name": "Galaxy",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 21.1,
+  "score": 20.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Galaxy S26 November 2026 security update rolls out in Korea - Gadget Hacks",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLVpEbGJVNlN5QWM5RUpXTkl5V0ZlYjNySXlCWXVPN3JPa0UxUDkxekZNQWhHa3lVQTgzS3VKaG5yOVd1c24tUEtBNmUyNzhtQ09WZjhZRndJbHAtZGhVeENFc3ZiMTVBejlXcG9pNmVLSHE5c2RJZkk4d2tNN0lYaVhfMVpTVTJ0Tl8wbzFHdlZPeUNxZXR0Vk9fcmtUUQ?oc=5"
@@ -91,14 +91,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases Galaxy A07 stable One UI 9.0 update - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUp5QTQ2QzVHWktpV212UWFtLU1NaGVWSjkwTm9PNjJMS0phRHVsc0l3dElDT3VyLUZHcUZuNmthSjNfbVlkY2g3ZEpaRHBfRmVCSEtmNDNQbWNGbFRmSGdrN3ZVZW4wa0dRVWR6WlhxdlZocEtxenkxNEVCTlpCUlQ3N2NwQkIwMHJIMw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases Galaxy A16 One UI 9.0 (Android 17) stable update - SamMobile",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU81OUY4RUZseXp4V1kwRHBXcFlZc1lTTDJlSUZWbDVzUlNZS0hHRFBJd0xwT3Q2RGZFTlpkMkJQMjAyQ1pqTlFEYlo3YU0wYzNoakw3cUlfVGxWeUF5VWpEcW5YVkE0bHZIb1o2RGJITktHWHJpeU9qTzBLazhuY0Zad2llZEgtZk1MeTRqcU5XbTJLUmVjNW45VQ?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

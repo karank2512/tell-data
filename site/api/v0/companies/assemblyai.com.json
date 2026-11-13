@@ -1,9 +1,9 @@
 {
   "domain": "assemblyai.com",
   "name": "AssemblyAI",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.2,
+  "score": 5.1,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -59,7 +59,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "AssemblyAI Launches Voice Benchmark to Cut LLM Workload Costs - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwRV9qV1duYnRjTXF3Uk9pb25zTmdrZVlaX1oyOV9uNFVrd3ptTWF0S3g4cC1jTXdiczVTU0ZDNXk3Z0FobzJ5MzNzSV9NRHh0MVZ4SnFrdUVFRVk?oc=5"
@@ -72,6 +72,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

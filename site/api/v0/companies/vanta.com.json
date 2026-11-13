@@ -1,9 +1,9 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 20.1,
+  "score": 28.1,
   "contributions": [
     {
       "type": "funding",
@@ -13,9 +13,23 @@
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
     },
     {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-10",
+      "summary": "Vanta Holdings appoints [person] as CFO and secretary By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGRWbDc0LVlOenBwQ1B0WnJwcXBuVi1hemRMdXNPVXdXNVgxa3RlcGhSdnNpSkZ3U0dGNENJd1dDd3JsUUstRXN5QmZsNFZSRVg5UWNLQ1V0Y3JfMlJFaGRhNE95QUZhN2h3bmltS1UzZEp2YWdlSlpwV0xWTzc0eWp4MWI3V1NHWWxZM3RsdTAzckY4X2pPeURiMkl2eGwzaUFOWG9HeGdjbjEzVFo0bHZHZWgycVRQOFE?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-10",
+      "summary": "Vanta Holdings Inc. (VNTA) Appoints [person] as CFO and [person]",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNczgybGZqc1F4RkVXaFBUcUVSNXJFUEZFSU9CUEZEQXpiRHE4bHpHR19jazMtZzNuR3luOUdhZVNyblV1dU1iTU1nUVZ4LWRlODhIT0pVTkFnOGkwUHJ5LXFJbGxFTVN6WXdvbHduVlVLQ3dpQWF2Uk9GUXVBWEZmS0FZeHlxMUpnTHY0a3ZiMlRxbVpLOTJZN1lkdVZRTVRjMkxQdFZPeF9COWZ1aE9hMkd2NGxxVFZoWndIN1ZMV29CWXlHUE5JbFZBY2RXQjFveE1uRQ?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -36,6 +50,27 @@
           "url": "https://jobs.ashbyhq.com/vanta/c4652ceb-a50d-4dad-ab08-a386617a53f5"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire jobs - SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnhJZXpUcVJMYkpmOWhmbksxVUJEa3I4TDl3Y05RSVdKOVdnTldjOGNseFBGdno1clFUTjZzQjJkUmNqUTM5WjV0bVBhSlp3WUp6SV95Uk5Sb1RjMjZvcEhEclU0MzczLUE3TEJxRVcwV25xY3prcEl4dW56ZzItTE1FWHlhdERsNURzdlRCTzlnMFdNeWlQM0ZWNURjZ0ZqVTRUa3UtNmlVZTltSjQxQ2xaa28wSmF1d0dr?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Vanta introduces partner program to boost governance and compliance - MSSP Alert",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb29iWHNZVGpTVTJQTVJaanJ4T3dERl81REZlMGpTaGRXTEUtV2dtSEJ4cS1rempRV1N1RmwzVHltdUNKaVdydzJrLUlUR2FxOWpMZ3c0ai1wek9wUWg3YU5laUs3Y2ZyekpHcjdHZUJJQ2FiVlFSaTd3VG1fZUY0N19HYmEzMUUxZ0owNDBHTWprSzRibm9VODI3WkJucUNEck1DeHl5RzBNczdXdm5abg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Vanta Launches The Vanta Trusted Network, Setting A New Standard For Partner Programs In Trust Management - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSDZleEh1Zkd3YlRXWUJ3bElmMFdEbmNndTFmNjlqbFQ4NWpwZXM1MzFlalh1aTRTVXZHZW04aUVFZHRTNG5pVHNoQ3BDYm9TdUtHMk5uZHBFdkFDQzczSTdRLTFBRTBrcHlfZ0gzYS1CREM1c2x5OXp6MlFlakJPMG9vakRSbWpWdV81NFFSdlg1My1XMEx0NFFNaWVNUERncUx5cHNNRFFjMUR3MkozUGNDRTBNR0d2N1pWODN0c3I0M19VcWhnQklpSzl4d1pmeVNzeE5PVTJUQ1l1c3h3cVNDNUZvRENuSHo4U0UwTUhYNFk?oc=5"
     },
     {
       "type": "launch",
@@ -93,7 +128,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-30",
       "summary": "3 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/vanta",
@@ -165,13 +200,13 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 82,
-  "long_open_roles": 20,
+  "open_postings": 81,
+  "long_open_roles": 18,
   "sources": {
     "ats": "ashby:vanta",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "istaridigital.com",
   "name": "Istari Digital",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.7,
+  "score": 14.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 12.8,
+      "contribution": 12.7,
       "occurred_at": "2026-07-24",
       "summary": "Form D: $40,000,001 offering, $22,649,970 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2051439/000205143926000003/"
@@ -33,13 +33,13 @@
       ]
     }
   ],
-  "open_postings": 7,
+  "open_postings": 8,
   "long_open_roles": 3,
   "sources": {
     "ats": "lever:istaridigital.ai",
     "edgar_cik": "0002051439",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "adenhq.com",
   "name": "Aden",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0V0SUY2Nnh1cksyeHQzekZxWlFNRWFzanJiM0k4QmVNUDBWLTZqSnBLY29PUE9WTGxQb3FKVkp2OUN5bEFZV09pQjFpRV83RUhfYU9lRkJxODFiWlRHbl9vTndRanlGUk0xak9aV2FpN1o4RFk4SldjTUd6VVhTUkpPY3ptNEdNMXhKVzNxbmNvellVSUswM0hMOXgwRGE2NXQtYmNjeW9fNGZHWDBkN3hoTWZ4SDdENkNveGRQWFMxdTJWdlFGTg?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

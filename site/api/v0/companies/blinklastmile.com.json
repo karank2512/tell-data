@@ -1,9 +1,9 @@
 {
   "domain": "blinklastmile.com",
   "name": "Blink",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.1,
+  "score": 14.8,
   "contributions": [
     {
       "type": "launch",
@@ -63,21 +63,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Blink launches 1st-ever Mini 4K Plus with Wi-Fi 6 support - NewsBytes",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWktDcVNldUxPRG80NXZ3Z19FcVI4Z1lkTTJ0eXdKV05VUjlMbnJNeTFQUjdKRkZXNWxHNFZDTTR3TFBqWTB0Q0hjU1pyRjIyREhXcWhJTzVxM2dEQk9jY3BZUDNCbm05QXMxaWdBSkpPWm51RGhWSFJOb1E2N1ZTbnh3bEhRQk83N19FYVNfRFJwNVBtV3otZkpxQXZtc19NUWpPX3ZQNA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Blink debuts first-time 4K, spotlight, pan-tilt cameras + expands outdoor XR series - 9to5Toys",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTTNIUEZoMUsxN0dwTEpFUDg4c1VTMGNqMHpieXlJZ1JGQWdJZHNzODYxNC04alBPSVhRSWFHMkxSM0lzYlJrcGpTb3lPRjZpSUNJenY0THI5WnM4N05OeTZoRTlTaVRHbmwtOXM4ZktlQlU1RkFmQ1pFMDlrSjB3a2ZQdWl2enhqTXdQMjRpdlJZSTlXZy1qNHFDSUNwNjJKZWlJVGNGRkdianU1MkMycmhR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Amazon Launches Five New Blink Cameras With 4K and Long-Range Options - iClarified",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaE5IOVBaYkZQb1RGckhvRzFLSkpXbV9fRnFuckxkclRfakRsX2dFTUlaLTc5RDUwZndKWjZJSVFaRk03LTN0Y2dkandOUUZyOHp0Y3lOeGM3a0NVUkpFbUFjRmVrNWlRQnhLVGdpcmlWOUVJSWJzUkdkMGJ6TkhSRm10RkhiZjdia2l3NnpkYkJSN1lBZ2toek42a2pidm1qcWRhOWZ3?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

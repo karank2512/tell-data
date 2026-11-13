@@ -1,10 +1,70 @@
 {
   "domain": "harperinsure.com",
   "name": "Harper",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 13.6,
+  "score": 21.4,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 5.0,
+      "occurred_at": "2026-11-13",
+      "summary": "5 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/harperinsure",
+      "postings": [
+        {
+          "title": "Customer Service Representative, Atlanta",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/harperinsure/f9a0c5ed-480a-47a6-9546-f2841d11b216"
+        },
+        {
+          "title": "Commercial Lines Specialist, Atlanta",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/harperinsure/b36ef899-e0cc-4f73-88ee-73a70d4a7a1d"
+        },
+        {
+          "title": "Senior Customer Operations Specialist",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/harperinsure/df6ce55f-f13f-49af-9064-df073f64295e"
+        },
+        {
+          "title": "Senior Commercial Lines Specialist, Service Intelligence",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/harperinsure/9b9096e3-28be-4b36-a145-687e0998dd6b"
+        },
+        {
+          "title": "Payments Operations Specialist",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/harperinsure/22dea7af-1808-4375-9751-987c1a17f54d"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 3.0,
+      "occurred_at": "2026-11-13",
+      "summary": "3 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/harperinsure",
+      "postings": [
+        {
+          "title": "VP of Customer Success",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/harperinsure/81d76976-fa9b-4ef6-b0b1-225e610ca738"
+        },
+        {
+          "title": "Forward Deployed Operator, Customer Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/harperinsure/d7b7ebb7-4100-4111-8066-b7c1382a3d25"
+        },
+        {
+          "title": "Customer Success Manager, AI-Native",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/harperinsure/6c095c21-9e9e-4037-89c0-730f72a42d19"
+        }
+      ]
+    },
     {
       "type": "leadership",
       "contribution": 1.6,
@@ -21,7 +81,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-22",
       "summary": "ITP Media Group appoints [person] as Editor-in-Chief of Harper’s Bazaar portfolio in the Middle East",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeEc1VTBTX2NWQnBuazJlUlBuT3FWOTRGS3pkcW01V2dPbjFZOVFNeWlBMHZWOUlIbDVUN0pfcldCeE1fOEtTT1NxZG1oNmtGcXpSekJidkpNUlBjWlVGdC1JUmtjX045NGMxd1d4Zmw3V01haFBzcV9iY1FjSE1NT0FaaVR1SFdPNEZYRzRtNFFmUklZWVJGUDk3RGpIWHlONGQyYzFDd2ZuR3Y4ek9VNFVGOUxHNzhmN2ZPaXhxRlFkTWNnOGYyVnFFTmNEVjEtM256LUlhaHRCOWVQUlBEUkszcVVaVVMzaWc?oc=5"
@@ -63,7 +123,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "ISPOR Launches Its First Interpretive Report on the HARPER Template | Newswise - Newswise",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmctMXU2SGZIUm1Fd1lOOXhuLV8zVHBYMzBHcTF1WXZRRlVxUHQ4T2ZqVnpnTkNmMEN4YzFZTTJXbThGUy1iT3VtLWJJOVJxRDdaXzFxZDF1SERrcEIxQi1qbGYxRmJpNXgxejhEZjAzTHhDVnZaSGZES3E2UW5HaXFpLThRX2ZkQVJPVEVLTEh2bFFJaXZHUkhuaWdlQmw3UjJZ0gGjAUFVX3lxTE8yZy0xdTZIZkhSbUV3WU45eG4tXzNUcFgzMEdxMXVZdlFGVXFQdDhPZmpWemdOQ2YwQ3hjMVlNMldtOEZTLWJPdW0tYkk5UnFEN1pfMXFkMXVIRGtwQjFCLWpsZjFGYmk1eDF6OERmMDNMeENWdlpIZkRLcTZRbkdpcWktOFFfZmRBUk9URUtMSHZsUUlpdkdSSG5pZ2VCbDdSMlk?oc=5"
@@ -83,13 +143,13 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHNHdnZnQ0tUd0NvWVNqOVhTb3ZURTJmU3JKZGFSUFVhU0swRVZRMHQ2b1hDbjY4OVEycjlRNU1Rci1RS054VVNzQ3Y3elVjZW5VUzN1aTA3dkdCQmFrT0g4c2tUWGtsclB5MFhPWkw5REV3clkzaVVIR1E5QkdabnZ3?oc=5"
     }
   ],
-  "open_postings": 33,
-  "long_open_roles": 18,
+  "open_postings": 38,
+  "long_open_roles": 14,
   "sources": {
     "ats": "ashby:harperinsure",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

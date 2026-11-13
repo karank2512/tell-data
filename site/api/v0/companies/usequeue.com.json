@@ -1,9 +1,9 @@
 {
   "domain": "usequeue.com",
   "name": "Queue",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.7,
+  "score": 17.5,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Fastighets AB Balder Launches Its Own Housing Queue - www.marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjl1ekFDSDlpaVFFNV9YbFlfaS1qLU0tWmN0UWpTQVB2NjVuOE9Md1ZCa3VpOVRaa0pEb2gyNjlXZTFxY0p1X1FVeENiaWJpc3d4VGJJcG84SnFwdmJOQnlsRGdmVTJ2aU1MYWRIVVYwVklndGJLM1IydjY2TzVqeHhsd2x4cXFybFAxM004VVVZM3E2bjNERXBDdWVJMTB4cmRta3VxNA?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Hundreds Queue in Hong Kong as Sotheby’s Unveils Van Gogh’s ‘Chestnut Trees in Blossom’: 5 outlets compared - NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcHRRVkVmRTgxTnF0dzU5UDhSQXAxY0hUVGFvZDBuSXl0OWVSN1NTOVR6ZTZxS0FIeUE2TnNjeThLckJ1bDhJZWxKTlJRdlB6Z3pNeF9qazVGUE5VVmNfaGxlVjc2Um1iR2RxQWVrRDNBTVdkMm5wdU5uTmZMc29WSlpOU2JkV181QlgxdUpQZjJqTGtORE9rLTh3NDBubkotbC0ta0ZSNGR3ODFlVlN2WmhLWi1nTmUzaXRSTkhGcHp0OV9jVE9hcUdDRzhjUlE5ZDhIUmxjRmJlQVJiX2oyLTNuajJIUWZKN0E?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

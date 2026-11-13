@@ -1,9 +1,9 @@
 {
   "domain": "ello.com",
   "name": "Ello",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.6,
+  "score": 9.4,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "MTN Nigeria Launches Y’ello Y’FI To Enable Businesses Get More From Wi-Fi - New Telegraph",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkxNNElRckZ2eWVNOVc3UWRudDlUWWxXbTJjZHZzaVZPb2p0ZWJnbjNOT0hiOENKdHYwc3pHWXNldlM1RFJwMkJsMHpKZXRubHFRR21tdU5CejJ5OS1RSjNrdEh5OGdQTml5NkM0MEtrdDFhV1FhaHpXTnlCZ1htN08tbXktQjdCVWp2R0VuUlNDVzdoS05PSGctQWgycGo4?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "MTN launches Y’ello Y’Fi to help SMEs track customer behaviour - QED.NG",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcnlsZG9XcFQ5dzZuN3V2QVo1eXFXMGxCM3RLYnpJU3VCRmlkbEM3WWVUQ0FIZzBXblNTcjZkZDZBbklkV3B3UmZmb3dvaVpRUUlTZHhOcTJzV2NTRFJFVzFwUVIwYUFEQXBLQi15LU9qQ1ZEUklVVExmZlRvZWFJekx5V2FCSG8?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

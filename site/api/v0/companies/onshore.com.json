@@ -1,10 +1,24 @@
 {
   "domain": "onshore.com",
   "name": "Onshore",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.2,
+  "score": 8.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "Rezolv Energy Appoints [person] to Build the EU’s Largest Onshore Renewable Energy Project",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUUg3WDFUT0liWmwxLTdHNWxETHdqeGUyUGZCcFF0Mm8xNVoyY2czTWZoTmJKRFpxU3AyUWNGSEZFb2ZZeXFvWVA3V1dCNGY1bGw2UjkyUzFfMFpSeUJkN04yYTlBMjVMLVQzX1hTTm9zSXpJWW9QSmRnTG1JTVRoZjZlbVhIOHEyNG9yOUYwcXllOGpVT2pWY0g0Z3NZWHhVWU55LVVNN1R5VVhWZFVhUFlSeEk2RkE2dlYzQy1ONDNNQm9GU2NXMVVmMGlWZ0RnX2lXWEtnZEFNUQ?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlBzaS0wcFc4clN6WkQ0OW14QUVzWXZKRXBySVNpa3pwU2V0b1FkT0N0dEd0UmtsMzVjUGJNYWhaTGRScTVGYnJSZlA2RUp6Qms5aGdpSGx5bVpxQVJrV2VvSjkzT3hzTWJ6S1FFaGdiUkFXX1FyeTRGUVNXR3VHVERnU2M2REdOUnlkSkw2cHlvVklQWjh1N0VZUkRXNkllUjJvN2FnTGpMRUJseWV6UUowT2Q3UjBOMU9kVjUxblBHVmh1dTBtcmctN2pXMnZn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -28,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-07",
       "summary": "France introduces NZIA resilience criteria in its 13th onshore wind tender round - Review Energy",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRkU4ZVpKeG51QUFWZlNkQ3oya3AtMU0tcm03WkJlQ0dDOUZBaUVuWTBIU1pVMmRCZ2FaT1d2UW9XRy1VZnZXU0E3elM0WTQ1czZ2TFlJSmVHTllpbHhnS3FpUXlxM3ZhZ1B6alhNb0Q5UkxTYl9wWU4yWEFNSXdEcXRXNDQ2b0VDU1poRXNwUVlLbjQzcVVjdWVjU0JHb3NPNG9DZTI4aEJFVXo3OXI4YXpaU25iakFp?oc=5"
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

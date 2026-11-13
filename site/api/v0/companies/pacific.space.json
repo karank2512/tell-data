@@ -1,9 +1,9 @@
 {
   "domain": "pacific.space",
   "name": "Pacific",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.3,
+  "score": 14.1,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-29",
       "summary": "News | Oxford Properties appoints head of Europe and [person]",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMWVkeTBrRGR1dUpnUWN1S3lwOHJ4dTN6VEhnX3JfQjUyYWRDeEF1eUlfQ1pBNGc5RW1pYloxcWk4cGM3Y1dxckU2cmlzQ1otamNnNFRWdEhJS2pNU1daLWNRbGhDc2M1TkNYUEM2NW9Ca2dtSTNxa0M5cU9OZ1ZvY0dKVjZ6TjdlZVZJYmxsNnFBOWFyQ2F1Q2k2OTlnZw?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Union Pacific releases CEO video after federal regulators order it made public - WOWT",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEh6ckpZVXJfSC1vOHZQTVIxdjdwQkppUllLOWlOb050eXpnWFhRRHBpSmdVRWswRElxR0xDVDN5aEo2RVVfUXdFczBxZmd5LTJjM2UxcDhRMEVDbWlGd0xITmd1TW1oYVhtRkFua1E3dXBUTkVPSENyZmlhTzJsa1FJbHhBRmJwbm1tRm1nTXJsdFZWTVZJM2dNZ3FITHkxNnEtcmRicDJvRU5XRU9DWtIBxAFBVV95cUxPZXNVQVNnSzdzQlk5d0hBVEY3WkZ3QWV0enBXX0dRcHpzLTh3MV96a3BUdTJsV3RUWWM2YWVPVGV6RVZZa2tQZi14Tjh5a2pFZnZmcnVrbWV2SWVTRlR4V0Jva0RScVFGSGhJNWNYZkxjQl9NRnJ6Zll0dmoyRnU1SDl2MFBLQ0ZEWVhfYjM5cV9yN1NKWXBtaDlWSWY3c01MdTVObmF6V0o5YWJEbk9pOXVIUC1wMjdKd2FxRjdNek1LWDFk?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

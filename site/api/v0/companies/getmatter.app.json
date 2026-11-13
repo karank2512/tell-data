@@ -1,13 +1,20 @@
 {
   "domain": "getmatter.app",
   "name": "Matter",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.1,
+  "score": 8.5,
   "contributions": [
     {
-      "type": "leadership",
+      "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video) - Space",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd3N1QTVmUWk0TFBfQjVfTGZKeTR4b1pheGlIajJTclVKdmZqdWhBUmlSZG1UeC1pVTNwZVBvU1NWUWlqdDBGbXd0Z2NUWXZuTFZ6Q2NGWVJQVXduRGhuc2R5Ymh0VmF1T3dNSnZNcmM1VS1pa2lNUkdFX2thRmZQLW5aNnB5RkMxT2R4UGZxLTFBWkd0Z2N0cFFIYWs5c05LSXlYRlZtSWZaNWRyc3RKWjA4WmZvZ2U3V0JwNUR6TnRCN1ZoYVVlZXBRWHZBdWlmRUE?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "appoints new CFO",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1laS3YxVzdqSjBwdm5zdV9GU040MVM2VFNwOG1fS1NLcE5LSk53RjV1U0tPYkpwSlM3b0J2eU9ROEJGM0JzZ0FPcnBCSVo0VGxybUd1U2NOYzJfN1dnemNTZHNJTmd0Uml5OEFjczNzemNEY1ZrNlJBZ2lRYS0yRmM4TS1VOW9oUUpobTU4cVQ1ZW8?oc=5"
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

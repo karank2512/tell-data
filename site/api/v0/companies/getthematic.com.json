@@ -1,13 +1,13 @@
 {
   "domain": "getthematic.com",
   "name": "Thematic",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.9,
+  "score": 9.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "DESIGN@HKG 2026 Launches with 40+ Thematic Events Celebrating Creativity Across Hong Kong - 巴士的報",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS1lnaVpTZEl2eS1Va21BTFJJNFQteHIxX0ZrbmM3V1EtNmJLWWQxX2RqNjNpMTRUbkNvTjV2Wk5OeE9IYlRURENvOV9oM1RlZ0tQREtMbTVFZHBwY3BNdWZmYkFOY0NoNXo2YkZzMlkxZ1ZxNGZOcUptLXh1aThlWTRkVUhaWHk2ZF9fYlByR2NoWmFRVGZzN2VzSG5lNWVzc2p1Ujl5YUV6Q255R1BKZUlxdnlfMTQ1UjRuNkptWG5EYnkwUThmR0s5eDJoeDlpTXE4NHZB?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

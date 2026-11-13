@@ -1,9 +1,9 @@
 {
   "domain": "docker.com",
   "name": "Docker",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.4,
+  "score": 8.3,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Retiring Docker launches Zippy bid as Freo resurrect Wharfie Time - The Australian",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWWRjMHA2LXJETURrSXlWTGRrSlRfRU9pSi05THcyQ3kxWmhaWkNNcWo5V1lzcUxOOGJLVWpLT2lmcWNqY042enZKeTVfLUtOeU9aNmZ0dTVsZEE0OFRXQ3FsTTVnNkwybmJNY1drMUp5RmVsLVA0Um9yeV9NRU03cDlhclJNYksyM3ZNNXBNMktsRGhPRWJCS2V3ZmZCc1UyTU5pYTZvQlVsdWlWNE9UVndCczNiWUVSa3Q5Skl1dnUxUXNvaDdOYVlJY0dpaDJkLUJ3di1hQkNvOFBkNWI2MGd0WjM4NlpYaWJ3Z0kzY0VLSzVRaEFjQ21QdEpZLVM4VGpBbWR0WnE?oc=5"
@@ -100,6 +100,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

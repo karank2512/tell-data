@@ -1,9 +1,9 @@
 {
   "domain": "getupgraded.com",
   "name": "Upgraded",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 30.1,
+  "score": 29.6,
   "contributions": [
     {
       "type": "launch",
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Moonshot AI launches upgraded Kimi model - China Daily",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rUnF3WWotOThlcWhUeUZlV2FTdVBwUGhWblVfS0hzcDhxM0JXXzU2YmdUVS1mYnZ6dWVqNk41cWVadmdmMDFaZWs0ZFc0WGlLaThzSVpRT0JNU2NvZEU1WkFqU2drWTF2OXRvbEdNV0FhdWlrVU9jMnhHOVJDdw?oc=5"
@@ -140,28 +140,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Winnebago County Sheriff’s Office debuts upgraded training center - WIFR",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTdMQzVUNHE2bHNNOVhaSmRfY09EQTR2MV9NSjZvRG1LVVJyQ2VGQnJlQWpDTGlfOWw1Q2taV2ZLVHAyeFZuOUpxY0V3bDAxNXBBS2RhUFBlZnBfLXE2R0I5bWdGX1NhZkp3dXlMM3g1c0xESEg5UFYwMkdWLXZKUWxSVE01VTc0bGZZcmVSN1EzbGo5aTdkc1RDMU5sTC1EOEZ6dGdkYnlZSWh6R1BrbGdaRDFFcm5vWXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "SYM unveils the upgraded ADX 300 at EICMA 2026 - EICMA",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TlhKb3RpQjZKekpRdE9wZl9pa2dwVmxIb3B5LU04VS1WMjl0WW5EWFA0ZFR4TUxUcFp0dEx3OGJkV2QtODVNRzB5VDdRNGEwc01uRk5pdktUTUtJeXNadWQzaEF6ZHdrV2p5VTVYWkZyU2FhQkpTSDVscw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Longer beds, bigger screens, and wagyu beef burgers. Delta unveils its upgraded business class. - The Boston Globe",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGo3MExPWFpDVlpjZ05JTGZMSFlCZDZ1Zjg1c1B4Uk9kb1huTzJNWTA5U3NkcldWcWRtTjJpWUFnZjBsVVNNazVWSDhuRDBnbXlwUC03WDg5cXl1dXdILXdHWTB6dUthSDVmRUxmMUtOME01U25LaUR4V01ON1ZHeHpBRC12QUlBQnlnN2hmUUc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Orlando International Airport Launches Upgraded APM Service - megaproject.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUFKYTBEcExtbm8zdmpQckF2MVVyYUJrZVVYYkU1NnZWUU1jc0tFbFZsQ2kyMnVJank1Zm1fZlc2MjRFSGdUSFl5WndVV2dXOHphMWZLa3ZfNXpOX2E2VVNfYWRQUjBBWU5zVU10NGVNNERNMFVnZkxwdnFrNUlPWmJkaVhGRzVtcUdCSm55ajVLSU94bXpqbjJhUU8?oc=5"
@@ -202,6 +202,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

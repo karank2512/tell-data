@@ -1,9 +1,9 @@
 {
   "domain": "ashbyhq.com",
   "name": "Ashby",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.5,
+  "score": 4.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -35,7 +35,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-17",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/ashby",
@@ -78,13 +78,13 @@
       ]
     }
   ],
-  "open_postings": 75,
+  "open_postings": 76,
   "long_open_roles": 45,
   "sources": {
     "ats": "ashby:ashby",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "domeapi.io",
   "name": "Dome",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Alamo Drafthouse unveils plan for Cinerama Dome renovations - The Business Journals",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObC1HQVhGenJzYWJiWlN0WXZ4a2ExQkxVYUFMLS1VQ3N1SnFhM2N1bERweGc2Ynd3cGJMWE96WFAyeUtTYndtQTBLTTFGQlVmTkljdTVLY0F5YVEtZVBtcl90R2pQX1JMcU5lelNqY3NHZV9JRVZTUHBlWkt6d24xLV9lbnFXWHhZaTBuc3BiaVlNU1BCVW9zT0tIemFIWkhGZXJOYVVLNkRvRGQxcXc?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "potion.ai",
   "name": "Potion",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.5,
+  "score": 6.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Rail Trail Café & Mercantile in Blauvelt Introduces Dr. Pumpkin’s Potion, a New Fall-Themed Drink - Rockland Report",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNand2UmVueXliMjFVcW1iRlJpTHAwQWR5RmdXbXVneDBkU0pzZi14OWoxNG5jUlVWTzBjVkpjQkJNY0pjNEVwLUFWM3ViSTBHTFFDejdDci1UMzdzdWY0QTNSazZ3UjdOalRKbGVGaVlyNm9QaFdTM3Z6TFgxX2E1aV91Mmp6YjgzVnJRRjZ3Z2psWDFxREF4WTNZT0ZiU1RsTVpwWnNkeHNIWlJwa2x3WkJKQjRFdFRrSFpOWA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Nike A’Two “Potion No. 22” for Halloween Releases October 2026 - Sneaker Files",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53UXpFSUJOdEpCLTU5czRPSkF4bThIVGkyVldZZ0kwV05ZWWtWVFZMTzJxSjdEYzE2dXd4ZlZvWmZqZHF1UE5rTjlVcU9fNVIwejFSNFB0dWwta3JLNUF5NnZUTHRsSjZOQkxLdzhPOA?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

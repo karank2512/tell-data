@@ -1,9 +1,9 @@
 {
   "domain": "instantdb.com",
   "name": "Instant",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.5,
+  "score": 15.3,
   "contributions": [
     {
       "type": "leadership",
@@ -70,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Fujifilm Launches Analog Instant Camera “instax SQUARE 2 - Fujifilm [Global]",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lWjl0aUJLWHFsUVZGS3R1VWE2ajM2X0xBeHRFbU5uREs4Um1sNC1kczNMMVBkMVJjY0x4RUJKZkRYYTNIcDcwSVB6OXpCMklEWGhfQTF3aw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Capture What Shapes You - Fujifilm Introduces instax SQUARE 2™ instant camera - Fujifilm [Global]",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JbFVDOU52YU1BOUpyQVBMaEFEREpSd1FwSTlOTWFLMHExVExvYVp3ajlJeERZNU8yazBrY0FVRDkzMi04YWY4NkFoY2NsMDN0U0VkeElkeHFSWEJGLVdVaDgtUUdMVjhuZnpHNFloWkZvUjBpYkE?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

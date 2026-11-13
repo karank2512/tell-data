@@ -1,9 +1,9 @@
 {
   "domain": "askclara.com",
   "name": "Clara",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.8,
   "contributions": [
     {
       "type": "leadership",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Matt Braly Unveils The Gothic World Of ‘Clara And The Below’ At Animation Is Film (EXCLUSIVE) - Cartoon Brew",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeFJOdXlEV0MwTEJHV1JQbWl3M3RSQ1VPanF5MC03V1VFYzVZMkdOZXNMRHJDR2NneTVlX2YtSnUwLXF1QUZERjF0UEt2QUJ2SDhxc0hCYmJDN3hob2RjNDRPaUhuRzlhTXRzVXdTb3JnblpzYXpMMXU4bXBUM1g2ZEVncURQYm1la29hag?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Silicon Valley's Hilton Santa Clara Unveils Multimillion-Dollar Renovation - Hospitality Net",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbHVpX1FGNkNpb2hxVEpOZ2NpNHF5X2NvNlJvUU1BX3hkZ2dUbkJFRk5BcF9Gam9Od2lhVTdVN284TGU1NHlQWWRSVFBLTjVZd2JHZ1RESHVJSDlvWU1XaTlCNnZXZDNwZVBxVkg3dExPQURuVUZobTNadWNvWU45SXpRcG9aSTBlOGhjVml3Q1IzOGNZdE81eWkza0pZeWNqUDl5X0t2aDZzbmt3aV9vQzNFTjZod0diQXBQeXVQWjRucFdk?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

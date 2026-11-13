@@ -1,14 +1,14 @@
 {
   "domain": "fivetran.com",
   "name": "Fivetran",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.5,
+  "score": 19.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 8.8,
+      "contribution": 8.6,
       "occurred_at": "2026-11-07",
       "summary": "10 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -68,7 +68,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-29",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -92,6 +92,56 @@
           "title": "Sr. Customer Solutions Architect",
           "posted_at": "2026-10-28",
           "url": "https://www.fivetran.com/careers/job?gh_jid=8047657003"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 2.4,
+      "occurred_at": "2026-11-13",
+      "summary": "8 new finance ops roles in 7 days vs 1.25 baseline",
+      "url": "https://boards.greenhouse.io/fivetran",
+      "postings": [
+        {
+          "title": "VP, Total Rewards and People Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8201813003"
+        },
+        {
+          "title": "VP, Total Rewards and People Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8202613003"
+        },
+        {
+          "title": "VP, Total Rewards and People Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8202617003"
+        },
+        {
+          "title": "VP, Total Rewards and People Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8202624003"
+        },
+        {
+          "title": "VP, Total Rewards and People Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8202641003"
+        },
+        {
+          "title": "VP, Total Rewards and People Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8202647003"
+        },
+        {
+          "title": "VP, Total Rewards and People Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8202649003"
+        },
+        {
+          "title": "VP, Total Rewards and People Operations",
+          "posted_at": "2026-11-12",
+          "url": "https://www.fivetran.com/careers/job?gh_jid=8202657003"
         }
       ]
     },
@@ -193,7 +243,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.7,
+      "contribution": 0.6,
       "occurred_at": "2026-10-30",
       "summary": "3 new engineering roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/fivetran",
@@ -241,13 +291,13 @@
       ]
     }
   ],
-  "open_postings": 180,
-  "long_open_roles": 52,
+  "open_postings": 192,
+  "long_open_roles": 51,
   "sources": {
     "ats": "greenhouse:fivetran",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

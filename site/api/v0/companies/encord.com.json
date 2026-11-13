@@ -1,17 +1,48 @@
 {
   "domain": "encord.com",
   "name": "Encord",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 41,
+  "score": 1.2,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 1.2,
+      "occurred_at": "2026-11-13",
+      "summary": "4 new engineering roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/encord",
+      "postings": [
+        {
+          "title": "Senior SRE Engineer",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/encord/13405312-882b-41c2-999c-f8492f2cf50f"
+        },
+        {
+          "title": "DevOps Engineer",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/encord/981b62f9-8321-4001-bff8-2254b6891885"
+        },
+        {
+          "title": "Senior Cloud Security Engineer",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/encord/464595db-7142-481c-b23c-712fa72a7eb3"
+        },
+        {
+          "title": "Senior Security Engineer (Application Security)",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/encord/275cbc61-2834-4040-8bcd-ce885c55d4f6"
+        }
+      ]
+    }
+  ],
+  "open_postings": 42,
   "long_open_roles": 19,
   "sources": {
     "ats": "ashby:encord",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "goathera.com",
   "name": "Goa Therapeutics",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 33.6,
+  "score": 33.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 30.1,
+      "contribution": 29.9,
       "occurred_at": "2026-11-05",
       "summary": "Form D: $225,000,000 offering, $300,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2131824/000146581826000011/"
@@ -34,6 +34,6 @@
     "edgar_cik": "0002131824",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

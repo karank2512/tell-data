@@ -1,9 +1,9 @@
 {
   "domain": "regentcraft.com",
   "name": "REGENT",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 27.4,
+  "score": 27.0,
   "contributions": [
     {
       "type": "leadership",
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Regent Seven Seas unveils premium drinks offer aboard new cruise ship - DFNI",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1g0RGN6cjRIM1BKcC1CcWh3VTVnYlVxNF9xSnRNYzBERGtnYXFyLU1GczY1RzM1bjh0V0trZThBMWtRSS1iLThTM1JreXVTRFllVFBpT0NaREc2cEJMTGtrMXA0MTk4R2gxTDdxelFWOGVjWFR5em1DSEhod0RrYXFqckU3TVhpTUhFd2N0bDdoSGZCSTJQUFdQbzhCb3M3a3NqM2tvZTRuM0N5LXJCTkdncWRWWXFMemZTbw?oc=5"
@@ -133,14 +133,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Hamleys Launches Its Top 15 Festive Toys on London’s Regent Street - London Post",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2JUaktSYm1OU01BU05EVTNIT3NxcmZyazN0WFJDbjI5eUFaOVJQVWlnQ2tQT3FuMVROWHUzMTJrRkh5MFRvQTNlelNiU2REdUl2Sm9RYzhGamlHandja1lKN2ZJWlV0S0hvWkdUVS1FOFNiNkRxOFhyb0NiOWdLeTBYQTlpdGowWk1ER0lzeEtSOHk3NjRV?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Regent Signature Developments Introduces Its Vision for West Cairo Through Debut OOH Campaign - INSITE OOH Media Platform",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1FKZzBpcjdFcjVtS0Z0UVVLNzF3ajFfWVY0c1NnTHlOYmkwZEN6TjEyaVlJcGc4S0dTbnRyN1g4dDlxZTY1TXZPSmFyQlRJNzdYVTZQTFpMWExlY0Zwa1U0anJ6YkpSTGVSRlBJaXNCSHVNZ1h0SWRXQldIX1lYX2wxWmFJOHBSTGxKdE5ha29ONUpra1B5MWxyUlhlV1otaUs1bGlRdDNlYTZKSGozdkw4R3BQaFViZHJNM2JQSWdDSUR5VjJpNw?oc=5"
@@ -175,7 +175,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-08",
       "summary": "Regent Seven Seas introduces new bar experiences - Travel Daily Media",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXAtSThLbE9JZGpQWUpQWnpjMERoc3JjOUhOLWtUSjJRZ3N2RGFxSE5NMThrcE9WclZRS20yZWZnTE5LZVVPQ0lBYW5uM0V0Z19mc3J1Qk1fOVpvRFl1bHB5R0x1bUR1bUNHcjFoak5pclNiNjZSd0ZiSG9kNDFfOXgyS0k1VXZMWXc?oc=5"
@@ -188,6 +188,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

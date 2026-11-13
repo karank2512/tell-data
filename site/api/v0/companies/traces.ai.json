@@ -1,13 +1,20 @@
 {
   "domain": "traces.ai",
   "name": "Traces",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 13.0,
+  "score": 17.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "VictoriaMetrics Launches VictoriaStack for Metrics, Logs, Traces and AI-Assisted Troubleshooting - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXNCZkcwZTFVZWg4VFNVeU9rWWdOVmtDYVptZWtrazluaGNSWG5Vc1J6LWZ0ekRXZnJvWGdPdjBEaEZpS0tZRmxzZThobExVVGUzczl2MlFtSnlZRklLT0ZfbGdiUGR6SktEVlZWZmRJenZrN1lMaE9HRi1FNGZNcDJVR2dGRjlIMG42ZmZpaTEzTDlh?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "VictoriaMetrics Introduces VictoriaStack, an Open-Source Observability Stack for Metrics, Logs and Traces - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVTZ4TEQwanZlekx4clliQ09EU01sbXZuS1l5MFA1SmVkeHJIVDFldmVmb21pamlOak9CTVhjT1Q0MmdQbWJncWstWjNHSUhGRDAtNFZWZHJlWnMzZXlNVTBaQXdpSmc4S1BzQ3U5Z0NSQllxUTJoSG5SXzlLS21fZ0dsQU1wZzFQN1NZcmNtZk9adlhHMEpLaTk3eEF4WmxBdlpYNy1kMmxBX1hjY2loOW1Sbmw2MGhLSkFDSEdGeWN0MVNhemRZaEsyTW5uYVByZENGN2Z2ckVZdzhRS1lINVA0WTFQdWpVYXFjR3VxUVM0QQ?oc=5"
@@ -18,6 +25,20 @@
       "occurred_at": "2026-11-09",
       "summary": "ControlTheory Launches Dstl8 2.0 AI SRE With Metrics, Traces and GPU Visibility - Cloud Native Now",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLXpjekJZRzdFV0gwVkFoYU9RXzk0UDJXUXVjT2RHQnJFdEozei1CZ1psQXFvT2YwRC1yRjNFbnJHRzh1T28xckNxLTZldW5xcXB1TVFSNmU1OXAzRHUxV3NJUUtrb3pJa3Vwd3RGenhRTXFCQVhTSk14TDB5MGJVNnBleE53TnpVOXNUdVdObGxoMlA0X0VicVlFT1BWUjNMcmM5dnZyOGlfR3g1eUwxX3k3dkMtM2ZqVjBWRkRBWnNWUXlvdFVBRm94SHo2VWxIWDRJVVVaNXJERnJzcG9faWl3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Traces Ellis Ross Unveils New ‘TIGHT’ Body … After Starting YOGA! - Mediatakeout",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYmdqNDhJSXBPZzVSQ1gxM1dIclg3RDhrVXJ2cTRZdmE5UEhyeEQtbWpVZkhWYXNfZFlEVHRJd3pjSlNWLXk4N3ZPOEZUNndQbXlQWDdmX2RnN21oUl82NnJ3TUl5c2hmVk5abHROYmtNbUJfZllyMWxMN3o5Mm90WXBKN3hyX09feXh4Z1hJWdIBlAFBVV95cUxNcVJQY0hoSXFnLVNvY2hYd2I5U3lhV3o2elZoMUEtdnlwUVc0S29UZnNiMnFMWkxMY2xXa1ZZa01adE5MUXFtS0l3UXJJWlV1Ri04Rk9hc2twc1YzNmIyTnBhTFN5TzN0R1hDemRSNVNMZUNWaWpsYkJQRW5jNWxOdlB3V2pBa1hlLWFnejV4RjVQZGFT?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Spacelift Launches Run Observability, Turning OpenTofu Traces Into Valuable Insights for Platform Teams - The Herald Journal",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPb09IeGtrNGRrNW9FQl9OQWg5OUc4QmNXeXNObHh4cDl6TEZIOFIweU4td3E4OE9yakxwLURYQXRyV3JtQTdndnZmaS1hQmd5ZkdBSWlkT0Yza3lqSzA3OERNX2Z6M0dheW5WYTNyRk5LdTNHcDZtbmJ3bXpFRzlFODdPX2ZZcS04dUlIY2FlYlhKbThaMFhHWDJ0QTJCaTdzLWNLQWZmeGs2NWZQU1Uza3dEQWNTUmhTM2h3eW5pUk9sMEZ0b0NEMlBweXduaGFJLUJqWnlyb3NocFdOQ3pMN1llcVpOc1FWclRjeVloampOQmd6UnpIa2pYdUFsbGdNcHZCUkNvMnRtWDZBb0h2TEZFcnJfMGVxckE?oc=5"
     },
     {
       "type": "launch",
@@ -56,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Abbott launches whole-genome sequencing Oncodetect® molecular residual disease (MRD) test to detect traces of cancer during and after treatment - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVNBc1dkSlYtVExXNkFxZWUtaFJnX2NheEc3UFNhaHNUOVowY3RMcC1ydlNrcTNHZTVxekZWOUo5dmI1UWNFbE1xVmtqYmZ6N2tKem1ybktURGZPWlNSSGZiLXRzdWptV0Z6V3AwRUNzd2RJS3B5aUlNMHMxZVlJdHV0ZUc2VDYzUThZUFIzVjZSVllMSEpFRVktN3NBaDd0ZkE?oc=5"
@@ -83,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

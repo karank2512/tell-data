@@ -1,9 +1,9 @@
 {
   "domain": "thisisl.com",
   "name": "L.",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Introducing the 2026 L’Oréal-UNESCO for Women in Science Awardees - Vox",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3VXem5EblhTU09Va1UzT1ZXUXJ3M1FobWVBSm9mMThwbi1IanFtSUpDZUF3UFZ4UjVrQlNYTVBHYm1rMjIxYmtDejBxUFlFVXFfMndkUUlmMEVQTVhpYWJTakM1dGI0ZG05REV3UTJuOFp1R3VsdWJndFJpaUdleWh2ZDR1QUhqa2pacFhZVzNaclFXbDZEWTVwYXVXZlpv?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

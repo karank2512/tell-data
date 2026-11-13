@@ -1,13 +1,13 @@
 {
   "domain": "exa.ai",
   "name": "Exa",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 33.6,
+  "score": 33.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 22.5,
+      "contribution": 22.3,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $247,488,419 offering, $247,488,419 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2024864/000202486426000003/"
@@ -97,7 +97,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-27",
       "summary": "EXA Infrastructure unveils new Barcelona-Bilbao route - Mobile Europe",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ldDN3Tl9ONnZ0QTZ1eENvUnJaeHotLUtnVjJGaGl4MC1oRGU4WjRfU0ozbGdwdU1wM3lCWGRGZEZfNF9qcndrX1F0ZkFCdy1HMWVhd3NqYTI3OHVwUHpFaU1EVURmU1FpMTMzTg?oc=5"
@@ -110,13 +110,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGU1ZDd2SldhSmJ6SDlvV3RyVzBCcVkxc0RvZ0ptYU11eUNBclc4T0loeTRZcG5yRUVVTEVJRnlXNzNXN2sxbnkyVUI5N2F2YmRranVlOEVfbk05ZWZuaTk0elBVRDBzNmxWMGNPUEdnM2g2TFpEOGRZNHhvaHR0Nk1NenVQdmoxRmJkN0NwNWd5ZzAyek14NkZJQ2ZsWU5SY25oRENYbUI?oc=5"
     }
   ],
-  "open_postings": 66,
-  "long_open_roles": 29,
+  "open_postings": 67,
+  "long_open_roles": 28,
   "sources": {
     "ats": "ashby:exa",
     "edgar_cik": "0002024864",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

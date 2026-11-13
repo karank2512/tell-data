@@ -1,20 +1,20 @@
 {
   "domain": "livegistics.com",
   "name": "Livegistics",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 49.9,
+  "score": 49.5,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.7,
+      "contribution": 13.5,
       "occurred_at": "2026-08-28",
       "summary": "Form D: $1,499,987 offering, $1,499,987 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1884725/000188472526000003/"
     },
     {
       "type": "funding",
-      "contribution": 13.4,
+      "contribution": 13.2,
       "occurred_at": "2026-08-28",
       "summary": "Form D: $1,100,000 offering, $1,100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1884725/000188472526000004/"
@@ -41,6 +41,6 @@
     "edgar_cik": "0001884725",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

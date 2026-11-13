@@ -1,7 +1,7 @@
 {
   "domain": "handoff.ai",
   "name": "Handoff",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 2.2,
   "contributions": [
@@ -20,13 +20,13 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjJBZWRkUGxhN2NCclBjUmN1QzBUeTNiNVNOMXQxYV9Fcm5iNE1ueVJlSXVCXzNFY1ZJenlremZGLUJGYWNuVFNuZldWQ3lwU25GdUhuS1BWNXhubjdqREtzdGJTMDdoUXVqeTdjYXRFNTBPNHY2SkFic0ZqSWw3QXFidDFoNGFjV0I0cERuT09jcGhHWDJ4Zm8ycWcyVFA3MlFfZw?oc=5"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 10,
   "long_open_roles": 3,
   "sources": {
     "ats": "lever:handoff",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

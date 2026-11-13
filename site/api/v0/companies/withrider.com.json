@@ -1,10 +1,17 @@
 {
   "domain": "withrider.com",
   "name": "Rider",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 13.1,
+  "score": 19.3,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "[person] joins Rider Basketball Staff as Director of Analytics and [person]",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVh5cE1WWmxqTWlFY2d3Rm83WmprWFhObTBlNzc4SkhjLTNPMHFKOWpiSGt1MEVUUVlNODNBYm9ibE1QblpRcVRqZ3B3cmZzQ3JlWHgzQXFSX0M0WDdkQVg3Z1AyTXB0V2FNNkxqQkdHRS0yWUZaV0prQUFVdDlQbEtQLXdWU0dyVnZmUEtDMTJ1U3dpNjhWSmpaY0pZNTg?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
@@ -14,10 +21,31 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "[person] joins ‘Ghost Rider’ as villain opposite Ryan Gosling",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BZGczb3pDc21zQVBWcUJ3VjBJTWhOSDF3Sk03a0xVMmZRcm1OQVdlUlZsaUpMMnNTZWxsbEtZS3BQNl8wLXdBaXNXQ01BZFAtOG9LTUpqbndNa2t6NkRpQTdmak14N21YWGoyemlGRGRuRG1QdmNHejlETQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Arcade Archives Shot Rider Launches November 12 for Switch 2, PS5, Xbox Series, Switch, and PS4 - VGChartz",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEMzSjlxd1J6R0poNTdTcy1oNVFTRHBiVWxDYWlOUzdwanFqT09ldVRMeTk3XzBZczdqTmFGRDRKenFtVlM0UGtqTEhkbU9HWG94V0ZzbXFHdUhScjBYWnFkeTRoUVFpTE9yUlByZm41d0VYMk1zbE1QWWYxOG14a2ZaR0lOMzIxcWRuOHBaX2s0QUYzRFE1YUVHeEtTaEhyTzVRMzBPTFVVLUZVQ3JXQS1fVnh5YmZpcHFhUlU0SE9nalJKSzNVbnNaT2k?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Arcade Archives SHOT RIDER Launches on November 12th - Netto's Game Room",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmNRWktaNm1pQkl0dHJYSTZXd2R6ejVPSEswbmhNS3pBX01XNVVBQjVYa3NLUGsyXzhBRmZzU0hPN2E0cjhRbkRBUS1yN1BQMC1fNjNZeWdMSHpLdHlZLXJTcndmUkJmMTVzRC1tSDlRU2VEQnlmMWlxTnpRNjJtcE1jLTQ0Q2J5TEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Arcade Archives Shot Rider launches November 12 - Gematsu",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUFBTSFZzRFV0SnRSWDJRSTcxT1duY2RHLW4yanVUbFVvTDA5TmNyUjJoZGRNcFdJV01xZUVvaGFnb2tpUGRKazh0REtlNnFhTFlDT0pCdXp3YTJ5V3VGeW4zbklmOXJGNTA1ZTR3QXhmcFd6WVJMQ1hSVHdBeDBTamFtOXNBUQ?oc=5"
     },
     {
       "type": "leadership",
@@ -83,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

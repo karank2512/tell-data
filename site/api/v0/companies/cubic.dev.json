@@ -1,13 +1,13 @@
 {
   "domain": "cubic.dev",
   "name": "cubic",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.0,
+  "score": 11.8,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Kotmale Reservoir Releases 150 Cubic Metres of Water Per Second; Residents Urged to Remain Vigilant - Hiru News",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNC14YldFUnNQODdVNnppUEZaSEN4aWdYcmdhMXQ3bzEzMm5pRjhCLUprMTdkZ0d2b0dHeGJhQl9NNEtPU0Q4TlVWbXBheHVTa0cwNlRTU0ZLb0NEeUxabVQ2R1pGOE1hd2hnS2V3ODlJNzdQZ1NkQjJYX1dQaVFQSDRDRTg0VXNqd1pWNEtsUzltYkNsWUtZS2JTcmV0dWRoVnY4Tl9DMDY2WnlhZHZEWFdWZDg4aEtTdGNsenVUSGFzYjlLRnRseTczMkJqUQ?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "MOL Launches Hungary’s First Biomethane Plant to Replace 7 Million Cubic Meters of Natural Gas - ChemAnalyst",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcU95dWc4NDlrNnM4SGlYWXJiODVQd2MwYkNtWk1Nem9qOVhONTI0emZuMWkybXdqWl9PcjZwZDNHZTREMUx0ckozZDU0dnM2VzEwNWhuMTBJMXdqVmc2QVA0T3cxY3V2X1NwQl9tbmxmQlNtWm8tdVNPamFTM1pGcHdxNlBUeWVqNzJ5dThKZ0VZVHllbktGUzMzSXE0cVlFYnV6VVAzaFY4NEJidkVxOW5lVzM?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

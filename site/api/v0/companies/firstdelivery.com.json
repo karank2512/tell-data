@@ -1,9 +1,9 @@
 {
   "domain": "firstdelivery.com",
   "name": "FIRST",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.8,
+  "score": 17.6,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "AJ Foyt Racing unveils first Pierson sponsor for 2027 IndyCar season - RACER - Racing News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWZHM1AwOUdIVUdiRWJxOUxKZlFXd1c1ZHZkNjRGTElFaEVtUmViSkdrekd1UzF4TTR3eVo2djFaSkhqTVJ1NDByY2hhTkZPRnZLNS1qZjFvczk5WTAxWU5wTW51ZTZWOHpfUlFXNHpiLUVxRjhGOTNMWFMwY3VjWDQzMDV4LUc5c0JWQy1uTjY4SHA1NXk3VERucUMxdw?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Kenya releases first Ebola contacts from quarantine, milestone in containment efforts - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0xfSW9iWXA3Rms0RUVnU29QQ2F0TkZkUUxfLUhqdnYwTmF4OTdZSEtWUGtzNVhQSldxMzRVeTBicklyOFQtS0Q0TTUxQ2FpWHlxbmhFSkYtX25pc3pqeVFfeW5QRFFMVTBCbXZ5X1Z2SDN2VzBJTE1YVy13RTJQNlRwd1dqNFNMT2xaME9HRFphNlBfTWFKb2p1ejE2N3d0ZGdVVm5NZTFNcTVNR3ZxbVl4WDQ3aFFUTTdzdUZwMWtBM0VGX3VUR1k1NjFXOFE0c3RDNzJ5bmdxNkVKbi1BTHJ3?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

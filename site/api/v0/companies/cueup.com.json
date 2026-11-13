@@ -1,20 +1,20 @@
 {
   "domain": "cueup.com",
   "name": "Cue",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Time to cue up Combustible Edition and party like it’s 1995 as Kino Lorber releases a 4K UHD remaster of anthology comedy “Four Rooms.” - Elements of Madness",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84UXdYa2IzZjlJb0ZEM1BieFpsTFAyZWVOR0d4QmVOZWpMczAyTkJ1V1diYjFyVHM5dEZpMnFmX1Q2cEJNODNSYlkybjFSS0N6WUotWGlUUnFLVXpON3dweTludFI?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Snooker referee left in shock as furious Kyren Wilson launches cue on table during Liam Highfield match - The Sun",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSE5jNDNvb3UwLThQRGc5aEw4UEdkVExqaWtnODQ2dUUyd1V1a0NEUVNCOGNBUEtXRUhzMzBvQlhCVHQ3TjNUS1Q2dFBlbkl4V3BGd1A1VmxHQW81SWpDVmdnYnUyaUxBY3lacXBaemlfOWNOWGZDNkNMTEZTLS1BZDlZWm5sd3ZmRUtSZXdMMS05bnU3TkZ3LXdoUU1MMXVzRnk5V3AwMlRXdWQ4MmpDQ2pmaEZXNjg?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

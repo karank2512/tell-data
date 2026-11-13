@@ -1,9 +1,9 @@
 {
   "domain": "toma.com",
   "name": "Toma",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.6,
+  "score": 7.5,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-06",
       "summary": "Sandoz appoints [person] as country head for Egypt and [person]",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMXRoRlQ0UnVUNzZUdHhSSThIaFRiRXFnX0cxMjhhNWRfOXQ1dzFkMDVsT0JwWWlYX3dlTjE2bmpDVkVNcVpNbWMwWEtTaFdKUWw4aE5TRmdncE9wam5Ubm5QT0xUT2g0aGJUWVhDTDVBVnV4Z0hmNlduUUlmYTBxOWpCN2l4Y1hqTF9pcHhYNUJzZkxBM2VPNkhsX2hWZ2o2S2REdjBDVjIzVWFRMXRfTjlNUzZmQnZvb3VCa3Mxd3Z1eGJYN2l0Vlp2b1lKZ9IBzgFBVV95cUxNMXRoRlQ0UnVUNzZUdHhSSThIaFRiRXFnX0cxMjhhNWRfOXQ1dzFkMDVsT0JwWWlYX3dlTjE2bmpDVkVNcVpNbWMwWEtTaFdKUWw4aE5TRmdncE9wam5Ubm5QT0xUT2g0aGJUWVhDTDVBVnV4Z0hmNlduUUlmYTBxOWpCN2l4Y1hqTF9pcHhYNUJzZkxBM2VPNkhsX2hWZ2o2S2REdjBDVjIzVWFRMXRfTjlNUzZmQnZvb3VCa3Mxd3Z1eGJYN2l0Vlp2b1lKZw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

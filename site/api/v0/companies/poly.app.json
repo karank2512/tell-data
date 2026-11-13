@@ -1,9 +1,9 @@
 {
   "domain": "poly.app",
   "name": "Poly",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 20.2,
+  "score": 21.4,
   "contributions": [
     {
       "type": "leadership",
@@ -18,6 +18,13 @@
       "occurred_at": "2026-10-22",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnFmUWJKWWZhandjVmJabThMbjZmTzcyWVloaVZoZXJwN1hCaW80Ny03YmM2Vk5zd1BzMzRpSXZUeEhIekFkTWlFOG1MRXNyREFEUjB2U3c0ZlRpcHhZaEFxbXNTSEtFWWZHSzJGcEFtQkFORmc1WDRGUDhlN2JXQTRmQk13WThXN1h0RlB0cWtPaUd3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Reigning Back-to-Back Big West Champion Cal Poly Baseball Releases 2027 Schedule - Cal Poly Athletics",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEVXMHVmZ0FocUlMMFRzTTB2a29RU1JvcnI3RERPZVBhS09fYmxzblRuNmppX3c4YlhsdGdsN1QyaHc1a3kwQnVhSnlkVEw1NmZyNVR4NTBCNHMzQUs0TnZXbkpjeVFYS0N5b3haSjFTT0YzR2JpbFRaSE5UcTdoQWp4NTF6QlFDdHdGdV96Ujd3Vk1DQXdJMFBTZUVLZVNqMG1vMHZ1T0hIX050OG1sVzVFQ2pRQQ?oc=5"
     },
     {
       "type": "launch",
@@ -77,21 +84,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Florida Poly introduces flying police car 'Astro' - FOX 13 Tampa Bay",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ETnByRHNCQ3hxQ1NDS3JDLU9zcG43ZXFDRy1XVXJsZ2lqWl91S1M4N2pERVowNVpBb2kySFJUUms2eXRqVDNLeXpRVlU4UGlsdEJuc3BPLUtwb01oNjBmUWJR0gFnQVVfeXFMUHlGdmtuRG5adThfYmlLMHpzSkV1WmdJUWowemJlSzd3bU5jWFYwRHlnV3RUcGxGZEJTQXBBdDFqMGMzb3RLYUlCOExWT3UtSHJOc0tpbUNfRkVDaHBqcElRX0ZXdWplUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Florida Poly introduces flying police car 'Astro' - FOX 13 Tampa Bay",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcl9OQ1EtTTFiSThIZmc0NF90QmljWnJDYzl6Q3pCcUVUVWExX2N1cWc2QnlpeXRxTmtlam9WdGhjTnV5Wm9sQ1BWNGxFd0ZqVk9NVU9XMVZmX0FxM3dEQmFOc3dxd1U4czRBYlhFWEZ4eGdjMnpPRTZsdmdUenAwSXJvMjA5TEZEeDVHZi1aTkI0ZlFzNl95MXlHeUfSAaIBQVVfeXFMT2VxOThTckF1cWNTNmsxZzRKa2NaSE9weTNVTFRUT3JxV1RFTmJyZHQza2VleG1Pc0VNUjFyVUdJZHBSRUR3eHJPUm1QdlY5U202Y1J4Q2FkQlJLRGpWY3hxa0tQUDZFVTRZemV1MWdiaVE1clV0YzdLRUUxdnZUN2pNamlUNzZGMWVxWHJEZ2pBbWIwb1czUVk4aEc1N2k5aXlR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Florida Poly unveils flying police vehicle - wtsp.com",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMkJ5YlFXLXNBYzhqRVhWS1JSdVQ1emJLbTViSkkyNlVsM0xxQmJCWmJCaTFkMk1HaEs1SjVHTGdlQnRKLUJDWXA5U2pyRjJPemcyUktkQlpzVWtEY05FTHB2aVUxa1ZCS1NtQjZZSmdwVlk5YjYybjlFWVFKcUxrUWNDUHRJMFBGODJxUVFPYkxpV0RnUUE1b21OVGxsYk5IMjN4b1BUMEE5X3pEOG81Q1VkeV9jakRXOXA3X0NUcTZPMl81cUlDUUJ1SQ?oc=5"
@@ -132,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

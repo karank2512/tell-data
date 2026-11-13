@@ -1,13 +1,13 @@
 {
   "domain": "100x.bot",
   "name": "100x",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.4,
+  "score": 12.3,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-23",
       "summary": "[person] Joins OpenZeppelin's Kit as Pepeto Tops $11.2M, Analysts Eye 100x",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDlqX1FWRnRPVGk3MDYzdmNMZ3N3NmMyQ3ZJdFpyZjhqVE5zOFJJa2FDRzVTeXNsNW5Cemh6VkFDaGwzR29lTUczQnl2cmZ0c0pUUXZBVkhnRGx2RGJESFVWN1RuckVGVzdMTjFnS0I4RG1NcjV0eXRvZTBhRDJMZjNKQVhTSm96eGFoXzRXZEpTQzZhdjhYclJBeWlhSFFsNnZmUHQxMS16WkxNZURHVmNPZldhTGJFc2dn?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

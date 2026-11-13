@@ -1,9 +1,9 @@
 {
   "domain": "kernel.sh",
   "name": "KERNEL",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.5,
+  "score": 9.4,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Nvidia launches USD BRep geometry kernel for solid modelling - develop3d",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEo0UkpkX21EV051Mmk1QXg5b3p1RERCeDJlaGhyX2Z0MVQ4TEhYRGNpa3pvLUdOdENGaTZfZUYyQzNOU1JzVWlIVDFxTlpXRXV6UnlhY2s5STNYai1MRVZRRkk5eVo1ZHZIdmpmRkJfQlFleXV2R2lPa2ljR1U5OG1uckJDTHN3SERhdVZ1M1E?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

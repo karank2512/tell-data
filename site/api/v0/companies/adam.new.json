@@ -1,13 +1,13 @@
 {
   "domain": "adam.new",
   "name": "Adam",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.0,
+  "score": 16.8,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Food AND Medicine Hires [person] As Program Director",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmZpT2NDVjM1N0JoRm5WS0UwUHhPR2U2NFFJRE1ONjkxbFB1V3RNaXU1TUlneWlnRU84alVnQ3F2WUJVNjhzWmtjdGdmeW9UamRjbm1RM0Y0MEtfS2xqTDY4NC00TnUxamlNWnBKbUFudmhjb2hDLXRMeHdkMURvR0dJUXdTSXc?oc=5"
@@ -35,7 +35,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-15",
       "summary": "IDX hires [person] as Chief Creative Officer to drive multi-market content and brand strategy",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeE5YN0JPVTc2VVdaR2ZyNnJxQnRwQ19TYk95MXFwcndNbm5GV0hoTmdNdTFwdjZsQ0x0UGR5WDd1Z3ZkME1qNUJGYjU2SDNCUGtGcm1td2ZiVlE2eXRYMF9Yc3RtRVdRNm5jUmpNQkRRNmZyaUE3bExiY19ZWmUzZGVUQkdaLTRlTDRBSnZrRnZXUWt3Mm1uVDBvazZkZw?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

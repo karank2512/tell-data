@@ -1,10 +1,17 @@
 {
   "domain": "bolsterbuilt.com",
   "name": "Bolster",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.2,
+  "score": 17.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "NCSC launches new adversary simulation scheme to bolster UK cyber resilience - ADS Advance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczdJN2dId3FKSFh0QTNySUFBYWpUbWZvV2NtaUlEWURmRm1IMV9hNHAxSlhVSkw5MUtDb2FxUVMtOWZqSEFSQ0Fxd2RFS29SUDdNTVhUSGN3ZG4ySkd0djN3aVRjUDM0aXpueGFmNUI5TTl0ekNyVTVRU01yV05QZDNSdHB4Q0xGbXExODc4UQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -35,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Defense ministry launches new drone headquarters to bolster unmanned capabilities amid N.K. threats - Yonhap News Agency",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91MkhmRkdZRjdZTFhFajVsMmlNNVEyYXhaam9zRjM2Z2VLc0xTQjR6SDNsSU1SLWFneVVackZwN3F5SmNFU2R5MlFyWTVQLUNRLXVsUFJKSTF6QQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "DNC unveils modernisation drive to bolster anti-drug operations - Bangladesh Sangbad Sangstha (BSS)",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yWHg4cU44VVVTb08xZjNwUHBDRFBRaUNzelYzWGdRMzJFQ2xVNFZCeWsxMzhjS1d3UUZ0bURzNUV6WFZGUk1WNVZBNVlUaUtQRnE4?oc=5"
@@ -63,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity - The Record from Recorded Future News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcmZZVmdPMkZqaEY0Nk15amVqbFZUQ1VhakRob1hkMXJhUGRaQzA4N0FiNmtwSlNTUFRURWVhdk5CdG1yWTZfNzRLeWR6Y1JIVHdFbmctTldqLThPSW5MVEZidFJvRlNGTU1mZWVXbDh3RzJ5S1hz?oc=5"
@@ -111,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

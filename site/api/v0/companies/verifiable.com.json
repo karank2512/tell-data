@@ -1,9 +1,9 @@
 {
   "domain": "verifiable.com",
   "name": "Verifiable",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.3,
+  "score": 12.1,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "GIST launches AI that teaches May 18 history with verifiable sources - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUliSUlqY3RxcGhXX19TdG5mZnNILUhSeHFQN0tyeDdMYUZBZml3WC1ROUtWTktXcDVVUE81R2pkam9fdk4tVzdVTktKS2FVOXlwN2ptWDRNNEYzTnExcldQbXRoYUlIWEJFVXJJclZMZ0xOSWFReVNhLWxFMWItZUswTXRXeEN2aEVnUmVtZjl4SXFw0gGUAUFVX3lxTFBNSWJJSWpjdHFwaFdfX1N0bmZmc0gtSFJ4cVA3S3J4N0xhRkFmaXdYLVE5S1ZOS1dwNVVQTzVHamRqb192Ti1XN1VOS0pLYVU5eXA3am1YNE00RjNOcTFyV1BtdGhhSUhYQkVVcklyVkxnTE5JYVF5U2EtbEUxYi1lSzBNdFd4Q3ZoRWdSZW1mOXhJcXA?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Verifiable AI Agents: TraceLink Introduces Optimized Plans for Supply Chain Automation - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qbDR1a1NleVhFQXphc0xzNzdfTUswRDRXbzNkcXF4eGctcnZCQS1zdVBEVWxnNHBWUGVETUR4YmFXZTNXaEJmeU4tcDNIbTBVREtFM0JQMGhwM0FKLXRlSTRiaHBNZw?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

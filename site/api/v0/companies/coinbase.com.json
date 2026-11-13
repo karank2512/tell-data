@@ -1,9 +1,9 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.2,
+  "score": 18.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -44,6 +44,20 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Coinbase launches $21 kids' book with $50 bitco... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUVzd4enJyQk9PODY4azZ4SWQyVlhMZ0NSU3FSLWhoNV81WFlMLVRtQkV5YUxDdWF6elhjVnpMNnBJMDUzOGtONVdmS292T3o1SlBpeHFkcXRacEVVOFR4V0FxLTJRdjFvZHNyYzZhVXdEZmk1WlFqcmZNYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Coinbase for Agents introduces new Agent Controls - Coinbase",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yOW9La3ZnNnBMU1B6R2xad0JKbnpLYmVTMUNPOVVQNlVBZ0FKdkZDaFRTNFZxdTJiVDRzWjNYbjRRRm9jWkVqNzkxT0twVWhVTnh4MEFyZmhJM3hDc29Z?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "Coinbase launches National Trust Company with federally regulated, institutional-grade custody offering - Coinbase",
@@ -65,7 +79,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Crypto exchange Coinbase launches Singapore engineering hub in partnership with EDB - Singapore Economic Development Board (EDB)",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDBEdzVnajVwaEVqcnFiVjRsMU5lM1NOMkV1MmtvRzlXWjhTYzhiT1NOU2EzN3d5YlVGXzBOMlBnNnhIR1V6eWdDdWg5XzdIbkNCenJIRGhFOXpQeFJZRkhEY0p2TWw3amlISF9IdjRHeG50cUprY1N1Znl0NDVyQzdFN1ZfNzZtSklrMlhJdTFKZlFHYVdYTk1fdm5Jd3NhaFExMnFfNndOZW5uU2JGa2JUcXNsaERnaEdxejh0UU1rMjVYUHc?oc=5"
@@ -116,14 +130,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Coinbase Launches AI Agent Wallets for Crypto Trading - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNG5abElrU3pPQlZrVTlmd2JmX3RrUFY0ZlFhT3ZOWHNBcjZtRHhnWE5TVXhQLVNhT3BRbHZqbWt0VUR6T0Q5S1dtTEhzM2hpY2VON2hkbDFGVmY3OGNWbzgyNU5JZW5GX2hyUWN6dVFuTmY2VmtRYU14aXpqcnJQaEx0SnRtMGtqV2pJeVFRdW1LQnowS1AzMnNpdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Coinbase Launches Agent Payment Stack on 1-Year Business Unit Anniversary - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzNzQ1Y0QkVLbGx0QXpEQUlXMHBkRUZhNkxPS09hTW42dWtaRk1CWE1wNXhqeGp3bmtXVllPVjdYM3hLenY4c3oxU1UtQkx6aEdqa0NmSkJadTVRVHZPNXNYUUQ4OXZYQkVVQzlDLUQ1VjBsUzV6dm1GR1pfTDN3RmlvcHM5bnlSSWMzeDhkeTdvS21MUWxxRlU3ZDNEbmdqT1hOOC1VMTJOV3VyRHZCMDc1M3N1dw?oc=5"
@@ -161,13 +175,13 @@
       ]
     }
   ],
-  "open_postings": 282,
-  "long_open_roles": 62,
+  "open_postings": 274,
+  "long_open_roles": 63,
   "sources": {
     "ats": "greenhouse:coinbase",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

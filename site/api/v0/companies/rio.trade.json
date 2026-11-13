@@ -1,9 +1,9 @@
 {
   "domain": "rio.trade",
   "name": "Rio",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.9,
+  "score": 17.7,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "UTHealth Houston unveils state-of-the-art mobile clinic in the Lower Rio Grande Valley - News-Medical",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQWM4a0Z4bGxWMVBKbTA2QTAwRUZPQVBoQW92WlBUVlYxV3ZXNmk5WE5sVXI0SDVCQ1VLQ2djdkY1M1M1OHVLQ1dtVGtaYmpPU2Z1TWUxTGpJWkphNGMxVWtNLVFZLWtHcmdWd1BTLWlUNDd3eWxpbm5qM1B3WTFkcFphWWNvRUpndmxMMXFLMHdEdmFmSFlRdzZBWTVsRm5Ba1dXWllDamFRdE9aQWwwaDB6Mllpc1BMZU5PM1E2bzNGOWl2WDU2M2NCRC1aSEk?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Comedy Cellar West Coast Unveils November Lineup at Rio Hotel & Casino - BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXdwOVJyRVliQWMzZC1YSGRLT2ZqR196SHdaSUNRVGV6X1FpWDFJMnZPaEF6XzN6bk0zdmRLaFlxcFVUejBnSU5SVy1kZDlUeDA5Z1l5OVNrSTB6cFZUUXVOaTlndVVMSW5iUmtLUjBKRFJRMlVGNkd4YnAxclFIZDhUdGkyOXRXMmhjeGRrOHh4TzI1V0IxZktQU0xzZzVSWWdEUGNnR2dqN1NjeWtxTC1wbVNSX2lqTmdoajYtMlphZFU?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

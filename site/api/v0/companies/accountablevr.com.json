@@ -1,13 +1,20 @@
 {
   "domain": "accountablevr.com",
   "name": "Accountable",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.5,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Accountable Unveils Private Lender Network and Vaults V2 in Chapter 2 Expansion - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wZ2t6bmU0NWJzaU1iM3hiRktCckdYdHVRYXQwdnBHNkVjUkVmSGl4N1VEc3FBemhhRmdSdDA1UW9HRVR2TG1sWFczeGJ2ZEJZS2FvamRheG1NQW5I?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "'Hold Us Accountable': TikTok Introduces Brand Safety Playbook & AI Safety Essentials As AI Content Becomes Commonplace - B&T",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXBBcmxxMnAtcjkxWjZ5SDllc295NWpGQkloLVpsYTZEZWp3NmRZSWJaUUJqM1BzTVE3UHBUY2UwOEo4SU9oV3hXQWphTldMRE9SczZkeXJJRzhfX3MxN2VMai1SVG9GYnFKTlE1N0QzejRPVTBnNHV0bElhWjZxa29aNTJmckhpV2VISjUwaUFwNjd6WmtVVkpfLTVBTm9nVGcyR1N0Z1JLVmJOZm85YTZHSUNqSkxOYUdua1U2cjg0dVVxUTF6QWdqYldIRmRwY2JFQ1pZMA?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

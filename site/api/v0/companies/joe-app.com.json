@@ -1,9 +1,9 @@
 {
   "domain": "joe-app.com",
   "name": "Joe",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.3,
+  "score": 6.2,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Joe DiMaggio Children’s Hospital Debuts Interactive Experience Donated by Rita Case - Florida Hospital News and Healthcare Report",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSmx1bUhRNDdCYWpxQlpuYmFnQ0dXUGhCNkFiNnJJak1KTHM3OU9jQl9NQzRWdGttLW1ZM3M1b3dPLUZhR0pzZTJLak1rRW5kVzZNRlh2b1NUTWw2ZTUyN1NLelhBbDJpZW5pWEs0VnRxQVpmc3lNR25WNzRoeUE0aGdlelFNc1g5SGJQQWFxeDFHNVZad2FuRFlFanhyUk1ILWdWNTJoZzZ0cV9uSlRkcHpuWG94MVpfOWlnT0FicGRjRGFMaXlkeDBEektMdw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

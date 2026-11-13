@@ -1,13 +1,13 @@
 {
   "domain": "hickorytraining.com",
   "name": "Hickory",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-22",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS1RKYkcwOFh2MElaYjFoY2duR3NhRzFJak4wb0Rfc1lvYTlHRExMRHVTMnJmZjFvVlNTdE1OZ1J4OTdfczRTRTFNdFVrM3pQNVE5Vk10RjBMaFNnelFFTzhwbm0xRnVkX1hudDVCMlRVeEVBcGVNUEk2cEt0alRVN0NwTFBBbGFFWU14OVcyV2p6cEVRT056WXAxTHBQaDNTOVdTM3ZzamFyaGkxbVRlcjJFaTBYNkJ6dnE3MDZBOXJodFFTbkJPWlVqcjJMU0VBbjNOMXlyY3FOX3B6anRRSjhvaHVyUFU1NlgyYldHeVZDaGw4dDNaV25WNHFiNFU?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

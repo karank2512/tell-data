@@ -1,9 +1,9 @@
 {
   "domain": "atlas.kitchen",
   "name": "Atlas",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 26.7,
+  "score": 29.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-20",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYV9ncFhvckZrbUxlNWJfTk00VmVicTg1UmE4cFVNa1pKZXNvNFROVm9taFBZQmpyWDNKRkZvUnBXWkRlSGIzY2phOWpTcHNaZDJxR28tRVYtSUwyUlhDcE1PMVc0b2s0dHVaSURyOUhyaC1RcFBqTUJkRzByQnFyQ3BSVEE1WEFqaGtvSlpUR19NUmJ5UFJwV2NVNFZCSGNjT1hXbXc5YmtEZjkzRE1xQ3l1cXZVZDNFb05uaA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Atlas launches The Atlas Media Network: A Studio for Creator-led Content and Media for Fintech - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXExNTdDVldadnNTOWFQU1NqNVNvdDFGa1JidnhwazEyYnpTcy1WS0swbkw1RE9RRzByU1AxMWtNZGg3RG5NcUhKWE1GSkxDWkV5bXZ3UDUxTXB5RUlDV29tRTZSRU5jUlpkVFcwUlBjLS1Zbk0yaVhfZW85SktYRjNrVGd0Uk1TMXMxbUVpd0lWN0lLNE10UFJEY0NRelRZdXJ1b1o1cmtGbFZqV0lfc2xjTUpYcXR2Z2M3S0h5LXpWSE10aVVmNUotaTVwT3BXNG1faU9kQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "DEFENDER LAUNCHES NEW ATLAS COLOURS INSPIRED BY SPIRIT OF ADVENTURE AROUND THE WORLD - JLR Corporate Website",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1JLbW54a3U3aU5WMEJtY2VscmVacXRCZGNqZjhQVW9TaC1DbkN2b191d0JCUHZsS0R4dTNlMFpkSFh5UlE2WFV3WEVNcXpKS0dGcXAxQjJVR0ZxWmNiYjNxNU1yd295TUc0bHJxZnVBNFoyNEFscWQ0QmVZSk5ObVR0dGtzTUhZNTI2Y3RtUUExQ3R4UC1Vdm9Sb0NsdDlFeXlhV0FoM2tFOG9MWWc?oc=5"
     },
     {
       "type": "launch",
@@ -63,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Acer debuts Predator Atlas 8 at $500 less than MSI Claw 8 EX AI+ with the same Intel Arc G3 Extreme SoC - Club386",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFZiZTdmSm5oNGRmV05QR241TUNVaGF5ZmVuYlE3U2ROVXE4YnVGcl9fZ0JJejNoZDJtUzRXXzRubFdBZHRkSHJEc2J3cEdCNEtXYnY0V1AweDI0NjNjdWlFZHQxTWYtY0tRcjE0V3lsdGp4dm1IYWY5cWZFbk1ZaG1qVU11VWJ1enNDbGhHU1pLMlNOZUhTWTd5b01tdFJhOGI2WWdGMG5FbHZMUUljYmgteHFnV0padFNZOExpSlM5clpl?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Acer Predator Atlas 8 Launches November 1 for $1,299 with Arc G3 Extreme - Retro Handhelds",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnR1Mm9WZ2ttYUY1T1RYbkNtaHA4SFMwRm5DTnNkTG45YzJMZFdKVzRYRlF0WHlmX3ljMUdFOTVhMzNQcDVFRE5zaFNJbU1zd2FwdW81U25QUUlqY1l5SEpNY29vZnFNWUYyS0FLbHl2MTJtVy1LQUJ2MmtsdUFtaVE2VG9nV0tlR0pRaWcza2Rtcm10eWhxNGNyc2ppdw?oc=5"
@@ -147,24 +161,17 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Nectar Launches Customer Atlas, Extending Amazon Marketing Cloud Audience Targeting From Display Into Search Bidding - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWhsSndJZzZZcFE1VkxHRVZjUHRyQ1VDMjdkbW1RemJuRllhVVN6NXFETU9nTE9qNk5kcVRPT0s0NXdBb3IwLVo2UG5HSmcyTmNHb0tUNTdRZE41ZHR3X085WkxYV013bmNySzd4ODZEOHZvX0JKemp6cldwc2N1b1NEZk1JTXZDVW12ejc0c29hNjduY3lOcG9FOVN6WFBES3hwU0JTeGNCckxn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Creallo launches Atlas, a free 3D viewer with built-in cost estimates - VoxelMatters",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdW1xS3lhd0UwZk96YkNpTEp0VTJ3UnQzYUJTQThqWnhwTjNhN21PYmxSUTA5RW9iZDJHY21MLUtKQXk5VS1OQllpWkRURHR0TW1SanJLVXJuMVlKMEZ0SG0zTkgxS2FjRXd4LTFBZW4zalB6RS1Eb3NYSjRjcm5rRTNJY1VsYzBOWU1KTWdJMk9CaUtEZUdWT0w2ckhFWlXSAaQBQVVfeXFMTm1OU3g3MG9sOG9keVJZeXRpamdmZ2FuMUZPQXZBWmNlcHo5cm9XRXhMdmZKdHN3R0V1YlI4cmNGd2hpSXY1TmNoNDd0R2NkV0tPODgxMGlVNzUtWkUxQXNRUVhOWnYyWS1QdUlUZVZMa0dSX3lEc1I1dGpSMlU4a05wZVBzaE5IckItYTVqeXpqUFVweXhSbHROM0g1UmdISkVkbE4?oc=5"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.9,
-      "occurred_at": "2026-10-12",
-      "summary": "Atlas unveils 25 Antarctica expeditions for 2028/29 - Seatrade Cruise News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVpPaEVGRDZTdExhVW5GTjJMVmRIS09YZk9FTFhiU3hEWkxyR2Z3NXo5aENOOWZDVHFYVTlvTjFZV21VRmpCOGNTVGQtMmZiQnVnSkVNOVQ2OGtoQng0ZUJoMlllbi1RZnhRcnNrWVZDdnVHSXhUR1hzeDJQU2oyNHlUdUprMV84aUZOWllQYTJvQUM0QlJZbVF4c0NlQjlGd3o3X2E0SnpOUGZiSDRCZ3F0NFJtM3lPT1c4MzJHWnpXckl0?oc=5"
     },
     {
       "type": "expansion",
@@ -172,6 +179,13 @@
       "occurred_at": "2026-11-05",
       "summary": "Intercity Bus Atlas Expands into Fall - Bureau of Transportation Statistics (BTS) (.gov)",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LcmUzMjFKN0FCdEdoOE1NNW9XdUdkSWZBZ0pYWDFTSTlNd2RaYllSWDV3SnlIWTZJQ0x6eHFUV25LMU1URm5vWG15azB3dVNZckttM0RjM2ktM0hRaVpWbjAtcE81Tl9PT3dRWHZB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-12",
+      "summary": "Atlas unveils 25 Antarctica expeditions for 2028/29 - Seatrade Cruise News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVpPaEVGRDZTdExhVW5GTjJMVmRIS09YZk9FTFhiU3hEWkxyR2Z3NXo5aENOOWZDVHFYVTlvTjFZV21VRmpCOGNTVGQtMmZiQnVnSkVNOVQ2OGtoQng0ZUJoMlllbi1RZnhRcnNrWVZDdnVHSXhUR1hzeDJQU2oyNHlUdUprMV84aUZOWllQYTJvQUM0QlJZbVF4c0NlQjlGd3o3X2E0SnpOUGZiSDRCZ3F0NFJtM3lPT1c4MzJHWnpXckl0?oc=5"
     }
   ],
   "open_postings": 0,
@@ -181,6 +195,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

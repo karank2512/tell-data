@@ -1,9 +1,9 @@
 {
   "domain": "moda.dev",
   "name": "Moda",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.5,
+  "score": 6.4,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Olivia Bay releases Admítelo, third single from her debut EP El amor no está de moda - Foro3D",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHRZZktzdjk2bi1CTk5oRXZYVW1oOXFNM1VqbHFGQTJoQ2ppZXRxb1B2VDgzbGY5dFRJTTZ2NUhRUTY5cTlRbDQ0djBndEJNZDdQaGx1S0Uyd21veG5HMXJOdHQtX3UxN2xvUWpRYUhSQTdCazZjdkVPLWpDZl9kOGtLMkxqZDZWcFRKN09URWJVVVhHWF9udHBYeDdScVVRMmRVdkdKRFV1Q05GdjNJ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

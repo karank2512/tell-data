@@ -1,20 +1,20 @@
 {
   "domain": "egoai.com",
   "name": "ego",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.7,
+  "score": 17.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Dragon Ball Super: Beerus Officially Introduces Its Strongest Ultra Ego User - IMDb",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xeldyUU5PcVBleUlPNElORXJDVkoyb1RmLXhHMENPNnZSdmhQTlVIdUtWcVRaMmlEZXBjYV9ZM29YRXBJYUVLaXA2VlpwSnh2bHhUV1ZzQnpSRGc1YVhmZ2Zsdkk2MkU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Dragon Ball Super: Beerus Officially Introduces Its Strongest Ultra Ego User - FandomWire",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PZndlUjNudzQxRXZWdVVuSXVGWUVJUFI4RFBydmtrRWpjY2FuMUZHWWU4d1o1dVFnVkE0bkF1aElfS0UzNk02QU1Ld3haMUY3N19jX29yY1hmdFAtd1Y2ZVNYUjdpZ0JZdUVVWGRlSTNsTXdCSjBCbGh1M2xXZw?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "EGO Unveils Next-Generation Hedge Trimmers - The Landscaper Magazine",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrX3dGOEpTVVZmUHpjRmJTUHA2V3hvZ05Sa243c3IybHJkZWhhdTdydDlyXzJqbjV0R3B0Umw5Uk4yODFBc2xYWF80ZXZDUW9fUFZfcDh3dzJzRWkyREVEUzlfeWxtT1Uwb2pLSGsySWFGN0lmc2V4VU1sVVQtRjg?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

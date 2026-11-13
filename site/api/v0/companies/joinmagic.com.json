@@ -1,10 +1,17 @@
 {
   "domain": "joinmagic.com",
   "name": "Magic",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.6,
+  "score": 11.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Travel through time, magic and romance with these upcoming book releases - Daily Bruin",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2o5Wk0wOVRxaldNc3hvUFQyQ0R3UnVUcTZlNkRzYW9OMzg4Rmg0clM2eDk1bDU4bVJOaUI4d1ZGXzI1VTJfY0JLckhfQXoxekZaS3pXVVYzNmV5ZFh0cm44MkpJbFVaVTkzay1GQzBaVHpHSUVkRkVGaFgxcHRkT2FVd2VPckZ5UDllOGk1U0lwbEl4SkwzcmdSM0c1UmFmend0eWlrQWU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -56,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Yurina Kawaguchi Releases New Magic Knight Rayearth Anime Ending Song Music Video - Crunchyroll",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkNLVkEwMVlqSWFkXzFueWt4bHV3eDFxcFFldjJIOXhmNzZwcmR4T1hWQzhLcmlxeFlITFpzLW9OOUhrcndQbmhFME5UWW1HZnRWaTVFcmVIRFhBQ0cwRHRrdVFod1l2My02cU51X3dSazkzNXVqYkdmX1ZKVW51MkJjU013Rml1QVZYU3YxbjBsMHd6NDk3Ylh2aC0wNFQzUTNXZGl3QTBpd1lyd2JVQlZnZVB6TmJyUlEzVUE4MzU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Magic: The Gathering Unveils Two Reality Fracture Secret Lair Drops - Bleeding Cool News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdlprWGY5UG02ZWxqRW04eDlDbHA4TUNFbTBGc05meWRaa3ZBd2t2VTVzcEl3M3RfbHlUdnRwWlZzVnNBeFh3dzNpYkJnd3ZrRjVkWWNnaUlrQi1BTENlY0ZpaTdLaDBLX25aWnhJTkdLOGZkUzY3TzBIN0s1MklQLUlNd3hqeWRhdWFraWZNOEhnT0VJNEwxSlprejVrVjA?oc=5"
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

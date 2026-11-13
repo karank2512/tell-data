@@ -1,9 +1,9 @@
 {
   "domain": "newstoryhomes.org",
   "name": "New Story",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.5,
+  "score": 15.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Wuthering Waves Version 3.8 Launches November 12 With Lily, New Story, PSSR, and Gameplay Improvements - Noisy Pixel",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWFVTaWhPdldybG5jMDVmdGpBa2h5V256YjZ5WlN1QnRVVDBiU2hxVlJYbF9XM2tMRkF1UW5sS1VJOWtxNzVfUmJ1QWE3S1FEd0NxZDJWWnRtb1RQTmVqYUUtZkR0dmFzSzZtbWhBMXNrbzZRNTczMXM5NEx4eXZJVQ?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "The Wolf Among Us Remastered Debuts New Story Trailer, Pricing Set - Console Creatures",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSDFaSThNN3hzRmg0VmljMFZPcVkxYXFUN0dQMHhuZ2oxWm16ZE94dXZENk5TY2tSc0hTeW83U3NSS2tlc284OC1nNEZpazlTVkpsZF9LVmpodHZSMWE4VTItMHlrTUtxamt0d2FkWDgtczlTbTI2SUpRZXpKbEdadzl3?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

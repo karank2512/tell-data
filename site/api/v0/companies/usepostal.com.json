@@ -1,10 +1,24 @@
 {
   "domain": "usepostal.com",
   "name": "Postal",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.2,
+  "score": 9.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "US Postal Service unveils new mystical creature stamps for 2027 - WSPA 7News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUUpTSi1laGNKSmZ6Rkk3bDZOeGFsQkFTWHBROE9CMzBrQmxLdm0yOEhZQi1ZSEdSMVAtTEV2blUxRDk4THBXWDF5VmhHU1BuTFVXcHFDdk1GdFctVVVRV1duN0xzT3lqeUw5ZjVCSXVkN21KLWkzaGMtd1BuSUtXXzZVMTd1NTF6VlFBRTBWM1BQdklsZzhsanVwZzFVcVFPOHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Daddy Yankee Releases New Album 'LA POSTAL' Featuring Cardi B, Diljit Dosanjh, Bizarrap And More - Stereoboard.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83OUNzVlZLcU4taFlPR3BNUXU2dEhqenAxejRXNFJyQnNib2hZcjBzekRPVlotc19TNE5YdHZUMThtby1qUzB5ZW5ENHlOWlp2ZXBjZ1RHOVF1bWtqa3c?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -21,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "US Postal Service releases postage stamp featuring Diwali | Hindustan Times - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTUtpalNySUdaQUZhTmVIdFNFUmt0SGhMQXNqU2ZlelYxVlpjZk9tUndUN1p4LXdCNkZMLXBBV0NPdDA4YUR3UEZJUU5ubnMxVWVZVzVac3ZjMk5aZVJMQ2lMa2wwWGxLWUZWNDRlOHhyWkxhSkQwdXNwd1VnMk02azVqSVJscW9hSFlSWU9zVldYNW9vTkxQMG93SlR4cS1yalRkNEktSzE2Y3QyRXRqM3hfUEZTY21uLU1pSXhDRlUzbVJmdVhr0gHMAUFVX3lxTE85bzJjeDcxMkVCVXF3VXB3WFZxR2NoeGJBdnBaVTZabE5tRk5vN19YaGs1TWNUZ3FvQzlUeHptcHNCUjdWMTU2ZWdWblBrVlh3QkVnbTMzek8ycktIUDE4Y1RNZE1Bb19sY1F6X0d6R082RWpXMkh0amg2OVRYTEhEdnUtOUhvaEdNUURHQVF3Z3lweV9DckMyb3ZsN2JsY3VFVFZiNUkzVVc0TUZjUmFydVhlTkhSWXRIcWhYM242Y2VJOFloWnhlZjJfaA?oc=5"
@@ -55,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

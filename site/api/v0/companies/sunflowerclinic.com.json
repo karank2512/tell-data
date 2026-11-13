@@ -1,16 +1,23 @@
 {
   "domain": "sunflowerclinic.com",
   "name": "Sunflower",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 25.4,
+  "score": 26.6,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.5,
+      "contribution": 20.4,
       "occurred_at": "2026-09-28",
       "summary": "Form D: $20,000,000 offering, $14,902,982 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1876339/000187633926000003/"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Grand Junction airport launches sunflower program - WesternSlopeNow.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHJmTmlYcWNvMGN1bC1GRzNYZUZkS0JmVmF1TkR2V3JMX1dyYTViMWFrN0xBRFRudi1Ddzd6UWxrRGRQT2FhS0pvcy1NSnRkWDhXSEdlSVB5R3V0VU1yR083cGhHZVRBaWI0Z05oVG9yVHg1MkJUbnBvMU15VkZhclVvX0c0REVSVTF6QnpvN2h4ZVotY3fSAZYBQVVfeXFMTkxyZk5pWHFjbzBjdWwtRkczWGVGZEtCZlZhdU5EdldyTF9XcmE1YjFhazdMQURUbnYtQ3c3elFsa0RkUE9hYUtKb3MtTUp0ZFg4V0hHZUlQeUd1dFVNckdPN3BoR2VUQWliNGdOaFRvclR4NTJCVG5wbzFNeVZGYXJVb19HNERFUlUxekJ6bzdoeGVaLWN3?oc=5"
     },
     {
       "type": "launch",
@@ -35,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-12",
       "summary": "Kansas releases updated depth chart for the Sunflower Showdown - 247Sports",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYk9qNkZmWU9UdXpBcENQbmd0WFpQdmktWG1uSmdVNkZjSVNOaU9jd1JMci1XZS1Bak1tQ0lSTERwYnBzd0Q2NjRLRzdSWHI3NlFMaU1FWENsUG9RUExsWW02bGhBQkRzRDZrNklGOHVtbVAtQ1pQdm9iVTlBdEdPTnBGdUtFNVVaT2pFcGlQMmplc2c1dWk3Q2lXZUZ5V1A5RGVuelg0dU1ObW9RM085S1d6dWZVdURZQXlFc2VDd3M?oc=5"
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

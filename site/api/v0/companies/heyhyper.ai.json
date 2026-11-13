@@ -1,9 +1,9 @@
 {
   "domain": "heyhyper.ai",
   "name": "Hyper",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 24.6,
+  "score": 24.2,
   "contributions": [
     {
       "type": "launch",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Introducing the Hyper Cave - M2 Magazine",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzejBFRXlIRElmMmp0cEsxb0ZlWmhlT0hfY3A1eDVkTUliRUtIZW0wWERiQnVXMzBwM3VFTzBPSE9oZnE2MWVkdUVob3Qyb0xTSGtOQmN6SmM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Geely launches hyper-efficient new hybrid sedan that can run on methanol - WhichCar",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWVrallEeXNaNU1EcWxwTjJYdVV6T0V6OUR4ZDF1Uks5bGJPc281Rk41dkRxUU1SSVVPeDBOb3Q3OEluVWNjbURfUEZlaEk1UGhjNXNQLWlodlo2ZkxPTHBVZTdvMExRdjUzRDQtWVh1d1N6Y1FZcVNEeEE3MnpDdmh4SmJ3OUxObzJJ?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Bigwave Robotics soars as Korea launches physical AI platform Hyper Foundry - CHOSUNBIZ - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWDk1emZZUUhLWW5LaFFiWS1KU1NGMUE5b3Z0Sk1OUlRBZzNub3dwbnZxUENKOHc5Y19yTFZnWTl4S19rMVlQRHlVLW9CQzNma01VclpkSGlwcmZwcmg2bHZmaFcyLTRVaG5IY2FGYWlMRXpGZHFiQ1hmTE1pR2QzbdIBlAFBVV95cUxQMGpBTV80RDcyV0VLYy00NlV2d3JDaDI1ODZWd3I4NGlaeGNFOUpHTk8wOTR5VmtKWWVjNDRkTG9MeUJtT096VjVzRVl1YVR0emo3UV9WOUpFVFdEMGZYUEI0U2hkS3BNUXVEXzIwbHdEc0FuNkhGUXFTTTV2WE1aSGpLVFFlQUFSTzgxSVY1RW9ZTE1y?oc=5"
@@ -133,7 +133,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "ONLYPLAY unveils Hyper Play initiative and refreshed brand at SBC Summit Lisbon - Yogonet",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY3FobnRlT29QdUljWU5DWjlobWpIX3ZfYTBVVFFmSHByRGE4aHhzalZLOWxnaHdIYXZ3U3U3Q0FTSEpYSE1vSGRZVTVNNU5UWEhzQldyTkplcEdtQVZkOGNLRlZUOWpqQzBwZ0FCQTVORWZOdWlDTmxWaE5qdGFlQm5wNlZUWC1TaTBudzhRalVPZUc3clpSTnVlMHNPekVZUVlnTlZ3TlppLWptcU9yNG1jcGZMVGR3RVVqVG5LV0hyVnplTnlyTGgyV3dZSXdIRldRVXlpOA?oc=5"
@@ -167,6 +167,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

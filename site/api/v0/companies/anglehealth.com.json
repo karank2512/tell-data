@@ -1,13 +1,13 @@
 {
   "domain": "anglehealth.com",
   "name": "Angle Health",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 28.5,
+  "score": 28.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 28.5,
+      "contribution": 28.3,
       "occurred_at": "2026-10-29",
       "summary": "Form D: $600,000,001 offering, $591,524,799 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2157581/000215758126000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002157581",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,10 +1,31 @@
 {
   "domain": "boat.dev",
   "name": "Boat",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.5,
+  "score": 18.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Master Boat Builders launches fourth tug built for Maritime Partners - Business Alabama Magazine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkktbWoyRGNsY3pwRHluWGtLUlVMYmYxY29GS0JnVEZmb29oUkxqcE5paW04NXkzMmdydEw0SVc2bWd0Sy1ycW1HcjE3OXQ0amtFaXVyR2dEcmRiTnVpR0Faamc5bmlCS0dJbi1aVHpFVDdpOU51TE5jT0pqUy1zeW1LY19YZVNwQ1RDeUZxclI0QkJyLWV1bFcyR2V1dw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Master Boat launches Intrepid, fourth of eight tugs for Maritime Partners - Marine Log",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObFBfR0xDMnlHcWM4RU1IWDRETHhMTFpIaDhleEF0aVY0VkwyNUhnZFJMSDNlMFFjalRUX0I3ZFREWmdCdXBDcjRoUE4yY3Q3bk9fWmh2STdiejdZaUFmb1lUelhlckc0T1lySWJzRVpfV1lYT1dsSy1aa2pld3VjNHdScVhxSGpkTGdJWDVCeVhtOTNBV3QxVVRidmc2cUlFdkRhcnRaendsdVFoVlNyNThMNUk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Master Boat Builders launches fourth tug for Maritime Partners - WorkBoat",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGYxT0ZoZmpYd2l1a1lRNXJGV3pBNkVvV2JHVDk3QVpHbm8xdGxnbFF0OEMtRFFidDhBMXlTOFdrQ0Z2cGxQSHlybU81SUNyZ1RjTjNsRllidlRaTVVZS3BVV3pINkFPRjY3MnJCY1JBQnhiRjgzc0hweXpSSVhkNFBTdHYzVk5IMnhvSi1LNEk?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Brown County boat launches to close for the season - WLUK",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZUlRMk1ZQjQ0eE5xb0lzcjlrcGZPeXRPV1drVlhad1QydFVobURlQ1dGdlFZd0YyTDZxMF93ZUE4MFlFVmpacHFMam9BOFJPcnJqZkktWGJXeG1aX1FZeldfMEk3TXZvM2hueFllZVpTakxXRHJCVE5NMDA4Tkh3b3BzWGR5aEtjM1dpajg0ZktFM3JvNHo2aGtqc092eXk5cXc0TjJDS2NGVW9ZUWhjN21JWi1sQnVablN3M29fQ3FoalVBZmtyYmFNZlNWbExPV3B5VUNEWml4V3FXVWlBNUVYUE5PU0hEZXJOTGZJMDJ6dHJJaW9NaGZUejh5ekdxejNj?oc=5"
@@ -63,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Bellingham, Whatcom County move to add fee for private boat launches - My Bellingham Now",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1VmMkVtUnVKUE1sc1VSb18xMHZsY2xGNF9NaTM4bHhiLUZDMkxLNFktV3hKaF9rUVU5bGVxSmlaSXNVaEJKZlBtSkhkeXY0RUpidTlBZ3lYU3JObVJadm5tSHJKc3hpRUMtMWJKd1ZGbFUxY1FzMDh2aWhId2MtT2RtdHBPYThjdm1RRGVPdVFpMU9WVkYzZzQxeG1RWlRra3Z3NE94NmJzNlNG?oc=5"
@@ -84,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Massive humpback whale launches out of water, slams into fishing boat off Long Island - New York Post",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenk3Ulk1eWZndHZYR1ZzNndFbEVUNS1mbi1KRlVmX2ppeGpTeUtCZ19ORERIME5RR0FzOS1mQzFlRk5oT2xFcE00VWc3czRfVlNRbmJPbm1STWR5VG5zQTFwUEhPcXRJUTR3S1M4WlJFTTVZcDZDMFFUb055WGxaZmQtS3Y5cVlDWDZwVWtrSTFZSEZrNWszSlJUMFZoYXlUXzRHQUttZkpCN3NHTUdRcTdyMTB5UQ?oc=5"
@@ -97,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

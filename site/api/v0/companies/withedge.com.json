@@ -1,9 +1,9 @@
 {
   "domain": "withedge.com",
   "name": "Edge",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 21.2,
+  "score": 20.9,
   "contributions": [
     {
       "type": "launch",
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Garmin launches Edge 1060 GPS bike computer with voice control, alongside new Edge Explore 3 - Road.cc",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFJONGJSb0NKY21VSTM5X3dUcGFMTW9jYWdNaEREdm5oZlZ4bjR1eXFueFRvb0F2RjJBZGtRTWxIdmtsWHNGSTJUOHl6WUc2RnlIaTk3ZjlRNlFCUkZEWEFWTGJ5NmhQbUNpVlpCMmVXRVpIcnVSNVJraFNPWUViMTlxWUFyWVlhc3RGV0laSVJkbWxsLVVTZE9LeGpWa29mQ2RXUUY5cFZiS3o1ejhTcGVNRnp5dEN2?oc=5"
@@ -84,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Teradyne (TER) Launches Edge AI Test Platform, Is The Upside Already Priced In? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVG42N3gwdWVDc1VkZGhZenRDaWREVjVScktLTDBXQ29CN2NoQllVazVqdExKLWprZ0ZieGwwQlh3R1ZseUZ6bkgyQWZfaUJWTGdMYnI4TnZoQVlhS3lPREp1cTB1NTR5UU9oa241S2xFWG5Kc3NGZGdFaXhYYTFGVERqSlZpNDFGM1pRNGxxR3VzSUlrQndlcw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "AdventHealth Lake Wales unveils leading-edge robotic surgery technology to help patients heal faster, closer to home - AdventHealth",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV21mMVE3SG9ZYk9BdTRMckxIY1Y1ajBfUEZKZ1pFVXBJVC1BVHk4VjdvZ3BZcVYxOHFQdjczQ1BDVFJaeW9pRjM2V0h3S2UtLUowMUZLSE5NRXlCdmdXa1V5a1diMzhMeTFaNndncU8zenRtR09wa2pha19BUHY4TXJJUHl6RktwOFo4alZadm0weXd0b3FlbHRkbG8ya3dOTm1rOG9XMG9FR3N6TGhselNVQ2N2Z0FHQUcxMkdWeEdlVldwWnl5d3J3?oc=5"
@@ -153,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

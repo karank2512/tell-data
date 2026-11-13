@@ -1,9 +1,9 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.6,
+  "score": 11.4,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-25",
       "summary": "[person] Joins Jerry Harvey Audio As Director Of Sales",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnVOazBqanFSOG5sb0x1Y0lzU1J5X3FQa01jMEx0di1naGZyRVdiWDFIY01WeTRPODVMRUtiUWtJTXNxWEhqRGRqcUZDUDhseUhQMnlPS1dOajhWZnlodi1qNF84TU9jcXh1amxpWGtBamQzVXVreG5tcWdmTW5vNXNnWWhhNGFsN2lwWUxaMEZlcjk3S040?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Jerry Harvey Audio Launches Universal Plus, Bringing Custom Personalization to Universal-Fit IEMs - Mixonline",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNjk4S2JfWXM4VG9BTXhqMEpnSzJ1dkctVnVnTWt5cnZZRmUyU1lsb1NzX2dtdnpTU0otYTZUd2VVb2lmZjFLWkVEaGRZS0hmN0h0TkxiMmR2ZW1NVmNkbGlZRnpHZVRLb1VzUmtDSzVkdXJ4T2txRE1objg0U3owZmFSYkN6b0F4SVB4XzNFeHVfNHhqcUczSUoxLTA3RHZadWlaQmZUZktqaTk0R3NqN0RDYkhqeVVrWmQ3RWhxM2JkYTVfb3ktS3ZMOA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Kamen Rider MY-TH Launches Official Tom and Jerry Crossover - Crunchyroll",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1hONTZqWHd4eHRPVklNSHZjMG1MLVZqREZCVVZPVUxFdFJ5OWlSN01WVEZLckpObW9SUm9yVHVEZ3VzcEtaSExGUHo4bE94bU1jM0RMNHZkUjNERV80UXBCWjhaRjJ6QnpXMjRvMmc0NGVwMkZwd2xMcE1rTG1MQkhsdHJMRWJ0WjM1TnNCRUlldlpEZVE?oc=5"
     },
     {
       "type": "launch",
@@ -84,19 +98,19 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-22",
       "summary": "This year's 'Scoop University' class is the first to learn at Ben and Jerry's new headquarters - WPTZ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 32,
+  "open_postings": 36,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

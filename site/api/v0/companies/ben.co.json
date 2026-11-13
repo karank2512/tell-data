@@ -1,9 +1,9 @@
 {
   "domain": "ben.co",
   "name": "Ben",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.8,
+  "score": 5.7,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-26",
       "summary": "[person] joins Capra Bank as Head of Commercial Banking",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmViaWFtR24wemw1cGNrZkhINXpvZzVOc0ZmRF9ObXZ5Ym5WMVFvU25rT2thVENOR1pJSlZBX29abHVJNGM1eU9lY29nSnVFd1BCREo0NzdXUmRLU3BKX0xtNlVuTGltbGRPWGZKc19wU2hJQnVUcDdTemFvR09xOHQwNXo3VWlFLVlXcjNPd0NDQlMxYjFORUQxczBKckpJUEE?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

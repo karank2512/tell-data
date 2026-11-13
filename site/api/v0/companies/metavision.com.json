@@ -1,9 +1,9 @@
 {
   "domain": "metavision.com",
   "name": "Meta",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 21.3,
+  "score": 21.0,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWThXdnB2TE9RM3M4SUQ2NTZhc1Y0SVBveGpsQm9ySU54VFFRTWJmVjdodEJYLWlmemwzeWlfdnlUcUdfU2JmUm1EdGFXRzdVZzNPcUpEV0dmVDhPRDVidzRZVzVkM1NnWi02NTMwekRRN01YLXZ4RmNYekpvSW54cUlPR2VIX2hJTW1kOGd5ZV9pUldRMExwTjE1dE5Ea0hYT0FhdnFR?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Meta launches $35 billion stock offering to fund AI expansion - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0V3QzVreFZ5N0ZYTWdzVGExN1lxeWpSVG43T3JHUXNtUVdmRElUVEhqXzJVWnMwWEt2eW0ydmJ2MGw5Ri03aVoxTE93VkJtZ3RtS0ozWllHOW5EVEUtRmtna3NONVdNdXNUU2lpa3hrSkdZbkM4Ym5yNEtqRWJUYkliR1NfT1XSAYwBQVVfeXFMTnA0RG0wLV9zYmd4c0pMUXlEMjJkMENJWGdkVDIwVlFkTG9lQThqTGpIczlFaTdvVGtnTmh2anhyazZfV1BmdTJxTDItazZlMDNBZ0VqOHJEVUVfM0I3RGgxWUh2aDc2Tkx1NFV2MVNSRGNVZWJLcHBtRGxIaDc5anN4WTZMNjd4UUhzamo?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Meta introduces new brand advertising formats across Facebook and Instagram - Search Engine Land",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEZJc3RGUTEybERydUp1MkZSUVdydG82V05fYVVoQVFLaWROaDYtTWxkR2JVaWtPODNfLWRWOU1vNUZGRVlLV3lxTVZSMDdxNG1VYm41OWZKTWM2X2wzTlI2NExhU0lCOTRRd3ZpVzQ0NklZOXdxQy1rMnZTQnZmNHViUGdLOU5KYzk2TVNSYUNrX3MwdFp0Qk4zOHZINFBidlFHR1YybHFRektMbXJQdQ?oc=5"
@@ -153,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

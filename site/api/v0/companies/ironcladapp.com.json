@@ -1,7 +1,7 @@
 {
   "domain": "ironcladapp.com",
   "name": "Ironclad",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 4.1,
   "contributions": [
@@ -47,13 +47,13 @@
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVHhTVjE4R0RKVENNTV84MVdRa0RNblhEWUJSOWZPSGwwT1Q2SlY0VlJiVGlacFVzWWFiamlEbGZfTUh0N0hFekZVNDd3SEo0NWpBZVBIM2Fmc2twS3NpM2NNM2dZTlBOajhFRGwwVHRtbjR1dWtJVzFyWHFYZTFkOTJoLVFwNFA0NU9VUFFDSkNvVWZZMFlFVC1ZUllqWmJPcjNBU1dHQk1ZRlR4UFUtR0JqVGRIYVFrc1lSakp1aWM3dlJEd0NzWkxjaVVuTV91Vl9mcWRWUW1QV3puXzRQZFV3dTVmN2xTcksxWGd0WFlwVF9oelNKN1gzTHB0WGFzR3AwMjVyZmFLek5xTW9MMTZFMEV1LWc?oc=5"
     }
   ],
-  "open_postings": 24,
+  "open_postings": 23,
   "long_open_roles": 4,
   "sources": {
     "ats": "ashby:ironcladhq",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

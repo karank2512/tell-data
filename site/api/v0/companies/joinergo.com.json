@@ -1,9 +1,9 @@
 {
   "domain": "joinergo.com",
   "name": "Ergo",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 11.6,
+  "score": 11.4,
   "contributions": [
     {
       "type": "leadership",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "ERGO NEXT Insurance Launches AI-Powered Property Inspection Tool for Commercial Property Insurance - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORUh2el9xSjJqRUtKaXh4QjQ0UlNDU0ozZDRWSnp3VjhTd1FFREk2R3hDNXRYUzV4eXIyS0FEUGZJZzhNWGU0Zm5ib28wN1hzOUpjMFVaRmUyeDloNzh5UkdiajhNbm85Z0VHNFlBWDN2YXJabzNJRWlIanJ6anByY3lNWHVRcDRiZVl5cDZPcHZOamRyVl9pUm1LUXNNNmhRN1dpZlYxQTdWck1kMEdsZ0ZNRGh5dDBwOTRZU1BESzQ4ZFpQNHlYUm5JSlpRMTBCbktsV2o5amdsN3ZWblV6N0ZMcEJRc1ZzRGRHNjF1ZmVnX20yYW9OeklJWm51SVRXa2JaazhHUdIBhwJBVV95cUxORUh2el9xSjJqRUtKaXh4QjQ0UlNDU0ozZDRWSnp3VjhTd1FFREk2R3hDNXRYUzV4eXIyS0FEUGZJZzhNWGU0Zm5ib28wN1hzOUpjMFVaRmUyeDloNzh5UkdiajhNbm85Z0VHNFlBWDN2YXJabzNJRWlIanJ6anByY3lNWHVRcDRiZVl5cDZPcHZOamRyVl9pUm1LUXNNNmhRN1dpZlYxQTdWck1kMEdsZ0ZNRGh5dDBwOTRZU1BESzQ4ZFpQNHlYUm5JSlpRMTBCbktsV2o5amdsN3ZWblV6N0ZMcEJRc1ZzRGRHNjF1ZmVnX20yYW9OeklJWm51SVRXa2JaazhHUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "ERGO NEXT Insurance Launches AI-Powered Property Inspection Tool for Commercial Property Insurance - SME & Entrepreneurship Magazine",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWDA1U2hKSk1LcmwzNHlxVzRZc0gtbEJ5UmVZdHFmbHlobDFOZWVsZi1vWDhyeVlkelFsVGlnaTAxcV9ubUZ3elFXZnVUY0d1ZlBjSk5qc1RyMVpTNXdGalpCTl83Z2Z6RUVTSml0b0REem45RFJXaTY4NjE0WnloaWRYbURtUC1sOVhCU2NabVBkcGJ1TzVQU3pOSlQ0bk5JV0RhQVZxNFJaODRRLXktTDJyTUpiOWc?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

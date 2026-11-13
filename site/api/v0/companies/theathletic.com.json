@@ -1,7 +1,7 @@
 {
   "domain": "theathletic.com",
   "name": "The Athletic",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 1.1,
   "contributions": [
@@ -13,13 +13,13 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmhnQXpZRTVSaGZJMEFZU1Y0ckZVaXFQNnlOcXJNQUxRZjF6M3N4bG1ZYmM5NDFUd1dfRHhpVGNaYVRtcVVzUWF6VExNRTZWLXlHQzJlaG1QaGRpSXM5eV9UNWtoSUJqUjREYl9hVU5RWmQzY3NyQ2QtU2Z2dXo5NFZWbGVlVnFOLXVKWTJKNEl2SFdhaWc?oc=5"
     }
   ],
-  "open_postings": 10,
+  "open_postings": 11,
   "long_open_roles": 2,
   "sources": {
     "ats": "lever:theathletic",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

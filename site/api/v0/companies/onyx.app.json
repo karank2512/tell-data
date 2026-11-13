@@ -1,9 +1,9 @@
 {
   "domain": "onyx.app",
   "name": "Onyx",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.2,
+  "score": 16.9,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "The Crawling debuts at FilmQuest with Onyx Forge practical effects - Foro3D",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1NyX2hZWDZzOUdCeGpLQ2dFRVJaOHM3WC02blB3MUxQUUlvdmhpdjZEcXRiVXRjMk1qM194aVo5Z0J2WWtoNVJQMnYxS2xfR19mWVktd3NpV1J6TmdBVmU1ZUl0SEVYVXo5MVpRVDQtbUhaejZPNEJnSTNsNlNuUnljLVk1QUV0cDdIY053X0RqRkFHcUh6SGlCQlpLcUstMnZFR2lfSTQ5dzhY?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "An NRA Shooting Sports Journal | Canik Unveils Onyx, Phantom Optics Lineup - Shooting Sports USA",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNFhMSnJmeXNtay12UmptOTAxNThuUFRMa3NzMkUzTmdhSHhIR0gtSDlRZ28yTFF5ZVN4R2NqdVRJNGhWQ2UzS0JzV3FzOVNaXzFPV2NtYkhFN1c3Sk4yOXZmR1JkeGdrU0dtNmpkbEl4UGtxLTUxZFRiMA?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "[Today's New Product] \"Refreshing Even Before the Capsule Pops\"... Philip Morris Korea Unveils TEREA ONYX - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkWk9QNEc1aVB1TkkyT1h5Tm5LUjFjRk10X1p2NC1TM3JzZzBlb1poeDk4STdyNzRBai1kaWpSS2I2LS1rY0hXRGRlbm10Tl9XWGNLU0VxOTY3NUZIZjV4U2dVOEY?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

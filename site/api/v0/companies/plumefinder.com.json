@@ -1,13 +1,13 @@
 {
   "domain": "plumefinder.com",
   "name": "Plume",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Roundup: MikroTik launches HaLow, Bluetooth HDT is official, Plume & Google dismantle botnet, FCC's ultra-wideband NPRM - Wi-Fi NOW Global",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaXV6dkh3ZFJTM2VVcGY4dzJ2MjNVMlRlYTU2WmhaQmw5VmY3R3FuSThYUFMzblNjNXFiak0tZmREUFJTWjd0SkY2QjN2VjY2VnZmeFNTcEZqMzh1b2ZKYWVaalY2QXlmeTVtMUo5WnVlUWFid0ZRY3JieXZCQ1hXbXJ1ZzZGZmpCRFNvOUE2VHV3eGFWem51N2k2VTRoemFBc3M2clAzUkhDRnhCUHpCQ0RoTWRob2lmckxBR2wxVC1YYS1VTHd5NGVzSklSNGs5NHV6eWM4UnVJenlyN1BycnRTTQ?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Plume Launches Agentic AI Platform to Help ISPs Automate Network Operations - The Fast Mode",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVRLWXNBNDYyTVpTNHp6VHAwWjNZM1IxdUhDc2hsUUJYWTB2WE9LdzBvX2JoZ3RTWFpyWGFnMmEwZWdnZmhtZ1Y4R3FKSHdYSkdQYkFRQUY2Q2lmaWdkcUFtMFdTb3MwYU4xUnNaRmdVUmVtMUxsWk56ZDRXVUlpeWVtMWhBTVczR1ZFa3YwSnMta2hWOHRkTTBlamFCVThRdWJVN3pOVW9ucTJqcXFRZmNCaEJRZW5XS2NkaWJCSjczbG5uc3p0NGVB?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

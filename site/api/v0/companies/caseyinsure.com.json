@@ -1,13 +1,13 @@
 {
   "domain": "caseyinsure.com",
   "name": "Casey",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 25.3,
+  "score": 24.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-11",
       "summary": "Allen Lund Company Promotes [person] to General Manager of ALC Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTljT1Jxa1ZDLXZlMDF1X0FQd0xNbkNjak04NVRycTE1ZURPSEVacDN0OUR5c1FESU5aRnQ1WE5qQmJneUVPdlRRdWl3RWFSN1BSVVhRSFhlWDVYczNONzBPQlRBUFhMLW1JTmphNmc0T3o0dDc5aDcwZVZJN0c4X0JZT0JNNE44T0prTTZhMUNRaGN4NEZsek0wYjdqTVFSQVQ5eU5zVHlmV193Q2twSFZWSjA?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "Heritage Bank Appoints [person] Chief Information Officer to Lead Technology Strategy",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0x1STZRbXZoOW81ajNjN2k4YVdvSFJZam8zQlB4M3V3djlFek5nQkJ6LVozNXZIUzVSUjJlczZFMlZWWHRQM3dDek5tTzljMWFwNTdIUGhzSUZHTURQSkNJOXB3YUhyUUh0a0JTUXJPS1VaZUdoMUxqY3o2MllFczBzci1YYnlnZGplNjc2Nkkxb18tWHN3SFV3djdrSVpNM1JNemdTNHlXWWQ0T3dEc0N0OFFFdGNCamJMMUUwWThTZm8?oc=5"
@@ -77,14 +77,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Casey’s Launches New Pan Pizza - NACS",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0J2QWxnSHhmTmh6ZWw3emNjLUJ6aWFreGNJNmFaR05TYl9yblM4c196azVTT080ZDVLSHpOSmM2ck1laGh6NnItdEdyVDg3MG5kOTNkMGhvN0s5SVF4UXllOW44TFMtLU1iWVNnWDVfMDlzWWRXdk5vR2tfMzVBS0RVd19qUzd3YUJ1bElWUFcwQWkzZGUxOWc1Vm1JaFJjZHc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Casey’s introduces pan pizza in Sioux Falls - Dakota News Now",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0hFQUpyc3l2Y29LWmlwNzdQSC01NldGRkxqbi1iRklDQ0RDa0djdF9xR2RERGw0d2hRbmZNeTZaV1lBQ0l5NTExVjUwcXRiTkFxRE5NVU9QdG9OS2xsTnlHd0I1QXNtMGM1WnE2aE96cmFueHlYUTdIUVByc1BlREI1UlJBd3pZ0gGcAUFVX3lxTE9halBWdUI3VHhsSFVzNmstT1ppTlVpV3Fyelg0ODA2VzNtbHpKQ3A5Ukt3MXNhYmpybmN4YU9leGRZemVqRkxocHBNZkhiaVFCQUp2THlsdEthMkt6SkV4NXlmdmRBci1BX25MUjNZYzk5WENnRExPUXhuR2ZNd1NDblBzNEo3ZE1selJSTGtKZDJIVUZ3dzVUbXpydg?oc=5"
@@ -153,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "r2.co",
   "name": "R2",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.8,
+  "score": 9.7,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Dept of Rural Development launches R2 billion support programme to support land reform beneficiaries - power987.co.za",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSmxjenMwRlJYbDRLMG5FVTlSMGQyOGJ0ckJQemw4RnNsb0hzelk1SjdEcW1feHEtaVRoZ2VScmg0U1NIRnozUmNjN3hGNVYydkNDY093THVHWGo5ZlRGaXFCNXZJdnVSWmhrZXNmejZqbW9JU0c0bkl0OXJXeFFBaGRRelFodXlLZDRpQWY4Ti1TTVFDLVJlLU1tNEpJUTJFYUdXa2trVjg0ODhxenFzOGsxNDZvR0QwQi1oZkk2TlRJNXF3UkVwNENic0VOQQ?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "tint.ai",
   "name": "Tint",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.0,
+  "score": 11.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Black Optix Tint Appoints [person] Veteran Jeff Stark as New Brand President",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaC1ObFFqWE1TQm03djl6aHpEdzd0czM2RlFaMUtwWVlpS1E4SDRFdlc3M2xocGE5UlFIcng1M25ZNTdqdXp3bXJNQkV6NTgyODhCR25BTWtoNTlndlVjd2lmLTZ0MEZranJWdG9xdFd6RXRxY0xQLXBET1Ffb0pscFBXN3l1aG1XZDZBUzZmaEZvR3g4T0prcnlGbGJkXzNlRlE?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Window Tint Marketing Agency Launches for US Tint Shops - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0VoU2ZCbjNBRlhEMkxKNHJLanpjdHUyeV9BUkQwR2xUenNoOUJDYmJLbHBpUFhLYlZ3QzRFYXFmNm9hMlQ0cm1paVA0U0U5M3BPM1NjZkc3S2ZJTEhmaXRqTktRQW5iYkllNWlUdlBFOVliUjU1bHdQZFRKTlp3Mmtwc3MzV1oyZElOMHNvbnRqd2VUdHgwWlRyNmNXR3JBVTF4eg?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

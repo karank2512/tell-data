@@ -1,9 +1,9 @@
 {
   "domain": "slash.com",
   "name": "Slash",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.5,
+  "score": 12.3,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "'Minecraft Dungeons II' Review: Introducing Hack-and-Slash to the Next Generation of Gamers - Men's Journal",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAydkhDUUJiOHMxVWJIRmtVYjRzbVVFV241WXZnLTdtdDJBOGxOVXptOC01S0RITzB4bmI2ckl1TE9oN2FITk92cUhocl81TWhZSVVYQ3R3VTdrQlBpT0dHbzhhdkU4SVFvYndEdEpDZXlqeTFwYmo0VWJ3?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Breaking News - HBO Original Documentary \"Kordell Stewart / Slash & Burn\" Debuts October 27 - The Futon Critic",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNzRIS3lTblQ2aDU0UXFlWWZubFhCLVJtYk5jaEhic2dmdWJfUzB2WnFvWlY0dHQxQ09BNlpZYVRBQnhaLW83RXFpbkZyenB3bFNCUGVRLVdoZHdUS3RWa2xxUk0tYlNfdnRULXJ0MGk4VmU1dFFYY0dGenFvOUFwbVpSRERNSW5lWTBnRmtYcXlYTWs5QXExV04xU1pJMHpQU0t4NF9DdUdWbmxia0Y2V1hFVTctUnd4Mi02bFp0WnJzckpHNUZfQThrZHpGMDNWM2I0RU0tbW8?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

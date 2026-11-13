@@ -1,13 +1,34 @@
 {
   "domain": "radicalaero.com",
   "name": "Radical",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.1,
+  "score": 7.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Radical Numerics launches offline AI to flag engineered pathogens - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFZTR0lfVnBBYVUxOVVGZ2dicU5kZ3h2Ul9STERFYmNLd21ITE1HSDdIaXE1MnlRdURkVG9xSkROMTFuWnJCQ28tUjcxZU9seGNJU2ozbWdiUWU2QVlFSkV2X1A1enZZbE9VMHdDUjZOalZRb0V1WE5GLXFHbWVLRW4wMGFpbk5TV3JhOVFTVFZEaEg4Q0p1b0xiWVhhcHUw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Radical Numerics unveils AI model to flag potential biological threats - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVU5PX2t2YkRyVWh2SHJJVzB1SHVSM1U3Ti1GMnU4SG5TZWlLUk9vN3dYWG83NFhkYTl1ejZodjN5TlVGUnU0WXJVTDEwUWJCSUhvd2d1dHVUWHZOVnVzVnMyWHVaN2JIS1pYc3NvY2JqXzdZRnRFZkFRTTE0YUIyTjNvYmJMTVdETmpV?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Radical Numerics unveils Omnii Defense to flag AI-engineered pathogens offline - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jT2dqR1VYNmxwa0ljLXpVT0djSVNhS3RsdmhoQnBfTzVLWU5EampVZEhLQ1BFaGZRMHlsYXhDS1hIdTl4LUFRWjkycU55dDBkNHAwSnRLNDY5VE10cVpjUTJZYWgzRTNpUHJyYkZYdzQwQWpncks0VXpuYU4?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Radical Numerics Launches Omnii-1, a New Generation of Biological - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZy0tQWdjbjAtRGFOOVphRXJwS3dES1hvTVJlSVpHNnhXVUROVy1jVzdHckFBX1hlekVfVmdUTl9tRDM1bmpmbUNwY0lDUG5XWEJodzN6emJLSFMwT2FOZGN2MHNIQVZlWTF3bzcxY0kxbzYzc09HYmwydW5JUFQ4U0tQcEdHRVhuaHlaMWJaSHlFUm93WVZhVkpReUhNbTNaTXNkUjFZUV9SYTBPN2NTTg?oc=5"
@@ -21,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Alfa Romeo Unveils Radical Cuorerosso Concept During the Paris Motor Show - Hypebeast",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVTBPRVU5eURfSXYyeXNrcy1IT2pLMFp3VldvLWE2ZEkwMy1MdnIyMWJna2trVjdmemNnV1Q2TWRBbzIwUmtNbl9yQ1VnXzZNUHNiTlZuSGhjNXNHZmhDaTB1Q0dXVkRicldybG4tWV90UTJqRV9saFoxa2doNDdQQUl2bGJua1k?oc=5"
@@ -34,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

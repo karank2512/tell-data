@@ -1,13 +1,13 @@
 {
   "domain": "stationhq.com",
   "name": "Station",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.1,
+  "score": 7.0,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-11",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Md3lGeDNETUtvZ3BEaHd2RmFjcHNDbkt3ZXhyaVNkcWdPemhpR1kyQ3UtTTV0dFctaUkxV0VjMmNBdk9WYkk5TVJybUVFM2FPYng5dzk5S0xUVGpSbVJYbU9lZFlKaDhsTTM5Q1hxTDROTGRZLVQ1Sw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

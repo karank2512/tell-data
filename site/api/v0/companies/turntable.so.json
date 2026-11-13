@@ -1,9 +1,9 @@
 {
   "domain": "turntable.so",
   "name": "Turntable",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.5,
+  "score": 16.2,
   "contributions": [
     {
       "type": "launch",
@@ -70,21 +70,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Technics Introduces SL-1210MKX Flagship Direct-Drive DJ Turntable - Panasonic",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM2RIMTVySXZZV2JGaXVBdDVTV0VmdTd3LVlQdzlWNDJGTHFxRTRMamJBMi1UUFhEZXBZLXo4OWozWDBJOFMzNlI0YUd0TEM2TUNET1NJdTVkOTVNZ1AwSW1JaVRvSHdHQmFUcjFKRTJoekxOZ3RrdXlkRGljbVlpTjRaejhaRERwZ3JuLXRwYmo0V3g4c0huQ2ZvOFZtMUw3QjlBQ2dDQlhMNUl6STVKOXpRRTRmRGowMUtFQmkyNzdWOHBjSlVfS0NhbS00akp5Y0RfbmFIXy1uaW16cFgyREliamJWeTFtZGFuYmdQQlp5eDFuRkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Technics introduces the SL-1210MKX - a new flagship professional direct-drive DJ turntable engineered for club and touring environments - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZWhMdS1JVjZlVE5TVlk4STFHS0FPd1UxZ1ZhUEFWOXk1dFdoR2p5OTlOdkFQeFdTdzFjTHI0MENsS1Y2SGFVaGZnWmxrTXdVbnJvbXNocVd2WEdRRkVSVDhDczdObGpYblo3OGh5TnBGYTJTS2VWR3QyLU1kaG9NZGNKcElKUzdtYXhOYXBPOVY0RHM1LWxySGJjS2FIZ2ZwWDlsZ3FlLTBBMGpzaGxhOW5JdElOdmtrdXJCUzAyQlFQWElSdWlLQVpRLVRhWDYyUUJuM0NNY3lJZ181WWpqa01GUmtvZUxZUTlmY2FsbWVZc1ZVcDZyWVFkTjdVMW9PSDM2OWpjbk40NTZCSDI2N0s3MS11NnExNzlR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Technics Introduces SL-1210MKX Professional DJ Turntable with Improved Isolation and Expanded Pitch Control - audioXpress",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDlzT3AxWjFCZVdpLVhlU0h4TnJ4WXNTc25qdHlNQ1NSY19BNGk3eEtPNDZMc2xONHotUFIzVGtMT0ptcmg0Y2tiYVN1U3FFQ1NtaTZlLXY1TmVqR295QWx2XzA3N3BqQm1vMVlQOG1oTWgzYTdNc0lVd1EyUUJPLWo1b25Cd0tIZkRsWm5UU0x4eE52M0l5Nm5QdE8zOHVWY1I2RDVNT01ENV91MTJTeU9nM0ZEYVB2OURPZ29ENDRLWWFqeFREQVNjeF8?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

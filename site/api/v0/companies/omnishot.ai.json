@@ -1,13 +1,13 @@
 {
   "domain": "omnishot.ai",
   "name": "Omnishot.ai",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.4,
+  "score": 14.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.4,
+      "contribution": 14.2,
       "occurred_at": "2026-10-19",
       "summary": "Form D: $22,500 offering, $22,500 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2159682/000215968226000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002159682",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

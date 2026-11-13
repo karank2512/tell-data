@@ -1,9 +1,9 @@
 {
   "domain": "dittowords.com",
   "name": "Ditto",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 11.9,
+  "score": 11.7,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Ditto Appoints [person] as Chief Financial Officer",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQemFGZEp3V0tNZGdUVVlJNEc2RmFwUFFFVF83dHQ4dF9GTFJaYUVYOW5nQkQxMHlYdWlVcVlLS3UzbnY0YUh1SE5MTXMtY1luS1RUdnBZblFNWm5neDNGelM2VjBtOG5tZV81QzlQdDlycm82bUdSSnBXMnVIcWp1REFIaFRkRkh1akNaUE40Uno5djhVaUE?oc=5"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Ditto Launches AI Friendship Matching With Bay Area Bestie - Global Dating Insights",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXp5a05UaDFfZUlqcERkY256MFY4ZDVaQTI2UnBkMzhBaUdpUktzYnRYLXdIbkZoN1hLVDRRZ2h5ZGdoaEJWWDJHcVZSUXMtVEE0QWJCNTNBZGlUUHJzSEZwRFk5bHpLSVRubkozUm5ENVJwTXI1X0lqTlFtRWZoRNIBhgFBVV95cUxOVGpoN29TeVRJMU05dVVzYkw3dkpxVFNYQ3oyRVVLbEVxdGpqYXhOQ3RQRXQyVlNLYjN1Z0plLVg0cVZaOTBVM1JrNkZYUHhrUWJCejJnMlRIS0k1M1FJYVl1M1V2aW5oZVlXdGdmWWJWd3VzUE54MG9TRVZuN1BEZXJBSC01dw?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

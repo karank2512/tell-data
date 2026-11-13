@@ -1,0 +1,449 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "oklo",
+ "domain": "oklo.com",
+ "as_of": "2026-11-13",
+ "last_polled_at": "2026-11-13T15:39:29.293969+00:00",
+ "open_postings": [
+  {
+   "external_id": "4018702004",
+   "title": "Software Engineer",
+   "role_family": "engineering",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2021-05-25T00:34:28+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/4018702004"
+  },
+  {
+   "external_id": "4714198004",
+   "title": "Open Call for Engineers",
+   "role_family": "engineering",
+   "location": "Any",
+   "posted_at": "2023-04-04T16:10:38+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/4714198004"
+  },
+  {
+   "external_id": "4935014004",
+   "title": "General Open Call for Applications",
+   "role_family": "other",
+   "location": "Any",
+   "posted_at": "2023-07-18T17:03:20+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/4935014004"
+  },
+  {
+   "external_id": "5013750004",
+   "title": "Regulatory Engineer",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2023-11-11T04:22:08+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5013750004"
+  },
+  {
+   "external_id": "5065038004",
+   "title": "General Application - Nuclear Fuel Recycling",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2024-02-12T22:07:48+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5065038004"
+  },
+  {
+   "external_id": "5637095004",
+   "title": "Regulatory Engineer",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2025-09-02T19:52:55+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5637095004"
+  },
+  {
+   "external_id": "5679965004",
+   "title": "Licensing Manager",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2025-10-15T23:03:20+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5679965004"
+  },
+  {
+   "external_id": "5688527004",
+   "title": "Fuels Licensing Manager",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2025-10-27T21:31:47+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5688527004"
+  },
+  {
+   "external_id": "5739483004",
+   "title": "Senior Software Engineer",
+   "role_family": "engineering",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2025-12-19T14:05:47+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5739483004"
+  },
+  {
+   "external_id": "5743023004",
+   "title": "Senior Mechanical Design Engineer - Reactor Module",
+   "role_family": "product_design",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-01-13T17:18:11+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5743023004"
+  },
+  {
+   "external_id": "5842619004",
+   "title": "Senior Process Controls Engineer",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-03-31T22:48:24+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5842619004"
+  },
+  {
+   "external_id": "5983985004",
+   "title": "Process Engineer - Fuel Recycling",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-05-12T16:34:35+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/5983985004"
+  },
+  {
+   "external_id": "6115189004",
+   "title": "Piping Designer / Drafter - Fuel Recycling",
+   "role_family": "product_design",
+   "location": "Oak Ridge, TN or Remote",
+   "posted_at": "2026-07-19T04:10:46+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6115189004"
+  },
+  {
+   "external_id": "6115192004",
+   "title": "Senior Mechanical Designer - Fuel Recycling",
+   "role_family": "product_design",
+   "location": "Oak Ridge, TN or Remote",
+   "posted_at": "2026-07-19T04:10:25+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6115192004"
+  },
+  {
+   "external_id": "6127042004",
+   "title": "Instrumentation and Controls Engineer",
+   "role_family": "engineering",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-07-25T00:54:55+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6127042004"
+  },
+  {
+   "external_id": "6134836004",
+   "title": "Instrumentation & Controls Technician",
+   "role_family": "engineering",
+   "location": "Idaho Falls, ID",
+   "posted_at": "2026-08-19T16:03:24+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6134836004"
+  },
+  {
+   "external_id": "6135699004",
+   "title": "Test Process Equipment Engineer",
+   "role_family": "engineering",
+   "location": "Idaho Falls, ID",
+   "posted_at": "2026-08-20T15:49:48+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6135699004"
+  },
+  {
+   "external_id": "6135705004",
+   "title": "Instrumentation & Controls Engineer",
+   "role_family": "engineering",
+   "location": "Idaho Falls, ID",
+   "posted_at": "2026-08-20T15:48:58+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6135705004"
+  },
+  {
+   "external_id": "6175614004",
+   "title": "Director of Market Analytics",
+   "role_family": "exec",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-04T20:59:26+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6175614004"
+  },
+  {
+   "external_id": "6175633004",
+   "title": "Director of Power Business Real Estate",
+   "role_family": "exec",
+   "location": "Santa Clara, CA",
+   "posted_at": "2026-09-04T18:08:46+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6175633004"
+  },
+  {
+   "external_id": "6175842004",
+   "title": "Senior Director of Power Origination",
+   "role_family": "exec",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-03T04:39:13+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6175842004"
+  },
+  {
+   "external_id": "6176768004",
+   "title": "Director of Transmission & Interconnection",
+   "role_family": "exec",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-03T05:07:07+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6176768004"
+  },
+  {
+   "external_id": "6176776004",
+   "title": "Director of Project Development",
+   "role_family": "exec",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-03T05:08:42+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6176776004"
+  },
+  {
+   "external_id": "6179642004",
+   "title": "Engineering Program Manager",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-16T19:51:34+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6179642004"
+  },
+  {
+   "external_id": "6180289004",
+   "title": "Portfolio Planner",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-04T20:59:39+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6180289004"
+  },
+  {
+   "external_id": "6180290004",
+   "title": "Project Scheduler",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-04T20:59:33+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6180290004"
+  },
+  {
+   "external_id": "6180295004",
+   "title": "Senior Director, International Development",
+   "role_family": "exec",
+   "location": "United Kingdom or Netherlands",
+   "posted_at": "2026-09-03T05:04:36+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6180295004"
+  },
+  {
+   "external_id": "6183300004",
+   "title": "Recycling Operations Engineer Lead",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-16T19:51:19+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6183300004"
+  },
+  {
+   "external_id": "6185186004",
+   "title": "Director of Chemistry, Manufacturing and Controls",
+   "role_family": "exec",
+   "location": "Austin, Texas",
+   "posted_at": "2026-09-16T19:38:34+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6185186004"
+  },
+  {
+   "external_id": "6185818004",
+   "title": "Electrical Engineer – Aurora-INL",
+   "role_family": "engineering",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-14T15:26:39+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6185818004"
+  },
+  {
+   "external_id": "6185829004",
+   "title": "Core Design Engineer",
+   "role_family": "product_design",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-14T15:26:58+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6185829004"
+  },
+  {
+   "external_id": "6186882004",
+   "title": "Office Manager",
+   "role_family": "gtm_ops",
+   "location": "Idaho Falls, ID",
+   "posted_at": "2026-09-14T15:47:43+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6186882004"
+  },
+  {
+   "external_id": "6188826004",
+   "title": "Senior Mechanical Engineer",
+   "role_family": "other",
+   "location": "Oak Ridge, TN or Remote",
+   "posted_at": "2026-09-16T19:40:49+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6188826004"
+  },
+  {
+   "external_id": "6194314004",
+   "title": "Plant Manager",
+   "role_family": "product_design",
+   "location": "Idaho Falls, Idaho",
+   "posted_at": "2026-09-18T15:30:11+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6194314004"
+  },
+  {
+   "external_id": "6194317004",
+   "title": "Facility Operations Specialist",
+   "role_family": "product_design",
+   "location": "Lockhart, Texas",
+   "posted_at": "2026-09-18T15:29:43+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6194317004"
+  },
+  {
+   "external_id": "6200715004",
+   "title": "Facility Compliance Lead",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-22T19:54:08+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6200715004"
+  },
+  {
+   "external_id": "6201116004",
+   "title": "Fuel Fabrication Project Engineer",
+   "role_family": "other",
+   "location": "Idaho Falls, Idaho",
+   "posted_at": "2026-09-22T19:55:24+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6201116004"
+  },
+  {
+   "external_id": "6204291004",
+   "title": "General Internship Application 2027",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Any Office Location",
+   "posted_at": "2026-09-23T04:35:37+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6204291004"
+  },
+  {
+   "external_id": "6206119004",
+   "title": "Senior Counsel, Real Estate",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-23T19:44:12+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6206119004"
+  },
+  {
+   "external_id": "6208066004",
+   "title": "Thermal-Hydraulics and Safety Analysis Engineer - Isotopes",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-09-25T07:26:15+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6208066004"
+  },
+  {
+   "external_id": "6210076004",
+   "title": "Vice President of Strategy",
+   "role_family": "exec",
+   "location": "Remote; Washington, D.C. or Los Angeles preferred",
+   "posted_at": "2026-10-22T20:50:16+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6210076004"
+  },
+  {
+   "external_id": "6212547004",
+   "title": "Director of SEC Reporting and Technical Accounting",
+   "role_family": "finance_ops",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-10-26T16:52:51+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6212547004"
+  },
+  {
+   "external_id": "6214332004",
+   "title": "Facilities Electrician",
+   "role_family": "other",
+   "location": "Idaho Falls, Idaho",
+   "posted_at": "2026-10-06T15:58:46+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6214332004"
+  },
+  {
+   "external_id": "6214349004",
+   "title": "Strike Engineer",
+   "role_family": "engineering",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-10-06T15:58:57+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6214349004"
+  },
+  {
+   "external_id": "6214372004",
+   "title": "Senior Nuclear Criticality Safety Engineer",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-10-01T17:17:06+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6214372004"
+  },
+  {
+   "external_id": "6214786004",
+   "title": "Safety Analysis Engineer",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-10-06T16:47:03+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6214786004"
+  },
+  {
+   "external_id": "6221942004",
+   "title": "EHS Specialist– Environment, Health & Safety",
+   "role_family": "other",
+   "location": "Idaho Falls, ID or Remote",
+   "posted_at": "2026-10-26T16:15:31+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6221942004"
+  },
+  {
+   "external_id": "6222133004",
+   "title": "Plant Process Simulation Engineer II",
+   "role_family": "engineering",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-10-26T16:16:03+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6222133004"
+  },
+  {
+   "external_id": "6223885004",
+   "title": "Fuel Fabrication Criticality Analysis & Nuclear Safety Engineer",
+   "role_family": "other",
+   "location": "Idaho Falls, ID or Remote",
+   "posted_at": "2026-10-21T22:01:28+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6223885004"
+  },
+  {
+   "external_id": "6226315004",
+   "title": "Mechatronics Engineer",
+   "role_family": "other",
+   "location": "Oak Ridge, TN or Remote",
+   "posted_at": "2026-10-16T01:43:27+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6226315004"
+  },
+  {
+   "external_id": "6227574004",
+   "title": "Process Engineer",
+   "role_family": "engineering",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-10-16T21:46:32+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6227574004"
+  },
+  {
+   "external_id": "6228371004",
+   "title": "Groves Junior Office Manager",
+   "role_family": "gtm_ops",
+   "location": "Lockhart, Texas",
+   "posted_at": "2026-10-21T22:01:48+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6228371004"
+  },
+  {
+   "external_id": "6233014004",
+   "title": "Contract Manager",
+   "role_family": "other",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-10-26T16:49:34+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6233014004"
+  },
+  {
+   "external_id": "6235883004",
+   "title": "Director, Deployment Strategy and Integration",
+   "role_family": "exec",
+   "location": "Santa Clara, CA or Remote",
+   "posted_at": "2026-10-27T21:21:28+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6235883004"
+  },
+  {
+   "external_id": "6253937004",
+   "title": "Radiation Safety Officer (RSO)",
+   "role_family": "other",
+   "location": "Idaho Falls, ID",
+   "posted_at": "2026-11-10T05:36:54+00:00",
+   "url": "https://job-boards.greenhouse.io/oklo/jobs/6253937004"
+  }
+ ]
+}

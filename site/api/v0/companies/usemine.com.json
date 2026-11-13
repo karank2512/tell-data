@@ -1,9 +1,9 @@
 {
   "domain": "usemine.com",
   "name": "Mine",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.6,
+  "score": 8.5,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "China's Envision Energy unveils new AI-powered energy system for remote mine sites - Mining Weekly",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQm5xQ1JuYXhESDQwZnl1T3FlUko2OFhvZG8xUkxOZnpzaXY2cGFKQTJMSlM5UHQ3aG83a0NGMkF1NWs0bmpBRlNjbk4tSVpOcTJOdnhMS0MtUU9hclAxSUxoY0tZN0RlYWs2RWJQZnlrcGtKMnl3a2YtTi1hakpDUF9IV1JYbldzUGgtZVJIbzhaRVRZY1dYdDVWbTFFMmQ2bTZzUmQ1T212anVxZEIzb2FrQjRqU0sySG5sQTVONHNjNS1VYUpfRA?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

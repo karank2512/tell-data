@@ -1,13 +1,13 @@
 {
   "domain": "asktetra.com",
   "name": "Tetra",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "CorePlay Tetra From Analog Way Launches - Live Design Online",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Vb3E5aXlnTWdwUEJid1NiemQwMDh2NDhIMVhLeTEwOGNnNWV3cTIxZ2NfRzJGR0xoS1BjZXBtbklkS2I4Y01MSDNDN2tfNjNwbGZ5THcweVVPSUUzVVN4WTFXWWwtSWVXbzNrWjJMLVFWMVNGWHlFY0loUmM?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

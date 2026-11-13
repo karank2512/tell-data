@@ -1,13 +1,13 @@
 {
   "domain": "scale.com",
   "name": "Scale AI",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 86.2,
+  "score": 88.1,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 13.1,
+      "contribution": 13.0,
       "occurred_at": "2026-08-18",
       "summary": "Form D: $2,500,000 offering, $1,860,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2146511/000214651126000003/"
@@ -39,6 +39,20 @@
       "occurred_at": "2026-10-21",
       "summary": "Masttro Appoints [person] as COO to Scale AI-Powered Wealth Solutions",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFVSQlp2LUwtU0h1T3diMkxxR3NvSTZqX2pINUNNZXlISjBnQ3VsdjNnS0Mzcm0wejNYZW12bHc5WFlMUTFHZ1RwM2R2NjlTVzB0akd0aFVzb2x3LWNRTlBWNkh6VWNpcVVRV1FpdGNNQUIwcldZQUtWMWQzRml3NmVRcXBBQWlKcWpVZlhfYkJrcklYMWFWUENiLW04ZGF3T056MWZHTDJ5SFV1cFZZdGVFdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Hitachi Vantara introduces new VSP One Object and Hitachi iQ Studio upgrades for enterprise-scale AI deployment - Tech Critter",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONW41TXBFTTRoWHNleDNCY2hXM0hDdTFDaFktRVB0VS00Wk9jOFNjSm0wT1dEQXF5V2V0ajAxREp0dGtmQ0R1dkJjRFBTRHdJVHpMUHk4alJvbnAxanBsZTFpcmVvRU00ckJ1RGwtMzJ6QUdSMHVlYlZKVVVkQ0RCUEt6NjZQRTAzQ1NFeWlnTTNKLWhaa1Nn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Scale AI Launches Singapore Legal Reasoning Benchmark with IMDA - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkhpNEJOdHpvQWpoN2ViX2NGdENmcFpXcDZnNzRJNlhwLWxvdDRCT3pGSGRQbVp4MVR3V0tfRTBCbkhacVkzOVNPV2Q5ck5fVXJJS195WUtTbkxqZFR1NFVhWmlEYTBGYWtRdERnVWpJd2dsRkx4el9SOEI1VTZEWWJpV1VscnVrYXNzNWl3?oc=5"
     },
     {
       "type": "leadership",
@@ -168,21 +182,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Business News | KaarTech Introduces KEOS to Help Enterprises Scale AI Across Business Operations - LatestLY",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSnVNdmdicDlFdklwWElPUUNuallhNjBYbmtkaDdrRFRWTFFxemcySjhtVHBLUVc1OTdlMFJ5eWl1RG9UeHltbzBReEVMNzRHTW94SGlrYmlCblh5R092eld3dGFHNjJhVWw4VjZIcVNuSUYwSmZFcGZlNXBKV0FSN0dBOWNkMUFuanotTmRKUm9hQ2txTGVGMGJFSHcwcW1aM2FfSTVhM08yYUpnZW5xZ1NJaVVrUGo4OGhTaDRRZ05ucGJxcFRhaFdqejdBYzBsU1VfUTNBWHl5UkJX0gHiAUFVX3lxTFBpQl9RRTBWZzZoMmRmYW52dk1ObGxkWExZbFJsWUdzWlRkUnJwb25hQ081dk5DemdwR0x5UnBKeDhQZ1YzdDdrUDJrUjBVNTlLWjIwOXZqWlVqX0N6RTQwcGpHYTFKdTVQckdPY0hUajNKbk84dEJaY3NlSE56U3hrUlg0VTE1anMyRXRESWJjd19IbUp2UXhpLVFYVm8yWlFWSTJRMTRTX0o5M3FMaHlIbE0zc1pLaGwtSXRkMHdCeGtpY3JWcjBZZnJoS2RJUTY2VVo4X0F6d2hVYzFlbTVZaXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "KaarTech Introduces KEOS to Help Enterprises Scale AI Across Business Operations - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcWJLMERHOGdVUnpJLXFxWHRYUTV3OHVwa1FXdWdsdE9PSnczZzNxVDFpQ0Jiai1HQ3lTZnBWLWdlaUpXcHpMV2RocUdRNDVqNEhRLV94M0sxcVhxdmtfYUxMVDRXdmJxY2FmS0FVczU0MFM5LUV5WERxb3RDWnNYWk95S1VMalJ5Q1BIb0ZJVFpSWHlId1lpLUtnSEN0cnhJMEYzSWhHbTBTM2k3SDhCbEoxNWl4X2pManRiX2tXa0JTcEtSOTNTWXZsT1Q0Q3lpbVIxTXBQeGpvTWhwNWFjZzBB0gHiAUFVX3lxTFBxYkswREc4Z1VSekktcXFYdFhRNXc4dXBrUVd1Z2x0T09KdzNnM3FUMWlDQmJqLUdDeVNmcFYtZ2VpSldwekxXZGhxR1E0NWo0SFEtX3gzSzFxWHF2a19hTExUNFd2YnFjYWZLQVVzNTQwUzktRXlYRHFvdENac1haT3lLVUxqUnlDUEhvRklUWlJYeUh3WWktS2dIQ3RyeEkwRjNJaEdtMFMzaTdIOEJsSjE1aXhfakxqdGJfa1drQlNwS1I5M1NZdmxPVDRDeWltUjFNcFB4am9NaHA1YWNnMEE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "KaarTech Introduces KEOS to Help Enterprises Scale AI Across Business Operations - ThePrint",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYW1wbkY0T0ZXLS0zLXk4b0ZNUDl5Q0NkeHNMdmdhbE5ldEI4WWZuYnVTdkdaOHlTZTRhTVBUZWQxMDd3UEhjb1BOREpNbnEwTGlMblVQM2UxQnE0Y1V1bTlITG9xM2VkUUNnb0dFRUZaYUJkSkVRLVFQYldnSjJvZnQxVTFFUGZ4QnRyS3JLRFJkd2xjcFBxZFlNZnltWUdaZjM5OWZYUTlzdDduel93RllndngxMDRWRFhvTFVhdTlydVBRLUNR0gHMAUFVX3lxTE16eXBwRzA4bmF1NExuZnJaQ3FCbThraHQ1dTVCZWFfek5JNVJyNjJnamRtMDM5NlZzWE4xUmdZb0o1VlRQemlLQlU0RGFQb1pQVWFGUkY2T21MVk44Q25NWEV6bkVUaVJQV3c2VjQxaVZUT3JNalpyZGlUU2FRanpBd3BjbWx3alZxODJiVU1VXzJSTkJ0Z3E4bjZjd0l5U3hyMGlEVkEzNE9XVmxyc3RtTEw2Y1ZzcU1BeFp2RjdBdVpMQll0YkpFc0FaeA?oc=5"
@@ -252,56 +266,56 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LTM Launches BlueVerse™ ValueMesh™ to Help Enterprises Scale AI Across Oracle Transformations - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGR0V0JUYm9UR1pUbDU4Rm5WOXc0SGpwb0o3V0FoQlVjaEtmb0diQU9TZmZjN0xPMEJHY21pNUVZNnVUVGdCQ2UxRlBBeHZhZElicjJsQVlXd29zTU4wOVFCQUhnakZOaHpMaTY5bWJvLXN5OXFwU1BPaUd4V2VQbU93Nm00Z25NNFNwMS1CdWJla1dncFQ4TndudXlfR3NmZmo4?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LTM Launches BlueVerse™ ValueMesh™ to Help Enterprises Scale AI Across Oracle Transformations - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWHpIVjBjT0dRVm5XcjdEZFRHUExSY2Nkc1NjRGlkMGVMQlVoRDFRekJkNk9OLU9HNDNlZzNadUpiLUxQUnhodC1rUXZ3bW44UktRLXBrbzZxX2MwbkRFd1BKbTZJZFNKSkdvZGoydjFHVi05VEo0UUxJNEc2bWl2d3Z3VWFBSmgzZFE5Zm5xbGNPNG50Z0FNdVVtT1NHMDRXbkx6OXJRcFlyNG5JMVZUbG5aZG8xa0dPcVVRTUotYm1wUW5kNHlvZFBkT1RlVFg5MHZJSzVn0gHaAUFVX3lxTFBwTmdGZmFyMmtpWHZEUDQtWjZ6eFR5SFNaWnVtOEF0eHlySnFrSU0zLUFTZ2swRFR4ckFiNlhJTGdDV1dQSWY3aUNmbGZHTUJSV1ZZblFyQktqWDhUdW9wZkt1V2hOdERibzhldjAwU2RMTlVaTEZBUkJaZXVFU0trTXVaNy02OWxHMWtUUFM4NzVvQXFvN2pFWWt0dXB0OTNTLWU0OVZGQXc1LWYycnZ1LWtXeWpzRmdYR0VNOTNTS1Q0VE1wQTJBZG1POUJ4YWRNUWw2S2wyaXJn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LTM Launches BlueVerse™ ValueMesh™ to Help Enterprises Scale AI Across Oracle Transformations - TheWire.in",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTDA1U01rQUFwQ19UcUxLcHp0dmhVRHByakFIdzk1LXlqcGw2UHlpYXVKa0NSUE1oNEJ3amp4b01XVmdLVHpoNWpOR3JYSWcwaGtGRzN0Y1BZWDVxeG93bi1ZTzNyU1IzR0xybVp1Ul9CZUlza0xRY0tIRVF0WjFGbVFSNFg5MkhXTDBJSHZ4NUxTWVowRERmVjI2b09mb0c1aDZDLWdjSWtvYlRXdjQxZVN1QjZwUXVpS3JDcmVSdmVFaUJ6bHF4RDNnWXgxUlR6QkdqQkh5czhRMUlPcWFVZ0drdm8zZWpudWfSAeoBQVVfeXFMUEwwNVNNa0FBcENfVHFMS3B6dHZoVURwcmpBSHc5NS15anBsNlB5aWF1SmtDUlBNaDRCd2pqeG9NV1ZnS1R6aDVqTkdyWElnMGhrRkczdGNQWVg1cXhvd24tWU8zclNSM0dMcm1adVJfQmVJc2tMUWNLSEVRdFoxRm1RUjRYOTJIV0wwSUh2eDVMU1laMEREZlYyNm9PZm9HNWg2Qy1nY0lrb2JUV3Y0MWVTdUI2cFF1aUtyQ3JlUnZlRWlCemxxeEQzZ1l4MVJUekJHakJIeXM4UTFJT3FhVWdHa3ZvM2VqbnVn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LTM Launches BlueVerse™ ValueMesh™ to Scale AI Across Oracle Transformations - PSU Connect",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWUxRTZENHdkd3RRbHNmaVNlYm41WnJ3ZTlHUF8tb0tQWE1UcXFmOWY4NEc3S1BIaS1DeVlrNnJDemp2ZnFWV3hyZWlUQ1Z1bllQSzJ4N3dNVUJDUE56RnhRVnhxWnQ1QUFCRXVwMmJsRGhDSlJZNTZoSGtJRUk1SU1XUWoydTNiZ2hqaUpVV3lYZVBHRmZYTVlmdzNDWUVkZERIVWpDeTh4UkMtNExsVC1NRQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LTM Launches BlueVerse(TM) ValueMesh(TM) to Help Enterprises Scale AI Across Oracle Transformations - Medianet News Hub",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY01CQlhjQWVfbS1pZXVoNThSWXEtc0FtbGM3MDlDTjFsRllLcm9lVC1FS0VXVkw2R3hldnVmQnMxbEpoaldXR1FjYXk3Z09CRFNiSWVtdG13UU9PaElqVDZmUktXb2JETGp6Z3k0eHlCVG5DbGVNOU16WVEwMHhZc3F4U0lRLU92c0x4VWNwSzRRdlJkR2xLdm1scmV0MXBKWUJSWE44aXZpVEtpLTRKemVvUXlPQjZFV3dPYncxVC1HRzBCOGtiQnFMRjlRZlkyNVE0NHBtY0ZNbEU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LTM Launches BlueVerse™ ValueMesh™ to Help Enterprises Scale AI Across Oracle Transformations - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTkkxWXBiZ0dYb2ZHclltcVhFMXloRUp4VzhHWmpnbUNDS3VqMzdpR0p1c3ZiQURQclRHZkhyc1FBNVdpTUIxd0ZCQW1VOW0tME5BWElGMWhNekNKLXpfZ2lGWlJvQkl5Z3FGT1ZaUmJvamZKbG9HdTZ6cFFYdjFzVGdMYXhZSHpmLVAtNUV5S1A2SEJmZkFuNUlyalhHdnpzajZmNzZHWDFsSEYzWG1RU0g0NHN1YXRGQlhnd011LU5FQl9vZnVTS1hrcWhZcnJqX1dFbHBwaHVNZDhfMkR3aDRR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "South Korea's Interior Ministry Launches Government-Wide Push to Scale AI Tools Built by Civil Servants, With approximately $13,000 Contest - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1eExJWGFfa1hmQkkwWFJzNHpQd2xscGRxSDM1X0xLMDc4WUszWkJCUGpOZ3kzY19DWW0ydEFDZ0QxaVhpSmt6dUNiYzNaMm5UMU9kOUVOdVpkODZ6STRJSnd3dkVYSkh3WWVSeHB4ZndUN3A3NXc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "LTM Launches BlueVerse™ ValueMesh™ to Help Enterprises Scale AI Across Oracle Transformations - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFQxbDZnUDVNWGNsVURUWVExVVUxMzlLajdaMS1ZUUJ5RVlXaTRkRlJPU0Z4RktRRkdOU0U1dHYwS1FlY1hsSWF2em9GaEZNQWxPOVZWbVg1RXhWOW8tNHFlOG5XOEJPbDh3VVNnQjJiakZtbUlOQXpFRDhHblYzVDFoZ2VXRHQtQmZseUUyNmFVRnV2MHBkV29EMHRNdHJMeEpNVTVwdTRpTGp3RUxYYWZNQS1tY3oxZm4zRHBLZTlzcGdIbE1Yd3FRX01JVTFzQW13ONIB1AFBVV95cUxNZFQxbDZnUDVNWGNsVURUWVExVVUxMzlLajdaMS1ZUUJ5RVlXaTRkRlJPU0Z4RktRRkdOU0U1dHYwS1FlY1hsSWF2em9GaEZNQWxPOVZWbVg1RXhWOW8tNHFlOG5XOEJPbDh3VVNnQjJiakZtbUlOQXpFRDhHblYzVDFoZ2VXRHQtQmZseUUyNmFVRnV2MHBkV29EMHRNdHJMeEpNVTVwdTRpTGp3RUxYYWZNQS1tY3oxZm4zRHBLZTlzcGdIbE1Yd3FRX01JVTFzQW13OA?oc=5"
@@ -420,7 +434,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.6,
       "occurred_at": "2026-09-09",
       "summary": "Mastercard Launches Agent Connect to Help Merchants Scale AI Shopping - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWNDQnI5WHppNGRiN1JjT1EtUjczSURNTjFsa1pZa25kWE12U1A3RlpCZ3kwUHpYZm1hSWwyMFR3cGw1aEdmTHZHaVlXVVNmLS0zc2NtbzdfbFpER1BhN2JEMlM5Q3R3dVRuZklDaHN2T2ZXbC1OTTZiaHFFcFg4UzBGaDk5QXdPQThBcEFlbWszRXA0Zk1yVkhYSVR1VzhiU2p6LXdpUjZEVVZkLUZsYV9uMVAtX2I1aXQtdmZhRWUzUWRp?oc=5"
@@ -447,6 +461,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

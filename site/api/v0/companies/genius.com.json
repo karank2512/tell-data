@@ -1,13 +1,13 @@
 {
   "domain": "genius.com",
   "name": "Genius",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.4,
+  "score": 14.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Fledgeling teenager unveils sculptural genius - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRWxGV1g5UzAycWZHRVFLb1FTdUFwdUFLQ0ZiQmpRSm5ZOGQ4YnJGcHBfQjZZYnM2MXNIQldEUWZUeU9ZeUFtR1lPOGsxakV0ZTRuZ0dMOTJka0pETmgxYUFiNjBMOHF0Yk1JY0pESlVNSEhFZ3NSNUZmVzA5ekZjbEwxdXVHcnM0SEF5R25CSm00V2JmelVxNWRWOWdTMzhNSzREYVVKSlNuLUQtQjZsa0ExT1g5UFdmU0g3Z0JFRU01X1pvanZyRHJB0gHPAUFVX3lxTE1hTzRFQUJVZ1c4ajcxdnlqb3FkcjByaEhyOThjZ2NoTngzN2VBV1JlX3ZhMW9KcjRrVTdZMDJhX3hPdDVGbU14NTVPNXIzT3NmUjBidENwZC1EUDJDbV82bEZjS2pEY19TUGM2VWhfN3dNWEE2amRrZHpCZUF0Yk90WUxNeUp2Ukhzc0tCZG5jdlVfc2J0THRGMy1VemY1Q3VaQVVHN09VYk1mWUk3eEJKZVF5TG9MQ25ab3hXMXBzUWg4RVlQWlp5aHV0UU1Wbw?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-10-31",
       "summary": "Genius: Introduces revenue-funded GENIUS buybacks and burns - 31 Oct 2026 - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ1BmQmlqYlM5Y0FhTERTcnRCVHY0WmVBOGV6SVZfbjlUM09FVmV0VjVlVGJobXFhaWswb295d1A5SVNvcXVtQjVXc2VLQnB3dE1yNzR1aDFoVUlFNHMzUDhIakhsa21pZ1daal8xRVY1Y1RVM3RhYXJUQzZkTEEyUXBWbXMwV1RGemJDUGw4dG93YVV3ckJ2NS10bDRaeXBFSVdfX3kyR0F1ZlBtSVprUlN2a0NqQ0JQM3RRMHZSdFE1MVZtLXlFekhjdjlWcUk?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "scansilver.com",
   "name": "Silver",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.6,
+  "score": 10.4,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Parent-led nonprofit launches fund to support children affected by Silver Rail tragedy - KPTV",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWRkTkJXdWJEdEN4akVnZkZWRGZiVnBXWEpSYWt1N2FreDFvMXMyZ29jZFdGb2oza05YRTAxR0RhUDFSa2xwdTViZ2J0ZHhFaV9JYjBHdXhsdTlsUThfb0pyZGRiZXEyTDR1MDEzNDhDYzJIV0RSQ2ZjaXlmZHZwbDRFdTlDbFhMcTFMR2UwNEhYYWZmc2VkbWhFOUhRdjVlaGJ4QVhPTUxyY2dSUlcxbGZadlVMV1E?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Central Oregon Strong: Becky Drury Releases Statement Following Silver Rail Elementary School Shooting - KTVZ",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaFBVdlNMUTBGSURzV2dMM2ZRYUNxNTl3OEkweGkxWjRwaG5qU2dsYU9tcUQtX2NhWnh3WDNkX1VTQVpOZkVieUpBMERXeVZ3VHRpWW8wOWpvMXJmTmdsV0x4UGNKbjVlbFN6NWlEVHhNYXpLNDVkWGNaWmp1OXI5SXlPUzVtNlpuU29LSUF5akg3MzdncExQY3QtM0Jsb204Ulg1V1BFbTVUbjF2TEZEemV2aS04V042T09DZE5LaDN4UVJ5WWMtT1hGdldhbERx?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

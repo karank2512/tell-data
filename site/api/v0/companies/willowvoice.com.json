@@ -1,9 +1,9 @@
 {
   "domain": "willowvoice.com",
   "name": "Willow",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.4,
+  "score": 8.8,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-11-08",
       "summary": "[person] joins Animals as Leaders crowd at Willow birthday set",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFJ4WEhDYUdiNWpYZVZ3NGFTb1k4VzVQNnZfVU1sUDNVSFlielphUXZ1dlhVVHVPUUpqNThmSFNYWFhaYl93a3JPSGRjZF83OVZETkRwUlY5V0RUNDJVSW9sSktTSGJCVHJTY0tMMEZ1dF84dlJ0MlpuQjh2LUpvR1VpWmNuTzNva2RLckJRZ3Q4X3pJNFdhcGFYZnc4TmhlWjgtbm1iU3JsekJMcEdLMEdHclhiVEhHUUVBQmxB?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "New Britain unveils pedestrian safety improvements near Willow Brook Park - NBC Connecticut",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmdHRGlNcmhkZ3V6WmVMVnBFNjdoUWRXTlN5dWliYU1DRlRaTXVfZzR0WEZob0paaElzY180M0RXeTFUbk9xWU94VkVEcjgwakxxOGFLbnJCSTVfWFVvRDdLS2tYa3hEV0FucVc4MGxza01YOWh1Q2ctRktmWjRCQkNXN0dOcFdFSmNuVkQybzdybDctbTZQNl9FbnpFUUhEMnplZmlUR1FzWHVPSXlLb0pMcHFpODNBSGlWaFh5REZmMC1zWDFMTktR0gHSAUFVX3lxTE1HT2doY0c3Ujd4cW5Idmx2Nkd0Q2l4VHVMbzFJVDM3UXpfS3FMWDF5cXBTbHppdF9RajBvaHJlaEstTG0xWDRqbG1pVzBxMnctQzJNaGdJSzdseGJmTjZybGwxaHVHZFEzVVB3SllrRlltQjk2b2JTZ3Q2OVdPal9lQWtBSDN1SGUxbEZFanZva1JMSjB4U2d1ZmczTkxPSmloeW9zalFvQVI1aTdHN1owUHFGTEZseDZzOUFfbmJIM2pKQ2thQnB1T1NPQWJpY0FLZw?oc=5"
     },
     {
       "type": "launch",
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Willow Springs unveils welcome sign design - Howell County News |",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZjdmaUo4QzdxVnNlRF8xTE9YQUlKbUJUc0M0d0FCNjkyRXQyMlJMYlliZURILUhQVDFWMy0yWEJHTG50aXBzV1d6YmxsaHZ6M1Rjdjd4eEJVcG9qWDZGYzEtYWVLN244Rm9vdjZhbHpSRzNCcUNSV3k0MGszZFJRUWRPVUtXOHJu?oc=5"
@@ -55,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

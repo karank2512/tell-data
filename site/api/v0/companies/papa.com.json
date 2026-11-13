@@ -1,9 +1,9 @@
 {
   "domain": "papa.com",
   "name": "Papa",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.3,
+  "score": 12.1,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Papa John's Cuts Sales Outlook, Launches Promotions - Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXFBNkVmNlFmOGFCX0M1YlVMM1Ixb2REeEVYTzI4RzJacUhxb2hnMmR0cWpNS0ZKaHM0WTg4ZHBlMXQ5aWN2MlVlVzhWZklPN21iTHlTcVNZcWNjdHUwNk5xTEs1a3lZenBFX0tReWJWWWd0T3VEREFhYVlBSmxRMDNXc3Q4TU1SS3dnUDBvTzZaZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Papa Johns lowers 2026 outlook, launches Unbox Better transformation strategy - Pizza Marketplace",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1ZPZ0xwYThZRGk1QkFOWVBxV3hQV0dKZ014QndQcGxBRGRqYnhiYTU3VFBmbXV3aG04dURaODdveFVadHJTYWdabVJmUW1PV29LRWFZX2kzdkpxZEszbmI1VllXSUtmRnZIQzRlbkY2UDVjUHBuai1jUXFQeGltVzlxcnI0Uk5wUUlrSUlMZGtHekVGeENXaXlNU2RBYlJjZWxvY2NZY1FxNHVTNk5Cay14YzZaNXJvTERr?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

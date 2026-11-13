@@ -1,9 +1,9 @@
 {
   "domain": "sola-solutions.com",
   "name": "Sola",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 19.7,
+  "score": 19.4,
   "contributions": [
     {
       "type": "leadership",
@@ -70,21 +70,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Power Metal Act SEVEN KINGDOMS Releases Official Behind-the-Scenes Video For \"Sono Sola\" - Sonic Perspectives",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWw2T0UxVDlqaXY4RG9yeE92V2RGelp3anFLLUR4R1hobFFXeHlqTnhfMG1PajFlcjl4WHI2a2VpNWRqWTN0cXFnNFd5WmlCZVVqS0FCWTZmLU11N1lCa09SWFdsRTRGcFVFNFRTMTVUWkZmdHN2RWxxclpSeC1UU1plSTBZYmtXWnpscFJxV043TXpCekN3eTc4aTIwbzJBZHY4TWQ3aHFFTFhKTmgxMDZqZXVNZmkzdktpcFkzODM4RHA1?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Sola launches snack-size bagels - Bake Magazine",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92UDFpdmd3ZUg3b3NOeVlPNVhLUUdfSU4tbzhaX1g2ZHpmd3p6Q3kwSDZ6ZUsySGFPTmVyOXlyYnB5cXg1Vi0xMHNlUGJFYjJPcUFackdQRUlYQW9pVDBpY29uNVJPUXJ3T2hUbmZoQWlNdHNmZlhHQXpR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Sola Names PAX Technology Its Preferred Terminal Platform and Launches Sola Terminal on PAX-Certified Hardware - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWFrblpPV000cnVTX1NDd2xKOTlZQ0JlY04yUXlzc1czMnV0WHcwU1BPWlpjamRyYTRYVHlNT3F3TW9YcV91UHp4WTV0a0xIX1NWeW5SbldnWTJxb2x0X1ZZazY3WThzVjVWUi0tYjl1NHF1eUlvYlBOZFFZTmZIUEwtV1lXSWxkMFJRb1R0YkgzNDA5aHpTLXFyc1c?oc=5"
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

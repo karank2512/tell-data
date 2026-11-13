@@ -1,9 +1,9 @@
 {
   "domain": "bird.com",
   "name": "Bird",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Student launches master’s work studying high-altitude bird adaptations in the Peruvian Andes - Colorado State University",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTm85ZFBscFNJYmtHWkI5QUV6dHF3ZjhuZEFZbkNVSENwVU9SSGV2bk9zODhHZ3JVd3BQSEhEekloUU1GTzZLbkw5RXplZHlWc3FuNUV3blVmN1RfNk1HT01DUjdRWU5oVDlOQi1Sa3JkSHRNZWN0X29MMldtbDJTcjVqdkQ0Ukt6bE56SHpfeVBrV2k0d1JiT2hKWnBqMndGb2M3R3QxQUtMWnNkcVJpN0Q1eTJSbC1YeklaWVNBUjQyaWlIbnc?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

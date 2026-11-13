@@ -1,13 +1,20 @@
 {
   "domain": "joinforage.com",
   "name": "Forage",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.6,
+  "score": 5.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "SmiKar Launches Forage for Squirrel, Bringing Archived SharePoint Content Back into Search, AI and Microsoft Copilot - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMW83QmtpRFVlZUNYUUViZjh5X21wYWw2SzFrQ0otVFBkTnB6eFFjdS1ZRFJ4cTVWbWVOdDljSnp0NERkTVE2Nzl5cFY3S2ZWNGY5SDJnbktnaEdjZTY0TkxxYnJnUlZsa3J4T2tyWGVIN1FWS3M4RVB4dHU0dHBjTHNMZnlQSXVrN3UyWlVzanVRWUxrcUFYMFdXem9GVnd4VVQzU2lmdE9jSVlyOGRRblJDRmNhYUljVTJtbGl2eWpPa3dLaWFoWmhoVFdfVmVwdUpnMUJSTVZ4dVNzTFRNb1hkeVBzWWE2NmlOTkdxcUVvNWs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Buck Forage Launches New Website Ahead of Fall Planting Season, Making Research-Backed Chicory Food Plot Seed Easier to Order - Porterville Recorder",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdno4UVpvWmFnLUNhMm9ydEhUTDdLNVVOeEtYUUNEWTVrbXV6WkJxVkpWeTlJaUloX21FLW5YVDBOWUdtUmF6akRWRlBQWERrSHdnZ1FvSER3SnNxb2dONF90LWRuSUVNUlIwUGR3N3p2MmZfOGVScDNjanlJZ19Kb2hRQTNKampWbWhsZ2pKUjE0VUtlMVNrUnFVVkoyTzRrRmVOT3RWWGZpTURvQW15MlNKd3E0YmdvZElMelA2cGJKOFBHaHZNbXJBVEU5alR5ZkdwTFBUQnNUMU1WUC1IUXhVUjk4TzZQT21BVFVJOEF3dzlfT3R0LU16S0ZoZUQ5MDJtc0hNOWRFMTRYQkgzVTZRcG8wa1RsOVczUXktMnRnT2plcGJMV244RkJHUFVUVW85RA?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

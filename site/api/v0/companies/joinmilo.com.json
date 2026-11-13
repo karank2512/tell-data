@@ -1,9 +1,9 @@
 {
   "domain": "joinmilo.com",
   "name": "Milo",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.7,
+  "score": 7.6,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Round of 128: Milo Faure launches himself to a decisive heat win at La Marginal - World Surf League",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdFdKRXYzNlctdWM2NGFkUW52LU5DWVRVRy1YeGtsZ3l5blJvMDNxZDJNTEEwLUJqN1ltLUpOZFRUV3JmZnoxaTlwanRaLUllTXpIN2NmWXYwN2stUEtIMmJnNGdlWTFUZkZHcmZRSVIydGdtUDltUFg1TmhNQ25oMUNVSVo2ZkFvNzdGdHlNcDE1dGR1dkdhQjRPejY0T2RxY2lIZURxRHY4ZEg2Vjd5cEU5M3ViLThXM1JkWmRTaw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

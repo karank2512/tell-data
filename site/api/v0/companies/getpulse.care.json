@@ -1,13 +1,13 @@
 {
   "domain": "getpulse.care",
   "name": "Pulse",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.3,
+  "score": 16.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "AMACO Launches MEDJET FLOW ’27 and MEDJET PULSE ’27 at COMPAMED 2026 - WhatTheyThink",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0NMVUYxWmxtSUxlTWhFWVFrZkxLMGsxamVqS1lHbGR1SGRONy1QM1NUcnA2eUJfdVlvcW1pMU9icC1RdlFzZlBzdDQyY3pSejBpc0Z0a3ZUalA3RzFhREJKQ0ZKZlVBeTRqUnQ4TEQ1bDM3R1g1YzRIUnJtV3ZxQVNZYWprdTRaZThnZ3lGYWlOUUxHWk9EaXlQN21oenM?oc=5"
@@ -91,14 +91,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November - Push Square",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWGxxRXhIbzdrX1RCTWNwTGpuSHJLb19QMUM2cEpXY0pPaW5JUm1sWE1mT0RxeWVvcE55ZERUdjA4eVZBZ3ZfdnZDQjlTOXJBOGVrZktxNGZjUTVXbjFwSlJad2p0MUota2lqamI5T3Vsd1JLT20wdVhPSHI0cEJoZlktVzhZWDdMbjQ4LUt1TjkzRkNCV2pJV1NXMDRIS0ZfaUxKeVU2NFVVbmlfSWxxajAwbEw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "DiGiCo Releases Software Upgrades For Quantum112 And Quantum225 Pulse Mixing Consoles - Live Design Online",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcmRrN1UtSmR3TzdoUmNtcHQydjJxcjlsRWF1U1RodDBIZ3l6QVplTXdBdzZaY2hCNVd0R01vZE04MGd4enMyWGMtZXdnSTN6WDNIREJGVzZKQlBmVy1nZU9qeC1WTGRwUlJJdk1oVFRLb29jY3pfNWV1S2ozT1ZieHBCaE5WNjd2WlJSNjZ2MHRhb3gzUVJ0M1hiZkljd3NsbWVqbmtPdEtxLWZEVkItMHB3bzJPY2RPaEI4?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

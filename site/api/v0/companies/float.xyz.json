@@ -1,9 +1,9 @@
 {
   "domain": "float.xyz",
   "name": "Float",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.4,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "SONIC Unveils Festive Holiday Menu with New Slush Float and Smasher - QSR Magazine",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDlLRWNCTF8yQXdURWhlOGcyZTl1T3hnTXQwMDlxQUxmNEt2dzdPdm9fX0lVa09Leld1Z3c1TmRoMFJPYS1Bb2E1VktJb3czeDlBTnlmMmZFYWthOU1Od0lWMVJtS2VKcC1WeUpwRk5zaHp6ZjZjcjYwMGlxZS10SnoydDFLNUxzODlvbEZ3aURDVEcxLWw1TkhZam5wUUtEM21r?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "hue.run",
   "name": "Hue",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.3,
+  "score": 6.2,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Female artist Mai Chung releases a music video combining various folk music elements from Hue. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUY3dFgzTnhjNVJ0LXRqXzE2ck5wQUFUdVplZkYwQlNrT3drQlppb29qXzlJWTNadllMSWdoWVJZT1V4bEV0VDRlRzJiaTlzeDRkOGUydW9OZG5reGdhVVA2UzBNbDdlVHp3b25pcmNBVWZkT1p0MUNzRUxxdUx0TjhONi1xTFo3bEpkc3RpMm45am9zdldLaHZ3?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

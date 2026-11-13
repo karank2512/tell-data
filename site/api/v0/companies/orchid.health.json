@@ -1,9 +1,9 @@
 {
   "domain": "orchid.health",
   "name": "Orchid",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.3,
+  "score": 16.1,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Royal Orchid Hotels launches Regenta Place in Kota - Trav Talk",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWd1eV9RWmdueV9CUUMxcDZ1NzhVdjdMbXpVbjN1RWFuLUJGeGViWnhIbG9JZGVhWk9PemoyRjVub1M5anpsazFzdW5LSnJ4U2ZyeERsLTN4VndKTHdUcVdtWV9zYXpHX1ZRczZWaEQ4cFZ0Q2hjWU1fRkhBTGV6X25LTQ?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Complete Grow Launches Australian-Made Orchid Fertiliser With Two-Stage Grow and Bloom System - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkdmSUUtMTI2ZjROblM2SFlTV0tzdjdLSk55SmF3eVhPSURjeWFNcHkwOVlrd3YwVlJMV25pcWNWMnJBMjZaakRfNzJmWmdUa2lwaXZhR3JfR04wTV94ZjYwMmxTQ0xwXzVBTTRSUUxkRmtZenc2djhHcUt3ai1iYUh0d3FXQ3RiQlJtTDl6V0ZRRWwtVjY0eHkzd2hyUQ?oc=5"
@@ -111,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "usetusk.ai",
   "name": "Tusk",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.8,
+  "score": 3.7,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "TUSK Practice Sales Releases Q4 2026 Dental Market Report on DSO Expansion, Tighter Financing and Exit Planning - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEJhVlNuSGY3WUJhQV95Nmx2a1dmOTFrTFVkYmtEVk5TRldQN1NqODNRQVdnNk82RTlGZm92TVdBQlJZNVdtQ3AwUTZwb3EwOVRyaEt3c1lzYjFRSHRvMGU4N3laOVljR3hiY3U5cHR3dUt6cFFmYjZ6TnlOc1JLTTRwdHJkUlk2TFVEMlhvQzhyUjd3RS1Z?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

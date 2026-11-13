@@ -1,9 +1,9 @@
 {
   "domain": "doppler.com",
   "name": "Doppler",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.3,
+  "score": 3.2,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-07",
       "summary": "Doppler Token Platform Launches Native Solana Integration - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSG5WMmFqWEE0aWU1TEw0TzFDYU9nRjhxc1FWQnFmRFBsTjN2T1M1SXZjNFFEdzg3WnB6Nl91V0JaampET1pHbTAxUEotQVUyYi1aemZYMDdqY0J5TXRSQ045YTlqLTJCM1lDQi1hREJ1R0EwdXRRLWxOVTUxNW91MEZGTzk2WXo4c3oweVBQZ1IzWnJaN0kzcFA1T0VTQzdX?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

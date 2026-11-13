@@ -1,13 +1,13 @@
 {
   "domain": "onconsul.com",
   "name": "Consul",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.6,
+  "score": 15.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-11",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd1hIYTROMENZNVNTMTdiQ3dIaGp0Z0xBVzdvME85Zm1ZelF4WGRuNmhZeV9fQVNmZmtqMkNRUkl6WDF6ZVVxdUtLVS1zWnpMTUdNcnZYdDM3V3VCSEp1MzRGbnBSMGtKYVhxM3Fmc1RqSGtSMHFxMV9LTm1mZXNkekN1VGMtclFnWE1VbnVNaWZPUlZHMUhDVlhZc0JoLTQxeVhmUkJMTzRGQUdLRkc4SHhtdXZ4enpYNlJZdkExQVVwOU9TVGpqR2dmNmsxZ1g1X2sweQ?oc=5"
@@ -28,7 +28,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-28",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdVZlYUo0WnVoMk1JRlgwRFhrMVMwOGRZdzlvZklNR1kzVjZQWVJWaGlyblBtUzdGV0pjT2MteHlINmNhVVdZU0gwaTdGU01WR0Jycld4RDJRb2Z5T0NSU0NTbl9rZmJ6WS1samdFS3Y0VzlYaE9taXNoLWxIaVB0bkk1UXlDNjI1Ti1fakJFQklObDdMZ3ZMTlpsUTJIQQ?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

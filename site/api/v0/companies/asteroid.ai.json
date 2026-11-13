@@ -1,13 +1,13 @@
 {
   "domain": "asteroid.ai",
   "name": "Asteroid",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 2.3,
+  "score": 2.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "ESA releases Hera's first close-up image of Didymos-Dimorphos asteroid system - Starlust.org",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObDVvTG0yajNRNTJQYmtiT0d2Q3I5R1g5MlJLYUJIdlN0a2VNeDdXN0pVeFB0WWlLXzBnMG1NUFJsOFhWbnBPYXRGU2hDUDFCXzVBWGd6UjNTMld0Y24wR2ZuZm5rZHdnQ29TZmdfdVVvTnQ1SnluazB6djE0eXUzd1JoNENxdEFzSEVHcVZJY3d0NWNON1lqVkt3QXpzb3Ni?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

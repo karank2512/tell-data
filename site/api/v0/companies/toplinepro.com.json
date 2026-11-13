@@ -1,0 +1,43 @@
+{
+  "domain": "toplinepro.com",
+  "name": "Topline Pro",
+  "as_of": "2026-11-13",
+  "profile": "default",
+  "score": 3.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 3.0,
+      "occurred_at": "2026-11-13",
+      "summary": "3 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/topline-pro",
+      "postings": [
+        {
+          "title": "Customer Success Manager",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/topline-pro/7710b30d-81f6-483f-a3ce-c602f5962274"
+        },
+        {
+          "title": "Customer Success Associate",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/topline-pro/ae6b8100-8796-477c-bdd9-50a4a0d834f4"
+        },
+        {
+          "title": "Customer Onboarding Specialist",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/topline-pro/809f322f-9be8-4afc-be86-ff8c110fd1af"
+        }
+      ]
+    }
+  ],
+  "open_postings": 14,
+  "long_open_roles": 4,
+  "sources": {
+    "ats": "ashby:topline-pro",
+    "edgar_cik": null,
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

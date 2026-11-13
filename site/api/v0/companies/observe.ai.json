@@ -1,10 +1,17 @@
 {
   "domain": "observe.ai",
   "name": "Observe.AI",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 1.3,
+  "score": 2.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Observe.AI Launches Headless Companion Agent to Bring Real-Time Guidance & Automation Into CX Agent’s Desktop - CustomerThink",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTAwbHN1VTNUWUZCRmdubFRlNXhLOEk3Z2FqRjlFLUhWWWFSZDVydXdobUV3VFZyclRhUVBQd0xtal9fYnlNbV9JMTVwR1B1Zm51NTRlNHdOTWd6ekxvM2hSbFdiYk1UazBiaFU3TUZCOURHd29zSjc1Nl9XX3pudHB2dDJMNTFhZHQ3N2daWmtrYjd4Y0t3RnZ5VjFIbEVab1l4VFVkT29fc0QyMGx2OWdDbnk3ekdyS3ZQTFlENzZaZ2VTc2hOWDE3S3Vvdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

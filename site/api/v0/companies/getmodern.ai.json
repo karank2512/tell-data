@@ -1,13 +1,27 @@
 {
   "domain": "getmodern.ai",
   "name": "Modern",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.7,
+  "score": 7.5,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "DIA unveils refreshed Modern and Contemporary galleries - The Oakland Press",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3ByMUdFNFFQeWRPNFc0Z3VWbFVaMXZuRHpucVBvamktMjNlZG9jNWxFSVEyX0xvbmNQeXE0Y0tEd2g3NURFYjIxd21SRFVEblNmdHYtLTJfc2MxYUNDaVVkY2RKMmN2cUp5NjVQMU14dFRaR1FKOVlhY3NjTmZYWFBaRWlIdGJxM1dKMlRhcGxWZ3lrWURINnRvN25RQTRz?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Phil Ward Launches LS3/5X, a Modern Take on the BBC Mini-Monitor - audioXpress",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZlpBcjQteWJJaDMweTJaT19YLXNzMExBSTZURVBpbHRxcXUzbW5tU3M1QnVnN0plTkV5LWlNODVIanRUVmU0cHAyejg2UU1LZlFXWnRMQXVRR3NPWXNWS19hbGlhdDhsOTVWZzNfMWo5a0ZnaE10Unc2LTlQdjhwekJLNVpiZkhnZW9zRmtnTHFsYWhrU0g0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "One Identity Unveils Identity Manager 10.0 LTS with AI and Modern UX - Cybersecurity Insiders",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTZyYXJ3SnQ2bjNKcHFYdnFBSDZ1ZTZfQUc1cmFRVTRoU0piM3gwRmhCSVNHOG0xTzIzWkJaTlVMQ2d5SExyc1ZiWjlzVzJlRUY5WnlydnpISUtrblJGdDhGYm9fWnYtQ0NYWk8wcy14ZW12VzJ4UDNac2RyNm1sM25yU3MwZ3JqSjZ6VGt2d1ZjS1RqSVgwdkwwdUFqRVdJV2J6RFFCNEZfeWdT?oc=5"
@@ -41,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

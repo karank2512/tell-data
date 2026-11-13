@@ -1,9 +1,9 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.1,
+  "score": 9.9,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -80,14 +80,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Introducing Science Foundries, a new way for scientists and agents to work together",
       "url": "https://www.benchling.com/blog/introducing-science-foundries"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Direct Data Share, closing the loop between the lab and the AI Data Cloud on Snowflake",
       "url": "https://www.benchling.com/blog/direct-data-share-with-snowflake-and-benchling"
@@ -100,14 +100,14 @@
       "url": "https://www.benchling.com/blog/introducing-benchling-agents-your-infinite-program-team"
     }
   ],
-  "open_postings": 53,
+  "open_postings": 55,
   "long_open_roles": 10,
   "sources": {
     "ats": "ashby:benchling",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": [
     {
       "type": "launch",

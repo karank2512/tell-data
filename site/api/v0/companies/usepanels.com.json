@@ -1,13 +1,13 @@
 {
   "domain": "usepanels.com",
   "name": "Panels",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.9,
+  "score": 14.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Structural Timber Association introduces guide for use of structural insulated panels - Scottish Construction Now",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2NmOHNtRWpOQjRrWHNralM2Y2I2cXN5aWZOOFVHcHdMaDlmYnc0RUJTZkJXMTdtOXRFaF9jc3VpZGpjTzJGcW5iTXJ1c09zcjlidUpJcWdKYzRKblFDaEdhMGtRZ1ZXZkFfNFZMbW5uWV9DNXR5anFLamJsUEFNWUo2RGcycWhqX29tMnFkbzEtaHR5SlFFMHA4MzZEYzZvUTUzMFFUYnd1Z0k2d2FDTzNiRmJjWVVocjBlZ3ptVGJuczdwc3RXRHBXNDJISHc?oc=5"
@@ -91,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Flight Panels Releases iniBuilds A380 Stream Deck Profiles - ThresholdX",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc3pwX1ZkbXZvaU9icjFlRDdlY19fYmVtZ0VxMzVtRHB2amN1NU93QXBZQm1HSXpReGQ4LUUteG1mN20yOHhZSjV1Q0tuM2VpWG4wQVVmRFJ2RGM5eU5ySEpjRUpCZ18waV9YbzY5N2dZMWRKa0Noak1NNmxRQTh6eE1sMExmTXFTWXc?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

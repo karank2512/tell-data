@@ -1,9 +1,9 @@
 {
   "domain": "buildwithfern.com",
   "name": "Fern",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.8,
+  "score": 8.7,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Mirendil unveils Fern, an AI model claiming a 10 million token context window - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTVXd2NGckpienZqUEhmOTV6UHlTbFVCLVJHMEpTdm50WmFzRDMweldUbW5wRVgzNWpXdW94d013elpyNzNtVS1NdnhfbHMtM0k4U0ZoYUpvckk0TWNvSWNadzZYLTNMbHd5RVR4UXVmMzlVeHdLMGVtVDhxRGlvaVFReGoyaDZaMTloa25VVTNkaFpuTG9EaXk0OEJEZXBnZVZ0cUU3WQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

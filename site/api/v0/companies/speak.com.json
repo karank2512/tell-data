@@ -1,7 +1,7 @@
 {
   "domain": "speak.com",
   "name": "Speak",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 0.9,
   "contributions": [
@@ -13,13 +13,13 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX3hUMEhsc0d0STF3OWdFbVlodHVlcTl2aC1EN0JoN21JdXQ0QWdzNDRSY0tOeGF4YV9HQzFZOUUxdG1WTks1MnVLSmZXQXVDblRZVHpkQ1RSZmdLMmRVMmZCYzJuM0dSZV85eVdOc2MwSHBXR0lFcmpYTmdBaTlEbFJ6azJRU2ZzLUxrYjNsYjBvakxQeHY4VE9odkk5SG9MNF80U3JzWWg5bkhGNktMZi1VVm9TY2tuTWJhb0NLZW1MaklvVW52U1ViZkhLVmpsd2NSMjZsU2U2UjRQZUtnYnFXajc5R1VwcGl4TXZKa0s4R2dGbzhPVDQ5UWY5MURVSkw5bQ?oc=5"
     }
   ],
-  "open_postings": 31,
+  "open_postings": 32,
   "long_open_roles": 19,
   "sources": {
     "ats": "ashby:speak",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

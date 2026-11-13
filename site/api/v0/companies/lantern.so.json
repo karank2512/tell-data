@@ -1,10 +1,17 @@
 {
   "domain": "lantern.so",
   "name": "Lantern",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.8,
+  "score": 14.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-10",
+      "summary": "Erickson Senior Living Promotes [person] to Executive Director of Lantern Hill",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYWhrUTNad2s1cGptUjVYVFkzWGFLY2hyLVVNcFFseEFWLVgtR191MzEyMEN6cUtIa0tHZXdpdXZveXBYaTRGZDNwbHhaUUVOSGZETURidXdWTTF4S1hXQWVqd24yZjhVVWtwUWF2M0ZrOGtmZDlGYXFYcEhZVzZDRjk0dGtGSXI2enVtbWZFY3VRWWNYWWZWczZhVkJveEt3RFN2NXJGMkJJeWtrSF9RWFk1aDl2SkdJdS1VTFJhYjItT3ltd3NDZ1djbmdyUVJPY3dCQWo3dHBEazM5dlF6djdXSDM4MTE5MTlCMnZEY0ZIT0pr?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -56,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Lost Lantern Launches the George Dickel Collection - One More Dram",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQemlTM0VkMUpRbzVtUF83bTdzRnlZb1BYUXZjblVERE5mMVd2WUlTb1poYW4zSXJTVktIcVZyYXVZNC1VcXlMNC1SSTBHSjhLd0lIMlRBdm5yZGVhakNFNzRRQzE0Ul9VNUFEWnBPWnF4d0tFazdHTEVaZG9TSXRjWm85OUU3azd2bHNfZkc5TQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "DC officially unveils new Green Lantern with a Warhammer 40K look - Polygon.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTFJMbXZNeTRxaENyeW14LVlRUU55bTVNVldTb1p0UzNwZ3lTWWtNcWFXRnFqT2lLVElJTWxaYXRUYjRYQ2d2NG85TmNhT2hjOUVKTndRUGNHc21QU1F1ZGh3dHpERDRQQTIxZDVEcXdvSC1mRDQ1YWgyWTVScE1EQWFicmdvc3RlcVdPRmhOS2hCYVZ3?oc=5"
@@ -90,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

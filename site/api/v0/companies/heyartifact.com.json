@@ -1,9 +1,9 @@
 {
   "domain": "heyartifact.com",
   "name": "Artifact",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.5,
+  "score": 7.4,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "E-Land Group Unveils 30-Year Pop Culture Artifact Collection - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMjRPTEF1ZEtwbjBSRXdDRXpTbHlod1JoV192aVh1aDR0X2dMYldhTkNUdGRqY0dqd3VPREpPbW53MEFRZzI2UGh4WEVJUXhYVzBaOXVreVI1VDQ2QlQ0VnRGNUdTMDhwTUZHeUY4Q2dvWnNyZEN0TWpNTl93R0hYa2xhVUcxUEFy?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "overlord.app",
   "name": "Overlord",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.5,
+  "score": 14.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.0,
+      "contribution": 9.9,
       "occurred_at": "2026-07-08",
       "summary": "Form D: $4,898,993 offering, $4,033,993 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2143465/000214346526000001/"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "PuzzMao Puzzle and Magical Overlord Launches on Steam With Four Modes - Happy Gamer",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjRUVTJ0TjhaMWJLamRzd29JU1lMM0RkclEwNWo5aFYyMXlLRzVJU283NTdXN1Znb2EzRFEzaTN3T09YR041V09falhIQ1YwRkFjcEZhM2JqdTNkMjJpUU5hNV9PMzBTTUtJY2dqUGZfODdfVE5DWlNoQ3Fra284RUxzekIwaFZUaENRRGNHMA?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

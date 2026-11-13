@@ -1,17 +1,38 @@
 {
   "domain": "classdojo.com",
   "name": "ClassDojo",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
-  "open_postings": 14,
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/ClassDojo",
+      "postings": [
+        {
+          "title": "Principal Enterprise Onboarding Manager",
+          "posted_at": "2026-11-11",
+          "url": "https://jobs.ashbyhq.com/ClassDojo/60f8d84c-8cdf-4754-94a5-237337a0ae58"
+        },
+        {
+          "title": "District Onboarding Manager",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/ClassDojo/8caee37b-868b-4557-883b-97804ee87874"
+        }
+      ]
+    }
+  ],
+  "open_postings": 15,
   "long_open_roles": 6,
   "sources": {
     "ats": "ashby:ClassDojo",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

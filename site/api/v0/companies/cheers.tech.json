@@ -1,9 +1,9 @@
 {
   "domain": "cheers.tech",
   "name": "Cheers",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.7,
+  "score": 6.1,
   "contributions": [
     {
       "type": "leadership",
@@ -22,6 +22,13 @@
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Global Partners Launches Annual ‘Cheers for a Cause’ Campaign - NACS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRS1yMTVXUWtzbHZmZURGaUtFLXNVbDZZdjZlY182ME81OUNMc0xVLUI0cld5QVE1UUFNc2pneHJocUdlTjRwbFM2clI5NF9rQXRWZGFJR2pMRGZ1MEtjWV9hVDZWb3dTb2VKaUZYd2drenZ5WUk1N3RsVzFDYkRUdVFlX3lwcE5wRC01XzA0ZmlobkFzRjJ5MW9TdmZuakJTalBLbTZDNGpqZzVqbDhVcXdIUUdQVDQwZzVBdmU3aF9RUjBnR1Z4ajFUTkt1bGZDcldqRXFZWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "YMCA launches “Cheers to 175 Years” annual giving campaign - nrtoday.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGg2SU9OLXpqNVBsREpqQ2NGODkwSHdPcmJkWFNDXzBjdVFHVUc5NHFweFh5WGlTVjFmWHIxMkY5QjI1Z3J2MjJzQk9DU2hvbkpOdG1FcDdRRVVDYzloa21fRDU5aGNQUjQ0T2w3NVZnTHRoRzZpQ0lxLTBfRVNrLUxKbG50cGxUQThmaWUyUl9PTVQ2TkJkbE5qY2MxaWl6Z1VBbTRBWGxWYmt3RlpDYVZuYlJteDctSm1iTHBOMzNtcEVGbFpXaE5QdFlpdGxu?oc=5"
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

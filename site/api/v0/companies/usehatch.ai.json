@@ -1,20 +1,20 @@
 {
   "domain": "usehatch.ai",
   "name": "Hatch",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.5,
+  "score": 17.2,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-10",
       "summary": "IMC Rare Earths Appoints [person] and [person] for Itarantim Studies",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWxmSnlTSHREbG1vZWhYalA2T2R2WlpodTNjb24zaF9QakhZTEJFOXRaZDlRdFVyOXdUQ0U5UnNxVzkzQjhkaTlQRmd3X1B4bDUzVUpFYmE2enNXQ3dTVzRadDlsV0dWME9HYldYcmg0aFN3RWdHUFFMc1g0NUZYMnBqMHNJV2trZkRLUENDc0xiUnVtVl9yMS10Xy1Wd25aYlZmX29seHNoYzkzdzdrSlhtQXo?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "MG4 EV Urban special edition launches: $33,990 drive-away EV hatch arrives as sales climb - EV Central",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWY5X3hRM0hpNzhSTzZkY3pudTlFWkpJWVM2ZDFnTG5may15czJGNTRWX3FjaUUyTkZGNjhPd0dNUENlSU96eGZRbnU3TThyUEVrNnF1OE9KVEg1dDUwUzE0bzRMVWlDSnd6QXVPZGp4eFhZQ181cVhnZ1czekZtcGJmRmxVVWRqR3l5TVJmb1ZOQkMzMlljWEV2M1I5R0RYU1JLampyTmlxSThaU005bDlB?oc=5"
@@ -55,13 +55,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRjhwYW9sd2Uwci1KNDhnLVpNZ05zWFQyanVQMFVWVVBnYzZ3V1NXNGRtR1JXV0hIZDFIZzc5b0x0cDhJbWhZZ3dRTlMzdzVSSWZqVjloWEpMQVFRblpjLTAzWk8zN1pRTmwwZFFFeUJYeWYzSjB4SVNUZTdPM2YyaFJzR1hPSDBkVnpGMGx6MXRsbjZ5cndzbzVTdnZGdw?oc=5"
     },
     {
-      "type": "launch",
-      "contribution": 1.4,
-      "occurred_at": "2026-11-09",
-      "summary": "FAU Queen Conch Mobile Lab Debuts in The Bahamas with First Hatch - Florida Atlantic University",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvZnBMakN6dTZkMUFMRXp3eTZ2b3U5cUh2ZXpSUWYwOWZXSDRsN2ZuZEhSd0QtS29DXzVMeXZqZzZ2N1htVjQ3SkpqcUEwZVlUbklkOVFZQ1NEbkpQR3VHVVhhbWlGdmZBN2FIUGtaSXViUEY2Q1BMSQ?oc=5"
-    },
-    {
       "type": "leadership",
       "contribution": 1.4,
       "occurred_at": "2026-10-14",
@@ -70,7 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "FAU Queen Conch Mobile Lab Debuts in The Bahamas with First Hatch - Florida Atlantic University",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvZnBMakN6dTZkMUFMRXp3eTZ2b3U5cUh2ZXpSUWYwOWZXSDRsN2ZuZEhSd0QtS29DXzVMeXZqZzZ2N1htVjQ3SkpqcUEwZVlUbklkOVFZQ1NEbkpQR3VHVVhhbWlGdmZBN2FIUGtaSXViUEY2Q1BMSQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Ditch the Apple Watch: Hatch launches a contactless sleep-tracking alarm clock - Mashable",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EdVpubXFIVEVGR2dEVFpBR19FTUE3SWQ0QnBoSjJrWGMyQmdDSmNjbUVHX2toRjQxVVh4bHhPYVJFenBwbnB1ZVUwNDR5S0xaQlluMFdtNEkyeHdGZjNGZjdTWU1BV3U5VEkzRjhBdDJucmVLQnNZ?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

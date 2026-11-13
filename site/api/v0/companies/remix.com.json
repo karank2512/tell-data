@@ -1,13 +1,13 @@
 {
   "domain": "remix.com",
   "name": "Remix",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.8,
+  "score": 15.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Violet Nox releases ‘Spectre’ remix by Black Snow On Christmas - SIDE-LINE",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95NXJQX05JTmVqVTlFZTVsZF9WV0hkV21MekZWQVNycF9MTlZMOGZyY0lEM18zQmZ2OExIbFgwSG9JS1pEYkJYMVVXREdnNW9iSjhMQ3BYVXFDV1M3em44Rg?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Remix launches platform for anyone to build their own game on desktop, web or mobile - GamesBeat",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUU4aDI0djhmbnJIUVNNV2UwcVd2RGxEMGZFcVVfTzl4SDBORk1EYzV1Y2c0emRaZDh2RzljQ2NUMjNWV01fUDB1WlVOa2Ztc1lBQkRjUzkyQmJpcTdORmV4NjVBZFZrQzl0R01ZNzNSakpULUJfY2YyQTM1ZktsUGZ2ZkprM0FlTHRTVE0yNGZJckRpNU5NLUZVT3dTZElsR1BfdUo3QUY1dw?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Roger Sanchez releases ‘Spectrum Refracted’ feat. David Morales remix - Electronic Groove",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdFdWS2RpS01nRnpUSFBKNGozanZNaUswUGVwSEROQzVWUWlsc1NwbnJkSjRHYnpRQW1BWEh3ZExRLXJoMjJCR0dLTlJxaUNXYy1WaVpLdHdmMU5ET0JPaFdMUklYd0l3ZjlpcGdXd3VqRnh0WmVTaXJXamVpQnVEVk5HSVlCSmFSZ3hob1k3ZUNMaHNPLU4tLW1fV0RiR3NyU2JB?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

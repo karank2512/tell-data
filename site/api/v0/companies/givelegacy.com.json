@@ -1,9 +1,9 @@
 {
   "domain": "givelegacy.com",
   "name": "Legacy",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 11.0,
+  "score": 12.3,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-10-29",
       "summary": "Legacy Corporate Lending Appoints [person] SVP, Portfolio & [person]",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWM4X1VCQlkyanRxeGtFM1ZyMTRHU2phVm0za1BuUEs4aUxZSHdXUGRqRWpTUm9HbUt0VjFiWGlqMDJmMGkxTmdMUW5tV3hpeXZtSGtfOFJHenp5bXZuS2VkSlhzYnd6THdudHRFRUZzNmlXUlgtZ2wyc2tUbGNvLXI0OUtKUVp6cUEtUklWa2RzRzJIOXItRXpHNllZQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Pine Hill Tavern Expansion Grand Opening Saturday, Nov 14th. Introducing Jay's Legacy Lounge - 42 Freeway",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVZEdFBfWV91N1RhdFo3MGtNdV9xVHk3YXVqTjdpT1B3T1FHbzZQVjI1R1c2SVIxY3gtbmlMTEJOQVRoZFU5VXJNUWQycGpuYnoyMGVqRlQyRkp5dmZXNGVNNmZ4RGNZZDFVX1I3UzdRbmUzS2ZnbDBpbENYWWVwODVaMURnMkdLQnhCZmd5aHdDNDhzTmFwdTMtdFBCUFF0a1cxbldfVTYtZUFyMDVXTTE4ZUs0VkxC?oc=5"
     },
     {
       "type": "launch",
@@ -49,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Sundance 2027 Unveils Legacy Lineup: 'Memento', 'Y Tu Mama Tambien', More - Deadline",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaTNnY2xua3AxU1ZheEZCLUVTc3hianUxeWpkUzdlbC15QUhPZTlxQjg4YlVIWFRWUWlka0gxTmNibXBUY25JTldtQlpfVEE4Ml82NGVITVlESEM5ejVOWXRDVEEwTlJ4cHdVemU2SVRIQVpsTjkwWDVUUXgwZy1EQ1Vyb05CaW5vNUtJX0I0NGFYTFJIMHlJVW93?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Tesla Rolls Out FSD V14.3 Lite to Legacy Model S and Model X With Intel MCU for the First Time - autoevolution",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFlRbzZRYjRqZV9vbE1nOHB0NVhwTWJkZ0NLM1FTSDNjVFhCZ0JmLW00Zy11UjY1YVI0eW9UaDRPOGhjeVBkVVltbGFDeVRRazBHVkQ4MlJUYnNyT1JaeF8xTFh4QXpnNEVjeVNiTGNSemM4Ymo1ZjY1aWhFaTY2S3VrQ1JBdVIwSWptQjRWSUpYdVhmbE1wb2VReVk3UmlPTGVMUmxaVHdFX2JMTUx1eUVQeEROa3B0Z082d0hubHhsRVNEUndVUWFXd0h3d25neWlwNG9Iaw?oc=5"
@@ -76,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

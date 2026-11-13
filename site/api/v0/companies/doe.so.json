@@ -1,9 +1,9 @@
 {
   "domain": "doe.so",
   "name": "Doe",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 22.3,
+  "score": 21.9,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "DOE Releases Emissions Value Request Process for 45Z Fuel Production Credit - Bergeson & Campbell",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTTdxTVoxalZlVUtha2FrNzVJdW9PRU1hTExtVGk1R0R4MDlnclJMSjZBMHlVNDdaLUJRMngybnFLbWp3VFVXbjBWZFYwb3NBY3o5TjV4ZG54VnhqeDFQSHpINVd6WGF0ck90UGZMZ0I0anNXdS1SVG9aV2o3UWlVXzJLdWlHOXdkZnJfUFdFLU9ZY2ljamVVUHBzQ2dFUGc?oc=5"
@@ -63,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "DOE releases national battery strategy and launches Battery Manufacturing Accelerator - Charged EVs",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR1VDNjNhMnlRS1pGaV9GYnZ5UGxiaVY5UjhFTWhndzhmS0FvcTdidE43VHh5RUxuazVLUHRJN0NOTnZHaU9OY2UtRGU0M3JTdzVSQUtBRUE3d2lrS2IzaWNWNVV6NjEyc1g1NlBIOTdERkNvNlUybzg5a3RrRFRvOXRqWE8zM19abmdiQ2RJZ2RwME1HUVU3M2NoYzRGeVkzbzVhalUyWWtMSVZsWTB0c2JqYkVqQ0VXY0E?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "DOE Launches Battery Manufacturing Initiative to Strengthen U.S. Supply Chain - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50el9haEdEbks2YmlBbHJib1lMVkZ1dzFJTTFaLTZJVm1jc1NnR3FNalo4NDEyeDhYMHBySkdDWGdzQ25xeHJONjB3aGhPaDlOVlhKQXJlenNBSkVISWZwb1VMX2lvNzIwUjY3QU5xTTlMWWF6Rkd3SFpodlYyUQ?oc=5"
@@ -126,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "DOE ARPA-E Launches $37 Million QC3 Program Across Ten Quantum Chemistry Performers - Quantum Computing Report",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ25rNThxN09fMnVLQTFKVHVaQ2RFWHZieTNvYTRaM0tzMndORU5fOXBJdlFjU29oUEZZZG1VZklHNVlkTGhIUk1pYzRRVFFHeHdjV0w2SFR5YUItdThaS3lGb3QycXlrMTJjR3RsUlR2NVFKMHg3UXA3VGN5RXRnYm9COVluOE16SE5wTHBLejl2c1JmVTliQjM4TjE3LUpRaFcybzdiWml5WUVkZEttNG9XVFRqWngtZlHSAb8BQVVfeXFMTU01MFEtVi1uVlpRVXFMdG9nX2ZTUERnazFjSVctbXNFN2NmbWR2TlNrUFU5dGkxOU9nSGZOMzEyZE40dkdXbnFWYmZHU1prbXBnZG01N2hSOFVUMG9qWTJraEdscU9yWmtRczZFaXZObnpZVndSQXJBZzlhLUNRdmg5VHB4bXRHQ2NCS056RWVmYTgzSFhVUXBVYkU4cXNRMEItZzhKS040cDNiNXBMbHJ3VWNZLUZ0S01Ma05YZVk?oc=5"
@@ -139,6 +139,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

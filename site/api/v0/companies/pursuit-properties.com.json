@@ -1,9 +1,9 @@
 {
   "domain": "pursuit-properties.com",
   "name": "Pursuit",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "AG Releases Report, Body-Cam Footage In Fatal Brandywine Pursuit; No Charges Filed - The BayNet",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMXFVdlc3TDFIb2hFRzZETjZtMW9Da0RUT2Zqb0hucHo2X3o3ZElsbnUzTmEycWFnS1ZtbFlTR0c3X0MzUG5NMWJkdlJFRjVsaHNkN2hxMUFfWUFvSy1uTjdBQ2pxWE1Jc3YyMkVFOF9yRExoZ2d5MURlNlFpNzlIV0FicVhjUDZXM3JRWmpZX1I3eHl1Y1RYVG14ME5NMlVUbkxvOXJB?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

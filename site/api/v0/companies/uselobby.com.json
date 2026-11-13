@@ -1,10 +1,24 @@
 {
   "domain": "uselobby.com",
   "name": "Lobby",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.1,
+  "score": 12.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Springfield insurance agency unveils lobby tribute honoring 13 military veterans - OzarksFirst.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zaFhva3k3QTlMQmFoSEhLVWR6VE1XeEhfX0ktT1hLV0FHYjNRYnJVaElXSlJaRnViVVBxV0dSUlRuQUNmOHg5ekhMM2dlRk1nQk5ONXNzWGlpTjRYOWFXNWJ3UWl6SUYwZUNrc2lhLXB0c19pc0Nsam5BMk93d9IBgwFBVV95cUxQcjJzMHExa2pvSC1GaEo0VHV5Y0V0ZWphUk5BR2hnZjRhU2NnbUcyU2c2WmlkTUVfSjBwaFdVN05sNklZbkU3aXRwS2Zka0RaT00tMVRxNl9WUlk4dF9iZldmcGluaFFnVTBpbE1RUXZUZ3FwbkxLZGpJOWVSWE9OeXRmaw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "CAIR-CA Releases Report on Israel Lobby’s Role in Passing California Law Censoring Speech on Palestine - CAIR California",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORkw5Y2FoNzNMRFYyeWhuSEx2ZVZ6OEMxY2ludXY0eTJvTzZFMlpEZFJzYkQ2RGJJUlZDeUVQUUtLVE8zRlM5UTFxSTE1TDR4Y1hlUkRCTjl6bURiWU9vM1dSc29LNWRISE1uY3pTaEZva0tXWlpZa0RQVUlQWmQxT1hRcGNrSFZ6Y2FpWFJ5OE55Rkt2clVwVXNBRk9qcHpvLUQxOElLejdkUjFBTGtQSktNcDdMT0hUXzlXdnNPSWQ0NnF5VF90OXJNYUtOZWZjdmc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -28,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Husson unveils Newman Gymnasium lobby upgrades - WABI",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFI2OTF2bVFNalpoSjR3VUJoeE0yYUJKdmg0OG90RUQzZkszcXdyVHFJRVFFQ3BreEtQVS1jekZmOGhqbFdXUkFGbGR3dUthbWR2REpxS3psVjh1MHpFWkMzMkc3UHVZV2NsNmZiUEE1QWhJVTAwLS1Mc1hnNVBSdDJzWUPSAZgBQVVfeXFMTlgxVzNHYlJqc2ZGVUliZnNlN3NiWGxGUC1mWVpSc0FOUFUtRzVLcUgybkFIcmVsejJpcEVUUDRjalF3anVORmJpbnV2dV9ZVU9wU3g3MkFRQWtnNGNCZVowSE1VZTRtTmlfbENidHgxLVNQbDdxMnRYX0prWkZLX3BHcW9EcWpRcW11dVpISW11bE1fX2MwTVo?oc=5"
@@ -42,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "SSM Health unveils Fond du Lac clinic lobby upgrades - Fond du Lac Reporter",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkQ1S1pFb0dSRzU2ZU1PVE1DZl83ZlRTd205OVlWZU5CR09XdTRWTEEycF9fNHp4bTZtUkQ3dXFxSTJGTlBKX2RISnRNZ3k5djN0YnZOVEF0NFotT0NDcEd3LU9HSHc4RjhNMTF4X1ZZLWEyTEd1cElia1BHR3JtUU1RczFxbl9kQ2hHQ2NpdmVPdDB5bEJCSnZlT2lraVVqOTE0anBMWFBSbzJfcDMwZkRHV1F0QQ?oc=5"
@@ -76,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

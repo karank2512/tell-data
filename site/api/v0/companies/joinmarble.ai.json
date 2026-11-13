@@ -1,9 +1,9 @@
 {
   "domain": "joinmarble.ai",
   "name": "Marble",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 11.8,
+  "score": 11.7,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Blue Marble Geographics Introduces New Global Mapper Subscription for GIS and Drone Mapping - Dronelife",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83SDhtX1VUNkx0Rkh3NnViNmpield5MnY3djc4Vk03R1BaSlN0b1ZiZTJsa1pDR2RVN1hoUE9weDZvb2JZd1dFaml4Y1pXSGFOWUZMMEdibldMWjRpaWVTeTRsTVAxU0xsenBBLTF1M0ZEc1BPX3RPUk15YmZUeTA?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

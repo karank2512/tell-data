@@ -1,9 +1,9 @@
 {
   "domain": "startraven.com",
   "name": "Raven",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.2,
+  "score": 16.9,
   "contributions": [
     {
       "type": "leadership",
@@ -35,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "France Unveils RAVEN Mine-Hunting Underwater Drone - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY0kxZXZCNi1NWWNlVVBVdkJyb2dzTjk1UU9VQU1UVnVKRUM1cmxUS2RLRVp1Y3RyVjd5V0hqWFVUemR5dkxvWXJVM0tOOEwxU3pBSE1KaGRxYm9uWUF3NmVCU00yV1JSemFOc0t1WDhJRlBwcExhTkNMTXlISGNvNWdWaDZmc3FBNmc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "SEABER launches RAVEN compact mine-hunting AUV - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3h3a3dfbGJRaEJJOEZkRmJXNUR4UmN1NEFUR2ZvdzAxNlBNN1VObVFlaVk5NXBYOUlzMDlkZjhGMFk1bWgxbWFrMHZoWmNmLWs2SkF2blFkSE81NXpEVWdDZDFQNm1hcnoyc0YxZi04Nk5LRmJ1WUFveHBxc3hLSHpta2NwZlU?oc=5"
@@ -98,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Raven Banner Acquires Polish Folk Horror ‘ÒPI’; First Teaser Debuts Ahead Of Fest Premiere - Bloody Disgusting",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUNBUGlJUUtQYm5Tdmw5Y0VaTUlUdHUyOXF2dGtDQ2hMWjdNMm1CbzBybEFoYk1qQnp2TWp5OExId083RWUxS0xhdEt2a1BpaTJ4ZWthcERVdFctWER6ZENCcVhMSDA1OVlLWDRJeWxaMnpzQ3Q3UEJhLTZvel9NNFp1UzJGcUEtbDM1bnJyZTZuUDh3SlBLQ0NjTTNleHliT05FZFg2NjZZaGExZzF0VXVEYXdwbFF1NTd3R2xlVGR0WHRPWm9kMml5SGk?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

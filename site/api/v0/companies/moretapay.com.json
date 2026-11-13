@@ -1,13 +1,13 @@
 {
   "domain": "moretapay.com",
   "name": "Moreta",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 1.2,
+  "score": 1.1,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Leading Digital Wallet for Travelers and Expats, Moreta, Introduces Peer-to-Peer Transfers via Moreta Tags and QR Codes - USA Today",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcHpreDlZOTVWRHA0VFFQeFdvVHhzUG1RVEdCdXVvUFB0N0I0cXRweG43Rm04RmdQbk10clhqb1dld29jQm9qaUwzQllBX1o4dEZzeFM0bFJweG41U3BNVUlGbzZjS2x0SHlDNDZyeHBwT2ZjVHUwQ2tRdTUzWTlOOVEwTkFNX0JnVkNHRE1HV2dfOEpyVlJEenRHVnQ5SU0xN2sxV2R3bEpUeUpOYUdXX0NybkM2RnlMYksxdzNZUzhiaDlsQkQzYnRXcVl3TjlIVEFOY01LRjF6amZWMzZqNC1HVFZoYTZiV0xjaUpmdnBJUTdUMVVISHplTzZQZw?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

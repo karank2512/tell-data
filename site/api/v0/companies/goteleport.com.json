@@ -1,9 +1,9 @@
 {
   "domain": "goteleport.com",
   "name": "Teleport",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.8,
+  "score": 4.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Teleport releases beams to secure artificial intelligence agents in production - SC Media",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDJNdXJTNDkyT0xBcl9oNm1rTjFFSlpGSXBveU5oeTY4WmFvZlpjNW10VUtaVVJqMEgwSGp4V05TckV0WDV4WUpFYlR2MXF0SXc0eTk5LVRIaTU0cWNXeV96NWZLb08tYnNrV0FPQl9nWTVJcVVqb1F5TWZIYU0talhCSU80Wk1mMU00c1Z5UlJ0MC10QlNXbW03eW1xOUl2NFhvb2Z1THlKQUx3?oc=5"
@@ -40,13 +40,13 @@
       "url": "https://goteleport.com/blog/teleport-beams-secure-ai-agents-production/"
     }
   ],
-  "open_postings": 26,
+  "open_postings": 25,
   "long_open_roles": 5,
   "sources": {
     "ats": "ashby:goteleport",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

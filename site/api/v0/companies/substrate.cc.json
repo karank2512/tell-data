@@ -1,10 +1,17 @@
 {
   "domain": "substrate.cc",
   "name": "Substrate",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.4,
+  "score": 11.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Google releases open-source agent substrate for secure AI sandboxing - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblVLNjZmV2lGbjh3a201RzZkOW9razlPel9zdXlScDJHZ0lDVzJpWlpUY3NFMmQ3RVZGcVlndk1QbHBHSVg5VXlNSnlXeXYzdm9QWTk4My1wOE45dWtwbkthM2t4VHlLM19ZTThZTVFvT1NISVM5ZEhsdTg2VFBNWkNJSXNOQkVzQ3kxN0VMck5wY1MzblpTNVViTkhnMEU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Substrate Biochar Launches First Production Site In South Africa - Carbon Herald",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaU5ZZnpPeUlmcmhKY2tnbjQ4Ml9yNmN0NFpvUzZJRXg1VkhpazR5bjFiSnRIbVdHWUFnOVR2WVJXX3YyazZGUGxScWtCQVJVNGNvUnkwbzRkMFItX1JDWHZYQXBPd3l3dTU1VUhNal9oMlBhaUFsQlNmYjZ0MFZ6X0dOWW1JZGhvd3FMX3B4MzZLaGdh?oc=5"
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Mirae Asset Global Investments Launches TIGER Global MLCC and Substrate ETF - Hubbis",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHk3SkNhOF9QNlZzR2I4YndNd1RXVjJoMDNkbDZOWlVLaGNZVE13ZjZHaXdBYUVhT2lWUFc3bmJWdm0tMTVtemxSUUYzTXhXNlVBUXpMZm1wbWEwTGNvdVlTdjJ2S3U2NXU2MlhZZGszRFFreVdoYjJvcl80WFF2ZlVHX3QyakNEYTJkTjFMV092YkZENk1aWFNPQzM4Zjl2?oc=5"
@@ -83,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

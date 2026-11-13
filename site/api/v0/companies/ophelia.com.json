@@ -1,20 +1,20 @@
 {
   "domain": "ophelia.com",
   "name": "Ophelia",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.2,
+  "score": 12.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Taylor Swift Debuts ‘The Fate Of Ophelia’ At 1st Band Performance Since Eras Tour - JamBase",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZDdoWFk3YWJyVFB5X29RNlBPSGFhMF9neXFSTThib0VMSm13b2xfcC1Ody1WVkZDV3lIWlFSV0hRanFVS2p6S0NqcDc4NDh1Z0kwMFh1aUVCOXlkY0tqTDFibUJPeFJlOFp2dGdYMnNJQXNOcThnZXcxR0V6MU56aUlrczFOZ2VISzB3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-19",
       "summary": "Taylor Swift debuts live 'Fate of Ophelia' performance - Morning Honey",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcUdkRUhvbHItLVBCQ0xZU25abE5faG96aFBRRW9CZll4S0VxYTJELXhtVTl1c2ttNXdRVjlYR1kxSTFpTW5xbWtKWnNtREllRGlpcDVaSF9CSlgwbVlCUldJcURicUdEQ2I1ellydmZwS0F4OHlNczRSdVUyUFpldldZV1ZGZ0pPOGFyUzlvbkphVThEcTlPeFE2eHV0b1N4VV96WTl6NXYzb0ZCMnFpWGRfQzF0cWJGT3FvalI0U2x2d2FaalJHNm5KUjZ2ZlV2dDZTNA?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "assemble.ai",
   "name": "Assemble",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.9,
+  "score": 17.6,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Com2uS unveils 'Destiny Child: Assemble' for first half 2027 launch - 디지털투데이",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc284YWZsY3l0c0dILTFLTDVvVy14QnlFMEpuQ3dSUkQzbXJoR1VPRlRxY19CWUgwYWFjTjROVm5Pc01TSFNXcmtLXzJHVlprUkZaaElYVzYzRUh1OVJsM0g5c3o4QkpXaGZlSE5yTEFMTzloY3FUVTY4a25xQzhLc1BpaDREc2QxS0lnT3dqNVpZbm1Zek9kSm5paWw1WXBLdTQ2dGxubGo5UlVFcHBwMXVrMlA?oc=5"
@@ -77,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Assemble rolls out charging stations across 800 BTRTO homes - realestatesource",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0tobFg1dUtXTXZpd0ZlZUY1bHFaU3hyT0Y3TWh5bTFXc3ZKenhwbExMY0hZTE80cWxqYjZTV1Nkei1PcGJtZWZjaHVta2l1ck45ZFFVWWM2ZjV2dkY1bmtlM1NZYUl1VEgxOGVsdlhaRUdBWDZ1UnNPd3dFYnhBTkZoNVRIbjVqekV4eFkzWkE1NnVmUW1aSVowVEw?oc=5"
@@ -112,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "UPSA launches laptop assembly plant, requiring new students to assemble their own devices - MyJoyOnline",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXpBLVlpeWN6T3hRVFV1bzVacktkbURjTWpaNG1TMFFMVTgzanRoajZiX295bjdVSFFPQ0VGM1pudll1VlBFa1l3OHZPTzFWQkg4b1hTd2Z6X2tHajZnUzBBTGpVT1dfUEpNU0g2OUdwLUJoSGdzYi1hb3hNR0RFcVZfMzZlNnF5Qnk4bmJuTmh5VzdOa2t6NXBRT09ETHNuX0Vqakt3VUNwLXpOZ2FDb09XbHpEUElY?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "upkeep.com",
   "name": "UpKeep",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.5,
+  "score": 6.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "SwitchBot Introduces Curtain Track 4 for Smarter Curtains with Less Upkeep - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZnRadFNqUUIwbFA0RjFKUHFveWhpNmxDeWRBOVZYbVczV3FtaTZGbnVCcFR5elJWaHhnN1dCM0R6WFJKQUhrb1dmc2ROSjhISWRJSml4dWE4ME9qQkRUOW05dkdxb2ZHdEs2UEFrbGxQRFE2anRiVmR0NG1DUDJ3Y2JSZ0lvWXgyOU1OdVRYYS1pU2pQbHRMOS1hejB0OVZCSmJ5czNmR3B6d0Z1Nl9qM1lTSkQ3V3BSWl9qSzlfZXJmY0wtQWFyNGZXRTc5UQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -48,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

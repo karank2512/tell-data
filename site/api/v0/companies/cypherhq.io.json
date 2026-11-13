@@ -1,10 +1,17 @@
 {
   "domain": "cypherhq.io",
   "name": "Cypher",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.3,
+  "score": 4.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Red Chief launches ‘No Shortcuts Cypher’ to spotlight emerging Desi Hip-Hop talent - Lokmat Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZGNoNEZ0d2lrR2FJLXpPRzEtdGxUdzBSRkVodnVaRUo2SnNXRnFRM1ZmSkttQzVGY2dwUlU2RnBzSjlJUVlKby1TVzQ0NnJBcXEwOXlyUWpqRXJ6ZFZjRTBjbEIwcDRNWUpZdGhnOTA4ZjFaQVB3LUFQNHIxRzF3NkIzd1d5TlhyVVFiaUlUV0ZRd0dfRzN3VFp2YmhkMHlCYk9jVWtpWTA2X1dNTW41SXRneTVRakZBN3ZFZ0JNdk_SAcYBQVVfeXFMT2tleXJKd1JrRmN4SmVEUVpaRzJoaHpXZVgtMnowbUdDbDVHMXg3YTU1blJmMFZQbWdqbXZXRlJHcTBQSm9ndGxKMnd0blNkNVFZSXM4WkM5bXRPUEpEYVJleDZsNXVzbjFuWDBWcEppLW5RakZrWVR2UGJMVDk0TmZ5WS00clVLUlUyaXdrUjFITTk2ZnZjTHhSWi1Yc3phRnZ5SFB5cFUwT3FaWTVLcWthYXc3SVNnX2txVHZVa1ZrMGJwVy13?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "County Releases Robbins/Cypher Complaint - Leelanau Ticker",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUF6djNXcDZQYWtzM1NxTS12NXVoWVdMeDRDUHhrZDNHRGVSNlFDNzZmQmExQnFPZXI5RXkwRkVGZU5qcG1IWU96VHo2MHY3RmR6MHh3WnRjWHdrcjRHYWZCQ2dSeXk3VmdJV2EyYjlwZTNxR1RPVkVPc0d6ZjlmcU13?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

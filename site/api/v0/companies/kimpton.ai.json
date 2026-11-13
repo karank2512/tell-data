@@ -1,9 +1,9 @@
 {
   "domain": "kimpton.ai",
   "name": "Kimpton",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.0,
+  "score": 8.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-26",
       "summary": "Kimpton Hotel Monaco Seattle Appoints [person] as Its General Manager",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjZsdUdLZmRRUmx5NzdRMDA4TVhlMU1BV2t0ZjNqOGRtM2VCNGJvQWlLM1F4cEtmR1JvZFBuMXQyaE1SSDJvdjlqaEM3Sk01Y0pTaGhPZnFIR3B4c2hjcFMxT25IczQ2b2hudXVqZEZxVEdCT19URURGcHU3Yk5QNVllYjUySDkzUlN0bU5KQkh0aldJcnFPRXZRMThuYUF6el95N24zYjVfZXJ6V3c?oc=5"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Kimpton Tres Ríos All-inclusive Resort Debuts in Riviera Maya, Mexico - Canadian Travel News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcW1zMUxMeXFPbUctcHQtLVJnUEo2R0hybnNjczlTbi1CQU90bW9oUjBNRWJSZmhBck95Zk5mUkZNOC1VZnhscW1UTnEtRXZLT01wbmt1SDJjTmo5M0xfdWxqR19PRGk2SjhBX182ZlU0S2dYV0xtNmtNOXNWa3dERw?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

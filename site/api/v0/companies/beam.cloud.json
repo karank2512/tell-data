@@ -1,9 +1,9 @@
 {
   "domain": "beam.cloud",
   "name": "Beam",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.9,
+  "score": 8.8,
   "contributions": [
     {
       "type": "launch",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Newark audiovisual company Diversified launches Google Beam demo centers across the U.S. - ROI-NJ",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEZvUHJsMHZneHE1Z2FfcGZjTG94SkR0aW9NTjJ5MnNGSHZFUHg3alY2bWJKR0RsX2xPTFEwYzd6MHNVc05WbU9JQW51NlVXb19DMWd2Tm9fX1FzWGtSc3dIQUxtWXhyY2pEZHdYWkVDaGZqZ05ycEVGRVhxb2E5TG1UYmNSejhSVDE1c0Jza2E0UzF4MHBMd2lUWFczalNlWFhJVENIUnlteFdBeHZzS1dIMHFQeGdxNlpwN2s0V2dRWGxncnc?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

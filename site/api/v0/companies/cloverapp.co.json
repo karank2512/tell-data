@@ -1,10 +1,31 @@
 {
   "domain": "cloverapp.co",
   "name": "Clover",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 25.0,
+  "score": 29.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Clover Launches Clean Ground Protocol Trademark , Tulsa's Licensed Yard Sanitation Standard for Dog Owners - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUVXdGd4eTYtUlNOc2tab05seXN5Q0c0VndOOXFqd3gwaG5sZlpIT1FsTEkwcXlqbG5qQ3BDYVZ6WjduRUJKWkpVRnFBc2ViR1p1Q3J6NVdoMWRkYno1UDAwZWkzbTJxRHdUYURHMzJyNW5QZzh6SnpsWnhTb2RsME5WMEh0Y3VsNnNzNFpXVWd6OGhvd0E?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Clover Press Launches DC Art of Riccardo Federici Kickstarter - Superman Super Site",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3dlU2dfV1otVXE4Sl96d05qUnJGZEw4RmVIYVduNURQMVBjbURlMXpWV2sydFdtc0xsdmdDZ1hnM1UyWWw2eVlHWXZoczVQUm43TmhUQ0V3SDMwcUlEaV9WdHBGQnRGd0NUeDBTcWFFcTZTeHJRejdBM29ER0pyZE5vc0QwMFhOSFdlRVBMSThMbGEzWUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Clover Pakistan releases remaining withheld bonus shares - Investify",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xRzBpWkd2U1k3aWkzR01fblo3QlJtVExMV1hOUmRZeUVsRXp3ODgySF9xTUVTNmd4dk9YRmlXeGxjX0xaaS1zTmVGcTl2ajUxODNPbjJINkpEVEVlcFlLQXpELVRCV3RPVXc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-07",
       "summary": "Black Clover Creator Tabata Unveils Asta's New Strongest Weapon - IMDb",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Nk92WGM1WjR0Ym5wLUpnVDR4Zmp1VlVjM05ob1ZRVFZGbmd2Y1A1TWdRWHN4QnJHUXBaTHB4bjF4Z0VnOHFaY3RHbHpMdHV6cUU5eEhtazRhenV5SHFZNDJqSFpENTg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-07",
       "summary": "Black Clover Creator Tabata Unveils Asta's New Strongest Weapon - GameRant",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEbHFYazV3UnVhTVpOOU5BUEN4YV9DTWhCX3Joa0d6aDY2RGo1cVUydENHVDJmVTNBVWN0Y0hLREhWSUozRXRLd1czWmNPTi13a0NuUEV4VzJTaVZmeEFnZjRmRG5QTTg?oc=5"
@@ -70,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Black Clover Creator Tabata Unveils Asta's New Devil Power - GameRant",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16WncwWUw5YTdzbUZaeE1Vd2FZaU9nZGt4ODBQWmN4TEhLSllYbTFTM1FLRWxBWEppeThxTmpIRk1yOU1XZGpoNXUxQjdlRXE5by1SNnRuS3R5VVRHSVl2dEZR?oc=5"
@@ -126,7 +147,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Zitro introduces new Clover Paddy slot - InterGame Online",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVzVKd25jYWMyUzNxcXdOaXUzR1RxTzBxc0Exc0hOZmFUT2xwUDk2aFVHcDFhSzBZaEVlZ1NRa25zalBHYWFIUzMxaEJzOTJXRFZ3RHliVTFtRzl4emdoWHZTaTBFNXVTc2NmVjZRX3p4UDdUbWlMeU5FR0tEZENfZTJibjFQZ2xlVXJtSTk2RHRhWFg2bW14VXUtTWtudw?oc=5"
@@ -167,6 +188,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

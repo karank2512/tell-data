@@ -1,9 +1,9 @@
 {
   "domain": "getentry.com",
   "name": "Entry",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 21.0,
+  "score": 20.7,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Apple Launches M6 iMac, Entry MacBook Pro Ahead of Touch Laptop - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNazBVaTkyQ2FweG1WMFlGWHVYWEt4U0ZUSkt5MFd6aWU5VzFDWlhsRlFlejBSQm9XLVBSVU5vdHp2dkktbGNIYmZicEV0cW5ERTFWNFU2ZC00Q0YtZ1JHdkVucFRNQkVHYk12aFYzbXdpZUdfVUJCWGpaSkN4MTUzYXJPMVR3RFpXeUZaQlo1cUEwWVBMUjZQek85U3N0OEo4Q3A4TVVzSDB0MGJhSWtQaDNLZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "India’s Oscar Entry ‘Gondhal’ Unveils Global Trailer (EXCLUSIVE) - Variety",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLXNQb3g3QXJFXzVTS3RlRTBrUFpGRl80RU8wU3JBNlRSRTdGVlhKeEhfS3NxcmQwSi1UeW9LNFIxNHVlQjhqZ3FtNW52NUNBb3kwd1pheklsR2RDNE9YeVlqNlhqN08xMk80dzBvdFN4VXpZZ0NCWFduQ2dCXzlTUGNUWjJXTWw4akxMSkZyV2pmWDg?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "First Cessna Citation CJ4 Gen3 Advances Toward Entry Into Service as First Production Unit Rolls out of the Factory - AFP.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZVGM5Mkc0ZnVZd21UU2RmUkJUTG04VW9MUlE1NUdMN3haQXVBZEV2bFhBc0FGZkQ2bmw0S0Nnbnp3czdVS3VnUHNCYw?oc=5"
@@ -146,6 +146,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,10 +1,17 @@
 {
   "domain": "rift.com",
   "name": "rift",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.0,
+  "score": 8.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Ruto unveils Sh3.7bn rescue package to bridge tea bonus gap in Gusii, Rift Valley - Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMXphTEZlX1dCN3A4b01SVlNKaVlpeGtNWEVqUEFrbGlmYWhtU05VeWticnZiTlZyX0dJY0habHE3OV9pU1dEZ3l0V210VWtYMHFpRjhWRlZpV1pzdE5TbFA5Mk1TQTNod013SE5UQTVjUFJnQ1dmX2NJMmF1YU40azNqWHRlNmthUmJ0R0Z0Tm1LTWdLVzFWUXE0WS1RcE82c0FvenN2ak91LUM2bzEwcjR3ekstSmdCQ3VZU3MwcThqeWU5LXFid2g5eGpBdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "UK rolls out King Charles to welcome Zelenskyy after Trump rift - POLITICO.eu",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZDE3SHVwTndlWFRHWEJsNi1jaks1SVNyR295LU94cldVVkdYSWlPZi02VW9SMGRFNEpwZWxFNXprTC10ZU81bzNZY3FhTmxPS3Zial8taGVWTVJ0OGJCVXA4SmFVNjdaZV9PalQ0SlhiVkNrYmV4amZMWlA1czAwY1ozdkZsTm5pOGtMMEJzUS00VlFtTEJjbA?oc=5"
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

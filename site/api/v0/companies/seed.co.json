@@ -1,13 +1,13 @@
 {
   "domain": "seed.co",
   "name": "Seed",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.3,
+  "score": 7.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Seed releases DS-01 Daily Synbiotic nationwide at Costco - Drug Store News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWNwWXc5NEVxcXpTV180a1dVZWFjQkNWMGlmc0dvd2w1ek0temE1bzA1RENpSngzMm9abF9rRUxYR1BENGlSaW9NWHgyV1NJbWNNS0Jwd3huczE2OUIwRTk2MXg0NVE4SUxCRVZTNGVKaXAtNngwTjZ6WUZYVWpvU25uZWs5dw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

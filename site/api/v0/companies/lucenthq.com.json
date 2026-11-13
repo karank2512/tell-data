@@ -1,13 +1,13 @@
 {
   "domain": "lucenthq.com",
   "name": "Lucent",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.3,
+  "score": 4.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Alcatel-Lucent Enterprise Launches Rainbow Premium With Sovereign AI for European Organisations - Konsulteer",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3o1UEJoOFRGYkVMQXVXYW5PLU1RWnpCTG5GeTZTUExGa05ocjZWTHZPTGlwUzl1aEJfX3d5Z3NZRFZ5dEp4ZG1pSVJSME9iMXJFM3hTenJDNGE0dzhaajFZSXhnUUE4QUZ5Wm8zd3FQRzgtWjZWa2hyUjM5Yzg1aXpsWEdyVXRZd3QxNG9ZYU13RnNGYUZqUW9GV0RsUzJoMVhPN25ndFAyV29vZm56V0dNcVpjNlU0RkRvRGJGRWJoQ0JzUHgxRnJB?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,14 +1,14 @@
 {
   "domain": "ziphq.com",
   "name": "Zip",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-11-04",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/zip",
@@ -45,13 +45,13 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZTVQRWt3N0YtNXJWeDdva0xGUGRVX2t6S05yNjhmaUlaMW9SblhUM1l4Ul9QWnB0dzVJQUx1aEhWbFItTmw1c0tLbjJuUkhjTWJfWXpfZzVlVWRUbkVqSjFCLVNLX3VraUF6TGZGaW9CLXAxaFo2dDFXdHZiWTZIaThaaHF2TUpKS3lHY0xRcjVBcnFNMjlsWE9ZM3YzYjV0ZzNSMmFMYnA0bl9qSkNjatIBxAFBVV95cUxQU0tYTjRSUTBFZXpaYTE2bkRLVTlmNUhQU3RKb2htZGE2a3JHdzNTRHlHdmxscUlZNmtwMTF1Z1VpQVNKeHRMd2ZlbmVDSlB2cVdLUVNScXFDb2hJUzctUmdTTUNnRjVpOXZoWDBkdnl1ZWJ5TGl5a3FIbFA5b0hkbnBzd29KcHpBcHpKWFE2YWpsSmZxYjZyN3hQdk44X3hHekFqODVRQlBfbFpqV2t5R3JMVkZfTi1jbllzXzhqbUhXeGtY?oc=5"
     }
   ],
-  "open_postings": 100,
+  "open_postings": 99,
   "long_open_roles": 43,
   "sources": {
     "ats": "ashby:zip",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

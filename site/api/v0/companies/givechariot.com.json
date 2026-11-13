@@ -1,10 +1,31 @@
 {
   "domain": "givechariot.com",
   "name": "Chariot",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.7,
+  "score": 11.0,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Chariot Unveils AI Model for Multilingual and Code-Mixed Speech - SMEStreet",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb25IU3hOQ1RLV3RrY21hVVN6SDlVbEhXQ19pVk43ZWczYmpxOXJjcHhycmxyVG9EcmRNZURTODB1ZTZQa1A3UTBJY19ORnpNUlBoc0dmT2xvT1JKZ0RoUmU4NU11eTA5SnRqVU82M2xVNUFjamFiVUNETXNUTGNwc21zelNlMGFHVFhud0Z1eWN1dVUzZ3ZiVmJoWXNWSFVwX19NeUp3UQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Chariot Launches Multilingual TTS Model with Support for 11 Indian Languages - Analytics India Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDFBM0xzSTlUY21PaFNRTVQxRFpfdkUtTWpra2daNXVwZUs1YTlEZldodUxrb2Z6dks0SXF0VU16ckNuV0hqODJyb0dwejVneDctRTllaHFXQUNaeFNadGkwbGNRNEY0LWlta2Y4MnlDQ1RrRnBVTm9SNFl0cU9IelZYU3d2NVc5bmJsd1dYZ1BDV1gtNkIxbVdBUDdNWE5WSzY1X3lZRzlKNDc2Mmo4dWhUSGo?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Chariot Launches Indic Text-to-Speech Model in 11 Languages - Elets CIO",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGE4eTBYYTZVdWJqYXk3aWl0M2kzUzZrRVhiRnJEemdlZHltQzVxd2MwUkhidWV0TU9LMTRZVXZ6V0lQOG1tZnZwVXhZVVQ2Zm9odG8xaTBaTDltaVk5UkVzRjlmT2loQnNFSnM3ZC11OUd6SUUwMWhzSzJyR2lMUFdTcXlkTFA3ZnJJV0IxOTByTUpUcVZkcg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -35,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Chariot launches Chariot-1-ASR realtime model transcribing 10 major Indian languages - NewsBytes",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0FvZmNpYlFfTU1aUFJEWVV2ZWhGMUZBazZpVGcyeXlHWWYyejY2WEYzcVR6TTVUMzBObHZnZ2tMbEtpY0hnNnBEQXMtLVRzZEx3X2hEY045UEtOb0dtTUlGM2t6M3lfdklRMWQ5UVlXb25VWDZPay1aajBFazF4OUdFNlJvc045WmpzazlFMGNBSG5SSWdLcXA4WWNSWEFMVEN6OWtZaXVMTkhLbTZxNnhGMEdsejJUVktZbTR4QkpHdXBaWjJpUWhHVQ?oc=5"
@@ -55,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

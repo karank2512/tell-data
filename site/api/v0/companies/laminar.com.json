@@ -1,9 +1,9 @@
 {
   "domain": "laminar.com",
   "name": "Laminar",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 2.2,
+  "score": 2.1,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-11-10",
       "summary": "Laminar IP opens SG office, hires former Ghows patent attorney - | Asian Legal Business",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmxuTjdtbTBxN0JMOW9oc0JweF9ucWhUZVpwSG9zdFFzY0FOLUN1aTRLVmZNSGNpQWZ4N09sZGNFcXFOS0NxMGtfaC0xVndGMFVfOGZWVkQ0TVQ2RVpGVDZlYXlVbTJCVHFsR2paZnJ1WllDQTN0YnhJTlV6ZHRBQzktb0c2M3k4bkhPQjRraXZJeTh6aWlTTnNDSE5DdDVHRDFWWVZVZk1qR3JuNmc?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "verde.agr.br",
   "name": "Verde",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.9,
+  "score": 10.8,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Verde Farms Launches Steak Bites Nationwide on Amazon Fresh - Perishable News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1Q0RmJiWnNfQWV6WXhkaFRvaEV5T2l5LUo3UExJRzQ5VTJ6X1IwTUlraDJvMWN6MzhyZVFqQWZ1YVNadUZkdWZldkFtUTBXTFlWRXROMTF1YTUxSkF0N0pLdWVDdmt0UEJXRFBKdDA2aG1SWTl2NVJvQ1RUeUlqYm5JaTVOZXFtazRHZnpYb0swOTR3dERnQUZwR0dON3Fa?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

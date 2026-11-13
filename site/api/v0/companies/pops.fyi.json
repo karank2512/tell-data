@@ -1,9 +1,9 @@
 {
   "domain": "pops.fyi",
   "name": "Pops",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.9,
+  "score": 10.8,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Beyond Resilience Launches Fro-Bite, Mini Brittles, and Crunch Pops: Cool, Crunchy, Seriously Protein-Packed - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmxRNzJlZjBIaVlydVd0Uk1TN0wyakxiME1vVWN6T2Myb2VKOWpkb3lBLTZ4c0NJVXA5S1dhNXlXeEtWMWNCb09qMHJFQWs1aWhhenhGNExPTmgzdFU4X1JqdXZXcDE5N2NwNEtsSUxYR2s1QjNkb1lXb1hlSFRwUjVsd2RfQW5IM2VkaW9jMHROeDZsSEFFUXI2dmNxZ3dyeVE?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "ark.com",
   "name": "Ark",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.7,
+  "score": 15.5,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Noah’s Ark Scans Releases FIRST Look at Charred Wood Recovered From Noah’s Ark Durupinar Site - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYjhrRTFxbjg0aV9NaFhCVW5HRlRQZTl6c1pCUzhOSXlmM3M3ZjJUeTZRXzhXUW9LRXU0WXQ2N3R0Y0dlVzRKdUVtOGFCNTBIcVl4SGhoSnc4bUdKRkxkUGptZ3I3VXdtWkx5dzBaSFVCNUc3cmkxc0FhY1h3bzdMWW9lVEZTSEtXNGw3QUEyZm1oYlNFUHFwZkdyaklZQ18xYmdGMkdseW9nZ1dsVnpzcHVhU083Z3E4NGJLU0Nab1Z3YUpOa1NIcTZnNFRaX1BvNElkNHBHN0hrVkc4YlZYZTJ4SjlIZDVhVmhkQVdndkNvVXQtQ0Frbg?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Lost Ark releases its Arbiter of Death update with a showdown against the eponymous foe - Massively Overpowered",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTlmT0IyN3hvUFd1UTJIVnRZZXQtdi10WmRVZWZZSHhhRjEwZlNxYV9FaUFCZ2h3REZFUHhFZGplNGNTa2ZjeWpWZHFCc0dLNXh5MzZvR2ZzRTR2SVkxUDhUSVhreG9tTFFKM3psS3VHZU5lTTdjMHdTV01jdFRLWTRPd2sxM0JHWUlTZ3A5NXZpSG84c1A0bVFXQjhTeDVlWEEzYXp5WV9scG1OQkh5Ul8yaHZtVkJDX2lYOWl0bWU?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

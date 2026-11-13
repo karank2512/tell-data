@@ -1,10 +1,17 @@
 {
   "domain": "shuttle.dev",
   "name": "Shuttle",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.6,
+  "score": 15.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Towering new shuttle exhibit launches for public at California Science Center on Friday - Los Angeles Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcG1qdEpRZXpBVExJTWpQSG9SVTJsNDM4c3dzQ0hHSE5Vb05sNFYxYVRVRVp4WURnOXZKaUNMZVowb0pPZDluRjU1cnAydzhQaVpmUFNJVDkzVTZ0eDdGSnp6UThlTC1TejBQaVJmbEFjZDUxSVYzel9OUENpUUdodS1tdmtUMENDOUcwN2dKSklvOVFYZkt4T1pDX2F0aHNzNDF5VU1YWXdWZXZVNGlBNU5ZVHJYa2RGcmw3LTdNV3NHcm8?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "California Governor Newsom Unveils Space Shuttle Endeavour at New Air and Space Center - Forth.News",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50LWwyTjZfLWdxeHh2UW16NGl6RDlTeEJYUzB6SHJOQW81WXp0VWNCQVQ0Y2FsV1dmQkdFTWJObmpkSzc4dDlZSlF6Q0dBSEh0SUhaMms4UzZsUGxOLVlxVWNB?oc=5"
@@ -84,7 +91,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "GreenPower Motor Launches Mexico-Focused Plan for 50 EV Star All-Electric Shuttle Buses - The Globe and Mail",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONmFpbG1ZVEMxS21qWHQ4OTNLMEt1OFg1ZHprRUFFSGJMeksxZHJFcUtWRWxMX0RBS3dxUHJZU2k2dGlPcHZFdjJBclIzbTJ2Y2xTVjJrZmJVekxxd1NLbmZ5NEhFandSa1M4cUprRHhtV2MtLWo1UmpmTGppdkVRVTg5SUNZbm5WLXNkQmprWnhGQXo2ZGJuZG1Wd0MxSDBBVWxldVhKUXRDZFdjSWN3NV9VWEhFNkZza19XbnVBdkMxcVBUOU9kQ0FfX3FFUkFKbDNoNDh5ZlVnYm1BVFYya2F1SDEzQlJIQWhubVZ5SDRoWjA2WmxoMUJBRnJ1WmhlT0E?oc=5"
@@ -104,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

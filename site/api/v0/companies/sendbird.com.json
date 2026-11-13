@@ -1,7 +1,7 @@
 {
   "domain": "sendbird.com",
   "name": "Sendbird",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 1.4,
   "contributions": [
@@ -13,13 +13,13 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm5zaXc0dFpfdHhHMFZkUHhwRnBQQ0FWdjhoRWdsbG1mWUY4dFB2MGZMOE1nNURrRlF3UXYwaGVNLUNnLVpaZjRvblNrSlJ6bDBxRF9mRGJGb0JxcGx0QkNyWWdQdFNJUm1WVE9ldWtPeXUtbHBwRUVQYXJORUJuQUpEUjBJeG1PNTdxbE1kMGxpYnc5NV9ZTDNocnJOREZhSk9MTXJzTzBacFhKejR0MmdUZnZINXU2X2FGN1Z4RnRlcGo5TGp1N1hndlpxU2c?oc=5"
     }
   ],
-  "open_postings": 3,
-  "long_open_roles": 2,
+  "open_postings": 4,
+  "long_open_roles": 3,
   "sources": {
     "ats": "greenhouse:sendbird",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

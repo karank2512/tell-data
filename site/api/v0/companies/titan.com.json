@@ -1,9 +1,9 @@
 {
   "domain": "titan.com",
   "name": "Titan",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 22.4,
+  "score": 23.1,
   "contributions": [
     {
       "type": "launch",
@@ -84,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Introducing Titan Royalty: Meet the 2026 Homecoming King and Queen - wcn247.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVEtCZ09HSjhscXJ3M0lxanBHQVczVFRVSHdvaktmWTItUVNRT1BKQTNsQWh5NXhQdjR6aVlsOW80dzBqU0RkeVNBQ1NPcHVTWnpqeEcyVWZLTlZ3WGp2cUpSUTM4R0NpVUZ4ZzdhcEU5ZGdGMGNKUkFxcHJXWVBlNzFreDFuNDNxa0k1allkaXBkRlNyY3RsSTFSXzluRkk5c0o2S0hKQVhhVXpSNm85aGRmbWxVUjdxWnkza0czaklMYVBVVzJIeDhSV0VSRG1CTGtpbWdtdnR5M2RMZC1r?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Titan Wealth launches financial planner academy to promote diversity - International Adviser",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOREpGckxSb2VHaTNNSFlTLThtTDhGX0FZWnFabXNwZF90U0p1Vy1YZjFwNnE3RWYtbHFCR0RZYlczRFRzUWlxVVNNLWZISWdraWlGaDJqdVA3a0o0MklQeEJmWXpBRjVsbnRCaXozbk1rWm16T3QyNmZVT3FnV3RiOFBqZHJXdTZZWHBmRnAxWmx6U2d1V1NRODNkYk1RcUktbkxGdG1oMTlULWc?oc=5"
@@ -111,6 +111,13 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUpQNmF5eHdnM2pXMEEtdEc5NnY4NWxLaDdwakNfLXZaZlRVYXlTYWJ1MWdUdzRtSUlyUlZ5TUpqZndQTmdjaWFScklWTDFIdm5zbWUxSXlZVGU1ZmU2STN0NkRPWXFNbXMxVWRQN1RJcnpqd2VVSE1IYVROVE1uZFh6Y0RlWmtIWnhwZ3U3SVZ1U1lWMUVTckgwNA?oc=5"
     },
     {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-12",
+      "summary": "Tet's TV service expands to Titan OS smart TVs across Europe - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYk9BV3NNYjNHS2MwMUpUV0hUd2twaHptNl8zakxDRTA1RDA3ZC14WFZDZ3RkOURZczF1V2MxVlo1RGpqRHV2eF8tQUZyeFR0Zm5vaTRfVG9SS2tvS3VpQVI5NlVsTmlxTDdfVTJXN0N5SnhVRWU5ODAySDdfb3I2QjVRVHJMSGJCRHpmb0ZoY0M4aEVJRzBJeEt6WmtBS2gwcFhmVA?oc=5"
+    },
+    {
       "type": "launch",
       "contribution": 1.0,
       "occurred_at": "2026-10-16",
@@ -119,7 +126,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "EXCLUSIVE: Titan Manga Debuts 1st Volume of Revenge of the Rock 'n' Roll Sisters Manga in August 2027 - Anime Trending",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemtrYjkxTFBHTk5WMURXd0lkZVVhbVZJQjJjS1BRT1Bob0F6R2FJMWdOSFVGTTdybWk2SmNMR2RralFXN3RDelNoMWs4TkxuWEFublhYVFlKc2l1NkZla0R0TlpzNXU5TVNHX3VWUHhaTl83WEJjeHY3bGpGQnNsNGtnbGh4d2w4ZHdHdkYtUnRCbVZNXzZQRy1KVmdoR19FQThLQmtlRWhFTmJLT2pPMUdwNE56ZGlIbnNBOE9XcFhKeGxWTE9JR25uY08yQWNZQXo4?oc=5"
@@ -146,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

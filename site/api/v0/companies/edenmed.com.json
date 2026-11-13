@@ -1,9 +1,9 @@
 {
   "domain": "edenmed.com",
   "name": "Eden",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.5,
+  "score": 13.3,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,20 @@
       "occurred_at": "2026-10-26",
       "summary": "[person] Joins Eden Collective As EVP, Media Science 10/27/2026",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFRZTFpqTmpTVlhCVEhuR1hXaGxYbENrTW50RkRIVTBtOVhQSUNSTmx3bTZra1lQRVhqb3dlMTB5LUlsMzg2OFcwUGg1T0RoTFJXR2d3QUhKamVIQXRvNTlPbms5cVJZVk4wWG45TG5HQl9IRzdqMmJ6ajFXQzExeWprekNMWFFmbFd5Y1g5aGZUV0R0UjhtS0tpYkJOR0ZuNGRheENncm16MXV2?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Eden Park ceremony highlights women in military and unveils new memorial plans - WLWT",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3lvWjI0YWtOaXRhWEQzVXBhdUVDZExURVZ1c3FJeTVUT0NMZ2o5bU8tZGQ0SmhaSWpvekdoNlJVeUwweWQwT3AxN2N1WFJRYkJkd1RLS1A0TnVjWXBTbVZHZHp4UXRERklhUVY3SkpBVThkYlMzbGkydkk3TlFsdTJHUDA1XzlDZUZ3WkFSMGN2dkhm?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Netflix unveils period drama series The Age of Innocence that fans of East of Eden will love - Netflix Life",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWJuRkd0QVlpTXdFRTZzU1VYUmY1MHUzZDF1bk44VHlVQ09sWF9BbTFIM2xiWmNYekFJYzNyenNhSmx2QlBVQkJoTUo5NF9EQVUyanlSSFFyTmlUazBfQy1oN2Nud2RYaXBBLW9WMWhWTTZObHp0TF9QOEowSzRsRGJHWFcxbWdkNUhRRlRGMHY2RnZrbVhKVFdHSDRBVlIzMnNIX2hOeTRiS2hKRmFSTQ?oc=5"
     },
     {
       "type": "leadership",
@@ -42,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "KatLynne Garcia Releases 'Echoes from Eden,' Inviting Readers to Rediscover Their God-Given Identity - Knoxville News Sentinel",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQzcxWWplaUFwWEpJS0IwT2pSTkh2UURYbGZMeU9jQVRxbTJkT3VqZXdVa0dBVkllVUI5aTJYYjhOWExtQjJWYnVUUGZnMXpDVDduN0pIY0dGanF2a2VSeVFUNEdtbWVyTkRURFNjdjFFUkpidDdmVHV1cTNhR2prZUJpUzRGSTRpd0hKN3RSNE9pM3BObTBLd0NEaTZlVGJwZHlrSWNhSGZJaDYwSl8xR0xmRkk5QlZickpxTDZKOEdNWi16d25kVElxbjJNa3otQk5ManJlMm5XeVQxX0FBejZEdkc?oc=5"
@@ -76,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

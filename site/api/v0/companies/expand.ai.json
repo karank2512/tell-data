@@ -1,9 +1,9 @@
 {
   "domain": "expand.ai",
   "name": "expand.ai",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 25.7,
+  "score": 25.3,
   "contributions": [
     {
       "type": "leadership",
@@ -42,14 +42,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Buyers Edge Platform Appoints [person] As CTO To Expand AI-Driven Foodservice Technology",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ24xXzZWZTZTMEY0bEhfQXp0VEZsWDFBWi1vRTJqcWZGbzdxSEJxSk5nZkhadlVRUWNxUU04NXdFWXdTZmNySmlHVkxBbmRJSG4wQXc4alk0VjRPSUVUN0NOSmEyYUp5NW9SMFZza2hISlNPRjJfLVRsM2Y1cGFCY2lQZm5obzdkREZjUnhlclJZRkpXNmRBb3J3VDl3NmdUNjgyZFA2cHlpeU5YekRQQVpR?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "Hammerspace Appoints [person] VP of Americas Sales to Expand AI Infrastructure Business",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkZraUtkV2w1MHVZZDJsemVtYnZtQ1JlNUE3ZHVobWJqVUVOYTBkd3VFSU1OSXBGdjhGU3dhSG80eC1NT05vMGgxaWVIWl9Ob015czA0TEJTTy1aZllHVDBRdnNacDBkaTd0U0ZOaFpGbHVydjFSSkNsOFhUZVNFUUVWYkZOcDlDLXdFQkRrSHJjRHEwZi12Nko0WkwxTksxTFVLU2NseXlIOHE1Z0toSG4zamxqU2xBcDlJcnBKS1NXSUJ2WGdtZGxocw?oc=5"
@@ -70,17 +70,10 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Anthropic launches Claude Whiteboards, Sheets and Data to expand AI-powered workplace tools - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRVZ4dUFEclhJNEdfZmFpdXBscFh6aXNRaWNMOTByVGlvOHBNZGxfc3N3QkRVOVM5NUNnNzNYT2RVa3BQQnAwRkxOSHA3RkV4QmRBZ0FWVVY5TENpdXdLakt3QUx3dkw4ZVRObHdPWkZITjVTeUg0NGlZbl9JZTRGSkgyV2RzT1c0dWpvdFRSdkF6R1JfWHk4RjZ6bmlSNkpYUnYtYlowLWh0UVl5QWR0ZlFncExuMENyWThTak5hSGVvTnJFajhxWHc0dVRQRUZIMjJKcFBsM1BOYmdIZ1RuT2N5eEp6bFNib2daUzY5X2xjZFRRelh1MmVib1FCZ9IBgwJBVV95cUxQbElWcnhnZWJFMVdFUU91NzlwSXBvSldPRzJmLTROeUNVOGM2WWtBV3pFbVFRTEJPSmE0SldxTEloWDdQZld3dUUzTlFqV0VHM2h4QmtoZ3NTT19TZEw5NXFleGVjbElvN3VEV2ViNnowOGNzS3hHSmxTdTFyR1A0cUFYd3Nha2VwVlFzcklJWDRlbWtnRGtpeTRhLWVUZEQ3RXZhdEgyODVuRGo3TWtxejBPYkFTa18ycWhnQ1JGZ2xSUkFsdXRORFVkZkl3SE54eW04eVd5VmdfZ2EtSk42VmxNX3hRaXR5ckVLREV0d0ZSZlNZRzZLZmRPSHYwWTB5cURj?oc=5"
-    },
-    {
-      "type": "launch",
-      "contribution": 1.5,
-      "occurred_at": "2026-11-10",
-      "summary": "AWS Launches $100M Initiative to Expand AI-Powered Healthcare Access Globally - HLTH",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnpHcTQ1X1cwUDNwQ0k5eGJXRE9jMlUxUjRrQzdkXzM2THY4X01MVGxSM1V4Umhya2lsdmdnQmhZV2U4TnhSMzcxUktHM2M1MzBaLTJUcERNYTVPOXdCc3ZXbF90bXV2Sk1KZDBjbS0zMEhsVWlKRzlTOWxubk5sZldkdmtxM2JESm1uQmFvcWkzMm9KUk5DbTBhNHRTeXp5MXJWNF84ek9uUE0?oc=5"
     },
     {
       "type": "leadership",
@@ -88,6 +81,13 @@
       "occurred_at": "2026-10-15",
       "summary": "Appoints CEO",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc01QemZYV0VTeXNuRThQQzI4RUdjTHc4RmJPcGtzMEdWNkdJQVFPWnQxYm9FNlVwVkNjLTN1bTQ5bWE3QXZNbnItUHE0NTJDcF9wWEIyc2V2QjFHXzF0MlF0a2QyaTc5Rkw0NHBBRnpQOUtTUlhNRGtzZ3h4U01GMVA3WUhmR1pVeENXTElTZTc2Q0hJV1g2MjF0dkY4NW8xZjl6TkpEZWRoSnNLNEZpQWFINDl0RzRyZHIzdGxzN0RVRVU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "AWS Launches $100M Initiative to Expand AI-Powered Healthcare Access Globally - HLTH",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnpHcTQ1X1cwUDNwQ0k5eGJXRE9jMlUxUjRrQzdkXzM2THY4X01MVGxSM1V4Umhya2lsdmdnQmhZV2U4TnhSMzcxUktHM2M1MzBaLTJUcERNYTVPOXdCc3ZXbF90bXV2Sk1KZDBjbS0zMEhsVWlKRzlTOWxubk5sZldkdmtxM2JESm1uQmFvcWkzMm9KUk5DbTBhNHRTeXp5MXJWNF84ek9uUE0?oc=5"
     },
     {
       "type": "leadership",
@@ -132,6 +132,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

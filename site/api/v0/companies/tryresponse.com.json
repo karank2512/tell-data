@@ -1,10 +1,17 @@
 {
   "domain": "tryresponse.com",
   "name": "Response",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.8,
+  "score": 18.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-10",
+      "summary": "UNESCO Doha Promotes [person] and [person] in Response to the Middle East Crisis",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2EyTl9WWHFsTjJ4dGhMaEtpX0pkNlgzX0V4NUhoeFE2U1ZBRG9LaDFIMGcwbndIZTNYVWxVbUJEcnd6VGg5WlZxNGhacWp5VUp3VjkxZi05TE9IWVBGWmx5Uk82Y2xpM29TOTJqSVpELWFEX3QxOUhHMGZXYjFOSGpvcV9HQWxob2FwbjQ2cHNYSzhDbGFJUUR5bUNmRlV5MDdPS0VCcHdaSjVwT0J6LTFta01keU5x?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.7,
@@ -77,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "FEMA retreats from disaster response and launches a tool to sell flood insurance without brokers - Insurance Business",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeGpLWWo3RGMzX1cwcmxqenVkLVkteVo4c2NWODVObnJ3N2I0RWRMWEVLWmEtSkd3RDZKZUdxdGZvdV9va0RjTDlHaENOQWZUMGtRb09oQ0FiSzF5LXJyNklfWEFTMF9yVE5wcUUyNzk4ZjBYTzVlNm9aWFpPdF91bDY4YnRBTWtZSTQtS19rN25pc1RZckpqbWxSMzdhdFBHNGR2aGNfeWdBd09ZVnJCX00zdjBvbW0xQ1B3TDZuTDJQcEt2RDZTbnJ3SFVkOFJvZmxTNjJ6WWdnNld4b3FuM3BkRk9tNFN5ZGV4Mmp1MVFrd1o0dExfZA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Acton Campaign Releases Response Ad: “Abuse” - Dr. Amy Acton for Governor",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NRllGTnhWN09UaWE0T3p0WFNXbUxES0x2VXhFT2dYUWlCODl1TnRKbmo2WW1SRHRBUktxVkNnYkxDTXJPcHdBTEhob3JYUF9lbW9kS3BpVGlKUDFFaFdhMFBTc3loNEM0RFF5Y0hGOUxDdk44cDVTcTN5OA?oc=5"
@@ -104,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

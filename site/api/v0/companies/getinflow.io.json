@@ -1,9 +1,9 @@
 {
   "domain": "getinflow.io",
   "name": "Inflow",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.0,
+  "score": 14.2,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,28 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "inFlow Inventory launches AI Report Assistant for natural-language inventory reporting - EIN News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMnBBMjhScjRvM1lnUFV1U2xmYlkyVXFOV0lyVEljSGNMNm1DTVp6TkFGMG84cXJQVE5rancxMlhPUnQzaXJlM2ZlcS1YWE9NWVZjcndSWS1feTdvNC1LOEVSWDdEXzMwdDRxUlFCNlZuRC1rSHhoY25lTnRsZFJ6aGhwRUNIdldKblZkbjJ3LVI1VXBFUzBhdHFETjMzNnF6SldmVzVFZUtlUXVfVnlIbjN5UEhsU3Z4ZDl4c0ZhOVhWWlVmLUdJ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "IRSA Releases 93,600 Cusecs of Water, Reports Inflow of 45,000 Cusecs - UrduPoint",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFk5bkNidW5ycnowUTdfTy1NbXM3alQ2SzktSkoya29wSVBSRTJBZC1RQ2h5SXZqRVl6a3h1TFlQNmQ5VVhKMUExUTN0TnZPbFdIV0xKZGVOYU5oUkVBam8zUDVCTnVaR2l6NXF3ZnNwemFiZG5TS09jZ0xfOWotNm1XRmZsWjVIU01Z?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "IRSA Releases 117,300 Cusecs of Water as Inflow Stands at 44,800 - UrduPoint",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOS1XYWJZRXVZdXBtbldGVWVqQmxkb2FBdGhrVHVKbzJPNGJ2QUs3ZUMyXzg5QjQtRDRkNEpkRHRMd19WeEZtd19RX2JiQWpaMFBnNmFJSFVZT1lOS1hPV2MxVXBZMnBSN3lyLUJENTdKMW1VN0FJOVAyQkZfaXZ1bENsZDJ4SFlzc2pvNw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "IRSA Releases 102,900 Cusecs From Rim Stations Amid 48,800-Cusec Inflow - UrduPoint",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNel9xc05fNFRiMUtMYkY5VXhZUTQwUzlIN1FYcjltWUtsUkVxd2tKZ1FvY3MxNDNRV2tFc0hFdEY0S3B5ZW44ci03VzNZeF9DQUtfdHY0UnFURWxCV1NpX0FENTRlUVpUNU5Ib1BiUnlQMWgtbXZZRUNPTlUwZTVWejVSdllwZG15ZXVRbw?oc=5"
@@ -35,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "IRSA Releases 99,700 Cusecs From Rim Stations Amid 51,500-Cusec Inflow - UrduPoint",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWUx6ZURnVUwzSGRGRnViVVlyOGZOblBtdlk4X0tvdkh6dE5yeUxPX2UydW5Qc0FodkJDRGFPaHlJOFMxdGlWdTRNN2hvZmU1a2xtUVJlWi14aEdaakE5N0dIYWhhY04xd0tfeE1qYmFyeDl3QmZVQ1lFOERYMENNM0xQNlQxTk9VSXJv?oc=5"
@@ -69,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

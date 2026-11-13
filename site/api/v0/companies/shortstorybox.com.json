@@ -1,10 +1,17 @@
 {
   "domain": "shortstorybox.com",
   "name": "Short Story",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.2,
+  "score": 9.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Nolensville author releases 52-short story collection - Williamson Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbXZ0Wk5aZi1rbzY0Q3o3MnlXZTZuT3h6VVcxNGtrX3dvalhjQ0drSGVQYjdCcWdmZm5IbHFXekc3NTdJWkZTeVQ4S0VwUzRGMGNPdEhoME5ZT3B0R1dKNVBYNGxQWlMwTFpDWEdwLWhFRlA1RXQyR05kM2t4Wk04ekZCVWdFbG83aWVXSmY5VURPZk1WVW05ZThjdTBMX3Q1V1pqNFJwN0wyRUFQck9pci1kVzh6TVZwdHk5cU5LSmE2bDdMa3ptMDFvMWdWMUEwTXlFNUJFSTdXcHFIRDVBeUtMaVFrcFU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "English short story competition launches in Qasabat Mafraq Education Directorate - Fana News -",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOW80SFU4ZXlUdTlTVnNwRnlRNDBha2hZSHFwQ2ZwblJheThONFd3U2hkTnhobjZuR1UySWJnbnBzUEU3NXR0THg1S1h6Y3Bway14Y2xPeW9sMzJRUFFZelhPV2c4UGJvTW51UVJfTFlXZDJoMDEyYnUzcEJBQ2JIN1dLYVdxTUMteE0xdGlOSzRDZUZabTY1ektIdXphR0Q0TFZRME8yY2FkVTE0S2kxVU9GQTI5dGJKbEE?oc=5"
@@ -63,12 +70,12 @@
     }
   ],
   "open_postings": 19,
-  "long_open_roles": 14,
+  "long_open_roles": 15,
   "sources": {
     "ats": "ashby:ShortStory",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

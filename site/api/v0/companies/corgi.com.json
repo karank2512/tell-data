@@ -1,27 +1,41 @@
 {
   "domain": "corgi.com",
   "name": "Corgi Insurance",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.2,
+  "score": 18.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "Corgi Insurance Appoints [person] as Vice President of Specialty Lines",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1yRi1DRkZqM3JQRG9GMVZUTHVJT00xb3FmR3NpYTFwbkhZdzVyUkFCYW05T0pjSXc0d09z?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-11",
+      "summary": "Corgi Insurance Appoints [person] as Vice President of Specialty Lines",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV3h4ZFBuckFFaEluVm9jVE1TNTNhUUU1UlZtVHZkc2txRGdPUWpoU1U2eS1nbXAyamNkdFluSUhLQmdRY1R0ZTdYRGJaOUt6NFFTRjRoUF9nS0xrYzhzMkF1c3BMWmZuWTNDZExzRE5BdXV4b1hRMUpBYnpQWms5a09SOWJXMGdTc1NRUkJkVm1JVGVtN3ZyWnVNUkVJR05KSnQxS1RPemlvSlpNVldyUVBzamQ2ekZmNUxQdlJpVDVacG90WjQw?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Corgi Insurance names [person] co-founder Josh LaRiccia as Head of Distribution",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSEpEbnAycTltOGsxMnppNG05T2hkNkRBMnM3aEE5RExtRjF4MzFqWXczaWctQjJfWWZOVDdaRVZPMW1nRjIzWXFTWnZmdWNTZ0tNMkp6MWo3dFZNRzQ2ZFRnd1d4d3hVbXZtZEtmQUQ2aFRCV3E3cTB4aExMSWVqMjY1eEJ4YmlURVA0SmotY1JsZ2lPZXpyV2hfUDUtZkxZOGp4VGczNlloVDJ0VmFBLWFlUXNfbFU?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "Corgi Insurance Appoints [person] Co-Founder Josh LaRiccia Head of Distribution",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlhrRlBYc1M4QlNmRUR1eG9HTjB0Um5BNTd0WlBBMUFVX2RNM08ydEJ0blNFU3MtSVY1YmgtWm9tUkJkOVpySG9admpmWWhCdmI2OWQ0WTZ3NThONlNPUkNSczJtOTdzU1FTaDhXanpNODRuVDMyOGg0dWM1WVB2Y2NCSFpEVGlFUXJVOHhEWmk5TmJ4VjhPdmxBaGc4YkFWZ2libWptMEM4N1FreUpaUDlyWlppWm1GTTFwekZUVkFlS1E?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "First Insurance Co-Founder [person] joins Corgi Insurance as Head of Distribution",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnRNMGV4VVNfTXBrblBqV2VOMVdGY0l6WWVpZ2lVWUQ0NWF1Q3R5MjRhbFVNSWd4a2tnMUw5Zy0yYW45eng4a3FwcnliVE4tYzlVOE82NUJHX3RDckx5QjYwYW5PQjZGWmxIelg5UG9xckxVT2MzSFVITjVPenItRU9nR252allkdEtCSWRGRmFQZEk0TU5KOFJqTEc?oc=5"
@@ -83,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

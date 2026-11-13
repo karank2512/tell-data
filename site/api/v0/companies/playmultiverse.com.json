@@ -1,10 +1,17 @@
 {
   "domain": "playmultiverse.com",
   "name": "Multiverse",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 21.7,
+  "score": 22.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Marvel Unveils Robert Downey Jr.'s Multiverse Powers As Doctor Doom - ScreenRant",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaDRWc2V6b0djYUYzLWZfeEk0VExpSEJmcTVRS2owMUU3b3QzRnNVd2I1dGV1bTVNYWJqQ0NGR1NkWVBLNGFqQktHMU84YVdmYUZfd1hScG1CQUhLWXo4WGY2TlJVVWtkb1k5MmlkSXB1dC1fbmtsMnh0OV9QVC0tWmU5bw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -91,7 +98,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Avengers: Doomsday Unveils New Posters Featuring Scarlett Johansson's Black Widow, Chris Evans' Captain America, and More To Honor The Infinity & Multiverse Sagas' Projects That All Lead To 'Doom' - The Direct",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2NhNnlEVzhjeElkdmtVVzY1MktESWUyVmRIY0dDelFhNEdEcHRKeWxPaUVhSzJuTTQ3LXRVd2FjOEFTaVlMdVhjNnVCRnNoVHdCeVNsbktJNFpFblJaVWZwNDRuX0Yxdm4tTjJBNHh5WFVvZW1nTUZJYnQ1RUdKS0dUMExGVzQ0NW10aUJFR0k1R2NMaHRKanp5UFhaWWJYTnMtRGhPSFBxRGdmWXZyNVNkN3FWOUd2bEJUeEEwNFU?oc=5"
@@ -119,21 +126,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Multiverse Computing Launches Comet 60B In Collaboration With NVIDIA - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmxTR3VNVWhXOHZJd2RWOHNtTmJMcU5HUHpXUzNLX1dsZjlsaURhYmR5cXlnbmN5MHZCTlJjZXZ5V0Q5MlI4VjI4dDdoLW9WdThFNjBBSmxkLUlZbFc2R1NNNmtrR0MwTmJra2RUdFUzbkZRVUcxNXdxY1cwdFFpRE5Qa21kT0FLV3JuRzY0cHdqY0xXTDBZYWd2aXd1SE04RUR2NkZ5c284Sm5ieVFuNGlOZG4yV1JNZjcxWDYzOUVGYjd3WkotYnFBWTVSSG80WXBOeg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Multiverse Computing Launches Comet 60B in collaboration with NVIDIA: Multimodal Capabilities at Half the Parameters - Yahoo Finance Australia",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblZNT3Vmc0NYSFVVYjl2OWN4NGZRQUtBR1lMcEQ3amdobG41MUdNaDcwSWJvczlCeGMyay1aNUtVbU5aX080Sk9DUjRRaDVoeFpQczJpdWNnNXc5MFN4V29kMkgxRjRTWDhvblFGOGdzVnY5V05BN2JGVEIyQk1feVdPUDdsdzJKcWw2Q3RxWU16dw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Multiverse Computing Launches Comet 60B in collaboration with NVIDIA: Multimodal Capabilities at Half the Parameters - Yahoo Finance UK",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenNEZXJiTEVGaGplX29TMnpYaDhITXoyZ2duR3FadHFNMWdYdHBvRWVHcDlYZjVYcjZfTFc0YXpvY25WZmJ2MmVIdDBqck1aM2JRLW9zQkVKbFZ1T3FBYzlzLVZiTlU2LThUOWpwZlZNakltdnc5a0s1cFd6eTRnOFBnbEM3M1RPUzhxd0lYX2xpZw?oc=5"
@@ -146,6 +153,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

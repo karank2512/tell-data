@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 26.5,
+  "score": 27.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-11-12",
       "summary": "3 new gtm ops roles in 7 days vs 0.75 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -107,14 +107,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "HSBC UK Launches Stripe-Powered Tap to Pay for Small Businesses - FintechNews CH",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1FMQ1ZEMkZZZ3M0QU9VYjU5MGc4dGQ4R2xyQXBwTkVxVFd3R2tuaUI3TGZraUQ0Nm1fSHdZOTlpYnBHX3FKQXl1bUtqaERFTmRWam8tdkI4Zmw5Nlo4dWlDQ2ZRUmhlS3FvYjl6TG9rbHdPdS1xVFRXNmlpR2NlQjZsZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Stripe launches Stripe Pay for B2B transfers in USD, GBP and USDC - IBS Intelligence",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnMzdXA3Rjl5ejZRMjZlM180bjk2OWFLRVBnRHN6WnNVTXJwamdkUHJHRzdLT1kxODZrNmhyZDJ6N1pJb2pOajlOOHFqNHYwaXdCWUpQckUzUy1vbl9yQWktSzJtNERHV0tHeXRLcnZQMVlTLTJ5cEhDUVpGTzV5OUxEM3k4T1dIUlZVUGVCNGhibHU2dGlyUWdlTEQxVW84SFFablVB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "ServiceNow launches AI governance alliance with Stripe and OpenAI - The Paypers",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNFpabFZ2c1FaVmtDTzdiMnRHQl9QRzNHMFdLQ0VhOFhjSWZEWlYzd3ROaXBoc0dFOGR0b0htOXNMQmlHZjkzS0o3N183aUJsck5WQVlnb0xsXzVOSDFUODNxODZWbkN4SklhX3dwbWg4SEc0UnYxMjFKc0FhV2JFWV9DN3owNlZyY2FRRmNPTG9ZVGZiU1hvdnFJVzdvU1RkLTRn?oc=5"
@@ -149,7 +156,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Stripe Launches Treasury for Agents, Streamlining Startup Finances - Small Business Trends",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnJkMHJfWHphOEhmNEdVR0lMT3NvZ1VyTXlBTmRUb3U0RUU4UTlGUEtyUVMxMmg3dmpLX2R4R2xrTS1ILUI0QkF0LW1sTDJNRURmdmJzeVA1SmNVaEJMd1lfMlRaNUxSTWl6ZFUwSjVzdkRpRGdEYmZMSExRQVZPZjlJUDZOcnloemw1UU5OMi1YZkxJcDNuYQ?oc=5"
@@ -170,7 +177,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-08",
       "summary": "Meta unveils AI agent standard with Walmart, Stripe - digitimes",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUtOZ2w1czQycHlOcUhOb2lTc2JxVjhRSDlMMlgyeEtuM0dZeXVGbXhBTkJ1cVRoWHBOVGRnTkVkMEpLU3BzSEpTaWFtd1djaXNGR25fMy1XdXVOMTFPTWZQV01DUy1fd3V2a3ByMl9SRXRfQ3hVZTctdVFjS2piTnNha21jaUt0ZVZXOHBQVWQzaEU?oc=5"
@@ -231,6 +238,13 @@
       ]
     },
     {
+      "type": "expansion",
+      "contribution": 0.8,
+      "occurred_at": "2026-10-23",
+      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSl8tdXcyS0FkN2lKb3BTTWNldEh5aUoyckFyR3pNWDhMTmdvX2UwMnNYRzFMRXdmMlJfSEVKbmUwaUpXd1JFZ2docEtTM1ZyQlhsWHptRnI2ZmE1U05RM0o2a0lRbWYxSUsza0ZYY3o0Ym9Bd001b2MxNHBSM0FObG81cXp5TlhLTGROWFlvNEt3RHFPby1xaWlrRlpWOXdzR2RVaDU3X3hka2dfWTkwNDg3d1V0YVo0YzhKY05meURYRlA4OUZJRkh2VjVVb1VGbkZrYTVUbE4?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "exec",
       "contribution": 0.8,
@@ -254,13 +268,6 @@
           "url": "https://stripe.com/jobs/search?gh_jid=8325023"
         }
       ]
-    },
-    {
-      "type": "expansion",
-      "contribution": 0.8,
-      "occurred_at": "2026-10-23",
-      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSl8tdXcyS0FkN2lKb3BTTWNldEh5aUoyckFyR3pNWDhMTmdvX2UwMnNYRzFMRXdmMlJfSEVKbmUwaUpXd1JFZ2docEtTM1ZyQlhsWHptRnI2ZmE1U05RM0o2a0lRbWYxSUsza0ZYY3o0Ym9Bd001b2MxNHBSM0FObG81cXp5TlhLTGROWFlvNEt3RHFPby1xaWlrRlpWOXdzR2RVaDU3X3hka2dfWTkwNDg3d1V0YVo0YzhKY05meURYRlA4OUZJRkh2VjVVb1VGbkZrYTVUbE4?oc=5"
     },
     {
       "type": "expansion",
@@ -359,13 +366,13 @@
       ]
     }
   ],
-  "open_postings": 797,
-  "long_open_roles": 201,
+  "open_postings": 804,
+  "long_open_roles": 197,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

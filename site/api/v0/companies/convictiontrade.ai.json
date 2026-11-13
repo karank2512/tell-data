@@ -1,13 +1,20 @@
 {
   "domain": "convictiontrade.ai",
   "name": "Conviction",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 1.0,
+  "score": 2.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Netflix releases Russell Brand documentary days after rape conviction - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0FzU25DUHVJR3ZwVFE1SGVxTTVvQ0l6M0N0dmVmQldVOWFKYkdRdE5aUWllaHozVC1MdzF2eVgtT0x4Q2FLajVGSm82VXNoNDZ5M1FXbWhDZlJZZ1oxWWFWVFVwd05mZXBTdkptYmROZ1FESnBMMzVtUE9NdEs2YmlYZ05JZUF5Y3FRaW94YjJvcUZoOVh3OWRIaWRmMFJvNlpvWUU3ek1VcHdTUV9xQ1MzQnZJMkoxbk9RVUFXMWplOGs?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "University of Toledo Law launches post-conviction relief clinic for students - National Jurist",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3FscG94RzdHNFNFZVMxaE9BN0dMclZMbG9LSTkxYktpSXF1dXdVOURGSWVjMjZUdzd4S2M0VVZ0YjA4U21pME5LN2h5X09FR2VJVVd6MS1fNEJNQW5Ib3JkRkdDQzFmWmVXUFN1dG9sazdrMk1KNHVOZTgyRGJra3hlQk9CYm14R1NRRDZWdmJMSUVaRm5sTXRDRkw0anZ5bEZtYUlNcw?oc=5"
@@ -20,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

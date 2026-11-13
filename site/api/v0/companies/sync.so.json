@@ -1,9 +1,9 @@
 {
   "domain": "sync.so",
   "name": "sync.",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 34.2,
+  "score": 33.7,
   "contributions": [
     {
       "type": "launch",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Kobo unveils Stack subscription to sync e-books and documents - NewsBytes",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2k1YjR1NVVZLTVsUmdDZmI2N29RU0VoYWtnUUphMmMzZTItQWFhdWZWbklGdDk2Y3M0OUljWkJ5TTlESmQ2d1Y5WTZ6WGJ3b1NpYlZJOFhoODFTWlBtRG5yV01zZHF6QjBhZzEzMGVoczhqTFFNTE5QV3k5V3hYdjd4RVhuZ2hNZG1IYlNpbGZWS21SdU9salNnVnhZVWNScEZBWEZ2NGFBaWlP?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Notta Introduces Memo Pro in the U.S. With a Color Display, USB-C and Automatic Wi-Fi Sync - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmxoUVhMTnNjTXBBZ01JaEhNMzc0MllzWC1JSGx0ZVRqckEyQmVlOG9zNWZIVk5qM0Z5ZWt2Sm5vQUxwYVJfVlYxdWdsNnhGd3ZxSGVZMFY1UXRzcFJIaHpwd0l1emRoS3dGdm9WdXRwSXJlbHVzbXNFTXpYZENTVHdmQm02Wk1FazlRTnIzQkpsN0Nnb19LWTdZNUp6RkU3ODNJMVJYejNsLS1yalRLdnJPY1Nyb2k5ZmNHY0IxMm1JUjh1Z0FkTWVOTUFkQUlCMGFUS2s1VTkxMkU?oc=5"
@@ -133,21 +133,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Warner Music Unveils Sync Reorganization, Elevates Ron Broitman - Digital Music News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONVI0bEFQVUp1RGN0cWdVTFQ3b0h1a1FMNno3cVBoaEIycm9IVS1jZmVDVUxpOWpTWkk5VjB3cTJFXzIxVWpodjk1a2ZsTzNIcTJNZWc3cmx4QkU0ZDdlcEdzYWtlM21GOXBkaWd4SlV2NzVQaTVGVk1EUndpTDE5LTRIVFRZT193YW9J?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Microsoft Unveils New OneDrive Command-Line Tool to Manage Sync Deployments - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUHFIdWppRHp1dml4MkJRQjlCY2lVLWJlLVZKRnMtWFNJTXd1Wk9rVGUwajgxMTFIek5kTUFicEZzSGZybklJSHJPYlYzb1RKMUJHVTZCZGxlSnU1RUhKamlkVzNERGwz0gFuQVVfeXFMTzREbHNrbWhib2tud0NJQW9sZi1WcUxkdUVEWTJTM29wcmVnSFRTT1lhQXA0Q3N0UWtXMGhSb2ExUXlieXRkcEpMd1FUakZZcjV0VnpyWkRxMUhBYnVUYU53NG9aYUlIVjhrRWp5MWc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Microsoft Unveils New OneDrive Command-Line Tool to Manage Sync Deployments - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80RGxza21oYm9rbndDSUFvbGYtVnFMZHVFRFkyUzNvcHJlZ0hUU09ZYUFwNENzdFFrVzBoUm9hMVF5Ynl0ZHBKTHdRVGpGWXI1dFZ6clpEcTFIQWJ1VGFOdzRvWmFJSFY4a0VqeTFn0gFuQVVfeXFMTzREbHNrbWhib2tud0NJQW9sZi1WcUxkdUVEWTJTM29wcmVnSFRTT1lhQXA0Q3N0UWtXMGhSb2ExUXlieXRkcEpMd1FUakZZcjV0VnpyWkRxMUhBYnVUYU53NG9aYUlIVjhrRWp5MWc?oc=5"
@@ -216,6 +216,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

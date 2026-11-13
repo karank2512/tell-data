@@ -1,9 +1,9 @@
 {
   "domain": "joinminerva.ai",
   "name": "Minerva",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.8,
+  "score": 16.6,
   "contributions": [
     {
       "type": "launch",
@@ -84,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Nvidia unveils Minerva for end-to-end observability in AI factories - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUSGZ3Y0tDZVVsZ3lFNzdFQ2hJdVBSN3pTTjZuYUFxVUdYYmdnb0ZkcG9KY1hDZnpGMWVNUExwRDZSaEFNZjB5X25xVUpSczlET3lPSkloVmR2dWtVM2R4LVJrNTU4Y1ZyWHIxRm4wR3FScXRIZGc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "NVIDIA Launches Minerva for End-to-End AI Factory Observability - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0JVaXJwZXdZbnlQc0NHZmZXUTI3ZVBRSXpCNUd2R2NDSFRWNlJsUGFsNFJiOFdhWkp5QTFHUWxzRDRCOW52R0R6bHlIV3BseVNrUkl2bHZoVnJOYTlYLXhqQnZib3YxUndSZ3E5eU9GN0VQdHdteWFxQjNMZ2xGVDV2OTRFQUNGUXc?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

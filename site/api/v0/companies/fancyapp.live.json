@@ -1,9 +1,9 @@
 {
   "domain": "fancyapp.live",
   "name": "Fancy",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.2,
+  "score": 8.1,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "“Just Call Me Peter!” Safaricom CEO Stops Vindee from Introducing Him with Fancy Title - Mpasho",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY3lvbXROVE9YM1cyV3NEZjJubGlIU3c2T1AxRFZHVlJDdmUxN0dVd2trZDZub2ZsSWEwU1dIc291NzFGX3N2LTVWSFNTUzNvUUJnSTNLZGJmTkFxbTV4OG81LWZqa0FoNHlLOXFHc3NnWW9kYXdJYmhncENrU1pEc1lOOFVYSjJsSmUwbEZ3LWVyUFBGYjRPQW40MkN1VEJUVmtGbWF5WWI5RnFjeU84eVc5NA?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

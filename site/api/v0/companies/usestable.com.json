@@ -1,9 +1,9 @@
 {
   "domain": "usestable.com",
   "name": "Stable",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 17.8,
+  "score": 17.5,
   "contributions": [
     {
       "type": "launch",
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Breaking! Samsung Releases Stable One UI 9 for Galaxy A55 and A35 - SammyGuru",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlR1lPTWhPX1FGUmg0MjBMY1JSSVNFR0lSMUlfTC1MQ0lCbXhKT2Q2VmQ4M3d5TzdtUURmYmpGa1JCNXp1SHNxYTdQMVRBT3UyTE9FbXpFQ2pCMzQyQ2Y1WGM5RURXa3I0T2F1WURTVFZhbDBYWW1BU3BR?oc=5"
@@ -91,14 +91,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Samsung rolls out One UI 9 stable update for the Galaxy S23 series, Fold5, and Flip5 - GSMArena.com news - GSMArena.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmJZRnRYMlZvS0lEZjJoMjJQVkpKMnFIRjZyYVlTZGtlbGRpeVFCWHFTQTA0WWE2WVlCWkdxUVdUa0JhYWZWaWdxWXg0XzZRMGYxd0twa2ZTV0dVV2NlaDdpeDlvSmJCZzVFV1dDVWdHeWNaNlNENUdpWHg4aWZ0QlRpQlVfNldEMmZpXzVOZkl5b3habUk1QtIBlAFBVV95cUxOQ1d6X0NYMjZkZDhSVHB0T21GS2ZhajFUM1NvMzA4aXNJUVF2dm5SWjRaTk5saGJvT0VXc1NnTGVDdGhWMUt6UDBUaTRJQVdmQm1JdlV6SWJrYkNTWUdScFNLTW4zVUNSaERVQXZoc3o0dkRjYzgyRm9JODNYZHhXWnpXS1pLcXNLMEV0YWx1aVdFSXN5?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Sony Electronics Introduces the ECM-W5 Wireless Microphone with High-Resolution Audio Recording and Stable Connectivity - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOM0N3TXNhdmNveGpfUVVjalVXZHNyNVdvS3U1bV9zbUFqRkc5R0MyVzNLWjhmb2QyR25fLW11b3VlRnlTTHBYNWZpano1OVpnNTRDYXlWeEhOOFh6QWctbHc4ek9paC1JR0J2NnpGYkZ1d2hBelhKUk54Z190dmZzZzdWRkJ5M0FFZmFtVmtIMDFRMHZqdlpVWG1ZQk0xX3Fxa1ZkVzBvTmpEbmt4YXQtWXc3bXVma1pkZ0YyVHZSeDgybkczOXVmc1owOTdtWm1uUEpyUmZSY2dsN2JqcGI0M1pULW1LTHF3OGI3TlF5Y3Bma1VhT1hBSEtyVXdZY2NFU1c4MENR?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

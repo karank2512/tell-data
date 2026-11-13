@@ -1,13 +1,13 @@
 {
   "domain": "withkairos.co",
   "name": "Kairos",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.8,
+  "score": 10.6,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-14",
       "summary": "Kairos Gold Appoints [person] to Board of Directors, Effective 14 October 2026",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnBFcTcwMW5ZRFQtdkt4Z1JyWXNOc0pIdlM2RUtaM0xzZkVaaGFjUXBzNDR0aHd2M3R5OGt2Qk16TFpCNVFaUnMweUtfNlVvNHNNdjFIMXlmaXBHN1FtYkIta0pTY2JSSW9kZXlKemc4TGdWVUtnTDNQSjBzM2RScjFIWm1SSEVJSnhVYXRKSkJxbTl6SjBCNHB3Zk1rOEFNMVdWM2x1bHUtODBnUjFMNkRzaDYzdE1adGNYTVFsMzBjRnhvOU1pb1lraC1XZw?oc=5"
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "PROS launches Kairos to advance modern airline retailing - laranews.net",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GMkVkSGs3OTFqVVNaTUIwdkptM0xFSUFVTUpETlRzWHhiOE9LcmgyY3ZsNk5rY2dKdEgwa0xUVjkxdVp3a05mUXlPdEpUenRDdVF2VTFTVzlvNzhUTEdQcUlPUHNBRy1IUjZyMzR2QkVPcExBZ2t2Wks3Y0c4dw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,7 +1,7 @@
 {
   "domain": "captivateiq.com",
   "name": "CaptivateIQ",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 1.1,
   "contributions": [
@@ -13,13 +13,13 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1dkcnlxdFNQcUlpMzNEWTBqZkZlQUxYV3BHdUlvQnI4cV9JSUdPMWNscnFjcjBXeGFBLWxIbzlXa2VpTDE4bzJiNHNVWVV1N1NSQVR2RXl6VDZmQ0NvUW1ZV2FwSk9QN3hJb2s4ZlpJaThLaUh4UUR1MnJJNEFSY2xyc252eUJPWW1iSzFmeVhmQnl1ZUU4cEM5VjB6Q0U?oc=5"
     }
   ],
-  "open_postings": 22,
+  "open_postings": 21,
   "long_open_roles": 13,
   "sources": {
     "ats": "lever:captivateiq",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,14 +1,14 @@
 {
   "domain": "emburse.com",
   "name": "Emburse",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 2.7,
+  "score": 4.6,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.7,
+      "contribution": 2.6,
       "occurred_at": "2026-10-26",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/emburse",
@@ -34,15 +34,35 @@
           "url": "https://jobs.lever.co/emburse/33245689-3cf2-4f12-8bfe-ce9816c2a78f"
         }
       ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.lever.co/emburse",
+      "postings": [
+        {
+          "title": "Manager, Customer Success (Corporate Travel/SaaS)",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.lever.co/emburse/c8965c6d-4c42-4df4-8162-42a6287ff253"
+        },
+        {
+          "title": "Manager, Implementation (SaaS/Fintech)",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.lever.co/emburse/ac85f9da-15ae-4836-bc18-994656560e82"
+        }
+      ]
     }
   ],
-  "open_postings": 32,
+  "open_postings": 33,
   "long_open_roles": 4,
   "sources": {
     "ats": "lever:emburse",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

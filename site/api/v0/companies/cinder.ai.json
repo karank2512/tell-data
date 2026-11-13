@@ -1,9 +1,9 @@
 {
   "domain": "cinder.ai",
   "name": "Cinder",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 2.9,
+  "score": 2.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Dark Souls: Soul Of Cinder Officially Releases 2027 - ScreenRant",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VNWZiUThmZW9QNGcyNDFJaERhSzR4RktpZWNxZTJybC1XVjU0NlUyT3VBWWJXWFJVLU10bHA4dHlVWHBpX3lPOGhibzJmM3dSRF9lVlloa05UUUtOVlp2MmFZSDY?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

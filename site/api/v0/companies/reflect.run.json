@@ -1,13 +1,13 @@
 {
   "domain": "reflect.run",
   "name": "Reflect",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.9,
+  "score": 12.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Focus on Konami: New releases reflect in-house brand building trend - CDC Gaming",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVBxOElqWWF0dTFLbUtWUzFMcWRlNEhmZi1LVGxNRTRzZjNLOFVfMjViUlJnVDdkeTNweHdYMDltUnF2b1hGeS1DN3NrN0gtM1ZVeUg4U29NX0gwdUVISmdvNzFxQlREdVo2WnpCR2RQLVhvNXd5eTdETzFweWJON2FfRl9EdGU1bnJMaWx5NW5ETW8?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Reflect Orbital books two launches with India’s Skyroot Aerospace - SpaceNews",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc09FaVllZ29jdVJWZEEyNHhqN2pCOFRCZkNjNXNpZVRMcFppSHluTl9PYm9JVGVmR3Z5OGlMR3UwbHJfS2RqVHZ5U0ZfUXY4LVpwNWItalV4MnBKMTJNRmlsTmtLakhMbU9iWWdNSnc4bGgxaEZZN3A1UGRqTGVRN1BsMXp1M2VoNjQwdjlURHo?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "ready.net",
   "name": "Ready",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Who is Teruaki Sato? Introducing the next NPB star ready to make the jump to MLB - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVZaMzgwQllRLWNHUHZtekJnZmk2V21aQklSUlhVZnByNWtpUy1CdnNYQ3J1elVYMnFlRU5oYndQcmVJY2FKeVg0WDZFT2IyRTc3elI2OEU3QW5fOEJLaDRCdGRJRlFuSUVhWEdiU2VyMmxUUGNiM1RZN1lpZURRUnlicTVMSTBycjBkaFBOSmg0R0k0ZFVyaWdja0pKRXFYVzFqeEJvaXBfNUFMVTI5b0NieVEwLWJCOXd1SHRzVE9RTnBjc1VBS2tBdw?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

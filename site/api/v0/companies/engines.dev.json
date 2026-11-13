@@ -1,9 +1,9 @@
 {
   "domain": "engines.dev",
   "name": "Engines",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Fibr AI Launches Agent Experience Optimization, Turning Brand Websites Into Engines for AI Visibility and Agent Action - CustomerThink",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV05IMTRzSVMyY0tEZWtxMVVfaklEem1RQ21HV2pfS0hfMDk5LVVVRTJaekdMb2pkQVVpSkRiYm5sV0hsc29Ta2oyR29aRXlMd1ZrREpBVl9jS08xeXFEc3VNV2FBaXBCX1BneHBXTFdVZ0NEc0FRYnZ1bmlfZ0kwRUxJejJTcjFhdnh3ZkNTd2lWQ0o0c3ZzS21Jc2Myc202OEFsZk0wWkt0VlJlVTdxbExiNjQ5VHp2azlIc20zZE03NFNaYVZtNU9abzM4VVBIazR5LXJTRVJBVmVJ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

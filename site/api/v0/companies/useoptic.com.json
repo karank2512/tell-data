@@ -1,10 +1,24 @@
 {
   "domain": "useoptic.com",
   "name": "Optic",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.7,
+  "score": 7.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "MaxLinear introduces Juju PMIC built for 1.6 Tbps optic pluggables - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmtXVDVBZDdVNThwSVFRY0hMQnNqMHlMLU5lZTBjdkZFcGl4TEFpU0RabTRILUx4NXlMaEo3Rzd2VElsQlNOaFhCbVJwUzdETEhYQjZUbkIwclRXcTJkZm15ZzV1Wmg4cE1NdTVQTkpSZEVTUVcyV0tZQW52MU9qVG5qczE1SXA4NmJhODM0OHI4S1hHVWl1XzFManZDWkdud2JPdTVlTjd0ZTU0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "SPY Optic Unveils the Crosspoint: Its Widest View Ever - Shop Eat Surf Outdoor",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkpQOGx2QWlQak9wVWl3X1YzZHFFUk1oV3FSLUF5LWhmMzBvSDRiWWVvblNtVkVBVHZ1cDJrNUpCN0UxV0ViLXVtSW1GaEpmOHY3V2N3SnR6SnVkZE5Oc1YxX01rWDYybm9rS2FWbE1hRVd1OW9oUEx2eHJnSEllQklEU3l4YWppZDl6MUxYOVFTLW9TRmNSMG93OWc2RXFvb0pWRkJNM1E4TEtBTDN3?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,
@@ -35,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-07",
       "summary": "XS Sights Introduces ACRO Optic Plate for Glock Gen6 and R3D 2.0 Sights for Glock 43X/48 COA Pistols - Outdoor Wire",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTW1JdXJ0emFKNTFLOU91Z2U5NFZ6N0wzTldHY01zZU9QYzFNbWxDVDhoR2tKUG5uNmsxSnNtRzZ0bUNxRl91a1JySU9obFdpdk9LQ1FmeDVfRUtfRFoxeXRuQVBtYWNyczJDRV9FYmg3bHZXVzlVQzVkb1F4UzZlOUNWRWFwakZkdHN0ajZfZUFQcmZYZGFtU0lOSlBzWWZnZERySVQzdURNcVNQUGlhNTFKTDZGLWdRaXRmUnZENW5RenBzMEZpN2pRRU9Ka3owRnBsdW11S3ZQSlpQNmc0?oc=5"
@@ -48,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

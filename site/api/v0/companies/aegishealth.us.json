@@ -1,9 +1,9 @@
 {
   "domain": "aegishealth.us",
   "name": "Aegis",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.8,
+  "score": 12.6,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Aegis Air Launches Miami-Caracas By-the-Seat Jet Service - Hoodline",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSkdTTlVDa3J2aG1nYVhBU28ycW1vWXVOZjhCR3JQeld3bGROWnA1Mk94c3NvU1VDNmpCLWNJNDFkYk1wNDRrN1BDMm11b1U4YURLc1BvcjlJY2E1bW8tU2ZMOHVmZTA0eXJsZHFqNTRlQkV0VXdTaHFJQ0JEbUVfOWJPdGF0WTYyS05nNnFNNldMcmJRTTJ1UGJ4QVA?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Safe launches Safenet Aegis security network on Ethereum, Gnosis, and Arbitrum - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zOHNnRzlMTTNjZi0xQWJlRk9MWHlrZnJwWHBQbzdwTHMxOGpTanFjR3hiV3R3NG15eXpZcGptZ25TQVB0d2VmY3EzR0JrM3dTQnZwT0N6ampGM0djRlVlQndWSnNHUC05YU9tWjdrWWRBQnZoU1VFLXU5anE?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

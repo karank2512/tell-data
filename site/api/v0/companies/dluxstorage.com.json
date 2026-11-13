@@ -1,13 +1,13 @@
 {
   "domain": "dluxstorage.com",
   "name": "D'LUX Storage",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 26.0,
+  "score": 25.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 26.0,
+      "contribution": 25.8,
       "occurred_at": "2026-11-09",
       "summary": "Form D: $5,000,002 offering, $249,993 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2164423/000216442326000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002164423",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

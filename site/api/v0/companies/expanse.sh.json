@@ -1,9 +1,9 @@
 {
   "domain": "expanse.sh",
   "name": "Expanse",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.7,
+  "score": 6.6,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-07",
       "summary": "'The Expanse: Osiris Reborn' Introduces Its Male Protagonist With Updated Looks And Voiced By Blythe Melin - Trailer - Worthplaying",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPazRaOUVkVTR1bXpESEhZT3JUMjZoUU9EZ0ZWTWU3Zmc5Z1hDc2FpUWJISFVCSXAzc2ltc2x2SXQ3TDFlajNVZFFqUUlSSFZyT3FTVEtaWUdHWGppREV5bi1BNDJtNnc2VXZNQ2VoeFQ2RXE2MkxuS0puT3VadU9kWXdFcWhTVmpsSWxOQ3lfZjdTV1RDM21ZcEp4N1VHR0NyaHJEMXRDd09Eel9FMHBwbTY2SHppVTFOVUcyYkFtWXJmS3RTRWFuUEdmd2R6TEhPNjNCMWZBZ0hUWDdqUnp0U01EalhBMzlZcWZOZFFzQzFPZTE1d2NJSFl6UQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

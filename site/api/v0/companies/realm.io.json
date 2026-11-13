@@ -1,9 +1,9 @@
 {
   "domain": "realm.io",
   "name": "Realm",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.2,
+  "score": 14.0,
   "contributions": [
     {
       "type": "launch",
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "REALM Releases Minted, a White Paper on Who the New Wealthy Are and What They Expect - citybuzz -",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdDVBc2FrQVlRLVgyV0F2aEZUNUE5WHZwRVlWdzRVWU9uS0t6N3ZoNnBxYUN5NzJ3MkpUSDc5ZmZJSlFuQmpkeE91S3llLTJNeFNtYXlldzN5ZXRRTTBYMHhranQ0dHRGYUZfMEJ6VEcxZlppQXY2MWpEeGswbmMxUkV1cEtoc200QkZKaGRHcU9zS0Zxb2FQb3JkRjlxMEhEQU0zcVZGTzYzRFlNVEtiX3ZWWFJPRURPdzBR?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Realm of Taiwu Launches in PC Early Access With Co-op Combat - Invision Game Community",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUDl3YWdDcTlBTWZ5ZTlIeVFsbExRU1M3dnM1WWpnbVg4REVjSGN2d0Q4aGFZVVF2azR4WjB3V1k0ZlU4anRPOE1rd2FERkFSVndWUVlSUE9PZ01fYllTbXlMZGdwY2ViZzhwdldHWmdqb0M5dFY2UGgtSVlFSDE1UzZlNkFpcVVrX01BVjdEWDFqUHRNRHJrbw?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

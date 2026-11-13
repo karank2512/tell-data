@@ -1,9 +1,9 @@
 {
   "domain": "cedarcopilot.com",
   "name": "Cedar",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 21.8,
+  "score": 21.5,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Cedar Ridge Releases Triple-Finished Portside II Bourbon - Fred Minnick",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeldkZFMwRTJjQmd6aUtoSEQxRTM0dHdhRDFmM3VSdjJaRTB0aDdZNEtyMUdDOFRGaHFvZFpxenhGNVNCWk1MWmRKV2dIcGEzMWtzaXhvZW1KWXlRbUpZOFkwYXE2bjBQMXZNeUZsUTFna0xVUzVmS2RrN3FTYmdfMTJ2RjZFclZaS1ZiSlBHUU5wNm5RYTIzX1ZfWFo?oc=5"
@@ -42,14 +42,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Cedar Point releases 2027 park schedule - WTVA",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmxmdnVsNy1kbUhYNlZGQ3M4ZWktZ2s2WVlHOEh2czlSTm1TUXd1eFlNS1hvU29xZDg0Mlp2ZUp0Z292b1M4VDBrbWVtRjZtWTRXdERtdjBsUWJkS0QwaTRLbnI4TDV1SGlVaDY4Y1FITGhHWGtGUHFkYVFBNGc0RXpnUDY?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Cedar Point releases 2027 park schedule - Cleveland 19 News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDlrbG01bkY3Ym9PX29GbzFkQVJBc1VIZEViVy1WNjd3elROdEg5YThsYzg4cHZDaXlITWc4T182aVZQY0RIMi1HQ0wzZ2JJMGZyQmpHb3c5Tmh2RXR1RzgxeWhfblI1RjV4NEJvanZsd0dqckhwRkZfd1RhNTNDa3I1VFF1WkV5WUJIWHFn?oc=5"
@@ -125,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,27 +1,27 @@
 {
   "domain": "outbound.io",
   "name": "Outbound",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 22.8,
+  "score": 22.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Unified Outbound Launches Managed Cold Email Service for B2B Lead Generation - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOEFqRTN5bHRpSWFJclhoRUZxT2Z2eE4xMjdFVlMxSEpNaUx0VVpCSTdtZDhEaXgteTA2ejdaYXc2UF9FTVowWnEwTVVURDQwU3ZscFpnVkpDdTBkYUhDRW9DZUliMFdYejlMby1TSGtYYUtnMnpOcVpDeTh2aVJONDBuMUdzaURmdl9CRzRjZkxhWHVJMllXLVZHSEw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "B2BGTM.agency Rolls Out Signal Based Outbound Engines for B2B Sales Teams - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEtXVThOUUhVTG83c0tTVnY3dHdrTGlkaHRtd09BQ1RzUDhkeVE3Y0RCVm5GN1Noc2dqcnZXQWxheVdoMHlraWJfVXZLNjRaYWhtVFM0M2pNTlh5di1WYnZzZEdaVXBFRUoycDJKVi05TXJmQ0x4VmV6RkxxNnQ1MXV1MXJSQWtyUnNueWZIdy1lYi1BR1JhZVY3eFVPZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "B2BGTM.co.uk Launches Outbound GTM for UK Companies Selling Into UK Europe and US Markets - openPR.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVIxcllDUmhmbkR4cGNydF8xRjB3NTZpX3NjVzRBRC0wSkF6eUtjQXBGQ09zUUxXYmJxQnZxeE1tWjB0NUNMMGt2RC1hMUoxaHNxajYyM01wT1kzTmRENnBvcENkUDNabXpFbFhVTS0ydDQxNUxTOTZEVHUtUXBaMnNiaUdic1p5MDhPUUIzU2FVS3djWml5RnBwTQ?oc=5"
@@ -146,6 +146,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

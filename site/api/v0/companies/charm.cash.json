@@ -1,9 +1,9 @@
 {
   "domain": "charm.cash",
   "name": "Charm",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.6,
+  "score": 14.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,14 +21,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Dual-Side E-Ink Bag Charm Launches as VidaBay Officially Unveils the Duo for the Holiday Season - Bergen Record",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNVcwOGY3c1RZWW1mNXhCWjNJYTRsZjF5S2M2bnBEdmFieE9oNVUxVGJZd3lSeGlBcGctZ3N3RVN3YzQ5TXBPU1FoZ0VIbElmYUdBeThKTER0NkNRMDMwRTVNc0M5c1JEX3k1czI2VTJkMlpyOTE5VW5GWldLWk5NeVVtTmY4dkJ3UDEwdG5EUmJrLURha2MxR19KMjN1UEh5bU1zbmpJTGRrTFdBNnZOVDA4cmhQd1hldzJMWUF3SHhfZjlTVnp3WVJRTktLLWdJV2J6QVo5YWpVenFKUzI0YVFrMXRuQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Dual-Side E-Ink Bag Charm Launches as VidaBay Officially Unveils the Duo for the Holiday Season - The Des Moines Register",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd25paHNPNDZVUEIxS2F4V3BZUDh0ejJCZF9odVh5eEVUWmVxQXdZZTNQX2Rtd1hRSW5VaGE0LTBjMWh5bUdPMURhUVQ5eHhHbzYycVlXdWpjQTFTd0tDbDFrMWFMQWY1ajZvMW9VU0ZqS2ROX0VGQWVJWEh4dXg0WWg5ZjVkalpkRFVhRzJhSGFNNTdvLTUwWkhvVTNjRkR3QkZuM0VfVUpkNFhMT05VTl9hSU9kVnVJTmZ2UW9FWTREemFUdldsZUVSZ050YVFfUEZZZXF1NkRsczZGb09mT2tNU25WQm9PQ05pSmtB?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "tempo.fit",
   "name": "Tempo",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.7,
+  "score": 5.6,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "PNVF rolls out major reform | Tempo - newspaper - Magzter",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmNKTGN0Mm1DWThkNllDQ09LZm9oWDVfdHJrSUE2Z2Z6V1JfblJpUnFreEZNTFRWd3o5TUZIdGlSaWY2dG5WVDBnTnBha3NHTFhmaG02T0ZyWm5QQzZkYU1ERGNKbzJ1VkJuNndoV2lzRmpjSFJjUWJqczJZdGdpbQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

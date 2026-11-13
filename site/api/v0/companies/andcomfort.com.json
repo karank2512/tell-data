@@ -1,9 +1,9 @@
 {
   "domain": "andcomfort.com",
   "name": "And Comfort",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.9,
+  "score": 5.8,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Volkswagen launches Touareg Final Edition in Korea with power and comfort - CHOSUNBIZ - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeVNUb0xldUswTFE1dDJzZGY5RklPLVVXUkd1bUQxQ2h4MEtkNXFEQTNXMGRDQXlFaHByclE0ZzdVbTJkXzJlSEd6OHZEa3RFSW5wRUQ5Vnoyb1VfQ3Frdk9ZMzVxa2pSaW8xMmpETjU2bFRPYkZheHdUSEFDb3pUdFNR0gGWAUFVX3lxTFBxek1lQlgwMXRhVUhjLTRhaF9sSnJyTnJtS0FFM2xlNVlpYW9vTzR5VEg5ZlBGSU9zRXNhSjRmODZ4TW05c0pzYUxrVkhrVUQtRThYSjB0TGZ3M3NQVXJtS29Rc1h2RlhBVTZQZGx3Y2ZHbXRNUlFXV2I1T0ZqbGZLQzRqZ0xvOFM0X3d2djZBOVZacVdJUQ?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

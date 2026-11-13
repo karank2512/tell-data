@@ -1,9 +1,9 @@
 {
   "domain": "voyager.so",
   "name": "Voyager",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 28.9,
+  "score": 28.5,
   "contributions": [
     {
       "type": "leadership",
@@ -14,21 +14,21 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWHZsU1F6eHlZZlRUTkRTY19GaTctOWFNcURZVE41enJnLU1xZ2VqVUhIdHZlczZXMEs2SEhQR3hEX25mMlc5WEVpQjBDRWNvXzBZQnhtMnAtY0kwUTFBVWR2VFVuSkVXeXpPeVpPTzdkd09tQV9WSExhR0trYUJIMk45VHVwdjZPNlJMdThoTmp1YXR2QkpNNkwxcDk2cGwxcXNxUGVuWWx5MFdPc2NLRzM2WS1BZy1xcTJCdw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Voyager Appoints [person] as Board of Advisors Chairman",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcllGOHNITi1lSEI5RVYwS3ZnNUpfcUFLeHFRbzcyWDJMRGpWRmtzaHBubEhkWHdXeXViemNKZU1zMnpUWm8xUlZqdEluSjNtMk5nODZpRTRJdFowUmE1T3hRb0Q4Slpxenh1ZU9ZcXhhcG45clREYnhabTZTQjY5WWEyckpLRDI0R1g5SjNMR3FqVW02?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-21",
       "summary": "Voyager Therapeutics names [person] as president",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2NvUnhMNG5vdzNVdWlzTHJZOGR2TkhMbHRqczJlSFI0OGtkRExvaXNXbnEtdk9qc1dTZmxFdGIwRnM1OVdDM3RtYlk0bnRVRU00RjZDUzRWbkFNLXZzSnA3YU1KRTY2V3p3b3dNTEtLU29wQmVyVm5FZGtEQk9HZmZuVl80Nm5sYTlVR3JtalJzbUdfU0hiMlVwUk9vUzFSbVgwamtpOWc0VlFFa3c?oc=5"
@@ -147,7 +147,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "CrossCountry introduces additional Voyager trains to improve capacity - London TV",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMERnMU9VdW85ZVJjZVFXSElCY0U3bDNBZ0pBMXYxbWxsa2VfZWxnTjZhcWh3ckZCaTJCRzM0OThsUVViZl85QkJFRV92OHVkdUVOWGNtRUlaOGRpVHpjVDBvQWlkNTNLUGtYOExmTlhhVkZpSmljWTY2NXZiYjZtVDZXS2RTQzZKY0JYVy1SOUZ3VUIydk1tb21n?oc=5"
@@ -160,6 +160,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "karalabs.ai",
   "name": "Kara",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.9,
+  "score": 8.8,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Supergirl: Accidental Chef! Launches On DC GO! As Kara Zor-El Finds A Taste Of Krypton In Space - ComicBookMovie.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzVCUXROX0pCajNIVmkwNU90bVRKX1RnN3Nvejg3MVdMbjB6cE1jMUlYaVNYMTUyYlp3V1Y5TTA3NkFPdFdLYkxNejNfZzFZUVh6WGlNd2tnNmNnam9yTHhEZHEteFh5VVpvNVpqVmdMaXlVdmtCNDBwX1FyWmJWUlVwUklOYU9JZENPMXBsTHhhY0REZ3ExVEFDM2hoc2hNaDN2M1d0UWk1ZTZaWjl4Yi16TXB0NFNlb0dMWF9ncUZBM0g5cFZlUnNjYjhBUUZrNkVr?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

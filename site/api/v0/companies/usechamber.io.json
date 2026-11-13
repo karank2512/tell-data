@@ -1,13 +1,13 @@
 {
   "domain": "usechamber.io",
   "name": "Chamber",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 22.7,
+  "score": 22.4,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-06",
       "summary": "names as new president",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWkk3dHJoLXIweTZLUXRvZVM3bm5zQ3BSbkNzd3FkMmg0NlkzWk9RZVBNY1RIZHA2QkZ2X0VKM2YtV3M2UFRMN01hWkFGSzN3MzNWSVFCY3AzYXRlTGF4Z2x0Yk13UlpOVVk1WmZLYktXOVk2M0N0MWNLUGxPQ2hDNS1fREFSVlNWb0M2aWdjbTFEeElxSWNGY3ZrOUd0MEN2d0hyeF9HZ0lQZC02X1pTQU1STjVyb2pkWXJXcHFHSTBVMGUwNFRyc0g0bVA4WllnQTZnVlUyWmRucWc?oc=5"
@@ -70,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Little Rock Regional Chamber launches \"Life in Little Rock\" worker-attraction campaign - KATV",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT2FzYjhIVFdTUUlyTUk3Qms3TXpzR2pCM3pxOFdlS195ODhKMnNrTHl5b1VoTXFab204cXVieE1yeGtSZC1VWnNNLUoza2tXajlIMEZZY011ampHZDRxZ1cyVUxhTUJvVnRfeWVNZzh1Z1EtZUVKQUlQS2VWdDNOVHVyNWcwM0x4MG5qajJBbDYxY1VGc3Q1VHBadHUwTWhCdHI1NVdxOHYzd3RfYUVlMWVraEFXYXhBa2hCVnc5bnA4eVVzODNNMEIzTzNMaWxiaHhBV3dUVk5LanUtOWFEamJVOUVlbGdQRUoxYVU4OUJjeFNN?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Little Rock Regional Chamber launches new initiative for prospective state residents - KARK",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclU5MUdtaC1VSlJtMDFkWHJfRVROelplZ3RDa2Z6dkJCNHZsaHBucG5zT010Z1dLV1hIUS1jQlRTQUxqWUlDR3FoUTZwbUdPdUduUlp0cjg4d1hUQkJLUWdBUzAyN2pDMTZSb0lpWUVrNHRERFpHNjZWSnBUQWhiY1dUZ0szTDgyVEVLdTVOcW05N3F3emxZQzIyR1JmVGdVVTBDeHd5VzZvN0JoQWJSLS1sLXp5Z1ZDZlNIdGZBaw?oc=5"
@@ -146,6 +146,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

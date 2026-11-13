@@ -1,13 +1,13 @@
 {
   "domain": "withmetis.ai",
   "name": "Metis",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.6,
+  "score": 6.5,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Metis Hybrid Rollup Launches on Devnet, Post-Quantum Proof Path in Development - KuCoin",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTNpUFhzcVpXOFlUX0xXa0doTFZzVERHdjZPbzlNaWVCQy00a09jbVFCLUJDNGVjd0M4Sjk5WlI1MzBWOExuU0VKVUJkY0xid3dYX0RwY2N0UkdLcVQ2Q3JWY20xYm96ckg5Q1drTXNPTEZxNkRMalM0VXpyaHR4b25uX09LZjdUVnRrNFlxd3EzVUYybzUxRE5QR2JTcndMZ3NVeXFNRnd6NUdackJfQw?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

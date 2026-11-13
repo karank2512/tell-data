@@ -1,9 +1,9 @@
 {
   "domain": "sinai.com",
   "name": "SINAI",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.2,
+  "score": 9.1,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Mount Sinai Launches Lab-Grown Mini Hearts and Brains to the Space Station to Study Aging-Like Changes in Microgravity - Medical Daily",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUdSLVVXMHNfd25MYWFYRjFSZEZNWGhVU1lFN1FrVnRGU3oxVDJab0FVWVNNZGhTdzZsQWZYTGREQVRxeWlDaDBaZEdIcHVpc2MwMU5DbXpzN2JOa3NRY3FFX1NPNjE1c1JfdFVsemVZYmJLczVBZU5vb1hmcFhGWWpCUUFXNk9HSkRRZFFsRQ?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "glideapps.com",
   "name": "Glide",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.1,
+  "score": 8.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "General Atomics Unveils Concept for AIM-174B Packed with Glide Munitions - Israel Defense",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42aXpFUGl4UFpQYzZmV000UHFNOEhTb0lLTi1acnJ5WUZTX19NUnI2TUpsdW5HRWU3OC1UUkhNbDQ5YTBGS2UzT3NSbHpoVnZfQXB0MjNHLXM?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

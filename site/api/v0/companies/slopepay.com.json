@@ -1,13 +1,13 @@
 {
   "domain": "slopepay.com",
   "name": "Slope",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Eden Project unveils Silver Staircase to stabilise landslide-hit slope - Falmouth Packet",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXpYVTk1eWc3TWdhREtDMVA1UXY3LWxjdTZ4OGNka3pOMFlHdzRNd3RmUk8zUFM5eFg1eVQzbEdGSDNmWG43Q0l2RlhKdFVtMDRFc1VCdHlMY25LV1oyNEhPS3FsdFFxckJ5S25Zb3k0ckVMc2xCRzFmdUcwUUlDT2I4SkthNW9vV1dnaHJndUhkRmJwYUVNY1ROdFBDOXc?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "RC Mowers unveils all-new RECONX autonomous mower, new brand identity, and all-season slope mower accessories at Equip Expo - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbWlmRFZCRDYxTTdIS3pYX1h6YWV5QWFMVDRpXzRpWkxheXIzSEx3clNLbHY2aVJndlRlVl9zdi15TmNFOXRBalczRlFvM28xRWlieF9jdy1MejQ0ekhaaEttVlNiX3U3N0pHOTROQnpFNExzRmc5NHl6UnVYSzBUWUxNeDUtdDJwckUxZzBLM3FQUXJlNWVtWVpXQWxuMnZNQ1VVaVlMZUpUcDlwWEU5T256WG80YU1qVGsxaGdUQ2xEOEpmaUREVDZxWDJIZFNrVVVKa082N1FDNnhSYXlLY2pOWUZFZmhqSEhOSGtBMHI0MlRQVmJyWnhOQU9KQVhTTFpBeXcwM3I?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

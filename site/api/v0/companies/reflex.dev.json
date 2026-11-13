@@ -1,9 +1,9 @@
 {
   "domain": "reflex.dev",
   "name": "Reflex",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.3,
+  "score": 10.1,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "DUEL: The Game Show Launches on Steam With Online Quiz and Reflex Rounds - Happy Gamer",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52TlJOaEVtcFhXUnpUb0hheHB5Nk53ZWt0MGVyQWhNVHVuUE1SdmVhV3ktdTJQcnBHbmFlaUhFWngxbE1CTGxLUUtJdkd3ck9naE81UDVwWW9yZWY5Ykd3SS1reVlZZkxKRVJydUpTTQ?oc=5"
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "CRITICAL REFLEX UNVEILS NEW GAMES - DLH.net",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53TElvNUktUGZHQkE1RWFQSmc1Y0x6S2JZQTZCNkxMQnZ2MklBN1UtRjF5NjRoTFJPSWhQSnpERlpLeVFONHRXcFdUYVVCVE5mY2VZamN0UGMwWGxPWVRJZ0lPM2FjM1B5ZkprRG9NSFd3Z1NDWC1hdDc4bVE?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

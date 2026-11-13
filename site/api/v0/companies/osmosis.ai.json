@@ -1,13 +1,13 @@
 {
   "domain": "osmosis.ai",
   "name": "Osmosis",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 1.0,
+  "score": 0.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Osmosis launches $100m-backed CCF - Funds Europe",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xMFdXQUpvd2JjNDdQdVhZYkF1TThZT2lGZEZqZXRfWmtreVVRb1NzWVFzMGE2UXREZEktNEY2YjI0d2xiUDhXeW5sSHFnLVlKV3p0dFVhS3I4blI4SkFXZVIyUEJKZVBJRWc?oc=5"
@@ -20,6 +20,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

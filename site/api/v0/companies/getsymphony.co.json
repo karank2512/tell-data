@@ -1,7 +1,7 @@
 {
   "domain": "getsymphony.co",
   "name": "Symphony",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 7.2,
   "contributions": [
@@ -21,14 +21,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.4,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "New Jersey Symphony Appoints [person] as Vice President of Artistic Planning & [person]",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1JsdjNqRVpyY00xdWNGWVR1bl8tWFB5MTNOSzV6dkl2eWRpZUFwVUExTms2YmRPOWs2ZzlOS2ZmOWRmM2VzQmljbGk4UUtsNVd5NnpWeXI0TkdsakhrYjljbXM0NUxuNkJ0WWxneC13YmVYeGVXUkVaWE5wdDh6al9KeFFWM0tjMlgzRk1lY01MVk1UZ0oybUZkYVNUYUdQWE1JM3pvZXI0MWJodHhuNWtWV0phQ25OaVc1RTFsRXZWNGhPOVJ3WmNTcmF5NmFZRU8wNXhHUEpFSzM3blNvRm91NmtKdDds?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "The Baltimore Symphony Orchestra unveils November concert lineup - CBS News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZERLeEVYS09zRHZXb1FlVkhMTHp1NFl4TnlFQkw3QlExdGcxMXd0OC1VMWhUbldFVTFvNEQ3M0s3NjlTRnFnNHlLQklRdjc2TFJwYmF6YWtMSE9HSmFQNUxHcnpRTXRWbExjVEQ5cURFdmNqWVR4eGxFNTd3RnZwY1lRRW44Y3FmMi1Fb3ZncE9VQUlCRFRmOWhCWFBHWXhDbFgyS1I5Zm4?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

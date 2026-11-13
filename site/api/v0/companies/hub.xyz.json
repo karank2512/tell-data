@@ -1,16 +1,23 @@
 {
   "domain": "hub.xyz",
   "name": "Hub",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 76.0,
+  "score": 78.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.7,
+      "contribution": 11.6,
       "occurred_at": "2026-08-06",
       "summary": "Form D: $1,915,000 offering, $1,915,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2148604/000214860426000001/"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHFnbE1YbFd3dVJGUVQycERRX2p4aEJyX2N4aUtVTzFBR25rQkFUcE1RT1V1UURJanhhOEdFTGhkNmlwSmZiQkdFS1pjVlZNdHZ2QXM2eVRfZHUxa0FDT1Y4Rks3eGpPeVZ2anhfcndYOThaNmE3eEZsVUFjMmZzZWpsbzFacUtuWFhVQllaOW9wYlRXd0JKZUtSTzRVOUNoU2Q1M0EwZUR4MXQ1MldQYkdDdWE?oc=5"
     },
     {
       "type": "leadership",
@@ -25,6 +32,13 @@
       "occurred_at": "2026-11-03",
       "summary": "appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iN19WUjBzNWVYazFGTVU5MEN6VzRSRm94b1h6dllONFU3WVJaSGRpa0pkR3V5M2ZFZFo0UTdudzB3eDZ0NngyM1BhYXlJeFhMQlhVRkxCWHBoSEJPbjNrZXBXSlBJT0JncmdHQ1RYbGFDdm1kbVVn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "NATA Launches FBO Information Hub - AVweb",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0ya25HMnlMLWFMZ3NWem5LZlhzYVNmeFFLdUV5ZURqUnpjMDBTR1AwZUQ1QWJVMHluOFBfSW5JdnN5SzM2dGdsQmlZYWpmUFVOUjNqVjc1NTA5UHN0cDdnR3c3aUxKbG9iN2VVZUFjNGxsenptcENJ?oc=5"
     },
     {
       "type": "launch",
@@ -56,35 +70,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "AI Co. Launches Agentic Hub as Walmart Opens to AI Agents - Streetwise Reports",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOXzJIMm82MFBOM2FZSVdRTi1MQ2NGV09UalJmcmF4UGFQNFZseE5LNGlXVmJjX181bFdsS0xvMlJjYlBHMEdaQ1VtcmIxRGY4ZXRFYXA5eTBDaV9lYkRKaHRJekxwbV9aNnFXS2Q4VlFNWTJHVHdnMi0xdlp6SlRFVTZkaE1lQ1BrYjd5d2ptX25GenRBb1Jka3dtM1JoU0lNRlFuUXdPY0FnS2UxZWhUako0RXY?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Introducing AD’s Predictions Hub and The Gate Crashers Are Back - Awards Daily",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzJiTmQ0bFRVZE1udVZfS3JrOUM2M1BCLVd2aW1MZ001amNKWnNXWVl4TUg0Qm84N0lOQ0pfTk9Ma3VJN2NXSzhyUnozZnBuSUN2dklHYVpocHhEOFNobC1HVGs1T2R6aUZFLVFpcnMyaWlrbTRWTllKYS15cEhkWDBmRlJSdFoxbWdnb2J6YVZncHZZVGkxZGlnbDN2a0VHbXFXQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Elon AI Hub launches ‘Campus Voices’ interview series - Elon University",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYmNWS3BZR1BFWXdZRDVtbkhhemJHSkluTDE2bS1QQ2NLUG5Bejl4X25QWVloelpKQnlrWmJJVW1WdHpFNWxoSnRiYndnOHo5TG1Kck1zY0VXc0JOTkhCY3Q2WW1mVzBidGJlUmlBT3JMTThXdDR6Nk9ndmNWd0gwUmp5dDdkYjIzM2FHZTlONjJOQ1dsTkE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "Google Find Hub rolls out ‘Notify when left behind’ tracker alerts on Android - 9to5Google",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xZFVhZ1ViSHh5QkJrUUJpdTFiRm9INEJORUxHWjg2VFBYNkhKUUdXaUJKYVJKVmFJTE15bHlKa2xybEJTRjVjTXVOd0F1QzFXd1dvWVFHRXYxNGFZMkJaQ3F3QTE1bENIMzlRUUk2cFZSLVk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-05",
       "summary": "New Carrier Polaris Airlines Launches Moldova Hub - Aviation Week",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkFERV82UDhRamRMbUR4czVFZzFGT0R1Qkh3NUVXRUVVUWJLbnNaWU54V1ZmQ050aTRXMHdQeDd4RGF0TjhPNElYeVAzamVicjlzZk9Mdkg4dWNoNGl5RW5YN0dhMHptNWZoSElIQThONzBzcUkwQ1V0SnhTN0pqOVluazFVTm9TeWgtR2NRZGZWTmtrQmdCUjk0ejlLNzEzTE0ydVZnTHBMdw?oc=5"
@@ -203,7 +217,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Austin launches public Data and Insights Hub - KXAN Austin",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNldPaVNiTFB0U2FCVF91ZjQwMmJZVEFOZXVOc2M5eUxhQjViNnJpVFZIdkNMdFlMckFRMEhsWHo3VEJlazh2Rngwb3RtOHZDak1WSkNabmdyeFl4UFdSQU4yYjFiei0xVWNqM0VTeUllRlRZdThIQnBrYTVXS0lOemcySHoydU5WUjhKbtIBkgFBVV95cUxPS2tjT3lkZmlwc2laaG8yM1E4RzdFVjFpRVVqckM3VEhFOVVXd2k5dGJUT3p3YnQyLVBDeTVDcGJGenE1cDFqVmtXWERsVk9rMjVzcFFxb24tNUVlMVNwbWZJMGFINzJ1VzFOcldXaFRZMExUODNxVnFGVkxMTEtjcFZRSzhVenBBSmpPVmxBcEptQQ?oc=5"
@@ -266,7 +280,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "‘Feed the Children’ launches hub for free food and other essentials in Los Lunas - KRQE",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMEQwd2MwU1dlU3ZuLXpJZXN4S2Z2amRLQ01LS2syMkJYMTh1aTJMNVY3R0luVjlDM3JleGt5LVBDMlBmLTNZajc4OGFoa0lnNDJuTmJTb0dQSlBsa3JORWI4V2YyRXdrd3RMUHktVWFmMkdiN2lxNmwxejZGaTdLVVd3QzFaVmFUSl9OTnBrVGRUZzh5ZVhvTUFVWEQxYnVIUjM4N1Z1Zy1ZcmQ4RTFXNG9XZWxZaGvSAbwBQVVfeXFMUFFHUXhxVmRqeE9nTmlsanRfeXNlT1ZlbVFHdVdqLVZRVjNGa2FFdWp3RnFVWFYtY3dRaXdPVjhpb25WVGNOeG5JZGRTYjB2MVNXRkw4MU41aVk1WW96SjF2bnF5LTNYcWgyN0lFc1dFZjR5MmRKaFhTT2IxWkhMREFvNWNUV0ZZbWxxYml6YlJmeGtuZ2JWamdQQ0JwZG1NR3ZUcEtMcnRLOFRDRTdMNEZUTFBKWDhpNWdmSUY?oc=5"
@@ -301,21 +315,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Monument Health launches second Community Heart Hub - KBHB Radio",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51MlBuUFFaOTBSUmEwZ0kyd3RaU1Q2NVhseU91WGl6a3pjVDF0R0dlbmpoWHprMUZFSklheXFEZG5KM2NQeVFFeGpKUEtiZncydVRUYkNxdWJwbUNxd0Z1amxhNFRPQjUxWWp3R0pnRlliSjJNS3NPUXZjbndzcDA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Apple Unveils New HomeView Smart Home Hub Powered By Apple Intelligence And Facial Recognition - TIKR.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tRHZrMFlyczRWMG1hQlEwcXZkYjgzQ3N5cWhUZVRFNE00S1Z0dzR1a09NeTBWbVpiZktkRnpsN0dnb0s0S0VDZG1HX1dod2hCUGRlZVZUNnhTbkw2cS1TbF9sOHNiYzNIalRIa0VfX25zYWw3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Apple Unveils HomeView Hub, Plus 9 New Smart Home Gadgets With LG - PCMag Middle East",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDhLMFphNjNEcjVXQk9GLThIdHpRRXp5U0NLVV82ekhxTkhBYndkdzd2TjJhWU9XWXFYSThzUi1Ya1hlR1NxU0Q2V2IyMmY0cTZjcmJ6Ym5sRzZJdUJBN2pJazhlcmJOMUYzY29JUUxPQlJJNk84VE9pYVlUbTUwMFlQUjhlVUNiWFE0NG5NQUpvYkQ1eHptaGVBY3EtUGhYRWVkOFNqNV9kaWc?oc=5"
@@ -392,7 +406,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-26",
       "summary": "Introducing Governance Hub: Intelligent, account-level governance over your Databricks estate - Databricks",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlpsb2JfaVRXVFBTX3NaR1FxMGx4ejl4YmVpUE4zd3l2Y0xwM0pLNXg2alJ1R1RuTkowWGpBVnBBS01kU09idGZtN3dHLWd5bXRGaVlFZHJ0X0dpNzNmR0Zqd2MzeTNLb3Ruc2VIZnRuMDVyZWVvTjczLVJrWW5XN29JQlVibHhualNZMEc1TWI0M3Jha1pqUGNISUZDanhsYW9tV2hvZUpSQnVWaGxYQVN5MzdXbmhRUGJVczdpR3Y?oc=5"
@@ -419,6 +433,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

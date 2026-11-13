@@ -1,13 +1,13 @@
 {
   "domain": "hdata.com",
   "name": "HData",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 25.4,
+  "score": 25.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 25.4,
+      "contribution": 25.2,
       "occurred_at": "2026-11-02",
       "summary": "Form D: $8,000,701 offering, $4,100,011 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1810252/000181025226000002/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0001810252",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

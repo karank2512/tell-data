@@ -1,9 +1,9 @@
 {
   "domain": "artisan.co",
   "name": "Artisan",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.5,
+  "score": 8.4,
   "contributions": [
     {
       "type": "leadership",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Glowish Art Launches New Physical Boutique for Natural Hand-Poured Soy Candles and Artisan Gifts - cristinaiglesias.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY2NDOGY0Y1M0LTBhWmxsU0gwNFlCbm42QUZBSGd6SkhHRVBONXNKeVFlY2hwakYzbnJHam9ENGhPTklfX0NpWWpYY0VOX2ZWZVhCNFRxNVptY3BvVWVmbGszNVhFOWN0dWl4QndZSkZQNXdsMUJwZDg1ZDFkajUxNXpKU2Jna3hUZ0VQeUg0azRJaTFIanVjUFJLSGlBZ2lfckFzNjMya1haZEJ3djFwLWlTYXhlVXJIN29rN19Qb1NJMXdGQWdGcXVXa3FmaGs?oc=5"
@@ -62,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

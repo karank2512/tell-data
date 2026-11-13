@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 30.6,
+  "score": 31.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 4.8,
+      "contribution": 4.7,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 4.7,
+      "contribution": 4.6,
       "occurred_at": "2026-11-10",
       "summary": "5 new sales roles in 7 days vs 2.25 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -93,7 +93,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.6,
+      "contribution": 2.5,
       "occurred_at": "2026-11-06",
       "summary": "3 new gtm ops roles in 7 days vs 1.25 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -118,7 +118,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.5,
+      "contribution": 2.4,
       "occurred_at": "2026-10-23",
       "summary": "4 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -148,7 +148,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -169,6 +169,13 @@
           "url": "https://careers.airbnb.com/positions/8282758?gh_jid=8282758"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Airbnb.org launches £1m Medical Stays programme to provide free accommodation for UK patients and families - Short Term Rentalz",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zVkZ0cWs4XzVzbElZYlNKWW5pX3E2VFctYy0zTFYwbnRXQjZHS2VMbXBkUUpEaDRSNXNBclNrM2t5MmtZLS1kNm1VZ3dXcFJHXzljRWE4NkM2bXhwcTZwRkU4dXJKdXN1YXJyVGkydEsxT21leEw4?oc=5"
     },
     {
       "type": "launch",
@@ -221,7 +228,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - People.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0g5bDUtVWNabWhkSXlZRlhQRWI4R3d0OUVMZnFjTklsM0w4LVJ0NmM4eXNFanBSaXZRS2xMYkpLb2J6UDZ0NVRuYnQwT1VQWGFTT3RRS1VHMkNrZzM0N1ZQMzgwWE1QTmVUV2VaUGk4cG10emVoLU5jeUduSWpfdzJJazBzekY2cllyb1N3WGtuclBNVUQweElCUmpiUGtaTXpXcnk0bU5maFlqNjlv?oc=5"
@@ -243,7 +250,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "marketing",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-11-03",
       "summary": "4 new marketing roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -338,13 +345,13 @@
       ]
     }
   ],
-  "open_postings": 218,
+  "open_postings": 222,
   "long_open_roles": 58,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

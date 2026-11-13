@@ -1,10 +1,24 @@
 {
   "domain": "tryupfront.com",
   "name": "Upfront",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 13.9,
+  "score": 16.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Texas county unveils $40 million program to help families buy homes with less money upfront - The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEpNR0RkNWFDcWU4b1hUYzlXLWYxYmdVZ2tBX1BCb181cU1xd2JfRENHSnJhdng0VW5OWndrN3NuMld2bW9IYlR1MHF4cTZqQVFoY2VNUk5kRkRWUEdsWkdGU29aVmVseEZ0NEpfcTdpbzUtT2oxeWZCcVJGYWNqU3hRRXBqdlluaTJsMlRsWU5RdTYyd3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Octo Prints and Lighting launches custom business cards with online design, live preview, and upfront pricing for contractors, realtors, and small business owners - USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOMTlGVi1oVTdSSEJOT1lHcDJBTUJxNzNTS3hRTzM4eDlwNlpYTkczU0JUZDhWZVBTQU84R2ZPNnk5SjQxc2l0RmJyV3doVk1HellUUHUwU2lfY052Q3k1OFBGZGJ1bzJFVmRFWGdCY2dHQkN6Z0J3clV2TGotTFdQYkhaZzdBQnZTT01VMVdxWXVuVk9lNXZDT1l1cm9yaFo5YVJZRFBMY2ZRM2FxZ204bkdYVDlheXA4M2RjLUJpQURVNHZaaFkyNUFmaGtmX3V6LTF6X01jRHVmMUNzaWtHMGtNNjAxaUd6cm1mckczMUVhNk1LM01RMVc0OU1PRHlxX0tHbmU3ME1RcGoxV0hlcUV3YWVJTWZzZTZObXc1aEp6Z2NxSWxMSzlQV0RfbW0wZEt1dA?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -28,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Australia introduces upfront fees for protection visa reviews - The Peninsula Qatar",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX1J5VVg1ZUdHQnhJRHNHU0xIUlUzc056SlM2eXRrR3JMcGNLcDYyd2c1enNmaGQtMzZZOTlIbW5PdHVOZkZDdGRLZms5UzM3Q2dKUXhYMHpYOXNaaVowRC1IWVRqVU10eUZHRzBLb3pHMXhkaDBid202dVo4RlZZVjI2Y2VCck9CdXBRQnZWSjJ3dmdvOFE2RmMtaWpSckxWWks5dEd5QUFSVmlsU2xz?oc=5"
@@ -70,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "DossDocs Launches New MyPortal Early Disclosures with Built-In Docusign® eSignature and Lower Upfront Doc Costs - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSW54YnQ2RGhLMHlwUzBfZWtoaEc2TWpIRDBJbzh0T29GMEtkbTVzNl9CNUswNEsyOFJFdDRuZzc5U2tVaTgzYUpsckxDTWtLUGJmWWRVTWwwUXhuTGhlWGtGSXAxUzAwS3AwZkVMZVZueExKYjNyUS0tdUhrYk8zV3Z5ckFXclpuQWlPV2dNell4SnBuMElfaTNZQmZId3c2YmVXc3VuXzlhb2xwQ19hLU5SbDA2a01DRGZZZ05pUnp1ZkxaczBlMElZSGNqbXBBeU5TTndFaklOTTYxcUJHUWp4SHo0VlhzMThTbHRrT3kzVDk4cVZOY0V3?oc=5"
@@ -97,6 +111,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

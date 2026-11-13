@@ -1,13 +1,13 @@
 {
   "domain": "sendmemo.app",
   "name": "Memo",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.1,
+  "score": 5.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Notta Introduces Memo Pro in the U.S. With a Color Display, USB-C and Automatic Wi-Fi Sync - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLUlOYXpVdHl6VlBSVjFRZVhGVDlGejV1WF9qeUJVT1ZxYURQbUZpRm9wWmdsUjRJa0FFd2FJMU84S1dPakZFR0lCQXZhbXFQMGVkZEc1WGUwcWI3MFd3bFozSTUyZzJoWTB4SmwzLUhMTXpCeTlLbnQxWDlQRjBUNnl5VUxOcW05bTEtd1RiYWhsQi03MG1vU21XQUNLa0p4YllfUTBJeFRFVTFNTXVxd0RSd013QXM1V3doNHVOa2xGUHlrRVlxelhYaUN6WVFMdl9NQk9pSGFrd0E5WERZMF9n?oc=5"
@@ -41,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

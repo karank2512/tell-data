@@ -1,9 +1,9 @@
 {
   "domain": "release.com",
   "name": "Release",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.0,
+  "score": 9.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "RELEASE: Congressman Cloud Introduces Bill to Rename Department of Veterans Affairs Clinic in Honor of Master Sergeant Roy P. Benavidez. - House.gov",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOX0h0dTZqTDlRdmcyb0g1MTBBRnF2MTI3djQ2dC1DZGlIY1lQaU9GTFFXZlJXY3JGd191T0E5SUJJc0NYNFVqeXNKQV9kV1JtS2Rwc1kwMjYzbUoydEV1TGdKWW9mdWtzUjZoVEtSQ3RJS0lxZ05uWE9pOTlpTWs0Tk1LMVp0c2kybUstVTNXRC14RE4xVUNXVHhKRHNJWUJmdkt1NENIMGZQcThPRjNNTVQta3h6U2NfSmRuM3Y4TWlVanQ0YTN4OUJfNUlxOTF0RjBTWk1jc21DOTlERmhpUng1YTNzelBoT1NEbWU5d29sY205ZHc?oc=5"
@@ -69,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

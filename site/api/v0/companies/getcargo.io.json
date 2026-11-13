@@ -1,9 +1,9 @@
 {
   "domain": "getcargo.io",
   "name": "Cargo",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 26.9,
+  "score": 30.9,
   "contributions": [
     {
       "type": "leadership",
@@ -22,16 +22,30 @@
     {
       "type": "launch",
       "contribution": 1.5,
-      "occurred_at": "2026-11-10",
-      "summary": "Mitsui Sumitomo launches construction, cargo business in U.K. - Business Insurance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUJyWS1HYXU2MEJYZjhkaGk5d2hyeEYxcUR2d0ZtMnh5RmlQV0N1a1MteGV5ZU9Na3R2dEYxTFpSckhpNk54YmpzS3V3SHYyYTVwSExvT1BGSWZvUmczSHBnVU4xVmRBcVZ4U0M1SkJvWkRiQWFVZU1MNFZPRDBwY3o1a01uMUdKelpuX3c5TkNrYkJGaC1CQXh3?oc=5"
+      "occurred_at": "2026-11-13",
+      "summary": "CARGO START launches new multimodal visibility platform - Air Cargo Week",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVTFZbVdNc3p1Yl9ueHFzSDZGd2J2OXBrZ1JxampESHEteC1yTUhXa0FhTm0tVWdxSFp4OGRyamhLSUZQck01Q0FpQjIwRmRnQzJXUXBzbEpPcGd4Sk5SemduOEd6NElYdG1JTTF1TWdxYzN4XzVMRDhyOUxDWW81Z1FCV2FRSFpP?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "MSIG UK launches dedicated construction and marine cargo classes with senior hires - Insurance Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYlVqOGN0MUpHWGUyMFZ1RFRIU19rbHZDcF9SOUpPeVktYm1kbUhkQVJ5NDQxekJkREJwYWZMbGdfcDZQb2xPbEhYY2xjSk1iMDlKUVVfX29yVGJMVURLdTlLYTZTWW5Ld2tfS2VBRmlPeVVCSk9mZGxPNjZVdHgtZEJZR1BkdFY1QXF0OThBd2g2cGJvZzktMlJ1QjJkcGljMG82UG44SjVCQWhaNUxXOXhRWUZoa25zNUF6bEowZU04NWNWQ1FGOGY0S0xRdHpVUEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Savannah airport unveils new air cargo facility - Savannah Morning News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGtqUzAtZjltb3FfbWxKaGZVVm9RTkw3T202czZKUVF1UnJDd1gtdkJ0VEYxMEdhN29XZ2RCNTBNbDgtazRLdjdWSGNLZ196UllfYmdnNTEtU0JjbmJ0NDRvNHN0c3Npb1c2TnVrZ0pvb0ZoTk5HMXNSWUo2VVhWc2c4alZYT2d0NnBxb1NuQVJMYzlrTS11d1FjdHVPa3Z5c1cxdml0MFdTZDg?oc=5"
     },
     {
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-10",
-      "summary": "KingSong Introduces the M9 Smart Cargo E-Bike with Power-Operated Folding Front Basket - markets.businessinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLU9OdTR3Sko2N01vdjRrUmR6MkdUUVpWOFFDSWRqRzZUTTJTY3VUWTNYZTJrSm5odmhlOEdwcUhaaDBKcm1SQlNQUHR5R2h2RUZCZGFURG9JQ0ItZkVLeHJfTFpQa2Z1QVR0WUtmVUgwYmVYc3FxZS1RODZsY3AyQXp3MzNsaWg5U2FZZHhaTFlLVTh3NllqZVRFbC1BTkMwZ25pQzZzTllfT2JzZHZjdWIyUTdFN1BHQjRLZFU1b0dBeG91ZlUzelpDemZFNHNvYUZXZi1EOF90N3pMU0E?oc=5"
+      "summary": "Mitsui Sumitomo launches construction, cargo business in U.K. - Business Insurance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUJyWS1HYXU2MEJYZjhkaGk5d2hyeEYxcUR2d0ZtMnh5RmlQV0N1a1MteGV5ZU9Na3R2dEYxTFpSckhpNk54YmpzS3V3SHYyYTVwSExvT1BGSWZvUmczSHBnVU4xVmRBcVZ4U0M1SkJvWkRiQWFVZU1MNFZPRDBwY3o1a01uMUdKelpuX3c5TkNrYkJGaC1CQXh3?oc=5"
     },
     {
       "type": "leadership",
@@ -39,6 +53,13 @@
       "occurred_at": "2026-10-15",
       "summary": "[person] joins Navi Mumbai as airlines talk of airport challenges",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlVSbnhIY1pKejJjRlFETmdqWE9SOGE3dWw1TmM2cEthdmxWY1hkWndmUEc5LWNJdUs5cURIclFmb1FmRjJBaDNqaFZxTEZZMnhQQmZicWhYVENidlNTZXhza2JSWHZIckxTSTlSZkJuSGh4NGltRmM2eGFSaUp0aFRWRmFUdUJqeU51QzV6VHFIQ1M4cmVTdmNHVTlUSkw2MVA3NGdlYnJnNElOMERSQndCTmppVWdkVlYtaQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "KingSong Introduces the M9 Smart Cargo E-Bike with Power-Operated Folding Front Basket - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLU9OdTR3Sko2N01vdjRrUmR6MkdUUVpWOFFDSWRqRzZUTTJTY3VUWTNYZTJrSm5odmhlOEdwcUhaaDBKcm1SQlNQUHR5R2h2RUZCZGFURG9JQ0ItZkVLeHJfTFpQa2Z1QVR0WUtmVUgwYmVYc3FxZS1RODZsY3AyQXp3MzNsaWg5U2FZZHhaTFlLVTh3NllqZVRFbC1BTkMwZ25pQzZzTllfT2JzZHZjdWIyUTdFN1BHQjRLZFU1b0dBeG91ZlUzelpDemZFNHNvYUZXZi1EOF90N3pMU0E?oc=5"
     },
     {
       "type": "launch",
@@ -91,7 +112,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Miami launches AI cargo platform to cut truck queues and costs - Cargo Airports & Airline Services",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzNOTC0wQkhVSGFNYXZlVy1oTFFHaEJKemctR3RFQmRleWZUOE9pODdvem5rMjBxNUh4YUZrRUVVYkYyN0YwM2l2VFFJNmk3b2w5NEZoejlDZUdQS2xGMmhlVC04SG85anpjN0R6a3RkQ3hoWVBJQ3ZkamNFWGhqdVExZUw3d2dRV3Q0?oc=5"
@@ -119,14 +140,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "CargoAi launches CargoMART Strategic Hub for air cargo rate management and AI workflows - American Journal of Transportation",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY29OT0ZOTFVmUGh0V3ZLREUyNVotdXpuQm5Ic01wRUJZTnMwMnZPemcxRk01WjB2cDJRTFhYQ2xPcm4xNzc3VWM3WkRBN2ozQnZBLXBTVzRZU0RkWEFxaEM5b3hmQk9GTTVyTEc2eXhxbnZuWHZQV3ktWk9nbF9sXy1BZEplMUVfbnFQUTFTQlZGQUhvaUc1MkpjUzk5dEQ2dFBxd0lMY1NvSTl6bi1vOGo3cw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "LNG cargo monitoring tool launches amid shipping disruption - gasworld",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRnVmNkJnSXRYaFJMdC03SlpiVDE0VnBpeDBHWC1RTW9PWkdSVm5HeUdTLXZUcEVjdUtPU09kQjRsMHBZcjJTMUhtSEoyTUl3QjRxNlZldnVXcWxkblZrS1ExX0pBeGZRX0ZIMDBsa3N2T0RtN21SYmJEeXEwQ19HOC1CTFNEdTdUV2tyZkxKcjZ0QmlNN2NxMlRFSU12WVptREoxdEs1ZHZELVE?oc=5"
@@ -167,6 +188,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

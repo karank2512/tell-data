@@ -1,9 +1,9 @@
 {
   "domain": "front.com",
   "name": "Front",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Moment launches the Go Front Pack, a vest-inspired chest pack for mobile shooters - Newsshooter",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQy1tSjQwWWJ4aXNLTktPSEk2VF9LdXZJTDAzVnBsME9GcmFGZm5vdTN1V1g0UkdfYzkzMlR5SEppWmowY1JHcmM5SGxoYXlQVkFsQ1NYdTNvaGVac1JadTRnLXZCSEdoY1Zxb3lqaHdZY0hHcGh3OWJRVXZTZHY1eFdFdFFlU2FBSmhwZncwWWhkcnhYQ0s5eXZmWTVaS0V3NkUwVDMtRkhOVi16VTI4clVzcnF4dFdiQW1RRQ?oc=5"
@@ -61,13 +61,13 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVBDVmgtUUo1U1dib3BGQUVNLVJxWHEydUpkRzlpbDdlYVAwOUtjVHpGYm5OTGl1bDRjRFNFYXJqanRwZXJiZ0NBOTRHdHkxX01aRVJLY0JKQTRwcDZXQWhLZG8tUDU4R21BeWVVaXVmRVVaUTQ2Rmt0Q1MwTXlpV19JRmVjV2dwdWNZWDdVVUdhelpxdHRZcmpibXU2S2hiNjRrbmUwN2NBREts0gG0AUFVX3lxTE1RSXZxdXQzR2pVU1ZQZnFGM1l1UVg2blRSaFBoVmFfbHRZZ3BlSzdJQXdYc3lNRllPQnNkbGZwS1ZvREJkMTZSdkZXdTd4a0thbTduU2VtU01mVVd1S2hYYlc1YTZxTGEzTDFmRVFvSmJlcGRDOUoyd0liNGZHcDRHNGVwZzdXVDVlQWM0NFI2Q0JIVUNENUN4NkhlMG5hLUt5OWlnSjFVcWt0T2N3X0VfLU41aw?oc=5"
     }
   ],
-  "open_postings": 4,
+  "open_postings": 5,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:frontcareers",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

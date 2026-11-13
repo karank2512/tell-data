@@ -1,9 +1,9 @@
 {
   "domain": "lever.co",
   "name": "Lever",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.6,
+  "score": 10.3,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "ASV Inventions Announces Partnership with Mike Metzger, Introduces New “Blackout” Edition Lever - Racer X",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLU00dlV3SXkzbmJObDFLOXV6aVRzMzJ5a1RSZENhRUpMZjBkRTNhaHF5VkktOVRjTjVnNEwyU3hpYUxCNlhtWS1QRGxxeUthVDhtWDRWdjB0dFFPRTE4bEl1NkJYRlF6czFkWFJxNFY5NmhMRVo5bENhZWtxWWQ4WUNiRDlnRG9EYVo3SGExM2J0WHlHRWlVNGhxaVNfSklVVHNkQTVRQ0VzSTdqUzU2WjhlRlU4VGRjV2dia0ZFSFlhRjZySEZQR09kREV2T0ROUnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Wyze Launches Lever Lock Bringing Keyless Biometric Access to Everyday Doors - The Joplin Globe",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeTF5VlF1MmVoMFF1R3c5UjJwQ2o1emhqWkJFXy05cDZZU1FGbHlSZThFd0YzUEVJbG05X29vQVdXUFdhaG91eDItRmpOVzRGdW80SEp2dzhoeW1ONVRmeGVjSXBEUHhSQktYQVczclBCLUxtdTNTUDFaeHFobV82VC1uUUZoRUtQUVltT3lpM3BFeHIwZXlPZUZaMWlIMnh4YU1nbmgtYUEzYktLZ19pSVFJR1FYY1JhY2t6cjdTeDlBSVZ6LWlfQ3VKVHZzSTIwTTVVejFndnZycVQ2blc4OFNBRUN2Ml9ZeDUtUTc5cWhTM01HSGN6RV9pOUhPR1J0Yk9DRHE0MUhXQ1E?oc=5"
@@ -25,6 +32,13 @@
       "occurred_at": "2026-11-10",
       "summary": "Wyze Launches Lever Lock Bringing Keyless Biometric Access to Everyday Doors - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHFsTjdsaEFfd3gtalA1N1lUOTI1RXBpMHdlLWdrdUUtZlAxdEZzSkNTT0h6ZzdENkhhMlRqSHlhb0ZUbnVtc1VTc3I5SzlTQzk0QVZlMU1pQmFSYXpVeEl5TTg2RmE1SXdIOHNKbmlKeWJmd2U1N2w1OG9CeEV6OHJ6b0VTbDBvR0g1TWRGa3VRbi1tR0Y4WlZSb1RHUm9JRzVFTElURVVIOWM1SEZnay1FWHdhaUJjeTRMWG44b0NXWXd3NW9hWS1Ma0w0QQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Wyze Launches Lever Lock Bringing Keyless Biometric Access to Everyday Doors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzl4MENDWnhmTlQwYUdtaGZ3TGRSaWRvb3VMd01oZ3N0cWw5MzRXZWlFSFRGYk93elB2OWtZUVFkMmJKTW1RWUstam1NTHhKUmgxalZ2emU4bGEtVUxKSmlZUGpTVTJ1Zk9oX21aa1c2RHF4LTlpRFdZQ0hJd0p4R0EzMWtuaUIxSUY0Rjk3eENueWFsaDJhUXN3?oc=5"
     },
     {
       "type": "launch",
@@ -55,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

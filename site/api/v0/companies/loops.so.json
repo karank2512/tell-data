@@ -1,13 +1,13 @@
 {
   "domain": "loops.so",
   "name": "Loops",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.1,
+  "score": 7.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Minnetonka’s Heavenly Hunks Introduces Dupe Loops - Lake Minnetonka Magazine",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFpJZWZCdUxYQXBfbjJRTWpILXN5WV9ISGJ4amp4VFFiNmxzY1dzMWNma2I1N0ZENGl2WVZyVjNlM0pOWERhWGNyMnpybmIzR3V0QzRDcFVucFlmNlZOVHp3ZXZPYldZVHR1alR5SGNsNHRROUtnWjQxS2piYnBOMTl2SU91QQ?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

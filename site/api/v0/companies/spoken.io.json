@@ -1,9 +1,9 @@
 {
   "domain": "spoken.io",
   "name": "Spoken",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.8,
+  "score": 8.7,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "From Voice to Action: SpeakON Introduces SpeakON Agent, Turning Spoken Intent Into Structured Work - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY0NOU2JsR1NQS3E2MjlRdG9yMW41U2NtTGt6eDhXbWlSdE9YRjZrYnlaVDlSbmU4d0ppcTdqZGlNZjdPTUI1cWNXNGNiQjV1Yk1weGFNR2hzcUZFWUlWakhrU282ZEJ0akFwWFF2T21IU0pxTVM2aXRSejBUdGlEWWIxejVLdlRIQWxWY2hkc2JlNTJUQUIyOFNyblhGSXpxR01jOXJJQl9pLWkwXzhwa0lMV3FuNFQ5cmdpZDRWM014bTMwdXltZ3I0WVVUbjVFQjF3eUJoM3E3aWUzUVA1WnlnbTdtQVluVFAxLU9qdkhSZ2VxV0pBSlVFQW9ZQzhOc1lhQtIBhAJBVV95cUxQY0NOU2JsR1NQS3E2MjlRdG9yMW41U2NtTGt6eDhXbWlSdE9YRjZrYnlaVDlSbmU4d0ppcTdqZGlNZjdPTUI1cWNXNGNiQjV1Yk1weGFNR2hzcUZFWUlWakhrU282ZEJ0akFwWFF2T21IU0pxTVM2aXRSejBUdGlEWWIxejVLdlRIQWxWY2hkc2JlNTJUQUIyOFNyblhGSXpxR01jOXJJQl9pLWkwXzhwa0lMV3FuNFQ5cmdpZDRWM014bTMwdXltZ3I0WVVUbjVFQjF3eUJoM3E3aWUzUVA1WnlnbTdtQVluVFAxLU9qdkhSZ2VxV0pBSlVFQW9ZQzhOc1lhQg?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

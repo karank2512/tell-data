@@ -1,13 +1,13 @@
 {
   "domain": "tilt.com",
   "name": "Tilt",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.7,
+  "score": 10.5,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-22",
       "summary": "TILT Story Appoints [person] Chief Growth Officer to Expand Healthcare Marketing Platform",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmVxZi05dUFOOW5mUjBrcEI0VjZzcDlnVlBQby10YkpENEV5STFidmp5UlJyeFJ3YzhjZHAzbUdtQURZOW1CVFR1RTJLRzk0aGdwdldZLVdCNElSb2NFVDY5WmNNVHVOdGFObDZSZkItSjVNNFFXNF9qazB4MkpFa0l1bTNvd2lxa01VQVhDUzF1TzdmbFpScDhMLUJ2ellTS0dtcWd6SWJBMTNLOHFoRzViWnNOUEluUlNCaHpZMC1Ma1BYV21rRlpzZw?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Who said tilt-shift lenses had to be slow? Laowa debuts Zero-D 24mm f/2 for full-frame and medium format cameras - Amateur Photographer",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNY0p6Y0taQ2ZGZnYtdk13b2d0NzR3UHpuU2FSUkh2MGlaTkNxd3JTRENkdE1leXJMTC1rRExWdlNqVllxbHBxRUM5eEZKbHkxM1NySGVaRk02OUNmTENzVlZkVEl5QVdWVHJUUGN2OUJEU0RaME9zWEZXSXdpeFRiVXE4X2xIZDlpZF9obU1TX1J0NHhKQzhwSGRGWlhwaS1KUmlyVkExbXJ3bVN0VEhsQjNlUUhEU0xLMTJ0bk0zQmVHV1hqWnBtZEFDel9WSTc4aHdmUHkwSXFzbm03VjV0b19WaHJ0eThRR1ZMYWstRlRGaW1q?oc=5"
@@ -76,6 +76,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

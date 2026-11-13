@@ -1,9 +1,9 @@
 {
   "domain": "index.io",
   "name": "Index",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 24.4,
+  "score": 24.0,
   "contributions": [
     {
       "type": "launch",
@@ -91,14 +91,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Fleet Advantage Releases Latest Truck Life Cycle Data Index Insights - TheTrucker.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOalg0b3Q3aDBwMFM4c05sUjc0T0Z4OEZ0cUNfSTdTNzEwXzZEcGhJYnVfZ3RuNjk1bWstVGdjc3BWbWtmeFc2NFNxajFRbEw3TmcxUDdLVk1WOVZGYVBzWTl0eGVnSUZ0MXZBR3FMaGJSYWNiRVM0UDNtNUU1Q3VBeGZqMmxqMHp3Nlk5RFFrcGdFT1JNZ0VjRnY4SEIycE9sLUI0eGNGZ3lJS1p0aVI4QQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Walgreens Launches 2026-2027 Flu Index as Activity Tracks Four Weeks Ahead of Recent Seasons - Walgreens Corporate Site",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTUxZYXQ4eDNxeXJYQ3hCbWVWanFIeElCcTZGLUdMX1JBMTZIS2lmUWR6alMzbklHUkttX2Noa3htM2xzd3hEb212eWQ5S2NGWXBXZzVzbEFwXzQ5Y29ncjkxOUpvcTlZdDJOSl9GMHlUN3M3ZmdmVEhnV0lGQUlmMXlLWE9MWE5Ycl96VERLemx6QmRGTWN6aE04d3U0eHp6ZUdCc1BPNVhoY0FkcjIwRGxiU29uTnktSFc4eWZSRnhkOXFNQlYzM0hEMDdZSjFyYjczZ3ZWVTJ2b2xrM01mSm9zNmRQZFVXbDFlS3llZkxBamZSd2tCR1FySWRXd1JJRkVSLVFEcks?oc=5"
@@ -119,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "GridCARE Unveils AI Power Index to Unlock $350B in Grid Value from Existing Utility Capacity - TD World",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXE5TlhsWDIybnl5LUxuNFBldURIU3dxR2VBdkRpMklsRllmNHhlZmY3aDJTdjcxQlltckg5MGpsNldPZ1Fsc0dtSXhwaGoyc2Z0SHB6TGtnX1dZYUlYV2NTNVFsekNaWmtqSmR4NnBHRzc5bjVwblA3Znk4U1VhelVVYzZPODhzczYxd1ltVTd0ZWZ5TkJzOVRScndPN3ZqdEJVM3ZHMU5nQkoxekgzT2psSUlLeWxmcEEtZmNub25HNm1pWXVtZi1yY0hhZ1NmMUVoUVNjWXJCakE?oc=5"
@@ -147,7 +147,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-07",
       "summary": "Sapiens Launches Industry-Wide Insurance AI Maturity Index as 67% Predict Full Autonomy Within 2 to 3 Years - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcTNtLUJMZEJKdWs4akJFNVp2SW53VzV0WDlZa0U5ektCMFNNMDB2U09kZkJrMDVaU3BHUS1paGhpQ2xDLVZkXzFBcDVaV3c1SWVqcU9tSFdkRm1oM1F4eEVxQkxUNHphT1dyLTN6RnZmekdJV2pIcDU1ajRJZzlwUDF2UG1tcldqSXZBOTNYNnRodjNzTkFkel92WnEzT1R1MjJNYU9nVFlXdjZCbzdYbGZlNTNEWEpIaXgzSlcyWUwxbDRjVnc0eWNxS3Q4NmtzenNOSWdtRnlhdVlyRFhNTS1FSWRCcl84MWgyWmdQR19OX3Zj?oc=5"
@@ -160,6 +160,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

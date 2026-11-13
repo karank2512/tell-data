@@ -1,13 +1,27 @@
 {
   "domain": "trycatamaran.com",
   "name": "Catamaran",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 11.4,
+  "score": 14.1,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Yarmouth RNLI launches in dense fog to 60ft catamaran - RNLI",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWZSa2FfMmhVRTdfR05fcElHbmUzVFVQTjJyUXN4eDhrRGlIYzc5eE9ZRDBCVXpSMmdQREUwSVY4NEx1Szg0NWpPNHlRazFzZzhLSnlOV3Q0Q1E0Wl83QW9ramR6eXpQR0tUTmoyTjVyRHNqRjg4NDJhTFRPWnR6NTJhU3dhU3NycUV6elRVQVNjV1NUZ2YtS1hmcEp6N1N6bGdsZA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "First look: Introducing the Pioneer One PY60 solar-electric catamaran for a luxury life at sea - The Luxe Review",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZVFFSmNGaEpNVFotUlZiVVlmakxTY3BvZ1NTT1RGd2xPOHJWTVAxbThlcWJGZF9KM2FqZ3o4OGdTOFR2S2lMNjRKaExSRXFzSnUzOHdoN1E2VG1iVDBrbFdWZy14XzRRak5uS1piNUZManA5d0RoQkI2c2lnaFZjNmxveld4aHdDc2VYZE5veUI0MlJvbUVKcTRDNlVxU3NjT29jY0tLYlR0czZOZFhsVTNmRFJMU3BKX3RMRlptTHBvSUY0cDYtb005OA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Bihar Government Launches Electric Catamaran Water Metro Service On Ganga In Patna - Patna Press",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZVpUNk1XRkJxQWU2YUNSVUdoeUs3eU95ZUVkV1Q1aUdBUEI3MVJGU2lqSU9FRG83NnRGVExoeFk4Q0F4NzNzR21XUlZOazQ0Wm5QbUFVZ0ptMlZQSmZLdzJtdUVjRnl2TFVtS2Fxd3A4QnhvUlR5elJzOWxsWDA?oc=5"
@@ -70,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Antara Cruises Launches Private Catamaran in Bhitarkanika - https://safariindia.com/",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GSTNMY2hOSklwRzRTU2lCZTk3T1VJa3QtVGhMUl9jejgtN3FCZVRZeF9DcTBXSGcyWUxnMVZrZEFRdmdFLVJZZXVmcExOamhhOW1qaXM0WUJhR3VpbU1qX3RBYnpFTlJXaVdnd2VkMlBRckVk?oc=5"
@@ -83,6 +97,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

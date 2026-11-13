@@ -1,10 +1,17 @@
 {
   "domain": "kita.ai",
   "name": "Kita",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.4,
+  "score": 5.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Amirudin unveils ‘Kita Selangor’ special financial aid with two months’ salary for civil servants, minimum RM1,000 - Malay Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMWVjTXJNblJDbmZ5Y2hzc0pFa2xRS1hhWGxDT3ZtWXd4d0gyQlFuZ09PMjVMUlNhTnBLbzZseTE5elp5aERqX2VVV1J4bVhiWWFzQVdMczVnMjJKV053eWNjNGtNdnpMN2VvR2FvdG1rX2VMeGprRkFWY3NqaU95R3Q1dklBM2M5bFotOVQ3QjNSc0FoSTYyYmcyTW9TekFCNE5VQUhWMk9JWlNpNHFBNVZHVUdiQkRLQlBPa0hZcXZmRmk4TEdyQ2lrcjJGWExybTdNbllJdXlrZFFqdUtlaFppbXI0dEdwMURBaVlHaDhsN1p0RkxOTE1zUdIBgAJBVV95cUxNOHZjRTdrUmxEb3Z2VDZpVm9fYUdUeGgzVXN1MTVBaU5uR1BCSGRoMDFZNGE0a0wzSmtwYmVaSl9YbVVBYmJRMEZSY3hGa0pkRWh4UzM3Zk5JcVlGOTFkMlRXNUFhWmNlakVxTmlRWlpzRUVWSGVkZVZSS1Y4SC1FbjBtczRKdXU4c0FkTm1xbU5KNmtreWlrYjhTMjRYZGtGcEpqM1cwZDZKYnhZbWFGUGlIdlA3d1h1SDJOWUJNcUtIZmdOU2RPQU1DLVBqZnpySjhKRWRCR2JvMWYyejVWbmlDck5zeG1qeUs3djhfdlluZzRIZGVCNm56STZyaHAy?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -21,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Big Tree launches Santuari Kita for mental well-being - NST Online",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdTFVcTVPYTRhajU2Q1VPZHpwNHI3WjR6VlpMS1JiN1ZaeWxRUDRfLVFqcXJwOWFlZEgzWnRRajdUczFjRXMyaTJ2cU42U0RlNEN2VjRlQ3lYS1N6S1ZXYmF3WVRSbG1ndVFzejgzbU9YSDMzeDdkUTFadlpaandKZUREbC1lNkJWRXNNcVBwazZqWFNpNDcybVhiLUJwWnA4U0M1eTR0Zmw2a1HSAbABQVVfeXFMTW0tVE1GMHVtZ2MyZXFFWHVKd2NnSFdTWXA5X3Y5Tks2QkRQR0R6eWlfN2lqcU96TGppbTVzaU8yWGRzbXdGYWxhVVBXbWlrZ2JNc0lET3RtM0RYc2paRXNIdnhvZ1k4bENwM01KTndDaXhOaE5PRUF4YkxYVDNjTHZnd0xrRnRjTXVuMjFfc2stQ015cE1pQWxvV0JtczRZS19XbV9PYzB4d1NMZV9oRy0?oc=5"
@@ -41,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "preciousapp.com",
   "name": "Precious",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Glitter Bug Gold Buyers Launches Precious Metals Verification and Transparency Initiative - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR0x6amNsbzZzZjVBQU5JUTlLbUVXci0wQUZEQ2tER25hemMtTGpTTkxyNXZmWFpiem5oSFFNcks4ZjVnS1dLS05Fb1dLaTAzdXM4UE1OUDZVNDRaRjRwWmZwaUstRFBmSlJ6V3dtcVVaakNBMlZUaWI3OUhMaUdFSFpkM1BrTDhkSHdEUUNYV2hXdnNBU2tlb1BYbkktNjNJQW9hZ3IxMFBNYkFUY1J5aUp5eGd4R3Y2V0I0ZkJET1RrdWc1Z3dJUkxzU19NemxwSHpPZzljTW1UN1hucE0tOXpB?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

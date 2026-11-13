@@ -1,13 +1,13 @@
 {
   "domain": "trymonte.ai",
   "name": "Monte",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 18.2,
+  "score": 17.9,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-21",
       "summary": "[person] joins packed house as Rampoldi celebrates 80 years in Monte-Carlo",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGZzZ2dYSExscTNfakd6LVYwSDNTQlBldEhRWEJMMmhuQU1lUldITXhlNER0NndCc2JRUzB4cDdXdkd2UE5Fd29FT2k2TENreWZ2ekUyNkJIQnFiaWxMYlYzOUJCaGdkNGVwdjd5OU5oeDJSZWdCRUIyTTFDZzF0US1ZRVNxbEozclBUNkFmdUUzeHFiVnpnZ2daYjVSVmY4ekhCaWJlbmRvUQ?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Monte Sol launches luxury fashion brand dedicated to padel - Khaleej Times",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUm5aNkV3elBueDFLY0EtblFpQmVkVE93emdXUzJZMHAzeFdvWC0zamFQX05Dbi1XeUFvVmhxdDJDT1JHcG9Ja1k0ekt6Uk1ZenBwM3pLc3pXQ1IyLWxHOXc2Z0l2OERSUmlsanB5ODN1eUJNbjVDTFJOX2lJSFBBRjhyWEpPcDhRbGFzUjhyVjNmZFhJNHk5VzlWdThXV2vSAacBQVVfeXFMT2dUX2VqamZXNk5SN3QwdktIdG1HdzRrZWtMUmlZaldPaG1pRGtNMVd0WXZLUHI2WjgxZWtNOEx4VmZ5VXFyYUNHZWQtbmlhbjFpeTUxaVFmNDJjZlVmTWdFZGdNWG5OUEFvckFlZUFMWTM0Y1c0dnFKTnRSbVJXX21Sbi1tZENsVnN3SlJzTFJGUGxtWU9oOElDdWtkM3NYVFlBcGRjRTA?oc=5"
@@ -105,7 +105,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Del Monte introduces six new products following Fresh and Foods integration - Hortidaily",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzFyMHRNaFNZOXdhVy00bHllVVYzODdyNHNjMnppRndmdFhRT0lhWUFlYldvbVhzWnpiQUhVemlzQWpiTUhHeEZNdDFGNHZsclpyNnY1RnJzMlZJeGM4M1dJcUFvdEF3YzU4SFJZVF9hclFvRjQ1SGhXMEw1TS14dE83dHYwSHRZR1M5WHdrVUtMcGVNaVpfNFR5M3NaMm5lMkZ4NnpKRFRCWTZpSjJvdTZLRDNsUWNuc0dZ?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

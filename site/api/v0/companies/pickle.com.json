@@ -1,10 +1,17 @@
 {
   "domain": "pickle.com",
   "name": "Pickle",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.7,
+  "score": 18.4,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "[person] Joins Direct Relief as Chief Human Resources Officer",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFFtUGdUdDMyQ000ZWNIT18wNC16S3hLMXVzc1Q0djdVcUZpWm85WmdvRzBRX1ZpMU01MEpvWFFLc0lGdnJ6MUdFZzNBcng1b0dTZ0ZUZGZBZEFJTGpBMVFUSzJrZ3ZvWnBwSXRjTTM2YnZkLWo1OGN6R0ZqTkdXbmxpTVFzZndvUTZsWk9BZ3UtNDNxSXFjelZzZVFLWWxkbm1YOE93?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Grillo's Launches Unhinged National Pickle Day Merch Collection, Including Viral Pickle Snow Globe – Celebrate in Style and Surprise a Fellow Pickle Lover With a Gift; Eddie Andre Shares - Deli Market News",
       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPb2dRVzN2dWpNYzcya0lMSEJPQmtpMnJRdXZCUE55YWdBZmZQbEo2SjM1MC1GcmJLYmR5ajBScjZuRTJPdENod3hrTkJhRHhDUzlFX0dtQy03MmRldUxYWEUxV0NVQWRsLXRnT2xycllfQnMzTDhxenN3ZlQ3Z0pvanJBWEtlQzVUN0YwZU5tX2Jrd2lwRDViWWlXWDJUYmItcXhobUJuUWhiS3dnVzVkZzA5VFBOWVNrM2xKTkhFWkNXZDFSVE5KZjRRYWR1N1hUaEpEV1d5QlBPeUt6NDNCLVBDUVVyUERvRVNTS2VyeEZFa3dtaEtrMlM5OE9KaTFHQ1h4S1RlRy1WSkZuMWJSOUVHaUVFV3BLSUt4NldPU2dpbWlKeDNraWt1aW02azFCWTJRaHJzMGtHV2lCaDhPVW9ScFY5c3UyZ29xdTlYMzg2LTF4STJfLWpQWUFhN1JVT3VQQ3hn?oc=5"
@@ -56,14 +63,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "WEETONS LAUNCHES UK’S FIRST PICKLE CHRISTMAS HAMPER! | THE ULTIMATE FESTIVE GIFT FOR PICKLE LOVERS! - Verge Magazine",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0JOU0JYT2VVUzgybWROLTE1VENmWnFQdzYwV0RrS0JjR0lxM0dlSXRBVGNLZHJJVGhoMEZwa3Fta216ZERVS1Q0VlR3S0syaXY5R09HY3JlaHpDNDlFRGdzdDJmM2ZFT19RdWU3bVd0VGt3bnh3XzhuNVdKQmkyRXIxeUNqSnJCMFB4d3l4VUdZUncwRWZRZVBIa1k2MnV0QmVCd0JBZlJJWmZuSVljSUVvcWJwR2wwWXZGX2xZU2o?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Weetons launches the UK’s first pickle-filled hamper - Retail Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWdhNlY5QjVJUUVBeTZpZUp3WlFJRlV3Yy1Md3NxWjF6OEdoa081Uk1tU1RIUi1xTkdQbXY1SHFIeENyb1BTcEdLa182bWpKOXRfMjE4cTFRZ2d3eTZxZDRmVDZfSzFfU2YxcmNKRVlpVkRFeTFRZE1WSnUzZTk0OUhHQnI?oc=5"
@@ -118,6 +125,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

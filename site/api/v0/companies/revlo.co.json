@@ -1,9 +1,9 @@
 {
   "domain": "revlo.co",
   "name": "Pursuit",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.8,
+  "score": 9.6,
   "contributions": [
     {
       "type": "launch",
@@ -49,14 +49,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "U.S. Soccer Launches Arthur M. Blank Crest Cup to Unite Women’s Soccer in Pursuit of a Singular National Champion - US Soccer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODhidGJYZFB6dTZKT3Ffa2RIa05uVnc1TmVPNE9STTNVOWVqT0NiZFU4d2V2cVNpVVRxWnV1bXViRVd3SmlXekstV3llRDlzRDlGUVZBVkpNVDFmX2VTek4xLWZ5WTBEUXFELTBGelc1b095UURhSnVCdndzN3ZYUWZydkE2RnZLV2dCSkVncnRBNHBneVRQd21GMA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Pursuit Spirits Releases Pursuit United XS Double Oak - Fred Minnick",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYVlOMVFoek0zeFBUbzdSTmF3WnR4eC1zeExfOFd3c0NWcERPMXVySmd0NDRfaTNhQzljNVYyOENZaFR3ZkVyRGlPa0s0YVpZNllrNVdRV0RVakpoQS1rZThXb2hsUE9WVTZNR1FGSVRyNXJtbk5IYkwwT3FwTDRlM3VpZ1FENTVMRHczQVRGWHJiOWNma0c1Sw?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

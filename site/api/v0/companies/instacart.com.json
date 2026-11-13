@@ -1,14 +1,14 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.8,
+  "score": 14.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.3,
+      "contribution": 2.2,
       "occurred_at": "2026-10-31",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -57,6 +57,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Dollar General launches nationwide delivery through Instacart - Mass Market Retailers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONW5HUDFvalVWYXZkUERWdDBjZldFYW1tTmNfc0p1X0NXaV9xeERjN0o5ZV83QkQ2QUJrejZuZlpZN2xfR0dIWHJmTFdSN0NEOG9DRThMQWd2ZjNnQVFwdDZkRm1mV0JEZU1qZkNjZjhOUGNtLUhWWEo4R1dQT1FsU0VEdGVNV2RmS0RTTGEzYVpNcjlwb1BVc3l3?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.3,
       "occurred_at": "2026-11-03",
       "summary": "Instacart Introduces Sponsored Listings with Promotions to Help Retailers Stand Out - Instacart",
@@ -79,7 +86,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-11-11",
       "summary": "4 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -141,7 +148,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "ml_ai",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-11-06",
       "summary": "3 new ml ai roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -215,12 +222,12 @@
     }
   ],
   "open_postings": 92,
-  "long_open_roles": 26,
+  "long_open_roles": 24,
   "sources": {
     "ats": "greenhouse:instacart",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

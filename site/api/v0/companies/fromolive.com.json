@@ -1,9 +1,9 @@
 {
   "domain": "fromolive.com",
   "name": "Olive",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.9,
+  "score": 10.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-11-06",
       "summary": "Olive Branch Fire Department promotes [person] to Lieutenant and Public Resource Officer and [person] to Division Chief of Fire Prevention",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX056dUtfYlMwTHQ2MFp1RUp6eGhXRk1QZUdpc0psZE5JZ1k5QnBUVno4LWt0OVp6ZVNuYTFhc2dqZ1FnMXVOWDBCVV9Xbjg2XzByQ0lmeFJLUWtjaHJrOGp3Rkc2V3NQTl9zUFlReXZUdVVWN2U2X0JNVkpqaDZzRWx4QVc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Stellar Snacks debuts olive oil-baked pretzel braids - Food Business News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFlrUkUwNWMwTXIxOERYWjRNUXBKQktXLV9yYW90aXhhVDlaT3BoeXJNSmlwWkFuWXlVZC10bDBiODJNRkppLVQwRXl4a0NzLVIzN1lhQjg5NWdjblJHai1EcGJrLVpJSFNKYXJnV3BPcUoybVJaYWZRVlZXVm91ejRobk1qUXI1NnBta29iM3RMaEUtYWxtRjZyajZ6a0FWU0E?oc=5"
     },
     {
       "type": "launch",
@@ -49,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Gratsi Launches Olive Oil, Expanding Its 3L Box Format To Preserve Freshness - Nosh.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlAwWGNPVURfU3BRU09rQklrTTg4NjlWUnhROW5XbEs3aW12TmxYcEVFR0traXBjRHpLa1h5dGxiY2RfQlUweW5wczZXaFpsR0xLdEc3SlRaY2x5QnY2ekdxcEdKaEdpYUgxcnZwRlJFd2ZaQUJMZzluUkNxLTFhZjJsbDJlMkZCZGVMMWRfcUE3ejk5NUExOGdNcDBqeGp4WV9BNFlrWFBPTGxhSlNN?oc=5"
@@ -62,6 +69,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

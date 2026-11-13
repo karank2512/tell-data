@@ -1,13 +1,13 @@
 {
   "domain": "bernardhq.com",
   "name": "Bernard",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.1,
+  "score": 7.0,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-10-27",
       "summary": "Super.com Appoints [person] and [person] to its Board of Directors",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0tjWGl5LW1ZMk1rNVpPLTRpNTlZV0xZdW5xYzRNNWFzQjNQc2ZldXFMdVBfTExnbGlzbHRKVWZXLWdhMXNtNThUeUEwR2pFaVgxU3BNLUFYOHZ6ZXpqNE14aENiMVM4bWFydklzczN5VWpRdEJGWVRYTUc1OE0xMGlUYm12WGhES1M3RWFkblBPZUZMM2FyWlhNMA?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

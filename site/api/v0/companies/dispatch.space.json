@@ -1,0 +1,32 @@
+{
+  "domain": "dispatch.space",
+  "name": "Dispatch",
+  "as_of": "2026-11-13",
+  "profile": "default",
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Columbus startup LWNN launches Prelay to help outdoor contractors dispatch crews around the weather - Ohio Tech News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWDFxc2xSQXA5UFFxTzd1TGQtSmVOOTBvdW1VbVJ4bDM2eFVOV0R4WXZBbEtNRU5sTjVZREZlTHJnSEhHT1pJbjdtd0ZtOFhhSVdSMHBzU3VUZ2lMM1AyUmI3bHJrYzQwZzM5NFdOQ0N2UjU5UU5VYVlITFI3NS1qSGpCMDZYQkZHaUU2c3Npa202N3FXUW5zWmVwMk90bjZUNUE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Dispatch Energy Debuts 4MW Fuel Cell Site to Power 3000+ Bridgeport, CT Homes & Businesses - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLVVRWXltUlhzcFVLcUhsTXVxc05CZ3pNYTNOdldFckcwTlNkMVNBQVRzQ0pydHd2ZURScTUxd0U4LUNzajFqWkgzdk4tRlUxUmdpZkpSdjZJRzVSNm1mZlRrVkE5ckNwQ1lmRVVJNjFMdXViSkFjVU51UzlnS2MzNmptZk8xclZzeEVrbEtkSzZHZw?oc=5"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

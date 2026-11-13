@@ -1,13 +1,13 @@
 {
   "domain": "doublehq.com",
   "name": "Double",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.0,
+  "score": 5.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Toyota unveils new truck that may make you double take - WFAA",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRHFFTEhfRnRyRDV1Z19qcThkNnJLajBFMDZGNnlWS0w5UGNDd2IwNVhxaUl6dC10eHphWE50SXJ0QWlvdnprUWVvbDBJTXU1Z1BleWpDZVlYV2I1ZFo1Vzdva2ZsbDFqVjNBd0o5UTdjMnZPb2tFM3FYWDg0MTZBdmE4THAxQXNiQ0M0ZE9OYVAzSlhsYjNZbGhhbkFVbmo0OEp5amJhSlU1Y0hnbDl5M3JnX01CVC1URWZFYVFSeXQzXzZuNk84?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

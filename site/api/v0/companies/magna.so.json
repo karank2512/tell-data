@@ -1,10 +1,31 @@
 {
   "domain": "magna.so",
   "name": "Magna",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.3,
+  "score": 8.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Magna unveils 2030 financial targets at investor day - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU3NqX3dxMlZ3eWJjdEFqenVBNGVublNSRHhISHk5dHhGZnNCelNGRnJtR0hZSHEzQldnODRHWGxVd0sxVkJMVG1SbGVHY1pHQ2VGQUpEWC1LSnJ3X3VpRURlTVc4OXJLai1hckhfUzJDXzZocFZ1WFdJYktqWF9rcU5xY3RmYUM1U044LUcta0w2eHlwZ081T0dXR1g4enAzaVJ0dF9tYk5CbTJzRC1VYWJVdzBSUEEtRkZBeFQ4NWhIbU5rVU9wTTdZQmkzQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Magna Unveils 2030 Financial Targets at Investor Day - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUFrZ1dkem1QY1VZLVc3Z1NUREx5S3U4QnZNMW9TVXNyd1QwX1doVTBiRFhNUlg0dm5TSFc3V0pOTmlfalRfc0pRRWxsVHlMbV83RkFRLUdhYXlHQzdjc2R0YU1xcU4xcWpoejZDbk4yS3Q5QmtoQWJJR0xBOWZQZVFaeU1kbHhOSFhtM3l1Q3ZweHItck5MRm5MZ21MMTYwUU5hYl9FRms3TFlQTVVOWlN0bFlLNnUtaXd5TFBvSU1aNTRk0gHKAUFVX3lxTE9qS3U2amZpNDU1NEs2cElLTUZmb2tfWXZCSDFzYnJjUG9XSjZTelJUUWhvVkFqNUZMZkt2WERzdW40cEZQdzdZdUpKaVBXcDVFdk11U09JMlZxWnBwMlp2c0EzMjNJWWpBUVJxSTBKa3E3alRubHdIcFkyeTdXYm5FZUlUQzBwcHZiazR0MUhxbXNnWFl0YWt3TllfeDYzWGJUdjNXaUlzVDNzRnUzX05aeFlHVFdtTjB6S3dHWEFzNGtlRV82aEZDWVE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Magna International Unveils Mid-Term Financial Targets Through 2030 at Investor Day - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0liMXdYSW1rTGp1bGlyeWxTdDJFdk16NVllU1ZDdjVLQi0xeUdKcS1vdXJGX3ZMeTNWRnkwbHZPay16WUNSdTBWRm4xeDl2cm9JUS02QS1qMU9rY0stV3llY1NnZXdJbnNqcmk0WDEwZjU1MWZ5YlhDSjJKTmdLVHVjZXR0X01IbkJhNUlMaEgyRmRCVDdOS1VhRGxOYlhSNENwMFRJQ0JCU0hBdDU0cGhfcTFUVGc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.1,
@@ -41,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

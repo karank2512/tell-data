@@ -1,14 +1,14 @@
 {
   "domain": "brex.com",
   "name": "Brex",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.3,
+  "score": 15.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 5.0,
+      "contribution": 4.9,
       "occurred_at": "2026-11-12",
       "summary": "5 new sales roles in 7 days vs 0.75 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -73,7 +73,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.1,
+      "contribution": 2.0,
       "occurred_at": "2026-10-27",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -143,7 +143,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "product_design",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-05",
       "summary": "5 new product design roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/brex",
@@ -172,6 +172,36 @@
           "title": "Senior Design Recruiter",
           "posted_at": "2026-11-04",
           "url": "https://www.brex.com/careers/8931335002?gh_jid=8931335002"
+        }
+      ]
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "engineering",
+      "contribution": 1.2,
+      "occurred_at": "2026-11-13",
+      "summary": "4 new engineering roles in 7 days vs 1.25 baseline",
+      "url": "https://boards.greenhouse.io/brex",
+      "postings": [
+        {
+          "title": "Senior Software Engineer, Frontend",
+          "posted_at": "2026-11-10",
+          "url": "https://www.brex.com/careers/8935856002?gh_jid=8935856002"
+        },
+        {
+          "title": "Software Engineer II, Frontend (Banking)",
+          "posted_at": "2026-11-12",
+          "url": "https://www.brex.com/careers/8928935002?gh_jid=8928935002"
+        },
+        {
+          "title": "Software Engineer II, Frontend (Banking)",
+          "posted_at": "2026-11-12",
+          "url": "https://www.brex.com/careers/8939938002?gh_jid=8939938002"
+        },
+        {
+          "title": "Software Engineer II, Frontend (Banking)",
+          "posted_at": "2026-11-12",
+          "url": "https://www.brex.com/careers/8939939002?gh_jid=8939939002"
         }
       ]
     },
@@ -261,13 +291,13 @@
       ]
     }
   ],
-  "open_postings": 284,
+  "open_postings": 287,
   "long_open_roles": 114,
   "sources": {
     "ats": "greenhouse:brex",
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

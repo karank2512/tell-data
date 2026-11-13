@@ -1,13 +1,13 @@
 {
   "domain": "getprompt.app",
   "name": "Prompt",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.8,
+  "score": 12.6,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Instagram Launches ‘Effect Builder,’ A Prompt-Based Tool For Creating AI Stories Effects - Net Influencer",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW5veTFvcWJhVThrZXJkTlJUdklnc3FWbTh1R0lzYWgwbDIzY0N0b1dXUW5xV3I3TUQtekdLY3BwQXVxdVNpVkhiX0dXY2dzZHd4Y0lDUi0zdS1qdjJBeEtfalJUSm9KQU9zSU9yQmkzemhhMENjVkR4UkM3LTl2NmhWVVJkZVNPaUZwTVVHSnBYb05fMUMwQUR4SUs2R2huWjVXNVppN3NtV1hFV2QwbGJ2RTQtQWs?oc=5"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "PromptHelp launches free AI prompt and workflow directory - Lohud",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYllBSUxKXzVueTJwclZlblE2aTktQ19RWEl1ZkYtcUhma1NBLUJVc3lTZjJ3UkV2bUFXNzRsX1FFMXU0MnFaSDZPV0RQQU9EMUs0T25fM18tQm1pT0dqaUNEbW0tNXVTcmgxR3RIeWFuRXBuTW9hbGRSc18wdDl2Yk9NRkszN0Z1ZnM2Ulk4Tk9ZMDdDVE5IQmJORklxUnB5VzBKVEljU3pTd1U?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,10 +1,31 @@
 {
   "domain": "clear.in",
   "name": "Clear",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.8,
+  "score": 13.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Hanrun Paper Introduces Clear 3D Label Film and Integrated Production Solution - WhatTheyThink",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZEVlWS1kdUZkd21INi1yTGxNOTZUT3lQcEZ0WnJxOWRtSWQxdUEzS0htbVZtLVJ0c1FzZzhLSzEyZDkyMksxVjJQNEVEemU4RWh1akRyR2N4aXJEOEI5MkRQMHVOamlNTFN2M191RFhVYWp3alRHZ2JQUk01TXhKUUZfZEdkWGFZaVJkZHJoVzlXRWNpcGNsVTROTmxrUDAwcjV0NFNSTnd3bmlPRUU3WUxKTQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "VA Launches Redesigned VA.gov With CLEAR, Passkey Login Options - MeriTalk",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYkFtYUpidndWd3RMOGl3el9ibC1IanB3cXd1NklZdEFVZThfTGRTZ0N3WTFqSEYtam4wOWpGeUttU2ZsWDJuR0xJVUR3RDhSbml6YW41YUZQZktTUGl2T0pIQjlhR2tjRnZKajVHTWJvd3g2OUJLX1FYd3MwNHp1WVpMMkxBMkNqdXItZURCMUxXM1ZhQnByNzJtTWxjUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "CLEAR Launches Updated Travel App Ahead of Busy Holiday Season - Travel Pulse",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlZ1Q2FPdUE4Nnc4S0hWRnQ3S0xmSXZrOTBjcHdGX1lvV0lEdXplc2pUMXZCX3VyWXQzcHQwZ0tPd0o3ZEpYWHFGbGd0b0lpeW1PcWQzYkl1ZWZ2ZlB0dnNIN1JiNnhOa3Zhck1pUU0wTzhuWUtqSll5RGlXby1tQ1IyUzdnMWw1ZkhBME1EUmMxQ3p4SjRjay1hQ1dnU3YzVVdHYk1PWmd5dw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Former Blue Jackets radio voice Bob McElligott launches Clear Breakaway - WSYX",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjYtNDQydDBVTU1zbkFaTThOUFFYVHVBRzgxZnZVaWtGMzhDTnl1S3F6S3g1dTFCMzh0TFhsLWp5QkV0NlRZWl83Y2dfNGxVWFJNNGpXOXppa3ZvXzJia3pJX0NMcERMQ0lSUG8wSU9mWWhnaVJaV0ZGOWdwLThVZVgwenBQdTNSSGZBZ185Z1ctWGR2cGdSZjVFZDJWanNidG40QVJqN2xOOTBLUXEzdEw5Ri1pUHVLZE9sbkF1QVFmX2FTRVE?oc=5"
@@ -56,7 +77,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-08",
       "summary": "VA rolls out CLEAR login option and in-person identity verification pilot - GovExec.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMXFaX3psVWlJQ2M4anBJS0tvcDYyeEo3RGdHUnFHYlc4YzVpd2hQZThURmI3RzNoaEVlYkY3WHZPR2JRVXZhZmpyUDBaNGxfUlRLMEQzXzdjeC1nQy1sZUZLZUJoUUtnazVGWllUMXNhZUFFRTVvd1RDMFhrU3BrWmszWWhPaFhNV1dZMF9zejdJSzhTWWI3QWlacWxpRk1lb2h3V2ZMRkFHanppSURGQ0FwOGZmcHMzYTFsTWRR?oc=5"
@@ -69,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

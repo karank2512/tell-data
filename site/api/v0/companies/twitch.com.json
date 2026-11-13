@@ -1,9 +1,9 @@
 {
   "domain": "twitch.com",
   "name": "Twitch",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 15.9,
+  "score": 15.7,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Richard Vlasyev launches Raidpop to help streamers grow on twitch ahead of GTA6 launch - USA Today",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXViZ1hxQXNIUklXQ3JFY2hnSGlEeWpjcGxDdVdTdkVNcGpyZnZTb2xLZTlTb0lVRHRIdWpxUkQ5YkY0c1BtZE9IZ3JjWWMyelJfQ2RTNExuUmx0andaR2dGWUdjWjltcDRocWMzMFZRZ3FoTTdrMEVnZVdmMDl5SEtRSXJZLXp5ZURoUmlvWnZRYW5hRWN1cDJvVGVDWkhtM0ZmUlJ4QnF5RGVLeHRsWFlqRWQtQnozcFN1U0E2OEJySTFMWmNtNUlXaXdyT3lzeDNCTQ?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-26",
       "summary": "Ahead of Tomorrow’s DLC, ‘Halloween: The Game’ Introduces Twitch Drops - Bloody Disgusting",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXV5Q3VlamFSTXJwd1MxVkt5SlZNb283eXZfVnpNajlNTndVLUFnX2o3TDAyYmVXQlV4dEU5X1NxUk9Vd3d2X0pnbzVXbEI0Z0s5S0RRZjNKVHU2SUVKemhDRnhhYnlRUlRRRjJPTktZdGhpNkNwMXZuLTB3WE9tSnQ4Y3NHODJaUkV5Vkk5OHJjTkhycjlGVFMySV9lQjdPbTcxVTdzeDJkd09IUFo4WWxfQjRnbWs?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

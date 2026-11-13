@@ -1,9 +1,9 @@
 {
   "domain": "useglass.ai",
   "name": "Void",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.0,
+  "score": 6.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-07",
       "summary": "Aiming to fill a void, NY kosher-style deli debuts in Jacksonville - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcTdheVRSQWtVbk9GUjVoX1I3UXRXY3RWQU9ZUXZRYllTYXFBTkp1RnJsRHJKeUtmR2pyMzY2NEZ3Y0tIYzQ3NHdaS2IxelBaUHhLQU1NLXljSTF6N3dBUDJpVjNheVZaSDUxUVpIczk4QUtSeHNsODg2dnZRbkQ5Rldva1gzb2JoNlE?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

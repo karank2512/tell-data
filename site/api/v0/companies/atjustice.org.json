@@ -1,13 +1,13 @@
 {
   "domain": "atjustice.org",
   "name": "ATJustice",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 18.0,
+  "score": 17.8,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 18.0,
+      "contribution": 17.8,
       "occurred_at": "2026-10-13",
       "summary": "Form D: $500,000 offering, $360,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2159536/000215953626000001/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002159536",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

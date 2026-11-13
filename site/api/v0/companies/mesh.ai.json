@@ -1,9 +1,9 @@
 {
   "domain": "mesh.ai",
   "name": "Mesh",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 52.5,
+  "score": 53.2,
   "contributions": [
     {
       "type": "leadership",
@@ -11,6 +11,13 @@
       "occurred_at": "2026-11-09",
       "summary": "Mesh Security Appoints [person] to Strategic Advisory Board",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmtaQlRLSDRURjJZbzRwak43REtYVHpEMU91MWlicURMbGhCQUtHMTZ5Yi00UlhPUTBCelRtMHh6X3lBUndnNkQwa2hKM01PTjZjM1UtRVdLd2FvM1d0MnNEN1lFSmsySVAyZzFtVnFMZmFNSGtLa3ozUG1tYkxXQXlzT3ZYZ0t1M1E5UlJGX3h5aGpyYmZUOUFZQ3F0QQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "SENA unveils Phantom KV and Specter KV smart helmets with ANC, Mesh 3.0 and 4K cameras - Motorcycle Sports",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2NoaFduOUMxSUlNNXZzdi1OcVZ0YkJDdF96WENtWjl3VEo0R2ZQSFl4Rml6SXdabldEbk9vS3c0b3A5bDdtaHVGVDFyMjRXWXFyeDZ6SG9NNTUxNlZrdkdkN0FTa3JhUTQzUVRIaFlWRW5ZOGRPdmx1WVdVMVNTSE1VUVB6UEZ5NW5lOFA5OEJxZG5ZSF9VTjJ6VE9WcFFReGlHd1gyNGwyZDY2?oc=5"
     },
     {
       "type": "launch",
@@ -140,28 +147,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Oracle launches AI Security Mesh with OpenAI to boost enterprise cybersecurity and speed vulnerability fixes. - Pluang",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53S09iRGFlUlVPODNnaUREaEIyc3BINWRRRUVYWFg4WGF1RWVHM0pQejRmRm1iUXRqb0RFT3lyb3pUaWtPbVA5TWlDT19MOWl6VTI4M3lodHZUblpHV3Vjc2t4S1E1alUwSGdWcWxET3ZETmFTbjc3MU1B?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Oracle launches AI Security Mesh with OpenAI to detect vulnerabilities - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUVZ1ZkxMNktfZWR6cjZBZDdadTFNNVFxaU96Yk03OFMtLUlKSmdkMlF3bS1tdUxMcjBvblpVdmRBeEhURUVFQU53Wi1vd0V6OFBCUE11dDVraEVmSVY1V3NtbG8yN2dTekwyRFpZV3ZkQjdFNGtBZjY1cnl2LWR1NnAwWVRQSTNPaGFETmYxdGZBdDFXb0RhVXZFZE4yWldIdnhGZVBTZndveWR4Q2N4b0tTdXFBWllNN2FFZHhGSnJuTm04MlNIaA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Oracle Corporation (ORCL) Launches AI Security Mesh Powered by OpenAI - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYUJXYnRVOUtKYURPZUtlSzNKLUhnanhPeFZ4c0Q1SlRMbWplR1pWVGtTMFc5UVR4dEs2aTZBend3NUZaMUk1SmhEYUU1UWdJWWlZYno1UlgzbDlzbEVpeTZNaGR0SjZmNTNMZlFQZGkzdXJJa1FKMy1qNkNzTW9XYzNrVFh5a0xqdzduLVlZZDlkWWpWZEhCaWhLM05vX29scFhFNXE1a01pQ3ctak1lUGh0OE84YjZiLUdfbmVDWVZOQ1lFV3E4Ng?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Cooler Master launches Gold Editions of its popular MasterFrame 400 Mesh case and MasterLiquid CPU cooler - TweakTown",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbWJwdUtyZ29jbFBqbG5ZVElvQ254bzdpV1BHckl5c3hTYUZLSHlXZnl4eEdmQkh4MWYwSnV5ZXBVLUlDcjUxX2hRa2RXMGdiMzV3cDA4SEtUXzFpZXBLMjJBbXI5SUJyWXNiUGdQODVERE5Qa0x6cVV6SmVES3RTalpPR2c5LWZ0TFIxVndleW83bUFXemxBOXpfZ0tWRE9iZk90eFhZcElhVWd6LXo5Q3FaOGNrclVnX25PdDU0UzVoRWZHNTVja2VoMDltRVNWWTF6akJsN1VvQ19sT3BVQ1NvTlkxaTZHT0E?oc=5"
@@ -182,7 +189,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Casio releases two new vintage watches with stainless steel mesh bands in more markets - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1dUMFF6aE81N1BnaXRsM0pWejAzRFVZNkJoRThzOGhBTENWZjgxdm4tb1d4b0NnRG9HRzhqbGw0SFNsaE1ZbWFfY1lYVndNekZXbkluTHNFbDZ1NmxrRVNDOUtseUY4Q3BmV21kWUk4cHJ2S3J1dzJyMWt6M0hYS2FGMHB5Q3l6eTd0aVFwdkIxWjAtYjhveHVmSlpUbUhRSW1ZRGUtaWZ3RElrR3hpQmhnanJIZkM4cDdiRVJUM2FSV0F1bmNwMkZkWQ?oc=5"
@@ -210,21 +217,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Puma introduces Faas Lite Mesh 2.0 - GolfWRX",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kTmotM2t3aW9hNEM3UXl4aDlJa2owRlAtNlVhTlUycnBKVll2Uzktc1BuWjBJa1JLNzBNRVVjb2dDRGxfVExnZExObzZkTFozS3poZTVlek5TNkZfYWI5MA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Mobilicom (NASDAQ: MOB) Launches SwarmiX Secure Mesh Communications Solutions for Drone and Robotic Fleets - USA Today",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYmplU2dsZ0NsRHA2QzhIcndKUTctWUdaZE5CX0ZsWVJUbDI5V1lfTTR3ZTgtbUZIQzlqTU00ZUpCaDRMR1VhOWZlbVA3Qm0xX1J2dVZ5UFdvUjVXVEszNUw4RXpic3Q3bFNQWV9ESmlzR053YkRvVVpNa1RfbUpyZS1WT0duc201bUkwU3BSa0pzVFFsT2REcmtPZUhnTEE4amR1aFlnZjcyenI4RWVHaFRKTmpOUkZZYk5sQVNNUlNlTklvam51bWl1TXJReVZNamg4Zk12SVVkS3BsX2JPa0JoRERhVF84MFZ3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Mesh Launches Link Chat to Start Crypto Transactions With Natural Language - TOKENPOST",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wWDlTRldVRmVxTXF5N2lnejlScjdhTlBwSXljTUZWUlJBOXFTMzR1c1VHODdTdmMtWTFEX3JLeGF6MDU0Mjh6elVpa1pmQVlEZGhVQ05UQ0RxODA?oc=5"
@@ -349,6 +356,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

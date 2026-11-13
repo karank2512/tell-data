@@ -1,10 +1,17 @@
 {
   "domain": "tryfinch.com",
   "name": "Finch",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 1.7,
+  "score": 3.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-11",
+      "summary": "Self-Care App Finch Promotes [person] to Get Through the Day' 05/21/2026",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFZQVXBxTXByQjlQZWRVeW1yMXN5bE1sWlRiY2NxakVhZ3lqN2ZGRzgyd3dXZDdmVF83N2FDTm43TmZPcHBFb0x0ajZoY0xGUVgwSXMxYTJZT2pPUGpNZlBVeWpLWWJYbkdybEJxdEZJbzBTYWw1M0ZmaHlLOUJvU1NLQ19ZOTJhLTFzN2dOVXYzZlBUY2w1VnNGbEFFMGM1ZW9hQnhuOVY5SHBI?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

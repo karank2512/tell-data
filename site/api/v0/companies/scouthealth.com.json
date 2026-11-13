@@ -1,10 +1,31 @@
 {
   "domain": "scouthealth.com",
   "name": "Scout",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.0,
+  "score": 9.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Dronetag Launches Scout Gen 2 Remote ID Receiver With 5 GHz on Every Antenna - Commercial UAV News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYk9nLTdCUWhwc2lRbWRTYWZ5V0d0T3hidHRBZUhDMFRkYUh4WmlyVlBVdzBSNVh3Tl9JU2xySkotTUNCazJjbDJveks1aGZiMDhwZlh3X3p6bUJaM3FqVnMxOUdMQkRYTUZsSUtQZ0ZmZlF2QmZwRkZiR21JdlA0MVBTQW9Gdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Dronetag launches Scout Gen 2, the first Remote ID receiver with 5 GHz on sector antennas - sUAS News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaFRjRmFxZVpJM3MtWlB2NHZHcjZSZnpVcmxQQTBNbWtOZTAtZ3M2X08xMzdyNm5ZLV9JemZuNjNtLUxNM3F1UndhVmFKcGxjUEIwbm9SWTQ4Vm40alZOXzZHODY3MWM5MEdFWld3Y1RkVlVlbUQ1YXZxanhvUTFBR0VTTU4xWWFJX3BBYndTRmhRNWlZSWFlODQ0UXliYVhKQWpnR3VrTW5OOE9ZbG41MzExQWh6VFAwZ21EXzAwZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Local Boy Scout Unveils Veteran-Honoring Project - South Sound Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRnF1Q1dZT3AtTTlWNFZPb091YzFkZnNpZW5DNUxteHJSc1g3Yk5OZ2ZYWmxQRE9teklxLTBQWVpHMXBtUU5uOGRGLUxheXE3d0daY3h5OS1oN19VQjVaVHh5UEZuRFNJeWZiYXJBRlZBdWtOSVE4aFFJOVZibDBwdWJYQkhxdFRpQzRrMUZNQkdPcWZxME1rTUpMWmlmUUNSaUg2R0dLS0xucWFkOUJQSldhd1VUMGVIaEg3TUtKYXZ1akpLR3BXSERQVDZiekk1bnpEYTlzRUMwSVU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Local Eagle Scout Candidate Launches Oral History Project to Preserve Bell Labs Legacy - TAPinto",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOVVzZVBXWjAxVVdDQUkxQjBuUUJ6cGcxWkhLdlc4MXJERXdKUE5ydS1rNWdpSGR4ekFTazVXd1M2bnZxNzBPVUl0TWZlWDJIemdXTVZJcHdRaXQ5N2RNSm9feHhUYnRjZW1Wd1JJUzZreUZ6c2VwYWtGNldhYWxqLVNTbWhUYkRsUWViRm9hbGd0dVl1cWViSXZaczFvM0JvUlVJdnFGaTZIR3BMR1BxXzd0NzRRZUVPMDdWTmE1NjA4Y25UZUROcG9pWFhYcWtQVFZGQXl1bXAzbFdzOTJCX2FzbmtJalY1c09RZHpMOUNXS2FlZXQ5RFlBeHU5eFI1Q3c?oc=5"
@@ -41,6 +62,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

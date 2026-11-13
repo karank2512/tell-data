@@ -1,9 +1,9 @@
 {
   "domain": "usenash.com",
   "name": "Nash",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.9,
+  "score": 7.8,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "KATE NASH LAUNCHES NEW OFTV SERIES EXPLORING LIFE ON TOUR, MUSIC INDUSTRY STRUGGLES AND UPCOMING ALBUM CAILÍN - Verge Magazine",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDc5SWJ6bWJOU1F6eTNnNVEweTltWHc3SEYtZUpLZVZ0cm5mUnhkUG9BbEpURHdBd1kyb1A2Z0xDTUFCZ2RQRGRwMEtaVXJGU0M5Vk5sU2RkdnpEYm9RQXN3dFpPbDdiRlN1OTBqYUtrRTZUNzhGdUV5Rm8zcEFmR0gtV3luLU85SnFBQm5oUFI4TURKVlVKQjhEZllNU0JMYVhPdTRrTDBHODBKNlBmQmhTeG53SlZFTTdwcWJuTi1mdjVPSi1FVGpHenlYdS1xdy1v?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

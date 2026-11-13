@@ -1,9 +1,9 @@
 {
   "domain": "aercompliance.com",
   "name": "Aer",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 11.5,
+  "score": 11.3,
   "contributions": [
     {
       "type": "launch",
@@ -56,14 +56,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Aer Lingus launches flash sale with huge discounts on North American flights - Irish Star",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KMjdhYXAySnY2cEFTaWw0bGJhTEEzUkVYZi1XN2lPMWRTVW02NThJQ1lvSXlQRkgwaXBMam1BdlN0cVhCV29vb0hUREVPdG84UTgtUGpiVF9aZFFnV1JvYWVJc0NESWZ1U2ZJQnZWMUlvU1hNTk5XTzgzR1nSAYIBQVVfeXFMT3lQRncydENSdktnU3pMYmQzbGxhWkxudVFYMTJkZmpLREtOVnNDd0FwS1JpRXViZklPeUxpWkNUNTg0RVBtMDJwYV9feEJyMk9RMmsybS1FdDR6STlidnBkRk9PQUJBNFdFYVlnSEU3VmZHNlJ3MHZmWXFRempKQldlUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Aer Lingus launches flash sale with huge discounts on flights to US - but you need to be quick - Irish Mirror",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWJJTmZIM1VseE9GS3NLRjlMQXRvcVJUT0RMcnlINzg1MkZhaFlqVzI1UVE0Uy1ENHVsMGp2ZDlMakI3Nk1lYnc4b2R1NC1sd243WGN3bG9FbUZBb3BkeDhGRmd2NkpLYkMyckczT190emhUaGtER1Rud1Q4ajM1VVp0M1daSmJlNmfSAY8BQVVfeXFMTUt6SDVFM1o4MDd1UUN2R0k1OF9GLXpBblJmcjBnbjB3T2VHMnBPaHdVMFRKbTJPNVZJUnJLMk1aalZfbUtJZm9sRjV1dHBPQ1FYRmEtRldESGxOMDU5UVhnUWVsbi1zcm1zclNPUUY2SE9aQXZVLTE5ME9OdklWSzdVX0QwTEVLN1dKLXVsMFk?oc=5"
@@ -90,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

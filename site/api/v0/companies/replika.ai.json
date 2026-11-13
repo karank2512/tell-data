@@ -1,13 +1,13 @@
 {
   "domain": "replika.ai",
   "name": "Replika",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 2.1,
+  "score": 2.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Replika founder launches Wabi, a $20M bet on shared AI assistants - Dealroom",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFNlR1JKRUZNTTdETFh2M1VpazRHNzNKVzVMc3NxREpOcVBHY2xmZVh0RzZ1ZEhJTjMyM3p4d2ZCdkdOTUhzZGpUYzRFeG1BYm5TLW1JRE9tcWJBcTZpZnRrMDg2OGNEZUJOYmNMNVVOWnNoRllfZHJlQ3RYOVVzeEdMNlRJdzdfNlphV1NBODlMcEh3ZFFDRXpodjZDdw?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,10 +1,31 @@
 {
   "domain": "starlingmedical.com",
   "name": "Starling",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 9.7,
+  "score": 14.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-11",
+      "summary": "Wirex Appoints [person] Co-Founder Julian Sawyer to UK Board",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHlMekFLNVhPUEhteE5sUGlyVzFPWS1ackhCdEJndTRNbDR6Z19YT3lQcWpFYXNlcTQ5OVowUjg5ckhBeEFLNDFHQTMyTlhyRkxKQk1XbUJGMnR3OWxiOE9uX2ZjQXVpa1FXcTM3Uk4tQmNaSk5uclI3dUpTTmIxRXBvY08?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Starling Bank Debuts 'Talk to Transact' Voice Payments via Agentic AI - FF News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOalNCNTloQjZYNjRlOHBiZC03cnpOOURkTG1ZZlcxT3NnMkhLb3ZmTG8weFlpcm1VRERESjRFMW84cFJGODJGV2F6T0hGSjk3VmRsMXVzZUoxTjh3WnE4M2dEbm9RMS1PUnM3WTJ3Z1pkZlg0U1RTMEhMV1hReXBXcWo0M3VSTnpDMEwxNkp3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Starling unveils AI-powered 'talk to transact' feature - Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbldLOWQ4VmtyVGNNTlJGUWhKOXlNQllicDdlYUNBemdQLTR3UzNhdmNSY1BEdDhjVVZNZVEwVG1kTFpHOFhWbGNINEdPdGF0RU84ajltS3g0NDF6RWxZME5hZzd1NXlUZG45cmYyRW9Ec3NPZ0NkbHp3LUZoVS1ZS3cwdGEwMmlrT2hwNVpnbXVTa0R2OWxxY2VQOA?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.4,
@@ -35,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Citizen science study launches on starling murmurations in the UK - Geographical",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEhNakNfWkxYUTFBSkIxRmRBdjR6Z280amtZY2ZfQzl0cjVlY004M19icldEemhDWlRwWV9GdHFrR3NJVnZLOFpTUTBOR0thZ24yMU9tRmZJY2tzYXRQbGd6cG1wRUZaOUNRNy1iby1IdlBNZUhYdVo4RUVfZmRQekZVbENPLWRjeFJxLUphcmxuZDcyazlHSDlGQVMxVlZVSG5R?oc=5"
@@ -69,6 +90,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

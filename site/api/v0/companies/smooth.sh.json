@@ -1,10 +1,17 @@
 {
   "domain": "smooth.sh",
   "name": "Smooth",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 13.1,
+  "score": 14.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "SSC Confirms Smooth Conduct of CGLE 2025; Introduces Feedback Module for Candidates - आठवडा विशेष",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fS0dzN1h1V3plQ2pTOThwV1VLZDdjRGlYeXVRZVJEdnJzZzFfOHhFLU8wc20taDBYcEQxS0dvYXFkMDQwSTRmdmJNaS1OSms?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "GE HealthCare debuts Allia Celeo, a ceiling-mounted interventional system designed for smooth procedural flow and AI-powered precision imaging - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYWtVOS1oSXBXektFdGpKRHNGTjZTc1U5OUJPUFN3UlJlZElJdU5jMXRpdm9FeS16Vmw0Zm15Ny1yVFN4QXJ2SHNKbFZLZjlLVkVZdksyWFl5YTB1aXRhcHhJdVNvQW5OSFBQWDZoa3pMbk1yd2c2eTZTOTFRZ01jRElxaGNlRnNSdG80SmVGVnBMNTlfR1djWXJCSEI0Mzh5NHVRelBjLThhMzhZdzNhOUNuendHRjNYalFlNUEyYjdLRjA2bW9vSUdQbUFfaXJmUjBuZUFQNkRaNGZSQzRXdEpIc1JGYmRXSUlNb0tqeThnMnlhQk5mWV9fdHlfWFYtWTA2MzV0ZXE4cWtOcnptUWl6c2VQZTdVQ2lIV0s5RXpXcDhJ?oc=5"
@@ -63,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "OPPO Unveils ColorOS 17 Globally: Silky Smooth. Flow with AI - Knoxville News Sentinel",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlB4QWhpQU41Mm1vMzRUWWlyOTROWWhIODRhZGs0dmlTTE81YnN1TkNVaDVtTlhnN3AtWWlmMDJucG5tWWRkTWw3VXZmejJtOVBNZklkbHhiQ1cwVGN3ZWVRdmdxY1NzMWd3c0l1UERJT0o2enRhVlotel84Njl1eVZzU3lmTll0SWgtdU8tTzZPRGJGT3ZDUWFQZnZrNGl2UzVWNEthTWo5MHlTb0FUbQ?oc=5"
@@ -97,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

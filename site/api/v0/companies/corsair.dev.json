@@ -1,13 +1,34 @@
 {
   "domain": "corsair.dev",
   "name": "Corsair",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 40.9,
+  "score": 44.7,
   "contributions": [
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Corsair launches HX1000i Shift Crystal, a 1,000-watt power supply with a transparent chassis - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN2dxYzBsLVpkRXpuRmRnRU91a2FPVzlCTUtzcWNybXYwbGVvdEFtemhIZFJGUEpXTDBzT2hzNlJuU1dqZWNWOUE5VVRiMFpXel9GRlNoeEhuNTNuQlBWU19zZ0ZIc08xNVBfcmVqaWJPeXBJZzVLUC1kdG0xSzVkYzN0b2ZNeVJjdFBkUDRJZGhwSjN5SDlnZ2pxblVpalJrWXd1T05jdTVhMEQwTXRVcnllQTRrcTJ6Si12aQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Corsair Launches HX1000i SHIFT CRYSTAL PSU with Transparent Panels and PinProtect+ - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSmRvSzdFc1d0a1ZyWmZ1VTRKd1VCSXdDWmlIU0I3TWFxWDFDU3J0dVhXWTM4UzYyNmoyX3JYZmFFenFNeU5YNldMUy1UbU9VNkpCbWlXVlJPajZhXzJQek9WNzVNY1p4NUJrSU43c2xyZzNmVGtHNUlEZkFNcmNGUlM2cmVJU3c2dzhyMjY5RmVJWFAxUFZlYUFPbXNGUkdxVWJtc25JVkN3VDVfdmNsc1pfejRhWTDSAbwBQVVfeXFMTTFEVFJGUHI0anVCanBqUklrMU5iRnRkNjhDR2p6X3M0eGVTZTg0RWZ1cU1BcjFRYXJPd3FDbmd1SWdYZHd5SUh1bXk3LXRPMkhqVTM5V1p4THlWMFQ4VjVKY1ZGVHZVc2FJWHRtTWlNNkV5aWFrR2tNUGFORnhvbmJsMC1LbTMwaE5YTm95czRPTlFHSG1Ka0JOZTlUcVhiNWw1R1prNDRhNjVzMGZsT1pJSGlWZ2F0WHdyRFA?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Corsair Launches a Delightful Pink Colorway of its Best-selling 3500X and FRAME 4000D Cases - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbXZ6OFRyOW56ZDB6T3VYRW1pQkhESUdQYi1GZm1sODJjR2RLTnI2dGtNTUoxLVZ5bUdwYW9XTHp2QXM1N0tJYi12cjk3dDBfb3NyeE1rQnZ3MHdLdDRWUUwwbHdQd21YV2d1aVdaZkU5Xzc3OWtXLW9lUFktQjBmNi1YYTBLeGNzdzlaM3g5NVJ5T1E5LWgzd21EUTNKbEtidU1XRUVsc3JsQWRiVUkyRXdzOWV2VGo0LXVfc2NiQUZIeXll0gHKAUFVX3lxTFBUZmhxY045b01mM2ZVaUhONjBIbFJNY2xXOU1tWm8xRjVucXJmNEhTS1o2MGRhbFBjLWVJVDlGdXVHMFRDaTQ3bno3bmxiZVUzMVZWY1JCc29kSk45TlIzU3RsTnM3TXhfZmpWSzZXbHl1UUYzZFcwZ1JMd3VIckJLeW96Q2NPS3pHeFJwTWFsVHdBakVCWDQ4U041OVpRTTJFQ1hvS3Z6bG9PSDlXX0tuc05ZUjRIOTRXaVFSZHp4MW41V256MVRxSHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Corsair Launches Dark Cherry Blossom Editions of TC500 and TC100 Relaxed Gaming Chairs - XiaomiToday",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNDFSbUhuMnA1MWtZdGdRTmRGNTM1TDlFRTY1UU5MTFloclo0UFFJNzlaWk9NVkNacjZtOFY0T20zajBmMGdfcm9lVUs1bG44Y3Z1ZHFSc2EzNTQ0aGpyM1Q3UkhTQVlCY1pIZFRJeTZuamlsX25mZnVBYnJEMk1IZGZWNGxFcDU2M2xkNFlORnpBTVV0VVRyYUI3c2NJd0Z0MDQ5THE1OXp2RThrMlR2Zw?oc=5"
@@ -140,35 +161,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Corsair Launches RM1200e Power Supply with Built-in PinProtect GPU OCP - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUtEVjFJUVNJYTllOV81TUJGR3ZlWnpScVdSaFNqS3gzZENmVU5yaDgxNmYxaFZVVXo1MXpRUlZNcWU0X0tTbll1UmhFZEJSV3NWM0lUWlZRamcxbGNHLTJRYXZka2ZFYm9RTElweGZ4blRWeE81c2ZfZ2Nvc1h6WTFtYzk1bnVhd2hINkxUWGNPS3JHQU9MbDdGaEJGanhkRHBCOWI2TVTSAa4BQVVfeXFMTVJaZFlFRm82eXcxNlJKYUUzU3lha1ZQWFNqQkU4MGllcGtGN2RybXhZLUZ6T3VJNHlQQndEbDV2LXdfamdWd09PLU90LUdtX2lIZk12aHAwYXpkYXBQNkJCSll6S1hpVjVsbW1pMk1tNEd1STUwam9ROXJKbWxLVXFEOU5CdWJVcnZjUGwwQlRKbmhfaWFSQjEtTjhYTmd0UUJSbUpsbW1TV0RHeUV3?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Corsair Launches RM1200e Power Supply with Built-in PinProtect GPU OCP - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0N5RzdpS1BmMVh4c2luVHFWSWV2U2cwZE1fYzFGMFplV0pDLWs3cmpIZjc3Nzg3WC1BcDBDeUYyZ0NQMnFfak5iNHJMT0pwMWJIYkhXNVV0WDRmUDhVVDZ1ZUtmQWYxSklKV1hBSHlWcWkxV0lPUFc0VXFvQVdhMWpDN1FzbGt6WTFmY0Q0dUF0S2NMZ2I5NXJXTWdaelpfR1kxaHVsY2ZkY1VsQXdYdi1WR2FjS1BfNDVuZHpR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "CORSAIR launches the SABRE v3 PRO PureVector mouse with Aimlabs sensor technology. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2NGYXZjUFZqRE9FMHhZRVJGUlgtUlBNSXY4RTl3bDNQRVZDbDdfeHFQR0ktQXlTcDZtbEFtX1Jza0RRdHJDak1nV0xfM0phSXZCUDJKV0tqT3Y0QUVNMm5PVlBBUEpRQThCZmNJTGtuWW1fd1lERmxMWTVXUk4zZUM3bFNydGdKTHhYTGJHUjNZbXpieC0xVVNVQm9BcXZTMXlz?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "CORSAIR launches SABRE v3 PRO PureVector Gaming Mice with Personalised Aiming Technology - Craving Tech",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM3N4eXU1MG4tYi1ZdU15UzdjMVFIVG1WTHh5TzloOS0xX1JCR2YtbWZyc2k2cV84MVF3S09YNnRKYU8tdVh5TDdJMnVjaGtFMGlqS2tBcU9Zekp5emtMYlpiX3ExMWRza2VHYzFmMUFWbG9QSWV0M3ZOZm91U1dwRDUtanRMN0d4emVMZ0hnVzBsVWRfN1drT29aSFhKT3FsSVlrUjF0SVNjVEVPYldfWHp3M3pQZUx3am5TSjJB?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "CORSAIR Launches SABRE v3 PRO PureVector, a Gaming Mouse That Learns Your Aim - Modders Inc",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYk43RDJiNHFtMEFvNDNXdVR1ZmF4SGRwUzcxWnpaMnV2a3lQVlVSSVVlTVhjS3NxUmVzeVRXQkRRd1RaZVJPVnRZWmJoT2hBTW1wQ2o4SjMxeGlxUkpraUpfdGowWEtVNExESmU4X2dlQ1JLWTRfU1lTYVBLUmQzU3BkTU1yUExka3lfcjN0VzFUb3RtUDZtUTVVVE5Ed001WFZ6OUcxWS0?oc=5"
@@ -279,6 +300,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,13 +1,13 @@
 {
   "domain": "enzyme.com",
   "name": "Enzyme",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "New England Biolabs Launches Mammoth’s MB-CasFire Research Enzyme - Securities.io",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSml2VGF2UGhvLUVRUzZFRFNZb3NjOUN2aWg5WXY0TUxTUDR2a2xDQjlPTTE2eUVLWTNyT0xYZFNIdmc3Z2dlWFhiX0pNa2VJZWY2Z01ZdkE4WVB0b09hRFhKaEhRUkhYLXUyRVU0SUh4bUl1Rmhkd1V5clY4OWoxc0FLUnBHcnhHNEJORHh6WU9aY1Z5ZFE?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

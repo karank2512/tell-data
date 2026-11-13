@@ -1,13 +1,13 @@
 {
   "domain": "heypocket.com",
   "name": "Pocket",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 28.4,
+  "score": 28.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "HOVERAir Launches the VERSA, a Pocket Camera That Can Fly - Phandroid",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWxtb0lFMTlpLXlZTDdJREhzQW00SXlRc0pvNGRtQnduWWNRSHRWTGxLd0xDRE5vS3dxZExTckVfVTA0VGZUc2k1UGFnXzNYNnJnQmhDb1RuUUJLLUhqc2xSMDdkako0S3poOHE2QWFpWEQzbUk3YWZBajBuRVNGbjNOWGZHS2htZnJ3VnVXRDhfR0VQ0gGaAUFVX3lxTE84V2w3WVdkbWdfaGFtTUhmWTVZX0ZtV2Zhb1B0bVJpbkZ0aWd3aVdGb2pjNVROV05aMjhWY3pqbjdCSFZMMmhXVVl4c2w0d1pCcHdsSzNybjFGYzhsM2xSOHhFQ2tOdC0zUW5NTFF3Qk1hc2dFSmpaMXdHX3laMWFnN0VnQ1BNT1pybmV2YW8xQmI2Ymdhc3Vxd1E?oc=5"
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Pocket Prep Launches New AI Tutor to Help Learners Build Study Habits That Last Beyond Exam Day - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMG44WHNhZGgyaTgxX3BlX1JzUHFSbU5RVlU4THdOcTNFeFUwMGZycDRLd2xGRUtWUGZweWU4Z2UwdUFOZldvalIxZ3lzMXZnWnYzZEJjNUV0R0hnd2Y5aW9mREdSeGNYeE9ZOGRDVnRzWFVMbFUxYlZEckVMdDFRWVFlZHdMbEF4Uk5JTmlQcnFMYkJBTUZmZQ?oc=5"
@@ -84,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "DJI releases the Osmo Pocket 4P - Capture Magazine",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iWFpPRWgtd3NmTmFKbHZRcTFvQTRjSXdPYzRLZ203R3FvYkEwZ3p1MUlwQklTVm85SnZUMFZrRjVtQ1RjLWFUdjBfak9hcWxtQ2l3VENWVkM4cGRjUnlzUlpHcE9KS3VycXJxQ04ycUJDcDZ1?oc=5"
@@ -153,13 +153,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRJVnJ0ZXl6RE1SYkdqbEgyd1A1OWpSTndiY19qMDg3MkhmMTVKUC1mazAwRjZuYlI3V2lyR3RQOFpWcVN3Q2FlRkZlOUZQR09IcmRzVHFzaDNIS2t3QlRXR04waHc5Q1ZzV1FSN3c5QzBvTEgtTlFFMTFudy0tSG9EVTFmdw?oc=5"
     },
     {
-      "type": "launch",
-      "contribution": 1.0,
-      "occurred_at": "2026-10-15",
-      "summary": "Microsoft Unveils Pocket-Sized Xbox Nano Controller for $79.95 AUD - EFTM",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmxPTEdzYi1Jc3FYWEdtVERQQnJEY3dFRGFXNmF4M0U1VzBJQ2pCZUZpOFRjZ0hOTGlqYVA0Ykw1T0dBTjBNSDlhQ0dhTzJfWldoNnloMVdYU1BBZ3dYU0Z0cThXaW1VNzFRMWhXNUdRbDhvSi1NNzd2akVxXzExVmljYzdHNnRfVEE2VDVSMUNxUER0eU91UTJiLUFWOTdpUTR30gGjAUFVX3lxTE1ybE9MR3NiLUlzcVhYR21URFBCckRjd0VEYVc2YXgzRTVXMElDakJlRmk4VGNnSE5MaWphUDRiTDVPR0FOME1IOWFDR2FPMl9aV2g2eWgxV1hTUEFnd1hTRnRxOFdpbVU3MVExaFc1R1FsOG9KLU03N3ZqRXFfMTFWaWNjN0c2dF9UQTZUNVIxQ3FQRHR5T3VRMmItQVY5N2lRNHc?oc=5"
-    },
-    {
       "type": "expansion",
       "contribution": 1.0,
       "occurred_at": "2026-11-09",
@@ -169,6 +162,13 @@
     {
       "type": "launch",
       "contribution": 1.0,
+      "occurred_at": "2026-10-15",
+      "summary": "Microsoft Unveils Pocket-Sized Xbox Nano Controller for $79.95 AUD - EFTM",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmxPTEdzYi1Jc3FYWEdtVERQQnJEY3dFRGFXNmF4M0U1VzBJQ2pCZUZpOFRjZ0hOTGlqYVA0Ykw1T0dBTjBNSDlhQ0dhTzJfWldoNnloMVdYU1BBZ3dYU0Z0cThXaW1VNzFRMWhXNUdRbDhvSi1NNzd2akVxXzExVmljYzdHNnRfVEE2VDVSMUNxUER0eU91UTJiLUFWOTdpUTR30gGjAUFVX3lxTE1ybE9MR3NiLUlzcVhYR21URFBCckRjd0VEYVc2YXgzRTVXMElDakJlRmk4VGNnSE5MaWphUDRiTDVPR0FOME1IOWFDR2FPMl9aV2g2eWgxV1hTUEFnd1hTRnRxOFdpbVU3MVExaFc1R1FsOG9KLU03N3ZqRXFfMTFWaWNjN0c2dF9UQTZUNVIxQ3FQRHR5T3VRMmItQVY5N2lRNHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Xbox Introduces New Pocket-Size Nano Controller - CNET",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMU4wRUN2SGZUc3NsVXFDVkU3VWxHR29zbzh5c3QyQVhOSDdKbEUtQm9ycVJsWHBnRFpmMXpkNnhNZmJ0aGlLR09jNmEwZkhxWFlhVW5ON1Eyb2tYTm9HUXg5TWI?oc=5"
@@ -195,6 +195,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

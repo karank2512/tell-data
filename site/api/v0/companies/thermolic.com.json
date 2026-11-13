@@ -1,13 +1,13 @@
 {
   "domain": "thermolic.com",
   "name": "Thermolic",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 14.4,
+  "score": 14.3,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 14.4,
+      "contribution": 14.3,
       "occurred_at": "2026-09-01",
       "summary": "Form D: $2,000,000 offering, $499,999 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2046256/000204625626000005/"
@@ -20,6 +20,6 @@
     "edgar_cik": "0002046256",
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

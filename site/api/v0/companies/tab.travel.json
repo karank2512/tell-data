@@ -1,9 +1,9 @@
 {
   "domain": "tab.travel",
   "name": "Tab",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 32.1,
+  "score": 31.6,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-22",
       "summary": "TAB appoints [person] as BDM for Wales",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaDlfNl9MdmhpMVBXUGVfOVlYMk1uVnhTNkVpRV9hR0JUdHl3ZnBzSi1OekJhaDlvMXFvLXdUMWdrd0hQZWhyMUExZ3FoV1pYQzVEWFU5VDhRd01Wc1J1R0VXZmtHU1Z4Q0hrMXRDV2VDV0NBX0FOeDdYNVVSOTNRQ0VORzVMbUtZS0E?oc=5"
@@ -42,21 +42,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Samsung Introduces Galaxy Tab S12 Series: Samsung’s Ultimate Productivity Powerhouse Built for Growth - Stuff South Africa",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLUFPTWhyc2lFa19pOTNpZ2lvalV5eW1La1NmbVpPcktyWHowcDBQdmI3OHpnUEpzUGJpWU5LaExVNnRHMC1MeG5tR2dHZGVRREZzTkU2QUpCc3g1VDN2QV9EOURvOVlDaUtQbk92dXJoUjdkc0FRYTJZVVdNME01YnFWOHZpR0VYQWVhZXBGaEJjT3ZKSWcyX0NNcUFEQTZWd2ZjYXIyZWJZNFM4MmtZMnRJR2JzbGR0aFJHSnp2aE81SVBPbkp5aGZPdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "TCL Introduces New TAB A1 Series and NXTPAPER Tablets - ManilaShaker",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM1dUNW1aTWdMT3kwWFVVZDBzSzdkbXIyRWNJSUFRcGZ6b25LQXBlTkNsWWx0a3VzaUg2SExnWDNsVzZwWnBZVkQ4UmZmSVVNRndRbDZwNVBiWU5BMHRQQ1JNRm1KV2lMakpuSEJPQlRKck11SDF4NU9wa24tVm1QWWhrdjB0QQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Samsung Introduces Galaxy Tab S12 Series: Samsung’s Ultimate Productivity Powerhouse Built for Growth - samsung.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVo4bEZ4eVRPRHVzTXo4NFpsVjQ3RDcwYmRpcGhnUFZmMzNOdEZGdXl3Vkp4aERYQk9Bcl9hNXBxTllLVG9pUVlwSkdsZl8yV3ZVV00wXzNOWGJxTl9yRHJ3emVYSnRJbnRLbnZMUWFrenBqS1VqLUpGOTZkaXpCX1ZkckR1akhUWkJyMXBtRllycVhKX3NaWmZRdzlWbG1laGlNdGVmTG5sZjF6M25DYkZ5Y0M2bGp2WUczdGFRdzh5SGJtOUE?oc=5"
@@ -119,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "TAB launches commercial mortgage market intelligence briefing for brokers - Mortgage Professional America",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX2JSZ3VDeXZuT01oNWxDQTJJQ3lNTjUxaXNQLUNVWTRXazdHVkNzYU5McmR1ZnBtS1Q5a1hxelRydi1JVERzQ19uMVh2a3ZRTDJHdGlqcUVxa1ZtN0hFS2lWazNseFdmc1liTDJfaEx1VzktYkE5djctZkJ4NGZKVnN4U21LSGUwQXNReEpPZWt1X01sYmREenBXTXBCYzItekJhZUUzVUlfYUJTb1B6eFM5cERDS09iRU9sZFNNT0RocW5heFpPbldMT3E?oc=5"
@@ -188,6 +188,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

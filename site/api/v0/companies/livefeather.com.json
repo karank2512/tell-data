@@ -1,9 +1,9 @@
 {
   "domain": "livefeather.com",
   "name": "Feather",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 6.8,
+  "score": 6.7,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Isee Hair Introduces New Feather Wigs for Lightweight, Comfortable Everyday Styling - PRLog",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3F1RVhCbVh0eC0xUHBFTFNmR0tSZFBfaWJPajVlSUF3NTJCOENxVko2WERWX3JLV3ROaXJVOUl0NzF2aVpycjNzY0dzRDY3UFdUbnJXMmlxY2ZaeG1DSXVEX1NTTm1nZkdaUDlQU0RHQXkwYUZ3Z2IwQWRVZk9Mdk4yVDF5R1psNC15N0hnTFNtSlJUMmF2TjRfZzFOY254RlktS29nb1ZHQ0l2ZHFZd0VFbG5mRzU0cEE?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

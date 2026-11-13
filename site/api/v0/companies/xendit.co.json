@@ -1,10 +1,31 @@
 {
   "domain": "xendit.co",
   "name": "Xendit",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
+  "score": 2.0,
+  "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "customer",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "2 new customer roles in 7 days vs 0.5 baseline",
+      "url": "https://boards.greenhouse.io/xendit",
+      "postings": [
+        {
+          "title": "Customer Success Manager (ID/MY)",
+          "posted_at": "2026-11-12",
+          "url": "https://job-boards.greenhouse.io/xendit/jobs/8201138003"
+        },
+        {
+          "title": "Customer Success Manager (TH)",
+          "posted_at": "2026-11-13",
+          "url": "https://job-boards.greenhouse.io/xendit/jobs/8201154003"
+        }
+      ]
+    }
+  ],
   "open_postings": 19,
   "long_open_roles": 5,
   "sources": {
@@ -12,6 +33,6 @@
     "edgar_cik": null,
     "news": false
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

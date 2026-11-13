@@ -1,7 +1,7 @@
 {
   "domain": "lunatic.solutions",
   "name": "Lunatic",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 3.1,
   "contributions": [
@@ -14,14 +14,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Fast-paced 2D roguelite action RPG, Nightmare: The Lunatic, releases its standard and collectors edition on PS5 and Nintendo Switch! - Games Press",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1RzOUN3VEdCSzYwTG1GWEdTbFN4cXlLZUN2VVc3NERteTB6eXN4d3RLeHh1VXFFS3ZSdTk1Z1VoV2RiUHhhRGZGSDF6VDBBQ0t6Y29iWGxObjBQZEEtOG15SHpTNGw1OUZIUFJpQVk3SmN3VU43UEVVUXI3R1U1b0F5UjVLMTBDMnM3Z0lEekdDY0JUbHJQdTVUdGZIQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 1.0,
       "occurred_at": "2026-10-16",
       "summary": "Nightmare: The Lunatic Launches on PS5 on October 16 - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2ZVbGppYXktamEzNkVXYVBsUzJ5elFVeVRHWFgtWDV0WkpMbWNZWV9GQTF4a1dYQmdCcHhxdEFDcGNMa1RSX1VGY3VJVkRVSVZCWTluREdCMTdYSlNUcjY3cFhvUmtKWTRBX2VCSDBDRGEweVYzTC1LQkVtSHp2SlQzdUdDVE5YNjRuYXFiMHNxNzRDY2dOOUp3?oc=5"
@@ -34,6 +34,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

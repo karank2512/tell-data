@@ -1,16 +1,51 @@
 {
   "domain": "refresh.dev",
   "name": "Refresh",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 53.7,
+  "score": 61.2,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSFNmT1I5X01USFNvTDdwVXN0STd0MjdvNkkyMlZ1Y2hmT2FQVnM1QnlkdEl2dWFUc0I5dHdTamtidGl0WXRla1NLaG0xMGo5SWx6RWx2a1BsQ3NQc1B0SVlLdjRDSUE5NFEzMnF3dGV1Ymk5cVNFYjhUdDhQSVNwLUNyM08yV0xRZmhLSkJqdFI0QXJxTF9NTmNRM0UtNTBOOUxhMFpqcGN1RGxNSDJIa1JxMlNIcDNQb2hCRm9oVVMzWVkt?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "appoints [person]",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2NXWnNPak1ndl9FcUpKak5LcUVRUFcwY0ctRmFockRWckFuOXYta3A4Wjl5TGlRdFctZWVhSmJ4a0U4dDdEZkIzZk5GbEhkV0t4bjd6VVozblBOWjlGX2lKeHk4eDdCVFVmUkdXaTVLcnRIdWZWbXVZaG1TYWpubzJQUDBrdE9ub1RBMjN6NjFKWHVWNVFUb01FMzI2WUpJaE9VZ0JBUWdSWmdsTDJHXzlR?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
       "occurred_at": "2026-11-04",
       "summary": "appoints new CEO",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUo1SHROc1BXMi1SNDdMV1U0d3ltZ2RiNDVCRFhhdkZwcmdvbmtObWZQVTZQczBuSF9mWWRKVFVSSDJ2NEVzTlJRelpQNUVFeDE1cEdjSm5BVnBjVXJTS25BVmdXMkwzSWhLeVFNOEFPWkZ2bDY4bUx5bHlfa0draXVHN1NGajl3TmtMTER4UQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "\"This isn't a spec refresh – it's a completely new technology platform\": Audient launches next generation of iD audio interfaces with onboard DSP and built-in monitor correction - MusicRadar",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPa01CSjRmRkxQc3NXcXl2Nkdpc1VuckhTLXBNYTBvRWJXSXNWVEJQODZrUEM1cUdXRTJVa2NCZEFaZ211X1poQ1RWdHNUb3pjdUU1WWJ5cXJxQmJzLTNWRUs3SUliSkdvNHJheTVORXVBaXRGdzRGQTVfcjZDRzVab3VYSDNNaldlUkl0Ulkzd3FFNXBQUHJTUVRjZ3ZPNWJSMGo2bV81ZU0zSEUyak5WaHA2ZTdoRWtNMWNSeTBhNDdGUjRWWW42dm52bU1GcXNJY295UmpoVEJrS2Rpa0hzM3pHY3J3UHlHTThWQkt5eGtYc1YydGJiQXFBVmxKMmptVEVONjRXcmRMc3BRaU5UMG94Y2ZHcUZMZV9Oc25ldzBvdnpTcjBZWm5JSXNDbkZmM3c?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "KTC launches new 24-inch gaming monitor with an insane 600Hz refresh rate - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmg0ODdTc3JUSjJCQ0JlLUx5VmtPeWMyTzdEa1R6clk3N0x3ZXVDQXN4TmxINkFWZFNHb0xGS3MzN1pXSTNTdFlwNzBHeFpvaVQxWEFsTlZEaGQ1bi1QWDU5b2hVS2M5V1N4QnU3by1OdXpELUlaaDA4RXROSFlOX0RYaTg1d2YtY0RrT3RCZGZQVlhTWVpQSmwwMmRqaEQ5SFE3dg?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "LG unveils 97-inch OLED Wallpaper TV with 4,000-nit brightness and 165Hz refresh rate - Tech Edition",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSktpazRwa21PQTR2S0E0RnhlbUNvVXFMekk4RzctTmU0dGY2dVJNYlY5VVA2alNiS1p0WFpqbmRzeWJ5dkRNTTltTEkzekJwWVNWMDhQQVh5SlZuNGtwanpxeWlnTDk3VHN5cjlLS1BiMTFZOTg2R25QZXp1X2lpOF9jQm5fLUdFa1BpNG8wWV9ieUdyZDA3LUNKTmJNeGpkVG13M2ZJTkdoSTdh?oc=5"
     },
     {
       "type": "launch",
@@ -28,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Fresh Friday: 10 must-hear releases to refresh your weekend playlist - Rolling Out",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tYVQwdFNNenRPWmpDd0s4QXdURmZ2ejlrb0hIeklmMWtFQURjc09zeHU1OGhzOUVwU1gtRE1FZ2tDc3o1dTJmVXp3bFpxNW5jOXdhRUgzSnRtZWJNMDJHMEVhNWM4enhaV0dYUERoRGk1UUJG?oc=5"
@@ -133,28 +168,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Xiaomi releases three new budget monitors with 120Hz refresh rate and USB-C charging - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmZ4cTBRdUhiRnlPdFR6eGlDWE1sTkRuMjRrSENPdnN1c2VWcEZBZjdDdElvSER1Q25NY1VDQ3lyX2ozcnplRFYtbWNReVdpaEhFd2NUVlA2NE1xRUVZTVc0TDBWWDNTcG1NRVBuR2pVcmRmQzlHbVlRM3A3MkU0WDB0SlB2Q24wN3BrTXRobjlhdUk1bFpjRGZLaDV5Z0ZVQ0ZPWXNjQnVsaHY3ajl3S01DUzV4ZnlBUGNXTFFsS1hSTzhiY21wOA?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "CARLING UNVEILS BIGGEST BRAND REFRESH IN OVER 30 YEARS AS IT ENTERS ‘NEW ERA’ - C-Talk",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDQnA4bUFXWExSbk10OHIxMzFOM1IwWTFyZ1gyR29JTmlTd21paHV1ZElUeHpYVGNxVFdJQkdwQVZMOWxUMUZ5MFUtdFZPNElHTFZrTQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Apple launches new MacBook Pro, iMac as it continues to refresh product lines - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZE4xZ3FadnpwM0JuSnAtY1NwZ1R6bVFmN0Z0QmFwNUFfYlllUGpTbXU4MzdRTG9rN1h0eWliT0FkZ1VDb1JFSWhwcjZXWktTNmZEX3pCUVk3eWJfZTlEWTljeGsycWNFX3VMN0V2SjBXZU5jdXlROTFCQ19XTUtNOXR1OURzZW1md2tIc2lvcGRwOWJHMnhvVC1xUXVrUDBZS0xQRl9WMHJJXy1DUmdNT3BKajJPX01lNmlvWEEyYmk4ODRUQjlPX29FYlBTcVZPWGc?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Carling rolls out updated pack design as part of brand refresh - Better Retailing",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVVqOGdxY29xbTdLM1htSHZreklJRnlJdm9SUUZzQ0RYVm51SC0tMzg0MWF0ZjFkNDJiWm5EeGh3S1VnRGFCVEVKTjJTeWh0N0lJQ0FvZjl5MkhhQl9scjlHYlUxckhaQzVGOThyMnFVT1F6MnFtMzRyenJoR0RFZm5kWVR4VHdZYlNUOEhqRHBiYTlrTWJscFlrTnRMVHpoM3BjbzlheFY4clVpUlR3bQ?oc=5"
@@ -217,7 +252,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Fresh Gourmet unveils brand refresh, simplified ingredients - Supermarket Perimeter",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTS1Cc2xfd0F0YUh6cUJHaXRuelUtdU42WGkyb2Y5MWs5TVhYMjVSUXgyRXBXOGxEczd0WGhndG1pZGFWSHY5SmE3NFZLNHFQdVk1ejRCMUJfQmpPYVdGQVpjU21kWDV2Wm1EalM1VU1HS0huYTBQSG05ZVJfeFROSjFJZTJfTXlWaDc4cWUyMG9TY2M2WHlsMGl4ZWlKaGwybklXWUx1OXptS0ZmNl8w?oc=5"
@@ -287,21 +322,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Bigme Introduces 13.3-Inch E-Paper Monitor with 60 FPS Refresh Rate - freeyork",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUTVHVHpjZnFvRW1HbFg5c3A4NlJISG9PNDFSSG5ueGQ2cEZzSEMtdDFYT1J6Uk82eGtYU0V5TFR5WVJjWTlleno0UDVqZDB4OVUyWEJaQTZpOEo3OUx2YU0xWS1Cc1BTcEwwZUItR0pkbEtwOVdGV0F4LVNPRW1YRmVMNV9xdVNfNEo0?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Ronald McDonald House Carolinas unveils brand refresh - Greenville Journal",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmwwUmRQT2JPZXdWU2tvZlZybHAxOHQ5SGRicFJSLVFLaENsX2ZNcFhKemhuVjBhM2hiQ3BMeWpZS3lJOUtaUHlKQmpmSkd4aUhncmpESFlWM083d1FXZTVsZU9ldzl2Q284MUNRV1I3XzhYcXRvWmFxM24zNUpzeXRlRXVaTjRvUjVQd3JBUm5EVWhXUldNMUJR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "The Phoenician unveils multi-million-dollar refresh - AZ Big Media",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZk5qWm1GQV9JY1B3UVVOSTdGYzhZWWVlX0VGR1hjUmI4NzRfSDVHRHJlbktqdlRmQjVsZWh5bWdNYW5sQjB2M0U0R1h2eHEtV1E5bnJxMG1UbjFLQVBsOEk1WDd4eDh6OVNCUUZuSmRaaE5sWlZ3MnBldjBlUlRHTmcwQjI3R1dpRkoyYVRJUi1GaDNtcG51MVk2WWlVX2JT?oc=5"
@@ -342,6 +377,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

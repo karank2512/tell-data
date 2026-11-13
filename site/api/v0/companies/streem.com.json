@@ -1,13 +1,13 @@
 {
   "domain": "streem.com",
   "name": "Streem",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 2.3,
+  "score": 2.2,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Newmen launches Streem G.48 and announces larger gravel wheel sizes - Bike Biz",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWotU2Y1NWo2ZXljQmQwSWdiRWYxMExUR1gzcWk5dXlNLVNpeHdkeDBXUGE5cnJ3OWNFTXZnQ1ZvVFotVmc4Unlad1I0Q3dxcWF3ckJZZWRpSXFva1NkVE45eEhTWnRNNWZLbDM0aG01T2JvTzIweEdXaFBpdHdOd1ljakdJUW16cFFiSG1zUnVVZw?oc=5"
@@ -27,6 +27,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

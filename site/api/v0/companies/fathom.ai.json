@@ -1,9 +1,9 @@
 {
   "domain": "fathom.ai",
   "name": "Fathom",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 16.0,
+  "score": 15.8,
   "contributions": [
     {
       "type": "leadership",
@@ -70,14 +70,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "New car prices reach record $50K+, Ford opens orders for Fathom, GM Defense unveils Silverado 3500HD - CBT News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nN3ZZN2JFdGk1X2c0R3RmS1dnTVZtQi0yLWIzNlpIdHNUR3Jmc0U1SmxMU0xybU1fY3BhcS1qVXdScFNtS19CbDNLd3lLZHVvTkZnMXEtSW5FUDc2X2FfNFhnOTdIdFdUbThCeXpMQ2FCZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "2028 Ford Fathom Pickup's Site Launches Preorder Invite Ahead Of Reveal - Ford Authority",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNHNSeERvVGJpUWZTUW9rVHdBa0JrTkxoY3NxN3c1Q2NTVnczMndrOXdHTTFTN1h6THkyYm5zVUFJNVRWNjQ2RkpUejdLajNTeDB3cE9zZGRHVVdHM0hSVVV3TTRFMmFpZHlDQ0JRNmk1SzhTRUFiUmFHZ0h6cDc4ZHg1Mlc0dVF2aEJlN0JyMUJRb3lfYVM4NDE0UmEyZHFBRGo2NDVPcHQ?oc=5"
@@ -104,6 +104,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

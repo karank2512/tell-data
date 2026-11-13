@@ -1,20 +1,20 @@
 {
   "domain": "axle.insure",
   "name": "Axle",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 32.1,
+  "score": 31.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 20.8,
+      "contribution": 20.6,
       "occurred_at": "2026-10-01",
       "summary": "Form D: $17,260,363 offering, $17,260,363 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1951844/000195184426000005/"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Oshkosh unveils Federal Bridge High-Lift Tag Axle configurations - Concrete Products",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGVqZ0NoZGFhVVIyZ3VvNU5MNFNBaUNnMExmWXBaLWxWc0k0OWM5emZCODNBQnpjMnQxLUJFWG05Y2ljd0x3SFJ3QUlqUDc4TEpiZjF6N0d3U1VldkFzZVNzaHc5Q1ZVbHlzWWZScW95ZDVQNU5kUl90eVVIVm5fUU5PQVVWaXBSVkktNHJYZE5HbTNzdDdERmpTRkRiNmloZ0NiMzF1cjY1eGhmTGJNdU83eGEwQQ?oc=5"
@@ -63,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Oshkosh S-Series Introduces New Axle Configurations - Construction Equipment Guide",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWlWM05IZHFiZkRjRDFuOXh1NTJzbjRwUDk0MmwyYlk3OGZhbnIyQmpEdE9jUmlOV3JZQWdyMS1OekI1V1gwWjQxd2g0M2pfYXpod1dxb0JRNndzVzAtUmQwaDVlLVVaeThPMkhZRHVlNE9WV3RGZXNjZ19BZjFDRUFnOW51OEZxODRkeDRuSWNZeVUzWWtFcnRIblh4ZS1s?oc=5"
@@ -97,6 +97,6 @@
     "edgar_cik": "0001951844",
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

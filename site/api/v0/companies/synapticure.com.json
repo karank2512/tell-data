@@ -1,7 +1,7 @@
 {
   "domain": "synapticure.com",
   "name": "Synapticure",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
   "score": 2.1,
   "contributions": [
@@ -20,13 +20,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTU0TVNmTk0yWV9qUXhVNU94eFhzX0dxdDdOUFRVWk03T2RCTEVfemxWcXI4RTZTZndxcEdJVXFZZ0dWdGxKdDBQNTRDZzVnTHdYMVdEU09JMnpGQW1haVZZS3hxTzM2ZkxfaG56bHhKYkEwdUtWT2xjNEY0SWk3VS1qWWw5NU5FQzF3WVFzVU96YUs2TXNqTjRFazdhM002V0FCel9ld3duNTA?oc=5"
     }
   ],
-  "open_postings": 5,
+  "open_postings": 4,
   "long_open_roles": 1,
   "sources": {
     "ats": "lever:synapticure",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

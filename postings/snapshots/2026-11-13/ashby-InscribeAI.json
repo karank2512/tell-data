@@ -1,0 +1,33 @@
+{
+ "vendor": "ashby",
+ "identifier": "InscribeAI",
+ "domain": "inscribe.ai",
+ "as_of": "2026-11-13",
+ "last_polled_at": "2026-11-13T15:39:33.861718+00:00",
+ "open_postings": [
+  {
+   "external_id": "5dcdeb1d-6401-40b3-9cd8-72621888f361",
+   "title": "Risk Operations Analyst",
+   "role_family": "engineering",
+   "location": "Dublin",
+   "posted_at": "2026-10-21T11:04:54.894000+00:00",
+   "url": "https://jobs.ashbyhq.com/InscribeAI/5dcdeb1d-6401-40b3-9cd8-72621888f361"
+  },
+  {
+   "external_id": "64d2c593-80fd-4e21-95aa-3be1d8151c0e",
+   "title": "Senior Customer Success Manager",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-08-19T19:34:05.458000+00:00",
+   "url": "https://jobs.ashbyhq.com/InscribeAI/64d2c593-80fd-4e21-95aa-3be1d8151c0e"
+  },
+  {
+   "external_id": "a2202dcf-1373-4198-9ed2-5e12e59377e2",
+   "title": "Staff Systems Engineer, Databases",
+   "role_family": "engineering",
+   "location": "Dublin",
+   "posted_at": "2026-11-06T15:06:12.832000+00:00",
+   "url": "https://jobs.ashbyhq.com/InscribeAI/a2202dcf-1373-4198-9ed2-5e12e59377e2"
+  }
+ ]
+}

@@ -1,9 +1,9 @@
 {
   "domain": "close.com",
   "name": "Close",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 8.1,
+  "score": 8.0,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-20",
       "summary": "Just Women’s Sports Launches App To Close A Fan Utility Gap - Forbes",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLU5MZFVtZmtiRDNQYk5kcTBOOG90U0g1TlZLWVpmQVkwTzZnT09YSDFsNXlGdzJWRUZzLTUwSU1VUkZOTGVPNU9rZWVTWkpQeVhhMTZoNThBVGRJd2RzRlFYVXpSaEQ4dkJqRDFBbkdob0lxc01hU0dUUnAtZlFZNVVvbTJqRl9fd0dQQ0xkWFRJRFRCZzJVWUNsSzRlU1A2RXAxMEo2R051ZEtsalFYMVJR?oc=5"
@@ -62,13 +62,13 @@
       "url": "https://close.com/blog/introducing-chloe"
     }
   ],
-  "open_postings": 6,
-  "long_open_roles": 1,
+  "open_postings": 9,
+  "long_open_roles": 2,
   "sources": {
     "ats": "ashby:Close",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

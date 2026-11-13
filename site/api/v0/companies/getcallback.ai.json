@@ -1,10 +1,17 @@
 {
   "domain": "getcallback.ai",
   "name": "Callback",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 3.3,
+  "score": 4.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Commodore officially launches the Callback 8020 flip phone - Adafruit",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFkwYkJ4VjhTNGhJZjRWUi0wV3ZzNnppcy1obDJ3eG1JSEw0QTdpQXh5MXp2djFjLU5CdG92Z01haXZ0cndmOHRrSTNSeTY5SE1pZUhTUF9xYjBzZERxNGsxcEhMNldtelNGanRTcG5Bd1l1M1JUVXR5SzgwVFlnRmprQVZxS1hHaUtFT3czb3JJQkVPclFUY0E3VFU?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -34,6 +41,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

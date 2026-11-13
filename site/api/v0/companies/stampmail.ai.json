@@ -1,13 +1,34 @@
 {
   "domain": "stampmail.ai",
   "name": "Stamp",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 58.3,
+  "score": 61.7,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "USPS unveils folklore stamp collection featuring Wyoming Jackalope - Your Wyoming Link",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZmJpLTQ3SE8wYkw3cVExSDVWd1Jyc2wxVk84amRBdHU2cm83QWFUZTRFbG1wNkdNcnQ5Q2ZyYl9TdThUMkhocnpXWVllOWVEWlNkalJScFRzYUd3cnNkVlpwYWRCQ0RLbWNpYlZuTVJaRWtqZzd1MzF5MFEyRGFiR3lhNGg1TDA1Mmp6OWtpc3VtZ2FUM3BudE51XzhnNjlvMHd2N0V0VmF5aHJEalBkcEFXTUtyWkdHRnhWNWhYdGRuaTliWHFvUkRpb0JESkdwQVAwMU9nc1dsQ3JQenNWeDRfYTZMOGhBTGE5Rm5vRXU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Canada Post unveils Remembrance Day stamp honoring Chinese Canadians who served in Force 136 - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmExVTRlVXlJNkFNUmZlNHlzWnJRdzVqaGdsdHRVOXZnZk04NEU1YnlaQjdYc3lBUDFmVnU0eUxORkpacFUyY0s3anVSeEVsQnIxaHlWV0tHR3pQMlNrSjV1cF9zem5sLXppOTlMUFJsYUJvMkVwZmVkRndxMG96UmpPSHZNNG90aE5vNDczcHctNlNld2FoVGNaTjJETzd2N2VDZWpNOGhXb3VQd0pZZ3VaTGhlUWNHdkJ0c1NCS2s2Qzljby1kR3dtemV2M0tQa2ktbW5HUHNsYUJK?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "Trust Stamp launches biometric approval tool for AI-agent transactions - Proactive financial news",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUDhERTRsVnUxb2sydWNORnZaVWk4M2J3OTNSWEl3OFRpcHBYUXBWOEhsQ2pDaUhMSmg4cFVuNlZhRnQ2TkkwRUtqVllMaVdPY3c0S1laYnQ4RV8xMk0wTmhYS1RMYXBoNFR2R1RYclhPU1hIQ2FUSXI0d1hXUHo1WmNJSHNqTHl1Yk0xRXZGbFpzMG9NeHNfcDlmSVZHeS1KN1FxSldDVHVocXd3dVpHS3hydVpCNVpxWGxiQmFVbnhrRmw0UHRWRzJiYm5KWmo3eWlLbHd6YnA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Trust Stamp launches automated biometric-based authorization for transactions initiated by Agentic-AI - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSUdQY1NyYmpWS0l4UVhjaFhSWnprMUlkc051Vk8yRE1Bb1BfWDdncVlISm9nWDI1Mkhpb0F5NlZTcTJNU0ZBeF9GdHB3RmNKQmtBRXlwV0JfVVZZc3ptajAzS0pnYnUwa09tQ2hXcU11TzRiZU5vazNVWUZ4czdGYlVhTXUyZnNzMXREdmdKOUhHeU4xc2FKTkRneHhobm5Ybi14Mm05Tnd0Yjh6TlZWeG9nMjRvbmJ6Z21VcUFzN1lIdUxYLUdnQnVVNWNhbkx4Nkl1bFZ4QWNTRVNFaURfWHVmMnVVZ2FxYmhHdW1fU0dNU2RnNTBxOTA1eDF2cWphelZR?oc=5"
@@ -28,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.4,
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "US Embassy celebrates Diwali; USPS unveils new stamp | Tap to know more | Inshorts - Inshorts",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXlGb3lyV3k3RkxNbHFmZ09wMEYzalREenVFeTJwcnA1TGVEbXNDRUNhTGpXWHNaNFUweWlRN1lNaGFkN2wxbVpUN3c1SE5Qa3VGNHhwdC1mZVYxdVJrMUZzZV9PSDdsX1VuUVhhZlI4X1NadVFIOGtYVEpsUzdzS2FUX2NfUUJpZk1TR0FTcmlfZVc2OXJYRkI4NNIBoAFBVV95cUxQcXJobml1Ti1zMGpselB6ejlvS0I4bEFSU1JfUHYyT3pzVC1GX0cwZjhlOEdRbTdsczRiWlU1YV9IX0VQMUZKM0tYVTNxVVpvLVhlZ1U0Tkh3dGRTVjZlYTBrTUJMMHFocHJJTi04bXFrVHpqcDBvdjFlRUE0XzE3Vy1IMU50Q21PVVFiS2NPZGh0Ym5vUEFUSFJPb3Zha1Q2?oc=5"
@@ -266,35 +287,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "US Postal Service releases postage stamp featuring Diwali - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2tDZTR4OFlPc3o4dU9JNnczaFdsQzJTODRxY1VTNkR1V0cwb1JOUkVXellnVlJzbFAtOEV5aUtyZkptTnpVbmJZU1d1bHU4V1p2SUgyT2dtQWZfZ2FQbWZJMlQzdFVFelN4ckd5OS14Rk5tZUdzZ1N6a3BxMlFGNWIzQVpKOXc0eWxfUm1VdnVpbENfRXFRRlF4WDlBbWc1ZnVUeDZzTF9nT3FwU1VMbllLONIBuAFBVV95cUxNalRHaDlyUERXMWpkNnRmMklZcmY4aDJMazhtT1RDSWdNUUpNOG1VQ0lNZVZmR3dMbmQ5dHBNdFBjTUlZbWxYLTJBWWZBUDhmTUVnN3hNczRnWHluMklsZmF1ZEVZdTM2Tl93aThFLWItZTRxbHNxTjlwVURPaG9kU2dvdEw2R1ZDLXp3QnVfUjBXYkIxdTlUQUl4RFE2dnFkeXZBUThERk96ZDNxcG5lYVRnV0pGZHg5?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "USPS unveils Diwali stamp featuring Houston artist's vibrant rangoli - India Today",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2FiZTJESGhTamhIdExuaW15YzUtMjBINzQycnRrUnZlLU9BOThmUDZ3VFNFTUMwY2lYWTRud0pKeGRrbDladWg4ek9YMHk0YXJQWFRUal9KbG9UMklKMEY4N3JLRXdwZnp6UFNsVTJhNU5OTVZMN215RUpDeUtnLXJWUlMxYTFfUjR0SVd4azVGekZwa2tSa19Ua0VFZHB1Ykl5WXJhVkxZMTI2RTVCbFVPbXR4RmF10gG4AUFVX3lxTE9rYWJlMkRIaFNqaEh0TG5pbXljNS0yMEg3NDJydGtSdmUtT0E5OGZQNndUU0VNQzBjaVhZNG53Skp4ZGtsOVp1aDh6T1gweTRhclBYVFRqX0psb1QySUowRjg3cktFd3BmenpQU2xVMmE1Tk5NVkw3bXlFSkN5S2ctclZSUzFhMV9SNHRJV3hrNUZ6RnBra1JrX1RrRUVkcHViSXlZcmFWTFkxMjZFNUJsVU9tdHhGYXU?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "USPS unveils Diwali stamp featuring Houston artist's vibrant rangoli - India Today",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnhxZTFEeTVXRHRSVHZEVzNrdjVMVm1rZ3hCdlFublNIMlY4SDM5Z3RRbWhaTk05TVJ1MnB6NWlSYmlNc0FWN0I0TVo0MVJpX29FN1NTcHV4WUxfbDk3X3Z2NUdKZ0dOWGo3eEZUS1dmZnRhN3BxTkZmNEZ1NEVYNS1KaVY1VlNINGNhLXQ3b3prM1VaYnpxVVhMRGJnbl9hWTJZSENKWHdtQjdmNzNfTDNQUdIBuAFBVV95cUxPa2FiZTJESGhTamhIdExuaW15YzUtMjBINzQycnRrUnZlLU9BOThmUDZ3VFNFTUMwY2lYWTRud0pKeGRrbDladWg4ek9YMHk0YXJQWFRUal9KbG9UMklKMEY4N3JLRXdwZnp6UFNsVTJhNU5OTVZMN215RUpDeUtnLXJWUlMxYTFfUjR0SVd4azVGekZwa2tSa19Ua0VFZHB1Ykl5WXJhVkxZMTI2RTVCbFVPbXR4RmF1?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "ICE Launches Nationwide Crackdown on Migrant Food Stamp Fraud - KSLM Radio",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVk5fVVdyUG5KZi1mWGlRVWQ4LUN6UXR6THR6TnNCWUNsNTljREF6cGNuaE5vM1hMODY5dG1Sem5fcjRuZ0NmYnNSRTFLNVNjYXVxODF2d3k5RFg1SXZnQUlqb2tBZGdqRHk0NVpsUEZlT1phbG53RUR5UWNmcDVOUnoyOGlVMFNZNXdKcXN1UjNfVzJoNDVYTnl3enNHdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "DHS launches nationwide ICE operation targeting illegal immigrants accused of SNAP food stamp fraud - Fox News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzBrVlo3Zl9HdmNjY1dtVFBmSFEyMlc3SGtRSTdHVUlIRlAwQ3hGT2FxX0wxVW8tZG5lMnJ0LVRhMl9GbC16bmRyVFRVTENBeGhDN2xRNXFyc3JCQ1VFUE4wdnBLQVp1SDQ0ZnUwbnh4UGFRc3ZjamFNc3BuelZkelpoYjdqUGFOdnM4NE8tT3FpbjJnZFRKbW0tckhyOU1keGxXT2U5MnA0NzdQWGQtMnJFdndrV0V0UzZkU0Znbm7SAcYBQVVfeXFMTTRZcTNNalRTaUZXWlpuRlB1VHFjd0o2dklVX05TR1dGYjdjT0czVjNHd0RHbUxkWXJNSWYzTlBYVU5penppWnctVlhyc3d2VnE1azVjUGs3TnI3UHVUUUdqZzhyWnpGdzFTcHNUNnpOaGtLeURWVDhYNFllbWhFRE9uYjBLT0k1SmFZRmFYVURWcU9may1WLTJiTUtBVm9wVldVbi1EWEVPc2luano0VlFHXzhvOFZxN3FpLUd4WE9TcjlRWTZn?oc=5"
@@ -336,7 +357,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Mumbai Metro Aqua Line Passport and Stamp Trail launches on Friday at Rs 250 - Mid-Day",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ09zMm1ndUY0RnAwbXo2VnF6UHdDUGxWdlcxN0NRY2lWREtFYi1FSF9kTVNNRWViakV0V2lhN3RKT0Y5RVR0Q29rcU1CVWI5OGd4OC1wS2NYV0FzQmlxTlJNZ2lUazF3a19TV2hFS25IWjhVTG1kV2N2YTQ0eFJlSDBnU01Nd2VMUVZlWWdRa0M0VDdrS0lfNkJ6NHBncnR0YW5TbXd5YW1GbXZCNE51WTRPNDc4N0RoeFZDUFpQVWl2QjF3WkFFMGN3Z3NmdXZaREY3MGNEdXlseGFld1HSAeMBQVVfeXFMT216VVBJSjVScUFnVTg5clJWUjNXbzBtblNfbjNRYm9WTWU3R1ZiT3NYVXJDaUlmOUpTeFFzekRoSjdPVVVYTTBGMTNkS3RGY2h4azFUQTk3ZkVWNFRzczRZS2FQQ0ZaendUVE5oMHRfclF1VVdxUFY5SGFqa1U1NkNOcTJSbnYxSUdPWDZEZl9PZUtqOXRFcUszd0NNajd0YzZSWG5VN3daOWxhVzZGQy1TZjdLNmR2UFR1YV9YdEZBVEdTbjZSUWtWdVdweG1TNnFIaUZLYlMzNDllb3J6Vm94U28?oc=5"
@@ -356,6 +377,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

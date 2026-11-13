@@ -1,13 +1,34 @@
 {
   "domain": "skyways.com",
   "name": "Skyways",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 4.3,
+  "score": 8.5,
   "contributions": [
     {
       "type": "launch",
       "contribution": 1.5,
+      "occurred_at": "2026-11-11",
+      "summary": "Skyways introduces Skyreach hybrid VTOL aimed at large cargo delivery - NewsBytes",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLUJaRkFLRmdhTEVZN2VKTFRXNEhDcS1LRmJxWUhfZ2F5YkptZlBpV0ZnQTRDTXBKRVdVZ25iek1vbFBVdHBWWWltSzMzOUxhRDhGY0tWVnB0QmJ0OFJ2bWhwZHo2UUVkM3RpaUZvUnltOUFfV2tLVElWYmVQMlBZVFUzRl9IZkF3bV85ampMTllBc3NwTTNCSU01Z24tQm9idFBGTVJTU2tRNC1qc2ZjeUlkQ2JWNHM?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "5K in the Skyways: Race Debuts in Minneapolis, Back in St. Paul - Mpls.St.Paul Magazine",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WakxNNWZHYXhUTzl6M0prZzF1UUc3d0Z3VlRjRnB3bXhWRW9vUkpRN2VaN2RpTHg5bTE3UElXTkM4WUh1OF9uSHItaTJaSll2T1dkWGlLNkM3dmdWR2ZaYkFVd0Y4U2dNSzV1VEg0T1FqblRhVUY3YXlLYU5nN2M?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Skyways Launches Production of the Skyreach Hybrid-Powered Autonomous Cargo Aircraft - Inkorr",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbzQxLUQ5MERjUDBjdy11NWs0NTV5cWN2Nkl6SHBSeFFlZ2t6N19jMTYzUldEQkJqRWRUV3RqVk5HUlFraVlxcWt4ZkIzV1VYeVJzcURoUGpGbUo2UkFmTklyeDA2cm9tSGV6UWNBTW1DQUM3aVkyYVNweEl0UTJrRFBnV1BIOFBnWlBaOUJKRE5WMUx4QnY5MmZzU3ZjLWRJREJ2cVVBTmJEMHdmZjBVMmxCQWg2UWdyU2VQZzRVOGlfVFkyZEJKZTBSQmZPSWtoaFlDbGJUekvSAdgBQVVfeXFMTW80MS1EOTBEY1AwY3ctdTVrNDU1eXFjdjZJekhwUnhRZWdrejdfYzE2M1JXREJCakVkVFd0alZOR1JRa2lZcXFreGZCM1dVWHlSc3FEaFBqRm1KNlJBZk5JcngwNnJvbUhlelFjQU1tQ0FDN2lZMmFTcHhJdFEya0RQZ1dQSDhQZ1pQWjlCSkROVjFMeEJ2OTJmc1N2Yy1kSURCdnFVQU5iRDB3ZmYwVTJsQkFoNlFnclNlUGc0VThpX1RZMmRCSmUwUkJmT0lraGhZQ2xiVHpL?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-09",
       "summary": "Skyways Launches New Long-Range Autonomous Cargo Platform - Defense Daily",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlN6OVF1RjBOUTNVSGpfNEYwWVRRWUlOdFh2Q3dPMnVpeUJsbklwUFN4WjgyNDJEWFoyQmVuall6ZWsyV1pvcWh1NVM2MXZZdVhUOGxPNVVweHpkWnVDeEtGMHlTWEVNa1lHWjkxQjFKeDc4SjZCUnEzN0Z0MmlVT3VzY2xPMU1YQTRhTVJsTEhzZTMzVVpKMXZ3Z0duM1hyb0J2WW4xRQ?oc=5"
@@ -34,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

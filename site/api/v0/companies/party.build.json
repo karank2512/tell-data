@@ -1,13 +1,13 @@
 {
   "domain": "party.build",
   "name": "Party",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 10.1,
+  "score": 9.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-01",
       "summary": "Court Releases Arab Party Activist, Criticizes Police Election Bribe Probe - Haaretz",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM0dYbG1WTk5sbFgwMmsyX25yNjlpbjJQX3JnTjAwU2tlVnJQdk1mVHpBRTNDMGFLNHZpbmszdU5PWjUybHU3Z3VWRmFLVE5vTkpXRGVzSU5OUmI4TmNOalhKSUxRTkxRSmotSTVHR1lYcy1rcFpPT2NRaXJQZDdtS3QzXzlIQk5HdExvMkFZcWV2Rmh6MW9sN0RJUGZjMFZNSVdZdFo1bmhQNlFZTXpzOTNYMnFBNndhR0kxc2tNMzk0emdKalRnY1k5N1U4VzJoOTQ5RF8zUkdGVzhvdEUwM3dnSWtBcFd6S3JtdjY1akhGaS1WOXJOWUZWaUwzVHBydmhQUWZJd1JCaHVJemNjdEdQa2ZsWFZU?oc=5"
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Epic launches Connectors to link its AI tools with third-party apps - Fierce Healthcare",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFhaNU9xU0NZM0NUZ0NIbVRoRHk3Y2c2YUpxUkl0QzVtZTVScmdjdGt5Y2pJTUF4eF9RTE1fQk1QbmxNQ0lYTU9XOHdCd3I1UnZZODdLZkg0S04yREVqM09FY084YU1NVjhzU01BUmp1aWs2dV8zS1NMaEVack41QTlrblBPZjJzWUl0U2FFM1lwaFN2RkNLU1Y4SWlsNTNCWHZ4cEJ4Rk0ya0FqWVVNWVViMXRaMk0?oc=5"
@@ -83,6 +83,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

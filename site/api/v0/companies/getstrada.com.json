@@ -1,9 +1,9 @@
 {
   "domain": "getstrada.com",
   "name": "Strada",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 5.7,
+  "score": 5.6,
   "contributions": [
     {
       "type": "leadership",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Kickstarter Launches Fashion Advisory Board With Designers Behind Collina Strada, Luar and Brandon Blackwood - Net Influencer",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbkpRSHR0emxIQ0hoNTR3OGFpTEtiMlVrNDc2bjAtc1Q4aDF3QkphSjQxejV1emROdTFOWW0tTGJKdE9LN0Rhd1NvZjNycUd2TXVzdG5adjdCVWE2NVRBQ2ZxTm93LXp4Szk3eGhMb2ZiWGZxQUo0Z3ZZWUZ3OE0zNXBvWV9aN1dKb3pDM01pajRBZndNVFM0Y3VUTld5enYwUFNCb0d5UHZYM2hVdU9jNkw2YU12TEEySEljcjQ1cFdVVDRzN1Z4S1l6X3VEYklrOTFpdA?oc=5"
@@ -48,6 +48,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

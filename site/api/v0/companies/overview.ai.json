@@ -1,9 +1,9 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 12.6,
+  "score": 12.4,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,14 +27,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Behavioral Finance: Victor Ricciardi introduces overview chapter on investor behavior - Traders Union",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmh6UWJQdjM1Vkt5bC1wMVBrTUI2Q1VqS05sS19hUmcwN1hTUVhoTDBZZkRfYXFQV1RRSFFOUU1MYWVQM0g3UFg2aGI3TElrUUN4N01lZXA2aEhudUZjVFpIOGNXN0JGTFF0X3FoSndEVVFuclJGZEtOSVcwS1p5azlQaWZHYjNBb1hBR3hoUkNPOEk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Core Peptides Releases Research Peptides Overview Focused on Experimental Design - The Detroit News",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDhERVF1cGVfcUVrZlZQbkwtN3YxSzV2elVUdENBLTAxOTZlOWY0WWRPUmdkcWtyQ05TcnlIcmtIT1ExODJ2Z2dITVdURHdRWm9FemdDLXFaOFNOdF95NUVEUlNFajh5RkNtWHhWZVN4bHAyMThmYXVDd1pYYnlxbVNqS1Y1Q0dJeDRBUTVYblEzY01PcC1CcktDckJmNUR6dkJTaVktWWFZd25pcG16MFdKM3V4dzNTNWFEVFFDTXRJUXN0WXpyWjdHdktxRmpNMnc?oc=5"
@@ -107,13 +107,13 @@
       ]
     }
   ],
-  "open_postings": 63,
+  "open_postings": 68,
   "long_open_roles": 29,
   "sources": {
     "ats": "ashby:overview",
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

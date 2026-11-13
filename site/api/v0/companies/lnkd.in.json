@@ -1,27 +1,27 @@
 {
   "domain": "lnkd.in",
   "name": "Zen",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 19.3,
+  "score": 19.0,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "AMD Releases AOCC 6.0 Optimized for Zen 6, Debuts Fortran Compiler 'aof' - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xT0o5V0tYblJtSC15YzdqcXVDeFFvYkQyUFpZaFdMRUs1S3NGRlZQTzlWcFlCZUNJUjA0YWo2Vjk4WXV6TW9FMlpFb0tfUUROSjFBeW1pZ012TnhhM1hBblhzUmZ4ajhXdWc0MlZDUGxMVUd0X2c?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "AMD launches Zen 6 Epyc 9006 series with up to 256 cores, 512 threads, and TSMC N2 - TechSpot",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHZlUVE5cjNGYlFtYVp4N1VjdzJMVTVzajR0MDBtTVlKX1FfRFl4aVZ3TklHbXhHWWczWGM2LW81UWdlb1gzb08tWUF6UGx2ZW9GcEU2Z1haX3k2MUdlMDV1UFNtVkRNMDhQdllKNlQ1aXdBdXBrcnhUZnE4YlZCUGFZU3JER1k?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "AMD Releases Zen 6 EPYC Chips for Denser AI Agent Deployments - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEhfMmdfbnBVVkZuNkRDbmlDRjdpRWdLWTg0Z1JaYThoSGJMMW1hRXJuZEFUdlpYWktaZlIxdmpkWmgzYTlIbm9BanE0REFxRnRXeURRMG5hUnpybTB5eFF1VWdDdGVQWkdEQXUtYVVNLXNHVGltLW55eUI5dGZ6emptTmtscllCQmdr?oc=5"
@@ -118,6 +118,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }

@@ -1,9 +1,9 @@
 {
   "domain": "orchid.ai",
   "name": "Orchid",
-  "as_of": "2026-11-12",
+  "as_of": "2026-11-13",
   "profile": "default",
-  "score": 7.2,
+  "score": 7.1,
   "contributions": [
     {
       "type": "leadership",
@@ -35,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Complete Grow Launches Australian-Made Orchid Fertiliser With Two-Stage Grow and Bloom System - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSW9WS3lRREhVTWJKeExOYXpBTFlqWFNTTkFXV3pibEIweGRKVVp2RmVQRVI5SVRwUjljTTNTWGNaWUNRU3ZZWUZjc1UtN1FHd2dITjVELS1NNzU5WGJINnVMUUI1OHQtY2lIeE1MVnhjMTVEUjVUNDNmQ2hiZlBiU0loVnd1ZjUyd1V3bkpEeDgtUXpLbkVJRjA5NG9uR0VfVWdqa25uNHZiZGdXa2l5WGZrTkhPajJud05JZVRRVDVrTEFpQVJhck01bzVrSG0tTVJ3cTdUUVFXNHU2cGllbzZqSksxN3c?oc=5"
@@ -55,6 +55,6 @@
     "edgar_cik": null,
     "news": true
   },
-  "generated_by": "https://github.com/karank2512/tell-ai/commit/1f6ebc2474bf9e85fd171478bee073331b39cbd1",
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []
 }
