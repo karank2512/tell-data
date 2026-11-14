@@ -1,0 +1,25 @@
+{
+  "domain": "cytoterra.com",
+  "name": "CytoTerra",
+  "as_of": "2026-11-14",
+  "profile": "default",
+  "score": 17.8,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 17.8,
+      "occurred_at": "2026-10-07",
+      "summary": "Form D: $1,000,000 offering, $300,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2109738/000210973826000003/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002109738",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

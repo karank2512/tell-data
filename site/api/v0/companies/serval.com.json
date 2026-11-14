@@ -1,13 +1,13 @@
 {
   "domain": "serval.com",
   "name": "Serval",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 32.5,
+  "score": 32.2,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 29.4,
+      "contribution": 29.2,
       "occurred_at": "2026-11-03",
       "summary": "Form D: $150,000,000 offering, $149,212,926 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2103406/000210340626000004/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-12",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/serval",

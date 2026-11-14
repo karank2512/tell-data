@@ -1,16 +1,65 @@
 {
   "domain": "forgehq.com",
   "name": "Forge",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 33.0,
+  "score": 43.0,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-10",
+      "summary": "O2 Launches Aqua Forge and Appoints [person] as CFO",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFBySmFrb0cweEc3YzM5UXRmUmdvVnhFV05fcDBuRzJQR3lSbkFvTzY4RG11RXY0LXhCOWZRZGQzalVPbFNEWVBYTFA1dm13SDVWRlNaV0hCY2llQ3U3eDVxWnlHQ3FFdU4xQ1FtVzBTSjRXeDkwZUZNalhJakpleVdOc25QWEVOYXdzNG4weEZWTjRrLWs0bFY3cE1aY19WbkFPbmI3cXlPeGRaU1pQRA?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.8,
       "occurred_at": "2026-11-04",
       "summary": "Forge Resources appoints [person] to board | 2026-11-04 | Investing News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNG9FaTdqQjdHZ01SUzZmRXcyczF2XzU3UmJjOVBVUTVlVkwtNVlfVVFYZWM1Q0FfWmNRUEZ2cHp0d19EY0FxVjNMTGtWTExyZGhYTVBVTFZETThDTzc5NmM4UlVCUFJKQXY2Y3pONUxMZ0V0M01WclJ2MW9LNU80TmljUWJUbXJXSjA1NUNNWFlFWjJqQmxRcFRPdXZfaldU?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Bharat Forge arm unveils 120mm vehicle-mounted mortar system for armed forces - ET Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeHNYSWk2aDNWZlU2SjdTRDlkZVJ0Tk9jWXBtRGtHd0xoWkhhVlB5N1F2MjVxdEtNa3hiOWtZbXpYcFg0eEJnS0xiT2pGY3NETm5fX0NoNEdockN1dy1HNFJyZHo4bEl0VUluX3dYREZKblFaNlo1cU9CckF5Z3R4RjB0U3RRWUFWNUVZR29VM1hEajJxNGhnSV9kTTlCV3Q5YmlINWdpcERfVVd6a1NRbHhhNU0yaUQ2NHhJdjctVjdtYmxvNHRrdmpBOU9yZVZwOS0xX0RaYnVaM2RjWUdZc0RvS3E1SGJHd1BuTGhIcDVxZU3SAfcBQVVfeXFMT00tRjJ4Q2lmbVAwYUxZY3phdmRMeHk2YThNT1FsWXV2akt1SUZXUXFMdl9oRDBINGpjMHBnc0pmZXVhVHJvajFkMmZhd1EzN0psb2NIcTd0WUFDcGNFeGFQcy13N3RhNl9iLTVMMElHc19hTmRQQW1wRUl2QVA2dFVnM21EZWNlRERtRlZBTEdveWdXamN1MXU3cy1xZ1lsd0hkNGFKMkpMR0JNckVwV1hKY0JQc0k0RjBlbFZsSlI2SkFhRHNJbnBLU1pDcUh3NVdpTHd6ZUN1NkNBdHA0MUQwcnRDZEoyMy1TVDV3bXIzaW1MMFFMRQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Bharat Forge Arm Unveils Made-in-India 120mm Mortar System - Equitypandit",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUlTanotUDhrRzBZNml0QjJOTkItb0pYX3BWU2NVTHRfQ1JBb00zOEhRemhPMl9LanMzOUQxRGF2T1JqUS11aWkwT3FCTmVNVmVIUGQ1ZnNGaVdOUTdjUmlhUWJiM0VtMm9KalJCU1JaTnlJNS1JcHFYbXJuNHdwR3BlZGNjVE03M054ZHhQVFR0Zw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Bharat Forge's KSSL unveils 120mm rapid attack mortar system for forces - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmJEZXdwUGxTdHh1MF9lVTFTWThuRm9veHpUT1czS2RoR0hJTS10Qi15UmxDdXZwdGNxNFBtV203MGxFenVaeWZvNnJZWmY0Z0k2T2NWa1VacjVnY09mVTluaDBGQ0M3dGo5WDhjVUhPdlN5WnRtdzBKRnF0eGwxQVFlLUhpQWw5WGRZWkxNd2VpUi03Y3ZtVm01RWdLbUphaUVaNTFSVUdvSFp4Q3pTRTVvYndoTGpuWldr0gHAAUFVX3lxTE9VRk9ha0Y5c1VEdzJrVVNodERnc2FNWGVEZXBXYXIteFRxcV9Na3hwTDBmZW41bWphR3VOWkVaUXJCMlZqYmQ0aUlyWUkxYmZNVkphSGxNVTVabG1CZlUxNjJuUHlEcUlNbGxzTUJ0bDdqQkNqVHZfSUhERWZNVUZJYzhNWERBNDVLXzlFV0pWVXdBbHgweGp1TTlNNmQxaGxkR2R6Ukk3WjMwZWZFUHNtb0wxLXN0aTNVd2tzTzRCQw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Seagate FireCuda Forge Launches in Australia – SSD Speed Meets 20TB HDD Capacity - Digital Reviews Network",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDh3cXFLNnEtMlFzWlpPdk1aT0VmT2Z3WUZ2Rkg4MVVYSGcwbTNzT0R2ZmplRk16WE1uZGNscG9oQTdvbnJKRldmdGlWdHJLZ2tvenVsT2puUEdqY29qcktXQWJSNHFKQV8tR0J1MHptSEUxSFQ4WlljbmJpS0pxWGpPMDR1eFVHTkFBVUg4MTVpZHg5bEtn?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Seagate Technology Holdings (STX) Launches FireCuda Forge As Undervalued Narrative Faces A Fresh Test - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbFE0MGNvNlRidkkwUy1aYzVMbVpUYWVZSWNyXzNKTGVOckxaVDBtbGtzVGZTdW43WlJpM2JNbElYRHdHSi12S2Y0dkRxSDlNVkRmR3pMYVY1amV4QnI2R0dtRXRPcnVWTTRiMzNSeGc1aUZ6UEg4LXNjZldaRHoyV1BYWEdWOHNLaXRBUTFfY19oS01FVkR4ZThnZ2FZTXpIamlSVHAzbnhXbldJRG1nQm11XzJzOG5zeDhfMVhjN0ZnTEc5YmMzeE1YZUJfM3Y2SmZwRGRzTjPSAd4BQVVfeXFMTVpHWUUzWmNBMlFYOUVDd1ppWU1lVnNqTTFhUkJWcGRjVXJmaFVoOXY1Sm1HbXBhWE1HdDlDTzFJVXlGWnJJNjhrM0Zod2hic2l5VWdVU19VS3RXdlVrcmU2YXdDTTctNHhXZ1NqempaMF9RckRtelo4dzBhZThfYnVmVzlONThMMDFFZUFUdDB4eFpMUHczcjh5T0dFbHowdnFmdmoxUGRXTkNEMkhVcGl2UGR2d2JJckdUNkZUdnhZUDkxUjdCZmVmZXZsUmRUcW9YTFVjZFliUzZNbkF3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Seagate launches FireCuda Forge combining SSD and HDD strengths - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV25mZGdEdzc5eXFqc28wWmJ0WXZGazhWa1MyZ2tMRzBpaE5ISlZlbS1TU09ZRDdmLTB5clRfemNtaHE2ak55R0h6cmpNc1d0RUoxZzJ5aEJtbmNDeTAwWWZjeW9BempjeFl3QWFoYzlQc0VmLW5oNWVtM2YxNXB1eno4UVAxTDlWV0ppNG5sbHZ3Y2tDemQ1cndRdkl5WGVKckVjUXotbUFickFQZUE?oc=5"
     },
     {
       "type": "launch",
@@ -42,14 +91,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "CodeBoxx Unveils CrewKit Forge, an AI Software Factory in One Cubic Meter That Companies Own and Run On Premises - StreetInsider",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeVl1aEtCOWNUV05kZWd6QWdOMnpUVzdCeldlQzI2bmhOTWpqZ21Od3FYTWg4ZERfWTQ1LUhaODBPWUR4Y3A0d05kZkNfTXFlT1VNcGxkUVJsNEplWS00SHYzTE5jWU1HTXFId3JWN1hqYzNITFlnbHVGUFlQSk1ZSFpkYlRKa1VHbFBRVXZJN2tNXzlKSF8wWmRJbWJKaVRScUZ4S0w1N0l2Zk5KUDFkdHpWY0xEQ2twSl9qanVMdVc0ZTJMU2YzUGRnOVpCaUh6dzdfbXBycE5YYzdwNi1KdHo2VTgxSHZxMFpKQjYxeFFZeEVoNWpkN3BWclBadw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Genenta Unveils Saentra Forge as Its New Brand, Advancing Its Transformation into a Strategic Industrial Platform - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcE11VG1zNURrWERuWEw0RWtJX0F1SVgzbDhtWWxSUndFQ21mbEJacTdVRXlFeWNXSkYzU0lHalRJd0d6aHRZUjk4aFVsTTRuVmFuTFVUcXYtV0ZGRlQ1VDJZclZCeVN3cXFSYXN5dWRreEpPRVpheE9hNmdzdi1vRWxiWHNhMThlTXdrU2cyTWVmSTRKMHpQY3g1WlpaUGJaMzl2Yk9aa0ZRZENReVQ5aWxZYmZQd0VQUGwzV1FIOGtQbUJCYktpWWM5dmtJS25VUnFpUldRR2tFTjBlNUIzT254R3lVMGVfclduTUtzQlFZUWJBdmlxZHJqMkJpOXdjTGltcjE0MWZmVU1XYW1QalMyWULSAZoCQVVfeXFMUF9nTWZWbm5GUGJtQVVOcGZWS0trNWlOZ1dPeTlzcjJFTzQxSXNIVTY4YkRybm1GOWQ1WEZIWC1VdEJRVU9TZXRjZG10bFhsNFZ1czE2MWhxLUV2aERsa0FRcXo2VV9YNVRwVE9yNlI5cThSUkNPbG0xbjdLRkwtNTctSF82blhrcV85QXZiUV9LLWlRM01ZeFI0cFlsTzMwaDE1RGpfOHMtdDBTUUdwbHBMOHNJc0J3cTh6LVNTc2RuSUdpdXB5LVM4VmE3YjZQX1FtQUN2eVk2U2t6cVdyaUMwckNSV0h5azVSZkc4MUJNeUNFeXJEOGwtWm1xaldyNHR5U1hHWXZzM0xYSjg3Q2JZWHUzakYwS3VR?oc=5"
@@ -70,7 +119,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Honeywell Launches Forge Plant Cognition at Dangote Refinery to Unlock $60 Million in Annual Benefits - ChemAnalyst",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0NlSjU1ZVN1RWRaNDVGclVGZW5FYUVoQS1icGIxY0JXY1dncnpCVHNtRUxfUVVBeUoyeWl2bzU1S3ZJTHVUd29LVTRvU1MxWXJ0cFNBU2wzaUNzOUd2QmV4UVJ0dTdPbGZqUTd1bjl2R3dmQmFtNWM3bkNYM2JycUI2UlU1QzBlY25USTBDRDBoaVlmdXZObzUtWjdYTllvZEphdVBCSXFrcUNMdXpGZmxSYjd5ckRmbXo0?oc=5"
@@ -161,21 +210,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Pixel JRPG Forge of the Fae Launches in March 2027 - VGChartz",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSndjVjZDUXppX3VvVjBUdzRic0d6MjFDcFJTc0dHM2VoaVhFZXBNME9TeXcxT0pDLTU5LTJINFVMc3F1RjNjdVQzY3hVSkRoNXM2WnhNMWdIa0wzQ0V5UFlWYTFYYmNhcEI0Vk0xZFMtYl9YVE1rMmFReWh4ZFlsRU1LcUhUZTlJQ1gtOEJhNWVmTHRFQlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Forge First Asset Management Launches ETF Series and USD Hedged Series of its Alternative Strategies - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaHROSFpLQ1RoRThwR0NrbURYdmE1S1lkUVRpQkFEY3RGQ3BMLXFhZjNkNG5hRy05Y2RDZWgwMWdmWjVMNWROa1pFQmdGMXA4SElQQWRYVkVHc0FEYXd2eFhlcGJkMTRNdklQTUw5Uy15WVJzSGYzaDQ4SUlvWUhmbGQ2SUIyQm02QktZdGRCRXNHUF9WV25JYUREbE9ZRVppZ1ZSUDJVLWdQTVFoNGlzaWpKTmwzd3h5djZOQW01Z1lxc1p5cUJ0d2RjUXc5eVZEVW1UY0NyeHV5VGFYb2NFNURUampLd0w1OWMzaEJR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Forge of the Fae launches in March 2027 - Gematsu",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DSUc2a0tVdlNCN3lyMWtYM0ZQSzVNUjRLLUdoVGhGb0RnS00wZTRtby1hZTQwMHIwdzI3dDR4YXlaYnR6NjIwUnB2eTJNV1ZFY0FZZWtjSGhwVVZYRUxOWjhlRXAwODM3WmFtaElaUXhJWkNKMkZ6Wk1LUQ?oc=5"

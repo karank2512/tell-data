@@ -1,13 +1,13 @@
 {
   "domain": "d-id.com",
   "name": "D-ID",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 1.0,
+  "score": 0.9,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Introducing Presentation Mode: Slides That Talk Back",
       "url": "https://www.d-id.com/blog/blog-presentation-mode-interactive-presentations/"

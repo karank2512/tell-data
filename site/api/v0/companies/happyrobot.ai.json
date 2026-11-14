@@ -1,9 +1,9 @@
 {
   "domain": "happyrobot.ai",
   "name": "HappyRobot",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 2.8,
+  "score": 2.7,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -32,14 +32,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "HappyRobot, AI agents unicorn, launches operations in Brazil and office in São Paulo - BNamericas",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamlPbWxvc3ZFRThxWVBIenp2b0plQXppMU9UUkJzNHRGRmo1ZlpsR3RHNF9pbUd0MlNnUHlYd2djek9reEpLY21wWEpOVWFqc3ZJbUtna2xUMUpIVXFfRTNIc2F1eXJFTmFBY3ZQUEp4Wm5QTHVGdXJDT0stVHZVSGo5V2FqbzZTS1hmTWtUeGRYd3lxZlp1VGRiM2xyeFV6R3BucUVDUmkyT0gzdWlKaHZhNkk5Nnk1?oc=5"
     }
   ],
-  "open_postings": 74,
-  "long_open_roles": 32,
+  "open_postings": 66,
+  "long_open_roles": 27,
   "sources": {
     "ats": "ashby:happyrobot.ai",
     "edgar_cik": null,

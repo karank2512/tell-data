@@ -1,13 +1,13 @@
 {
   "domain": "legora.com",
   "name": "Legora",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 43.1,
+  "score": 42.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 29.6,
+      "contribution": 29.4,
       "occurred_at": "2026-11-04",
       "summary": "Form D: $550,000,000 offering, $220,820,026 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2071663/000207166326000002/"
@@ -15,7 +15,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.3,
+      "contribution": 2.2,
       "occurred_at": "2026-10-21",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/legora",
@@ -65,7 +65,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Legora Launches AI Agentic Operating System for Legal Work - The Chenab Times",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGF0S0tLUG9lRXVFd1pzeklaaTY2eFV5Q0JOZ3llZU5UMTQxVm4tOTFSQmg4M3VZUVU2d24zZFhqNnJmRzJhMFFKQ1lyUjA2eGNMWFpUb0s4UVpWVFF1Wm1hVk1nYVRoT2hkcTdibTdVSm9iQlBWT3VJUHRod202RlF0WHIxTFE2UlB0bjhHaDBlbTMwOXF3am5ycUx6NUVjT0VpUkU3ZTNSeGo1bHVBc193bnE5NDlFRTZiVHhBdFRad9IBwgFBVV95cUxNNGF0S0tLUG9lRXVFd1pzeklaaTY2eFV5Q0JOZ3llZU5UMTQxVm4tOTFSQmg4M3VZUVU2d24zZFhqNnJmRzJhMFFKQ1lyUjA2eGNMWFpUb0s4UVpWVFF1Wm1hVk1nYVRoT2hkcTdibTdVSm9iQlBWT3VJUHRod202RlF0WHIxTFE2UlB0bjhHaDBlbTMwOXF3am5ycUx6NUVjT0VpUkU3ZTNSeGo1bHVBc193bnE5NDlFRTZiVHhBdFRadw?oc=5"
@@ -156,8 +156,8 @@
       ]
     }
   ],
-  "open_postings": 340,
-  "long_open_roles": 111,
+  "open_postings": 341,
+  "long_open_roles": 110,
   "sources": {
     "ats": "ashby:legora",
     "edgar_cik": "0002071663",

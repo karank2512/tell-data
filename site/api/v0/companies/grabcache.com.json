@@ -1,9 +1,9 @@
 {
   "domain": "grabcache.com",
   "name": "Cache",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 22.8,
+  "score": 22.5,
   "contributions": [
     {
       "type": "leadership",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "Seagate launches FireCuda Forge, an external HDD with an SSD cache - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEtJWE53bWc3ZXlkU3cyRWhSSXN2YnlEaUZnMU93eC11cjZPSjJsQnVEWUJfbEo2cjVUYlN2c2dIZk8xcFQ2RVJpejlZRTRUNlJTaXQwRzlWYVFob3FXal8xNkVCSW9TWkhwSDZMemlaWFhmYjNSWXhpVWVpUFpNT04xejhOWVJmajFWNEZDRE55ZjQ?oc=5"
@@ -105,14 +105,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Tensormesh Launches Platform to Cut LLM Inference Costs Through KV-Cache Reuse - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tc1RxSncyd3dqQVB0ai1qVGtRcmg1VDRsaGpjQkVadVBHM0NtYkpZMGRhZk1fRmtNSklLa0RBaXZPZHRnUGVNTGpSUFY5dUlrcno1ZHluQUFPSnFJQlBPTHNsb3NEZzJGS3RoWg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Tensormesh Launches Tensormesh Platform to Cut LLM Inference Costs by Reusing KV Cache at Enterprise Scale - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOMFRMelFmdDBERm9VME5lOTB2ZkVPdkZZV3gzVE0yWVR1Y2dtZEhtcEFEZ0VxN2NwZExOMXBraVpBZmRFVG8xUTNOWm9XOVRTdWkzVzJfSkhXYjd1aXpIWjVQb0tZdXh4T2VfSlhPb0VqYjFoNXdDM1liRGxFVFRSSTlfT25iTUlfcmFVU0FxZURYalpZLS1XS1pFMDJlaE5id1padWYza2owRnBZZEVQV2VNZXBncS1SQmZDMHRHMC01VUJ6WmVlMGozeXNMUFhFT2swYlJoNkxvLTlIMkFQTFZnWXJaZ2k2T3dQQ1k2ZVVBR0ZTOVpCekJmRUZkNFY4Nnk1cVdLM0U5dDNZUVd5X2ZWUlRpYkJiTmd2Y2lPclZ6UlA0YkhJQmp6eHNHdmFwVTJGUng5S3BhN1MySndSUkQzNTdOUHE3eEl1SVdiY2JfVFotV0hqRzUzazdZdk16SURyUEZncm9sX3FyR0gwMVlFSVhqai1BRGZVU0t2bDExeEY0aFhPOHpwMzVfdmxMcVQ2TkJtRzNaN09aalkxZ0tzZWUtbndfb3lNdw?oc=5"

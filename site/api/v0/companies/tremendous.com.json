@@ -1,9 +1,9 @@
 {
   "domain": "tremendous.com",
   "name": "Tremendous",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 11.0,
+  "score": 10.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -48,7 +48,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-10",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Tremendous",
@@ -89,7 +89,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-17",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/Tremendous",
@@ -107,7 +107,7 @@
       ]
     }
   ],
-  "open_postings": 29,
+  "open_postings": 30,
   "long_open_roles": 14,
   "sources": {
     "ats": "ashby:Tremendous",

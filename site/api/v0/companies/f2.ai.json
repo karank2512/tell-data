@@ -1,9 +1,9 @@
 {
   "domain": "f2.ai",
   "name": "F2",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 4.5,
+  "score": 5.8,
   "contributions": [
     {
       "type": "leadership",
@@ -21,14 +21,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-08",
+      "summary": "Laowa launches 24mm F2 Zero-D tilt-shift lens - Australian Photography",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDNyRF94WWdyZ1duLWpZb0JPM2x4THJISFFCUHkwdWZCZDFObG9XcFRBZzgzVGQwQmhEdkgydl9rQ3FiRW9JQXRweE9BbldncGpTUE1wSkxUYVR4SGJxc1VvSlpmNVg2UjI1V1pSS3hOTTR3c2V2ZGNYVVk3RFRDXzk5ZGVNU004Yk1WX1NfVTFKUQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Sigma's New 50-120mm F2.8 Launches Today — But High Demand Is Causing Supply Issues - Fuji Rumors",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXJIVkhScS1zU3JPN2ZvSUdobGNEZnRES2hYdE9JNVBweGZVaU5pMGVrUE9FQlU2NlNIVldWN21abURBZEE4OS00a3FOQi1WLVNKdXpwYnI0N1BtUFJhZEs3OTZLUXk2UG9mRVRRVWVSN2N4enNaRlBEaWZ4SmtNVEJ2dnU2VU0tekR1al9NMDV3dnpsd0ZrYkVpeGZkbGtfZXBmNEhmY29uUU8z?oc=5"
     }
   ],
-  "open_postings": 9,
-  "long_open_roles": 5,
+  "open_postings": 8,
+  "long_open_roles": 4,
   "sources": {
     "ats": "ashby:f2-ai",
     "edgar_cik": null,

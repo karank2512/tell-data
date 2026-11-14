@@ -1,9 +1,9 @@
 {
   "domain": "intelligent.services",
   "name": "Intelligent",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 70.0,
+  "score": 76.1,
   "contributions": [
     {
       "type": "leadership",
@@ -14,10 +14,38 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "OpenX Appoints [person] as Chief Executive Officer to Lead The Intelligent SSP’s Next Phase of Growth",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbEFadkk0RWFPUnlJTTRiRkdycnVTZkFGTXdIMGM5MGU4OG1tZDd1N1AxZkw2SklqMnFVek85R1hBQWc1NHIyRTVmQ3Ftb1ZUanJ0YUktQ2pDdlIxaXJqb2dxNTVESEN6dWgxUEFMaVptak14cFBxNW9xMVF5N2Zqd3ZDX1htdG0tZExKMmxMRlJlV0F3c1UxYzJiZHkwS0poSEFfMkxuMXRPelllWXhwX3AtZHFoaXZUa1ZZdW5HQUluUUZBY0ZCV0FSYi1yUGFfWVlBcWN6TjBnQjNoVVpQYzU2N2RlN0xpSkZTc2FfenBJZ0xO?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Bendix launches next-gen intelligent antilock braking system for trailers - TheTrucker.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1BxMFBRX29WNGVuUS1RUEV4TW1kZ3haRVYxN3lCemFuNG5YaGdpbHkzeDBRTG16Q2FvYmFVZXdzZ1Q2bkhYNEhaaWM0WGJ3ckZ0WWNNdzR6U0ZTT3R6ZmYyblZ2SzRFcUNhakdFYXB4Y0FtakZUWXRQN1BFbVVJY0VSRjJRRVRISWF2WHNDeVZMMGJSd1ZCeC1xSkdjMTRKakFRY0hCSmpaTWdNRHZzb3pYQmtOV25mbTRuZFYydy11dExkUEFhVw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Google Introduces Gemini 4 Hydrogen to Make Search More Intelligent and Responsive - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORW1wb2lTZHdsUkdKQktFY3FORS1pZmxaMDVOSEw0Q000bzkyQ09fbWdFMEE2enk2RW95ZXlPbVpfR3dCX3ByUTJKak5ZSF9FaVIwcS1jWGt2SWV6SkhWcXBSUTN1ZmNLWi1ISGFsMk5mbDRjN291S1VyTnNEcTNMNFZDblJuRDBCSmQza1BjaVE0b0FzRzlLWXJLdVBjQVR5VXE4VV9udFFHcHRzM0dFU2l4TkU4bTZCRXJjaFlfbENUMFd3U29RbTN3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Google launches Intelligent Eyewear collection with smart glasses from Gentle Monster and Warby Parker - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDJWUzl6UEZNb284WTBTZ2RXaF9NVEVEWERyQXNZLXpGRHBzVjktVDlxMGdCNGRyaFN6bHZYRmZBUzZuVE53OXdZN0g2eWtWcDlIN1VHMTJwb0lKNHNZTURzLU9qY05tMFVIQ3VXdVd2YWFsNHcyMXo1aUNMak1TMk1oRVotaXdxbVBlQ0l0MEgxUHc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10 - 9to5Google",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDTHNpYUlmZUx4cncxVDVYdUZ0SnJlY2pIR0F1bExUZFJuMnRSZXZROWlvVm4wQTYzeFNUUTdXNGlDT3JKVTVhbGtJb096dDdDbU5QeFJvN1FLUXR0WWREa19LamU3NlptdkFNQkM4Y2M1Und6WEQ2NQ?oc=5"
     },
     {
       "type": "launch",
@@ -60,6 +88,13 @@
       "occurred_at": "2026-11-10",
       "summary": "Seagate launches FireCuda Forge - a hard drive with intelligent storage that taps SSD speeds - GamesBeat",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWF3dGlyMHUyZnR1dmRJT1hJQ3lyQTlyR2xwV1NLLXMzcXB3cmZxZUt4RHd3TFY2dVV3QnRnYmI0Y0lodHRTc1dXdlVsb0VpSk9jeUVWWmNnTkZCUTJ3TWs3SEpvZXVwd3BuZkllb3dPeWgzODNnRlZuQzJuMmpFejdzdzl1a205WktvckJpbnh3dkgyaTVaVlNRd01CSlE4MGNmVVBEOVRidEV0VkMxVXZBRQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "RWS launches Weava™, a culturally intelligent content transformation platform built for global growth - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVFYU2tPTjFiR2p1NWpjb1dLMy1GZHhCa3hBbHAxajRINE9yejNjaDlIU2xfSmtIVDJMbGZGNENTX1ZILXIzRW9jLVEzdWNkVVJGSnQyV3hNYUpwaHRuR0tnY3NhX24zQW43OWVtOWw3bnRILXYzMGh1RkJPUVl2NlpPclNxdGRqTHpLdzEzRHNCYTU0V1RzRjlRWDFGVjJFUTQtd3ZJY1g?oc=5"
     },
     {
       "type": "launch",
@@ -126,7 +161,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Samsung’s Android XR ‘Intelligent Eyewear’ reportedly launches in December - 9to5Google",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUTdmLVBqU19UQy1Za292VUtIVG9lcFVyeWh5TDBCMkE5WWRUWV96cy1kbHhCOEVEX05IR2tFSEVlb1pmMm5ZaFd5UnM5Uk9mVlpuOWVCVEtjSDU4R1FURFktOS02cjQtV3dIcVpIdF8teVRhOTF4SlZuQUlhZXBSVHY3TmIwdlJWUDlLallKd0lmMmFPYWF0eFpGTVVFbW1IYnN2MDJaTDVlZw?oc=5"
@@ -168,21 +203,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Google launches Gemini 4 Carbon, a cybersecurity model rated as the world’s most intelligent AI - Marketing4eCommerce",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tUE51eTh2a3lBSlZzRFRfcGRWUGc0Tjk1WldfLWJ4YVNxT3Jta3JqZk5DUE9GbU11NTgwam9MRjhGLXlRYzA0dkd6bmVabktLeHNZa256NUxqaHVYTl9XNw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "SlotsUp Launches AI Assistant to Power Intelligent Search Across Its iGaming Platform - Android Headlines",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS3l4U01NNW5wNFgtMUl1UmJ2OEZtUEhwX1VTN29XeVF0RlJaNG5sLWJ2YjNtMTNhUDVKcmR5bnFocmtfVEhHSUVObi14eXE5QWNzLVktbHpkZXJzOGJwMUYtb2pYNnVhbzl0bk5pWlNra21XZ2stcjIxSVlwNnBLR29SYWZ6TVVrdEQ2MmQzaG8ydndqVE5fV2xHZkZMb2JqMXVGUEdjREp2SWdDdTJRX2tSQXREcmpFMVYtSk1aNFZldDQ1bThsdTZYZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "BluWis Launches TraWis to Bring Intelligent Decision Support to Energy Trading - The National Law Review",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcnVNSnBLVjFMZXRBVDVUMHY3SlJjNDdPY2ZIYmozSjZuOWV1c0tyRXJVd2p6a3lDN1NKQU55WTV0RE5OcjlkTV9vZGJnNlVBelc0MGd2MHl3UnNUa2pfc2hSc1E1R1A1RE1tbllaa1ZhTEJZanRSdW5lWHgxTVI2bW5RNWZwbl92Qno0OVR1ZWJQc2d2cWI4Y1JESXFwbzlwOHZ2NGpQVzRhRFVVellveGJB?oc=5"
@@ -245,35 +280,35 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "FinBursa Launches the Intelligent Front Office for Private Markets, Powered By Agentic AI - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzMybWxldExOUnVGWVpLM0lCZUMyaWZPVEQxZ0dvaF9jQzJOWWQyNEo0YXBOMmI0aHFiS0dreTg4dHhDZGRyUjg1RTZyaHJvTHBsbnRJcEdnTXoxRnozbGszUV9NdGVYSXprYkszR192TEQyR29UUmVhc1dBSkNpc29lZ2lYbHRwajE0U3MzTEZQemtqTV8tTnZKdTR5TEoxaFBzQkNQR0hVcTdBQTNEWmNxaDAzVXhmN2sxZ3Q2Q1lLaXJsNzktWVEzNmFZSFNwakctZG9Cb3RjT3lMNDBzOU45aE1tQkI3S29OVU1OQW5LQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "LONGi unveils intelligent manufacturing base in Suzhou to advance solar-storage integration - pv magazine Global",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1YtYzduS3M5ZFZGbzhpbkRWc3dvWk13b3JaTUpyUHNNYlRNTHNHRFQtWE82VVpkU05NTGRCa2J3V3ZqdjdnVXpNNF9KWXFNdVkyUUpfX01QTmR4V0oxYUpfQUhlQVRzWVNud3lMbVVCdU5jU3ZBYlRXMmdycUNTVFc2T0NvaVpmakJDRFRtdjh4NlBLRnQ2V0JHSW50dW01S3FzbkJHLXNPN1RfZHlvWTVHZmJvUl96VDd2b0dQVzEwaVc0emdOV0wyQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "ZTE Launches M8000 Intelligent Computing Micro-Module Data Center, New-Gen AIDC IT POD Solution for Global Deployment - News-Press NOW",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOb2VTbnlWSWw4LTc5WGRobS1scGZDOENPdWx5NEZPNWg2MFBjS0Q1dmRRZlVUNXNDWUdCQWQzVHJYWk9fTWNyZjhaeGpLdGFRY3JxdTdGN0s2emFPY0xWSmtKQ015emw5S01jWnRGNkJ2LS1LdlFKdWFpS3FxdGVrUHJCNHBhMmJlQTBma2VBTzA3anlKQ1pFS0tfM1RRcFdqS0RJV1hEZUlkMmRwNmdZNVdTTmI5SkQ2YVpCUVY5bUFCUnFDeng3dlpKRlVJNWZIUkZLUHoycExBR2dvdFc5bzloTk1PaHg2c0tQTldLQ0dfZ1JPRVhvOUplR1l1VjBNcXc5RnA0TGpfVHQzcXE4dVRZTHZUaEVvWGpHRXZLMmRTVlRFcWVELQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Intelligent Relations Launches Always-On AI PR Agent - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRUcyMy1jNURNSGRLS0ZfTWFiX1BERVRIR3BHcF9pZFoxOVRaQkFSRk4xTFg3T3ZSaXVSMXptUVkyWWFGbWYyTnNFODc4V2phZF9zdnV4NkZiRGlRNFNSX0pzN2VfX1d5S1JFbU41WEpXWVI2MTlibU1ZbVhza1ZjZkJMd2dGMzJ4Q2ZmMlhQQzBoTHRyNUU0dUFCYjJ3V1R2eENxNkVwYm5ISmV6M3ZsMkpLeHFSNXd0dlJ6UGRKUGNDdw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Frontline Education Introduces the K-12 System of Intelligent Action, Starting with AI That Is Already Giving Districts Time Back - FinancialContent",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWXZCUzBMOUxTUmZvRkZfTlZCOC1WSF9JMkp1c0E0YTFoSnZBcVJ4YW0wTWRqRVAzaWhaUFVEMkZXX2lDNjRNN1pSMDBmSVdQdThnVmVDUGxHaDBlbU01TURHZk9xRVdLUnZERXZ0dmxieV9scGJOd1oxSWRzUjBmcEwzNVFyUUlZcU5kWmlBUkdpeEUtNmY4bkp4Y213RXMwRmd5YWd3dWUzdEJtdTFyNTZEWkRyYV9ZWERpNjhpTVpLUlc5T2J5a3ZKc2JyVkgwS0huV0NXaU9ocUFRVGNVVnV3anl5TUNXdHhwM3V0NmxnU0JxRmFFbFpJeWRxZGs3TDJSNURZQ0xtT3lZSmZRRVhzR1U?oc=5"
@@ -350,21 +385,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Google Launches Intelligent Shopping Cart for Search and Gemini App - PYMNTS.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEhoUDRJNEFmN0lDOFBsUVk2R09USTIwcF9ITEkwMkdXdDMwOHBlalA1WlpMOG92Y0dJZmhPMzg0SXZCeXhKOU5kcHRrSnFMaWxUNE9SSWxqQUwtYXJnYXNYV0M4ZkpJMkZLMFY4dXlQNWIxaV9WbkdkX1VhbmdKa0F1NGZfVm9aSEVyZEU2THNaNnd6aDB1UGo2YTZFWWhYVkY0eFowUE56N2M?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Veeam launches Intelligent ResOps for Microsoft 365 - Techzine Global",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcDBfeDBOc2puZGZvSzEtN2JSMkNtbHp4OEJzOEFrRzh1WklmemRlNmtMMUo1RThsREVTMlZRd1RycGFzNk9QbFhRTWhyOUlCMHpJNUs5VU15NkZfX2wzdGp3RHg0UGEwT0M3M1VTUW43UXBveHpNQS1rMkxuWXBnLVRIZ2NaM2Y5a1FxS2lmMnFNTUlzUzJ0cGlRanRGM21aRGwwRlVBcw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "LONGi Energy Storage unveils intelligent manufacturing base in Suzhou to advance solar-storage integration - Longi",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHVE8xc1RxeUZkVjBTWURGaVREZEpkTUxyQ3cxbXhKTUhVSjhEVDlZVnBTU1VzQ3JEcjJvNUZhaG5fd0xFdUxvNUZfUXVodTh5SVBlUm1tbS1RaEYtQTM5TmozLW54bVdYSE1BQXpBWk5rV2VRUmZXbDV6QS05cWs?oc=5"

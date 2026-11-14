@@ -1,7 +1,7 @@
 {
   "domain": "encord.com",
   "name": "Encord",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
   "score": 1.2,
   "contributions": [
@@ -36,8 +36,8 @@
       ]
     }
   ],
-  "open_postings": 42,
-  "long_open_roles": 19,
+  "open_postings": 37,
+  "long_open_roles": 17,
   "sources": {
     "ats": "ashby:encord",
     "edgar_cik": null,

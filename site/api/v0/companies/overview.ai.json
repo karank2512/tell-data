@@ -1,14 +1,14 @@
 {
   "domain": "overview.ai",
   "name": "Overview",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 12.4,
+  "score": 18.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-11-03",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/overview",
@@ -24,6 +24,34 @@
           "url": "https://jobs.ashbyhq.com/overview/8c23801d-fc75-43b8-b140-4714aa896c70"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Google rolls out Invalid Traffic Overview Card in Google Ads - Adgully",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdG04NUdCbXFjNjBYTnNCUW53amwxSmJTeFFERC1Fb1VaUTFKWnFFcGkyVzBvNzNuSnJwMjhJcG14MW5uekNkRnNNSmkwZ2RvNmY0VnNWSmltb0FoMm5rVHNKRFdwaGN1UDNDWGhqOW16Z3N0ZTRTSjQtMEtNVDQxSFVyWkxHa3NEUjVaRlZrRXI4QU4zQzR2bGxpVQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Google rolls out invalid traffic overview for advertisers - BMI",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzA5VDV6b0tjTEZGc2ZFWkNPUmYycUtmcU1oSkNqS01id1JkM2ZUckR2VGhmUWQtTHRIT3JLRWN0UG8xaFZ1aFFld1Q1Mm5oWU5aTTAycWpDU3ZEbzFSTFV4R0NJS2ZsdEwzdWFBNkdzTDl1S0xNb3JaOHByNkN0ME04RjdBM2Fac2duT2ZtWVU0RmJPVTB2X2tONXF3bkEtSlUyb285NTBhTW9Mbkx2LXBpdGFnbTY2RldLbdIBvAFBVV95cUxQQzA5VDV6b0tjTEZGc2ZFWkNPUmYycUtmcU1oSkNqS01id1JkM2ZUckR2VGhmUWQtTHRIT3JLRWN0UG8xaFZ1aFFld1Q1Mm5oWU5aTTAycWpDU3ZEbzFSTFV4R0NJS2ZsdEwzdWFBNkdzTDl1S0xNb3JaOHByNkN0ME04RjdBM2Fac2duT2ZtWVU0RmJPVTB2X2tONXF3bkEtSlUyb285NTBhTW9Mbkx2LXBpdGFnbTY2RldLbQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Google Ads Rolls Out New Invalid Traffic Overview Card - Search Engine Journal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVQtbDR1WkY5M3BHUnF4OVNicFpBaFJUSnA4QzhhY1BXRFVIS3NhSnVlaTFJTVF2WjR5Y2MyUDFfb3dDQ0IyRl80aDRTdjFWVHNNdlE5QWJyakJiN0xOd1Q3LVJVd29RWmRjcF9HTFR3czI2ei1rRkNzVUJDaFdpZE1MN3ZLOUVTU3B1RVBEMVVHZGVaTjFMLW96eHk4Vnc?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Google Ads launches Invalid Traffic Overview Card - Search Engine Land",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWNCcm1aN0QtNXRfTGU4R0dBcEdtRTJqVXRnM1l3dkkzeGFQcDJkb0VCLVVoeDBRQXUxS25GZk10bVlaSnVKaUxzZGtESFBtdERpTm9wM2tab2NzaVBhd3JBS0RMcWRDS1ZBS25LdGR4QjltbE9ybVV0SWhDZTdLVHJTWVFpSEZnTEFjVmJR?oc=5"
     },
     {
       "type": "launch",
@@ -76,7 +104,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Madison County House Buyers Releases As-Is Cash Home Sale Overview for Huntsville and North Alabama Homeowners - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHRwQjRlUVFZbUJ1MlZySWtBRXJvRG82Vkw0dDhQdnUxQUFEV1VpSzUyZFI5TDJSLWl2VXRsOTc1bzEzZXNscld5OTltVlQ4LWVSRkw5R2NSel9HaXloZnZlVUctS1pZY282dngyUmFGUklBMGcyazhFejE3Ul9ZbmNfdUFfc3BnX3lLakJ6aXpDeG5neTdNS2JlM0lPUWc?oc=5"
@@ -107,7 +135,7 @@
       ]
     }
   ],
-  "open_postings": 68,
+  "open_postings": 67,
   "long_open_roles": 29,
   "sources": {
     "ats": "ashby:overview",

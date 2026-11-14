@@ -1,14 +1,14 @@
 {
   "domain": "amplitude.com",
   "name": "Amplitude",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 18.7,
+  "score": 18.4,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.8,
+      "contribution": 2.7,
       "occurred_at": "2026-10-28",
       "summary": "4 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/amplitude",
@@ -64,14 +64,14 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-17",
       "summary": "OpenAI CTO [person] Joins Amplitude Board As Statsig Continues Under Its Brand",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkN3RWRhRHAwMW5pR042djVScHFHblpzNFVNajZGS05kLUFlYW1RUmZWR1hKdEluR0RWUmgySXhBYWkteV8tTDAwSUJqRzJONW9QRDBLRUNzQ3dlcHByazRoLWMyZFhXaTRza0tSN21HUWU1OWdBS0kwTzY5SXFSbXNuVndNNkZ2dTRCMUFSVHVXbHJaMi1EVnNIQWk3eThPRkpuUjVFd25uSUh2SEdEdV9zLXNDZEVLaUQxcnRYQXpGc0s3NUotUw?oc=5"
     },
     {
       "type": "leadership",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-10-16",
       "summary": "Amplitude Appoints [person] Founder to Board",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkFMcWxMZVFYeUcwY0VvNUYzWVFGNmtYaXI5VFRwakMzTXRBLW1FcENERGY4c0xRRjlyeXRKUkRkdmRlazZTQmdsVGRIYkRKTlVLeUV4Yy1WaG9JNXQzYzJ4N0Z6QmdsbFhqdWRsSFNUXzI5bHRhTTg1YkdVY0JTV3Bsbk1DdExfQV9ERnRSOA?oc=5"
@@ -133,7 +133,7 @@
       "url": "https://amplitude.com/blog/zoning-insights-website-conversion-optimization"
     }
   ],
-  "open_postings": 55,
+  "open_postings": 53,
   "long_open_roles": 7,
   "sources": {
     "ats": "ashby:amplitude",

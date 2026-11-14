@@ -1,10 +1,30 @@
 {
   "domain": "fieldguide.com",
   "name": "Fieldguide",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 2.3,
+  "score": 4.3,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-14",
+      "summary": "2 new sales roles in 7 days vs 0.75 baseline",
+      "url": "https://jobs.ashbyhq.com/fieldguide",
+      "postings": [
+        {
+          "title": "Senior Manager, Mid-Market Sales",
+          "posted_at": "2026-11-10",
+          "url": "https://jobs.ashbyhq.com/fieldguide/46e4ed3a-5bef-4819-a87a-ada2100e4850"
+        },
+        {
+          "title": "Senior Sales Enablement Manager, Corporate Internal Audit",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/fieldguide/ef283d57-c7c7-4212-a22e-9a3a20187803"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "customer",
@@ -46,8 +66,8 @@
       ]
     }
   ],
-  "open_postings": 38,
-  "long_open_roles": 10,
+  "open_postings": 37,
+  "long_open_roles": 8,
   "sources": {
     "ats": "ashby:fieldguide",
     "edgar_cik": null,

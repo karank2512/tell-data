@@ -1,10 +1,17 @@
 {
   "domain": "zeal.com",
   "name": "Zeal",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 2.8,
+  "score": 4.2,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "ZEAL: Roche proceeds lifted YTD profit as the pipeline advanced toward 2030 launches - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOc3oyM1NCak5tSGpJaUxoWWtwQ0xXdFR2QVdZTHVHLWZqZnBnYTdKUzRfWlJrd1Z1bDUzcTVqMXpFS1F2T3lKa3NDYzA4QW5QbDJFUkcxMV9DTkxGU2tUVEtic3NvX2hCRnFjRnZwRXptb2JTblRZX1BQRW5va05QQzd2aWVOZko0NG1UTllydzNyWTluVGMtMWRuZXdieS16aHVUNjBGZUdIaUpyblA2SFVrTmhRcldzOGJmeWJ3VklSZTdjcnV5cVFQMXRMcXVMbnpELVdpQjdYQ0ppVFV0M0pveHE5cjUzSkloWjJ2cnhPWl9CY202eU9B?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.4,

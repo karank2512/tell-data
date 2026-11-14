@@ -1,10 +1,17 @@
 {
   "domain": "launchpointhq.com",
   "name": "Galaxy",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 20.8,
+  "score": 21.9,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Samsung releases One UI 9.0 update for Galaxy M06 - SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTRZcFYtdUZxMF9hUFNpbFFrRTQxUVc3N18tUVdObTI5S1Z6MnE3S05nczRoUXVnYkYta3VYTHhIRVZpdGZETUtOUldJeVBuNFY5M1BRQXdXOTB0blJueVJIZWpPQTg5TEFqdlBQTzhHWjB0S2JjaS1rdm5SS2ZnSXFDbw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -42,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "Samsung Rolls Out Second October Update for Galaxy S25 Series - SammyGuru",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejlMeElhb2I5X3RVREV2OFZTN2F2bmpuN0NwQTVXeERIV2NHNmVzTHZYR2RzbzNaQnVfVV84NDN4ZDB2UjUwOXU0UkpHQ2oxUjBMR3RvMFNEUk1CVWxXR3lxY1RGLV9yM3dVREJ2S0lCTnpSc2ZUUDVJQ1VqRE5mY0NoN0U3V0F6X25aZA?oc=5"
@@ -70,21 +77,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "Samsung Rolls Out October 2026 Security Update for Galaxy S24 Series - SammyGuru",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2JXX3M3LTdqdWdtZjNBYnlQVEZYZ2FQZUY4NWJYTVZ5dHZDSFlFclI0YjRDSWtzZEpSekFGUzJfQzFjQ0FTR3JLek1zblBxZFl2V1dTeFFmTXNteEdfVzB0OTgzYVJ0V21qWHlBLWhLQzVVT3c0ejZxWFpUZE1lb1gzQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Samsung releases ‘Re-Newed’ Galaxy phones on Amazon starting under $500 - 9to5Google",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUldHbFl0WU9pWFFtUjBvTGZVSjZ4OHNsMk9FQ3ZndFY2bUJTaVRDeVFHaS1XRTF0aTAxMndyaG8wbEE3MV91WXhJMUJlQS1mam1KNUVFcVZmLWJURkJFS2lKUnBURlctNzl4X0dQRldoSXk5QlY1eU9QMFBteExiYXF3a3Jocy1ZcUpuTQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Samsung launches Certified Re-Newed Galaxy phones on Amazon starting at $489 - Android Authority",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRkdWZHVGMzhKSVMzZGVJR3ZmWnJaaXhKZkd0ZmpJN1FDT3dlcTJibW5fWjBXeGVsWDJxVDRqeXRXYjJoajZEOHAxQTI1bzh5YnB0T0x1cnBJYl9UVjJTY09ldnRNZG14Vlc1azliaUhPdmtvTFdZVG50SENNRU9EZzFvTnNwNElYRUE?oc=5"

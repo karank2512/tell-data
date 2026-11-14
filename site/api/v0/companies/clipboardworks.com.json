@@ -1,9 +1,9 @@
 {
   "domain": "clipboardworks.com",
   "name": "Clipboard",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 5.7,
+  "score": 5.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-11-06",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/clipboard",
@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "open_postings": 37,
+  "open_postings": 38,
   "long_open_roles": 13,
   "sources": {
     "ats": "ashby:clipboard",

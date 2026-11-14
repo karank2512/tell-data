@@ -1,7 +1,7 @@
 {
   "domain": "influxdata.com",
   "name": "InfluxData",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
   "score": 2.2,
   "contributions": [
@@ -31,7 +31,7 @@
       ]
     }
   ],
-  "open_postings": 9,
+  "open_postings": 8,
   "long_open_roles": 1,
   "sources": {
     "ats": "ashby:Influxdata",

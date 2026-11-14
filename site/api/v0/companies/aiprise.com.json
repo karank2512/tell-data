@@ -1,16 +1,31 @@
 {
   "domain": "aiprise.com",
   "name": "AiPrise",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 0.0,
-  "contributions": [],
+  "score": 2.9,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "AiPrise launches Token Sharing for KYC and KYB - The Paypers",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUs2YXl2VWQzR1U4U3JXQXUxeHBWZlpYSDZ6QjA2WXlfRmpfU3EtNDZ6bEdQRlc4Vml1Z0JPV3RfRDBCbHJrcGVxMXhDbzVxOFRaQ3hINGhnZENMZ1RTUjRsSDh5R25pcUxHNE5xcFNOQ2MydUNxaEs0TUZNeTBJZ2ttTUZkQXc2c3hheW01UHlzbElLN3M4SndmdDZWaFB1eXFDWkVrQmFkUmJIaWtZTldhWQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "AiPrise Launches Token Sharing to Reduce Duplicate Compliance Checks - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3VwSk03S3czSDZ2Q0g3U1Vmak9BRWd5a0lHdldMUEhUOUx5OXNaUmRQOUpydm9BT2RYMVEyQWNUTHBHMFVhMEtJaVhlUDhLNW03NzY2dmRPV1Yyek9jellZQzFTbmpicHdxdEczUnlxbENBUDFkb2ZfZU95NzVFUGNwZVlFdXpZRGpQS2dUclZCenNvRWd0YzNXZ2w1VnBDNC1hQWw0R29GbzRLc3hvS0hTd29QbVNZb2x6SU9CbzJjUQ?oc=5"
+    }
+  ],
   "open_postings": 23,
   "long_open_roles": 7,
   "sources": {
     "ats": "ashby:aiprise",
     "edgar_cik": null,
-    "news": false
+    "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
   "why_not_higher": []

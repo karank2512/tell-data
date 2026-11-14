@@ -1,10 +1,24 @@
 {
   "domain": "outbound.io",
   "name": "Outbound",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 22.5,
+  "score": 26.4,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Franklin Templeton launches Franklin US Equity IFSC Fund as its first outbound fund - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZXhOdXpma2xxeWh1WllsWTFKTmQtdlNpRG9nbGhnMF9HTXZuVTJkbm1RdF9lSTYzc3J4aUxQajFDUndRUE5FMGhORTBwNXVaMXRUXzh6RXNxNWxONkU0djVPN1JWamY5SXdLclBUUEJVYkNHTnUybmF6bksteW02M19EM2ZXSUNGRE5ZM1Y5SkFraE0wMmNIZzBiTFRQMmlhcmhDV1E2elRwLUxSdGsyeEQtY1BKNC1pTlVzVVdVb1RDYUpsR1UybzVQeG0xMHowY21uTmJOQXl4eTNpZkdvUWhR0gHnAUFVX3lxTE9MY1MwYUtvVnZRWU15clp2clFkYU84cjN0NWtkNk1fb1hpVjRRTlBqMFdMb0RPazdDUVZPbE15aUwzVGFKTHZ6UVB0cURONXFHQTVCdUlyTFNFSWZrQ1pZRi1KZjdWZU81ckp4RjhDNXVRSTBEMXJtRjdmdWtHSE1sZXVJbm1uSlVUWmxYMEY2dm1OTTR1TWRLTlRMZ29EZFpUOS0taG1Cb1Jic2hIZ0dUamZNQ2RYTDFRcm5xeFYtUU9rYmdNeHpYLTBFbHVraFNBR21aU2dvd0hMNVhIOXlrUXdlb0UwZw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Franklin Templeton launches 1st outbound fund from GIFT City, offers Indian investors access to US equities - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMTFaZ2lGUEdQeV9FYTRyUGVKeFN4N2hJNFRVRkZpeFR3akUzajRXNG5fbG1iNkVlM1h0ejViTmxMSUFYRkFyTDZUaEpCMXdBbTA4SGVWZlRTcUh0ZkZMNklNNDdHWE45aGxFeW1hRXRxNmh3SXE2djF4SnAxQ21pUnh2cEt6STBwQnoydEJMTk9GZFFZQ3h2ektPNjNOMTFvWHBkTGVaelBCNkVNNnpCcDRvWmFibUs4TVotaUU4YlVoWjJwb2xIa3JnbzY1N1NxcWRGTkpjaWlZclUyb2JTM0xCbHhtbGpnQ2I4ZXVCYk10bWVsUEhROFpKYVg1N0I50gGHAkFVX3lxTFBkdWVQVnRoTDFjSVcyWTZNVXV1S3J3MTlaWl9iSm0zYWtaXzE4OHZMdFhfOG80cElvSGZPZlpUMXplTC1RbkQzZXV5alZIbFVWSG1NMzB1SDFYdTRSVVhrUHdHUzEyQjNTM24yNkdHYjBDU1JoQngwMjJiMk0zOUJ6UHB6aHU3enoyTTBTM1JFLWFIazV6SGlFaklkT2puM1E4YUkwcDZOazY1TTNodE5CY3FiRmJHSUlMWWloaFBIQkYwb1UxUjVURl9yYkRHOEJjcFpPLXZlZVZCYlZjMTdmcjhINTdQb2ViMXdmMng5cmZ1bHlnMDRiY0xZMVRqanFhZ2VxQ25z?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -32,6 +46,13 @@
       "occurred_at": "2026-11-09",
       "summary": "MightyCall Launches AI Call Screening Handling to Improve Outbound Call Connectivity - EIN News",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEZCOGxhMk1UTmRLTlBGYzhWNk5iaDRVZnJPa1cwRTRxVkFvcUdpT0I4Q1NUWkdFNmluREhSR3FLN0RyNkhzalRmZlZscC1pTUpFNS1XbDhteGpLY19zc0NWSWhWSHZwVTNWLVF5bDdvSE1PcjVpNjdKYVBpX0ZMLW5SYkQ0UURTTUJlVE9XcnZnX19QQUt0Y29IdmVpRFBNR2d0aWNwTThwUHNxaXA2c21TZE5TN3VUU0RXNHdTamJyRWhG?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "MightyCall Launches AI Call Screening Handling to Improve Outbound Call Connectivity - EIN Presswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ3ZVa2RCQUVvZF9tR29XWS1wc3NiUVkxQm5FeDdFdElab1lWXzZtOGdXSWdfTjV1Wl9zaEstc1VpaEVKRG5NUTB5UDlycklxbjVQUjVjRnNSRFVCbFduX2t5ZDFla3dYVXhzRW10WENudGNnbW54a1dCTGpodkxwVVhWd3paMjh0X1BsMHJoR0NvRGdpcm85VFpydUJBU2dCVzlGcGlvWHFUcGNoMmRtbEN2ZDhOUVZGRk1DZzUyY3NvRWNFRV9QcFRrcw?oc=5"
     },
     {
       "type": "launch",
@@ -63,14 +84,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Treasury Releases Proposed Rule to Implement COINS Act and Broaden Outbound Investment Restrictions by including Biotechnology and Prohibiting Investments in Super Intelligence - Mayer Brown",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNcWdvRkdYOTR1cDBISDdhSVlQNUJ5WG5qelBLMDBhd29GdW02T3BHanRoYVNhTEdWRDVvV3lQS3ltci1wd2xCbHdiN3BzVFNRS0R1WjdIUWI0SnNrUmdxdkQ4Mkp1bHN4bHVCQTZmcnpSSTBhSVI5Y0RoT3NTZFhTcFRBMHVldkVKclNHRUZJMW5wWjlhZi1BMTRjY1NiZFZndHlBUFFUUUVUNHU4MThCdnpWcXM4R3hEczJWX3dQam1mQUFrakc2cUEwNEd0WjRRNjVoZ1FvT3BfV1ZDWHY0cUdFMS1jU0NKVTM1WlhESkVOMGRMN2t0MnNneWpuYm1NZUhwWTdsNVkwMVJlZWU3V0xHeHhRWGp2czl4d0lfTVhLeHpCenJJd2VZQVExcGZUVlNYVWQweU1PN2JQVGtkYWRJVWkzcE5tRGRxQzlUU0txZzZtWUJJ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Floo AI Launches AI Voice Agent Platform to Automate Inbound and Outbound Business Calls Across Industries - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPekhRamd1X2wwX3pwdi1ybDMxdXBuQU44NHc5bHpGcTJBTVlMWnpWOXctd3NUbWFGNE1NR1Q2NklGQmVNU2pMYk8teG9URU1FUkp0Ymx0VEQ3SkQtQW1zSWtjem5qM3NJTEdzNkJ2cGZsWGpRTVkyQTdaYkE4RDhhTm5IN0RQalI4bll2WjBDQkktTkE?oc=5"
@@ -133,7 +154,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Salesforce (CRM) Unveils Hunter For AI Powered Outbound Sales - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzVvOVMzd04yWGFTMmRoQVVoT091ajBxMWdSWEJBd3BOS2FsZGpCd1B0WnVrOEg3cmZNdmROUnIzNExmVlVkWElmNVU5RHV2VVI5TWU0cjVkaGxvU1c4N0dKRGtob25saFk5bHNaWG9takNCbE1GWVhMTkdUUEEyUEF2LTdaanlyeDZLMjlldnFPQXNCb0JIUnB1Tlc?oc=5"

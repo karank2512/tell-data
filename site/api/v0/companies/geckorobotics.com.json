@@ -1,19 +1,46 @@
 {
   "domain": "geckorobotics.com",
   "name": "Gecko Robotics",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 0.8,
+  "score": 4.2,
   "contributions": [
     {
+      "type": "hiring_velocity",
+      "role_family": "gtm_ops",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-14",
+      "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
+      "url": "https://jobs.ashbyhq.com/gecko-robotics",
+      "postings": [
+        {
+          "title": "NDT Advanced Services Operator | Middle East",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/gecko-robotics/eca8bd5d-f8f4-4704-a5af-47434e675812"
+        },
+        {
+          "title": "NDT Level III | Middle East",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/gecko-robotics/faf08b9f-05ae-40db-8d29-22a3e6fe7e07"
+        }
+      ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-14",
+      "summary": "Gecko Robotics unveils faster Raptor inspection robot, with ADNOC as first customer - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV05HU2JMM0dmcC12WlJXaHBkWkNXTVBRNGt0VnZEOE5Uc1FWMElEeUJsd1BqcUJOcFdqd0xBaV8ySEo3XzZNSEMxeV9HdnlUT05NbVVZN1BhMWhGb1NxR2RxWGhCS0dDVHc5VjEtSUI4WlZtd2Y1akNVbGd1MDl3eDQ2WFlORG9Jd2V0WUFCbGhaOC1Fc0xMTklXOWpaU3RvRU1NOWdNWmNUTjZYZkdpUWZlRU4zNWQwSTZLa3lkakZBNHJZZ2VwYUUwN0JwOW16RElhSDNR?oc=5"
+    },
+    {
       "type": "expansion",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-10-20",
       "summary": "Gecko Robotics' USN Contract Expands To $300M - Marine Link",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXNuNFVwUTk3b1NNTDNQcnJVdFhqU1l4MkdPMTlWTUl3djFoOXlLNjRaTXZ3U2NIVjBEMWM2Vzh3elVBWExNelNxRlFMcmtYRUd2YzA1TG5DRm5sZTVfNnM5cHlram12bUE0WHNucWRrdjdYVnZDM1FDMTlnRGotRmFB?oc=5"
     }
   ],
-  "open_postings": 22,
+  "open_postings": 24,
   "long_open_roles": 9,
   "sources": {
     "ats": "ashby:gecko-robotics",

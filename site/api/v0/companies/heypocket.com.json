@@ -1,10 +1,17 @@
 {
   "domain": "heypocket.com",
   "name": "Pocket",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 28.0,
+  "score": 29.5,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "Pocket FM appoints [person] as senior director, PR and communications",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3R2ellMYTJjQkU3UFFiUjV2ZUd5eGZqRWRRY0NVbGNreFhpX0I5UnlFUjl3Zkc5SlV5ekRjUG56T2JXLVJLUnVqUUZDN0ZFWTZ4My1oTVZzWk1QR0hmaTE4aFRFZU54SExsdGQwWFlicl81OHYxTGNyTWh2TmlKMFdJcHE4dndNZ25mYXNvX3Z0MTQtZkh0a1FQZVIzV0VKbTFod3dDTVV1NE0?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -77,7 +84,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Introducing \"take a dump in a porta potty\" as a way to measure time in the pocket - FOX Sports",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sTURvYlNORnlzWUpfY1Fkc1pZXzljZ0gwX3QzZ0x6MlNMYUl5VElxWlhOV3lXMHZWXzFYVGoyVjZqYXVuWTlhVkVlZHFqWFZHVXdNRjRYMVdNNFZfa1M5TGhLRHhtVUJTYjN6Q0NB?oc=5"
@@ -140,28 +147,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "HooRii Unveils StageGo to Bring Personal AI Agents to Your Desk and Pocket - Fortune",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHhHTTNWdWpCaVJKS19DUEhjaE16S1N2Q3F1LU5JUVNOMmI3dUJvLU1PUDhiYlM2VG9iZHZXMTF0LVJ4c0VWaUt5RHNzbnU5cjREb2pEaElxSkxSb3ZZMTJxc29UUlAyN0VJaUFKTnJlR3YwZG9adHY4WF9waHZtSG5ibE5hSDNZY251SXFQb0I3UlF3dHBF?oc=5"
     },
     {
-      "type": "launch",
-      "contribution": 1.0,
-      "occurred_at": "2026-10-15",
-      "summary": "DJI Osmo Pocket 4P In Pearl White Launches October 20, US Gets A 404 - DroneXL",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRJVnJ0ZXl6RE1SYkdqbEgyd1A1OWpSTndiY19qMDg3MkhmMTVKUC1mazAwRjZuYlI3V2lyR3RQOFpWcVN3Q2FlRkZlOUZQR09IcmRzVHFzaDNIS2t3QlRXR04waHc5Q1ZzV1FSN3c5QzBvTEgtTlFFMTFudy0tSG9EVTFmdw?oc=5"
-    },
-    {
       "type": "expansion",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-11-09",
       "summary": "Pocket.watch expands into creator-led features with Mark Vins’ Reef to Ridge - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjdDRFRkTTlEZmtuOExvd1lVNnpKV3lhV3lrTUJKay0tMl9lelM3VkVBY05qVThqd1lXajgzZjc5UGxZaC1JX1pJZFc4N2xtUmw5d3JzM2Y2UzBZNkFXcmdkQVVxempUbTFQbkJTQWg5ZHFuMDFiMmFqQnZDRUh3MWo4T2pDeW5Eekw5UQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
+      "occurred_at": "2026-10-15",
+      "summary": "DJI Osmo Pocket 4P In Pearl White Launches October 20, US Gets A 404 - DroneXL",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRJVnJ0ZXl6RE1SYkdqbEgyd1A1OWpSTndiY19qMDg3MkhmMTVKUC1mazAwRjZuYlI3V2lyR3RQOFpWcVN3Q2FlRkZlOUZQR09IcmRzVHFzaDNIS2t3QlRXR04waHc5Q1ZzV1FSN3c5QzBvTEgtTlFFMTFudy0tSG9EVTFmdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Microsoft Unveils Pocket-Sized Xbox Nano Controller for $79.95 AUD - EFTM",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmxPTEdzYi1Jc3FYWEdtVERQQnJEY3dFRGFXNmF4M0U1VzBJQ2pCZUZpOFRjZ0hOTGlqYVA0Ykw1T0dBTjBNSDlhQ0dhTzJfWldoNnloMVdYU1BBZ3dYU0Z0cThXaW1VNzFRMWhXNUdRbDhvSi1NNzd2akVxXzExVmljYzdHNnRfVEE2VDVSMUNxUER0eU91UTJiLUFWOTdpUTR30gGjAUFVX3lxTE1ybE9MR3NiLUlzcVhYR21URFBCckRjd0VEYVc2YXgzRTVXMElDakJlRmk4VGNnSE5MaWphUDRiTDVPR0FOME1IOWFDR2FPMl9aV2g2eWgxV1hTUEFnd1hTRnRxOFdpbVU3MVExaFc1R1FsOG9KLU03N3ZqRXFfMTFWaWNjN0c2dF9UQTZUNVIxQ3FQRHR5T3VRMmItQVY5N2lRNHc?oc=5"

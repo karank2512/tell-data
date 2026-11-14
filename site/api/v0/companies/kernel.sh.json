@@ -1,13 +1,27 @@
 {
   "domain": "kernel.sh",
   "name": "KERNEL",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 9.4,
+  "score": 12.2,
   "contributions": [
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-14",
+      "summary": "SteamOS 3.10.0 Preview Releases With HDMI 2.1 Support And Kernel Updates - Steam Deck HQ",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PYm9MQWVXU3BZbjQ1ZkNVdWxNWVExVnhwaE5IUnhGZVk3ZmdvTDJkNlU2MXFTYzlJa0ZwTlN1WWlFdy1oMVBjb1pXdl82TmkwckhMbDlOTWlKSEJXZF8zZXI5ODZGUlhyUDM0Rm1xOWstS2pSTGROaw?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "New Holland introduces automatic kernel processing across FR range - Howl.Link",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB3YXFiZVdxS0pUenE3QVRwOEcxWVVnU043dEV6ZEg3LWZaUVA3blp5MlJ6Z05WbjdvYkJr?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-07",
       "summary": "​OpenAI Unveils GPT-6 Cyber Model Capable of Exploiting 948 Linux Kernel Flaws - The 420.in",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzNEa3gweHRxU0xscVIwTnBXc3VLMzRtTHdnMnNUckItaTNZMnFpSUNBRW8tR1dCT0o3VjdWRkZWN0lERzFKQ08xZjRLdm5WbnVaUWs5QzQ3VmpNTlBUcVU5ck5CbTZtZHQzYzNIbWE0dk9EVEw3ZksyNkV3enFkejRITDBrY2c2UHQxQjdWX1BTUzhCN0JIUWR6SDY?oc=5"
@@ -62,7 +76,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemR2QlVlTUZOTlFiSUV4dExtbFZidV85ZGFYMzd5YTE2bzZFRjBmYm1FRmZiZHlHVWVIX2Q4MGVHVFRMWHRJS0xubkFYbFIxUHcwU1hSSmVTaC1EckQzaS1jbmZJUWMtZlhIU3dmSXd6NVN2TnIyZEFVWmlPTVJvZ01VMXJLNFh6T2RlSlY1OC1GdmM3UHpoWHB3UTczRFJfN0tnQUVVSjBoY19kOFJZZTNNYjc0RWRsdWdlem9R?oc=5"
     }
   ],
-  "open_postings": 10,
+  "open_postings": 13,
   "long_open_roles": 5,
   "sources": {
     "ats": "ashby:usekernel",

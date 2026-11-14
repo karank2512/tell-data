@@ -1,10 +1,30 @@
 {
   "domain": "benchling.com",
   "name": "Benchling",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 9.9,
+  "score": 11.8,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-14",
+      "summary": "2 new sales roles in 7 days vs 1.75 baseline",
+      "url": "https://jobs.ashbyhq.com/benchling",
+      "postings": [
+        {
+          "title": "Solution Consultant - R&D",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/benchling/3a066304-d51b-451d-86c3-0edb6e24ab48"
+        },
+        {
+          "title": "Sales Development Representative",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/benchling/b97572ce-5f4c-4831-84c0-72ae27d46755"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "customer",
@@ -66,14 +86,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Direct Data Share, Closing the Loop Between the Lab and the AI Data Cloud on Snowflake - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNEtvcFJzV3BvRmp0cnZrSHpCdmwtNE52VzdxaWlKMnZFclJVbjZvZnNoSS1yM0VyT1pad0ZKckhwUlZKRzExNkpmQWRnWUtjZXhiSmhJYlJORjhpLU9mdml1TVVlMmp2YzQxS3YzMEFhZWZBTkZUMFRnY2RlWEdEbWNqLXQzcndhX0dEU3FlNGc2c3M1dHRXSjkwMFozWlQ0U3A1M2YxdXA5Ung0cW90Uk1RMmVUMmZzc2d1S0NWTWNvNklaLTZ2R3JzZVBsQ1A4WTN3UlNBRW5Mai12UnVtSlpNMExrcUc2WldfT1hhckIyUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Benchling launches Direct Data Share, Closing the Loop Between the Lab and the AI Data Cloud on Snowflake - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWXdvZkNfNl9pU0k0RGJwUk9kc1hzQ2I3akNPTkxWWG9XNzYtdXM3bloxQkJCVFBjOE1iYWZETDFPVkJWWlp3Y0dnUEU2THlqVm1KNG5QbVctVWV3UWVScE1BVXRPTl9LdWdkU08tb0VkZTZPcE1GTnVjbHNKZWhaS0lBb0hYS0o0eW9saFZQdEhyTU5qT2l4Q2NZWlQxdw?oc=5"
@@ -94,13 +114,13 @@
     },
     {
       "type": "launch",
-      "contribution": 0.4,
+      "contribution": 0.5,
       "occurred_at": "2026-08-27",
       "summary": "Introducing Benchling Agents, your infinite program team",
       "url": "https://www.benchling.com/blog/introducing-benchling-agents-your-infinite-program-team"
     }
   ],
-  "open_postings": 55,
+  "open_postings": 56,
   "long_open_roles": 10,
   "sources": {
     "ats": "ashby:benchling",

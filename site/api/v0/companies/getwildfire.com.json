@@ -1,9 +1,9 @@
 {
   "domain": "getwildfire.com",
   "name": "Wildfire",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "ABC launches an updated wildfire tracker - ABC7 Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PejRMdmFjWXRLYXNzSWlXNTdCVk03OUQ5U0NRVGtQeVlXT2IyQnhNZ2p0TzBRSERURnByQTFvSTFNX19fSHZKWVVQb201S3NoaTNkUHIyYWwzZHNZSTQzbzlMNVpwWWxMWTFZYm95S3F0TllHakpQcUdB?oc=5"

@@ -1,10 +1,17 @@
 {
   "domain": "salt.security",
   "name": "Salt Security",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 3.4,
+  "score": 4.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Salt Security launches autonomous defence for agents - SecurityBrief Asia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGhvdE5qTmJvU0c4YTlJRVB4S3dhRnV2QjB4NmdMQW1oTmlrNENNSGFtMlZEZnJ4VGVrQnhWcldvTXZRenY1S28zYXU2R2JUWW1DOUNiRHZaclg5WUI2Zk83UGlITkp1aER0a2JEZlZ6SXpINDQ3bWc3T1l6VUxldXpjdFd3OEpTRzEtVVdn?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,
@@ -14,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "An Alert Doesn’t Stop an Attack: Introducing Autonomous Defense",
       "url": "https://salt.security/blog/an-alert-doesnt-stop-an-attack-introducing-autonomous-defense"
@@ -34,7 +41,7 @@
       "url": "https://salt.security/blog/salt-debuts-first-aws-waf-managed-ruleset-for-ai-agent-and-api-protection"
     }
   ],
-  "open_postings": 11,
+  "open_postings": 10,
   "long_open_roles": 1,
   "sources": {
     "ats": "greenhouse:saltsecurity",

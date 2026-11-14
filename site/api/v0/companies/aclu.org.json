@@ -1,9 +1,9 @@
 {
   "domain": "aclu.org",
   "name": "ACLU",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.2,
   "contributions": [
     {
       "type": "launch",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "ACLU of Indiana pauses new director’s start date, launches external review - Mirror Indy",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlJtZHZHS3pSNUVyckJweS0zanJ3OFZNeWMza283VFZUSHoyYmJKY3hNOVNKMlk4bTNOOG1xR29uLVhPVWN1Tkw1MkNudlVCaTlNYVFTRGlGVWgyWk5kcHBUODROZXRkRTJpaU45LWVUaF82Zm9IdlVsaHlhLWpQVVJUWTEtSVg0T0hFdmdTWXlwLTZBZkE3UHBsdmY?oc=5"
@@ -56,13 +56,13 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-23",
       "summary": "ACLU of Indiana pauses new director’s start date, launches external review - The Statehouse File",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWTM5ZnNTOXUwMFB6RVJuNkF2RGRXWFhsendNOG5YWWgyTUJxamlxazM1RzZIWDlmRFNsRnhScXZ1TGYyU09LV0lwQW91UC1RR2lCSjcwMlJWdVZ5Q3NGNHcyNUxXMFppX1lxa1lJVkNuOWJWeHgydFZqaW5IOHZnaXNnVUZndWtWaXRRWEFEYUVjRy1laFNlNUd5VlZhSkRUS3A4dkhUM2Flb2htc0t1d1MzdjA4d0g5VzU2b1ZhakpFQVpjcEZjNFBCd2ZxUmd5WGFIdWdrbF9GSWFTc3A0WmpIcmdvWDhicURVQTdjdjQwVmljd0M4ZHBR?oc=5"
     }
   ],
-  "open_postings": 17,
+  "open_postings": 18,
   "long_open_roles": 6,
   "sources": {
     "ats": "greenhouse:aclu",

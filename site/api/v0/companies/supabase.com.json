@@ -1,14 +1,14 @@
 {
   "domain": "supabase.com",
   "name": "Supabase",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 8.3,
+  "score": 8.2,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 2.8,
+      "contribution": 2.7,
       "occurred_at": "2026-11-10",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/supabase",
@@ -127,7 +127,7 @@
       "url": "https://supabase.com/blog/introducing-supabase-evals"
     }
   ],
-  "open_postings": 78,
+  "open_postings": 77,
   "long_open_roles": 22,
   "sources": {
     "ats": "ashby:supabase",

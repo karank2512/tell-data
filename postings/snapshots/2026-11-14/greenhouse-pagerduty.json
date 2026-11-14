@@ -1,0 +1,385 @@
+{
+ "vendor": "greenhouse",
+ "identifier": "pagerduty",
+ "domain": "pagerduty.com",
+ "as_of": "2026-11-14",
+ "last_polled_at": "2026-11-14T15:39:30.946322+00:00",
+ "open_postings": [
+  {
+   "external_id": "5707881004",
+   "title": "Territory Executive (US)",
+   "role_family": "sales",
+   "location": "Remote (USA)",
+   "posted_at": "2025-11-13T20:08:00+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5707881004"
+  },
+  {
+   "external_id": "5818237004",
+   "title": "Account Manager (US)",
+   "role_family": "sales",
+   "location": "Remote (USA)",
+   "posted_at": "2026-03-03T21:14:24+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5818237004"
+  },
+  {
+   "external_id": "5819455004",
+   "title": "Account Manager- DC",
+   "role_family": "sales",
+   "location": "Remote (USA)",
+   "posted_at": "2026-03-04T21:42:52+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5819455004"
+  },
+  {
+   "external_id": "5831506004",
+   "title": "Business Development Representative - SF",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-03-18T16:15:46+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5831506004"
+  },
+  {
+   "external_id": "5831509004",
+   "title": "Business Development Representative - ATL",
+   "role_family": "sales",
+   "location": "Atlanta",
+   "posted_at": "2026-03-18T16:17:15+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5831509004"
+  },
+  {
+   "external_id": "5835317004",
+   "title": "Sales Strategy and Operations Manager",
+   "role_family": "finance_ops",
+   "location": "Atlanta; San Francisco",
+   "posted_at": "2026-06-02T20:21:06+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5835317004"
+  },
+  {
+   "external_id": "6030721004",
+   "title": "Senior Principal Industry Analyst Relations",
+   "role_family": "marketing",
+   "location": "Toronto",
+   "posted_at": "2026-08-19T22:26:12+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6030721004"
+  },
+  {
+   "external_id": "6131057004",
+   "title": "Senior FP&A Manager, GTM",
+   "role_family": "other",
+   "location": "Remote (USA - San Francisco, CA)",
+   "posted_at": "2026-08-10T18:09:06+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6131057004"
+  },
+  {
+   "external_id": "6131137004",
+   "title": "Senior HRIS Analyst",
+   "role_family": "other",
+   "location": "Atlanta; San Francisco",
+   "posted_at": "2026-08-07T13:05:44+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6131137004"
+  },
+  {
+   "external_id": "6141657004",
+   "title": "Solutions Consultant II",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-08-17T21:11:25+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6141657004"
+  },
+  {
+   "external_id": "6144823004",
+   "title": "Senior AI/ML Engineer",
+   "role_family": "ml_ai",
+   "location": "Lisbon",
+   "posted_at": "2026-08-19T17:09:48+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6144823004"
+  },
+  {
+   "external_id": "6151874004",
+   "title": "Director, Customer Success and Country Manager",
+   "role_family": "customer",
+   "location": "Santiago",
+   "posted_at": "2026-08-24T18:46:57+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6151874004"
+  },
+  {
+   "external_id": "6152266004",
+   "title": "Senior HR Business Partner",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-08-24T20:24:58+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6152266004"
+  },
+  {
+   "external_id": "6162220004",
+   "title": "Senior Solutions Consultant",
+   "role_family": "other",
+   "location": "Remote (USA - Boston, MA)",
+   "posted_at": "2026-08-25T20:57:38+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6162220004"
+  },
+  {
+   "external_id": "6163290004",
+   "title": "Senior Solutions Consultant",
+   "role_family": "other",
+   "location": "Toronto",
+   "posted_at": "2026-08-25T23:31:11+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6163290004"
+  },
+  {
+   "external_id": "6173952004",
+   "title": "Senior Security Engineer - Cloud Security",
+   "role_family": "engineering",
+   "location": "Atlanta",
+   "posted_at": "2026-09-17T19:24:55+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6173952004"
+  },
+  {
+   "external_id": "6178866004",
+   "title": "Procurement Manager",
+   "role_family": "other",
+   "location": "Atlanta",
+   "posted_at": "2026-09-22T12:50:38+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6178866004"
+  },
+  {
+   "external_id": "6183981004",
+   "title": "Designer, Motion & Brand",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-09-30T14:30:43+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6183981004"
+  },
+  {
+   "external_id": "6186221004",
+   "title": "Enterprise Account Executive (San Francisco)",
+   "role_family": "sales",
+   "location": "Remote (USA - San Francisco, CA)",
+   "posted_at": "2026-09-11T14:15:09+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6186221004"
+  },
+  {
+   "external_id": "6186821004",
+   "title": "Account Manager",
+   "role_family": "sales",
+   "location": "Atlanta",
+   "posted_at": "2026-09-16T23:16:54+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6186821004"
+  },
+  {
+   "external_id": "6186857004",
+   "title": "Account Manager - Boston",
+   "role_family": "sales",
+   "location": "Remote (USA - Boston, MA)",
+   "posted_at": "2026-09-16T23:44:52+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6186857004"
+  },
+  {
+   "external_id": "6191844004",
+   "title": "Tax Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-29T16:31:16+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6191844004"
+  },
+  {
+   "external_id": "6207154004",
+   "title": "Senior HRIS Analyst",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-09-23T22:04:05+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6207154004"
+  },
+  {
+   "external_id": "6207718004",
+   "title": "Senior Director, Field Enablement",
+   "role_family": "exec",
+   "location": "Remote (USA - San Francisco, CA)",
+   "posted_at": "2026-09-24T16:09:00+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6207718004"
+  },
+  {
+   "external_id": "6209023004",
+   "title": "Strategic Alliances Senior Manager",
+   "role_family": "other",
+   "location": "Remote (USA)",
+   "posted_at": "2026-10-13T13:56:42+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6209023004"
+  },
+  {
+   "external_id": "6211202004",
+   "title": "Senior Security Engineer - Cloud Security",
+   "role_family": "engineering",
+   "location": "Toronto",
+   "posted_at": "2026-09-29T19:38:58+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6211202004"
+  },
+  {
+   "external_id": "6211460004",
+   "title": "Business Development Representative - San Francisco",
+   "role_family": "sales",
+   "location": "San Francisco",
+   "posted_at": "2026-10-01T17:22:11+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6211460004"
+  },
+  {
+   "external_id": "6216870004",
+   "title": "Forward Deployed Engineer (SDEV)",
+   "role_family": "customer",
+   "location": "Remote (USA - New York City, NY)",
+   "posted_at": "2026-10-16T15:37:27+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6216870004"
+  },
+  {
+   "external_id": "6216876004",
+   "title": "Forward Deployed Engineer (SDEV)",
+   "role_family": "customer",
+   "location": "San Francisco",
+   "posted_at": "2026-10-16T15:33:16+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6216876004"
+  },
+  {
+   "external_id": "6217049004",
+   "title": "Forward Deployed Engineer (SDEV)",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-10-16T15:43:02+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6217049004"
+  },
+  {
+   "external_id": "6217165004",
+   "title": "Commercial Lifecycle Marketing",
+   "role_family": "gtm_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-27T18:57:17+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6217165004"
+  },
+  {
+   "external_id": "6217534004",
+   "title": "Sales Development Representative",
+   "role_family": "sales",
+   "location": "Atlanta; San Francisco",
+   "posted_at": "2026-10-13T21:48:58+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6217534004"
+  },
+  {
+   "external_id": "6217788004",
+   "title": "Senior Engineering Manager, Release Engineering",
+   "role_family": "engineering",
+   "location": "Toronto",
+   "posted_at": "2026-10-14T20:49:05+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6217788004"
+  },
+  {
+   "external_id": "6220984004",
+   "title": "Principal CS Strategy & Operations Manager",
+   "role_family": "finance_ops",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T21:59:43+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6220984004"
+  },
+  {
+   "external_id": "6225139004",
+   "title": "Director, Sales Strategy & Operations",
+   "role_family": "exec",
+   "location": "San Francisco",
+   "posted_at": "2026-10-19T22:00:05+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6225139004"
+  },
+  {
+   "external_id": "6226348004",
+   "title": "Senior Principal Customer Success Manager",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-11-12T14:25:26+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6226348004"
+  },
+  {
+   "external_id": "6226644004",
+   "title": "Senior Principal Industry Analyst Relations",
+   "role_family": "marketing",
+   "location": "San Francisco",
+   "posted_at": "2026-10-16T15:03:39+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6226644004"
+  },
+  {
+   "external_id": "6226649004",
+   "title": "Senior Principal Industry Analyst Relations",
+   "role_family": "marketing",
+   "location": "Atlanta",
+   "posted_at": "2026-10-16T15:03:41+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6226649004"
+  },
+  {
+   "external_id": "6231165004",
+   "title": "Customer Success Manager",
+   "role_family": "customer",
+   "location": "Santiago",
+   "posted_at": "2026-10-22T17:19:28+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6231165004"
+  },
+  {
+   "external_id": "6238439004",
+   "title": "Senior Professional Services Consultant",
+   "role_family": "customer",
+   "location": "Lisbon",
+   "posted_at": "2026-11-04T17:46:25+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6238439004"
+  },
+  {
+   "external_id": "6239636004",
+   "title": "Director, Sales Strategy & Operations",
+   "role_family": "exec",
+   "location": "Atlanta",
+   "posted_at": "2026-10-30T17:28:43+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6239636004"
+  },
+  {
+   "external_id": "6240563004",
+   "title": "Procurement Manager",
+   "role_family": "other",
+   "location": "San Francisco",
+   "posted_at": "2026-11-02T14:42:17+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6240563004"
+  },
+  {
+   "external_id": "6240564004",
+   "title": "Procurement Manager",
+   "role_family": "other",
+   "location": "Toronto",
+   "posted_at": "2026-11-02T14:42:14+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6240564004"
+  },
+  {
+   "external_id": "6248591004",
+   "title": "Senior Professional Services Consultant",
+   "role_family": "customer",
+   "location": "London",
+   "posted_at": "2026-11-04T17:46:28+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6248591004"
+  },
+  {
+   "external_id": "6252144004",
+   "title": "HR Infrastructure & Operations Manager",
+   "role_family": "engineering",
+   "location": "Atlanta",
+   "posted_at": "2026-11-10T19:46:25+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6252144004"
+  },
+  {
+   "external_id": "6254225004",
+   "title": "Senior HRIS Analyst",
+   "role_family": "other",
+   "location": "Toronto",
+   "posted_at": "2026-11-10T17:01:52+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6254225004"
+  },
+  {
+   "external_id": "6256127004",
+   "title": "Senior Principal Customer Success Manager",
+   "role_family": "customer",
+   "location": "Lisbon",
+   "posted_at": "2026-11-12T14:25:28+00:00",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6256127004"
+  }
+ ]
+}

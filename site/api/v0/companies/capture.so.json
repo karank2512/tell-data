@@ -1,10 +1,24 @@
 {
   "domain": "capture.so",
   "name": "Capture",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 10.4,
+  "score": 13.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Hexagon Launches MANTIS to Capture 3D Scene Data as Cameras Roll - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmFNX1lRUzdCeWhQV2hzYTFYbmtqc3g5TDdxb3Rqdkk2elJIUU15UHJKcElQbTRyVnlYNldSODE2ZkRkNmlwZmE2aTZiS3RDMUkyZFc4RVFKZXkzSzQ3UjJaLTBpMF82VTlTSVI0Wk1QeS1SdjJZZ1U5UGpVLXdTdG42UjZXeTRRckpKWGk0VmJuV29WNXBZeWVBeGF1a2JFVjYwbA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "ExxonMobil launches legal challenge to EU carbon capture rules - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3FQc0hNVEZPT0R0RDBQZnd4Z0VRZ2JzbWc0VlE0OUM2RFp2a2kwLTF4eUtnVEpfVm5PVFFuT1ZFZXZRNm1RZzFpaUdlcTNEU0VzVWJxTDJGYmNkamlUVUpYY3REZDhCV2NDUG55ckllV0RUSWpmS1ptZGdmbkRTT0dYZFE?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,
@@ -14,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Introducing the Cloudflare PHP Capture the Flag challenge - Cloudflare Blog",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBNRHExVkZlUF9rcUptUTFPZkkzNDk4SUwzWGxlWFJFcnNLNzZSWGNHaUNwYm5QMElaTEpLOXZsZmtRTkhjRE5CbG43M2I?oc=5"
@@ -49,7 +63,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Capture What Shapes You - Fujifilm Introduces instax SQUARE 2™ instant camera - Fujifilm [Global]",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mV1kzaGhFSVFEalV3TVRQb19Ic3RocFh4Szk4WG9iUDFaN3FhYVJJbk9HbTdEa3BYWnEzWkY4bDhjdUFVcnJTZU9sVlRTdlItRGc4eGdoNjlHR0tnUjZRWWVnQmIzZVNHRG9mYlh5QXQ5RFVzcEE?oc=5"

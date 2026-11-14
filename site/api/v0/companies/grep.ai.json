@@ -1,9 +1,9 @@
 {
   "domain": "grep.ai",
   "name": "Grep AI",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 5.5,
+  "score": 5.4,
   "contributions": [
     {
       "type": "launch",
@@ -21,7 +21,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Introducing Connected Accounts and Authenticated Browser Access",
       "url": "https://grep.ai/blog/introducing-connected-accounts-and-authenticated-browser-access"

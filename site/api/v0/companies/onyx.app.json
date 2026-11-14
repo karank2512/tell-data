@@ -1,10 +1,66 @@
 {
   "domain": "onyx.app",
   "name": "Onyx",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 16.9,
+  "score": 28.3,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "ONYX unveils Amari Samui Resort plans - Travel Daily Media",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XakZaV2xfVWtSb3VjRnk0R2J1SDVtaE90bl9CVjFzYVBFRDBPWFNsdE5DTEdzZW9xSm5xaE9JQWEtMUNYVldJSUpLSVR1bmtVYXpjNDhqb3JpYm5EeUVVbEZzVXd5bmVRaUkwbVBHcXc1dldZaUJfbzZHYw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Hasbro Debuts Transformers' Onyx Prime the Deceiver - Bleeding Cool News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVnZRWk03bUNkOG5LODBkaFpUU3hsTjhZem1YMHlxeURmQkJnWm8zSnVfRDRrbjBEaDZ2SzlSbWF1dVhqa3Q3blhvMFpnQUMwTDJwME9Cb2xid3FyR1hhcHExLUlYUXVsQ1ExRUxzWGdjb1F5RWQ5YVA3NUg4RTlwZ1BKNEpXTE90dXN6SUhuaE1MbFk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "ONYX Hospitality Group Unveils Plans for Amari Samui Resort and Villas, Elevating Its Premium Resort Offering on Koh Samui - Hospitality Net",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUnU0RW9qT3JGcGk1WUFOeEFiRl9EQk5lQ2taSVBoQVJicXFZaW44VzJtR0dZMHZwTmFZVFBxQVotTzdYRFV1Y0hhQW1DNHJUOUVWNTJpZHlDbWRTa1I4anVOYzRYRmxBZnQ3dTVXZko4cHpac1VtOThud0xtMDZGMnQtU1loSnB0ZG5rN3BTazUtYzlPamZzbjhBRDEwQnhvYWhLUVoxNklFeXkwQXNvZzRENWdwYzNyZE9WeHl2eWQ4U3NhMFJaVVpNS3ljZmJ6WFJqb0FyTEdraVkwWlo3UnMwUllBeWJiNy1XZ1kwV2o5NnlUV3llRU55S0N6UkZZZDRpaQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "ONYX Hospitality Group Unveils Plans for Amari Samui Resort and Villas - Breaking Travel News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcTNId0Z2MVhnclNlUV80UHRYUkxFX2hZUmlxdkZkQXVPb29pR3Mwb1FrdTRoUEF6Y3V2cEo3cHI5VElVSDYtaUx1al9vY3VCMUM5VXFwai1VQUZCQkRBMlNZbVpHd1BYdEk0eENBTm40cGtXeEE2NHNlYk1EVjh3Z2ZQdnExQmlsMXlfZUdsNVVsRVZ0R2x5VmE0bnY2cGo4OWVBbHpsUm9Pblh6ci1BQXlGanRYemxVOWFF?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "Genpact launches Onyx platform: Process intelligence is last mile for AI agents - Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVBfZnhQSmRYdlczcXFCclpqRHQ5cXdiYjVSWFRjU29ud0RmN1ZSSm5rb3BFMXF6UWowd0UxdVhuTHlKWGFnNGwzYTc3SWRtZ2p2UHRuWXpLUVQyVWU3RzUyVnpJSmxWYlpadnVraXpYRUcyR2IxYUxRR3VjUjNtcWFMN1o0MzR1MGRRM0ZBMEFIRS1XX1lqbzUtV3BYZ2pwc2ZNTHd2MWxkT0UtZEY2Q1g5R2dyZEE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "ONYX Hospitality Group Unveils Plans for Amari Samui Resort and Villas, Elevating Its Premium Resort Offering on Koh Samui - Bluefield Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQbTZicHVxeFZ1SDk5aGpJdHdtS05wMy11WXp2eEFuZm9oQ0Y3WHJyYm9vLVFSck1hcFZPbVVfTjlSS1BEYXJwbGdnd1kxRHloUTQ4QnA5c2xrQ0RyWlJQZ0pvdm01QjVyQV9JVGtwUWVjQVhSd0p3NFR4c1M4UXZRbVBhVFhaenllRDIxNmtXM1Q4b0tmbEdqTUs4cjIwWnRxVlcyT09sNENfT01iaEY1RFJaZWFXbUpRRl84aHdYdXp4cWVlNmVMQVB4TEF6TnR4RXJRc1dWWlFldm90UVRvVnJqSnFXc2VQOUJoZ1Y5MmtYZUJMRE81NXltQzNkQ2Z4SDVSSW1aaTZDUzI0UmN3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "ONYX Hospitality Group Unveils Plans for Amari Samui Resort and Villas, Elevating Its Premium Resort Offering on Koh Samui - News-Press NOW",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMnlsR3c4b0tRalJWbjVKLVVGVHNfc25ISXV2Y0pWYXhSNWZHNWsyakJnczBvOC13ZzI3clAwVFBXWEZsYTdxeVlhLWJKYUo3SEpDUHVhbHJvbjJDQTNxQVNwVmpXVHR2X3J5bUdCQWQ0eXc5TkUwZF9vYUYwaFRRUVUtTXg5dEZFdlJkNHZ5OXNkcGYzOGxBR281VFcxR0Q2QVYta0taMWx5TkgtRk0wUDJNLUE4NHJ2QUNHY0VPQVNwMXM1V0VJQkx1bml6RzQxY3gzZ19CTUhWLWdfY2RnMk1OTDVHSi1TejNaQnhtR1dSdUVnMVA3SjFuQ1dXVXZaTkNzdVFlNnFManVMYUxrN21fblk2a01SSk91dmpRMF8tWXNSSThlaVZOU0JQVE0?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "ONYX Hospitality Group Unveils Plans for Amari Samui Resort and Villas, Elevating Its Premium Resort Offering on Koh Samui - SME & Entrepreneurship Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlNBT1ZhY2x5UUwwTmFjMXdkWVZ5NmJNX0Mwa0tDdUo2djBXSDZaZ0xwRlc3bXBtelF2Q1hyZWlCTVNSSl9BRVRSWjJGQjZSUVR0b0pLQnNOM1R2N3ZTUXk4X1FRbjVVMEJfbHhPRmQxc1d0Vy05MUJ6QUo0Q081MEJIVnk2dWZlWFFvNUlxT3lZeTdUbFNyb0Y4TU11b2h1V292N1NjSlpYd2hORjBMUXVkaVJpNUt3MVhOOHNidFlOOHI2VnFSWDNhR2RnY1l0VGtyOGZB?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -63,21 +119,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Onyx Launches OnyxPay as Commission Payment Fight Heats Up - Luxury Travel Advisor",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbkRGUkZTRVlncGdpZ0drV25seXl5dzhjdDdMczZLOFJZMU5sSmdzUUFhZW1BeEdNUGgtYjV2T0ZQMnV4aDRrLWVQZlV3ekpveGlOcV82TGNrZ2NXM0VpallXQU1ESzhLZUtRMUFwR1d0c040Nm5JeTNEdTRHekEzRVVuZXFrLTlNSW9ZdjE0SmEyeUJkSDZpQk5IQTd4djRnQWtrLQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Onyx CenterSource launches OnyxPay for hotel commission payments - The Paypers",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVpLQXZ2R2RkMnBSeGFyN2lkYW1jRzVVR2M5VjJfckdPTTc0cjVLcVJjTE1ieGE3allBNk9ZY3dJbE0tLS10b2NZZFROTTNOYXRQV0Z3b3RDMXFGSDFzcTB1TllEQkJIRUwxQXBsVzd4OFVGb2NXQldWdkFSRGFxR0Jmem8xeV82eEoxMlFXZm15bUVQd2VvRWJHWTlEaE9hQ0hF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Philip Morris Korea unveils new TEREA ONYX stick lineup for IQOS ILUMA - 헤럴드경제",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vdjhXb1dDd3ZZRWpvRlhZX1VFdkZ0REVxNmZDeGlJay1Dd2RRc0dweWpkOTdQSmtkZThzYlhxV2dlR2pVWHlvWHpuQ2VYekV4UVJPS1NaVQ?oc=5"

@@ -1,10 +1,31 @@
 {
   "domain": "jupiter.co",
   "name": "Jupiter",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 20.6,
+  "score": 25.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Jupiter launches Vaults Beta with three Bitwise-curated yield strategies - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xZDcycUZqRnJaektNT25Qa0NoOU1EM0xCVmFxT0RtaTZFOTVrSS1xU25DR2lIWjJjQW5Pd1JvRmNJZzY0RUFWYmpKdU9Lcm1jaUhTc0txN1lVdw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "JUPITER [Share Link: $JUP] LAUNCHES VAULTS IN BETA ON SOLANA $Solana (SOL.CC)$, WITH YIELD STRATEGIES CURATED BY BITWISE, RE7 LABS, K3 CAPITAL AND HIVEMIND - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXBVZVBwOEI5X3VvTnVoaWRYXzlaTjg1dFdvYkRyTGdyMWhGQ3d2RWxITFZvQWNpQWJ1QlZYeFZJWFRITjZ3MS1BN0N3NklQcEptLUNYbk4yS1I5cXdpbHZsLWgxcWthX2xXbG1pWXFzb2VpTldxbmsxSnZ6eG1HYmxKSXpPUUpkSzUta0RQeUtqZUdoTENOWS1TZDF3VEl5WjE3WlNuOTFPNGxKajhF?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Jupiter: Baskets launches with single-deposit access to curated tokens - 12 Nov 2026 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcTc2SWg5ZlZqZ01LYUpFMWdqWS1NbkdnU3AzSFVQa19sTmRrY2RaQ01iRDBrTHBtM1p1RldLNDV3VU0zMmttcmdFUjBHdTRpUUlaeXFwbU5fUkkzamtYaEJCblAyRHFoZ0ZJa1dXbDR0MXhsM1lRQTJTN2pXai1FdFJqWnpIUC1Uem9aMHFXWjh0aVpaVjNDTjRRZnI0RDYzMW9ncFh4aTBEU1F3cFZ3T2xKQm5DS1Q3S1JTNy1ELWJNUVB5TU50M1dPZ2hUWHJjeGd3c3NYTmhWa3JpOXc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -77,14 +98,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Roland unveils the JUPITER-08 for the Jupiter-8’s 45th anniversary - Mixdown Magazine",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1dIUk5LcVAyeExZeVdkWmJMckZReDhYRXZyQmJZdUl1aXhmVk0wQy1NQU5tZDktQ1NkckxJOTFHNDJudWtfQkFGQkxhRG55M3l4M0Z6TXlIbS01eGIzV1RJQTBHNEhSOFozVkpPdWwxdzhPRTdEREtkMGEwQzNsNGEwZklCZTNLd09aZDZUdkUzN1BmUFVGZnBqVXJTZw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Roland Launches Jupiter-08 to Celebrate 45 Years of JUPITER-8 - rAVe [PUBS]",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1NvcTVpZWRSVXo3T29DeUlFN3NqdVlMLWR2QlFUcGswLVBzbVVQbHp3dFAxUGRDTFRHMG1Qa2xYQUZ6YzlXRFFWbzNoV25CTTRHMzJDazZ4U3lnS0ZPMjV1TVo2OGZKamIzcXBWQmhSUFl4Z3Q5UURXa2FsLUwzRHZoUW0yRDY4ZlRxR1A5TzbSAZABQVVfeXFMUE9Tb3E1aWVkUlV6N09vQ3lJRTdzanVZTC1kdkJRVHBrMC1Qc21VUGx6d3RQMVBkQ0xURzBtUGtsWEFGemM5V0RRVm8zaFduQk00RzMyQ2s2eFN5Z0tGTzI1dU1aNjhmSmpiM3FwVkJoUlBZeGd0OVFEV2thbC1MM0R2aFFtMkQ2OGZUcUdQOU82?oc=5"
@@ -107,19 +128,26 @@
       "type": "expansion",
       "contribution": 1.0,
       "occurred_at": "2026-11-10",
+      "summary": "Jupiter expands into token baskets and yield vaults ahead of Solana Breakpoint - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WTERtMzZuVG9qNGF5emVocnctMjI3LTl6bWJjNnZKd1N6bklRVExtSGV0U2I2TUMwX3FuVXIyeHljXzhYdEI5SnpwckZrVFNRWDJDOWhHcTZjRE9fdmVaeGUweTJyM1RCR3dfZVpkcHlINTVzdFpoSFZzRk4xUQ?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-10",
       "summary": "Jupiter expands into aggregation & vaults - The Block",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0RlWURGUC1OZUtIZENkdi1tQkgyRk56TzVzek1jREFFQzB1cWx6RkRXVFljRFN6N1cyanA0dkpvc0R0R1Ztd0sxYVI4NkFfUG1heE9EV2pwMFprZkl3T1lVZnFzQm9XNFZuWFZ4UUw5RHZFOE5Bc05JTUhQbV9QYw?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Why Is Oracle (ORCL) Reworking Project Jupiter As It Launches AI Startup Tools? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFE5aHRtZ1ZsQ2ZhTTIySWJkQnNZUzMtMHFaNjZJQmtiY0N2bkliYkYwOTBlR1RDang1UkE1T0NZRTFWZFJaVFJBbzFRM29PQ1QwTHZ2X2V3YWdQN0NhY0FLYkVGaTdSMHJjTWFxVHdzUmNxR2VMa3lWZXptTHZZaW4zcTE4alRKcGhJLUs3dERadHBNdURmbmE0ZENoUQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-15",
       "summary": "Jupiter Launches Unaudited YOLO Beta With Up to 1,000x Leverage - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG1SdHdmck94OVNSZ2Y1NUJibE1YUkJxdnVVaTl0ZGdnM3c0SUdibmRhZm1GWEt3V2tWMjZRaGlPREE3QjNNZUltODlYSEthSmRYbzNvY0NNbVZrNmxLWEtramJkVDU5c1B0V2hmcEdvVEMzVjlxOGVHcC10dVYtUWNtM1hUX1ZpYl9RLXdoN05DQ3BCeWhpYXI3RQ?oc=5"

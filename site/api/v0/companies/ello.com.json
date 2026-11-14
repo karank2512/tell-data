@@ -1,9 +1,9 @@
 {
   "domain": "ello.com",
   "name": "Ello",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 9.4,
+  "score": 9.3,
   "contributions": [
     {
       "type": "launch",
@@ -28,7 +28,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-22",
       "summary": "MTN Nigeria Launches Y’ello Y’Fi to Help SMEs Improve Customer Engagement - MSME Africa",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVk03VzNIeXhtWEM5d0VVWXc4UzM5dUVTZjlzVzQ1ejhuTk4zckRSU01fMnBtcWxnN1ZkMWVYdUptWEtwQVFRS2xaX0NINUxhdUxGX242aEZ4X25mbkhjekljaGg3X3lXQ3FNMl91cERPcFc1aUs1eVZSRDhlckdLdHB2RTF1cFhyYmZEbDdHNE5OdHFraE5tSTE3Mi1JM0ltcFM0?oc=5"
@@ -69,7 +69,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnRjNDRiRm5IVTBoSnV3Q0lUZ1hDdGVHYndBSUhaVzUtdVh5OUVaVXd4YnE1QTlMRHlfd244UHMxb2hRT2h0NUI4SGxtZmlfSHJMd01GSmZHNXI1N3Ftd2hqVS13d3NXY1FDQ0NYdFlPbDl1MlhGTTV1SWpqdUs3d2ROa3hqSmtrRUtRM1hxM2JiQ0ltOHlQbUlXWC1VQjBOWWJUdmhn?oc=5"
     }
   ],
-  "open_postings": 5,
+  "open_postings": 6,
   "long_open_roles": 2,
   "sources": {
     "ats": "ashby:ello",

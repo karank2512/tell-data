@@ -1,10 +1,38 @@
 {
   "domain": "inaccord.com",
   "name": "Accord",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 2.9,
+  "score": 10.6,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "Accord appoints [person] for the East Midlands",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdk80b2p4WVZ0N3ZIZDdPNkV1R2gtV2ZOUDhNTGg0VTVwMTJoYnlLQ2owc2t2WHVKMl9xb2d3QlBSbDd4R0hab052SktjbEIyNElnU0Y3X21zSU5TV1BXZ3lXZUY2SEZ3OVpTdkUtLVZUcFh2dF9DZVQ3MnhibDFoR1pZWjdYTDJoaVE?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "Accord appoints [person] as BDM to cover Midlands",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWG40M0hTcDhBcWJkQW9aMmdPUDV6cDBWZkU0ZnhNUlFxd0o0OE1LN0t3YlBwa2NlNW5wT0RpWnlaczNyMk5URVR2S1lIcFFIVkJWa3dxZ0hNYnV3c3poc2NEMXpjRXpvSG9XMmt4T3FlcXdGZ19NTmdkZ3J5bndVNk9ucno4SlFVaG1HVzJ1MmExVFI2Y0Y5dUs2SUVKajVOREw4Q0VyQllSZ0lYd0E?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-12",
+      "summary": "Accord appoints [person] as Midlands and [person]",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUxrUWZzeF9nRW9VcFpFVDdYcDRscnlUTVBtdEtMM1I3aThGN0x5bzJaLUJFQWhHbnpTSHpyMGhadkVweUIyNXl1V0x0Qk96dWR2TUtEMkppWU5OVHR3bHJqdktMMHpSN1R0ZWFkUmkzdmpnS0NVTE5hNnNkR05hMkhkekI1ZmozTE5KY1pjbnBPZWs?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.9,
+      "occurred_at": "2026-11-12",
+      "summary": "Accord Mortgages appoints [person] as East Midlands BDM",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjliTE1JekhrdC1aZlNodm10emxMNkpqbUlKclhRbm1RNWNXLWd5anVVOXdDR1MydTFFVDlwYmRad2hjYWl3ZXAxOUw5NV94emRSUl9LMGk1TmZIQjNDQkxMMlpqczZ4VUl0Z1lHRmJJaDVoZ2otNWNZLWpCVkE4ZXBUNDFSbEZtZWNiWnNIbWtNRWhUQnRhOVYxQ0taMnlR?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,
@@ -14,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "Short-Acting Cancer Biosimilars: Accord BioPharma Launches FILKRI for Cancer Supportive… - Trend Hunter",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yTTIxcDNwZU16d1lEcjBPUTc4OEJxWkxtVjRBVFNPeXJYQ2JCZGlWZnBvZ0V3Q2pTN25OWUFWZG9ybENHM1RFZVJXNkZQamtCRXJFWWVKdFV5VnBYY3ZMWFNCRDJPT2ZLcUk0a0ZYRXVweE4z?oc=5"

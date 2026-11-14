@@ -1,14 +1,14 @@
 {
   "domain": "goteleport.com",
   "name": "Teleport",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 4.7,
+  "score": 6.1,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.9,
+      "contribution": 1.8,
       "occurred_at": "2026-11-11",
       "summary": "2 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/goteleport",
@@ -27,6 +27,13 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-14",
+      "summary": "Teleport launches Beams, a trusted runtime for securing AI agents in production - Data Centre Solutions",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnFlQmsyalNvNmk5X1NnQXJDaEZJajJSN09tQ2txN05GOVo0QVh5bkgwZWI1Nm8tTDJGZjh2TndlcW5QQUtkdG91OFkxS3ZMR2p0SGo0dWpXdnMybUlFQmw4U0hiWmRUNWdjU1RZWFRWeHVPSGhtOXdiNW95Nzhja0FaUGVFTHY4S3o4OVZfaVlLaXZyaGRDM01sUmlNMExnNXp1M0lDX1Vtd2ZodE96SEpSR0t3SDRydUZEMVJrWQ?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Teleport releases beams to secure artificial intelligence agents in production - SC Media",
@@ -40,8 +47,8 @@
       "url": "https://goteleport.com/blog/teleport-beams-secure-ai-agents-production/"
     }
   ],
-  "open_postings": 25,
-  "long_open_roles": 5,
+  "open_postings": 27,
+  "long_open_roles": 7,
   "sources": {
     "ats": "ashby:goteleport",
     "edgar_cik": null,

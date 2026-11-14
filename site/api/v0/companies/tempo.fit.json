@@ -1,9 +1,9 @@
 {
   "domain": "tempo.fit",
   "name": "Tempo",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 5.6,
+  "score": 5.5,
   "contributions": [
     {
       "type": "leadership",
@@ -35,13 +35,13 @@
     },
     {
       "type": "launch",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-10-08",
       "summary": "First Look: Pequignet Releases a New Royale Paris Chronograph with a BPM Tempo Tracker - Monochrome Watches",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWNVMnJ6QWc3Q2pBZXRKMHlRaHZ3SkQ4VmIxYTNSbXVtOTFXalBmTVYtaVBOTW5SX2pxaWpPbG5xcGt2RlJjdEZqM3pBRFd4WXZPT1JsZ0xqTUx1SGdzMWd6bHFHMjk5VmtWbWJkRDRyMi1aQ2VPRXgxVnRwUmhMdDluYmVwcTZDUFFKcFQ1QWg4cWdLbVp1a2VOelVDQ0EtSFljc3FsTGM3dw?oc=5"
     }
   ],
-  "open_postings": 4,
+  "open_postings": 6,
   "long_open_roles": 1,
   "sources": {
     "ats": "greenhouse:tempo",

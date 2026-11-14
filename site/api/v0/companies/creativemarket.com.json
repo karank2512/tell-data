@@ -1,9 +1,9 @@
 {
   "domain": "creativemarket.com",
   "name": "Creative Market",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 1.0,
+  "score": 0.9,
   "contributions": [
     {
       "type": "launch",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.3,
+      "contribution": 0.2,
       "occurred_at": "2026-07-22",
       "summary": "Introducing Our Color of the Season: Water Lily",
       "url": "https://creativemarket.com/blog/summer-color-of-the-season-water-lily"

@@ -1,0 +1,25 @@
+{
+  "domain": "orabiomedical.com",
+  "name": "Ora Biomedical",
+  "as_of": "2026-11-14",
+  "profile": "default",
+  "score": 23.6,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 23.6,
+      "occurred_at": "2026-11-13",
+      "summary": "Form D: $1,000,000 offering, $205,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1927878/000192787826000006/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001927878",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

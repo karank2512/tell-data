@@ -1,13 +1,13 @@
 {
   "domain": "vanta.com",
   "name": "Vanta",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 28.1,
+  "score": 27.7,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 10.6,
+      "contribution": 10.5,
       "occurred_at": "2026-08-31",
       "summary": "Form D: $50,563 offering, $50,563 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/1754180/000175418026000002/"
@@ -53,14 +53,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire jobs - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnhJZXpUcVJMYkpmOWhmbksxVUJEa3I4TDl3Y05RSVdKOVdnTldjOGNseFBGdno1clFUTjZzQjJkUmNqUTM5WjV0bVBhSlp3WUp6SV95Uk5Sb1RjMjZvcEhEclU0MzczLUE3TEJxRVcwV25xY3prcEl4dW56ZzItTE1FWHlhdERsNURzdlRCTzlnMFdNeWlQM0ZWNURjZ0ZqVTRUa3UtNmlVZTltSjQxQ2xaa28wSmF1d0dr?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-11",
       "summary": "Vanta introduces partner program to boost governance and compliance - MSSP Alert",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb29iWHNZVGpTVTJQTVJaanJ4T3dERl81REZlMGpTaGRXTEUtV2dtSEJ4cS1rempRV1N1RmwzVHltdUNKaVdydzJrLUlUR2FxOWpMZ3c0ai1wek9wUWg3YU5laUs3Y2ZyekpHcjdHZUJJQ2FiVlFSaTd3VG1fZUY0N19HYmEzMUUxZ0owNDBHTWprSzRibm9VODI3WkJucUNEck1DeHl5RzBNczdXdm5abg?oc=5"
@@ -88,7 +88,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.8,
+      "contribution": 0.7,
       "occurred_at": "2026-09-30",
       "summary": "STARK Unveils Vanta 12 USV With 1,200-Nautical-Mile Range and 10 Kamikaze Drones - Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3pzbFFxb3drZElSOTNoWXBTcUFOb081czduTE1JclJ2cWFfcldMLUN5VkhnVW9HaXRwVV9VbktERVU5OVByREdaOGk1VU5HbTN2RC1OdzB1b203TVhHTDZ2d1plMkkzQUFTQ254blM5OUFVZi1fT2hONUZ1R19tNmx5SFp2YlVNUU0wVERDdkdHMHNSLUpzUlN4S05KUkhKNTBqWExSd25jdU0wV19xS0tB?oc=5"
@@ -200,7 +200,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaFdlRWliMkFQaGR3UG5tV1J4SjdUR2pnaE43UTF6VEtrb0ZDVHI4U1JERjdiWE5Gd3czMEtmc1NXRlVVU280eGpwRHRNQmR1RUYyMC1kWlFxSmkxc3Y0NmxuOFJvLUZ6bnd5R0NVeUtnRFFXTkZsdjhqbUEtTGhuRHVyeEtzZ0ZOWUE?oc=5"
     }
   ],
-  "open_postings": 81,
+  "open_postings": 80,
   "long_open_roles": 18,
   "sources": {
     "ats": "ashby:vanta",

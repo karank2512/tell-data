@@ -1,10 +1,31 @@
 {
   "domain": "hedgehog.app",
   "name": "Hedgehog",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 1.3,
+  "score": 5.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-14",
+      "summary": "Sonic the Hedgehog Brings Back 2 Classic Characters With New Releases Available for Preorder Now - Comic Book Resources",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2JkZ3lxZU42RG9qdU5nbFpaaTg0dUVXTUtwcW41QV9oMEQtaFYzelhybXBCNjJBZ0o3UXBBQkJ4bGNkRWVLRW5HY3gyY3VpT2ozRE5HVXJ5YkR5a1ptbHY2aXAzd042YnlnYjB3dGlrWmFrMkFEMHVPOTBsWEhyZGZUd28zWVp3RjNrUmlQeVY?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Memories & Beyond: Sega Releases New Sonic the Hedgehog Animated Anniversary Short - Time Extension",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUGFFSHZjalRyeTEyaGZSOUF5b3ZrRGlXbnBDTWF1YzlCa3lNWURHVVhPS3BpcTl5LUZFM3RLdnRaMUpyajhMa3FZdnI3c21CbWdKNzlDYzBWd3RQYXNWeVd1Y3VBR1dyMERMelMxU3cycHN4VmJzWVloUThaSEFXcDlaX0o5bDl1SXpLWDc3NGZ2elUtOU1JV3dZVGFwZXJ6cEFkc3U3dkl6d0xTdlNmTTc1MGluRzRKVjE2UGZURVNqTnFY?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Sonic the Hedgehog Releases 13-Minute “Memories and Beyond” Animation to Celebrate 35th Anniversary - Console Creatures",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GQlB0dTlpYmtBS0daTzJWOF93SU95MlFxU3AtbkdtcS1KeUd6YU5tLVh1SDE5ZVY4bXBOVHdDYTNpOXNXbWU4Q2FMZFBUdURfc3RYZ0ZKLUVDUXJoa1k1TXU3dW5LQjFBaFdJczZ3QTAyUlF0bjBXanRieks?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.3,

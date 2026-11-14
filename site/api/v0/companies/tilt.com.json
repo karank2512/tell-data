@@ -1,9 +1,9 @@
 {
   "domain": "tilt.com",
   "name": "Tilt",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 10.5,
+  "score": 10.4,
   "contributions": [
     {
       "type": "leadership",
@@ -42,7 +42,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Blink debuts its first 4K, spotlight, and pan-tilt cameras, plus an expanded XR lineup - About Amazon",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa2ZxUkE2S3JRWWJrQ3pmeG1iU1hNSUFjcTFjRUlIajVfVzcwdnVEdHJyLVJzeVZCY0w0UGpRa1U5MlBxMk5PNi16VHV2U1BJeGZmckRCRmZGck16bnN4cWRwUzBfRTBpVkM0SnZlRzIyR1Q4czdCQlBUUmxKTHhWUWJ3MA?oc=5"
@@ -70,7 +70,7 @@
     }
   ],
   "open_postings": 25,
-  "long_open_roles": 4,
+  "long_open_roles": 3,
   "sources": {
     "ats": "ashby:tilthq",
     "edgar_cik": null,

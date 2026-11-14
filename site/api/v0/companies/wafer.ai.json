@@ -1,14 +1,14 @@
 {
   "domain": "wafer.ai",
   "name": "Wafer",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 12.2,
+  "score": 13.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 1.7,
+      "contribution": 1.6,
       "occurred_at": "2026-11-05",
       "summary": "2 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/wafer",
@@ -24,6 +24,13 @@
           "url": "https://jobs.ashbyhq.com/wafer/67d6b128-2c51-477c-a8bb-ea53b27dcac8"
         }
       ]
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQeVJpc0ZHNFRSU3MxdTFzbHQ0Z3lmWlZhdTU5Zi1OLUh4WC1FUkl5eVJfOThhYUx5ckdjQlhxZWNNem1Yc3pLbW55YWNwUjB3Zl9hekpMR1ZZMnB0bzhnRDR4c0Rmd200SGJhRmZodFBINVlCcHBIZHBmckhxM2dveDRvMjJGQWRVelZMTVh1QXpjU2F6SnlidTBNM21LRm9mWjNidDFnS1MyRDFkcGxaSHB6eXV6SE9mN05zcVRNNDZCaTdrRTRHdnhpWktnbWNXbTZ2aU5feDh6eVdEamxobllXTWE5VW9EOVBKM3NqeThvbEt2QkFzZHAzdDVQTi0ycHhBcW9TamJ4QnJoUUVwZDFnc3l1cjVuc0E?oc=5"
     },
     {
       "type": "launch",

@@ -1,9 +1,9 @@
 {
   "domain": "close.com",
   "name": "Close",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 8.0,
+  "score": 7.9,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "China unveils close-up of stealth strike drone that US gave up on - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamc4V1RSVzJkbWJ6Q1JxS3Fic2xKV2dTUW5rbkJvaGFwUnFlaFZtTG02ODZ1UVo4dHIweEFNc3p5SlNLdlIteEh2ckFrejUyb01KSHkzRjdpeWdLdjluLXcxLVJPNzdZMjZpQjdQeFZDT283Y0VYYnRncjdLV1gtcVIyV2VlR2VaQS1pWVRjdHhnaVc4c3EwcQ?oc=5"
@@ -62,7 +62,7 @@
       "url": "https://close.com/blog/introducing-chloe"
     }
   ],
-  "open_postings": 9,
+  "open_postings": 6,
   "long_open_roles": 2,
   "sources": {
     "ats": "ashby:Close",

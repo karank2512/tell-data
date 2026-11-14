@@ -1,10 +1,24 @@
 {
   "domain": "onuniverse.com",
   "name": "Universe",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 8.9,
+  "score": 11.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Miss Universe Organization unveils 2026 crown with 3,150 diamonds set in 18-karat white gold - HOLA",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRDZDUmlPREhjRTh2VnlLLWtyaVNTZ0xJM3NJWW51MWVsWF9QTnRaZnVLdnpFQS1DZVpNYkRDYlJKTk9BZUI0OTNXVTlPdFdKakJOa3BVWmIyX2w3b1FMVlJBaTE0eV9KcUVEZURpT2JaQ2ZoZ1RhRmI2cDl4cE16aWtR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Euclid Releases Its First Major Dataset for Mapping the Dark Universe - Instituto de Astrofísica de Canarias • IAC",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWZWb2FYUFF3aGhHQXVjMDJGLXp1ZVZYcUdmU3NsOVdwbnFZbHZmUlI4VzA0enFCWElweUxFYUxGUThJUlNvU1BvbzJ1UEdLUDFITjdRaHV1Zkt5WUIyckFUaE9Xc3Z0ellSN25tRWlZcERmTTQ3eENxT0NfTHhVNnIyNGtESGdaeGlCVzNjSXJnYzlwam5NZ1MwNlRJZw?oc=5"
+    },
     {
       "type": "leadership",
       "contribution": 1.4,
@@ -21,14 +35,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "GitHub Copilot in VS Code, Universe releases - The GitHub Blog",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVJHTVpnRnphWGtUdUxMZjJxLWZPQ094bFNOQnljYVJIZ1VfU29PX3QyT1k0TjkyUEtJRE1XRGRwMk1hdTlycEFWVElkT0h4N1A2UGpWc0JxNnM3Q2pOT295bEk3QkVYNG95LVVxbGxnQmFlbVJaOTRKam9SNkVkTFVsdXZpTFppVEVHSVRR?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "GitHub Copilot in JetBrains Universe releases - The GitHub Blog",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2VNNlhfVWtnT2hkUmpFNlB4WDZEdWJiOWtZbnRJQURyMzE4RHl6SW1UVmlMTVRiblFhM2Eta0d3VmNONW9vTWhPVm9IZ3NyMVZHWjRIWFNNTHhjYTJJVXV3VHpnMnRGbVQzbWRsZWRyN3lzSGo0SGNIZmRDazFKNDlyWGhJa3NGRVdidGFzazk?oc=5"

@@ -1,9 +1,9 @@
 {
   "domain": "tryglimpse.com",
   "name": "Glimpse",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 10.2,
+  "score": 10.1,
   "contributions": [
     {
       "type": "launch",
@@ -49,7 +49,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Elorian launches Glimpse, a visual reasoning model that re-examines images - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOURuYk1ZdDVUcDlkdzVOSWFIMENJX1h1UUNSbmljTkxDVWF1RXZDZ0QwMEJYdGd2YWs3S2ZuSF9adlFGeEtsYmd4OGM3aDZEa2RoaTJ5UlNCWENNOFgzNmxhUmFsbGptLWVxVXk3YWlnUUlGVWJ2QkVFa1ZnMzA0eU1lQzdlTTVTOXpfYTdaQ3MyU3NEY29sdExKcVBNNlVTWHNR?oc=5"
@@ -76,7 +76,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVZ2QzJ0blNWVXl4YThYc0c0bUVvUGVLbkNKVVhhdFl6ZGI5T3lSSGZPTVZHZGJhc2xTNGRzdzNlYlBiYXJKVW90OGprREFNOWNQclRhSk1wTUtRT1REc180MVNweG9YX3ZLcjdNSWtnNGRCRFJxWHdQNFdlTTZuYlFxNU9QQmR2ZU9vaVhHVQ?oc=5"
     }
   ],
-  "open_postings": 7,
+  "open_postings": 6,
   "long_open_roles": 3,
   "sources": {
     "ats": "ashby:glimpse",

@@ -1,14 +1,14 @@
 {
   "domain": "coinbase.com",
   "name": "Coinbase",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 18.8,
+  "score": 18.5,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-10-30",
       "summary": "4 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/coinbase",
@@ -44,7 +44,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "Coinbase launches $21 kids' book with $50 bitco... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUVzd4enJyQk9PODY4azZ4SWQyVlhMZ0NSU3FSLWhoNV81WFlMLVRtQkV5YUxDdWF6elhjVnpMNnBJMDUzOGtONVdmS292T3o1SlBpeHFkcXRacEVVOFR4V0FxLTJRdjFvZHNyYzZhVXdEZmk1WlFqcmZNYw?oc=5"
@@ -123,7 +123,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Coinbase Rolls Out Prediction Markets Across U.S. via Kalshi - CoinMarketCap",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2hfS2pScXhYYTN0YnVjUUxJYmdocWd5bHA2Nzcwb1dQbjVqSldjX0dvM0Q4VERkV2tfclRpVFdyM1JyZU1fRF9RS3ZBa0dJLUJmU3dJNXJURlUwNG81MXpJenN5VFdsQV9LVVZzM2dOOWplVmdNMDZiR2VqenV4VzJvRENQRHE1d0xmZE5vNDdKS0VmMVhsLW5WakN5U2lQaEE?oc=5"
@@ -175,7 +175,7 @@
       ]
     }
   ],
-  "open_postings": 274,
+  "open_postings": 271,
   "long_open_roles": 63,
   "sources": {
     "ats": "greenhouse:coinbase",

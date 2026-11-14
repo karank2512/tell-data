@@ -1,10 +1,35 @@
 {
   "domain": "flexport.com",
   "name": "Flexport",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 4.9,
+  "score": 7.8,
   "contributions": [
+    {
+      "type": "hiring_velocity",
+      "role_family": "sales",
+      "contribution": 3.0,
+      "occurred_at": "2026-11-14",
+      "summary": "3 new sales roles in 7 days vs 1.0 baseline",
+      "url": "https://boards.greenhouse.io/flexport",
+      "postings": [
+        {
+          "title": "Account Executive, Enterprise",
+          "posted_at": "2026-11-12",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8383190"
+        },
+        {
+          "title": "Account Executive I (Farmer)",
+          "posted_at": "2026-11-12",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8384430"
+        },
+        {
+          "title": "Sales Manager",
+          "posted_at": "2026-11-14",
+          "url": "https://job-boards.greenhouse.io/flexport/jobs/8386969"
+        }
+      ]
+    },
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
@@ -33,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.1,
+      "contribution": 2.0,
       "occurred_at": "2026-10-29",
       "summary": "3 new gtm ops roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/flexport",
@@ -56,7 +81,7 @@
       ]
     }
   ],
-  "open_postings": 201,
+  "open_postings": 204,
   "long_open_roles": 78,
   "sources": {
     "ats": "greenhouse:flexport",

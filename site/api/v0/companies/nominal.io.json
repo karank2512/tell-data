@@ -1,0 +1,32 @@
+{
+  "domain": "nominal.io",
+  "name": "Nominal",
+  "as_of": "2026-11-14",
+  "profile": "default",
+  "score": 62.4,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 31.5,
+      "occurred_at": "2026-11-13",
+      "summary": "Form D: $171,500,000 offering, $170,499,805 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1956231/000195623126000002/"
+    },
+    {
+      "type": "funding",
+      "contribution": 30.9,
+      "occurred_at": "2026-11-13",
+      "summary": "Form D: $68,500,000 offering, $68,299,814 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/1956231/000195623126000003/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0001956231",
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

@@ -1,10 +1,17 @@
 {
   "domain": "uselume.com",
   "name": "Lume",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 1.9,
+  "score": 2.9,
   "contributions": [
+    {
+      "type": "expansion",
+      "contribution": 1.0,
+      "occurred_at": "2026-11-13",
+      "summary": "Lorde-Backed Album-Focused Music Platform Lume Expands Into Australia - Billboard",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTVNzM3JPcE1IZUNXUEpxcGJvYXVINDM2dlh6cjI2a0JJLTBzd0dybjJDZ0VzS1lyeXo2ZjFOYjhSTFRUTWdpQW96TXZkRm84WklZbmVjOF91dGFjZ1BPbzRYYmpCY2ZwRGEwUGRBODZaM3NyMkttMFdhaW1CUGJxRE8tal9fQzJlRzNlb0pURQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.0,

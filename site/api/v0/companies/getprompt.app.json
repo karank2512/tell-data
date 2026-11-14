@@ -1,10 +1,17 @@
 {
   "domain": "getprompt.app",
   "name": "Prompt",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 12.6,
+  "score": 13.8,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Don’t just prompt AI — architect it: Introducing the Professional Agentic Architect Certification - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaVRiODVESFVXdTlFWnR2anRBU3hsb0FwekdVR3dLdFFwY2RQWHFubmpsMUxkMDFHd19QdVRWMVRxRGxxRHNpMHVKMFJWMDQ4UzUxa05PVGU4TVBWVkl0RUptMXdoZnBNM2RIbkpQM3A4cm5vcFl6QjYyTXdwVk5qOURxZnVGdC05dU10MW5OSklHOVh2RnBsMkotNzhBcVdqTWVhNzlMRkJFRlhldmRWeHJ5YjBfT2kyOG5WcWRVOXA5YmYxWU13bWZUWnQ0bWZm?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -28,7 +35,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.3,
+      "contribution": 1.2,
       "occurred_at": "2026-11-02",
       "summary": "DeepSeek Launches Creator Mode: Generate Plugins From a Single Sentence, All 7 Prompt Sets Made Public - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44dHBwakRrcEUyeDFIQVhUMUl0N3hTYUNYWEtWaVNpSVFySkVtNDNabkhZRDNwZThpNnh2SzhCaXh4NkdwUHdOVXh0bzV6ZGZFM2FUenFxM3BBTmtBT1JjbEFhMmdlU2U3ekVzX2VLeC1wN1E5V0E?oc=5"
@@ -49,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-23",
       "summary": "Quote.Trade Launches Prompt Trading and Advanced Order Suite, Bringing Institutional Grade, AI-Native Strategy Execution to the Dark Pool - The Daily Tribune News",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQQUVTMnBna29UaUNQWGtybTB5U3NnZmxFbEJ3b1kyaWFlZUFIeXozcUhNOTVEYzBnenR5Qk5DMXZzQ1NhNWYtRVg1b0x2Y1AwbHI0X0ZPb3RTUjRjWXpLOFQxZVRNbkVhT3F4SFRZUW5BY3JpbWxnUjM5RDl6LW0zSG9WeWRkb2tTSUkxbmhhMFRTVml3M2dILWk0SkZLYm94ZlJ2c1pvLW44aFQwTzh1OEJZdWY3MHZkak8wOUJmSVB0LVdZRHBVOTRVMXhrMWpyQkFiY3pDdVFUOHVyU1c2Z0p2eWRjQ1lZODhyNzlJdE1xbTQ3STlnMDV2OWt5U0lCRWJvdVI4MHlSUGR6Qkd2dU5OTmNwTS1ybXR4dUpRd28xREItLTh4M1M3a1ZjZGJkNHdkMDJtWThFMVE5bzU4dg?oc=5"

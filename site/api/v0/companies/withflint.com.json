@@ -1,10 +1,17 @@
 {
   "domain": "withflint.com",
   "name": "Flint",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 2.2,
+  "score": 3.7,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "New interactive kiosk launches inside Flint City Hall lobby - WJRT ABC12",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY29jQWxNNXo3TlB5Rko5LU9fTnNpbnh0eXZ1dVdwYmp4ZnZfLUpGcE42RkN6R0NPcUZpMXBYZ1FFdXNvSUphdDBfSVRQaUt5WTM4SHBNVUluVUJLMFg4cnltUUtWcnlUazJ2VUJGb3E3V184UzNHVFVGZzVpOUJsWG00YjBFSkNNOXZ3X2xWWi0xak9ac2tnRzZ5S2d3dW1kMmpWcmhoWURMMjFmcS1UZ1hYdk11a2JEMG9hU2sxcmZwLV9uemxwZXVWSWV2b0M5bnJwNUR4bzFIdw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

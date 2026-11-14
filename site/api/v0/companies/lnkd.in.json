@@ -1,10 +1,31 @@
 {
   "domain": "lnkd.in",
   "name": "Zen",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 19.0,
+  "score": 23.1,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-14",
+      "summary": "AMD Launches 6th Gen EPYC Zen 6 Server CPUs: What It Means for HPC Centres - CASRAI",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91UWEzTlhnelh2MkxqNFZQRnVkTVRYYlY2eVkwVlREM2o1UVZMcWJwLTZtclNiR0xfX29wSmpOMGRGMnNjYzVkODZmNFVZdWdHVHpXZXBGMGdMVmVfemtR?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "AMD AOCL 6.0 Introduces New RNG Library, Initial Zen 6 CPU Optimizations - Phoronix",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OekRhRVJkbFFqSEtyMjVXX01oUzhuYWQ2VXlkdWpBRHE2aVlTbHhodFp4a2dyZVRUTDRsUmJEdDc4Y0FIekNyeGYwSDNEb0RCUW9CLQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-12",
+      "summary": "AMD launches Zen 6 Venice Based Epyc CPUs - Semiaccurate",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0E3WElveW56X0ZhczZNSmU4LTJhMXk3eFR4MGtXaWN4RFdNb19jMXZWWHpJOTdlWXZLeUE0dTZlNjI1cW15Umlha0FtdlRYRnptUWNqYlRMX0JSck83a2JuUXZLWmFTd012X0JLVG5ON21LNXNxUVpqVlBPYjFLeDFUcWEwQTktbWc?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.4,
@@ -70,28 +91,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "ZEN.COM introduces Pay by Bank to nine European markets via Mastercard Open Finance - Open Banking Expo",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEJtYjRDNUhRTVNjc3dBUkJpUkNWMG82T0NlRmVfRVdtcm80LV83a3BWczQ5Q2ZicWROWkNQRWY0T0toZTBieDdpT29Vdm1jWVN4U0wyVFgzNnZrTXpiMEFUWklhQjF1QnJ1b05NME5oWk1zcXJBTHZGM1hjd1NJWjlHRXVJVmR2UE9abWdIc2phVklHRHY0OVFDLWZDcVhsS2xhWmQ0WGJmdXZ2R0RNeUM4RmFwUE84OVpndGRn?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Bepure Unveils UTS Zen Smart: The Best Under-Sink Water Purifier for Smart Kitchens - EIN News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek5QTUxyNHE1WWVfNkdadEtNZl9aLWd3RHFUVTM4TkpzaVE2dUszVmE4XzI0TGtoNVk5VWhmSTZRSC14Y3daWmJTelRfY2FFOGhOR0ZIRENHUHFzSm15R0g4bHNLTmZMa0hfSnF2NUIxN3lZdHBKOV95bTBKeGZMUlZiN1I4RnNYTl9tbUJ1NmdmbkJpRTBHdUJ0QXpNZklsMmNDTmswaHdkV2poMHM0SzVjWUNCcUhQTlNHVExsc1hOQQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Bepure Unveils UTS Zen Smart: The Best Under-Sink Water Purifier for Smart Kitchens - EIN Presswire",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEVPZzI1UjNTcFMxcjhEZkdnRUhSY1NQUHJ0NzF2TzRfLTYwU1JBWjVqcWtLeWFKTS1PWDBkb3BINUtpRS1lZVVKZ2d0MmdRcFh4aUZTbEs1cDYwM1BOdEZkQmNwZDVnWnNvaDFFM25TeFpzQkM5amRicnU4OHdySlVSUXl3MjFlMWo2ZnZvYmpWUXN0YWdCcTd5MVN0VmZ5VGRRMno0MkRUZVJYYTc1TkVmQ2xYUHQySzRZdzlVejdVSlBaN09qdg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-27",
       "summary": "Zen Technologies Launches Africas First AI-Enabled Combat Training Centre (CTC) at AFRIDEX 2026 in Lagos, Nigeria - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLW1xWG5OdTl4TkN2d3JReDZINDVmbFBQajA2Rks0WnBvUXlVa0FPVGFxbVZuaTdQUFJnSUxsSkJFVXZKenRPZUtraUkyUkJRZ2k5elRXRkdjRWE4amw2ZjQ1YzA5ZzVsMDdSamIzWUZWc05SMnJnRGc4WFVyWkJSUlcxbl9LVzdiVm5RM2lqWV9MTXk0akVwTzhSSXRwX2M2TndjVVVORFFSSTNCeUNIUl9MbEZfZXlSNnBveDNvTHRqUUd5Q2p3MmdwSTVORWRPVkRQcHEzUWcySzhQeGFVZkh0SjVFamRPa2fSAe4BQVVfeXFMUG03OWRhd1lxQkY2VjJZb1E0YUJ6cEo3bUlmNlBKbmV6NTdWMDNZdVhNV0VGUGNfV2ZuNWJzLVN5Z2ZtX1JUdHVLcU01SlA4REhpQVdlZ1R4SFFOVWJrR0pWelQwZkt6VTF2YldESGM3NWlBUnVGSWFRcUlYN20yQmxQUTZPVk1MRmd2RDBza003RUtzaVhMVVBJcHpZVjY3TVN1OFR2UTh3ak1kaVZ0S3AtQmtDZmwxN3ZqQmFybllhYzJTSGRXN3BMUjBEZW1yd1ZvQTR2T1N6OXpEOEpIQmRsZTAyTUFCUEtvNENzUQ?oc=5"

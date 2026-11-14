@@ -1,9 +1,9 @@
 {
   "domain": "jerry.ai",
   "name": "Jerry",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 11.4,
+  "score": 12.5,
   "contributions": [
     {
       "type": "leadership",
@@ -14,7 +14,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "Jerry Harvey Audio Launches Universal Plus, Bringing Custom Personalization to Universal-Fit IEMs - Mixonline",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNjk4S2JfWXM4VG9BTXhqMEpnSzJ1dkctVnVnTWt5cnZZRmUyU1lsb1NzX2dtdnpTU0otYTZUd2VVb2lmZjFLWkVEaGRZS0hmN0h0TkxiMmR2ZW1NVmNkbGlZRnpHZVRLb1VzUmtDSzVkdXJ4T2txRE1objg0U3owZmFSYkN6b0F4SVB4XzNFeHVfNHhqcUczSUoxLTA3RHZadWlaQmZUZktqaTk0R3NqN0RDYkhqeVVrWmQ3RWhxM2JkYTVfb3ktS3ZMOA?oc=5"
@@ -25,6 +25,36 @@
       "occurred_at": "2026-11-11",
       "summary": "Kamen Rider MY-TH Launches Official Tom and Jerry Crossover - Crunchyroll",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1hONTZqWHd4eHRPVklNSHZjMG1MLVZqREZCVVZPVUxFdFJ5OWlSN01WVEZLckpObW9SUm9yVHVEZ3VzcEtaSExGUHo4bE94bU1jM0RMNHZkUjNERV80UXBCWjhaRjJ6QnpXMjRvMmc0NGVwMkZwd2xMcE1rTG1MQkhsdHJMRWJ0WjM1TnNCRUlldlpEZVE?oc=5"
+    },
+    {
+      "type": "hiring_velocity",
+      "role_family": "finance_ops",
+      "contribution": 1.2,
+      "occurred_at": "2026-11-14",
+      "summary": "4 new finance ops roles in 7 days vs 1.25 baseline",
+      "url": "https://jobs.ashbyhq.com/Jerry.ai",
+      "postings": [
+        {
+          "title": "People Operations & Compliance Specialist",
+          "posted_at": "2026-11-12",
+          "url": "https://jobs.ashbyhq.com/Jerry.ai/6dfad0fa-4b45-4ce9-b4fa-45aea78716a5"
+        },
+        {
+          "title": "Sr. Talent Acquisition Partner (Q4 2026)",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/Jerry.ai/d983f73c-6a21-4283-8b28-c6ffb8e7b5d0"
+        },
+        {
+          "title": "Legal Operations Associate, Compliance & Automation",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/Jerry.ai/8605b571-0de9-414f-8c34-7a2847212753"
+        },
+        {
+          "title": "Legal Associate, Commercial (Insurtech, Remote)",
+          "posted_at": "2026-11-13",
+          "url": "https://jobs.ashbyhq.com/Jerry.ai/825d3006-b047-48b5-9ea6-a645b40c69c1"
+        }
+      ]
     },
     {
       "type": "launch",
@@ -49,7 +79,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-23",
       "summary": "John Mayer Releases New Single \"Tom and Jerry\": Stream - Consequence of Sound",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAydzhoTGJMeURmZGp5Z1JiLWpkQnR3eEo4RmpNd0tfVU4xdG1rRWdfUENpWThBem03SENIUXRkZzVVcVJwclVLRm5fVDdjX250MVVmNjhNM2czaUItWG9ueVhwYmxwcUVxUVNQRWxydUxQY1I4d0ZfQzlNXzlDa2s?oc=5"
@@ -98,13 +128,13 @@
     },
     {
       "type": "expansion",
-      "contribution": 0.7,
+      "contribution": 0.8,
       "occurred_at": "2026-10-22",
       "summary": "This year's 'Scoop University' class is the first to learn at Ben and Jerry's new headquarters - WPTZ",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOanlQWWFTMjA3TjJlSUJvSm1hcENHNGJLTTh5MVBhLXRpMXlZLUl2MTZYQ0hOQXhWb3RXRHlRX2lsVXl5cHd3MFVKY00wdWNOSnlmWU9uTmNfOXlabTF0WDZaZU5rZ2tiN2F3T0JKUkhLT1cyVUM3dzB1UndRTmFYZUhFTDczME5TMEtmQg?oc=5"
     }
   ],
-  "open_postings": 36,
+  "open_postings": 46,
   "long_open_roles": 0,
   "sources": {
     "ats": "ashby:Jerry.ai",

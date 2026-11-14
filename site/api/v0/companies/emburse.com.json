@@ -1,9 +1,9 @@
 {
   "domain": "emburse.com",
   "name": "Emburse",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 4.6,
+  "score": 4.5,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -38,7 +38,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 2.0,
+      "contribution": 1.9,
       "occurred_at": "2026-11-13",
       "summary": "2 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.lever.co/emburse",

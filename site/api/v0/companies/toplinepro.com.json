@@ -1,14 +1,14 @@
 {
   "domain": "toplinepro.com",
   "name": "Topline Pro",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 3.0,
+  "score": 2.9,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 3.0,
+      "contribution": 2.9,
       "occurred_at": "2026-11-13",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://jobs.ashbyhq.com/topline-pro",

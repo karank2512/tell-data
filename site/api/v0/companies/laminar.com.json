@@ -1,10 +1,17 @@
 {
   "domain": "laminar.com",
   "name": "Laminar",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 2.1,
+  "score": 4.1,
   "contributions": [
+    {
+      "type": "leadership",
+      "contribution": 2.0,
+      "occurred_at": "2026-11-12",
+      "summary": "[person] Joins Rockwell Automation PartnerNetwork As Technology Partner To Advance Productive And [person]",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVm53bWNiYXZTdjcwTkxRUkt6M2JJdGkyWEZ2d2NkdDNnX2lKZ00zbnVvODdSamdqaklvMkhhM003NVFJd25ZcTItU1o5MlZhOWUtaVNsS1BnMnVuY1VYNGk1UTlVU3VkYmpoZXN0MjJ2YTNDV3JmRFBLRGg5ODlJbVFtVXJPdnBJWDVremNhTWxfZG9xSzZ4em4wLVE1aFRVMURuMmNwa2hTU1o3aVowXzhKM2cwUU05Szh3ZHVIYmg4Q1pCaUpYajJ0U0pTQ0ZOMU9uc1VtOGE0UFFMMVhOLUhqVzJJXzhw?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

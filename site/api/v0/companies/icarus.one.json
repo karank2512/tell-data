@@ -1,9 +1,9 @@
 {
   "domain": "icarus.one",
   "name": "Icarus",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 8.2,
+  "score": 9.6,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -27,7 +27,7 @@
     },
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHNVX1JOWldGV01FRzNhc1BRTUx6NHYxbTNwdlVaUlAxU1Z0Y0diSkxqZ0dvV0xac0hXQVkzYXJJY2lJb1NwbjV5X3BINlJhTUZOaWUwSy1fQlh6SGw1TDBoTEZpcWxacy01RGhTVkVncURaSUNoeU9BT3pEU0tfZXk1TDJXNlpNOHpLSHd6aVpBRGZqRzJfZWpyZWIxVkczYlhzYWNsa2FvVXl2YVduN2lfTGI?oc=5"
@@ -48,13 +48,20 @@
     },
     {
       "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "ICARUS releases ‘Surviving VFR into IMC’ training syllabus - Vertical Mag",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTG9aWnVqQU5PY0NRVzNJaFFQRE9VdGtjbWJGTUxZWENUdVBKTWNlcG1XSzQ3dEdseEJJTEMxN1VyX0JITTd5UVFWVTRiUmx2V2VpQVRhX3FQSWF0b1lQLXl2RVJXSUs5cEU3X2ZCMTlUY3pUUEctYTdST3NyU09yRmI3UXFUU2kyZ0FNZGRSN1dsbllhSkUwN1NYbHU?oc=5"
+    },
+    {
+      "type": "launch",
       "contribution": 1.1,
       "occurred_at": "2026-10-22",
       "summary": "VALOFE Launches Global Official Service for Icarus Online on October 22 - Inven Global",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjVPWkY4d3BkaGJmSlpRcV9TWVJfTlMxNjBmdnc2Z1N4SXM4Z2JWQi1KUEJTS2lrcGdqUHYta0xPdGIxVUVvYkt5WGlaNXlYQjBwRV8wcWwwYjdRWjBBWVUyVlU1eU9HS0paWjEwaWY0ZUlZMzlyLXcwQXZzOUxCQ3Vaa1ZSUkp2bEc1Y0d1dzJKSzN0SUZmQnNuODRMVWR1UG5VNFV2enRXaVBzM3NVam05UW8?oc=5"
     }
   ],
-  "open_postings": 28,
+  "open_postings": 29,
   "long_open_roles": 16,
   "sources": {
     "ats": "greenhouse:icarus",

@@ -1,13 +1,13 @@
 {
   "domain": "alpaca.markets",
   "name": "Alpaca",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 34.9,
+  "score": 34.4,
   "contributions": [
     {
       "type": "funding",
-      "contribution": 11.5,
+      "contribution": 11.4,
       "occurred_at": "2026-08-13",
       "summary": "Form D: $800,000 offering, $100,000 sold",
       "url": "https://www.sec.gov/Archives/edgar/data/2149786/000214978626000001/"
@@ -56,7 +56,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Bitso launches US options trading to build a more complete investing experience in Mexico",
       "url": "https://alpaca.markets/blog/bitso-launches-us-options-trading-to-build-a-more-complete-investing-experience-in-mexico/"
@@ -70,7 +70,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "BingX launches US stocks, expanding their Multi-Asset Ecosystem with Alpaca",
       "url": "https://alpaca.markets/blog/bingx-launches-us-stocks-expanding-their-multi-asset-ecosystem-with-alpaca/"
@@ -147,7 +147,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.6,
+      "contribution": 0.5,
       "occurred_at": "2026-09-10",
       "summary": "Rest Launches Digital Treasurer with Money Market Funds Access for UK Businesses, Powered by Alpaca",
       "url": "https://alpaca.markets/blog/rest-launches-digital-treasurer-with-money-market-funds-access-for-uk-businesses-powered-by-alpaca/"
@@ -193,7 +193,7 @@
     },
     {
       "type": "launch",
-      "contribution": 0.5,
+      "contribution": 0.4,
       "occurred_at": "2026-08-27",
       "summary": "Monetae Launches Monetae Markets to Expand Access to Tokenized US Equities and ETFs with Alpaca",
       "url": "https://alpaca.markets/blog/monetae-launches-monetae-markets-to-expand-access-to-tokenized-us-equities-and-etfs-with-alpaca/"
@@ -213,7 +213,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNVVzZVZZX3U1T3A1UTQ5Tm5IaThSUjVoa2Y5S016MGhRMnk1QWd2VlFmWFZBXzhEOUdHbHZ0dlBySEhNV3VVZ2dvcExFSk5lNDN0VkRkdTBGUTEyYzhNTzdJZ3ZtTHZxTnJ2alJiS1FHUWFWbmtZbXRQUXN0eWtZLUF6Q1dnMWJySHRBOG9YLWhONnZYaHpCelhQWWJETFdEdGhXVWZESFppTXp6RURhcmZRMVgyX0h0YlBvMA?oc=5"
     }
   ],
-  "open_postings": 71,
+  "open_postings": 68,
   "long_open_roles": 13,
   "sources": {
     "ats": "greenhouse:alpaca",

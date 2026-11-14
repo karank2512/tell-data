@@ -1,10 +1,17 @@
 {
   "domain": "famapp.com",
   "name": "Fam",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 6.2,
+  "score": 7.6,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "FAM introduces FA Cup, Bullets to enter at round of 32 - FCB Nyasa Big Bullets FC",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnhMVms2cVMtX2RMaWFkbkZFTnRYZ1lYRU9FY0JmeHE0U1U4VTdoV1phdHFRX3VzUmxtdGVHZWFpU3RfZjhPckYxSUN5dXRwcU5ETkFvWk5acDNjdXp1dEtldXV1RWIxU0E0bkFyQi1vdGgxT3lnaVd3N0k5WkRVSWgzNldBb2pISmFuWGhqWQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

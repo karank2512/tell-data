@@ -1,9 +1,9 @@
 {
   "domain": "instacart.com",
   "name": "Instacart",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 14.0,
+  "score": 13.8,
   "contributions": [
     {
       "type": "hiring_velocity",
@@ -33,7 +33,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-17",
       "summary": "3 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -123,7 +123,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "engineering",
-      "contribution": 0.9,
+      "contribution": 0.8,
       "occurred_at": "2026-11-12",
       "summary": "3 new engineering roles in 7 days vs 1.25 baseline",
       "url": "https://boards.greenhouse.io/instacart",
@@ -221,8 +221,8 @@
       ]
     }
   ],
-  "open_postings": 92,
-  "long_open_roles": 24,
+  "open_postings": 91,
+  "long_open_roles": 22,
   "sources": {
     "ats": "greenhouse:instacart",
     "edgar_cik": null,

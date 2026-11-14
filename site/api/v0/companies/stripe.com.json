@@ -1,14 +1,14 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 27.5,
+  "score": 27.0,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "gtm_ops",
-      "contribution": 2.9,
+      "contribution": 2.8,
       "occurred_at": "2026-11-12",
       "summary": "3 new gtm ops roles in 7 days vs 0.75 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "customer",
-      "contribution": 1.6,
+      "contribution": 1.5,
       "occurred_at": "2026-10-16",
       "summary": "3 new customer roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/stripe",
@@ -107,7 +107,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "HSBC UK Launches Stripe-Powered Tap to Pay for Small Businesses - FintechNews CH",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1FMQ1ZEMkZZZ3M0QU9VYjU5MGc4dGQ4R2xyQXBwTkVxVFd3R2tuaUI3TGZraUQ0Nm1fSHdZOTlpYnBHX3FKQXl1bUtqaERFTmRWam8tdkI4Zmw5Nlo4dWlDQ2ZRUmhlS3FvYjl6TG9rbHdPdS1xVFRXNmlpR2NlQjZsZw?oc=5"
@@ -135,14 +135,14 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Stripe Unveils B2B Payments that Mirror the P2P Experience - PaymentsJournal",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa2swYzg0T29KaG5GZ3dsTkZfSHl3bzN0Yjg3ZFhqMTlxdjk4emloS3FabDA3NTBra2lzRWsxZXg1OEZsQXFwRUY1NElhMGxVamVINEJQdjhia01kSjMtZU5DZzZETUhjNExtdzZ1VzcwOVN0RTZSU3ZnT1NMSElvZ0xYcXY2QVh1OG1aaXFHc2hIZG8yVkHSAZsBQVVfeXFMTjJnOEFxV3lQaTI2OWdZMlZBcjJLU3VsZm1iUWxMVjMwSDA3ZDJvMlFES3dPdVlRQmkxRDl3Wk1iZ21GQWxmUWxkUy1GdGhLOVlyZjNEc3NrLUtDVVFCVlBhQTN3LWQ5SGxyZ243ckstZFNPODhVMHU5S3VwdU1GSFNHbHBiOTIycGZqRVZnY3BWaWYyYlBpU2xoVTg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-28",
       "summary": "Stripe launches free instant B2B payments through business handles - Crypto News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05alhVTF9xUm5waFdxTjBidGdRS2lZeW5NYUNsUGhPX2RRalBxOHg3SWhiLWJDRGFlSFVWNWtZNy0xT09iNG1rcFBRTVFWaHJnMFN2YkRraUhTT2tjMzNZT0F6alhjWTdqUEZyNDhCbmR4TmF2bkNVU3ln?oc=5"
@@ -245,6 +245,27 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSl8tdXcyS0FkN2lKb3BTTWNldEh5aUoyckFyR3pNWDhMTmdvX2UwMnNYRzFMRXdmMlJfSEVKbmUwaUpXd1JFZ2docEtTM1ZyQlhsWHptRnI2ZmE1U05RM0o2a0lRbWYxSUsza0ZYY3o0Ym9Bd001b2MxNHBSM0FObG81cXp5TlhLTGROWFlvNEt3RHFPby1xaWlrRlpWOXdzR2RVaDU3X3hka2dfWTkwNDg3d1V0YVo0YzhKY05meURYRlA4OUZJRkh2VjVVb1VGbkZrYTVUbE4?oc=5"
     },
     {
+      "type": "expansion",
+      "contribution": 0.8,
+      "occurred_at": "2026-10-23",
+      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRG5rLThDdEt6eDE0NnRqbGNtdC1UU2drYWV3UEp6OFpJT0tNM09RQjUtNWRjYUtXWENiSFlQa2syb1RnSm02ajM0SUE4dUpYM09QeUNJbDNHQ09vT3RQS1JzQUF5SExaX0RnaTBRbHoxUjltWllwREZJU0NwdnlBMUtLQmNROVpMaUNLN2MwZklQSEhwZTRsRXJ3NA?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 0.8,
+      "occurred_at": "2026-10-23",
+      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - KTBS 3",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOY0tnT0Y0SDhSV05VdmhoSUVmVWlBOHRQQXNudHRrbGMxZGJMYnJTbFlXVWY3cTR4NFlxZnp5T2tCT0NoM3NwcGdzSThkTjRKaDJMMV9aLVFrSHpGN1UxblhNTlJyQTFCTHJpeGlNTndLaUoxTzhiaXVBeUgwaXFtQXRiZGkxbGYxdFBMY3l5d0V4aU5NRVAyYTNVeHFvcmxTRWJPNkdja2NUWHdjeTU4Vmd3OU5rek9TXzFIZkpoNzcweS1WVWM0OTRwdHlnYXVPRjlQNUlaVFNHVXlJZGlCQ1c3bjFvR1FJb3hlMmVzR0ZaNmdwQXZrQlZjemF4LVN5TWNLNHRlRm5hSjlwa20wdktYblB3SlkwOGhJ?oc=5"
+    },
+    {
+      "type": "expansion",
+      "contribution": 0.8,
+      "occurred_at": "2026-10-23",
+      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - Delaware Business Now",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNd3R1WFZtTkZHTkIwNVk1ZWZoZVdkQzdXVlA1OGVpSVZSMUFWV3p1ZF81LTQxVVFDUVEybnltSElxQXl0bXRPZTRGSXBJd0t5Y3ZZbFJPNWR4MkFKdXlESmxReGJONmNJdVdYZ1E3UkFvLXplYW9wME5rUDY2UW9wd3JtNTZwQW40bnQxTi1LMkpVdEpIYUw2RDA2RnFMY2wxVG4zNjRyN202MnhWSktNRElhbi0wSGsxY25lLWJSa1psamwyTVI0NUdMS1RlclpmTlJ2MTBpQlBrbElsd1hFVE81cFZUbWtkTWl5QU92b1BjQ2xFdFgyOWY5b2p3OEdyY0Z2SFl3MUFCQnFiMWZaVUFuLUNQcTFmUHZiN0hxaTlIbkVYYkZWT043UGJISUU?oc=5"
+    },
+    {
       "type": "hiring_velocity",
       "role_family": "exec",
       "contribution": 0.8,
@@ -268,27 +289,6 @@
           "url": "https://stripe.com/jobs/search?gh_jid=8325023"
         }
       ]
-    },
-    {
-      "type": "expansion",
-      "contribution": 0.8,
-      "occurred_at": "2026-10-23",
-      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRG5rLThDdEt6eDE0NnRqbGNtdC1UU2drYWV3UEp6OFpJT0tNM09RQjUtNWRjYUtXWENiSFlQa2syb1RnSm02ajM0SUE4dUpYM09QeUNJbDNHQ09vT3RQS1JzQUF5SExaX0RnaTBRbHoxUjltWllwREZJU0NwdnlBMUtLQmNROVpMaUNLN2MwZklQSEhwZTRsRXJ3NA?oc=5"
-    },
-    {
-      "type": "expansion",
-      "contribution": 0.8,
-      "occurred_at": "2026-10-23",
-      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - KTBS 3",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOY0tnT0Y0SDhSV05VdmhoSUVmVWlBOHRQQXNudHRrbGMxZGJMYnJTbFlXVWY3cTR4NFlxZnp5T2tCT0NoM3NwcGdzSThkTjRKaDJMMV9aLVFrSHpGN1UxblhNTlJyQTFCTHJpeGlNTndLaUoxTzhiaXVBeUgwaXFtQXRiZGkxbGYxdFBMY3l5d0V4aU5NRVAyYTNVeHFvcmxTRWJPNkdja2NUWHdjeTU4Vmd3OU5rek9TXzFIZkpoNzcweS1WVWM0OTRwdHlnYXVPRjlQNUlaVFNHVXlJZGlCQ1c3bjFvR1FJb3hlMmVzR0ZaNmdwQXZrQlZjemF4LVN5TWNLNHRlRm5hSjlwa20wdktYblB3SlkwOGhJ?oc=5"
-    },
-    {
-      "type": "expansion",
-      "contribution": 0.8,
-      "occurred_at": "2026-10-23",
-      "summary": "RouteStack.ai by Custom Travel Solutions Expands to Deliver Native Stripe ACP Integration - Delaware Business Now",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNd3R1WFZtTkZHTkIwNVk1ZWZoZVdkQzdXVlA1OGVpSVZSMUFWV3p1ZF81LTQxVVFDUVEybnltSElxQXl0bXRPZTRGSXBJd0t5Y3ZZbFJPNWR4MkFKdXlESmxReGJONmNJdVdYZ1E3UkFvLXplYW9wME5rUDY2UW9wd3JtNTZwQW40bnQxTi1LMkpVdEpIYUw2RDA2RnFMY2wxVG4zNjRyN202MnhWSktNRElhbi0wSGsxY25lLWJSa1psamwyTVI0NUdMS1RlclpmTlJ2MTBpQlBrbElsd1hFVE81cFZUbWtkTWl5QU92b1BjQ2xFdFgyOWY5b2p3OEdyY0Z2SFl3MUFCQnFiMWZaVUFuLUNQcTFmUHZiN0hxaTlIbkVYYkZWT043UGJISUU?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -366,8 +366,8 @@
       ]
     }
   ],
-  "open_postings": 804,
-  "long_open_roles": 197,
+  "open_postings": 793,
+  "long_open_roles": 193,
   "sources": {
     "ats": "greenhouse:stripe",
     "edgar_cik": null,

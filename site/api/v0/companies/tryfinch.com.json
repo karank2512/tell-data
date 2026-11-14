@@ -1,9 +1,9 @@
 {
   "domain": "tryfinch.com",
   "name": "Finch",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 3.6,
+  "score": 3.5,
   "contributions": [
     {
       "type": "leadership",
@@ -25,16 +25,9 @@
       "occurred_at": "2026-09-14",
       "summary": "Introducing Finch Benefits: Plans, Enrollments, Dependents | Finch",
       "url": "https://www.tryfinch.com/blog/introducing-finch-benefits-api"
-    },
-    {
-      "type": "launch",
-      "contribution": 0.1,
-      "occurred_at": "2026-05-18",
-      "summary": "Introducing Flat File: All the Benefits of a Unified API, No Engineers Required | Finch",
-      "url": "https://www.tryfinch.com/blog/introducing-flatfile"
     }
   ],
-  "open_postings": 7,
+  "open_postings": 6,
   "long_open_roles": 6,
   "sources": {
     "ats": "lever:finch",
@@ -42,5 +35,12 @@
     "news": true
   },
   "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
-  "why_not_higher": []
+  "why_not_higher": [
+    {
+      "type": "launch",
+      "decayed_at": "2026-11-14",
+      "url": "https://www.tryfinch.com/blog/introducing-flatfile",
+      "summary": "Introducing Flat File: All the Benefits of a Unified API, No Engineers Required | Finch"
+    }
+  ]
 }

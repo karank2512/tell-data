@@ -1,14 +1,14 @@
 {
   "domain": "airbnb.com",
   "name": "Airbnb",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 31.4,
+  "score": 30.8,
   "contributions": [
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 4.7,
+      "contribution": 4.6,
       "occurred_at": "2026-10-21",
       "summary": "8 new sales roles in 7 days vs 0.5 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -58,7 +58,7 @@
     {
       "type": "hiring_velocity",
       "role_family": "sales",
-      "contribution": 4.6,
+      "contribution": 4.5,
       "occurred_at": "2026-11-10",
       "summary": "5 new sales roles in 7 days vs 2.25 baseline",
       "url": "https://boards.greenhouse.io/airbnb",
@@ -172,7 +172,7 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "Airbnb.org launches £1m Medical Stays programme to provide free accommodation for UK patients and families - Short Term Rentalz",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zVkZ0cWs4XzVzbElZYlNKWW5pX3E2VFctYy0zTFYwbnRXQjZHS2VMbXBkUUpEaDRSNXNBclNrM2t5MmtZLS1kNm1VZ3dXcFJHXzljRWE4NkM2bXhwcTZwRkU4dXJKdXN1YXJyVGkydEsxT21leEw4?oc=5"
@@ -207,21 +207,21 @@
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb introducing new rules for hosts - 95.5 WSB",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjZDcGN1eEhycmJVX2ZpLWhta2NkLVJXSnk1OHlXVkFncmdhMWJUNkxqZ3k2TTNCUzBNVWVyTkMzOWpLZTVzekxRcGVpVlVLSFhINFBGM0pYZHZCZjg5VEVfSUlyNEdYYXNYODVlTUdYSnl5Y1RTY3FXbnFLaXU0dUhPNUc2NXBhRTRyZ1JVR05mZXREdFBHOURxd1RjWGPSAbMBQVVfeXFMUHhOalBTY1JMZFViR2dYblJaTVFZRGk0OXl1bjNWYzd0YUpLR0ZKYmVPdWI0dHZLcDcycFNyTDFKbE9fZjVGdmlXZUhsRVNiQWRCVWJGQVZCaTZjZEFsZzhOMkVoYmJlT2Q0OXBXNVNIVElJT0xwS0dfNVM5enk1N1M0c3dTUXEycHdCSjFwSHdmUWNjM2pEdDVZOTkxZ0trLXJad1gyZXdmTndEa2xPN1JoRzg?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWQyVEpibDNwdHpLLUhpZGtQQ0VqOGpPNkd5X2RVQ1ZYUWhsU0o4QzFrendYMzBuQktXRnp2R0dyT2NRejF5SFVldlhKNnA2X3Y4Tk0xQzFMWTBzR0RIQ3BBbVhNRnBSSDhpaGZGLU9uZ0lJZ3Q0R3V3cDRDMTUtbE9BUkZ3OTduWlE?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.1,
+      "contribution": 1.0,
       "occurred_at": "2026-10-21",
       "summary": "Airbnb Introduces New Rules for Hosts Limiting Checkout Chores Like Laundry, Dishes and Trash - Yahoo Lifestyle Canada",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXota0ZLTHRMZlZWeWV5aFFBX0toZDJ0ZXFIZHdpeEZNWGl4emJEZE5uT0ZJUzdJcTg5TG5DODdaUFR1QUNkNVlSd3gwTHpjejNDZTN5WDB6QkZpSzVHTy1oNktjakFvMkZKNkpLcDlVVWE3Qk5KY0ItcXRyWXhDUHVSU3hqZ0k?oc=5"
@@ -246,6 +246,13 @@
       "occurred_at": "2026-10-17",
       "summary": "Airbnb (ABNB) Unveils AI Travel Tools In Fall Update - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjN3akxCanRDTl9LTDNfYUE1UWdNbVJvZFkzVkZmckNrOWk2c1FkR2p5VldZRzRVR1dXOU1xbXA5MjNZQ0FoOTdOdzVKcTF3UlBwZ3BYcmdCNDdSM2Z3OVppLUtzLV9DcTZvU1A0V1ZaVi1YYnFRZzJ4aXdUWW9mc1NmTTRPUWlNYlZ1NXgyeGc5aUt3cmxlQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 0.9,
+      "occurred_at": "2026-10-14",
+      "summary": "Airbnb launches weather protection - Coverager",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMjhXeGIzcXl1VE9jZDJzUHBSN2Y0Q1FUblluS0lqeFBVaF8tMDZJa2c0QV9xejVWbDJGY0szakY4NVV3WHRDdzJ6RUZxZ1J4V1hsQjJmSE1BVXhJSV9OWnFZRWYwSjhs?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -276,13 +283,6 @@
           "url": "https://careers.airbnb.com/positions/8347087?gh_jid=8347087"
         }
       ]
-    },
-    {
-      "type": "launch",
-      "contribution": 0.9,
-      "occurred_at": "2026-10-14",
-      "summary": "Airbnb launches weather protection - Coverager",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zMjhXeGIzcXl1VE9jZDJzUHBSN2Y0Q1FUblluS0lqeFBVaF8tMDZJa2c0QV9xejVWbDJGY0szakY4NVV3WHRDdzJ6RUZxZ1J4V1hsQjJmSE1BVXhJSV9OWnFZRWYwSjhs?oc=5"
     },
     {
       "type": "hiring_velocity",
@@ -345,8 +345,8 @@
       ]
     }
   ],
-  "open_postings": 222,
-  "long_open_roles": 58,
+  "open_postings": 218,
+  "long_open_roles": 55,
   "sources": {
     "ats": "greenhouse:airbnb",
     "edgar_cik": null,

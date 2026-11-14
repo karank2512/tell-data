@@ -1,13 +1,27 @@
 {
   "domain": "tryfable.com",
   "name": "Fable",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 66.9,
+  "score": 74.3,
   "contributions": [
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "Xbox Releases New Fable Gameplay Ahead of Company's 25th Anniversary - IGN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzcG9WZ3lYQi1rdkQwVXluVjRkYW53bHRpZkpzbW1WenY0YktKdlVBRlpaclNyLVYwNDNBZk5ONXlYclFqSFVIM2oxeXFwYXROc1g2UEh4QW12a25RWXRJRlVxUm1VTFFSOWFfanVvWUhMVjhzSldlNA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Anthropic Launches Claude Fable 5.2 And Mythos 5.2 To Accelerate Tech Tasks - Ubergizmo",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vdlFHVnNuZDB5VFd0N2JXYmZQTGdzQnlDZGh6RGkzZ2poSE1QUWYyMWxoMDVhNmRXNmFOZ3VUNmlQZkhtTDZxdzJCbDdXaUFDT0hnVkpvdUlYTXpzZEpCY2FjR3V1eXMtTUZ0T2FOQQ?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
       "occurred_at": "2026-11-10",
       "summary": "Anthropic Launches Claude Fable 5.2 and Claude Mythos 5.2 with Lower Pricing and Advanced Agentic Reasoning - OODA Loop",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYm1vMEZJSFc5aHVRM0U2S09BMlh1NU1GcEV1MnNacUFSNXRCc3JWYXdpOFg0dFZGb0NvZFN6V1NuYnBrSmVRVldJc3pSZGgzU1d0bzdHZC1vaDFhak81dXoxbl9OeGszREZFc0NIMlpCVTgwZkZ6NnVRS3ppbVcwYW1FQm0yRUxrVnU0RVhhWDVmUmwweGFZc1RHQ3ZjYzU0NmJLbDBPVEJVWk5JMHVrRUJpMDhuaEdTRWVSQUdRcS1MTC1kSk9oanpEb1piRGVVd2J2NXc4TlBsNGJybW5jZw?oc=5"
@@ -93,6 +107,13 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-10",
+      "summary": "Anthropic launches Claude Fable 5.2 and Mythos 5.2 for tough technical tasks - The News International",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDgxMzE4T25lNEVIV3dMQlBYbjlQZFp5Rk9CSGpDT01sYThmeEt5OGNwbDJZZ1pmRzcwUTlxbHhNQjV4czlidW5PMXZ6QVZKUkxGcUpLMVFlQk5JS0ExX01OZGNHOTRnanltaHROemxLaWs2YlhRQ2NvRUREVkF1bmk2S0kyWGF3dVZZVGhycU52TkVtR2ZRM0d5Sk52bURQWlFzVDFJelpsWHh3TVg4OU92anFiSU3SAbMBQVVfeXFMT1JGUE1vTVdFNFc0cEl2QllubV93ekx6Mnp1bDcxVGJ3TFlwOFRFeW5qeloxNGw4YkF5cE9rMEx0V3M1NHlteE1fSXRfQ1BqMk5fZ1lfSVFydXBIWGtiTEFreklrVXhpcWd5QVFRVmxyd051TTd1NlUwWjhhbkdCZFFtUVRrdC1fR09WNHhPNEdETVd1WWxiOWVuYVlqU0JjWDZjUnljSDhXX3RyZlVJcmRuWlk?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
       "summary": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades - SiliconANGLE",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkdMd0hfb1Z0amJnRVNBWFViSlJxYUpTYjJzN0dhc1k1NHphNTNONnR3Z1Jqd3czVmVfMk5ubncwVVlJZDIzMktLQVlJRThET3ZaUTV6MF9jQlVnYV9ST2RPX3NKWms4SlRHYjJ5VklfZVY1Z3VsRE01bUpORmJyaFpqdTFkU1pIMWxzdVU0XzdHWFJMOVd6cnNuMjdLYnppdEdnaGYtOHlFZXZQaFE?oc=5"
     },
@@ -116,6 +137,13 @@
       "occurred_at": "2026-11-09",
       "summary": "Anthropic Introduces New Fable 5.2 and Mythos 5.2 AI Models - CNET",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclhvZzYxckdzRVZ2dzNHMUZoSHd3RllabVFSSUxJUWRZRE5yaDNRQUFITi1hdG9lQ2RvamFJWERCQ3JIMllOcmxNZVJGSFNuQkROSlRPQm9TNDVMQldGZktKLXlmdXMxSHloOFllWXo5Unh1LWgzLUx3Q2g5ZnkydlRvRmpqRmliQ3VVdUlubw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Anthropic Unveils Claude Fable 5.2 and Mythos 5.2 - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtVUM1dFVvai1QQVFfSGNKNnVXTmdJSFpYUXRVYTNRM1FMQ195UHhvaDNjejZiUEtIZmdiUzdWUUFiV3pTUENXcDZWVkZidHVqbHFEbVRUeTZydGVnd2haenNhdFFmQ1BFdGx4WEl5a2V5VEx2WUE?oc=5"
     },
     {
       "type": "launch",
@@ -268,12 +296,26 @@
       "type": "launch",
       "contribution": 1.4,
       "occurred_at": "2026-11-09",
+      "summary": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-09",
       "summary": "Anthropic unveils Claude Fable 5.2 and Mythos 5.2 ahead of possible IPO - Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzdnZjNsZUdkWS1TREdLdmFfYkV6ZE5OeGh5R3cxQ1pkWWtCeVFyczViVTh5aEZHanpQRXM3aHlFdkZIUUwzdW1EdG5jYWl0UTNwdDBTbEtRekJ3T3JxWEZiZnFzTEVtWjMtT0xhYkVSQjVFLU1IakJ4OG5VQTB6M2tXam5zQXM0YzJoTVA1WEphUQ?oc=5"
     },
     {
       "type": "launch",
       "contribution": 1.4,
+      "occurred_at": "2026-11-09",
+      "summary": "Anthropic introduces Claude Fable 5.2, Mythos 5.2 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1ZsWlFkenhIRFY4UFdDOGE5U2wxQ0ZidVhBeTZlQlVlTjNpdFJlUGdHdm1YdFJwZS1Dc1JLbnNhZjVJOTB1MDNXZ1pKRmdGTEFXQ21WMGVLdDktRnFrTTFlYkY1WVVmclBhTExNcmY5ZjE0anRpVUVKM3ExOUUtakMwOU8zN3VqazdqZUJZcFJIRWVoTmp0REhuUW5TVmQ3?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.3,
       "occurred_at": "2026-11-06",
       "summary": "Fable Studio unveils AI-generated animated film Gods Don’t Give Gifts - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHR5ZmRrcHAyMGtLSDNOQVExYnFHV0dkbHVrVUIxRzdHVUVOMU83OVA5UGhudUJpYkM1R0Q2ZDctT3N2UFh1Vk1IMDJrcVNzVE9DbTJ5a2ZHVGVPZlhUenBNOC1mdm1kQlN6dndMY0xuTTlJelowNngySEdIdlY3M0NqWnY?oc=5"
@@ -294,28 +336,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-29",
       "summary": "Fable Launches First Bedding Collection - Home Furnishings Business",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDgtN1hGMmZ4XzlSTy0yTTd1NEZaU1JpX21OZjJIb2xWQUh5R0JYQ3hWQUxJenRwX1pXNThmRnp3TUxRUlFKOW1iX0hnS0F4VWJyR3lTSDNveW5uOTBOeUxOcTlzamRYS0ZINEhjdG1oVEthSkhiNGs5Q1dCa3ktY3R0eHZxeVV0N29kXy13?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-29",
       "summary": "Fable Security Launches Vishing Simulations to Prepare Organizations for AI Voice Impersonation Attacksv - VMblog",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3JZeXNSQTZsaS13aXRJMEVpbjJkNUx3bGhUN0F2V0RtYXdnZjdBOGFjSWhKUEJiRFdtME53RGZEUndhbmhacEFaVGRRRjZhai05T1p1ajcyOTJpd255akhaVjlQU0tQUHBLek9xOXFfMXl5NjFqOUlwQUwzWENkd3BQbUlCX2czcmRfb2hPTjJwT3hUVkIwNUlFNmM4VXFWZzExdUhPdEZoYU5tVW9KUUsxY2dHQmk1cFd4V01BUkRoMkdhcldz?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-29",
       "summary": "Fable Security Launches Vishing Simulations to Prepare Organizations for AI Voice Impersonation Attacks - 01net",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWW5yLUl5LXh2T3RJQ2tLcHNRaGFWRTVfblE0MlVfdXZURENuMTZpOFFrUzI3dzI0Rmh2Q1lWZ0RBZmg2bXZ2MnJPclNGWVNYV19qeG9oeFdNdFN3R1RVMFp1dkxnRi1PMm9tMnk4aW5wYVVJV3cteUVfRi1rZ0dLb2NaNG5BRU9QaktuOUNSMERlaHV3bENrQzJGU2x2ZnNnLU54b2dTNDVHWUI3VjhxcW5GVTR1NkVSRjVFb0UtU3lmR28?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.2,
+      "contribution": 1.1,
       "occurred_at": "2026-10-29",
       "summary": "Fable Security Launches Vishing Simulations to Prepare Organizations for AI Voice Impersonation Attacks - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUVORVZ5NVEwc0ZuREtobU5CNkdmZ0I3Wm1mNjRSdVA5Q3lXMnNwdHJNWkxkS3BwWVRVazhXYzRka0p6TmUyZFF3aE43N1pSeURzd3ZvQWNvSV9pUzIzZFUxcDlVYTd4QkQzWVVHOExRamJNN3VibmhNOV9kbjdRNk5XZU8yUHlwR1NrZjU0c0JzMXFOVlo2NUlYNEk0WGhRZHIybnR2UWlLSFE?oc=5"
@@ -329,28 +371,28 @@
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-16",
       "summary": "Netflix Releases ‘The Disciple: A Wu-Tang Fable’ Today, October 16: The Incredible Story of Rap’s Most Secretive and Expensive Album - urbanstreet.com.pe",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWjRHYlRhOHItUWZlZXpLRG1NbDIzU01BUXh1Z2VLZnZzVF9ldzI2cnAwdUIzWXlwcTdCdk1DNWVyNjluc21HLURrREwwSzFQR0lhQjVLUjdKZTlUTjdTX29iX256N2tsUmdSWW1OYkN3cEVvMFd5cDJGaXNjSGh2Z1VrSVhvSHZoaGdmb2JHdlBtNlFNSWI4b2k4b3hTbFpvbXB0ZmtIOEVTQWIteHlEWUQ2amZ3N0o0cjJScG1DcHA3RFJUZUVpakNZenI2THREbi1IWEZlS0JIMUlSUlV3R0xGd1A1R1c1VXBxMzRhRXg2R01k?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Anthropic Unveils Claude Opus 5 — At Half The Cost Of Fable 5 - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzYyMkx0NFhLdTdIZW5vaVI5bnJXODl4LXRFd1VXNkJJeklVX1VsNllfOVNzSERKSlRfU2lyZ3o4enY4dWFSYWNRc2xnVmVpU0tkMHBkTmVFTHRWR0oxOWpzQ0ROM3pGcW95MzFKTE85Yjd4Z0tvNmdvV3R1XzUzUGlVOUFQOG5FT0NYZ3NDejRkQmd6TTlibmcwbnJYMVBGZC0xbjNQTndLQWFVY21sTXJ5N3c4VFo2NnhHazRQdWk?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-14",
       "summary": "Google officially releases 'Gemini 4 Argon,' offering performance comparable to Claude Fable 5.1 and GPT-6 Astra, allowing Google to finally catch up in the AI top competition. - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzJ1V2l6OGI0aG53aWtKS1pTUWREZy1jSlB2ZTJPQWNQVWsyRUxXR3g3bEN1cV9waEFVQWM1eklkVkRISUJ0dk9vcHp0ejBneEVfTXFUcjE5OXlDSkZqRUxkQi1ybW84WlBZLXZVeDVQX2JkNWE1RkNSVzlxLV9BVTdJLW5wVnM?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.0,
+      "contribution": 0.9,
       "occurred_at": "2026-10-13",
       "summary": "The Fable Season 2 Unveils New Visual & More Cast, Premieres on January 9 - Anime Trending",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2phOV9GVVdmbE94MDlYcE1VUmVoRkFpSHJ3SzcwMWVGNVI2ZGtPWDQ4M0JJcThOazlveEtEbFhtbERLWDRrMHdKQ0hhQ0hLOG5Pdmp4MzRPRUtNdmlxY2h4b0VlUFlmOW5qMmxZbjFpUnFaT1pSZ1VUUjZESEdVWUpkOWZpOHE4VTBhT0Z1YlI5TVl6cTlzdGFsMXJmb3ZrcjhrNnJvdm8wNVcxOEE?oc=5"

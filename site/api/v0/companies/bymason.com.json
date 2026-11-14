@@ -1,10 +1,17 @@
 {
   "domain": "bymason.com",
   "name": "Mason",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 3.1,
+  "score": 4.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-11",
+      "summary": "Scott Mason, WRAL’s former Tar Heel Traveler, launches new venture - News & Observer",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGR3RjhYM1VWSGlyZmpMS1o3aTA2MTBrbERuVjl5TzRPQ1BHcW1fWXBwSUpGVl9SX3VuVHJ3VHZ4VC1BUDM1STFGNEg5azNRNVlyQ2JtVUhaWDRKdVhWb21BS2dRQTIzbHdxc2piNDZJbUgzRFZDb2dPODFLZVExM0lVU2NxSmZUS21HakhtUXg?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.2,

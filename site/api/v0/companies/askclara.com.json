@@ -1,23 +1,23 @@
 {
   "domain": "askclara.com",
   "name": "Clara",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 8.8,
+  "score": 10.7,
   "contributions": [
     {
       "type": "leadership",
-      "contribution": 1.8,
+      "contribution": 2.0,
+      "occurred_at": "2026-11-13",
+      "summary": "Governor appoints [person] to the Santa Clara County Superior Court bench",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbm9TcjVyZ1BwTy0zYlV1aGc3YTRPT3dBWjYyNGFuRUFJUDYzSXFDTFZ5aXZONkdiVTEzN1BtbmtJTEFNbGNodmtIMHBFc0ZrZVVPdjhHN1c0R3lTNlpPYXQ5alc2ZUxpMzhfZzljR1hZR1hMWkxtWTNXZUVDY3g4MDNUS292aDIwN2F4eEJUZjQxdHo4SC00Umh5U1dnQXpfdEI3RHp5aw?oc=5"
+    },
+    {
+      "type": "leadership",
+      "contribution": 1.7,
       "occurred_at": "2026-11-02",
       "summary": "CCPC appoints [person] as member of the Commission",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR3l3X1dZS0NhcXBoMjdMNEtXOGNwTHRabmtzYzBZVW5nd19SSFF2UnU5ZGtib0d1Q0Jvb1h5YmZGUXkyZk82TlhOTnl1U0tqc2Q3SEsyMlM5UXFQMlNyM0pmOTI3V29aRW5faGhKQUcyV0hkNW5iLUJ2Y29vcDhYS0RvdUlfcnhiYUFHaUQyNXFfeFVxeUw0?oc=5"
-    },
-    {
-      "type": "launch",
-      "contribution": 1.4,
-      "occurred_at": "2026-11-10",
-      "summary": "The Pool Films jumps into survival thriller ‘Noon’ starring Clara McGregor, unveils first look - Screen Daily",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa0JfdHhGenltQlRpc0N1NUVMTlpRZFl6QkxWMHV6end3RVBncDA4Q0NxaHJjLXBiME5rWHVwNjFtRVdQcUVQX2hEY3N3SWgwY2dxSjNmUnBySk43MFVvNnFuQmxFSGJ5VnRITGc0R3luWkNiZXlmSlRHc0JhQ3gtY2czRTRkTWR2bVJpVm1GNnFKemppNHhaM2tBWXZwVjR1VEdnQzR4WHlFd3FNQ2ZXQkdnemtuOWZmYUVZR1Q1WU5xXy1RU3dTQk9JNEdtM2xSc3dzTk0tcw?oc=5"
     },
     {
       "type": "leadership",
@@ -25,6 +25,13 @@
       "occurred_at": "2026-10-15",
       "summary": "Santa Clara School District Appoints [person]",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObE9oRkZKa1Nud1JJQV9GNVNBUHdLWkJYM0hiLVprRkVOLU93UXMzVnhqbUQwLVpHeWdBaV8xMGc5Y3pMNmJQdkpoY2RTZnVjeTM5TzdnSUZpcWtmaHJWZGxNLXl0NS02S1Zmd3RhVWRScmNyLTlXV1JuNHFlY1VYakxsRnRnXzJlTHRsMWxfUWtRSmhIdEM40gGcAUFVX3lxTE9DcUt4bjFTUDYwVkhpSS1xelRtdjA3dUxUMGRKa2ZZU1BMaTBrcmZJZGtlUWg3eVNRVFVCVjNObnlORmI4MUJnNkc2dk1RWHdzWnVuaUZVSmttZjVqNHZIMWFkNDF4a2FsakZPOE5YMm44Z3FDc2xtWXZBQ0pCdVFuOHc4cHRoTzZ6S09DN004M21QVmVpVUx3U0V0aA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-10",
+      "summary": "The Pool Films jumps into survival thriller ‘Noon’ starring Clara McGregor, unveils first look - Screen Daily",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa0JfdHhGenltQlRpc0N1NUVMTlpRZFl6QkxWMHV6end3RVBncDA4Q0NxaHJjLXBiME5rWHVwNjFtRVdQcUVQX2hEY3N3SWgwY2dxSjNmUnBySk43MFVvNnFuQmxFSGJ5VnRITGc0R3luWkNiZXlmSlRHc0JhQ3gtY2czRTRkTWR2bVJpVm1GNnFKemppNHhaM2tBWXZwVjR1VEdnQzR4WHlFd3FNQ2ZXQkdnemtuOWZmYUVZR1Q1WU5xXy1RU3dTQk9JNEdtM2xSc3dzTk0tcw?oc=5"
     },
     {
       "type": "launch",

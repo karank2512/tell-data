@@ -1,0 +1,25 @@
+{
+  "domain": "pagerduty.com",
+  "name": "PagerDuty",
+  "as_of": "2026-11-14",
+  "profile": "default",
+  "score": 1.5,
+  "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "PagerDuty (PD) Launches Paige As Fair Value Questions Follow - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTjJGcThidWtUVUdNaU05a1ZOeVVteFZlM2lyRkhqbk4tdzZrbnFNek5NNWFFQ0pNT3FVNDJ3TEl2WHFwbHYwcnJlMU1vQ0h2T2RKQ05hbjhTZUNYWWJTSDczRTBtYzZDbXJ6M0FLeHFBY250VEtSYVhfdGZSNmxJa2IzTFBVOEc0TnVnZ1lRdDlFYXpZdkJfbWRLeVJNaFQ0OV9UZmdaUmZLYlRGb3FUdmp3VEJMMGdUZTY5T1VENNIBxAFBVV95cUxNRmMzWEtTckZHenJCRzhRNGJnOWJ6RnlxSEVaS2NFWDJfU190WUFLQmpRc1RXMnRvT0JKTTZBeWd2TFAzdWZidmNVTGtyTUpNQjF4MUsxTF80ckktUm01UUJvaG41VVZmVnRPbF9iX2l0MV9qOW41RGZaRzhxWTV3cGg0MjByWWZscDVqVGFRSlE2VEkzNjRLZk1KQVpRTVk3S2xpX3lNcjd2MGdBak11aUl6M19pZENjQVpaNFVDNnktN0Nl?oc=5"
+    }
+  ],
+  "open_postings": 47,
+  "long_open_roles": 8,
+  "sources": {
+    "ats": "greenhouse:pagerduty",
+    "edgar_cik": null,
+    "news": true
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

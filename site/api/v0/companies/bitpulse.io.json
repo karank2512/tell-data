@@ -1,0 +1,25 @@
+{
+  "domain": "bitpulse.io",
+  "name": "Bitpulse",
+  "as_of": "2026-11-14",
+  "profile": "default",
+  "score": 23.3,
+  "contributions": [
+    {
+      "type": "funding",
+      "contribution": 23.3,
+      "occurred_at": "2026-11-13",
+      "summary": "Form D: $831,000 offering, $831,000 sold",
+      "url": "https://www.sec.gov/Archives/edgar/data/2160773/000216077326000001/"
+    }
+  ],
+  "open_postings": 0,
+  "long_open_roles": 0,
+  "sources": {
+    "ats": "no_board",
+    "edgar_cik": "0002160773",
+    "news": false
+  },
+  "generated_by": "https://github.com/karank2512/tell-ai/commit/90959626585053a91620ad8068f5071c9ef58d2b",
+  "why_not_higher": []
+}

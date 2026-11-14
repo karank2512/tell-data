@@ -1,16 +1,37 @@
 {
   "domain": "trmlabs.com",
   "name": "TRM Labs",
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "profile": "default",
-  "score": 31.6,
+  "score": 38.5,
   "contributions": [
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-14",
+      "summary": "TRM Labs Says $200M in Illicit Crypto Was Intercepted as New Global Seizure Service Launches - Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbm1ES0FJMTlsSGpKMDQ1WmtBV3lwODZJeUNtQVpJOXNqV215bVJOSHNNRFdJdUNOaFZlVlFTa2pQbmFqTi1OaDBIQlFpNXVjR3dqNTVoS3JCY2VJd19YNEhHcXdvTEJIQ2V4dlh4emNNamFzM0IxMEtMVThjdExuUHJCY1RkOHZXSUozRzNtd3NsdmE2Z2J0aDdWYWNJd29ybG54U2ZSNHgtZzlzbGJhZGhnVmFHaWpyZVV2bA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "TRM Labs Launches Beacon Concierge to Help Law Enforcement Seize Illicit Crypto Funds - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3dZc2U5dEFZbDFIZEwycEhBY0x1RkdmWGVtbk9neDhqWTJpckk4T2FOSDNiUEVDdTZDbDFYTy1IcmduMjZjdUY4QzNYTzBfc2JrMWhaY1BWczBvcGs4V1ZQYVRKbG5KUVpvb1owT3BoM2xCdW02UzVFdE5Jd21YQzBIcXF1OUNoZVhfeTgzbWVoV1VTTWRFVE5xZGRSU2JjbTZWSHpSZGxyQ2NZZFR0aFBZSQ?oc=5"
+    },
     {
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-11-13",
       "summary": "TRM Labs Launches Beacon Concierge to Help Police Seize Illicit Crypto - Crypto Economy",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBTWNhU2RQVEp1SEd5TmxvLUZUZDNiVjB5UXRGb3VMdmxIc2lzcTlaUVFlMk1FZllYSzlody1oYlYwSF9ITkNEbDg3RHlZZzg1eDBNYzdtVzVkMWtTYlVTZUxrZm1JbGVibzFTTzh0MA?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
+      "summary": "TRM Labs Launches Beacon Concierge for Crypto Seizures - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX21aeDFBdm5iSFJnX0ExUEh4V1RuX2MxVmpubzdWOEEwd0owdXhJdWhvdTVZSVctZ2NCUlZfSGlPYlU1UFVrSnlLWUxMTS1TSkw5RTV4SlNYdU42dGJtWmRnQjExVlpsRXdpVEM3Y001MVR0Uk5lTjA0QUNBVEw4OG1TXzk1M19sd213OFJOQ3VLXzQ2OWtDdVRnQQ?oc=5"
     },
     {
       "type": "launch",
@@ -51,6 +72,13 @@
       "type": "launch",
       "contribution": 1.5,
       "occurred_at": "2026-11-13",
+      "summary": "TRM Labs launches service to help police seize crypto - grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd0NGcWJQWHN3emRoZTcxNDkyelQ0YWFCeXd1QzZHUGYwcUxKb2dnZzhEck1nbVJ4a29fcHE3NEc4c3MwWW5pQWNzeHRrX2thbDVZQk5IYkswdnFaRVZKaUZxTThkMmxYOEpVZC1ucllPVlJ0WnhZaFRZSHN5VENqeUpTbFRnTUhE?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.5,
+      "occurred_at": "2026-11-13",
       "summary": "TRM Labs launches new service to help police seize stolen crypto in minutes - Cryptonews.net",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzcU1ZUzNJRU5ZelVxaW9sZ1gySDEwcHZrVS0zOF9lcVp2ZHF0eVA1aTFvS3kwYnBuQkxkTlNrV21Gb1lwSHNxOVJYRDhIRWtTSGg0dA?oc=5"
     },
@@ -77,38 +105,45 @@
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-13",
       "summary": "TRM Labs launches Beacon Concierge to help police freeze illicit crypto - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80ZENaSFNmWDlBNXlsQi1oRG43QlRSRU16TUJ5TGFSTjgzcWdvVUtiSlBLMEprdkpqLXZJRW04SHFzZ3ZNRkZBR1ZLTnRsX010a3lGMmg3SXBDQVZBTEg0U1VnVFluc0VhR2JrR3AwWFJ2bDU2eW9ZbQ?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "TRM Labs Launches Beacon Concierge to Help Law Enforcement Worldwide Interdict and Seize Illicit Crypto Funds On Any Chain In Any Asset - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOQWQ5ZnBqd1JvNWJrWGc2dzBYazBPcFlDWl9VOWZ3NEQ3b0g4REpxbW8ybHR6dGcxeExvSjE4ZFU3TWFGYzVKd2NJSmRZRnEwLVZvTnh2ODlHcUdrN0RpSG9LRDJPUXdJWnlSM2J1NXRxR2NYZ3o5VlFkQ0hlSkNMTmZ2dmktM2xkcFFKZWxDV1J4OGxOZGY2WnM5dkZVc1FnNnRralFra3RNYWU4d1ZPVzVvVWF0U1NtZnJoLS1mM1F3U0loUHJqc2tUdUt2cmphNk9ad1hSeC1RdmhkY0sza3lULVNER0xQUXlUN1M0d1hMWGlPbHZJeDZqWkUyd0d6ZHZDd09nT0NoM193cTVLTXBZUUVvbFROTDVmWG96ZWl0UkE1aHFZU0x3bGR5dG5NcktvazlYdUXSAbgCQVVfeXFMTkFkOWZwandSbzVia1hnNncwWGswT3BZQ1pfVTlmdzREN29IOERKcW1vMmx0enRnMXhMb0oxOGRVN01hRmM1SndjSUpkWUZxMC1Wb054djg5R3FHazdEaUhvS0QyT1F3SVp5UjNidTV0cUdjWGd6OVZRZENIZUpDTE5mdnZpLTNsZHBRSmVsQ1dSeDhsTmRmNlpzOXZGVXNRZzZ0a2pRa2t0TWFlOHdWT1c1b1VhdFNTbWZyaC0tZjNRd1NJaFByanNrVHVLdnJqYTZPWndYUngtUXZoZGNLM2t5VC1TREdMUFF5VDdTNHdYTFhpT2x2SXg2alpFMndHemR2Q3dPZ09DaDNfd3E1S01wWVFFb2xUTkw1ZlhvemVpdFJBNWhxWVNMd2xkeXRuTXJLb2s5WHVF?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "TRM Labs Launches Beacon Concierge to Help Law Enforcement Worldwide Interdict and Seize Illicit Crypto Funds On Any Chain In Any Asset | TRM Labs",
       "url": "https://www.trmlabs.com/resources/blog/trm-labs-launches-beacon-concierge-to-help-law-enforcement-worldwide-interdict-and-seize-illicit-crypto-funds-on-any-chain-in-any-asset"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "TRM Labs launches Disruption Awards honoring co... - Pluang",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTW1FSjFNc2VhOEZsZXUxQ244SVNpS1hkWURXUnNmN1A4MVFxRC1NdzNLZUV2RS1GQ1dsMGdPc2RXM2NaSGwyNlQyRVg5Y3UyMmtzUGlQUHR4Y1V3T3kxTGJrelJ2U2haaUUyNzhreFVGNEpUcXk5Si1nT3lZZ3dHeHlyMEZfOXNUUHM5SGRHcTY4ZWRSTDFfQW40M21LX1ZsYVIybDJaaWM5RUdNWllr?oc=5"
     },
     {
       "type": "launch",
-      "contribution": 1.5,
+      "contribution": 1.4,
       "occurred_at": "2026-11-12",
       "summary": "TRM Labs Launches Disruption Awards, Celebrating the People and Partnerships Disrupting Crime Together - GlobeNewswire",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSGdrcGEtRERaMjNUdnpZOGVabTVsY2pZSVhBdUloS05qbGFVRTNVYlYtOTRaejlfekFBanNoNjVQSkhzMnlWNzh5VTNCcVFtaXVHWXM3UEhvYlR0U1NNS1NzMkZYYlQ5MmhvMjh3ZTBqNWQxNWkxdl9EX1VKMldYcmp3dkxTMzRZOFFMZGtmYi1OWnlXYnUyRzFXZ1RfMFV5SmxzUXBhQ2lnY01wTEhsYnlUTUJIQ1ppZWhCYXdiMmUzSGExNlMybUJsbUxITXpGbi1kOGR3RGpaSXRlTWZsV0ZwYTVfX1RRdTRmU3U3T0R4ZlpSUkVBMWhReWRWZTlxMVhN?oc=5"
+    },
+    {
+      "type": "launch",
+      "contribution": 1.4,
+      "occurred_at": "2026-11-12",
+      "summary": "TRM Labs Launches Disruption Awards, Celebrating the People and Partnerships Disrupting Crime Together - TRM Labs",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNGo0R2NYSzlLckJNT1J5MDdyQ3VmYnVJYjY0V2x0NjN0bUktLWVIRTlfOC1IREdTZjlTWHFqMWljREFnbmRkYTZNVnVfaXpRbk14Tm5Wcm5UOHAtY0tGMXVLQ1JPWVQ0alBJby0zek52WnozejRicXBmMTU2VW1MX2pmMW4wTmVRLVk2cnJNbjUyelJiWl95OG51VGxtek9qc0VZZkQ1NlN0SEJraU8ySFQtNUk5VXpiVEtWdzZjRXJPaE9yektQNWZ2RTdCRkFITVQ1RHgtMA?oc=5"
     },
     {
       "type": "launch",
@@ -236,7 +271,7 @@
       "url": "https://www.trmlabs.com/resources/blog/edward-currie-joins-trm-labs-account-director-dhs"
     }
   ],
-  "open_postings": 117,
+  "open_postings": 119,
   "long_open_roles": 38,
   "sources": {
     "ats": "ashby:trm-labs",
